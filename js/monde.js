@@ -44,6 +44,7 @@ async function getList(type) {
 const PORTES = [
   { cle: 'continents', glyphe: '🜨', titre: 'Les Continents', ligne: 'Treize terres émergées, chacune façonnée par une voix.', types: ['lieu'], filtre: (e) => e.data && e.data.echelle === 'continent' },
   { cle: 'nations', glyphe: '♛', titre: 'Nations & pouvoirs', ligne: 'Royaumes, théocraties, empires morts et cités libres.', types: ['entite-politique'] },
+  { cle: 'carte', glyphe: '🧭', titre: 'La Carte', ligne: 'La toile du monde — chaque point est une porte.', route: '#/carte', compte: async () => (await getList('lieu')).filter((e) => e.data && e.data.coord_x != null).length },
   { cle: 'atlas', glyphe: '✦', titre: "L'Atlas", ligne: 'Cités, bourgs, ruines — chaque point de la carte a un nom.', types: ['lieu'], filtre: (e) => !e.data || e.data.echelle !== 'continent' },
   { cle: 'personnages', glyphe: '⚔', titre: 'Personnages', ligne: 'Rois, oracles, exilés — les vies qui ont marqué la trame.', types: ['personne'] },
   { cle: 'lignees', glyphe: '🜃', titre: 'Lignées & maisons', ligne: 'Le sang qui passe, les noms qui restent.', types: ['lignee'] },
@@ -115,6 +116,7 @@ async function route() {
     if (!parts[0]) await vueSeuil();
     else if (parts[0] === 'portes' && PORTE_PAR_CLE[parts[1]]) await vuePorte(PORTE_PAR_CLE[parts[1]]);
     else if (parts[0] === 'fiche' && parts[1]) await vueFiche(parts[1]);
+    else if (parts[0] === 'carte') await vueCarte(parts[1] || null);
     else if (parts[0] === 'eres') await vueEres();
     else if (parts[0] === 'recherche' && parts[1]) await vueRecherche(parts.slice(1).join('/'));
     else await vueSeuil();
@@ -201,6 +203,7 @@ async function vueSeuil() {
   app.innerHTML = ''; app.append(vue);
 }
 async function compterPorte(p, stats) {
+  if (p.compte) return p.compte();
   if (p.route) return stats.entitiesByType.ere || null;
   if (!p.filtre) return p.types.reduce((n, t) => n + (stats.entitiesByType[t] || 0), 0);
   const list = await getList(p.types[0]);
@@ -321,7 +324,23 @@ async function vueFiche(id) {
   const gauche = h('div');
   const droite = h('div');
 
+  // Lieu positionné → porte vers la carte
+  if (e.type === 'lieu' && e.data && e.data.coord_x != null) {
+    vue.append(h('p', { style: 'margin:14px 0 0' },
+      h('button', { class: 'btn', onclick: () => aller('#/carte/' + e.id) }, '🧭 Voir sur la carte')));
+  }
+
   if (e.body) gauche.append(h('div', { class: 'panneau corps', html: rendreCorps(e.body) }));
+
+  // Personne → arbre généalogique dessiné (si la famille est connue)
+  if (e.type === 'personne') {
+    try {
+      const { arbre } = await kget({ action: 'arbre', id });
+      const svg = arbre && dessinerArbre(arbre);
+      if (svg) gauche.append(h('div', { class: 'panneau' },
+        h('div', { class: 'etiquette groupe-rel', text: 'Le sang — arbre des générations' }), svg));
+    } catch { /* pas d'arbre : silencieux */ }
+  }
 
   // Lectures (mystères)
   if ((dossier.readings || []).length) {
@@ -474,6 +493,231 @@ async function vueEres() {
   }
   vue.append(flux);
   app.innerHTML = ''; app.append(vue);
+}
+
+/* ── Vue : la Carte du monde (canvas pan/zoom) ─────────────────────────── */
+async function vueCarte(focusId) {
+  const lieux = (await getList('lieu')).filter((e) => e.data && e.data.coord_x != null);
+  app.innerHTML = '';
+  const vue = h('div', { class: 'vue' });
+  vue.append(fil(['La Carte']));
+  vue.append(h('div', { class: 'fiche-tete' },
+    h('h1', { text: '🧭  La Carte du monde' }),
+    h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: lieux.length.toLocaleString('fr-FR') + ' lieux posés sur la toile — traînez, zoomez, cliquez.' })));
+
+  // Filtres d'échelle + recherche locale
+  const actifs = new Set(['region', 'cite', 'ville', 'bourg']);
+  const ligne = h('div', { class: 'filtre-ligne' });
+  const champ = h('input', { type: 'search', placeholder: 'Trouver un lieu sur la carte…' });
+  ligne.append(champ);
+  const chipEls = {};
+  for (const [val, lbl] of [['region', 'régions'], ['cite', 'cités'], ['ville', 'villes'], ['bourg', 'bourgs']]) {
+    chipEls[val] = h('span', { class: 'chip', style: 'border-color:var(--gold-deep)', text: lbl, onclick: () => { actifs.has(val) ? actifs.delete(val) : actifs.add(val); chipEls[val].style.borderColor = actifs.has(val) ? 'var(--gold-deep)' : ''; peindre(); } });
+    ligne.append(chipEls[val]);
+  }
+  vue.append(ligne);
+
+  const bloc = h('div', { class: 'panneau', style: 'padding:10px' });
+  const cv = h('canvas', { style: 'width:100%;height:min(66vh,640px);display:block;border-radius:8px;cursor:grab' });
+  bloc.append(cv);
+  bloc.append(h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px', text: 'molette : zoom · glisser : déplacer · clic : ouvrir la porte' }));
+  vue.append(bloc);
+  app.innerHTML = ''; app.append(vue);
+
+  // ── moteur de rendu ──
+  const dpr = devicePixelRatio || 1;
+  let W = 0, H = 0;
+  function tailler() { W = cv.clientWidth * dpr; H = cv.clientHeight * dpr; cv.width = W; cv.height = H; }
+  tailler(); addEventListener('resize', () => { tailler(); peindre(); });
+  const ctx = cv.getContext('2d');
+
+  // étendue monde → vue initiale ajustée
+  const xs = lieux.map((l) => +l.data.coord_x), ys = lieux.map((l) => +l.data.coord_y);
+  const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
+  let k = Math.min(W / (x1 - x0 + 80), H / (y1 - y0 + 80));
+  let ox = W / 2 - k * (x0 + x1) / 2, oy = H / 2 - k * (y0 + y1) / 2;
+  const kMin = k * .6, kMax = k * 30;
+  if (focusId) {
+    const f = lieux.find((l) => l.id === focusId);
+    if (f) { k = Math.min(kMax, k * 6); ox = W / 2 - k * (+f.data.coord_x); oy = H / 2 - k * (+f.data.coord_y); }
+  }
+  const ecran = (l) => [ox + k * (+l.data.coord_x), oy + k * (+l.data.coord_y)];
+
+  const STYLE = {
+    region: { r: 8, c: 'rgba(201,162,75,.30)', halo: 26, seuilNom: 0 },
+    cite: { r: 4.6, c: 'rgba(240,216,148,.95)', halo: 14, seuilNom: 1.6 },
+    ville: { r: 3, c: 'rgba(224,194,116,.75)', halo: 0, seuilNom: 3.2 },
+    bourg: { r: 2.2, c: 'rgba(179,166,143,.65)', halo: 0, seuilNom: 5 },
+  };
+  let survole = null, cible = focusId || null;
+  const kBase = Math.min(W / (x1 - x0 + 80), H / (y1 - y0 + 80));
+
+  function peindre() {
+    ctx.clearRect(0, 0, W, H);
+    // vignette de fond
+    const g = ctx.createRadialGradient(W / 2, H / 2, 0, W / 2, H / 2, Math.max(W, H) / 1.4);
+    g.addColorStop(0, 'rgba(30,25,18,.55)'); g.addColorStop(1, 'rgba(13,11,9,0)');
+    ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+    const q = champ.value.trim().toLowerCase();
+    const zoom = k / kBase;
+    for (const l of lieux) {
+      const ech = l.data.echelle || 'ville';
+      if (!actifs.has(ech)) continue;
+      const st = STYLE[ech] || STYLE.ville;
+      const [sx, sy] = ecran(l);
+      if (sx < -40 || sx > W + 40 || sy < -40 || sy > H + 40) continue;
+      const allume = (q && l.name.toLowerCase().includes(q)) || l === survole || l.id === cible;
+      if (st.halo || allume) {
+        const hg = ctx.createRadialGradient(sx, sy, 0, sx, sy, (st.halo || 18) * dpr);
+        hg.addColorStop(0, allume ? 'rgba(240,216,148,.5)' : 'rgba(201,162,75,.14)'); hg.addColorStop(1, 'rgba(201,162,75,0)');
+        ctx.beginPath(); ctx.arc(sx, sy, (st.halo || 18) * dpr, 0, 7); ctx.fillStyle = hg; ctx.fill();
+      }
+      ctx.beginPath(); ctx.arc(sx, sy, st.r * dpr * (allume ? 1.5 : 1), 0, 7);
+      ctx.fillStyle = allume ? '#f0d894' : st.c; ctx.fill();
+      if (l.data.capitale) { ctx.beginPath(); ctx.arc(sx, sy, (st.r + 3) * dpr, 0, 7); ctx.strokeStyle = 'rgba(240,216,148,.5)'; ctx.lineWidth = dpr; ctx.stroke(); }
+      // noms selon le zoom (régions toujours, puis cités, villes, bourgs)
+      if (zoom >= st.seuilNom || allume) {
+        ctx.font = `${(ech === 'region' ? 13.5 : 11.5) * dpr}px Raleway, sans-serif`;
+        ctx.textAlign = 'center';
+        ctx.fillStyle = ech === 'region' ? 'rgba(201,162,75,.75)' : (allume ? 'rgba(240,216,148,.95)' : 'rgba(179,166,143,.8)');
+        if (ech === 'region') { ctx.save(); ctx.letterSpacing = `${2 * dpr}px`; ctx.fillText(l.name.toUpperCase(), sx, sy - 12 * dpr); ctx.restore(); }
+        else ctx.fillText(l.name, sx, sy - (st.r + 6) * dpr);
+      }
+    }
+    if (survole) {
+      const [sx, sy] = ecran(survole);
+      ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
+      ctx.fillStyle = 'rgba(131,119,95,.9)';
+      ctx.fillText((survole.data.echelle || '') + (survole.data.capitale ? ' · capitale' : ''), sx, sy + 20 * dpr);
+    }
+  }
+
+  // interactions : glisser / molette / survol / clic
+  let drag = null;
+  cv.addEventListener('mousedown', (ev) => { drag = { x: ev.clientX, y: ev.clientY, ox, oy, bouge: false }; cv.style.cursor = 'grabbing'; });
+  addEventListener('mousemove', (ev) => {
+    if (drag) {
+      ox = drag.ox + (ev.clientX - drag.x) * dpr; oy = drag.oy + (ev.clientY - drag.y) * dpr;
+      if (Math.abs(ev.clientX - drag.x) + Math.abs(ev.clientY - drag.y) > 4) drag.bouge = true;
+      peindre(); return;
+    }
+    const box = cv.getBoundingClientRect();
+    if (ev.clientX < box.left || ev.clientX > box.right || ev.clientY < box.top || ev.clientY > box.bottom) return;
+    const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
+    let best = null, d2min = (16 * dpr) ** 2;
+    for (const l of lieux) {
+      if (!actifs.has(l.data.echelle || 'ville')) continue;
+      const [sx, sy] = ecran(l); const d2 = (sx - mx) ** 2 + (sy - my) ** 2;
+      if (d2 < d2min) { d2min = d2; best = l; }
+    }
+    if (best !== survole) { survole = best; cv.style.cursor = best ? 'pointer' : 'grab'; peindre(); }
+  });
+  addEventListener('mouseup', () => { if (drag) { const b = drag.bouge; drag = null; cv.style.cursor = 'grab'; if (!b && survole) aller('#/fiche/' + survole.id); } });
+  cv.addEventListener('wheel', (ev) => {
+    ev.preventDefault();
+    const box = cv.getBoundingClientRect();
+    const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
+    const k2 = Math.max(kMin, Math.min(kMax, k * (ev.deltaY < 0 ? 1.18 : 1 / 1.18)));
+    ox = mx - (mx - ox) * (k2 / k); oy = my - (my - oy) * (k2 / k); k = k2;
+    peindre();
+  }, { passive: false });
+  champ.addEventListener('input', debounce(() => {
+    const q = champ.value.trim().toLowerCase();
+    if (q.length >= 2) {
+      const hit = lieux.find((l) => l.name.toLowerCase().startsWith(q)) || lieux.find((l) => l.name.toLowerCase().includes(q));
+      if (hit) { cible = hit.id; k = Math.max(k, kBase * 5); ox = W / 2 - k * (+hit.data.coord_x); oy = H / 2 - k * (+hit.data.coord_y); }
+    } else cible = null;
+    peindre();
+  }, 200));
+  peindre();
+}
+
+/* ── Arbre généalogique (SVG) ──────────────────────────────────────────── */
+function dessinerArbre(arbre) {
+  const rangs = [
+    ['aïeux', arbre.grandparents], ['parents', arbre.parents],
+    ['', [...arbre.siblings.map((n) => ({ ...n, role: 'fratrie' })), { ...arbre.center, central: true }, ...arbre.conjoints.map((n) => ({ ...n, role: 'conjoint' }))]],
+    ['enfants', arbre.children], ['petits-enfants', arbre.grandchildren],
+  ].filter(([, nds]) => nds.length);
+  if (rangs.length <= 1 && rangs[0] && rangs[0][1].length <= 1) return null;
+
+  const NS = 'http://www.w3.org/2000/svg';
+  const LW = 168, LH = 54, GX = 14, GY = 46;
+  const maxParRang = 5;
+  const larg = Math.max(...rangs.map(([, nds]) => Math.min(nds.length, maxParRang))) * (LW + GX) + GX;
+  const haut = rangs.length * (LH + GY) + 10;
+  const svg = document.createElementNS(NS, 'svg');
+  svg.setAttribute('viewBox', `0 0 ${larg} ${haut}`);
+  svg.setAttribute('style', 'width:100%;height:auto;display:block');
+
+  const centres = [];
+  rangs.forEach(([etiquette, nds], ri) => {
+    const visibles = nds.slice(0, maxParRang);
+    const total = visibles.length * (LW + GX) - GX;
+    const x0 = (larg - total) / 2;
+    const y = 8 + ri * (LH + GY);
+    centres[ri] = { y, xs: [] };
+    visibles.forEach((nd, i) => {
+      const x = x0 + i * (LW + GX);
+      centres[ri].xs.push(x + LW / 2);
+      const gEl = document.createElementNS(NS, 'g');
+      gEl.setAttribute('style', 'cursor:pointer');
+      gEl.addEventListener('click', () => aller('#/fiche/' + nd.id));
+      const rect = document.createElementNS(NS, 'rect');
+      rect.setAttribute('x', x); rect.setAttribute('y', y);
+      rect.setAttribute('width', LW); rect.setAttribute('height', LH);
+      rect.setAttribute('rx', 9);
+      rect.setAttribute('fill', nd.central ? 'rgba(201,162,75,.16)' : 'rgba(27,24,20,.9)');
+      rect.setAttribute('stroke', nd.central ? '#c9a24b' : '#33291c');
+      gEl.append(rect);
+      const t1 = document.createElementNS(NS, 'text');
+      t1.setAttribute('x', x + LW / 2); t1.setAttribute('y', y + (nd.lifeLabel || nd.role ? 24 : 32));
+      t1.setAttribute('text-anchor', 'middle');
+      t1.setAttribute('style', `fill:${nd.central ? '#f0d894' : '#ece4d4'};font-size:12.5px;font-weight:600`);
+      t1.textContent = nd.name.length > 24 ? nd.name.slice(0, 23) + '…' : nd.name;
+      gEl.append(t1);
+      const sous = nd.lifeLabel || (nd.role ? '(' + nd.role + ')' : '');
+      if (sous) {
+        const t2 = document.createElementNS(NS, 'text');
+        t2.setAttribute('x', x + LW / 2); t2.setAttribute('y', y + 41);
+        t2.setAttribute('text-anchor', 'middle');
+        t2.setAttribute('style', 'fill:#83775f;font-size:10.5px');
+        t2.textContent = sous;
+        gEl.append(t2);
+      }
+      svg.append(gEl);
+    });
+    if (nds.length > maxParRang) {
+      const t = document.createElementNS(NS, 'text');
+      t.setAttribute('x', larg - 8); t.setAttribute('y', y + LH / 2);
+      t.setAttribute('text-anchor', 'end');
+      t.setAttribute('style', 'fill:#83775f;font-size:11px');
+      t.textContent = '+' + (nds.length - maxParRang);
+      svg.append(t);
+    }
+    if (etiquette) {
+      const t = document.createElementNS(NS, 'text');
+      t.setAttribute('x', 4); t.setAttribute('y', y - 8);
+      t.setAttribute('style', 'fill:#83775f;font-size:10px;letter-spacing:2px;text-transform:uppercase');
+      t.textContent = etiquette.toUpperCase();
+      svg.append(t);
+    }
+  });
+  // liaisons verticales entre rangs (chaque nœud → tronc du rang suivant)
+  for (let ri = 0; ri < rangs.length - 1; ri++) {
+    const a = centres[ri], b = centres[ri + 1];
+    const yMid = a.y + LH + GY / 2;
+    for (const x of a.xs) trait(svg, NS, x, a.y + LH, x, yMid);
+    for (const x of b.xs) trait(svg, NS, x, yMid, x, b.y);
+    trait(svg, NS, Math.min(...a.xs, ...b.xs), yMid, Math.max(...a.xs, ...b.xs), yMid);
+  }
+  return svg;
+}
+function trait(svg, NS, x1, y1, x2, y2) {
+  const l = document.createElementNS(NS, 'line');
+  l.setAttribute('x1', x1); l.setAttribute('y1', y1); l.setAttribute('x2', x2); l.setAttribute('y2', y2);
+  l.setAttribute('stroke', 'rgba(201,162,75,.28)');
+  svg.append(l);
 }
 
 /* ── Démarrage ─────────────────────────────────────────────────────────── */

@@ -292,7 +292,9 @@
    "summary": "Archipel-forteresse surnommé « l'Île aux Merveilles », ceint de falaises et de brumes et couvert d'une forêt primordiale, dont la prospérité de surface repose sur l'exploitation des souterrains de Lithéa. Trois peuples de lignée Selvarine (Evertiens, Sylvarains, Thalmariens) unis par la « foi en l'écoute initiale » ; capitale impériale Caëspia.",
    "body": null,
    "data": {
-    "echelle": "continent"
+    "echelle": "continent",
+    "coord_x": -422.379990767003,
+    "coord_y": 152.65626664893
    },
    "status": "canon",
    "disclosure": "interne",
@@ -337,7 +339,9 @@
    "summary": "Petite île brumeuse au large de la côte est de Celethor, surnommée « l'Île aux Masques » (ville de Nysoris). Le corpus (Continents/Index.md) précise explicitement qu'elle N'EST PAS un continent : c'est une île rattachée à Celethor.",
    "body": "<!-- source: Docs/Lore/Pays/Celethor/Nysaria.md -->\n\n# Nysaria — L'Île aux Masques\n\n## Informations générales\n\n| | |\n|---|---|\n| **Localisation** | Petite île au large de la côte est du continent [[Celethor - Continent|Celethor]] |\n| **Type** | Île notable (l'Île aux Masques) — pas un continent |\n| **Gouvernement** | Monarchie sans voix — Roi Sans Voix et Cercle des Masques |\n| **Religion principale** | [[Noctari]] (variante locale, peut-être divergente) |\n| **Religion secondaire** | [[Taciti]] (présence diffuse, non documentée localement) |\n| **Culture dominante** | Société fermée, masquée, organisée autour d'une fonction de garde |\n| **Histoire marquante** | L'Invasion Avortée |\n| **Ressources clés** | Inconnues (aucun commerce extérieur documenté) |\n\n---\n\n## Gouvernement — La Monarchie Sans Voix\n\nSources extérieures fragmentaires : messages en langue ancienne trouvés dans des bouteilles échouées sur les côtes continentales (partiellement déchiffrés par les érudits de Thalmaris) et marges de rares journaux de cartographes ayant atteint l'île.\n\n### Le Roi Sans Voix\n\n- Souverain ; communique par gestes rituels plutôt que par paroles.\n- « Roi Sans Voix » n'est pas un titre nysarien attesté : c'est une traduction thalmarienne par défaut.\n- Ne porte pas de masque (singularité dans une cour qui n'en porte que).\n- Règne mesuré non en années solaires mais selon une métrique propre à l'île, dont l'unité n'a pas été déchiffrée par les visiteurs.\n- Marge de cartographe (an 252) : le Roi posséderait « la peau de la pierre noire de Nysoris » — formulation lisible au sens littéral (trait corporel anormal) ou métaphorique (densité de présence singulière) ; non tranché.\n\n### Le Cercle des Masques\n\n- Conseil dont les membres portent des **masques permanents**, chacun figurant « un aspect de la nuit » (selon les chroniques).\n- Nombre de membres : **sept** (lecture la plus ancienne) ou **treize** (lecture plus récente) ; discordance non résolue.\n- **Masques permanents** : une fois pris, non retirés en public ; selon une marge thalmarienne (auteur incertain), non retirés non plus en privé.\n- **Couleurs hiérarchiques (sens non transitif, pas une échelle ordinaire)** : blanc lisse (le plus fréquent) ; gris (position dite « précise ») ; violet profond (extrêmement rare, un seul observé par visiteur, pas le même selon les visites).\n- **Le Cercle ne parle pas** : communication interne par signes, grammaire ne ressemblant à aucune langue gestuelle continentale connue ; les visiteurs présents à une séance rapportent une compréhension partielle, semblant fonctionner par accumulation de contexte plus que par codification stricte.\n\n### Les autres rangs\n\n- **Porte-Masques** : ont pris le masque sans entrer au Cercle ; population évaluée à plusieurs centaines.\n- **Voilés Domestiques** : servants des chambres masquées ; portent des voiles, non des masques.\n- **Sans-Visage** : catégorie ambiguë, située entre fonction sociale et statut rituel (non clarifié).\n- **Personnes Restant** (terme thalmarien provisoire ; lecture marginale très contestée) : ceux n'ayant pris ni masque ni voile, continuant leur vie civile à Nysoris ; existence non confirmée.\n\n### Fonction de l'institution (lecture dominante non absolue)\n\n- Fonction reconnue : **garder fermé le septième portail de Navigor**, point de perméabilité entre les plans séparés par l'Arrachement.\n- Les Nysariens ne l'auraient pas créé — l'auraient trouvé, ou auraient été trouvés par lui.\n- Lecture canonique attestée dans les **Chroniques de Sorin (ch. 34)**, corroborée par les fragments d'Aldren et les marges de plusieurs cartographes.\n- Lecture contestée : un érudit thalmarien y a vu plutôt une **bibliothèque** (lecture isolée). Tenue ici comme lecture dominante non absolue.\n\n---\n\n## Géographie\n\n- L'île entière forme une seule région politiquement homogène.\n- Forme oblongue sur les fonds anciens ; les navigateurs rapportent qu'elle paraît changer de silhouette selon l'angle d'approche.\n\nQuatre traits géographiques attestés :\n\n- **Falaises noires sur tout le pourtour**, sauf quelques **plages de galets noirs** non indiquées sur les cartes officielles ; ces plages ne se laissent pas fixer (instabilité cartographique, peut-être pas physique).\n- **Forêt dense de teintes sombres**, commençant au bord de l'eau ; feuilles d'un vert tendant vers le noir (pigmentation exacte non analysée) ; fleurs phosphorescentes nocturnes d'un violet pâle.\n- **Chemins pavés** intérieurs : pierre noire polie, légèrement incurvés à intervalles réguliers, lumières violettes fixées dans la roche (sans combustion visible) ; réseau étendu et entretenu.\n- **Sous-sol probablement étendu** : selon Sorin Valthen, l'essentiel de la construction serait enterré, avec des escaliers larges et droits descendant depuis chaque place centrale vers une profondeur dont le fond n'a pas été atteint (« Nysoris n'est pas grande en surface — elle est grande en dessous »).\n\nAucun fleuve, aucun lac visible, aucun axe agricole identifié ; la subsistance de Nysoris (et d'éventuels établissements secondaires) reste sans explication documentée.\n\n---\n\n## Villes et villages\n\n### Nysoris — La Cité Gardée\n\n- Seule agglomération identifiée. Capitale de fait.\n- Bâtie en pierre noire polie ; tours effilées dépassant la canopée ; fenêtres laissant passer une lumière violette de source non identifiée.\n- Densité urbaine élevée en surface ; profondeur de construction probable bien plus importante.\n- Au centre : **place circulaire** d'où descend l'**escalier central** vers les profondeurs. Vibration plus forte qu'ailleurs (an 252), comparée à la fréquence régulière du **Mont Cendra**. Aucun visiteur n'a descendu cet escalier ; tous rapportent que l'évidence de ne pas descendre s'impose sans interdiction explicite.\n- Au pied de l'escalier (invisible aux visiteurs, reconstruit par déduction) : **le Portail** — non une porte architecturale mais un point de perméabilité.\n\n### Les autres établissements\n\n- Aucun documenté avec certitude.\n- Observations à distance par cristaux d'Astravia : au moins **trois sites lumineux secondaires** sur l'île, à 5–20 lieues de Nysoris.\n- Nature indéterminée : hameaux, sanctuaires, fortifications, ou éléments d'une seule cité étendue. Les Nysariens (communication minimale avec Sorin Valthen) n'ont ni confirmé ni démenti la pluralité des établissements.\n\n---\n\n## Religion et culture\n\n### Variante locale du Noctari (probable, contestée)\n\n- Fragments nysariens (partiellement déchiffrés à Thalmaris) décrivant un culte identifié comme **variante locale du [[Noctari]]**.\n- Doctrine reconstituée : nuit tenue pour sacrée — non par contraste avec la lumière, mais comme registre propre où certaines vérités se laissent percevoir ; monde diurne lu comme un voile à l'usage des vivants.\n- Divergences avec le Noctari de Vytharia : port permanent du masque, absence de Veilari nommés, fonction du Roi Sans Voix, garde collective d'un objet précis (le Portail) — aucune pratique noctarienne attestée ailleurs.\n- Débat ouvert : variante locale, ou religion distincte ayant emprunté un vocabulaire commun ?\n- Lecture minoritaire (inverse la généalogie admise) : pratique ancienne dont le Noctari continental serait issu.\n\n### Les masques — fonction et culture\n\n- Le masque n'est ni parure ni déguisement : c'est un **organe institutionnel** (équivalent fonctionnel d'une assemblée/tribunal/sénat continental) ; unité administrative et rituelle de base.\n\nTrois traits documentés :\n\n- **Le masque dévore le visage personnel** : un Porte-Masque ne porte plus son nom personnel après la prise du masque ; la généalogie n'est pas effacée (les lignées sont connues), mais les désignations ordinaires (« le fils de tel ») sont remplacées par des désignations de fonction.\n- **Le masque ne se choisit pas** : attribué par un mécanisme non reconstitué de l'extérieur. Les jeunes grandissent sans masque ; attribution à un moment indéterminé (jamais avant l'adolescence, jamais après l'âge adulte mature). Fréquence incertaine : selon les visiteurs, majorité ou minorité des adultes masqués.\n- **Le masque, une fois pris, ne se retire pas** : règle tenue pour absolue par toutes les sources ; aucune désertion de masque ni retour à la vie civile connu.\n\n### La langue gestuelle\n\n- Communication officielle de Nysoris par **signes**.\n- Ne ressemble à aucune langue gestuelle continentale connue (ni baelorien, ni signes des moines de Wyndor, ni langage par drapeaux des navigateurs haldriens).\n- Grammaire semblant fonctionner par accumulation de contexte plus que par codification stricte : apprentissage long pour les visiteurs, impossible à formaliser pour les linguistes.\n\n### La voix sous le sol\n\n- Plusieurs visiteurs rapportent une vibration/respiration perceptible à Nysoris, plus forte près de l'escalier central, pulsant à fréquence régulière.\n- Pulsation comparée à celle du **Mont Cendra** (continent de Cendara). Correspondance non exploitée au-delà du constat brut ; tenue pour l'une des données structurellement importantes du dossier.\n\n---\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **Tyndara** | Terreur résiduelle | Après l'Invasion Avortée, Tyndara a interdit à ses navires d'approcher Nysaria à moins de vingt lieues. Les marins tyndariens considèrent l'île comme maudite. |\n| **Mosrack** | Frustration | Le Directoire n'a pas oublié la perte de vingt navires. Des plans d'une seconde invasion existent dans les archives secrètes, mais personne n'ose les proposer. |\n| **[[Vytharia]]** (Ilthara) | Filiation cultuelle indirecte | Le [[Noctari]] vytharien serait, selon une lecture, une diffusion lointaine du culte nysarien plus ancien. Aucun sanctuaire partagé ; seuls des écrits circulent, avec parcimonie. Les provinces vythariennes de [[Lunasar]] et [[Mirathi]] tiennent la consigne tacite de ne pas s'approcher de l'île ; les objets nysariens trouvés en filets sont remis aux autorités sans publication. |\n| **Baelor** | Curiosité partagée | Les moines de Baelor et les Nysariens partagent la tradition Taciti via des canaux non documentés. Rumeurs persistantes d'un masque de pierre sombre conservé dans un monastère baelorien, de facture rappelant ceux du Cercle. |\n| **Thalmaris** | Fascination académique | Les bardes de Thalmaris ont composé des centaines de chansons sur Nysaria ; l'île est leur plus grande source d'inspiration et de frustration. |\n\n---\n\n## Secrets et intrigues\n\n- **Les Bouteilles Codées** : selon un érudit de Thalmaris, les messages des bouteilles ne paraissent pas distribués au hasard ; sa lecture (débattue) propose un **code** réparti sur plusieurs centaines de bouteilles collectées sur des décennies. La portion reconstituée s'interprète comme un avertissement : ce que les officiants veillent relèverait d'une garde, non d'une possession. Attribution jugée prématurée par d'autres érudits. Les bouteilles ont cessé d'arriver vers les côtes tyndariennes il y a plusieurs décennies, sans cause confirmée.\n- **Le Lien avec Baelor** : les archives des plus anciens monastères de Baelor mentionnent un masque de pierre sombre, de facture rappelant ceux que les fragments attribuent au Cercle des Masques. Datation (selon les abbés) antérieure à la fondation des deux institutions ; origine sans résolution dans les archives consultables.\n- **L'Île Mouvante** : plusieurs navigateurs expérimentés rapportent que les relèvements de Nysaria ne se recoupent pas exactement d'une décennie à l'autre ; estimation d'une dérive de quelques mètres par an. Interprétations divergentes selon les nations : mouvement réel, ou dérive de procédure cartographique.\n- **La séquence** : selon le journal de Sorin Valthen, le portail nysarien serait **le dernier** d'une séquence de sept points de perméabilité, dont six auraient été perdus ou scellés pendant l'Arrachement (écho à des textes mystiques de Celethor). Aucune liste documentée des sept points n'a été établie : la séquence est connue par sa fonction, pas par sa géographie.\n- **Les amulettes circulantes** : amulette de pierre noire (petite, tenue en main, gravée de symboles rattachés par certains à la troisième langue) apparaissant parfois sur les marchés de Nectoria et de Sondaris, sans provenance avouée. Remarquées au cou de plusieurs voyageurs revenant de Nysaria ; semblent pulser à la même fréquence que le Mont Cendra.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Celethor/Nysaria.md -->\n\n# Histoires de Nysaria\n\n## Nysoris — « La Bouteille du Capitaine Aldren »\n\nPersonne ne croit les morts. C'est la première erreur.\n\nL'Invasion Avortée est le seul événement historique massif documenté concernant Nysaria. Selon les chroniques tyndariennes et mosrackiennes croisées, une flotte conjointe de quarante navires de guerre tenta, il y a trois siècles, d'aborder l'île, motivée par des rumeurs de trésors. La flotte atteignit les côtes par une nuit sans lune. En une nuit, quarante navires et huit mille hommes furent perdus. Le seul survivant rapporté fut le capitaine Aldren, retrouvé dérivant sur une planche à trois jours de navigation. Selon son récit, la mer parut bouillir, une brume sombre engloutit la flotte, des formes rampèrent sur les coques, les canons tiraient sans atteindre et les lames tranchaient la brume sans la rencontrer. Depuis, aucune nation continentale n'a tenté de nouvelle expédition d'invasion.\n\nLe capitaine Aldren mourut trois jours après son sauvetage, le visage tordu dans une grimace que le croque-mort n'arriva jamais à effacer. On l'enterra à Tyndara dans une fosse commune réservée aux fous, car c'est ce qu'il était devenu aux yeux de tous — un fou qui racontait que la mer avait bouilli et que des ombres avaient dévoré huit mille hommes.\n\nMais Aldren avait eu trois jours. Et pendant ces trois jours, entre les crises de terreur qui le faisaient hurler au point de s'arracher la voix, il avait écrit.\n\nPas un récit. Pas un rapport. Une lettre.\n\n*À celle que j'ai cru voir sur le rivage,*\n\n*Il m'a semblé que tu m'avais laissé partir. Les autres, je n'ai plus su où ils étaient. Pourquoi moi ? Qu'ai-je de différent ? Qu'ai-je de moins ?*\n\n*Je me souviens de la brume, des cris silencieux, du froid. Mais surtout, je me souviens de cette silhouette sur les rochers noirs. Elle me semblait porter un masque — blanc, lisse, sans bouche ni yeux. Et pourtant j'ai eu l'impression d'être vu. D'être même reconnu, peut-être.*\n\n*Quelque chose a effleuré ma main. Quelque chose de froid comme la pierre de fond. J'ai cru distinguer un signe — un geste que je n'ai pas compris. Puis l'eau m'a porté vers la planche qui m'a sauvé.*\n\n*Pourquoi ?*\n\n*Les médecins disent que je délire. Peut-être. Mais le froid n'a pas quitté ma main. Il me semble remonter le long de mon bras, chaque heure un peu plus haut. Je n'ose pas dire jusqu'où.*\n\n*Si quelqu'un trouve cette lettre, mettez-la dans une bouteille. Jetez-la vers Nysaria. On dit que la côte sait recevoir ce genre de chose.*\n\nLa lettre fut découverte soixante ans plus tard, cachée dans les fondations de la maison du croque-mort de Tyndara. Un érudit de Thalmaris, spécialiste des messages nysariens, l'acquit pour une somme modeste. Il la compara aux fragments déchiffrés des bouteilles échouées sur les côtes.\n\nUn passage le glaça.\n\nParmi les messages nysariens, l'un d'eux, daté d'une époque que les chroniqueurs locaux associent à une grande peur côtière du siècle précédent, contenait un symbole que les traducteurs rendent approximativement par : *Celui-là, qu'il revienne. Il porte le témoignage.*\n\nUn deuxième message, plus récent de plusieurs décennies, disait, selon la même école de lecture : *Le témoignage n'est pas revenu. Ce qui était promis ne tient plus.*\n\nL'érudit chercha la lettre d'Aldren. Elle avait disparu de son bureau pendant la nuit. À sa place, un flacon de liquide luminescent — violet, pulsant faiblement dans l'obscurité — et une odeur de sel marin dans une pièce sans fenêtre. Il ne sut jamais s'il fallait y voir un avertissement, une signature, ou la coïncidence d'un cambrioleur singulier.\n\nIl ne dormit plus jamais sans lumière.\n\nDes années passèrent. La communauté académique oublia l'incident. Mais les pêcheurs de la côte tyndarienne, eux, remarquèrent quelque chose. Les bouteilles nysariennes, qui s'échouaient autrefois au rythme d'une ou deux par an, avaient cessé d'arriver.\n\nComplètement.\n\nCertains, sur les quais, lisaient cette absence comme on lit un retrait. D'autres, comme un simple changement des courants. Aucune lecture n'a jamais eu le dernier mot.\n\n---\n\n## Nysoris — « La Cinquième Femme du Cercle »\n\nCette histoire ne figure dans aucune chronique officielle. On la lit dans une marge — précisément, dans les pages d'un cahier de notes appartenant à un cartographe galenorien, an 252 environ. Le cahier a été copié à Prismalith par une scribe qui ne savait pas d'où venait l'original. Le passage est court. Il vaut d'être posé tel quel.\n\n> *J'ai compté pendant la séance du Cercle. Sept membres officiellement. Ce que j'ai vu : six masques distincts, et une chaise occupée par une silhouette qui ne portait pas de masque mais dont le visage ne se laissait pas regarder en face — non pas par dérobade volontaire, mais par une qualité de l'air autour d'elle. Mes yeux glissaient. Je ne sais pas si je l'ai inventée. Je note qu'elle était là, dans ma perception. Je note aussi que personne ne l'a regardée pendant les délibérations.*\n>\n> *Si elle existait — si elle a existé —, elle n'avait pas pris le masque. Cela viole la règle annoncée. Une lecture serait qu'elle est sortie du Cercle sans en sortir. Une autre serait que mon œil a sélectionné une chaise qui n'était pas occupée. Je n'ai pas demandé.*\n\nL'auteur de la note quitta Nysaria sans clarifier le passage. Le cahier circule à Prismalith depuis. Aucune autre source ne mentionne une telle figure. Si elle existe, elle n'est pas reconnue. Si elle n'existe pas, elle a été *vue* — ce qui dans la grammaire mirathienne et nysarienne ne change pas grand-chose.\n\nLes copistes thalmariens qui ont collationné le cahier ont noté en marge, eux-mêmes : *À ne pas étoffer.* La note est tenue pour sage.\n\n---\n\n## Nysoris — « Les arrivées sans flotte »\n\nLà où l'Invasion Avortée a englouti une flotte entière, une donnée plus discrète court dans les marges des journaux portuaires de Nectoria, de Sondaris et de Tyndara : tous les vingt à quarante ans environ, un voyageur isolé atteint Nysaria et en revient. Aucun n'a publié de récit ni sollicité de reconnaissance. Plusieurs sont morts dans l'année qui a suivi, de causes ordinaires — pneumonie, accident, fièvre. Quelques-uns ont vécu longtemps.\n\nCe que les marges donnent à lire, sans en tirer de théorie : ces voyageurs ne sont pas *entrés* à Nysaria au sens habituel du terme. Ils ont été *laissés entrer*. La distinction, selon une formulation que les capitaineries reprennent sans en revendiquer la paternité, n'est pas la même chose. Trois des cas les plus récents sont tenus pour avérés : le cartographe galenorien Aldric Valthen (an 222 env.), un cartographe ulinorien anonyme (an 244) et le cartographe galenorien Sorin Valthen (an 252). Trois cartographes en trente ans — une régularité que les capitaineries classent, faute de mieux, dans les coïncidences que la nature du métier favorise.\n\n---\n\n## Nysoris — « Le Masque Violet »\n\nSur les quarante visiteurs qu'on tient pour avérés en trois siècles à Nysaria, sept sont rentrés avec une amulette de pierre noire. Trois sur ces sept ont laissé une trace, dans leurs récits non publiés, du **membre au masque violet** qui les a accompagnés jusqu'à la plage.\n\nTrois récits. Trois descriptions différentes. Le masque violet n'est pas le même selon la lecture du visiteur :\n\n- **Aldric Valthen** (an 222) : *un homme de stature moyenne, d'une démarche que les arthritiques galenoriens reconnaissent comme la leur, qui a laissé sa main sur mon épaule un instant trop long pour la politesse.*\n- **L'ulinorien anonyme** (an 244) : *une femme petite, dont la robe était plus longue que celle des autres et balayait les pierres des chemins. Elle ne m'a pas touché.*\n- **Sorin Valthen** (an 252) : *quelqu'un dont la stature et le sexe ne se laissaient pas fixer. La couleur du masque réfléchissait la lumière différemment selon l'angle. Sa main posant l'amulette dans la mienne était sèche.*\n\nTrois lectures. Une seule fonction. Les chroniqueurs thalmariens qui ont mis ces trois récits côte à côte, à la fin du règne du dernier Lunarch en date, en ont tiré des hypothèses contradictoires. La plus discutée : le masque violet est *une fonction occupée par plusieurs personnes successives*, peut-être aussi par plusieurs simultanément. La fonction transmettrait l'amulette à ceux qui méritent (ou doivent) en porter une, sans que le porteur du masque importe individuellement.\n\nCette lecture, si elle est juste, fait du masque violet quelque chose qui ressemble plus à un **siège de fonction** qu'à une personne. Mais alors, qui *décide* ? Le Cercle ? Le Roi Sans Voix ? Quelque chose qui n'a pas de nom dans la grammaire continentale ?\n\nLa question est restée. Aucun chroniqueur n'a écrit la suite. Aucun visiteur connu n'est revenu depuis Sorin Valthen pour en demander confirmation. Trois siècles auront peut-être passé avant la prochaine occasion. Trois siècles, dans la grammaire nysarienne, ne sont pas un délai inhabituel.\n\n---\n\n## Côtes nysariennes — « Le Soldat de l'Invasion qui n'est jamais arrivé »\n\nTrois cents ans après l'Invasion Avortée, dans un grenier de Tyndara, on trouva le journal d'un soldat de la flotte d'Aldren. Le journal s'arrêtait deux jours **avant** la nuit où la flotte avait été engloutie. Le soldat — un certain Vorth, second cuisinier sur le navire-amiral — ne raconte pas la nuit fatale. Il raconte les jours d'avant.\n\nLes pages décrivent une équipage qui *savait*. Les marins, dans le récit du second cuisinier, parlaient peu et avec gravité. Le capitaine Aldren passait les nuits sur le pont. Les officiers ne riaient plus depuis le quatrième jour. Vorth notait que, parmi les hommes, *plusieurs avaient écrit des lettres aux leurs* avant d'embarquer, avec la précision particulière de ceux qui doutent de revenir.\n\nLe journal ne s'arrête pas par omission — il s'arrête par décision. La dernière page écrite contient cette phrase, datée la veille de l'attaque sur Nysaria : *« Si je n'écris plus rien, c'est parce que je ne saurai plus quoi noter. Que ceux qui liront comprennent, s'ils peuvent. »*\n\nVorth fait partie des huit mille morts. Son journal a été retrouvé dans le grenier d'une maison de Tyndara, sans qu'on sache comment il y est arrivé. La famille de Vorth n'a jamais été identifiée — ses lettres adressées à *ma sœur Mira* (sans nom de famille) n'ont pas trouvé de destinataire.\n\nCe que les chroniqueurs tirent de cette pièce : la flotte savait. Aldren savait. Aucun officier n'a déserté. Ils ont tous fait le voyage en sachant.\n\nLe pourquoi reste opaque. La discipline militaire de Tyndara à l'époque (sévère mais pas tyrannique) ne suffit pas à expliquer huit mille hommes qui partent en sachant. Une lecture serait que personne ne *savait* avec assez de certitude pour déserter — ils *redoutaient*, ce qui est une autre catégorie. Une autre serait qu'ils espéraient. La plupart des chroniqueurs concluent : on ne sait pas pourquoi des hommes raisonnables font des voyages qu'ils savent peut-être mortels. C'est une question qui n'a peut-être pas de réponse de l'extérieur.\n\nLes Lunariens, quand ils ont entendu cette histoire (par voie d'un Lecteur de rêve qui l'avait lue à Tyndara), l'ont notée dans leurs Tables des Conséquences sous la rubrique *décisions prises pendant la nouvelle lune*. La nuit de l'attaque sur Nysaria était bien une nouvelle lune. La précision n'a pas changé le résultat — mais les Veilleurs en ont tiré un usage : depuis, on ne lance pas d'expédition militaire pendant la nouvelle lune, à Lunasar. La règle n'est inscrite nulle part. Elle est tenue.",
    "data": {
-    "echelle": "continent"
+    "echelle": "continent",
+    "coord_x": 226.63159807785303,
+    "coord_y": -378.643972485658
    },
    "status": "canon",
    "disclosure": "interne",
@@ -22953,7 +22957,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Glintar"
+    "region": "Glintar",
+    "coord_x": 191.281083620977,
+    "coord_y": 21.4295424651374,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -22969,7 +22976,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Glintar"
+    "region": "Glintar",
+    "coord_x": 183.855552120029,
+    "coord_y": 58.3692793952596
    },
    "status": "canon",
    "disclosure": "interne",
@@ -22985,7 +22994,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Glintar"
+    "region": "Glintar",
+    "coord_x": 215.597196132994,
+    "coord_y": 33.0531938353386
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23001,7 +23012,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Glintar"
+    "region": "Glintar",
+    "coord_x": 192.947521312074,
+    "coord_y": 44.1730855456623
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23017,7 +23030,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Glintar"
+    "region": "Glintar",
+    "coord_x": 177.381587093895,
+    "coord_y": 33.2507773190355
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23033,7 +23048,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Glintar"
+    "region": "Glintar",
+    "coord_x": 204.812837436904,
+    "coord_y": 16.4675926402794
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23049,7 +23066,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Lushara"
+    "region": "Lushara",
+    "coord_x": 134.867179875731,
+    "coord_y": -10.8892993166899
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23065,7 +23084,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Lushara"
+    "region": "Lushara",
+    "coord_x": 113.040232741933,
+    "coord_y": 8.12518910948827
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23081,7 +23102,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lushara"
+    "region": "Lushara",
+    "coord_x": 133.913036625163,
+    "coord_y": -23.57982787669
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23097,7 +23120,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Lushara"
+    "region": "Lushara",
+    "coord_x": 142.650699151054,
+    "coord_y": -5.98201394889574
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23113,7 +23138,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lushara"
+    "region": "Lushara",
+    "coord_x": 121.013697201396,
+    "coord_y": 11.1629316401596
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23129,7 +23156,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lushara"
+    "region": "Lushara",
+    "coord_x": 122.983274154391,
+    "coord_y": -34.5811879023367
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23145,7 +23174,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Helionar"
+    "region": "Helionar",
+    "coord_x": 160.280998858888,
+    "coord_y": -21.5683783176945
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23161,7 +23192,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Helionar"
+    "region": "Helionar",
+    "coord_x": 187.329782057861,
+    "coord_y": -1.21240202852152
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23177,7 +23210,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Helionar"
+    "region": "Helionar",
+    "coord_x": 147.828361917591,
+    "coord_y": -19.5428485197583
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23193,7 +23228,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Helionar"
+    "region": "Helionar",
+    "coord_x": 170.281465559575,
+    "coord_y": 4.15907108578741
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23209,7 +23246,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Helionar"
+    "region": "Helionar",
+    "coord_x": 203.647214519109,
+    "coord_y": 5.15922818910274
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23225,7 +23264,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Helionar"
+    "region": "Helionar",
+    "coord_x": 152.234280345851,
+    "coord_y": -38.9981496552556
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23241,7 +23282,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Helionar"
+    "region": "Helionar",
+    "coord_x": 174.993100025488,
+    "coord_y": -13.104406187945
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23257,7 +23300,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Ysolia"
+    "region": "Ysolia",
+    "coord_x": 155.48838001214,
+    "coord_y": 18.6644780258466
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23273,7 +23318,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Ysolia"
+    "region": "Ysolia",
+    "coord_x": 150.037947126516,
+    "coord_y": 17.6150861000916
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23289,7 +23336,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Martelios"
+    "region": "Martelios",
+    "coord_x": 189.956068717266,
+    "coord_y": -218.725497655048,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23305,7 +23355,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Sorel Tiam"
+    "region": "Sorel Tiam",
+    "coord_x": 164.250521907692,
+    "coord_y": -248.893928042583
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23321,7 +23373,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Sorel Tiam"
+    "region": "Sorel Tiam",
+    "coord_x": 166.723858520565,
+    "coord_y": -252.774828410996
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23337,7 +23391,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Sorel Tiam"
+    "region": "Sorel Tiam",
+    "coord_x": 172.783514816562,
+    "coord_y": -269.664397117304
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23353,7 +23409,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Liannor"
+    "region": "Liannor",
+    "coord_x": 196.471446210873,
+    "coord_y": -268.911518458652
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23369,7 +23427,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Liannor"
+    "region": "Liannor",
+    "coord_x": 174.470198602867,
+    "coord_y": -228.547982773309
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23385,7 +23445,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Liannor"
+    "region": "Liannor",
+    "coord_x": 186.723319478652,
+    "coord_y": -257.027612737313
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23401,7 +23463,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Taloram"
+    "region": "Taloram",
+    "coord_x": 206.504858830127,
+    "coord_y": -209.594232632757
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23417,7 +23481,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Taloram"
+    "region": "Taloram",
+    "coord_x": 168.115869593876,
+    "coord_y": -191.713709593684
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23433,7 +23499,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Taloram"
+    "region": "Taloram",
+    "coord_x": 175.786378846851,
+    "coord_y": -210.356314061958
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23449,7 +23517,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Taloram"
+    "region": "Taloram",
+    "coord_x": 191.494403842314,
+    "coord_y": -204.699094922089
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23465,7 +23535,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Torian"
+    "region": "Torian",
+    "coord_x": 156.961375466286,
+    "coord_y": -239.331881330872
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23481,7 +23553,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Torian"
+    "region": "Torian",
+    "coord_x": 149.475473790533,
+    "coord_y": -219.792098761731
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23497,7 +23571,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Torian"
+    "region": "Torian",
+    "coord_x": 151.429590089006,
+    "coord_y": -201.59389608329
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23513,7 +23589,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Yaltar"
+    "region": "Yaltar",
+    "coord_x": 200.017089648169,
+    "coord_y": -228.240886320074
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23529,7 +23607,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Yaltar"
+    "region": "Yaltar",
+    "coord_x": 209.708711369216,
+    "coord_y": -240.199978676803
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23545,7 +23625,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Yaltar"
+    "region": "Yaltar",
+    "coord_x": 218.847246580241,
+    "coord_y": -258.125043125336
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23577,7 +23659,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Olkanir"
+    "region": "Olkanir",
+    "coord_x": 155.513595603445,
+    "coord_y": -161.528898274571,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23593,7 +23678,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Olkanir"
+    "region": "Olkanir",
+    "coord_x": 155.453961650285,
+    "coord_y": -141.701529125759
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23609,7 +23696,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Olkanir"
+    "region": "Olkanir",
+    "coord_x": 145.946211284815,
+    "coord_y": -152.315820622095
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23625,7 +23714,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Jalkanor"
+    "region": "Jalkanor",
+    "coord_x": 144.095350071908,
+    "coord_y": -182.220131494861
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23641,7 +23732,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Jalkanor"
+    "region": "Jalkanor",
+    "coord_x": 158.473022556741,
+    "coord_y": -174.266821102901
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23657,7 +23750,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Qythros"
+    "region": "Qythros",
+    "coord_x": 177.422447395134,
+    "coord_y": -173.431853730948
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23673,7 +23768,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Qythros"
+    "region": "Qythros",
+    "coord_x": 192.914391338095,
+    "coord_y": -168.457664221259
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23689,7 +23786,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Qythros"
+    "region": "Qythros",
+    "coord_x": 170.894186022758,
+    "coord_y": -181.822479779418
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23705,7 +23804,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Zolkanor"
+    "region": "Zolkanor",
+    "coord_x": 187.028299294661,
+    "coord_y": -145.476137494325
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23721,7 +23822,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Zolkanor"
+    "region": "Zolkanor",
+    "coord_x": 179.897256451295,
+    "coord_y": -130.255399199457
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23737,7 +23840,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Zolkanor"
+    "region": "Zolkanor",
+    "coord_x": 170.603562528806,
+    "coord_y": -144.728320359476
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23753,7 +23858,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Myrthal"
+    "region": "Myrthal",
+    "coord_x": 208.600145628828,
+    "coord_y": -195.808390321961
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23769,7 +23876,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Myrthal"
+    "region": "Myrthal",
+    "coord_x": 197.911311691041,
+    "coord_y": -181.08220891642
    },
    "status": "canon",
    "disclosure": "interne",
@@ -23785,7 +23894,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Myrthal"
+    "region": "Myrthal",
+    "coord_x": 219.535245706519,
+    "coord_y": -183.574963375152
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24006,7 +24117,9 @@
    "summary": "Capitale de Caeloria taillée dans la falaise côtière autour de la Grande Grotte Thermale ; siège du Palais des Sept Tours, de l'observatoire central et des archives du Conclave.",
    "body": null,
    "data": {
-    "echelle": "cite"
+    "echelle": "cite",
+    "coord_x": 185.136945891336,
+    "coord_y": 329.63235277608
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24021,7 +24134,9 @@
    "summary": "Village de pêcheurs de Caeloria accroché à une corniche de glace, pratiquant la pêche sous banquise ; sa tour de vigie guette les Léviathans.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 191.196234076511,
+    "coord_y": 351.249844852173
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24036,7 +24151,9 @@
    "summary": "Village-observatoire de Caeloria perché sur une crête, abritant l'un des cinq grands observatoires sacrés ; ses Veilleurs prédisent les tempêtes plusieurs jours à l'avance.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 202.092866573305,
+    "coord_y": 326.371443059584
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24051,7 +24168,9 @@
    "summary": "Village minier de Caeloria, principal site d'extraction de la stellarite, fondé autour de la première veine découverte par un berger tombé dans une fissure.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 179.562643714117,
+    "coord_y": 340.269835254201
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24066,7 +24185,9 @@
    "summary": "Cité des Temples de Givre de Caeloria, bâtie dans et autour des formations de glace de Silvarenth ; principal centre d'étude des artefacts des Cités des Anciens.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 214.214571885643,
+    "coord_y": 338.411427769443
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24081,7 +24202,9 @@
    "summary": "Village d'explorateurs de Caeloria à l'entrée des tunnels menant aux ruines des Cités des Anciens ; son mur de glace grave les noms des explorateurs disparus.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 211.2761272492,
+    "coord_y": 337.236049914866
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24501,7 +24624,9 @@
    "summary": "Port ouest de Solmaris, cité du soufre et des plantes thermales ; port d'embarquement des pèlerinages vers l'ancienne Velkmis.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": -357.8113845047076,
+    "coord_y": -221.51717630284855
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24651,7 +24776,9 @@
    "summary": "Plus grand village du No Man's Land, campement de naufragés sur la plus grande île de l'archipel, doté du seul mouillage sûr de la région.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 297.007665244684,
+    "coord_y": 364.166301429162
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24666,7 +24793,9 @@
    "summary": "Village de pêcheurs du No Man's Land bâti sur pilotis au-dessus d'un lagon poissonneux ; habitants les plus pacifiques d'Azoria, le pacifisme y étant une défense passive.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 106.702284664519,
+    "coord_y": 367.604456506441
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24681,7 +24810,9 @@
    "summary": "Campement fortifié de naufrageurs du No Man's Land qui allument de faux phares pour piller les épaves ; village le plus dangereux d'Azoria, activement combattu par Azoral.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 326.087131793101,
+    "coord_y": 421.7507975883
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24696,7 +24827,9 @@
    "summary": "Village de sculpteurs de corail du No Man's Land produisant dagues, amulettes et couronnes, seuls produits d'Azoria à valeur commerciale reconnue.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 164.96281634822,
+    "coord_y": 358.220391377156
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24711,7 +24844,9 @@
    "summary": "Hameau isolé du No Man's Land habité par un seul clan de plongeurs récupérant les cargaisons des épaves englouties.",
    "body": null,
    "data": {
-    "echelle": "lieu-dit"
+    "echelle": "lieu-dit",
+    "coord_x": 68.0703422857625,
+    "coord_y": 318.905419368218
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24726,7 +24861,9 @@
    "summary": "Village de guérisseurs autodidactes du No Man's Land à la pharmacopée marine ; seul endroit d'Azoria où l'on peut se faire soigner, avec une re-Loi de vérification des remèdes.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 234.634231347018,
+    "coord_y": 334.150545005043
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24741,7 +24878,9 @@
    "summary": "Hameau flottant du No Man's Land sur radeaux ancrés à un banc de sable émergé à marée basse ; mode de vie le plus précaire d'Azoria.",
    "body": null,
    "data": {
-    "echelle": "lieu-dit"
+    "echelle": "lieu-dit",
+    "coord_x": 213.960759473889,
+    "coord_y": 364.294035884389
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24756,7 +24895,9 @@
    "summary": "Village du No Man's Land bâti dans l'épave d'un navire de guerre géant ; le plus organisé d'Azoria, avec quarts de travail et hiérarchie héritée de la marine d'origine.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 166.61324121856,
+    "coord_y": 383.919496247346
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24771,7 +24912,9 @@
    "summary": "Avant-poste de contrebandiers du No Man's Land doté de grottes sous-marines ; les soupçons d'activité Aqua Nigra y sont les plus forts de l'archipel.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 390.424436926021,
+    "coord_y": 423.024461032345
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24786,7 +24929,9 @@
    "summary": "Village de pêcheurs de perles dorées sauvages du No Man's Land ; sa richesse en fait un village perpétuellement assiégé.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 210.310204452329,
+    "coord_y": 401.876126198863
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24801,7 +24946,9 @@
    "summary": "Hameau de pilotes du No Man's Land connaissant les courants d'Azoria mieux que quiconque ; on n'y devient pilote qu'après un an d'observation des courants.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 314.058190407901,
+    "coord_y": 407.66393265283
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24816,7 +24963,9 @@
    "summary": "Village du No Man's Land sur une île volcanique éteinte aux sols fertiles où poussent les seuls légumes et fruits de l'archipel ; le plus prospère de la région.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 234.843686404724,
+    "coord_y": 349.997531835802
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24831,7 +24980,9 @@
    "summary": "Village le plus isolé d'Azoria, à l'extrémité du No Man's Land, peuplé d'ermites et d'exilés volontaires fuyant la civilisation.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 406.334738818161,
+    "coord_y": 460.418078605966
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24937,7 +25088,9 @@
    "summary": "Complexe monastique principal et siège de Baelor, creusé dans une falaise de la côte nord et descendant en paliers sous la mer ; résidence de l'Abbé Suprême et de la Salle du Silence, ouverte au ciel. Fondé à mains nues par les premiers moines en exil.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 69.5032136603134,
+    "coord_y": 251.812252566557
    },
    "status": "canon",
    "disclosure": "interne",
@@ -24952,7 +25105,9 @@
    "summary": "Second monastère de Baelor, sur un promontoire de la côte est ; bastion des Veilleurs chargés de la surveillance maritime permanente de l'horizon. Bâti l'année suivant la Défense du Monastère de Kethros.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 73.978152867694,
+    "coord_y": 257.594169247372
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25417,7 +25572,9 @@
    "summary": "Région centrale et la plus peuplée de Brumaria, dominée par le Mont Cendra ; sol basaltique fertilisé par les cendres, cœur politique et culturel du royaume.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -318.50436238391,
+    "coord_y": 244.40825713786998
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25432,7 +25589,9 @@
    "summary": "Plateau volcanique de l'ouest de Brumaria, riche en minerais rares (quartz rose, améthyste, métaux volcaniques) ; sa partie ouest est une zone minière partagée avec Pyrevane sans frontière claire.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -336.756953436298,
+    "coord_y": 273.647667838437
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25447,7 +25606,9 @@
    "summary": "Vallée verdoyante du nord de la Grande Île, seule forêt de l'île principale (arbres résistants au feu) ; partagée administrativement entre Brumaria et Pyrevane sans ligne établie.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -318.18889140947397,
+    "coord_y": 270.79223219235
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25462,7 +25623,9 @@
    "summary": "Région côtière orientale de Brumaria : plages de sable noir, falaises d'obsidienne, cavernes sous-marines riches en cristaux de lave.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -312.558820442725,
+    "coord_y": 287.278811576297
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25477,7 +25640,9 @@
    "summary": "Plateau méridional de Brumaria, région agricole (vignobles de cendre, blé noir) la moins touchée par les éruptions.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -326.48813394638796,
+    "coord_y": 314.74981788808
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25492,7 +25657,9 @@
    "summary": "Péninsule occidentale de Brumaria battue par les vents, forteresse naturelle abritant les forges militaires et arsenaux du royaume.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -376.97655779024797,
+    "coord_y": 282.135199060793
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25507,7 +25674,9 @@
    "summary": "« Septième région » de Brumaria couvrant Ilnara et ses environs : région théologique et cérémonielle, non administrée (ni impôt ni garnison), alors qu'Ilnara est juridiquement arkhenienne. Comptée pour la représentation au Conseil des Cendres.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -365.614817269884,
+    "coord_y": 289.058995511385
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25522,7 +25691,10 @@
    "summary": "Capitale de Brumaria, sur un plateau de basalte au pied du Mont Cendra ; ville de pierre noire éclairée par les forges perpétuelles. Abrite le Palais des Cendres (commencé par Ashgrim le Calciné), la Chambre du Cœur de Cendra, la Grande Forge Royale et le Temple Central de l'Ignis Aeternum.",
    "body": null,
    "data": {
-    "echelle": "cite"
+    "echelle": "cite",
+    "coord_x": -323.618345951184,
+    "coord_y": 240.30105905247,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25537,7 +25709,9 @@
    "summary": "Village alchimique de Brumancia dans une crevasse volcanique aux sources sulfureuses ; chaque maison est un laboratoire. Fondé par des alchimistes de Brumaris piégés dans la crevasse ; résiste à l'administration royale.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -313.977063385042,
+    "coord_y": 230.256419053145
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25552,7 +25726,9 @@
    "summary": "Village de bergers et cultivateurs sur les flancs fertiles du Mont Cendra (chèvres volcaniques, cultures de cendre), englouti et reconstruit deux fois au même endroit. Sorin Valthen y passa en l'an 252.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -309.568292097912,
+    "coord_y": 252.016001906522
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25567,7 +25743,9 @@
    "summary": "Ville minière d'Utophora à l'entrée de cavernes volcaniques riches en minerais rares ; premières mines ouvertes par des condamnés, Guilde des Mineurs transmise de père en fils, jamais par écrit.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": -334.310492886369,
+    "coord_y": 264.530113355089
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25582,7 +25760,9 @@
    "summary": "Village de sculpteurs de basalte d'Utophora, perché sur une tour rocheuse naturelle ; spécialité des Colonnes de Mémoire commémorant les morts honorés par crémation volcanique.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -329.467534884716,
+    "coord_y": 248.880249869499
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25597,7 +25777,9 @@
    "summary": "Hameau isolé de prospecteurs d'Utophora, fondé par la Cartographe Noire ; sa Cartothèque souterraine tente de reconstituer l'œuvre de la fondatrice, enterrée avec ses cartes.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -329.886076889305,
+    "coord_y": 270.544123909161
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25612,7 +25794,9 @@
    "summary": "Seule ville de Virendor, bâtie entièrement en bois résistant au feu ; centre de la sylviculture cendarienne, chantiers navals et École de sylviculture.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": -323.958572378398,
+    "coord_y": 259.179990668455
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25627,7 +25811,9 @@
    "summary": "Ville côtière de Diamora sur des falaises d'obsidienne polie, principal port de commerce de Brumaria (métaux volcaniques, cristaux de lave, potions).",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": -306.939520690459,
+    "coord_y": 276.446412828763
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25642,7 +25828,9 @@
    "summary": "Ville des cristalliers de Diamora, au-dessus de grottes sous-marines où le magma rencontre l'océan ; Guilde des Plongeurs-Cristalliers au règlement strict.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": -328.781652395664,
+    "coord_y": 285.590469702117
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25657,7 +25845,9 @@
    "summary": "Village de pêcheurs de Diamora sur une plage de sable noir ; poissons des profondeurs fumés naturellement par les eaux sulfureuses. Fondé par des pêcheurs ayant refusé d'évacuer la côte malgré l'ordre de Brumaris.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -337.3174061357,
+    "coord_y": 297.478792753321
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25672,7 +25862,9 @@
    "summary": "Hameau de souffleurs de verre volcanique de Diamora ; l'art y fut inventé par Mireth la Souffleuse, aveugle, d'où une tradition de travail en partie à l'aveugle.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -307.372879155633,
+    "coord_y": 263.178410416784
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25687,7 +25879,9 @@
    "summary": "Ville viticole de Solara, capitale du vin de cendre (vin noir au goût de fumée) ; Festival annuel des Vendanges de Cendre, caves royales.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": -320.8349679985,
+    "coord_y": 309.617615218881
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25702,7 +25896,9 @@
    "summary": "Village agricole de Solara réputé pour son pain noir cuit dans des fours géothermiques ; premier village cendarien à comprendre que les cendres enrichissaient le sol (récoltes de la vieille Dresta), devenu le grenier de Brumaria.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -340.252445747039,
+    "coord_y": 319.990794126822
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25717,7 +25913,9 @@
    "summary": "Village de bergers semi-nomades de Solara ; les éleveurs prédisent les humeurs du Mont Cendra en lisant l'agitation de leurs bêtes.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -328.301451828393,
+    "coord_y": 307.122928178333
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25732,7 +25930,9 @@
    "summary": "Ville-forteresse de Malrith abritant les forges militaires et l'arsenal royal de Brumaria, ainsi que les casernes des Calcinés ; lames noires veinées de rouge.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": -381.756480786577,
+    "coord_y": 275.467606153122
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25747,7 +25947,9 @@
    "summary": "Village de guetteurs au point le plus occidental de Malrith ; réseau de signaux de feu transmettant un message d'un bout à l'autre de l'archipel en moins d'une heure, approuvé à l'unanimité par le Conseil des Cendres après un raid de pirates ignoré trois jours.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -385.597993297038,
+    "coord_y": 281.045221327739
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25762,7 +25964,9 @@
    "summary": "Village de chantiers navals de Malrith ; construit les navires en bois ignifuge à « double coque de Thyronis », seuls à naviguer sans danger dans les eaux brûlantes de l'archipel. Fête annuelle du Navire Inversé.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -375.499517089999,
+    "coord_y": 283.144373290071
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25777,7 +25981,9 @@
    "summary": "Hameau de la côte sud de Malrith, communauté accidentelle d'ermites et de pyromanciens ; grottes aux feux éternels naturels. Jamais fondé, sans chef ni règlement.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -373.848079914898,
+    "coord_y": 272.448545246666
    },
    "status": "canon",
    "disclosure": "interne",
@@ -25792,7 +25998,9 @@
    "summary": "Village du Temple des Flammes Éternelles sur Ilnara, logis des prêtres-gardiens pratiquant un syncrétisme Ignis Aeternum / Vael'Kurash tenu pour hérétique à Brumaris mais toléré par le roi. Ses prêtres furent les premiers à percevoir la disparition des Phénix.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -360.555322050141,
+    "coord_y": 288.409462376828
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27689,7 +27897,9 @@
    "summary": "Région côtière du sud-ouest de Thalmaris, baignée d'une lumière bleue ; berceau des arts visuels thalmariens.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": 210.99443441562101,
+    "coord_y": 74.45517173865889
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27704,7 +27914,9 @@
    "summary": "Vallée intérieure isolée de Thalmaris aux propriétés acoustiques exceptionnelles où les bardes testent leurs compositions.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": 239.19963776184002,
+    "coord_y": 62.3776397249583
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27719,7 +27931,9 @@
    "summary": "Plaines fertiles au centre de Thalmaris, grenier du pays et berceau des traditions rurales et des chansons populaires.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": 252.91434265628902,
+    "coord_y": 16.2676180254155
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27734,7 +27948,9 @@
    "summary": "Hautes collines de Thalmaris où se trouve la capitale Ostarith ; cœur politique et culturel (académies, salles de spectacle, archives).",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": 266.54548639415003,
+    "coord_y": 52.4444452769874
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27749,7 +27965,9 @@
    "summary": "Région montagneuse du nord de Thalmaris, terres rudes des bardes-guerriers dont les chants de guerre galvanisent ou terrifient.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": 298.693340699168,
+    "coord_y": 26.9976803752641
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27764,7 +27982,9 @@
    "summary": "Région venteuse de l'est de Thalmaris, aux formations rocheuses qui chantent avec le vent, à l'origine d'une tradition musicale et instrumentale.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -22.6427434629095,
+    "coord_y": -330.363385324319
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27779,7 +27999,10 @@
    "summary": "Capitale de Thalmaris (région Ostaris), bâtie pour résonner ; abrite le Palais du Chant et les Archives du Chant souterraines.",
    "body": null,
    "data": {
-    "echelle": "cite"
+    "echelle": "cite",
+    "coord_x": 273.53489462582,
+    "coord_y": 45.5053706381076,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27794,7 +28017,9 @@
    "summary": "Ville académique de Thalmaris (Ostaris) née d'un cercle de sept disciples de Valdren ; siège de la Grande École des Bardes.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 253.6186267135,
+    "coord_y": 55.9312814212966
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27809,7 +28034,9 @@
    "summary": "Cité portuaire de Thalmaris (Azuralis) à la lumière azurée perpétuelle, centre des arts visuels (peinture, mosaïque, vitrail).",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 197.279817575937,
+    "coord_y": 73.6589464415437
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27824,7 +28051,9 @@
    "summary": "Ville de marchands d'art de Thalmaris (Azuralis) où chaque transaction du Grand Marché s'accompagne d'une performance.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 211.353246466405,
+    "coord_y": 80.1531575628868
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27839,7 +28068,9 @@
    "summary": "Village de pêcheurs-poètes de Thalmaris (Azuralis) composant des mélopées au rythme des vagues.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 228.765440512217,
+    "coord_y": 63.2149062003723
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27854,7 +28085,9 @@
    "summary": "Unique village de la vallée de Zylar (Thalmaris), habité par des acousticiens et musiciens expérimentaux exploitant échos et distorsions.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 233.119823425399,
+    "coord_y": 43.3999607918021
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27869,7 +28102,9 @@
    "summary": "Bourg rural des plaines de Nalmir (Thalmaris), berceau des chansons populaires reconnu comme source de la mémoire thalmarienne.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 253.341991430783,
+    "coord_y": 7.21319454803676
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27884,7 +28119,9 @@
    "summary": "Village de conteurs de Nalmir (Thalmaris) spécialisés dans les récits d'horreur et légendes sombres.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 264.429305333362,
+    "coord_y": 27.1770407840972
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27899,7 +28136,9 @@
    "summary": "Cité des danseurs de Nalmir (Thalmaris), où la danse est un langage complet capable de transmettre des messages complexes.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 250.530729083334,
+    "coord_y": 9.19317063175312
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27914,7 +28153,9 @@
    "summary": "Village de calligraphes et enlumineurs de Nalmir (Thalmaris), centre de production des documents officiels infalsifiables.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 255.220092844517,
+    "coord_y": -6.64314098516896
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27929,7 +28170,9 @@
    "summary": "Hameau de Nalmir (Thalmaris) spécialisé dans la fabrication d'encres réputées ne jamais s'effacer.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 236.618164622071,
+    "coord_y": 29.9646520112342
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27944,7 +28187,9 @@
    "summary": "Ville principale de Rylthos (Thalmaris), bastion des bardes-guerriers maniant la lame autant que le luth.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 289.887849781388,
+    "coord_y": 25.6166190097308
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27959,7 +28204,9 @@
    "summary": "Forteresse culturelle de Rylthos (Thalmaris) où les bardes apprennent le Chant de Bataille galvanisant les alliés.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 285.409229465788,
+    "coord_y": 6.94060848436175
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27974,7 +28221,9 @@
    "summary": "Village minier de Rylthos (Thalmaris) où les mineurs chantent des mélodies qui renforcent la roche et préviennent les effondrements.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 286.651051323732,
+    "coord_y": 31.1167468563211
    },
    "status": "canon",
    "disclosure": "interne",
@@ -27989,7 +28238,9 @@
    "summary": "Bourg d'altitude de Rylthos (Thalmaris) connu pour ses chœurs de montagne exploitant les échos des sommets.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 313.094844386784,
+    "coord_y": 40.9294770377996
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28004,7 +28255,9 @@
    "summary": "Village de luthiers montagnards de Rylthos (Thalmaris) fabriquant des instruments accordés par le froid.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 295.879773686142,
+    "coord_y": 36.2055108593506
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28019,7 +28272,9 @@
    "summary": "Avant-poste dans un col montagneux de Rylthos (Thalmaris) ; on y paie le passage par un récit ou une chanson.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 318.965659831107,
+    "coord_y": 14.2271781500133
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28034,7 +28289,9 @@
    "summary": "Ville principale de Windora (Thalmaris), bâtie autour de rochers qui chantent avec le vent ; ses habitants prédisent le temps à l'oreille.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": -23.384030603608,
+    "coord_y": -324.085440900064
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28049,7 +28306,9 @@
    "summary": "Village d'ingénieurs sonores de Windora (Thalmaris) concevant des éoliennes musicales alimentant la ville en énergie et en musique.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 1.93592011994376,
+    "coord_y": -314.189609700524
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28064,7 +28323,9 @@
    "summary": "Bourg de Windora (Thalmaris) connu pour ses jardins sonores, destination de « guérison par le son ».",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": -36.529636167279,
+    "coord_y": -320.846985943709
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28079,7 +28340,9 @@
    "summary": "Village isolé à l'extrémité orientale de Windora (Thalmaris), habité par des ermites musiciens composant dans la solitude.",
    "body": null,
    "data": {
-    "echelle": "ville"
+    "echelle": "ville",
+    "coord_x": 4.38753819431995,
+    "coord_y": -340.390357593365
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28482,7 +28745,9 @@
    "summary": "Région occidentale de Lumasar, vallées profondes et brumeuses, berceau de l'alchimie onirique.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -290.910407057586,
+    "coord_y": -202.668317955763
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28497,7 +28762,9 @@
    "summary": "Région centrale et cœur politique de Lumasar, hérissée de cristaux prismatiques ; abrite la capitale Prismalith.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -290.709142465669,
+    "coord_y": -162.834125632425
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28512,7 +28779,9 @@
    "summary": "Région septentrionale de Lumasar aux ciels les plus dégagés, domaine des astronomes.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -294.185673096139,
+    "coord_y": -123.46771013611601
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28527,7 +28796,9 @@
    "summary": "Région orientale de Lumasar parsemée de failles oniriques, la plus dangereuse du royaume.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -327.048950783672,
+    "coord_y": -134.953319948075
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28542,7 +28813,9 @@
    "summary": "Région méridionale de Lumasar, porte d'entrée des voyageurs étrangers.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -274.590121737468,
+    "coord_y": -87.0094621611411
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28557,7 +28830,9 @@
    "summary": "Région côtière nord-ouest de Seraphia, villages d'artistes et de pêcheurs.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -367.221713035525,
+    "coord_y": -180.994965062435
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28572,7 +28847,9 @@
    "summary": "Région intérieure de Seraphia, berceau de la tradition musicale séraphienne.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -332.452173456377,
+    "coord_y": -184.82626249758601
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28587,7 +28864,9 @@
    "summary": "Région montagneuse et cœur spirituel de Seraphia ; abrite la capitale Althior et la grotte où Altheus entendit la Première Note.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -376.49166380999696,
+    "coord_y": -146.031062969282
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28602,7 +28881,9 @@
    "summary": "Région forestière du sud de Seraphia, la plus sauvage, communautés d'artistes ermites.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -398.129954147531,
+    "coord_y": -139.947847580678
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28617,7 +28898,9 @@
    "summary": "Région méridionale et fertile de Seraphia, vignobles et oliveraies.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -417.803913111284,
+    "coord_y": -147.753269449908
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28632,7 +28915,9 @@
    "summary": "Région nord-ouest de Valoria, plateaux rocheux et landes venteuses ; la plus petite des quatre.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -347.118076714819,
+    "coord_y": -100.31850892977
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28647,7 +28932,9 @@
    "summary": "Région septentrionale de Valoria, montagnes frontalières de Voldenor, la plus dangereuse du pays.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -323.28621398911497,
+    "coord_y": -104.112627171902
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28662,7 +28949,9 @@
    "summary": "Région centrale et cœur historique de Valoria ; abrite la capitale Valtheria et le clan fondateur de la Confédération.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -329.754749380625,
+    "coord_y": -78.0573750814482
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28677,7 +28966,9 @@
    "summary": "Région orientale de Valoria, la plus tempérée et la plus ouverte aux relations extérieures.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -301.149041460093,
+    "coord_y": -72.8164892812361
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28692,7 +28983,9 @@
    "summary": "Région nord-ouest de Ventera, territoire d'élevage produisant les meilleurs chevaux.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -394.77821308571197,
+    "coord_y": -118.91822848728401
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28707,7 +29000,9 @@
    "summary": "Région centrale de Ventera, cœur politique et économique ; abrite la capitale Soltharis.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -389.793900528419,
+    "coord_y": -86.68653694256051
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28722,7 +29017,9 @@
    "summary": "Région orientale de Ventera aux vents violents, la plus rude ; dirigée par Dame Nyra.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -416.725164347476,
+    "coord_y": -84.30209909319541
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28737,7 +29034,9 @@
    "summary": "Région méridionale de Ventera, vastes plateaux semi-arides et principaux sanctuaires de la Via Ventus.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -400.982997073275,
+    "coord_y": -53.1550460854309
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28752,7 +29051,9 @@
    "summary": "Région vallonnée du nord-ouest de Kharazir, plus ancienne communauté sédentaire, premiers cultivateurs d'herbes dorées.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -232.44631008933098,
+    "coord_y": -137.333616550693
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28767,7 +29068,9 @@
    "summary": "Région lacustre et fluviale de Kharazir, grenier à poissons ; villages sur pilotis.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -183.824852306841,
+    "coord_y": -140.784011312802
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28782,7 +29085,9 @@
    "summary": "Région marchande de Kharazir, carrefour commercial nommé d'après la pierre bleue de ses falaises.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -199.703864779113,
+    "coord_y": -118.907829356563
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28797,7 +29102,9 @@
    "summary": "Plaines centrales dorées de Kharazir, herbes curatives faisant sa renommée.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -175.59674718627397,
+    "coord_y": -103.20799482689
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28812,7 +29119,9 @@
    "summary": "Savanes méridionales de Kharazir parcourues par les semi-nomades khalorins ; abrite la capitale Rukhsar.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -239.58204634567699,
+    "coord_y": -111.876636573659
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28827,7 +29136,9 @@
    "summary": "Région orientale aride de Kharazir, riche en pierres semi-précieuses et tailleurs de gemmes.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -248.321273342561,
+    "coord_y": -93.0720633437144
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28842,7 +29153,9 @@
    "summary": "Région septentrionale forestière de Kharazir, la plus isolée, dernière à signer la Charte.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -209.47205355113198,
+    "coord_y": -75.5031461154455
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28857,7 +29170,9 @@
    "summary": "Région centrale et siège du pouvoir royal de Trinoria, aux chênes millénaires ; abrite Gyndor.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -251.08891455760596,
+    "coord_y": -238.075149395462
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28872,7 +29187,9 @@
    "summary": "Région septentrionale de Trinoria, forêts de conifères austères, chasseurs endurants.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -250.035381385104,
+    "coord_y": -215.424738352898
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28887,7 +29204,9 @@
    "summary": "Région occidentale de Trinoria, forêts mixtes et rivières cristallines, centres du commerce du bois.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -245.07186708925198,
+    "coord_y": -187.514943941317
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28902,7 +29221,9 @@
    "summary": "Région méridionale de Trinoria, collines et clairières, seule région où l'agriculture est importante.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -216.114705361437,
+    "coord_y": -186.535953210265
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28917,7 +29238,9 @@
    "summary": "Région orientale de Trinoria frontalière de Valoria, forêts marquées par la Bataille des Mille Flèches ; habitants les plus guerriers.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -199.411308703345,
+    "coord_y": -200.509440012565
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28932,7 +29255,9 @@
    "summary": "Région sud-est de Trinoria, forêts de bambous géants et clairières fleuries, la plus douce.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -207.400509900448,
+    "coord_y": -165.073711873342
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28947,7 +29272,9 @@
    "summary": "Région orientale de Solena, porte d'entrée maritime de Galenor, nommée en l'honneur de l'Amiral Etheira la Grande.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -443.882264155817,
+    "coord_y": -100.287495593019
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28962,7 +29289,9 @@
    "summary": "Région centrale et cœur politique de Solena ; abrite la capitale Oranthor et les chantiers navals majeurs.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -433.80164132364297,
+    "coord_y": -79.458588925309
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28977,7 +29306,9 @@
    "summary": "Région occidentale de Solena, côtes sauvages, point de départ des expéditions vers l'inconnu.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -434.31681241900196,
+    "coord_y": -57.145643478793296
    },
    "status": "canon",
    "disclosure": "interne",
@@ -28992,7 +29323,9 @@
    "summary": "Région septentrionale de Solena aux eaux froides et poissonneuses, grenier maritime du pays.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -445.765243037942,
+    "coord_y": -37.6374264126366
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29007,7 +29340,9 @@
    "summary": "Région insulaire de Solena (archipel au large de la côte sud), la plus isolée, aux traditions plus anciennes que le pays.",
    "body": null,
    "data": {
-    "echelle": "region"
+    "echelle": "region",
+    "coord_x": -465.468098701219,
+    "coord_y": -68.94451560025621
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29023,7 +29358,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -301.55196199159695,
+    "coord_y": -161.38440031113691,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29039,7 +29377,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -291.19008853705145,
+    "coord_y": -167.83836720568235
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29055,7 +29395,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -288.7792707091878,
+    "coord_y": -173.99226736550486
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29071,7 +29413,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -273.7271281427526,
+    "coord_y": -173.29553645641403
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29087,7 +29431,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -270.99322129222577,
+    "coord_y": -154.1134625201375
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29103,7 +29449,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -261.1059877108147,
+    "coord_y": -160.3747473667725
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29119,7 +29467,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -254.5758487108149,
+    "coord_y": -169.39255836677222
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29135,7 +29485,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -312.8260412825681,
+    "coord_y": -191.587118617802
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29151,7 +29503,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -309.92040836250607,
+    "coord_y": -158.52254954750055
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29167,7 +29521,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Prismora"
+    "region": "Prismora",
+    "coord_x": -292.91518048910063,
+    "coord_y": -146.58920726340642
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29183,7 +29539,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -309.8951311056228,
+    "coord_y": -201.6240683236195
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29199,7 +29557,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -275.7363455343092,
+    "coord_y": -190.12492813051023
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29215,7 +29575,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -289.072260960491,
+    "coord_y": -236.6274331305093
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29231,7 +29593,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -281.927256534309,
+    "coord_y": -199.65158113051007
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29247,7 +29611,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -315.51795315859135,
+    "coord_y": -217.44518390082914
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29263,7 +29629,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -300.810948534309,
+    "coord_y": -220.7402551305098
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29279,7 +29647,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -278.16747953430894,
+    "coord_y": -206.69056213051005
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29295,7 +29665,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -285.54568853430897,
+    "coord_y": -206.94498313051002
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29311,7 +29683,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Dromolia"
+    "region": "Dromolia",
+    "coord_x": -278.132157960491,
+    "coord_y": -236.57089513050926
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29327,7 +29701,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Boreluna"
+    "region": "Boreluna",
+    "coord_x": -298.34217908321705,
+    "coord_y": -134.3287571676097
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29343,7 +29719,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Boreluna"
+    "region": "Boreluna",
+    "coord_x": -274.387968404953,
+    "coord_y": -144.04764259286463
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29359,7 +29737,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Boreluna"
+    "region": "Boreluna",
+    "coord_x": -307.12222877038266,
+    "coord_y": -122.14570995359986
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29375,7 +29755,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Boreluna"
+    "region": "Boreluna",
+    "coord_x": -281.48090053803577,
+    "coord_y": -114.06255396612755
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29391,7 +29773,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Gistenora"
+    "region": "Gistenora",
+    "coord_x": -320.8456283191842,
+    "coord_y": -132.21690867306398
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29407,7 +29791,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Gistenora"
+    "region": "Gistenora",
+    "coord_x": -337.97725909736596,
+    "coord_y": -133.49980729124593
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29423,7 +29809,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Gistenora"
+    "region": "Gistenora",
+    "coord_x": -323.0166875191842,
+    "coord_y": -144.65115681851847
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29439,7 +29827,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Gistenora"
+    "region": "Gistenora",
+    "coord_x": -334.122020145516,
+    "coord_y": -121.160117010014
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29455,7 +29845,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Invorial"
+    "region": "Invorial",
+    "coord_x": -277.826770286719,
+    "coord_y": -90.6530027307578
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29471,7 +29863,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Invorial"
+    "region": "Invorial",
+    "coord_x": -280.76722740324436,
+    "coord_y": -65.8831200689782
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29487,7 +29881,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Caverana"
+    "region": "Caverana",
+    "coord_x": -370.93208872225586,
+    "coord_y": -164.6667372222841,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29503,7 +29900,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Caverana"
+    "region": "Caverana",
+    "coord_x": -364.16723236049415,
+    "coord_y": -147.81431681744988
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29519,7 +29918,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Caverana"
+    "region": "Caverana",
+    "coord_x": -373.3977824907025,
+    "coord_y": -147.79850123307114
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29535,7 +29936,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Caverana"
+    "region": "Caverana",
+    "coord_x": -372.40372324591084,
+    "coord_y": -137.95258109418222
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29551,7 +29954,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Caverana"
+    "region": "Caverana",
+    "coord_x": -369.9895793657025,
+    "coord_y": -128.76151462560966
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29567,7 +29972,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Caverana"
+    "region": "Caverana",
+    "coord_x": -388.8929816219479,
+    "coord_y": -154.6607790636101
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29583,7 +29990,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Caverana"
+    "region": "Caverana",
+    "coord_x": -390.17481274926683,
+    "coord_y": -173.92443852937527
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29599,7 +30008,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Caverana"
+    "region": "Caverana",
+    "coord_x": -399.09819592885776,
+    "coord_y": -165.80570028008668
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29615,7 +30026,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -364.1689532165035,
+    "coord_y": -188.48150778122294
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29631,7 +30044,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -353.92221168923083,
+    "coord_y": -193.23481163576844
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29647,7 +30062,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -352.511272340564,
+    "coord_y": -171.143400778414
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29663,7 +30080,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -368.379492271049,
+    "coord_y": -181.984777599405
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29679,7 +30098,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -371.61134526197293,
+    "coord_y": -197.47389708765348
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29695,7 +30116,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -394.4096546373338,
+    "coord_y": -194.4048363849684
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29711,7 +30134,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -394.03273463733376,
+    "coord_y": -204.53456138496858
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29727,7 +30152,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -375.1395984545462,
+    "coord_y": -172.04405898265605
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29743,7 +30170,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -414.7633346373338,
+    "coord_y": -209.99990138496844
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29759,7 +30188,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -381.8063921373337,
+    "coord_y": -213.8633313849686
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29775,7 +30206,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -406.8715721373338,
+    "coord_y": -205.31195888496865
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29791,7 +30224,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -340.4691268063483,
+    "coord_y": -159.10432391312435
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29807,7 +30242,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -354.96022641754837,
+    "coord_y": -151.1279715234167
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29823,7 +30260,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Lagosaim"
+    "region": "Lagosaim",
+    "coord_x": -362.47576950470756,
+    "coord_y": -220.76333630284853
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29839,7 +30278,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Zariheim"
+    "region": "Zariheim",
+    "coord_x": -329.675241416017,
+    "coord_y": -176.483860555971
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29855,7 +30296,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Zariheim"
+    "region": "Zariheim",
+    "coord_x": -340.0241433255944,
+    "coord_y": -184.25452130849573
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29871,7 +30314,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Zariheim"
+    "region": "Zariheim",
+    "coord_x": -332.30151093761026,
+    "coord_y": -206.057772631293
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29887,7 +30332,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Zariheim"
+    "region": "Zariheim",
+    "coord_x": -362.94691950470747,
+    "coord_y": -208.9139138028483
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29903,7 +30350,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Frondeval"
+    "region": "Frondeval",
+    "coord_x": -404.1028524776817,
+    "coord_y": -153.2800279257795
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29919,7 +30368,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Frondeval"
+    "region": "Frondeval",
+    "coord_x": -394.1546862450428,
+    "coord_y": -138.7099595664044
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29935,7 +30386,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Frondeval"
+    "region": "Frondeval",
+    "coord_x": -385.6578465097997,
+    "coord_y": -132.29591062977244
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29951,7 +30404,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Meridia"
+    "region": "Meridia",
+    "coord_x": -440.49208513842996,
+    "coord_y": -165.51487939846902
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29967,7 +30422,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Meridia"
+    "region": "Meridia",
+    "coord_x": -418.03577619729975,
+    "coord_y": -134.87573105077956
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29983,7 +30440,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Meridia"
+    "region": "Meridia",
+    "coord_x": -416.9707127207372,
+    "coord_y": -148.5085435507795
    },
    "status": "canon",
    "disclosure": "interne",
@@ -29999,7 +30458,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Meridia"
+    "region": "Meridia",
+    "coord_x": -414.9612901565695,
+    "coord_y": -164.22728211269612
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30015,7 +30476,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Teldar"
+    "region": "Teldar",
+    "coord_x": -338.41478939805484,
+    "coord_y": -90.50483311534248,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30031,7 +30495,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Teldar"
+    "region": "Teldar",
+    "coord_x": -349.6524228450329,
+    "coord_y": -90.28515759775513
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30047,7 +30513,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Teldar"
+    "region": "Teldar",
+    "coord_x": -336.1862032435409,
+    "coord_y": -85.77689800249516
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30063,7 +30531,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Teldar"
+    "region": "Teldar",
+    "coord_x": -319.59790934028626,
+    "coord_y": -94.8123750931428
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30079,7 +30549,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Teldar"
+    "region": "Teldar",
+    "coord_x": -346.8500921324298,
+    "coord_y": -79.13279535492569
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30095,7 +30567,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Teldar"
+    "region": "Teldar",
+    "coord_x": -326.8553885036827,
+    "coord_y": -71.08603395112675
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30111,7 +30585,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Caelith"
+    "region": "Caelith",
+    "coord_x": -359.04970159062236,
+    "coord_y": -107.44353209765563
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30127,7 +30603,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Caelith"
+    "region": "Caelith",
+    "coord_x": -346.8085460152957,
+    "coord_y": -100.36969026531494
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30143,7 +30621,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Mytzar"
+    "region": "Mytzar",
+    "coord_x": -319.0386971221044,
+    "coord_y": -102.54266163859734
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30159,7 +30639,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Mytzar"
+    "region": "Mytzar",
+    "coord_x": -325.693754765498,
+    "coord_y": -116.85561311321
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30175,7 +30657,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Mytzar"
+    "region": "Mytzar",
+    "coord_x": -338.5523127535214,
+    "coord_y": -104.17971635000993
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30191,7 +30675,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Mytzar"
+    "region": "Mytzar",
+    "coord_x": -294.5520122022975,
+    "coord_y": -94.9988035646719
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30207,7 +30693,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Ethrion"
+    "region": "Ethrion",
+    "coord_x": -303.3795312331301,
+    "coord_y": -74.79968672502815
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30223,7 +30711,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Ethrion"
+    "region": "Ethrion",
+    "coord_x": -313.1686479866023,
+    "coord_y": -79.79838464169472
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30239,7 +30729,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Plenera"
+    "region": "Plenera",
+    "coord_x": -400.709770788601,
+    "coord_y": -74.0532512045539,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30255,7 +30748,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Plenera"
+    "region": "Plenera",
+    "coord_x": -389.423216903627,
+    "coord_y": -93.4130275817478
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30271,7 +30766,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Plenera"
+    "region": "Plenera",
+    "coord_x": -399.565866409303,
+    "coord_y": -105.370923578305
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30287,7 +30784,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Plenera"
+    "region": "Plenera",
+    "coord_x": -406.519019697948,
+    "coord_y": -88.9130568384727
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30303,7 +30802,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Plenera"
+    "region": "Plenera",
+    "coord_x": -399.21726546089,
+    "coord_y": -83.2344872709283
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30319,7 +30820,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Plenera"
+    "region": "Plenera",
+    "coord_x": -386.457255983241,
+    "coord_y": -100.282159575276
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30335,7 +30838,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Plenera"
+    "region": "Plenera",
+    "coord_x": -370.812269966042,
+    "coord_y": -68.57014848348
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30351,7 +30856,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Jolera"
+    "region": "Jolera",
+    "coord_x": -396.693773748522,
+    "coord_y": -117.765491037435
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30367,7 +30874,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Jolera"
+    "region": "Jolera",
+    "coord_x": -408.943305543792,
+    "coord_y": -126.80822540704
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30383,7 +30892,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Jolera"
+    "region": "Jolera",
+    "coord_x": -378.089636861144,
+    "coord_y": -119.141581317696
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30415,7 +30926,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Rystera"
+    "region": "Rystera",
+    "coord_x": -414.237843496308,
+    "coord_y": -80.8132383393653
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30431,7 +30944,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Rystera"
+    "region": "Rystera",
+    "coord_x": -421.493031714385,
+    "coord_y": -93.6065618464029
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30447,7 +30962,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Rystera"
+    "region": "Rystera",
+    "coord_x": -424.927873794266,
+    "coord_y": -90.5667026785052
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30463,7 +30980,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Astralor"
+    "region": "Astralor",
+    "coord_x": -397.215662866382,
+    "coord_y": -45.5743574621944
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30479,7 +30998,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Astralor"
+    "region": "Astralor",
+    "coord_x": -417.277058470267,
+    "coord_y": -48.5069123254853
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30495,7 +31016,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Astralor"
+    "region": "Astralor",
+    "coord_x": -382.15799766565,
+    "coord_y": -56.0215266453526
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30511,7 +31034,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Astralor"
+    "region": "Astralor",
+    "coord_x": -399.800721113725,
+    "coord_y": -56.5230776402981
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30527,7 +31052,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Astralor"
+    "region": "Astralor",
+    "coord_x": -385.431147066976,
+    "coord_y": -31.3346345078981
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30543,7 +31070,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Astralor"
+    "region": "Astralor",
+    "coord_x": -418.521365076259,
+    "coord_y": -54.2826631500321
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30575,7 +31104,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Astralor"
+    "region": "Astralor",
+    "coord_x": -79.1784038354643,
+    "coord_y": -239.86545796733
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30591,7 +31122,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Nomadaro"
+    "region": "Nomadaro",
+    "coord_x": -236.62940771097232,
+    "coord_y": -118.72431474644293,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30607,7 +31141,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Nomadaro"
+    "region": "Nomadaro",
+    "coord_x": -215.2975263007312,
+    "coord_y": -99.34019751429798
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30623,7 +31159,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Nomadaro"
+    "region": "Nomadaro",
+    "coord_x": -221.28064596490083,
+    "coord_y": -116.11622437162225
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30639,7 +31177,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Nomadaro"
+    "region": "Nomadaro",
+    "coord_x": -250.55795347820197,
+    "coord_y": -124.42868994045403
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30655,7 +31195,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Nomadaro"
+    "region": "Nomadaro",
+    "coord_x": -269.53977085284896,
+    "coord_y": -101.64745799686978
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30671,7 +31213,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Hiliara"
+    "region": "Hiliara",
+    "coord_x": -246.9085473922254,
+    "coord_y": -150.18377721022642
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30687,7 +31231,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Hiliara"
+    "region": "Hiliara",
+    "coord_x": -253.30330358131636,
+    "coord_y": -148.7035095738628
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30703,7 +31249,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Hiliara"
+    "region": "Hiliara",
+    "coord_x": -234.244535427636,
+    "coord_y": -141.320534425011
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30719,7 +31267,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Umarisar"
+    "region": "Umarisar",
+    "coord_x": -194.1956298213599,
+    "coord_y": -158.75674802216918
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30735,7 +31285,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Umarisar"
+    "region": "Umarisar",
+    "coord_x": -166.90068723501435,
+    "coord_y": -126.84653736318324
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30751,7 +31303,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Umarisar"
+    "region": "Umarisar",
+    "coord_x": -178.506985597001,
+    "coord_y": -120.96492948070437
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30767,7 +31321,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Umarisar"
+    "region": "Umarisar",
+    "coord_x": -174.75712120424288,
+    "coord_y": -152.35411666350382
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30783,7 +31339,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Umarisar"
+    "region": "Umarisar",
+    "coord_x": -186.26032172669682,
+    "coord_y": -136.0765465519127
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30799,7 +31357,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Azuris"
+    "region": "Azuris",
+    "coord_x": -198.38000684572899,
+    "coord_y": -127.61743327929821
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30815,7 +31375,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Azuris"
+    "region": "Azuris",
+    "coord_x": -199.601945775184,
+    "coord_y": -107.58178573435953
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30831,7 +31393,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Solandra"
+    "region": "Solandra",
+    "coord_x": -177.31684436710867,
+    "coord_y": -106.61078735591173
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30847,7 +31411,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Solandra"
+    "region": "Solandra",
+    "coord_x": -188.43664511611524,
+    "coord_y": -97.86118829567965
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30863,7 +31429,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Solandra"
+    "region": "Solandra",
+    "coord_x": -171.40487316862118,
+    "coord_y": -94.32179389672342
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30879,7 +31447,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Osaria"
+    "region": "Osaria",
+    "coord_x": -252.80395594748404,
+    "coord_y": -80.19820197923167
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30895,7 +31465,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Osaria"
+    "region": "Osaria",
+    "coord_x": -266.3629240464424,
+    "coord_y": -78.44865770839829
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30911,7 +31483,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Osaria"
+    "region": "Osaria",
+    "coord_x": -251.82015725454937,
+    "coord_y": -90.58155402912615
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30927,7 +31501,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Ysundara"
+    "region": "Ysundara",
+    "coord_x": -195.46842018522568,
+    "coord_y": -78.43462740122567
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30943,7 +31519,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Ysundara"
+    "region": "Ysundara",
+    "coord_x": -207.61109054112825,
+    "coord_y": -69.6035944151144
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30959,7 +31537,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Ysundara"
+    "region": "Ysundara",
+    "coord_x": -228.93887907795545,
+    "coord_y": -77.22660873803119
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30975,7 +31555,9 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Nalithos"
+    "region": "Nalithos",
+    "coord_x": -260.0682669604911,
+    "coord_y": -234.62033413050932
    },
    "status": "canon",
    "disclosure": "interne",
@@ -30991,7 +31573,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Nalithos"
+    "region": "Nalithos",
+    "coord_x": -238.91771070738503,
+    "coord_y": -231.06074028210958
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31007,7 +31591,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Nalithos"
+    "region": "Nalithos",
+    "coord_x": -229.28111749432242,
+    "coord_y": -247.8197486643394
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31023,7 +31609,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Nalithos"
+    "region": "Nalithos",
+    "coord_x": -248.05394196049156,
+    "coord_y": -247.42619113050898
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31039,7 +31627,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Ithralis"
+    "region": "Ithralis",
+    "coord_x": -243.9880267418123,
+    "coord_y": -209.42088881642803
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31055,7 +31645,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Ithralis"
+    "region": "Ithralis",
+    "coord_x": -263.323817920642,
+    "coord_y": -218.032068894146
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31071,7 +31663,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Krysalor"
+    "region": "Krysalor",
+    "coord_x": -235.69215671081542,
+    "coord_y": -191.30103336677172
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31087,7 +31681,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Krysalor"
+    "region": "Krysalor",
+    "coord_x": -222.8326497073851,
+    "coord_y": -221.92985328210955
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31103,7 +31699,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Krysalor"
+    "region": "Krysalor",
+    "coord_x": -241.51557071081515,
+    "coord_y": -186.07126836677185
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31119,7 +31717,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Rontho"
+    "region": "Rontho",
+    "coord_x": -218.93772076957532,
+    "coord_y": -190.35582967019076
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31135,7 +31735,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Rontho"
+    "region": "Rontho",
+    "coord_x": -224.18192037335575,
+    "coord_y": -179.79629362014822
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31151,7 +31753,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Grendor"
+    "region": "Grendor",
+    "coord_x": -191.45673832811087,
+    "coord_y": -203.52918367019055
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31167,7 +31771,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Grendor"
+    "region": "Grendor",
+    "coord_x": -191.88077332811082,
+    "coord_y": -189.47949067019084
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31183,7 +31789,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Fyrilith"
+    "region": "Fyrilith",
+    "coord_x": -233.66508627222532,
+    "coord_y": -160.50617686113554
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31199,7 +31807,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Fyrilith"
+    "region": "Fyrilith",
+    "coord_x": -187.13158132811083,
+    "coord_y": -180.33171810602715
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31215,7 +31825,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Fyrilith"
+    "region": "Fyrilith",
+    "coord_x": -206.68340937335608,
+    "coord_y": -166.99043662014833
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31231,7 +31843,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Fyrilith"
+    "region": "Fyrilith",
+    "coord_x": -244.9743310140435,
+    "coord_y": -159.75617459204466
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31247,7 +31861,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Fyrilith"
+    "region": "Fyrilith",
+    "coord_x": -185.73434227557925,
+    "coord_y": -168.78964496735432
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31263,7 +31879,10 @@
    "body": null,
    "data": {
     "echelle": "cite",
-    "region": "Oracalis"
+    "region": "Oracalis",
+    "coord_x": -437.351706063743,
+    "coord_y": -81.8961283499203,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31279,7 +31898,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Oracalis"
+    "region": "Oracalis",
+    "coord_x": -445.414621452947,
+    "coord_y": -68.2519166778796
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31295,7 +31916,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Oracalis"
+    "region": "Oracalis",
+    "coord_x": -445.515759901285,
+    "coord_y": -74.8079704173151
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31311,7 +31934,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Etheira"
+    "region": "Etheira",
+    "coord_x": -444.675823033236,
+    "coord_y": -104.557214606322
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31327,7 +31952,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Etheira"
+    "region": "Etheira",
+    "coord_x": -455.429444475691,
+    "coord_y": -98.7865253055776
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31343,7 +31970,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Etheira"
+    "region": "Etheira",
+    "coord_x": -437.729387767093,
+    "coord_y": -89.1561940363895
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31359,7 +31988,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Etheira"
+    "region": "Etheira",
+    "coord_x": -440.878667876823,
+    "coord_y": -114.156164427937
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31375,7 +32006,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Etheira"
+    "region": "Etheira",
+    "coord_x": -453.324862878735,
+    "coord_y": -116.34495137542
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31391,7 +32024,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Vesperilia"
+    "region": "Vesperilia",
+    "coord_x": -431.193119984339,
+    "coord_y": -49.8758244447176
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31407,7 +32042,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Vesperilia"
+    "region": "Vesperilia",
+    "coord_x": -435.258167791446,
+    "coord_y": -63.0405717711313
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31423,7 +32060,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Vesperilia"
+    "region": "Vesperilia",
+    "coord_x": -444.43921980241,
+    "coord_y": -48.6893112377756
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31439,7 +32078,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Vesperilia"
+    "region": "Vesperilia",
+    "coord_x": -435.691434228915,
+    "coord_y": -46.3425127199578
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31455,7 +32096,9 @@
    "body": null,
    "data": {
     "echelle": "ville",
-    "region": "Boralis"
+    "region": "Boralis",
+    "coord_x": -446.989123466254,
+    "coord_y": -40.9476645684532
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31471,7 +32114,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Boralis"
+    "region": "Boralis",
+    "coord_x": -453.731717364727,
+    "coord_y": -39.7094317910234
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31487,7 +32132,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Tetramis"
+    "region": "Tetramis",
+    "coord_x": -457.60608376605,
+    "coord_y": -70.5673337481238
    },
    "status": "canon",
    "disclosure": "interne",
@@ -31503,7 +32150,9 @@
    "body": null,
    "data": {
     "echelle": "bourg",
-    "region": "Tetramis"
+    "region": "Tetramis",
+    "coord_x": -468.909202638013,
+    "coord_y": -72.4976148708731
    },
    "status": "canon",
    "disclosure": "interne",
@@ -32089,7 +32738,10 @@
    "summary": "Capitale de Mosrack, citadelle industrielle aux murs de fer rouillé dans la région de Toreck ; siège du Directoire, bâtie par Volkar le Marteau sur une colline artificielle faite des scories des forges des clans vaincus.",
    "body": null,
    "data": {
-    "echelle": "cite"
+    "echelle": "cite",
+    "coord_x": 11.7131276071013,
+    "coord_y": 95.0432403119134,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -32104,7 +32756,10 @@
    "summary": "Capitale de Tyndara dans la région de Fablior, ville de canaux et de palais de marbre blanc ; choisie par Selyra la Calculatrice pour sa baie neutre, avec le Palais de l'Archonte bâti sur une île artificielle.",
    "body": null,
    "data": {
-    "echelle": "cite"
+    "echelle": "cite",
+    "coord_x": 326.678133717787,
+    "coord_y": 203.190150590128,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -32119,7 +32774,10 @@
    "summary": "Capitale de Myrtam sur le plateau volcanique d'Haliandra, siège du roi Thorvald VIII ; abrite la Grande Forge creusée dans le basalte et le Palais du Roi-Fondeur.",
    "body": null,
    "data": {
-    "echelle": "cite"
+    "echelle": "cite",
+    "coord_x": 219.346036744022,
+    "coord_y": -144.231922916038,
+    "capitale": true
    },
    "status": "canon",
    "disclosure": "interne",
@@ -32134,7 +32792,9 @@
    "summary": "Village minier de la région de Nosford (Mosrack), aux mines parmi les plus profondes d'Onara ; au niveau le plus bas, les mineurs ont mis au jour des ossements gigantesques, découverte classée secrète par le Directoire.",
    "body": null,
    "data": {
-    "echelle": "bourg"
+    "echelle": "bourg",
+    "coord_x": 361.995790310862,
+    "coord_y": 95.8041253809428
    },
    "status": "canon",
    "disclosure": "interne",
