@@ -27,11 +27,28 @@ const OUT = path.join(__dirname, '..', 'data', 'lore-extracted.json');
 // Ordre de fusion : événements/chronologie avant les lots de rois.
 const ORDER = [
   'concepts', 'religions', 'lineages', 'characters', 'divinities',
-  'events', 'vies', 'objets',
+  'events', 'chronologie', 'vies', 'objets',
   'rulers-A', 'rulers-B', 'rulers-C', 'rulers-D',
 ];
-const RULER_BATCHES = new Set(['rulers-A', 'rulers-B', 'rulers-C', 'rulers-D']);
+// Lots à dater avec prudence : sources narratives (fiches Histoires, Pays,
+// Chroniques, romans) où trois calendriers se mêlent (ap.A / du Sillage /
+// « an X » local). On n'y garde une année que si elle est clairement en temps
+// profond absolu (|an| > 300) ; sinon null + date préservée dans le libellé.
+// Les lots à datation canonique (chronologie, events, vies) en sont exemptés.
+const NARRATIVE_PREFIXES = ['rulers', 'pays', 'chroniques', 'romans', 'histoires', 'gdd-monde'];
+const needsDateFilter = (name) => NARRATIVE_PREFIXES.some((p) => name === p || name.startsWith(p + '-'));
 const DEEP_TIME = 300; // |année| > 300 ⇒ datation absolue conservée
+
+// Découverte : tous les *.json du dossier (hors artefacts), triés selon ORDER
+// puis alphabétiquement pour les nouveaux lots. L'ordre place les sources
+// datées canoniques avant les doublons narratifs (la version datée gagne au dédup).
+const DENYLIST = new Set(['lore-extracted', '.lore-aggregate-report']);
+const discovered = fs.readdirSync(DIR)
+  .filter((f) => f.endsWith('.json'))
+  .map((f) => f.replace(/\.json$/, ''))
+  .filter((n) => !DENYLIST.has(n));
+const rank = (n) => { const i = ORDER.indexOf(n); return i === -1 ? ORDER.length : i; };
+const BATCHES = discovered.sort((a, b) => (rank(a) - rank(b)) || a.localeCompare(b));
 
 const norm = (s) => String(s == null ? '' : s).replace(/[’‘]/g, "'").trim();
 const eKey = (e) => `${e.type}|${norm(e.name)}`;
@@ -47,11 +64,11 @@ const fSeen = new Set();
 
 const report = { batches: {}, entityCollisions: [], orphanEvents: [], dateFiltered: 0, relDup: 0, factDup: 0 };
 
-for (const name of ORDER) {
+for (const name of BATCHES) {
   const file = path.join(DIR, `${name}.json`);
   if (!fs.existsSync(file)) { report.batches[name] = 'ABSENT'; continue; }
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const isRuler = RULER_BATCHES.has(name);
+  const isRuler = needsDateFilter(name);
   let ne = 0, nr = 0, nf = 0;
 
   for (const e of (data.entities || [])) {
@@ -129,7 +146,7 @@ const out = {
   _meta: {
     note: 'Agrégé depuis les lots d\'extraction du corpus (scripts/aggregate-lore.js). ' +
       'Ne pas éditer à la main — régénérer via `node scripts/aggregate-lore.js`.',
-    order: ORDER,
+    order: BATCHES,
     dateFilterDeepTimeThreshold: DEEP_TIME,
     totals: { entities: entities.length, relations: relations.length, facts: facts.length },
   },
