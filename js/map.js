@@ -1520,20 +1520,23 @@ function initMap() {
     }
 
     function loadTimelineData() {
-        fetch('/api/timeline')
+        // Source primaire : le graphe de connaissances (projection year-based
+        // reconstruite depuis les entités « ere »/« lieu »/« entite-politique »).
+        // Repli sur data/timeline-names.json si le graphe est vide ou indisponible.
+        fetch('/api/kg?action=timeline')
             .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
             .then(data => {
                 timelineData = data.timelineData;
                 if (!timelineData || !timelineData.eras || timelineData.eras.length === 0) {
-                    console.warn('Timeline DB empty, trying local fallback');
+                    console.warn('Timeline graph empty, trying local fallback');
                     return loadTimelineFromFile();
                 }
-                console.log('Timeline data loaded from Turso:', timelineData.eras.length, 'eras');
+                console.log('Timeline data loaded from graph:', timelineData.eras.length, 'eras');
                 normalizeTimelineData();
                 initTimelineUI();
             })
             .catch(err => {
-                console.warn('Timeline API failed, trying local fallback:', err);
+                console.warn('Timeline graph API failed, trying local fallback:', err);
                 loadTimelineFromFile();
             });
     }

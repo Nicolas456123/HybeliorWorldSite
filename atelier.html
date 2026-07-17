@@ -138,6 +138,15 @@
     .issue.erreur { border-left-color: var(--err); } .issue.avert { border-left-color: var(--warn); } .issue.info { border-left-color: var(--accent); }
     .issue .k { font-size: 10px; text-transform: uppercase; color: var(--faint); letter-spacing: .05em; }
 
+    /* ── Arbre ── */
+    .arbre-band { display: flex; gap: 10px; align-items: center; margin: 8px 0; flex-wrap: wrap; }
+    .arbre-band .lbl { width: 120px; font-size: 11px; text-transform: uppercase; color: var(--gold); letter-spacing: .05em; flex-shrink: 0; }
+    .gen-node { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; cursor: pointer; min-width: 108px; }
+    .gen-node:hover { border-color: var(--gold); }
+    .gen-node.center { border-color: var(--gold); background: #2a2318; cursor: default; }
+    .gen-node .gn { font-weight: 600; }
+    .gen-node .gl { font-size: 11px; color: var(--faint); font-variant-numeric: tabular-nums; }
+
     .empty { color: var(--faint); text-align: center; padding: 60px 20px; font-style: italic; }
     .toast {
       position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
@@ -172,6 +181,7 @@
         <div class="tab active" data-tab="fiche">Fiche</div>
         <div class="tab" data-tab="chronologie">Chronologie</div>
         <div class="tab" data-tab="dirigeants">Dirigeants</div>
+        <div class="tab" data-tab="arbre">Arbre</div>
         <div class="tab" data-tab="coherence">Cohérence</div>
       </div>
       <div id="view"></div>

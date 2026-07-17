@@ -46,6 +46,26 @@ La non-duplication n'est pas une discipline : elle est structurelle.
 - **Statut épistémique** partout : `canon` › `lecture-disputee` › `rumeur` ›
   `retconne`. Le graphe dit ce qu'on sait *et* à quel degré.
 
+## Projections
+
+Une info écrite une fois est affichée partout, sans duplication :
+
+- **Fiche** (dossier) — alias, faits, relations, lectures agrégés à la lecture.
+- **Chronologie** — tous les faits triés par (date, seq).
+- **Dirigeants** — *calculés* depuis les faits « regne » (trous/chevauchements détectés).
+- **Arbre généalogique** — ascendance/descendance via « parent-de », conjoints, vies.
+- **Cohérence** — le scan global (voir plus bas).
+- **Timeline** (`action=timeline`, **publique**) — reconstruit la forme year-based
+  de `timeline-names.json` (eras / continentTimelines / countries) *depuis le graphe*.
+  La **carte** du site (`js/map.js`) la consomme comme source primaire, avec repli
+  sur `data/timeline-names.json` si le graphe est vide. Le graphe devient ainsi la
+  source de vérité de la carte, sans rien dupliquer.
+
+  > La **frise** (`pages/frise.html` + `js/timeline-data.js`) reste sur ses données
+  > statiques : son jeu d'ères et son système de coordonnées internes diffèrent du
+  > modèle calendaire du graphe ; la brancher demanderait de réconcilier deux schémas
+  > (étape ultérieure, non faite pour ne pas casser l'existant).
+
 ## Cohérence garantie
 
 L'onglet **Cohérence** (et `getConsistencyReport`) scanne tout le graphe :

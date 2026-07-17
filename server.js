@@ -301,12 +301,13 @@ const server = http.createServer(async (req, res) => {
         try {
             await ensureKgSchema();
             if (req.method === 'GET') {
-                if (req.headers['x-editor-password'] !== EDITOR_PASSWORD) {
+                const query = Object.fromEntries(url.searchParams.entries());
+                const action = query.action || 'list';
+                if (action !== 'timeline' && req.headers['x-editor-password'] !== EDITOR_PASSWORD) {
                     res.writeHead(403, { 'Content-Type': 'application/json' });
                     return res.end(JSON.stringify({ error: 'Mot de passe requis (header X-Editor-Password)' }));
                 }
-                const query = Object.fromEntries(url.searchParams.entries());
-                const out = await kg.readAction(kgExec, query.action || 'list', query);
+                const out = await kg.readAction(kgExec, action, query);
                 res.writeHead(200, { 'Content-Type': 'application/json' });
                 return res.end(JSON.stringify(out));
             }

@@ -159,6 +159,7 @@ function renderView() {
   if (S.tab === 'fiche') renderFiche();
   else if (S.tab === 'chronologie') renderChronologie();
   else if (S.tab === 'dirigeants') renderDirigeants();
+  else if (S.tab === 'arbre') renderArbre();
   else if (S.tab === 'coherence') renderCoherence();
 }
 function selectEntity(id) {
@@ -486,6 +487,40 @@ async function renderDirigeants() {
     h('h3', {}, h('span', { text: 'Liste de dirigeants (calculée depuis les faits « regne »)' })),
     h('div', { class: 'row', style: 'margin-bottom:14px' }, h('div', { class: 'grow' }, picker.element), h('button', { onclick: run, text: 'Afficher' })),
     out));
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// ARBRE GÉNÉALOGIQUE
+// ═══════════════════════════════════════════════════════════════════════════════
+async function renderArbre() {
+  const view = $('#view'); view.innerHTML = '';
+  const picker = makePicker(S.selectedId || null, null, 'Choisir une personne…');
+  const out = h('div', {});
+  const gnode = (n, cls) => h('div', { class: 'gen-node' + (cls ? ' ' + cls : ''), onclick: cls === 'center' ? null : () => selectEntity(n.id) },
+    h('div', { class: 'gn', text: n.name }), n.lifeLabel ? h('div', { class: 'gl', text: n.lifeLabel }) : null);
+  const band = (label, nodes) => nodes.length ? h('div', { class: 'arbre-band' }, h('div', { class: 'lbl', text: label }), ...nodes.map(n => gnode(n))) : null;
+  const run = async () => {
+    const id = picker.get() || S.selectedId;
+    if (!id) return toast('Choisis une personne', true);
+    const { arbre } = await guard(() => KG.get('arbre', { id }));
+    out.innerHTML = '';
+    if (!arbre) { out.append(h('div', { class: 'empty', text: 'Entité introuvable.' })); return; }
+    const gp = band('Grands-parents', arbre.grandparents); if (gp) out.append(gp);
+    const pa = band('Parents', arbre.parents); if (pa) out.append(pa);
+    out.append(h('div', { class: 'arbre-band' }, h('div', { class: 'lbl', text: 'Génération' }),
+      gnode(arbre.center, 'center'),
+      ...arbre.conjoints.map(n => gnode({ ...n, name: '⚭ ' + n.name })),
+      ...arbre.siblings.map(n => gnode(n))));
+    const ch = band('Enfants', arbre.children); if (ch) out.append(ch);
+    const gc = band('Petits-enfants', arbre.grandchildren); if (gc) out.append(gc);
+    const total = arbre.grandparents.length + arbre.parents.length + arbre.conjoints.length + arbre.siblings.length + arbre.children.length + arbre.grandchildren.length;
+    if (!total) out.append(h('div', { class: 'empty', text: 'Aucun lien familial. Ajoute des relations « parent-de » / « conjoint-de » depuis les fiches.' }));
+  };
+  view.append(h('div', { class: 'section' },
+    h('h3', {}, h('span', { text: 'Arbre généalogique' })),
+    h('div', { class: 'row', style: 'margin-bottom:14px' }, h('div', { class: 'grow' }, picker.element), h('button', { onclick: run, text: 'Afficher' })),
+    out));
+  if (S.selectedId) run();
 }
 
 // ═══════════════════════════════════════════════════════════════════════════════

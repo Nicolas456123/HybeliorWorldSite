@@ -46,13 +46,17 @@ module.exports = async function handler(req, res) {
   try {
     await ensureSchema(exec);
 
-    // ── Lectures (GET) — le site est privé : mot de passe requis (header) ──
+    // ── Lectures (GET) — privé (mot de passe), sauf « timeline » (public,
+    //     mêmes données non secrètes que le fichier timeline-names public) ──
     if (req.method === 'GET') {
-      const provided = req.headers['x-editor-password'];
-      if (!PASSWORD || provided !== PASSWORD) {
-        return res.status(403).json({ error: 'Mot de passe requis (header X-Editor-Password)' });
+      const action = req.query.action || 'list';
+      if (action !== 'timeline') {
+        const provided = req.headers['x-editor-password'];
+        if (!PASSWORD || provided !== PASSWORD) {
+          return res.status(403).json({ error: 'Mot de passe requis (header X-Editor-Password)' });
+        }
       }
-      const out = await kg.readAction(exec, req.query.action || 'list', req.query);
+      const out = await kg.readAction(exec, action, req.query);
       return res.status(200).json(out);
     }
 
