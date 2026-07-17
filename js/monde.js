@@ -24,6 +24,48 @@ function h(tag, attrs, ...kids) {
 }
 const debounce = (fn, ms) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; };
 
+/* Gestes tactiles (iPhone/Android) : glisser = pan, pincer = zoom, taper = tap.
+ * Coordonnées en px CSS relatifs au canvas ; l'appelant convertit (× dpr). */
+function gestesTactiles(cv, g) {
+  let t1 = null, pince = null, bouge = false;
+  const pt = (t) => { const r = cv.getBoundingClientRect(); return { x: t.clientX - r.left, y: t.clientY - r.top }; };
+  cv.addEventListener('touchstart', (ev) => {
+    ev.preventDefault();
+    if (ev.touches.length === 1) { t1 = pt(ev.touches[0]); bouge = false; if (g.surPrise) g.surPrise(t1); }
+    else if (ev.touches.length === 2) {
+      const a = pt(ev.touches[0]), b = pt(ev.touches[1]);
+      pince = { d: Math.hypot(a.x - b.x, a.y - b.y), cx: (a.x + b.x) / 2, cy: (a.y + b.y) / 2 };
+      t1 = null;
+    }
+  }, { passive: false });
+  cv.addEventListener('touchmove', (ev) => {
+    ev.preventDefault();
+    if (ev.touches.length === 1 && t1) {
+      const p = pt(ev.touches[0]);
+      const dx = p.x - t1.x, dy = p.y - t1.y;
+      if (Math.abs(dx) + Math.abs(dy) > 6) bouge = true;
+      if (g.surPan) g.surPan(dx, dy, p);
+      t1 = p;
+    } else if (ev.touches.length === 2 && pince) {
+      const a = pt(ev.touches[0]), b = pt(ev.touches[1]);
+      const d = Math.hypot(a.x - b.x, a.y - b.y);
+      const cx = (a.x + b.x) / 2, cy = (a.y + b.y) / 2;
+      if (g.surZoom && pince.d > 0 && d > 0) g.surZoom(d / pince.d, cx, cy);
+      if (g.surPan) g.surPan(cx - pince.cx, cy - pince.cy, { x: cx, y: cy });
+      pince = { d, cx, cy };
+      bouge = true;
+    }
+  }, { passive: false });
+  cv.addEventListener('touchend', (ev) => {
+    ev.preventDefault();
+    if (ev.touches.length === 0) {
+      if (!bouge && t1 && g.surTap) g.surTap(t1);
+      if (g.surLacher) g.surLacher();
+      t1 = null; pince = null;
+    }
+  }, { passive: false });
+}
+
 /* ── API + caches ──────────────────────────────────────────────────────── */
 const API = '/api/kg';
 async function kget(params) {
@@ -591,7 +633,7 @@ const CARTE_MEM = {
   couches: new Set(['fond', 'spheres', 'lien']),
   echelles: new Set(['region', 'cite', 'ville', 'bourg']),
   noms: new Set(['continents', 'nations', 'regions', 'villes', 'religions', 'epoque']),
-  replie: false,
+  replie: matchMedia('(max-width: 700px)').matches,   // replié par défaut sur mobile
 };
 async function vueCarte(focusId) {
   const [lieuxTous, reseau, eresListe] = await Promise.all([
@@ -730,7 +772,7 @@ async function vueCarte(focusId) {
   // barre temporelle + légende
   const barreTemps = h('div', { style: 'display:flex;align-items:center;gap:14px;margin:10px 6px 0' });
   const slider = h('input', { type: 'range', min: -20000, max: 10400, step: 20, value: M.annee, style: 'flex:1;accent-color:#c9a24b' });
-  const etiqTemps = h('span', { style: 'min-width:230px;text-align:right;color:var(--gold-soft);font-family:Cinzel,serif;font-size:13px;letter-spacing:1px' });
+  const etiqTemps = h('span', { class: 'etiq-temps', style: 'min-width:230px;text-align:right;color:var(--gold-soft);font-family:Cinzel,serif;font-size:13px;letter-spacing:1px' });
   barreTemps.append(slider, etiqTemps);
   vue.append(barreTemps);
   const legendeEl = h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin:8px 0 4px;letter-spacing:1px' });
@@ -943,6 +985,29 @@ async function vueCarte(focusId) {
     }
     peindre();
   }, 200));
+
+  // tactile : glisser = déplacer, pincer = zoomer, taper = sélectionner puis ouvrir
+  gestesTactiles(cv, {
+    surPan: (dx, dy) => { ox += dx * dpr; oy += dy * dpr; memoriser(); peindre(); },
+    surZoom: (f, cx, cy) => {
+      const mx = cx * dpr, my = cy * dpr;
+      const k2 = Math.max(kBase * .6, Math.min(kBase * 30, k * f));
+      ox = mx - (mx - ox) * (k2 / k); oy = my - (my - oy) * (k2 / k); k = k2;
+      memoriser(); peindre();
+    },
+    surTap: (p) => {
+      const mx = p.x * dpr, my = p.y * dpr;
+      let best = null, d2min = (24 * dpr) ** 2;
+      for (const l of lieux) {
+        if (!M.echelles.has(l.data.echelle || 'ville')) continue;
+        const [sx, sy] = E(+l.data.coord_x, +l.data.coord_y);
+        const d2 = (sx - mx) ** 2 + (sy - my) ** 2;
+        if (d2 < d2min) { d2min = d2; best = l; }
+      }
+      if (best && best === survole) { memoriser(); aller('#/fiche/' + best.id); }
+      else { survole = best; peindre(); }
+    },
+  });
 }
 
 /* ── Arbre généalogique (SVG) ──────────────────────────────────────────── */
@@ -1205,6 +1270,31 @@ function trameForce(cv, data) {
     const k2 = Math.max(.3, Math.min(5, k * (ev.deltaY < 0 ? 1.15 : 1 / 1.15)));
     ox = mx - (mx - ox) * (k2 / k); oy = my - (my - oy) * (k2 / k); k = k2;
   }, { passive: false });
+
+  // tactile : saisir un astre pour le déplacer, glisser le vide, pincer, taper pour ouvrir
+  gestesTactiles(cv, {
+    surPrise: (p) => {
+      const box = cv.getBoundingClientRect();
+      const { best } = sous({ clientX: p.x + box.left, clientY: p.y + box.top });
+      if (best) { saisi = best; chaud = Math.max(chaud, .5); }
+    },
+    surPan: (dx, dy, p) => {
+      if (saisi) { const mx = p.x * dpr, my = p.y * dpr; saisi.x = (mx - ox) / k; saisi.y = (my - oy) / k; saisi.bouge = true; }
+      else { ox += dx * dpr; oy += dy * dpr; }
+    },
+    surZoom: (f, cx, cy) => {
+      const mx = cx * dpr, my = cy * dpr;
+      const k2 = Math.max(.3, Math.min(5, k * f));
+      ox = mx - (mx - ox) * (k2 / k); oy = my - (my - oy) * (k2 / k); k = k2;
+    },
+    surTap: (p) => {
+      const box = cv.getBoundingClientRect();
+      const { best } = sous({ clientX: p.x + box.left, clientY: p.y + box.top });
+      if (best && best === survole) aller('#/fiche/' + best.id);
+      else survole = best;
+    },
+    surLacher: () => { if (saisi) saisi.bouge = false; saisi = null; },
+  });
 }
 
 /* ── La Fresque du temps : tous les faits datés, zoomables ─────────────── */
@@ -1327,6 +1417,36 @@ async function vueFresque() {
     if (n1 - n0 > 26e6) return;               // plafond : tout le cosmos
     a0 = n0; a1 = n1; peindre();
   }, { passive: false });
+
+  // tactile : glisser le temps, pincer une époque, taper un fait
+  gestesTactiles(cv, {
+    surPan: (dx) => {
+      const box = cv.getBoundingClientRect();
+      const da = dx / box.width * (a1 - a0);
+      a0 -= da; a1 -= da; peindre();
+    },
+    surZoom: (f, cx) => {
+      const box = cv.getBoundingClientRect();
+      const frac = cx / box.width;
+      const pivot = a0 + frac * (a1 - a0);
+      const z = 1 / f;
+      const n0 = pivot - (pivot - a0) * z, n1 = pivot + (a1 - pivot) * z;
+      if (n1 - n0 >= 40 && n1 - n0 <= 26e6) { a0 = n0; a1 = n1; }
+      peindre();
+    },
+    surTap: (p) => {
+      const mx = p.x * dpr, my = p.y * dpr;
+      let best = null, d2min = (20 * dpr) ** 2;
+      for (const f of faits) {
+        const x = X(f.start_year); if (x < 0 || x > W) continue;
+        const y = laneY(f.fact_type);
+        const d2 = (x - mx) ** 2 + (y - my) ** 2;
+        if (d2 < d2min) { d2min = d2; best = f; }
+      }
+      if (best && best === survole && best.subject_id) aller('#/fiche/' + best.subject_id);
+      else { survole = best; peindre(); }
+    },
+  });
 }
 
 /* ── Démarrage ─────────────────────────────────────────────────────────── */
