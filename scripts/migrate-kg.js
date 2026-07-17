@@ -169,6 +169,54 @@ function truncate(s, n) { if (!s) return null; return s.length > n ? s.slice(0, 
     if (m.lie && romanId[m.lie]) { write('save-relation', { rel_type: 'lie-a', from_id: romanId[m.lie], to_id: qid }); counts.relations++; }
   }
 
+  // ── Corpus lore (extraction grounded, dédupliquée) ────────────────────
+  // data/lore-extracted.json = { entities, relations, facts } agrégé depuis les
+  // fiches. Dédupe par (type, nom) ; enrichit les résumés vides ; résout les
+  // relations/faits par nom ; ignore (en comptant) toute référence pendante.
+  let lore = null;
+  try { lore = require('../data/lore-extracted.json'); } catch { lore = null; }
+  if (lore) {
+    counts.lore = { entities: 0, enriched: 0, relations: 0, relSkipped: 0, facts: 0, factSkipped: 0 };
+    for (const e of (lore.entities || [])) {
+      const k = keyOf(e.type, e.name);
+      if (index.has(k)) {
+        const ent = g.byId.get(index.get(k));
+        if (ent && !ent.summary && e.summary) {
+          write('save-entity', { id: ent.id, type: ent.type, name: ent.name, summary: e.summary, body: ent.body, data: ent.data, status: ent.status, disclosure: ent.disclosure });
+          counts.lore.enriched++;
+        }
+      } else {
+        ensure(e.type, e.name, { summary: e.summary || null, data: e.data || null });
+        counts.lore.entities++;
+      }
+    }
+    // Résolveur nom → id (après création de toutes les entités lore).
+    const nameToId = {};
+    for (const [k, id] of index) nameToId[k.slice(k.indexOf('|') + 1)] = id;
+    for (const r of (lore.relations || [])) {
+      const from = nameToId[r.from], to = nameToId[r.to];
+      if (from && to && from !== to) {
+        try { write('save-relation', { rel_type: r.rel_type, from_id: from, to_id: to }); counts.lore.relations++; }
+        catch { counts.lore.relSkipped++; }
+      } else counts.lore.relSkipped++;
+    }
+    for (const f of (lore.facts || [])) {
+      const subj = nameToId[f.subject];
+      if (subj) {
+        try {
+          write('save-fact', {
+            fact_type: f.fact_type, subject_id: subj,
+            start_year: (f.start_year === undefined ? null : f.start_year),
+            end_year: (f.end_year === undefined ? null : f.end_year),
+            start_circa: f.circa ? 1 : 0, start_precision: f.circa ? 'estimation' : 'annee',
+            label: f.label || null, source_id: srcId,
+          });
+          counts.lore.facts++;
+        } catch { counts.lore.factSkipped++; }
+      } else counts.lore.factSkipped++;
+    }
+  }
+
   counts.religions = [...index.keys()].filter(k => k.startsWith('religion|')).length;
   counts.oeuvres = [...index.keys()].filter(k => k.startsWith('oeuvre|')).length;
 
