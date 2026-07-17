@@ -13,9 +13,20 @@
 
 const kg = require('../lib/kg-core.js');
 const { createTursoOverlay } = require('../lib/kg-overlay-turso.js');
+const store = require('../lib/kg-store-sqlite.js');
 
-let BASE = {};
-try { BASE = require('../data/kg-base.json'); } catch { BASE = {}; }
+// Source de vérité : la vraie base SQLite (data/hybelior.db) si présente, sinon
+// repli sur data/kg-base.json (ex. déploiement où le .db n'est pas embarqué).
+// Le graphe de base est mis en cache module (lecture seule au runtime).
+const USE_DB = store.available();
+let _base = null;
+function baseGraph() {
+  if (!_base) {
+    if (USE_DB) _base = store.loadGraph();
+    else { try { _base = require('../data/kg-base.json'); } catch { _base = {}; } }
+  }
+  return _base;
+}
 
 let _overlay = null;
 function haveTurso() { return !!(process.env.TURSO_URL && process.env.TURSO_AUTH_TOKEN); }
@@ -32,10 +43,16 @@ module.exports = async function handler(req, res) {
 
   try {
     const overlay = haveTurso() ? await overlayStore().load() : {};
-    const graph = kg.mergeGraph(BASE, overlay);
+    const graph = kg.mergeGraph(baseGraph(), overlay);
 
     if (req.method === 'GET') {
-      return res.status(200).json(kg.readAction(graph, req.query.action || 'list', req.query));
+      const action = req.query.action || 'list';
+      // Recherche plein-texte FTS5 (nom+alias+résumé+body) quand la vraie base est là.
+      if (action === 'search' && USE_DB) {
+        const q = req.query.q || req.query.search || '';
+        return res.status(200).json({ query: q, source: 'sqlite-fts', results: store.searchFTS(q, { type: req.query.type, limit: +req.query.limit || 10 }) });
+      }
+      return res.status(200).json(kg.readAction(graph, action, req.query));
     }
 
     if (req.method === 'POST') {

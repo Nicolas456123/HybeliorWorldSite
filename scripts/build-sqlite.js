@@ -24,7 +24,7 @@ fs.rmSync(DB_PATH, { force: true });
 const db = new DatabaseSync(DB_PATH);
 
 db.exec(`
-PRAGMA journal_mode = WAL;
+PRAGMA journal_mode = DELETE;
 CREATE TABLE entities (
   id TEXT PRIMARY KEY, type TEXT NOT NULL, name TEXT NOT NULL, slug TEXT,
   summary TEXT, body TEXT, data TEXT, status TEXT, disclosure TEXT,
@@ -102,7 +102,7 @@ db.exec('BEGIN');
 for (const e of base.entities) fts.run(e.id, e.name || '', (aliByEnt[e.id] || []).join(' '), e.summary || '', e.body || '');
 db.exec('COMMIT');
 
-db.exec('PRAGMA wal_checkpoint(TRUNCATE); VACUUM;');
+db.exec('VACUUM;');
 db.close();
 
 const mb = (fs.statSync(DB_PATH).size / 1048576).toFixed(2);

@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const kg = require('./lib/kg-core.js');
 const { createFileOverlay } = require('./lib/kg-overlay-file.js');
+const kgStore = require('./lib/kg-store-sqlite.js');
 
 const PORT = process.env.PORT || 3001;
 const DB_FILE = path.join(__dirname, 'local-db.json');
@@ -15,8 +16,17 @@ const EDITOR_PASSWORD = process.env.EDITOR_PASSWORD || 'local';
 // ── Graphe de connaissances : base statique (data/kg-base.json) ⊕ overlay ──
 // Overlay = fichier JSON local en dev (miroir de l'overlay Turso en prod).
 // Accès direct, sans mot de passe.
-let KG_BASE = {};
-try { KG_BASE = require('./data/kg-base.json'); } catch { KG_BASE = {}; }
+// Source de vérité : la vraie base SQLite (data/hybelior.db) si présente, sinon
+// repli sur data/kg-base.json. Graphe de base mis en cache (lecture seule).
+const KG_USE_DB = kgStore.available();
+let _kgBase = null;
+function kgBaseGraph() {
+  if (!_kgBase) {
+    if (KG_USE_DB) _kgBase = kgStore.loadGraph();
+    else { try { _kgBase = require('./data/kg-base.json'); } catch { _kgBase = {}; } }
+  }
+  return _kgBase;
+}
 const kgOverlay = createFileOverlay(KG_OVERLAY_FILE);
 
 // ── Local DB (dev fallback for /api/overrides) ──────────────
@@ -297,10 +307,17 @@ const server = http.createServer(async (req, res) => {
     if (pathname === '/api/kg') {
         try {
             const overlay = await kgOverlay.load();
-            const graph = kg.mergeGraph(KG_BASE, overlay);
+            const graph = kg.mergeGraph(kgBaseGraph(), overlay);
             if (req.method === 'GET') {
                 const query = Object.fromEntries(url.searchParams.entries());
-                const out = kg.readAction(graph, query.action || 'list', query);
+                const action = query.action || 'list';
+                // Recherche plein-texte FTS5 quand la vraie base SQLite est là.
+                if (action === 'search' && KG_USE_DB) {
+                    const q = query.q || query.search || '';
+                    res.writeHead(200, { 'Content-Type': 'application/json' });
+                    return res.end(JSON.stringify({ query: q, source: 'sqlite-fts', results: kgStore.searchFTS(q, { type: query.type, limit: +query.limit || 10 }) }));
+                }
+                const out = kg.readAction(graph, action, query);
                 res.writeHead(200, { 'Content-Type': 'application/json' });
                 return res.end(JSON.stringify(out));
             }

@@ -21,9 +21,11 @@
 const fs = require('fs');
 const path = require('path');
 const kg = require('../lib/kg-core.js');
+const store = require('../lib/kg-store-sqlite.js');
 
 const ROOT = path.join(__dirname, '..');
-const BASE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'kg-base.json'), 'utf8'));
+const USE_DB = store.available(); // vraie base SQLite dispo → source de vérité
+const BASE = USE_DB ? null : JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'kg-base.json'), 'utf8'));
 
 // ── overlay local (dev) : miroir du magasin Turso, s'il existe ────────────
 function loadOverlay() {
@@ -35,7 +37,8 @@ function loadOverlay() {
   } catch { return { entities: [], facts: [], relations: [], aliases: [], readings: [], deletes: {} }; }
 }
 
-const g = kg.mergeGraph(BASE, loadOverlay());
+const EMPTY = { entities: [], facts: [], relations: [], aliases: [], readings: [], deletes: {} };
+const g = USE_DB ? kg.mergeGraph(store.loadGraph(), EMPTY) : kg.mergeGraph(BASE, loadOverlay());
 
 // ── résolution nom → id (accents / casse / apostrophes normalisés) ────────
 const norm = (s) => String(s == null ? '' : s)
@@ -93,10 +96,16 @@ const emit = (obj) => process.stdout.write(JSON.stringify(obj, null, pretty ? 2 
 const fail = (msg) => { process.stderr.write(msg + '\n'); process.exit(1); };
 
 switch (cmd) {
-  case 'search':
+  case 'search': {
     if (!term) fail('usage: kg-query search "<terme>" [--type t] [--limit n]');
-    emit({ query: term, results: search(term, { type: opts.type, limit: +opts.limit || 10 }) });
+    // Vraie base dispo → recherche plein-texte FTS5 (nom+alias+résumé+body, classée bm25) ;
+    // sinon repli sur la recherche en mémoire (nom/alias/résumé).
+    const results = USE_DB
+      ? store.searchFTS(term, { type: opts.type, limit: +opts.limit || 10 })
+      : search(term, { type: opts.type, limit: +opts.limit || 10 });
+    emit({ query: term, source: USE_DB ? 'sqlite-fts' : 'memory', results });
     break;
+  }
   case 'dossier': case 'entity': {
     const id = resolve(term);
     if (!id) fail(`introuvable : "${term}"`);
