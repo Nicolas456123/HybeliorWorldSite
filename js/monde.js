@@ -499,105 +499,253 @@ async function vueEres() {
   app.innerHTML = ''; app.append(vue);
 }
 
-/* ── Vue : la Carte du monde (canvas pan/zoom) ─────────────────────────── */
+/* ── Vue : la Carte VIVANTE du monde — couches + temps ─────────────────── */
 async function vueCarte(focusId) {
-  const lieux = (await getList('lieu')).filter((e) => e.data && e.data.coord_x != null);
+  // Données : lieux positionnés, rattachements, religions, conflits, ères, faits datés.
+  const [lieuxTous, reseau, eresListe] = await Promise.all([
+    getList('lieu'),
+    kget({ action: 'reseau', rels: 'situe-dans,pratique,en-guerre-avec,allie-de', limit: 2000 }),
+    CACHE.eres ? Promise.resolve(CACHE.eres) : kget({ action: 'list', type: 'ere' }).then((r) => (CACHE.eres = r.entities)),
+  ]);
+  if (!CACHE.chrono) CACHE.chrono = (await kget({ action: 'chronologie' })).facts || [];
+  const lieux = lieuxTous.filter((e) => e.data && e.data.coord_x != null);
+  const parId = Object.fromEntries(lieux.map((l) => [l.id, l]));
+
+  // Sorin : parcours stocké sur son entité (data.parcours = [{lieu_id, etape, titre}])
+  let sorin = null;
+  try {
+    const r = await kget({ action: 'entity', id: 'per-0153' });
+    if (r.entity && r.entity.data && Array.isArray(r.entity.data.parcours)) {
+      sorin = r.entity.data.parcours.filter((p) => p.lieu_id && parId[p.lieu_id]);
+    }
+  } catch { /* pas de parcours */ }
+
+  // Nations : centroïdes + religion + guerres/alliances + existence datée.
+  const nations = {};
+  const noeud = (id) => (nations[id] = nations[id] || { id, villes: [], religion: null });
+  for (const l of reseau.links) {
+    if (l.rel === 'situe-dans' && parId[l.from]) {
+      const cible = reseau.nodes.find((n) => n.id === l.to);
+      if (cible && cible.type === 'entite-politique') { noeud(l.to).villes.push(parId[l.from]); parId[l.from].nation = l.to; }
+    }
+  }
+  for (const l of reseau.links) {
+    if (l.rel === 'pratique' && nations[l.from] && !nations[l.from].religion) nations[l.from].religion = l.to;
+  }
+  const nomDe = Object.fromEntries(reseau.nodes.map((n) => [n.id, n.name]));
+  const guerres = reseau.links.filter((l) => l.rel === 'en-guerre-avec' && nations[l.from] && nations[l.to]);
+  const alliances = reseau.links.filter((l) => l.rel === 'allie-de' && nations[l.from] && nations[l.to]);
+  for (const n of Object.values(nations)) {
+    if (!n.villes.length) continue;
+    n.cx = n.villes.reduce((s, v) => s + (+v.data.coord_x), 0) / n.villes.length;
+    n.cy = n.villes.reduce((s, v) => s + (+v.data.coord_y), 0) / n.villes.length;
+    n.ray = Math.max(28, n.villes.reduce((s, v) => s + Math.hypot(v.data.coord_x - n.cx, v.data.coord_y - n.cy), 0) / n.villes.length * 1.5);
+    n.nom = nomDe[n.id] || '';
+  }
+  for (const f of CACHE.chrono) {
+    if (f.start_year == null || !nations[f.subject_id]) continue;
+    if (f.fact_type === 'fondation') nations[f.subject_id].debut = f.start_year;
+    if (f.fact_type === 'chute') nations[f.subject_id].fin = f.start_year;
+  }
+  // Religions : palette stable
+  const relIds = [...new Set(Object.values(nations).map((n) => n.religion).filter(Boolean))];
+  const PALETTE_REL = ['#b89ad6', '#8fb0cf', '#8fbe9b', '#d0a273', '#d08a8a', '#9db3c9', '#cbb794', '#a9c98f', '#e0c274', '#c9a24b', '#a795d6', '#7fc0b0'];
+  const coulRel = Object.fromEntries(relIds.map((id, i) => [id, PALETTE_REL[i % PALETTE_REL.length]]));
+  // Courbe du Lien (par ère)
+  const eres = eresListe.map((e) => ({ ...e, d: e.data || {} })).filter((e) => e.d.startYear != null).sort((a, b) => a.d.startYear - b.d.startYear);
+  const lienA = (an) => { const e = eres.find((e) => an >= e.d.startYear && an <= (e.d.endYear == null ? 1e15 : e.d.endYear)); return e ? { v: e.d.lien || 0, ere: e.name } : { v: 0, ere: '' }; };
+
+  // ── interface ──
   app.innerHTML = '';
   const vue = h('div', { class: 'vue' });
   vue.append(fil(['La Carte']));
   vue.append(h('div', { class: 'fiche-tete' },
-    h('h1', { text: '🧭  La Carte du monde' }),
-    h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: lieux.length.toLocaleString('fr-FR') + ' lieux posés sur la toile — traînez, zoomez, cliquez.' })));
+    h('h1', { text: '🧭  La Carte vivante' }),
+    h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: 'Le monde incarné — couches, époques, conflits, foi, et le pas des exilés.' })));
 
-  // Filtres d'échelle + recherche locale
-  const actifs = new Set(['region', 'cite', 'ville', 'bourg']);
+  const COUCHES = [
+    ['spheres', '♛ nations'], ['religions', '⛧ religions'], ['conflits', '⚔ conflits'],
+    ['sorin', '🚶 parcours de Sorin'], ['lien', '☀ souffle du Lien'],
+  ];
+  const actives = new Set(['spheres', 'lien']);
   const ligne = h('div', { class: 'filtre-ligne' });
-  const champ = h('input', { type: 'search', placeholder: 'Trouver un lieu sur la carte…' });
+  const champ = h('input', { type: 'search', placeholder: 'Trouver un lieu…', style: 'max-width:230px' });
   ligne.append(champ);
-  const chipEls = {};
-  for (const [val, lbl] of [['region', 'régions'], ['cite', 'cités'], ['ville', 'villes'], ['bourg', 'bourgs']]) {
-    chipEls[val] = h('span', { class: 'chip', style: 'border-color:var(--gold-deep)', text: lbl, onclick: () => { actifs.has(val) ? actifs.delete(val) : actifs.add(val); chipEls[val].style.borderColor = actifs.has(val) ? 'var(--gold-deep)' : ''; peindre(); } });
-    ligne.append(chipEls[val]);
+  const chipsCouches = {};
+  for (const [cle, lbl] of COUCHES) {
+    chipsCouches[cle] = h('span', { class: 'chip', style: actives.has(cle) ? 'border-color:var(--gold);color:var(--gold-soft)' : '', text: lbl, onclick: () => {
+      actives.has(cle) ? actives.delete(cle) : actives.add(cle);
+      chipsCouches[cle].style.borderColor = actives.has(cle) ? 'var(--gold)' : '';
+      chipsCouches[cle].style.color = actives.has(cle) ? 'var(--gold-soft)' : '';
+      legende();
+    } });
+    if (cle === 'sorin' && !sorin) { chipsCouches[cle].style.opacity = .4; chipsCouches[cle].title = 'parcours en cours d’extraction'; }
+    ligne.append(chipsCouches[cle]);
   }
   vue.append(ligne);
 
   const bloc = h('div', { class: 'panneau', style: 'padding:10px' });
-  const cv = h('canvas', { style: 'width:100%;height:min(66vh,640px);display:block;border-radius:8px;cursor:grab' });
+  const cv = h('canvas', { style: 'width:100%;height:min(64vh,620px);display:block;border-radius:8px;cursor:grab' });
   bloc.append(cv);
-  bloc.append(h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px', text: 'molette : zoom · glisser : déplacer · clic : ouvrir la porte' }));
+  // curseur temporel
+  const barreTemps = h('div', { style: 'display:flex;align-items:center;gap:14px;margin-top:10px;padding:0 6px' });
+  const slider = h('input', { type: 'range', min: -20000, max: 10400, step: 20, value: 10200, style: 'flex:1;accent-color:#c9a24b' });
+  const etiqTemps = h('span', { style: 'min-width:220px;text-align:right;color:var(--gold-soft);font-family:Cinzel,serif;font-size:13px;letter-spacing:1px' });
+  barreTemps.append(slider, etiqTemps);
+  bloc.append(barreTemps);
+  const legendeEl = h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px' });
+  bloc.append(legendeEl);
   vue.append(bloc);
   app.innerHTML = ''; app.append(vue);
 
-  // ── moteur de rendu ──
+  function legende() {
+    legendeEl.innerHTML = '';
+    if (actives.has('religions')) {
+      const morceaux = relIds.map((id) => `<span style="color:${coulRel[id]}">●</span> ${nomDe[id] || ''}`).join('  ');
+      legendeEl.innerHTML = morceaux + '<br>';
+    }
+    legendeEl.innerHTML += 'molette : zoom · glisser : déplacer · clic : ouvrir · le curseur remonte le temps';
+  }
+  legende();
+
+  // ── moteur ──
   const dpr = devicePixelRatio || 1;
   let W = 0, H = 0;
-  function tailler() { W = cv.clientWidth * dpr; H = cv.clientHeight * dpr; cv.width = W; cv.height = H; }
-  tailler(); addEventListener('resize', () => { tailler(); peindre(); });
   const ctx = cv.getContext('2d');
-
-  // étendue monde → vue initiale ajustée
+  function tailler() { W = cv.clientWidth * dpr; H = cv.clientHeight * dpr; cv.width = W; cv.height = H; }
+  tailler(); addEventListener('resize', tailler);
   const xs = lieux.map((l) => +l.data.coord_x), ys = lieux.map((l) => +l.data.coord_y);
   const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
-  let k = Math.min(W / (x1 - x0 + 80), H / (y1 - y0 + 80));
-  let ox = W / 2 - k * (x0 + x1) / 2, oy = H / 2 - k * (y0 + y1) / 2;
-  const kMin = k * .6, kMax = k * 30;
-  if (focusId) {
-    const f = lieux.find((l) => l.id === focusId);
-    if (f) { k = Math.min(kMax, k * 6); ox = W / 2 - k * (+f.data.coord_x); oy = H / 2 - k * (+f.data.coord_y); }
+  const kBase = Math.min(W / (x1 - x0 + 80), H / (y1 - y0 + 80));
+  let k = kBase, ox = W / 2 - k * (x0 + x1) / 2, oy = H / 2 - k * (y0 + y1) / 2;
+  const kMin = kBase * .6, kMax = kBase * 30;
+  if (focusId && parId[focusId]) {
+    const f = parId[focusId];
+    k = kBase * 6; ox = W / 2 - k * (+f.data.coord_x); oy = H / 2 - k * (+f.data.coord_y);
   }
-  const ecran = (l) => [ox + k * (+l.data.coord_x), oy + k * (+l.data.coord_y)];
-
+  const E = (wx, wy) => [ox + k * wx, oy + k * wy];
   const STYLE = {
-    region: { r: 8, c: 'rgba(201,162,75,.30)', halo: 26, seuilNom: 0 },
-    cite: { r: 4.6, c: 'rgba(240,216,148,.95)', halo: 14, seuilNom: 1.6 },
+    region: { r: 8, c: 'rgba(201,162,75,.30)', halo: 26, seuilNom: 1.25 },
+    cite: { r: 4.6, c: 'rgba(240,216,148,.95)', halo: 14, seuilNom: 1.8 },
     ville: { r: 3, c: 'rgba(224,194,116,.75)', halo: 0, seuilNom: 3.2 },
     bourg: { r: 2.2, c: 'rgba(179,166,143,.65)', halo: 0, seuilNom: 5 },
   };
-  let survole = null, cible = focusId || null;
-  const kBase = Math.min(W / (x1 - x0 + 80), H / (y1 - y0 + 80));
+  let survole = null, drag = null, tAnim = 0;
 
+  function nationVisible(n, an) {
+    if (n.debut != null && an < n.debut) return false;
+    if (n.fin != null && an > n.fin) return false;
+    return true;
+  }
   function peindre() {
+    const an = +slider.value;
+    const lien = lienA(an);
+    etiqTemps.textContent = (anStr(an) || 'An 0') + (lien.ere ? ' · ' + lien.ere.replace(/^Ere\s+/, 'Ère ').split('(')[0].trim() : '');
     ctx.clearRect(0, 0, W, H);
-    // vignette de fond
-    const g = ctx.createRadialGradient(W / 2, H / 2, 0, W / 2, H / 2, Math.max(W, H) / 1.4);
-    g.addColorStop(0, 'rgba(30,25,18,.55)'); g.addColorStop(1, 'rgba(13,11,9,0)');
-    ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+    // souffle du Lien : aura ambiante dont l'intensité suit la courbe
+    if (actives.has('lien')) {
+      const puls = .85 + Math.sin(tAnim / 1400) * .15;
+      const force = (lien.v / 100) * puls;
+      const g = ctx.createRadialGradient(W / 2, H / 2, 0, W / 2, H / 2, Math.max(W, H) / 1.5);
+      g.addColorStop(0, `rgba(201,162,75,${.16 * force})`);
+      g.addColorStop(.6, `rgba(160,120,50,${.07 * force})`);
+      g.addColorStop(1, 'rgba(13,11,9,0)');
+      ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+      // jauge discrète
+      ctx.fillStyle = 'rgba(201,162,75,.5)';
+      ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'left';
+      ctx.fillText('le Lien : ' + '▮'.repeat(Math.round(lien.v / 10)) + '▯'.repeat(10 - Math.round(lien.v / 10)), 10 * dpr, H - 12 * dpr);
+    }
+    // sphères des nations (naissent et meurent avec le temps)
+    if (actives.has('spheres') || actives.has('religions')) {
+      for (const n of Object.values(nations)) {
+        if (n.cx == null || !nationVisible(n, an)) continue;
+        const [sx, sy] = E(n.cx, n.cy);
+        const ray = n.ray * k;
+        const coul = actives.has('religions') && n.religion ? coulRel[n.religion] : '#c9a24b';
+        const g = ctx.createRadialGradient(sx, sy, 0, sx, sy, ray);
+        g.addColorStop(0, coul + '2e'); g.addColorStop(.75, coul + '14'); g.addColorStop(1, coul + '00');
+        ctx.beginPath(); ctx.arc(sx, sy, ray, 0, 7); ctx.fillStyle = g; ctx.fill();
+        if (ray > 46 * dpr) {
+          ctx.font = `${12.5 * dpr}px Cinzel, serif`; ctx.textAlign = 'center';
+          ctx.fillStyle = coul + 'bb';
+          ctx.save(); ctx.letterSpacing = `${2 * dpr}px`;
+          ctx.fillText((n.nom || '').toUpperCase(), sx, sy - ray * .55); ctx.restore();
+        }
+      }
+    }
+    // conflits & alliances (arcs entre centroïdes)
+    if (actives.has('conflits')) {
+      const arc = (a, b, coul, pointille) => {
+        const [ax, ay] = E(a.cx, a.cy), [bx, by] = E(b.cx, b.cy);
+        const mx = (ax + bx) / 2 + (by - ay) * .18, my = (ay + by) / 2 + (ax - bx) * .18;
+        ctx.strokeStyle = coul; ctx.lineWidth = 1.4 * dpr;
+        ctx.setLineDash(pointille ? [6 * dpr, 5 * dpr] : []);
+        ctx.beginPath(); ctx.moveTo(ax, ay); ctx.quadraticCurveTo(mx, my, bx, by); ctx.stroke();
+        ctx.setLineDash([]);
+      };
+      for (const l of alliances) { const a = nations[l.from], b = nations[l.to]; if (a.cx != null && b.cx != null && nationVisible(a, an) && nationVisible(b, an)) arc(a, b, 'rgba(159,190,155,.4)', true); }
+      for (const l of guerres) { const a = nations[l.from], b = nations[l.to]; if (a.cx != null && b.cx != null && nationVisible(a, an) && nationVisible(b, an)) arc(a, b, 'rgba(208,106,90,.55)', false); }
+    }
+    // points des lieux
     const q = champ.value.trim().toLowerCase();
     const zoom = k / kBase;
     for (const l of lieux) {
       const ech = l.data.echelle || 'ville';
-      if (!actifs.has(ech)) continue;
       const st = STYLE[ech] || STYLE.ville;
-      const [sx, sy] = ecran(l);
+      const [sx, sy] = E(+l.data.coord_x, +l.data.coord_y);
       if (sx < -40 || sx > W + 40 || sy < -40 || sy > H + 40) continue;
-      const allume = (q && l.name.toLowerCase().includes(q)) || l === survole || l.id === cible;
+      const allume = (q && l.name.toLowerCase().includes(q)) || l === survole || l.id === focusId;
+      let coul = allume ? '#f0d894' : st.c;
+      if (actives.has('religions') && l.nation && nations[l.nation] && nations[l.nation].religion && !allume) coul = coulRel[nations[l.nation].religion] + 'cc';
       if (st.halo || allume) {
         const hg = ctx.createRadialGradient(sx, sy, 0, sx, sy, (st.halo || 18) * dpr);
         hg.addColorStop(0, allume ? 'rgba(240,216,148,.5)' : 'rgba(201,162,75,.14)'); hg.addColorStop(1, 'rgba(201,162,75,0)');
         ctx.beginPath(); ctx.arc(sx, sy, (st.halo || 18) * dpr, 0, 7); ctx.fillStyle = hg; ctx.fill();
       }
       ctx.beginPath(); ctx.arc(sx, sy, st.r * dpr * (allume ? 1.5 : 1), 0, 7);
-      ctx.fillStyle = allume ? '#f0d894' : st.c; ctx.fill();
+      ctx.fillStyle = coul; ctx.fill();
       if (l.data.capitale) { ctx.beginPath(); ctx.arc(sx, sy, (st.r + 3) * dpr, 0, 7); ctx.strokeStyle = 'rgba(240,216,148,.5)'; ctx.lineWidth = dpr; ctx.stroke(); }
-      // noms selon le zoom (régions toujours, puis cités, villes, bourgs)
       if (zoom >= st.seuilNom || allume) {
-        ctx.font = `${(ech === 'region' ? 13.5 : 11.5) * dpr}px Raleway, sans-serif`;
-        ctx.textAlign = 'center';
+        ctx.font = `${(ech === 'region' ? 13.5 : 11.5) * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
         ctx.fillStyle = ech === 'region' ? 'rgba(201,162,75,.75)' : (allume ? 'rgba(240,216,148,.95)' : 'rgba(179,166,143,.8)');
         if (ech === 'region') { ctx.save(); ctx.letterSpacing = `${2 * dpr}px`; ctx.fillText(l.name.toUpperCase(), sx, sy - 12 * dpr); ctx.restore(); }
         else ctx.fillText(l.name, sx, sy - (st.r + 6) * dpr);
       }
     }
+    // parcours de Sorin (chemin doré animé, étapes numérotées)
+    if (actives.has('sorin') && sorin && sorin.length > 1) {
+      ctx.strokeStyle = 'rgba(240,216,148,.7)'; ctx.lineWidth = 1.8 * dpr;
+      ctx.setLineDash([9 * dpr, 7 * dpr]); ctx.lineDashOffset = -tAnim / 22;
+      ctx.beginPath();
+      sorin.forEach((p, i) => { const l = parId[p.lieu_id]; const [sx, sy] = E(+l.data.coord_x, +l.data.coord_y); i ? ctx.lineTo(sx, sy) : ctx.moveTo(sx, sy); });
+      ctx.stroke(); ctx.setLineDash([]);
+      sorin.forEach((p, i) => {
+        const l = parId[p.lieu_id]; const [sx, sy] = E(+l.data.coord_x, +l.data.coord_y);
+        ctx.beginPath(); ctx.arc(sx, sy, 6 * dpr, 0, 7); ctx.fillStyle = 'rgba(13,11,9,.9)'; ctx.fill();
+        ctx.strokeStyle = '#f0d894'; ctx.lineWidth = dpr; ctx.stroke();
+        ctx.font = `${8.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center'; ctx.fillStyle = '#f0d894';
+        ctx.fillText(String(i + 1), sx, sy + 3 * dpr);
+      });
+    }
     if (survole) {
-      const [sx, sy] = ecran(survole);
+      const [sx, sy] = E(+survole.data.coord_x, +survole.data.coord_y);
       ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
       ctx.fillStyle = 'rgba(131,119,95,.9)';
-      ctx.fillText((survole.data.echelle || '') + (survole.data.capitale ? ' · capitale' : ''), sx, sy + 20 * dpr);
+      const nation = survole.nation && nomDe[survole.nation] ? ' · ' + nomDe[survole.nation] : '';
+      ctx.fillText((survole.data.echelle || '') + nation + (survole.data.capitale ? ' · capitale' : ''), sx, sy + 20 * dpr);
     }
   }
+  (function boucle(t) {
+    if (!cv.isConnected) return;
+    tAnim = t;
+    if (actives.has('lien') || actives.has('sorin')) peindre();
+    requestAnimationFrame(boucle);
+  })(0);
+  peindre();
+  slider.addEventListener('input', peindre);
 
-  // interactions : glisser / molette / survol / clic
-  let drag = null;
+  // interactions
   cv.addEventListener('mousedown', (ev) => { drag = { x: ev.clientX, y: ev.clientY, ox, oy, bouge: false }; cv.style.cursor = 'grabbing'; });
   addEventListener('mousemove', (ev) => {
     if (drag) {
@@ -610,8 +758,8 @@ async function vueCarte(focusId) {
     const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
     let best = null, d2min = (16 * dpr) ** 2;
     for (const l of lieux) {
-      if (!actifs.has(l.data.echelle || 'ville')) continue;
-      const [sx, sy] = ecran(l); const d2 = (sx - mx) ** 2 + (sy - my) ** 2;
+      const [sx, sy] = E(+l.data.coord_x, +l.data.coord_y);
+      const d2 = (sx - mx) ** 2 + (sy - my) ** 2;
       if (d2 < d2min) { d2min = d2; best = l; }
     }
     if (best !== survole) { survole = best; cv.style.cursor = best ? 'pointer' : 'grab'; peindre(); }
@@ -629,12 +777,12 @@ async function vueCarte(focusId) {
     const q = champ.value.trim().toLowerCase();
     if (q.length >= 2) {
       const hit = lieux.find((l) => l.name.toLowerCase().startsWith(q)) || lieux.find((l) => l.name.toLowerCase().includes(q));
-      if (hit) { cible = hit.id; k = Math.max(k, kBase * 5); ox = W / 2 - k * (+hit.data.coord_x); oy = H / 2 - k * (+hit.data.coord_y); }
-    } else cible = null;
+      if (hit) { k = Math.max(k, kBase * 5); ox = W / 2 - k * (+hit.data.coord_x); oy = H / 2 - k * (+hit.data.coord_y); }
+    }
     peindre();
   }, 200));
-  peindre();
 }
+
 
 /* ── Arbre généalogique (SVG) ──────────────────────────────────────────── */
 function dessinerArbre(arbre) {
