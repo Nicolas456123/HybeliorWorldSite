@@ -61,11 +61,19 @@ function toast(msg, isErr) {
 }
 async function guard(fn) { try { return await fn(); } catch (e) { if (e.auth) askPassword(); else toast(e.message, true); throw e; } }
 
-// ── Petit mot de passe (débloque l'édition ; la lecture reste ouverte) ─────────
-function askPassword() {
+// ── Consultation libre ; le mot de passe ne sert qu'à DÉBLOQUER l'édition ──────
+let _pwOnOk = null;
+function setEdit(on) {
+  document.body.classList.toggle('can-edit', on);
+  const b = $('#btnLock');
+  if (on) { b.textContent = '🔓 Verrouiller'; b.classList.add('on'); b.title = 'Repasser en lecture seule'; }
+  else { b.textContent = '🔒 Modifier'; b.classList.remove('on'); b.title = "Déverrouiller l'édition"; }
+}
+function askPassword(onOk) {
+  _pwOnOk = typeof onOk === 'function' ? onOk : null;
   openModal(h('div', {},
-    h('h2', { text: 'Mot de passe' }),
-    h('p', { class: 'muted', text: 'Entre le mot de passe pour éditer le graphe.' }),
+    h('h2', { text: 'Déverrouiller l’édition' }),
+    h('p', { class: 'muted', text: 'La consultation est libre. Entre le mot de passe pour pouvoir modifier.' }),
     h('input', { id: 'pwField', type: 'password', placeholder: 'Mot de passe', onkeydown: (e) => { if (e.key === 'Enter') submitPw(); } }),
     h('div', { class: 'actions' }, h('button', { class: 'primary', onclick: submitPw, text: 'Entrer' })),
   ));
@@ -76,7 +84,8 @@ async function submitPw() {
   try {
     const r = await fetch('/api/auth', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ password: pw }) });
     if (!r.ok) return toast('Mot de passe incorrect', true);
-    KG.pw = pw; sessionStorage.setItem('kgpw', pw); closeModal(); boot();
+    KG.pw = pw; sessionStorage.setItem('kgpw', pw); setEdit(true); closeModal();
+    const cb = _pwOnOk; _pwOnOk = null; if (cb) cb();
   } catch { toast('Erreur d’authentification', true); }
 }
 
@@ -191,8 +200,8 @@ async function renderFiche() {
         h('span', { class: 'badge st-' + e.status, text: e.status }), ' ',
         h('span', { class: 'faint', text: '· ' + e.id }))),
     h('div', { class: 'row' },
-      h('button', { onclick: () => entityForm(e), text: '✎ Éditer' }),
-      h('button', { class: 'danger', onclick: () => deleteEntity(e), text: '🗑' }))));
+      h('button', { class: 'edit-only', onclick: () => entityForm(e), text: '✎ Éditer' }),
+      h('button', { class: 'danger edit-only', onclick: () => deleteEntity(e), text: '🗑' }))));
 
   if (e.summary) view.append(h('p', { class: 'muted', text: e.summary }));
   if (e.body) view.append(h('div', { class: 'card', style: 'white-space:pre-wrap; margin-bottom:22px', text: e.body }));
@@ -247,15 +256,15 @@ async function renderFiche() {
 
 function section(title, onAdd, rows) {
   return h('div', { class: 'section' },
-    h('h3', {}, h('span', { text: title }), onAdd ? h('button', { class: 'ghost', onclick: onAdd, text: '＋ ajouter' }) : null),
+    h('h3', {}, h('span', { text: title }), onAdd ? h('button', { class: 'ghost edit-only', onclick: onAdd, text: '＋ ajouter' }) : null),
     ...rows);
 }
 function item(when, whatKids, onDel, onEdit) {
   return h('div', { class: 'item' },
     h('div', { class: 'when' }, when),
     h('div', { class: 'what' }, ...(Array.isArray(whatKids) ? whatKids : [whatKids])),
-    onEdit ? h('span', { class: 'x', onclick: onEdit, text: '✎' }) : null,
-    onDel ? h('span', { class: 'x', onclick: onDel, text: '✕' }) : null);
+    onEdit ? h('span', { class: 'x edit-only', onclick: onEdit, text: '✎' }) : null,
+    onDel ? h('span', { class: 'x edit-only', onclick: onDel, text: '✕' }) : null);
 }
 function emptyRow(txt) { return h('div', { class: 'item' }, h('div', { class: 'faint', text: txt })); }
 function yearsLabel(a, b) {
@@ -555,7 +564,10 @@ $('#search').addEventListener('input', (e) => { S.search = e.target.value.trim()
 $('#btnNew').addEventListener('click', () => entityForm(null));
 $('#btnCoherence').addEventListener('click', () => { S.tab = 'coherence'; document.querySelectorAll('#tabs .tab').forEach(t => t.classList.toggle('active', t.dataset.tab === 'coherence')); renderView(); });
 
-$('#btnLogout').addEventListener('click', () => { sessionStorage.removeItem('kgpw'); KG.pw = ''; askPassword(); });
+$('#btnLock').addEventListener('click', () => {
+  if (document.body.classList.contains('can-edit')) { KG.pw = ''; sessionStorage.removeItem('kgpw'); setEdit(false); }
+  else askPassword();
+});
 
 async function boot() {
   S.catalog = (await guard(() => KG.get('catalog')));
@@ -564,4 +576,4 @@ async function boot() {
   renderView();
 }
 
-(function init() { if (KG.pw) boot(); else askPassword(); })();
+(function init() { boot(); if (KG.pw) setEdit(true); })();
