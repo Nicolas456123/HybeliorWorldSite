@@ -625,6 +625,39 @@ function dessinerFond(ctx, E, k, W, H, surChargee) {
   ctx.restore();
 }
 
+/* ── Surfaces : contours des masses terrestres (extraits de la carte) ──── */
+// data/monde-contours.json = { jeux: [{ era_id|null, masses: [{nom, points}] }] }
+// era_id null = monde actuel ; un jeu par ère permet les cartes HISTORIQUES.
+const SURFACES = { doc: null, rate: false };
+async function initSurfaces(surChangement) {
+  if (SURFACES.doc || SURFACES.rate) return;
+  try {
+    const r = await fetch('/data/monde-contours.json');
+    if (!r.ok) throw new Error(String(r.status));
+    SURFACES.doc = await r.json();
+    surChangement();
+  } catch { SURFACES.rate = true; }
+}
+function jeuSurfaces(eraId) {
+  if (!SURFACES.doc || !SURFACES.doc.jeux) return null;
+  return SURFACES.doc.jeux.find((j) => j.era_id === eraId)
+    || SURFACES.doc.jeux.find((j) => j.era_id == null) || null;
+}
+function dessinerSurfaces(ctx, E, dpr, eraId) {
+  const jeu = jeuSurfaces(eraId);
+  if (!jeu) return;
+  for (const m of jeu.masses) {
+    ctx.beginPath();
+    m.points.forEach(([wx, wy], i) => { const [sx, sy] = E(wx, wy); i ? ctx.lineTo(sx, sy) : ctx.moveTo(sx, sy); });
+    ctx.closePath();
+    ctx.fillStyle = 'rgba(201,178,128,.055)';
+    ctx.fill();
+    ctx.strokeStyle = 'rgba(201,162,75,.38)';
+    ctx.lineWidth = 1.2 * dpr;
+    ctx.stroke();
+  }
+}
+
 /* ── Vue : la Carte VIVANTE du monde — plein écran, couches, mémoire ───── */
 // État mémorisé entre les navigations : on revient exactement où on était.
 const CARTE_MEM = {
@@ -745,6 +778,7 @@ async function vueCarte(focusId) {
   }
   corpsCtl.append(groupeChips('Couches', [
     ['fond', '🗺 fond de carte', 'l’image réelle de la carte (tuiles du site)'],
+    ['surfaces', '🏔 surfaces', 'contours des continents (extraits de la carte, par ère)'],
     ['spheres', '♛ nations'], ['religions', '⛧ religions'], ['conflits', '⚔ conflits'],
     ['sorin', '🚶 Sorin', sorin ? '' : 'parcours indisponible'], ['lien', '☀ le Lien'],
   ], M.couches));
@@ -811,6 +845,7 @@ async function vueCarte(focusId) {
   }
   cadrer();
   initFond(() => peindre());
+  initSurfaces(() => peindre());
   const memoriser = () => { M.vue = { cx: (W / 2 - ox) / k, cy: (H / 2 - oy) / k, zoom: k / kBase }; };
   const E = (wx, wy) => [ox + k * wx, oy + k * wy];
   const STYLE = {
@@ -833,6 +868,11 @@ async function vueCarte(focusId) {
     ctx.clearRect(0, 0, W, H);
     // fond de carte réel (image deep-zoom de la carte de l'auteur)
     if (M.couches.has('fond')) dessinerFond(ctx, E, k, W, H, peindre);
+    // surfaces des masses terrestres (contours extraits — sensibles à l'ère)
+    if (M.couches.has('surfaces')) {
+      const ereCourante = eres.find((e) => an >= e.d.startYear && an <= (e.d.endYear == null ? 1e15 : e.d.endYear));
+      dessinerSurfaces(ctx, E, dpr, ereCourante ? ereCourante.id : null);
+    }
     if (M.couches.has('lien')) {
       const puls = .85 + Math.sin(tAnim / 1400) * .15;
       const force = (lien.v / 100) * puls;
