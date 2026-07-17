@@ -14,13 +14,37 @@
  *   • mystères protégés    → entités « question » à lectures concurrentes
  *   • romans               → entités « oeuvre » (trilogie + 3 tomes)
  *
- * Usage :  node scripts/migrate-kg.js   (écrit data/kg-base.json)
+ * ⚠ INVERSION DE LA SOURCE DE VÉRITÉ (2026-07-17)
+ * -----------------------------------------------
+ * Ce script RECONSTRUIT data/kg-base.json À PARTIR DES DOCS et ÉCRASE tout ce
+ * que le graphe contient. Or le graphe est désormais la SOURCE DE VÉRITÉ (les
+ * Docs sont voués à disparaître). Le rejouer effacerait le contenu enrichi et
+ * les éditions de l'Atelier.
+ *
+ * Il ne s'agit donc plus du « chemin normal » : c'est un RE-SEED de secours
+ * (amorçage initial / reconstruction depuis zéro). Il refuse de tourner sans
+ * le garde-fou explicite  KG_RESEED=1  pour ne jamais clobberer le graphe.
+ *
+ * Usage :  KG_RESEED=1 node scripts/migrate-kg.js   (re-seed depuis les Docs)
  */
 
 const fs = require('fs');
 const path = require('path');
 const kg = require('../lib/kg-core.js');
 const data = require('../data/timeline-names.json');
+
+if (!process.env.KG_RESEED) {
+  console.error([
+    '✋ migrate-kg.js est un RE-SEED destructif : il reconstruit data/kg-base.json',
+    '   depuis les Docs et écrase le graphe (désormais la SOURCE DE VÉRITÉ).',
+    '',
+    '   Le contenu enrichi (champs body) et les éditions de l\'Atelier seraient perdus.',
+    '   Si tu veux vraiment ré-amorcer depuis les Docs :  KG_RESEED=1 npm run kg:reseed',
+    '',
+    '   Pour seulement rafraîchir l\'index de recherche :  npm run kg:index',
+  ].join('\n'));
+  process.exit(1);
+}
 
 const WHEN = '2026-07-17T00:00:00.000Z'; // horodatage fixe → base déterministe
 
