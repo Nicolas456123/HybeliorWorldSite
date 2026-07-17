@@ -731,17 +731,13 @@ async function vueCarte(focusId) {
     if (f.fact_type === 'fondation') nations[f.subject_id].debut = f.start_year;
     if (f.fact_type === 'chute') nations[f.subject_id].fin = f.start_year;
   }
-  // Continents : centroïde = moyenne des centroïdes de leurs nations (situe-dans)
+  // Continents : étiquettes aux VRAIS marqueurs (ancres importées de la carte
+  // d'origine) — le calcul par centroïde des nations dérivait en plein océan
+  // quand des rattachements erronés s'en mêlaient (cas Celethor).
   const continents = {};
-  for (const l of reseau.links) {
-    if (l.rel !== 'situe-dans' || !nations[l.from] || nations[l.from].cx == null) continue;
-    const c = lieuxTous.find((x) => x.id === l.to && x.data && x.data.echelle === 'continent');
-    if (!c) continue;
-    (continents[c.id] = continents[c.id] || { nom: c.name, pts: [] }).pts.push([nations[l.from].cx, nations[l.from].cy]);
-  }
-  for (const c of Object.values(continents)) {
-    c.cx = c.pts.reduce((s, p) => s + p[0], 0) / c.pts.length;
-    c.cy = c.pts.reduce((s, p) => s + p[1], 0) / c.pts.length;
+  for (const c of lieuxTous) {
+    if (!(c.data && c.data.echelle === 'continent' && c.data.coord_x != null)) continue;
+    continents[c.id] = { nom: c.name, cx: +c.data.coord_x, cy: +c.data.coord_y };
   }
   // Religions : palette stable
   const relIds = [...new Set(Object.values(nations).map((n) => n.religion).filter(Boolean))];
