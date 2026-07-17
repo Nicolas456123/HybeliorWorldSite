@@ -191,10 +191,12 @@ function truncate(s, n) { if (!s) return null; return s.length > n ? s.slice(0, 
       }
     }
     // Résolveur nom → id (après création de toutes les entités lore).
-    // Normalise les apostrophes (' ↔ ’) pour tolérer les variantes d'extraction.
+    // Normalise les apostrophes (' ↔ ’) et résout aussi par ALIAS (les histoires
+    // emploient souvent des noms historiques plutôt que le nom courant).
     const norm = (s) => String(s).replace(/[’‘]/g, "'").trim();
     const nameToId = {};
     for (const [k, id] of index) nameToId[norm(k.slice(k.indexOf('|') + 1))] = id;
+    for (const a of g.aliases) { const key = norm(a.value); if (!nameToId[key]) nameToId[key] = a.entity_id; }
     for (const r of (lore.relations || [])) {
       const from = nameToId[norm(r.from)], to = nameToId[norm(r.to)];
       if (from && to && from !== to) {
@@ -208,6 +210,7 @@ function truncate(s, n) { if (!s) return null; return s.length > n ? s.slice(0, 
         try {
           write('save-fact', {
             fact_type: f.fact_type, subject_id: subj,
+            object_id: (f.object ? (nameToId[norm(f.object)] || null) : null),
             start_year: (f.start_year === undefined ? null : f.start_year),
             end_year: (f.end_year === undefined ? null : f.end_year),
             start_circa: f.circa ? 1 : 0, start_precision: f.circa ? 'estimation' : 'annee',
