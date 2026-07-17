@@ -191,17 +191,19 @@ function truncate(s, n) { if (!s) return null; return s.length > n ? s.slice(0, 
       }
     }
     // Résolveur nom → id (après création de toutes les entités lore).
+    // Normalise les apostrophes (' ↔ ’) pour tolérer les variantes d'extraction.
+    const norm = (s) => String(s).replace(/[’‘]/g, "'").trim();
     const nameToId = {};
-    for (const [k, id] of index) nameToId[k.slice(k.indexOf('|') + 1)] = id;
+    for (const [k, id] of index) nameToId[norm(k.slice(k.indexOf('|') + 1))] = id;
     for (const r of (lore.relations || [])) {
-      const from = nameToId[r.from], to = nameToId[r.to];
+      const from = nameToId[norm(r.from)], to = nameToId[norm(r.to)];
       if (from && to && from !== to) {
         try { write('save-relation', { rel_type: r.rel_type, from_id: from, to_id: to }); counts.lore.relations++; }
         catch { counts.lore.relSkipped++; }
       } else counts.lore.relSkipped++;
     }
     for (const f of (lore.facts || [])) {
-      const subj = nameToId[f.subject];
+      const subj = nameToId[norm(f.subject)];
       if (subj) {
         try {
           write('save-fact', {

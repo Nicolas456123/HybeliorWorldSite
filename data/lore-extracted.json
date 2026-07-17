@@ -1,0 +1,1465 @@
+{
+ "_meta": {
+  "source": "extraction lore grounded (6 lots)"
+ },
+ "entities": [
+  {
+   "type": "concept",
+   "name": "La Polyphonie",
+   "summary": "Conversation cosmique à plusieurs niveaux, jamais commencée ni close, dont la composition mouvante des voix fait le monde d'Hybelior."
+  },
+  {
+   "type": "concept",
+   "name": "Les Éternels",
+   "summary": "Les cinq voix les plus profondes de la Polyphonie — Celestia, Tempora, Noctis, Navigor et Eldoria."
+  },
+  {
+   "type": "concept",
+   "name": "Les Cosmiques",
+   "summary": "Les douze voix nées des interactions entre les Éternels, plus proches du monde mortel."
+  },
+  {
+   "type": "concept",
+   "name": "Les Voies",
+   "summary": "Les voix cosmiques auxquelles un mortel peut se lier : cinq Voies des Éternels et douze Voies des Cosmiques."
+  },
+  {
+   "type": "concept",
+   "name": "Le Lien",
+   "summary": "La magie d'Hybelior conçue comme résonance : le Lié accueille une Voie unique qui passe à travers lui."
+  },
+  {
+   "type": "concept",
+   "name": "Le Souffle",
+   "summary": "La respiration du monde — le mouvement cosmique qui fait basculer Hybelior d'une Ère à la suivante."
+  },
+  {
+   "type": "concept",
+   "name": "Le Petit Souffle",
+   "summary": "Le Souffle le plus fréquent, qui marque la fin d'une Ère thématique."
+  },
+  {
+   "type": "concept",
+   "name": "Le Grand Souffle",
+   "summary": "La transition, à cadence plus longue, entre deux mouvements — des groupes d'Ères de parenté tonale."
+  },
+  {
+   "type": "concept",
+   "name": "Le Souffle Cardinal",
+   "summary": "Le plus rare et profond des Souffles : une reconfiguration de la Polyphonie elle-même. Sa cause ne fait l'objet d'aucun canon."
+  },
+  {
+   "type": "concept",
+   "name": "Les Ères",
+   "summary": "Saisons cosmiques d'Hybelior — longs états durables de la Polyphonie qui ne se répètent jamais tout à fait."
+  },
+  {
+   "type": "concept",
+   "name": "L'Accord",
+   "summary": "La résonance personnelle d'un mortel avec l'Ère présente — mesure d'écoute et non d'accumulation."
+  },
+  {
+   "type": "concept",
+   "name": "L'Héritage",
+   "summary": "La couche permanente qu'aucun Souffle n'efface : titres, œuvres signées, disciples, monuments, rang social."
+  },
+  {
+   "type": "concept",
+   "name": "La trame",
+   "summary": "Le tissu vivant du Lien, qui se tend et se relâche au rythme des Souffles Cardinaux."
+  },
+  {
+   "type": "concept",
+   "name": "Les Déliés",
+   "summary": "Ceux qui rompent volontairement leur Lien pour tirer leur force d'eux-mêmes, au prix de leur présence au monde."
+  },
+  {
+   "type": "concept",
+   "name": "Le Pacte Primordial",
+   "summary": "Le souvenir cosmique d'un engagement mutuel entre les Éternels et les Cosmiques pour que le monde puisse tenir. Nul n'en connaît les termes exacts."
+  },
+  {
+   "type": "concept",
+   "name": "Les Consécrations",
+   "summary": "Distinctions reconnaissant un mortel comme servant un domaine mieux qu'aucun autre de son temps."
+  },
+  {
+   "type": "concept",
+   "name": "La double résonance",
+   "summary": "État rare d'un Lié pleinement accordé à son Ère, devenu double canal par lequel l'Ère elle-même se met à parler."
+  },
+  {
+   "type": "concept",
+   "name": "La rouille",
+   "summary": "La friction brève qu'éprouve un voyageur dans les premiers jours d'une nouvelle Ère."
+  },
+  {
+   "type": "religion",
+   "name": "Vael'Kurash",
+   "summary": "Culte des Esprits Anciens : chaque élément naturel possède un esprit conscient, la nature étant divine en elle-même. Souche de la Tradition de la Présence Visible, servie par les Vael'Kari."
+  },
+  {
+   "type": "religion",
+   "name": "Ignis Aeternum",
+   "summary": "La Flamme Éternelle : le feu est la première création et la destruction par le feu une purification menant à la renaissance ; volcans-temples, forgerons-prêtres. « La flamme revient toujours »."
+  },
+  {
+   "type": "religion",
+   "name": "Ordo Caelum",
+   "summary": "L'Ordre Céleste : les constellations sont un langage divin et le destin est inscrit dans les étoiles. Religion strictement hiérarchique, servie par les Stellari, astrologues-prêtres."
+  },
+  {
+   "type": "religion",
+   "name": "Noctari",
+   "summary": "Le Voile des Ombres : la vérité se cache dans l'obscurité, le monde visible n'est qu'illusion. Souche de la Tradition des Choses Cachées, servie par les Veilari, réseau à hiérarchie secrète."
+  },
+  {
+   "type": "religion",
+   "name": "Rota Mundi",
+   "summary": "Le Cycle Éternel : tout est cyclique, le temps est sacré et chaque âme revit éternellement. Souche orthodoxe de la Tradition du Pacte Mémorisé, servie par les Roteri, gardiens du Grand Calendrier."
+  },
+  {
+   "type": "religion",
+   "name": "Via Ventus",
+   "summary": "La Voie du Souffle : le vent est le souffle du monde et voyager est prier. Née par schisme de Vael'Kurash, servie par les Ventari, prêtres-marins et guides de caravane."
+  },
+  {
+   "type": "religion",
+   "name": "Lex Petra",
+   "summary": "La Loi de Pierre : la terre est la fondation de toute chose et la loi une force naturelle inscrite dans le monde. Réforme juridique de Vael'Kurash, servie par les Petrani, prêtres-juristes."
+  },
+  {
+   "type": "religion",
+   "name": "Somnium Vigil",
+   "summary": "Le Rêve Éveillé : la réalité éveillée n'est qu'une couche du monde, les rêves des fenêtres sur d'autres plans. Née de l'Embranchement Somnique des Noctari, servie par les Vigili."
+  },
+  {
+   "type": "religion",
+   "name": "Foedus Animae",
+   "summary": "Le Pacte des Âmes : les morts ne disparaissent pas et honorer les ancêtres renforce le lien entre vivants et morts. Hérésie schismatique de Rota Mundi, portée par les Animari."
+  },
+  {
+   "type": "religion",
+   "name": "Taciti",
+   "summary": "Les Silencieux : la voix du divin n'est audible que dans le silence absolu, parler étant un acte d'ego. Branche contemplative de Foedus Animae ; les Silentii communiquent par gestes."
+  },
+  {
+   "type": "religion",
+   "name": "Cantus Mundi",
+   "summary": "Le Chant du Monde : le monde a été chanté par Cantor, chaque être étant un accord ; la musique est la prière la plus pure. Syncrétisme tardif servi par les Cantori, prêtres-compositeurs."
+  },
+  {
+   "type": "religion",
+   "name": "Catena Fracta",
+   "summary": "La Chaîne Brisée : mouvement hérétique post-Cardinal tenant les entités cosmiques pour des tyrans dont les mortels doivent se libérer, rejetant les traditions ancestrales et le Pacte. Persécuté partout."
+  },
+  {
+   "type": "religion",
+   "name": "Aqua Nigra",
+   "summary": "Le Culte de l'Eau Noire : culte dangereux selon lequel les abysses cachent le vrai dieu, Aquor vénéré sous une forme corrompue. Syncrétisme côtier mêlant Noctari et Vael'Kurash."
+  },
+  {
+   "type": "religion",
+   "name": "Filii Fornacis",
+   "summary": "Les Enfants de la Forge : branche populaire d'Ignis Aeternum recentrée sur le foyer, tenant Ferros pour le vrai créateur du monde. Tolérée localement."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Ombrils",
+   "summary": "Lignée du rêve qui se souvient, à la peau pâle, descendue de l'empire d'Ithalorn qu'elle partageait avec les Vael'Somnix jusqu'à la Mort-de-Rêve. Elle a fait de la mémoire onirique sa matière et entend les voix qui se sont tues."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Syltharans",
+   "summary": "Lignée de la grâce qui crée, aux traits fins, portant le souvenir du Saint-Empire d'Endara et de sa culture arcane. Son rapport à la Polyphonie passe par la forme et la précision du geste."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Ventori",
+   "summary": "Lignée du vent qui passe, issue des anciens Coureurs qui traversèrent les plaines de Galenor sans s'y établir. Elle entend les voix dans le mouvement et ce qui circule."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Petravins",
+   "summary": "Lignée de la pierre qui dure, descendue des Enfants de la Roche, premiers mortels d'Alkaran, et qui donna le Code de Pierre, premier droit écrit d'Hybelior. Elle entend les voix dans ce qui ne change pas."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Nébulaïrs",
+   "summary": "Lignée de la prière qui voit, issue des Voix-sous-Bois et de l'empire de Celith, ayant fait de l'astronomie sacrée sa science. Son rapport à la Polyphonie est la contemplation des distances stellaires."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Kharavasts",
+   "summary": "Lignée de la flamme qui ne meurt pas, à la peau cuivrée, descendue des Marcheurs de Cendre ; l'empire de Pyrevaste fut le sien. Elle entend les voix dans ce qui consume sans détruire."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Marevanes",
+   "summary": "Lignée du sel et de la voile, portant la mémoire des familles marchandes Forr, Gondal et Navar qui scellèrent le Pacte des Trois Ports et fondèrent l'empire de Forgon. Elle entend la Polyphonie dans le flux et les marées."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Selvarins",
+   "summary": "Lignée de la terre qui parle, héritiers d'Everthor, derniers à entretenir un vrai dialogue avec les esprits-lieux. Leur rapport à la Polyphonie est la communion."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Vael'Somnix",
+   "summary": "Lignée du voile, frères séparés des Ombrils depuis la Mort-de-Rêve, ils fondèrent à Vytharia (Ilthara) la Confédération des Rêves Nommés. Leur rapport à la Polyphonie est celui du seuil."
+  },
+  {
+   "type": "lignee",
+   "name": "Les Panghoris",
+   "summary": "Lignée du commencement séparé, sans Berceau ni empire fondateur, née en marge de l'arbre commun. On les rencontre à Caeloria, Baelor, Cestra, Skaldoria et Ulinor, unis par une fierté du particulier."
+  },
+  {
+   "type": "personne",
+   "name": "L'Étudiant",
+   "summary": "Membre du Cercle des Huit dont le nom est délibérément perdu ; c'est lui qui sectionne son propre Nœud au Mont Cendra pour prouver que le Lien peut être coupé. Lié modéré de Galenor."
+  },
+  {
+   "type": "personne",
+   "name": "Thessan l'Érudit",
+   "summary": "Le plus jeune membre du Cercle des Huit, Lié de théorie et de mémoire, POV majeur du T1, qui tient le journal documentant le rituel."
+  },
+  {
+   "type": "personne",
+   "name": "Sera de Celethor",
+   "summary": "Ancienne préceptrice de Celethor et architecte du protocole final du rituel, POV majeure du Cercle des Huit. Elle agit au nom des non-Liés, dont sa sœur jumelle Ísae."
+  },
+  {
+   "type": "personne",
+   "name": "Drakhan l'Aîné",
+   "summary": "Forgeron-Lié de Cendara, le plus âgé du Cercle des Huit et guide de la montée du Mont Cendra. Mû par la rage de classe, il meurt dans l'éruption."
+  },
+  {
+   "type": "personne",
+   "name": "Vorath le Tacite",
+   "summary": "Prêtre des Silencieux (Taciti) de Baelor, non-Lié par philosophie, voix des non-Liés au sein du Cercle des Huit. Après l'Arrachement il devient un « saint » des Silencieux."
+  },
+  {
+   "type": "personne",
+   "name": "Mirathis",
+   "summary": "Érudit·e non-binaire de Vytharia, Lié·e des rêves (Somnium Vigil), membre ambivalent·e du Cercle des Huit. Iel porte la lecture onirique de l'inévitabilité."
+  },
+  {
+   "type": "personne",
+   "name": "Aelindra de Pyrion",
+   "summary": "Capitaine militaire du Dominat de Pyrion envoyée infiltrer les Verithani, ralliée au Cercle des Huit dont elle organise la logistique. Déclarée « traître exécutée » aux archives de Pyrion."
+  },
+  {
+   "type": "personne",
+   "name": "Kayara-du-Large",
+   "summary": "Navigatrice non-Liée des îles d'Azoria, membre du Cercle des Huit chargée du transport maritime. Seule à savoir déjà vivre sans le Lien, elle survit à l'Arrachement."
+  },
+  {
+   "type": "personne",
+   "name": "Iveth le Silencieux",
+   "summary": "Lié d'Alkaran (tradition Ildaran, Lien-des-morts), disciple verithane qui confirme la faisabilité du rituel mais ne monte pas au sommet. Mourant, il meurt dans les six mois."
+  },
+  {
+   "type": "personne",
+   "name": "Verkan Sorne",
+   "summary": "Prime-Inquisiteur du Bureau des Concordances du Dominat de Pyrion, antagoniste du T1 qui traque le Cercle des Huit. Il arrive trop tard et falsifie son propre rapport."
+  },
+  {
+   "type": "personne",
+   "name": "Ísae",
+   "summary": "Sœur jumelle non-Liée de Sera de Celethor, traitée de « Vide » toute sa vie et restée à Celethor. Elle vit les heures de l'Arrachement sans savoir que sa sœur le prépare."
+  },
+  {
+   "type": "personne",
+   "name": "Kessa",
+   "summary": "Fille forgeronne de Drakhan l'Aîné, qui a tenté de le dissuader du rituel. Elle survit à l'Arrachement et fonde une guilde de forgerons non-Liés."
+  },
+  {
+   "type": "personne",
+   "name": "Kessane de la Forge-Basse",
+   "summary": "Forgeronne non-Liée des marges d'Onara, POV majeure du T2, détentrice du savoir de la coupure volontaire du Lien. Elle doit choisir de couper le Lien de sa fille Tisse pour la sauver."
+  },
+  {
+   "type": "personne",
+   "name": "Ombreth le Dernier-qui-Chante",
+   "summary": "Chamane de Mémoire d'Alkaran, Tisse fort mourant du Fléau, POV majeur du T2. Il apaise les morts (Errants) et cherche en vain un héritier à son écoute."
+  },
+  {
+   "type": "personne",
+   "name": "Vaenor Sorne",
+   "summary": "Inspectrice de Pureté de Drahk'Nor, antagoniste du T2 et descendante lointaine de Verkan Sorne. Elle traque les Tisses pour les euthanasier « par miséricorde »."
+  },
+  {
+   "type": "personne",
+   "name": "Lirenn",
+   "summary": "Fille Tisse de Kessane (~9 ans) qui entend les Errants. Elle est l'enjeu du dilemme central du T2 : couper son Lien pour la sauver, ou le garder."
+  },
+  {
+   "type": "personne",
+   "name": "Frère Olven",
+   "summary": "Copiste Verithani Endeuillé qui recopie le journal de Thessan, traqué par les Inspecteurs de Pureté. Il porte la lecture de la « blessure qui suppure »."
+  },
+  {
+   "type": "personne",
+   "name": "Drahvel",
+   "summary": "Préfet-Inquisiteur de Drahk'Nor, supérieur de Vaenor Sorne. Sans jamais douter, il durcit le protocole en Édit de Pureté (euthanasie préventive)."
+  },
+  {
+   "type": "personne",
+   "name": "Vaskar Sorne",
+   "summary": "Archiviste-enquêteur des Ombres Souterraines de Drakora, antagoniste du T3 et troisième porteur du nom Sorne. Gardien des coffres scellés, il falsifie un dernier rapport."
+  },
+  {
+   "type": "personne",
+   "name": "Renna",
+   "summary": "Femme de Cendara issue d'une lignée de la remutation, POV majeure du T3 et seule personne ancrée à entendre la « voix qui naît ». Elle a la garde de l'Enfant aux Yeux Blancs Ilex."
+  },
+  {
+   "type": "personne",
+   "name": "Sanne",
+   "summary": "Passeuse et artisane de paix non-Liée, POV majeure du T3, proche de la Fraternité des Mains Vides. Elle porte le cahier de Kessane et devient une cible de la Guerre de l'Ombre."
+  },
+  {
+   "type": "personne",
+   "name": "Ilex",
+   "summary": "Enfant aux Yeux Blancs (~5-6 ans) à la garde de Renna, qui entend la « voix qui naît » plus clairement que quiconque. Il est l'angle mort autour duquel tout converge."
+  },
+  {
+   "type": "divinite",
+   "name": "Celestia",
+   "summary": "Éternel, voix de l'attention silencieuse ; on dit qu'elle a tissé les constellations pour qu'elles veillent. Attention pure qui ne juge ni ne console mais n'oublie jamais.",
+   "data": {
+    "rang": "Éternel",
+    "domaine": "l'Attention"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Tempora",
+   "summary": "Éternel, voix qui ordonne le temps et pose la différence entre l'avant et l'après. Sa blessure ancienne serait à l'origine des Failles temporelles.",
+   "data": {
+    "rang": "Éternel",
+    "domaine": "le Temps"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Noctis",
+   "summary": "Éternel, voix qui voile et enveloppe, sans laquelle rien ne pourrait être secret, intime ou sacré. Sa voix monte : les nuits s'allongent.",
+   "data": {
+    "rang": "Éternel",
+    "domaine": "le Voile"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Navigor",
+   "summary": "Éternel, voix du passage qui relie les mondes, les continents, les âmes et les rives. On le dit aujourd'hui plus discret, les chemins entre les mondes paraissant fermés.",
+   "data": {
+    "rang": "Éternel",
+    "domaine": "le Passage"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Eldoria",
+   "summary": "Éternel, voix qui crée et fait apparaître ce qui n'était pas ; on lui attribue d'avoir tissé la lumière et allumé les étoiles. Associée aux volcans et au Cœur de Cendra.",
+   "data": {
+    "rang": "Éternel",
+    "domaine": "la Création"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Aerion",
+   "summary": "Cosmique du souffle des vents, voix du mouvement libre. Le Cosmique le plus présent dans la vie quotidienne des mortels.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "le Vent"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Aquor",
+   "summary": "Cosmique de l'eau qui coule et s'adapte, la persévérance douce qui sculpte la pierre par patience.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "l'Eau"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Aurion",
+   "summary": "Cosmique de l'éther, l'énergie qui précède la matière, le scintillement avant l'objet. Les magiciens lui doivent beaucoup sans toujours le savoir.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "l'Éther"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Umbra",
+   "summary": "Cosmique de l'ombre, contrepartie obscure d'Aurion qui sait cacher, abriter et protéger ce que la lumière brutale détruirait. Vénérée par le Noctari.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "l'Ombre"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Spiritus",
+   "summary": "Cosmique des esprits de la nature, conscience diffuse qui parcourt forêts, rivières et bêtes. Affaibli depuis l'Arrachement.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "les Âmes"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Fatum",
+   "summary": "Cosmique du destin, non un script écrit d'avance mais la rumeur des conséquences que chaque acte appelle.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "le Destin"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Terranu",
+   "summary": "Cosmique des terres fertiles, patience minérale qui permet récoltes, cités et civilisations.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "la Terre"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Somnix",
+   "summary": "Cosmique du rêve, voix qui visite les esprits endormis, leur souffle des images et leur vole parfois leurs secrets.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "le Rêve"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Ignara",
+   "summary": "Cosmique du feu profond — non la flamme du foyer mais le feu qui dort sous les volcans, qui forge et consume ce qui doit être renouvelé.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "le Feu profond"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Sanguis",
+   "summary": "Cosmique du sang : la lignée, la vie qui passe d'un corps à l'autre, la dette envers ceux qui nous ont précédés.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "le Sang"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Resonia",
+   "summary": "Cosmique de la résonance, de la musique et de l'harmonie — deux choses qui vibrent à l'unisson sans se confondre.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "la Résonance"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Vermis",
+   "summary": "Cosmique de la décomposition, celle qui défait pour que d'autre chose puisse se faire. La moins aimée mais la plus essentielle.",
+   "data": {
+    "rang": "Cosmique",
+    "domaine": "la Décomposition"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Climata",
+   "summary": "Astral des saisons, du climat et des cycles (reclassée Astral). Vénérée par le Rota Mundi ; le Grand Gel exprime sa nature cyclique.",
+   "data": {
+    "rang": "Astral",
+    "domaine": "le Climat"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Gravitas",
+   "summary": "Astral de la gravité, du poids et des marées (reclassé Astral). Honoré par le Lex Petra ; il est la loi, pas le législateur.",
+   "data": {
+    "rang": "Astral",
+    "domaine": "la Gravité"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Vortex",
+   "summary": "Astral des tempêtes, courants et tourbillons, l'imprévu structurant (reclassé Astral). Intensifié depuis l'Arrachement.",
+   "data": {
+    "rang": "Astral",
+    "domaine": "les Tempêtes"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Judicar",
+   "summary": "Astral des lois cosmiques et de l'équilibre, qui ne punit pas mais équilibre (reclassé Astral). Inactif depuis l'Âge du Lien.",
+   "data": {
+    "rang": "Astral",
+    "domaine": "les Lois cosmiques"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Stellaris",
+   "summary": "Astral des étoiles, des constellations et de la navigation (reclassé Astral). Écouté par l'Ordo Caelum.",
+   "data": {
+    "rang": "Astral",
+    "domaine": "les Étoiles"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Aetheron",
+   "summary": "Astral de l'éther universel et des flux énergétiques (reclassé Astral). Il bourdonne sans direction depuis la disparition de Navigor.",
+   "data": {
+    "rang": "Astral",
+    "domaine": "l'Éther universel"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Etherius",
+   "summary": "Astral de l'éther subtil et de l'influence universelle, la plus jeune des voix structurantes (reclassé Astral). Suspendu depuis la disparition de Navigor.",
+   "data": {
+    "rang": "Astral",
+    "domaine": "l'Éther subtil"
+   }
+  },
+  {
+   "type": "divinite",
+   "name": "Transitum",
+   "summary": "Astral passeur des âmes qui accompagne les morts vers l'au-delà (anciennement dit Cosmique de la mort, rang abaissé). Des âmes erreraient sans atteindre leur destination.",
+   "data": {
+    "rang": "Astral",
+    "domaine": "la Mort"
+   }
+  },
+  {
+   "type": "espece",
+   "name": "Les Éthérés",
+   "summary": "Entités de troisième rang, sous les Cosmiques : 45 voix spécialisées dans des forces très précises (gel, tonnerre, corail, lave, marées…). Elles s'installent dans le Panghor, créant les futures particularités des continents."
+  },
+  {
+   "type": "espece",
+   "name": "Les Marcheurs de Cendre",
+   "summary": "Peuple mortel de l'Ère II dont les plus anciens rituels vénèrent Glacien. L'un des rares cas documentés d'Éthéré vénéré avant l'Ère III."
+  },
+  {
+   "type": "espece",
+   "name": "Les Gens de l'Eau",
+   "summary": "Peuple mortel de l'Ère II, parmi les tout premiers mortels, né dans l'archipel fragmenté d'Azoria."
+  },
+  {
+   "type": "espece",
+   "name": "Les Enfants de la Roche",
+   "summary": "Peuple mortel associé à Alkaran, dont l'écoute des profondeurs viendrait de Petral, l'Éthéré qui résonnait sous ces terres."
+  },
+  {
+   "type": "evenement",
+   "name": "La Résonance",
+   "summary": "Première vibration du Substrat du Vide, sans cause connue, d'où émergent en cascade les cinq Éternels. Cet événement fondateur fait naître la lumière, l'ombre, le temps, la matière et les liens du cosmos."
+  },
+  {
+   "type": "evenement",
+   "name": "Émergence des 12 Cosmiques",
+   "summary": "En plusieurs vagues appelées Phases, douze Cosmiques naissent comme résonances secondaires des Éternels, dotant le monde de ses fondements élémentaires, de ses lois et de ses premières âmes."
+  },
+  {
+   "type": "evenement",
+   "name": "Formation du Mont Originel",
+   "summary": "Premier point d'ancrage physique du monde, pic de roche concentré là où la résonance des Éternels était la plus forte ; aujourd'hui identifié au Mont Cendra, futur lieu de l'Arrachement."
+  },
+  {
+   "type": "evenement",
+   "name": "Naissance des 45 Éthérés",
+   "summary": "Quarante-cinq entités de troisième rang naissent des interactions entre Cosmiques et s'installent dans des lieux précis du Panghor, préfigurant les particularités des futurs continents."
+  },
+  {
+   "type": "evenement",
+   "name": "La Fracture du Panghor",
+   "summary": "Sur des millions d'années, les tensions induites par les Éthérés brisent le supercontinent unique en douze continents et rompent l'axe énergétique Mont Originel–Mont Jumeau."
+  },
+  {
+   "type": "evenement",
+   "name": "Émergence des premiers mortels",
+   "summary": "Apparition des premiers mortels — proto-peuples nomades — sans récit fondateur unique, plusieurs lectures théologiques coexistant sur leur origine."
+  },
+  {
+   "type": "evenement",
+   "name": "Constitution des Cinq Berceaux",
+   "summary": "Cinq zones produisent les cinq peuples-souches : Marcheurs de Cendre, Enfants de la Roche, Coureurs, Voix-sous-Bois et Gens de l'Eau, matrices de toutes les civilisations futures."
+  },
+  {
+   "type": "evenement",
+   "name": "Le Grand Gel",
+   "summary": "Cycle long de refroidissement et première quasi-extinction : ~73% de la population mortelle disparaît. Seuls les Marcheurs de Cendre, protégés par la chaleur volcanique, sont largement épargnés."
+  },
+  {
+   "type": "evenement",
+   "name": "La Reconstruction",
+   "summary": "Après le réchauffement, les survivants des cinq Berceaux fusionnent en cultures hybrides tandis que de vastes territoires restent abandonnés. Cette période prépare l'Âge du Lien."
+  },
+  {
+   "type": "evenement",
+   "name": "La Découverte du Lien",
+   "summary": "Orvane la Tisseuse, Khatun Pyrecour et Ildaran l'Écouteur découvrent indépendamment le Lien à quelques décennies d'intervalle, ouvrant l'Âge du Lien."
+  },
+  {
+   "type": "evenement",
+   "name": "L'Invention de l'écriture",
+   "summary": "La Théocratie de Celith crée le premier système d'écriture complète du monde, né du besoin de codifier les récits perdus lors du Grand Gel."
+  },
+  {
+   "type": "evenement",
+   "name": "L'Âge d'Or des Grands Empires",
+   "summary": "Apogée de la civilisation du Lien : six grands empires coexistent, avec cités volantes et portails inter-continentaux ; la population atteint ~120 millions."
+  },
+  {
+   "type": "evenement",
+   "name": "La Fracture de Tempora",
+   "summary": "Premier Souffle Cardinal pré-Arrachement : Tempora paraît blessé, les premières Failles apparaissent et il cesse de marcher parmi les hommes. Clôt l'apogée des Grands Empires."
+  },
+  {
+   "type": "evenement",
+   "name": "Le Traité du Vide",
+   "summary": "Verithan, philosophe non-Lié, avertit que la dépendance au Lien est une servitude qu'un jour quelqu'un pourrait rompre, et fonde l'ordre clandestin des Verithani."
+  },
+  {
+   "type": "evenement",
+   "name": "L'Arrachement",
+   "summary": "Rupture cataclysmique du Lien : le Mont Cendra entre en éruption, les cités volantes s'écrasent, les portails se ferment. ~10 millions de morts en sept heures ; point zéro du calendrier."
+  },
+  {
+   "type": "evenement",
+   "name": "L'Ouverture des Brèches du Néant",
+   "summary": "L'Arrachement laisse des traces permanentes : Cratères du Cardinal, zones de magie vitrifiée, et dix-sept Brèches du Néant, failles ouvertes vers des mondes parallèles."
+  },
+  {
+   "type": "evenement",
+   "name": "Fondation du Forgon",
+   "summary": "Les Capitaines de Mer d'Onara et d'Azoria s'unissent par le Pacte des Trois Ports, fondant la principale puissance maritime de la Grande Nuit, héritière des Gens de l'Eau."
+  },
+  {
+   "type": "evenement",
+   "name": "Le Silence de Cantor",
+   "summary": "Les naturalistes cessent de rapporter les phénomènes attribués à Cantor ; l'harmonie du vivant se tait, diversement lue comme retrait, sommeil ou reconfiguration."
+  },
+  {
+   "type": "evenement",
+   "name": "Fondation du Royaume de Tharnok",
+   "summary": "Hadris Tharnok, non-Lié descendant des Enfants de la Roche, unifie douze clans d'Alkaran autour du principe que « ceux qui bâtissent en pierre n'ont pas besoin des Liés »."
+  },
+  {
+   "type": "evenement",
+   "name": "Fondation de l'Empire Drahk'Nor",
+   "summary": "Drahk le Consolidateur unifie Ilthara puis Endora et fonde un empire militaire centralisé, codifié par le Manifeste de Pyros, jusqu'à la Guerre du Panghor Brisé."
+  },
+  {
+   "type": "evenement",
+   "name": "Le Fléau des Failles",
+   "summary": "Troisième quasi-extinction : les Failles temporelles mobiles déciment ~40% de la population et frappent les Tissés, aggravées par la persécution des Inspecteurs de Pureté."
+  },
+  {
+   "type": "evenement",
+   "name": "Guerre du Panghor Brisé",
+   "summary": "Guerre civile provoquant la dissolution de l'Empire Drahk'Nor, donnant naissance aux entités ancêtres de Drakora, Gryndor et Haldria."
+  },
+  {
+   "type": "evenement",
+   "name": "Guerre des Trois Couronnes",
+   "summary": "Crise de succession de la Confédération de Galenthis : trois héritiers se partagent le territoire par les Accords de Lumasar, faisant passer Galenor à une pluralité de cités-États."
+  },
+  {
+   "type": "evenement",
+   "name": "Grande Guerre des Détroits",
+   "summary": "Conflit maritime né du monopole des passes de la Ligue de Kharavel. Le Traité de Caeloria fonde le premier droit maritime international codifié."
+  },
+  {
+   "type": "evenement",
+   "name": "Fondation des Catena Fracta",
+   "summary": "Des Verithani radicaux fondent une organisation secrète vouée à la destruction définitive du Lien, qui n'apparaîtra sous ce nom qu'en ~9 750 ap.A."
+  },
+  {
+   "type": "evenement",
+   "name": "Les Schismes d'Endora",
+   "summary": "Premier grand conflit ouvertement religieux de l'Ère VI : Noctari et Taciti se soulèvent contre l'aristocratie marchande ; Endora se fragmente en Haldria, Avalor et Sanvara."
+  },
+  {
+   "type": "evenement",
+   "name": "Guerre de l'Ombre d'Ilthara",
+   "summary": "Le commandant Pyrax renverse la théocratie du Khaghanat de Gryndhaal et fonde la première entité militaire laïque d'Ilthara, Pyrathis, ancêtre de Pyrtara."
+  },
+  {
+   "type": "evenement",
+   "name": "Révolution des Plumes",
+   "summary": "Les guildes d'artisans de Lumasar renversent l'oligarchie marchande héréditaire et proclament la République Marchande, seul régime républicain formel du monde."
+  },
+  {
+   "type": "evenement",
+   "name": "La Cristallisation",
+   "summary": "Stabilisation des frontières et naissance des nations actuelles (Altram, Kharazir, Mosrack, Drakora, Gryndor, Haldria…), institutionnalisant le clivage Liés / non-Liés."
+  },
+  {
+   "type": "evenement",
+   "name": "Défense de la Porte de Fer",
+   "summary": "Le roi-ingénieur Aldren IV du Protectorat des Passes repousse une coalition grâce à ses tunnels défensifs, devenant un modèle héroïque légué au futur Altram."
+  },
+  {
+   "type": "evenement",
+   "name": "Le Silence des Phénix",
+   "summary": "Les Phénix, manifestations physiques du Lien, disparaissent presque entièrement (moins de quarante recensés depuis ~9 800), diversement lu comme épuisement ou présage."
+  },
+  {
+   "type": "evenement",
+   "name": "La Guerre de l'Ombre",
+   "summary": "Série d'assassinats ciblés de dirigeants, sans revendication officielle, qui s'accélère depuis ~10 150 sans qu'aucun cadre international ne puisse la qualifier."
+  },
+  {
+   "type": "evenement",
+   "name": "Le Réveil du Cœur de Cendra",
+   "summary": "Le Mont Cendra émet des pulsations de chaleur de fréquence croissante, avec visions et fuites d'animaux ; Arkhen y voit Flamara, Pyrevane le réveil d'Eldoria."
+  },
+  {
+   "type": "evenement",
+   "name": "Le Message de Mirathi",
+   "summary": "Une sphère de lumière projette au port-sanctuaire de Mirathi un message en trois langues évoquant des « routes qui rouvrent » ; beaucoup y lisent le retour de Navigor."
+  },
+  {
+   "type": "evenement",
+   "name": "La Faille d'Ordavan",
+   "summary": "En trois minutes, le village d'Ordavan (Gryndor) et ses deux cents habitants disparaissent, ne laissant qu'un cercle de sol vitrifié, ravivant la peur des Failles."
+  }
+ ],
+ "relations": [
+  {
+   "rel_type": "lie-a",
+   "from": "Les Éternels",
+   "to": "La Polyphonie"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Les Cosmiques",
+   "to": "La Polyphonie"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Les Cosmiques",
+   "to": "Les Éternels"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Les Voies",
+   "to": "Les Cosmiques"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Le Lien",
+   "to": "Les Voies"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Le Lien",
+   "to": "La trame"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "La trame",
+   "to": "Le Souffle Cardinal"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "L'Arrachement",
+   "to": "La trame"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Le Petit Souffle",
+   "to": "Le Souffle"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Le Grand Souffle",
+   "to": "Le Souffle"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Le Souffle Cardinal",
+   "to": "Le Souffle"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Les Ères",
+   "to": "Le Souffle"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "L'Accord",
+   "to": "Les Ères"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "L'Héritage",
+   "to": "L'Accord"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "La double résonance",
+   "to": "L'Accord"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Les Consécrations",
+   "to": "L'Accord"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "La rouille",
+   "to": "Le Souffle"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Les Déliés",
+   "to": "Le Lien"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Le Pacte Primordial",
+   "to": "Les Éternels"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Le Pacte Primordial",
+   "to": "Les Cosmiques"
+  },
+  {
+   "rel_type": "schisme-de",
+   "from": "Via Ventus",
+   "to": "Vael'Kurash"
+  },
+  {
+   "rel_type": "schisme-de",
+   "from": "Lex Petra",
+   "to": "Vael'Kurash"
+  },
+  {
+   "rel_type": "schisme-de",
+   "from": "Foedus Animae",
+   "to": "Rota Mundi"
+  },
+  {
+   "rel_type": "schisme-de",
+   "from": "Somnium Vigil",
+   "to": "Noctari"
+  },
+  {
+   "rel_type": "schisme-de",
+   "from": "Taciti",
+   "to": "Foedus Animae"
+  },
+  {
+   "rel_type": "schisme-de",
+   "from": "Filii Fornacis",
+   "to": "Ignis Aeternum"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Vael'Kurash",
+   "to": "Spiritus"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Ignis Aeternum",
+   "to": "Eldoria"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Ordo Caelum",
+   "to": "Celestia"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Noctari",
+   "to": "Noctis"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Noctari",
+   "to": "Umbra"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Rota Mundi",
+   "to": "Tempora"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Rota Mundi",
+   "to": "Fatum"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Via Ventus",
+   "to": "Aerion"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Via Ventus",
+   "to": "Navigor"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Lex Petra",
+   "to": "Terranu"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Somnium Vigil",
+   "to": "Somnix"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Somnium Vigil",
+   "to": "Aurion"
+  },
+  {
+   "rel_type": "venere",
+   "from": "Aqua Nigra",
+   "to": "Aquor"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Ombrils",
+   "to": "Ilthara"
+  },
+  {
+   "rel_type": "fratrie-de",
+   "from": "Les Ombrils",
+   "to": "Les Vael'Somnix"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Syltharans",
+   "to": "Endora"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Ventori",
+   "to": "Galenor"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Petravins",
+   "to": "Alkaran"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Nébulaïrs",
+   "to": "Celethor"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Kharavasts",
+   "to": "Cendara"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Marevanes",
+   "to": "Onara"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Selvarins",
+   "to": "Evertia"
+  },
+  {
+   "rel_type": "situe-dans",
+   "from": "Les Vael'Somnix",
+   "to": "Ilthara"
+  },
+  {
+   "rel_type": "fratrie-de",
+   "from": "Les Vael'Somnix",
+   "to": "Les Ombrils"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "L'Étudiant",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Thessan l'Érudit",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Sera de Celethor",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Drakhan l'Aîné",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Vorath le Tacite",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Mirathis",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Aelindra de Pyrion",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Kayara-du-Large",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Iveth le Silencieux",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Verkan Sorne",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Ísae",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Kessa",
+   "to": "La Septième Heure (T1)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Kessane de la Forge-Basse",
+   "to": "L'Heure qui se Referme (T2)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Ombreth le Dernier-qui-Chante",
+   "to": "L'Heure qui se Referme (T2)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Vaenor Sorne",
+   "to": "L'Heure qui se Referme (T2)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Lirenn",
+   "to": "L'Heure qui se Referme (T2)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Frère Olven",
+   "to": "L'Heure qui se Referme (T2)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Drahvel",
+   "to": "L'Heure qui se Referme (T2)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Vaskar Sorne",
+   "to": "L'Heure qui Naît (T3)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Renna",
+   "to": "L'Heure qui Naît (T3)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Sanne",
+   "to": "L'Heure qui Naît (T3)"
+  },
+  {
+   "rel_type": "apparait-dans",
+   "from": "Ilex",
+   "to": "L'Heure qui Naît (T3)"
+  },
+  {
+   "rel_type": "fratrie-de",
+   "from": "Sera de Celethor",
+   "to": "Ísae"
+  },
+  {
+   "rel_type": "parent-de",
+   "from": "Drakhan l'Aîné",
+   "to": "Kessa"
+  },
+  {
+   "rel_type": "parent-de",
+   "from": "Kessane de la Forge-Basse",
+   "to": "Lirenn"
+  },
+  {
+   "rel_type": "allie-de",
+   "from": "Sera de Celethor",
+   "to": "L'Étudiant"
+  },
+  {
+   "rel_type": "allie-de",
+   "from": "Thessan l'Érudit",
+   "to": "L'Étudiant"
+  },
+  {
+   "rel_type": "allie-de",
+   "from": "Vaenor Sorne",
+   "to": "Drahvel"
+  },
+  {
+   "rel_type": "en-guerre-avec",
+   "from": "Verkan Sorne",
+   "to": "Aelindra de Pyrion"
+  },
+  {
+   "rel_type": "en-guerre-avec",
+   "from": "Vaenor Sorne",
+   "to": "Kessane de la Forge-Basse"
+  },
+  {
+   "rel_type": "en-guerre-avec",
+   "from": "Vaenor Sorne",
+   "to": "Ombreth le Dernier-qui-Chante"
+  },
+  {
+   "rel_type": "en-guerre-avec",
+   "from": "Vaskar Sorne",
+   "to": "Sanne"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Aurion",
+   "to": "Umbra"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Spiritus",
+   "to": "Stellaris"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Aquor",
+   "to": "Climata"
+  },
+  {
+   "rel_type": "lie-a",
+   "from": "Aetheron",
+   "to": "Etherius"
+  },
+  {
+   "rel_type": "descend-de",
+   "from": "Vaenor Sorne",
+   "to": "Verkan Sorne"
+  },
+  {
+   "rel_type": "descend-de",
+   "from": "Vaskar Sorne",
+   "to": "Vaenor Sorne"
+  },
+  {
+   "rel_type": "descend-de",
+   "from": "Les Petravins",
+   "to": "Les Enfants de la Roche"
+  },
+  {
+   "rel_type": "descend-de",
+   "from": "Les Kharavasts",
+   "to": "Les Marcheurs de Cendre"
+  },
+  {
+   "rel_type": "descend-de",
+   "from": "Les Marevanes",
+   "to": "Les Gens de l’Eau"
+  }
+ ],
+ "facts": [
+  {
+   "fact_type": "evenement",
+   "subject": "La Résonance",
+   "start_year": -12000000,
+   "circa": true,
+   "label": "Origine du cosmos (Ère 0)"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Émergence des 12 Cosmiques",
+   "start_year": -11000000,
+   "circa": true,
+   "label": "Ère I"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Formation du Mont Originel",
+   "start_year": -10500000,
+   "circa": true,
+   "label": "Ère I"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Naissance des 45 Éthérés",
+   "start_year": -10000000,
+   "circa": true,
+   "label": "Ère I"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "La Fracture du Panghor",
+   "start_year": -8000000,
+   "end_year": -45000,
+   "circa": true,
+   "label": "Ère I"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Émergence des premiers mortels",
+   "start_year": -45000,
+   "circa": true,
+   "label": "Ère II"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Constitution des Cinq Berceaux",
+   "start_year": -44000,
+   "end_year": -40000,
+   "circa": true,
+   "label": "Ère II"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Le Grand Gel",
+   "start_year": -30000,
+   "end_year": -25000,
+   "circa": true,
+   "label": "1re quasi-extinction"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "La Reconstruction",
+   "start_year": -25000,
+   "end_year": -20000,
+   "circa": true,
+   "label": "Ère II"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "La Découverte du Lien",
+   "start_year": -20000,
+   "circa": true,
+   "label": "Début de l'Âge du Lien"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "L'Invention de l'écriture",
+   "start_year": -16000,
+   "circa": true,
+   "label": "Théocratie de Celith"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "L'Âge d'Or des Grands Empires",
+   "start_year": -3000,
+   "end_year": -1000,
+   "circa": true,
+   "label": "Ère III tardive"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "La Fracture de Tempora",
+   "start_year": -1500,
+   "circa": true,
+   "label": "Souffle Cardinal pré-Arrachement"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Le Traité du Vide",
+   "start_year": -1000,
+   "circa": true,
+   "label": "Verithan"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "L'Arrachement",
+   "start_year": 0,
+   "circa": false,
+   "label": "An 0 — point zéro"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "L'Ouverture des Brèches du Néant",
+   "start_year": 0,
+   "circa": false,
+   "label": "Traces du Cardinal"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Fondation du Forgon",
+   "start_year": 400,
+   "circa": true,
+   "label": "Grande Nuit"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Le Silence de Cantor",
+   "start_year": 500,
+   "circa": true,
+   "label": "Grande Nuit"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Fondation du Royaume de Tharnok",
+   "start_year": 600,
+   "circa": true,
+   "label": "Grande Nuit"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Fondation de l'Empire Drahk'Nor",
+   "start_year": 800,
+   "circa": true,
+   "label": "Grande Nuit"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Le Fléau des Failles",
+   "start_year": 1400,
+   "end_year": 1600,
+   "circa": true,
+   "label": "3e quasi-extinction"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Guerre du Panghor Brisé",
+   "start_year": 4750,
+   "end_year": 4850,
+   "circa": true,
+   "label": "Ère VI"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Guerre des Trois Couronnes",
+   "start_year": 5180,
+   "end_year": 5230,
+   "circa": true,
+   "label": "Ère VI"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Grande Guerre des Détroits",
+   "start_year": 5680,
+   "end_year": 5760,
+   "circa": true,
+   "label": "Ère VI"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Fondation des Catena Fracta",
+   "start_year": 5800,
+   "circa": true,
+   "label": "Ère VI"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Les Schismes d'Endora",
+   "start_year": 6450,
+   "end_year": 6550,
+   "circa": true,
+   "label": "Ère VI"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Guerre de l'Ombre d'Ilthara",
+   "start_year": 7180,
+   "end_year": 7210,
+   "circa": true,
+   "label": "Ère VI"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Révolution des Plumes",
+   "start_year": 7490,
+   "end_year": 7510,
+   "circa": true,
+   "label": "Ère VI"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "La Cristallisation",
+   "start_year": 8000,
+   "end_year": 9500,
+   "circa": true,
+   "label": "Naissance des nations actuelles"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Défense de la Porte de Fer",
+   "start_year": 8790,
+   "end_year": 8820,
+   "circa": true,
+   "label": "Ère VI"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Le Silence des Phénix",
+   "start_year": 9800,
+   "circa": true,
+   "label": "En cours"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "La Guerre de l'Ombre",
+   "start_year": 9850,
+   "circa": true,
+   "label": "Phase active"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Le Réveil du Cœur de Cendra",
+   "start_year": 9900,
+   "circa": true,
+   "label": "En cours"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "Le Message de Mirathi",
+   "start_year": 10064,
+   "circa": true,
+   "label": "Ère VII"
+  },
+  {
+   "fact_type": "evenement",
+   "subject": "La Faille d'Ordavan",
+   "start_year": 10142,
+   "circa": true,
+   "label": "Ère VII"
+  }
+ ]
+}
