@@ -163,6 +163,24 @@ Cas concrets à traiter en priorité (échantillon) :
 
 ---
 
+## 10. Positions vs rattachements — les conflits carte/fiches (cas Folgrad)
+
+**Statut : 15 conflits à arbitrer, liste exacte dans `data/geo-conflits.json`.**
+
+La carte vivante a rendu visible une contradiction entre **deux sources de l'auteur** : la position des points sur la carte d'origine (sauvegarde du 3 mai) et le rattachement des fiches. Cas découvert : **Folgrad**, capitale de **Mosrack** (Onara) selon les fiches, mais posée sur la carte **à 21 unités du marqueur d'Ulinor** (et à 381 du marqueur de Mosrack).
+
+Vérification systématique (242 villes rattachées et positionnées, comparées aux **marqueurs de pays de la carte d'origine**) : **93,4 % cohérentes**, 16 conflits, trois causes distinctes :
+
+| Cause | Cas | Correction |
+|---|---|---|
+| Confusion « No Man's Land » (trois graphies) par les agents d'extraction | 13 villes rattachées au NML d'**Azoria** mais posées près de ceux de **Cestra**/Caeloria/Baelor | à re-rattacher quand les entités NML par continent existeront |
+| Conflit **carte vs fiche** dans les sources | **Folgrad** (Mosrack/Onara vs zone Ulinor), **Windora** (Thalmaris vs Astravia) | **arbitrage d'auteur** : déplacer le point sur la carte OU corriger la fiche |
+| Homonymes en double dans la sauvegarde carte (12 noms : 2×Kryndor, 2×Ackerna…) — la restauration de coordonnées prenait la première entrée | **Kryndor** (Ventera) avait reçu les coordonnées du Kryndor d'Elarian | **corrigé** : résolution par proximité au marqueur du pays (`fix-geo-conflits.js`) |
+
+Corrections déjà appliquées : **42 ancres** pays/continents importées des marqueurs officiels de la carte (les sphères et libellés de la carte vivante s'alignent sur la vraie géographie) ; l'étape 10 du parcours de Sorin (Folgrad) est **ré-ancrée sur le marqueur de Mosrack** (vérité des fiches) en attendant l'arbitrage.
+
+---
+
 ## Annexe — d'où viennent ces constats
 
 - Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
