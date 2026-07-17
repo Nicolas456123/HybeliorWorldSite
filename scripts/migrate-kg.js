@@ -52,10 +52,12 @@ function truncate(s, n) { if (!s) return null; return s.length > n ? s.slice(0, 
   const td = data.timelineData;
   const counts = { eras: 0, continents: 0, aliases: 0, nations: 0, civs: 0, religions: 0, facts: 0, relations: 0, capitals: 0, lectures: 0, mysteres: 0, oeuvres: 0 };
 
-  const srcId = ensure('source', 'Chroniques d’Hybélior (chronologie canonique)', {
-    summary: 'Chronologie et noms historiques agrégés — provenance des faits migrés.',
+  const srcId = ensure('source', 'Chronologie canonique d’Hybelior', {
+    summary: 'Chronologie et noms historiques agrégés (Docs/Lore/Chronologie) — provenance des faits migrés. À ne pas confondre avec le roman « Les Chroniques de l’Exilé ».',
     data: { rang: 'chronique-interne' },
   });
+  // Ancien nom conservé comme alias (désambiguïsation), le temps que les références l'oublient.
+  write('save-alias', { entity_id: srcId, value: 'Chroniques d’Hybélior (chronologie canonique)', alias_status: 'desambig' });
 
   // Ères (id = slug d'origine)
   for (const era of td.eras) {
