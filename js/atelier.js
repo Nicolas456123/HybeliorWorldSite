@@ -27,14 +27,13 @@ function h(tag, attrs, ...kids) {
 }
 const $ = (s, r = document) => r.querySelector(s);
 
-// ── Client API ───────────────────────────────────────────────────────────────
+// ── Client API — lectures ouvertes, écritures avec un petit mot de passe ─────
 const KG = {
   pw: sessionStorage.getItem('kgpw') || '',
   async get(action, params = {}) {
     const clean = {}; for (const [k, v] of Object.entries(params)) if (v !== '' && v != null) clean[k] = v;
     const qs = new URLSearchParams(Object.assign({ action }, clean)).toString();
-    const r = await fetch('/api/kg?' + qs, { headers: { 'X-Editor-Password': this.pw } });
-    if (r.status === 403) { const e = new Error('auth'); e.auth = true; throw e; }
+    const r = await fetch('/api/kg?' + qs);
     const j = await r.json().catch(() => ({}));
     if (!r.ok) throw new Error(j.error || ('Erreur ' + r.status));
     return j;
@@ -44,8 +43,8 @@ const KG = {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ password: this.pw, action, data }),
     });
-    if (r.status === 403) { const e = new Error('auth'); e.auth = true; throw e; }
     const j = await r.json().catch(() => ({}));
+    if (r.status === 403) { const e = new Error(j.error || 'Mot de passe requis'); e.auth = true; throw e; }
     if (!r.ok) throw new Error(j.error || ('Erreur ' + r.status));
     return j;
   },
@@ -60,22 +59,25 @@ function toast(msg, isErr) {
   const t = $('#toast'); t.textContent = msg; t.className = 'toast on' + (isErr ? ' err' : '');
   clearTimeout(toastT); toastT = setTimeout(() => (t.className = 'toast'), 2600);
 }
-async function guard(fn) { try { return await fn(); } catch (e) { if (e.auth) return askPassword(); toast(e.message, true); throw e; } }
+async function guard(fn) { try { return await fn(); } catch (e) { if (e.auth) askPassword(); else toast(e.message, true); throw e; } }
 
-// ── Verrou ─────────────────────────────────────────────────────────────────────
+// ── Petit mot de passe (débloque l'édition ; la lecture reste ouverte) ─────────
 function askPassword() {
   openModal(h('div', {},
-    h('h2', { text: 'Atelier verrouillé' }),
-    h('p', { class: 'muted', text: 'Le graphe est privé. Entre le mot de passe d’édition.' }),
+    h('h2', { text: 'Mot de passe' }),
+    h('p', { class: 'muted', text: 'Entre le mot de passe pour éditer le graphe.' }),
     h('input', { id: 'pwField', type: 'password', placeholder: 'Mot de passe', onkeydown: (e) => { if (e.key === 'Enter') submitPw(); } }),
-    h('div', { class: 'actions' }, h('button', { class: 'primary', onclick: submitPw, text: 'Déverrouiller' })),
+    h('div', { class: 'actions' }, h('button', { class: 'primary', onclick: submitPw, text: 'Entrer' })),
   ));
   setTimeout(() => $('#pwField') && $('#pwField').focus(), 30);
 }
 async function submitPw() {
-  KG.pw = $('#pwField').value;
-  try { await KG.get('stats'); sessionStorage.setItem('kgpw', KG.pw); closeModal(); boot(); }
-  catch { toast('Mot de passe incorrect', true); }
+  const pw = $('#pwField').value;
+  try {
+    const r = await fetch('/api/auth', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ password: pw }) });
+    if (!r.ok) return toast('Mot de passe incorrect', true);
+    KG.pw = pw; sessionStorage.setItem('kgpw', pw); closeModal(); boot();
+  } catch { toast('Erreur d’authentification', true); }
 }
 
 // ── Modal ─────────────────────────────────────────────────────────────────────
@@ -552,7 +554,8 @@ async function renderCoherence() {
 $('#search').addEventListener('input', (e) => { S.search = e.target.value.trim(); clearTimeout(S._st); S._st = setTimeout(loadEntities, 200); });
 $('#btnNew').addEventListener('click', () => entityForm(null));
 $('#btnCoherence').addEventListener('click', () => { S.tab = 'coherence'; document.querySelectorAll('#tabs .tab').forEach(t => t.classList.toggle('active', t.dataset.tab === 'coherence')); renderView(); });
-$('#btnLogout').addEventListener('click', () => { sessionStorage.removeItem('kgpw'); KG.pw = ''; location.reload(); });
+
+$('#btnLogout').addEventListener('click', () => { sessionStorage.removeItem('kgpw'); KG.pw = ''; askPassword(); });
 
 async function boot() {
   S.catalog = (await guard(() => KG.get('catalog')));
@@ -561,8 +564,4 @@ async function boot() {
   renderView();
 }
 
-(async function init() {
-  if (!KG.pw) return askPassword();
-  try { await KG.get('stats'); boot(); }
-  catch { askPassword(); }
-})();
+(function init() { if (KG.pw) boot(); else askPassword(); })();

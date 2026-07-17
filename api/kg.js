@@ -2,78 +2,61 @@
 /*
  * api/kg.js — Point d'entrée serverless (Vercel) du graphe de connaissances.
  *
- * La logique vit dans lib/kg-core.js (backend-agnostique). Ici on ne fait que :
- *   1. fournir l'adaptateur de stockage Turso (exec SQL via HTTP /v2/pipeline) ;
- *   2. router les requêtes GET (lectures / projections) et POST (écritures) ;
- *   3. protéger l'accès par EDITOR_PASSWORD — le site est privé.
+ * Modèle base ⊕ overlay :
+ *   • data/kg-base.json (committé) = toutes les données de base, servies
+ *     directement — les LECTURES fonctionnent même sans Turso.
+ *   • Turso (overlay) = uniquement ce qui est créé/édité/supprimé ensuite ;
+ *     requis seulement pour les ÉCRITURES.
  *
- * Le MÊME cœur est câblé en développement dans server.js sur node:sqlite.
+ * Aucun mot de passe : accès direct (outil personnel privé).
  */
 
 const kg = require('../lib/kg-core.js');
-const { createTursoExec } = require('../lib/turso-adapter.js');
+const { createTursoOverlay } = require('../lib/kg-overlay-turso.js');
 
-const TURSO_URL = process.env.TURSO_URL;
-const TURSO_TOKEN = process.env.TURSO_AUTH_TOKEN;
+let BASE = {};
+try { BASE = require('../data/kg-base.json'); } catch { BASE = {}; }
 
-let _exec = null;
-function getExec() {
-  if (!_exec) _exec = createTursoExec(TURSO_URL, TURSO_TOKEN);
-  return _exec;
+let _overlay = null;
+function haveTurso() { return !!(process.env.TURSO_URL && process.env.TURSO_AUTH_TOKEN); }
+function overlayStore() {
+  if (!_overlay) _overlay = createTursoOverlay(process.env.TURSO_URL, process.env.TURSO_AUTH_TOKEN);
+  return _overlay;
 }
 
-let schemaReady = false;
-async function ensureSchema(exec) {
-  if (schemaReady) return;
-  await kg.initSchema(exec);
-  schemaReady = true;
-}
-
-// ── Handler ─────────────────────────────────────────────────────────────────
 module.exports = async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, X-Editor-Password');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
   if (req.method === 'OPTIONS') return res.status(200).end();
 
-  if (!TURSO_URL || !TURSO_TOKEN) {
-    return res.status(500).json({ error: 'Turso non configuré (TURSO_URL / TURSO_AUTH_TOKEN).' });
-  }
-
-  const exec = getExec();
-  const PASSWORD = process.env.EDITOR_PASSWORD;
-
   try {
-    await ensureSchema(exec);
+    const overlay = haveTurso() ? await overlayStore().load() : {};
+    const graph = kg.mergeGraph(BASE, overlay);
 
-    // ── Lectures (GET) — privé (mot de passe), sauf « timeline » (public,
-    //     mêmes données non secrètes que le fichier timeline-names public) ──
     if (req.method === 'GET') {
-      const action = req.query.action || 'list';
-      if (action !== 'timeline') {
-        const provided = req.headers['x-editor-password'];
-        if (!PASSWORD || provided !== PASSWORD) {
-          return res.status(403).json({ error: 'Mot de passe requis (header X-Editor-Password)' });
-        }
-      }
-      const out = await kg.readAction(exec, action, req.query);
-      return res.status(200).json(out);
+      return res.status(200).json(kg.readAction(graph, req.query.action || 'list', req.query));
     }
 
-    // ── Écritures (POST) — mot de passe dans le corps ─────────────────────
     if (req.method === 'POST') {
+      // Petit mot de passe sur les ÉCRITURES seulement (les lectures sont ouvertes).
+      // Actif si EDITOR_PASSWORD est défini ; sinon écritures libres.
       const { password, action, data } = req.body || {};
-      if (!PASSWORD || password !== PASSWORD) {
-        return res.status(403).json({ error: 'Mot de passe incorrect' });
+      if (process.env.EDITOR_PASSWORD && password !== process.env.EDITOR_PASSWORD) {
+        return res.status(403).json({ error: 'Mot de passe incorrect', code: 'auth' });
       }
-      const out = await kg.writeAction(exec, action, data);
-      return res.status(200).json(out);
+      if (!haveTurso()) {
+        return res.status(503).json({ error: 'Turso non configuré — écriture impossible (lecture seule).', code: 'read-only' });
+      }
+      const { ops, result } = kg.prepareWrite(graph, action, data, new Date().toISOString());
+      await overlayStore().apply(ops, new Date().toISOString());
+      return res.status(200).json(result);
     }
 
     return res.status(405).json({ error: 'Method not allowed' });
   } catch (err) {
     const code = err && err.code ? err.code : 'error';
-    const status = code === 'validation' || code === 'ref' || code === 'referenced' ? 400
+    const status = (code === 'validation' || code === 'ref' || code === 'referenced') ? 400
       : code === 'not-found' ? 404 : 500;
     return res.status(status).json({ error: err.message, code });
   }

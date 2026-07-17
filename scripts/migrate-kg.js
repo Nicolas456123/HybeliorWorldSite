@@ -1,249 +1,149 @@
 'use strict';
 /*
- * scripts/migrate-kg.js — Seed du graphe de connaissances depuis les données
- * chronologiques existantes (data/timeline-names.json).
+ * scripts/migrate-kg.js — Génère data/kg-base.json (la base statique du graphe)
+ * depuis les données chronologiques existantes + le canon des mystères/romans.
  *
- * Transforme le corpus déjà à moitié structuré en graphe :
- *   • ères                → entités type « ere » (id = slug d'origine)
+ * Le résultat est COMMITTÉ dans le repo : c'est « toutes les données sur le
+ * site directement ». Turso ne sert ensuite qu'à la surcouche (modifications).
+ *
+ *   • ères                → entités « ere » (id = slug d'origine)
  *   • continents          → lieux (échelle continent) + noms historiques (alias datés)
  *   • nations             → entités politiques + alias datés + fait « fondation »
- *                           + relations situe-dans / pratique(religion) / capitale-de
- *   • civilisations mortes → entités politiques + faits « fondation » et « chute »
- *                           + relations situe-dans / succède-à
+ *                           + relations situe-dans / pratique / capitale-de
+ *   • civilisations mortes → entités politiques + faits fondation/chute + succède-à
+ *   • mystères protégés    → entités « question » à lectures concurrentes
+ *   • romans               → entités « oeuvre » (trilogie + 3 tomes)
  *
- * Backend : Turso si TURSO_URL + TURSO_AUTH_TOKEN sont présents, sinon
- * node:sqlite (local-kg.sqlite). Le MÊME cœur (lib/kg-core.js) traite les deux.
- *
- * Usage :  node scripts/migrate-kg.js [--reset]
- *   --reset  vide d'abord les tables kg_* (seed propre).
+ * Usage :  node scripts/migrate-kg.js   (écrit data/kg-base.json)
  */
 
+const fs = require('fs');
 const path = require('path');
 const kg = require('../lib/kg-core.js');
-const { createSqliteExec } = require('../lib/sqlite-adapter.js');
-const { createTursoExec } = require('../lib/turso-adapter.js');
 const data = require('../data/timeline-names.json');
 
-const RESET = process.argv.includes('--reset');
+const WHEN = '2026-07-17T00:00:00.000Z'; // horodatage fixe → base déterministe
 
-function pickExec() {
-  if (process.env.TURSO_URL && process.env.TURSO_AUTH_TOKEN) {
-    console.log('→ Backend : Turso');
-    return createTursoExec(process.env.TURSO_URL, process.env.TURSO_AUTH_TOKEN);
-  }
-  const file = path.join(__dirname, '..', 'local-kg.sqlite');
-  console.log('→ Backend : node:sqlite (' + file + ')');
-  return createSqliteExec(file).exec;
+const g = kg.emptyGraph();
+function write(action, payload) {
+  const { ops, result } = kg.prepareWrite(g, action, payload, WHEN);
+  kg.applyOps(g, ops);
+  return result;
 }
 
-// Précision d'une date issue des chroniques : les temps très reculés sont des
-// estimations rituelles ; le reste, des années nettes.
+const index = new Map();
+const keyOf = (type, name) => `${type}|${name}`;
+function ensure(type, name, extra) {
+  const k = keyOf(type, name);
+  if (index.has(k)) return index.get(k);
+  const e = write('save-entity', Object.assign({ type, name }, extra || {})).entity;
+  index.set(k, e.id);
+  return e.id;
+}
+
 function datePrec(year) {
   if (year === null || year === undefined) return { precision: 'annee', circa: 0 };
   if (year < -1000) return { precision: 'estimation', circa: 1 };
   return { precision: 'annee', circa: 0 };
 }
+function truncate(s, n) { if (!s) return null; return s.length > n ? s.slice(0, n - 1) + '…' : s; }
 
-function truncate(s, n) {
-  if (!s) return null;
-  return s.length > n ? s.slice(0, n - 1) + '…' : s;
-}
-
-(async () => {
-  const exec = pickExec();
-  await kg.initSchema(exec);
-
-  if (RESET) {
-    for (const t of ['kg_readings', 'kg_relations', 'kg_facts', 'kg_aliases', 'kg_entities', 'kg_audit']) {
-      await exec(`DELETE FROM ${t}`, []);
-    }
-    console.log('⌫ tables kg_* vidées (--reset)');
-  }
-
-  // Index (type|name) → id, pour l'idempotence et la résolution des relations.
-  const index = new Map();
-  const key = (type, name) => `${type}|${name}`;
-  for (const row of (await exec(`SELECT id, type, name FROM kg_entities`, [])).rows) {
-    index.set(key(row.type, row.name), row.id);
-  }
-
-  async function ensure(type, name, extra) {
-    const k = key(type, name);
-    if (index.has(k)) return index.get(k);
-    const e = await kg.upsertEntity(exec, Object.assign({ type, name }, extra || {}));
-    index.set(k, e.id);
-    return e.id;
-  }
-
+(function main() {
   const td = data.timelineData;
-  let counts = { eras: 0, continents: 0, aliases: 0, nations: 0, civs: 0, religions: 0, facts: 0, relations: 0, capitals: 0 };
+  const counts = { eras: 0, continents: 0, aliases: 0, nations: 0, civs: 0, religions: 0, facts: 0, relations: 0, capitals: 0, lectures: 0, mysteres: 0, oeuvres: 0 };
 
-  // ── Source de provenance des faits migrés ─────────────────────────────
-  const srcId = await ensure('source', 'Chroniques d’Hybélior (chronologie canonique)', {
+  const srcId = ensure('source', 'Chroniques d’Hybélior (chronologie canonique)', {
     summary: 'Chronologie et noms historiques agrégés — provenance des faits migrés.',
     data: { rang: 'chronique-interne' },
   });
 
-  // ── Ères (id = slug d'origine, pour préserver les références era_id) ───
+  // Ères (id = slug d'origine)
   for (const era of td.eras) {
-    await kg.upsertEntity(exec, {
-      id: era.id, type: 'ere', name: era.name, summary: era.description,
-      data: { startYear: era.startYear, endYear: era.endYear },
-    });
+    write('save-entity', { id: era.id, type: 'ere', name: era.name, summary: era.description, data: { startYear: era.startYear, endYear: era.endYear } });
+    index.set(keyOf('ere', era.name), era.id);
     counts.eras++;
   }
 
-  // ── Continents (lieux) + noms historiques datés (alias) ───────────────
+  // Continents + noms historiques datés
   const continentIdByName = {};
   for (const ct of td.continentTimelines) {
-    const id = await ensure('lieu', ct.currentName, { data: { echelle: 'continent' } });
+    const id = ensure('lieu', ct.currentName, { data: { echelle: 'continent' } });
     continentIdByName[ct.currentName] = id;
     counts.continents++;
     for (const seg of (ct.timeline || [])) {
       if (!seg.name) continue;
-      const isCurrent = seg.name === ct.currentName;
-      await kg.upsertAlias(exec, {
-        entity_id: id, value: seg.name,
-        alias_status: isCurrent ? 'visible' : 'predecessor',
-        from_year: seg.startYear, to_year: seg.endYear,
-      });
+      write('save-alias', { entity_id: id, value: seg.name, alias_status: seg.name === ct.currentName ? 'visible' : 'predecessor', from_year: seg.startYear, to_year: seg.endYear });
       counts.aliases++;
     }
   }
 
-  // ── Nations (entités politiques) ──────────────────────────────────────
+  // Nations
   for (const c of td.countries) {
-    const polId = await ensure('entite-politique', c.currentName, {
-      data: { continent: c.continent || null, religion: c.religion || null },
-    });
+    const polId = ensure('entite-politique', c.currentName, { data: { continent: c.continent || null, religion: c.religion || null } });
     counts.nations++;
-
     const segs = (c.timeline || []).slice().sort((a, b) => (a.startYear ?? 0) - (b.startYear ?? 0));
-
-    // Alias datés (noms successifs de la lignée politique)
     for (const seg of segs) {
       if (!seg.name) continue;
-      const isCurrent = seg.name === c.currentName;
-      await kg.upsertAlias(exec, {
+      write('save-alias', {
         entity_id: polId, value: seg.name,
-        alias_status: isCurrent ? 'visible' : 'predecessor',
+        alias_status: seg.name === c.currentName ? 'visible' : 'predecessor',
         from_year: seg.startYear, to_year: seg.endYear,
         meaning: truncate([seg.type, seg.notes].filter(Boolean).join(' — '), 240),
       });
       counts.aliases++;
     }
-
-    // Fait « fondation » au plus ancien segment
     if (segs.length && segs[0].startYear !== undefined) {
       const p = datePrec(segs[0].startYear);
-      await kg.upsertFact(exec, {
-        fact_type: 'fondation', subject_id: polId,
-        start_year: segs[0].startYear, start_precision: p.precision, start_circa: p.circa,
-        era_id: segs[0].era || null, label: segs[0].name, source_id: srcId,
-      });
+      write('save-fact', { fact_type: 'fondation', subject_id: polId, start_year: segs[0].startYear, start_precision: p.precision, start_circa: p.circa, era_id: segs[0].era || null, label: segs[0].name, source_id: srcId });
       counts.facts++;
     }
-
-    // Relation situe-dans → continent
-    if (c.continent && continentIdByName[c.continent]) {
-      await kg.upsertRelation(exec, { rel_type: 'situe-dans', from_id: polId, to_id: continentIdByName[c.continent], source_id: srcId });
-      counts.relations++;
-    }
-
-    // Relation pratique → religion
-    if (c.religion) {
-      const relId = await ensure('religion', c.religion, {});
-      counts.religions = Object.keys(index).length; // approximé plus bas
-      await kg.upsertRelation(exec, { rel_type: 'pratique', from_id: polId, to_id: relId, source_id: srcId });
-      counts.relations++;
-    }
-
-    // Capitale actuelle → lieu (cité) + relation capitale-de
+    if (c.continent && continentIdByName[c.continent]) { write('save-relation', { rel_type: 'situe-dans', from_id: polId, to_id: continentIdByName[c.continent], source_id: srcId }); counts.relations++; }
+    if (c.religion) { const relId = ensure('religion', c.religion, {}); write('save-relation', { rel_type: 'pratique', from_id: polId, to_id: relId, source_id: srcId }); counts.relations++; }
     const lastCap = [...segs].reverse().find(s => s.capital);
-    if (lastCap && lastCap.capital) {
-      const capId = await ensure('lieu', lastCap.capital, { data: { echelle: 'cite' } });
-      await kg.upsertRelation(exec, { rel_type: 'capitale-de', from_id: capId, to_id: polId, start_year: lastCap.startYear, source_id: srcId });
-      counts.capitals++;
-      counts.relations++;
-    }
+    if (lastCap && lastCap.capital) { const capId = ensure('lieu', lastCap.capital, { data: { echelle: 'cite' } }); write('save-relation', { rel_type: 'capitale-de', from_id: capId, to_id: polId, start_year: lastCap.startYear, source_id: srcId }); counts.capitals++; counts.relations++; }
   }
 
-  // ── Civilisations disparues (entités politiques + fondation/chute) ─────
+  // Civilisations disparues
   const pendingSuccessions = [];
   for (const civ of (td.civilisationsDisparues || [])) {
-    const civId = await ensure('entite-politique', civ.name, {
-      summary: truncate(civ.notes, 240),
-      data: { continent: civ.continent || null, disparue: true, type: civ.type || null },
-    });
+    const civId = ensure('entite-politique', civ.name, { summary: truncate(civ.notes, 240), data: { continent: civ.continent || null, disparue: true, type: civ.type || null } });
     counts.civs++;
-
-    if (civ.startYear !== undefined) {
-      const p = datePrec(civ.startYear);
-      await kg.upsertFact(exec, { fact_type: 'fondation', subject_id: civId, start_year: civ.startYear, start_precision: p.precision, start_circa: p.circa, source_id: srcId });
-      counts.facts++;
-    }
-    if (civ.endYear !== undefined) {
-      const p = datePrec(civ.endYear);
-      await kg.upsertFact(exec, { fact_type: 'chute', subject_id: civId, start_year: civ.endYear, start_precision: p.precision, start_circa: p.circa, source_id: srcId });
-      counts.facts++;
-    }
-    if (civ.continent && continentIdByName[civ.continent]) {
-      await kg.upsertRelation(exec, { rel_type: 'situe-dans', from_id: civId, to_id: continentIdByName[civ.continent], source_id: srcId });
-      counts.relations++;
-    }
+    if (civ.startYear !== undefined) { const p = datePrec(civ.startYear); write('save-fact', { fact_type: 'fondation', subject_id: civId, start_year: civ.startYear, start_precision: p.precision, start_circa: p.circa, source_id: srcId }); counts.facts++; }
+    if (civ.endYear !== undefined) { const p = datePrec(civ.endYear); write('save-fact', { fact_type: 'chute', subject_id: civId, start_year: civ.endYear, start_precision: p.precision, start_circa: p.circa, source_id: srcId }); counts.facts++; }
+    if (civ.continent && continentIdByName[civ.continent]) { write('save-relation', { rel_type: 'situe-dans', from_id: civId, to_id: continentIdByName[civ.continent], source_id: srcId }); counts.relations++; }
     if (civ.successeur) pendingSuccessions.push({ civName: civ.name, successorName: civ.successeur });
   }
-
-  // Successions (2e passe : le successeur doit exister)
   for (const s of pendingSuccessions) {
-    const civId = index.get(key('entite-politique', s.civName));
-    const succId = index.get(key('entite-politique', s.successorName));
-    if (civId && succId) {
-      await kg.upsertRelation(exec, { rel_type: 'succede-a', from_id: succId, to_id: civId, source_id: srcId });
-      counts.relations++;
-    }
+    const civId = index.get(keyOf('entite-politique', s.civName));
+    const succId = index.get(keyOf('entite-politique', s.successorName));
+    if (civId && succId) { write('save-relation', { rel_type: 'succede-a', from_id: succId, to_id: civId, source_id: srcId }); counts.relations++; }
   }
 
-  // ── Romans (œuvres) — la trilogie « Les Trois Coups » ─────────────────
-  const trilogieId = await ensure('oeuvre', 'Les Trois Coups (trilogie)', {
-    summary: 'Trilogie — l’Arrachement, le Fléau des Failles, le Sillage.',
-    data: { forme: 'trilogie' },
-  });
+  // Romans (œuvres)
+  const trilogieId = ensure('oeuvre', 'Les Trois Coups (trilogie)', { summary: 'Trilogie — l’Arrachement, le Fléau des Failles, le Sillage.', data: { forme: 'trilogie' } });
   const romanId = {};
   for (const r of [
     { cle: 't1', titre: 'La Septième Heure', tome: 1, epoque: 'l’Arrachement, An 0' },
     { cle: 't2', titre: 'L’Heure qui se Referme', tome: 2, epoque: '~1 400–1 600 ap.A (Ère V, la Grande Nuit)' },
     { cle: 't3', titre: 'L’Heure qui Naît', tome: 3, epoque: 'an 251 / ~10 200 ap.A (le Sillage)' },
   ]) {
-    const id = await ensure('oeuvre', `${r.titre} (T${r.tome})`, {
-      summary: `Tome ${r.tome} de « Les Trois Coups » — ${r.epoque}.`,
-      data: { trilogie: 'Les Trois Coups', tome: r.tome, epoque: r.epoque },
-    });
+    const id = ensure('oeuvre', `${r.titre} (T${r.tome})`, { summary: `Tome ${r.tome} de « Les Trois Coups » — ${r.epoque}.`, data: { trilogie: 'Les Trois Coups', tome: r.tome, epoque: r.epoque } });
     romanId[r.cle] = id;
-    await kg.upsertRelation(exec, { rel_type: 'membre-de', from_id: id, to_id: trilogieId });
-    counts.relations++;
+    write('save-relation', { rel_type: 'membre-de', from_id: id, to_id: trilogieId }); counts.relations++;
   }
 
-  // ── Mystères protégés (questions à lectures concurrentes) ─────────────
-  // Extraits fidèlement de « Canon — décisions et mystères protégés.md » (Partie 2).
-  // Flous DÉLIBÉRÉS : jamais aplatis en un fait unique. Chaque lecture coexiste.
+  // Mystères protégés (questions à lectures concurrentes)
   const MYSTERES = [
     { nom: 'La cause de l’Arrachement', q: 'Qu’est-ce qui a causé l’Arrachement ? (protéger la cause, jamais la classe)', lie: 't1',
-      lectures: ['Un Souffle Cardinal passant sur une trame pleine — une marée basse de plus (image native)',
-                 'La roue faussée (lecture des Rota Mundi)', 'Une punition ou une purge',
-                 'L’acte rituel des Huit — la lecture verithane, jamais prouvée'] },
+      lectures: ['Un Souffle Cardinal passant sur une trame pleine — une marée basse de plus (image native)', 'La roue faussée (lecture des Rota Mundi)', 'Une punition ou une purge', 'L’acte rituel des Huit — la lecture verithane, jamais prouvée'] },
     { nom: 'La causalité du geste de l’Étudiant', q: 'Le rituel des Huit a-t-il réellement causé l’Arrachement ?', lie: 't1',
-      lectures: ['Les Huit croient avoir agi (lecture verithane)',
-                 'Rien ne le prouve — le delta de Mirathis et la « silhouette de plus » de Verkan sont les garde-fous'] },
+      lectures: ['Les Huit croient avoir agi (lecture verithane)', 'Rien ne le prouve — le delta de Mirathis et la « silhouette de plus » de Verkan sont les garde-fous'] },
     { nom: '« Revenir ou commencer »', q: 'La voix du T3 annonce-t-elle le retour du Lien ou une naissance neuve ? Et qui parle à la dernière page ?', lie: 't3',
-      lectures: ['Le Lien qui revient (retissage en cours)', 'Une naissance neuve',
-                 'Voix finale : Ilex, ou le dessous — jamais tranché'] },
+      lectures: ['Le Lien qui revient (retissage en cours)', 'Une naissance neuve', 'Voix finale : Ilex, ou le dessous — jamais tranché'] },
     { nom: 'L’auteur de la Guerre de l’Ombre', q: 'Qui est derrière la Guerre de l’Ombre ?', lie: 't3',
-      lectures: ['Les Fils de l’Abîme — le « suspect commode »', 'Une troisième chose qui ne signe rien',
-                 'Jamais revendiqué — Sanne meurt sans visage, sans revendication'] },
+      lectures: ['Les Fils de l’Abîme — le « suspect commode »', 'Une troisième chose qui ne signe rien', 'Jamais revendiqué — Sanne meurt sans visage, sans revendication'] },
     { nom: 'La cause du Fléau et de « l’Heure »', q: 'Qu’est-ce qui a déclenché le Fléau, et pourquoi l’Heure le referme ?', lie: 't2',
-      lectures: ['Une blessure qui suppure', 'La roue faussée', 'Une purge', 'L’Étranger des Heures',
-                 'L’Heure « n’explique rien » — aucun « donc » entre extinction des Tisses et fermeture des Failles'] },
+      lectures: ['Une blessure qui suppure', 'La roue faussée', 'Une purge', 'L’Étranger des Heures', 'L’Heure « n’explique rien » — aucun « donc » entre extinction des Tisses et fermeture des Failles'] },
     { nom: 'La cause des Souffles Cardinaux', q: 'Qu’est-ce qui déclenche un Souffle Cardinal (Premier Don, Fracture, Arrachement) ?',
       lectures: ['Inconnaissable — aucune lecture ne s’est imposée', 'Une cause différente à chaque déchirure'] },
     { nom: 'Les termes exacts du Pacte Primordial', q: 'Qu’a-t-on promis, exactement, dans le Pacte Primordial ?',
@@ -262,28 +162,29 @@ function truncate(s, n) {
       lectures: ['L’aube', 'Minuit', 'Midi — coexistence voulue selon les traditions'] },
   ];
   for (const m of MYSTERES) {
-    const isNew = !index.has(key('question', m.nom));
-    const qid = await ensure('question', m.nom, { summary: m.q, data: { protege: true }, status: 'lecture-disputee' });
-    if (isNew) {
-      let ord = 1;
-      for (const lect of m.lectures) { await kg.upsertReading(exec, { question_id: qid, text: lect, ordinal: ord++ }); counts.lectures = (counts.lectures || 0) + 1; }
-      counts.mysteres = (counts.mysteres || 0) + 1;
-    }
-    if (m.lie && romanId[m.lie]) { await kg.upsertRelation(exec, { rel_type: 'lie-a', from_id: romanId[m.lie], to_id: qid }); counts.relations++; }
+    const qid = ensure('question', m.nom, { summary: m.q, data: { protege: true }, status: 'lecture-disputee' });
+    let ord = 1;
+    for (const lect of m.lectures) { write('save-reading', { question_id: qid, text: lect, ordinal: ord++ }); counts.lectures++; }
+    counts.mysteres++;
+    if (m.lie && romanId[m.lie]) { write('save-relation', { rel_type: 'lie-a', from_id: romanId[m.lie], to_id: qid }); counts.relations++; }
   }
 
-  // Compter les religions et œuvres réellement créées
   counts.religions = [...index.keys()].filter(k => k.startsWith('religion|')).length;
   counts.oeuvres = [...index.keys()].filter(k => k.startsWith('oeuvre|')).length;
 
-  const stats = await kg.getStats(exec);
-  const rep = await kg.getConsistencyReport(exec);
-  console.log('\n✔ Migration terminée');
+  // Émission de la base
+  const base = {
+    _meta: { generatedFrom: 'data/timeline-names.json + Canon mystères/romans', generatedAt: WHEN },
+    entities: g.entities, facts: g.facts, relations: g.relations, aliases: g.aliases, readings: g.readings,
+  };
+  const outPath = path.join(__dirname, '..', 'data', 'kg-base.json');
+  fs.writeFileSync(outPath, JSON.stringify(base, null, 1));
+
+  const rep = kg.getConsistencyReport(g);
+  const stats = kg.getStats(g);
+  console.log('✔ Base générée →', outPath);
   console.log('  créé :', JSON.stringify(counts));
   console.log('  graphe :', JSON.stringify(stats));
   console.log('  cohérence :', JSON.stringify(rep.counts));
-  if (rep.counts.erreur) {
-    console.log('  ⚠ erreurs de cohérence :');
-    rep.issues.filter(i => i.severity === 'erreur').slice(0, 10).forEach(i => console.log('    -', i.message));
-  }
-})().catch(e => { console.error('ÉCHEC migration:', e); process.exit(1); });
+  if (rep.counts.erreur) { rep.issues.filter(i => i.severity === 'erreur').slice(0, 10).forEach(i => console.log('    -', i.message)); process.exit(1); }
+})();

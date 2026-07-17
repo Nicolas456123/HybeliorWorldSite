@@ -2,25 +2,22 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const kg = require('./lib/kg-core.js');
-const { createSqliteExec } = require('./lib/sqlite-adapter.js');
+const { createFileOverlay } = require('./lib/kg-overlay-file.js');
 
 const PORT = process.env.PORT || 3001;
 const DB_FILE = path.join(__dirname, 'local-db.json');
 const HISTORY_FILE = path.join(__dirname, 'local-history.json');
 const BORDERS_FILE = path.join(__dirname, 'local-borders.json');
-const KG_DB_FILE = path.join(__dirname, 'local-kg.sqlite');
+const KG_OVERLAY_FILE = path.join(__dirname, 'local-kg-overlay.json');
 const LORE_ROOT = path.join(__dirname, 'Docs', 'Lore');
 const EDITOR_PASSWORD = process.env.EDITOR_PASSWORD || 'local';
 
-// ── Graphe de connaissances : adaptateur node:sqlite (miroir dev de Turso) ──
-// Le MÊME cœur (lib/kg-core.js) tourne ici et sur Turso en production.
-let kgExec = null;
-let kgSchemaReady = false;
-async function ensureKgSchema() {
-  if (!kgExec) kgExec = createSqliteExec(KG_DB_FILE).exec;
-  if (!kgSchemaReady) { await kg.initSchema(kgExec); kgSchemaReady = true; }
-  return kgExec;
-}
+// ── Graphe de connaissances : base statique (data/kg-base.json) ⊕ overlay ──
+// Overlay = fichier JSON local en dev (miroir de l'overlay Turso en prod).
+// Accès direct, sans mot de passe.
+let KG_BASE = {};
+try { KG_BASE = require('./data/kg-base.json'); } catch { KG_BASE = {}; }
+const kgOverlay = createFileOverlay(KG_OVERLAY_FILE);
 
 // ── Local DB (dev fallback for /api/overrides) ──────────────
 
@@ -296,30 +293,27 @@ const server = http.createServer(async (req, res) => {
         }
     }
 
-    // ── API: /api/kg (graphe de connaissances) ────────────────
+    // ── API: /api/kg (graphe de connaissances — base ⊕ overlay, sans mot de passe) ──
     if (pathname === '/api/kg') {
         try {
-            await ensureKgSchema();
+            const overlay = await kgOverlay.load();
+            const graph = kg.mergeGraph(KG_BASE, overlay);
             if (req.method === 'GET') {
                 const query = Object.fromEntries(url.searchParams.entries());
-                const action = query.action || 'list';
-                if (action !== 'timeline' && req.headers['x-editor-password'] !== EDITOR_PASSWORD) {
-                    res.writeHead(403, { 'Content-Type': 'application/json' });
-                    return res.end(JSON.stringify({ error: 'Mot de passe requis (header X-Editor-Password)' }));
-                }
-                const out = await kg.readAction(kgExec, action, query);
+                const out = kg.readAction(graph, query.action || 'list', query);
                 res.writeHead(200, { 'Content-Type': 'application/json' });
                 return res.end(JSON.stringify(out));
             }
             if (req.method === 'POST') {
                 const { password, action, data } = await parseBody(req);
-                if (password !== EDITOR_PASSWORD) {
+                if (EDITOR_PASSWORD && password !== EDITOR_PASSWORD) {
                     res.writeHead(403, { 'Content-Type': 'application/json' });
-                    return res.end(JSON.stringify({ error: 'Mot de passe incorrect' }));
+                    return res.end(JSON.stringify({ error: 'Mot de passe incorrect', code: 'auth' }));
                 }
-                const out = await kg.writeAction(kgExec, action, data);
+                const { ops, result } = kg.prepareWrite(graph, action, data, new Date().toISOString());
+                await kgOverlay.apply(ops, new Date().toISOString());
                 res.writeHead(200, { 'Content-Type': 'application/json' });
-                return res.end(JSON.stringify(out));
+                return res.end(JSON.stringify(result));
             }
             res.writeHead(405, { 'Content-Type': 'application/json' });
             return res.end(JSON.stringify({ error: 'Method not allowed' }));

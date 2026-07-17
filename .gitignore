@@ -25,11 +25,9 @@ local-history.json
 local-borders.json
 local-highlights.json
 
-# Base locale du graphe de connaissances (node:sqlite — miroir dev de Turso)
-local-kg.sqlite
-local-kg.sqlite-*
-local-kg.sqlite-shm
-local-kg.sqlite-wal
+# Overlay local du graphe (dev — miroir du magasin Turso, régénérable).
+# NB : data/kg-base.json est la base statique et DOIT être committé.
+local-kg-overlay.json
 
 # Config éditeur Obsidian — ne doit pas être servie publiquement
 Docs/Lore/.obsidian/
