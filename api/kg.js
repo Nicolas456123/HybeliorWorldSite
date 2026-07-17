@@ -47,10 +47,14 @@ module.exports = async function handler(req, res) {
 
     if (req.method === 'GET') {
       const action = req.query.action || 'list';
-      // Recherche plein-texte FTS5 (nom+alias+résumé+body) quand la vraie base est là.
-      if (action === 'search' && USE_DB) {
+      // Recherche : FTS5 (nom+alias+résumé+body) si la vraie base est là,
+      // sinon repli sur la recherche en mémoire (nom/alias/résumé) via `list`.
+      if (action === 'search') {
         const q = req.query.q || req.query.search || '';
-        return res.status(200).json({ query: q, source: 'sqlite-fts', results: store.searchFTS(q, { type: req.query.type, limit: +req.query.limit || 10 }) });
+        const limit = +req.query.limit || 10;
+        if (USE_DB) return res.status(200).json({ query: q, source: 'sqlite-fts', results: store.searchFTS(q, { type: req.query.type, limit }) });
+        const ents = (kg.readAction(graph, 'list', { search: q, type: req.query.type }).entities || []).slice(0, limit);
+        return res.status(200).json({ query: q, source: 'memory', results: ents });
       }
       return res.status(200).json(kg.readAction(graph, action, req.query));
     }

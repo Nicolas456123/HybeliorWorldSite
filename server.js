@@ -311,11 +311,14 @@ const server = http.createServer(async (req, res) => {
             if (req.method === 'GET') {
                 const query = Object.fromEntries(url.searchParams.entries());
                 const action = query.action || 'list';
-                // Recherche plein-texte FTS5 quand la vraie base SQLite est là.
-                if (action === 'search' && KG_USE_DB) {
+                // Recherche : FTS5 si la vraie base SQLite est là, sinon repli mémoire via `list`.
+                if (action === 'search') {
                     const q = query.q || query.search || '';
+                    const limit = +query.limit || 10;
                     res.writeHead(200, { 'Content-Type': 'application/json' });
-                    return res.end(JSON.stringify({ query: q, source: 'sqlite-fts', results: kgStore.searchFTS(q, { type: query.type, limit: +query.limit || 10 }) }));
+                    if (KG_USE_DB) return res.end(JSON.stringify({ query: q, source: 'sqlite-fts', results: kgStore.searchFTS(q, { type: query.type, limit }) }));
+                    const ents = (kg.readAction(graph, 'list', { search: q, type: query.type }).entities || []).slice(0, limit);
+                    return res.end(JSON.stringify({ query: q, source: 'memory', results: ents }));
                 }
                 const out = kg.readAction(graph, action, query);
                 res.writeHead(200, { 'Content-Type': 'application/json' });
