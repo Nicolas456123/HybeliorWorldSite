@@ -516,7 +516,15 @@ async function vueCarte(focusId) {
   try {
     const r = await kget({ action: 'entity', id: 'per-0153' });
     if (r.entity && r.entity.data && Array.isArray(r.entity.data.parcours)) {
-      sorin = r.entity.data.parcours.filter((p) => p.lieu_id && parId[p.lieu_id]);
+      sorin = r.entity.data.parcours
+        .map((p) => {
+          const l = p.lieu_id && parId[p.lieu_id];
+          if (l) return { ...p, x: +l.data.coord_x, y: +l.data.coord_y };
+          if (p.x != null && p.y != null) return p;
+          return null;
+        })
+        .filter(Boolean);
+      if (sorin.length < 2) sorin = null;
     }
   } catch { /* pas de parcours */ }
 
@@ -718,15 +726,21 @@ async function vueCarte(focusId) {
       ctx.strokeStyle = 'rgba(240,216,148,.7)'; ctx.lineWidth = 1.8 * dpr;
       ctx.setLineDash([9 * dpr, 7 * dpr]); ctx.lineDashOffset = -tAnim / 22;
       ctx.beginPath();
-      sorin.forEach((p, i) => { const l = parId[p.lieu_id]; const [sx, sy] = E(+l.data.coord_x, +l.data.coord_y); i ? ctx.lineTo(sx, sy) : ctx.moveTo(sx, sy); });
+      sorin.forEach((p, i) => { const [sx, sy] = E(p.x, p.y); i ? ctx.lineTo(sx, sy) : ctx.moveTo(sx, sy); });
       ctx.stroke(); ctx.setLineDash([]);
-      sorin.forEach((p, i) => {
-        const l = parId[p.lieu_id]; const [sx, sy] = E(+l.data.coord_x, +l.data.coord_y);
+      sorin.forEach((p) => {
+        const [sx, sy] = E(p.x, p.y);
         ctx.beginPath(); ctx.arc(sx, sy, 6 * dpr, 0, 7); ctx.fillStyle = 'rgba(13,11,9,.9)'; ctx.fill();
         ctx.strokeStyle = '#f0d894'; ctx.lineWidth = dpr; ctx.stroke();
         ctx.font = `${8.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center'; ctx.fillStyle = '#f0d894';
-        ctx.fillText(String(i + 1), sx, sy + 3 * dpr);
+        ctx.fillText(String(p.etape), sx, sy + 3 * dpr);
       });
+      // étiquette du voyage
+      const dep = sorin[0];
+      const [dx, dy] = E(dep.x, dep.y);
+      ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
+      ctx.fillStyle = 'rgba(240,216,148,.85)';
+      ctx.fillText('départ — jour 1', dx, dy - 12 * dpr);
     }
     if (survole) {
       const [sx, sy] = E(+survole.data.coord_x, +survole.data.coord_y);

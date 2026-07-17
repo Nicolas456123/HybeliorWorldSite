@@ -8250,7 +8250,161 @@
    "slug": null,
    "summary": "Cartographe déchu des Bibliothèques de Kharazir/Rukhsar et Délié, narrateur des Chroniques de l'Exilé ; après la saisie de ses travaux il s'exile et parcourt les continents en consignant tout dans son journal. Fils d'Aldric Valthen dont il a hérité et lu le carnet.",
    "body": null,
-   "data": null,
+   "data": {
+    "parcours": [
+     {
+      "etape": 1,
+      "jour": 1,
+      "titre": "Les Murs Jaunes de Kharazir",
+      "lieu_id": "lie-0523",
+      "lieu": "Rukhsar"
+     },
+     {
+      "etape": 2,
+      "jour": 14,
+      "titre": "Les Plumes de Lumasar",
+      "lieu_id": "lie-0425",
+      "lieu": "Prismalith (Lumasar)"
+     },
+     {
+      "etape": 3,
+      "jour": 32,
+      "titre": "Le Vent des Cavaliers",
+      "lieu_id": "lie-0501",
+      "lieu": "Soltharis (Ventera)"
+     },
+     {
+      "etape": 4,
+      "jour": 55,
+      "titre": "Le Port des Adieux",
+      "lieu_id": "lie-0565",
+      "lieu": "Oranthor (Solena)"
+     },
+     {
+      "etape": 5,
+      "jour": 82,
+      "titre": "Les Druides de Trinoria",
+      "lieu_id": "lie-0547",
+      "lieu": "Gyndor (Trinoria)"
+     },
+     {
+      "etape": 6,
+      "jour": 115,
+      "titre": "Le Sang de Valoria",
+      "lieu_id": "lie-0487",
+      "lieu": "Valtheria (Valoria)"
+     },
+     {
+      "etape": 7,
+      "jour": 140,
+      "titre": "L'Acier Éternel",
+      "lieu_id": "lie-0137",
+      "lieu": "Trelios"
+     },
+     {
+      "etape": 8,
+      "jour": 165,
+      "titre": "Les Mines Silencieuses",
+      "lieu_id": "lie-0116",
+      "lieu": "Glintaris (Iskara)"
+     },
+     {
+      "etape": 9,
+      "jour": 190,
+      "titre": "Les Cendres Rouges",
+      "lieu_id": "lie-0615",
+      "lieu": "Haliandris (Myrtam)"
+     },
+     {
+      "etape": 10,
+      "jour": 207,
+      "titre": "Le Marteau et l'Ancre",
+      "lieu_id": "lie-0613",
+      "lieu": "Folgrad (Mosrack)"
+     },
+     {
+      "etape": 11,
+      "jour": 225,
+      "titre": "Le Grand Fleuve",
+      "lieu_id": "lie-0614",
+      "lieu": "Fablioris (Tyndara)"
+     },
+     {
+      "etape": 14,
+      "jour": 330,
+      "titre": "Les Bibliothèques de Cristal",
+      "lieu_id": "lie-0665",
+      "lieu": "Holvendar"
+     },
+     {
+      "etape": 19,
+      "jour": 460,
+      "titre": "La Jungle Éveillée",
+      "lieu_id": "lie-0926",
+      "lieu": "Warenthor"
+     },
+     {
+      "etape": 21,
+      "jour": 502,
+      "titre": "Le Cœur qui Pulse",
+      "lieu_id": "lie-0262",
+      "lieu": "Diamoris"
+     },
+     {
+      "etape": 25,
+      "jour": 600,
+      "titre": "Le Chant et la Sève",
+      "lieu_id": "lie-0355",
+      "lieu": "Ostarith (Thalmaris)"
+     },
+     {
+      "etape": 26,
+      "jour": 630,
+      "titre": "Le Départ par la Marée",
+      "lieu_id": "lie-0355",
+      "lieu": "Ostarith (Thalmaris)"
+     },
+     {
+      "etape": 29,
+      "jour": 715,
+      "titre": "L'Escale du Cardinal-Élu",
+      "lieu_id": "lie-0181",
+      "lieu": "Duskoris (Caeloria)"
+     },
+     {
+      "etape": 30,
+      "jour": 748,
+      "titre": "Le Silence Sacré",
+      "lieu_id": "lie-0237",
+      "lieu": "Baeloris"
+     },
+     {
+      "etape": 32,
+      "jour": 800,
+      "titre": "Les Îles Flottantes",
+      "lieu_id": null,
+      "lieu": "Astravia",
+      "x": -22.64,
+      "y": -330.36,
+      "nation_id": "pol-0021"
+     },
+     {
+      "etape": 37,
+      "jour": 895,
+      "titre": "Le Cartographe Sans Carte",
+      "lieu_id": "lie-0425",
+      "lieu": "Prismalith"
+     },
+     {
+      "etape": 38,
+      "jour": 910,
+      "titre": "Les Murs Tombent",
+      "lieu_id": "lie-0523",
+      "lieu": "Rukhsar"
+     }
+    ],
+    "parcours_source": "Chroniques de l'Exilé (index + bible v2)"
+   },
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
