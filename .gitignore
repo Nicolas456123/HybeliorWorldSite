@@ -29,6 +29,9 @@ local-highlights.json
 # NB : data/kg-base.json est la base statique et DOIT être committé.
 local-kg-overlay.json
 
+# Rapport de diagnostic de l'agrégation lore (régénérable, non versionné).
+data/.lore-aggregate-report.json
+
 # Config éditeur Obsidian — ne doit pas être servie publiquement
 Docs/Lore/.obsidian/
 
