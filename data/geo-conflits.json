@@ -2,14 +2,6 @@
   "_note": "Villes dont la position (carte de l'auteur) contredit le rattachement (fiches). À arbitrer : corriger la position sur la carte OU le rattachement dans la fiche. Généré par scripts/fix-geo-conflits.js.",
   "conflits": [
     {
-      "lieu_id": "lie-0613",
-      "lieu": "Folgrad",
-      "nation_fiche": "Mosrack",
-      "d_nation": 381,
-      "pose_pres_de": "ulinor",
-      "d_reel": 21
-    },
-    {
       "lieu_id": "lie-0224",
       "lieu": "Tarnora",
       "nation_fiche": "No Man's Land Azoria",

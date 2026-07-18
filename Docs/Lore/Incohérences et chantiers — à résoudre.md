@@ -181,6 +181,21 @@ Corrections déjà appliquées : **42 ancres** pays/continents importées des ma
 
 ---
 
+## Arbitrages actés par l'auteur (2026-07-18)
+
+Quatre points tranchés en interface interactive, appliqués au graphe :
+
+| Point | Arbitrage | Application |
+|---|---|---|
+| **Folgrad** (carte vs fiche) | **La fiche a raison** : capitale de Mosrack (Onara) | point repositionné au marqueur Mosrack (393, 91) ; surface nationale de Mosrack extraite ; étape 10 de Sorin re-pointée sur Folgrad |
+| **Windora** (Thalmaris vs Astravia) | **Région d'Astravia** | `situe-dans` → Astravia, échelle passée à `region` |
+| **Continents (12 vs 13)** | **Baelor et Nysaria sont de grandes îles**, pas des continents | rétrogradés (échelle `region`, marqués île) → **11 continents canoniques**. ⚠ Reste à réconcilier : la prose (romans, Chroniques) dit « douze continents » — onze + les deux grandes îles ne font pas douze ; à trancher dans les textes. |
+| **Taciti / Les Silencieux (Taciti)** | **L'une est une branche de l'autre** | reliées par `lie-a` (« branche de ») ; les deux entités conservées |
+
+Le §2 (nombre de continents) et les lignes Folgrad/Windora du §10 sont donc **réglés** ; `data/geo-conflits.json` régénéré (restent 14 cas, tous de la famille « No Man's Land »).
+
+---
+
 ## Annexe — d'où viennent ces constats
 
 - Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
