@@ -676,17 +676,24 @@ function dessinerSurfaces(ctx, E, dpr, eraId, opts) {
     trace(m);
     const coul = opts.remplir && opts.remplir(m.nom);
     if (coul) {
-      ctx.fillStyle = coul + '46'; ctx.fill();
-      ctx.strokeStyle = coul + 'cc';
-    } else ctx.strokeStyle = 'rgba(201,162,75,.30)';
-    ctx.lineWidth = .9 * dpr; ctx.stroke();
+      // APLAT translucide aux bords NETS : la carte reste lisible dessous,
+      // la couleur s'arrête exactement à la frontière (aucun dégradé).
+      ctx.fillStyle = coul; ctx.globalAlpha = .34; ctx.fill(); ctx.globalAlpha = 1;
+      ctx.strokeStyle = coul; ctx.globalAlpha = .9;
+      ctx.lineWidth = 1.6 * dpr; ctx.stroke(); ctx.globalAlpha = 1;
+    } else {
+      ctx.strokeStyle = 'rgba(201,162,75,.30)';
+      ctx.lineWidth = 1.1 * dpr; ctx.stroke();
+    }
     if (coul && opts.etiquette && opts.etiquette(m.nom)) {
       const cx = m.points.reduce((s, p) => s + p[0], 0) / m.points.length;
       const cy = m.points.reduce((s, p) => s + p[1], 0) / m.points.length;
       const [sx, sy] = E(cx, cy);
-      ctx.font = `${11.5 * dpr}px Cinzel, serif`; ctx.textAlign = 'center';
+      ctx.font = `600 ${11.5 * dpr}px Cinzel, serif`; ctx.textAlign = 'center';
       ctx.save(); ctx.letterSpacing = `${1.5 * dpr}px`;
-      ctx.fillStyle = 'rgba(236,228,212,.82)';
+      ctx.strokeStyle = 'rgba(20,16,12,.85)'; ctx.lineWidth = 3 * dpr; ctx.lineJoin = 'round';
+      ctx.strokeText(m.nom.toUpperCase(), sx, sy);
+      ctx.fillStyle = 'rgba(245,238,224,.95)';
       ctx.fillText(m.nom.toUpperCase(), sx, sy);
       ctx.restore();
     }
@@ -699,7 +706,7 @@ function dessinerSurfaces(ctx, E, dpr, eraId, opts) {
 const CARTE_MEM = {
   vue: null,                     // { cx, cy, zoom } en coordonnées monde
   annee: 10200,
-  couches: new Set(['fond', 'spheres', 'lien']),
+  couches: new Set(['fond', 'surfaces', 'spheres', 'lien']),
   echelles: new Set(['region', 'cite', 'ville', 'bourg']),
   noms: new Set(['continents', 'nations', 'regions', 'villes', 'religions', 'epoque']),
   replie: matchMedia('(max-width: 700px)').matches,   // replié par défaut sur mobile
@@ -938,9 +945,13 @@ async function vueCarte(focusId) {
         const [sx, sy] = E(n.cx, n.cy);
         const ray = n.ray * k * .6;
         const coul = M.couches.has('religions') && n.religion ? coulRel[n.religion] : couleurStable(n.nom || '');
-        const g = ctx.createRadialGradient(sx, sy, 0, sx, sy, ray);
-        g.addColorStop(0, coul + '22'); g.addColorStop(.75, coul + '0e'); g.addColorStop(1, coul + '00');
-        ctx.beginPath(); ctx.arc(sx, sy, ray, 0, 7); ctx.fillStyle = g; ctx.fill();
+        // frontières non extraites : disque NET en pointillés (aire approchée),
+        // aucun dégradé — cohérent avec les aplats à bords francs.
+        ctx.beginPath(); ctx.arc(sx, sy, ray, 0, 7);
+        ctx.fillStyle = coul; ctx.globalAlpha = .13; ctx.fill(); ctx.globalAlpha = 1;
+        ctx.setLineDash([5 * dpr, 4 * dpr]);
+        ctx.strokeStyle = coul; ctx.globalAlpha = .55; ctx.lineWidth = 1.2 * dpr; ctx.stroke();
+        ctx.globalAlpha = 1; ctx.setLineDash([]);
         if (M.noms.has('nations') && ray > 40 * dpr) {
           ctx.font = `${11.5 * dpr}px Cinzel, serif`; ctx.textAlign = 'center';
           ctx.fillStyle = coul + 'aa';

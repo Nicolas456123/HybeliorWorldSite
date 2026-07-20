@@ -12,6 +12,9 @@
  * les cartes historiques s'ajoutent comme jeux distincts par era_id).
  *
  * Usage :  node scripts/extract-svg-contours.js [--tol 1.2] [--min-aire 40]
+ *
+ * IMPORTANT — après toute ré-extraction, recaler sur le fond puis souder :
+ *   node scripts/calibrate-contours-fond.js && node scripts/snap-pays-cotes.js
  */
 
 const fs = require('fs');
