@@ -19,6 +19,9 @@ HybeliorFull/
 .env.*
 .vercel/
 
+# État local de `wrangler dev` (cache miniflare, R2 simulé) — régénérable
+worker/.wrangler/
+
 # Données générées localement par server.js (régénérées au démarrage)
 local-db.json
 local-history.json
