@@ -1,38 +1,41 @@
 #!/usr/bin/env node
 'use strict';
 /*
- * scripts/extract-svg-contours.js — Extrait les côtes VECTORIELLES du
- * landMask d'Atlas-Lore.svg (188 sous-chemins : continents + îles) et les
- * convertit dans le repère monde du graphe.
+ * scripts/extract-trace-contours.js — Extrait les CÔTES depuis le tracé de
+ * l'auteur « continents-trace.svg » (10612², même cadrage que « Hybelior
+ * Pays.png ») et les met dans le repère monde du graphe.
  *
- * Calage exact (résidu 0, ajusté sur 18 villes nommées de l'atlas) :
- *   x_monde = 0.349003·sx − 562.40 ; y_monde = 0.349000·sy − 574.09
+ * Pourquoi cette source : le calage Pays.png ↔ monde est ajusté par RANSAC
+ * sur les points rouges des capitales (23/27 < 6 px), et les positions monde
+ * des capitales sont la vérité validée sur le vrai fond de carte (tuiles).
+ * Les côtes tracées ici tombent donc directement dans le repère du fond —
+ * contrairement à Atlas-Lore.svg et canon-stitched.jpg dont les cadrages
+ * différaient (décalages visibles à l'écran).
  *
- * Sortie : data/monde-contours.json (jeu era_id=null = le monde actuel ;
- * les cartes historiques s'ajoutent comme jeux distincts par era_id).
+ * Repère : px_2653 = 2.64937·monde + (1347.6, 1342.4) ; le tracé est au
+ * quadruple (10612 = 4×2653) → monde = (px/4 − T)/2.64937.
  *
- * Usage :  node scripts/extract-svg-contours.js [--tol 1.2] [--min-aire 40]
+ * Pipeline complet :
+ *   node scripts/extract-trace-contours.js   # côtes (remplace niveau 'continent')
+ *   node scripts/extract-pays.js             # surfaces nationales
+ *   node scripts/snap-pays-cotes.js          # soude les pays aux côtes
  *
- * ⚠ DÉPRÉCIÉ — le cadrage d'Atlas-Lore.svg ne correspond pas au vrai fond
- * de carte (tuiles). Utiliser scripts/extract-trace-contours.js, qui part du
- * tracé de l'auteur (continents-trace.svg) calé sur les capitales.
+ * Usage :  node scripts/extract-trace-contours.js [--tol 1.2] [--min-aire 40]
  */
 
 const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
-const AX = 0.349003, BX = -562.40, AY = 0.349000, BY = -574.09;
+const SCL = 2.64937, TX = 1347.6, TY = 1342.4;   // calage RANSAC (S = 2653)
 const opt = (n, d) => { const i = process.argv.indexOf('--' + n); return i >= 0 ? +process.argv[i + 1] : d; };
 const TOL = opt('tol', 1.2);
 const MIN_AIRE = opt('min-aire', 40);
 
-const svg = fs.readFileSync(path.join(ROOT, 'Atlas-Lore.svg'), 'utf8');
-const mask = svg.match(/<clipPath id="landMask">([\s\S]*?)<\/clipPath>/);
-if (!mask) { console.error('landMask introuvable'); process.exit(1); }
-const dAttr = [...mask[1].matchAll(/d="([^"]+)"/g)].map((m) => m[1]).join(' ');
+const svg = fs.readFileSync(path.join(ROOT, 'continents-trace.svg'), 'utf8');
+const dAttr = [...svg.matchAll(/d="([^"]+)"/g)].map((m) => m[1]).join(' ');
 
-// ── parseur (M/L/C absolus, sans Z — le format de l'atlas) ────────────────
+// ── parseur M/L/C absolus (sortie potrace, virgules ignorées) ─────────────
 const tokens = dAttr.match(/[MLCZmlcz]|-?[\d.]+(?:e-?\d+)?/g);
 const sousChemins = [];
 let courant = null, i = 0, cx = 0, cy = 0;
@@ -72,17 +75,13 @@ while (i < tokens.length) {
 }
 if (courant && courant.length > 2) sousChemins.push(courant);
 
-// ── monde + simplification (Douglas-Peucker itératif, pile explicite) ─────
-// Le landMask est utilisé avec transform="translate(100,100) scale(0.5)" :
-// coordonnées brutes → viewBox : svg = brut·0.5 + 100, puis viewBox → monde.
-const enMonde = ([rx, ry]) => [AX * (rx * 0.5 + 100) + BX, AY * (ry * 0.5 + 100) + BY];
+// ── px(10612) → monde, puis Douglas-Peucker (ancre pour contours fermés) ──
+const enMonde = ([px, py]) => [(px / 4 - TX) / SCL, (py / 4 - TY) / SCL];
 function simplifier(pts, eps) {
   if (pts.length < 4) return pts;
   const garder = new Uint8Array(pts.length);
   garder[0] = garder[pts.length - 1] = 1;
   const pile = [];
-  // Contour fermé (début ≈ fin) : le segment de référence est dégénéré et
-  // toutes les distances valent 0 — on ancre d'abord le point le plus éloigné.
   const ferme = Math.hypot(pts[0][0] - pts[pts.length - 1][0], pts[0][1] - pts[pts.length - 1][1]) < eps * 2;
   if (ferme) {
     let far = 1, dmax = -1;
@@ -109,9 +108,9 @@ function simplifier(pts, eps) {
 }
 const aireDe = (pts) => Math.abs(pts.reduce((s, p, j) => { const q = pts[(j + 1) % pts.length]; return s + p[0] * q[1] - q[0] * p[1]; }, 0) / 2);
 
+// ── nommage : marqueur de continent dans la masse, sinon vote des villes ──
 const base = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'kg-base.json'), 'utf8'));
 const continents = base.entities.filter((e) => e.type === 'lieu' && e.data && e.data.echelle === 'continent' && e.data.coord_x != null);
-// villes positionnées → continent (via nation), pour nommer les masses sans marqueur dedans
 const byId = {}; for (const e of base.entities) byId[e.id] = e;
 const natCont = {};
 for (const r of base.relations) {
@@ -143,7 +142,6 @@ const masses = sousChemins
   .filter((m) => m.aire >= MIN_AIRE && m.pts.length >= 5)
   .sort((a, b) => b.aire - a.aire)
   .map((m) => {
-    // 1. un marqueur de continent DANS la masse ; 2. sinon vote des villes contenues
     let nom = null;
     for (const c of continents) if (dedans([c.data.coord_x, c.data.coord_y], m.pts)) { nom = c.name; break; }
     if (!nom) {
@@ -156,13 +154,15 @@ const masses = sousChemins
   });
 
 const OUT = path.join(ROOT, 'data', 'monde-contours.json');
-let doc = { _note: 'Côtes vectorielles extraites d\'Atlas-Lore.svg (landMask), repère monde. Jeux par ère (era_id null = actuel).', jeux: [] };
+let doc = { _note: 'Côtes du tracé de l\'auteur (continents-trace.svg), repère monde via calage capitales. Jeux par ère (era_id null = actuel).', jeux: [] };
 if (fs.existsSync(OUT)) { try { doc = JSON.parse(fs.readFileSync(OUT, 'utf8')); } catch { /* remplace */ } }
+doc._note = 'Côtes du tracé de l\'auteur (continents-trace.svg), repère monde via calage capitales. Jeux par ère (era_id null = actuel).';
 doc.jeux = (doc.jeux || []).filter((j) => j.era_id !== null);
-doc.jeux.unshift({ era_id: null, source: 'Atlas-Lore.svg#landMask', masses });
+const actuel = { era_id: null, source: 'continents-trace.svg', masses };
+// conserve les pays existants du jeu actuel s'il y en avait
+doc.jeux.unshift(actuel);
 fs.writeFileSync(OUT, JSON.stringify(doc) + '\n');
 
 const somme = masses.reduce((s, m) => s + m.points.length, 0);
-console.log(`✔ ${masses.length} masses terrestres (côtes réelles), ${somme} sommets`);
+console.log(`✔ ${masses.length} masses terrestres (tracé de l'auteur), ${somme} sommets`);
 for (const m of masses.slice(0, 14)) console.log('  ', (m.nom || '(île)').padEnd(12), String(m.points.length).padStart(4), 'sommets | aire', m.aire);
-console.log('→ data/monde-contours.json — couche 🏔 surfaces de la carte vivante.');

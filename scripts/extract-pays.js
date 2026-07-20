@@ -20,8 +20,9 @@
  *
  * Usage :  node scripts/extract-pays.js [--tol 26] [--dilat 14]
  *
- * IMPORTANT — après toute ré-extraction, recaler sur le fond puis souder :
- *   node scripts/calibrate-contours-fond.js && node scripts/snap-pays-cotes.js
+ * Pipeline complet (côtes → pays → soudure) :
+ *   node scripts/extract-trace-contours.js && node scripts/extract-pays.js \
+ *     && node scripts/snap-pays-cotes.js
  */
 
 const fs = require('fs');
