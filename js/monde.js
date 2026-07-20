@@ -643,9 +643,18 @@ function jeuSurfaces(eraId) {
   return SURFACES.doc.jeux.find((j) => j.era_id === eraId)
     || SURFACES.doc.jeux.find((j) => j.era_id == null) || null;
 }
-function dessinerSurfaces(ctx, E, dpr, eraId, couleurPays) {
+// Couleur stable par nation (hachage du nom → palette) : les surfaces sont
+// remplies FRANCHEMENT dans leurs frontières — pas de halo flou.
+const PALETTE_NATIONS = ['#b89ad6', '#8fb0cf', '#8fbe9b', '#d0a273', '#d08a8a', '#9db3c9', '#cbb794', '#a9c98f', '#e0c274', '#7fc0b0', '#c9a24b', '#a795d6', '#c98fae', '#8fc0c9'];
+function couleurStable(nom) {
+  let hach = 0;
+  for (let i = 0; i < nom.length; i++) hach = (hach * 31 + nom.charCodeAt(i)) >>> 0;
+  return PALETTE_NATIONS[hach % PALETTE_NATIONS.length];
+}
+function dessinerSurfaces(ctx, E, dpr, eraId, opts) {
   const jeu = jeuSurfaces(eraId);
-  if (!jeu) return;
+  if (!jeu) return { dessines: new Set() };
+  opts = opts || {};
   const trace = (m) => {
     ctx.beginPath();
     m.points.forEach(([wx, wy], i) => { const [sx, sy] = E(wx, wy); i ? ctx.lineTo(sx, sy) : ctx.moveTo(sx, sy); });
@@ -658,15 +667,31 @@ function dessinerSurfaces(ctx, E, dpr, eraId, couleurPays) {
     ctx.fillStyle = 'rgba(201,178,128,.055)'; ctx.fill();
     ctx.strokeStyle = 'rgba(201,162,75,.38)'; ctx.lineWidth = 1.2 * dpr; ctx.stroke();
   }
-  // surfaces nationales (remplies par religion quand la couche est active)
+  // surfaces nationales : remplies dans leurs FRONTIÈRES
+  const dessines = new Set();
   for (const m of jeu.masses) {
     if (m.niveau !== 'pays') continue;
+    if (opts.visible && !opts.visible(m.nom)) continue;
+    dessines.add(m.nom);
     trace(m);
-    const coul = couleurPays && couleurPays(m.nom);
-    if (coul) { ctx.fillStyle = coul + '2b'; ctx.fill(); }
-    ctx.strokeStyle = coul ? coul + '99' : 'rgba(201,162,75,.30)';
+    const coul = opts.remplir && opts.remplir(m.nom);
+    if (coul) {
+      ctx.fillStyle = coul + '46'; ctx.fill();
+      ctx.strokeStyle = coul + 'cc';
+    } else ctx.strokeStyle = 'rgba(201,162,75,.30)';
     ctx.lineWidth = .9 * dpr; ctx.stroke();
+    if (coul && opts.etiquette && opts.etiquette(m.nom)) {
+      const cx = m.points.reduce((s, p) => s + p[0], 0) / m.points.length;
+      const cy = m.points.reduce((s, p) => s + p[1], 0) / m.points.length;
+      const [sx, sy] = E(cx, cy);
+      ctx.font = `${11.5 * dpr}px Cinzel, serif`; ctx.textAlign = 'center';
+      ctx.save(); ctx.letterSpacing = `${1.5 * dpr}px`;
+      ctx.fillStyle = 'rgba(236,228,212,.82)';
+      ctx.fillText(m.nom.toUpperCase(), sx, sy);
+      ctx.restore();
+    }
   }
+  return { dessines };
 }
 
 /* ── Vue : la Carte VIVANTE du monde — plein écran, couches, mémoire ───── */
@@ -875,17 +900,23 @@ async function vueCarte(focusId) {
     ctx.clearRect(0, 0, W, H);
     // fond de carte réel (image deep-zoom de la carte de l'auteur)
     if (M.couches.has('fond')) dessinerFond(ctx, E, k, W, H, peindre);
-    // surfaces des masses terrestres (contours extraits — sensibles à l'ère)
+    // surfaces des masses terrestres + PAYS REMPLIS DANS LEURS FRONTIÈRES
+    const nomVersNation = {};
+    for (const n of Object.values(nations)) if (n.nom) nomVersNation[n.nom] = n;
+    let paysDessines = new Set();
     if (M.couches.has('surfaces')) {
       const ereCourante = eres.find((e) => an >= e.d.startYear && an <= (e.d.endYear == null ? 1e15 : e.d.endYear));
-      const nomVersNation = {};
-      for (const n of Object.values(nations)) if (n.nom) nomVersNation[n.nom] = n;
-      const couleurPays = (nom) => {
-        const n = nomVersNation[nom];
-        if (!n || !nationVisible(n, an)) return null;
-        return (M.couches.has('religions') && n.religion) ? coulRel[n.religion] : null;
-      };
-      dessinerSurfaces(ctx, E, dpr, ereCourante ? ereCourante.id : null, couleurPays);
+      const res = dessinerSurfaces(ctx, E, dpr, ereCourante ? ereCourante.id : null, {
+        visible: (nom) => { const n = nomVersNation[nom]; return !n || nationVisible(n, an); },
+        remplir: (nom) => {
+          const n = nomVersNation[nom];
+          if (M.couches.has('religions')) return (n && n.religion) ? coulRel[n.religion] : null;
+          if (M.couches.has('spheres')) return couleurStable(nom);
+          return null;
+        },
+        etiquette: () => M.noms.has('nations') && k / kBase > .85,
+      });
+      paysDessines = res.dessines;
     }
     if (M.couches.has('lien')) {
       const puls = .85 + Math.sin(tAnim / 1400) * .15;
@@ -899,20 +930,22 @@ async function vueCarte(focusId) {
       ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'left';
       ctx.fillText('le Lien : ' + '▮'.repeat(Math.round(lien.v / 10)) + '▯'.repeat(10 - Math.round(lien.v / 10)), 10 * dpr, H - 12 * dpr);
     }
+    // halos : SEULEMENT pour les nations sans surface extraite (repli discret,
+    // pas de flou pour celles qui ont leurs frontières)
     if (M.couches.has('spheres') || M.couches.has('religions')) {
       for (const n of Object.values(nations)) {
-        if (n.cx == null || !nationVisible(n, an)) continue;
+        if (n.cx == null || !nationVisible(n, an) || paysDessines.has(n.nom)) continue;
         const [sx, sy] = E(n.cx, n.cy);
-        const ray = n.ray * k;
-        const coul = M.couches.has('religions') && n.religion ? coulRel[n.religion] : '#c9a24b';
+        const ray = n.ray * k * .6;
+        const coul = M.couches.has('religions') && n.religion ? coulRel[n.religion] : couleurStable(n.nom || '');
         const g = ctx.createRadialGradient(sx, sy, 0, sx, sy, ray);
-        g.addColorStop(0, coul + '2e'); g.addColorStop(.75, coul + '14'); g.addColorStop(1, coul + '00');
+        g.addColorStop(0, coul + '22'); g.addColorStop(.75, coul + '0e'); g.addColorStop(1, coul + '00');
         ctx.beginPath(); ctx.arc(sx, sy, ray, 0, 7); ctx.fillStyle = g; ctx.fill();
-        if (M.noms.has('nations') && ray > 46 * dpr) {
-          ctx.font = `${12.5 * dpr}px Cinzel, serif`; ctx.textAlign = 'center';
-          ctx.fillStyle = coul + 'bb';
-          ctx.save(); ctx.letterSpacing = `${2 * dpr}px`;
-          ctx.fillText((n.nom || '').toUpperCase(), sx, sy - ray * .55); ctx.restore();
+        if (M.noms.has('nations') && ray > 40 * dpr) {
+          ctx.font = `${11.5 * dpr}px Cinzel, serif`; ctx.textAlign = 'center';
+          ctx.fillStyle = coul + 'aa';
+          ctx.save(); ctx.letterSpacing = `${1.5 * dpr}px`;
+          ctx.fillText((n.nom || '').toUpperCase(), sx, sy); ctx.restore();
         }
       }
     }
