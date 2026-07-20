@@ -1233,19 +1233,31 @@ const COULEUR_TYPE = {
 async function vueTrame(cle) {
   const t = TRAMES[cle] || TRAMES.sang;
   const data = await kget({ action: 'reseau', rels: t.rels, types: t.types || null, limit: 900 });
+  // les nœuds sans aucun lien ne racontent rien ici : on les écarte
+  const relies = new Set();
+  for (const l of data.links) { relies.add(l.from); relies.add(l.to); }
+  const isoles = data.nodes.length - data.nodes.filter((n) => relies.has(n.id)).length;
+  data.nodes = data.nodes.filter((n) => relies.has(n.id));
   app.innerHTML = '';
   const vue = h('div', { class: 'vue' });
   vue.append(fil(['Visions croisées', '#/visions'], [t.titre]));
   vue.append(h('div', { class: 'fiche-tete' },
     h('h1', { text: t.glyphe + '  ' + t.titre }),
-    h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: t.ligne + ' — ' + data.nodes.length + ' nœuds, ' + data.links.length + ' liens.' + (data.tronque ? ' (vue tronquée)' : '') })));
+    h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: t.ligne + ' — ' + data.nodes.length + ' nœuds, ' + data.links.length + ' liens.' + (isoles ? ` · ${isoles} sans lien, masqués.` : '') + (data.tronque ? ' (vue tronquée)' : '') })));
   // navigation entre trames
   const barre = h('div', { class: 'filtre-ligne' });
   for (const [k, tt] of Object.entries(TRAMES)) barre.append(h('span', { class: 'chip', style: k === cle ? 'border-color:var(--gold);color:var(--gold-soft)' : '', onclick: () => aller('#/visions/trame/' + k), text: tt.glyphe + ' ' + tt.titre }));
   vue.append(barre);
   const bloc = h('div', { class: 'panneau', style: 'padding:10px' });
   const cv = h('canvas', { style: 'width:100%;height:min(70vh,680px);display:block;border-radius:8px;cursor:grab' });
-  bloc.append(cv, h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px', text: 'glisser un astre : le déplacer · glisser le vide : naviguer · molette : zoom · clic : ouvrir' }));
+  // légende des couleurs (types réellement présents)
+  const leg = h('div', { style: 'display:flex;flex-wrap:wrap;gap:6px 16px;justify-content:center;margin-top:10px' });
+  for (const ty of [...new Set(data.nodes.map((n) => n.type))]) {
+    leg.append(h('span', { style: 'color:var(--faint);font-size:12px;display:inline-flex;align-items:center;gap:6px' },
+      h('span', { style: `width:9px;height:9px;border-radius:50%;background:${COULEUR_TYPE[ty] || '#b3a68f'}` }),
+      h('span', { text: TYPE_LABEL[ty] || ty })));
+  }
+  bloc.append(cv, leg, h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px', text: 'glisser un astre : le déplacer · glisser le vide : naviguer · molette : zoom · clic : ouvrir' }));
   vue.append(bloc);
   app.innerHTML = ''; app.append(vue);
   requestAnimationFrame(() => trameForce(cv, data));
@@ -1255,14 +1267,60 @@ function trameForce(cv, data) {
   const W = cv.clientWidth * dpr, H = cv.clientHeight * dpr;
   cv.width = W; cv.height = H;
   const ctx = cv.getContext('2d');
-  const N = data.nodes.map((n, i) => ({
-    ...n,
-    x: W / 2 + Math.cos(i * 2.399) * (H / 3) * Math.sqrt(i / data.nodes.length),
-    y: H / 2 + Math.sin(i * 2.399) * (H / 3) * Math.sqrt(i / data.nodes.length),
-    vx: 0, vy: 0, r: (3 + Math.sqrt(n.degre || 1) * 2.2) * dpr,
-  }));
+  const N = data.nodes.map((n) => ({ ...n, x: 0, y: 0, vx: 0, vy: 0 }));
   const parId = Object.fromEntries(N.map((n) => [n.id, n]));
   const L = data.links.map((l) => ({ a: parId[l.from], b: parId[l.to], rel: l.rel })).filter((l) => l.a && l.b);
+  // degré RÉEL dans cette trame + composantes connexes = les constellations
+  const adj = new Map(N.map((n) => [n, []]));
+  for (const l of L) { adj.get(l.a).push(l.b); adj.get(l.b).push(l.a); }
+  for (const n of N) { n.degre = adj.get(n).length; n.r = (3 + Math.sqrt(n.degre || 1) * 2.2) * dpr; }
+  const comps = [];
+  {
+    const vu = new Set();
+    for (const n of N) {
+      if (vu.has(n)) continue;
+      const c = { nodes: [] }; const pile = [n]; vu.add(n);
+      while (pile.length) {
+        const q = pile.pop(); c.nodes.push(q); q.comp = c;
+        for (const v of adj.get(q)) if (!vu.has(v)) { vu.add(v); pile.push(v); }
+      }
+      comps.push(c);
+    }
+  }
+  // nom de chaque constellation : sa lignée, sinon son personnage central
+  for (const c of comps) {
+    c.taille = c.nodes.length;
+    const tri = [...c.nodes].sort((a, b) => b.degre - a.degre);
+    c.nom = (tri.find((q) => q.type === 'lignee') || tri[0]).name || '';
+  }
+  // rangement en étagères : chaque famille a sa région, les grandes au centre
+  comps.sort((a, b) => b.taille - a.taille);
+  {
+    const marge = 34 * dpr;
+    const Wp = W - 2 * marge, Hp = H - 2 * marge;
+    const u = Math.sqrt((Wp * Hp * .8) / Math.max(N.length, 1));
+    let x = 0, y = 0, hRang = 0;
+    for (const c of comps) {
+      const s = c.taille <= 3 ? u * 1.5 : Math.sqrt(c.taille) * u * 1.35;
+      if (x + s > Wp && x > 0) { x = 0; y += hRang; hRang = 0; }
+      c.cx = x + s / 2; c.cy = y + s / 2; c.ray = s / 2;
+      x += s; hRang = Math.max(hRang, s);
+    }
+    const yTot = y + hRang;
+    const ech = yTot > Hp ? Hp / yTot : 1;
+    const dec = yTot < Hp ? (Hp - yTot) / 2 : 0;
+    for (const c of comps) { c.cx += marge; c.cy = c.cy * ech + dec + marge; c.ray *= Math.min(1, ech * 1.15); }
+  }
+  // positions de départ : spirale autour du centre de sa constellation
+  for (const c of comps) {
+    c.nodes.forEach((n, i) => {
+      const a = i * 2.399, d = c.ray * .75 * Math.sqrt((i + 1) / c.taille);
+      n.x = c.cx + Math.cos(a) * d; n.y = c.cy + Math.sin(a) * d;
+    });
+  }
+  // seuil d'étiquette adaptatif : les ~40 nœuds les plus liés sont nommés
+  const parDegre = N.map((n) => n.degre).sort((a, b) => b - a);
+  const seuilNom = Math.max(2, parDegre[Math.min(39, parDegre.length - 1)] || 2);
   let k = 1, ox = 0, oy = 0;              // vue (zoom/pan)
   let chaud = 1;                           // température de la simulation
   let survole = null, saisi = null, drag = null;
@@ -1292,10 +1350,10 @@ function trameForce(cv, data) {
         a.vx -= fx; a.vy -= fy; b.vx += fx; b.vy += fy;
       }
     }
-    // gravité vers le centre + amortissement
+    // gravité vers le centre de SA constellation + amortissement
     for (const n of N) {
       if (n === saisi) { n.vx = 0; n.vy = 0; continue; }
-      n.vx += (W / 2 - n.x) * 0.0016 * chaud; n.vy += (H / 2 - n.y) * 0.0016 * chaud;
+      n.vx += (n.comp.cx - n.x) * 0.0028 * chaud; n.vy += (n.comp.cy - n.y) * 0.0028 * chaud;
       n.vx *= .86; n.vy *= .86; n.x += n.vx; n.y += n.vy;
     }
     chaud = Math.max(chaud * .995, .12);
@@ -1306,8 +1364,25 @@ function trameForce(cv, data) {
     for (const l of L) {
       const [ax, ay] = versEcran(l.a), [bx, by] = versEcran(l.b);
       const actif = survole && (l.a === survole || l.b === survole);
-      ctx.strokeStyle = actif ? 'rgba(240,216,148,.6)' : 'rgba(201,162,75,.20)';
+      ctx.strokeStyle = actif ? 'rgba(240,216,148,.6)' : 'rgba(201,162,75,.28)';
       ctx.beginPath(); ctx.moveTo(ax, ay); ctx.lineTo(bx, by); ctx.stroke();
+    }
+    // le NOM de chaque constellation — filigrane au centre, lisible de loin
+    for (const c of comps) {
+      if (c.taille < 5) continue;
+      let mx = 0, my = 0;
+      for (const q of c.nodes) { mx += q.x; my += q.y; }
+      let sx = (mx / c.taille) * k + ox;
+      const sy = (my / c.taille) * k + oy;
+      if (sx < -80 || sx > W + 80 || sy < -30 || sy > H + 30) continue;
+      const px = Math.min(19, 11 + Math.sqrt(c.taille) * 1.1) * dpr;
+      ctx.font = `600 ${px}px Cinzel, serif`; ctx.textAlign = 'center';
+      ctx.save(); ctx.letterSpacing = `${2 * dpr}px`;
+      const lg = ctx.measureText(c.nom.toUpperCase()).width;
+      sx = Math.max(lg / 2 + 4 * dpr, Math.min(W - lg / 2 - 4 * dpr, sx));
+      ctx.fillStyle = 'rgba(201,162,75,.45)';
+      ctx.fillText(c.nom.toUpperCase(), sx, Math.max(sy, 14 * dpr));
+      ctx.restore();
     }
     for (const n of N) {
       const [sx, sy] = versEcran(n);
@@ -1316,7 +1391,7 @@ function trameForce(cv, data) {
       ctx.fillStyle = n === survole ? '#f0d894' : (COULEUR_TYPE[n.type] || '#b3a68f');
       ctx.globalAlpha = survole && n !== survole && !L.some((l) => (l.a === survole && l.b === n) || (l.b === survole && l.a === n)) ? .35 : 1;
       ctx.fill(); ctx.globalAlpha = 1;
-      if (n.degre >= 6 || n === survole || k > 1.6) {
+      if (n.degre >= seuilNom || n === survole || k > 1.6) {
         ctx.font = `${11.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
         ctx.fillStyle = n === survole ? 'rgba(240,216,148,.95)' : 'rgba(179,166,143,.75)';
         ctx.fillText(n.name, sx, sy - n.r * k - 5 * dpr);
