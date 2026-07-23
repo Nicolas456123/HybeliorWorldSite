@@ -1,15 +1,10 @@
-# Fond de référence — contourne le verrou réseau des sessions Claude Code.
-#
-# Le container des sessions ne peut pas joindre hybelior-tiles.…workers.dev
-# (politique réseau), mais GitHub Actions si. Ce workflow télécharge les
-# tuiles DZI publiques, assemble une image moyenne résolution (~4000 px) et
-# la committe seule sur la branche `fond-reference` — récupérable ensuite
-# par un simple `git fetch origin fond-reference`.
+# Fond de référence — exécute scripts/assemble-fond.py à chaque mise à jour
+# de la PR qui le contient, et pousse le résultat sur la branche fond-reference.
 name: Fond de référence
 
 on:
-  push:
-    paths: ['.github/workflows/fond-reference.yml']
+  pull_request:
+    paths: ['scripts/assemble-fond.py']
   workflow_dispatch:
 
 permissions:
@@ -18,78 +13,16 @@ permissions:
 jobs:
   assembler:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
       - name: Installer Pillow + requests
         run: pip install --quiet pillow requests
-
-      - name: Assembler le fond depuis les tuiles publiques
-        run: |
-          python - <<'PY'
-          import io, math, sys, time
-          import xml.etree.ElementTree as ET
-          import requests
-          from PIL import Image
-
-          BASE = 'https://hybelior-tiles.nicolas-vollard.workers.dev'
-          NOM = 'HybeliorMap'
-          CIBLE = 4096  # largeur max du niveau choisi
-
-          s = requests.Session()
-
-          def get(url):
-              for essai in range(3):
-                  try:
-                      r = s.get(url, timeout=30)
-                      r.raise_for_status()
-                      return r
-                  except Exception as e:
-                      if essai == 2:
-                          raise
-                      time.sleep(2 * (essai + 1))
-
-          dzi = get(f'{BASE}/{NOM}.dzi')
-          racine = ET.fromstring(dzi.content)
-          # Le DZI porte un namespace deepzoom : on lit les attributs sans lui.
-          tuile = int(racine.get('TileSize'))
-          chevauche = int(racine.get('Overlap'))
-          fmt = racine.get('Format')
-          taille = racine[0]
-          W, H = int(taille.get('Width')), int(taille.get('Height'))
-          niveau_max = math.ceil(math.log2(max(W, H)))
-
-          niveau = niveau_max
-          while max(W, H) / 2 ** (niveau_max - niveau) > CIBLE:
-              niveau -= 1
-          echelle = 2 ** (niveau_max - niveau)
-          lw, lh = math.ceil(W / echelle), math.ceil(H / echelle)
-          cols, lignes = math.ceil(lw / tuile), math.ceil(lh / tuile)
-          print(f'plein format {W}x{H}, niveau {niveau} -> {lw}x{lh}, '
-                f'{cols}x{lignes} = {cols * lignes} tuiles', flush=True)
-
-          toile = Image.new('RGB', (lw, lh))
-          for ty in range(lignes):
-              for tx in range(cols):
-                  r = get(f'{BASE}/{NOM}_files/{niveau}/{tx}_{ty}.{fmt}')
-                  im = Image.open(io.BytesIO(r.content))
-                  g = chevauche if tx > 0 else 0
-                  h = chevauche if ty > 0 else 0
-                  larg = min(tuile, lw - tx * tuile)
-                  haut = min(tuile, lh - ty * tuile)
-                  toile.paste(im.crop((g, h, g + larg, h + haut)),
-                              (tx * tuile, ty * tuile))
-              print(f'ligne {ty + 1}/{lignes}', flush=True)
-
-          toile.save('fond-reference.jpg', quality=88)
-          with open('HybeliorMap.dzi', 'w') as f:
-              f.write(dzi.text)
-          print('OK :', lw, 'x', lh, flush=True)
-          PY
-
+      - name: Assembler le fond
+        run: python scripts/assemble-fond.py
       - name: Pousser sur la branche fond-reference
         run: |
           mkdir fond && mv fond-reference.jpg HybeliorMap.dzi fond/
