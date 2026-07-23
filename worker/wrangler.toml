@@ -1,0 +1,11 @@
+# Worker « hybelior-tiles » — proxy public du bucket R2 du même nom.
+# Le nom DOIT rester « hybelior-tiles » : c'est lui qui donne l'URL
+# https://hybelior-tiles.nicolas-vollard.workers.dev consommée par le site
+# (js/map.js, js/monde.js, sw.js, CSP de vercel.json).
+name = "hybelior-tiles"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "hybelior-tiles"
