@@ -1499,7 +1499,11 @@ async function vueFresque() {
     h('p', { class: 'devise', style: 'color:var(--dim);font-style:italic;margin:4px 0 0', text: faits.length + ' faits datés — molette pour plonger dans une époque, clic pour ouvrir.' })));
   const bloc = h('div', { class: 'panneau', style: 'padding:10px' });
   const cv = h('canvas', { style: 'width:100%;height:min(62vh,560px);display:block;border-radius:8px;cursor:grab' });
-  bloc.append(cv, h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px', text: 'les bandes = les Ères · chaque point = un fait daté (fondations, chutes, batailles, vies…)' }));
+  const sur = faits.filter((f) => !f.start_circa).length;
+  bloc.append(cv, h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin-top:8px;letter-spacing:1px', html:
+    'les bandes = les Ères · <b style="color:var(--gold-soft)">●</b> date attestée (' + sur + ')'
+    + ' · <b style="color:var(--gold-soft)">○</b> date approchée (' + (faits.length - sur) + ')'
+    + ' — survolez un point pour la source' }));
   vue.append(bloc);
   app.innerHTML = ''; app.append(vue);
 
@@ -1556,17 +1560,35 @@ async function vueFresque() {
       if (x < -10 || x > W + 10) continue;
       const y = laneY(f.fact_type);
       const actif = f === survole;
+      const coul = actif ? '#f0d894' : (COUL_FAIT[f.fact_type] || '#83775f');
+      // Une date ESTIMÉE se dessine en cercle creux : d'un coup d'œil on sait
+      // ce qui est attesté et ce qui est situé à peu près.
+      const sur = !f.start_circa;
       ctx.beginPath(); ctx.arc(x, y, (actif ? 6 : 3.4) * dpr, 0, 7);
-      ctx.fillStyle = actif ? '#f0d894' : (COUL_FAIT[f.fact_type] || '#83775f');
-      ctx.globalAlpha = actif ? 1 : .8; ctx.fill(); ctx.globalAlpha = 1;
+      if (sur) {
+        ctx.fillStyle = coul; ctx.globalAlpha = actif ? 1 : .8; ctx.fill(); ctx.globalAlpha = 1;
+      } else {
+        ctx.fillStyle = coul; ctx.globalAlpha = .16; ctx.fill();
+        ctx.globalAlpha = actif ? 1 : .75; ctx.strokeStyle = coul;
+        ctx.lineWidth = 1.3 * dpr; ctx.stroke(); ctx.globalAlpha = 1;
+      }
       if (f.end_year != null && f.end_year !== f.start_year) {
         ctx.strokeStyle = 'rgba(201,162,75,.3)'; ctx.lineWidth = 2 * dpr;
+        if (!sur) ctx.setLineDash([3 * dpr, 3 * dpr]);
         ctx.beginPath(); ctx.moveTo(x, y); ctx.lineTo(X(f.end_year), y); ctx.stroke();
+        ctx.setLineDash([]);
       }
     }
     if (survole) {
       const x = X(survole.start_year), y = laneY(survole.fact_type);
-      const txt = (survole.subjectName || '') + ' — ' + (survole.label || survole.fact_type) + ' (' + anStr(survole.start_year, survole.start_circa) + ')';
+      // dire d'où vient la date : attestée, lue dans une fiche, ou déduite
+      const d = survole.data || {};
+      const prov = d.methode === 'ordinal-interpole' ? 'rang dans la liste des dirigeants'
+        : d.source_date === 'corpus-lu' ? 'lu dans le corpus'
+          : d.source_date === 'inference' ? 'déduit des liens'
+            : d.source_date === 'prose' ? 'résumé de la fiche' : null;
+      const txt = (survole.subjectName || '') + ' — ' + (survole.label || survole.fact_type)
+        + ' (' + anStr(survole.start_year, survole.start_circa) + (prov ? ' · ' + prov : '') + ')';
       ctx.font = `${12 * dpr}px Raleway, sans-serif`;
       const wTxt = ctx.measureText(txt).width;
       const bx = Math.min(Math.max(x - wTxt / 2 - 8 * dpr, 4 * dpr), W - wTxt - 20 * dpr);

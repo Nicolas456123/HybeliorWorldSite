@@ -69,12 +69,23 @@ const nb = (s) => parseInt(String(s).replace(/[  ]/g, ''), 10);
 // n'est pas un décompte local et ne doit pas être décalée.
 const rxArrachement = /Arrachement|Mont\s+Cendra|[Cc]ataclysme\s+cosmique|jour\s+de\s+la\s+[Dd]échirure/;
 
+// Un marqueur de calendrier peut être NIÉ : « Morte en +249 (calendrier local
+// d'Alkaran / du Sillage, non exprimé en ap.A) ». Lire « ap.A » sans voir le
+// « non » qui le précède décale la date de 9 949 ans. On vérifie donc qu'aucune
+// négation ne gouverne la mention.
+const NEGATION = /\b(?:non|pas|jamais|ni|hors|≠)\b[^.;]{0,24}$/i;
+function mentionne(txt, rx) {
+  const m = txt.match(rx);
+  if (!m) return false;
+  return !NEGATION.test(txt.slice(Math.max(0, m.index - 30), m.index));
+}
+
 // Convertit une année lue en année absolue, selon le calendrier détecté.
 function versAbsolu(an, txt) {
-  if (rxAvA.test(txt)) return { an: -Math.abs(an), cal: 'absolu' };
-  if (rxApA.test(txt)) return { an, cal: 'absolu' };
+  if (mentionne(txt, rxAvA)) return { an: -Math.abs(an), cal: 'absolu' };
+  if (mentionne(txt, rxApA)) return { an, cal: 'absolu' };
   if (Math.abs(an) <= 30 && rxArrachement.test(txt)) return { an, cal: 'absolu' };
-  if (rxSillage.test(txt)) return { an: an + DECALAGE, cal: 'sillage' };
+  if (mentionne(txt, rxSillage)) return { an: an + DECALAGE, cal: 'sillage' };
   if (Math.abs(an) > 300) return { an, cal: 'absolu' };      // temps profond
   return { an: an + DECALAGE, cal: 'regional' };             // même époque
 }
@@ -169,6 +180,24 @@ const ereDe = (an) => {
   const e = eres.find((x) => an >= x.d.startYear && an <= (x.d.endYear == null ? 1e15 : x.d.endYear));
   return e ? e.id : null;
 };
+
+// ── passe 0 : réparer les dates que ce script a lui-même posées avec une
+// lecture de calendrier désormais corrigée (négations, exceptions). Sans
+// cela, une correction du lecteur ne profite qu'aux faits encore vides.
+let repares = 0;
+for (const f of doc.facts) {
+  if (!f.data || f.data.source_date !== 'libellé' || !f.data.calendrier) continue;
+  const txt = ((f.label || '') + ' ' + (f.detail || '')).trim();
+  const d = lireDates(txt);
+  if (!d || d.cal === f.data.calendrier) continue;
+  const avant = f.start_year;
+  f.start_year = d.debut;
+  if (d.fin != null) f.end_year = d.fin; else if (f.end_year != null && f.end_year < d.debut) f.end_year = null;
+  f.data = Object.assign({}, f.data, { calendrier: d.cal, corrige_de: avant });
+  repares++;
+  console.log(`  ↻ ${f.fact_type} ${avant} → ${d.debut} [${f.data.calendrier}] ${JSON.stringify(txt).slice(0, 72)}`);
+}
+if (repares) console.log(`calendrier relu : ${repares} fait(s) corrigé(s)\n`);
 
 const stats = { absolu: 0, sillage: 0, regional: 0, relatif: 0, intervalle: 0, rien: 0, prose: 0 };
 const echantillon = [];

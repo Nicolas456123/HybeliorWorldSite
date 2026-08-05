@@ -60975,7 +60975,7 @@
    "fact_type": "mort",
    "subject_id": "per-0110",
    "object_id": null,
-   "start_year": 249,
+   "start_year": 10198,
    "start_precision": "annee",
    "start_circa": 0,
    "end_year": null,
@@ -60986,8 +60986,9 @@
    "label": "Morte en +249 (calendrier local d'Alkaran / du Sillage, non exprimé en ap.A) à la Caverne-Mère, au pied d'une pierre des hautes terres de Ferrath.",
    "detail": null,
    "data": {
-    "calendrier": "absolu",
-    "source_date": "libellé"
+    "calendrier": "sillage",
+    "source_date": "libellé",
+    "corrige_de": 249
    },
    "source_id": "src-0001",
    "status": "canon",
@@ -61351,7 +61352,7 @@
    "fact_type": "evenement",
    "subject_id": "evt-0154",
    "object_id": null,
-   "start_year": 234,
+   "start_year": 10183,
    "start_precision": "annee",
    "start_circa": 0,
    "end_year": null,
@@ -61362,8 +61363,9 @@
    "label": "An 234 du Sillage (comput baelorien local, non ap.A) — origine des Veilleurs Permanents",
    "detail": null,
    "data": {
-    "calendrier": "absolu",
-    "source_date": "libellé"
+    "calendrier": "sillage",
+    "source_date": "libellé",
+    "corrige_de": 234
    },
    "source_id": "src-0001",
    "status": "canon",
@@ -62812,7 +62814,7 @@
    "fact_type": "bataille",
    "subject_id": "evt-0082",
    "object_id": null,
-   "start_year": 182,
+   "start_year": 10131,
    "start_precision": "estimation",
    "start_circa": 1,
    "end_year": null,
@@ -62823,8 +62825,9 @@
    "label": "~an 182 du Sillage (début du IIe siècle du Sillage, calendrier local non aligné sur l'ère ap.A) : guerre d'attrition sur deux hivers entre factions d'Endora, d'Alkaran et de Kytheris pour les « sables du temps ».",
    "detail": null,
    "data": {
-    "calendrier": "absolu",
-    "source_date": "libellé"
+    "calendrier": "sillage",
+    "source_date": "libellé",
+    "corrige_de": 182
    },
    "source_id": "src-0001",
    "status": "canon",
