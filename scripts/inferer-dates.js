@@ -53,16 +53,21 @@ const byId = {}; for (const e of doc.entities) byId[e.id] = e;
 const RANG = { haute: 3, moyenne: 2, basse: 1 };
 const periode = {};            // id → { debut, fin, confiance, methode, indice }
 
+// Une vie humaine ne s'étale pas sur des millénaires : quand une période est
+// héritée d'un lieu ou d'une institution (qui, eux, durent), on la ramène à
+// une échelle de vie plutôt que de laisser un personnage couvrir 17 000 ans.
+const VIE_MAX = 90;
+
 function poser(id, debut, fin, confiance, methode, indice) {
-  if (!byId[id] || debut == null || !Number.isFinite(debut)) return false;
+  const e = byId[id];
+  if (!e || debut == null || !Number.isFinite(debut)) return false;
   if (debut < -1e6 || debut > 11000) return false;                 // hors monde
   const p = periode[id];
   if (p && RANG[p.confiance] >= RANG[confiance]) return false;     // déjà mieux
-  periode[id] = {
-    debut: Math.round(debut),
-    fin: fin != null && Number.isFinite(fin) ? Math.round(Math.max(fin, debut)) : null,
-    confiance, methode, indice: indice || null,
-  };
+  let f = fin != null && Number.isFinite(fin) ? Math.round(Math.max(fin, debut)) : null;
+  const d = Math.round(debut);
+  if (e.type === 'personne' && f != null && f - d > VIE_MAX) f = d + VIE_MAX;
+  periode[id] = { debut: d, fin: f, confiance, methode, indice: indice || null };
   return true;
 }
 
@@ -99,7 +104,11 @@ for (const r of lecture) {
     if (poser(id, deb, fin, conf, 'corpus:' + r.methode, r.indice)) posesLecture++;
   } else if (genre === 'fact') {
     const f = doc.facts.find((x) => x.id === id);
-    if (f && f.start_year == null) {
+    // Une date LUE DANS LE CORPUS prime sur une date simplement déduite des
+    // liens : le pipeline ne dépend donc pas de l'ordre des passes.
+    const remplacable = f && (f.start_year == null
+      || (conf === 'haute' && f.data && f.data.source_date === 'inference'));
+    if (remplacable) {
       f.start_year = Math.round(deb);
       if (fin != null && fin > deb) f.end_year = Math.round(fin);
       f.start_circa = conf === 'haute' ? 0 : 1;
@@ -237,6 +246,10 @@ for (let v = 0; v < 6; v++) {
 // ── 4. les faits encore vides héritent de la période de leur sujet ───────
 const DEBUT = new Set(['naissance', 'fondation', 'couronnement']);
 const FIN = new Set(['mort', 'chute']);
+// Durée plausible d'un fait, quand sa fin est héritée d'une période : un règne
+// ne dépasse pas une vie, une bataille est ponctuelle. Sans cette borne, un
+// fait rattaché à une nation millénaire s'étirait sur toute la frise.
+const DUREE_MAX = { regne: 80, evenement: 120, autre: 120, traite: 0, bataille: 0, frontiere: 200 };
 let posesFaits = 0;
 for (const f of doc.facts) {
   if (f.start_year != null) continue;
@@ -249,7 +262,9 @@ for (const f of doc.facts) {
   posesFaits++;
   if (ESSAI) continue;
   f.start_year = Math.round(an);
-  if (!DEBUT.has(f.fact_type) && !FIN.has(f.fact_type) && p.fin != null && p.fin > an) f.end_year = Math.round(p.fin);
+  const max = DUREE_MAX[f.fact_type];
+  if (!DEBUT.has(f.fact_type) && !FIN.has(f.fact_type) && p.fin != null && p.fin > an
+      && max && p.fin - an <= max) f.end_year = Math.round(p.fin);
   f.start_circa = 1;
   f.start_precision = 'estimation';
   f.data = Object.assign({}, f.data, {

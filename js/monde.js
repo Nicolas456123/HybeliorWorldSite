@@ -1572,11 +1572,17 @@ async function vueFresque() {
         ctx.globalAlpha = actif ? 1 : .75; ctx.strokeStyle = coul;
         ctx.lineWidth = 1.3 * dpr; ctx.stroke(); ctx.globalAlpha = 1;
       }
+      // Trait de durée : seulement s'il est LISIBLE. Sinon des centaines de
+      // durées de quelques dizaines d'années, larges d'un pixel à cette
+      // échelle, se lisent comme un pointillé continu en travers de la ligne.
       if (f.end_year != null && f.end_year !== f.start_year) {
-        ctx.strokeStyle = 'rgba(201,162,75,.3)'; ctx.lineWidth = 2 * dpr;
-        if (!sur) ctx.setLineDash([3 * dpr, 3 * dpr]);
-        ctx.beginPath(); ctx.moveTo(x, y); ctx.lineTo(X(f.end_year), y); ctx.stroke();
-        ctx.setLineDash([]);
+        const x2 = X(f.end_year);
+        if (x2 - x > 5 * dpr) {
+          ctx.strokeStyle = 'rgba(201,162,75,.3)'; ctx.lineWidth = 2 * dpr;
+          if (!sur) ctx.setLineDash([3 * dpr, 3 * dpr]);
+          ctx.beginPath(); ctx.moveTo(x, y); ctx.lineTo(x2, y); ctx.stroke();
+          ctx.setLineDash([]);
+        }
       }
     }
     if (survole) {
