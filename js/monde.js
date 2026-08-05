@@ -369,6 +369,20 @@ async function vueFiche(id) {
   if (e.status && e.status !== 'canon') badges.append(h('span', { class: 'badge', text: e.status }));
   for (const a of dossier.aliases || []) badges.append(h('span', { class: 'badge', title: 'aussi appelé', text: '⟡ ' + a.value }));
   vue.append(h('div', { class: 'fiche-tete' }, h('h1', { text: e.name }), badges));
+  // Situer dans le temps : la période (floruit) est souvent DÉDUITE — on dit
+  // toujours d'où elle vient, pour ne jamais faire passer une estimation pour
+  // une date attestée.
+  const per = e.data && e.data.periode;
+  if (per && per.debut != null) {
+    const approx = per.confiance !== 'haute';
+    const portee = per.fin != null && per.fin !== per.debut
+      ? anStr(per.debut, approx) + '  →  ' + anStr(per.fin, approx)
+      : anStr(per.debut, approx);
+    const dit = { haute: 'daté par le corpus', moyenne: 'estimation', basse: 'situé par recoupement' }[per.confiance] || '';
+    vue.append(h('p', { class: 'epoque-fiche', title: per.indice || '' },
+      h('span', { class: 'quand', text: '⏳ ' + portee }),
+      h('span', { class: 'dit', text: ' · ' + dit })));
+  }
   if (e.summary) vue.append(h('p', { class: 'lede', text: e.summary }));
 
   // Colonnes : corps + latéral (constellation, frise)
