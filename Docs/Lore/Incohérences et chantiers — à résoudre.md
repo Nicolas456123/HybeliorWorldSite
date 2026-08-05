@@ -32,7 +32,7 @@ Ces flous sont **délibérés** : les toucher serait l'erreur. Rappel, avec renv
 
 ## 1. Datation des dirigeants et des événements régionaux — trois calendriers non tagués
 
-**Statut : ouvert.** *Le plus gros chantier.*
+**Statut : largement résolu (2026-08-05).** Voir la *Résolution appliquée* en fin de section.
 
 Les fiches `Docs/Lore/Histoires/` mêlent **trois systèmes de datation** sans jamais dire lequel s'applique à une date donnée :
 
@@ -49,6 +49,43 @@ Les fiches `Docs/Lore/Histoires/` mêlent **trois systèmes de datation** sans j
 **Effet visible.** Impossible d'**ordonner** une liste de succession par polité tant que les règnes sont non datés → l'onglet *Dirigeants* montre les rois d'un royaume **sans ordre chronologique fiable**.
 
 **Résolution suggérée.** Ajouter, à **chaque date** des fiches Histoires, un **tag de calendrier explicite** (`ap.A` / `Sillage` / `local:<royaume>`). Une passe de conversion (Sillage → ap.A via +9 949 ; local → ap.A via l'ancrage du royaume) donnerait alors des dates absolues sûres, et l'on pourrait relâcher le garde-fou `|an| > 300`. À faire fiche par fiche, ou dans l'Atelier.
+
+### Résolution appliquée (2026-08-05) — `scripts/dater-faits.js`
+
+Le tag de calendrier a été posé **dans le graphe** plutôt que fiche par fiche :
+le script relit le libellé de chaque fait non daté, y reconnaît la date, la
+convertit en année absolue et **inscrit le calendrier employé** dans
+`fact.data.calendrier` — donc auditable et réversible.
+
+**L'ancrage des décomptes régionaux a été prouvé, pas supposé.** Le canon pose
+« an 251 du Sillage = ~10 200 ap.A » (décalage +9 949) ; et les fiches de
+**dix** continents situent toutes le présent narratif en « l'an 251 »
+(« vingt-neuf ans en cette an 251 » à Caeloria, « soixante ans en l'an 251 »,
+Kessa de Velathor morte « en l'an 251 » à Trinoria). Les décomptes locaux
+partagent donc l'époque du Sillage : un seul décalage vaut pour tous.
+
+**Exception traitée :** « An 0 » qui désigne l'**Arrachement** lui-même
+(Mont Cendra, cataclysme cosmique) reste à l'an 0 absolu — il ne s'agit pas
+d'un décompte local. 12 faits concernés.
+
+Résultat : **335 → 675 faits datés** (31 % → 62 %).
+
+| | avant | après |
+|---|---|---|
+| règnes datés | **0** / 189 | **65** / 189 (dont 23 avec début *et* fin) |
+| personnes avec au moins une date | 30 | **147** |
+| événements datés | 59 | **101** |
+| lieux datés | 5 | **42** |
+
+Contrôle : **0** incohérence mort/naissance introduite ; aucune date hors des
+bornes du monde (les 5 valeurs extrêmes sont les faits cosmologiques
+préexistants, Origine du cosmos et Ère I).
+
+**Reste à faire — 422 faits sans date, faute de date dans le corpus.** Ce
+n'est plus un problème d'extraction mais d'écriture : ces libellés disent
+« dates non précisées », « règne en cours », ou ne portent aucune indication
+temporelle (ex. le règne « Lunarch »). Seul l'auteur peut les combler, fiche
+par fiche ou dans l'Atelier.
 
 ---
 

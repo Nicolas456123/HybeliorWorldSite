@@ -1505,6 +1505,7 @@ async function vueFresque() {
   function peindre() {
     ctx.clearRect(0, 0, W, H);
     // bandes des ères
+    let finNom = -1e9;                    // bord droit du dernier nom d'ère écrit
     for (const e of eres) {
       const x0 = X(e.d.startYear), x1 = X(e.d.endYear == null ? 10600 : e.d.endYear);
       if (x1 < 0 || x0 > W) continue;
@@ -1512,10 +1513,16 @@ async function vueFresque() {
       ctx.fillRect(x0, 0, Math.max(x1 - x0, 1), H);
       ctx.strokeStyle = 'rgba(201,162,75,.14)'; ctx.lineWidth = dpr;
       ctx.beginPath(); ctx.moveTo(x0, 0); ctx.lineTo(x0, H); ctx.stroke();
-      if (x1 - x0 > 80 * dpr) {
-        ctx.font = `${11 * dpr}px Cinzel, serif`; ctx.textAlign = 'left';
+      // nom de l'ère : seulement si la bande a la place de le porter, et
+      // jamais par-dessus le nom précédent (les ères courtes restent muettes)
+      ctx.font = `${11 * dpr}px Cinzel, serif`; ctx.textAlign = 'left';
+      const nom = e.name.replace(/^Ere\s+\w+\s*[—-]\s*/, '').replace(/\s*\(.*$/, '').toUpperCase();
+      const lg = ctx.measureText(nom).width;
+      const px = Math.max(x0, 0) + 8 * dpr;
+      if (x1 - px > lg + 12 * dpr && px >= finNom) {
         ctx.fillStyle = 'rgba(201,162,75,.55)';
-        ctx.fillText(e.name.replace(/^Ere\s+\w+\s*[—-]\s*/, '').toUpperCase(), Math.max(x0, 0) + 8 * dpr, 22 * dpr);
+        ctx.fillText(nom, px, 22 * dpr);
+        finNom = px + lg + 14 * dpr;
       }
     }
     // graduations d'années
