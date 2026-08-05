@@ -104,10 +104,13 @@ for (const r of lecture) {
     if (poser(id, deb, fin, conf, 'corpus:' + r.methode, r.indice)) posesLecture++;
   } else if (genre === 'fact') {
     const f = doc.facts.find((x) => x.id === id);
-    // Une date LUE DANS LE CORPUS prime sur une date simplement déduite des
-    // liens : le pipeline ne dépend donc pas de l'ordre des passes.
+    // Une date LUE DANS LE CORPUS prime sur une date seulement déduite des
+    // liens — lire la fiche vaut mieux que propager de proche en proche. Le
+    // pipeline ne dépend donc pas de l'ordre des passes. Seule exception : un
+    // simple contexte (confiance basse) ne déloge pas une déduction solide.
+    const deduite = f && f.data && f.data.source_date === 'inference';
     const remplacable = f && (f.start_year == null
-      || (conf === 'haute' && f.data && f.data.source_date === 'inference'));
+      || (deduite && (conf !== 'basse' || f.data.confiance === 'basse')));
     if (remplacable) {
       f.start_year = Math.round(deb);
       if (fin != null && fin > deb) f.end_year = Math.round(fin);
@@ -273,6 +276,54 @@ for (const f of doc.facts) {
   });
 }
 
+// ── 4 bis. mise en ordre : un enfant ne naît pas avant son parent, un roi
+// ne règne pas avant celui à qui il succède. Quand l'ordre est violé, on
+// déplace la date la MOINS assurée ; si les deux sont attestées, on ne touche
+// à rien et on le signale — c'est alors une contradiction du lore, pas du
+// moteur.
+// Les périodes sont des FLORUITS (activité attestée), pas des naissances :
+// un père et son fils sont souvent actifs en même temps. On ne déclenche donc
+// que sur une violation franche — l'enfant actif AVANT son parent — et on
+// répare en rétablissant un écart de génération.
+const contradictions = new Set();
+let remis = 0;
+function remettreEnOrde(avantId, apresId, ecart, quoi) {
+  const a = periode[avantId], b = periode[apresId];
+  if (!a || !b || b.debut >= a.debut) return;
+  const atteste = (p) => p.methode === 'fait-date' || p.methode === 'corpus:corpus-explicite';
+  const nom = (id) => (byId[id] ? byId[id].name : id);
+  if (atteste(a) && atteste(b)) {
+    contradictions.add(`${quoi} : ${nom(apresId)} (${b.debut}) avant ${nom(avantId)} (${a.debut}) — les deux dates sont attestées`);
+    return;
+  }
+  if (atteste(a) || RANG[a.confiance] > RANG[b.confiance]) {
+    b.debut = a.debut + ecart;
+    if (b.fin != null && b.fin < b.debut) b.fin = b.debut + ecart;
+    b.methode = 'mise-en-ordre'; b.confiance = 'basse';
+    b.indice = `${quoi} : replacé après ${nom(avantId)} (${a.debut})`;
+  } else {
+    a.debut = b.debut - ecart;
+    if (a.fin != null && a.fin < a.debut) a.fin = a.debut + ecart;
+    a.methode = 'mise-en-ordre'; a.confiance = 'basse';
+    a.indice = `${quoi} : replacé avant ${nom(apresId)} (${b.debut})`;
+  }
+  remis++;
+}
+for (let v = 0; v < 3; v++) {
+  for (const r of doc.relations) {
+    const de = byId[r.from_id], vers = byId[r.to_id];
+    if (!de || !vers) continue;
+    if (r.rel_type === 'parent-de' && de.type === 'personne' && vers.type === 'personne') {
+      remettreEnOrde(r.from_id, r.to_id, GENERATION, 'filiation');
+    }
+    // la succession n'ordonne que des PERSONNES : deux polités qui se
+    // succèdent sur un territoire ont des existences qui se chevauchent.
+    if (r.rel_type === 'succede-a' && de.type === 'personne' && vers.type === 'personne') {
+      remettreEnOrde(r.to_id, r.from_id, 1, 'succession');
+    }
+  }
+}
+
 // ── 5. inscrire la période sur les entités (floruit affichable) ──────────
 let posesEntites = 0;
 if (!ESSAI) {
@@ -327,8 +378,13 @@ console.log(`  confiance :`, Object.entries(parConf).map(([k, v]) => `${k} ${v}`
 const P = doc.entities.filter((e) => e.type === 'personne');
 console.log(`personnes situées        : ${P.filter((e) => periode[e.id]).length} / ${P.length}`);
 console.log(`faits datés              : ${datesFin} / ${doc.facts.length} (${(100 * datesFin / doc.facts.length).toFixed(0)} %)`);
+console.log(`mises en ordre           : ${remis} (filiations et successions replacées)`);
 console.log(`alertes de cohérence     : ${alertes.length}`);
 alertes.slice(0, 12).forEach((a) => console.log('  ⚠ ' + a));
+if (contradictions.size) {
+  console.log(`\ncontradictions du LORE (dates attestées des deux côtés) : ${contradictions.size}`);
+  [...contradictions].slice(0, 15).forEach((c) => console.log('  ⚑ ' + c));
+}
 
 if (ESSAI) { console.log('\n(essai — rien n\'a été écrit)'); process.exit(0); }
 fs.writeFileSync(BASE, JSON.stringify(doc, null, 1) + '\n');

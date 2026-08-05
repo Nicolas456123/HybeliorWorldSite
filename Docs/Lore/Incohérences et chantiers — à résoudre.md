@@ -81,11 +81,57 @@ Contrôle : **0** incohérence mort/naissance introduite ; aucune date hors des
 bornes du monde (les 5 valeurs extrêmes sont les faits cosmologiques
 préexistants, Origine du cosmos et Ère I).
 
-**Reste à faire — 422 faits sans date, faute de date dans le corpus.** Ce
-n'est plus un problème d'extraction mais d'écriture : ces libellés disent
-« dates non précisées », « règne en cours », ou ne portent aucune indication
-temporelle (ex. le règne « Lunarch »). Seul l'auteur peut les combler, fiche
-par fiche ou dans l'Atelier.
+### Passe 2 (2026-08-05) — situer TOUT ce qui peut l'être
+
+Objectif de l'auteur : pouvoir **comparer** les événements. Une date
+approximative vaut mieux que pas de date, à condition de dire ce qu'elle vaut.
+
+Trois sources, du plus sûr au plus lâche, chacune tracée dans le graphe :
+
+1. **Lecture du corpus** (`data/datation-corpus.json`) — douze agents ont lu
+   les fiches continent par continent pour les 402 faits et 360 personnes que
+   le graphe seul ne situait pas, puis des relecteurs sceptiques ont contrôlé
+   les datations non certaines : **9 rejetées, 55 corrigées**. Chaque entrée
+   garde sa **citation** et sa **fiche d'origine** — tout est révisable.
+2. **Propagation relationnelle** (`scripts/inferer-dates.js`) — successions,
+   filiations (27 ans par génération), conjoints, fondations, appartenances.
+3. **Mise en ordre** — un enfant ne peut pas être actif avant son parent ; la
+   date la moins assurée cède. 21 replacements.
+
+| | avant la passe 1 | après la passe 2 |
+|---|---|---|
+| faits datés | 335 / 1097 (31 %) | **1092 / 1097 (100 %)** |
+| — dont date ferme | 335 | 404 |
+| — dont date approchée | 0 | 688 |
+| personnes situées | 30 / 898 | **548 / 898** |
+| nations situées | 86 / 123 | **109 / 123** |
+| entités avec une période | 0 | **958** |
+
+Chaque entité porte désormais `data.periode = { debut, fin, confiance,
+methode, indice }`, affichée sur sa fiche (« daté par le corpus » /
+« estimation » / « situé par recoupement »). La Fresque distingue le cercle
+plein (attesté) du cercle creux (approché).
+
+**Trois points d'honnêteté.**
+
+- **Les années « du Sillage » négatives sont traitées comme absolues.** Le
+  corpus écrit « ~-800 du Sillage » pour des schismes religieux qu'il situe
+  *avant* l'Arrachement ; les lire en +9 949 les placerait dans l'ère
+  actuelle. Les positives gardent le décalage. La projection est donc
+  *hybride* — mais narrativement juste : les schismes anciens tombent dans
+  l'Âge du Lien, les règnes actuels dans l'ère VII. C'est le paradoxe canon
+  du double calendrier qui affleure ; il n'est pas résolu, seulement projeté.
+- **688 dates sur 1092 sont des approximations.** Elles portent toutes leur
+  méthode et leur niveau de confiance : ne pas les citer comme des dates
+  fermes sans vérifier l'indice.
+- **Une contradiction du lore est apparue** (dates attestées des deux côtés,
+  donc rien à corriger automatiquement) : *Sœur Asra Krasv-Velmaris* (10 179)
+  succède à *Sœur Velna Brum-Velmaris* (10 181) — la successeuse précède
+  celle à qui elle succède. À arbitrer.
+
+**Reste — 5 faits sans aucune date possible** (le règne « Lunarch » de Myrind,
+le Schisme de la Septième, la révélation de Yelthari, une convention des
+ermites-astronomes) : le corpus ne dit rien, même indirectement. À écrire.
 
 ---
 
