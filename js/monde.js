@@ -139,12 +139,100 @@ function demarrerCiel() {
 }
 
 /* ── Markdown (corps de fiche) ─────────────────────────────────────────── */
+// Les [[renvois]] du corpus deviennent des liens vers la recherche : on ne
+// connaît pas l'identifiant de la cible côté navigateur, mais son nom suffit
+// à la retrouver — mieux vaut ça qu'un mot mort.
+const versRecherche = (s) => String(s == null ? '' : s)
+  .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (m, c, t) => `[${t}](#/recherche/${encodeURIComponent(c.trim())})`)
+  .replace(/\[\[([^\]]+)\]\]/g, (m, c) => `[${c}](#/recherche/${encodeURIComponent(c.trim())})`);
+
 function rendreCorps(md) {
-  let s = String(md == null ? '' : md)
-    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, '$2')
-    .replace(/\[\[([^\]]+)\]\]/g, '$1');
+  const s = versRecherche(md);
   if (typeof marked !== 'undefined') { try { return marked.parse(s, { breaks: true }); } catch { /* repli */ } }
   return '<pre style="white-space:pre-wrap">' + s.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c])) + '</pre>';
+}
+
+/* Corps long : sommaire + parties repliées.
+   Certaines fiches de pays réunissent plusieurs documents du corpus (l'aperçu
+   du continent, la fiche de la nation, un recueil d'histoires) : déroulés d'un
+   bloc, ils font des dizaines d'écrans. On les donne pliés, sauf le premier,
+   précédés d'un sommaire — la page redevient parcourable d'un coup d'œil. */
+const SEUIL_CORPS = 6000;
+// « EvertiaPays — L'Île aux Merveilles » : le « Pays » collé est un reste du
+// nom de fichier d'origine, pas un titre. On le retire à l'affichage.
+function titreDoc(t, nom) {
+  if (!nom) return t;
+  const re = new RegExp('^' + nom.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '(Pays|Continent|R[ée]gion|Nation)\\b', 'i');
+  return t.replace(re, nom);
+}
+function rendreCorpsStructure(md, nom) {
+  const texte = String(md || '');
+  if (texte.length < SEUIL_CORPS) return h('div', { class: 'panneau corps', html: rendreCorps(texte) });
+
+  // découpe au niveau de titre le plus haut réellement présent
+  const niveau = /^# /m.test(texte) ? 1 : /^## /m.test(texte) ? 2 : 0;
+  if (!niveau) return h('div', { class: 'panneau corps', html: rendreCorps(texte) });
+  const marque = new RegExp('^' + '#'.repeat(niveau) + ' ', 'm');
+  const parts = [];
+  let courant = null;
+  for (const ligne of texte.split('\n')) {
+    if (marque.test(ligne + '\n') && /^#+\s/.test(ligne)) {
+      courant = { titre: ligne.replace(/^#+\s*/, '').trim(), lignes: [] };
+      parts.push(courant);
+    } else if (courant) courant.lignes.push(ligne);
+    else { courant = { titre: null, lignes: [ligne] }; parts.push(courant); }
+  }
+  // un bloc sans titre ne compte que s'il porte vraiment du texte visible :
+  // les commentaires de provenance (<!-- source: … -->) sont invisibles au
+  // rendu et feraient un panneau vide en tête de page
+  const visible = (s) => s.replace(/<!--[\s\S]*?-->/g, '').replace(/[\s>*_#-]/g, '');
+  const utiles = parts.filter((p) => p.titre || visible(p.lignes.join(' ')).length > 2);
+  if (utiles.length < 2) return h('div', { class: 'panneau corps', html: rendreCorps(texte) });
+
+  // Titres affichés. Deux documents du corpus peuvent porter le même titre une
+  // fois nettoyé (l'aperçu et la fiche de la nation se recouvrent souvent) :
+  // on les numérote plutôt que de laisser deux entrées identiques au sommaire.
+  const vus = {};
+  const titres = utiles.map((p) => {
+    if (!p.titre) return null;
+    const t = titreDoc(p.titre, nom);
+    vus[t] = (vus[t] || 0) + 1;
+    return vus[t] > 1 ? `${t} (${vus[t]})` : t;
+  });
+
+  const bloc = h('div', { class: 'corps-structure' });
+  const som = h('nav', { class: 'sommaire' }, h('span', { class: 'sommaire-titre', text: 'Sommaire' }));
+  const liste = h('ul');
+  utiles.forEach((p, i) => {
+    if (!p.titre) return;
+    liste.append(h('li', {}, h('a', {
+      href: '#', text: titres[i],
+      onclick: (ev) => {
+        ev.preventDefault();
+        const d = bloc.querySelector('#part-' + i);
+        if (d) { d.open = true; d.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+      },
+    })));
+  });
+  som.append(liste);
+  if (liste.children.length > 1) bloc.append(som);
+
+  let premierOuvert = false;
+  utiles.forEach((p, i) => {
+    const corps = p.lignes.join('\n').trim();
+    if (!p.titre) { if (corps) bloc.append(h('div', { class: 'panneau corps', html: rendreCorps(corps) })); return; }
+    const taille = Math.round(corps.length / 1000);
+    const det = h('details', { class: 'panneau corps repli', id: 'part-' + i });
+    // la PREMIÈRE partie titrée s'ouvre d'emblée — pas la première du tableau,
+    // qui peut être un bloc sans titre
+    if (!premierOuvert) { det.open = true; premierOuvert = true; }
+    det.append(h('summary', {},
+      h('span', { class: 'repli-titre', text: titres[i] }),
+      h('span', { class: 'repli-taille', text: taille >= 1 ? taille + ' k' : '' })));
+    det.append(h('div', { class: 'repli-corps', html: rendreCorps(corps) }));
+    bloc.append(det);
+  });
+  return bloc;
 }
 function anStr(y, circa) { if (y == null) return ''; const abs = Math.abs(y).toLocaleString('fr-FR'); return (circa ? '~' : '') + (y < 0 ? abs + ' av.A' : abs + ' ap.A'); }
 
@@ -396,7 +484,7 @@ async function vueFiche(id) {
       h('button', { class: 'btn', onclick: () => aller('#/carte/' + e.id) }, '🧭 Voir sur la carte')));
   }
 
-  if (e.body) gauche.append(h('div', { class: 'panneau corps', html: rendreCorps(e.body) }));
+  if (e.body) gauche.append(rendreCorpsStructure(e.body, e.name));
 
   // Personne → arbre généalogique dessiné (si la famille est connue)
   if (e.type === 'personne') {
