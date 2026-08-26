@@ -83,6 +83,14 @@ for (const f of doc.facts) {
     periode[id] = { debut: d, fin: Number.isFinite(fin) ? fin : null, confiance: 'haute', methode: 'fait-date', indice: null };
   }
 }
+// Périodes déjà inscrites sur les entités (lecture du corpus par les agents,
+// puis par scripts/dater-par-corpus.js) : ce sont des ancres à part entière.
+// Sans cette reprise, une nouvelle passe de propagation les écraserait.
+for (const e of doc.entities) {
+  const p = e.data && e.data.periode;
+  if (!p || p.debut == null) continue;
+  poser(e.id, p.debut, p.fin, p.confiance || 'basse', p.methode || 'periode-existante', p.indice);
+}
 const ancresInitiales = Object.keys(periode).length;
 
 // ── résultats de la lecture du corpus par les agents ──────────────────────
