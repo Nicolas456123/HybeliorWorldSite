@@ -58,7 +58,7 @@ const periode = {};            // id → { debut, fin, confiance, methode, indic
 // une échelle de vie plutôt que de laisser un personnage couvrir 17 000 ans.
 const VIE_MAX = 90;
 
-function poser(id, debut, fin, confiance, methode, indice) {
+function poser(id, debut, fin, confiance, methode, indice, fiche) {
   const e = byId[id];
   if (!e || debut == null || !Number.isFinite(debut)) return false;
   if (debut < -1e6 || debut > 11000) return false;                 // hors monde
@@ -67,7 +67,7 @@ function poser(id, debut, fin, confiance, methode, indice) {
   let f = fin != null && Number.isFinite(fin) ? Math.round(Math.max(fin, debut)) : null;
   const d = Math.round(debut);
   if (e.type === 'personne' && f != null && f - d > VIE_MAX) f = d + VIE_MAX;
-  periode[id] = { debut: d, fin: f, confiance, methode, indice: indice || null };
+  periode[id] = { debut: d, fin: f, confiance, methode, indice: indice || null, fiche: fiche || null };
   return true;
 }
 
@@ -89,7 +89,7 @@ for (const f of doc.facts) {
 for (const e of doc.entities) {
   const p = e.data && e.data.periode;
   if (!p || p.debut == null) continue;
-  poser(e.id, p.debut, p.fin, p.confiance || 'basse', p.methode || 'periode-existante', p.indice);
+  poser(e.id, p.debut, p.fin, p.confiance || 'basse', p.methode || 'periode-existante', p.indice, p.fiche);
 }
 const ancresInitiales = Object.keys(periode).length;
 
@@ -339,7 +339,8 @@ if (!ESSAI) {
     const e = byId[id];
     if (!e) continue;
     e.data = Object.assign({}, e.data, {
-      periode: { debut: p.debut, fin: p.fin, confiance: p.confiance, methode: p.methode, indice: p.indice || undefined },
+      periode: { debut: p.debut, fin: p.fin, confiance: p.confiance, methode: p.methode,
+        indice: p.indice || undefined, fiche: p.fiche || undefined },
     });
     posesEntites++;
   }
