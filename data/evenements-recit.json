@@ -1,0 +1,2228 @@
+{
+ "evenements": [
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 1,
+   "annee_sillage": 231,
+   "type": "disparition",
+   "titre": "Disparition d'Aldric Valthen dans les pâturages de Valthorn",
+   "detail": "Le berger-astronome part un matin vers les pâturages d'altitude et ne rentre pas ; quatre jours de recherche, ni corps ni trace. Il venait de recevoir une lettre de Prismalith. Sorin avait dix-sept ans.",
+   "sujet": "Aldric Valthen",
+   "personnages": [
+    "Aldric Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 1,
+   "jour": 0,
+   "type": "evenement",
+   "titre": "Avertissement nocturne de Mira Dasthen",
+   "detail": "La veille de la saisie : le rapport des tunnels a été classé en deux heures par le directeur, une copie part vers le Grand Recteur Thalendris à Prismalith, et une accusation de sympathie Catena Fracta est montée d'un dossier que Sorin n'a jamais vu.",
+   "sujet": "Mira Dasthen",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Mira Dasthen",
+    "Thalendris"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 1,
+   "jour": 1,
+   "type": "evenement",
+   "titre": "Saisie des quarante-deux cartes de Sorin Valthen à Rukhsar",
+   "detail": "À l'aube, des archivistes du Bureau des Brevets emballent sept années de relevés (Hiliara, Nomadaro, Umarisar). Le carnet d'Aldric, cousu dans la doublure, échappe à la saisie.",
+   "sujet": "Sorin Valthen",
+   "objet": "Kharazir",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 1,
+   "jour": 1,
+   "type": "evenement",
+   "titre": "Le fil jaune des Enfants du Vide",
+   "detail": "Dans le quartier des Artisans, un homme laisse tomber un fil jaune arraché à un tissu de marquage : signe muet que les Enfants du Vide savent ce que Sorin a trouvé et le voient partir.",
+   "sujet": "Sorin Valthen",
+   "objet": "Les Enfants du Vide",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 1,
+   "jour": 1,
+   "type": "evenement",
+   "titre": "Départ de Rukhsar avec la caravane de Berand Holtis",
+   "detail": "Sorin quitte Rukhsar comme palefrenier non enregistré d'une caravane de textiles d'Hiliara, moyennant un service tu par prudence.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen",
+    "Berand Holtis"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 2,
+   "jour": 14,
+   "type": "evenement",
+   "titre": "Refus de l'imprimeur Fendar Olis à Kelanor",
+   "detail": "La notification Catena Fracta a voyagé plus vite que la caravane : « Si j'imprime, je deviens complice de votre chute. » Fendar Olis oriente pourtant Sorin vers les vieux copistes de la Guilde.",
+   "sujet": "Fendar Olis",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Fendar Olis"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 2,
+   "jour": 14,
+   "type": "evenement",
+   "titre": "Refus de l'Académie d'Invorial (Verian Soth)",
+   "detail": "Un chercheur sans patente ne peut déposer de demande d'enquête au Cénacle ; la bonne foi au service d'une règle injuste. Aucun refus formel : l'institution se déclare hors d'état d'aider.",
+   "sujet": "Verian Soth",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Verian Soth"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 2,
+   "jour": 14,
+   "type": "evenement",
+   "titre": "Première copie hors du sac : Sethis Karn recopie les relevés",
+   "detail": "Le vieux copiste de la Guilde recopie les relevés des tunnels sans registre, sans nom, et scelle la copie entre deux planches — première pierre de la dispersion voulue par Sorin.",
+   "sujet": "Sethis Karn",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Sethis Karn"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 2,
+   "jour": 14,
+   "type": "evenement",
+   "titre": "Orath Dovan « constate la présence » de Sorin",
+   "detail": "Le consul adjoint aux Relations Académiques Extérieures se montre rue des Marchands : pas de main, une pente — les bureaux se parlent comme les rivières se rejoignent.",
+   "sujet": "Orath Dovan",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Orath Dovan"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 3,
+   "jour": 31,
+   "type": "evenement",
+   "titre": "Des cavaliers achètent un nom sur la route du sel",
+   "detail": "Depuis une semaine, des cavaliers venus des ports remontent la route du sel et paient pour le signalement d'un marcheur seul : la traque de Sorin s'organise.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Renk"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 3,
+   "jour": 32,
+   "type": "evenement",
+   "titre": "Entrée en Ventera : la caravane de Dava recueille Sorin",
+   "detail": "Frontière sans garde, un cairn pour toute borne. Dava, guide du convoi de Nythor, offre une place au flanc des bêtes sans demander si l'étranger est Lié.",
+   "sujet": "Dava",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Dava",
+    "Orren"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 3,
+   "jour": 34,
+   "type": "evenement",
+   "titre": "L'épreuve du feu : Renk ouvre la chaîne des porteurs à Sorin",
+   "detail": "Poussé à se vanter, Sorin dit sa tache — exil, tissu jaune, titres repris. « Un exilé n'a personne à qui me vendre. » Le porteur accepte de porter pour lui.",
+   "sujet": "Renk",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Renk",
+    "Vask",
+    "Orren",
+    "Dava"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 3,
+   "jour": 38,
+   "type": "evenement",
+   "titre": "Trois lettres confiées à la chaîne des porteurs",
+   "detail": "Une pour Mira Dasthen à Rukhsar, une pour Omarin de Velithis, une sans adresse que Sorin garde. « On ne lit pas. Ce qui me regarde, c'est qu'il arrive. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Renk",
+    "Mira Dasthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 3,
+   "jour": 39,
+   "type": "evenement",
+   "titre": "Départ seul par la piste des Neuf Cairns",
+   "detail": "Sorin achète la mule Pardine et coupe droit vers l'est à travers la grande herbe — douze jours sans relais. Dava lui jette une bourse de sel : « Le sel n'est pas une provision. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen",
+    "Dava"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 4,
+   "jour": 25,
+   "type": "evenement",
+   "titre": "Signalement du naturaliste Aldemer Voss",
+   "detail": "À Valoria, un vieux naturaliste qui « écrit sur ce qui bouge dans le sol » est porté sur les mêmes listes que Sorin, une lune avant son passage à Vyndralith.",
+   "sujet": "Aldemer Voss",
+   "personnages": [
+    "Aldemer Voss"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 4,
+   "jour": 47,
+   "type": "evenement",
+   "titre": "Arrestation d'un porteur des steppes à la sortie de Ventera",
+   "detail": "Un courrier de la chaîne est arrêté — on l'attendait. Les lettres de Sorin sont lues dans un bureau de Lumasar : l'appareil ne suit plus seulement sa route, il remonte ses fils.",
+   "sujet": "Sorin Valthen",
+   "objet": "Lumasar",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 4,
+   "jour": 55,
+   "type": "evenement",
+   "titre": "La lecture de Thelorn au phare de Vyndralith",
+   "detail": "« La mer rend, ces temps-ci » : des routes mortes se rouvrent, le peuple dit que Navigor revient. Le gardien lit en Sorin un homme qui suit les sillages et rentrera au point de départ.",
+   "sujet": "Thelorn",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Thelorn"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 4,
+   "jour": 56,
+   "type": "evenement",
+   "titre": "Orsenne révèle le prix mis sur la tête de Sorin",
+   "detail": "La courtière de Vyndralith montre la notification descendue de Prismalith via Lumasar : un tarif de signalement — tant pour la route, davantage pour les contacts. « On chiffre les choses qui ont une valeur. »",
+   "sujet": "Orsenne",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Orsenne"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 4,
+   "jour": 57,
+   "type": "evenement",
+   "titre": "Sorin laisse partir le Souffle d'Etheira",
+   "detail": "La capitaine Reen offrait Trelios et l'effacement en mer. Sorin reste sur le quai ; un guetteur en veste de fret note l'anomalie — l'homme signalé qui n'embarque pas — et la fait remonter.",
+   "sujet": "Sorin Valthen",
+   "objet": "Reen",
+   "personnages": [
+    "Reen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 5,
+   "annee_sillage": 244,
+   "type": "evenement",
+   "titre": "Le sol de Velathor bat plus fort — l'éveil daté par les druides",
+   "detail": "Orvhel : la forêt s'éveille depuis environ cinq ans, le sol bat plus fort et pas au même rythme ; les vieux troncs le sentent avant les hommes, Yrath-le-Vieux-Père est devenu méfiant.",
+   "sujet": "Orvhel",
+   "personnages": [
+    "Orvhel"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 5,
+   "jour": 76,
+   "type": "evenement",
+   "titre": "Velathor : Orvhel accueille Sorin chez les druides",
+   "detail": "Après quatre jours d'attente en lisière, le grand-druide du Vael'Kurash ouvre la clairière de Velathor : huit jours d'observation, sans écrire pendant les rites.",
+   "sujet": "Orvhel",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Orvhel",
+    "Keth"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 5,
+   "jour": 80,
+   "type": "evenement",
+   "titre": "Le pouls sous Yrath-le-Vieux-Père répond à Sorin",
+   "detail": "Un Délié ne devrait rien sentir ; Sorin pose la main à l'endroit exact du battement, et le rythme se déplace, « comme si ma présence venait d'être remarquée et pesée ». Il ment ensuite à Orvhel : « Rien. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Yrath-le-Vieux-Père",
+   "personnages": [
+    "Orvhel"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 5,
+   "jour": 84,
+   "type": "evenement",
+   "titre": "La pierre de frêne de Keth",
+   "detail": "Au départ de Velathor, le novice tend à Sorin une pierre gravée à l'encre d'écorce : « Pour que tu saches que quelqu'un de cette forêt te reconnaît. »",
+   "sujet": "Keth",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Keth"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 6,
+   "annee_sillage": 246,
+   "type": "evenement",
+   "titre": "Le sol de Kaeldrun s'est mis à battre",
+   "detail": "Torhal : « Depuis trois ans, le sol bat. Mes genoux le sentent quand je m'agenouille pour graver. » Yrsa dit que les vieux noms se taisent la nuit pour l'écouter. Jalon de la pulsation montante, après Velathor (~244).",
+   "sujet": "Torhal",
+   "personnages": [
+    "Torhal",
+    "Yrsa"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 6,
+   "jour": 103,
+   "type": "mort",
+   "titre": "Mort d'Aldemer Voss à Astraneth",
+   "detail": "Le naturaliste qui écrivait sur ce qui bouge dans le sol est porté en terre douze jours avant l'arrivée de Sorin. « Le cœur, ou l'âge ; personne n'a réclamé qu'on grave la cause. » Sorin a perdu la course sans l'avoir courue.",
+   "sujet": "Aldemer Voss",
+   "personnages": [
+    "Aldemer Voss"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 6,
+   "jour": 114,
+   "type": "evenement",
+   "titre": "La nuit du cercle de Kaeldrun : Torhal livre ses relevés",
+   "detail": "Trois dalles gravées d'une écriture d'avant les clans — Gorthorn, Kaeldrun, Velros — alignées à profondeur constante « comme un homme range une route ». Sorin retient tout ; il conseille à Torhal de disperser ses tablettes.",
+   "sujet": "Torhal",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Torhal",
+    "Yrsa",
+    "Marga"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 6,
+   "jour": 115,
+   "type": "mort",
+   "titre": "Mort de Torhal au cercle de Kaeldrun",
+   "detail": "Le graveur est trouvé au petit jour près de sa dalle, la nuit même où il a tout confié à Sorin. « Le cœur », disent les forgerons — « il avait des genoux de trente ans, ce vieux. » Un mois plus tôt, un homme au manteau propre lisait par-dessus son épaule.",
+   "sujet": "Torhal",
+   "personnages": [
+    "Torhal"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 6,
+   "jour": 115,
+   "type": "evenement",
+   "titre": "Première rencontre avec l'homme au gant noir (passe de Voldenor)",
+   "detail": "À l'entrée de la faille que le carnet d'Aldric marquait « passe haute, sans témoin », un homme attend Sorin — main gauche gantée de noir, jamais un cri. Sorin s'échappe en déclenchant l'éboulis sous ses propres pieds, genou ouvert.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 7,
+   "jour": 140,
+   "type": "evenement",
+   "titre": "Arrivée à Trelios sous le nom d'un roulier",
+   "detail": "Vingt-cinq jours de mer depuis Valoria. À Yaltar, une semaine avant le navire, un homme qui n'était pas un marchand a interrogé les registres du port : Sorin entre en Alkaran sans laisser son nom.",
+   "sujet": "Sorin Valthen",
+   "objet": "Trelios",
+   "personnages": [
+    "Sorin Valthen",
+    "Corven Asheld"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 7,
+   "jour": 144,
+   "type": "evenement",
+   "titre": "Le Fragment Zéro bat — et il accélère",
+   "detail": "Aux Archives d'Altram, sous cloche, un parchemin d'avant l'Arrachement pulse. Sorin le mesure au sablier : chaque intervalle plus court que le précédent — la même courbe que la colonne d'Aldric vingt ans plus tôt, soulignée deux fois : « accélère ».",
+   "sujet": "Sorin Valthen",
+   "objet": "Les Archives d'Altram",
+   "personnages": [
+    "Lisel Morvaine",
+    "Corven Asheld"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 7,
+   "jour": 147,
+   "type": "evenement",
+   "titre": "Lisel Morvaine choisit de ne pas consigner",
+   "detail": "La prêtresse-juriste de la Lex Petra surprend Sorin mesurant de nuit ; plutôt que le dénoncer, elle lui dit : « il vaut mieux que cela existe quelque part où l'on ne pourra pas le rappeler d'une lettre » — la doctrine du voyage, offerte sans le savoir.",
+   "sujet": "Lisel Morvaine",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Lisel Morvaine"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 7,
+   "jour": 148,
+   "type": "evenement",
+   "titre": "Le compas de fer bleu de Corven Asheld",
+   "detail": "Au départ de Trelios, le maître-artisan donne à Sorin un compas d'acier royal forgé à la Première Forge — « J'en avais un en trop. Certaines coïncidences méritent qu'on les laisse en silence. »",
+   "sujet": "Corven Asheld",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Corven Asheld"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 8,
+   "annee_sillage": 229,
+   "type": "evenement",
+   "titre": "Les sons des profondeurs de Myrilith se renforcent",
+   "detail": "Témoignage d'un ancien de Glintar : les sons des galeries profondes ont toujours existé, mais ils sont « plus forts depuis vingt ans, à peu près » — le même chiffre que la colonne d'Aldric Valthen.",
+   "sujet": "Iskara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 8,
+   "annee_sillage": 246,
+   "type": "evenement",
+   "titre": "Fermeture des niveaux profonds de Myrilith",
+   "detail": "Les niveaux au-delà de trois cent cinquante mètres sont fermés en partie sur ordre du Conseil des Forges, trois ans avant le passage de Sorin — depuis que les mineurs « ont commencé à entendre des choses ». Jessen, qui força les barricades, fut retrouvé vivant mais parti : « elle arrive ».",
+   "sujet": "Iskara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 8,
+   "jour": 160,
+   "type": "evenement",
+   "titre": "Passage de la Porte de Fer d'Iskara",
+   "detail": "« Vous êtes libres de revenir. Nous serons là. » Sorin entre par le défilé, logé au bourg extérieur de Glintar en attendant l'autorisation ; le commandant Reval limite le relevé aux niveaux un à huit de Myrilith.",
+   "sujet": "Sorin Valthen",
+   "objet": "Iskara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 8,
+   "jour": 163,
+   "type": "evenement",
+   "titre": "Les sons du niveau sept et la porte de métal inconnu",
+   "detail": "Dans Myrilith, un coup lent toutes les trois ou quatre secondes qui « respire entre les coups » ; au niveau huit, une porte taillée dans la roche, d'un métal à l'iridescence du Fragment Zéro, que nul n'essaie plus d'ouvrir depuis l'ordre du Conseil. Baret : « comme quelqu'un qui frappe à une porte depuis l'autre côté ».",
+   "sujet": "Sorin Valthen",
+   "objet": "Iskara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 8,
+   "jour": 167,
+   "type": "evenement",
+   "titre": "Dorsa, l'écoutante de veine : « Il s'est retiré à cause de vous »",
+   "detail": "À Verthal (Ferrath), l'écoutante pose les mains au sol et ce qui répond d'habitude se retire. « Vous portez le dessous dans les os. » Les écoutantes du sud disent que les vieux se taisent. Sorin répond la vérité entière : « Je ne porte rien qu'un carnet. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 9,
+   "annee_sillage": 245,
+   "type": "evenement",
+   "titre": "Le Syndicat des Profondeurs cesse d'écrire ses rapports",
+   "detail": "Ferrath, compagnon déchu : chaque forge a son homme qui écoute le dessous, et depuis quatre ans les rapports ne s'écrivent plus — « parce qu'ils partaient », lus par des gens polis venus de loin, après quoi leur auteur se découvrait un défaut de trempe.",
+   "sujet": "Myrtam",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 9,
+   "annee_sillage": 245,
+   "type": "evenement",
+   "titre": "Le souffle d'Eldoria se décale",
+   "detail": "Oryn, prêtre Brûlé de l'Ignis Aeternum : depuis quatre ou cinq ans, la pulsation des failles d'Ardentris monte et descend selon un rythme légèrement décalé. « Elle n'est peut-être pas en train de parler. Elle est peut-être en train d'écouter. » — « Écouter quoi ? » — « Ce qui répond. »",
+   "sujet": "Oryn",
+   "personnages": [
+    "Oryn"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 9,
+   "annee_sillage": 246,
+   "type": "evenement",
+   "titre": "L'Église du Feu reçoit l'ordre de ne plus consigner",
+   "detail": "Trois ans avant le passage de Sorin, une lettre du Temple d'Haliandris — tenue « d'un office plus haut, lequel la tenait d'ailleurs encore » — interdit de consigner les irrégularités du souffle. « L'argument n'est pas mauvais. C'est ce qui m'ôte le sommeil. »",
+   "sujet": "Oryn",
+   "objet": "Myrtam",
+   "personnages": [
+    "Oryn"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 9,
+   "jour": 186,
+   "type": "evenement",
+   "titre": "Le message du relais des steppes rattrape Sorin à Haliandris",
+   "detail": "Un cavalier a traversé la moitié d'un continent pour un carré de cuir : « Ta lettre n'est pas partie. On a lu la précédente avant moi. Ne m'écris plus par la Vorne. » Le courrier de l'ouest est compromis.",
+   "sujet": "Sorin Valthen",
+   "objet": "Myrtam",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 9,
+   "jour": 188,
+   "type": "evenement",
+   "titre": "L'Intendant royal montre à Sorin sa propre copie de Lumasar",
+   "detail": "La copie faite par Sethis Karn est arrivée à Myrtam avant Sorin, par un canal qui ne passe pas par la poste, trois mots soulignés d'un ongle : inscriptions, antérieures, réseau. « Cartographie la surface. Pour le dessous, six semaines de délai. — Je n'ai pas six semaines. — Je sais. Bon voyage. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Myrtam",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 9,
+   "jour": 190,
+   "type": "evenement",
+   "titre": "La page des quatre colonnes : la convergence établie",
+   "detail": "Trinoria (~5 ans), Trelios (le Fragment qu'on n'approche plus depuis 3 ans), Iskara (sons changés, plus proches), Ardentris (souffle décalé depuis 4-5 ans) : quatre pays, quatre registres qui ne se parlent pas, une même inflexion. « On ne me chassait pas pour des routes. On me chassait pour cette droite-là. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 9,
+   "jour": 191,
+   "type": "evenement",
+   "titre": "La copie des quatre colonnes part par la route du sud",
+   "detail": "Sorin recopie la page et la confie à un convoyeur de fonte inconnu descendant vers la côte — plus rien par la Vorne. « Un chemin fermé s'en remplace par deux, si chacun n'emporte qu'une moitié de ce qu'il faut. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 10,
+   "jour": 205,
+   "type": "evenement",
+   "titre": "La douane de Velithar : Orryn lit les cartes de Sorin",
+   "detail": "La commandante corrige le détroit nord (« un capitaine qui vous croit s'échoue ») et tamponne le passage : « Je vous ai lu. D'autres, ici, ne lisent pas. Ils classent. » Sur les quais court la rumeur : les savants meurent d'un bout du monde à l'autre, et l'on accuse Kharazir ou Mosrack.",
+   "sujet": "Sorin Valthen",
+   "objet": "Mosrack",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 10,
+   "jour": 206,
+   "type": "evenement",
+   "titre": "Les quatre noms de Thedek",
+   "detail": "Le Commandant de Forge du district nord donne à Sorin quatre Commandants de Forge — deux sur l'Onar, un à l'estuaire, un à Sarandel d'Endora — qui « sauront garder ce qui doit tenir plus longtemps qu'un homme. On ne rebâtit pas un fourneau de mémoire. » Un relais de plus pour la dispersion.",
+   "sujet": "Sorin Valthen",
+   "objet": "Mosrack",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 10,
+   "jour": 207,
+   "type": "evenement",
+   "titre": "Deuxième affrontement avec le gant noir, sur les môles de Velithar",
+   "detail": "Trois guetteurs postés, dont un devant le radoub où dort le paquet laissé le matin. Sorin court vers les môles vides, lâche le frein d'une grue — la gueuse défonce le quai entre eux — et saute sur la barge à la renverse du soir. Le gant regarde s'éloigner, sans un cri, « comme un homme qui prend un relevé pour la fois suivante ».",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 11,
+   "jour": 218,
+   "type": "evenement",
+   "titre": "« L'eau qui hésite » : l'Onar retarde dans ses passes",
+   "detail": "Halvern : depuis l'automne, des passes où le fleuve pousse deux jours dans le bon sens « et le troisième il traîne, comme s'il pensait à autre chose ». Les vieux mariniers disent qu'il écoute quelque chose sous lui. Aldric avait noté, vingt ans plus tôt, des courants qui manquaient leurs rendez-vous.",
+   "sujet": "Sorin Valthen",
+   "objet": "Onara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 11,
+   "jour": 221,
+   "type": "evenement",
+   "titre": "Trois barges vides dans le delta de l'Onar",
+   "detail": "La nouvelle que vend l'enfant Dris : en quatre mois, trois barges de la guilde des Métaux retrouvées dérivant dans une bouche du delta — sans équipage, sans cargaison, sans trace de violence.",
+   "sujet": "Tyndara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 11,
+   "jour": 222,
+   "type": "evenement",
+   "titre": "Maldrix révèle la « note de courtoisie » qui précède Sorin",
+   "detail": "Arrivée à trois comptoirs de Tyndara quinze jours plus tôt, sans canal connu : un cartographe déchu de Kharazir, soupçonné Catena Fracta, à signaler. Pas de prix sur sa tête — « on demande un renseignement, pas un cadavre ». Sur les mêmes listes : un épigraphiste d'Endora, un naturaliste de Sarandel, un archiviste de Haldria… et Naïm, parti vers l'ouest deux mois plus tôt avec les mêmes questions.",
+   "sujet": "Sorin Valthen",
+   "objet": "Tyndara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 11,
+   "jour": 224,
+   "type": "evenement",
+   "titre": "Six paquets sur six bras du fleuve",
+   "detail": "Sorin recopie ses relevés en six exemplaires — Trelios, Iskara, la porte de métal, la montagne qui respire, l'eau qui hésite — et les confie à six mariniers vers six ports, chacun ignorant des cinq autres. « On ne noie pas ce qui sait nager. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 11,
+   "jour": 225,
+   "type": "evenement",
+   "titre": "La douane de Tyndara saisit le septième paquet",
+   "detail": "Au mirador de la bouche méridionale, le contrôleur Merovis — prévenu par la note — confisque quarante-trois pages d'azimuts et de croquis, dont le dessin de la porte de Myrilith. « On ne saisit une chose qui se réplique qu'une fois de trop tard. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Tyndara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 12,
+   "annee_sillage": 246,
+   "type": "evenement",
+   "titre": "La Reine-Barde Elyndra III ne dort plus",
+   "detail": "Ce que rapportent les bateaux de Thalmaris : trois ans que la Reine-Barde compose nuit après nuit dans le Palais du Chant. On n'appelle plus ses visions des prophéties : on les appelle des avances — la chose est déjà en route, elle l'entend seulement plus tôt.",
+   "sujet": "Elyndra III",
+   "personnages": [
+    "Elyndra III"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 12,
+   "jour": 248,
+   "type": "evenement",
+   "titre": "Rencontre de Brennan, Chroniqueur de Sarandel",
+   "detail": "Sur une colline d'Endora, un barde cherche depuis bientôt cinq ans la dernière note d'un chant — « elle devrait aller quelque part que je n'ai pas encore entendu ». Même profondeur d'années que les druides de Trinoria.",
+   "sujet": "Sorin Valthen",
+   "objet": "Endora",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 12,
+   "jour": 250,
+   "type": "evenement",
+   "titre": "L'Heure du Chant : le Souffle s'entend d'une crête",
+   "detail": "À Sarandel, des milliers de voix improvisent ensemble et produisent la texture que la roche produit seule dans les profondeurs. « Le phénomène a quitté la marge. Il ne se sent plus seulement dans les os d'un homme. Il s'entend d'une crête. Je ne saurais dire pourquoi cela me terrifie. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Endora",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 12,
+   "jour": 253,
+   "type": "evenement",
+   "titre": "La portée inachevée : Brennan laisse noter son chant",
+   "detail": "« Nous ne fixons pas. Une chose fixée cesse de bouger. » Brennan chante pourtant phrase à phrase pour la plume de Sorin, et s'arrête à la suspension : « Vous ne pouvez pas noter ce que je n'ai pas trouvé. » Le blanc reste sur la portée.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 12,
+   "jour": 256,
+   "type": "evenement",
+   "titre": "« La forêt dit que vous êtes vide » — la lisière de Sanvara",
+   "detail": "Melle, paumes sur l'arbre central de sa maison : la forêt a senti un voyageur qui écoute. « Vide comme un instrument qu'on n'a pas encore accordé. Elle ne sait pas encore ce que vous êtes fait pour jouer. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Endora",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 13,
+   "annee_sillage": -151,
+   "type": "evenement",
+   "titre": "Le Silence de Wildoria — le précédent d'il y a quatre siècles",
+   "detail": "Selon la mémoire des Archidruides d'Avalor, les esprits anciens ne s'étaient agités ainsi qu'une seule fois : avant le Silence de Wildoria, quatre siècles avant le présent. La cause s'est dispersée de génération en génération ; les racines en gardent l'empreinte.",
+   "sujet": "Avalor",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 13,
+   "annee_sillage": 244,
+   "type": "evenement",
+   "titre": "Les étoiles occluses d'Haldria",
+   "detail": "Vessane, du Second Observatoire : des ombres passent devant les étoiles fixes depuis cinq ans — une, puis deux, puis sept, vingt-trois confirmées, groupées dans la Couronne, le Voyageur et le Manteau, les trois figures des pilotes. Aucune trajectoire ne les explique.",
+   "sujet": "Vessane",
+   "personnages": [
+    "Vessane"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 13,
+   "annee_sillage": 248,
+   "type": "evenement",
+   "titre": "Cinq corrections nautiques dévient ensemble",
+   "detail": "Depuis l'automne, dans les tables de la Flotte de la Constellation d'Argent, cinq lignes de correction glissent faiblement, constamment, dans le même sens — « comme si le repère lui-même glissait vers un point qu'on ne voit pas ». Même automne que les esprits d'Avalor et les galeries d'Iskara.",
+   "sujet": "Vessane",
+   "objet": "Haldria",
+   "personnages": [
+    "Vessane"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 13,
+   "jour": 278,
+   "type": "evenement",
+   "titre": "Feylara : « les esprits murmurent depuis l'automne »",
+   "detail": "L'Archidruide d'Avalor aux yeux saisonniers : des entités sans agitation depuis mille ans se mettent à murmurer. « Ils ne murmurent pas de vous. Ils murmurent de ce que vous portez. — Je ne porte qu'un carnet. — Je sais. C'est ce qui m'inquiète. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Avalor",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 13,
+   "jour": 284,
+   "type": "evenement",
+   "titre": "Face à face avec le gant noir à Perivalis",
+   "detail": "Première conversation avec le traqueur : « Je constate. J'attends que la ligne se ferme. » Sorin pose son relevé : « Vous êtes des nôtres. On vous a envoyé parce qu'il faut un instrument vide pour en traquer un autre. » Le silence dure une mesure de trop.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 13,
+   "jour": 293,
+   "type": "evenement",
+   "titre": "Sorin fait fuir Vessane avant la nuit du courrier",
+   "detail": "« Une étoile qu'on peut prédire, on la vise. » Sorin révèle les nuits de courrier de l'appareil et envoie l'astronome chez sa sœur à Haltheria, le réflecteur laissé sur la balustrade pour tromper le guetteur. La seule fois du voyage où il se conduit comme l'homme qu'il feint d'être.",
+   "sujet": "Sorin Valthen",
+   "objet": "Vessane",
+   "personnages": [
+    "Sorin Valthen",
+    "Vessane"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 13,
+   "jour": 295,
+   "type": "mort",
+   "titre": "Mort de Halen au quai quatre d'Hekorinth",
+   "detail": "L'écrivain des manifestes qui dispersait les cahiers de Sorin parmi les caisses d'Ilthara est repêché contre les récifs. « Voulant qu'une femme reste en vie, j'avais retenu le chasseur assez de nuits pour qu'il prenne l'homme du quai quatre à la place. Rien ne se soustrait sur une carte, tout se reporte. »",
+   "sujet": "Halen",
+   "personnages": [
+    "Halen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 13,
+   "jour": 296,
+   "type": "evenement",
+   "titre": "La lettre de Mira restée blanche",
+   "detail": "Le billet de Mira Dasthen : deux visiteurs polis aux Archives qui connaissaient déjà les réponses. « Écris-moi que tu vas bien, même si ce n'est pas vrai. » Sorin écrit la date, le lieu, « Mira, » — et plie la feuille vide.",
+   "sujet": "Mira Dasthen",
+   "objet": "Sorin Valthen",
+   "personnages": [
+    "Mira Dasthen",
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 14,
+   "jour": 330,
+   "type": "evenement",
+   "titre": "Le fragment interdit des Bibliothèques de Cristal",
+   "detail": "À Holvendar, dans un fonds jamais catalogué, Sorin compare sa copie de Rukhsar au fragment venu « de l'ouest brumeux » : trait pour trait la même écriture anguleuse. « Une écriture qui se répète d'un bout à l'autre du monde prouve un réseau. » Merris lui a donné les minutes sans surveillance ; Selvorn avait refusé : « Cacher une chose vraie, c'est attendre. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Gryndor",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 14,
+   "jour": 331,
+   "type": "evenement",
+   "titre": "Sorin se fait inscrire fugitif de Gryndor",
+   "detail": "Le feuillet de Rukhsar « glisse » de sa chemise sous les yeux du gardien — trop tard pour n'être pas vu, tout exprès. Un fugitif de Gryndor devient un frère chez tous ceux à qui l'ordre des lettrés a fait payer leur curiosité. Mot de Selvorn : « J'aurais préféré vous le donner. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Gryndor",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 15,
+   "annee_sillage": 191,
+   "type": "evenement",
+   "titre": "La Faille d'Ordavan : un village pris dans le verre",
+   "detail": "Cinquante-huit ans avant le passage de Sorin, la vitrification a saisi Ordavan à l'endroit exact où il vivait — deux cents existences incorporées au sol « comme un insecte dans l'ambre », les rues en couloirs de froid, les maisons en foyers de chaleur. Depuis : restriction administrative, un panneau, un seul mot — « Enquête ».",
+   "sujet": "Ilthara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 15,
+   "annee_sillage": 226,
+   "type": "evenement",
+   "titre": "Aldric Valthen à Ordavan, vingt-trois ans avant Sorin",
+   "detail": "Registre de la patrouille de la Garde Cristalline : « Visiteur non autorisé, même zone, vingt-trois ans en arrière. Il n'a pas été arrêté. » Le père a marché sur le même verre cinq ans avant de disparaître ; nul ne sait pourquoi on l'a laissé repartir.",
+   "sujet": "Aldric Valthen",
+   "personnages": [
+    "Aldric Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 15,
+   "jour": 348,
+   "type": "evenement",
+   "titre": "Sorin relève le sol vitrifié d'Ordavan",
+   "detail": "Un Délié n'aurait rien dû sentir. Sorin relève le plan de chaleur du village — les foyers, les rues — et deux mesures superposées : un instant « mis de côté » où une femme serre un enfant. Le battement se resserre d'une mesure à l'autre. « Une pente qui monte selon une règle a une fin quelque part, et une fin quelque part a une date. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Ilthara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 15,
+   "jour": 351,
+   "type": "evenement",
+   "titre": "Le Syndrome d'Ordavan : les hameaux se vident",
+   "detail": "Cette saison, des hameaux entiers de Tolvandor chargent les charrettes sans qu'on le leur dise — vaisselle sur les tables, métier encore enfilé. Les bêtes partent devant, vers le bas. « Le sol ne veut plus de nous. » Un garde : « La Faille n'est pas un événement passé. C'est un processus en cours. »",
+   "sujet": "Ilthara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 16,
+   "annee_sillage": 229,
+   "type": "evenement",
+   "titre": "Aldric Valthen à Myrthorin, vingt ans avant son fils",
+   "detail": "Le Brûlé Dhorvan : « Mon père a rencontré un cartographe, il y a vingt ans. Valthen. Il posait des questions sur les vibrations de la terre, sur ce que les dragons sentaient. Il est revenu deux fois. La deuxième, il était différent — comme un homme qui a trouvé la réponse à sa question et ne sait pas si c'était une bonne idée de la trouver. »",
+   "sujet": "Aldric Valthen",
+   "objet": "Drakora",
+   "personnages": [
+    "Aldric Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 16,
+   "jour": 373,
+   "type": "evenement",
+   "titre": "Passage clandestin vers Drakora — les premiers dragons",
+   "detail": "Le col de pierre noire franchi de nuit avec un contrebandier, Pardine laissée à un muletier de Gryndor. À l'aube, deux formes au-dessus du sommet : « la description la plus juste ne prépare pas à la présence ». À Veldar, la Brûlée Rethyn ouvre sa porte : un fugitif de Gryndor n'est pas un suspect, c'est un renseignement.",
+   "sujet": "Sorin Valthen",
+   "objet": "Drakora",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 16,
+   "jour": 380,
+   "type": "evenement",
+   "titre": "Audience de Thareth : Voldrax est agité depuis l'automne",
+   "detail": "Le Conseil des Liés confirme : les Guetteurs de Gryndor rapportent depuis six mois un sol qui monte en température — et ont cessé de partager il y a deux mois. Le vieux dragon de la Reine sent « une présence dans la montagne. Une présence qui l'inquiète. » Sorin est une information que Drakora soupèse.",
+   "sujet": "Sorin Valthen",
+   "objet": "Drakora",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 16,
+   "jour": 383,
+   "type": "evenement",
+   "titre": "Lunaris : le dessous du fond",
+   "detail": "Dans le canyon du Dormant, la pulsation d'Ordavan et d'Iskara — la même, pas semblable. Et elle vient d'EN DESSOUS de Vey'thar, d'une profondeur dont il n'est qu'une strate. « Il existe un dessous du fond. Et ce dessous s'éveille. La progression est calculable. Et si elle est calculable, elle a une date. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Drakora",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 16,
+   "jour": 385,
+   "type": "evenement",
+   "titre": "Le rouleau scellé de Thareth",
+   "detail": "Au départ pour Pyrtara, le Conseil des Liés glisse dans le paquetage un rouleau scellé de cire noire — la crédibilité qu'un fugitif de Gryndor n'a pas. « Nos deux raisons tiennent dans le même rouleau, et aucune n'a besoin de connaître l'autre. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Drakora",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 17,
+   "annee_sillage": 248,
+   "type": "evenement",
+   "titre": "Les Guetteurs de Vyldor nomment le « Syndrome d'Ordavan »",
+   "detail": "À l'automne, quand les premiers rapports de villages abandonnés arrivent de Gryndor, les Guetteurs de Feu compilent et nomment. Trois autres cas dans leurs relevés — deux en Gryndor, un en Kharazir — et une progression « cohérente ».",
+   "sujet": "Pyrtara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 17,
+   "jour": 400,
+   "type": "evenement",
+   "titre": "Pyrtara accueille un Délié sans grimace",
+   "detail": "Au poste-frontière, le mot « Délié » tombe comme une donnée neutre, rangée avec les autres. À Keldros, des Déliés commandent — Mara, Saven, Drev — dans la Brigade de Pyrax, le plus haut gradé Délié de l'armée pyrtarienne, qui a refusé l'Article V du Traité d'Ilthara.",
+   "sujet": "Sorin Valthen",
+   "objet": "Pyrtara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 17,
+   "jour": 402,
+   "type": "evenement",
+   "titre": "Deux courbes, une seule montée : la table de Pyrax",
+   "detail": "La courbe des Guetteurs au cœur du Mont Pyralis et les relevés d'Ordavan posés côte à côte : même pente, même intervalle qui se resserre, ascension marquée « automne dernier ». « Le Dessous n'a pas une horloge par lieu, il en a une seule, et elle accélère partout à la fois. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Pyrtara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 17,
+   "jour": 402,
+   "type": "evenement",
+   "titre": "Le doigt de Saven sur la date",
+   "detail": "Le sergent remarque que le relevé le plus ancien d'Ordavan est daté de la fin de l'été — trois mois AVANT le passage déclaré de Sorin. L'explication (« je n'ai pas daté ma visite, mais la couche ») tient ; la marge, elle, garde trois mots non rayés : « relais tenu, dalle nord descellée ». La chronologie du journal est une construction.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 17,
+   "jour": 404,
+   "type": "evenement",
+   "titre": "La pulsation du Pyralis accélère de huit pour cent en un mois",
+   "detail": "Rapport des Guetteurs à Pyrax : ce qu'ils mesurent « ne serait pas une activité volcanique — ce serait antérieur. Une source que le volcan recouvre, mais ne produit pas. » Ce n'est plus une pente : c'est une marche qui presse le pas.",
+   "sujet": "Pyrtara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 18,
+   "annee_sillage": 248,
+   "type": "evenement",
+   "titre": "Un homme poli conseille le silence à Talvind",
+   "detail": "Deux ans après le rejet de son rapport par le Conseil des Moissons, un homme « d'un service sans nom » passe une après-midi sur les registres du semeur et lui conseille, en partant, de ne plus les montrer. « Pour ma tranquillité, il a dit. »",
+   "sujet": "Sylthara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 18,
+   "jour": 426,
+   "type": "evenement",
+   "titre": "« La terre hésite » : les registres de Talvind",
+   "detail": "À Ydralis (Sylthara), le vieux semeur montre trois années de la parcelle Rynel-haut : germination de sept jours passée à neuf, puis dix ; le seigle levé par à-coups. Première anomalie datée de la troisième semaine de Virel, l'automne d'avant — la même semaine que les premiers relevés de vibrations chez Pyrax.",
+   "sujet": "Sorin Valthen",
+   "objet": "Sylthara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 18,
+   "jour": 426,
+   "type": "evenement",
+   "titre": "Le mur d'avant les murs",
+   "detail": "Sous Rynel-haut, un mur enterré aux pierres « trop lisses pour venir de n'importe quelle maison que je connaisse » — sous la parcelle où la terre a hésité la première. « Le réseau ne se montre jamais entier. Il affleure. »",
+   "sujet": "Sylthara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 18,
+   "jour": 428,
+   "type": "mort",
+   "titre": "Mort de Talvind, la veille de la grande récolte",
+   "detail": "On relève le semeur au pied du grenier communal, monté de nuit chercher on ne sait quoi dans ses registres. « Le cœur », dit le médecin. Trois jours après l'arrivée d'un étranger qui posait des questions. « On cueille quand le savoir est mûr et que le porteur va tomber. »",
+   "sujet": "Sylthara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 19,
+   "annee_sillage": 249,
+   "type": "evenement",
+   "titre": "Le chant du dessous atteint Ackerna",
+   "detail": "Depuis le printemps, les silencieux de Gnosias — voués au silence depuis le Pacte Sylvestre — entendent une voix qui ne vient pas de la forêt mais de dessous. Les racines du Bosquet Primordial saignent quand on les entaille ; des plantes toujours vertes ont cessé de guérir. « On ne réveille pas ce qui rêve. »",
+   "sujet": "Ackerna",
+   "personnages": [],
+   "sujet_id": "pol-0014"
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 19,
+   "jour": 455,
+   "type": "evenement",
+   "titre": "« Ils arrivent par le dessous » — la dernière parole des esprits",
+   "detail": "À Warenthor, les esprits se sont tus un à un autour du chamane Kael — six mois de silences. Leur dernière manifestation, trois lunes avant le passage de Sorin, a laissé une phrase : « ils arrivent par le dessous ». Thyris : « Ne fais pas de lui une preuve. — Je note ce qu'il dit. — Non. Tu notes ce que tu peux utiliser. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Ackerna",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 19,
+   "jour": 458,
+   "type": "evenement",
+   "titre": "Le duel de la canopée : Sorin épargne Vels Draye",
+   "detail": "À Wyndor, Sorin choisit le terrain, desserre les câbles, piège le limier au gant noir — qui a désormais un nom. La passerelle cède, Draye pend à une liane, la lame d'Aldric à un geste de sa gorge. Sorin le hisse. « Vous auriez dû. — Je sais. » Et Draye : « La prochaine fois, je ne vous laisserai pas le terrain. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Vels Draye",
+   "personnages": [
+    "Sorin Valthen",
+    "Vels Draye"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 19,
+   "jour": 459,
+   "type": "evenement",
+   "titre": "Les bêtes de Warenthor montent",
+   "detail": "Singes vers la lisière, fourmis charriant leur couvain vers le haut, un tapir mort d'épuisement à mille pieds au-dessus de son domaine. « La jungle, qui d'ordinaire respire vers le bas, expirait vers l'extérieur » — comme les troupeaux d'Ordavan trois jours avant le verre.",
+   "sujet": "Ackerna",
+   "personnages": [],
+   "sujet_id": "pol-0014"
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 20,
+   "annee_sillage": 248,
+   "type": "evenement",
+   "titre": "Les chevaux de Lythar refusent les creux",
+   "detail": "Depuis l'automne, les bêtes se cabrent au bord des cuvettes, naseaux ouverts — « comme si une pression montait du fond ». Et les chamanes de Foedus Animae reçoivent encore leurs ancêtres, mais « en retrait, comme derrière une vitre ».",
+   "sujet": "Ilthara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 20,
+   "jour": 486,
+   "type": "evenement",
+   "titre": "La rêveuse de Vytharia attendait Sorin",
+   "detail": "« Vous avez mis trois jours de plus que dans mon rêve. » Elle décrit sa route sans en connaître les noms — le village de verre, la forêt qui bouge, les chevaux — et le nomme : « un homme qui plante et ne reste pas pour la récolte ». Au couvent de Mythoria dorment des feuillets dans l'écriture de Mirathi, le pays qui n'existe plus.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 20,
+   "jour": 488,
+   "type": "evenement",
+   "titre": "« Tu sonnes » — l'enfant aux yeux blancs",
+   "detail": "Au dernier campement avant la côte, un enfant de sept ans aux yeux sans couleur écoute la poitrine de Sorin : « Comme le sol des trous. Comme la pierre à Cendra. Ce que tu portes, ça ne sonne pas à toi. Pas encore. » — « Qu'est-ce que je porte ? » — « Ce qui remonte. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 20,
+   "jour": 490,
+   "type": "evenement",
+   "titre": "À Vaelmar, l'appareil ne cherche plus l'homme mais le papier",
+   "detail": "Deux fonctionnaires gris fouillent les cahiers à la lampe sourde — « des copies. On nous signale des documents qui circulent. » Pas une fois ils ne regardent son visage. « Un appareil qui cesse de chercher un homme pour ne plus chercher que ce qu'il écrit a cessé de croire que l'homme est le danger. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Lythar",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 21,
+   "annee_sillage": 249,
+   "type": "evenement",
+   "titre": "Les eaux de Kaldris chauffent par colonnes",
+   "detail": "Depuis l'hiver, les grottes sous-marines de Cendara passent « d'un froid de mort à une tiédeur de bain en trois brasses » ; les cristalliers ne descendent plus dans la grande grotte. « Un vieux dit que la roche respire. »",
+   "sujet": "Cendara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 21,
+   "annee_sillage": 249,
+   "type": "evenement",
+   "titre": "Le Mont Cendra pulse une fois par semaine",
+   "detail": "Kessa de Mylaris compte les pulsations depuis l'enfance : autrefois une par saison — « on pouvait vivre une vie entière sans la voir clairement » — désormais une par semaine, depuis six ou sept mois. L'Ignis Aeternum y lit le prélude de la Grande Éruption ; le clergé de l'ouest renforce les digues.",
+   "sujet": "Cendara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 21,
+   "jour": 502,
+   "type": "evenement",
+   "titre": "Un Délié sent la pulsation du Mont Cendra",
+   "detail": "Sur la terrasse de basalte de Brumaris, Sorin reçoit le battement dans la poitrine — ce qu'aucun Délié ne devrait percevoir. Kessa : « Si vous mentez, vous mentez mal. — Je ne mens pas. — Alors vous êtes plus dangereux que si vous mentiez. Vous ne savez pas encore ce que vous êtes en train de prouver. » La nuit, l'inscription de Morvath cesse d'être de la poésie de temple : « Ancrages du monde. Ce que le monde tient. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Cendara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 21,
+   "jour": 503,
+   "type": "evenement",
+   "titre": "Le gant noir est à Brumaris",
+   "detail": "Un docker prévient Sorin pendant la procession des Feux de Veille : un homme a posé des questions au comptoir « sur un voyageur du nord qui note tout. Il portait un gant. La main gauche seulement. Du cuir noir, par cette chaleur. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 22,
+   "jour": 524,
+   "type": "evenement",
+   "titre": "La pierre des Guetteurs de Feu ne compte plus",
+   "detail": "Sur la route des Calcinés, la pierre où l'on taille un trait par pulsation depuis des générations : entailles espacées autrefois, « un peigne de plus en plus fin » vers l'arête. « On ne taille plus. À la fin, ça n'aurait plus été un compte. Ç'aurait été une rature. » Les chèvres refusent le troisième plateau depuis le printemps ; Pyrevane bâtit deux digues de plus.",
+   "sujet": "Sorin Valthen",
+   "objet": "Cendara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 22,
+   "jour": 525,
+   "type": "evenement",
+   "titre": "Au bord du cratère : Sorin reconnaît le battement",
+   "detail": "La main sur l'avancée des Guetteurs, le battement dans la poitrine — « Je ne le rencontrais pas. Je le retrouvais. » Vharn : « Ne me dites pas que c'est la chaleur. Un homme qui ment sur une petite chose, on se demande sur quelle grande il ment aussi. »",
+   "sujet": "Sorin Valthen",
+   "objet": "Cendara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 22,
+   "jour": 525,
+   "type": "evenement",
+   "titre": "Talvhar ouvre les tablettes des Guetteurs",
+   "detail": "Le prêtre de Mylaris relit la Prophétie des Porteurs de Feu Invisible — « celui qui porte le feu sans le savoir » — et montre deux générations de pulsations en terre cuite. Sorin recopie tout, fautes comprises : la saison, puis le mois, puis la semaine. Quatre témoins qui ne se sont jamais parlé.",
+   "sujet": "Sorin Valthen",
+   "objet": "Cendara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 22,
+   "jour": 525,
+   "type": "evenement",
+   "titre": "« Ce que tu portes ne t'appartient pas encore »",
+   "detail": "Dans une ruelle de Mylaris, un enfant aux yeux blancs reconnaît Sorin sans l'avoir jamais vu. Le « encore » implique un devenir. Deux bouches opposées, le même jour — l'enfant et le prêtre — posent sur lui le même mot.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 23,
+   "annee_sillage": 243,
+   "type": "evenement",
+   "titre": "Les enfants aux yeux blancs se multiplient à Cendara",
+   "detail": "Le registre secret de Corvane : neuf enfants nés en six ans sur Arkhen, l'attache du nerf optique « construite pour recevoir autre chose que la lumière ». Des hommes à lettres repartent avec des noms ; après leur passage, il manque des enfants aux rôles des temples — deux à Arkhen, trois à Brumaris, « confiés à des maisons pieuses ». Personne ne les a revus.",
+   "sujet": "Cendara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 23,
+   "jour": 546,
+   "type": "evenement",
+   "titre": "La Suie s'ouvre à l'heure dite — Draye échoue sur le récif",
+   "detail": "Sorin mesure la brume quatre matins et annonce l'ouverture au dernier quartier ; Karsk passe. La barque légère de Vels Draye touche la dent que la coque double enjambe et reste en travers. « Assis, calme, il attendait que la Suie le rende à la grande île. » Un Délié retourné pour traquer les Déliés — « il me chassait comme on se chasse dans un miroir ».",
+   "sujet": "Sorin Valthen",
+   "objet": "Vels Draye",
+   "personnages": [
+    "Sorin Valthen",
+    "Vels Draye"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 23,
+   "jour": 547,
+   "type": "evenement",
+   "titre": "Talise : « Toi, tu arrives toujours avant »",
+   "detail": "Sur la grève d'Arkhen, l'enfant aux yeux sans couleur voit l'épaisseur de Sorin : « Tu tiens quelque chose. Comme une corde… et ce que tu tiens tire vers le bas. » Puis, regardant le sol du côté du large : « Ça monte. Sous l'eau. Ça vient. » Sa mère Nera fait barrer son nom du carnet.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "oeu-0013",
+   "chapitre": 23,
+   "jour": 548,
+   "type": "mort",
+   "titre": "Mort de Corvane sur ses feuilles",
+   "detail": "Le vieux mire d'Arkhen est trouvé la tête sur son registre, « sans une marque, l'air d'avoir été reposé là », la nuit après avoir laissé Sorin tout copier. « Partout où je passais depuis Valoria, un gardien de savoir s'en allait peu après. » Sorin ne se défend pas du regard des habitants.",
+   "sujet": "Cendara",
+   "personnages": []
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 24,
+   "annee_sillage": 247,
+   "type": "evenement",
+   "titre": "Début du Silence des Esprits d'Evertia",
+   "detail": "Les esprits-lieux d'Evertia commencent à se taire un à un — premier recul mesuré par les veilleurs de Valmora, trois ans avant le passage de Sorin Valthen.",
+   "sujet": "Evertia",
+   "sujet_id": "lie-0008"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 24,
+   "annee_sillage": 247,
+   "type": "evenement",
+   "titre": "« Ils arrivent par le dessous » — l'avertissement des trois Archidruides",
+   "detail": "Deux ans et demi avant le passage de Sorin Valthen, les trois Archidruides d'Evertia envoient un unique message commun aux sanctuaires : « Ils arrivent par le dessous. » Puis plus rien.",
+   "sujet": "Evertia",
+   "sujet_id": "lie-0008"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 24,
+   "jour": 577,
+   "type": "mort",
+   "titre": "Mort d'Ourven, dernier veilleur de Thalenvir",
+   "detail": "Ourven, dernier veilleur capable d'entendre les esprits profonds d'Evertia, est trouvé mort au pied de son arbre-siège, la veille au soir de l'arrivée de Sorin Valthen — qui était encore en mer. Un étranger sans porte était entré au sanctuaire une semaine plus tôt : « l'autre main » a précédé l'Exilé.",
+   "sujet": "Ourven",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 24,
+   "jour": 578,
+   "type": "evenement",
+   "titre": "Le Silence des Esprits d'Evertia",
+   "detail": "L'Aînée de Valmora livre ses comptes à Sorin Valthen : sur les 217 esprits-lieux recensés d'Evertia, 189 se sont tus. Le Silence a commencé environ trois ans plus tôt et gagne : les esprits ne meurent pas, ils cessent de répondre, comme retenus ailleurs.",
+   "sujet": "Evertia",
+   "personnages": [
+    "Sorin Valthen"
+   ],
+   "sujet_id": "lie-0008"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 24,
+   "jour": 578,
+   "type": "evenement",
+   "titre": "L'Aînée nomme Panghor, le Sommeil-sous-les-Sommeils",
+   "detail": "À Valmora, l'Aînée confie à Sorin Valthen le mot que les esprits murmuraient avant de se taire : « Panghor », le Sommeil-sous-les-Sommeils — première fois qu'un nom est posé sur ce qui retient les voix.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 24,
+   "jour": 578,
+   "type": "evenement",
+   "titre": "La théorie des Ancrages exposée à Sorin",
+   "detail": "À Valmora, on expose à Sorin Valthen la théorie des Ancrages : les esprits-lieux seraient les amarres du monde, et leur silence signifierait que quelque chose, dessous, les détache une à une. La théorie est antérieure au Silence lui-même.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 24,
+   "jour": 578,
+   "type": "voyage",
+   "titre": "Départ de Valmora vers Sylvara",
+   "detail": "Sorin Valthen quitte Valmora pour Sylvara, où parlerait encore Thalmaris, la dernière grande voix d'Evertia.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 25,
+   "annee_sillage": 249,
+   "type": "evenement",
+   "titre": "Les fréquences du Cantus se mettent à glisser",
+   "detail": "Les Canteurs de Thalmaris relèvent depuis dix-huit mois des écarts fins dans les fréquences qu'ils perçoivent : des notes qui résonnent autrement, pas fausses — autres. « Quelque chose, sous nos pieds, ne tient plus tout à fait sa place. » Même intervalle que le battement du Mont Cendra et le glissement du ciel des guetteurs d'étoiles.",
+   "sujet": "Thalmaris"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 25,
+   "jour": 600,
+   "type": "evenement",
+   "titre": "Extinction des voix d'Evertia : une seule répond encore",
+   "detail": "Décompte des gardiens : neuf voix répondaient encore à l'automne sur l'île, trois en hiver, une seule depuis la dernière lune — Sylvara, l'Arbre-Mère du Pacte. Les autres se sont tues dans un ordre qui ne suit ni la carte ni le calendrier.",
+   "sujet": "Evertia",
+   "personnages": [
+    "Sorin Valthen"
+   ],
+   "sujet_id": "lie-0008"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 25,
+   "jour": 600,
+   "type": "evenement",
+   "titre": "La sève de Sylvara tourne, les saigneurs s'épuisent",
+   "detail": "La sève de l'Arbre-Mère est amère depuis un an, davantage depuis six mois, et son chant descend plus bas qu'il ne devrait. Sur la rive sud, cinq saigneurs restent là où la guilde en compte douze aux registres ; il faut tirer deux fois pour obtenir ce qu'on tirait une, et la guilde ouvre plus d'arbres.",
+   "sujet": "Sylvara",
+   "personnages": [
+    "Marvet (saigneur)"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 25,
+   "jour": 601,
+   "type": "evenement",
+   "titre": "Le dernier chant de Sylvara — « ils arrivent par le dessous »",
+   "detail": "Au milieu de la nuit, l'Arbre-Mère rend un accord très grave dont la dernière fréquence descend sous le son. Sorin Valthen, Délié, sent pourtant la vibration monter du dessous — apparentée à celle du Mont Cendra, plus basse. La gardienne Elwenn, qui chante avec l'arbre depuis toute sa vie (le Pacte dure depuis sept générations), donne la direction : « Il vient d'en bas. Ils disent : ils arrivent par le dessous. Au pluriel. »",
+   "sujet": "Sylvara",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 25,
+   "jour": 603,
+   "type": "evenement",
+   "titre": "Le Cantus du couchant éveille la voix de la terre",
+   "detail": "À l'Académie de Thalmaris, Voix-de-Pierre descend le chœur dans un registre plus grave que tout ce qu'il a tenu : la pierre de la salle répond à la fréquence même de Sylvara. Son diagnostic : « Ce n'est pas la voix de l'arbre. C'est la voix de la terre… Quelque chose, en dessous, s'est mis à la frapper. » Depuis un an et demi, les œuvres de Thalmaris débordent leurs formes et creusent vers le grave.",
+   "sujet": "Thalmaris",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 25,
+   "jour": 604,
+   "type": "voyage",
+   "titre": "Sorin quitte Evertia à la marée",
+   "detail": "L'Exilé quitte l'archipel d'Evertia, ses voix éteintes une à une dans son dos, emportant trois relevés concordants : l'accord de Sylvara, la phrase au pluriel d'Elwenn, et les paumes brunies des saigneurs qui tirent deux fois plus d'un arbre qui donne moins.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 26,
+   "jour": 630,
+   "type": "voyage",
+   "titre": "Retour à Valmora par le détroit de Thalmaris",
+   "detail": "Après avoir manqué la première marée, Sorin Valthen repasse le détroit entre Sylvara et la grande terre — une langue d'eau praticable trois heures. Entré pour une quinzaine, il aura été gardé une cinquantaine de jours par l'île qui ne rend ses hôtes qu'à son heure.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 26,
+   "jour": 630,
+   "type": "evenement",
+   "titre": "Le silence de Rukhsar — Mira Dasthen ne répond plus",
+   "detail": "Troisième navire de Solena sans lettre de Rukhsar. Wenna Corth rapporte que l'archiviste de troisième rang qui relevait le courrier de Sorin à Rukhsar a été « mutée » — sans qu'aucune garnison, bureau ou province ne soit nommée. « J'ai vu ça deux fois dans ma vie. Les deux fois, mutée voulait dire autre chose. » Les dernières lettres de Mira ne posaient plus aucune question.",
+   "sujet": "Mira Dasthen",
+   "personnages": [
+    "Sorin Valthen",
+    "Wenna Corth"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 26,
+   "jour": 630,
+   "type": "evenement",
+   "titre": "L'appareil défait le réseau de l'Exilé nœud après nœud",
+   "detail": "Les relais du nord tombent : l'imprimeur de Lumasar ferme sa presse, le scriptorium rend ses copistes, l'homme de Ventera ne répond plus. Quelqu'un remonte le chemin de Sorin à l'envers. Compréhension à la table du comptoir : l'appareil a cessé de chercher l'homme — il cherche le papier. Mais les copies de Trelios, dispersées par les soixante ports du Grand Fleuve, ne se rappellent pas.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 26,
+   "jour": 631,
+   "type": "evenement",
+   "titre": "Sorin ferme sa dernière ligne de courrier",
+   "detail": "Pour ne pas ajouter « une deuxième mutée » à sa carte, Sorin Valthen congédie Wenna Corth : plus de courrier relevé, plus de remontée de la ligne. La lettre inachevée à Mira Dasthen reste pliée entre deux cahiers — une dette qu'on emporte parce qu'on ne peut plus la payer.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Wenna Corth",
+    "Mira Dasthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 26,
+   "jour": 639,
+   "type": "evenement",
+   "titre": "Hesken inventorie les cahiers de l'Exilé",
+   "detail": "Un consignataire des vérifications de cargaison, Hesken, débarque à Valmora d'une coque fine sans marque de commerce et fouille deux jours tout ce qui peut contenir du papier. Face à Sorin, il ne demande pas qui il est : il compte — onze cahiers pleins, un en cours, notés dans son calepin. L'inventaire d'une saisie qui n'aura lieu qu'au bout de la route. « Un homme qui rentre est plus facile à attendre qu'un homme qui part. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Hesken"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 26,
+   "jour": 640,
+   "type": "evenement",
+   "titre": "Le conte de l'oublié — la même forme que Panghor",
+   "detail": "Un vieux marin de Thyronis raconte à Sorin les huit qui tenaient le monde comme une tente : l'un d'eux, oublié des hommes, a lâché son piquet et est descendu attendre sous tout le reste — et il remonte « parce que c'est son tour, et qu'un tour, ça revient ». Sans jamais avoir entendu le mot Panghor, l'homme décrit la même forme. Cinq noms relevés pour une même chose : Panghor, le dessous, ce qui répond, les Profonds, l'oublié.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 26,
+   "jour": 642,
+   "type": "voyage",
+   "titre": "Le départ par la marée — premier navire, pas le plus sûr",
+   "detail": "La marée s'ouvre au douzième jour et Sorin achète le premier départ, sur le navire de Solena — chargé, guetté — plutôt que d'attendre le calme. Le navire fin de Hesken ne bouge pas : on n'a pas besoin de suivre un homme dont on sait le port d'arrivée. Cap sur le grand continent, à dix ou quatorze jours de mer.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Hesken",
+    "Wenna Corth"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 27,
+   "jour": 660,
+   "type": "voyage",
+   "titre": "Traversée du calme menteur — arrivée à Nectoria sous le Voile",
+   "detail": "Vingt-sept jours de mer au lieu de treize depuis Evertia : une houle profonde et lente, « le calme menteur », comme si quelque chose très bas changeait de position. Les étoiles restent décalées — l'écart est désormais visible à l'œil nu. Sorin Valthen aborde Vytharia par Nectoria, sous le Voile qui déforme la vue sans troubler l'air.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 27,
+   "jour": 664,
+   "type": "evenement",
+   "titre": "La Voix du Haut-Fond : « ce qu'il y a sous la montagne »",
+   "detail": "Au Sanctuaire de Mirathi, où l'on ne reçoit un visiteur qu'après l'avoir rêvé, l'Oracle dit à Sorin : « Le Cœur de Cendra n'est pas mort » — et ce qu'il a senti n'était pas la montagne, mais ce qu'il y a sous la montagne, une chose qui a une période, un cycle plus ancien que les nations, relié aux étoiles décalées, aux chevaux qui refusent les creux, aux esprits qui se taisent. À « combien dure le cycle », elle répond : « Demandez plutôt où nous en sommes. » Et en partant : « Ce que vous portez a une adresse, et ce n'est pas la vôtre. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 27,
+   "jour": 664,
+   "type": "evenement",
+   "titre": "La troisième colonne du Message de Mirathi reconnue",
+   "detail": "L'érudit Orneth montre à Sorin le Message de Mirathi : trois colonnes — vytharen ancien, dialecte des civilisations de rêve, et une troisième qu'aucune famille de langues connue n'explique. Sorin la reconnaît : la même écriture que les gravures des galeries d'avant l'Arrachement, à neuf cents pieds sous Rukhsar, tenues pour une frise de mineurs. « Elle était déjà partout. Nous n'avons fait que la déterrer par endroits, comme on retrouve une rivière à ses puits. » Au bas de la colonne, une forme isolée : une ouverture dessinée dans quelque chose qui n'est pas une paroi.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 27,
+   "jour": 665,
+   "type": "evenement",
+   "titre": "La note d'Orath Dovan : « cesser de chercher l'homme, chercher le document »",
+   "detail": "La copiste Yrenna remet à Sorin la copie d'une note interne qui a dormi une nuit à Mirathi : Orath Dovan y lit l'Exilé avec justesse — le rapport déposé sciemment avant la notification, l'homme qui « ne sauve personne, il recueille », trois copies hors de portée (Lumasar, les ports du fleuve d'Onar, un troisième dépôt non localisé) — et recommande de cesser de chercher l'homme pour chercher le document. Une seule inexactitude : Dovan n'a localisé que deux dépôts. Sorin ne corrige pas la carte de son adversaire.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Orath Dovan"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 27,
+   "jour": 665,
+   "type": "evenement",
+   "titre": "L'enfant aux yeux blancs de Mirathi — « tu le gardes pour quand ça viendra le chercher »",
+   "detail": "Au bord du replat, un enfant aux yeux blancs dit à Sorin : « Tu bourdonnes. Dedans. Comme un mur quand il y a de l'eau derrière. […] Pas à toi. Tu le gardes pour quand ça viendra le chercher. » Deuxième enfant, deux continents : Vytharia les recueille dans ses couvents, Caeloria les raye des registres — nul ne leur demande ce qu'ils entendent. La même nuit, Sorin a le sentiment qu'une chose, très bas, prend acte de sa présence — « comme une ancienne bibliothèque noterait qu'un lecteur vient d'entrer ».",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 28,
+   "annee_sillage": 218,
+   "type": "evenement",
+   "titre": "Le signe inconnu relevé sur une pierre de la côte de Lunasar",
+   "detail": "Quatre cents pleines lunes avant le passage de Sorin (une trentaine d'années), les prédécesseurs du Veilleur Solvanes copient dans leurs registres un signe relevé sur une pierre de la côte, qu'ils ne savent pas lire — « un Veilleur copie ce qu'il ne comprend pas, faute de quoi il ne reste rien à comprendre pour ceux d'après ». C'est le signe de la troisième écriture.",
+   "sujet": "Lunasar"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 28,
+   "jour": 690,
+   "type": "voyage",
+   "titre": "Arrivée à Lunaris, la cité qui range les visages",
+   "detail": "Quinze jours après les couvents de Mirathi, Sorin Valthen atteint Lunaris, sur la rive de Lunasar : une cité de pierre blanche bâtie autour d'un amphithéâtre à ciel ouvert, où la nouvelle lune impose le Silence — trois jours où nul n'agit en son nom, masque pâle sur le visage. Sera, traductrice de situations, le guide.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 28,
+   "jour": 694,
+   "type": "evenement",
+   "titre": "« La même main a écrit partout » — le fragment confronté aux registres",
+   "detail": "Le Veilleur Solvanes confronte le fragment de Mirathi au signe de ses registres : identique — comme aux tunnels de Kharazir. Puis il montre à Sorin, au sud-ouest du large, une masse plus sombre que la nuit à la place où une île aurait dû être : non cartographiée, les navigateurs qui s'en approchent ne reviennent pas ou reviennent autres. « On ne cartographie pas ce que l'on a choisi de garder fermé. Sceller, parfois, est la seule tendresse dont un pouvoir soit capable. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Solvanes"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 28,
+   "jour": 694,
+   "type": "evenement",
+   "titre": "Aldric est passé par Lunaris — le visage rangé",
+   "detail": "Solvanes se souvient d'« un autre » au même regard, passé à Lunaris il y a « trente pleines saisons peut-être davantage », pendant un Silence : il savait se ranger le visage mieux qu'un Lunarien de naissance et n'a pas dit d'où il venait. Aldric Valthen a précédé son fils ici aussi — sans qu'on sache s'il fuyait ou choisissait.",
+   "sujet": "Aldric Valthen",
+   "personnages": [
+    "Sorin Valthen",
+    "Solvanes"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 28,
+   "jour": 700,
+   "type": "evenement",
+   "titre": "Le gant noir sur la place — Vels Draye à Lunaris",
+   "detail": "L'appareil resserre son filet sur Lunaris : trois postes fixes, un mobile, un silence qui se déplace. Le onzième jour, Vels Draye traverse la place basse, main gauche gantée de cuir noir en saison douce, sans un regard pour Sorin — le gant parle à sa place.",
+   "sujet": "Vels Draye",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 28,
+   "jour": 702,
+   "type": "evenement",
+   "titre": "L'évasion du Silence — « J'ai porté ce que vous portez »",
+   "detail": "La première nuit du Silence, quais vides, Sorin passe masqué parmi les sans-nom : Vels Draye, visage nu, ne peut saisir personne sans dresser Lunasar contre l'appareil. Au ponton, le tueur parle : « Votre père a dit exactement cela, une fois. […] J'ai porté ce que vous portez. On me l'a fait lâcher — et le monde ne s'est pas écroulé. » Sorin embarque vers Caeloria sans que personne meure à Lunaris — « la première fois depuis longtemps ». Sera garde son erreur : l'homme sans danger.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Vels Draye"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 29,
+   "annee_sillage": -450,
+   "type": "fondation",
+   "titre": "Promulgation de l'Édit de Celestia",
+   "detail": "Gravé en stellarite à l'entrée de la grotte thermale de Vyntheris, l'Édit de Celestia — vieux de sept siècles au passage de Sorin Valthen, promulgué bien avant le Sillage — réserve les charges sacrées (agents du Conclave, Veilleurs, gardiens des archives) aux seuls Liés documentés, ouvre aux Déliés les métiers privés et leur ferme la lecture des étoiles.",
+   "sujet": "Caeloria"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 29,
+   "annee_sillage": 244,
+   "type": "evenement",
+   "titre": "Dernier durcissement de l'Édit de Celestia",
+   "detail": "Six ans avant le passage de Sorin, le Conclave grave la plus récente « précision » d'une longue suite de durcissements de l'Édit de Celestia — exactement au moment où les naissances d'enfants aux yeux blancs se multiplient et où les corrections d'étoiles cessent d'être des corrections. « La coïncidence des chiffres est un fait ; l'histoire qu'on leur fait raconter n'en est pas un. »",
+   "sujet": "Caeloria"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 29,
+   "jour": 715,
+   "type": "voyage",
+   "titre": "Arrivée en Caeloria — Frostlin puis Vyntheris",
+   "detail": "Vingt-deux jours de mer ouverte depuis Lunasar amènent Sorin Valthen à Frostlin, corniche de glace de Caeloria, puis à Vyntheris, la ville-falaise qui élit ses chefs à la lecture du ciel. Le cap est Baelor : on ne double pas l'Île du Silence sans la brume et sans le Conclave — la coque doublée de Terec ne passe qu'au vent du nord-est, un jour sur trois, et seulement avec le sceau du Conclave sur son nom.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 29,
+   "jour": 717,
+   "type": "evenement",
+   "titre": "Ilve, la Bénie des Cieux — « vous êtes comme un mur »",
+   "detail": "Chez le tailleur de stellarite Ardem, Sorin rencontre Ilve, huit ans, yeux blancs et voyants, confirmée « Bénie des Cieux » par le Conclave à la naissance. Elle lui dit : « Vous portez quelque chose… Ce n'est pas encore à vous. Vous avez de l'épaisseur. Les gens ordinaires, je les vois presque à travers. Vous, non. » Un médecin de Silvaris a trouvé chez plusieurs de ces enfants la même particularité de l'attache du nerf, derrière l'œil — un fait d'anatomie, pas un prodige.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 29,
+   "jour": 719,
+   "type": "evenement",
+   "titre": "L'audience du Cardinal-Élu — « Je scelle, c'est ma miséricorde »",
+   "detail": "Le Cardinal-Élu de Caeloria reçoit Sorin : ses colonnes d'étoiles montrent que depuis six ans les corrections ne sont plus des corrections. Il révèle que des lettres « qui ne passent pas par les canaux ordinaires, d'institutions qui n'ont pas de nom sur les portes » le pressent de livrer les enfants aux yeux blancs — les appareils se parlent. Caeloria ne les efface pas : elle les inscrit sur des registres que le monde ordinaire ne sait pas lire, et scelle derrière eux. Il accorde à Sorin la bande de stellarite qui ouvre le passage vers Baeloris : « Allez voir votre blanc, cartographe. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 29,
+   "jour": 722,
+   "type": "voyage",
+   "titre": "Départ vers Baeloris — « la corde tire vers le bas »",
+   "detail": "Au vent du nord-est promis par les registres du ciel, Sorin embarque avec Terec vers l'Île du Silence. Sur le seuil, Ilve lui a donné l'adieu des percevants : « Vous partez vers le creux. L'endroit où la corde tire. Elle tirait dans un sens, avant. Maintenant elle tire vers le bas. Vous le sentez aussi. Vous faites semblant de ne pas le sentir. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 30,
+   "jour": 725,
+   "type": "mort",
+   "titre": "Mort d'Ossian, le frère qui écoutait la roche",
+   "detail": "Ossian, moine de Kethros qui notait ce que dit le dessous et avait commencé à en écrire la langue, meurt dans son sommeil, sans un bruit, onze jours avant que Sorin Valthen n'accoste — parti vers un homme qui mourait déjà pendant qu'il s'embarquait. Sa dernière parole, dite à la roche : « Il remonte. » Un gardien de savoir de plus atteint trop tard, sur une île que les notifications n'atteignent pas.",
+   "sujet": "Ossian",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 30,
+   "jour": 736,
+   "type": "voyage",
+   "titre": "Accostage à Baeloris — le silence mesurable",
+   "detail": "Après dix-huit jours de brume depuis Caeloria, le vent tourne au nord-est et les falaises noires de Baelor sortent du Voile. Sur cette côte, le silence est un fait mesurable — et sous la paume posée au bordage, la pulsation : faible, régulière, la même qu'à Cendra. Baeloris est sur le même réseau. Le capitaine haldrien dépose Sorin sans l'attendre : « Vous ressortez au prochain vent de nord-est, ou vous ne ressortez pas. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 30,
+   "jour": 737,
+   "type": "evenement",
+   "titre": "La paroi gravée d'Ossian — la troisième langue sous la dictée",
+   "detail": "Dans la cellule profonde d'Ossian, des signes serrés, repris, regravés : la même famille que les tunnels de Rukhsar et les relevés de Mirathi. La langue est montée de la roche nuit après nuit et il l'a recopiée sous la dictée. « Les derniers temps, il ne dormait plus. Il disait que ça s'était accéléré. Que ce qui parlait dans la roche parlait plus vite qu'avant. » Les hameaux de Tholmë chantent encore l'oublié qui remonte — le Sixième qui dort. Sorin relève la paroi entière.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Ossian"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 30,
+   "jour": 739,
+   "type": "evenement",
+   "titre": "Le cercle de Kethros — trois peuples tournés vers le même dessous",
+   "detail": "Au cercle de méditation, dans la roche la plus froide, Sorin reconnaît la fréquence fondamentale qu'il porte depuis Rukhsar. Baelor est le seul continent où l'éther ne circule pas : ce n'est pas le sol qui diffère, c'est que la couche de surface manque — on entend, direct, ce qui est dessous. Mirathi rêve, Caeloria voit, Baeloris se tait pour entendre : trois pratiques, trois vocabulaires, tous tournés vers le même dessous, comme des aiguilles qui pointent le même nord sans s'être concertées.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 30,
+   "jour": 744,
+   "type": "evenement",
+   "titre": "Le mot de Kethron VI : « Dessous »",
+   "detail": "Dans la Salle du Silence ouverte sur le ciel, l'Abbé Suprême Kethron VI — qui n'a pas prononcé un mot depuis sa jeunesse — écrit pour Sorin un unique mot, dans la langue du cartographe pour ne pas le forcer à déchiffrer : « Dessous. » Une pièce gardée toute une vie, dépensée pour un étranger. Sorin le porte plié contre la poitrine, à même la peau.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Kethron VI"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 30,
+   "jour": 748,
+   "type": "evenement",
+   "titre": "Le moine du quai rompt son silence — jour 748 depuis Rukhsar",
+   "detail": "À mi-pente du chemin du port, le vieux moine dépense des décennies de silence en trois phrases : « Vous n'êtes pas venu apprendre le silence. Vous êtes venu voir s'il tiendrait. Ce que vous portez, vous ne le portez pas pour le comprendre. Vous le portez pour qu'il ne meure pas le jour où vous mourrez. » Le carnet d'Aldric porte une côte de falaises noires tracée d'une main qui tremble : le père a longé ces marges une génération plus tôt, puis reculé à un seuil. Au journal : « Jour 748. Baelor. Reçu un mot. Posé un nom. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 31,
+   "annee_sillage": 247,
+   "type": "evenement",
+   "titre": "Réouverture du chenal du grand nord",
+   "detail": "Trois hivers avant le passage de Sorin, une eau libre se rouvre au-delà du soixantième parallèle, là où la banquise fermait tout « depuis plus longtemps que les grands-pères des grands-pères ». Les vieux de Baeloris en parlent bas : les anciennes routes se rouvrent, au sud aussi des passages perdus se remettent à respirer. « Une route perdue qui se rouvre, ce n'est pas une route qu'on gagne. C'est une porte qu'on avait fermée pour une raison. »",
+   "sujet": "Baelor"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 31,
+   "jour": 752,
+   "type": "voyage",
+   "titre": "Le départ à la troisième cloche — la couture de la surveillance",
+   "detail": "Quatre nuits durant, Sorin lit le guetteur que l'appareil a posté sur le môle de Baeloris, et embarque sur la Vessine de Yorven Halt à l'instant exact de la relève — « l'appareil ne dort pas, mais il se relève, et un homme qui se relève tourne un instant le dos à la porte » (carnet d'Aldric Valthen, feuillet des marges, écrit vingt ans plus tôt avant de monter au nord et de ne pas redescendre). La coque double celethorienne sort à la gaffe dans le Voile.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 31,
+   "jour": 764,
+   "type": "evenement",
+   "titre": "Les étoiles hors de leurs tables au douzième jour de mer",
+   "detail": "Dans le grand nord, la Couronne et le Voyageur ne sont plus où les tables les donnent — un écart trop grand pour les instruments et trop constant pour une erreur d'instruments. Sorin relève, date, et laisse « à ceux qui sauront, s'il en reste, ce que cela pesait ».",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 31,
+   "jour": 767,
+   "type": "evenement",
+   "titre": "« La route se rouvre par le sud et se referme par le nord. Comme une bouche. »",
+   "detail": "Yorven Halt constate que le chenal libre, large de deux lieues à chacun de ses trois passages, n'en fait plus qu'une et se referme d'un jour sur l'autre. La glace n'est pas à sa place : la route s'ouvre par le sud et se ferme par le nord, en même temps. Les hommes chantent la nuit contre la glace « pour bercer une chose qu'il ne fallait pas réveiller ».",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 31,
+   "jour": 769,
+   "type": "evenement",
+   "titre": "La glace prend la coque de Vels Draye — la traque s'arrête",
+   "detail": "Au plus étroit du goulet, la coque fine du limier mord la glace là où la Vessine doublée se laisse soulever. Par-dessus l'eau qui se ferme, Vels Draye parle : « On ne suit pas un homme comme vous jusqu'au bout. On le suit jusqu'où l'on peut. […] J'ai porté quelque chose de trop grand, moi aussi, une fois. On me l'a retiré, et on m'a gardé pour retirer aux autres. » La traque s'arrête au nord de la dernière lettre, là où l'appareil ne suit plus que ses propres routes.",
+   "sujet": "Vels Draye",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 31,
+   "jour": 771,
+   "type": "voyage",
+   "titre": "Cap sur les îles glacées de Celethor",
+   "detail": "La Vessine trouve l'eau libre du grand large. Devant : Celethor, où un homme trop haut placé pour être facilement effacé tient, dit-on, des mesures de la trame du monde. Sorin lève la côte du nord ligne à ligne, sur une page où personne ne l'avait jamais tracée.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 32,
+   "annee_sillage": 243,
+   "type": "evenement",
+   "titre": "Varennis rompt avec le Conseil des sept d'Astravia",
+   "detail": "Sept ans avant le passage de Sorin, l'archimage Varennis quitte le Conseil des sept — une rupture portant sur ce qui bat sous les mines, que les six autres choisissent de ne pas nommer. « Nommer une chose, pour un archimage d'Astravia, c'est lui donner une existence que le silence peut encore refuser. »",
+   "sujet": "Varennis"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 32,
+   "jour": 790,
+   "type": "voyage",
+   "titre": "Arrivée à Invernis, sous les îles flottantes",
+   "detail": "La Vessine dépose Sorin dans une rade que la glace ne libère que quatre mois par an. Au-dessus d'Invernis, une douzaine d'îles flottent sous leur lueur bleue — mais les grues du port se manœuvrent à bras, et les lampes de cristal sont « en réparation » : des chandelles brûlent au cœur de la cité qui avait fait de la lumière son orgueil. La source qui porte les îles coûte trop cher ; les réserves fondent. « Les absences disent souvent davantage que les présences. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 32,
+   "jour": 793,
+   "type": "evenement",
+   "titre": "L'aiguille qui compte — la tension de la trame mesurée en chiffres",
+   "detail": "Sur son île-observatoire, Varennis montre à Sorin l'aiguille qui marque la tension de la trame : elle dérive comme une boussole dont le nord se déplace. Son registre de quarante ans porte la même valeur répétée pendant des années — puis les écarts qui prenaient dix ans en prennent un seul, puis une saison. La même courbe que Sorin porte, dressée aux marges chez ceux qui sentent sans mesurer. « Une erreur, on la corrige. Une concordance, on la subit. » Le Conseil, lui, préfère « une aiguille folle à une aiguille qui compte ».",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Varennis"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 32,
+   "jour": 795,
+   "type": "evenement",
+   "titre": "La marque sous Galdryn — « c'est sous toutes les mines »",
+   "detail": "Sous le troisième niveau d'extraction de Galdryn, où l'art se retourne contre lui-même, Sorin — Délié, sans signature à retourner — descend seul à la lanterne à huile. Parois lissées « ordonnées, contraintes d'en bas », tiédeur qui bat à un rythme beaucoup plus lent que Cendra, cavité aux cristaux presque noirs, et au sol une marque : un cercle d'un mètre où écriture et carte se confondent, de la même famille que Rukhsar, orienté — selon la lecture de Sorin — vers le nord, au-delà de Celethor. Verdict de Varennis : « C'est sous toutes les mines. Pas seulement celle-ci. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Varennis"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 32,
+   "jour": 796,
+   "type": "evenement",
+   "titre": "Le relevé signé de Varennis — un témoin qu'on ne fait pas taire",
+   "detail": "À la demande de Sorin, Varennis met par écrit, date et signe ce que ses instruments ont relevé : « La trame se modifie. On peut le mesurer, on ne peut pas encore le nommer. » On efface un mineur, un berger, un traducteur de province — on n'efface pas un archimage, même déchu, sans que la question monte. Sorin est venu chercher un nom trop lourd à supprimer : son premier témoin de premier rang.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Varennis"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 32,
+   "jour": 800,
+   "type": "voyage",
+   "titre": "Jour 800 — départ vers le nord de Celethor",
+   "detail": "Au matin du huit centième jour, Sorin quitte Invernis vers la crique du nord « où l'on dit qu'aucune expédition intérieure n'est jamais revenue complète ». Dans sa poche, le relevé signé ; dans ses cahiers, le dessin d'une marque « dont je crois reconnaître l'intention — et cette intention ressemble à la mienne, ce qui devrait m'inquiéter, et ne m'inquiète pas ».",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 33,
+   "annee_sillage": 243,
+   "type": "evenement",
+   "titre": "L'expédition altram au Mont Jumeau — sept sur vingt",
+   "detail": "Vingt personnes partent de Noravia vers le glacier central ; treize reviennent. Le journal officieux de la géologue en chef Aldris Vane consigne : aiguilles tournant en cercles « comme si plusieurs pôles existaient à la fois », gradient thermique impossible (« quelque chose chauffe la base du glacier par en dessous »), pulsation sentie dans les os par cinq membres — et la dernière ligne : « Les structures sont visibles depuis le surplomb nord. Ce ne sont pas des formations naturelles. » Quatre morts en crevasse ; trois disparus dont les dernières traces vont vers la montagne.",
+   "sujet": "Cestra"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 33,
+   "annee_sillage": 245,
+   "type": "mort",
+   "titre": "Mort d'Aldris Vane",
+   "detail": "Deux ans après son retour du glacier central, la géologue en chef de l'expédition altram meurt à Solmaris — « une fièvre », dit-on, de celles qui prennent plus tard les gens qui reviennent de l'intérieur. Elle n'avait plus jamais rien écrit sur le sujet après ses trois dernières lignes.",
+   "sujet": "Aldris Vane"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 33,
+   "annee_sillage": 230,
+   "type": "voyage",
+   "titre": "Aldric Valthen monte seul vers le glacier central",
+   "detail": "Vingt ans avant son fils, un homme de Galenor aux « mains de quelqu'un qui note » — un carnet dans chaque poche — dort trois nuits chez Borela à Noravia, demande si les structures sous le glacier central ont été documentées, puis disparaît un matin vers l'intérieur, seul. « Je ne sais pas s'il est revenu de là-bas, ou s'il est passé à travers. » Sorin dort dans la même chambre du fond, vingt ans plus tard.",
+   "sujet": "Aldric Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 33,
+   "jour": 825,
+   "type": "voyage",
+   "titre": "Arrivée à Noravia, dernier port avant le glacier",
+   "detail": "Vingt-cinq jours depuis Celethor. À Noravia (Cestra), le froid est « un renseignement », les boussoles cessent de fonctionner au-delà du deuxième jour de marche — Sorin en achète deux, pour recouper leurs déviations. Les coureurs parlent du Froid Ancien qui ignore les fourrures et des Tempêtes Vivantes qui remontent le vent ; les bêtes refusent l'intérieur, comme à Ordavan et à Warenthor.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Borela"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 33,
+   "jour": 826,
+   "type": "evenement",
+   "titre": "Le témoignage d'Yrsa — « la tempête nous a suivis »",
+   "detail": "Yrsa, porteuse de la chaîne d'arpentage de Vane et dernière survivante restée à Noravia, confirme à Sorin les trois lignes du journal : les aiguilles, la chaleur, la pulsation. Et la quatrième, jamais écrite : la tempête de la descente « n'est pas venue droit sur nous. Elle nous a suivis. On l'a sentie choisir. » Les trois disparus étaient ceux qui voulaient monter toucher les structures. « La montagne prend ceux qui veulent monter. Les autres, elle les laisse redescendre pour qu'ils racontent. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Yrsa (arpenteuse)",
+    "Sethiran"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 34,
+   "jour": 843,
+   "type": "voyage",
+   "titre": "La montée vers le Jumeau — les Gardiens de Givre",
+   "detail": "Torval, l'un des treize revenus, mène Sorin à l'abri de pierre bâti jadis par l'homme de Galenor. Sur une crête, trois Gardiens de Givre — silhouettes laiteuses de trois mètres, immobiles là depuis sept ans, depuis vingt ans — qu'on passe « en les reconnaissant ». Torval révèle la vérité des sept : « Ils ne sont pas morts de froid. Ils se sont levés dans la nuit et ils ont marché vers la montagne comme on répond à quelqu'un qui appelle. Chacun a cru que ce battement le connaissait. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 34,
+   "jour": 845,
+   "type": "evenement",
+   "titre": "Jour 845 — les structures sous le glacier central",
+   "detail": "Du surplomb nord, Sorin voit sous la glace : des bâtiments aux angles droits, des travées régulières — des rues qui descendent —, et sur les murs des signes en pierre noire de la même famille que Kharazir, Mirathi et Astravia, continuant vers le fond « comme la dernière ligne d'une page dont tout le reste s'enfonce ». Au coucher du soleil, la pulsation : un battement toutes les trente secondes, même cadence que le Mont Cendra au seul ressenti. Les flèches convergent ici — les galeries de Kharazir, le carnet d'Aldric, le mot de Baelor. Sorin barre son propre raisonnement : « La barre vaut mieux que la phrase. » La nuit, la main sur la roche : la chose « aurait battu de la même façon s'il n'était jamais monté ». Il dort, et ne se lève pas.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 34,
+   "jour": 847,
+   "type": "evenement",
+   "titre": "Le mot d'Aldric : « Le réseau est réel. Le portail est sous Jumeau. »",
+   "detail": "De retour à Noravia, Borela remet à Sorin la feuille que l'homme de Galenor a laissée vingt ans plus tôt — « on ne donne pas ça à un homme qu'on n'est pas sûr de revoir ». Deux lignes de la main d'Aldric Valthen : « Le réseau est réel. Le portail est sous Jumeau. » Et dessous : « Si tu lis ceci, tu as fait le même chemin. Tu es prêt. » Non un adieu : une passation. Sorin la plie contre sa poitrine, à côté du mot de Baelor.",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Aldric Valthen",
+    "Borela"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 34,
+   "jour": 848,
+   "type": "voyage",
+   "titre": "Demi-tour au point le plus nord — cap au sud",
+   "detail": "Le terme de la route touchée — « le point le plus au nord où la terre cesse et où la carte devient un aveu » — Sorin repart vers le sud, vers la mer, vers les routes qu'on dit rouvertes et les dépôts que personne ne sait attendre : « faire en sorte que rien de ce que j'ai relevé ne meure avec moi ».",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 35,
+   "annee_sillage": 220,
+   "type": "evenement",
+   "titre": "Premières anomalies magnétiques autour de Cestra",
+   "detail": "Le grand-père de Reen a navigué du temps où les aiguilles ne déviaient pas : les anomalies commencent une trentaine d'années avant le présent narratif — d'abord autour de Cestra, puis la haute mer du nord, puis des parages qui n'avaient jamais posé de problème.",
+   "sujet": "Cestra"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 35,
+   "jour": 865,
+   "type": "evenement",
+   "titre": "La carte des liens — cinq faits, six lectures",
+   "detail": "En mer entre Cestra et Galenor, Sorin dresse pour la première fois en un seul endroit sa carte des liens. Les cinq faits : Cendra pulse ; le Jumeau bat à la cadence exacte de Cendra ; le réseau n'est pas local (Kharazir, le glacier, le sol vitrifié d'Ordavan, les anomalies de haute mer forment des lignes) ; les esprits se retirent depuis sept ou huit ans — « ils ne fuient pas ce qui est dangereux, ils fuient ce qui est plus vaste qu'eux » ; les inscriptions convergent en une même famille d'écriture. De l'autre côté de la marge, six lectures (Navigor, l'astre absent, l'éveil, la trame…) qu'il refuse de couronner. Et sa relecture : la distinction Lié/Délié serait mal lue — la marque des Déliés serait une perméabilité aux couches profondes.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 35,
+   "jour": 867,
+   "type": "evenement",
+   "titre": "Le plan des dépôts — Prismalith, Omarin, le semis",
+   "detail": "Sorin organise la survie de sa carte : les dix-sept cahiers originaux iront à Prismalith, déposés devant le Tribunal — « un document déposé ne se rappelle plus » ; cinq cahiers d'épine (dates, concordances, renvois) iront à Omarin de Velithis ; règle de convoyeur : trois copies pour un original, jamais deux sur la même route ; et un semis de feuillets prévu chez les relais de Galenor. « Le jour où ce que je sais est en dix endroits, ma personne cesse d'avoir de la valeur — c'est la seule sûreté que j'aie jamais cherchée. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 35,
+   "jour": 869,
+   "type": "evenement",
+   "titre": "« Le fond change » — les routes perdues se rouvrent",
+   "detail": "Les vieux marins le constatent sans l'expliquer : les courants profonds et les températures de fond ne sont plus les mêmes — pas assez pour que les instruments l'affirment, assez pour que des routes séculaires cessent de porter et que des routes perdues recommencent à se rouvrir. Et l'avertissement du matelot : « Une route qui rouvre n'est pas toujours une invitation. Parfois c'est une voie d'eau dans une coque. Ça s'ouvre aussi. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Reen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 35,
+   "jour": 870,
+   "type": "evenement",
+   "titre": "L'étoile absente de la Proue",
+   "detail": "En haute mer, Sorin cherche l'étoile que les vieux textes de l'Ordo Caelum mentionnent et que les cartes du ciel ignorent : la constellation de la Proue (ou la Route) devrait porter sept feux et n'en montre que six. À la place du septième, « une inflexion, très légère, comme si la clarté rencontrait une masse que mes yeux ne pouvaient pas suivre ». Relevé noté comme un fait, sans l'astérisque des suppositions.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 36,
+   "jour": 885,
+   "type": "evenement",
+   "titre": "La dernière saisie — « on ne cherche pas une montagne dans une liste de courses »",
+   "detail": "Dans les eaux d'approche de Galenor, le cotre du bureau intercepte le cargo de Reen. Orath Dovan, consul adjoint, examine les dix-sept cahiers : il n'y trouve que le prix du sel, la cuisine des mineurs, le nom des vents — la vérité la plus lourde posée « entre une recette de soupe et le tarif d'un passeur », lue à voix haute sans être reconnue. « À qui avez-vous montré ceci ? — À personne. » (Exact : les seize doubles semés sur le fleuve d'Onar attendent, jamais ouverts.) « Ce sont les seuls que j'aie sur moi. » Dovan entend l'absence — et ne peut rien prendre : « Je ne suis pas payé pour ce que je sais. Je suis payé pour ce qui se saisit. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Orath Dovan",
+    "Reen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 36,
+   "jour": 885,
+   "type": "evenement",
+   "titre": "La notification Valthen classée — l'appareil signe l'innocence",
+   "detail": "Orath Dovan annonce le rapport qu'il rédigera : navire en règle, dix-sept cahiers manuscrits « sans portée institutionnelle », rien de saisissable, notification classée faute d'objet. L'appareil qui a effacé Aldric signera de sa propre main le certificat d'innocuité du fils : « Il n'y a pas de meilleure couverture qu'un ennemi qui vous déclare inoffensif dans ses propres archives. » « Bonne route jusqu'à Prismalith. J'ai idée que vous y arriverez avant moi, et que ce sera, encore une fois, trop tard pour ce que je représente. »",
+   "sujet": "Orath Dovan",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 36,
+   "jour": 886,
+   "type": "voyage",
+   "titre": "Retour à Galenor — la terre du tissu jaune",
+   "detail": "Au crépuscule, après huit cent quatre-vingt-cinq jours et douze continents, Sorin débarque à Galenor, « le pays qui m'avait marqué au tissu jaune et poussé dehors, et qui n'avait pas idée de ce que je rapportais dans un sac de toile ». Restent deux dépôts : Prismalith, où la chose se divisera une fois de plus — puis, plus loin, chez un vieil ami, derrière une porte peinte en bleu et des murs peints en jaune.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 37,
+   "annee_sillage": 220,
+   "type": "evenement",
+   "titre": "La plongée du père de Selendris dans les strates profondes",
+   "detail": "Le père de Selendris, plongeur du Somnium Vigil, descend d'un coup dans les strates oniriques profondes — sans paliers — et n'en remonte jamais : le corps respire encore quelque part sous l'Académie, l'homme non. Trente ans durant, sa fille tient un registre secret des mots qu'il murmure en dormant : des coordonnées, toujours les mêmes à la fin — elles désignent un point dans le nord de Cestra.",
+   "sujet": "Selendris"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 37,
+   "jour": 890,
+   "type": "voyage",
+   "titre": "Retour à Prismalith — la ville n'a pas changé, l'homme si",
+   "detail": "Sorin Valthen rentre à Prismalith avec ses dix-sept cahiers et une synthèse de vingt pages : les quatre mystères, l'hypothèse d'une famille d'écritures pré-Arrachement, celle de constructions reliées sous les continents, et les lectures concurrentes — aucune couronnée. La bibliothécaire Ysolde vérifie ses appuis deux heures durant : « Vous écrivez comme quelqu'un qui s'attend à être contredit. — C'est ce que je veux. Un relevé qu'on ne peut pas contester n'a pas été vérifié, il a été cru. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Ysolde"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 37,
+   "jour": 893,
+   "type": "evenement",
+   "titre": "Les coordonnées du dormeur recoupées — le Mont Jumeau",
+   "detail": "Selendris confronte son registre secret aux cahiers de Sorin : les coordonnées que son père murmure depuis trente ans tombent aux abords du Mont Jumeau — « le même point, daté, trois fois, sous trois écritures différentes ». « Vous m'apportez la preuve que mon père ne délirait pas. […] C'est justement parce que vous ne prouvez rien que je vous crois. Les hommes qui prouvent trop cachent la couture. »",
+   "sujet": "Selendris",
+   "personnages": [
+    "Sorin Valthen"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 37,
+   "jour": 895,
+   "type": "evenement",
+   "titre": "L'audience du Tribunal de Lumasar — « conservez, ne validez pas »",
+   "detail": "Devant les sept du Tribunal de Lumasar — dont le Grand Recteur Thalendris Prismor —, Sorin dépose ses dix-sept cahiers. L'expert en civilisations pré-Arrachement énonce la consigne tacite : « Tout ce qui touche aux Déliés d'avant l'Arrachement se classe, s'écarte, se tait. Écrit nulle part, appliqué partout. » Réponse de Sorin : « Je ne demande pas que vous validiez. Je demande que vous conserviez. Une thèse validée peut être invalidée d'un trait de plume. Un dépôt, non. » Décision : cahiers copiés et conservés aux archives de Prismalith, équipes de vérification, commission de recherche sur Navigor. « C'est cette page qui me décide : un faussaire aurait conclu. Lui laisse la question ouverte. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Thalendris"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 37,
+   "jour": 895,
+   "type": "evenement",
+   "titre": "L'homme au manteau gris, un jour trop tard",
+   "detail": "Le matin de l'audience, un homme en manteau gris se présente aux archives « au nom d'un bureau des Relations Académiques Extérieures » et demande si un cartographe de Kharazir a déposé des papiers. Ysolde répond qu'elle ne sait pas de quoi il parle — presque vrai : les originaux sont déjà chez le copiste, la première main dort dans une autre ville. « On ne saisit pas ce qui s'est déjà multiplié. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Ysolde"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 37,
+   "jour": 897,
+   "type": "voyage",
+   "titre": "La route de Kharazir — le point devenu position",
+   "detail": "« Un point relevé par un seul homme reste une conjecture ; le même point relevé par trois mains qui s'ignorent devient une position. On ne triangule pas pour être cru sur parole. On triangule pour que la parole ne soit plus nécessaire. » La troisième main posée à Prismalith, Sorin prend au matin la route de Kharazir — là où tout a commencé.",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 38,
+   "annee_sillage": 245,
+   "type": "evenement",
+   "titre": "Le séisme du huitième pilier de Rukhsar",
+   "detail": "Six ans avant le retour de Sorin, un tremblement de terre découvre sous la place centrale de Rukhsar une inscription — le huitième pilier. Le Conseil la fait recouvrir. En l'an 251 elle est revenue : elle brille d'une lueur bleue, les dalles neuves ont disparu la nuit suivante, et les gardes postés « ne regardent pas le sol ». Lecture qu'en donne Omarin, rapprochée de Cestra et de Kharazir : « Nous étions huit. Le huitième peuple se souvient. Et il remonte. »",
+   "sujet": "Rukhsar"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 38,
+   "annee_sillage": 252,
+   "type": "evenement",
+   "titre": "La copie du dépôt Valthen aux Archives de Prismalith",
+   "detail": "L'année qui suit le dépôt, les Archives de l'Académie établissent, sur instruction du Tribunal et avec l'aide de l'archiviste Ysolde, la copie des dix-sept cahiers de Sorin Valthen — ratures, notes de marge et hésitations comprises ; les pages blanches du dix-septième « reproduites comme blanches, à la demande de l'auteur ». Une seconde copie est remise à Omarin de Velithis, herboriste à Rukhsar. « Le copiste n'a rien à ajouter. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Omarin de Velithis"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 38,
+   "jour": 910,
+   "type": "voyage",
+   "titre": "Jour 910 — retour à Kharazir",
+   "detail": "Neuf cent dix jours après avoir tourné le dos aux murs jaunes sans se retourner, Sorin Valthen rentre à Kharazir. Sous les collines de Hiliara, son père avait trouvé une génération plus tôt les mêmes marques que celles de Rukhsar : « Le tour du monde, je l'avais fait pour retrouver, à quelques lieues de ma ville natale, une inscription qu'un Valthen avait déchiffrée avant moi. Le plus long des voyages ramène parfois à la porte voisine. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 38,
+   "jour": 910,
+   "type": "evenement",
+   "titre": "Le Kharaz d'Omarin — « appelle-la charge »",
+   "detail": "Autour du plat communautaire de Kharazir, Sorin remet sa synthèse à Omarin de Velithis et fait le compte des morts qui jalonnent sa route : Morvath le traducteur, Naïm de Prismalith, l'agronome de Sylthara, Aldris Vane. « Beaucoup de gens meurent autour de toi, Sorin. — Je voyage parmi les gens qui gardent ce genre de savoir. C'est le savoir qu'on efface. » Et la correction d'Omarin, adoptée : « Ne l'appelle pas vérité trop vite. Appelle-la charge. Une charge se porte à plusieurs sans devenir un dogme. Une vérité, les hommes se battent aussitôt pour savoir qui la possède. »",
+   "sujet": "Sorin Valthen",
+   "personnages": [
+    "Omarin de Velithis"
+   ]
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 38,
+   "jour": 911,
+   "type": "evenement",
+   "titre": "La pulsation sous la dalle scellée",
+   "detail": "Aux tunnels que Sorin avait signalés jadis — scellés par le Conseil de Kharazir « pendant la durée de l'enquête préliminaire », jamais conclue —, la main posée sur la dalle retrouve la cadence : la même qu'à Cendra, la même qu'au Jumeau, au seul ressenti. « De quoi formuler une hypothèse de réseau, pas de quoi la prouver. » Écrite cette fois sans astérisque : la cohérence de la sensation à travers dix-sept cahiers et neuf cent dix jours est elle-même une donnée. « Peut-être qu'ils ne craignent pas la pierre. Peut-être qu'ils craignent qu'on la regarde. »",
+   "sujet": "Sorin Valthen"
+  },
+  {
+   "oeuvre": "chroniques",
+   "chapitre": 38,
+   "jour": 917,
+   "type": "evenement",
+   "titre": "Les tissus jaunes posés sur la pierre de la Porte d'Azur",
+   "detail": "Au septième matin, devant la Porte d'Azur de Rukhsar, Sorin dénoue son tissu jaune de Délié et le pose sur la pierre : « Je suis Sorin Valthen. Cartographe de Kharazir. Fils d'Aldric Valthen. Délié. J'entre dans ma ville. » Les trois Déliés de l'ombre de l'arc dénouent les leurs à sa suite. Le garde plie les quatre morceaux, les glisse dans sa poche et dit : « Passez. » Aucune loi n'a changé — mais « une règle venait de manquer son geste. C'est peut-être ainsi que les murs commencent à tomber : par une pierre qui cesse d'obéir à la forme qu'on lui a donnée. »",
+   "sujet": "Sorin Valthen"
+  }
+ ],
+ "personnes": [
+  {
+   "nom": "Ourven",
+   "resume": "Dernier veilleur de Thalenvir (Evertia), seul encore capable d'entendre les esprits profonds ; trouvé mort au pied de son arbre-siège la veille de l'arrivée de Sorin Valthen, une semaine après le passage d'un étranger entré sans porte."
+  },
+  {
+   "nom": "Wenna Corth",
+   "resume": "Femme de Solena, veuve d'un capitaine, installée à Valmora ; elle tient le courrier des marges pour la moitié des ports du sud-ouest et relaie les cahiers de Sorin Valthen — jusqu'à ce qu'il la « sorte » pour la protéger."
+  },
+  {
+   "nom": "Hesken",
+   "resume": "Consignataire des vérifications de cargaison au service de l'appareil ; à Valmora, il ne cherche pas l'homme mais compte ses cahiers — onze pleins, un en cours — préparant la saisie qui doit attendre Sorin au bout de sa route."
+  },
+  {
+   "nom": "Yrsa (arpenteuse)",
+   "resume": "Porteuse de la chaîne d'arpentage d'Aldris Vane lors de l'expédition altram au Mont Jumeau ; l'une des treize revenues (deux doigts pris par le froid), restée à Noravia dans la maison sans fumée, tournée vers l'intérieur des terres."
+  },
+  {
+   "nom": "Sethis Karn",
+   "resume": "Vieux copiste de la Guilde à Kelanor ; il recopie les relevés des tunnels de Sorin Valthen sans registre et sans nom, et scelle la copie entre deux planches — première pierre de la dispersion."
+  },
+  {
+   "nom": "Renk",
+   "resume": "Porteur de la chaîne des porteurs ; après que Sorin lui a dit sa tache — exil, tissu jaune, titres repris —, il accepte de porter pour lui : « un exilé n'a personne à qui me vendre. »"
+  },
+  {
+   "nom": "Aldemer Voss",
+   "resume": "Vieux naturaliste de Valoria « qui écrit sur ce qui bouge dans le sol » ; porté sur les mêmes listes que Sorin, il est mis en terre à Astraneth douze jours avant le passage du cartographe — « le cœur, ou l'âge ; personne n'a réclamé qu'on grave la cause. »"
+  },
+  {
+   "nom": "Orsenne",
+   "resume": "Courtière de Vyndralith ; elle montre à Sorin la notification descendue de Prismalith via Lumasar et le tarif de signalement mis sur sa route et ses contacts — « on chiffre les choses qui ont une valeur. »"
+  },
+  {
+   "nom": "Torhal",
+   "resume": "Graveur du cercle de Kaeldrun ; ses genoux sentent le sol battre depuis trois ans, ses relevés alignent trois dalles gravées d'une écriture d'avant les clans. Trouvé mort près de sa dalle la nuit même où il a tout confié à Sorin Valthen."
+  },
+  {
+   "nom": "Lisel Morvaine",
+   "resume": "Prêtresse-juriste de la Lex Petra ; surprenant Sorin à mesurer de nuit, elle choisit de ne pas consigner : « il vaut mieux que cela existe quelque part où l'on ne pourra pas le rappeler d'une lettre. »"
+  },
+  {
+   "nom": "Corven Asheld",
+   "resume": "Maître-artisan de Trelios ; au départ de Sorin, il lui donne un compas d'acier royal forgé à la Première Forge — « J'en avais un en trop. Certaines coïncidences méritent qu'on les laisse en silence. »"
+  },
+  {
+   "nom": "Vessane",
+   "resume": "Astronome du Second Observatoire d'Haldria ; elle documente les étoiles occluses — vingt-trois ombres confirmées devant les étoiles fixes, groupées dans la Couronne, le Voyageur et le Manteau."
+  },
+  {
+   "nom": "Halen",
+   "resume": "Écrivain des manifestes du quai quatre d'Hekorinth ; il dispersait les cahiers de Sorin parmi les caisses d'Ilthara, avant d'être repêché contre les récifs."
+  },
+  {
+   "nom": "Ossian",
+   "resume": "Moine de Kethros (Baeloris) qui écoutait la roche et avait commencé à écrire la langue du dessous, gravée nuit après nuit sur la paroi de sa cellule ; mort dans son sommeil sur sa dernière parole : « Il remonte. »"
+  }
+ ]
+}

@@ -133,6 +133,40 @@ plein (attesté) du cercle creux (approché).
 le Schisme de la Septième, la révélation de Yelthari, une convention des
 ermites-astronomes) : le corpus ne dit rien, même indirectement. À écrire.
 
+### Passe 3 (2026-08-26) — le récit versé au graphe (les 38 Chroniques)
+
+Les Chroniques de l'Exilé (5 actes, 910 jours) n'existaient dans le graphe
+que par leurs personnages : **aucun événement narratif** n'y figurait. Les 38
+chapitres ont été relus et 189 événements en ont été extraits dans
+`data/evenements-recit.json` (fichier relisible/corrigeable à la main), puis
+versés par `scripts/injecter-recit.js` (idempotent, clé `oeuvre:chapitre:titre`).
+
+- **Ancrage temporel** (bible v2, §4.0bis) : départ fin an 248, retour jour
+  910 au début de l'an 251 → `an(jour) = 248 + ⌊(305 + jour − 1)/365⌋`,
+  toutes dates *circa/estimation*, calendrier tagué `sillage`.
+- **Au-delà du voyage** : ~40 jalons hors-itinéraire datés par le texte
+  (disparition d'Aldric, éveil de Velathor, réouverture du chenal du nord an
+  247, expédition altram an 243, anomalies magnétiques de Cestra an ~220,
+  plongée du père de Selendris an ~220, Édit de Celestia an −450…).
+- **14 personnages secondaires créés** (Ossian, Wenna Corth, Hesken, Torhal,
+  Vessane, Halen…) — déclarés dans le fichier d'événements, jamais créés
+  d'office depuis un nom non résolu.
+- Le graphe passe à **2 748 entités, 1 286 faits (1 285 datés), 3 269
+  relations** ; 766/912 personnes situées.
+
+**Contradiction du lore mise au jour — la chronologie de Noravia.**
+`Histoires/Cestra/Noravia.md` (registres du Conseil novien) date le départ
+d'Aldric de **l'an 220** et le passage de Sorin de **l'an 231** (« 12-19 du
+IIIe mois 231 », reparti « sans avoir tenté d'aller au glacier »). Les
+Chroniques v2 posent Sorin à Noravia vers **l'an 250** (jours 825-847), *qui
+monte au surplomb du Jumeau*, et un Aldric parti « il y a vingt ans »
+(~230) — mais Solvanes, à Lunasar, parle de « trente pleines saisons »
+(~220 ?). Deux faits attestés cohabitent donc sur la fiche de Sorin
+(fac-0645 : passage en 231 ; faits du récit : passage en 250). **À arbitrer
+par l'auteur** : soit Noravia.md précède la bible v2 et doit être rebasée
+(220→~230 pour Aldric, 231→250 pour Sorin, et Sorin monte bel et bien au
+glacier), soit le registre novien est volontairement faux dans la fiction.
+
 ---
 
 ## 2. Nombre de continents — 13 dans le graphe, « douze » au canon
