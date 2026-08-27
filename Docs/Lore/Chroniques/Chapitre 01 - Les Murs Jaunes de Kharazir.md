@@ -22,7 +22,7 @@ J’avais déjà mon manteau sur les épaules. Non que je comptais fuir  : la r
 
 Au second coup, j’ai ouvert.
 
-Le nom de celui qui se tenait sur le seuil, je ne l’écrirai pas. C’était un homme que j’avais longtemps tenu pour un collègue. Les tempes grises, le dos un peu rond, et entre ses mains, portés comme un plat trop chaud, les formulaires de saisie. Derrière lui patientaient trois hommes en habit de bureau. Pas des soldats  : des archivistes. On leur avait confié la besogne parce qu’entre des mains armées, elle aurait eu l’air de ce qu’elle était.
+Le nom de celui qui se tenait sur le seuil, je ne l’écrirai pas. C’était un homme que j’avais longtemps tenu pour un collègue. Les tempes grises, le dos un peu rond, et entre ses mains, portés comme un plat trop chaud, les formulaires de saisie. Derrière lui patientaient trois hommes en habit de bureau. Pas des soldats  : des archivistes. On leur avait confié la besogne pour que la saisie garde l’air d’une formalité.
 
 «  Sorin.
 — Archiviste.  »

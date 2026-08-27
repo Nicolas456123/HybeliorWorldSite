@@ -102,6 +102,15 @@ s'efface devant la scène. Concrètement :
 6. **L'élan.** Chaque scène tire vers la suivante. Couper toute glose qui
    suspend le récit pour méditer — la méditation de Sorin existe, mais brève,
    située, et rare.
+7. **La version plate gagne** (consigne explicite de l'auteur : « ne cherche
+   surtout pas de formule compliquée »). Quand deux formulations se valent —
+   l'une à pointe, à pivot, à retournement ; l'autre qui dit simplement la
+   chose —, prendre la plate, même si la pointe se « déplie » en énoncé vrai.
+   Exemple tranché sur pièce : « On leur avait confié la besogne parce
+   qu'entre des mains armées, elle aurait eu l'air de ce qu'elle était »
+   → retenu : « On leur avait confié la besogne pour que la saisie garde
+   l'air d'une formalité. » Le mordant du livre vient des scènes et du
+   sous-texte, pas des tournures.
 
 ## 3. Ce qui se GARDE (intouchable)
 
