@@ -279,6 +279,14 @@ Le §2 (nombre de continents) et les lignes Folgrad/Windora du §10 sont donc **
 
 ---
 
+## Arbitrage appliqué pendant la réécriture stylistique des Chroniques (2026-08-27)
+
+| Point | Constat | Application (réversible) |
+|---|---|---|
+| **Sexe de Reen** (capitaine, ch. 4 et 35 des Chroniques) | Le ch. 4 v1 écrivait « la capitaine Reen… elle » ; la bible v2 dit « le capitaine **Reen** [canon] » et le ch. 35 l'écrit au masculin | **Aligné sur la bible et le ch. 35 : masculin** dans le ch. 4 réécrit. Si l'auteur préfère une capitaine, c'est le ch. 35 et la bible qu'il faudra corriger. |
+
+---
+
 ## Annexe — d'où viennent ces constats
 
 - Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
