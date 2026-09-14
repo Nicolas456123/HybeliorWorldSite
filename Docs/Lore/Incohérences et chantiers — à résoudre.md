@@ -679,6 +679,11 @@ Le §2 (nombre de continents) et les lignes Folgrad/Windora du §10 sont donc **
 | **Mira « dans ma cuisine »** (ch. 26) | Contredit le ch. 1 où elle reste dans l'embrasure | Aligné sur le ch. 1. |
 | **Le mot « classer »** (ch. 10) | L'original l'attribuait à Torhal ; au ch. 6 c'est Sorin qui le prononce devant Torhal | Aligné sur le ch. 6. |
 | **Phrase relue du ch. 1** (ch. 26) | La bible fait relire « J'espère, pour elle, qu'on n'a pas remarqué son passage » comme écrite au ch. 1, où elle ne figurait pas | Semée au ch. 1 (scène de Mira). |
+| **Durée Rukhsar → Lumasar** (ch. 2) | « Onze jours de route » puis « Douze jours » dans le même chapitre ; la bible donne jour 1 → jour 14. | Relecture 2026-09-14 : **treize jours** aux deux endroits. |
+| **« Un mort »** (ch. 10) | Sorin appelait son père « un mort » ; le ch. 1 pose « Je n'écris pas qu'il est mort » (garde-fou §7). | Relecture 2026-09-14 : « un disparu ». |
+| **« Sans un mot »** (ch. 22) | Sorin dit que l'Enfant aux Yeux Blancs l'avait regardé « sans un mot » ; au ch. 20 l'Enfant lui parle longuement. | Relecture 2026-09-14 : les deux mots retirés. |
+| **Aveu précoce du plan** (ch. 26) | « j'ai déposé… pour qu'aucune main ne puisse le rappeler » énonçait la stratégie avant la bascule du ch. 27 (§2.4.4), où c'est le rapport d'Orath qui la révèle. | Relecture 2026-09-14 : le fait reste (« déposé partout où l'on voulait bien le garder »), le motif stratégique est retiré. |
+| **Présent de narration** (ch. 16-17) | Deux chapitres au présent entre des chapitres au passé. | Relecture 2026-09-14 : **conservé** — régime propre à ces deux chapitres (le flagrant délit se vit au présent), déjà dans l'original. |
 
 **Signalées pendant la même réécriture, puis tranchées le 2026-09-14 par délégation de l'auteur (« arbitre de manière logique ») :**
 

@@ -226,6 +226,19 @@ droit à la formule. Même là, préférer le concret et le culturellement situ�
 5. **Ne toucher à rien d'autre** : pas de renommage de fichier, pas d'édition
    d'index (`chroniques-index.json`), pas de modification des bibles.
 
+## 5bis. Le sixième tic : le refrain (leçon de la relecture des Chroniques)
+
+Après réécriture chapitre par chapitre, le creux ne survit plus dans la phrase
+isolée mais dans le **motif répété** : la même formule dans cinq bouches
+(« ce n'est pas la même chose »), le même pivot en ouverture de deux chapitres
+consécutifs, le même refrain du narrateur (« ce n'est pas mon travail de
+cartographier ce que je ne peux pas voir ») cinq fois en cinq chapitres. Un
+relecteur par chapitre ne le voit pas. Donc, après le lot : grep de chaque
+formule marquante sur tout le livre ; une formule appartient à une seule
+bouche et ne revient qu'en écho voulu (au plus deux fois, loin l'une de
+l'autre). Une relecture linéaire par tranches de sept à huit chapitres, avec
+rapport et corrections locales, coûte peu et attrape ce que le lot a laissé.
+
 ## 6. Checklist finale (avant de rendre un chapitre)
 
 - [ ] Compter les généralités au présent gnomique : ≤ 2, toutes gagnées.
@@ -242,6 +255,8 @@ droit à la formule. Même là, préférer le concret et le culturellement situ�
 - [ ] Typographie française (guillemets « », espaces insécables, capitales
       accentuées) ; aucune parenthèse dans la prose ; tirets longs réservés
       aux dialogues.
+- [ ] Grep des formules marquantes du chapitre sur tout le livre : aucune ne
+      revient dans une autre bouche (refrain, cf. §5bis).
 - [ ] Relecture à voix haute d'un passage au hasard : si une phrase demande
       deux lectures pour être comprise, la simplifier.
 
