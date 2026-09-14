@@ -10,6 +10,13 @@ status: draft
 
 # Chapitre 10 — Le Marteau et l’Ancre
 
+> *«  Sur les docks, on ne compte pas les hommes. On compte les caisses.  »*
+> — dicton des dockers de Mosrack
+
+**Onara — Mosrack, du bassin de radoub aux môles extérieurs — jour 207**
+
+---
+
 On sent Mosrack trois jours avant de la voir.
 
 Au matin du quinzième jour de mer, le vent tourna. Il n’apportait plus le sel mais une lourdeur de forge, du métal chaud, une arrière-note de charbon, l’haleine d’un feu qu’on n’éteint pas. Les autres passagers ne remarquèrent rien. Je rangeai le carnet, gagnai la rambarde de proue et laissai le pays venir à moi par l’odeur, en attendant qu’il vienne par la vue.

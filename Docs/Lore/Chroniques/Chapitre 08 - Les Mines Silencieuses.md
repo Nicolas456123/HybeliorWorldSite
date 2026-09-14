@@ -13,6 +13,8 @@ status: draft
 > «  Vous êtes libres de revenir. Nous serons là.  »
 > — Inscription de la Porte de Fer, attribuée à la reine Yrelda la Forgée
 
+**Alkaran — Iskara, de Glintar aux mines de Myrilith — jour 165**
+
 ---
 
 Les montagnes mentent sur leur distance. Trois jours durant, je les avais vues posées sur l’horizon, immuables, et je croyais tenir leur position  ; le quatrième matin, elles n’avaient pas avancé d’une ligne. Ce n’est pas une faute de relevé, c’est une propriété de la montagne  : trop haute pour l’œil, elle écrase l’espace qui la sépare de vous. J’ai passé ma vie à corriger cette erreur sur le parchemin. À pied, la correction prend des jours.

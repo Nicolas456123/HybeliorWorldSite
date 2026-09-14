@@ -13,6 +13,8 @@ status: draft
 > «  Un secret confié au fleuve remonte dans dix ports à la fois. On ne noie pas ce qui sait nager.  »
 > — dicton des mariniers de l’Onar
 
+**Onara — de Mosrack à Tyndara, par le Grand Fleuve — jour 225**
+
 ---
 
 Je quittai Mosrack par l’eau, et plus tôt que je ne l’aurais voulu. Deux nuits avant, sur les docks, un homme au gant de cuir noir m’avait acculé contre l’eau d’un bassin, et je ne devais d’écrire encore ces lignes qu’à une ruelle où je m’étais engouffré en ayant l’air de la fuir, et que j’avais choisie. Depuis, je cherchais ce gant dans chaque foule. Dans les montagnes d’Alkaran, j’avais essayé de mettre de la distance en marchant plus vite que ceux qui me suivaient, et j’avais appris ce que valait la méthode contre des gens qui ne dorment pas. Restait l’autre méthode  : se dissoudre dans quelque chose de plus grand que soi. Le Grand Fleuve d’Onar fut ce que je trouvai de plus grand.
