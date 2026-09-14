@@ -10,224 +10,234 @@ status: draft
 
 # Chapitre 25 — Le Chant et la Sève
 
+> *«  Quand la note tombe, ne chante pas plus fort. Descends la chercher.  »*
+> — Règle d’atelier de l’Académie du Cantus, Thalmaris
+
+**Evertia — Thalmaris, puis Sylvara, l’Arbre-Mère — Jour 600**
+
+---
+
 On entend Thalmaris avant de la voir.
 
-Le canot longeait depuis l’aube la côte intérieure d’Evertia, là où les falaises noires cèdent la place à une baie basse que la forêt vient border jusqu’au sable. Un homme qui rame produit un fond de bruits si constant qu’il finit par ne plus l’entendre : le bois de la rame contre le tolet, l’eau qui glisse, le souffle régulier de l’effort. Ce fond, j’avais cessé de le percevoir depuis longtemps quand une note le traversa.
+Depuis l’aube, le canot longeait la côte intérieure d’Evertia, là où les falaises noires s’abaissent en une baie plate que la forêt vient border jusqu’au sable. Le bois de la rame cognait contre le tolet, l’eau glissait le long de la coque, le rameur soufflait à chaque traction, et ces trois bruits s’étaient fondus depuis longtemps en un seul que je n’écoutais plus. Une note le traversa.
 
-Une seule. Longue, grave, portée sur l’eau d’une manière que la distance aurait dû interdire. Cette note aurait dû s’éteindre bien avant nous  ; elle arriva pleine, comme si la baie l’avait conduite exprès. Le rameur leva sa rame sans que je lui aie rien demandé.
+Une seule. Longue, grave, portée sur l’eau bien plus loin que la distance ne l’aurait dû. Elle aurait dû s’éteindre à mi-baie  ; elle nous parvint entière, comme si la baie l’avait conduite jusqu’à nous. Le rameur leva sa rame sans que je lui aie rien demandé.
 
-«  Le Cantus du matin, dit-il, la rame en suspens au-dessus de l’eau. Ils chantent trois fois. À l’aube, à midi, quand la lumière tombe. Par temps calme, on les entend de l’autre côté de la baie.  »
+«  Le Cantus du matin, dit-il, la pale suspendue au-dessus de l’eau. Ils chantent trois fois. À l’aube, à midi, et quand la lumière tombe. Par temps calme, on les entend de l’autre bord de la baie.
+— Pour quoi faire  ?  »
 
-«  Pour quoi faire  ?  »
-
-Le rameur réfléchit, non pas parce que la réponse lui manquait, mais parce qu’il cherchait comment dire une évidence à un homme pour qui elle n’en était pas une.
+Le rameur chercha ses mots. Il avait la réponse  ; ce qui lui manquait, c’était la manière de la dire à quelqu’un pour qui elle n’allait pas de soi.
 
 «  Pour que les choses se souviennent d’elles-mêmes, finit-il par répondre. Le chant leur rappelle ce qu’elles sont. Les pierres, l’eau, les arbres. Depuis quelque temps, il paraît qu’elles oublient plus vite.  »
 
-Deux mois plus tôt, la phrase m’aurait paru naïve. Depuis l’île consciente, je ne rejetais plus ce genre d’évidence aussi vite. Cinq jours auparavant, dans le ravin de Valmora, j’étais arrivé au chevet d’un percevant que la mort avait devancé, avec une question sur les lèvres et rien pour la lui poser. Les esprits d’Evertia se taisent l’un après l’autre, dans un ordre que personne sur cette île ne sait lire. Le dernier qui répondait encore, voilà ce que je venais chercher.
+La rame replongea.
+
+Deux mois plus tôt, j’aurais rangé la phrase parmi les croyances de rameur. Depuis l’île consciente, je ne rangeais plus si vite. Cinq jours auparavant, au-delà du ravin de Valmora, j’étais arrivé au chevet d’un percevant que la mort avait devancé, avec une question sur les lèvres et personne pour l’entendre. Les esprits d’Evertia se taisent l’un après l’autre, dans un ordre que personne sur cette île ne sait lire. Un seul répondait encore. C’est pour lui que je venais.
 
 ---
 
-Thalmaris tient à la fois de la cour et de l’académie, et sur place la distinction ne dure pas. Les théâtres y sont bâtis en pierre franche, aussi hauts que les palais  ; les musiciens travaillent dans les espaces publics comme d’autres tiennent boutique, sérieux, absorbés, sans rien de la gaieté forcée des bateleurs. On m’avait dit que le budget des arts y dépassait celui de l’armée. Ce n’était pas une image : les registres le portaient noir sur blanc, et j’avais pris l’habitude de vérifier les images aux registres.
+Thalmaris est une cour et une académie, et au bout d’une heure dans ses rues on cesse de chercher la limite entre les deux. Les théâtres y sont bâtis en pierre franche, aussi hauts que les palais. Sur les places, les musiciens travaillent comme d’autres tiennent boutique, sérieux, absorbés, sans rien de la gaieté forcée des bateleurs. On m’avait dit que la ville dépensait plus pour ses arts que pour ses soldats. Par habitude, je l’ai vérifié aux registres  : c’était écrit noir sur blanc.
 
-La recommandation d’un marchand de Valmora m’ouvrit la porte de l’Académie du Cantus, et l’on me mena, dans une salle aux murs couverts de partitions enluminées, devant un vieil homme que ses pairs appelaient Voix-de-Pierre. Le titre s’accorde, m’apprit-on, aux chanteurs dont la voix a traversé quarante ans de pratique. La sienne, quand il parlait, semblait monter du plancher plutôt que de sa gorge.
+La recommandation d’un marchand de Valmora m’ouvrit la porte de l’Académie du Cantus. On me mena, dans une salle aux murs tapissés de partitions enluminées, devant un vieil homme que ses pairs appelaient Voix-de-Pierre. Le titre revient, m’apprit-on, aux chanteurs dont la voix a tenu quarante ans de pratique. Quand il parlait, la sienne semblait monter du plancher plutôt que de sa gorge.
 
-Pourquoi un cartographe s’intéressait-il au Cantus, me demanda-t-il.
+Sa première question fut ce qu’un cartographe venait chercher au Cantus.
 
-Je lui dis assez de vérité pour être utile. Que je relevais depuis deux ans les anomalies perçues de nation en nation  ; qu’elles paraissaient toutes désigner la même source  ; qu’un art dont l’objet était de rappeler aux choses leur nature me semblait le mieux placé pour sentir cette nature bouger.
+Je lui dis assez de vérité pour être utile. Que je relevais depuis deux ans, de nation en nation, les anomalies que les gens percevaient. Qu’elles paraissaient toutes désigner la même source. Qu’un art dont l’objet était de rappeler aux choses leur nature me semblait le mieux placé pour sentir cette nature bouger.
 
-Peu de gens écoutent jusqu’au bout  ; il le fit.
+Le vieux m’écouta jusqu’au bout sans m’interrompre.
 
-«  Vous parlez comme quelqu’un qui a déjà entendu la réponse et qui vient vérifier qu’il l’a bien entendue  », observa-t-il.
+«  Vous parlez comme quelqu’un qui a déjà entendu la réponse, observa-t-il, et qui vient vérifier qu’il l’a bien entendue.
+— Je vérifie tout. C’est mon métier.
+— Le mien aussi.  »
 
-«  Je vérifie tout, dis-je. C’est mon métier.  »
+Sa main se posa à plat sur la table, paume ouverte, un geste que je reverrais.
 
-«  Le mien aussi.  » Il posa la main à plat sur la table, paume ouverte, un geste que je reverrais. «  Alors je vais vous dire où aller. Il reste une voix qui répond encore sur cette île. Une seule. Les autres se sont tues cet hiver, dans un ordre qui ne suit ni la carte ni le calendrier. Celle-là tient à Sylvara, l’Arbre-Mère du Pacte. Elle tient, mais elle s’en va.  »
+«  Alors je vais vous dire où aller. Il reste une voix qui répond encore sur cette île. Une seule. Les autres se sont tues cet hiver, dans un ordre qui ne suit ni la carte ni le calendrier. Celle-là tient à Sylvara, l’Arbre-Mère du Pacte. Elle tient, mais elle s’en va.
+— Elle s’en va comment  ?
+— La sève a tourné. Amère depuis un an, davantage depuis six mois. Et le chant qu’elle rend, quand elle en rend un, descend plus bas qu’il ne devrait. Une gardienne veille à son pied. Elwenn. Elle ne quitte plus l’arbre.  »
 
-«  Elle s’en va comment  ?  »
+Il me jaugea du regard, comme on jauge un outil avant de s’en servir.
 
-«  La sève a tourné. Amère depuis un an, plus depuis six mois. Et le chant qu’elle rend, quand elle en rend un, descend plus bas qu’il ne devrait. Une gardienne veille à son pied. Elwenn. Elle ne quitte plus l’arbre.  » Il me regarda de cette façon dont on jauge un outil avant de s’en servir. «  Je peux vous y conduire. Mais je vous préviens d’une chose, cartographe, et vous ferez ce que vous voudrez de mon avertissement : ce que vous allez voir là-bas n’est pas une leçon. C’est une agonie. On n’y prend pas de notes comme au marché.  »
+«  Je peux vous y conduire. Mais je vous préviens d’une chose, cartographe, et vous en ferez ce que vous voudrez. Ce que vous verrez là-bas n’est pas une leçon. C’est une agonie. On n’y prend pas de notes comme au marché.
+— Je ne prends jamais de notes comme au marché.
+— C’est ce que je crains.  »
 
-«  Je ne prends jamais de notes comme au marché.  »
-
-«  C’est ce que je crains.  »
-
-Voix-de-Pierre se leva sans que rien dans son visage m’apprenne s’il m’avait accepté ou percé. Les Canteurs, comme les druides, ont des raisons d’agir qui ne se livrent pas à la question directe et se lisent mieux dans ce qui suit. Ce qui suivit, c’est qu’il m’invita à sa table pour le repas du soir.
-
----
-
-Le repas rassemblait, à une longue table de l’Académie, une huitaine de Canteurs et de compositeurs de rangs divers. On avait servi un ragoût de racines parfumé d’herbes que je ne sus pas nommer, un pain dense d’un grain local, un vin plus jeune que je ne l’aurais voulu mais franc. À plusieurs, les langues se délient autrement qu’en tête-à-tête : chacun ajoute à ce que l’autre a commencé, et les interruptions ouvrent parfois plus de vérité que les réponses préparées. Je relevai en marge les fils qui tenaient.
-
-Le premier : le Cantus était plus vieux que Thalmaris. On en faisait remonter la pratique à des communautés d’avant la monarchie, dont les archives manquaient, mais qui semblaient l’avoir inventé non pas comme un art, d’abord, mais comme une réponse à quelque chose. Les premiers Canteurs n’étaient pas des artistes. C’étaient des gardiens.
-
-«  Gardiens de quoi  ?  »
-
-Voix-de-Pierre, à qui la table déférait, répondit sans hâte. «  Du lien entre ce qui a conscience et ce qui n’en a pas. Les pierres, l’eau, l’air ont leurs fréquences propres. Le chant les reconnaît et les tient.  » Il écarta d’avance le mot qu’il me voyait venir. «  Les gens du port appellent cela de la magie, faute d’un autre nom. Ce n’en est pas. C’est une acoustique du réel. Des fréquences qui maintiennent les choses dans leur nature. Quand elles faiblissent, les choses se mettent à… hésiter.  »
-
-Je relevai le mot. «  Hésiter.  »
-
-«  C’est le terme que nous employons, insista-t-il. Pas s’effondrer : hésiter. Perdre de la cohérence sans la perdre tout à fait. Comme une note qui se déforme sans cesser d’être elle-même.  »
-
-Une femme, au bout de la table, posa alors le second fil, plus concret et plus lourd. Depuis dix-huit mois, les Canteurs relevaient dans les fréquences qu’ils percevaient des changements. Rien de brutal : des écarts fins, absents d’une séance, présents à la suivante, de plus en plus souvent. Des notes qui résonnaient un peu autrement. Pas fausses. Autres.
-
-«  Vous êtes musiciens, dis-je. Vous entendez ce que les autres n’entendent pas.  »
-
-«  Oui, dit-elle, et sa voix baissa d’un cran sur la suite. Et ce que nous entendons depuis dix-huit mois, c’est que quelque chose, sous nos pieds, ne tient plus tout à fait sa place.  »
-
-Dix-huit mois. Ce nombre, je le connaissais déjà. Relevé une première fois au Mont Cendra, où un prêtre m’avait dit que la pierre battait une fois par semaine depuis six ou sept mois  ; retrouvé plus tôt sur la route chez les guetteurs d’étoiles, qui dataient d’un an et demi le premier glissement du ciel. Les chiffres ne coïncidaient pas tous, mais ils se rangeaient dans le même intervalle, comme des relevés pris de points différents sur une même côte. Je les notai côte à côte, sans conclure. Un cartographe ne tire pas un tracé d’une seule triangulation  ; il en accumule, et attend que la ligne se ferme d’elle-même.
-
-Voix-de-Pierre posa la main à plat sur la table, ce geste encore. «  Quand une note glisse, dit-il, le mauvais chanteur chante plus fort. Le bon écoute où elle veut tomber.  »
-
-«  Et si elle veut tomber trop bas  ?  »
-
-«  Alors il faut descendre avec elle, assez loin pour la retenir. Pas assez loin pour se perdre.  »
-
-La phrase valait pour le chant  ; je la gardai. Pour d’autres pratiques aussi, je le soupçonnais, et pour la mienne peut-être, mais ce n’était pas devant huit chanteurs que j’allais le vérifier.
+Puis il se leva. Rien sur son visage ne m’apprit s’il m’avait accepté ou percé. Ce qui suivit, c’est qu’il m’invita à sa table pour le repas du soir.
 
 ---
 
-Sylvara est à deux heures de marche de la ville, dans une forêt qui n’est pas tout à fait celle du ravin mais lui ressemble par la densité : les arbres y semblent moins abandonnés au hasard, orientés vers un centre, comme rangés autour d’une chose qu’ils écoutent. À mi-chemin, un campement bas fumait sous les frondaisons, du bois noirci, une cuve où la sève descendait goutte à goutte par des tubes fins depuis des troncs saignés à intervalles. Voix-de-Pierre passa devant sans un mot, et sans un mot je le suivis.
+Une huitaine de Canteurs et de compositeurs, de rangs divers, mangeaient ce soir-là à la longue table de l’Académie. On servit un ragoût de racines parfumé d’herbes que je ne sus pas nommer, un pain dense d’un grain local, un vin trop jeune mais franc. Les bols fumaient. Quelqu’un rompait le pain pour son voisin sans qu’on le lui demande, et le vieux, en bout de table, mangeait lentement, comme il parlait. Avant d’ouvrir le cahier, je mangeai ma part, et ce fut bon d’avoir faim quelque part où personne ne comptait mes bouchées.
 
-Ce fut au retour, le lendemain, seul, que je repassai près d’eux. Un homme se redressa de la cuve, se frotta les reins, marcha vers moi. Délié, je ne pouvais pas l’avertir de loin par ce que les Liés sentent les uns des autres  ; je toussai à dix pas pour ne pas le surprendre. Il avait les paumes brunies jusqu’au poignet, de cette teinte que la sève dépose et que rien n’enlève, et s’appelait Marvet.
+Puis les fils vinrent, l’un après l’autre, chacun ajoutant à ce qu’un autre avait commencé, et je notai en marge ceux qui tenaient.
 
-«  Vous venez de l’Arbre avec le Maître Voix, dit-il. Ce n’était pas une question.  »
+Le premier  : le Cantus est plus vieux que Thalmaris. On le fait remonter à des communautés d’avant la monarchie, dont les archives manquent, mais qui semblent l’avoir inventé non pas d’abord comme un art, mais comme une réponse. Les premiers Canteurs n’étaient pas des artistes. C’étaient des gardiens.
 
-«  J’y étais hier.  »
+«  Gardiens de quoi  ? demandai-je.
+— Du lien entre ce qui a conscience et ce qui n’en a pas, répondit Voix-de-Pierre sans hâte. Les pierres, l’eau, l’air ont chacun leur fréquence. Le chant les reconnaît et les tient.  »
 
-«  On est cinq à saigner la rive sud.  » Il ouvrit la main, doigts écartés, comme pour se les compter à lui-même. «  La guilde nous compte douze sur ses registres. Si vous écrivez des choses, écrivez celle-là.  »
+D’un geste, il m’arrêta avant que j’aie pu placer un mot.
 
-«  Pourquoi me la dire, à moi  ?  »
+«  Au port, ils disent magie, faute d’un autre mot. Ce n’en est pas. C’est une acoustique. Des fréquences qui maintiennent les choses dans leur nature. Quand elles faiblissent, les choses se mettent à… hésiter.
+— Hésiter, répétai-je.
+— C’est le terme que nous employons, insista-t-il. Pas s’effondrer. Hésiter. Perdre de la cohérence sans la perdre tout à fait. Comme une note qui se déforme sans cesser d’être elle-même.  »
 
-«  Parce que vous êtes étranger. Aux gens d’ici, on a déjà tout dit, et les gens d’ici trouvent que la sève est sacrée et que le sacré ne se compte pas. Aux étrangers qui notent, on n’a pas encore tout dit.  » Il ne cachait pas la part de calcul dans la phrase, et je la notai comme le reste. «  L’arbre change, à ce qu’on raconte. L’arbre change peut-être. Nous, on saigne plus. Il faut tirer deux fois pour obtenir ce qu’on tirait une. La guilde baisse le prix du baril parce que l’amer se vend moins, et demande autant de barils. Alors on ouvre plus d’arbres.  »
+Le second fil vint du bout de la table, d’une femme qui n’avait rien dit jusque-là, et il pesait davantage. Depuis dix-huit mois, les Canteurs relevaient des changements dans les fréquences qu’ils percevaient. Rien de brutal. Des écarts fins, absents d’une séance, présents à la suivante, de plus en plus souvent. Des notes qui résonnaient un peu autrement. Pas fausses. Autres.
 
-À cela je répondis que je n’écrivais pas pour la guilde, et que mon cahier ne serait peut-être lu par personne avant longtemps.
+«  Vous êtes musiciens, dis-je. Vous entendez ce que les autres n’entendent pas.
+— Oui.  » Elle baissa la voix sur la suite. «  Et ce que nous entendons depuis dix-huit mois, c’est que quelque chose, sous nos pieds, ne tient plus tout à fait sa place.  »
 
-«  Tant pis, dit-il. Vous l’écrirez quand même.  »
+Dix-huit mois. Le chiffre était déjà dans mes cahiers. Au Mont Cendra, un prêtre m’avait dit que la pierre battait une fois par semaine depuis six ou sept mois. Plus tôt sur la route, les guetteurs d’étoiles dataient d’un an et demi le premier glissement du ciel. Les chiffres ne coïncidaient pas tous, mais ils tombaient dans le même intervalle, comme des relevés pris de plusieurs points sur une même côte. Je les notai côte à côte, sans tirer de trait entre eux.
 
-«  Oui.  »
+Voix-de-Pierre posa de nouveau la main à plat sur la table.
 
-Marvet retourna à sa cuve. Je continuai vers Sylvara avec sa phrase qui pesait dans ma poche comme une pièce : cinq pour douze. Un homme dont les mains sont noires depuis vingt ans venait de m’apprendre, sans le savoir, le geste que je faisais moi-même depuis le premier jour de cet exil. On ouvre ce qui donne encore, on tire tant qu’il coule, et l’on appelle sacré ce qu’on n’a pas le cœur de compter. Cela, je ne l’écrivis pas  ; je le pensai seulement, ce qui n’est pas la même chose, et la pente me reprit vers le haut.
+«  Chez nous, on apprend cela aux enfants. Quand une note glisse, on ne chante pas plus fort par-dessus. On écoute où elle veut tomber.
+— Et si elle veut tomber trop bas  ?
+— On descend avec elle. Assez pour la retenir. Pas assez pour se perdre.  »
+
+La phrase alla sous les dix-huit mois. Elle valait pour le chant, et sans doute pour d’autres pratiques, mais ce n’était pas devant huit chanteurs que j’allais le vérifier.
 
 ---
 
-L’Arbre-Mère occupe le centre d’une clairière qui n’en est pas une : la lumière y descend comme filtrée par une eau haute, verte et lente. Aucun instrument ne me permettait d’en mesurer la circonférence  ; en marchant le quart de son pourtour, je l’estimai à une trentaine de mètres. L’écorce, à hauteur d’homme, portait des zones plus lisses que le reste, non pas gravées mais polies, usées par des générations de paumes venues se poser là. Elles l’avaient été.
+Sylvara est à deux heures de marche de la ville, dans une forêt moins fermée que celle du ravin mais aussi dense, où les arbres paraissent moins livrés au hasard, tournés vers un centre, rangés autour d’une chose qu’ils écoutent. À mi-chemin, un campement bas fumait sous les frondaisons  : du bois noirci, une cuve, et depuis des troncs entaillés à intervalles réguliers des tubes fins où la sève descendait goutte à goutte. Voix-de-Pierre passa devant sans un mot, et sans un mot je le suivis.
 
-Une femme se tenait assise à son pied, entre deux racines aussi hautes que des bancs. Ni jeune ni vieille, le visage de ceux qui ont cessé de compter les nuits sans sommeil. Elle ne se leva pas à mon approche et attendit, sans tourner la tête, que je sois près pour parler.
+C’est au retour, le lendemain, seul, que je repassai près d’eux. Un homme se redressa de la cuve, se frotta les reins, vint vers moi. Un Délié ne s’annonce pas de loin par ce que les Liés sentent les uns des autres  ; je toussai à dix pas pour ne pas le surprendre. Ses paumes étaient brunies jusqu’au poignet, de cette teinte que la sève dépose et que rien n’enlève. On l’appelait Marvet.
 
-«  Le Maître Voix m’avait annoncé un cartographe.  » Sa voix était basse, presque sans souffle. «  Il ne m’avait pas dit que vous étiez de ceux qui n’ont pas le lien.  »
+«  Vous venez de l’Arbre avec le Maître Voix.  »
 
-«  Cela change quelque chose  ?  »
+Ce n’était pas une question.
 
-«  Pour l’arbre, non. Pour vous, peut-être. Ceux qui ont le lien viennent ici et sentent une présence. Vous, vous ne sentirez rien, et il vous faudra me croire sur parole.  » Elle posa enfin les yeux sur moi. «  Ou bien vous sentirez quelque chose, et il vous faudra vous demander pourquoi un Délié sent ce qu’il ne devrait pas.  »
+«  J’y étais hier.
+— On est cinq à saigner la rive sud.  » Il ouvrit la main, doigts écartés, comme pour se compter lui-même. «  La guilde nous compte douze sur ses registres. Si vous écrivez des choses, écrivez celle-là.
+— Pourquoi me la dire à moi  ?
+— Parce que vous êtes étranger. Aux gens d’ici, on a déjà tout dit. Les gens d’ici trouvent que la sève est sacrée et que le sacré ne se compte pas. Aux étrangers qui notent, on n’a pas encore tout dit.  »
 
-Je ne répondis pas à cela. À Cendra, quand une marchande m’avait demandé si je ne sentais rien, j’avais menti  ; le mensonge tenait encore, et je n’allais pas le défaire au pied d’un arbre.
+Le calcul n’était pas caché, et je le notai avec le reste.
 
-«  Il en reste combien, demandai-je, de voix qui répondent  ?  »
+«  L’arbre change, à ce qu’on raconte. Peut-être qu’il change. Nous, on saigne plus, voilà ce que je sais. Il faut tirer deux fois pour ce qu’on tirait une. La guilde baisse le prix du baril parce que l’amer se vend moins, et elle demande autant de barils. Alors on ouvre plus d’arbres.  »
 
-«  Celle-là.  » Elle appuya la nuque contre l’écorce. «  À l’automne, elles étaient neuf sur l’île. En hiver, trois. Depuis la dernière lune, une. On m’a dit qu’à Valmora, dans le ravin, il y en avait un que vous êtes venu voir trop tard.  »
+À cela, je répondis que je n’écrivais pas pour la guilde, et que mon cahier ne serait peut-être lu par personne avant longtemps.
 
-«  On vous l’a dit vite.  »
+«  Tant pis, dit-il. Vous l’écrirez quand même.
+— Oui.  »
 
-«  Les gardiens se parlent. Nous n’avons plus grand-chose d’autre à faire que compter nos morts et nous prévenir.  » Elle laissa un silence, puis : «  Vous êtes venu voir celui-ci mourir.  »
+Marvet retourna à sa cuve, et je repris le chemin avec sa phrase dans la poche, comme une pièce  : cinq pour douze. Un homme aux mains noires depuis vingt ans venait de me décrire, sans le savoir, mon propre travail depuis le premier jour de cet exil. On ouvre ce qui donne encore, on tire tant que ça coule, et on appelle sacré ce qu’on n’a pas le cœur de compter. Je l’ai pensé sur le sentier, et je n’ai pas ralenti.
+
+---
+
+L’Arbre-Mère occupe le centre d’une clairière qui n’en est pas une  : la lumière y descend verte et lente, filtrée comme par une eau haute. Aucun instrument ne me permettait d’en mesurer la circonférence. En marcher le quart me donna un tour d’une trentaine de mètres. À hauteur d’homme, l’écorce portait des zones plus lisses que le reste, non pas gravées mais polies, usées par des générations de paumes venues se poser là.
+
+Une femme était assise à son pied, entre deux racines hautes comme des bancs. Ni jeune ni vieille. Un visage de ceux qui ont cessé de compter les nuits sans sommeil. À mon approche, elle ne se leva pas, ne tourna pas la tête, et attendit que je sois tout près pour parler.
+
+«  Le Maître Voix m’avait annoncé un cartographe.  » Sa voix était basse, presque sans souffle. «  Il ne m’avait pas dit que vous étiez de ceux qui n’ont pas le lien.
+— Cela change quelque chose  ?
+— Pour l’arbre, non. Pour vous, peut-être. Ceux qui ont le lien viennent ici et sentent une présence. Vous, vous ne sentirez rien, et il vous faudra me croire sur parole.  » Elle posa enfin les yeux sur moi. «  Ou bien vous sentirez quelque chose, et il vous faudra vous demander pourquoi un Délié sent ce qu’il ne devrait pas.  »
+
+Je ne répondis pas à cela. Sur ce point, j’avais menti une fois, chez les druides de Trinoria, et une marchande de Cendra avait vu clair à travers le mensonge sans que je le retire. Le mensonge tenait encore, et je n’allais pas le défaire au pied d’un arbre.
+
+«  Il en reste combien, demandai-je, de voix qui répondent  ?
+— Celle-là.  » Elle appuya la nuque contre l’écorce. «  À l’automne, elles étaient neuf sur l’île. En hiver, trois. Depuis la dernière lune, une. On m’a dit qu’au-delà de Valmora, il y en avait un que vous êtes venu voir trop tard.
+— On vous l’a dit vite.
+— Les gardiens se parlent. Il ne nous reste plus grand-chose à faire, sinon compter nos morts et nous prévenir.  »
+
+Un silence passa.
+
+«  Vous êtes venu voir celui-ci mourir.  »
 
 Ce n’était pas une accusation. C’était un relevé, aussi net que les miens.
 
-«  Je suis venu l’écouter tant qu’il parle, dis-je. Et si vous le permettez, rester jusqu’à la fin. Avant que la voix ne se taise, pas après. Après, il n’y a plus rien à consigner.  »
+«  Je suis venu l’écouter tant qu’il parle, dis-je. Et rester jusqu’à la fin, si vous le permettez. Avant que la voix ne se taise, pas après. Après, il n’y a plus rien à consigner.  »
 
-La gardienne me regarda longtemps.
+Son regard resta longtemps sur moi.
 
-«  Voilà au moins un homme qui dit ce qu’il veut. La plupart de ceux qui montent ici prétendent venir aider. Ils apportent de la sève fraîche, ils chantent trois notes fausses, ils repartent soulagés d’avoir essayé. Vous, vous n’apportez rien.  »
+«  Voilà au moins un homme qui dit ce qu’il veut. La plupart de ceux qui montent ici prétendent venir aider. Ils apportent de la sève fraîche, ils chantent trois notes fausses, ils repartent soulagés d’avoir essayé. Vous, vous n’apportez rien.
+— J’ai un cahier.
+— Justement. Vous n’apportez rien qui puisse le sauver.  » Elle détourna les yeux vers la canopée. «  Asseyez-vous, cartographe. Et ne me dérangez pas quand il chante.  »
 
-«  J’ai un cahier.  »
+Contre une racine, à trois pas d’elle, je m’assis et j’attendis. Plus tard, une servante du Pacte parut avec une écuelle de sève tiède, qu’elle tendit d’abord à Elwenn, puis à moi. L’odeur en montait, sucrée et amère à la fois, avec un fond de fumée. La gardienne but. On dit ici, comme à la ville, que la sève de Sylvara guérit, même amère, même tournée, et que nul ne monte à l’Arbre sans en boire une gorgée, par respect autant que par soin. Je ne bus pas. Mon cahier était ouvert sur mes genoux. Je ne le fermai pas pour une écuelle. Elwenn le vit et ne dit rien.
 
-«  Justement. Vous n’apportez rien qui puisse le sauver.  » Elle détourna les yeux vers la canopée. «  Asseyez-vous, cartographe. Ne me dérangez pas quand il chante.  »
+Les heures passèrent sans qu’on les compte. La gardienne se taisait longtemps, lâchait trois phrases, se taisait de nouveau.
 
-Contre une racine, à trois pas d’elle, je m’assis et j’attendis. Une servante du Pacte parut, plus tard, avec une écuelle de sève tiède qu’elle tendit d’abord à Elwenn, puis à moi. La gardienne but. On me disait, ici comme à la ville, que la sève de Sylvara guérit, même amère, même tournée  ; que nul ne monte à l’Arbre sans en boire une gorgée, par respect autant que par soin. Je ne bus pas. Mon cahier restait ouvert sur mes genoux, et l’on n’écrit pas d’une main qui rend une écuelle. Elwenn le remarqua, et ne dit rien, et ce rien-là pesa plus qu’une phrase.
+«  Sept générations, dit-elle une fois, sans que rien l’eût appelée. Voilà ce que dure le Pacte. Les miens chantent pour la forêt, la forêt tient la paix sur ses marges. Pas de clauses, pas de peines, pas d’arbitres. Une pratique. On monte chanter deux fois par lune, et tant qu’on monte, la chose tient.  » Elle regarda le fond amer de l’écuelle. «  J’ai chanté ici toute ma vie. Ma mère avant moi. C’est moi qui l’aurai vu se taire. Ça tombe sur moi, voilà tout.
+— Vous pourriez le quitter, dis-je. Redescendre.
+— Pour quoi faire  ? Pour ne pas l’entendre partir  ?  »
 
-Le temps, au pied de l’Arbre, ne se comptait pas comme ailleurs. La gardienne se taisait longtemps, puis lâchait trois phrases, puis retombait dans le silence.
+Un rire bref lui échappa, le premier que je lui entendis, sans gaieté dedans.
 
-«  Sept générations, dit-elle une fois, sans que rien l’eût appelée. Voilà ce que dure le Pacte. Les miens chantent pour la forêt, la forêt tient la paix sur ses marges. Pas de clauses, pas de peines, pas d’arbitres. Une pratique, seulement. On monte chanter deux fois par lune, et tant qu’on monte, la chose tient.  » Elle regarda le fond amer de l’écuelle. «  J’ai chanté ici toute ma vie. Ma mère avant moi. Je serai la gardienne qui aura vu l’Arbre se taire. On ne choisit pas le tour où l’on tombe.  »
+«  Vous seriez le dernier à me le conseiller. Vous êtes monté exprès pour être là quand il s’en ira. Nous nous ressemblons plus que vous ne voudriez. La différence, c’est que moi, je reste pour lui. Vous, vous restez pour la ligne que vous en tirerez.  »
 
-«  Vous pourriez le quitter, dis-je. Redescendre.  »
-
-«  Pour quoi faire  ? Pour ne pas l’entendre partir  ?  » Elle eut un rire bref, sans gaieté, le premier son de gaieté manquée que je lui connus. «  Vous seriez le dernier à me le conseiller, vous qui êtes monté exprès pour être là quand il s’en ira. Nous nous ressemblons plus que vous ne voudriez. La différence, c’est que moi je reste pour lui. Vous, vous restez pour la ligne que vous en tirerez.  »
-
-Je ne relevai pas. Elle avait raison, et j’avais depuis longtemps cessé de corriger les gens qui avaient raison sur mon compte pour des raisons approchantes. En croyant me faire honte, elle me donnait une preuve. Les deux ne s’excluaient pas.
+Je ne relevai pas. C’était vrai, et j’ai cessé depuis longtemps de corriger les gens qui ont raison sur mon compte pour des raisons approchantes.
 
 Vers le milieu de la nuit, l’arbre chanta.
 
-Le vocabulaire musical me manque, et je me garderai d’en emprunter un qui ne serait pas le mien. Ce ne fut pas un battement comme au Mont Cendra, pas cette pulsation régulière que j’avais relevée là-bas. Ce fut un accord, plusieurs fréquences tenues ensemble, très graves, et sous elles une dernière qui descendait encore, dans un registre qui n’était plus tout à fait du son mais qui se ressentait dans les os. Je fermai les yeux, parce que c’est ce que font les druides et les Canteurs, et parce que, les paupières closes, la chose devenait plus nette que la lumière.
+Le vocabulaire de la musique me manque, et je n’en emprunterai pas un qui ne serait pas le mien. Ce ne fut pas un battement comme au Mont Cendra, pas cette pulsation régulière que j’avais relevée là-bas. Ce fut un accord. Plusieurs fréquences tenues ensemble, très graves, et sous elles une dernière qui descendait encore, dans un registre qui n’était plus tout à fait du son et qu’on recevait dans les os, dans les dents, dans le creux du dos appuyé à la racine. Le sol en tremblait à peine. Une feuille tomba quelque part dans le noir et je l’entendis toucher terre. Alors je fermai les yeux, parce que c’est ce que font les druides et les Canteurs, et parce que, les paupières closes, la chose devenait plus nette que la lumière.
 
-Elle était là, et je la sentis comme à Cendra, comme à Sylvara une heure plus tôt sans oser me l’avouer : une vibration lente, patiente, qui montait du dessous avec le temps de son côté. Un Délié ne devrait rien sentir de tout cela. La fréquence, je la relevai du mieux que je pus, par comparaison, par écart, sans instrument, à la manière dont on note un cap qu’on n’a pas les moyens de mesurer : plus bas que le Mont Cendra, apparenté pourtant, comme deux voix d’une même famille. Puis je rouvris les yeux et j’écrivis, longtemps, tant que la note me tenait dans l’oreille, parce qu’une fréquence qu’on ne fixe pas dans l’heure se déforme dans la mémoire comme la sève tourne dans le baril.
+Elle était là. Comme à Cendra, comme dans la forêt du ravin, comme au pied de cet arbre une heure plus tôt sans vouloir me l’avouer, je la sentis  : une vibration lente, patiente, qui montait du dessous avec le temps de son côté. Un Délié ne devrait rien sentir de tout cela. La fréquence, je la relevai du mieux que je pus, sans instrument, par comparaison, par écart, comme on note un cap qu’on n’a pas les moyens de mesurer. Plus bas que le Mont Cendra. Apparenté pourtant, comme deux voix d’une même famille. Puis je rouvris les yeux et j’écrivis, longtemps, tant que la note me tenait dans l’oreille. Une note qu’on ne fixe pas dans l’heure se déforme dans la mémoire, comme la sève tourne dans le baril.
 
-Elwenn chantait avec l’arbre. Non pour couvrir sa note : pour la suivre, la main posée sur l’écorce polie, descendant avec elle aussi bas que sa gorge le permettait, s’arrêtant là où l’arbre continuait seul. Quand l’accord retomba, elle garda la paume contre le tronc un long temps, comme on tient la main d’un mourant après qu’il s’est tu.
+Elwenn chantait avec l’arbre. Pas pour couvrir sa note  : pour la suivre. La main posée sur l’écorce polie, elle descendait avec lui aussi bas que sa gorge le permettait, et s’arrêtait là où l’arbre continuait seul. Quand l’accord retomba, elle garda la paume contre le tronc, longtemps, comme on garde la main d’un mourant après qu’il s’est tu.
 
-«  Il vous a répondu, dis-je enfin. À vous.  »
+«  Il vous a répondu, dis-je enfin. À vous.
+— Il répond à qui écoute.  » Elle ne se retourna pas. «  Ce qu’il a dit, vous voulez que je vous le donne en mots. Pour votre cahier.
+— Si vous acceptez de me le donner.
+— Ce n’est pas une phrase, cartographe. C’est une direction.  » Elle appuya le front contre l’arbre. «  Il vient d’en bas. Depuis un an que je l’écoute descendre, il n’a jamais changé d’axe. Les vieilles gens d’ici ont un mot pour ça, qu’ils se passent sans le comprendre. Ils disent  : ils arrivent par le dessous. Au pluriel. Ne me demandez pas qui. Je n’en sais pas plus que vous. Je sais seulement de quel côté il faut tendre l’oreille.  »
 
-«  Il répond à qui écoute.  » Elle ne se retourna pas. «  Ce qu’il a dit, vous voulez que je vous le donne en mots, pour votre cahier.  »
+Je notai la phrase telle qu’elle l’avait dite, au pluriel, sans y ajouter la mienne. Donnée sans se retourner, comme on tend une pièce à un mendiant.
 
-«  Si vous acceptez de me le donner.  »
+«  Vous savez ce que vous êtes en train de faire, dit-elle alors, toujours sans me regarder.
+— J’écris ce que j’entends.
+— Vous écrivez ce que vous ne pouvez pas sauver.  »
 
-«  Ce n’est pas une phrase, cartographe. C’est une direction.  » Elle appuya le front contre l’arbre. «  Il vient d’en bas. Depuis un an que je l’écoute descendre, il n’a jamais changé d’axe. Les vieilles gens d’ici ont un mot pour ça, qu’ils se passent sans le comprendre. Ils disent : ils arrivent par le dessous. Au pluriel. Ne me demandez pas qui. Je ne sais pas plus que vous. Je sais seulement de quel côté il faut tendre l’oreille.  »
+Les mots venaient lentement, sans colère, comme on nomme une bête qu’on a fini par reconnaître.
 
-Je notai la phrase telle qu’elle l’avait dite, au pluriel, sans y ajouter la mienne. Donnée comme on tend une pièce à un mendiant, elle portait ce mélange de mépris et de pitié qu’on garde pour ceux dont on ne comprend pas le besoin.
+«  Vous ne pouvez pas le retenir, cet arbre, pas plus que moi. Alors vous l’inscrivez. Vous en ferez une ligne dans un cahier, et quand il se sera tu pour de bon, la ligne, elle, tiendra. C’est cela, votre métier. Un homme qui écrit ce qu’il ne peut pas sauver.  »
 
-«  Vous savez ce que vous êtes en train de faire, dit-elle alors, toujours sans me regarder.  »
+Je ne répondis rien et je recopiai sa phrase dans la marge, mot pour mot. La gardienne me vit le faire et eut un geste de la main, vague, qui pouvait être le pardon ou le renoncement.
 
-«  J’écris ce que j’entends.  »
-
-«  Vous écrivez ce que vous ne pouvez pas sauver.  » Elle prononça les mots lentement, sans colère, comme on nomme une bête qu’on a fini par identifier. «  Vous ne pouvez pas le retenir, cet arbre, pas plus que moi. Alors vous l’inscrivez. Vous en ferez une ligne dans un cahier, et quand il se sera tu pour de bon, la ligne, elle, tiendra. C’est cela, votre métier. Un homme qui écrit ce qu’il ne peut pas sauver.  »
-
-Je ne répondis rien. Rien à répondre n’eût pu aggraver la justesse de la chose. Sa phrase, je la recopiai dans la marge, mot pour mot, parce que je recopie tout, et parce qu’une vérité dite par un autre est plus sûre dans un cahier qu’une vérité qu’on s’accorde à soi-même. Elle me vit le faire, et eut un geste de la main, vague, qui pouvait être le pardon ou le renoncement, et qui n’était peut-être ni l’un ni l’autre.
-
-L’arbre se tut avant l’aube. Elwenn resta la paume contre l’écorce jusqu’à ce que le jour fût franc. Je refermai le cahier et je repris la descente vers la ville.
+L’arbre se tut avant l’aube. Elwenn resta la paume contre l’écorce jusqu’à ce que le jour fût franc. Le cahier refermé, je repris la descente vers la ville.
 
 ---
 
-La journée qui précéda mon départ me valut une autre conversation, que j’ajoutai à l’inventaire. Une compositrice, jeune, de celles qui pensent plus vite qu’elles ne parlent, me parla de l’art comme d’une résistance. Non pas politique : une résistance à l’effacement des choses. Depuis un an et demi, disait-elle, les œuvres de Thalmaris débordaient leurs formes. Les harmonies s’y faisaient plus denses, cherchaient des résolutions qu’elles ne trouvaient pas, comme des réponses à une question que personne n’avait posée en mots.
+La journée d’avant mon départ me valut une conversation de plus, que j’ajoutai à l’inventaire. Une compositrice, jeune, de celles qui pensent plus vite qu’elles ne parlent, me parla de son art comme d’une résistance. Pas politique. Une résistance à l’effacement des choses. Depuis un an et demi, disait-elle, les œuvres de Thalmaris débordaient leurs formes. Les harmonies s’y faisaient plus denses, cherchaient des résolutions qu’elles ne trouvaient pas.
 
-«  Nous créons pour nommer ce qui n’a pas encore de nom, dit-elle. C’est notre métier depuis toujours. Mais depuis un an et demi, ce que nous cherchons à nommer déborde nos noms. Nos voix ne portent pas assez loin. Nous descendons vers le grave, toujours plus bas.  »
+«  Nous créons pour nommer ce qui n’a pas encore de nom, dit-elle. C’est notre métier depuis toujours. Mais depuis un an et demi, ce que nous cherchons à nommer déborde nos noms. Nos voix ne portent pas assez loin. Nous descendons vers le grave, toujours plus bas.
+— D’en haut, demandai-je, ou d’en bas  ?  »
 
-«  D’en haut, demandai-je, ou d’en bas  ?  »
+La compositrice me dévisagea, comme devant une question qu’on ne s’était jamais posée et qu’on reconnaît d’un coup.
 
-La compositrice me considéra avec la curiosité vive de qui découvre une question et la reconnaît d’un coup.
+«  D’en bas.  » Le mot vint plus lentement que le reste. «  Toujours d’en bas. Quand nous ne savons plus où aller, nous creusons vers le grave.  »
 
-«  D’en bas, dit-elle, et le mot vint plus lentement que le reste. Toujours d’en bas. Les plus belles choses et les plus terribles viennent d’en bas. C’est pourquoi nous creusons vers le grave quand nous ne savons plus où aller.  »
+Sa phrase rejoignit celle d’Elwenn dans la marge. *Ils arrivent par le dessous. Toujours d’en bas.* Deux personnes qui ne se connaissaient pas, l’une au pied d’un arbre qui mourait, l’autre devant un pupitre, tendaient l’oreille du même côté. Sans conclure, je rangeai le relevé avec les autres.
 
-Je notai la phrase à côté de celle d’Elwenn. Ils arrivent par le dessous. Toujours d’en bas. Deux personnes qui ne se connaissaient pas, l’une au pied d’un arbre qui mourait, l’autre devant un pupitre, tendaient l’oreille du même côté. Sans rien conclure, je rangeai le relevé avec les autres et je le laissai peser.
+Le dernier soir à Thalmaris, j’assistai au Cantus du couchant, dans la grande salle ouverte de l’Académie. Une douzaine de chanteurs s’y tenaient, Voix-de-Pierre au centre. Les voix montèrent sous la voûte et s’emboîtèrent sans partition, chacune trouvant sa place à l’écoute des autres. La pierre chauffée par le jour rendait sa chaleur dans le dos. Pendant vingt minutes, je n’entendis rien d’autre qu’une belle chose, et je ne notai rien.
 
-Le dernier soir à Thalmaris, j’assistai au Cantus du couchant, dans la grande salle ouverte de l’Académie. Une douzaine de chanteurs s’y tenait, Voix-de-Pierre au centre, et les voix montèrent sous la voûte en s’emboîtant sans partition, chacune trouvant sa place à l’écoute des autres. Pendant vingt minutes, je n’entendis qu’une belle chose parmi les belles choses des hommes.
+Puis le vieux descendit d’un registre. Une note plus grave que tout ce qu’il avait tenu. Les autres eurent un temps de retard, puis le suivirent, et la pierre de la salle, taillée pour renvoyer le son, répondit à ce grave comme elle n’avait répondu à aucune note plus haute. Ce n’était pas seulement l’écho. La pierre rendait une fréquence qu’elle avait gardée pour elle, la sienne, et qu’il avait fallu descendre chercher aussi bas pour la réveiller.
 
-Puis le vieux descendit d’un registre. Une note plus grave que tout ce qu’il avait tenu. Les autres eurent un temps de retard, puis le suivirent, et la pierre de la salle, taillée pour renvoyer le son, répondit à ce grave comme elle n’avait répondu à aucune note plus haute. Ce n’était pas seulement l’écho. La pierre rendait une fréquence qu’elle avait gardée pour elle, la sienne, comme tout corps a la sienne, et qu’il avait fallu venir chercher aussi bas pour l’éveiller.
+Voix-de-Pierre rouvrit les yeux, me chercha du regard à l’autre bout de la salle, et sourit. Ce n’était pas un sourire de satisfaction. C’était celui d’un homme qui vous a montré une chose et qui voit que vous l’avez vue.
 
-Voix-de-Pierre rouvrit les yeux et me chercha du regard de l’autre bout de la salle. Il ne souriait pas de satisfaction, mais de reconnaissance, comme un homme qui vous a montré une chose et qui voit que vous l’avez vue.
+Quand les autres se furent dispersés, il vint à moi, la voix râpée d’avoir tenu le grave si longtemps.
 
-Quand les autres se furent dispersés, il vint à moi.
+«  La fréquence de Sylvara, dit-il. Vous l’avez sentie, ne mentez pas, je l’ai vu sur vous là-bas. C’est la même. Ce n’est pas la voix de l’arbre. C’est la voix de la terre, celle qu’elle a toujours eue et que rien ne faisait vibrer. Quelque chose, en dessous, s’est mis à la frapper. Et la terre répond, comme la pierre de cette salle.
+— Est-ce mauvais  ?
+— Ni bon ni mauvais. Pas plus qu’un tremblement de terre.  » Il prit le temps de la réponse. «  Ce qui compte, c’est ce que vous faites pendant.
+— Et que fait-on  ?
+— On continue de chanter. Tant que le Cantus dure, les choses se souviennent de ce qu’elles sont, et elles se laissent moins changer.  » Il s’appuya sur son bâton. «  Et les cartographes, que font-ils, quand le sol bouge  ?
+— Ils relèvent le nouveau tracé.
+— Alors vous et moi faisons le même métier par les deux bouts. Je rappelle aux choses ce qu’elles sont. Vous notez ce qu’elles deviennent.  »
 
-«  La fréquence de Sylvara, dit-il, la voix râpée d’avoir tenu le grave si longtemps. Vous l’avez sentie, ne mentez pas, je l’ai lu sur vous là-bas. C’est la même. Ce n’est pas la voix de l’arbre. C’est la voix de la terre, celle qu’elle a toujours eue et que rien ne faisait vibrer. Quelque chose, en dessous, s’est mis à la frapper. Et la terre répond, comme la pierre de cette salle.  »
+Son regard prit une gravité que je ne lui connaissais pas.
 
-«  Est-ce mauvais  ?  »
+«  Votre cahier, cartographe. C’est une lettre ou une carte  ?  »
 
-Il prit le temps d’une réponse honnête. «  Ce n’est ni bon ni mauvais, pas plus qu’un tremblement de terre. La question n’est pas sa nature. La question est ce que vous faites pendant qu’il a lieu.  »
+Six cents jours de cahiers. Personne ne m’avait encore posé la question ainsi.
 
-«  Et que fait-on  ?  »
+«  Cela dépend, dis-je, de qui le lira.
+— Ou de ce que vous en ferez.  »
 
-«  On continue de chanter. Tant que le Cantus dure, les choses se souviennent d’elles-mêmes, et ce qui se souvient de soi résiste mieux à ce qui voudrait le changer.  » Il s’appuya sur son bâton. «  Vos artistes à vous, les cartographes, que font-ils, quand le sol bouge  ?  »
+Sa main se tendit vers moi, paume ouverte, ce geste encore.
 
-«  Ils relèvent le nouveau tracé.  »
+«  Bon voyage. Écrivez juste. Vous ne retiendrez rien d’autre.  »
 
-«  Alors vous et moi faisons le même métier par deux bouts. Je rappelle aux choses ce qu’elles sont. Vous notez ce qu’elles deviennent.  » Il me regarda avec une gravité soudaine. «  Votre cahier, cartographe. C’est une lettre ou une carte  ?  »
+Je pris sa main sans relever qu’il venait, à son insu, de me donner la même définition qu’Elwenn au pied de l’arbre. Deux personnes en deux jours, en deux lieux, m’avaient nommé de la même façon, chacune croyant m’apprendre qui j’étais. Ce soir-là, sur la page, je commençai à écrire  : ~~ce n’est pas moi qui les tue, je ne fais que~~. Puis je barrai. La marge disait déjà ce qu’il fallait.
 
-Six cents jours de notes me revinrent d’un coup, une question posée par fragments dont j’assemblais les mots depuis le premier mur jaune sans en avoir encore montré la forme à personne.
+Le lendemain, à la marée, je repris la mer, avec dans le dos une île qui perdait ses voix une à une. Avec moi partaient un accord que je ne savais pas nommer, une phrase au pluriel donnée par une femme qui me méprisait à demi, et la teinte des paumes de Marvet, qui saigne plus quand l’arbre donne moins. Trois relevés, pris d’un même rivage. Je les rangeai.
 
-«  Cela dépend, dis-je, de qui le lira.  »
-
-«  Ou de ce que vous en ferez.  » Il me tendit la main, paume ouverte, ce geste encore. «  Bon voyage. Écrivez juste. C’est tout ce qu’un homme peut faire quand il ne peut rien retenir.  »
-
-Il ne savait pas si bien dire. Je pris sa main sans relever qu’il venait de me donner, sans le vouloir, la même définition qu’Elwenn au pied de l’arbre. Deux personnes en deux jours, dans deux lieux, m’avaient nommé de la même façon, chacune croyant m’apprendre qui j’étais. Ce soir-là, sur la page, je commençai à écrire : ~~ce n’est pas moi qui les tue, je ne fais que~~. Puis je barrai. La marge disait déjà tout ce qu’il fallait, et le reste ne me regardait pas encore.
-
-Je quittai Evertia le lendemain, à la marée, l’archipel derrière moi et ses voix éteintes une à une dans son dos, emportant un accord que je ne savais pas nommer, une phrase au pluriel donnée par une femme qui me méprisait à demi, et la teinte des paumes de Marvet, qui saigne plus quand l’arbre donne moins. Trois relevés, comme trois caps pris d’un même rivage. Un cartographe honnête ne demande pas à ses relevés d’être aimables, mais exacts, et il les range.
-
-Restait à savoir ce qu’exact voulait dire, cette fois. Deux heures durant, j’étais monté au chevet d’une chose que je ne pouvais pas retenir, j’en étais redescendu avec une ligne de plus, et deux personnes qui ne se connaissaient pas m’avaient nommé du même nom sans se donner le mot. On peut appeler cela un métier. On peut l’appeler autrement. Elwenn, elle, ne s’était pas trompée de terme, et Voix-de-Pierre, en me souhaitant d’écrire juste, avait cru me faire une politesse là où il m’avait rendu un jugement.
-
-La mer était grise et douce sous un ciel sans vent. Longtemps je marchai sur le pont sans cahier, ce qui ne m’était pas arrivé depuis les steppes de Ventera. Je ne tirai aucune leçon de ce silence  ; je constatai seulement qu’il avait été supportable, et qu’un homme qui écrit ce qu’il ne peut pas sauver a parfois le droit, une heure, de ne rien écrire du tout.
+La mer était grise et douce sous un ciel sans vent. Longtemps, je marchai sur le pont sans cahier, ce qui ne m’était pas arrivé depuis les steppes de Ventera. L’eau clapotait contre la coque, le bois craquait, et l’air sentait le sel et le goudron chaud. Ce silence a été supportable, et je n’en tire pas de leçon. C’est ce que je note.
