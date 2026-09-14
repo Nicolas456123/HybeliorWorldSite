@@ -256,3 +256,21 @@ droit à la formule. Même là, préférer le concret et le culturellement situ�
 - Les versions audio (`Docs/Lore/_Audio/`) deviennent obsolètes pour tout
   chapitre réécrit : le signaler à l'utilisateur, ne pas les régénérer sans
   demande.
+
+## 8. Organisation du travail (sous-agents)
+
+- **Modèle imposé par l'auteur : Opus 5** pour tout sous-agent de
+  réécriture (outil Agent, `model: "opus"`). Ne pas déléguer un chapitre à
+  un modèle plus petit.
+- Un agent par chapitre ; **lots de 5 agents au plus** en parallèle (au-delà,
+  les limites du compte interrompent les agents en cours de route).
+- Le prompt d'un agent contient : ce skill, le chapitre étalon validé par
+  l'auteur (ch. 1 pour les Chroniques), les sections utiles de la bible
+  (règles du narrateur, table des jalons, fiche du chapitre citée avec son
+  double-fond), l'original, et la consigne de réécrire en place puis de
+  passer `scripts/normalize-typo-livres.js` et la checklist §6.
+- Avant de committer un chapitre rendu par un agent, vérifier soi-même :
+  `wc -w` contre `git show HEAD:`, la fin du fichier (brouillon complet ?),
+  le frontmatter inchangé, la présence d'insécables, les greps de la
+  checklist. Un agent interrompu laisse parfois un brouillon complet sur le
+  disque : le récupérer après ces mêmes contrôles plutôt que relancer.
