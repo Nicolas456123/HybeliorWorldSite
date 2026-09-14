@@ -118,7 +118,7 @@ Karsel s’était arrêté un pas en arrière, le coffre à l’épaule, et il r
 
 « On monte, maître ? » Sa voix était basse, prise dans le silence de la foule. « Ou on referme le cordon et on attend le jour ? »
 
-Vaskar ne répondit pas tout de suite. Un pèlerin, plus haut, venait de tomber à genoux dans la cendre, non de fatigue, les bras ouverts, la bouche ouverte, dans l’attitude exacte du Prophète qu’on avait retrouvé mort dans ce même Mont un an plus tôt, foudroyé par rien, une main de plus que la Guerre de l’Ombre n’avait pas eu à lever parce que la montagne, disait le rapport qu’il avait classé, s’en était chargée. On mettait cela dans la case des accidents rituels. Vaskar avait cessé, cette nuit, de croire aux cases.
+Vaskar ne répondit pas tout de suite. Un pèlerin, plus haut, venait de tomber à genoux dans la cendre, non de fatigue, les bras ouverts, la bouche ouverte, dans l’attitude exacte du Prophète qu’on avait retrouvé mort dans ce même Mont sept ans plus tôt, foudroyé par rien, une main de plus que la Guerre de l’Ombre n’avait pas eu à lever parce que la montagne, disait le rapport qu’il avait classé, s’en était chargée. On mettait cela dans la case des accidents rituels. Vaskar avait cessé, cette nuit, de croire aux cases.
 
 « On ne referme rien, Karsel. » Il le dit sans amertume, du ton plat, le ton qui ne montait jamais, et qui cette nuit resta plat d’une platitude qui coûtait plus qu’il n’en avait jamais coûté. « Un cordon ferme une chose qui veut sortir. Regardez-les. Aucun ne veut sortir. Ils veulent monter. On ne referme pas une porte quand tout le monde pousse dans le même sens qu’elle s’ouvre. »
 

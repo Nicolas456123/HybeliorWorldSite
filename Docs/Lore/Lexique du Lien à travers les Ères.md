@@ -45,7 +45,7 @@ Chaque Ère a nommé différemment ceux qui accédaient au Lien et ceux qui en �
 |---|---|---|---|
 | **Âge du Lien** (pré-An 0) | **Liés** — porteurs de la trame vivante | **Vides** — nés sans accès, **méprisés** comme une caste inférieure | « Vide » est ici une **caste sociale**, pas la catégorie GDD. |
 | **An 0 — l'Arrachement** | **Tisses** — ~3 sur 1 000 (~0,3 %) gardent un **Lien résiduel** (1–2 Éthérés locaux) | l'immense majorité (~99,7 %) perd toute connexion | Le mot « Tisse » (« cousu de bouts de rien ») est d'abord péjoratif ; voir [[Era 4 - L'Arrachement]] §5.3. |
-| **Fléau / Grande Nuit** (~1 400 → ~1 600 ap.A) | **Tisses**, désormais **traqués** | non-Liés — dont la **guilde du « fer froid »**, qui les persécute | La « chasse aux Tisses » fait des rares survivants les ancêtres directs des Liés modernes. |
+| **Fléau / Grande Nuit** (~1 400 → ~1 500 ap.A) | **Tisses**, désormais **traqués** | non-Liés — dont la **guilde du « fer froid »**, qui les persécute | La « chasse aux Tisses » fait des rares survivants les ancêtres directs des Liés modernes. |
 | **Sillage actuel** (an 251 / ~10 200 ap.A) | **Liés** — ~30 %, formant une **caste** privilégiée | **non-Liés** — ~70 %, terme **neutre** par défaut | Plusieurs nations stigmatisent leurs non-Liés sous l'appellation **« Déliés »** (voir §3). |
 
 **Précisions.**

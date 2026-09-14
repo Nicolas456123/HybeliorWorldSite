@@ -3,7 +3,7 @@ tags: [lore, méta, incohérences, chantiers, cohérence, graphe, à-résoudre]
 type: lore
 status: living
 date: 2026-07-17
-last_review: 2026-07-17
+last_review: 2026-09-09
 needs_review_for: []
 ---
 
@@ -133,6 +133,40 @@ plein (attesté) du cercle creux (approché).
 le Schisme de la Septième, la révélation de Yelthari, une convention des
 ermites-astronomes) : le corpus ne dit rien, même indirectement. À écrire.
 
+### Passe 3 (2026-08-26) — le récit versé au graphe (les 38 Chroniques)
+
+Les Chroniques de l'Exilé (5 actes, 910 jours) n'existaient dans le graphe
+que par leurs personnages : **aucun événement narratif** n'y figurait. Les 38
+chapitres ont été relus et 189 événements en ont été extraits dans
+`data/evenements-recit.json` (fichier relisible/corrigeable à la main), puis
+versés par `scripts/injecter-recit.js` (idempotent, clé `oeuvre:chapitre:titre`).
+
+- **Ancrage temporel** (bible v2, §4.0bis) : départ fin an 248, retour jour
+  910 au début de l'an 251 → `an(jour) = 248 + ⌊(305 + jour − 1)/365⌋`,
+  toutes dates *circa/estimation*, calendrier tagué `sillage`.
+- **Au-delà du voyage** : ~40 jalons hors-itinéraire datés par le texte
+  (disparition d'Aldric, éveil de Velathor, réouverture du chenal du nord an
+  247, expédition altram an 243, anomalies magnétiques de Cestra an ~220,
+  plongée du père de Selendris an ~220, Édit de Celestia an −450…).
+- **14 personnages secondaires créés** (Ossian, Wenna Corth, Hesken, Torhal,
+  Vessane, Halen…) — déclarés dans le fichier d'événements, jamais créés
+  d'office depuis un nom non résolu.
+- Le graphe passe à **2 748 entités, 1 286 faits (1 285 datés), 3 269
+  relations** ; 766/912 personnes situées.
+
+**Contradiction du lore mise au jour — la chronologie de Noravia.**
+`Histoires/Cestra/Noravia.md` (registres du Conseil novien) date le départ
+d'Aldric de **l'an 220** et le passage de Sorin de **l'an 231** (« 12-19 du
+IIIe mois 231 », reparti « sans avoir tenté d'aller au glacier »). Les
+Chroniques v2 posent Sorin à Noravia vers **l'an 250** (jours 825-847), *qui
+monte au surplomb du Jumeau*, et un Aldric parti « il y a vingt ans »
+(~230) — mais Solvanes, à Lunasar, parle de « trente pleines saisons »
+(~220 ?). Deux faits attestés cohabitent donc sur la fiche de Sorin
+(fac-0645 : passage en 231 ; faits du récit : passage en 250). **À arbitrer
+par l'auteur** : soit Noravia.md précède la bible v2 et doit être rebasée
+(220→~230 pour Aldric, 231→250 pour Sorin, et Sorin monte bel et bien au
+glacier), soit le registre novien est volontairement faux dans la fiction.
+
 ---
 
 ## 2. Nombre de continents — 13 dans le graphe, « douze » au canon
@@ -174,7 +208,7 @@ Le canon acte : **« Table Chronologie corrigée : Caeloria → Azoria ; Torkam 
 
 ## 5. Dirigeants non rattachés à leur royaume — 8 règnes orphelins
 
-**Statut : ouvert (mineur).**
+**Statut : ouvert (mineur). Recompte 2026-09-09 : 13 règnes orphelins — voir §11.c-10.**
 
 44 des 52 règnes sont reliés à leur polité (`object_id`) ; **8** ne le sont pas, faute d'une entité-polité au nom correspondant :
 
@@ -248,7 +282,29 @@ Cas concrets à traiter en priorité (échantillon) :
 
 ## 10. Positions vs rattachements — les conflits carte/fiches (cas Folgrad)
 
-**Statut : 15 conflits à arbitrer, liste exacte dans `data/geo-conflits.json`.**
+**Statut : RÉSOLU (2026-09-10) — 0 conflit restant sur 226 villes.** Le
+dernier lot (la famille « No Man's Land ») est tombé d'un coup : sur la
+carte d'origine, les étiquettes des marqueurs **NML Azoria** et **NML
+Cestra** étaient **permutées** — le marqueur « Azoria » posé en lisière
+sud du continent Cestra (−473, −398), le marqueur « Cestra » au cœur du
+continent Azoria (231, 384 — position retrouvée par triangulation sur les
+distances de `geo-conflits.json`, erreur < 1 unité), au milieu des treize
+villes que les fiches rattachent au NML d'Azoria. Arbitrage (délégué,
+2026-09-10) : **échange des deux marqueurs**, appliqué par
+`scripts/arbitrer-nml.js` (tracé `data.arbitrage`, anciennes valeurs
+conservées) ; aucun re-rattachement nécessaire — les lieux des deux NML
+étaient déjà du bon côté du monde. `geo-conflits.json` régénéré : **0
+conflit**. Le texte d'origine suit, comme trace.
+
+**Nouveau cas découvert le 2026-09-11 (par les cartes d'ère) — Haldria.**
+Le marqueur de Haldria (−271, 172) — et donc sa surface extraite — vit en
+plein **Ilthara**, quand ses fiches (`Pays/Endora/Haldria.md`) la disent
+d'**Endora**. Invisible aux contrôles : Haldria n'a aucune ville
+positionnée pour trancher. Arbitrage d'auteur : déplacer le bloc carte
+vers Endora (marqueur + re-extraction de surface), OU acter que la carte
+a raison (et corriger fiches + rattachement). En attendant, la surface
+« Haldria » (et le Protectorat d'Haldros / le Saint-Empire d'Endara des
+cartes d'ère qui en héritent) s'affiche à l'ouest.
 
 La carte vivante a rendu visible une contradiction entre **deux sources de l'auteur** : la position des points sur la carte d'origine (sauvegarde du 3 mai) et le rattachement des fiches. Cas découvert : **Folgrad**, capitale de **Mosrack** (Onara) selon les fiches, mais posée sur la carte **à 21 unités du marqueur d'Ulinor** (et à 381 du marqueur de Mosrack).
 
@@ -264,6 +320,322 @@ Corrections déjà appliquées : **42 ancres** pays/continents importées des ma
 
 ---
 
+## 11. Passe d'analyse systématique du graphe (2026-09-09)
+
+**Statut : matière neuve, triée en quatre familles.** Relecture programmatique
+complète de `data/kg-base.json` (2 748 entités, 1 286 faits, 3 269 relations) :
+intégrité référentielle, chronologie, généalogie, successions, doublons,
+géographie. Bonne nouvelle d'abord : **0 rupture d'intégrité** (aucun fait ni
+relation ne pointe vers une entité fantôme, aucun cycle `situe-dans`, aucune
+mort avant naissance sur dates fermes, aucune paire alliés-et-en-guerre).
+Tout ce qui suit est daté, sourcé par identifiant de fait, et corrigeable.
+
+### 11.a Erreurs mécaniques de datation — corrigées (2026-09-09)
+
+**Statut : résolu.** Voir la *Résolution appliquée* en fin de section ; le
+tableau ci-dessous est conservé comme trace de ce qui était faux.
+
+Le libellé de chaque fait dit une chose, l'année absolue inscrite en dit une
+autre. Neuf cas sûrs, décelés en recomparant l'année du graphe à l'année
+Sillage écrite dans le libellé (154 faits vérifiables, 9 divergents) :
+
+| Fait | Sujet | Année inscrite | Ce que dit le libellé | Année attendue |
+|---|---|---|---|---|
+| `fac-0931` | L'Invasion Avortée | 10 201 | « trois siècles **avant** l'an 252 » | ~9 900 (cohérent avec `fac-0195`/`fac-0542`) |
+| `fac-0598` | La Schismature des Forges | 10 179 | l'événement court Sillage 121–137 | 10 070–10 086 (cf. `fac-0942`/`fac-0962`) |
+| `fac-0646` | Expédition Valkren | 9 963 | « départ consigné **14 du IIe mois 188** » — le jour du mois a été lu comme année Sillage | 10 137 (cf. `fac-0974`/`fac-0987`) |
+| `fac-0205` | L'Édit de Celestia | **−700** | « ~7 siècles avant le Sillage » lu comme année absolue négative — place l'Édit avant l'Arrachement | ~9 250 |
+| `fac-0276` | mort de Lethanis Vor-Ostrun | 10 121→10 138 | c'est sa période de charge (+172–+189) ; elle meurt « en +193 » | 10 142 (cf. `fac-0191`/`fac-0550`) |
+| `fac-0280` | mort de Mara Telventh | 10 101 | 10 101 = +152, le **début** de sa charge ; elle meurt « en +178 » | 10 127 |
+| `fac-0288` | mort de Veska Drennar | 10 083 | 10 083 = +134, sa **canonisation** ; elle meurt « en Sillage 109 » | 10 058 (cf. `fac-0438`) |
+| `fac-0565` | mort d'Ingrid Frelvar | 10 146 | 10 146 = sa **naissance** (an 197) ; elle « meurt en l'an 263 » | 10 212 |
+| `fac-0693` | règne d'Elyndra III | début 10 199 | 10 199 = son **abdication** (« en 250 ») ; « environ trois décennies de règne » | ~10 169→10 199 (cf. `fac-0233`, cohérent) |
+
+S'y ajoute `fac-0953` (déclin des Phénix de Feu) daté 9 952 (≈ Sillage 3)
+alors que tout le libellé vit vers l'an 220–251 du Sillage (registre depuis
+Sillage 70, dernier passage an 240) — origine de la valeur inexpliquée.
+
+**Résolution appliquée (2026-09-09) — `scripts/corriger-faits-11a.js`.**
+Les dix faits portent désormais l'année que leur propre libellé énonce ;
+chaque ancienne valeur est conservée dans `data.correction` (auditable,
+réversible), et le script est idempotent (valeurs attendues vérifiées avant
+écriture). Les périodes dérivées de sept entités ont été recalées avec la
+règle exacte du pipeline (min/max des faits datés) : l'Invasion Avortée
+(9 900), la Schismature (10 070–10 086), l'Expédition Valkren (10 137),
+l'Édit de Celestia (9 250–9 500 — la fourchette du §11.b-2 reste à
+arbitrer), Veska Drennar (fin 10 058), Ingrid Frelvar (10 146–10 212 ; sa
+naissance ne vit que dans le libellé de `fac-0565`, conservée en début de
+période), les Phénix de Feu (déclin dès ~10 170). L'audit libellé-vs-année
+re-passé ne laisse que des faux positifs de lecture (années « 9 605 ap.A »
+attrapées comme « Sillage 9 », années de contexte) et les contradictions
+attestées du §11.b (Tessar, Kyra), qui relèvent de l'arbitrage, pas de la
+correction.
+
+### 11.b Contradictions du lore — arbitrées (2026-09-09, par délégation)
+
+**Statut : résolu.** L'auteur a délégué l'arbitrage (« tranche au plus
+logique ») ; les douze verdicts, motivés, sont enregistrés dans l'interface
+d'arbitrage et appliqués au graphe par **`scripts/arbitrer-11b.js`**
+(idempotent, gardé par les valeurs attendues, provenance `data.correction` /
+`data.arbitrage` sur chaque fait touché). Verdicts :
+
+1. **Tessar Veynd** — né en **Sillage 88** (le récit précis — lieu, famille,
+   âge à la mort — l'emporte sur « vers 75 », dérivé d'un âge estimé au
+   sermon) ; mort en **137**, la fuite de l'apprenti « en 138 » suit une
+   mort de fin d'année.
+2. **Édit de Celestia** — promulgué par le **Premier Conclave, an −450 du
+   Sillage (9 499 ap.A)** : deux sources indépendantes convergent (fiche
+   religieuse ~9 500, récit an −450). `fac-0299`/`0399`/`0205` recalés ;
+   `fac-1234` (la promulgation, typée fondation *de Caeloria*) retypé
+   événement.
+3. **Kyra** — c'étaient **trois** personnes : la fille d'Aldren Voss
+   (Glintaris, † à 11 ans, garde `per-0200`, renommée « Kyra (de
+   Glintaris) »), la forgeronne d'Ardentris fille de Velya (`per-0913`),
+   l'épouse d'Aldren de Thalor (`per-0914`). Faits, liens familiaux et
+   conjugaux répartis ; alias « Kyra » posés en désambiguïsation ;
+   `a-ne-pas-confondre-avec` en triangle.
+4. **Civilisations antiques** — **les fiches font foi** : les 16 faits-seed
+   sans libellé (table du premier import) supprimés ; les huit périodes
+   recalées sur les dates des fiches (Alkarath −16 000→−11 500, Endara
+   −9 000→−5 000, Ithalorn −7 000→−3 500…).
+5. **Kethvar** — deux temps : le **peuplement** (Loi de Pierre, ~−2 000,
+   `fac-0505` retypé événement) et la **fondation nationale** (~9 700).
+6. **Pyrevane** — **trait canon conservé** (« existe sans avoir été
+   instituée ») : l'émergence de ~−14 500 devient un événement, la
+   fondation politique reste ~9 800 ; le paradoxe vit dans les libellés.
+7. **Mirathi** — fondée par le **Sanctuaire (~9 400)** ; l'érection en
+   province de Vytharia (~9 800) devient un événement.
+8. **Elarath 9 996, Solmaris 9 961** — le récit fondateur propre fait foi
+   (« l'an 47 » de la fragmentation de Morveth ; la Première Veillée) ;
+   les estimations de succession (~9 800) recalées.
+9. **Skaldoria** — fondée ~9 400 ; l'accord du Ralthyn (9 560) est une
+   **réorganisation confédérale** (retypé événement).
+10. **Ligue des Marchands** — institution propre (`pol-0124`, dans
+    Tyndara) : `fac-1028` déplacé, Selyra la fonde, Fablioris en capitale.
+11. **Velmaris** — il y a **deux Velmaris** : la ville du soufre reste à
+    Solmaris ; le **village de pêcheurs de perles du Lagosaim (Seraphia)**,
+    découvert dans la fiche Seraphia, devient `lie-0969` et reprend le lien
+    vers Seraphia. La ville-étalon du calage carte est donc bien à Solmaris.
+12. **Règnes multiséculaires** — **fenêtres d'incertitude**, pas des durées
+    (aucun n'est canonisé « longévité inexpliquée », contrairement à
+    Verithan) : les huit faits marqués `data.fourchette = true`. ⚠ Chantier
+    d'affichage : la Fresque et les fiches doivent apprendre à ne pas
+    rendre une fourchette comme une durée de règne.
+
+**Observation de bordure (hors arbitrage).** Les ~40 paires de fondations
+restantes suivent le motif *précurseur* voulu (« Province sud de Tharnok »,
+« Berceau de l'Eau »…) : des faits d'histoire profonde du territoire, typés
+`fondation` par l'import d'origine. Même remède que 5/7/9 si l'auteur le
+souhaite — les retyper `evenement` en masse — mais c'est une décision de
+**modèle**, pas de lore ; laissée ouverte.
+
+Le texte d'origine des douze points est conservé ci-dessous comme trace.
+
+1. **Tessar Veynd, deux naissances.** « Né vers 75 » (quarante-six ans au
+   sermon de 121 — `fac-0187`/`fac-0596`) vs « né en Sillage 88 » (mort à
+   49 ans en 137 — `fac-0273`/`fac-0274`). Les deux traditions sont
+   *internement* cohérentes (75+46=121 ; 88+49=137) et incompatibles entre
+   elles. Mort en 137 vs 138 (`fac-0943` : l'apprenti fuit « immédiatement
+   après la mort » en 138) — divergence mineure liée.
+2. **L'Édit de Celestia, trois datations.** ~9 350 ap.A (`fac-0299`/`fac-0399`),
+   ~9 500 « par le Premier Conclave » (`fac-0516`), « sept siècles avant le
+   Sillage » ≈ 9 250 (`fac-0205`) — et le récit (passe 3) le situe « an −450 »
+   ≈ 9 499. Deux époques candidates : ~9 250–9 350 ou ~9 500.
+3. **Kyra (`per-0200`) est deux personnes fusionnées.** Fille d'Aldren Voss,
+   morte à **11 ans** d'une fièvre inexpliquée au temple d'Ignis Aeternum de
+   Glintaris (`fac-0437`, 10 165) — et forgeronne à Ardentris, fille de la
+   prêtresse Velya, morte à **19 ans** de la Maladie des Poumons (`fac-0880`).
+   Parents, lieux, âges et causes incompatibles : à **scinder** en deux
+   entités homonymes.
+4. **Civilisations antiques : la table-seed contredit les fiches.** Chaque
+   grande civilisation porte une fondation/chute **sans libellé** (seed du
+   premier import chronologique) *et* une fondation/chute **libellée**
+   (fiches Histoires), qui divergent :
+   | Civilisation | Fondation seed / fiches | Chute seed / fiches |
+   |---|---|---|
+   | Confédération d'Alkarath | −15 000 / −16 000 | **−2 000 / −11 500** |
+   | Khalifat de Solvenar | −12 000 / −11 000 | **−4 000 / −7 500** |
+   | Saint-Empire d'Endara | −10 000 / −9 000 | **0 / −5 000** (+ fait de chute en double) |
+   | Royaume des Songes d'Ithalorn | **−10 000 / −7 000** | −2 000 / −3 500 |
+   | Ligue Marchande d'Everthor | −5 000 / −5 000 | 0 / −1 500 |
+   | Tharnok | 100 / 600 | 3 000 / 3 200 |
+   | Forgon | 150 / 400 | 3 500 / 4 000 |
+   | Drahk'Nor | 200 / 800 | 4 800 / 4 800 |
+   La Fresque affiche les **deux** jeux. Trancher lequel fait foi (les faits
+   libellés sont traçables aux fiches ; les seeds venaient de la table
+   chronologique), puis supprimer l'autre.
+5. **Kethvar, deux fondations à 11 700 ans d'écart.** ~9 700 ap.A
+   (successeur de la Thalassocratie Azor-Kerev) vs ~−2 000 (« forgerons
+   issus d'une migration des plateaux d'Alkaran… durant l'Âge du Lien »).
+6. **Pyrevane** : fondation ~9 800 (successeur de la Ligue des Villes
+   Libres) vs émergence ~−14 500 (fragmentation du Dominat de Pyrevaste) —
+   possiblement voulu (« existe sans avoir été instituée ») ; à confirmer et
+   à glossairer si c'est le cas.
+7. **Mirathi** : « province de Vytharia ~9 800 » vs « Sanctuaire de Mirathi
+   fondé ~9 400 par des rêveurs vythariens dissidents ».
+8. **Elarath** : fondation ~9 800 vs fragmentation de Morveth « an 47 »
+   (= 9 996). **Solmaris** : ~9 800 vs 9 961 (Première Veillée). Même motif :
+   la date « succession de la civilisation mère » et la date « récit fondateur
+   propre » cohabitent sans hiérarchie.
+9. **Skaldoria** : fondation ~9 400 vs confédération clanique de 9 560
+   (accord du Ralthyn, après la Bataille du Fjord Gelé) — peut-être deux
+   événements légitimes (nation puis confédération) ; à dire explicitement.
+10. **Tyndara** porte la fondation de la **Ligue des Marchands** (Selyra la
+    Calculatrice, Fablioris, datée 9 977) comme un fait de fondation de
+    Tyndara elle-même (fondée ~8 400) — rattachement à vérifier.
+11. **Velmaris dans deux nations.** La ville-étalon du calage carte est
+    `situe-dans` **Solmaris** (`lnk-2065`, conforme au résumé « port ouest de
+    Solmaris ») *et* **Seraphia** (`lnk-2586`). Soit un rattachement erroné,
+    soit deux Velmaris homonymes (le couvent des sœurs Brum-Velmaris /
+    Krasv-Velmaris, « Velmaris-Haut » ?) — à trancher, avec incidence sur la
+    carte.
+12. **Durées de règne extrêmes non distinguées des fourchettes.** Haldros le
+    Navigateur 8 200→9 300 (1 100 ans), Faelorn et Amaryl 700 ans, Warenthos
+    600, Ashgrim le Calciné 400 (« règne non daté » !), Theldryn III 300,
+    Vytha 200. Certaines sont des **fenêtres d'incertitude** encodées dans
+    début/fin, d'autres peut-être des longévités voulues (Verithan, ~600 ans,
+    est lui **explicitement** canonisé « longévité inexpliquée »). Le modèle
+    ne permet pas de les distinguer → marquer les fourchettes (`data`) ou
+    élaguer.
+
+### 11.c Structure du graphe — réparé (2026-09-09)
+
+**Statut : résolu**, par **`scripts/reparer-11c.js`** (idempotent, tout
+tracé en `data.reparation`, libellés des faits fusionnés conservés dans
+`data.fusion`). Sauvegarde avant/après dans l'historique git. Bilan :
+
+- **Fusions** : la nation Dhalvoria récupère tout ce que portait
+  l'événement homonyme (dont sa vraie fondation ~9 900) ; Feylor, Zarnith
+  et Frosthal redeviennent des lieux (résumés et faits transférés,
+  Frosthal rattachée à Elarian) ; le double vide de la Fédération de
+  Morveth supprimé ; **l'Empire d'Evertia et la nation Evertia ne font
+  plus qu'un** (même capitale Caëspia, même Impératrice — alias posé), et
+  Thalmaris/Sylvara redeviennent des nations sœurs du continent.
+- **79 faits en double fusionnés** (règnes, naissances, morts des deux
+  passes d'import) ; la fuite de l'apprenti de Tessar retypée événement.
+  Restent 3 paires *voulues* (objets différents = deux rôles, ex. Brenna
+  cheffe du Clan du Loup et fondatrice de la Confédération).
+- **11 rattachements continentaux tranchés par les fiches `Pays/`** :
+  Tyndara→Onara, Haldria→Endora, **Caeloria→Azoria** (chantier CLAUDE.md
+  réglé), Vytharia/Lunasar/Mirathi→Ilthara (l'île de Nysaria restant à
+  Celethor), **Torkam→Alkaran**, le Temple des Flammes Éternelles ramené
+  à Ilnara seule, Windora purgée de son reliquat Thalmaris (résumé
+  compris). **0 entité à cheval sur deux continents** (57 avant).
+- **No Man's Land homogénéisés** : Celethor et Cestra retypés
+  `entite-politique` genre non-état, comme Azoria (le canon les compte
+  parmi les 47 nations). ⚠ La permutation suspectée des *marqueurs* NML
+  Azoria/Cestra reste un arbitrage d'auteur (CLAUDE.md).
+- **Capitales-seed** : les cinq situées dans leur nation ; Lithanel,
+  Navoria (engloutie An 0, fin posée) et Everthor-Prime qualifiées
+  « capitale ancienne » face aux capitales actuelles des fiches (Trelios,
+  Folgrad, Ostarith).
+- **0 règne orphelin** (13 avant) : rattachés à Kryostra, Glacoria,
+  Thyldor, Galdryn, Mythralis, Eridorn, et aux tribus Jentar/Folinor
+  (lignées — assumé) ; la Tyrannie des Cendres retypée événement de
+  Drahk'Nor.
+- **0 homonymie non balisée** (30 avant) : 17 `a-ne-pas-confondre-avec`
+  posés ; les doublons de facettes (Vael'Ur, Cœur de Cendra, Chamanes des
+  Brumes, Verithani, Étranger des Heures, Fragment #3) reliés `lie-a`
+  « à fusionner au bake » ; l'Arrachement et la Résonance balisés
+  « concept + événement, facettes voulues ».
+
+**Restes assumés** : les faits-précurseurs typés `fondation` (~40, motif
+voulu — cf. fin du §11.b) ; les doublons de fondation à date égale
+(Tharnok, Forgon, Drahk'Nor, Lunasar… — attestations multiples, bake).
+
+**Affichage appliqué (2026-09-10).** La Fresque dessine désormais une
+fourchette (`data.fourchette`) en cercle creux à mi-fenêtre avec
+moustaches — plus jamais en trait de règne — et son infobulle dit
+« entre X et Y · fenêtre d'incertitude » ; `dateLabel` (fiches, Atelier
+Dirigeants) dit « entre X et Y » ; et le label propre d'une relation
+(« capitale ancienne, engloutie An 0 »…) qualifie son type sur les fiches
+au lieu d'être écrasé (`lib/kg-core.js`).
+
+Le texte d'origine est conservé ci-dessous comme trace.
+
+#### Texte d'origine (avant réparation)
+
+1. **La nation Dhalvoria vit dans un événement.** `evt-0166` (« Dhalvoria »)
+   porte la capitale (Dhalvora, `lnk-2855`), neuf villes `situe-dans`, deux
+   religions pratiquées, une vénération, une frontière avec la Confédération
+   tribale d'Ulinor et la **succession de la Ligue Yurrak** (`lnk-0448`) —
+   pendant que la vraie polité `pol-0041` ne porte qu'un fait. Même famille :
+   **Feylor** (`evt-0164`, cible de `gouverne` et `fonde` !), **Zarnith**
+   (`evt-0163`, `situe-dans` le No Man's Land Celethor), **Frosthal**
+   (`evt-0165`) — des événements nommés comme leurs lieux homonymes
+   (`lie-0739`/`lie-0746`/`lie-0767`) et devenus porte-relations de lieux.
+   À retyper ou re-brancher sur les bonnes entités.
+2. **Fédération de Morveth en double** : `evt-0126` (décrite comme « la
+   confédération de douze cités » — une entité, pas un événement) vs
+   `pol-0081`. Fusionner ou faire de l'événement la *fondation* de la polité.
+3. **52 dirigeants portent deux faits de règne quasi identiques** (45 paires
+   aux dates strictement égales, 7 divergentes) — reliquat de deux passes
+   d'import (séries `fac-01xx`–`02xx` vs `fac-04xx`+). Dédoublonner lors du
+   bake ; les 7 divergentes sont surtout « fin 10 200 (présent) vs fin
+   ouverte », sauf Elyndra III (cf. 11.a).
+4. **Doubles rattachements `situe-dans` contradictoires** — les racines des
+   57 entités « à deux continents » : **Tyndara** → Galenor *et* Onara ;
+   **Haldria** → Endora *et* Ilthara ; **Caeloria** → Celethor *et* Azoria
+   (chantier connu) ; **Vytharia/Lunasar/Mirathi** → Nysaria *et* Ilthara
+   (leur `data.continent` dit encore Nysaria) ; **Torkam** → Ulinor *et*
+   Alkaran (§4) ; **Temple des Flammes Éternelles** → quatre parents
+   (Ilnara, Pyracine, Haliandris, Lorenthia) ; **Mont Cendra** → Cendara et
+   La Grande Île. Clans à cheval (Halgren, Hesgarn, Ours, Vass) : peut-être
+   voulu, à confirmer. Un arbitrage par nation suffit à assainir toute la
+   descendance.
+5. **Windora : arbitrage appliqué à moitié.** L'arbitrage 2026-07-18 (« région
+   d'Astravia ») a bien posé `lnk-2134` → Astravia et l'échelle `region`,
+   mais l'ancien `lnk-2433` → Thalmaris **subsiste**, et le résumé de la
+   fiche dit toujours « région venteuse de l'est de **Thalmaris** ».
+6. **Trois No Man's Land, deux typages.** NML Azoria = `entite-politique`
+   (`pol-0109`, genre non-état) ; NML Celethor et NML Cestra = `lieu`
+   d'échelle region (`lie-0242`, `lie-0298`). Le canon les compte parmi les
+   47 nations : homogénéiser (et créer les entités NML par continent
+   attendues par le §10).
+7. **Evertia en triple.** `lie-0008` (échelle **continent**, pourtant décrit
+   « archipel-forteresse, l'Île aux Merveilles ») + `pol-0116` (nation
+   « extérieure à Cendara », sans géographie) + `pol-0119` (Empire
+   d'Evertia). Thalmaris et Sylvara sont `situe-dans` les **deux** premiers ;
+   Valmora et Lithéa dans `pol-0116` *et* `pol-0119`. À démêler — et le cas
+   pèse sur le §2 (si Evertia est une île, le compte des continents descend
+   à dix).
+8. **Cinq capitales hors géographie** : Lithanel, Drahk, Orivanel, Navoria
+   (engloutie An 0) et Everthor-Prime (`lie-0014`–`lie-0018`) sont
+   `capitale-de` sans aucun `situe-dans`.
+9. **29 homonymies non balisées** (aucun `a-ne-pas-confondre-avec`) :
+   Evertia, Ackerna, Warenthor, Skaldoria, Noravia, Trinoria, Valoria,
+   Ryldor (polité vs lieu) ; Thaldris, Thyros, Selvorn, Aerith, Yltheris,
+   Korven (personne vs lieu) ; Jentar, Folinor, Xyria (lignée vs lieu) ;
+   L'Arrachement (concept vs événement), La Résonance, Vael'Ur, Le Cœur de
+   Cendra, Les Chamanes des Brumes, Les Verithani, l'Étranger des Heures,
+   Le Fragment #3 (concept/terme/objet — probablement de **vrais doublons**
+   à fusionner plutôt que des homonymes) ; Zarnith, Feylor, Frosthal,
+   Dhalvoria, Fédération de Morveth (cf. points 1–2).
+10. **Le décompte des règnes orphelins passe de 8 à 13** (§5) — s'y sont
+    ajoutés Krenneth de Kryostra, Rann et Vyssa (Glacoria), Brennar et
+    Myrael (Thyldor), Vorastes (Galdryn), Vael Vegnaurson (Mythralis), La
+    Tisseuse d'Eridorn ; et un fait de règne porté par un **événement** (La
+    Tyrannie des Cendres, `evt-0161`). Trois des anciens cas visent des
+    tribus typées `lignee` (Jentar, Folinor, Clan du Loup) — décider si une
+    lignée peut être gouvernée ou s'il faut des polités tribales.
+
+### 11.d Points recontrôlés, inchangés
+
+- Les **13 villes** rattachées au No Man's Land d'Azoria mais posées près de
+  Caeloria (§10) : le recalcul spatial complet (226 villes vérifiées)
+  retombe exactement sur ces 13 — rien de neuf n'a dérivé.
+- **§2 continents** : 11 continents d'échelle dans le graphe ; la prose
+  (bible v2, Chroniques 33–37, Era 7…) dit toujours « douze ». Toujours à
+  trancher dans les textes (et cf. 11.c-7 pour Evertia).
+- **§3 nations vs civilisations** : `data.genre` n'est posé que sur 46/123
+  polités (dont 6 « nation ») — le recompte canon (47) reste impossible.
+- **Sœur Asra / Sœur Velna** (passe 2) et **la chronologie de Noravia /
+  Sorin** (passe 3) : toujours à arbitrer, rien de neuf.
+- Les **5 faits sans aucune date possible** (Lunarch de Myrind, Schisme de
+  la Septième…) : toujours à écrire.
+
+---
+
 ## Arbitrages actés par l'auteur (2026-07-18)
 
 Quatre points tranchés en interface interactive, appliqués au graphe :
@@ -272,7 +644,7 @@ Quatre points tranchés en interface interactive, appliqués au graphe :
 |---|---|---|
 | **Folgrad** (carte vs fiche) | **La fiche a raison** : capitale de Mosrack (Onara) | point repositionné au marqueur Mosrack (393, 91) ; surface nationale de Mosrack extraite ; étape 10 de Sorin re-pointée sur Folgrad |
 | **Windora** (Thalmaris vs Astravia) | **Région d'Astravia** | `situe-dans` → Astravia, échelle passée à `region` |
-| **Continents (12 vs 13)** | **Baelor et Nysaria sont de grandes îles**, pas des continents | rétrogradés (échelle `region`, marqués île) → **11 continents canoniques**. ⚠ Reste à réconcilier : la prose (romans, Chroniques) dit « douze continents » — onze + les deux grandes îles ne font pas douze ; à trancher dans les textes. |
+| **Continents (12 vs 13)** | **Baelor et Nysaria sont de grandes îles**, pas des continents | rétrogradés (échelle `region`, marqués île) → **11 continents canoniques**. ⚠ ~~Reste à réconcilier : la prose (romans, Chroniques) dit « douze continents »~~ — **clos 2026-09-14** : usage vernaculaire du monde, prose conservée (voir section suivante). |
 | **Taciti / Les Silencieux (Taciti)** | **L'une est une branche de l'autre** | reliées par `lie-a` (« branche de ») ; les deux entités conservées |
 
 Le §2 (nombre de continents) et les lignes Folgrad/Windora du §10 sont donc **réglés** ; `data/geo-conflits.json` régénéré (restent 14 cas, tous de la famille « No Man's Land »).
@@ -305,12 +677,33 @@ Le §2 (nombre de continents) et les lignes Folgrad/Windora du §10 sont donc **
 
 ---
 
+## Constats du versement des Romans au graphe (2026-09-14)
+
+Relevés faits pendant la lecture intégrale des trois tomes des *Trois Coups* (injection de 161 événements de récit dans le graphe), puis **tranchés le jour même par délégation de l'auteur** (« tranche au plus logique »). Application : `scripts/arbitrer-recit.js` (idempotent ; provenance `data.correction`/`data.arbitrage`/`data.fusion` sur chaque fait ou fiche touché) + corrections de texte listées ci-dessous.
+
+| Point | Constat | Arbitrage (2026-09-14) |
+|---|---|---|
+| **Doublon d'œuvres** | `oeu-0016` et `oeu-0004` recouvraient le même tome 3 ; l'injection n'utilise que `oeu-0004`. | **Fusion** : `oeu-0016` (créée par le balayage corpus — aucun fait, aucun alias, deux relations) absorbée par `oeu-0004` ; la relation Taldre re-branchée, le doublon per-0020 supprimé, le titre sans marqueur conservé en alias (`ali-0201`). |
+| **Année de la Refermeture** | La bible du T2 datait le Fléau « ~1400-1600 ap.A » ; le récit du T2 pose la Refermeture **vers 1500** (prologue −30, flashbacks 1480/1485, coda cahier muré 1502, coda enfant ~1560). | **Le récit fait foi : le Fléau s'achève ~1 500** (« l'Heure qui se referme »). Fin des six faits du Fléau (`fac-0097/0349/1051/1074/1075/1076`) 1600 → 1500 circa ; période d'`evt-0021` 1400→1500 ; datations harmonisées dans la bible T2, Era 4, Era 5, l'index de chronologie et le Lexique du Lien. Les « ~1 600 » deviennent un arrondi d'archives (la fiche Era 5 notait déjà des archives tardives étalant la fermeture « jusque vers ~1 700 »). La **tyrannie des Cendres garde ~1 450-1 600** : l'appareil survit un siècle à la Refermeture — cohérent avec le rapport falsifié de Vaenor (« le Fléau a cédé sous l'action des Inspecteurs »). |
+| **Périodes de personnages** | `per-0005` et `per-0008` portaient des périodes incompatibles avec leur rôle (fin à 9949). | Cause identifiée : **neuf faits « An 0 » importés à 9949** — « An 0 » y désigne l'Arrachement (0 ap.A), lu par erreur comme l'an 0 du Sillage. `fac-1056`→`fac-1061`, `fac-1066`, `fac-1067`, `fac-1070` recalés à 0 (ère Grande Nuit) ; périodes dérivées recalculées (Vorath −1→0, Kayara −40→0, Théon Ossarin 0, Tirash VII 0…). `fac-1069` (Fragment Zéro « déposé **bien après** l'An 0 ») n'est **pas** de cette famille : date de dépôt inconnue, ancrage 9949 (début du Sillage) conservé et marqué circa. |
+| **Velkar vs Verkan** | La bible du T3 (§2.1) écrivait « **Velkar** Sorne » ; le texte du T1 écrit partout « **Verkan** Sorne ». | **Verkan** — déjà acté au Canon (« Renommages de romans »). Le graphe était correct (`per-0010`) ; graphie corrigée dans les bibles T2 et T3 et la bible des Chroniques. Le **port Velkar** d'Azoral (`lie-0188`) et **Velkaris** (Lumasar) sont des homonymes légitimes, non touchés. |
+| **Navoria engloutie** | `pol-0054` : « engloutie en ~40 minutes » ; le T1 (ch. 26, H6) décrit une montée des eaux sur des jours et une noyade progressive sur une journée. | **Le récit fait foi** : résumé de `pol-0054` réécrit (noyade en une journée au terme d'une montée de plusieurs jours) ; « ~40 min » (Era 3b) rétrogradé en variante d'archives — le libellé de `fac-1056` garde les deux traditions, arbitrage noté dessus. |
+| **Nom du Grand Pontife** | Le T1 (ch. 34 — et non le T2 comme l'écrivait ce constat) le nomme **Théon Ossarin**. | `per-0882` renommée **Théon Ossarin** ; « Le Grand Pontife de Navoris » passe en alias (`ali-0202`). Son titre romanesque « Grand Pontife de **Navigor** » désigne le dieu, Navoris la thalassocratie — pas d'homonymie. |
+| **Marenn (homonymie)** | `per-0758` Marenn = fille de Retto, aubergiste du Poisson Doré **an 251** ; la « vieille Marenn » du T2 (~1560) est une personne distincte. | **Pas de nouvelle fiche** : la vieille du T2 est un personnage-fenêtre d'une coda, sans autre attache dans le monde ; le fait de récit la nomme sans lien. `per-0758` inchangée ; le câblage du lot avait déjà été corrigé. |
+| **La seconde clef du coffre d'Olven (T3, interne)** | Ch. 15 et 28 : l'autre clef est **au Prime** des Ombres ; ch. 32 : la déléguée **Orsenne** dit « J'ai l'autre ». | **Lecture conciliante, aucun texte modifié** : la clef appartient au Prime ; Orsenne en dispose **par délégation** lors de sa descente — c'est exactement son rôle d'émissaire ; « J'ai l'autre » est vrai au moment où elle le dit. |
+| **Mort du Prophète Vharok (T3, interne)** | Ch. 40 : « **sept ans** plus tôt » (idem bible §3.3) ; ch. 45 : « **un an** plus tôt ». | **Sept ans** (an 244 du Sillage) : ch. 45 corrigé (« sept ans plus tôt ») ; `fac-1095` recalé 10 200 → 10 193, période de `per-0893` suivie. Le « un an plus tôt » du ch. 51 (l'élève Karsel) est un autre sujet, non touché. |
+| **« Douze continents »** (rappel) | La prose des romans dit « douze continents » ; l'arbitrage 2026-07-18 a acté 11 continents + 2 grandes îles. | **Usage vernaculaire conservé, prose non modifiée** : « douze continents » est la façon dont le monde se compte lui-même (les vieilles cartes comptaient Baelor) ; le canon géographique reste 11 + 2. L'écart n'est plus une incohérence mais un fait de langue du monde — clos. |
+
+Créations liées au versement : `per-0915` **Vael** (frère de Thessan, T1) et `per-0916` **Rensa** (fille de Verkan Sorne, T1), fiches minimales issues du récit. *(Une première version de cette note écrivait per-0913/per-0914 — IDs pris entre-temps par les deux Kyra du §11.b.)*
+
+---
+
 ## Annexe — d'où viennent ces constats
 
 - Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
 - Rapport d'agrégation régénérable : `data/.lore-aggregate-report.json` (produit par `node scripts/aggregate-lore.js`, non versionné).
 - Rapport de cohérence du graphe : projection *Cohérence* de l'Atelier (`getConsistencyReport`) — **0 erreur** (les points ci-dessus sont des **trous**, **doublons** ou **arbitrages**, pas des ruptures d'intégrité référentielle).
-- Base de vérité : `data/kg-base.json` — **2 734** entités, 1 097 faits, 3 246 relations au dernier import (contre 1 097 entités avant le balayage).
+- Base de vérité : `data/kg-base.json` — **2 748** entités, 1 286 faits, 3 269 relations après la passe 3 (contre 1 097 entités avant le balayage).
 
 ## Renvois
 

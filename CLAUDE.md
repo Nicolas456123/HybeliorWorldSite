@@ -35,34 +35,58 @@ passe uniquement pour l'édition.
 - Le registre des incohérences du lore :
   `Docs/Lore/Incohérences et chantiers — à résoudre.md`.
 
-## REPRISE EN COURS (2026-07-20) — calage de la carte sur le vrai fond
+## Calage de la carte — CLOS (2026-09-10)
 
-Contexte : les côtes/pays de `data/monde-contours.json` ont été refaits
-depuis le tracé de l'auteur et validés indirectement (631/633 villes
-cohérentes, Velmaris à 1,2 unité de la côte). Il reste à VÉRIFIER sur les
-vraies tuiles. L'utilisateur a autorisé le domaine des tuiles dans la
-politique réseau de l'environnement ; l'ancienne session (container
-antérieur au réglage) restait bloquée en 403.
+Les côtes/pays de `data/monde-contours.json` (refaits depuis le tracé de
+l'auteur) sont validés : indirectement (631/633 villes cohérentes,
+Velmaris à 1,2 unité de la côte) ET visuellement par l'auteur sur le vrai
+fond (la carte s'affiche correctement dans son navigateur, contours
+alignés). Le 403 sur `hybelior-tiles.nicolas-vollard.workers.dev` ne
+concernait que la politique réseau de l'environnement Claude Code, jamais
+le site — **ne plus retenter le curl à chaque session**. Si une
+vérification au pixel devient un jour utile : ouvrir le domaine dans la
+politique réseau, ou demander à l'auteur une capture de la carte zoomée
+(côte de Solmaris / Velmaris).
 
-À faire immédiatement dans cette session :
-1. Tester : `curl -sS https://hybelior-tiles.nicolas-vollard.workers.dev/HybeliorMap.dzi`
-   (doit renvoyer le XML DZI ; noter Width/Height).
-2. Assembler un niveau ~4000 px des tuiles en `fond-reference.jpg`
-   (tuiles `{base}/HybeliorMap_files/{niveau}/{x}_{y}.{format}`,
-   overlap 1 px à rogner en haut/gauche sauf bord).
-3. Superposer `data/monde-contours.json` + villes du graphe via
-   `px = (monde + [527.5, 535]) / 1047 · largeur` ; vérifier visuellement
-   (Velmaris doit être SUR la côte) et envoyer l'image de contrôle.
-4. S'il y a un écart : ajuster par recalage affine robuste sur champ de
-   distance au trait de côte (technique déjà éprouvée), re-souder les pays,
-   re-vérifier, committer. Committer aussi `fond-reference.jpg` (+ un JSON
-   des métadonnées DZI) comme référence locale durable.
-5. Si le curl est encore en 403 : le domaine n'est pas (bien) autorisé —
-   demander à l'utilisateur de vérifier l'orthographe exacte du domaine
-   dans la politique réseau.
+Chantiers suivants (rappel) : embeddings locaux pour la recherche
+sémantique. (Marqueurs NML : réglé 2026-09-10, 0 conflit géo.)
 
-Chantiers suivants (rappel) : surfaces manquantes d'Iskara, Ackerna,
-Baelor-Prime, Valoria (graines extract-pays) ; arbitrages No man's land
-Azoria/Cestra (marqueurs permutés) et Caeloria→Azoria ; cartes historiques
-par ère (jeux `era_id` dans monde-contours) ; bake overlay→base ;
-embeddings locaux pour la recherche sémantique.
+**Cartes historiques par ère — FAIT (2026-09-11).**
+`scripts/generer-cartes-eres.js` génère trois jeux dans monde-contours :
+`era3_lien_empires` (réf −6 000 : 6 empires du Lien),
+`era5_grande_nuit` (réf 2 000 : Tharnok, Galenthis, Drahk'Nor, Forgon),
+`era6_nations` (réf 9 000 : 21 états — protectorats/ligues de la veille +
+nations déjà nées). Territoires = union raster des pays héritiers
+(succede-a + faits-précurseurs cités ; états sans fondation datés par la
+chute de leur prédécesseur, sinon fenêtre de veille 1 000 ans avant leurs
+successeurs — JAMAIS par data.periode, dérivée). Le curseur temporel de
+la carte les affiche sans modification de code (surfacesPourEre).
+Limites : Union des Flammes et Azor-Kerev sans territoire (leurs
+héritiers Arkhen/Pyrevane/Azoral/Kethvar/Caeloria n'ont pas de surface
+extraite) ; ⚠ Haldria : marqueur/surface sur Ilthara vs fiches Endora —
+arbitrage d'auteur (registre §10).
+
+**Bake overlay→base — CLOS (2026-09-10).** L'overlay kg de prod
+(`kg_overlay`/`kg_deletes`) est **vide** : aucune édition post-hoc, la
+base committée fait foi seule. `scripts/bake-overlay.js` reste prêt pour
+l'avenir (`--dry-run` d'abord ; purge séparée `--purge`). **Accès Turso
+depuis l'environnement : par « Identifiants API »** (hôte
+`hybelior-map-nicolas456123.aws-eu-west-1.turso.io`, en-tête
+Authorization Bearer) — c'est ce mécanisme qui ouvre l'hôte, PAS le champ
+variables ; `TURSO_URL`/`TURSO_AUTH_TOKEN` restent en variables pour les
+scripts. ⚠ `turso-adapter` : les entiers Hrana passent en chaîne
+(corrigé). Découvert au passage : **la carte de l'accueil (`index.html` →
+`js/map.js`) lit encore `coordinate_overrides`** — table synchronisée sur
+les arbitrages par `scripts/sync-overrides-arbitrages.js` (NML échangés,
+Folgrad→(393,91) ; et en sens inverse Mordock corrigé dans le graphe :
+village de Mosrack, le mauvais homonyme avait été restauré ; NML Celethor
+a reçu son marqueur (−57.3,−369.2)). Restent ~80 écarts uniformes de
+5-7 unités (artefact d'import de mai, sans enjeu) — ne pas « corriger ».
+Faits les 2026-09-10 : affichage `data.fourchette` et capitales
+anciennes ; surfaces manquantes (Iskara, Ackerna, Valoria + Seraphia,
+Baelor-Prime via la côte de son île — 30 pays au total). Restent non
+extractibles de « Hybelior Pays.png » : Caeloria (territoire blanc,
+îles célestes), Warenthor (aplat indiscernable), les No Man's Land ;
+l'île de Baelor n'est qu'un blob de 33 unités² dans continents-trace.svg
+(Thyldris tombe en mer) — à compléter dans le tracé si l'île doit
+grandir.

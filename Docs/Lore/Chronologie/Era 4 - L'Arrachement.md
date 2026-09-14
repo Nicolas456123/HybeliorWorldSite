@@ -50,7 +50,7 @@ Les estimations consignées varient. Les bibliothécaires d'Astravia rapportent 
 
 - **Choc immédiat (An 0 → ~An 10)** : ~120 millions → ~90 millions. Chute rapide attribuée selon les sources au choc cosmique direct, aux famines, aux guerres immédiates, aux premières Failles, ou à un faisceau de causes.
 - **Stabilisation post-choc (~An 50)** : la population se stabilise vers ~60-70 millions au cours de l'Ère V précoce, après les vagues de réfugiés, les épidémies de transit et les guerres successorales. Cette phase est documentée dans [[Era 5 - La Grande Nuit]] et ne relève pas du présent document.
-- **Rechute du Fléau (~1 400-1 600 ap.A)** : descente jusqu'à ~18 millions au pic du Fléau des Failles, lue par le Rota Mundi comme la 3e phase du phénomène (cf. note ci-dessus). Voir [[Era 5 - La Grande Nuit]] et [[Era 6 - L'Ère des Nations]] pour le détail.
+- **Rechute du Fléau (~1 400-1 500 ap.A)** : descente jusqu'à ~18 millions au pic du Fléau des Failles, lue par le Rota Mundi comme la 3e phase du phénomène (cf. note ci-dessus). Voir [[Era 5 - La Grande Nuit]] et [[Era 6 - L'Ère des Nations]] pour le détail.
 
 Les estimations de "rupture du Lien" pour la majorité de la population (~99,7 %, ~0,3 % gardant une connexion partielle — appelés **Tisses**) figurent dans les corpus verithanis et sont reprises par les Sécharchies modernes ; d'autres traditions les contestent.
 
@@ -251,7 +251,7 @@ Selon les corpus verithanis, environ 0,3 % de la population mondiale après le C
 - Connexion à 1-2 Éthérés locaux uniquement — jamais aux Cosmiques, jamais aux Éternels.
 - Capacités résiduelles : sentir la météo, calmer des animaux, favoriser la germination.
 - Durabilité physique légèrement supérieure (10-20 ans de vie supplémentaires).
-- Statut : d'abord vénérés comme saints (An 0 → ~200 ap.A), puis tolérés (~200 → ~1 400 ap.A), puis persécutés lors du Fléau des Failles (~1 400 → ~1 600 ap.A).
+- Statut : d'abord vénérés comme saints (An 0 → ~200 ap.A), puis tolérés (~200 → ~1 400 ap.A), puis persécutés lors du Fléau des Failles (~1 400 → ~1 500 ap.A).
 - Les rares Tisses survivant au Fléau sont les ancêtres directs des Liés modernes.
 
 ---
