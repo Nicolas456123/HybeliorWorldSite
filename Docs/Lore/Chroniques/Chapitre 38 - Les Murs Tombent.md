@@ -21,7 +21,7 @@ Les murs jaunes de Kharazir étaient toujours là.
 
 Je les ai vus depuis la route, à l’endroit où la plaine s’ouvre après les derniers contreforts des collines de Hiliara. Neuf cent dix jours plus tôt, j’avais tourné le dos à cette vue sans me retourner, parce que je savais que si je me retournais je ne partirais pas. Cette fois, j’arrivais. Les murs se tenaient dans la lumière de la fin d’après-midi, avec leur jaune à eux, ni l’ocre des terres sèches ni l’or des herbes de Solandra, une teinte que je n’avais vue nulle part ailleurs et que j’ai reconnue dans la poitrine avant que mes yeux l’aient nommée.
 
-Les collines de Hiliara, dans mon dos, gardaient leur silence. C’est sous elles que mon père avait trouvé, une génération avant moi, les mêmes marques que j’avais relevées sous Rukhsar. C’est de sous elles qu’il était reparti autrement qu’il n’y était descendu, sans que personne ait su dire en quoi. J’avais fait le tour du monde pour retrouver, à quelques lieues de ma ville natale, une inscription qu’un Valthen avait déchiffrée avant moi. Je l’ai noté, et j’ai marché vers les murs.
+Les collines de Hiliara, dans mon dos, gardaient leur silence. C’est sous elles que mon père avait trouvé, une génération avant moi, les mêmes marques que j’avais relevées sous Rukhsar. C’est de là qu’il était remonté changé, sans que personne ait su dire en quoi. J’avais fait le tour du monde pour retrouver, à quelques lieues de ma ville natale, une inscription qu’un Valthen avait déchiffrée avant moi. Je l’ai noté, et j’ai marché vers les murs.
 
 Rien n’avait bougé. La même hauteur. Les mêmes pierres jointes par le mortier clair qu’on fabrique à Rukhsar depuis des générations. Les torchères aux angles, éteintes à cette heure. Et derrière, le bruit de la ville, le murmure du Grand Bazar qui portait jusqu’à la route comme une respiration.
 
@@ -41,7 +41,7 @@ Il me restait à retrouver l’homme que j’avais prévenu depuis Lumasar. Omar
 
 Son étal se tenait au croisement de l’allée des herbes et de celle des épices. Il m’a vu venir de loin, avec ce regard de marchand qui reconnaît les silhouettes familières avant les visages. Il s’est arrêté au milieu d’une transaction, s’est excusé d’un geste auprès de sa cliente, et il est venu à ma rencontre.
 
-Nous ne nous sommes pas serré la main. Nous sommes restés debout, face à face, un moment, à nous regarder. Deux hommes dont la relation avait tenu presque tout entière par lettres pendant neuf cents jours, et qui se trouvaient dans le même espace avec le poids de tout ce qui avait été écrit entre eux.
+Nous ne nous sommes pas serré la main. Nous sommes restés debout, face à face, un moment, à nous regarder. Deux hommes qui s’étaient parlé par lettres pendant neuf cents jours et qui se retrouvaient dans la même pièce.
 
 «  Tu es revenu, dit-il.
 — Je suis revenu.
@@ -93,7 +93,7 @@ Ce n’était pas une accusation. Il posait un fait sur la table, à côté de l
 — Et tu marches longtemps.
 — Neuf cent dix jours.  »
 
-Il a gardé les yeux sur moi le temps de poser le chiffre à côté du reste. Puis il a repris sa cuillère, et ce fut tout. Les gens de Velithis vous laissent la place de dire ce que vous voulez, et ils ne remplissent pas les silences que vous laissez.
+Il a gardé les yeux sur moi le temps de poser le chiffre à côté du reste. Puis il a repris sa cuillère, et ce fut tout.
 
 «  Et l’archiviste de Kharazir  ? demanda-t-il enfin. Celle qui t’a prévenu la nuit d’avant ton départ. Tu m’en parlais, au début.  »
 
@@ -130,7 +130,7 @@ Nous sommes restés un moment dans le silence de la cuisine. Il y avait dedans q
 
 «  Il y a des gens qui veulent entendre ça, dit-il plus bas, avec un coup d’œil vers la porte. Pas beaucoup. Mais ils existent.  »
 
-Je lui ai dit ce que je pensais depuis le glacier  : que ce que je portais était trop grand pour un seul homme, que c’était son seul défaut, et peut-être sa seule qualité, parce qu’une vérité trop grande pour un seul homme ne peut pas mourir avec lui.
+Je lui ai dit ce que je pensais depuis le glacier  : que ce que je portais était trop grand pour un seul homme, et qu’une vérité trop grande pour un seul homme ne peut pas mourir avec lui.
 
 Omarin n’a pas répondu tout de suite. Sa main a écarté le bol de deux doigts, comme on dégage une table avant d’y poser quelque chose de lourd.
 
@@ -206,7 +206,7 @@ J’ai eu envie de lui dire qu’il ressemblait, en cela, aux gardes de la place
 
 Les murs de Kharazir étaient toujours debout. Le tissu jaune était toujours imposé aux Déliés, aux portes. L’inscription sous la place centrale brillait d’une lueur bleue que les gardes refusaient de regarder. Le Tribunal de Lumasar délibérait. Les routes de haute mer se rouvraient dans la mémoire des vieux capitaines. À Prismalith, Selendris tenait la main de son père endormi en sachant, à présent, vers quel endroit ses lèvres murmuraient des coordonnées depuis trente ans.
 
-Le monde changeait à la vitesse des institutions et des glaciers. Lentement, avec la patience des choses qui n’ont pas besoin qu’on les remarque pour continuer.
+Le monde changeait à la vitesse des institutions et des glaciers.
 
 Et sous les institutions, sous les glaciers, peut-être, un autre rythme. Pour le dire, je n’avais que la cadence qui m’avait traversé les os, et le mot *peut-être* est tout ce que ma méthode m’autorise à écrire ici.
 
@@ -224,7 +224,7 @@ Je ne savais pas si mon père était vivant ou mort. Je ne savais pas ce qui se 
 
 Ce que je tenais, ce n’étaient pas des certitudes. C’étaient des observations, des recoupements, des récits transmis, assez pour qu’un travail collectif s’en saisisse. C’était dans les dix-sept cahiers, dans la synthèse qu’Omarin gardait sous son manteau, dans les copies d’Ysolde, dans les questions que le Tribunal allait devoir poser, dans le regard de Selendris quand elle avait reconnu les coordonnées de son père.
 
-Ce que je tenais était plus grand que moi. Cela n’avait plus besoin que je le porte seul. Et la part que personne ne tenait encore, celle qui appartiendrait à d’autres, il fallait lui laisser sa place aussi, comme une page qu’on laisse ouverte.
+Ce que je tenais était plus grand que moi. Cela n’avait plus besoin que je le porte seul. Et la part que personne ne tenait encore, il fallait lui laisser sa place.
 
 J’ai ouvert le dix-septième cahier à la dernière page utilisée. Il restait une quinzaine de pages blanches.
 
@@ -284,13 +284,13 @@ J’ai posé le tissu jaune sur la pierre, entre le garde et moi.
 
 «  Je suis Sorin Valthen, dis-je. Cartographe de Kharazir. Fils d’Aldric Valthen. Délié. J’entre dans ma ville.  »
 
-Le garde a ouvert la bouche, l’a refermée. Il a regardé les trois Déliés sous l’arc, puis la rue derrière moi, puis le morceau de tissu sur la pierre. Vingt ans, peut-être. Trop jeune pour avoir inventé cette règle, assez vieux pour l’appliquer sans y penser, et voilà qu’on le forçait à y penser devant trois témoins qui n’étaient plus seulement des silhouettes tolérées à l’ombre.
+Le garde a ouvert la bouche, l’a refermée. Il a regardé les trois Déliés sous l’arc, puis la rue derrière moi, puis le morceau de tissu sur la pierre. Vingt ans, peut-être. Trop jeune pour avoir inventé cette règle, assez vieux pour l’appliquer sans y penser. On le forçait à y penser.
 
 La plus âgée des deux femmes s’est levée.
 
 Elle n’a rien dit. Elle a dénoué son propre tissu jaune et l’a posé à côté du mien.
 
-L’homme l’a regardée comme on regarde quelqu’un qui vient d’ouvrir une porte dans un mur dont on avait oublié qu’il en avait une. Puis il a dénoué le sien.
+L’homme l’a regardée faire, sans y croire. Puis il a dénoué le sien.
 
 La troisième femme a hésité plus longtemps. Ses mains n’étaient pas sûres. Quand elle a posé enfin le tissu sur la pierre, ce fut avec une délicatesse presque religieuse.
 
@@ -306,7 +306,7 @@ Il les a pliés, maladroitement, et il les a glissés dans sa poche.
 
 «  Passez  », finit-il par dire.
 
-La vieille femme a ri. Un rire court, incrédule, pas joyeux encore, mais vivant. Un rire qui disait seulement que quelque chose venait de se produire, et que personne ne savait encore quoi en faire.
+La vieille femme a ri. Un rire court, incrédule, pas joyeux encore, mais vivant. Elle a mis la main devant sa bouche, puis l’a retirée.
 
 Nous sommes passés sous la Porte d’Azur.
 

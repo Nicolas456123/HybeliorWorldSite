@@ -28,7 +28,7 @@ Douze continents pour venir écouter deux peuples marchander du poisson au bout 
 
 ---
 
-L’atelier de cartographie est à mi-pente. Une enseigne de bois délavé, et dès la porte l’odeur de la colle de poisson et du papier humide. La femme qui le tient s’appelle Borela. Altram, la soixantaine, le visage cuivré par le vent de la côte, des mains où le pli du papier a fini par creuser la peau. En me voyant entrer, elle m’a jaugé comme on jauge un étranger dans un lieu où l’étranger est une sorte de risque  : le manteau, les bottes, la coupe du sac, et l’écart entre ce que j’avais et ce qu’il m’aurait fallu.
+L’atelier de cartographie est à mi-pente. Une enseigne de bois délavé, et dès la porte l’odeur de la colle de poisson et du papier humide. La femme qui le tient s’appelle Borela. Altram, la soixantaine, le visage cuivré par le vent de la côte, des mains où le pli du papier a fini par creuser la peau. En me voyant entrer, elle m’a regardé des pieds à la tête  : le manteau, les bottes, la coupe du sac, et l’écart entre ce que j’avais et ce qu’il m’aurait fallu.
 
 «  Vous cherchez une chambre, ou une carte  ?
 — Les deux, si vous en louez. On m’a dit que vous aviez deux chambres au-dessus de l’atelier.
@@ -73,7 +73,7 @@ Avant de répondre, il finit sa boucle, sans hâte et sans mépris.
 
 «  Je crois aux chiffres. Sept sur vingt, c’est un chiffre. Le reste, c’est des histoires qu’on met autour parce que le chiffre tout seul fait peur.  » Il se leva et alla détacher sa bête. «  Je ne vous mènerai pas. Je ne vous empêcherai pas non plus.  »
 
-Je n’insistai pas. Quelque part sur les douze continents, j’avais cessé de discuter avec les gens qui savent de quoi ils parlent. Après l’avoir remercié, je notai en marge, pour moi seul, que les bêtes refusaient l’intérieur. La même chose s’était vue à Ordavan, et à Warenthor, où les singes descendaient des arbres et marchaient vers la côte sans qu’un homme pût dire pourquoi. Aucune conclusion. Ces refus s’alignaient dans mon carnet, les uns sous les autres, sans trait entre eux, en attendant de vouloir dire quelque chose.
+Je n’insistai pas. Après l’avoir remercié, je notai en marge, pour moi seul, que les bêtes refusaient l’intérieur. La même chose s’était vue à Ordavan, et à Warenthor, où les singes descendaient des arbres et marchaient vers la côte sans qu’un homme pût dire pourquoi. Aucune conclusion. Ces refus s’alignaient dans mon carnet, les uns sous les autres, sans trait entre eux, en attendant de vouloir dire quelque chose.
 
 ---
 
@@ -124,7 +124,7 @@ Quand je refermai la chemise, Sethiran, qui n’avait pas cherché à lire par-d
 — J’ai trouvé ce que je m’attendais à trouver.
 — Elle est morte deux ans après le retour, dit-il sans que je le lui aie demandé. Aldris Vane. À Solmaris. On a dit une fièvre. Les gens qui reviennent d’ici reviennent souvent avec une fièvre qui les prend plus tard.  » Il tisonna le feu. «  Vous voudriez que je vous dise que c’est le Froid Ancien qui les rattrape. Je ne le dirai pas. Je ne sais pas de quoi elle est morte. Je sais qu’elle a écrit ces trois lignes et qu’elle n’a plus jamais rien écrit sur le sujet.  »
 
-La date de sa mort alla en marge de mon relevé, à côté des sept noms manquants. Pas par superstition  : une date est une donnée, et je n’en écarte aucune parce qu’elle me dérange. Aldris Vane avait vu les structures et l’avait écrit  ; l’administration avait aplati la phrase  ; elle était morte d’une fièvre qu’on ne nommait pas. Trois faits, alignés, sans le trait qui les aurait reliés. Le trait me manquait, et je laissai le blanc.
+La date de sa mort alla en marge de mon relevé, à côté des sept noms manquants. Aldris Vane avait vu les structures et l’avait écrit  ; l’administration avait aplati la phrase  ; elle était morte d’une fièvre qu’on ne nommait pas. Trois faits, l’un sous l’autre. Rien entre eux.
 
 «  Sur les treize qui sont revenus, demandai-je avant de partir, il en reste ici  ?
 — Une. Yrsa. Elle portait la chaîne d’arpentage pour Vane, elle tenait l’autre bout du relevé. Les autres sont repartis vers le continent, ou sont morts de leur fièvre, ou ont cessé de parler. Elle a cessé de parler aussi, mais elle est restée.  » Il ferma la porte du poêle. «  Elle ne vous recevra pas. Elle ne reçoit personne qui pose des questions sur la montagne.
@@ -159,7 +159,7 @@ Puis elle releva les yeux.
 
 «  Voilà. Vous vouliez vérifier trois lignes. En voilà une quatrième, que Vane n’a pas écrite parce qu’elle est partie avant  : la montagne n’a pas pris tout le monde. Elle a pris les trois qui voulaient monter. Nous autres, elle nous a laissés redescendre. Pour qu’on raconte, je suppose.  »
 
-Sa dernière phrase resta sans réponse. C’était la sienne, pas la mienne. Dans le carnet, j’écrivis ce qui pouvait s’écrire  : quatre pertes par crevasse, trois disparitions sans corps au vingt-deuxième jour, dernières traces plein intérieur. De la montagne qui choisit, je n’écrivis rien. Un vent qui grossit sur un campement grossit sur tous les campements  ; celui qui en revient se souvient de la fois où il a grossi sur le sien. La croyance alla dans le carnet comme une donnée sur les vivants, pas comme une donnée sur la montagne.
+Sa dernière phrase resta sans réponse. C’était la sienne, pas la mienne. Dans le carnet, j’écrivis ce qui pouvait s’écrire  : quatre pertes par crevasse, trois disparitions sans corps au vingt-deuxième jour, dernières traces plein intérieur. De la montagne qui choisit, je n’écrivis rien. Le vent tourne dans ces cols  ; il avait tourné sur eux comme il tourne sur les autres. Je notai qu’Yrsa croyait le contraire, et je notai depuis quand.
 
 «  Vous allez monter.  »
 
@@ -197,7 +197,7 @@ Je m’arrêtai.
 «  Mes mains.
 — Les mains de quelqu’un qui note. Il écrivait tout le temps, en marchant, en parlant. Un carnet dans la poche gauche, un autre dans la droite. Je n’avais jamais vu personne user deux carnets à la fois. Vous n’en portez qu’un, mais c’est la même main qui le tient.  »
 
-Je posai mon sac. Rien de ce qui me venait ne pouvait se dire sans mentir, d’une façon ou de l’autre.
+Je posai mon sac sur l’établi. Rien de ce qui me venait ne pouvait se dire sans mentir.
 
 «  Il est revenu  ?  » demandai-je enfin.
 
@@ -223,6 +223,6 @@ De retour dans la chambre du fond, où un homme avait dormi trois nuits vingt an
 
 Par la fenêtre, le glacier renvoyait le peu de lumière que le ciel voulait bien lâcher. Sous cette glace, à deux jours de marche, il y avait des angles droits qu’aucune main connue n’avait taillés, un rythme lent qu’on sentait dans les dents, une chaleur qui montait d’une profondeur sans nom. Aldris Vane l’avait vu et n’avait plus rien écrit. Sept de ses compagnons n’étaient pas redescendus. Un homme aux mains pareilles aux miennes y était monté seul, avant eux tous, avec un carnet dans chaque poche.
 
-Sur une page neuve du mien, j’écrivis  : *Jour 825. Noravia. Demain, l’intérieur.* Une phrase voulut suivre, sur l’homme de Galenor, sur les trois nuits, sur la chambre. Avant de l’écrire, je posai la plume. Ce qu’elle disait se vérifierait plus loin, si j’allais assez loin. Il n’y avait pas besoin de l’écrire d’avance.
+Sur une page neuve du mien, j’écrivis  : *Jour 825. Noravia. Demain, l’intérieur.* Une phrase voulut suivre, sur l’homme de Galenor, sur les trois nuits, sur la chambre. Avant de l’écrire, je posai la plume. Ce qu’elle disait se vérifierait là-haut, ou ne se vérifierait pas. Il n’y avait pas besoin de l’écrire d’avance.
 
 Puis je soufflai la lampe. Dehors, le vent tournait, comme le coureur l’avait dit. Il ne soufflait pas sur la ville. Il tournait autour.

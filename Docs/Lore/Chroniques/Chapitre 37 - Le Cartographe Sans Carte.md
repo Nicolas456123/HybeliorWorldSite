@@ -58,14 +58,14 @@ Je lui ai tendu le premier cahier. Elle le prit comme on prend un objet qui se d
 — Et les astérisques  ?
 — Les sensations. Ce que je ne pouvais pas mesurer. Je les ai marquées à part, pour qu’on ne les confonde jamais avec le reste.
 — Vous vous méfiez de vous-même.
-— Un cartographe qui ne se méfie pas de lui-même dessine des continents là où il y a de la brume.  »
+— J’ai déjà dessiné des côtes que j’avais envie de voir.  »
 
 Elle feuilleta encore et s’arrêta sur une page barrée d’un long trait, où j’avais laissé un raisonnement rayé plutôt que de l’effacer.
 
 «  Vous barrez, mais vous n’effacez pas.
 — Non.
 — Pourquoi  ? Une erreur rayée reste lisible. Un lecteur pressé la prendra pour une hésitation.
-— Un lecteur attentif verra que j’ai eu le raisonnement, que je l’ai suivi, et que je l’ai abandonné. Une page propre ne dit pas ce qu’elle a coûté. Une page barrée montre le chemin.  »
+— Un lecteur attentif verra que j’ai eu le raisonnement, que je l’ai suivi, et que je l’ai abandonné. Une page propre ne dit pas ce qu’elle a coûté.  »
 
 Ses yeux quittèrent le cahier, et pour la première fois elle me regarda, moi, plutôt que les pages.
 
@@ -116,7 +116,7 @@ Je lui ai tendu les onze cahiers suivants. Elle les a pris un à un, alignés de
 — Je n’ai rien prouvé. Je l’ai écrit noir sur blanc à la deuxième page. Je ne prouve rien. Je dépose des recoupements.
 — Je sais lire une page de garde, cartographe.  » Un pli au coin de la bouche, qui n’était pas tout à fait un sourire. «  C’est justement parce que vous ne prouvez rien que je vous crois. Les hommes qui prouvent trop cachent la couture. Vous, vous la montrez.  »
 
-Elle avait raison, et elle avait tort de la façon la plus juste. Si je montrais la couture, c’était pour qu’on ne puisse jamais découdre l’ouvrage. Je ne le lui ai pas dit. J’ai bu mon thé et je l’ai laissée lire.
+Elle voyait juste, et pas tout à fait pour la bonne raison. Si je montrais la couture, c’était pour qu’on ne puisse jamais découdre l’ouvrage. Je ne le lui ai pas dit. J’ai bu mon thé et je l’ai laissée lire.
 
 ---
 
@@ -126,9 +126,9 @@ J’ai passé ces trois jours à réparer ce que la traversée avait abîmé et 
 
 Le travail, dans son détail, était celui qu’un archiviste de Kharazir aurait mené sept ans plus tôt sur un dossier ordinaire. Vérifier les renvois. Repasser à l’encre les passages effacés. Caler la marge. Numéroter les pages. Tenir en tête de chapitre la liste des sources concurrentes. Je faisais ce que j’avais toujours fait depuis ma première année à la Guilde, et je le faisais avec un calme que je ne me connaissais pas à Kharazir. Je n’ai pas cherché d’où il venait. J’ai continué à numéroter.
 
-Je n’avais démontré aucun système. Je l’ai écrit en toutes lettres à la page deux. Mais la cohérence des observations, vérification après vérification, me paraissait suffisante pour qu’une institution s’en saisisse. Aucune déduction n’y tenait qui ne fût ancrée dans une observation, aucun recoupement n’y pendait à la seule intuition sans corroboration dans un autre cahier, un autre lieu, un autre témoin. J’avais été méticuleux depuis le début précisément parce que j’avais soupçonné depuis le début que ce que je rapporterais serait difficile à faire admettre, et qu’on m’opposerait, à raison, autant de lectures alternatives qu’il y avait de traditions sur la route.
+Je n’avais démontré aucun système. Je l’ai écrit en toutes lettres à la page deux. Mais la cohérence des observations, vérification après vérification, me paraissait suffisante pour qu’une institution s’en saisisse. Chaque déduction s’appuyait sur une observation, chaque recoupement sur un autre cahier, un autre lieu, un autre témoin. J’avais été méticuleux depuis le début précisément parce que j’avais soupçonné depuis le début que ce que je rapporterais serait difficile à faire admettre, et qu’on m’opposerait, à raison, autant de lectures alternatives qu’il y avait de traditions sur la route.
 
-Cette phrase, je la relis à présent que je l’ai écrite. Je la laisse. Elle est vraie, et je ne vois pas comment la rendre plus courte sans lui ôter ce qui compte.
+Je relis cette phrase à présent que je l’ai écrite. Je la laisse. Elle est vraie, et je ne vois pas comment la rendre plus courte sans lui ôter ce qui compte.
 
 ---
 
@@ -164,7 +164,7 @@ Je n’ai pas répondu tout de suite.
 
 Selendris m’a regardé longtemps.
 
-«  Alors nous faisons le même métier, vous et moi. Nous tenons la main de quelqu’un qui n’est plus là et nous continuons à lui parler. Sauf que vous, vous avez trouvé un moyen de faire parler la main à d’autres qu’à vous.
+«  Alors nous faisons le même métier, vous et moi. Nous tenons la main de quelqu’un qui n’est plus là et nous continuons à lui parler. Sauf que vous, vous avez trouvé le moyen que d’autres l’entendent.
 — Transmettre. Pas comprendre.
 — Transmettre, pas comprendre  », répéta-t-elle, et elle ne s’aperçut pas qu’elle venait de nommer, en quatre mots, ce que je faisais depuis le premier mur jaune. Je ne le lui ai pas fait remarquer. Je l’ai laissée croire qu’elle m’avait consolé.
 
@@ -274,13 +274,13 @@ J’ai réfléchi à la manière de le dire sans mentir.
 
 Elle n’a pas demandé qui. Sa propre liste, je crois, était aussi longue que la mienne.
 
-Ce que je portais était trop lourd pour un seul homme. Pas parce que c’était une vérité, je n’allais pas jusque-là, mais parce que la masse de recoupements à confronter, à contester, à vérifier dépassait ce qu’un cartographe seul pouvait soutenir contre les contre-lectures qu’on lui opposerait. Cette masse n’avait plus besoin de moi. Elle avait eu besoin que quelqu’un la porte jusqu’ici, jusqu’au point où les copies dans les archives, l’écriture serrée d’Ysolde et les questions que le Tribunal allait devoir se poser feraient leur travail sans lui.
+Ce que je portais était trop lourd pour un seul homme. Pas parce que c’était une vérité, je n’allais pas jusque-là  : parce qu’un cartographe seul n’aurait pas tenu contre toutes les contre-lectures qu’on lui opposerait. Cette masse n’avait plus besoin de moi. Elle avait eu besoin que quelqu’un la porte jusqu’ici, jusqu’au point où les copies dans les archives, l’écriture serrée d’Ysolde et les questions que le Tribunal allait devoir se poser feraient leur travail sans lui.
 
 «  Il faut que j’aille quelque part, dis-je.
 — Kharazir.
 — Kharazir.  »
 
-Ses deux mains ont pris les miennes. Un geste bref, de quelqu’un qui exprime une chose pour laquelle son état ne lui a pas donné de mots. Puis elle les a relâchées et elle est retournée vers la bibliothèque, sans se retourner.
+Ses deux mains ont pris les miennes. Un geste bref. Elle n’avait pas de mots pour cela, et elle n’en chercha pas. Puis elle les a relâchées et elle est retournée vers la bibliothèque, sans se retourner.
 
 ---
 
@@ -310,6 +310,6 @@ Une thèse déposée dans une institution n’est pas perdue, seulement lente. E
 
 Et j’avais d’autres dépôts à faire. Des dépôts plus urgents, dans des endroits où la lenteur des institutions n’était pas le bon outil.
 
-J’ai fermé le cahier dix-sept et j’ai regardé la lueur des tours de cristal, ces choses qui gardent la lumière pour la rendre à qui saura, plus tard, la reprendre.
+J’ai fermé le cahier dix-sept et j’ai regardé la lueur des tours de cristal, ces choses qui gardent la lumière toute la nuit et la rendent au matin.
 
 Le lendemain matin, je prenais la route de Kharazir.

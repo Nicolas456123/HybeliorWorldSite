@@ -25,7 +25,7 @@ Ce qui suit est écrit comme je l’ai vu. Une douzaine de masses de pierre et d
 
 Sur le quai, personne ne levait la tête. Les dockers déchargeaient à bras  : des palans, des cordes, des dos courbés, dans une cité qui a fait de l’art des Liés son cœur. Avant même d’avoir trouvé une auberge, je l’avais noté. Ce qui portait les îles coûtait trop cher pour qu’on le dépense à soulever des caisses.
 
-Celethor est le plus froid des continents. On me l’avait dit à Baelor, Yorven me l’avait répété sur le pont, et j’ai compris sur le quai que ce froid n’était pas une rigueur mais une administration, qui fixait les heures de travail, les routes ouvertes, les mois pendant lesquels un homme pouvait espérer aller plus au nord. Ma route allait plus au nord. Astravia n’était pas un terme, c’était une porte, et je venais y chercher ce qu’on prend à une porte avant de la franchir  : une caution, une signature, un nom qu’on ne fait pas taire aussi facilement qu’un berger ou qu’un traducteur de province.
+Celethor est le plus froid des continents. On me l’avait dit à Baelor, Yorven me l’avait répété sur le pont, et j’ai compris sur le quai que ce froid gouvernait tout ici  : les heures de travail, les routes ouvertes, les mois pendant lesquels un homme pouvait espérer aller plus au nord. Ma route allait plus au nord. Astravia n’était pas un terme, c’était une porte, et je venais y chercher ce qu’on prend à une porte avant de la franchir  : une caution, une signature, un nom qu’on ne fait pas taire aussi facilement qu’un berger ou qu’un traducteur de province.
 
 Je n’écris pas encore ce nom. On ne me le livra que le troisième jour, au bas d’une feuille, et il était peut-être faux.
 
@@ -33,11 +33,11 @@ Je n’écris pas encore ce nom. On ne me le livra que le troisième jour, au ba
 
 Invernis, la ville basse, est coupée en deux, et aucun mur ne marque la coupure.
 
-En bas vivent ceux que les Liés appellent les Ancrés. Le mot a l’air neutre. Ceux qui le portent savent qu’il ne l’est pas. En haut se tiennent les académies, le Conseil et les logements de ceux qui montent. Entre les deux, des colonnes de lumière durcie servent d’escaliers à ceux qui savent les commander. Pas de porte, pas de garde visible. Seulement une altitude, et l’altitude, à Astravia, est une décision politique.
+En bas vivent ceux que les Liés appellent les Ancrés. Le mot a l’air neutre. Ceux qui le portent savent qu’il ne l’est pas. En haut se tiennent les académies, le Conseil et les logements de ceux qui montent. Entre les deux, des colonnes de lumière durcie servent d’escaliers à ceux qui savent les commander. Pas de porte, pas de garde visible. Seulement une altitude, qu’on ne franchit pas sans l’art.
 
-Dans les villes qui trient les hommes, le voyage m’a appris une chose  : rester en bas. Un Délié n’est pas invisible. Nous avons un visage et des habits comme les autres. Mais le champ ne nous lit pas. Les détecteurs que les Gardiens du Seuil promènent au pied des colonnes ne trouvent en moi qu’un creux, une forme sans signature. Les astronomes de Haldria me l’avaient appris, eux qui mesuraient une perturbation dans leur ciel et n’obtenaient rien, sur leurs instruments, à l’endroit exact où je me tenais. À Astravia, ce vide me rendait impossible à classer. Ni Lié, ni Ancré, ni menace repérable. Une case blanche dans un registre qui ne prévoit pas le blanc.
+Dans les villes qui trient les hommes, le voyage m’a appris une chose  : rester en bas. Un Délié n’est pas invisible. Nous avons un visage et des habits comme les autres. Mais le champ ne nous lit pas. Les détecteurs que les Gardiens du Seuil promènent au pied des colonnes ne trouvent en moi qu’un creux, une forme sans signature. Les astronomes de Haldria me l’avaient appris, eux qui mesuraient une perturbation dans leur ciel et n’obtenaient rien, sur leurs instruments, à l’endroit exact où je me tenais. À Astravia, ce vide me rendait impossible à classer. Ni Lié, ni Ancré, ni menace repérable.
 
-L’aubergiste, une femme large et rapide, prit mon argent, écrivit mon nom sans lever les yeux et me donna une chambre dont l’unique fenêtre regardait vers le haut. Le sommeil vint mal. La paillasse n’y était pour rien. La lueur bleue passait entre les lattes des volets et ne poussait pas au sommeil  ; elle poussait à la veille. L’œil voulait y retourner.
+L’aubergiste, une femme large et rapide, prit mon argent, écrivit mon nom sans lever les yeux et me donna une chambre dont l’unique fenêtre regardait vers le haut. Le sommeil vint mal. La paillasse n’y était pour rien. La lueur bleue passait entre les lattes des volets. L’œil voulait y retourner.
 
 Le troisième matin, je descendis prendre mon pain et je posai la seule question que je m’autorise dans ces cas-là, celle qui a l’air de rien.
 
@@ -49,7 +49,7 @@ L’aubergiste essuya le bois devant moi plus longtemps qu’il n’était sale.
 — Toutes  ?
 — Toutes.  »
 
-La vérité avait un prix devant un étranger  ; elle avait rangé son chiffon plutôt que de le payer. Je n’insistai pas. Entre nous brûlait une chandelle de cire ordinaire, posée là où la ville aurait dû mettre sa lumière à elle. Une chandelle comme dans les postes de Cendara, comme dans les tavernes d’Evertia où j’avais traîné mon deuil quelques mois plus tôt. Une chandelle de rien, au cœur d’une cité qui avait fait de la lumière son orgueil.
+Elle rangea son chiffon sans rien ajouter. Je n’insistai pas. Entre nous brûlait une chandelle de cire ordinaire, posée là où la ville aurait dû mettre sa lumière à elle. Une chandelle comme dans les postes de Cendara, comme dans les tavernes d’Evertia où j’avais traîné mon deuil quelques mois plus tôt. Une chandelle de rien, au cœur d’une cité qui avait fait de la lumière son orgueil.
 
 Sous le prix de la chambre, je notai  : chandelles en bas, îles en l’air. On rationnait ici quelque chose, et on ne voulait pas dire quoi.
 
@@ -92,12 +92,12 @@ De qui le tenait-il  ? Un sourire, pas de réponse. L’aubergiste, sans doute.
 «  Je regarde les prix, dis-je. Et ce qui manque sur les étals. Je suis cartographe de formation. Les manques se cartographient aussi.
 — Vous êtes un Délié.  »
 
-Ce n’était pas une question. Un Lié me lisait comme un creux, une place où son sens habitué à trouver quelque chose ne trouvait rien, et ce vide le renseignait mieux qu’un aveu. Nier ce qu’il voyait déjà n’aurait servi à rien. Je dis oui.
+Ce n’était pas une question. Un Lié me lisait comme un creux  : son sens cherchait une signature et ne trouvait rien. Ce vide le renseignait mieux qu’un aveu. Je dis oui.
 
 «  Les niveaux inférieurs de Galdryn, reprit-il. Vous en avez entendu parler.
 — J’en ai lu. Dans les marges de cartes géologiques, à Evertia. Des tunnels sous les mines d’aethérite. Des directions que les boussoles de l’art refusent d’indiquer.  »
 
-Son regard, alors, me pesa comme on pèse un outil, pour savoir s’il tiendra.
+Il me regarda longuement, comme on soupèse un outil avant de s’en servir.
 
 «  Sous Galdryn, plus bas que le troisième niveau d’extraction, l’art se retourne contre lui-même, dit-il. Les lumières s’éteignent. Les détecteurs s’inversent. Les protections deviennent des cages. Aucun Lié n’y descend, et aucun n’en est remonté avec quelque chose d’utilisable. Un Délié, lui, y marcherait comme une ombre dans l’eau. Sans prise. Sans signature à retourner.  »
 
@@ -125,7 +125,7 @@ Cette faim, je ne la niai pas. Je recopie sa phrase ici telle qu’il l’a dite
 
 Le lendemain, il me fit monter.
 
-Un Délié ne déclenche rien sur un seuil gardé par des détecteurs, puisque le vide passe là où l’on cherche une signature  ; je ne posai donc pas la question. Ce fut son nom à lui qui nous ouvrit la colonne. Les Gardiens du Seuil nous regardèrent comme on regarde un homme déchu qu’on tolère encore, et l’ombre sans forme qui l’accompagne. La lumière durcie nous porta sans une secousse. Sous mes pieds, la ville basse se réduisit à un damier de toits et de chandelles.
+Les détecteurs du seuil ne trouvent rien dans un Délié  ; je ne posai donc pas la question. Ce fut son nom à lui qui nous ouvrit la colonne. Les Gardiens du Seuil le laissèrent passer sans le saluer, et me suivirent des yeux. La lumière durcie nous porta sans une secousse. Sous mes pieds, la ville basse se réduisit à un damier de toits et de chandelles.
 
 Son observatoire n’était pas dans les académies mais sur la plus petite des îles jeunes, à l’écart  : une plate-forme de pierre que l’aethérite maintenait à hauteur d’un clocher et qui oscillait si lentement qu’on prenait d’abord ce mouvement pour le sien. Le froid, là-haut, coupait les lèvres. Au centre, sous une coupole ouverte sur le ciel, un appareillage que je n’avais vu nulle part  : des fils tendus entre des montants de cuivre, des pendules de cristal noir, jumeaux de ceux que je verrais sous Galdryn, et une longue aiguille posée sur un cadran gravé de traits fins comme ceux d’une carte marine.
 
@@ -154,13 +154,13 @@ Une demi-journée de marche sépare Galdryn d’Invernis, le long de la rivière
 
 Personne ne m’accompagna. De lui, j’avais un mot de passe et un nom à citer, rien de plus  ; là-haut, on ne l’accueillait plus. À la troisième salle, un contremaître aux sourcils bleuis de poussière m’écouta prononcer le nom, regarda ma lanterne, regarda mes bottes.
 
-«  Après le dernier chariot, ce n’est plus à nous, dit-il. On ne descend pas vous chercher. Personne ne descend.  »
+«  Après le dernier chariot, ce n’est plus à nous, dit-il. On ne descend pas vous chercher. Personne ne descend.  » Il décrocha une mèche de rechange de sa ceinture et me la posa dans la main, sans rien ajouter.
 
 Les autres retournèrent à leurs wagonnets sans me regarder, avec l’air de gens qui exécutent un ordre qu’ils préféreraient ne pas comprendre. Au-delà du dernier chariot, une porte de métal sans serrure attendait depuis un siècle au moins. Ce n’était pas une serrure qui retenait les hommes.
 
-Ma main resta un instant au-dessus du métal froid. Ce n’était pas la porte qui m’arrêtait, c’était moi. D’autres portes de ce genre, sous Rukhsar, à Iskara, ne s’étaient jamais vraiment refermées derrière moi. J’ai poussé quand même. C’est ce que j’ai fait pendant tout le voyage devant les portes que la prudence conseillait de laisser closes, parce que la prudence laisse des blancs sur les cartes et que je n’ai jamais supporté les blancs.
+Ma main resta un instant au-dessus du métal froid. Ce n’était pas la porte qui m’arrêtait, c’était moi. D’autres portes de ce genre, sous Rukhsar, à Iskara, ne s’étaient jamais vraiment refermées derrière moi. J’ai poussé quand même. Je n’ai jamais su laisser un blanc sur une carte.
 
-Ma lanterne était à huile, pas à cristal. Sous le troisième niveau, la flamme brûla comme partout ailleurs, droite, ordinaire, et cette flamme de rien du tout devenait la chose la plus fiable des profondeurs d’Astravia. En descendant, je notai l’ironie sans m’y attarder.
+Ma lanterne était à huile, pas à cristal. Sous le troisième niveau, la flamme brûla comme partout ailleurs, droite, ordinaire, et cette flamme de rien du tout devenait la chose la plus fiable des profondeurs d’Astravia.
 
 Les parois du couloir inférieur n’avaient pas été creusées par des outils, ou pas seulement. Par endroits, la roche offrait des surfaces lisses qu’aucune main n’aurait pu produire, comme si la pierre avait glissé lentement, pas fondue, mais poussée dans un ordre, contrainte par en dessous. L’air ne suivait pas la géologie  : il montait, à peine, avec une régularité qui n’appartient pas aux courants d’une mine. Une masse respirait sous mes pas.
 
@@ -182,7 +182,7 @@ Les gens d’en bas ont un mot pour ce qui monte sous les mines. Ils le disent �
 
 Au bord de la route, dans la dernière lumière de la gorge, il m’attendait, avec la patience de quelqu’un qui attend depuis des années des nouvelles qui ne viennent pas.
 
-Mes notes passèrent dans ses mains, et il les lut debout, sans changer d’expression  : les dessins, les mesures, la description des cristaux noirs. Puis il dit une phrase qui ne répondait pas à mes notes, mais à une inquiétude plus large que Galdryn.
+Mes notes passèrent dans ses mains, et il les lut debout, sans changer d’expression  : les dessins, les mesures, la description des cristaux noirs. Le vent de la gorge faisait battre les feuillets  ; il les tenait à deux mains, un pouce sur chaque coin. Puis il dit une phrase qui ne répondait pas à mes notes, mais à une inquiétude plus large que Galdryn.
 
 «  C’est sous toutes les mines. Pas seulement celle-ci.
 — Depuis quand le savez-vous  ?
@@ -210,9 +210,9 @@ Je ne le niai pas. Ma demande fut qu’il mette par écrit ce que ses instrument
 
 Il faut, dit-on, aller voir là où le monde parle le plus fort. Varennis me le dit aussi, ce soir-là, comme un principe, avec l’air de m’envoyer quelque part. Sans le contredire, je pensai, et ne l’écrivis pas devant lui, que j’avais déjà traversé l’endroit où le monde parle le plus fort, loin au sud, dans une montagne creuse où battait une pulsation qu’un Délié n’aurait rien dû sentir. Ce n’était pas devant moi. C’était derrière. Devant, il n’y avait que le froid, le dernier port, la dernière terre, et sous elle, peut-être, ce que ma flèche prétendait désigner et que mon œil seul avait tracé.
 
-La nuit d’avant mon départ, je montai sur le toit d’un entrepôt dont l’escalier extérieur n’était pas fermé. Les îles flottaient dans le noir. Bleues par en dessous, quelques fenêtres allumées sur les plus hautes, elles bougeaient à peine, et il descendait de temps en temps, de très haut, un grincement de chaîne ou de pierre. Le froid mordait les mains à travers la laine. La ville basse dormait sous ses volets, éclairée d’une lumière que ses habitants ne voient plus. Une civilisation qui a voulu le ciel jusqu’à s’y briser, et qui flotte encore, plus bas, plus prudente, sur des réserves qui fondent.
+La nuit d’avant mon départ, je montai sur le toit d’un entrepôt dont l’escalier extérieur n’était pas fermé. Les îles flottaient dans le noir. Bleues par en dessous, quelques fenêtres allumées sur les plus hautes, elles bougeaient à peine, et il descendait de temps en temps, de très haut, un grincement de chaîne ou de pierre. Le froid mordait les mains à travers la laine. La ville basse dormait sous ses volets, éclairée d’une lumière que ses habitants ne voient plus.
 
-Depuis le jour de leur chute, ils regardent vers le haut. Je le comprends. Au début du voyage, j’aurais jugé cette ville orgueilleuse et craintive, et j’aurais tenu les deux mots pour incompatibles. Ce sont deux vues de la même fêlure, l’une d’avant, l’autre d’après  ; je le sais maintenant. Tout ce chemin a été nécessaire pour en trouver l’échelle.
+Depuis le jour de leur chute, ils regardent vers le haut. Je le comprends. Au début du voyage, j’aurais jugé cette ville orgueilleuse et craintive, et j’aurais tenu les deux mots pour incompatibles. Ce sont deux vues de la même fêlure, l’une d’avant, l’autre d’après.
 
 Mon père est passé dans des mines. Je le sais, ou je crois le savoir, et la nuance tient encore. Depuis quelque temps, je relis autrement certaines pages de son carnet  : des notes de galeries, d’entrées scellées, de roches qui retiennent. Prises une à une, ce sont les relevés d’un berger qui connaît ses pâturages. Prises ensemble, après tout ce chemin, elles dessinent autre chose. Ou bien c’est ma lecture qui impose à des pages anodines la figure que le voyage a fini par former en moi. Je ne tranche pas cela non plus. Là où ma flèche n’est qu’un désir, je laisse la marge blanche.
 

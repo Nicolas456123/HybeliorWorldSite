@@ -17,11 +17,11 @@ status: draft
 
 ---
 
-Borela m’a vendu deux boussoles, et elle m’a regardé les ranger dans la poche gauche de ma veste comme on regarde un homme plier avec soin une chose qui ne servira pas.
+Borela m’a vendu deux boussoles, et elle m’a regardé les ranger dans la poche gauche de ma veste.
 
 «  Elles tourneront à partir du deuxième jour de marche, dit-elle. Toutes les deux, l’une après l’autre. Vous perdrez d’abord celle qui dévie, puis celle qui cherche. Après, il vous restera vos jambes et le souvenir de la pente.
 — Je sais.
-— Vous savez.  » Elle passa un chiffon sur le comptoir de l’atelier, qui n’en avait pas besoin. «  Depuis quatre jours que vous lisez les registres de Sethiran, vous savez tout ce qu’on peut savoir sur cette montagne, et vous m’achetez quand même mes boussoles. Un homme qui sait qu’un instrument va mentir et qui l’emporte, ce n’est pas de la prudence. C’est autre chose.
+— Vous savez.  » Elle passa un chiffon sur le comptoir de l’atelier, qui n’en avait pas besoin. «  Depuis quatre jours que vous lisez les registres de Sethiran, vous savez tout ce qu’on peut savoir sur cette montagne, et vous m’achetez quand même mes boussoles. Vous savez qu’elles vont mentir et vous les emportez. Ce n’est pas de la prudence.
 — C’est de la méthode. On note d’abord ce que l’instrument dit, même faux. On corrige ensuite avec le corps.
 — Votre père disait la même phrase.  »
 
@@ -62,7 +62,7 @@ Je notai sa phrase le soir même, dans ma chambre au-dessus de l’atelier de Bo
 
 Nous sommes partis avant l’aube du troisième jour.
 
-Le froid de l’intérieur n’est pas celui de la côte. Sur le quai, le premier matin, il m’avait traversé comme un renseignement, une chose que les os enregistrent avant que la tête la formule. À mesure que nous montions, le renseignement se précisait. Il ne mordait pas plus fort  ; il parlait plus bas, et il fallait se pencher pour l’entendre. Torval marchait devant, du pas de ceux qui ne se pressent pas sur la glace, sondant la neige durcie d’un bâton ferré et contournant les plaques trop lisses, où le soleil de la veille avait fondu puis regelé un piège. Nous ne parlions pas. Le souffle gelait sur le col des fourrures et y formait une croûte blanche qu’il fallait casser du pouce toutes les heures.
+Le froid de l’intérieur n’est pas celui de la côte. Sur le quai, le premier matin, il m’avait traversé comme un renseignement, une chose que les os enregistrent avant que la tête la formule. À mesure que nous montions, il se précisait. Torval marchait devant, du pas de ceux qui ne se pressent pas sur la glace, sondant la neige durcie d’un bâton ferré et contournant les plaques trop lisses, où le soleil de la veille avait fondu puis regelé un piège. Nous ne parlions pas. Le souffle gelait sur le col des fourrures et y formait une croûte blanche qu’il fallait casser du pouce toutes les heures.
 
 Ma boussole de gauche dévia de vingt degrés vers l’est à la fin de la première journée. Celle de droite tournait librement dans son boîtier, cherchant un nord qu’elle ne trouvait nulle part, ou qu’elle trouvait partout. Je les rangeai toutes les deux. Borela avait eu raison à l’heure près. En les glissant dans ma poche, je me demandai combien de fois elle avait vendu ces mêmes boussoles à des hommes qui montaient, et combien de fois on les lui avait rapportées dans des sacs que d’autres redescendaient.
 
@@ -105,7 +105,7 @@ Ce sont des bâtiments.
 
 Ou ce qu’il en reste. Des angles droits, des colonnes, des plans horizontaux qui ne peuvent être que des sols ou des toits. Profonds  : dix mètres, vingt peut-être. La glace déforme les distances et je ne me risquai pas à un chiffre que je ne pouvais pas mesurer. Mais ils sont là, et leur architecture n’appartient à aucune de celles que j’ai relevées en huit cent quarante-cinq jours de route. Sur leurs murs, visibles depuis le surplomb, nets sur la glace comme de l’encre sur du papier, des signes gravés dans une pierre noire.
 
-Je les regardai longtemps. Ce que ma poitrine fit alors n’était pas de la surprise, ni de la peur. Je les connaissais.
+Je les regardai longtemps. Ce n’était ni de la surprise ni de la peur. Je les connaissais.
 
 Je les avais vus dans les galeries de Kharazir, à sept mètres sous ma ville, gravés dans la pierre jaune, le premier jour de ce voyage et bien avant, le jour où mon rapport sur ces galeries avait été classé en deux heures. Les mêmes couraient dans le fragment du Message de Mirathi qu’on m’avait laissé copier à Gryndor, cette troisième langue que les érudits de Lumasar s’arrachent depuis deux générations sans la lire. Je les avais reconnus quelques semaines plus tôt dans une pierre noire, sous les mines d’Astravia, là où l’art des Liés se retourne contre lui-même. La même famille, à mon œil  : la même main, ou des mains formées dans la même tradition. Une écriture, en tout cas, qu’aucun savant vivant ne date d’après l’Arrachement.
 
@@ -119,7 +119,7 @@ Pas un son. Une sensation, exactement comme la géologue Vane l’avait décrite
 
 Et dans ce battement, je crus reconnaître une cadence.
 
-Je ne peux pas le prouver. Je le note comme un fait subjectif, dont j’admets la part invérifiable. Mais mon corps retrouvait là le rythme des flancs du Mont Cendra, la pulse que j’avais mesurée au bord du cratère trois cents jours plus tôt  : une fois par semaine à l’échelle du volcan, ici une fois par demi-minute à l’échelle d’une montagne. Deux lieux. Deux échelles. La même cadence, à mon seul ressenti. J’écrivis le mot *adresse*, puis je le rayai, parce que je n’avais aucun moyen d’établir qu’il s’agissait d’autre chose que d’une cohérence géologique que mon attention découpait dans le bruit du monde. Puis je le récrivis, parce que c’était le mot que mon corps posait sous celui que ma raison voulait éviter, et que je voulais garder les deux.
+Je ne peux pas le prouver. Je le note comme un fait subjectif, dont j’admets la part invérifiable. Mais mon corps retrouvait là le rythme des flancs du Mont Cendra, la pulse que j’avais mesurée au bord du cratère trois cents jours plus tôt  : une fois par semaine à l’échelle du volcan, ici une fois par demi-minute à l’échelle d’une montagne. Deux lieux. Deux échelles. La même cadence, à mon seul ressenti. J’écrivis le mot *adresse*, puis je le rayai, parce que je n’avais aucun moyen d’établir qu’il s’agissait d’autre chose que d’une cohérence géologique que mon attention découpait dans le bruit du monde. Puis je le récrivis, parce que c’était le mot de mon corps, et que je voulais qu’on voie les deux  : le mot et la rature.
 
 Ensuite je fis l’erreur que je fais toujours, et je la consigne pour qu’on sache que je la fais.
 
@@ -149,13 +149,13 @@ Et il y avait autre chose, que je traînais depuis des centaines de jours sans s
 
 Je ne tranchai pas ce que la chose était.
 
-À Solena, on y aurait lu le retour de Navigor. À Lumasar, les cercles oniriques y voyaient autre chose. Les gens d’Astravia parlaient d’une trame qui se reconfigure  ; ceux d’Evertia, d’esprits qui se retirent vers le dessous comme des bêtes des profondeurs remontent quand les eaux changent. Un seuil, disaient certains. Un message, disaient d’autres. Une porte, dont j’avais reconnu la forme un jour, sur une page, là où je n’aurais pas dû la trouver, et reconnaître une forme ne m’autorisait pas à dire ce qu’elle ouvre ni sur quoi. Chaque tradition refermait le récit sur ses propres figures, et chacune se tenait dans son cadre. Je gardai tous les cadres. Je n’en choisis aucun.
+À Solena, on y aurait lu le retour de Navigor. À Lumasar, les cercles oniriques y voyaient autre chose. Les gens d’Astravia parlaient d’une trame qui se reconfigure  ; ceux d’Evertia, d’esprits qui se retirent vers le dessous comme des bêtes des profondeurs remontent quand les eaux changent. Un seuil, disaient certains. Un message, disaient d’autres. Une porte, dont j’avais reconnu la forme un jour sur une page, là où je n’aurais pas dû la trouver. Reconnaître une forme ne dit pas ce qu’elle ouvre. Chaque tradition refermait le récit sur ses propres figures. Je gardai tous les cadres. Je n’en choisis aucun.
 
 Je pouvais écrire ceci, en revanche  : la chose sous le glacier n’attendait pas. Elle préparait, ou elle achevait, ou elle reprenait. Je n’avais pas le verbe non plus.
 
 Et mon père était venu ici, il y a vingt ans, avec ses deux carnets, un dans chaque poche.
 
-Ma main se posa à plat sur la roche du sol. Le battement du Jumeau la traversa et remonta dans la paume comme un pouls, régulier, patient, indifférent. Torval, encore  : *ce n’est pas à vous qu’elle bat.* Je laissai la main là, non pour écouter si elle battait pour moi, mais pour vérifier qu’elle ne battait pas pour moi  ; qu’elle aurait battu de la même façon si je n’étais jamais monté  ; que je n’étais, sur cette montagne, qu’un homme de plus avec une paume sur une pierre qui se serait passée de lui. C’était vrai. Cela me rassura, et je ne l’avais pas prévu. Je ne me lèverais pas dans la nuit pour marcher vers une chose qui m’ignorait.
+Ma main se posa à plat sur la roche du sol. Le battement du Jumeau la traversa et remonta dans la paume comme un pouls, régulier, patient, indifférent. Torval, encore  : *ce n’est pas à vous qu’elle bat.* Je laissai la main là pour m’assurer du contraire  : elle aurait battu de la même façon si je n’étais jamais monté. Je n’étais, sur cette montagne, qu’un homme de plus avec une paume sur une pierre. C’était vrai. Cela me rassura, et je ne l’avais pas prévu. Je ne me lèverais pas dans la nuit pour marcher vers une chose qui m’ignorait.
 
 Puis j’ai dormi. Je ne me suis pas levé.
 
@@ -204,7 +204,7 @@ Ce qu’il est devenu, je ne le saurai pas. Borela ne le savait pas non plus  :
 
 Par la fenêtre, le glacier renvoyait la lumière des étoiles, et le battement, à cette distance, ne se sentait plus. Je repliai la feuille selon ses plis anciens et la rangeai contre ma poitrine, à côté du mot de Baelor, l’un contre l’autre. Puis je finis la soupe avant qu’elle refroidisse.
 
-Je repartirais au matin. Vers le sud, cette fois. Vers la mer, vers les routes que Reen disait rouvertes, vers les dépôts qui m’attendaient et que personne ne savait attendre. J’avais touché le terme de ma route, le point le plus au nord où la terre cesse. Il ne restait plus qu’à redescendre, et à faire en sorte que rien de ce que j’avais relevé ne meure avec moi. Ici, presque tout avait fini ainsi  : Vane dans une chemise sans cote, les sept dans la neige.
+Je repartirais au matin. Vers le sud, cette fois. Vers la mer, vers les routes que Reen disait rouvertes, vers les dépôts qui m’attendaient. J’avais touché le terme de ma route, le point le plus au nord où la terre cesse. Il ne restait plus qu’à redescendre, et à faire en sorte que rien de ce que j’avais relevé ne meure avec moi. Ici, presque tout avait fini ainsi  : Vane dans une chemise sans cote, les sept dans la neige.
 
 Je notai, pour finir, en homme qui croit aux listes plus qu’aux intuitions, et en précisant que la liste est la mienne et que d’autres lectures restent possibles  :
 

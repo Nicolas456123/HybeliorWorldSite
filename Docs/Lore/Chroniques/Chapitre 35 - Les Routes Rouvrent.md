@@ -37,7 +37,7 @@ Il regarda la page, les colonnes de renvois, les astérisques dans la marge, les
 «  Ça ne ressemble pas à une carte.
 — Non. Pas à celles qu’on vend.  »
 
-Il n’insista pas, ramassa l’écuelle vide de la veille et redescendit. Il avait posé la bonne question. Ce que je dressais là n’avait pas la forme d’une carte parce que ce n’était pas une carte des terres. C’était une carte de ce qui se répond d’un lieu à l’autre.
+Il n’insista pas, ramassa l’écuelle vide de la veille et redescendit. Il avait posé la bonne question. Ce que je dressais là n’avait pas la forme d’une carte. C’était une carte de ce qui se répond d’un lieu à l’autre.
 
 ---
 
@@ -53,13 +53,13 @@ Je m’y suis mis, pour la première fois en un seul endroit, avec la discipline
 
 *Cinquième fait.* Les inscriptions convergent. Les signes gravés au bord de la faille d’Ordavan, les plus réguliers, ceux qui reviennent par groupes identiques, appartiennent à la même famille d’écriture que les tunnels de Kharazir, que les structures sous la glace, que le Message de Mirathi. Je ne sais pas les lire. Personne ne les lit. On reconnaît la main sans savoir ce qu’elle a écrit, comme on reconnaît une écriture sur une enveloppe qu’on n’ouvrira pas.
 
-Vient la marge. De l’autre côté, j’ai changé d’encre, au sens propre, parce que ce qui suit ne pèse pas le même poids.
+Vient la marge. De l’autre côté, j’ai changé d’encre, au sens propre  : la noire pour les faits, la brune d’Onara pour le reste, parce que ce qui suit ne pèse pas le même poids.
 
-Ce que les textes semblent suggérer, et je pèse chaque mot de cette phrase  : le Message de Mirathi, dont les érudits n’ont déchiffré que des lambeaux par analogie, paraît dire qu’une chose partie pourrait revenir. Les peuples côtiers d’au moins trois continents nomment cette chose Navigor, un passeur entre les états du monde. Les prêtres de l’Ordo Caelum parlent d’un astre absent des constellations depuis l’Arrachement. D’autres n’y voient qu’un éveil, ou une trame qui se reconfigure, ou rien qui mérite un nom. Six lectures au moins. Je les ai écrites côte à côte, et je n’en ai couronné aucune. Je ne cartographie pas ce que je ne peux pas voir. J’en marque le vide, et je dessine soigneusement son contour, pour qu’on sache où il commence.
+Ce que les textes semblent suggérer, et je pèse chaque mot de cette phrase  : le Message de Mirathi, dont les érudits n’ont déchiffré que des lambeaux par analogie, paraît dire qu’une chose partie pourrait revenir. Les peuples côtiers d’au moins trois continents nomment cette chose Navigor, un passeur entre les états du monde. Les prêtres de l’Ordo Caelum parlent d’un astre absent des constellations depuis l’Arrachement. D’autres n’y voient qu’un éveil, ou une trame qui se reconfigure, ou rien qui mérite un nom. Six lectures au moins. Je les ai écrites côte à côte, et je n’en ai couronné aucune. Je ne trace pas ce que je n’ai pas vu. J’en marque le vide, et je dessine soigneusement son contour, pour qu’on sache où il commence.
 
 Reste le point qui m’a le plus longtemps résisté, et ce n’est pas le plus lointain. C’est le plus proche.
 
-Selon ma lecture, on se trompe sur ce que veut dire Délié. Pas sur le fait  : les Déliés existent, la marque existe, le tissu jaune a été cousu sur ma manche pendant vingt ans. Sur le sens. On a pris l’absence d’attache ordinaire pour une absence d’attache tout court. On a confondu n’appartenir à aucun lieu avec n’appartenir pas au monde. Chaque Délié croisé en huit cent soixante-dix jours portait une manière d’être en rapport avec des couches plus profondes que les affiliations de surface, une porosité que les gens bien ancrés dans leur Lien ne développent jamais, parce qu’ils sont ancrés. Les Oracles de Mirathi, qui reçoivent le Message sans chercher à le lire. Les chamanes des brumes, qui traversent Cestra sans rien lui devoir. Et mon père, qui a fait cette route avant moi, et qui n’appartenait plus à aucune ville depuis vingt ans.
+Selon ma lecture, on se trompe sur ce que veut dire Délié. Pas sur le fait  : les Déliés existent, la marque existe, le tissu jaune a été cousu sur ma manche pendant vingt ans. Sur le sens. On a pris l’absence d’attache ordinaire pour une absence d’attache tout court. On a confondu n’appartenir à aucun lieu et ne pas appartenir au monde. Chaque Délié croisé en huit cent soixante-dix jours portait une manière d’être en rapport avec des couches plus profondes que les affiliations de surface, une porosité que les gens bien tenus par leur Lien ne développent pas. Les Oracles de Mirathi, qui reçoivent le Message sans chercher à le lire. Les chamanes des brumes, qui traversent Cestra sans rien lui devoir. Et mon père, qui a fait cette route avant moi, et qui n’appartenait plus à aucune ville depuis vingt ans.
 
 J’écris *ma lecture*, et je m’en méfie. Je l’ai mise du côté de la marge où l’encre est plus claire.
 
@@ -67,19 +67,19 @@ J’écris *ma lecture*, et je m’en méfie. Je l’ai mise du côté de la mar
 
 La carte dressée, il fallait la mettre à l’abri, et c’est là qu’ont vraiment servi ces jours de mer. À Rukhsar, un rapport de quatre années avait été classé en deux heures dans un tiroir dont personne ne connaissait la serrure. Je n’ai pas oublié la vitesse du geste. Alors j’ai passé le reste de la traversée non pas à écrire du neuf, mais à recopier, pour que la carte ne dépende plus d’une seule main.
 
-Les dix-sept cahiers du sac iront à Prismalith. Là, devant le Tribunal, un document déposé entre dans un registre que même le Grand Recteur ne peut vider sans que le vide se remarque. Ce n’est pas qu’on y aime la vérité. C’est qu’on l’y compte. Le sac est l’original, et l’original va au seul endroit qui garde même ce qu’il déteste.
+Les dix-sept cahiers du sac iront à Prismalith. Là, devant le Tribunal, un document déposé entre dans un registre que même le Grand Recteur ne peut vider sans que le vide se remarque. Ce n’est pas qu’on y aime la vérité. C’est qu’on l’y compte. Le sac est l’original, et l’original ira là.
 
-Un original reste un point unique, et un point unique se perd. J’ai donc consacré mes matinées à en tirer une seconde carte, plus mince  : non pas les dix-sept cahiers, mais leur épine, les recoupements qui font tenir le reste, les dates, les concordances de rythme, les renvois d’un continent à l’autre. Cinq cahiers de copie serrée, d’une main que je forçais à rester lisible quand le roulis me la disputait. J’ai cassé deux plumes. Le mousse m’en a taillé une troisième dans une plume de goéland, et elle a tenu jusqu’au bout. Ceux-là iront à Omarin de Velithis, mon plus vieux correspondant, le seul qui m’ait jamais écrit *n’appelle pas cela vérité, appelle cela charge*. Il ne les gardera pas comme une preuve. Il les gardera comme on garde le double d’une clé chez un ami, pour le jour où l’on a perdu la sienne.
+Un original reste un point unique, et un point unique se perd. J’ai donc consacré mes matinées à en tirer une seconde carte, plus mince  : non pas les dix-sept cahiers, mais leur épine, les recoupements qui font tenir le reste, les dates, les concordances de rythme, les renvois d’un continent à l’autre. Cinq cahiers de copie serrée, d’une main que je forçais à rester lisible quand le roulis me la disputait. J’ai cassé deux plumes. Le mousse m’en a taillé une troisième dans une plume de goéland, et elle a tenu jusqu’au bout. Ceux-là iront à Omarin de Velithis, mon plus vieux correspondant, le seul qui m’ait jamais écrit *n’appelle pas cela vérité, appelle cela charge*. Il les gardera comme on garde le double d’une clé chez un ami.
 
 Deux dépôts, donc, et entre eux la règle que je tiens depuis le premier cahier  : trois copies pour un original, jamais moins, et jamais deux copies sur la même route. C’est une règle de convoyeur, pas de savant.
 
 Le dernier calcul fut celui du semis. Entre le quai de Galenor et les portes de Prismalith, la route est courte et mauvaise. C’est là que l’appareil m’attend. J’ai donc repris de mémoire la carte des relais de Galenor, ceux qui tiennent encore  : l’imprimeur de Lumasar, qui refuse par prudence et copie par conscience  ; un scriptorium sans registre  ; une herboriste des marges qui range mieux qu’aucune bibliothèque. À chacun, en passant, je laisserai une poignée de feuillets. Pas pour qu’ils les lisent. Pour qu’ils les aient, de sorte que si l’on me prend entre le port et le Tribunal, ce que je porte soit déjà en trois endroits que rien ne relie sur une carte. J’ai posé les points comme on pose une triangulation  : assez nombreux pour qu’aucune paire de désastres ne coïncide.
 
-Un homme qui me regarderait faire verrait un persécuté qui se protège, un exilé qui multiplie les précautions parce qu’on a une fois vidé son tiroir. Il aurait raison sur les gestes. Il se tromperait sur ce qu’ils servent. Je ne me protège pas. Je me rends inutile. Le jour où ce que je sais est en dix endroits, ma personne n’a plus de valeur, et un homme sans valeur passe plus tranquillement les dernières portes.
+Un homme qui me regarderait faire verrait un persécuté qui se protège, un exilé qui multiplie les précautions parce qu’on a une fois vidé son tiroir. Je ne me protège pas. Je me rends inutile. Le jour où ce que je sais est en dix endroits, ma personne n’a plus de valeur, et un homme sans valeur passe plus tranquillement les dernières portes.
 
 ---
 
-Le soir, la cloche du cuisinier m’appela au carré. Huit autour de la longue table  : les matelots, le mousse, Reen au bout, moi dans l’angle, la place que je prends toujours depuis que j’ai compris qu’on voyage mieux en laissant les gens de mer au centre de leur propre espace. La soupe était épaisse, couleur de cendre rose, des racines fondues dans un bouillon de poisson qui avait cuit tout le jour. Un matelot fit passer une huile qu’il gardait dans sa réserve, avec la fierté un peu jalouse des hommes qui vivent loin de chez eux.
+Le soir, la cloche du cuisinier m’appela au carré. Huit autour de la longue table  : les matelots, le mousse, Reen au bout, moi dans l’angle, la place que je prends toujours, dos à la cloison, pour laisser les gens de mer au centre. La soupe était épaisse, couleur de cendre rose, des racines fondues dans un bouillon de poisson qui avait cuit tout le jour. Un matelot fit passer une huile qu’il gardait dans sa réserve, avec la fierté un peu jalouse des hommes qui vivent loin de chez eux.
 
 «  De Galenor, dit-il en versant un filet dans mon écuelle. La vraie. Pas les cochonneries qu’on charge à Seraphis.  »
 
@@ -93,13 +93,13 @@ Il trempa son pain, prit son temps.
 
 «  Une route qui rouvre, méfiez-vous, dit-il. Une voie d’eau aussi, ça s’ouvre.  »
 
-Personne ne releva. Pour eux, c’était une plaisanterie de coque. Je l’ai notée le soir même, sans commentaire. J’avais dit *route* toute la traversée avec la satisfaction de quelqu’un qui décrit un progrès, et un homme qui trempait son pain venait de me rappeler qu’une ouverture ne dit rien de ce qui va la franchir, ni dans quel sens.
+Personne ne releva. Pour eux, c’était une plaisanterie de coque. Je l’ai notée le soir même, sans commentaire. J’avais dit *route* toute la traversée comme on décrit un progrès. Un homme qui trempait son pain venait de me rappeler qu’une ouverture ne dit pas dans quel sens on la franchit.
 
 Un plus jeune, à l’autre bout, voulut savoir si c’était vrai que le fond changeait.
 
 «  Les vieux le disent, répondit le matelot. Que ça bouge en dessous, dans les courants profonds, là où aucun de nous ne descend. Assez pour que la mer ne se tienne plus comme avant.  »
 
-Il haussa les épaules et retourna à sa soupe. Ils parlaient du dessous des eaux comme d’un voisin qu’on entend remuer ses meubles à travers le plancher. Le fond change. On ne sait pas pourquoi. On adapte les routes. Ils avaient pour dire la chose des mots plus honnêtes que tous les miens.
+Il haussa les épaules et retourna à sa soupe. Ils parlaient du dessous des eaux comme d’un voisin qu’on entend remuer ses meubles à travers le plancher. Le fond change. On ne sait pas pourquoi. On adapte les routes. Ils disaient la chose avec des mots plus honnêtes que les miens.
 
 ---
 
@@ -134,7 +134,7 @@ Ses yeux, quand je me tournai vers lui, étaient d’un brun très pâle, accord
 
 «  Les marins perdus appellent leur dérive une route, parce que route fait moins peur. Vous, vous appelez la vôtre un retour. Peut-être que c’en est un. Peut-être que vous avez seulement besoin que ce soit un retour, parce que votre père est quelque part au bout.  »
 
-La phrase me prit plus juste que je ne l’aurais voulu. J’ai pris soin de ne rien montrer, ce qui est une autre façon de montrer.
+La phrase me prit plus juste que je ne l’aurais voulu. Je gardai les mains sur le bastingage et ne répondis pas tout de suite.
 
 «  Vous dites cela à tous vos passagers  ?
 — Seulement à ceux qui regardent la mer comme si elle leur devait une réponse.  »
@@ -149,7 +149,7 @@ La mer tint parole deux nuits plus tard. Un grain monté du sud-ouest sans prév
 
 Un an plus tôt, j’aurais serré ce sac contre moi jusqu’au matin, terrifié à l’idée qu’une lame l’emporte, que l’eau mange l’encre, que huit cents jours finissent dissous dans une cale d’Onara. Cette nuit-là, j’ai posé la main sur la toile cirée, j’ai vérifié les numéros à l’aveugle, du premier au dix-septième, et j’ai retiré la main. Ce que contenait ce sac courait déjà les soixante ports du fleuve d’Onar, dans des paquets que je ne reverrais jamais. La mer pouvait me le prendre. Elle ne prendrait que le papier. Je n’aimais pas moins le sac. Je ne tremblais plus pour lui.
 
-Le grain passa avant l’aube. Reen n’avait pas quitté la barre. Au matin, la mer était lavée, plate, comme elle l’est toujours après avoir montré ce dont elle est capable.
+Le grain passa avant l’aube. Reen n’avait pas quitté la barre  ; au matin, ses mains restaient ouvertes sur ses genoux, incapables de se refermer tout de suite. Au matin, la mer était lavée, plate, comme elle l’est toujours après avoir montré ce dont elle est capable.
 
 ---
 
@@ -165,7 +165,7 @@ Ce que je sais tient maintenant, pour la première fois, dans les dix-sept cahie
 
 Une chose me sépare de lui. Il a porté cela seul, jusqu’au bout, et le bout l’a pris. Moi, je ne franchirai aucun seuil avant d’avoir posé ce que je sais là où d’autres pourront le reprendre, le contester, le compléter.
 
-Il me reste à l’amener au port, et rien n’est fait. L’appareil qui a suivi ma trace sur douze continents sait, désormais, que je ne fuis pas  : que je dépose. Il voudra saisir les cahiers avant qu’ils ne touchent Prismalith, et la dernière eau est souvent la plus mauvaise. La saisie viendra sur ces derniers milles, je le sais comme on sait la marée. Une coque sans pavillon montée du travers pour nous arraisonner en règle, une lettre tendue par un homme poli qui a le droit pour lui. Ou un visage que je connais à moitié, un gant de cuir noir à la main gauche, en toute saison. J’ai appris à lire cet appareil dans le carnet de mon père  : où il poste ses guetteurs, par quels canaux qui n’apparaissent dans aucun texte il fait courir l’ordre de mettre une chose sous scellé. C’est un savoir lent, qui n’a jamais suffi à sauver personne, et qui suffit parfois à garder une longueur d’avance.
+Il me reste à l’amener au port, et rien n’est fait. L’appareil qui a suivi ma trace sur douze continents sait, désormais, que je ne fuis pas  : que je dépose. Il voudra saisir les cahiers avant qu’ils ne touchent Prismalith, et la dernière eau est souvent la plus mauvaise. La saisie viendra sur ces derniers milles, je le sais comme on sait la marée. Une coque sans pavillon montée du travers pour nous arraisonner en règle, une lettre tendue par un homme poli qui a le droit pour lui. Ou un visage que je connais à moitié, un gant de cuir noir à la main gauche, en toute saison. J’ai appris à lire cet appareil dans le carnet de mon père  : où il poste ses guetteurs, par quels canaux qui n’apparaissent dans aucun texte il fait courir l’ordre de mettre une chose sous scellé. C’est un savoir lent. Il n’a pas sauvé mon père. Il m’a donné, plusieurs fois, une longueur d’avance.
 
 Mais on ne saisit pas une chose qui s’est déjà répandue. Ce qui compte a quitté mes mains depuis longtemps, par le fleuve d’Onar, par soixante ports, dans des paquets que des inconnus ont emportés sans savoir. Le sac n’est que l’original.
 

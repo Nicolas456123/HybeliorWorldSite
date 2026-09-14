@@ -44,7 +44,7 @@ Ce n’était pas une accusation. Il posait ses cartes sur la table et attendait
 «  Vous pensez qu’il vient pour moi, dis-je.
 — Je pense qu’un passager que j’ai pris à Noravia parce que je le lui avais promis sur un quai de Solena, il y a huit cents jours, remonte un sac contre sa poitrine chaque fois qu’une voile paraît. Je ne suis pas curieux, Valthen. J’ai passé l’âge. Mais je tiens à savoir si mon navire va être fouillé, et pour quoi, avant que des hommes armés y montent.  »
 
-La mer sous nous respirait, lente, avec cette surface tendue qui ressemblait plus à une peau qu’à de l’eau. J’aurais pu lui mentir. Un capitaine altram ne jette pas un passager par-dessus bord sur un soupçon. Mais Reen m’avait ramené du bout du monde, et il y a un moment où une couverture coûte plus cher qu’elle ne protège.
+La mer sous nous respirait, lente, avec cette surface tendue qui ressemblait plus à une peau qu’à de l’eau. J’aurais pu lui mentir. Un capitaine altram ne jette pas un passager par-dessus bord sur un soupçon. Mais Reen m’avait ramené du bout du monde.
 
 «  Ils viennent pour ce que je porte, dis-je. Pas pour votre cannelle. Vos papiers vous couvriront. Le manifeste est juste, votre équipage n’a rien à cacher, et ce qu’ils cherchent, ce sont des cahiers, pas de la contrebande. Ils les regarderont, ils ne trouveront rien qui vaille une saisie, et ils repartiront.  »
 
@@ -55,7 +55,7 @@ Reen me considéra un moment de ses yeux d’un brun très pâle.
 
 Il prit la chose comme il prenait le temps qu’il faisait, sans un mot, et se redressa.
 
-«  Je vais mettre en panne avant qu’ils me l’ordonnent. Un navire qui s’arrête de lui-même a l’air d’un navire qui n’a rien à fuir. Restez sur le pont. Un homme qu’on cherche dans une cabine a l’air d’un homme qui se cache.  »
+«  Je vais mettre en panne avant qu’ils me l’ordonnent. Un navire qui s’arrête de lui-même a l’air d’un navire qui n’a rien à fuir. Restez sur le pont. Dans une cabine, on a l’air de se cacher.  »
 
 C’était mon avis. Je ne le lui ai pas dit.
 
@@ -67,7 +67,7 @@ Dans le carré désert, sous la lumière grise du claire-voie, j’ai sorti les 
 
 Le premier cahier était le plus abîmé. Sa couverture avait bu le sel de tous les ports, la poussière des steppes de Ventera, la suie du Détroit. Dessous, la première page, écrite dans une chambre de Rukhsar par une main que je ne reconnaissais plus tout à fait. Entre cette page et celle du jour, huit cent quatre-vingt-cinq jours, douze continents, et un certain nombre d’hommes et de femmes qui m’avaient parlé et qui ne parlaient plus. Ceux-là, je ne les alignais sur aucune table.
 
-Un homme qui aurait regardé par-dessus mon épaule aurait vu un voyageur inquiet compter son bagage avant une fouille. C’était vrai. C’était aussi autre chose, et l’autre chose n’avait pas de témoin.
+De l’extérieur, c’était un voyageur inquiet qui compte son bagage avant une fouille. C’était vrai. Ce n’était pas tout, et le reste n’avait pas de témoin.
 
 Ces cahiers étaient tout ce qu’un fonctionnaire pouvait me prendre ce jour-là. Ils n’étaient pas tout ce que j’avais écrit. Sur le fleuve d’Onar, il y avait des mois, dans un pays où soixante ports se passent des marchandises comme d’autres se passent des nouvelles, j’avais confié des copies de mes cahiers d’alors à des mains que je ne reverrais jamais, contre un service, pour qu’elles voyagent sans moi, chacune dans une direction différente. Depuis, à chaque relais, d’autres copies étaient parties. Le sac pesait le même poids qu’avant. Il ne contenait plus la même chose.
 
@@ -100,7 +100,7 @@ Il ne se jeta pas dessus. Du lot, il choisit le troisième cahier, au hasard en 
 
 Je savais ce qu’il y trouvait. Les prix du sel à Onara. La cuisine des mineurs d’Alkaran, la soupe grise, l’huile qu’un homme garde de chez lui. Trois pages sur les cathédrales flottantes et leurs cloches. Le nom des vents, les jours de marché, la façon dont on salue un batelier selon qu’on veut monter à bord ou seulement lui acheter du poisson. Un journal de voyage. Le plus honnête, le plus minutieux, le plus assommant journal de voyage qu’un homme ait jamais tenu.
 
-Il en prit un autre, puis un autre. Sa lecture s’accélérait et son visage ne changeait pas, et c’est à cet instant que je l’ai vu chercher, et ne pas trouver, la chose qu’il était venu prendre.
+Il en prit un autre, puis un autre. Sa lecture s’accélérait, son visage ne changeait pas. Je le vis chercher, et ne pas trouver, la chose qu’il était venu prendre.
 
 «  Où est le reste, monsieur Valthen  ?
 — Il n’y a pas de reste. Ce sont mes cahiers. Dans l’ordre. Aucun ne manque.
@@ -115,7 +115,7 @@ Il rouvrit un cahier au milieu, choisit une ligne et la lut à voix haute, sans 
 — Et ceci compte  ?
 — Je l’ignore. C’est pourquoi je l’ai laissé là où vous l’avez trouvé, entre une recette de soupe et le tarif d’un passeur. Si j’avais su que cela comptait, je n’aurais pas su où le mettre.  »
 
-Il pesa la phrase et ne trouva pas où la prendre en défaut. La chose la plus lourde de mes dix-sept cahiers dormait là, à plat, sans un astérisque de plus que le prix d’une chambre, et l’homme dont le métier était de traquer les vérités dangereuses venait de la lire à voix haute sans la reconnaître. Déjà, il refermait le cahier. On ne cherche pas une montagne dans une liste de courses.
+Il pesa la phrase et ne trouva pas où la prendre en défaut. La chose la plus lourde de mes dix-sept cahiers dormait là, à plat, sans un astérisque de plus que le prix d’une chambre. Il venait de la lire à voix haute sans la reconnaître. Déjà, il refermait le cahier. On ne cherche pas une montagne dans une liste de courses.
 
 ---
 
@@ -138,7 +138,7 @@ Ce n’était pas un mensonge. Personne ne les avait lus. Les copies dormaient d
 «  Ce sont les seuls que vous ayez  ? demanda-t-il sans changer de ton.
 — Ce sont les seuls que j’aie sur moi  », répondis-je, et je fis comme lui  : je ne posai pas les deux derniers mots plus haut que le reste.
 
-Il entendit la phrase. Je l’ai vu à la manière dont son regard s’arrêta, pour la première fois, une fraction de seconde, sur un point fixe. *Sur moi.* Deux mots qu’aucun tribunal ne pourrait retourner contre celui qui les prononce, et qui disaient tout à qui savait déjà. Il pouvait comprendre. Il ne pouvait rien prendre.
+Il entendit la phrase. Je l’ai vu à la manière dont son regard s’arrêta, pour la première fois, une fraction de seconde, sur un point fixe. *Sur moi.* Deux mots qu’aucun tribunal ne pourrait retourner contre celui qui les prononce. Il pouvait comprendre. Il ne pouvait rien prendre.
 
 ---
 
@@ -150,7 +150,7 @@ Il ne le prit pas.
 — Vous allez écrire que je ne porte rien.
 — Je vais écrire que vous ne portez rien que la loi me permette de prendre. C’est différent, et c’est la seule chose exacte que je puisse écrire.  » Il ajusta son gant. «  Vous et moi savons que ce n’est pas la même chose que ne rien porter. Mais je ne suis pas payé pour ce que je sais. Je suis payé pour ce qui se saisit. Et l’on ne saisit pas un journal de voyage.  »
 
-Il me regarda une dernière fois, et ce que j’ai lu dans ce regard n’était ni de la haine ni du triomphe. C’était la fatigue d’un homme qui a fait correctement son travail pendant huit cents jours et qui vient de comprendre, sur un pont battu par le vent, que le travail était bien fait et ne servait à rien.
+Il me regarda une dernière fois, et ce que j’ai lu dans ce regard n’était ni de la haine ni du triomphe. C’était la fatigue d’un homme qui a bien fait son travail pendant huit cents jours et qui vient de comprendre, sur un pont battu par le vent, que cela n’a servi à rien.
 
 «  On m’avait appris qu’une vérité, pour être dangereuse, doit être dite fort. Personne ne m’avait appris qu’on pouvait la rendre indestructible en la disant tout bas, partout, et en la déguisant en prix du sel. Vous, si. Quelqu’un vous l’a appris.  »
 
@@ -170,7 +170,7 @@ Reen attendit qu’elle eût disparu pour parler. Il avait ramassé le sac sans 
 
 Ce n’était pas une question. J’ai noué la cordelette et remonté la lanière contre ma poitrine.
 
-«  Je savais qu’il n’y avait rien à prendre. Ce n’est pas la même chose que savoir ce qu’il ferait. Mais un bureau se lit mieux qu’une tempête. Un homme comme lui suit des règles, et les règles s’apprennent d’avance. C’est la mer qui n’en suit pas, capitaine. Pas les hommes en manteau gris.  »
+«  Je savais qu’il n’y avait rien à prendre. Ce n’est pas la même chose que savoir ce qu’il ferait. Mais un homme comme lui suit des règles, et les règles s’apprennent d’avance. C’est la mer qui n’en suit pas, capitaine. Pas les hommes en manteau gris.  »
 
 Reen me regarda de côté, avec ce qui, chez lui, tenait lieu de sourire.
 
@@ -187,13 +187,13 @@ Aucun des huit hommes du bord ne m’avait vendu. Leur manière de me regarder, 
 
 La côte parut au début de l’après-midi. D’abord une ligne grise que j’aurais pu prendre pour une bande de nuages plus lourde que les autres, puis une masse qui se leva lentement de l’eau et prit, à mesure que nous approchions, les couleurs que j’avais passé huit cent quatre-vingt-cinq jours à ne pas voir  : les verts amortis du continent sous un ciel couvert, la pierre pâle des falaises de l’ouest, la forme longue d’un pays que je reconnaissais dans mon corps avant de le reconnaître des yeux. Galenor. Le pays qui m’avait cousu le tissu jaune et poussé dehors, et qui n’avait pas idée de ce que je rapportais dans un sac de toile.
 
-Ce qu’Orath avait dit était juste. Mon père m’avait appris à rendre une vérité indestructible en la disant tout bas, sans un mot d’instruction, rien qu’en partant et en ne revenant pas, et en laissant derrière lui deux carnets que personne n’avait su lire à temps. Sa vérité était morte avec sa disparition parce qu’il l’avait portée seul, dans deux cahiers, sur une seule route, dans une seule tête. J’avais fait l’inverse. Dix-sept cahiers, soixante ports, autant de mains, autant de copies, autant de directions.
+Ce qu’Orath avait dit était juste. C’est mon père qui me l’avait appris, et pas de la façon qu’il aurait voulue. Sa vérité était morte avec sa disparition parce qu’il l’avait portée seul, dans deux cahiers, sur une seule route, dans une seule tête. J’avais fait l’inverse. Dix-sept cahiers, soixante ports, autant de mains, autant de copies, autant de directions.
 
 Orath rentrerait, écrirait son rapport, classerait la notification. Sans le vouloir, l’appareil qui avait effacé mon père signerait de sa propre main le certificat de mon innocence  : un journal de voyage sans portée, examiné, rien à saisir. Cette fausse piste-là, je ne l’avais pas semée. C’était lui qui allait l’écrire, la ranger, et la croire.
 
 Les copies semées sur le fleuve suffisaient à ce que la vérité ne meure pas avec moi. Elles ne suffisaient pas à ce qu’elle soit crue. Un cahier dépareillé, surgi seul dans une arrière-boutique d’imprimeur, se conteste, se dit faux, se brûle sans que personne s’en émeuve. Il fallait que les dix-sept existent quelque part ensemble, entiers, dans l’ordre, chaque relevé à sa date et dans sa suite, chaque rature visible, pour qu’aucun homme de bureau ne puisse jamais dire que l’un démentait l’autre. Voilà ce que je portais encore contre ma poitrine  : non pas la seule copie, mais celle contre laquelle toutes les autres se vérifieraient un jour.
 
-Deux dépôts m’attendaient. Le premier à Prismalith, où d’autres mains recopieraient ce que ces cahiers portaient, là où aucun cotre ne pourrait plus la rattraper. Le second, plus loin, chez un vieil ami, à l’endroit exact où tout avait commencé, derrière une porte peinte en bleu et des murs peints en jaune.
+Deux dépôts m’attendaient. Le premier à Prismalith, où d’autres mains recopieraient ce que ces cahiers portaient, hors d’atteinte de tout cotre. Le second, plus loin, chez un vieil ami, à l’endroit exact où tout avait commencé, derrière une porte peinte en bleu et des murs peints en jaune.
 
 Nous sommes entrés dans les eaux du port au crépuscule. Les cloches d’une chapelle de quai sonnaient l’heure basse, et les lumières s’allumaient une à une le long de la jetée, jaunes elles aussi, tremblantes sur l’eau noire. Ça sentait le goudron, le poisson, la fumée de bois. Ça sentait Galenor.
 
