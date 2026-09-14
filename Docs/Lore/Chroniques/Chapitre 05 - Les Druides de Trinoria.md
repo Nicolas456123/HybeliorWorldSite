@@ -161,7 +161,7 @@ Le bol pencha sur mes genoux  ; un peu de soupe déborda sur la natte de jonc. 
 «  Vous comprenez que, pour moi, une phrase pareille n’entre dans aucun relevé.
 — Alors n’en fais pas un relevé.
 — Je suis cartographe, rappelai-je.
-— Non.  » Il s’accroupit devant le feu et remua les braises du bout d’un bâton. «  Tu es un homme qui a appris la cartographie. Ce n’est pas la même prison.  »
+— Non.  » Il s’accroupit devant le feu et remua les braises du bout d’un bâton. «  Tu es un homme qui a appris la cartographie.  »
 
 Je cherchai une réponse  ; rien de correct ne se présenta. Alors j’ai posé la seule question vraie que je pouvais poser sans me découvrir.
 
@@ -190,7 +190,7 @@ J’ignore ce qui bat sous Velathor, et je ne le saurai sans doute jamais avec l
 
 Ce que je remporte de ces huit jours n’est pas une opinion sur les esprits du Vael’Kurash. C’est un pouls dans le sol, lent, régulier, monté depuis cinq ans par les racines des plus vieux troncs, et le chiffre cinq écrit dans mon carnet à côté d’autres chiffres qui, pour l’instant, ne se parlent pas encore. D’autres viendront, plus au sud, plus loin en mer, dans des mines et des archives que je n’ai pas encore vues. J’accumule des points  ; la côte viendra. Et j’ai la patience de celui qui sait déjà à peu près où elle va tomber.
 
-J’emporte autre chose, plus utile que je ne le laisse paraître  : la manière dont ce peuple garde ce qu’il sait. Rien d’écrit, tout su, chacun une part, personne le tout. Un savoir qu’on ne peut ni saisir dans une malle, ni brûler sur un bûcher, ni classer d’une lettre en deux heures, parce qu’il n’est nulle part et partout à la fois. Kharazir m’a appris qu’une vérité gravée sur la meilleure pierre se descelle en une matinée. Les druides gardent la leur en la dispersant, tant qu’aucune main ne peut la refermer. Eux ne l’écrivent nulle part. Moi, je l’écrirais partout. Le contraire exact, pour arriver au même endroit. Je note cela comme une curiosité de voyage. Ce n’en est pas une, et Keth, du haut de ses dix-huit ans, l’a vu avant tout le monde.
+J’emporte autre chose, plus utile que je ne le laisse paraître  : la manière dont ce peuple garde ce qu’il sait. Rien d’écrit, tout su, chacun une part, personne le tout. Un savoir qu’on ne peut ni saisir dans une malle, ni brûler sur un bûcher, ni classer d’une lettre en deux heures, parce qu’il n’est nulle part et partout à la fois. Kharazir m’a appris qu’une vérité gravée sur la meilleure pierre se descelle en une matinée. Les druides gardent la leur en la dispersant, tant qu’aucune main ne peut la refermer. Eux ne l’écrivent nulle part. Moi, je l’écrirais partout. Je note cela comme une curiosité de voyage. Ce n’en est pas une, et Keth, du haut de ses dix-huit ans, l’a vu avant tout le monde.
 
 Le dernier repas fut un dîner avec Orvhel, Keth, la femme aux tatouages en spirale et le vieux qui ne parlait pas mais dont chaque silence pesait sur la table. On avait rôti un cerf sur du bois de cèdre. La fumée sucrée collait aux vêtements, la graisse chantait en tombant sur les braises, la viande se défaisait sous le couteau. J’ai bu à la santé des esprits de la forêt, moitié pour rire. Orvhel répondit, parfaitement sérieux  :
 
@@ -200,7 +200,7 @@ Au matin, Pardine chargée de provisions, Keth m’a mené jusqu’à l’orée.
 
 «  Pour que tu saches que quelqu’un de cette forêt te reconnaît.  »
 
-Je l’ai glissée dans la poche gauche de ma veste, celle où je garde mon compas depuis Kharazir. Le compas donne des directions  ; j’ignore encore ce que donne la pierre. Elle a un poids, et ce poids n’est pas rien.
+Je l’ai glissée dans la poche gauche de ma veste, celle où je garde mon compas depuis Kharazir. Le compas donne des directions  ; j’ignore encore ce que donne la pierre.
 
 Keth a marché un moment à mon côté avant de me laisser. Depuis l’orée, il tournait autour de quelque chose.
 
@@ -214,7 +214,7 @@ La remarque me coûta un pas de silence. Propre, lisible, daté, recoupé  : j�
 
 Il n’a pas compris, et c’était mieux ainsi. Il me salua à la manière d’ici, une paume posée un instant sur l’écorce du dernier arbre, et resta là pendant que je m’éloignais.
 
-J’ai quitté Trinoria par la marche sud, cap sur Valoria, en me demandant si les troncs de Velathor me regardaient partir. Puis, plus franchement, en me demandant si la réponse comptait pour moi. Elle comptait. Cela aussi est nouveau. Ou je l’écris comme si c’était nouveau, ce qui n’est pas tout à fait la même chose.
+J’ai quitté Trinoria par la marche sud, cap sur Valoria, en me demandant si les troncs de Velathor me regardaient partir. Puis, plus franchement, en me demandant si la réponse comptait pour moi. Elle comptait. Cela aussi est nouveau. Ou je l’écris comme si c’était nouveau.
 
 L’une de mes dernières nuits trinoriennes s’est passée dans une grotte basse, un abri de chasseur que Keth m’avait indiqué, au foyer noirci de cent feux. L’odeur de résine et de champignon humide est restée plusieurs jours dans la laine. Je note la grotte parce qu’elle existe, et parce qu’elle m’a été prêtée sans que personne me demande rien  ; dans la cartographie d’un voyage, ces abris-là comptent autant que les villes. Ma toute dernière nuit avant les hameaux du sud fut différente. Mais elle appartient déjà à Valoria, et je n’écris pas les pays d’avance.
 

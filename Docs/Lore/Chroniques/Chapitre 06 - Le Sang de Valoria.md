@@ -80,7 +80,7 @@ Sous mes bottes, le sol avait un pouls. Faible, lent, régulier  ; une pression
 
 «  Je ne sens rien, dis-je. Je suis Délié. On me l’a assez reproché.
 
-— Je n’ai pas parlé de ce que tu sens. J’ai parlé de ce que tu portes.  » Elle ramassa son pinceau. «  Ce n’est pas la même chose.  » Déjà elle se raccroupissait devant son cairn, et son dos me congédiait. «  Monte. Mais redescends avant la nuit. Depuis quelque temps, les vieux noms se taisent, la nuit. Ils écoutent autre chose.  »
+— Je n’ai pas parlé de ce que tu sens. J’ai parlé de ce que tu portes.  » Elle ramassa son pinceau. Déjà elle se raccroupissait devant son cairn, et son dos me congédiait. «  Monte. Mais redescends avant la nuit. Depuis quelque temps, les vieux noms se taisent, la nuit. Ils écoutent autre chose.  »
 
 Je suis monté. Sa phrase n’est pas allée dans la marge des relevés. Elle est allée sur l’autre page, celle où je garde ce que je ne veux ni perdre ni expliquer. Cette page-là se remplit depuis Trinoria.
 
@@ -144,7 +144,7 @@ Le vent a rempli le silence à ma place. J’ai fini par dire  :
 
 — Non. Pas comme moi.  »
 
-Jamais, de tout le voyage, je ne suis passé aussi près d’avertir un homme  ; aussi près, du moins, que ma prudence le permettait.
+Jamais, de tout le voyage, je ne suis passé aussi près d’avertir un homme.
 
 «  Moi, je repars demain. Lui, il reste, ou il envoie. Les hommes de son espèce ne viennent pas apprendre  : ils viennent classer. Range tes tablettes, Torhal. Envoie tes relevés à ton vieux de Velros, à ton liseur de Gorthorn, à des gens qui ne se connaissent pas entre eux. Trois copies, trois routes. Et qu’aucune ne sache où vont les deux autres.  »
 
@@ -214,7 +214,7 @@ Dans le temps qu’il mit à franchir les dix pas entre nous, plusieurs choses m
 
 Derrière moi, le couloir d’éboulis descendait, raide, instable, une pente de pierraille que mon père avait notée franchissable à la descente, jamais à la montée. Je ne me suis pas battu  ; se battre était son métier, pas le mien. Un pas de recul, deux, jusqu’au bord de la pierraille. La plaque bougeait sous mes pieds depuis un moment. Quand il fondit, je l’ai lâchée, et je suis tombé avec elle.
 
-La montagne a fait le reste. Une avalanche courte et sale m’a emporté sur trente toises, dans un fracas de pierres, et l’a laissé en haut, du mauvais côté d’un éboulis qu’il faudrait contourner par le col, celui où plus personne n’attendait. En bas, je me suis relevé  : le genou ouvert, une manche arrachée, le carnet intact contre mes côtes, parce que je l’avais protégé avant ma tête. Là-haut, il n’avait pas bougé. Il me regardait descendre, la main gantée le long du corps, avec l’attention d’un homme qui prend un relevé pour la fois suivante. Il n’a pas crié. Il n’a jamais crié. Ce silence-là m’a suivi plus loin que n’importe quelle menace hurlée.
+La montagne a fait le reste. Une avalanche courte et sale m’a emporté sur trente toises, dans un fracas de pierres, et l’a laissé en haut, du mauvais côté d’un éboulis qu’il faudrait contourner par le col, celui où plus personne n’attendait. En bas, je me suis relevé  : le genou ouvert, une manche arrachée, le carnet intact contre mes côtes, parce que je l’avais protégé avant ma tête. Là-haut, il n’avait pas bougé. Il me regardait descendre, la main gantée le long du corps, avec l’attention d’un homme qui prend un relevé pour la fois suivante. Il n’a pas crié. Il n’a jamais crié.
 
 Je reverrais ce gant. Mais ceci fut la première fois, et je le consigne ici, dans le froid de Voldenor  : le jour où j’ai su, non plus par le carnet de mon père mais dans ma propre chair, que quelqu’un avait reçu l’ordre de m’attendre plus haut.
 

@@ -114,7 +114,7 @@ Il rassembla mes papiers, puis les garda un instant sous sa main.
 — Je viens mesurer de la roche, commandant. La roche ne se cache de personne.
 — C’est ce que je note dans mon registre  », dit-il en me rendant mes papiers.
 
-Je redescendis le couloir de basalte en pesant ce qu’il venait de me tendre sans le savoir. Un avis sans canal reconnu, qui court plus vite que les guildes et qui arrive quand même  : mon père avait consacré à ces avis-là une page entière de son carnet, à leur façon de circuler d’une institution à l’autre par des chemins qui ne figurent nulle part. Il l’avait écrite pour lui. Je la relis pour moi. De toutes les cartes que je porte, c’est la seule qui indique non pas où sont les choses, mais où l’on m’attend.
+Je redescendis le couloir de basalte en pesant ce qu’il venait de me tendre sans le savoir. Un avis sans canal reconnu, qui court plus vite que les guildes et qui arrive quand même  : mon père avait consacré à ces avis-là une page entière de son carnet, à leur façon de circuler d’une institution à l’autre par des chemins qui ne figurent nulle part. Il l’avait écrite pour lui. Je la relis pour moi. De toutes les cartes que je porte, c’est la seule qui dise où l’on m’attend.
 
 ---
 
@@ -128,7 +128,7 @@ Niveaux un et deux  : rien que d’ordinaire selon les normes d’Alkaran. Du f
 
 Au niveau sept, j’ai entendu les sons.
 
-Je veux être précis. La précision sert mieux que le drame. Nous étions à l’intersection de deux galeries, et je m’étais arrêté pour tracer un repère, la règle contre la paroi, quand un son est venu de la roche. Pas de l’air de la galerie  : de la roche même. Dans une mine, les sons voyagent par la pierre et par le métal autant que par l’air  ; ils arrivent par le sol, par les étais qui font office de conduits. Celui-là ne venait ni des étais ni d’une galerie voisine. Il venait de la paroi.
+Je veux être précis. Nous étions à l’intersection de deux galeries, et je m’étais arrêté pour tracer un repère, la règle contre la paroi, quand un son est venu de la roche. Pas de l’air de la galerie  : de la roche même. Dans une mine, les sons voyagent par la pierre et par le métal autant que par l’air  ; ils arrivent par le sol, par les étais qui font office de conduits. Celui-là ne venait ni des étais ni d’une galerie voisine. Il venait de la paroi.
 
 Un coup, lent, très lent, un toutes les trois ou quatre secondes. Régulier sans être jamais identique  : une variation minuscule empêchait le rythme d’être mécanique. Une machine aurait répété le même coup  ; celui-ci respirait entre les coups. J’ai posé la main sur la pierre. La vibration est remontée dans ma paume, mon poignet, mon avant-bras, et je l’ai reconnue  : la même famille que le Fragment Zéro sous mes doigts, à Trelios. Mais le Fragment vibrait dans une salle, à hauteur d’homme. Ici, la vibration venait d’en bas, minérale, de plus profond que l’endroit où ma main touchait.
 
@@ -149,7 +149,7 @@ Une porte.
 
 Pas une porte de mine, pas une herse, pas un panneau de chantier. Une porte taillée dans la roche même, sous un jambage que la pierre semblait avoir accepté plutôt que subi. Le métal ne ressemblait à rien de ce que je connais  : ni le fer commun, ni le fer noir, ni l’acier d’Altram. La surface paraissait froide même à distance, avec une iridescence très faible, un bleu qui disparaît dès qu’on cherche à le fixer et revient au coin de l’œil. Le Fragment Zéro faisait exactement cela.
 
-Je ne l’ai pas touchée. L’envie de la toucher m’inquiéta davantage que la porte. Ce n’était pas la curiosité ordinaire du métier devant un objet non documenté  ; c’était l’attirance d’un bord de falaise, celle qui appuie sur la volonté sans lui demander son avis.
+Je ne l’ai pas touchée. L’envie de la toucher m’inquiéta davantage que la porte. Ce n’était pas la curiosité ordinaire du métier devant un objet non documenté  ; c’était l’attirance d’un bord de falaise.
 
 «  Depuis quand est-elle là  ? demandai-je.
 — Je ne sais pas, dit Lorn. Elle y était quand j’ai pris ce poste. On m’a dit qu’elle avait toujours été là.
@@ -172,7 +172,7 @@ Il y était allé autrefois, du temps où les niveaux inférieurs restaient ouve
 
 «  Partout ailleurs, les sons viennent du fond. De là où vous n’êtes pas descendu. Devant cette porte, ils viennent du fond aussi. Mais autrement. Comme si, sous elle, le dessous était plus proche que d’habitude.  » Il s’arrêta. «  L’ancien dit que ces derniers temps, ils ont changé. Moins réguliers. Plus proches.  » Il posa ses deux mains de pierre à plat sur la table, sans y penser, exactement comme on les poserait sur du métal. «  Comme quelqu’un qui frappe à une porte depuis l’autre côté.  »
 
-Puis il retira ses mains d’un coup, comme s’il venait de s’entendre. Il regarda ses paumes et ne dit plus rien de la soirée. Baret avait parlé plus qu’il ne l’aurait voulu, et sa peur ne s’était pas vue sur son visage. Elle s’était vue à l’endroit exact où il s’était tu.
+Puis il retira ses mains d’un coup, comme s’il venait de s’entendre. Il regarda ses paumes et ne dit plus rien de la soirée. Baret avait parlé plus qu’il ne l’aurait voulu.
 
 Je n’ai pas insisté. J’avais ce que j’étais venu chercher. En écrivant cette phrase, je m’aperçois qu’elle demanderait à être précisée, et je préfère ne pas la préciser.
 

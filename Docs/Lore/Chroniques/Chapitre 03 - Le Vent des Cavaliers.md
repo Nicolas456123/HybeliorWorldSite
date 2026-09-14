@@ -91,7 +91,7 @@ Et il retourna à sa viande.
 
 ---
 
-L’affaire s’est jouée le lendemain soir, et je veux la noter telle qu’elle fut, sans l’arrondir. Renk avait le droit de me refuser  : un relais vendu, c’était une chaîne entière remontée, et des hommes tués au bout. Il a fait autre chose. Il m’a laissé passer une épreuve, à la façon des Venterai, qui ne pèsent pas un homme sur ce qu’il montre mais sur ce qu’il tient.
+L’affaire s’est jouée le lendemain soir, et je veux la noter telle qu’elle fut, sans l’arrondir. Renk avait le droit de me refuser  : un relais vendu, c’était une chaîne entière remontée, et des hommes tués au bout. Il a fait autre chose. Il m’a laissé passer une épreuve, à la façon des Venterai.
 
 Nous étions plusieurs autour du feu  : Dava, Orren, deux jeunes cavaliers, et un marchand du convoi nommé Vask, qui suivait l’échange comme une affaire possible. C’est Vask qui a ouvert, croyant m’aider.
 
@@ -149,7 +149,7 @@ Je lui ai demandé si cela devait me consoler. Il y réfléchit sérieusement, l
 
 Puis il me regarda, de ces yeux gris que rien n’étonnait plus, et il ajouta une chose que j’ai portée longtemps après que la caravane eut repris sa marche.
 
-«  Un homme qui cherche une réponse s’arrête quand il l’a. Toi, tu ne t’arrêtes pas. Ce n’est donc pas une réponse que tu cherches. Je ne sais pas quoi. Toi non plus, peut-être. Mais tu marches comme un homme qui a déjà rangé sa fin, et qui ne veut pas qu’on la voie.  »
+«  Un homme qui cherche une réponse s’arrête quand il l’a. Toi, tu ne t’arrêtes pas. Tu marches comme un homme qui a déjà rangé sa fin, et qui ne veut pas qu’on la voie.  »
 
 Je n’ai rien répondu. Aucun fonctionnaire de Rukhsar n’avait posé le doigt si près. J’ai laissé le vent couvrir mon silence  ; sur ces plaines, un silence ne se remarque pas.
 
@@ -171,7 +171,7 @@ Il me dévisagea comme on regarde un homme refuser de l’eau au bord d’un pui
 
 «  Quel but  ? insista-t-il. Tu es chassé. Tu n’as pas un but, tu as une distance à mettre entre toi et ce qui te chasse.  »
 
-Je n’ai pas répondu. Une réponse existait, exacte, que je ne pouvais pas donner  ; j’ai laissé Vask croire qu’il avait touché juste. Un homme qu’on croit sans but, on ne se demande pas où il va.
+Je n’ai pas répondu. Une réponse existait, exacte, que je ne pouvais pas donner  ; j’ai laissé Vask croire qu’il avait touché juste. On ne se demande pas où va un homme qu’on croit sans but.
 
 Orren, qui recousait un harnais à deux pas, parla sans lever la tête.
 
@@ -187,7 +187,7 @@ Il arracha un brin d’herbe et le fit tourner entre les doigts qui lui restaien
 
 «  La route du sel a des yeux, remarque. Depuis une semaine, des cavaliers la remontent et demandent après un marcheur seul. Ils paient pour un nom. On dit qu’ils viennent des ports.  » Il gardait le regard au loin, là où le feu ne portait plus. «  Ça ne me regarde pas. Je te le dis parce que tu marches seul et que tu ne demandes pas après le sel.  »
 
-J’ai reçu la chose sans la commenter. Que l’on me suivrait, je le savais déjà. Ce que je ne savais pas, c’était la vitesse à laquelle une notification voyage  ; Renk venait de me l’apprendre sans le vouloir.
+J’ai reçu la chose sans la commenter. Je savais déjà qu’on me suivrait. Ce que je ne savais pas, c’était la vitesse à laquelle une notification voyage  ; Renk venait de me l’apprendre sans le vouloir.
 
 «  La seconde coupe droit à travers la grande herbe.  » Du menton, il montra l’est, où le jour finissait. «  La piste des Neuf Cairns. Peu la prennent. Pas de villages, pas de relais  ; l’eau se mérite. Douze jours si le vent te laisse, davantage s’il te reprend.  »
 

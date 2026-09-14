@@ -26,7 +26,7 @@ Durer. J’allais retrouver ce mot partout sur ce continent.
 
 La traversée, je l’avais passée à ne pas être malade, ce qui, entre Galenor et Alkaran à cette saison, tient de la discipline plus que du talent. Mes cartes avaient voyagé dans leur tube de cuir ciré, serré contre mon flanc les nuits de houle. Le carnet de mon père avait voyagé plus près encore, sous la chemise, contre les côtes, à l’endroit où l’on garde ce qu’on ne veut pas mouiller. Pas une fois en vingt-cinq jours je ne l’ai ouvert. Nul besoin  : je sais par cœur les pages qui comptent.
 
-Galenor était derrière moi. Mon premier continent était derrière moi, et avec lui la saisie, la notification qui voyage plus vite que les caravanes, l’homme au manteau anthracite qui constatait ma présence. Un homme qui n’aurait rien eu à cacher se serait senti plus léger  ; moi aussi, je l’aurais dû.
+Galenor était derrière moi. Mon premier continent était derrière moi, et avec lui la saisie, la notification qui voyage plus vite que les caravanes, l’homme au manteau anthracite qui constatait ma présence. Un homme qui n’aurait rien eu à cacher se serait senti plus léger. Je ne l’étais pas.
 
 J’ai descendu la passerelle l’estomac vide et l’esprit clair.
 
@@ -198,7 +198,7 @@ J’ai choisi la seconde. Je choisis toujours la seconde, et c’est cela que je
 
 «  Vous avez lu les mots du fragment toute votre vie sans vous accorder sur leur sens, dis-je. Moi, je ne sais pas les lire. Mais je sais mesurer ce qu’il fait.  » J’ai tourné le carnet vers elle. Pas la page de mon père, jamais celle-là  : ma colonne du soir. «  Il bat, et il bat de plus en plus vite. Regardez. Chaque intervalle plus court que le précédent. Ce n’est pas une chose morte qu’on garde par respect. C’est une chose qui se réveille, et personne dans ces Archives ne le mesure, parce que vous avez cessé de vous en approcher il y a trois ans.
 — Parce qu’il rend les mains engourdies, dit-elle.
-— Parce qu’il fait peur. Ce n’est pas la même raison.  » J’ai refermé le carnet. «  Vous êtes prêtresse de la mémoire, Lisel. Voici une mémoire qui change sous votre garde, et vous avez décidé de ne plus la regarder.  »
+— Parce qu’il fait peur.  » J’ai refermé le carnet. «  Vous êtes prêtresse de la mémoire, Lisel. Voici une mémoire qui change sous votre garde, et vous avez décidé de ne plus la regarder.  »
 
 Elle n’a pas répondu tout de suite. Son regard est allé à la cloche, au fragment, à ce froid qu’elle mesurait depuis des années sans oser le mesurer de près. Quand elle a parlé, c’était plus bas.
 
@@ -243,12 +243,12 @@ Le Fragment Zéro bat, et il s’accélère. Voilà le fait. Je le pose comme je
 
 Le peuple d’Alkaran, quand on l’interroge, dit que la pierre se souvient, que ce qui vit dans la roche n’est jamais tout à fait mort. Les prêtres de la Lex Petra ont un dieu pour cela, Terranu, l’ordre inscrit dans le sol. Aux quais de Yaltar, une vieille m’a dit que c’était ce qui répond, et elle a craché de côté en le disant. Je note ces mots comme je note les plats et les prix du sel  : ce sont des relevés, pas des explications. Hier soir, devant ma colonne, j’ai eu la tentation d’écrire un mot à moi. *Balise.* Le mot est commode  ; il permettrait de tracer la suite. Je m’abstiens. Une balise suppose quelqu’un qui l’a posée, une intention, un destinataire  : trois pas en avant pour un battement mesuré deux fois, c’est trop. Je note ce que je vois. Je note la tentation de nommer. Le nom attendra d’être mérité.
 
-Mon père avait la même colonne dans son carnet, vingt ans plus tôt, un peu moins serrée. Je le savais avant d’arriver. Ce n’était pas une révélation, c’était une confirmation, et la confirmation ne m’a pas soulevé  : elle m’a enfoncé d’un cran dans une certitude que j’aurais préféré voir démentie.
+Mon père avait la même colonne dans son carnet, vingt ans plus tôt, un peu moins serrée. Je le savais avant d’arriver. Ce n’était pas une révélation, c’était une confirmation.
 
 Il a suivi ce battement, de colline en antichambre, de plus en plus loin, jusqu’à ne plus revenir. Je ne cherche pas à savoir où il est allé. Ce n’est pas mon travail de cartographier un homme qui a disparu sur trois cartes à la fois. Je reprends la ligne suivante de sa colonne, et je fais de mes mesures ce qu’il n’a pas su faire  : des copies. Beaucoup de copies. En triplicata, comme la formule bleue, dans des lieux qui ne se connaissent pas entre eux, pour qu’aucune lettre, jamais, ne puisse toutes les rappeler.
 
 Une archiviste m’a dit cette nuit, sans savoir à qui elle parlait, qu’il valait mieux que cela existe là où l’on ne peut pas le reprendre. Elle a raison. Elle ne saura jamais à quel point, ni ce qu’il lui en coûtera peut-être de me l’avoir dit. Je repars à l’aube. Rien d’autre à noter.
 
-Le compas de Corven est dans ma poche, contre le carnet de mon père, contre les côtes. Fer bleu, léger, indéformable. De l’acier royal, m’a dit Corven  : le bon métal d’Altram, coulé en série, remplaçable. Ce n’est pas l’Acier Éternel. L’Acier Éternel est à Myrtam, une seule lame jamais reforgée, et je ne l’ai pas encore vue. Mais je commence à comprendre pourquoi ce nom court la sphère entière quand tant de lames plus tranchantes s’oublient. Ce que les hommes révèrent, ce n’est pas la dureté du métal  : c’est l’idée d’une chose posée une fois, qui traverse les siècles sans qu’on puisse la refondre ni la reprendre. Je porte, moi aussi, un objet que je voudrais de cette trempe. Pas de métal  : il tient dans une sacoche, et je le grave feuille après feuille, en triplicata, pour qu’aucun feu ne le rappelle.
+Le compas de Corven est dans ma poche, contre le carnet de mon père, contre les côtes. Fer bleu, léger, indéformable. De l’acier royal, m’a dit Corven  : le bon métal d’Altram, coulé en série, remplaçable. Ce n’est pas l’Acier Éternel. L’Acier Éternel est à Myrtam, une seule lame jamais reforgée, et je ne l’ai pas encore vue. Mais je commence à comprendre pourquoi ce nom court la sphère entière quand tant de lames plus tranchantes s’oublient. Ce que les hommes révèrent dans ce nom, c’est une chose posée une fois, qui traverse les siècles sans qu’on puisse la refondre. Je porte, moi aussi, un objet que je voudrais de cette trempe. Pas de métal  : il tient dans une sacoche, et je le grave feuille après feuille, en triplicata, pour qu’aucun feu ne le rappelle.
 
 Je ferme le carnet. La lampe est basse. Les forges, quelque part au sud, travaillent encore.

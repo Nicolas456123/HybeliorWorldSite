@@ -48,7 +48,7 @@ Il retira ses lunettes et les posa sur la table, entre nous. Son visage perdit d
 
 «  Non. Je refuse parce que je sais assez. Si je lis, je deviens responsable de ce que je sais. Si j’imprime, je deviens complice de votre chute. Si je garde le manuscrit, je deviens la prochaine maison qu’on perquisitionne. Vous voulez que je sois courageux parce que vous n’avez plus le choix. Moi, j’en ai encore un.  »
 
-La phrase m’atteignit plus durement que le refus.
+Les lunettes restèrent sur la table.
 
 «  C’est donc cela, Lumasar.
 — Lumasar est une ville où même la lâcheté sait citer le Code.  »
@@ -66,7 +66,7 @@ Sans que je le lui demande, il me resservit, puis m’observa par-dessus ses ver
 
 Il me laissa finir ma tasse avant de reprendre.
 
-«  Non. Vous avez perdu l’habitude d’attendre qu’on vous dise oui. Ce n’est pas la même chose.  »
+«  Non. Vous avez perdu l’habitude d’attendre qu’on vous dise oui.  »
 
 Je n’ai rien répondu. Il me devinait à moitié, et je préférais qu’il en reste là.
 
@@ -231,7 +231,7 @@ Kelanor, la nuit, a une beauté que je n’avais pas prévue. La pluie avait ces
 
 Du côté cristallin, il existe une petite place que les cartes de la ville portent sans lui donner de nom. Trois bâtiments académiques l’encadrent  ; le quatrième côté ouvre sur une ruelle. Au centre, une fontaine tarie, dont le bassin de pierre blanche avait recueilli la pluie du jour. Et tout autour, plantées droites dans les joints des pavés, des plumes.
 
-De vraies plumes, de toutes les tailles et de toutes les couleurs, tenues par leur tuyau enfoncé dans les interstices. Des dizaines. Aucune lecture ne m’avait préparé à cette coutume. J’ai repensé au vieux copiste  : une plume pour chaque parole qu’un Cénacle avait voulu faire taire. Peut-être étaient-elles plantées par des gens qui se souvenaient de la Révolution plus que de sa récupération. Peut-être par des étudiants, dans un rituel que j’ignorais. Peut-être n’était-ce qu’une habitude locale que personne n’aurait su m’expliquer. J’ai besoin de comprendre ce que je cartographie  ; c’est une limite de mon métier, ou de mon caractère. Un espace sans légende est un espace incomplet. Cette place-là resterait une zone blanche sur ma carte de Kelanor.
+De vraies plumes, de toutes les tailles et de toutes les couleurs, tenues par leur tuyau enfoncé dans les interstices. Des dizaines. Aucune lecture ne m’avait préparé à cette coutume. J’ai repensé au vieux copiste  : une plume pour chaque parole qu’un Cénacle avait voulu faire taire. Peut-être étaient-elles plantées par des gens qui se souvenaient de la Révolution plus que de sa récupération. Peut-être par des étudiants, dans un rituel que j’ignorais. Peut-être n’était-ce qu’une habitude locale que personne n’aurait su m’expliquer. J’ai besoin de comprendre ce que je cartographie  ; c’est une limite de mon métier, ou de mon caractère. Cette place-là resterait une zone blanche sur ma carte de Kelanor.
 
 J’ai posé la main sur le rebord du bassin et regardé les cristaux se refléter dans l’eau de pluie immobile. Je ne suis pas en sécurité ici  ; cela s’est éclairci aujourd’hui, et j’aurais préféré m’en passer. On ne viendra pas saisir des effets que je n’ai plus, ni révoquer un brevet qu’on m’a déjà repris. Mais les institutions se parlent, la notification est un outil assez souple pour fermer des portes sans laisser d’écrit, et Orath Dovan constate ma présence. La liberté de Lumasar est réelle. Ses limites aussi.
 
@@ -239,8 +239,8 @@ Ce que j’ai mis plus de temps à admettre que le refus de Verian Soth, c’est
 
 J’étais parti de Kharazir avec l’idée que Lumasar serait différent, parce que tout le monde dit que Lumasar est différent. Tout le monde le dit parce que c’est vrai, dans un sens. Mais différent ne veut pas dire hors d’atteinte. Les mêmes pressions circulent ici, par d’autres couloirs. Prismalith est à deux jours de route, et je sais désormais ce qui m’y attendrait si je m’y présentais en candidat  : un autre Bureau des Visiteurs, plus ancien, mieux meublé, d’une politesse plus exigeante. Les bibliothèques de la capitale ne s’ouvriront pas davantage à un Délié sans titre, annoncé par la lettre du Grand Recteur. La question m’a tenu une partie de la nuit  ; au matin, la conclusion n’avait pas bougé. Prismalith attendra. Je n’y entrerai pas en demandeur. Si j’y entre un jour, ce sera avec une matière qu’aucune lettre du Grand Recteur n’aura pu classer avant moi. Et cette matière-là n’est pas dans les archives.
 
-J’ai donc décidé autre chose. Les preuves qui me manquent existent  : sur le terrain, dans ce qui se voit et qu’aucun bureau n’a encore classé. Si Lumasar me ferme ses fonds, c’est dehors qu’il faudra les chercher. Plus loin que Kelanor, plus loin que Prismalith, plus loin que Galenor même. J’ai appris à tracer des frontières. Il me reste à apprendre ce qu’on devient de l’autre côté de celles qu’aucune carte ne porte, celles de l’autorisé et du toléré.
+J’ai donc décidé autre chose. Les preuves qui me manquent existent  : sur le terrain, dans ce qui se voit et qu’aucun bureau n’a encore classé. Si Lumasar me ferme ses fonds, c’est dehors qu’il faudra les chercher. Plus loin que Kelanor, plus loin que Prismalith, plus loin que Galenor même. J’ai appris à tracer des frontières. Celle qui sépare l’autorisé du toléré ne figure sur aucune carte, et il me reste à apprendre ce qu’on devient de l’autre côté.
 
-Mon père, lui, avait peut-être appris. Sa disparition ne dit pas qu’il avait réussi. Elle dit seulement qu’il avait essayé.
+Mon père, lui, avait peut-être appris. Il n’en est pas revenu.
 
 Les plumes de la fontaine ne bougeaient pas. Quelque part dans la ville, une copie de mes relevés dormait entre deux planches, sans mon nom, sans registre, hors de mon sac. Demain, la pluie bleue reviendrait, cette couleur qu’on ne découvre que sur ses paumes après une heure dehors. Et ensuite, la route  : par le sud, vers les plaines, vers ce qui n’a pas de bureau d’accueil.
