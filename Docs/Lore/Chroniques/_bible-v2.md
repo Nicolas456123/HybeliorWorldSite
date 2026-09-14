@@ -231,6 +231,8 @@ Deux forces effacent les savants (§3, §5.4). L'**appareil** est lent, humain, 
 ### 4.0bis — LA ROUTE REDESSINÉE (itinéraire-maître, route verrouillée) — **source de vérité de la numérotation**
 
 > **Comment lire.** Ce tableau est la route officielle post-refonte : **38 chapitres, ~12-13 lieux forts, budget 910 jours** (départ fin an 248, arrivée jour 910 début an 251). La colonne **Jour** est le jour cumulé au moment de la scène ; la colonne **Étape** donne la liaison et sa durée (les valeurs intra-continent incluent séjour + attentes). La colonne **GARDE** rappelle la matière clé à retenir pour le chapitre. **La numérotation qui fait foi est celle de ce tableau (1-38) et des fiches définitives du §4.2.** Quand une case rassemble deux matières, le chapitre définitif les **fusionne**.
+>
+> **Convention des fichiers (2026-09-14).** Le frontmatter `jour` et la ligne lieu/jour d'un chapitre portent le jour de sa **première scène datée** (l'ouverture) ; la colonne **Jour** ci-dessous porte le jour de la **scène clé**, qui peut tomber plus tard dans le chapitre (ch. 13 : ouverture 276, scène clé 300 ; ch. 32 : ouverture 790, départ 800). Les deux valeurs sont donc légitimes et ne se corrigent pas l'une par l'autre.
 
 | Ch | Lieu (continent) | Jour | Étape & durée | GARDE (matière) | Fonction / palier |
 |---|---|---|---|---|---|

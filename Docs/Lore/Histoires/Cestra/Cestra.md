@@ -151,20 +151,20 @@ Aucun rédacteur ne tranche. Aucun ne doit. Si les Anciens *ont accepté* de dev
 
 ## La Lettre d'un Père à un Fils — *« Si tu lis ceci »*
 
-En l'an 220 du Sillage, un cartographe haldrien nommé Aldric Valthen arriva à Noravia. Il n'était pas une expédition. Il était seul. Il portait des outils légers, un carnet de cuir noir, et une chemise marron que le temps avait usée aux coins.
+En l'an 230 du Sillage, un cartographe venu de Galenor, Aldric Valthen, arriva à Noravia. Il n'était pas une expédition. Il était seul. Il portait des outils légers, un carnet de cuir noir, et une chemise marron que le temps avait usée aux coins.
 
-Il passa neuf jours à Noravia. Il rencontra le Conseil de Maintien — non Hesgarn, qui achevait alors son premier mandat sans y peser encore comme elle le ferait plus tard, mais une Conseillère plus âgée dont le nom n'a pas été conservé. Il obtint un permis temporaire de prospection, valable cent vingt jours. Il indiqua qu'il partait vers le Glacier Central. Il indiqua aussi, à part, qu'il *ne pensait pas revenir* — formule rare, qui fit que la Conseillère le reçut une seconde fois, dans une conversation dont Borela (alors cartographe officielle de la colonie depuis cinq ans) fut témoin.
+Il passa neuf jours à Noravia. Il rencontra le Conseil de Maintien — non Hesgarn, alors dans son deuxième mandat et qui n'y pesait pas encore comme elle le ferait plus tard, mais une Conseillère plus âgée dont le nom n'a pas été conservé. Il obtint un permis temporaire de prospection, valable cent vingt jours. Il indiqua qu'il partait vers le Glacier Central. Il indiqua aussi, à part, qu'il *ne pensait pas revenir* — formule rare, qui fit que la Conseillère le reçut une seconde fois, dans une conversation dont Borela (alors cartographe officielle de la colonie depuis quinze ans) fut témoin.
 
 À la fin de la seconde conversation, Aldric remit à Borela une enveloppe scellée. Il dit seulement : *« Pour mon fils, si jamais il passe par ici. Il ne sait pas qu'il viendra. Je n'ai pas le droit de lui dire qu'il viendra. »*
 
 Borela accepta. Elle ne demanda pas pourquoi.
 
-Aldric Valthen partit le lendemain. Sa permission expira cent vingt jours plus tard. Il ne revint pas dans la fenêtre. Le Conseil inscrivit dans le Registre : *« Cartographe Aldric Valthen, dépt. 17 du Ve mois 220 du Sillage. Permis échu 17 du IXe mois. Aucun retour à la date de fermeture du chenal. »*
+Aldric Valthen partit le lendemain. Sa permission expira cent vingt jours plus tard. Il ne revint pas dans la fenêtre. Le Conseil inscrivit dans le Registre : *« Cartographe Aldric Valthen, dépt. 17 du Ve mois 230 du Sillage. Permis échu 17 du IXe mois. Aucun retour à la date de fermeture du chenal. »*
 
 La page suivante, vierge, fut laissée en blanc — comme si quelqu'un attendait quelque chose qui n'est jamais venu se consigner.
 
 Borela conserva la lettre. Elle ne l'ouvrit pas. Elle ne demanda à personne ce qu'elle contenait. Elle la rangea dans le tiroir bas de sa table à dessin, sous quelques cartes inachevées. Au fil des ans, elle remit la lettre à sa place sans jamais l'oublier ni la sortir.
 
-Onze ans passèrent.
+Vingt et un ans passèrent.
 
-Sorin Valthen, fils d'Aldric, arriva à Noravia en l'an 231 du Sillage. Il n'est pas venu *pour* la lettre. Il ne savait pas qu'elle existait. Il vint pour comprendre ce que son père avait pu chercher en allant si loin. Voir la suite dans [[Noravia|Histoires/Cestra/Noravia]].
+Sorin Valthen, fils d'Aldric, arriva à Noravia en l'an 251 du Sillage. Il n'est pas venu *pour* la lettre. Il ne savait pas qu'elle existait. Il vint pour comprendre ce que son père avait pu chercher en allant si loin. Voir la suite dans [[Noravia|Histoires/Cestra/Noravia]].

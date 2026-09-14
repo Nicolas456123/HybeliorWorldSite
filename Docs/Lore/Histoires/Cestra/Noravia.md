@@ -69,9 +69,9 @@ Borela, gardienne actuelle du Registre, a expliqué une fois à un voyageur lett
 
 **Troisième anomalie : la page suivante de l'expédition Aldric Valthen.**
 
-L'inscription du départ d'Aldric Valthen (an 220 du Sillage) est suivie d'une page **vierge** — délibérément laissée en blanc. La page suivante contient les décisions ordinaires de l'année 221. La page vierge correspond à la fenêtre où le retour d'Aldric aurait pu être consigné, s'il avait eu lieu. Aucun retour n'a eu lieu. La page est restée vierge, et personne ne l'a remplie depuis.
+L'inscription du départ d'Aldric Valthen (an 230 du Sillage) est suivie d'une page **vierge** — délibérément laissée en blanc. La page suivante contient les décisions ordinaires de l'année 231. La page vierge correspond à la fenêtre où le retour d'Aldric aurait pu être consigné, s'il avait eu lieu. Aucun retour n'a eu lieu. La page est restée vierge, et personne ne l'a remplie depuis.
 
-Onze ans plus tard, en l'an 231, Sorin Valthen passa à Noravia. Borela ouvrit le tiroir, posa la lettre. Sethiran transmit la chemise. Sorin partit. Le Conseil consigna : *« Cartographe Sorin Valthen, fils d'Aldric Valthen (an 220), passage 12-19 du IIIe mois 231. Reçu lettre conservée par Borela. Reçu chemise documentaire par Sethiran. Réembarquement 19 du IIIe mois. »*
+Vingt et un ans plus tard, en l'an 251, Sorin Valthen passa à Noravia. Borela ouvrit le tiroir, posa la lettre. Sethiran transmit la chemise. Sorin partit. Le Conseil consigna : *« Cartographe Sorin Valthen, fils d'Aldric Valthen (an 230), arrivé le 12 du IIe mois 251, parti vers le glacier à la fin du même mois, réembarqué au début du IIIe mois. Reçu lettre conservée par Borela. Reçu chemise documentaire par Sethiran. Réembarquement 19 du IIIe mois. »*
 
 La page d'Aldric, juste avant, n'a toujours pas été remplie.
 
@@ -87,7 +87,7 @@ Sa fonction de cartographe est limitée : la crique, le périmètre habituel, le
 
 ### La rencontre avec Aldric Valthen
 
-En l'an 220, Aldric Valthen — cartographe haldrien, alors âgé d'environ trente ans — arriva à Noravia. Il chercha à voir Borela dès le second jour. La rencontre eut lieu dans son atelier de cartographe, parmi les outils de dessin et les lampes à huile.
+En l'an 230, Aldric Valthen — berger-astronome et cartographe venu de Galenor, alors âgé d'environ quarante ans — arriva à Noravia. Il chercha à voir Borela dès le second jour. La rencontre eut lieu dans son atelier de cartographe, parmi les outils de dessin et les lampes à huile.
 
 Borela, à qui un voyageur a un jour demandé pourquoi Aldric s'était adressé à elle plutôt qu'au Conseil, a répondu : *« Parce qu'il était cartographe. Les cartographes se reconnaissent. »* Elle n'a jamais dit autre chose à ce sujet.
 
@@ -97,11 +97,11 @@ Borela accepta. Elle ne demanda pas pourquoi. La Conseillère âgée — dont le
 
 Aldric partit le lendemain. Il ne revint pas.
 
-### Les onze ans
+### Les vingt et un ans
 
 Borela conserva la lettre. Elle n'a jamais cherché à la transmettre activement. Elle n'a pas, par exemple, interrogé chaque voyageur de passage pour savoir s'il était le fils d'Aldric. Elle n'a pas écrit à Haldria pour signaler l'existence de la lettre. Elle n'a pas demandé au Conseil d'inscrire la lettre dans un registre spécial des dépôts. Elle l'a *gardée*. C'est tout.
 
-Plusieurs Noviens lui ont, au fil des ans, demandé pourquoi elle n'ouvrait pas la lettre — sa propriété matérielle, après onze ans, aurait pu juridiquement être considérée comme transférée à la communauté (le Conseil, dans certains cas extrêmes, peut absorber dans le domaine commun les biens dont les détenteurs originels n'ont pas reparu). Borela a répondu, à chaque fois : *« Elle n'est pas pour moi. »*
+Plusieurs Noviens lui ont, au fil des ans, demandé pourquoi elle n'ouvrait pas la lettre — sa propriété matérielle, après vingt et un ans, aurait pu juridiquement être considérée comme transférée à la communauté (le Conseil, dans certains cas extrêmes, peut absorber dans le domaine commun les biens dont les détenteurs originels n'ont pas reparu). Borela a répondu, à chaque fois : *« Elle n'est pas pour moi. »*
 
 D'autres lui ont demandé — souvent les jeunes Noviens, intrigués — comment elle reconnaîtrait le fils d'Aldric s'il venait. Elle a répondu, à chaque fois : *« Il viendra. Je ne sais pas comment je le saurai. Je le saurai. »*
 
@@ -109,13 +109,13 @@ Cette confiance — pas religieuse, pas mystique, *empirique* — est, selon les
 
 ### La transmission
 
-Sorin Valthen arriva à Noravia en l'an 231 du Sillage. Il était cartographe. Il ne savait pas que la lettre existait.
+Sorin Valthen arriva à Noravia en l'an 251 du Sillage. Il était cartographe. Il ne savait pas que la lettre existait.
 
 Borela le rencontra dans son atelier, sous prétexte d'examiner une carte que Sorin avait apportée — un croquis du Mont Cendra qu'il avait fait lors de sa traversée de Cendara. Ils parlèrent technique. Sorin admira l'efficacité du tracé novien. Borela admira la honnêteté du croquis sorinien (il avait noté, en marge, *« je n'ai pas vu le sommet, je devine »*).
 
 À la fin de la première rencontre, Borela ne mentionna pas la lettre. Elle ne demanda pas le nom du père de Sorin. Elle attendit.
 
-Le lendemain, Sorin revint. Il avait une question sur la couleur de la glace. Pendant qu'il interrogeait Borela, elle lui montra une vieille carte, datée de 220, qui montrait le périmètre où avait séjourné un cartographe précédent. Sorin regarda la carte. Il dit, sans y penser : *« Mon père avait fait des croquis comme cela. »*
+Le lendemain, Sorin revint. Il avait une question sur la couleur de la glace. Pendant qu'il interrogeait Borela, elle lui montra une vieille carte, datée de 230, qui montrait le périmètre où avait séjourné un cartographe précédent. Sorin regarda la carte. Il dit, sans y penser : *« Mon père avait fait des croquis comme cela. »*
 
 Borela ne lui demanda pas le nom de son père. Elle ouvrit le tiroir bas, sortit l'enveloppe, la posa sur la table.
 
@@ -125,7 +125,7 @@ La dernière phrase, Sorin l'apprendra en lisant la lettre, est aussi le début 
 
 Sorin pleura peut-être pour la première fois — la tradition novienne ne consigne pas les larmes des voyageurs, et Borela elle-même n'en a jamais parlé. Sethiran, qui a recueilli plus tard auprès de Borela les éléments factuels de la rencontre, n'a pas insisté.
 
-Sorin partit le 19 du IIIe mois 231, sans avoir tenté d'aller au glacier. Borela continua sa cartographie. La lettre n'est plus dans le tiroir. Le tiroir n'est pas vide — il contient maintenant la copie d'un croquis que Sorin a laissé en remerciement, signée *« S. Valthen — j'apprends. »*.
+Sorin partit vers le glacier à la fin du IIe mois 251, monta jusqu'au surplomb nord du Jumeau, redescendit, et reprit la mer vers le sud au début du IIIe mois. Borela continua sa cartographie. La lettre n'est plus dans le tiroir. Le tiroir n'est pas vide — il contient maintenant la copie d'un croquis que Sorin a laissé en remerciement, signée *« S. Valthen — j'apprends. »*.
 
 ---
 
@@ -153,7 +153,7 @@ L'érudit lumasarien — Ostren d'Halmir — passa un an à Noravia. Il consigna
 
 Hesgarn mourra en l'an 233 du Sillage, deux ans après le passage de Sorin, à la fin d'un Hivernage particulièrement long. Son nom sera inscrit dans la liste des morts de l'année. Aucune cérémonie formelle. Le tirage au sort suivant se fera sans son nom dans l'urne.
 
-Une seule voyageuse, à Lumasar, en aura peut-être la trace : Mira Dasthen, cartographe, à qui Sorin avait écrit en l'an 232, mentionnera dans son journal d'avoir entendu *« qu'une vieille femme à Noravia, qui parlait peu, est morte »*. Elle ne pourra pas confirmer le nom. La trace s'arrête là.
+Une seule voyageuse, à Rukhsar, en aura peut-être la trace : Mira Dasthen, cartographe, à qui Sorin avait écrit en l'an 251, mentionnera dans son journal d'avoir entendu *« qu'une vieille femme à Noravia, qui parlait peu, est morte »*. Elle ne pourra pas confirmer le nom. La trace s'arrête là.
 
 ---
 
@@ -180,9 +180,9 @@ Sethiran ne vend rien. Il transmet à qui pose la question juste — sans contre
 
 ### La chemise marron
 
-Aldric Valthen, en l'an 220, avant de partir vers le glacier, déposa auprès de Sethiran (alors récemment installé) une **chemise marron** contenant :
+Aldric Valthen, en l'an 230, avant de partir vers le glacier, déposa auprès de Sethiran (installé depuis une dizaine d'années) une **chemise marron** contenant :
 - un itinéraire détaillé jour par jour, sur trente jours, dépassant largement le permis temporaire qu'il avait pris
-- des observations sur les comportements des Tempêtes Vivantes notées par Aldric lors de ses voyages précédents (Aldric avait visité Cestra deux fois avant 220, sans le déclarer aux chancelleries haldriennes)
+- des observations sur les comportements des Tempêtes Vivantes notées par Aldric lors de ses voyages précédents (Aldric avait visité Cestra deux fois avant 230, sans le déclarer à personne à Galenor)
 - des hypothèses sur le Glacier Central, fondées sur des conversations avec deux Chamanes des Brumes
 - un dessin schématique du Glacier Central — vu depuis la côte sud, avec des **points de pulsation** que Aldric estimait par sensibilité aux résonances
 - une page finale, plus brève, qui n'était pas un récit mais une *liste de questions* qu'Aldric n'avait pas pu résoudre
@@ -191,13 +191,13 @@ Aldric demanda à Sethiran : *« Si jamais quelqu'un vient pour cela, donnez-le.
 
 ### La transmission à Sorin
 
-Sethiran rencontra Sorin Valthen le second jour du séjour de Sorin à Noravia, en l'an 231. La rencontre eut lieu dans le Cabinet d'Archive. Sorin venait — sur recommandation discrète d'un Conseiller — pour consulter les chemises documentaires sur les expéditions disparues, dans le cadre de son travail cartographique général.
+Sethiran rencontra Sorin Valthen le second jour du séjour de Sorin à Noravia, en l'an 251. La rencontre eut lieu dans le Cabinet d'Archive. Sorin venait — sur recommandation discrète d'un Conseiller — pour consulter les chemises documentaires sur les expéditions disparues, dans le cadre de son travail cartographique général.
 
 Sethiran l'écouta. Sorin posa des questions sur Valkren, sur les Pierres Runiques, sur les Anciens. Sethiran répondit brièvement, de manière factuelle, sans donner d'interprétation. Au bout d'une heure, Sorin demanda : *« Et les cartographes individuels ? Combien sont passés ? »*
 
 Sethiran ouvrit un tiroir et énuméra : sept cartographes connus, trois retours, quatre disparitions. Il donna les noms et les dates.
 
-Sorin entendit, dans la liste, le nom **Aldric Valthen, an 220**. Il ne dit rien. Sethiran ne dit rien. Sethiran ouvrit un autre tiroir, sortit la chemise marron, la posa sur la table.
+Sorin entendit, dans la liste, le nom **Aldric Valthen, an 230**. Il ne dit rien. Sethiran ne dit rien. Sethiran ouvrit un autre tiroir, sortit la chemise marron, la posa sur la table.
 
 Il dit, brièvement : *« Il l'a laissée. C'est pour vous. »*
 
@@ -213,7 +213,7 @@ Il forme — sans le dire formellement — un **passant permanent** novien à la
 
 ### La mort à venir
 
-Sethiran mourra à Noravia, à une date que les archives ne précisent pas. Sans cérémonie. Le Cabinet d'Archive sera tenu par Holvan après lui, sans rupture, sans annonce. La chemise marron — vide depuis 231 — restera dans son tiroir. Personne ne la remplira.
+Sethiran mourra à Noravia, à une date que les archives ne précisent pas. Sans cérémonie. Le Cabinet d'Archive sera tenu par Holvan après lui, sans rupture, sans annonce. La chemise marron — vide depuis 251 — restera dans son tiroir. Personne ne la remplira.
 
 ---
 

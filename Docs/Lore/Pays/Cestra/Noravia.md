@@ -149,7 +149,7 @@ Aucune religion dominante. Composition :
 
 - Cartographe à Noravia depuis l'an 215 du Sillage (an 178-?). Née à Skaldoria, venue jeune après une rupture non explicitée ; admise après ses trois hivers.
 - Fonction : tenir la carte locale (crique, périmètre habituel, falaise, sentiers de pêche, zones d'alerte). N'établit pas de cartes du No Man's Land.
-- Conserve depuis l'an 220 une **lettre laissée par un cartographe de passage, Aldric Valthen**, parti ce printemps-là vers le Glacier Central et jamais revenu. Lettre destinée à son fils, s'il passait par Noravia. Borela ne l'a jamais ouverte ; conservée onze ans. Transmise à son destinataire en l'an 231 du Sillage, sans annonce. (Voir [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]] et arc Sorin ch. 37.)
+- Conserve depuis l'an 230 une **lettre laissée par un cartographe de passage, Aldric Valthen**, parti ce printemps-là vers le Glacier Central et jamais revenu. Lettre destinée à son fils, s'il passait par Noravia. Borela ne l'a jamais ouverte ; conservée vingt et un ans. Transmise à son destinataire en l'an 251 du Sillage, sans annonce. (Voir [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]] et arc Sorin ch. 37.)
 
 ### Traits culturels
 
@@ -182,5 +182,5 @@ Aucune religion dominante. Composition :
 - **Pression des prospecteurs** — chaque génération, des marchands proposent au Conseil de relâcher la politique de retenue ; refus à chaque fois. Question récurrente.
 - **La Chose Sous le Glacier Central** — peu évoquée ; consigne pratique (non doctrinale) : ne pas s'aventurer trop au nord, « on ne va pas voir ».
 - **Accord chamanique** — accord tacite supposé entre certains Chamanes des Brumes et le Conseil : aucune expédition partie de Noravia n'est ciblée par les Gardiens de Givre tant qu'elle reste dans certaines zones. Non confirmé publiquement par le Conseil ni les chamanes.
-- **Lettre conservée par Borela** — connue de quelques anciens du Conseil, jamais répertoriée officiellement ; Borela a refusé tout archivage. Transmise à son destinataire en l'an 231 du Sillage, sans annonce. Voir arc Sorin ch. 37.
+- **Lettre conservée par Borela** — connue de quelques anciens du Conseil, jamais répertoriée officiellement ; Borela a refusé tout archivage. Transmise à son destinataire en l'an 251 du Sillage, sans annonce. Voir arc Sorin ch. 37.
 - **Registre de Maintien et ses oublis** — décisions consignées brièvement ; certaines pages présentent des espaces blancs (décisions jamais inscrites) ; plusieurs feuillets des années 180-187 ont été arrachés. Personne ne demande pourquoi.

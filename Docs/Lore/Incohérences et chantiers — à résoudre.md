@@ -171,7 +171,7 @@ glacier), soit le registre novien est volontairement faux dans la fiction.
 
 ## 2. Nombre de continents — 13 dans le graphe, « douze » au canon
 
-**Statut : ouvert (arbitrage d'auteur requis).**
+**Statut : arbitré** — 11 continents (2026-07-18 : Baelor et Nysaria sont des îles) ; la prose garde « douze » comme usage vernaculaire du monde (2026-09-14). Texte d'origine conservé ci-dessous.
 
 Le [[Canon — décisions et mystères protégés]] pose **« Douze continents partout »** (« treize », voire « quatorze », explicitement corrigé). Or le graphe contient **13** entités `lieu` d'échelle *continent* :
 
@@ -185,7 +185,7 @@ Un de ces treize est de trop **par rapport au canon**, ou bien l'un d'eux est en
 
 ## 3. Décompte des polités — 59 dans le graphe, 47 nations au canon
 
-**Statut : ouvert (à réconcilier).**
+**Statut : résolu (2026-09-14, par délégation).** `data.genre` est posé sur les 124 polités : **44 `nation` + 3 `non-etat` = 47**, le compte du canon (les 44 sont les fiches `Pays/` moins les fiches de continent, les trois No Man's Land, les deux provinces de Vytharia et l'île de Nysaria ; Baelor-Prime compte) ; 2 `province` (Lunasar, Mirathi), 50 `civilisation` (polités historiques), 22 `institution`, 3 `faction`. L'ancienne valeur descriptive (confédération, théocratie…) est conservée dans `data.forme`. La Ligue des Marchands existait en double (`pol-0098`, `pol-0124`) : fusionnée. Texte d'origine :
 
 Le graphe compte **59** `entite-politique` ; le canon fixe **47 nations (dont 3 « No Man's Land »)** (décision L1). L'écart s'explique en partie parce que le graphe range dans le même type les **nations actuelles** *et* les **civilisations historiques** (17 civ + 42 nations), qui ne sont pas comptées ensemble par le canon — mais l'alignement n'a pas été vérifié.
 
@@ -195,7 +195,7 @@ Le graphe compte **59** `entite-politique` ; le canon fixe **47 nations (dont 3 
 
 ## 4. Noms hérités non corrigés — Caeloria / Torkam encore présents comme polités
 
-**Statut : ouvert (vérifier fiche par fiche).**
+**Statut : résolu (2026-09-14).** Caeloria (théocratie astrale d'Azoria, siège du Cardinal-Élu) et Torkam (nation nomade d'Alkaran) sont des nations légitimes, chacune avec sa fiche `Pays/` ; le canon « Caeloria → Azoria ; Torkam → Alkaran » corrigeait la colonne continent de la table de chronologie, pas l'existence des nations. Le champ dérivé `data.continent` de Caeloria, Torkam et Tyndara est réaligné sur leur `situe-dans` (trace `data.arbitrages`). Texte d'origine :
 
 Le canon acte : **« Table Chronologie corrigée : Caeloria → Azoria ; Torkam → Alkaran »**. Or le graphe contient encore des `entite-politique` nommées **Caeloria** et **Torkam** (Torkam porte même **3** faits de règne). Deux cas de figure à démêler :
 
@@ -208,7 +208,7 @@ Le canon acte : **« Table Chronologie corrigée : Caeloria → Azoria ; Torkam 
 
 ## 5. Dirigeants non rattachés à leur royaume — 8 règnes orphelins
 
-**Statut : ouvert (mineur). Recompte 2026-09-09 : 13 règnes orphelins — voir §11.c-10.**
+**Statut : résolu (11.c, 2026-09-09) — 0 règne orphelin ; une tribu typée lignée peut être gouvernée (assumé).**
 
 44 des 52 règnes sont reliés à leur polité (`object_id`) ; **8** ne le sont pas, faute d'une entité-polité au nom correspondant :
 
@@ -226,13 +226,13 @@ Leur royaume est nommé dans le **libellé** (ex. « Thane d'Astraneth (Valoria)
 
 Les lieux importés de la sauvegarde carte n'avaient **aucune** relation `situe-dans`. Le **balayage des fiches Pays** (un agent par continent) a rattaché la géographie via les fiches elles-mêmes (chaque nation → son continent, chaque cité/village → sa nation) : **326 lieux existants** ont été reliés à leur nation/continent (`geo.reused` = 326) et l'ensemble porte désormais **~1000 relations `situe-dans`**.
 
-**Reste ouvert :** les lieux de la sauvegarde carte **non nommés** dans une fiche Pays restent orphelins (tail de villages mineurs) ; leur rattachement fin demandera de vrais **polygones de frontières** (Turso de prod) ou une assignation dans l'Atelier. Quelques conflits de rattachement sont aussi remontés en note (ex. *Iskara* rattachée à *Endora* dans la base Access d'origine mais à *Alkaran* dans les fiches — cf. §9).
+**Résolu (2026-09-14, par délégation) :** les surfaces nationales extraites de la carte de l'auteur (`data/monde-contours.json`) ont servi de polygones : **162** lieux rattachés par point-dans-surface, **125** par masse continentale (nations sans surface), **5** recalés sur le marqueur de pays nettement plus proche (surface de Ryldor débordant sur le No Man's Land Celethor), **22** lieux hors de toute masse tracée rattachés au marqueur le plus proche ou par le récit (Holvendar → Pyrtara, ch. 17), **22** lieux sans coordonnées rattachés d'après leur résumé (dont les six cités volantes de l'Âge d'Or à leur empire, `end_year` 0). Chaque relation porte `data.methode`. Restent : l'île de Baelor (racine, comme un continent) et Kytheris (non rattachable, acté dans `data.rattachement`). Quelques conflits de rattachement sont aussi remontés en note (ex. *Iskara* rattachée à *Endora* dans la base Access d'origine mais à *Alkaran* dans les fiches — cf. §9).
 
 ---
 
 ## 7. Doublons d'entités entre fiches — noms non canonisés
 
-**Statut : partiellement géré.**
+**Statut : géré** — alias posés au fil de l'eau (`save-alias`, 202 → 217 le 2026-09-14) ; 0 homonymie non balisée depuis 11.c. Texte d'origine :
 
 Un même événement/personnage peut être nommé **différemment** d'une fiche à l'autre. Cas rencontrés et traités automatiquement au dernier import :
 
@@ -255,7 +255,7 @@ Un même événement/personnage peut être nommé **différemment** d'une fiche 
 
 ## 9. Constats du balayage exhaustif du corpus (380 notes d'agents)
 
-**Statut : matière brute à trier.** En balayant tout le corpus (Pays, Religions, Chronologie, GDD/Monde, Chroniques, Romans, puis Histoires continent par continent), les ~30 agents d'extraction ont remonté **380 notes d'incohérence**, versées telles quelles dans **`data/lore-notes.json`** (source, texte). Répartition approximative :
+**Statut : trié et clos (2026-09-14).** Les 380 notes sont couvertes par les passes ultérieures (datation : §1 passes 1-3 ; rattachement : §6 ; continents : §2 ; homonymies : 11.c et glossaire ; mystères : hors périmètre, à ne pas résoudre). Sort de l'échantillon ci-dessous : Taciti (arbitré 2026-07-18) ; graphies du No Man's Land canonisées par alias (« No Man's Land d'Azoria », « No-Man's-Land azorien », « NML Azoria », idem Celethor/Cestra) ; « Grande Chamane Nareth » et « Nymera » posés en alias ; Kaeloria ↔ Caeloria et Thalorin (lieu) ↔ Thalorin (prince) balisés `a-ne-pas-confondre-avec`, Karendis (village) fusionné avec son doublon ; Iskara → Alkaran et Myrtam → Onara (11.c) ; les deux « Défense de la Porte de Fer » sont deux événements distincts (Protectorat des Passes ~8 790 ; Iskara an 35-38 du Sillage) — homonymie commémorative actée au Canon, tracée sur `fac-0357`/`fac-0451` ; Ferros, Cantor, Realis, Umbralis, Anima, Mentor, Ancestralis, les Éveilleurs de Givre et la Mère des Glaces passent en `lecture-disputee` (croyances propres à un culte), Arborius reste canon (D-COSMO-4) ; les deux notes de succession : la Brèche du Néant de Mirathi (9 300-9 500, lecture contestée) précède de peu la fondation du Sanctuaire (~9 400) — articulation notée sur `evt-0049` ; Yelthari la Muette est la seule fondatrice ancienne des Premiers Échos (période recalée sur la fondation de Jentaris, `fac-0904` daté), l'apprentie Tirenne assiste l'Écho-Guide actuelle, Mirathi Voix-d'Ambre. Texte d'origine : en balayant tout le corpus (Pays, Religions, Chronologie, GDD/Monde, Chroniques, Romans, puis Histoires continent par continent), les ~30 agents d'extraction ont remonté **380 notes d'incohérence**, versées telles quelles dans **`data/lore-notes.json`** (source, texte). Répartition approximative :
 
 | Thème | ~n | Nature |
 |---|---|---|
@@ -305,6 +305,10 @@ vers Endora (marqueur + re-extraction de surface), OU acter que la carte
 a raison (et corriger fiches + rattachement). En attendant, la surface
 « Haldria » (et le Protectorat d'Haldros / le Saint-Empire d'Endara des
 cartes d'ère qui en héritent) s'affiche à l'ouest.
+
+**Tranché (2026-09-14, par délégation) : la fiche a raison.** Haldria est d'Endora (fiche `Pays/Endora/Haldria.md`, bible §4.0bis, Chroniques ch. 13) ; le marqueur d'origine, posé au sud-ouest d'Ilthara, n'était soutenu par aucune ville positionnée. La surface extraite depuis ce marqueur est la lobe sud d'Ilthara : elle est **réattribuée à Warenthor** (jungle du sud d'Ilthara, seule nation méridionale sans surface, dont l'extraction depuis son propre marqueur avait échoué). Haldria reste **sans marqueur**, comme treize autres nations : la carte de l'auteur ne la dessine pas sur Endora ; un marqueur synthétique au centre libre d'Endora a été essayé puis retiré, parce qu'il faussait les contrôles de proximité (`data.carte` sur `pol-0017` garde l'ancien marqueur et le motif). Cartes d'ère régénérées (le Protectorat d'Haldros et le Saint-Empire d'Endara n'héritent plus de la lobe d'Ilthara ; les précurseurs de Warenthor en héritent). La carte de l'accueil (Turso, dessin d'origine de l'auteur) n'est pas modifiée : elle reste le brut.
+
+**Constat connexe (2026-09-14), assumé :** la masse continentale que le tracé nomme « Endora » porte aussi les villes positionnées d'Iskara (Alkaran, 20 villes), de Thalmaris (Evertia, 5 villes) et la surface de Skaldoria (Ulinor) ; Myrtam (Onara) est dessinée sur l'île d'Alkaran. Ce sont des grappes entières de villes, donc le dessin de l'auteur, pas des étiquettes égarées : **le rattachement politique suit les fiches (graphe) et la position suit la carte** ; une masse continentale n'est pas un continent politique. Rien n'est déplacé.
 
 La carte vivante a rendu visible une contradiction entre **deux sources de l'auteur** : la position des points sur la carte d'origine (sauvegarde du 3 mai) et le rattachement des fiches. Cas découvert : **Folgrad**, capitale de **Mosrack** (Onara) selon les fiches, mais posée sur la carte **à 21 unités du marqueur d'Ulinor** (et à 381 du marqueur de Mosrack).
 
@@ -418,16 +422,18 @@ d'arbitrage et appliqués au graphe par **`scripts/arbitrer-11b.js`**
     vers Seraphia. La ville-étalon du calage carte est donc bien à Solmaris.
 12. **Règnes multiséculaires** — **fenêtres d'incertitude**, pas des durées
     (aucun n'est canonisé « longévité inexpliquée », contrairement à
-    Verithan) : les huit faits marqués `data.fourchette = true`. ⚠ Chantier
-    d'affichage : la Fresque et les fiches doivent apprendre à ne pas
-    rendre une fourchette comme une durée de règne.
+    Verithan) : les huit faits marqués `data.fourchette = true`. Affichage
+    fait le 2026-09-10 (cercle creux à mi-fenêtre, « entre X et Y »).
 
 **Observation de bordure (hors arbitrage).** Les ~40 paires de fondations
 restantes suivent le motif *précurseur* voulu (« Province sud de Tharnok »,
 « Berceau de l'Eau »…) : des faits d'histoire profonde du territoire, typés
 `fondation` par l'import d'origine. Même remède que 5/7/9 si l'auteur le
 souhaite — les retyper `evenement` en masse — mais c'est une décision de
-**modèle**, pas de lore ; laissée ouverte.
+**modèle**, pas de lore. **Tranché (2026-09-14) : conservés tels quels** — le
+générateur des cartes d'ère (`scripts/generer-cartes-eres.js`) s'appuie sur
+ces faits-précurseurs pour dater les états sans fondation ; les retyper
+viderait les cartes historiques.
 
 Le texte d'origine des douze points est conservé ci-dessous comme trace.
 
@@ -523,8 +529,8 @@ tracé en `data.reparation`, libellés des faits fusionnés conservés dans
   compris). **0 entité à cheval sur deux continents** (57 avant).
 - **No Man's Land homogénéisés** : Celethor et Cestra retypés
   `entite-politique` genre non-état, comme Azoria (le canon les compte
-  parmi les 47 nations). ⚠ La permutation suspectée des *marqueurs* NML
-  Azoria/Cestra reste un arbitrage d'auteur (CLAUDE.md).
+  parmi les 47 nations). La permutation des *marqueurs* NML
+  Azoria/Cestra a été réglée le 2026-09-10 (§10 : marqueurs échangés).
 - **Capitales-seed** : les cinq situées dans leur nation ; Lithanel,
   Navoria (engloutie An 0, fin posée) et Everthor-Prime qualifiées
   « capitale ancienne » face aux capitales actuelles des fiches (Trelios,
@@ -624,15 +630,27 @@ Le texte d'origine est conservé ci-dessous comme trace.
 - Les **13 villes** rattachées au No Man's Land d'Azoria mais posées près de
   Caeloria (§10) : le recalcul spatial complet (226 villes vérifiées)
   retombe exactement sur ces 13 — rien de neuf n'a dérivé.
-- **§2 continents** : 11 continents d'échelle dans le graphe ; la prose
-  (bible v2, Chroniques 33–37, Era 7…) dit toujours « douze ». Toujours à
-  trancher dans les textes (et cf. 11.c-7 pour Evertia).
-- **§3 nations vs civilisations** : `data.genre` n'est posé que sur 46/123
-  polités (dont 6 « nation ») — le recompte canon (47) reste impossible.
-- **Sœur Asra / Sœur Velna** (passe 2) et **la chronologie de Noravia /
-  Sorin** (passe 3) : toujours à arbitrer, rien de neuf.
-- Les **5 faits sans aucune date possible** (Lunarch de Myrind, Schisme de
-  la Septième…) : toujours à écrire.
+- **§2 continents** : 11 continents d'échelle dans le graphe ; la prose dit
+  « douze » — **clos 2026-09-14** : usage vernaculaire conservé (§2).
+- **§3 nations vs civilisations** : **résolu 2026-09-14** — `data.genre` posé
+  partout, 44 nations + 3 No Man's Land = 47 (§3).
+- **Sœur Asra / Sœur Velna** (passe 2) : **résolu 2026-09-14** — pas de
+  contradiction : la période d'Asra (dès 230) est celle de ses observations,
+  sa charge de médecin chef suit la mort de Velna (232) ; la relation
+  `succede-a` (`lnk-0863`) est datée 10 181.
+- **La chronologie de Noravia / Sorin** (passe 3) : **résolu 2026-09-14** —
+  les Chroniques v2 font foi (route verrouillée, §4.0bis) : Aldric passe à
+  Noravia en **l'an 230** (~40 ans, berger-astronome venu de Galenor, non
+  « cartographe haldrien »), Sorin en **l'an 251** (jours 825-848) et il monte
+  au surplomb du Jumeau. Fiches rebasées (`Histoires/Cestra/Noravia.md`,
+  `Histoires/Cestra/Cestra.md`, `Pays/Cestra/Noravia.md`, `Pays/Cestra/Cestra -
+  Continent.md` : 220 → 230, 231 → 251, « onze ans » → « vingt et un ans »,
+  Mira Dasthen à Rukhsar) ; faits `fac-0644`, `fac-0645`, `fac-0975`,
+  `fac-0988`, `fac-0989` recalés avec `data.correction`.
+- Les **faits sans aucune date** : il n'en restait qu'un (`fac-0904`, la
+  révélation de Yelthari), **daté le 2026-09-14** sur la fondation de Jentaris
+  (époque des Premiers Échos, estimation basse confiance) ; les autres avaient
+  été datés par les passes suivantes.
 
 ---
 
@@ -696,6 +714,33 @@ Relevés faits pendant la lecture intégrale des trois tomes des *Trois Coups* (
 | **« Douze continents »** (rappel) | La prose des romans dit « douze continents » ; l'arbitrage 2026-07-18 a acté 11 continents + 2 grandes îles. | **Usage vernaculaire conservé, prose non modifiée** : « douze continents » est la façon dont le monde se compte lui-même (les vieilles cartes comptaient Baelor) ; le canon géographique reste 11 + 2. L'écart n'est plus une incohérence mais un fait de langue du monde — clos. |
 
 Créations liées au versement : `per-0915` **Vael** (frère de Thessan, T1) et `per-0916` **Rensa** (fille de Verkan Sorne, T1), fiches minimales issues du récit. *(Une première version de cette note écrivait per-0913/per-0914 — IDs pris entre-temps par les deux Kyra du §11.b.)*
+
+---
+
+## Arbitrages du 2026-09-14 — « tranche tout ce qui doit être tranché »
+
+L'auteur a délégué en bloc (« ne laisse rien à ma lecture ») : tout ce que ce
+registre laissait ouvert est tranché au plus logique, appliqué, et tracé
+(`data.arbitrages` / `data.correction` / `data.fusion` / `data.carte` sur les
+entités touchées). Récapitulatif :
+
+| Point | Verdict | Application |
+|---|---|---|
+| Jours des ch. 13 et 32 (Chroniques) | **Convention posée** : le frontmatter et la ligne lieu/jour portent le jour de la première scène datée ; la colonne Jour de la bible porte la scène clé. | Ch. 32 : ouverture au jour **790** (arrivée à Invernis ; départ 800 en fin de chapitre), index des chroniques à jour ; ch. 13 inchangé (276 → 300) ; convention écrite dans la bible §4.0bis. |
+| §2 continents | 11 continents ; « douze » vernaculaire | statut mis à jour. |
+| §3 décompte des polités | 44 nations + 3 NML = 47 | `data.genre` sur les 124 polités, `data.forme` conserve l'ancienne valeur ; Ligue des Marchands dédoublonnée. |
+| §4 Caeloria / Torkam | nations légitimes | `data.continent` réaligné (Caeloria, Torkam, Tyndara). |
+| §5 règnes orphelins | déjà résolu (11.c) | statut mis à jour. |
+| §6 tail géographique | rattachement par surfaces puis marqueurs | 336 rattachements créés ; restent Baelor (racine) et Kytheris (non rattachable). |
+| §7 doublons | géré | statut mis à jour. |
+| §9 échantillon des 380 notes | chaque cas tranché (voir §9) | alias, balises, fusion Karendis, statut des divinités locales, Porte de Fer, Brèche/Sanctuaire, Yelthari/Tirenne. |
+| §10 Haldria | la fiche a raison (Endora) | surface d'Ilthara → Warenthor ; Haldria sans marqueur ; cartes d'ère régénérées ; écarts carte/fiches d'Iskara, Thalmaris, Skaldoria, Myrtam assumés (position = carte, rattachement = fiches). |
+| 11.b faits-précurseurs typés fondation | conservés | motif : pipeline des cartes d'ère. |
+| 11.b-12 / 11.c ⚠ | faits le 2026-09-10 | texte mis à jour. |
+| 11.d Asra / Velna | pas de contradiction | `lnk-0863` daté 10 181. |
+| 11.d Noravia / Sorin | les Chroniques font foi | quatre fiches rebasées, cinq faits recalés. |
+| 11.d faits sans date | `fac-0904` daté | époque des Premiers Échos. |
+| Contrôle de proximité (`arbitrer-nml.js`) | un rattachement arbitré n'est pas un conflit | `data/geo-conflits.json` : 0 conflit. |
 
 ---
 

@@ -2,7 +2,7 @@
 chapitre: 32
 titre: Les Îles Flottantes
 acte: V
-jour: 800
+jour: 790
 lieux: [Celethor, Astravia, Invernis, Galdryn]
 pov: Sorin Valthen
 status: draft
@@ -13,7 +13,7 @@ status: draft
 > *«  Ne lève pas la tête. L’île ne tombera pas plus vite.  »*
 > — ce qu’on dit aux enfants d’Invernis, au pied des colonnes
 
-**Celethor — Astravia, ville basse d’Invernis et mines de Galdryn — Jour 800**
+**Celethor — Astravia, ville basse d’Invernis et mines de Galdryn — jours 790 à 800**
 
 ---
 

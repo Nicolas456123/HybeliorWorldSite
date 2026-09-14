@@ -92,6 +92,9 @@ for (const e of doc.entities) {
   if (!['ville', 'bourg', 'cite', 'lieu-dit'].includes(e.data.echelle)) continue;
   const natId = nationDe(e.id);
   if (!natId) continue;
+  // un rattachement arbitré explicitement (récit, réparation) n'est pas un conflit de position
+  if (doc.relations.some((r) => r.rel_type === 'situe-dans' && r.from_id === e.id && r.data
+    && (r.data.methode === 'arbitrage' || r.data.arbitrage))) continue;
   const nat = ents.get(natId);
   if (!nat.data || nat.data.coord_x == null) continue;
   verifiees++;

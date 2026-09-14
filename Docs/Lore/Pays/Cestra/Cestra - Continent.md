@@ -169,7 +169,7 @@ La pluralité non-tranchée des lectures est, à Cestra, constitutive du paysage
 ### Le passage des cartographes (Ère VII)
 - À partir du IIIe siècle du Sillage : cartographes individuels (hommes seuls, pas des expéditions) signalés à Noravia — viennent, achètent un permis temporaire, partent ; certains rentrent, beaucoup non.
 - Le Conseil de Maintien tient un registre minimal des noms et dates de départ, à usage interne seul.
-- Y figure **Aldric Valthen** (an 220 du Sillage), parti vers le Glacier Central, dont la trace après cette date est ambiguë.
+- Y figure **Aldric Valthen** (an 230 du Sillage), parti vers le Glacier Central, dont la trace après cette date est ambiguë.
 - Voir [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]].
 
 ### Aujourd'hui

@@ -65,8 +65,10 @@ successeurs — JAMAIS par data.periode, dérivée). Le curseur temporel de
 la carte les affiche sans modification de code (surfacesPourEre).
 Limites : Union des Flammes et Azor-Kerev sans territoire (leurs
 héritiers Arkhen/Pyrevane/Azoral/Kethvar/Caeloria n'ont pas de surface
-extraite) ; ⚠ Haldria : marqueur/surface sur Ilthara vs fiches Endora —
-arbitrage d'auteur (registre §10).
+extraite). Haldria : tranché le 2026-09-14 (registre §10) — la surface
+d'Ilthara est celle de Warenthor, Haldria (Endora) reste sans marqueur ;
+les autres écarts carte/fiches (Iskara, Thalmaris, Skaldoria, Myrtam)
+sont assumés : position = carte de l'auteur, rattachement = fiches.
 
 **Bake overlay→base — CLOS (2026-09-10).** L'overlay kg de prod
 (`kg_overlay`/`kg_deletes`) est **vide** : aucune édition post-hoc, la
@@ -86,9 +88,9 @@ a reçu son marqueur (−57.3,−369.2)). Restent ~80 écarts uniformes de
 5-7 unités (artefact d'import de mai, sans enjeu) — ne pas « corriger ».
 Faits les 2026-09-10 : affichage `data.fourchette` et capitales
 anciennes ; surfaces manquantes (Iskara, Ackerna, Valoria + Seraphia,
-Baelor-Prime via la côte de son île — 30 pays au total). Restent non
-extractibles de « Hybelior Pays.png » : Caeloria (territoire blanc,
-îles célestes), Warenthor (aplat indiscernable), les No Man's Land ;
+Baelor-Prime via la côte de son île — 30 pays au total). Restent non extractibles de « Hybelior Pays.png » : Caeloria (territoire blanc,
+îles célestes), les No Man's Land (Warenthor a reçu le 2026-09-14 la lobe
+sud-ouest d'Ilthara, extraite depuis l'ancien marqueur « Haldria ») ;
 l'île de Baelor n'est qu'un blob de 33 unités² dans continents-trace.svg
 (Thyldris tombe en mer) — à compléter dans le tracé si l'île doit
 grandir.
