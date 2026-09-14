@@ -120,7 +120,7 @@ Le calcul n’était pas caché, et je le notai avec le reste.
 «  Tant pis, dit-il. Vous l’écrirez quand même.
 — Oui.  »
 
-Marvet retourna à sa cuve, et je repris le chemin avec sa phrase dans la poche, comme une pièce  : cinq pour douze. Un homme aux mains noires depuis vingt ans venait de me décrire, sans le savoir, mon propre travail depuis le premier jour de cet exil. On ouvre ce qui donne encore, on tire tant que ça coule, et on appelle sacré ce qu’on n’a pas le cœur de compter. Je l’ai pensé sur le sentier, et je n’ai pas ralenti.
+Marvet retourna à sa cuve, et je repris le chemin avec sa phrase dans la poche, comme une pièce  : cinq pour douze. On ouvre ce qui donne encore, on tire tant que ça coule, et on appelle sacré ce qu’on n’a pas le cœur de compter. Je l’ai pensé sur le sentier, et je n’ai pas ralenti.
 
 ---
 
@@ -143,7 +143,7 @@ Un silence passa.
 
 «  Vous êtes venu voir celui-ci mourir.  »
 
-Ce n’était pas une accusation. C’était un relevé, aussi net que les miens.
+Elle ne m’accusait pas. C’était un relevé, aussi net que les miens.
 
 «  Je suis venu l’écouter tant qu’il parle, dis-je. Et rester jusqu’à la fin, si vous le permettez. Avant que la voix ne se taise, pas après. Après, il n’y a plus rien à consigner.  »
 
@@ -171,7 +171,7 @@ Vers le milieu de la nuit, l’arbre chanta.
 
 Le vocabulaire de la musique me manque, et je n’en emprunterai pas un qui ne serait pas le mien. Ce ne fut pas un battement comme au Mont Cendra, pas cette pulsation régulière que j’avais relevée là-bas. Ce fut un accord. Plusieurs fréquences tenues ensemble, très graves, et sous elles une dernière qui descendait encore, dans un registre qui n’était plus tout à fait du son et qu’on recevait dans les os, dans les dents, dans le creux du dos appuyé à la racine. Le sol en tremblait à peine. Une feuille tomba quelque part dans le noir et je l’entendis toucher terre. Alors je fermai les yeux, parce que c’est ce que font les druides et les Canteurs, et parce que, les paupières closes, la chose devenait plus nette que la lumière.
 
-Elle était là. Comme à Cendra, comme dans la forêt du ravin, comme au pied de cet arbre une heure plus tôt sans vouloir me l’avouer, je la sentis  : une vibration lente, patiente, qui montait du dessous avec le temps de son côté. Un Délié ne devrait rien sentir de tout cela. La fréquence, je la relevai du mieux que je pus, sans instrument, par comparaison, par écart, comme on note un cap qu’on n’a pas les moyens de mesurer. Plus bas que le Mont Cendra. Apparenté pourtant, comme deux voix d’une même famille. Puis je rouvris les yeux et j’écrivis, longtemps, tant que la note me tenait dans l’oreille. Une note qu’on ne fixe pas dans l’heure se déforme dans la mémoire, comme la sève tourne dans le baril.
+Elle était là. Comme à Cendra, comme dans la forêt du ravin, comme au pied de cet arbre une heure plus tôt sans vouloir me l’avouer, je la sentis  : une vibration lente, patiente, qui montait du dessous avec le temps de son côté. Un Délié ne devrait rien sentir de tout cela. La fréquence, je la relevai du mieux que je pus, sans instrument, par comparaison, par écart, comme on note un cap qu’on n’a pas les moyens de mesurer. Plus bas que le Mont Cendra. Apparenté pourtant, comme deux voix d’une même famille. Puis je rouvris les yeux et j’écrivis, longtemps, tant que la note me tenait dans l’oreille.
 
 Elwenn chantait avec l’arbre. Pas pour couvrir sa note  : pour la suivre. La main posée sur l’écorce polie, elle descendait avec lui aussi bas que sa gorge le permettait, et s’arrêtait là où l’arbre continuait seul. Quand l’accord retomba, elle garda la paume contre le tronc, longtemps, comme on garde la main d’un mourant après qu’il s’est tu.
 
@@ -196,7 +196,7 @@ L’arbre se tut avant l’aube. Elwenn resta la paume contre l’écorce jusqu�
 
 ---
 
-La journée d’avant mon départ me valut une conversation de plus, que j’ajoutai à l’inventaire. Une compositrice, jeune, de celles qui pensent plus vite qu’elles ne parlent, me parla de son art comme d’une résistance. Pas politique. Une résistance à l’effacement des choses. Depuis un an et demi, disait-elle, les œuvres de Thalmaris débordaient leurs formes. Les harmonies s’y faisaient plus denses, cherchaient des résolutions qu’elles ne trouvaient pas.
+La journée d’avant mon départ me valut une conversation de plus, que j’ajoutai à l’inventaire. Une compositrice, jeune, de celles qui pensent plus vite qu’elles ne parlent, une partition roulée serrée dans le poing, me parla de son art comme d’une résistance. Pas politique. Une résistance à l’effacement des choses. Depuis un an et demi, disait-elle, les œuvres de Thalmaris débordaient leurs formes. Les harmonies s’y faisaient plus denses, cherchaient des résolutions qu’elles ne trouvaient pas.
 
 «  Nous créons pour nommer ce qui n’a pas encore de nom, dit-elle. C’est notre métier depuis toujours. Mais depuis un an et demi, ce que nous cherchons à nommer déborde nos noms. Nos voix ne portent pas assez loin. Nous descendons vers le grave, toujours plus bas.
 — D’en haut, demandai-je, ou d’en bas  ?  »
@@ -211,7 +211,7 @@ Le dernier soir à Thalmaris, j’assistai au Cantus du couchant, dans la grande
 
 Puis le vieux descendit d’un registre. Une note plus grave que tout ce qu’il avait tenu. Les autres eurent un temps de retard, puis le suivirent, et la pierre de la salle, taillée pour renvoyer le son, répondit à ce grave comme elle n’avait répondu à aucune note plus haute. Ce n’était pas seulement l’écho. La pierre rendait une fréquence qu’elle avait gardée pour elle, la sienne, et qu’il avait fallu descendre chercher aussi bas pour la réveiller.
 
-Voix-de-Pierre rouvrit les yeux, me chercha du regard à l’autre bout de la salle, et sourit. Ce n’était pas un sourire de satisfaction. C’était celui d’un homme qui vous a montré une chose et qui voit que vous l’avez vue.
+Voix-de-Pierre rouvrit les yeux, me chercha du regard à l’autre bout de la salle, et sourit. Il souriait comme un homme qui vous a montré une chose et qui voit que vous l’avez vue.
 
 Quand les autres se furent dispersés, il vint à moi, la voix râpée d’avoir tenu le grave si longtemps.
 
@@ -236,7 +236,7 @@ Sa main se tendit vers moi, paume ouverte, ce geste encore.
 
 «  Bon voyage. Écrivez juste. Vous ne retiendrez rien d’autre.  »
 
-Je pris sa main sans relever qu’il venait, à son insu, de me donner la même définition qu’Elwenn au pied de l’arbre. Deux personnes en deux jours, en deux lieux, m’avaient nommé de la même façon, chacune croyant m’apprendre qui j’étais. Ce soir-là, sur la page, je commençai une phrase et ne l’achevai pas. La marge disait déjà ce qu’il fallait.
+Je pris sa main sans relever qu’il venait, à son insu, de me donner la même définition qu’Elwenn au pied de l’arbre. Ce soir-là, sur la page, je commençai une phrase et ne l’achevai pas. La marge disait déjà ce qu’il fallait.
 
 Le lendemain, à la marée, je repris la mer, avec dans le dos une île qui perdait ses voix une à une. Avec moi partaient un accord que je ne savais pas nommer, une phrase au pluriel donnée par une femme qui me méprisait à demi, et la teinte des paumes de Marvet, qui saigne plus quand l’arbre donne moins. Trois relevés, pris d’un même rivage. Je les rangeai.
 

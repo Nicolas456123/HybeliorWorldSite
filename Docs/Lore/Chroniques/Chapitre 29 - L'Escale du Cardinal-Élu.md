@@ -59,7 +59,7 @@ Je le remerciai. Il n’avait menti sur rien. Le sceau du Conclave sur mon nom 
 
 ---
 
-Un tailleur de stellarite nommé Ardem me logea chez les siens, dans une chambre-atelier où le métal des prêtres jetait sa lueur froide sur les parois. Sa femme, Nesse, tenait le foyer, et chaque matin elle notait dans un registre de cuir l’état du ciel. Ce n’était pas de la météorologie. C’était de la prière tenue en colonnes. Ils avaient un fils de treize ans, qui m’ignorait avec application, et une fille.
+Un tailleur de stellarite nommé Ardem me logea chez les siens, dans une chambre-atelier où le métal des prêtres jetait sa lueur froide sur les parois. Sa femme, Nesse, tenait le foyer, et chaque matin elle notait dans un registre de cuir l’état du ciel. Une prière tenue en colonnes. Ils avaient un fils de treize ans, qui m’ignorait avec application, et une fille.
 
 Le premier soir, Nesse servit une soupe de poisson épaisse, avec des racines blanches qui fondaient sous la dent et un pain noir qu’on trempait dedans. Le brasero chauffait les genoux. Mes doigts recommencèrent à me faire mal, ce qui voulait dire qu’ils dégelaient, et pendant un moment il n’y eut que le bol, la vapeur, le crépitement des braises et la lueur bleue du métal sur les murs. Je n’avais pas eu chaud depuis Lunasar.
 
@@ -80,7 +80,7 @@ Plus tard, Ardem redescendit à l’atelier et Nesse partit à l’assemblée de
 — Pardon  ?
 — Quelque chose que vous ne savez pas nommer.  » Elle leva ses yeux blancs, qui cherchaient et qui trouvaient. «  Vous le tenez depuis longtemps. Ce n’est pas encore à vous.  »
 
-J’avais déjà entendu cette phrase, ou son ombre, dans une autre ville, d’une autre bouche d’enfant. Deux enfants à deux bouts du monde, qui n’ont jamais pu se parler, et la même phrase. Je lui demandai ce qu’elle voyait.
+J’avais déjà entendu cette phrase, ou son ombre, dans une autre ville, d’une autre bouche d’enfant. Je lui demandai ce qu’elle voyait.
 
 Elle réfléchit, avec le sérieux d’une enfant de huit ans à qui l’on pose une vraie question.
 
@@ -104,7 +104,7 @@ Il ne dit pas que d’autres familles trouvaient cela moins rassurant. Il n’en
 
 Trois autres conversations du même métal me donnèrent le reste. Caeloria ne cachait pas ses enfants aux yeux blancs comme on cache une honte. Elle les gardait comme on garde un secret d’État  : inscrits, bénis, visités, et tenus au chaud dans une doctrine assez large pour les couvrir tous. Le Conclave nommait miracle ce que d’autres nommaient anomalie  ; le peuple, lui, avait son mot, tout bas, que je ne rapporterai pas, parce qu’il change à chaque port et qu’aucun lettré ne le prononce. On me parla aussi d’un médecin de Silvaris qui avait examiné plusieurs de ces enfants. Un Veilleur m’en dit davantage le lendemain, et j’y reviendrai.
 
-Ce secret-là se gardait par bonté. On scellait pour protéger  ; on taisait pour épargner. J’avais déjà rencontré cette bonté, sous un manteau anthracite, dans une phrase polie  : *nous constatons votre présence*. Le Conclave de Caeloria fermait ses portes avec la même sincérité, et le Cardinal-Élu que j’allais voir aussi, sans doute. Cela ne le rendait pas moins dangereux. Seulement plus difficile à mépriser.
+Ce secret-là se gardait par bonté. J’avais déjà rencontré cette bonté, sous un manteau anthracite, dans une phrase polie  : *nous constatons votre présence*. Le Conclave de Caeloria fermait ses portes avec la même sincérité, et le Cardinal-Élu que j’allais voir aussi, sans doute. Cela ne le rendait pas moins dangereux. Seulement plus difficile à mépriser.
 
 ---
 

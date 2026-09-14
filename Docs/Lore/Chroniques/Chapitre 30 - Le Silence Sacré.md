@@ -35,7 +35,7 @@ Je n’avais pas discuté le prix. Payé d’avance, à Caeloria, sans un mot  
 «  Et la sixième  ?
 — Il y a quatre ans.  » Sa main serra le bois de la barre d’un cran. «  Le vent a tenu trois jours pleins au nord-est. On a vu les falaises, on a débarqué un vieux à la crique, un vieux qui ne parlait pas. Puis le Voile est retombé si vite qu’on a failli ne pas retrouver le chenal.  » Pour la première fois depuis Caeloria, il me regarda. «  Je vous le dis pour que vous le sachiez. Je vous dépose, je ne vous attends pas dans la brume. Vous ressortez au prochain vent de nord-est, ou vous ne ressortez pas.  »
 
-J’ai noté cela comme une donnée de relevé. Un port dont la fenêtre d’entrée est aussi la fenêtre de sortie  ; un lieu qu’on ne quitte que dans les conditions exactes où on l’a rejoint.
+J’ai noté cela comme une donnée de relevé. Un port dont la fenêtre d’entrée est aussi la fenêtre de sortie.
 
 Le vent tourna au matin du dix-huitième jour.
 
@@ -145,9 +145,9 @@ Doran me regarda un moment. Puis son visage se ferma.
 
 La phrase s’arrêta là. Soit il n’en trouva pas la fin, soit il jugea que la fin serait une profanation.
 
-Telle quelle, sans sa fin, elle est entrée dans le carnet. Je ne l’ai reliée à rien  : ni aux signes de la paroi, ni à Cendra, ni à la pulsation dans mes os. Ce sont des points sur une carte dont je n’ai pas encore le droit de tracer les routes, et je laisse les points seuls tant qu’ils ne se relient pas d’eux-mêmes.
+Telle quelle, sans sa fin, elle est entrée dans le carnet. Je ne l’ai reliée à rien  : ni aux signes de la paroi, ni à Cendra, ni à la pulsation dans mes os. Ce sont des points sur une carte dont je n’ai pas encore le droit de tracer les routes.
 
-La paroi entière est passée dans mon carnet. C’était tout ce que je pouvais prendre à un homme arrivé onze jours trop tard dans ma vie  : une écriture que je ne sais pas lire, relevée sur le mur d’un mort que je n’ai pas connu, pour être portée ailleurs et déposée là où d’autres, un jour, la liront à ma place. Je fais ce voyage-là de plus en plus souvent. J’arrive, la chaise est vide, et je prends ce qui reste sur les murs.
+La paroi entière est passée dans mon carnet. C’était tout ce que je pouvais prendre à un homme que j’avais manqué de onze jours  : une écriture que je ne sais pas lire, relevée sur le mur d’un mort que je n’ai pas connu, pour être portée ailleurs et déposée là où d’autres, un jour, la liront à ma place. Je fais ce voyage-là de plus en plus souvent. J’arrive, la chaise est vide, et je prends ce qui reste sur les murs.
 
 ---
 
@@ -173,7 +173,7 @@ L’Abbé Suprême ne reçoit pas.
 
 Kethron VI n’avait pas prononcé un mot depuis sa jeunesse, et l’on ne montait à lui ni sur requête ni par mérite ordinaire. Le huitième jour, tandis que le Voile s’épaississait encore et que je comptais les vents comme un prisonnier compte les relèves, le moine du quai vint me chercher. Vers le haut, cette fois, par des escaliers qui montaient là où tout le reste s’enfonçait, jusqu’à la Salle du Silence.
 
-La salle est ouverte sur le ciel. Un cercle de basalte noir, sans toit, et au-dessus un rond de ciel gris-bleu, de la couleur d’une mer par temps couvert. Le vent passait au-dessus des murs sans descendre jusqu’à nous  ; on l’entendait, on ne le sentait pas. Au centre, assis sur la pierre nue, les paumes sur les genoux, un très vieil homme. Le temps l’avait tassé sans le réduire  : il avait gardé l’essentiel et laissé tomber le reste.
+La salle est ouverte sur le ciel. Un cercle de basalte noir, sans toit, et au-dessus un rond de ciel gris-bleu, de la couleur d’une mer par temps couvert. Le vent passait au-dessus des murs sans descendre jusqu’à nous  ; on l’entendait, on ne le sentait pas. Au centre, assis sur la pierre nue, les paumes sur les genoux, un très vieil homme. Le temps l’avait tassé sans le réduire.
 
 Il m’attendait. À mon entrée, il n’ajusta rien, ne se leva pas, ne fit pas un signe  ; il n’y avait rien à ajuster. Face à lui, je m’assis, les mains sur les genoux, dans une imitation maladroite de sa posture. Dans ce lieu, c’était le seul geste possible.
 

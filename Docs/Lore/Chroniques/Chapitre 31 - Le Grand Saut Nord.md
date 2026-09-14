@@ -17,9 +17,9 @@ status: draft
 
 ---
 
-On ne quitte Baelor que par Baeloris, et on ne quitte Baeloris que lorsque le Voile veut bien se lever.
+Baeloris est la seule sortie de Baelor, et elle ne s’ouvre que lorsque le Voile veut bien se lever.
 
-Une seule crique pour toute l’île  : une entaille dans deux cents lieues de falaises noires, où aucune barque ne se poserait ailleurs sans se briser. Tout ce qui arrive à Baelor passe par là, et tout ce qui en repart aussi. Un enfant l’aurait compris. L’appareil l’avait compris avant moi. Son homme était posté sur le môle, du côté d’où l’on voit appareiller les rares coques sans être vu, comme à Basalis, comme partout où la géographie ne laisse qu’une porte. Mon père avait couvert des pages de cette mécanique. Une consigne qui voyage sans nom se poste aux endroits où l’on doit forcément passer, et une île à une seule crique est le plus obligé de tous les endroits.
+Une seule crique pour toute l’île  : une entaille dans deux cents lieues de falaises noires, où aucune barque ne se poserait ailleurs sans se briser. Tout ce qui arrive à Baelor passe par là, et tout ce qui en repart aussi. Un enfant l’aurait compris. L’appareil l’avait compris avant moi. Son homme était posté sur le môle, du côté d’où l’on voit appareiller les rares coques sans être vu, comme à Basalis, comme partout où la géographie ne laisse qu’une porte. Mon père avait couvert des pages de cette mécanique. Une consigne qui voyage sans nom se poste aux endroits où l’on doit forcément passer, et une île à une seule crique n’en offre qu’un.
 
 Aussi je le savais en posant le pied sur le môle. Ce que je cherchais, ce n’était pas s’il était là. C’était l’heure à laquelle il cesserait de l’être.
 
@@ -189,7 +189,7 @@ Il ne mourrait pas là, je crois. À cent pas de sa fin, il avait fait reculer s
 
 Il ne me crut qu’à moitié. Cela ne portait pas à conséquence. Ce qu’un patron de Celethor pense d’un passager ne remonte à aucun bureau, et nous étions au nord de la dernière lettre.
 
-Ce soir-là, je relus le feuillet des marges de mon père, celui que je garde séparé des autres. *L’appareil ne suit que ses propres routes.* Il l’avait écrit vingt ans avant moi, sur une route que le carnet ne nomme pas. Lui aussi avait su où s’arrêtent ceux qui vous cherchent  : aux bureaux, aux lettres, aux guetteurs postés devant les portes obligées. Au-delà, plus de portes, plus de lettres, rien à surveiller que le froid. S’il a passé ce point lui-même, le carnet ne le dit pas. Moi, je le passais. La différence entre nous n’est pas sur la page, ni ce soir-là ni maintenant  : il avait porté  ; j’avais fait quelque chose de ce qu’il portait, et je ne saurais qu’en arrivant si j’avais eu raison. Vels avait dit que je serais seul avec ma charge. Il se trompait sur un mot. Je montais au nord pour ne plus jamais avoir à la porter seul.
+Ce soir-là, je relus le feuillet des marges de mon père, celui que je garde séparé des autres. *L’appareil ne suit que ses propres routes.* Il l’avait écrit vingt ans avant moi, sur une route que le carnet ne nomme pas. Lui aussi avait su où s’arrêtent ceux qui vous cherchent  : aux bureaux, aux lettres, aux guetteurs postés devant les portes obligées. Au-delà, plus de portes, plus de lettres, rien à surveiller que le froid. S’il a passé ce point lui-même, le carnet ne le dit pas. Moi, je le passais. La différence entre nous tient en peu de mots  : il avait porté  ; j’avais fait quelque chose de ce qu’il portait, et je ne saurais qu’en arrivant si j’avais eu raison. Vels avait dit que je serais seul avec ma charge. Il se trompait sur un mot. Je montais au nord pour ne plus jamais avoir à la porter seul.
 
 À Kharazir, la nuit où l’on est venu chercher mes cartes, j’avais déjà mon manteau sur les épaules. Un homme qui a froid met son manteau. Je ne savais pas où il me mènerait. Je savais de quel côté marcher pour que ceux qui me suivraient s’arrêtent au bord de l’eau.
 

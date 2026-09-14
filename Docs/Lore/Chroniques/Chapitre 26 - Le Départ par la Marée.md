@@ -73,7 +73,7 @@ Ce que Wenna décrivait n’était pas la chasse que je connaissais. Un homme qu
 
 Et il cherchait ce papier trop tard. Les copies faites à Trelios étaient parties par les soixante ports du Grand Fleuve, et personne ne les rappellerait port par port. Ce qu’ils remontaient à l’envers, nœud après nœud, était une route dont les cargaisons avaient passé depuis longtemps. Ils démontaient un filet vide.
 
-Cela m’apparut à cette table, avec la netteté d’un relevé qui tombe juste, et je ne l’écrivis pas ce soir-là dans ces termes. Quant à ce que j’éprouvai, je le note parce que c’est vrai  : pour Mira, autre chose, que je n’écrirai pas ici  ; pour le reste, à la même table, dans la même heure, quelque chose qui ressemblait à du soulagement.
+Cela m’apparut à cette table, avec la netteté d’un relevé qui tombe juste, et je ne l’écrivis pas ce soir-là dans ces termes. Ce que j’éprouvai, je le note parce que c’est vrai  : pour Mira, autre chose, que je n’écrirai pas ici  ; pour le reste, à la même table, quelque chose qui ressemblait à du soulagement.
 
 «  Vous ne dites rien, remarqua Wenna.
 — Je range.
@@ -106,7 +106,7 @@ Une lettre écrite comme si Mira allait la lire  ; je n’avais pas de preuve d
 
 Vers le milieu de la nuit, la lampe baissa et je la remontai. Mes doigts étaient raides  ; je les réchauffai contre le verre avant de reprendre la plume.
 
-Ses lettres à elle, je les avais toutes gardées, dans un cahier à part, et je les relus dans l’ordre où elles étaient venues. Rien d’important n’y était dit  : le temps, les récoltes, un différend de bornage entre deux villages d’Ysundara. Les premières posaient des questions. Où j’étais, ce que je voyais, si je mangeais assez. Les dernières n’en posaient plus aucune. Une question laissée sur le papier pouvait être lue par un autre que moi, et elle l’avait compris. Elle s’était tue bien avant de se taire tout à fait, et j’aurais dû entendre le premier silence pour ce qu’il annonçait. Puis je repliai les feuillets dans l’ordre et remis la ficelle. Mes mains le firent lentement.
+Ses lettres à elle, je les avais toutes gardées, dans un cahier à part, et je les relus dans l’ordre où elles étaient venues. Rien d’important n’y était dit  : le temps, les récoltes, un différend de bornage entre deux villages d’Ysundara. Les premières posaient des questions. Où j’étais, ce que je voyais, si je mangeais assez. Les dernières n’en posaient plus aucune. Une question laissée sur le papier pouvait être lue par un autre que moi, et elle l’avait compris. J’aurais dû entendre ce premier silence. Puis je repliai les feuillets dans l’ordre et remis la ficelle. Mes mains le firent lentement.
 
 La nuit de Kharazir me revint. Mira dans l’embrasure de ma porte, son manteau sombre, le souffle court d’avoir marché vite, et qui ne franchissait pas le seuil. Le lendemain, dans les premières pages de ce journal, j’avais noté qu’elle était redescendue sans que l’escalier fasse un bruit, et j’avais espéré, en le notant, qu’on n’ait pas remarqué son passage.
 
@@ -196,9 +196,9 @@ Y croyait-il  ? Un cartographe ne devrait pas poser cette question, parce qu’
 
 Cela aussi alla dans le cahier. Ces hommes vivaient d’attendre des marées, et ils s’étaient fait, de ce qui monte sous le monde, une image de marée  : une chose qui a son heure, qu’on ne devance pas, et qu’on prend ou qu’on laisse passer. Cette image n’était pas une preuve, et je ne la pris pas pour telle. Mais je la gardai, et elle m’a suivi plus loin que Valmora.
 
-Trancher  ? Je n’en avais aucun moyen, et ce n’est pas mon travail de trancher ce que je ne peux pas mesurer. L’histoire de l’oublié était une histoire, la manière qu’un peuple de mer avait trouvée de nommer une inquiétude que d’autres nommaient autrement  : le Panghor des druides, le dessous des gardes de la forêt, ce qui répond des chamanes des plaines, les Profonds des vieux textes que je n’avais pas lus et dont on m’avait dit qu’ils existaient. Cinq noms pour une même chose. Ou cinq peurs sans objet commun, qu’un voyageur presse à tort les unes contre les autres parce qu’il a passé deux ans à ne rencontrer que des gens effrayés. Les deux lectures restèrent côte à côte dans le cahier. C’est la discipline qui me tient quand les points se mettent à faire des lignes plus vite que je ne les vérifie.
+Trancher  ? Je n’en avais aucun moyen, et ce n’est pas mon travail de trancher ce que je ne peux pas mesurer. L’histoire de l’oublié était une histoire, la manière qu’un peuple de mer avait trouvée de nommer une inquiétude que d’autres nommaient autrement  : le Panghor des druides, le dessous des gardes de la forêt, ce qui répond des chamanes des plaines, les Profonds des vieux textes que je n’avais pas lus et dont on m’avait dit qu’ils existaient. Cinq noms pour une même chose. Ou cinq peurs sans objet commun, qu’un voyageur presse à tort les unes contre les autres parce qu’il a passé deux ans à ne rencontrer que des gens effrayés. Les deux lectures restèrent côte à côte dans le cahier.
 
-Ce que je notai, à plat, fut ceci  : un homme de Thyronis qui n’avait jamais mis le pied à Evertia ni entendu le mot Panghor racontait, avec sa tente et ses piquets, la même forme que la gardienne de Thalmaris me chantait de l’autre côté du détroit. La ressemblance était réelle. L’origine, incertaine. La conclusion, différée. La ressemblance fut consignée  ; d’autres diront, plus tard et ailleurs, si elle mène quelque part.
+Ce que je notai, à plat, fut ceci  : un homme de Thyronis qui n’avait jamais mis le pied à Evertia ni entendu le mot Panghor racontait, avec sa tente et ses piquets, la même forme que la gardienne de Thalmaris me chantait de l’autre côté du détroit. La ressemblance était réelle. L’origine, incertaine. La conclusion, différée. Je la consignai  ; d’autres diront, plus tard et ailleurs, si elle mène quelque part.
 
 ---
 

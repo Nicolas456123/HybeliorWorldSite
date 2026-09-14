@@ -100,7 +100,7 @@ Loin, à la limite de ce que l’œil accepte de tenir pour vrai, une masse plus
 
 Le vieil homme rentra le premier, comme si regarder cette chose trop longtemps lui coûtait.
 
-«  Vous poserez la question autrement, et je répondrai autrement, et nous n’aurons pas avancé. Il y a des seuils qu’on tient clos, non que l’au-delà soit un mal, mais parce que le moment n’est pas venu. Un roi de Lunasar vous dirait qu’il a scellé cela par bonté, et qu’un pouvoir n’a pas souvent mieux à offrir.  »
+«  Vous poserez la question autrement, et je répondrai autrement, et nous n’aurons pas avancé. Il y a des seuils qu’on tient clos, non que l’au-delà soit un mal, mais parce que le moment n’est pas venu. Un roi de Lunasar vous dirait qu’il a scellé cela par bonté.  »
 
 À ces mots, je relevai la tête.
 
@@ -116,7 +116,7 @@ Alors il me regarda comme le vieux maître de Warenthor m’avait regardé, comm
 
 «  Un autre est passé ici avec ce regard, ajouta-t-il. Il y a de cela vingt ans, peut-être davantage. Il savait se ranger le visage mieux qu’un Lunarien de naissance. Il n’a pas voulu dire d’où il venait, et je n’ai pas insisté. C’était le Silence. Pendant le Silence, nul ne doit à personne le compte de son nom.  »
 
-Aldric. Le vieil homme ne le nomma pas, et je ne le demandai pas. Mon père était passé là, s’était rangé le visage, et il était reparti vers ce que je remontais à sa suite. Fui ou choisi, Solvanes n’en savait rien  : il avait vu passer un homme masqué, il ne pouvait pas dire si cet homme avait eu peur ou s’il avait décidé, et je ne lui demandai pas de trancher. Depuis longtemps, je n’attendais plus qu’on me rende l’homme. Ce que je remontais, ce n’était pas lui. C’était sa charge, et le moyen de ne pas mourir de la porter seul, comme il en était mort, s’il en était mort.
+Aldric. Le vieil homme ne le nomma pas, et je ne le demandai pas. Mon père était passé là, s’était rangé le visage, et il était reparti vers ce que je remontais à sa suite. Solvanes avait vu passer un homme masqué  ; il ne pouvait pas dire si cet homme avait fui ou choisi, et je ne lui demandai pas de trancher. Depuis longtemps, je n’attendais plus qu’on me rende l’homme. Ce que je remontais, ce n’était pas lui. C’était sa charge, et le moyen de ne pas mourir de la porter seul, comme il en était mort, s’il en était mort.
 
 Le papier de mon fragment était froid dans ma poche. Je ne notai pas autre chose.
 
@@ -128,7 +128,7 @@ Personne ne débarqua ce jour-là que j’aie pu voir. Ce qui arriva, c’était
 
 Rien de tout cela ne relève d’un don, quoi qu’en disent ceux qui me voient toujours partir une heure avant qu’on vienne me prendre. Mon père tenait un carnet, et le carnet n’était pas fait que d’étoiles et de relevés de sol. Sur les dernières pages, il avait consigné la manière dont l’appareil poste ses relais, où il place ses guetteurs, comment il fait voyager plus vite qu’une caravane l’ordre de faire taire un homme. Avant même de les comprendre, j’avais appris ces pages par cœur, comme un enfant apprend une prière dont il prendra le sens plus tard. Ma longueur d’avance n’était que cela  : une lecture juste, sur des hommes qui ne changent jamais d’écriture.
 
-Fuir n’était donc pas la question. On ne sort pas d’un filet en tirant dessus. On attend l’heure où les mailles se relâchent, et je tenais, depuis mon premier soir, l’heure exacte où celles de Lunaris se relâcheraient.
+Fuir n’était donc pas la question. Il fallait attendre l’heure où les mailles se relâchent, et je tenais, depuis mon premier soir, l’heure exacte où celles de Lunaris se relâcheraient.
 
 Le onzième jour, je vis Vels Draye.
 
@@ -145,14 +145,14 @@ Le batelier de Caeloria, celui qui s’était découvert un chargement, avait un
 
 «  Il lève l’ancre à la marée de la première nuit du Silence, dis-je. Quand les quais se vident.  »
 
-Sera me regarda un peu plus longtemps que d’habitude. Ce n’était pas de la défiance, elle n’en avait pas les moyens. C’était une question qu’elle n’avait pas encore les mots pour poser.
+Sera me regarda un peu plus longtemps que d’habitude. Elle ne se méfiait pas, elle n’en avait pas les moyens. C’était une question qu’elle n’avait pas encore les mots pour poser.
 
 «  Vous savez beaucoup de choses, pour un homme qui écrit cartographe, dit-elle.
 — Un cartographe se renseigne sur les marées, répondis-je. C’est même à peu près tout son métier.  »
 
 Son rire vint, moins franc que le premier soir. Puis elle voulut me conduire elle-même au quai, la nuit venue. Un étranger masqué qui cherche un ponton précis pendant le Silence est un étranger perdu, dit-elle, et elle ne voulait pas que le dernier voyageur qu’elle aurait guidé finisse à l’eau faute d’avoir su compter les pontons dans le noir.
 
-La laisser insister était une faute. Je le savais en la commettant, et je la commis parce que je ne trouvai pas, ce soir-là, le moyen de refuser la compagnie d’une femme qui m’avait cru sans que le refus lui apprenne quelque chose. J’ai fait payer d’autres pour moins que cela.
+La laisser insister était une faute. Je le savais en la commettant, et je la commis parce que je ne trouvai pas, ce soir-là, le moyen de refuser sans lui apprendre quelque chose. J’ai fait payer d’autres pour moins que cela.
 
 ---
 
@@ -245,7 +245,7 @@ La côte de Lunasar s’effaça avant l’aube, dans une brume qui n’était pa
 
 Le batelier menait sa barque à l’estime, sans nom au registre, sans serment  ; jusqu’à la limite des eaux, le Silence couvrait notre départ, puisqu’un homme sans nom ne quitte le port sur aucun registre. Derrière nous, la ville s’éteignait, et je la regardai jusqu’au bout. Au sud-ouest, un moment, la forme que Solvanes m’avait montrée reparut peut-être, cette masse plus sombre que la nuit, à la place d’une île. Je ne la fixai pas. D’autres avaient choisi de la garder close, et je n’avais pas besoin, cette nuit-là, d’un seuil de plus sur mes cartes. J’en portais assez.
 
-Vels restait avec moi, visage nu sur le quai. Nous nous étions dit chacun la seule chose vraie que nous avions à nous dire, et nous étions repartis chacun de notre côté. Il ôtait des poids. Je les gardais. Solvanes avait raison  : lui et moi, nous nous comprenions mieux que personne, et c’est peut-être pour cela que ni lui ni moi ne pouvions nous permettre de nous épargner.
+Vels restait avec moi, visage nu sur le quai. Nous nous étions dit chacun la seule chose vraie que nous avions à nous dire, et nous étions repartis chacun de notre côté. Il ôtait des poids. Je les gardais. Solvanes avait raison  : lui et moi, nous nous comprenions mieux que personne.
 
 Sera restait aussi, avec son erreur, qu’elle avait préféré garder.
 

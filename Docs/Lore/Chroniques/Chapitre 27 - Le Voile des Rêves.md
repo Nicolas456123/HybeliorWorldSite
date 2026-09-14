@@ -134,7 +134,7 @@ Je ne comblai pas ses blancs. J’ai trop vu de savants mourir d’avoir rempli 
 
 Ces signes, je les reconnaissais.
 
-Pas comme un texte lu jadis dans un fonds ou copié pour un commanditaire. D’une façon plus basse que la mémoire, celle qui fait reconnaître un chemin d’enfance qu’on n’a pas repris depuis trente ans. Ma main sut, avant ma tête, qu’elle pouvait en retracer plusieurs. Je notai cette reconnaissance, et aussitôt ma méfiance envers elle  : après six cents jours de route, je me garde de mes yeux à l’instant précis où ils trouvent ce qu’ils cherchaient. Deux lignes sur la même page, donc. Ce que mon corps affirmait reconnaître  ; et le fait que c’était mon corps qui l’affirmait, pas ma méthode.
+Pas comme un texte lu jadis dans un fonds ou copié pour un commanditaire. D’une façon plus basse que la mémoire, celle qui fait reconnaître un chemin d’enfance qu’on n’a pas repris depuis trente ans. Ma main sut, avant ma tête, qu’elle pouvait en retracer plusieurs. Je notai cette reconnaissance, et aussitôt ma méfiance envers elle  : après six cents jours de route, je me garde de mes yeux à l’instant précis où ils trouvent ce qu’ils cherchaient. Deux lignes sur la même page, donc  : ce que mon corps reconnaissait, et le fait que c’était mon corps, pas ma méthode.
 
 «  Je ne peux pas la lire, dis-je à Orneth. Mais je l’ai déjà vue.  »
 
@@ -199,7 +199,7 @@ Elle me considéra un moment, puis rangea sa copie dans le carton et me laissa l
 
 «  Rien, sans doute.  » Elle se leva. «  D’habitude, on crie.  »
 
-Je la regardai redescendre vers le Sanctuaire, les doigts tachés serrés sur son carton, sûre d’avoir prévenu un homme traqué, et de l’avoir fait par bonté. Elle ne se trompait pas  : j’étais traqué, et elle avait été bonne. Elle croyait m’apprendre qu’on me chassait  ; je le savais depuis Lumasar. Ce qu’elle m’apprenait, c’était avec quelle justesse Orath Dovan me lisait, et qu’il avait écrit de sa main ce que je tenais depuis Ilthara pour une conjecture. Il ne courait plus après le voyageur. Il courait après le bagage. Il avait compris où était le danger, et c’est cela que je notai de lui.
+Je la regardai redescendre vers le Sanctuaire, les doigts tachés serrés sur son carton, sûre d’avoir prévenu un homme traqué, et de l’avoir fait par bonté. Elle ne se trompait pas  : j’étais traqué, et elle avait été bonne. Elle croyait m’apprendre qu’on me chassait  ; je le savais depuis Lumasar. Ce qu’elle m’apprenait, c’était avec quelle justesse Orath Dovan me lisait, et qu’il avait écrit de sa main ce que je tenais depuis Ilthara pour une conjecture. Il ne courait plus après le voyageur. Il courait après le bagage.
 
 ---
 
@@ -227,7 +227,7 @@ Mes pensées allèrent à mon père. À Aldric Valthen, qui avait fait cette rou
 
 Qu’avait-il compris que je ne comprends pas encore  ? La question m’accompagne depuis Rukhsar. Une autre m’était venue depuis, et je m’obligeai à l’écrire sur la même page, sans lui chercher de cadre  : qu’avait-il porté, lui, que quelqu’un attendait de venir chercher  ?
 
-Aucune réponse ne vint. La mer, en contrebas, restait la mer, un fond de bruit indifférent, sans bord. Le Voile posait sa brume sur les étoiles décalées et les rendait à ce qu’elles sont désormais pour moi  : des questions que je sais maintenant poser correctement, sans être sûr que les réponses soient assez proches pour qu’on les formule.
+Aucune réponse ne vint. La mer, en contrebas, restait la mer, un fond de bruit indifférent, sans bord. Le Voile posait sa brume sur les étoiles décalées et les rendait à ce qu’elles sont désormais pour moi  : des questions que je sais maintenant poser correctement, et auxquelles je n’ai pas de réponse.
 
 Une dernière fois, j’essayai de sentir. Pas la mer, pas le vent, pas le Voile. Autre chose. Ce qui avait battu sous le Cendra, ce qui fait refuser les creux aux chevaux, ce qui avait fait taire les esprits de Warenthor et glisser les étoiles de Haldria.
 
