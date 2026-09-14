@@ -284,6 +284,24 @@ Le §2 (nombre de continents) et les lignes Folgrad/Windora du §10 sont donc **
 | Point | Constat | Application (réversible) |
 |---|---|---|
 | **Sexe de Reen** (capitaine, ch. 4 et 35 des Chroniques) | Le ch. 4 v1 écrivait « la capitaine Reen… elle » ; la bible v2 dit « le capitaine **Reen** [canon] » et le ch. 35 l'écrit au masculin | **Aligné sur la bible et le ch. 35 : masculin** dans le ch. 4 réécrit. Si l'auteur préfère une capitaine, c'est le ch. 35 et la bible qu'il faudra corriger. |
+| **Vérification du Délié** (ch. 22) | « Vérifié à ma naissance par les Veilleurs » vs l'épreuve de discernement à treize ans du ch. 1 (les « Veilleurs » des autres chapitres sont d'autres institutions) | Aligné sur le ch. 1 : épreuve à treize ans. |
+| **Première sensation du pouls** (ch. 21) | « pour la première fois » alors que Sorin sent déjà le pouls à Trinoria (ch. 5) et y ment — mensonge frontal interdit par la bible §2.4.1 | Énoncés rendus littéralement vrais ; « pour la première fois » retiré. |
+| **Mira « dans ma cuisine »** (ch. 26) | Contredit le ch. 1 où elle reste dans l'embrasure | Aligné sur le ch. 1. |
+| **Le mot « classer »** (ch. 10) | L'original l'attribuait à Torhal ; au ch. 6 c'est Sorin qui le prononce devant Torhal | Aligné sur le ch. 6. |
+| **Phrase relue du ch. 1** (ch. 26) | La bible fait relire « J'espère, pour elle, qu'on n'a pas remarqué son passage » comme écrite au ch. 1, où elle ne figurait pas | Semée au ch. 1 (scène de Mira). |
+
+**Signalées pendant la même réécriture, non tranchées (à arbitrer) :**
+
+| Point | Constat |
+|---|---|
+| Profondeur des tunnels sous Rukhsar | « neuf cents pieds » (ch. 27) vs « sept mètres » (ch. 34). |
+| Qui a copié le fragment de Mirathi | Sorin chez Orneth (ch. 27) / « une main de dormeuse » (ch. 28) / « copié à Gryndor » (ch. 34). |
+| La copie du scriptorium de Lumasar | Le rapport d'Orath (ch. 27) la dit hors de portée ; la bible la dit saisie au ch. 11. |
+| Vels vu ou non | « ne se laisse pas voir » (ch. 19) vs gant « vu sous la canopée de Warenthor » (ch. 23). |
+| Homonymie **Lunaris** | Canyon d'Ilthara (ch. 16) et ville de Lunasar (ch. 28). |
+| « Trente pleines saisons » (ch. 28) | Unité inhabituelle pour l'âge du passage d'Aldric ; `_arc-sorin.md` dit trente ans. |
+| Rature quasi-aveu du ch. 25 | « ce n'est pas moi qui les tue, je ne fais que » (préexistante) alors que la bible réserve le lapsus barré au ch. 29 — décision d'auteur. |
+| Jour du ch. 31 | Frontmatter 748 vs fiche bible 775. |
 
 ---
 
