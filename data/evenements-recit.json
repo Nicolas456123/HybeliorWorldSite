@@ -1547,7 +1547,7 @@
       "jour": 665,
       "type": "evenement",
       "titre": "La note d'Orath Dovan : « cesser de chercher l'homme, chercher le document »",
-      "detail": "La copiste Yrenna remet à Sorin la copie d'une note interne qui a dormi une nuit à Mirathi : Orath Dovan y lit l'Exilé avec justesse — le rapport déposé sciemment avant la notification, l'homme qui « ne sauve personne, il recueille », trois copies hors de portée (Lumasar, les ports du fleuve d'Onar, un troisième dépôt non localisé) — et recommande de cesser de chercher l'homme pour chercher le document. Une seule inexactitude : Dovan n'a localisé que deux dépôts. Sorin ne corrige pas la carte de son adversaire.",
+      "detail": "La copiste Yrenna remet à Sorin la copie d'une note interne qui a dormi une nuit à Mirathi : Orath Dovan y lit l'Exilé avec justesse — le rapport déposé sciemment avant la notification, l'homme qui « ne sauve personne, il recueille », la copie de Lumasar reprise sur le fleuve (un leurre remis en route pour être repris), trois copies au moins hors de portée (les ports du fleuve d'Onar, un dépôt non localisé) — et recommande de cesser de chercher l'homme pour chercher le document. Une seule inexactitude : le compte est en dessous du vrai. Sorin ne corrige pas la carte de son adversaire.",
       "sujet": "Sorin Valthen",
       "personnages": [
         "Orath Dovan"
@@ -1598,7 +1598,7 @@
       "jour": 694,
       "type": "evenement",
       "titre": "Aldric est passé par Lunaris — le visage rangé",
-      "detail": "Solvanes se souvient d'« un autre » au même regard, passé à Lunaris il y a « trente pleines saisons peut-être davantage », pendant un Silence : il savait se ranger le visage mieux qu'un Lunarien de naissance et n'a pas dit d'où il venait. Aldric Valthen a précédé son fils ici aussi — sans qu'on sache s'il fuyait ou choisissait.",
+      "detail": "Solvanes se souvient d'« un autre » au même regard, passé à Lunaris il y a « vingt ans, peut-être davantage », pendant un Silence : il savait se ranger le visage mieux qu'un Lunarien de naissance et n'a pas dit d'où il venait. Aldric Valthen a précédé son fils ici aussi — sans qu'on sache s'il fuyait ou choisissait.",
       "sujet": "Aldric Valthen",
       "personnages": [
         "Sorin Valthen",

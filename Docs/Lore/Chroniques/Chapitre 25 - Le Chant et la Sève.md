@@ -236,7 +236,7 @@ Sa main se tendit vers moi, paume ouverte, ce geste encore.
 
 «  Bon voyage. Écrivez juste. Vous ne retiendrez rien d’autre.  »
 
-Je pris sa main sans relever qu’il venait, à son insu, de me donner la même définition qu’Elwenn au pied de l’arbre. Deux personnes en deux jours, en deux lieux, m’avaient nommé de la même façon, chacune croyant m’apprendre qui j’étais. Ce soir-là, sur la page, je commençai à écrire  : ~~ce n’est pas moi qui les tue, je ne fais que~~. Puis je barrai. La marge disait déjà ce qu’il fallait.
+Je pris sa main sans relever qu’il venait, à son insu, de me donner la même définition qu’Elwenn au pied de l’arbre. Deux personnes en deux jours, en deux lieux, m’avaient nommé de la même façon, chacune croyant m’apprendre qui j’étais. Ce soir-là, sur la page, je commençai une phrase et ne l’achevai pas. La marge disait déjà ce qu’il fallait.
 
 Le lendemain, à la marée, je repris la mer, avec dans le dos une île qui perdait ses voix une à une. Avec moi partaient un accord que je ne savais pas nommer, une phrase au pluriel donnée par une femme qui me méprisait à demi, et la teinte des paumes de Marvet, qui saigne plus quand l’arbre donne moins. Trois relevés, pris d’un même rivage. Je les rangeai.
 

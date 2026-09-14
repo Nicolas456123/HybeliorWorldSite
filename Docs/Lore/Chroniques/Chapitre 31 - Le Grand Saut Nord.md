@@ -2,7 +2,7 @@
 chapitre: 31
 titre: Le Grand Saut Nord
 acte: V
-jour: 748
+jour: 752
 lieux: [Baeloris (Baelor), Mer du Nord, banquise du grand nord]
 pov: Sorin Valthen
 status: draft
@@ -13,7 +13,7 @@ status: draft
 > *«  Au nord de la dernière lettre, l’appareil devient aveugle. Il ne suit que ses propres routes. Là où la carte s’arrête, il n’y a plus de porte à garder, et la traque reste au bord de l’eau.  »*
 > — carnet d’Aldric Valthen, feuillet des marges
 
-**Baelor — Baeloris, puis le chenal du nord. Jour 748.**
+**Baelor — Baeloris, puis le chenal du nord. Jour 752.**
 
 ---
 

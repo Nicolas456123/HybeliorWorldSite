@@ -263,8 +263,8 @@ Deux forces effacent les savants (§3, §5.4). L'**appareil** est lent, humain, 
 | **27** | Vytharia / Mirathi, **RETOUR Ilthara** | 660 | Evertia→Ilthara **14 j** + **séjour 16 j** (sphère de Vytharia) | 33 | **Bascule par DOCUMENT** (le rapport d'Orath). Message de Mirathi (non traduit). **Sphère de Vytharia (1/2).** |
 | **28** | Lunasar *(rattachement sphère de Vytharia)* | 690 | intra sphère Vytharia **15 j** + **séjour 15 j** | 34 (contrainte transposée) + 35 | **Bascule par CONTRAINTE** : quasi-capture par Vels, il manœuvre à visage découvert. ★set-piece★ **Sphère de Vytharia (2/2).** |
 | **29** | Caeloria *(SE, escale religieuse)* | 715 | Ilthara/Vytharia→Caeloria **22 j** (long saut SE) + **séjour 3 j** | 28 (Caeloria) + 35 (lapsus) | **Bascule par LAPSUS** : la phrase de trop, barrée. Escale du Cardinal-Élu, en approche de Baelor. |
-| **30** | Baelor-Prime (Baelor) | 745 | Caeloria→Baelor **18 j** (brume) + **séjour 12 j** (attente fenêtre, vent NE) | 36 | **Bascule par TIERS-VOYANT** (le seul, gardé) : le moine, le mot « Dessous ». **Bascule complète (~79 %).** |
-| **31** | En route, **ACCÉLÉRATION nord** | 775 | Baelor→nord, grand saut +30 | (transition) | Chapitre de fuite qui avale la distance ; ultime interception de Vels déjouée. |
+| **30** | Baelor-Prime (Baelor) | 748 | Caeloria→Baelor **18 j** (brume) + **séjour 12 j** (attente fenêtre, vent NE) | 36 | **Bascule par TIERS-VOYANT** (le seul, gardé) : le moine, le mot « Dessous ». **Bascule complète (~79 %).** |
+| **31** | En route, **ACCÉLÉRATION nord** | 752 | Baelor→nord, départ de Baeloris jour 752 ; traversée ~38 j (interception de Vels jour 769, Invernis jour 790) | (transition) | Chapitre de fuite qui avale la distance ; ultime interception de Vels déjouée. |
 | **32** | Astravia / Varennis (Celethor) | 800 | (suite du saut) +25 | 25 | Caution de l'archimage ; la trame se modifie, mesurable ; porte du pôle. |
 | **33** | Noravia (Cestra) | 825 | Celethor→Cestra **25 j** (polaire) | 37 | Approche polaire ; Borela « vous êtes peut-être son fils ». |
 | **34** | Mont Jumeau (Cestra) | 845 | intra +20 | 37 | La feuille du père « Tu es prêt ». ★**Sommet émotionnel de la bascule (~89 %)**★ |
@@ -576,7 +576,7 @@ Annoter des moteurs sur chaque chapitre ne suffit pas si la structure reste **un
 - **MOTEURS.** D (l'aveu intérieur), A (traque, secret d'État), B (cap). · **MOTS : 4 600.**
 
 **CH. 30 — Le Silence Sacré** *(titre proposé)* — **★ BASCULE PAR TIERS-VOYANT (le seul, gardé) · COMPLÈTE ~79 % ★**
-- **LIEU(X).** Baelor-Prime, le monastère (Baelor). · **JOURS.** Jour 745 (Caeloria → Baelor, 18 j de brume + **séjour +12 j** : attente de la fenêtre, vent NE).
+- **LIEU(X).** Baelor-Prime, le monastère (Baelor). · **JOURS.** Jour 748 (Caeloria → Baelor, 18 j de brume + **séjour +12 j** : attente de la fenêtre, vent NE).
 - **ENJEU & SCÈNE CLÉ.** Recevoir le dernier mot et le dernier miroir dans le seul lieu où le silence autorise la vérité. Scène clé : le cloître muet, le parchemin tendu avec un seul mot, **Dessous** ; et une phrase du moine, que Sorin recopie telle quelle, qui décrit son plan mieux que lui — puis le silence. **Le silence du narrateur est l'aveu** (le seul aveu par tiers-voyant subsistant).
 - **GARDE.** [canon ch. 37 : « le moine de Baelor qui m'avait tendu un parchemin avec un seul mot : *Dessous* », gardé 35 jours contre la poitrine] Baelor, le monastère, le silence sacré ; le folklore de « l'oublié qui remonte » (fonction d'Ulinor supprimé, §5.2). Débarquement à la seule crique (Baeloris), île visible au seul vent du NE.
 - **SEMÉ.** « Dessous » (payé 34) ; l'aveu diégétique complet (le lecteur sait tout, sauf ce que Sorin ignore encore). · **PAYÉ.** La bascule est pleine (~79 %).
@@ -584,7 +584,7 @@ Annoter des moteurs sur chaque chapitre ne suffit pas si la structure reste **un
 - **MOTEURS.** D (l'aveu), C (Dessous, le monde bascule), B (dernier cap : Jumeau). · **MOTS : 4 800.**
 
 **CH. 31 — Le Grand Saut Nord** *(titre proposé)* — **★ ACCÉLÉRATION · ULTIME INTERCEPTION VELS ★**
-- **LIEU(X).** En mer, du sud-centre vers le grand nord (ACCÉLÉRATION). · **JOURS.** Jour 775 (Baelor → nord, grand saut +30).
+- **LIEU(X).** En mer, du sud-centre vers le grand nord (ACCÉLÉRATION). · **JOURS.** Jour 752 (départ de Baeloris ; grand saut nord, ~38 j jusqu’à Invernis, jour 790).
 - **ENJEU & SCÈNE CLÉ.** Avaler la distance polaire en chapitre de fuite et **déjouer une dernière fois Vels** avant le terminus du réseau. Scène clé : la traque en mer déjouée, la longueur d'avance qui n'est jamais du hasard mais toujours une lecture juste de l'appareil (§3.2).
 - **GARDE (transition, matière de liaison).** Pas de matière v1 dédiée : chapitre de fuite qui avale le grand saut nord (Baelor → Celethor, bateau polaire). On reprend le régime d'accélération (marche forcée non tenable) et la grammaire de la traque du carnet du père.
 - **SEMÉ.** L'ultime avance sur l'appareil (payé 35-37, la course à Prismalith). · **PAYÉ.** Vels neutralisé pour la fin ; la voie vers Cestra ouverte.

@@ -178,7 +178,7 @@ Je transcris la note ici en entier, sans en retrancher un mot. Je ne caviarde pa
 > *Note interne. Objet  : Valthen, Sorin, dit le cartographe de Rukhsar.*
 > *Ne pas traiter comme un fugitif ordinaire. Un fugitif fuit  ; celui-ci se déplace.*
 > *La saisie de ses travaux n’a pas précédé son départ. Elle l’a suivi. L’homme avait déposé son rapport en sachant ce qu’il déclencherait, et il avait quitté Rukhsar avant que la notification n’y parvienne. On ne prend pas de vitesse une procédure qu’on n’a pas provoquée soi-même.*
-> *Il ne cherche pas à publier. Ce qu’on publie se réfute. Il dépose. Trois copies au moins sont déjà hors de portée  : le scriptorium de Lumasar  ; les ports du fleuve d’Onar, dispersées une à une  ; un troisième dépôt que je n’ai pas localisé et dont je crains qu’il ne soit le vrai. Chaque copie rend inutile la saisie des autres.*
+> *Il ne cherche pas à publier. Ce qu’on publie se réfute. Il dépose. La copie du scriptorium de Lumasar, nous l’avons reprise sur le fleuve  ; il l’avait remise en route pour qu’on la reprenne. Trois copies au moins sont déjà hors de portée  : les ports du fleuve d’Onar, dispersées une à une, et un dépôt que je n’ai pas localisé et dont je crains qu’il ne soit le vrai. Chaque copie rend inutile la saisie des autres.*
 > *Il va vers ceux que nous signalons. Il arrive après nos guetteurs et avant nos scellés. Il ne sauve personne. Il recueille.*
 > *Recommandation  : cesser de chercher l’homme. Chercher le document. Un homme se classe  ; un document qui s’est déjà reproduit ne se rappelle plus.*
 
@@ -188,9 +188,9 @@ Le vent tirait sur le coin de la feuille, sous le caillou. Yrenna me regardait.
 — C’est mon nom et c’est ma ville.
 — Alors ils vous poursuivent.  » Elle l’avait dit avec douceur. «  Voilà pourquoi je vous la donne. On a le droit de savoir qu’on est chassé. Le vieil Orneth ne dort plus depuis deux ans à cause d’un texte. Vous, on vous écrit dans votre dos des notes qui décident de vous. Je n’aime pas voir ça deux fois dans le même mois.  »
 
-Pendant qu’elle parlait, je copiai la note dans mon carnet, ligne à ligne. Je ne démentis rien. Il n’y avait rien, dans cette note, que je puisse démentir. Le rapport avait suivi le départ, non l’inverse. Le scriptorium de Lumasar tenait une copie  ; les ports du fleuve d’Onar en tenaient d’autres, une par port, données une à une. Un homme surpris de se lire ainsi aurait protesté, ou ri, ou pâli. Je copiai. Puis je versai la page au relevé comme les autres, avec la date et la provenance.
+Pendant qu’elle parlait, je copiai la note dans mon carnet, ligne à ligne. Je ne démentis rien. Il n’y avait rien, dans cette note, que je puisse démentir. Le rapport avait suivi le départ, non l’inverse. La copie de Lumasar était bien celle qu’on m’avait prise sur le fleuve  ; les ports d’Onar en tenaient d’autres, une par port, données une à une. Un homme surpris de se lire ainsi aurait protesté, ou ri, ou pâli. Je copiai. Puis je versai la page au relevé comme les autres, avec la date et la provenance.
 
-Sur le compte seul, la note restait en dessous du vrai. Trois copies au moins, écrivait-il, et il n’en avait situé que deux. Il avait raison de craindre ce troisième dépôt qu’il ne connaissait pas. Je ne le corrigeai pas.
+Sur le compte seul, la note restait en dessous du vrai. Trois copies au moins, écrivait-il. Il en manquait. Il avait raison de craindre ce dépôt qu’il ne connaissait pas. Je ne le corrigeai pas.
 
 «  Vous ne dites rien, remarqua Yrenna.
 — Que voulez-vous que je dise à un papier  ?  »

@@ -662,18 +662,19 @@ Le §2 (nombre de continents) et les lignes Folgrad/Windora du §10 sont donc **
 | **Le mot « classer »** (ch. 10) | L'original l'attribuait à Torhal ; au ch. 6 c'est Sorin qui le prononce devant Torhal | Aligné sur le ch. 6. |
 | **Phrase relue du ch. 1** (ch. 26) | La bible fait relire « J'espère, pour elle, qu'on n'a pas remarqué son passage » comme écrite au ch. 1, où elle ne figurait pas | Semée au ch. 1 (scène de Mira). |
 
-**Signalées pendant la même réécriture, non tranchées (à arbitrer) :**
+**Signalées pendant la même réécriture, puis tranchées le 2026-09-14 par délégation de l'auteur (« arbitre de manière logique ») :**
 
-| Point | Constat |
-|---|---|
-| Profondeur des tunnels sous Rukhsar | « neuf cents pieds » (ch. 27) vs « sept mètres » (ch. 34). |
-| Qui a copié le fragment de Mirathi | Sorin chez Orneth (ch. 27) / « une main de dormeuse » (ch. 28) / « copié à Gryndor » (ch. 34). |
-| La copie du scriptorium de Lumasar | Le rapport d'Orath (ch. 27) la dit hors de portée ; la bible la dit saisie au ch. 11. |
-| Vels vu ou non | « ne se laisse pas voir » (ch. 19) vs gant « vu sous la canopée de Warenthor » (ch. 23). |
-| Homonymie **Lunaris** | Canyon d'Ilthara (ch. 16) et ville de Lunasar (ch. 28). |
-| « Trente pleines saisons » (ch. 28) | Unité inhabituelle pour l'âge du passage d'Aldric ; `_arc-sorin.md` dit trente ans. |
-| Rature quasi-aveu du ch. 25 | « ce n'est pas moi qui les tue, je ne fais que » (préexistante) alors que la bible réserve le lapsus barré au ch. 29 — décision d'auteur. |
-| Jour du ch. 31 | Frontmatter 748 vs fiche bible 775. |
+| Point | Constat | Arbitrage (2026-09-14) |
+|---|---|---|
+| Profondeur des tunnels sous Rukhsar | « neuf cents pieds » (ch. 27) vs « sept mètres » (ch. 34 v1). | **Conservé « neuf cents pieds »** : le « sept mètres » a disparu à la réécriture du ch. 34, et le ch. 27 (deux occurrences, dont une de Sorin lui-même) reste le seul chiffre du corpus ; cohérent avec des galeries « d'avant l'Arrachement » datées par les géologues de Gryndor. `fac-1225` inchangé. |
+| Qui a copié le fragment de Mirathi | Sorin à Gryndor (bible ch. 14, ch. 34) / « une main de dormeuse » (ch. 28) ; et le ch. 20 disait Mirathi « pays qui n'existe plus », le ch. 35 en faisait une personne (« une Déliée »). | **Le graphe fait foi** (`pol-0035` : province-sanctuaire de Vytharia, vivante ; `obj-0054`, `per-0869`). Ch. 20 : écriture venue « du plateau de Mirathi, où les Oracles la gardent sans la lire », déjà croisée « à Gryndor, dans le fragment qu'on m'avait laissé copier » (et « dans un relevé de Cendra », plus « gravé sous une pierre » d'une ville où Sorin n'est pas allé). Ch. 28 : fragment « copié de ma main » à Gryndor et comparé au couvent. Ch. 35 : « Les Oracles de Mirathi, qui reçoivent le Message sans chercher à le lire » remplace « Mirathi… une Déliée ». `fac-1188` aligné. |
+| La copie du scriptorium de Lumasar | Le rapport d'Orath (ch. 27) la disait hors de portée ; la bible la dit saisie au ch. 11. | **La bible fait foi** : la note d'Orath dit désormais que la copie de Lumasar a été reprise sur le fleuve (un leurre remis en route pour qu'on le reprenne) et que trois copies au moins restent hors de portée (ports d'Onar, dépôt non localisé) ; le commentaire de Sorin suit (« Il en manquait »). `fac-1226` aligné. |
+| Vels vu ou non | « ne se laisse pas voir » (ch. 19, présent gnomique) vs gant vu sous la canopée (ch. 19 même chapitre, rappelé ch. 23). | **Pas de contradiction de fond** : la phrase passe au passé (« ne s'était encore jamais laissé voir ; on constatait son passage après coup »), la canopée est la première fois. |
+| Homonymie **Lunaris** | Canyon de Drakora (ch. 16) et capitale de Lunasar (ch. 28). | **Les deux sont canon** (`ter-0041`, `per-0708` / `pol-0034`, `lie-0847`) : homonymie assumée, notée une fois au ch. 28 par le cartographe (« La ville s'appelle Lunaris, comme le canyon de Drakora ; les deux n'ont en commun que le nom »). |
+| « Trente pleines saisons » (ch. 28) | Unité inhabituelle, et trente ans contredit le reste du corpus (ch. 17 : « vingt ans avant moi » ; graphe `fac-0409`, `fac-1166`, `fac-1169`, `fac-1260` : vingt à vingt-trois ans). | **Le corpus fait foi** : Solvanes dit « vingt ans, peut-être davantage » ; `fac-1231` aligné. |
+| Rature ajoutée au ch. 20 par la réécriture | « ~~conclure n'est pas ma tâche ; je suis venu relever, puis déposer…~~ », absente de l'original (ajout d'un agent). | **Retirée** (même règle : la barre est réservée au lapsus du ch. 29 et au raisonnement barré du ch. 37) ; la phrase reste, non barrée, comme « une ligne qui n'était pas un relevé ». |
+| Rature quasi-aveu du ch. 25 | « ~~ce n'est pas moi qui les tue, je ne fais que~~ » (préexistante) alors que la bible réserve la bascule par lapsus barré au ch. 29 (§2.6, §7.20 « jamais quatre fois le même geste ») et fonde le ch. 25 sur l'aveu **par un tiers** (la gardienne, §2.4.5). | **La bible fait foi** : la rature du ch. 25 est retirée (« je commençai une phrase et ne l'achevai pas. La marge disait déjà ce qu'il fallait. ») ; le seul lapsus barré reste celui du ch. 29. |
+| Jour du ch. 31 | Frontmatter 748 (= ch. 30) vs table bible 775. | **Le graphe et le texte font foi** : les événements injectés datent le départ de Baeloris au jour 752, l'interception de Vels au 769, l'arrivée à Invernis au 790 ; le ch. 31 passe à **752** (frontmatter, ligne lieu/jour, `chroniques-index.json`). La table de la bible est mise en cohérence : ch. 30 **748** (ses propres durées 3 + 18 + 12 depuis le jour 715 donnaient 748, non 745 ; le texte et `fac` « jour 748 » disaient déjà 748) ; ch. 31 **752**, traversée ~38 j. Non modifié, à titre de convention : le ch. 13 porte le jour d'arrivée (276, plage « 276 à 300 ») là où la bible donne le jour de la scène clé (300) ; idem ch. 32 (800 = départ final, arrivée 790). |
 
 ---
 

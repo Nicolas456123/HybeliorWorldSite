@@ -93,7 +93,7 @@ Le Cavalier lâcha une dernière phrase, plus bas que le reste. Ryvan ne me la d
 «  Quoi  ? insistai-je.
 — Il dit que les chamanes de Foedus Animae consultent les esprits des ancêtres, et que les ancêtres répondent encore.  » Elle chercha le mot. «  Mais en retrait. Comme derrière une vitre. Moins nets. Moins là.  »
 
-À Warenthor, les esprits s’étaient tus l’un après l’autre. Ici, ils répondaient de plus loin. Sur la même page, je notai les deux observations, et la plume continua sans moi  : ~~conclure n’est pas ma tâche  ; je suis venu relever, puis déposer le relevé là où d’autres mains le reprendront quand la mienne ne sera plus tenable~~.
+À Warenthor, les esprits s’étaient tus l’un après l’autre. Ici, ils répondaient de plus loin. Sur la même page, je notai les deux observations, puis une ligne qui n’était pas un relevé  : conclure n’est pas ma tâche  ; je suis venu relever, puis déposer le relevé là où d’autres mains le reprendront quand la mienne ne tiendra plus.
 
 À la lueur du feu, je me relus, et je barrai la phrase. Ce journal peut m’être saisi demain, à n’importe quel poste de garde. Ce que j’ai vu peut y rester. Ce que je sais n’a rien à y faire.
 
@@ -192,7 +192,7 @@ Je demandai pourtant, parce que je demande toujours  :
 «  Et qu’est-ce qu’on récolte, dans votre rêve, après un homme comme celui-là  ?
 — Je ne l’ai pas rêvé aussi loin.  » Elle me regarda enfin de face, ce qui, chez les siens, coûte quelque chose. «  Dans le rêve, les graines n’avaient pas levé. Elles attendaient que vous soyez passé.  »
 
-Elle me parla ensuite de sa maison, le couvent de Mythoria, où l’on garde des feuillets couverts d’une écriture que personne ne lit plus, venue, disait-elle, d’un pays qui n’existe plus  : Mirathi. Je consignai le nom. Je l’avais déjà croisé, gravé sous une pierre à Cendra, où je ne suis pas encore allé  ; dans une bouche à Ordavan  ; dans le carnet aussi. La même famille de signes affleure d’un bout du monde à l’autre, et personne ne me l’a jamais donnée entière. Je n’ai pas essayé de la déchiffrer. Ce n’est pas mon travail de lire ce que je ne peux pas lire  ; mon travail est de noter où l’illisible reparaît, et de déposer la note là où quelqu’un, un jour, saura.
+Elle me parla ensuite de sa maison, le couvent de Mythoria, où l’on garde des feuillets couverts d’une écriture que personne ne lit plus, venue, disait-elle, du plateau de Mirathi, où les Oracles la gardent sans la lire. Je consignai le nom. J’avais déjà croisé cette écriture  : à Gryndor, dans le fragment qu’on m’avait laissé copier  ; dans un relevé de Cendra, où je ne suis pas encore allé  ; dans une bouche à Ordavan  ; dans le carnet aussi. La même famille de signes affleure d’un bout du monde à l’autre, et personne ne me l’a jamais donnée entière. Je n’ai pas essayé de la déchiffrer. Ce n’est pas mon travail de lire ce que je ne peux pas lire  ; mon travail est de noter où l’illisible reparaît, et de déposer la note là où quelqu’un, un jour, saura.
 
 Elle repartit vers ses vallées voilées, et je repris la route de l’eau. Je n’entrai pas en Vytharia  ; je savais déjà que j’y reviendrais. Ce que je ne savais pas encore, c’est que ce ne serait pas pour m’y reposer.
 

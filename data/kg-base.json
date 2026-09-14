@@ -82549,20 +82549,25 @@
    "era_id": "era7_actuelle",
    "seq": 20,
    "label": "La rêveuse de Vytharia attendait Sorin",
-   "detail": "« Vous avez mis trois jours de plus que dans mon rêve. » Elle décrit sa route sans en connaître les noms — le village de verre, la forêt qui bouge, les chevaux — et le nomme : « un homme qui plante et ne reste pas pour la récolte ». Au couvent de Mythoria dorment des feuillets dans l'écriture de Mirathi, le pays qui n'existe plus. [Chroniques, ch. 20, jour 486 — an 250 du Sillage]",
+   "detail": "« Vous avez mis trois jours de plus que dans mon rêve. » Elle décrit sa route sans en connaître les noms — le village de verre, la forêt qui bouge, les chevaux — et le nomme : « un homme qui plante et ne reste pas pour la récolte ». Au couvent de Mythoria dorment des feuillets dans l'écriture du Message de Mirathi, que les Oracles du plateau gardent sans la lire. [Chroniques, ch. 20, jour 486 — an 250 du Sillage]",
    "data": {
     "calendrier": "sillage",
     "source_date": "recit",
     "recit_uid": "oeu-0013:20:la-reveuse-de-vytharia-attendait-sorin",
     "chapitre": 20,
     "jour": 486,
-    "confiance": "moyenne"
+    "confiance": "moyenne",
+    "arbitrage": {
+     "date": "2026-09-14",
+     "qui": "délégation de l'auteur (arbitrages de la réécriture des Chroniques)",
+     "motif": "Mirathi est une province vivante de Vytharia (pol-0035), non un pays disparu"
+    }
    },
    "source_id": "oeu-0013",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-08-26T00:00:00.000Z",
-   "updated_at": "2026-08-26T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1189",
@@ -83651,20 +83656,25 @@
    "era_id": "era7_actuelle",
    "seq": 27,
    "label": "La note d'Orath Dovan : « cesser de chercher l'homme, chercher le document »",
-   "detail": "La copiste Yrenna remet à Sorin la copie d'une note interne qui a dormi une nuit à Mirathi : Orath Dovan y lit l'Exilé avec justesse — le rapport déposé sciemment avant la notification, l'homme qui « ne sauve personne, il recueille », trois copies hors de portée (Lumasar, les ports du fleuve d'Onar, un troisième dépôt non localisé) — et recommande de cesser de chercher l'homme pour chercher le document. Une seule inexactitude : Dovan n'a localisé que deux dépôts. Sorin ne corrige pas la carte de son adversaire. [Chroniques, ch. 27, jour 665 — an 250 du Sillage]",
+   "detail": "La copiste Yrenna remet à Sorin la copie d'une note interne qui a dormi une nuit à Mirathi : Orath Dovan y lit l'Exilé avec justesse — le rapport déposé sciemment avant la notification, l'homme qui « ne sauve personne, il recueille », la copie de Lumasar reprise sur le fleuve (un leurre remis en route pour être repris), trois copies au moins hors de portée (les ports du fleuve d'Onar, un dépôt non localisé) — et recommande de cesser de chercher l'homme pour chercher le document. Une seule inexactitude : le compte est en dessous du vrai. Sorin ne corrige pas la carte de son adversaire. [Chroniques, ch. 27, jour 665 — an 250 du Sillage]",
    "data": {
     "calendrier": "sillage",
     "source_date": "recit",
     "recit_uid": "chroniques:27:la-note-d-orath-dovan-cesser-de-chercher-l-homme-chercher-le",
     "chapitre": 27,
     "jour": 665,
-    "confiance": "moyenne"
+    "confiance": "moyenne",
+    "arbitrage": {
+     "date": "2026-09-14",
+     "qui": "délégation de l'auteur (arbitrages de la réécriture des Chroniques)",
+     "motif": "la copie de Lumasar est saisie au ch. 11 (bible, fil « paquet compromis »)"
+    }
    },
    "source_id": "oeu-0013",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-08-26T00:00:00.000Z",
-   "updated_at": "2026-08-26T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1227",
@@ -83796,20 +83806,25 @@
    "era_id": "era7_actuelle",
    "seq": 28,
    "label": "Aldric est passé par Lunaris — le visage rangé",
-   "detail": "Solvanes se souvient d'« un autre » au même regard, passé à Lunaris il y a « trente pleines saisons peut-être davantage », pendant un Silence : il savait se ranger le visage mieux qu'un Lunarien de naissance et n'a pas dit d'où il venait. Aldric Valthen a précédé son fils ici aussi — sans qu'on sache s'il fuyait ou choisissait. [Chroniques, ch. 28, jour 694 — an 250 du Sillage]",
+   "detail": "Solvanes se souvient d'« un autre » au même regard, passé à Lunaris il y a « vingt ans, peut-être davantage », pendant un Silence : il savait se ranger le visage mieux qu'un Lunarien de naissance et n'a pas dit d'où il venait. Aldric Valthen a précédé son fils ici aussi — sans qu'on sache s'il fuyait ou choisissait. [Chroniques, ch. 28, jour 694 — an 250 du Sillage]",
    "data": {
     "calendrier": "sillage",
     "source_date": "recit",
     "recit_uid": "chroniques:28:aldric-est-passe-par-lunaris-le-visage-range",
     "chapitre": 28,
     "jour": 694,
-    "confiance": "moyenne"
+    "confiance": "moyenne",
+    "arbitrage": {
+     "date": "2026-09-14",
+     "qui": "délégation de l'auteur (arbitrages de la réécriture des Chroniques)",
+     "motif": "le père précède Sorin d'environ vingt ans (ch. 17 ; fac-0409, fac-1166, fac-1169, fac-1260)"
+    }
    },
    "source_id": "oeu-0013",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-08-26T00:00:00.000Z",
-   "updated_at": "2026-08-26T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1232",

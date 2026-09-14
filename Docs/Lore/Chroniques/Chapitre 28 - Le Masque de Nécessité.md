@@ -19,7 +19,7 @@ status: draft
 
 La lune décroissait le soir de mon arrivée, et à Lunasar cela veut dire quelque chose.
 
-En descendant du chariot, je ne le savais pas encore, avec sur moi la poussière de quinze jours de route depuis les couvents de Mirathi et leurs dormeuses. Ce que je voyais, c’était une ville de pierre blanche repliée dans une échancrure de la côte, ouverte sur le large par un bras d’eau dont les navigateurs prononcent mal le nom, et bâtie tout entière autour d’un amphithéâtre sans toit. Les rues montaient vers ce creux. Le soir tombait, la pierre rendait la chaleur du jour, et l’on entendait la mer d’un bout à l’autre de la ville. On m’avait dit qu’à Lunaris tout finit par converger vers la place où l’on délibère. Une soirée à se laisser porter par la pente suffit pour le vérifier.
+En descendant du chariot, je ne le savais pas encore, avec sur moi la poussière de quinze jours de route depuis les couvents de Mirathi et leurs dormeuses. Ce que je voyais, c’était une ville de pierre blanche repliée dans une échancrure de la côte, ouverte sur le large par un bras d’eau dont les navigateurs prononcent mal le nom, et bâtie tout entière autour d’un amphithéâtre sans toit. Les rues montaient vers ce creux. Le soir tombait, la pierre rendait la chaleur du jour, et l’on entendait la mer d’un bout à l’autre de la ville. La ville s’appelle Lunaris, comme le canyon de Drakora  ; les deux n’ont en commun que le nom. On m’avait dit qu’à Lunaris tout finit par converger vers la place où l’on délibère. Une soirée à se laisser porter par la pente suffit pour le vérifier.
 
 Une femme m’attendait au relais, envoyée par la maison des étrangers. On me la présenta comme traductrice. Sa maîtrise des langues dépassait la mienne, mais ce n’était pas là son métier. Son métier, je le compris avant la fin du premier soir, était de traduire les situations  : elle voyait ce qui se jouait entre les mots, et elle le disait tout haut à l’étranger qui ne l’aurait pas vu.
 
@@ -57,7 +57,7 @@ Elle rit, et me crut.
 
 La nouvelle lune tombait au douzième jour de mon séjour. Onze jours me restaient pour faire de Lunaris ce que je fais de chaque ville  : une carte que personne ne m’a demandée.
 
-Plusieurs raisons me retenaient, et une seule que j’aurais pu écrire sans mentir. La sphère de Vytharia gardait, disait-on, la mémoire d’une écriture. Depuis les couvents de Mirathi, je portais un fragment recopié de la main d’une dormeuse, quelques lignes de cette troisième langue que nul ne traduit et que mon corps, lui, reconnaissait, comme on reconnaît un pas dans un escalier obscur. Restait à le comparer à ce que Lunasar conservait de plus ancien. Lunasar règle ses lois sur la lune  ; elle tenait donc des registres du ciel, et depuis longtemps.
+Plusieurs raisons me retenaient, et une seule que j’aurais pu écrire sans mentir. La sphère de Vytharia gardait, disait-on, la mémoire d’une écriture. Je portais depuis Gryndor un fragment du Message de Mirathi, copié de ma main, que les couvents venaient de me laisser comparer au leur  : quelques lignes de cette troisième langue que nul ne traduit et que mon corps, lui, reconnaissait, comme on reconnaît un pas dans un escalier obscur. Restait à le comparer à ce que Lunasar conservait de plus ancien. Lunasar règle ses lois sur la lune  ; elle tenait donc des registres du ciel, et depuis longtemps.
 
 On me conduisit, le cinquième soir, chez un homme qu’on appelait le Veilleur, sans autre titre. Sera m’y mena elle-même et me prévint sur le pas de la porte.
 
@@ -114,7 +114,7 @@ Un moment passa avant que je réponde. En bas, la mer poussait sa houle longue c
 
 Alors il me regarda comme le vieux maître de Warenthor m’avait regardé, comme on soupèse une charge que rien de visible n’explique.
 
-«  Un autre est passé ici avec ce regard, ajouta-t-il. Il y a de cela trente pleines saisons, peut-être davantage. Il savait se ranger le visage mieux qu’un Lunarien de naissance. Il n’a pas voulu dire d’où il venait, et je n’ai pas insisté. C’était le Silence. Pendant le Silence, nul ne doit à personne le compte de son nom.  »
+«  Un autre est passé ici avec ce regard, ajouta-t-il. Il y a de cela vingt ans, peut-être davantage. Il savait se ranger le visage mieux qu’un Lunarien de naissance. Il n’a pas voulu dire d’où il venait, et je n’ai pas insisté. C’était le Silence. Pendant le Silence, nul ne doit à personne le compte de son nom.  »
 
 Aldric. Le vieil homme ne le nomma pas, et je ne le demandai pas. Mon père était passé là, s’était rangé le visage, et il était reparti vers ce que je remontais à sa suite. Fui ou choisi, Solvanes n’en savait rien  : il avait vu passer un homme masqué, il ne pouvait pas dire si cet homme avait eu peur ou s’il avait décidé, et je ne lui demandai pas de trancher. Depuis longtemps, je n’attendais plus qu’on me rende l’homme. Ce que je remontais, ce n’était pas lui. C’était sa charge, et le moyen de ne pas mourir de la porter seul, comme il en était mort, s’il en était mort.
 
