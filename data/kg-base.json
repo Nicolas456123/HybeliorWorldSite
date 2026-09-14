@@ -1284,8 +1284,8 @@
    "data": {
     "echelle": "cite",
     "periode": {
-     "debut": 9949,
-     "fin": 9949,
+     "debut": 0,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -1293,7 +1293,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "pol-0026",
@@ -2018,7 +2018,7 @@
    "type": "entite-politique",
    "name": "Thalassocratie de Navoris",
    "slug": null,
-   "summary": "Capitale Navoria (400 000 hab., engloutie en ~40 minutes lors de l'Arrachement). Plus grand empire maritime.",
+   "summary": "Capitale Navoria (400 000 hab., noyée par l'Arrachement en une journée, au terme d'une montée des eaux de plusieurs jours). Plus grand empire maritime.",
    "body": null,
    "data": {
     "continent": "Azoria + Onara + cotes",
@@ -2029,12 +2029,13 @@
      "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
-    }
+    },
+    "arbitrage": "#5 : le récit du T1 (ch. 26/50) fait foi — noyade progressive ; « ~40 min » (Era 3b) rétrogradé en variante d'archives (délégation de l'auteur, 2026-09-14)"
    },
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "pol-0055",
@@ -2216,12 +2217,17 @@
      "fin": 10200,
      "confiance": "haute",
      "methode": "fait-date"
+    },
+    "fusion": {
+     "de": "oeu-0016",
+     "date": "2026-09-14",
+     "motif": "doublon créé par le balayage corpus — même tome 3 (délégation de l'auteur, 2026-09-14)"
     }
    },
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "que-0001",
@@ -2984,8 +2990,8 @@
    "body": null,
    "data": {
     "periode": {
-     "debut": 9949,
-     "fin": 9949,
+     "debut": -1,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -2993,7 +2999,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "per-0006",
@@ -3045,7 +3051,7 @@
    "data": {
     "periode": {
      "debut": -40,
-     "fin": 9949,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -3053,7 +3059,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "per-0009",
@@ -4020,7 +4026,7 @@
    "data": {
     "periode": {
      "debut": -3000,
-     "fin": 9949,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -4028,7 +4034,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "evt-0013",
@@ -4200,7 +4206,7 @@
    "data": {
     "periode": {
      "debut": 1400,
-     "fin": 1600,
+     "fin": 1500,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -4208,7 +4214,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "evt-0022",
@@ -4711,8 +4717,8 @@
    "body": null,
    "data": {
     "periode": {
-     "debut": 9949,
-     "fin": 9949,
+     "debut": 0,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -4720,7 +4726,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "ter-0007",
@@ -35186,7 +35192,7 @@
     "echelle": "ruine",
     "periode": {
      "debut": 0,
-     "fin": 9949,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -35194,7 +35200,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "lie-0247",
@@ -36562,28 +36568,6 @@
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
    "updated_at": "2026-09-09T00:00:00.000Z"
-  },
-  {
-   "id": "oeu-0016",
-   "type": "oeuvre",
-   "name": "L'Heure qui Naît",
-   "slug": null,
-   "summary": "Tome 3 (Sillage, an 251) ; le fil de Renna s'y déroule principalement à Taldre, au pied du Mont Cendra.",
-   "body": null,
-   "data": {
-    "periode": {
-     "debut": 9952,
-     "fin": 10200,
-     "confiance": "moyenne",
-     "methode": "corpus:phrase",
-     "indice": ". Cadre principal du fil de **Renna** dans *L'Heure qui Naît* (T3 — Sillage, an 251).",
-     "fiche": "Docs/Lore/Pays/Cendara/Taldre.md"
-    }
-   },
-   "status": "canon",
-   "disclosure": "interne",
-   "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
   },
   {
    "id": "obj-0061",
@@ -45109,22 +45093,23 @@
   {
    "id": "per-0882",
    "type": "personne",
-   "name": "Le Grand Pontife de Navoris",
+   "name": "Théon Ossarin",
    "slug": null,
-   "summary": "Chef religieux de la Thalassocratie de Navoris ; à l'An 0 il ordonne les cultes normaux pour éviter la panique et meurt noyé (Jour 2). [canon]",
+   "summary": "Théon Ossarin, Grand Pontife de Navigor — chef religieux de la Thalassocratie de Navoris ; à l'An 0 il ordonne les cultes normaux pour éviter la panique et meurt noyé (Jour 2). [canon]",
    "body": null,
    "data": {
     "periode": {
-     "debut": 9949,
-     "fin": 9949,
+     "debut": 0,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
-    }
+    },
+    "arbitrage": "#6 : nom propre donné par le T1, ch. 34 (délégation de l'auteur, 2026-09-14)"
    },
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "per-0883",
@@ -45135,8 +45120,8 @@
    "body": null,
    "data": {
     "periode": {
-     "debut": 9949,
-     "fin": 9949,
+     "debut": 0,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -45144,7 +45129,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "per-0884",
@@ -45254,8 +45239,8 @@
    "body": null,
    "data": {
     "periode": {
-     "debut": 9949,
-     "fin": 9949,
+     "debut": 0,
+     "fin": 0,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -45263,7 +45248,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "con-0147",
@@ -46354,8 +46339,8 @@
    "body": null,
    "data": {
     "periode": {
-     "debut": 10200,
-     "fin": 10200,
+     "debut": 10193,
+     "fin": 10193,
      "confiance": "haute",
      "methode": "fait-date"
     }
@@ -46363,7 +46348,7 @@
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "per-0894",
@@ -55255,19 +55240,28 @@
    "start_year": 1400,
    "start_precision": "estimation",
    "start_circa": 1,
-   "end_year": 1600,
+   "end_year": 1500,
    "end_precision": null,
-   "end_circa": 0,
+   "end_circa": 1,
    "era_id": null,
    "seq": 0,
    "label": "3e quasi-extinction",
    "detail": null,
-   "data": null,
+   "data": {
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#2 : le récit du T2 fait foi — Refermeture ~1 500 (coda 1502), non ~1 600",
+     "avant": {
+      "end_year": 1600,
+      "end_circa": 0
+     }
+    }
+   },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-0098",
@@ -60127,19 +60121,29 @@
    "start_year": 1400,
    "start_precision": "estimation",
    "start_circa": 1,
-   "end_year": 1600,
+   "end_year": 1500,
    "end_precision": null,
-   "end_circa": 0,
+   "end_circa": 1,
    "era_id": null,
    "seq": 0,
-   "label": "Fléau des Failles (~1 400 → ~1 600 ap.A) — 3e quasi-extinction, Tissés réduits à ~200-300",
+   "label": "Fléau des Failles (~1 400 → ~1 500 ap.A) — 3e quasi-extinction, Tissés réduits à ~200-300",
    "detail": null,
-   "data": null,
+   "data": {
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#2 : le récit du T2 fait foi — Refermeture ~1 500 (coda 1502), non ~1 600",
+     "avant": {
+      "end_year": 1600,
+      "end_circa": 0,
+      "label": "Fléau des Failles (~1 400 → ~1 600 ap.A) — 3e quasi-extinction, Tissés réduits à ~200-300"
+     }
+    }
+   },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-0350",
@@ -78632,19 +78636,29 @@
    "start_year": 1400,
    "start_precision": "estimation",
    "start_circa": 1,
-   "end_year": 1600,
+   "end_year": 1500,
    "end_precision": null,
-   "end_circa": 0,
+   "end_circa": 1,
    "era_id": null,
    "seq": 0,
-   "label": "Le Fléau des Failles ~1400-1600 ap.A — troisième « coup » (matière du Tome 2)",
+   "label": "Le Fléau des Failles ~1400-1500 ap.A — troisième « coup » (matière du Tome 2)",
    "detail": null,
-   "data": null,
+   "data": {
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#2 : le récit du T2 fait foi — Refermeture ~1 500 (coda 1502), non ~1 600",
+     "avant": {
+      "end_year": 1600,
+      "end_circa": 0,
+      "label": "Le Fléau des Failles ~1400-1600 ap.A — troisième « coup » (matière du Tome 2)"
+     }
+    }
+   },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1052",
@@ -78769,150 +78783,199 @@
    "fact_type": "chute",
    "subject_id": "lie-0017",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "estimation",
    "start_circa": 1,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "Navoria engloutie à l'An 0 (Thalassocratie de Navoris) — ~40 min selon Era 3b / « trois jours » selon les chroniques azoriennes",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle"
+     }
+    },
+    "arbitrage": "#5 : le récit du T1 tranche pour la noyade progressive (« trois jours » azoriens) ; « ~40 min » conservé comme variante Era 3b (délégation de l'auteur, 2026-09-14)"
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1057",
    "fact_type": "chute",
    "subject_id": "lie-0246",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "estimation",
    "start_circa": 1,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "Cendral ensevelie en moins de 20 min à l'An 0 (~340 000 hab.) ; ~200 000 fuient par la Route des Cendres",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle"
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1058",
    "fact_type": "chute",
    "subject_id": "con-0146",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "annee",
    "start_circa": 0,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "Les sept cités volantes tombent à l'An 0, les Liés qui les maintenaient étant coupés net",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle"
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1059",
    "fact_type": "evenement",
    "subject_id": "ter-0006",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "estimation",
    "start_circa": 1,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "~0,3 % des Liés (les Tisses, ~270 000) gardent un lien résiduel après l'An 0",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle"
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1060",
    "fact_type": "mort",
    "subject_id": "per-0882",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "annee",
    "start_circa": 0,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "Le Grand Pontife de Navoris ordonne les cultes normaux et meurt noyé (Jour 2, An 0)",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle"
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1061",
    "fact_type": "evenement",
    "subject_id": "per-0883",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "annee",
    "start_circa": 0,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "L'Hégémone Tirash VII décrète « nul ne quitte Aethranor » quand le Grand Portail cède (H4, An 0)",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle"
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1062",
@@ -79027,50 +79090,67 @@
    "fact_type": "autre",
    "subject_id": "per-0005",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "annee",
-   "start_circa": 0,
+   "start_circa": 1,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "Vorath retourne à Baelor après l'An 0 et devient un « saint » des Silencieux",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle",
+      "start_circa": 0
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1067",
    "fact_type": "autre",
    "subject_id": "per-0008",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "annee",
    "start_circa": 0,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "Kayara survit à l'An 0 (repartie au large depuis la crique de la Dent) ; sa descendance relancera le commerce maritime en Ère V",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle"
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1068",
@@ -79108,7 +79188,7 @@
    "object_id": "pol-0001",
    "start_year": 9949,
    "start_precision": "annee",
-   "start_circa": 0,
+   "start_circa": 1,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
@@ -79118,38 +79198,53 @@
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : dépôt « bien après l'An 0 », date inconnue — 9949 (début du Sillage) conservé comme ancrage conventionnel, marqué circa",
+     "avant": {
+      "start_circa": 0
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1070",
    "fact_type": "chute",
    "subject_id": "evt-0012",
    "object_id": null,
-   "start_year": 9949,
+   "start_year": 0,
    "start_precision": "estimation",
    "start_circa": 1,
    "end_year": null,
    "end_precision": null,
    "end_circa": 0,
-   "era_id": "era7_actuelle",
+   "era_id": "era5_grande_nuit",
    "seq": 0,
    "label": "Fin de l'Âge d'Or à l'An 0 : ~120 M d'âmes, 6 empires, ~200 portails, 7 cités volantes, 9 religions",
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#3 : « An 0 » = Arrachement (0 ap.A), lu par erreur comme an 0 du Sillage (9949)",
+     "avant": {
+      "start_year": 9949,
+      "era_id": "era7_actuelle"
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1071",
@@ -79228,19 +79323,29 @@
    "start_year": 1400,
    "start_precision": "estimation",
    "start_circa": 1,
-   "end_year": 1600,
+   "end_year": 1500,
    "end_precision": null,
-   "end_circa": 0,
+   "end_circa": 1,
    "era_id": null,
    "seq": 0,
-   "label": "Fléau des Failles ~1400-1600 ap.A ; pic ~1450-1550 ; troisième quasi-extinction.",
+   "label": "Fléau des Failles ~1400-1500 ap.A ; pic ~1450-1500 ; troisième quasi-extinction.",
    "detail": null,
-   "data": null,
+   "data": {
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#2 : le récit du T2 fait foi — Refermeture ~1 500 (coda 1502), non ~1 600",
+     "avant": {
+      "end_year": 1600,
+      "end_circa": 0,
+      "label": "Fléau des Failles ~1400-1600 ap.A ; pic ~1450-1550 ; troisième quasi-extinction."
+     }
+    }
+   },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1075",
@@ -79250,9 +79355,9 @@
    "start_year": 1400,
    "start_precision": "annee",
    "start_circa": 0,
-   "end_year": 1600,
+   "end_year": 1500,
    "end_precision": null,
-   "end_circa": 0,
+   "end_circa": 1,
    "era_id": null,
    "seq": 0,
    "label": "~150 000 Tisses au seuil, 200-300 survivants ; ~40 % de la population meurt.",
@@ -79263,13 +79368,21 @@
     "methode": "corpus-explicite",
     "confiance": "haute",
     "indice_date": "« Fléau des Failles (~1 400-1 600 ap.A) », 3e quasi-extinction ; pic ~1 450-1 550",
-    "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+    "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#2 : le récit du T2 fait foi — Refermeture ~1 500 (coda 1502), non ~1 600",
+     "avant": {
+      "end_year": 1600,
+      "end_circa": 0
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1076",
@@ -79279,9 +79392,9 @@
    "start_year": 1400,
    "start_precision": "annee",
    "start_circa": 0,
-   "end_year": 1600,
+   "end_year": 1500,
    "end_precision": null,
-   "end_circa": 0,
+   "end_circa": 1,
    "era_id": null,
    "seq": 0,
    "label": "Ne frappe que les Tisses (porteurs d'un Lien résiduel) ; les non-Tisses n'en ont pas les symptômes mais subissent les Failles.",
@@ -79292,13 +79405,21 @@
     "methode": "corpus-explicite",
     "confiance": "haute",
     "indice_date": "Même événement : Fléau des Failles ~1 400-1 600 ap.A, qui ne frappe que les Tissés",
-    "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+    "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#2 : le récit du T2 fait foi — Refermeture ~1 500 (coda 1502), non ~1 600",
+     "avant": {
+      "end_year": 1600,
+      "end_circa": 0
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1077",
@@ -79726,7 +79847,7 @@
    "fact_type": "mort",
    "subject_id": "per-0893",
    "object_id": null,
-   "start_year": 10200,
+   "start_year": 10193,
    "start_precision": "annee",
    "start_circa": 0,
    "end_year": null,
@@ -79738,13 +79859,20 @@
    "detail": null,
    "data": {
     "calendrier": "regional",
-    "source_date": "libellé"
+    "source_date": "libellé",
+    "correction": {
+     "date": "2026-09-14",
+     "motif": "#9 : mort « sept ans avant le présent » (an 244 du Sillage), bible T3 §3.3 et ch. 40",
+     "avant": {
+      "start_year": 10200
+     }
+    }
    },
    "source_id": "src-0001",
    "status": "canon",
    "disclosure": "interne",
    "created_at": "2026-07-17T00:00:00.000Z",
-   "updated_at": "2026-07-17T00:00:00.000Z"
+   "updated_at": "2026-09-14T00:00:00.000Z"
   },
   {
    "id": "fac-1096",
@@ -117034,22 +117162,10 @@
    "status": "canon"
   },
   {
-   "id": "lnk-2276",
-   "rel_type": "apparait-dans",
-   "from_id": "per-0020",
-   "to_id": "oeu-0016",
-   "start_year": null,
-   "end_year": null,
-   "label": null,
-   "data": null,
-   "source_id": null,
-   "status": "canon"
-  },
-  {
    "id": "lnk-2277",
    "rel_type": "apparait-dans",
    "from_id": "lie-0247",
-   "to_id": "oeu-0016",
+   "to_id": "oeu-0004",
    "start_year": null,
    "end_year": null,
    "label": null,
@@ -131298,6 +131414,26 @@
    "from_year": null,
    "to_year": null,
    "meaning": "nom impérial de la nation Evertia"
+  },
+  {
+   "id": "ali-0201",
+   "entity_id": "oeu-0004",
+   "value": "L'Heure qui Naît",
+   "alias_status": "variante",
+   "era_id": null,
+   "from_year": null,
+   "to_year": null,
+   "meaning": "titre du tome sans le marqueur (T3) ; fiche doublon oeu-0016 fusionnée"
+  },
+  {
+   "id": "ali-0202",
+   "entity_id": "per-0882",
+   "value": "Le Grand Pontife de Navoris",
+   "alias_status": "variante",
+   "era_id": null,
+   "from_year": null,
+   "to_year": null,
+   "meaning": "titre — nommé Théon Ossarin par le T1 (ch. 34)"
   }
  ],
  "readings": [

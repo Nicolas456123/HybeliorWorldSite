@@ -126,7 +126,7 @@ Cette contraction geographique des alliances sociales dure 500-800 ans selon les
 
 ---
 
-### Le Fleau des Failles (~1 400-1 600 ap.A) — 3e quasi-extinction
+### Le Fleau des Failles (~1 400-1 500 ap.A) — 3e quasi-extinction
 
 *(dit aussi Fleau Silencieux — deux noms selon les regions)*
 
@@ -159,7 +159,7 @@ Les Failles sont **observees** comme zones de distorsion temporelle apparues ou 
 2. **Phase d'instabilite** : le temps dans la zone devient asynchrone. Un voyageur qui entre sort 3 ans plus tot, ou 50 ans plus tard. Les cycles sont imprevisibles.
 3. **Phase mobile** : les Failles de la periode du Fleau se deplacent sur le terrain a des vitesses variables (quelques km/decennie jusqu'a plusieurs km/heure). C'est cette mobilite qui rend la periode calamiteuse.
 4. **Engloutissement** : quand une Faille mobile passe sur un village, les habitants sont disperses dans le temps. Certains emergent dans le passe (generalement quelques decennies avant l'Arrachement — consideres comme des fantomes). D'autres emergent dans le futur (inconnu, aucun temoignage direct).
-5. **Fermeture** : les Failles mobiles se ferment toutes vers ~1 600 ap.A — d'un seul coup, en ce que les memoires appelleront *l'Heure qui se referme*, et non par extinction lente ; des Failles statiques subsistent. Cause non etablie — les corpus verithanis lisent une *guerison partielle de Tempora* ; les caelumites parlent d'un *retrait de l'Etranger* ; les vael'kurashes simplement d'une recomposition de la voix.
+5. **Fermeture** : les Failles mobiles se ferment toutes vers ~1 500 ap.A — d'un seul coup, en ce que les memoires appelleront *l'Heure qui se referme*, et non par extinction lente ; des Failles statiques subsistent. Cause non etablie — les corpus verithanis lisent une *guerison partielle de Tempora* ; les caelumites parlent d'un *retrait de l'Etranger* ; les vael'kurashes simplement d'une recomposition de la voix.
 
 **Zones les plus touchees :**
 
@@ -201,7 +201,7 @@ D'autres traditions retiennent l'observation (les Tisses sont specifiquement fra
 
 ---
 
-#### Bilan du Fleau (~1 400-1 600 ap.A)
+#### Bilan du Fleau (~1 400-1 500 ap.A)
 
 - **Duree** : environ 200 ans d'activite maximale des Failles mobiles, avec un pic vers ~1 450-1 550 ap.A
 - **Impact demographique global** : ~40% de la population mondiale eliminee pendant la periode (~18M a la fin de l'Ere V contre ~30M avant le Fleau — les non-Tisses subissent les destructions directes des Failles mobiles, les famines et conflits induits)
@@ -243,7 +243,7 @@ Les trois entites majeures de la Grande Nuit ne se succedent pas : elles coexist
 
 **Periodes de coexistence notable :**
 - **~800–1 400 ap.A** : les trois entites se stabilisent simultanement. Le Forgon controle les mers, Tharnok l'interieur d'Alkaran, Drahk'Nor Ilthara et Endora. Aucune guerre majeure inter-empires — chacun occupe un espace geographique distinct.
-- **~1 400–1 700 ap.A** : le Fleau des Failles frappe les trois entites differemment. Le Forgon, maritime et disperse, survit le mieux. Drahk'Nor cree les Inspecteurs de Purete et entre dans sa periode la plus sombre. Tharnok, culture anti-Lien, est relativement epargne.
+- **~1 400–1 700 ap.A** : le Fleau des Failles (~1 400 → ~1 500) puis ses contrecoups frappent les trois entites differemment. Le Forgon, maritime et disperse, survit le mieux. Drahk'Nor cree les Inspecteurs de Purete et entre dans sa periode la plus sombre. Tharnok, culture anti-Lien, est relativement epargne.
 - **~2 000–3 200 ap.A** : Tharnok decline progressivement et se fragmente en Trois Marches (~3 100 ap.A). Le Forgon et Drahk'Nor restent actifs. La Convention de Gryndor (~2 950 ap.A) reunite ces trois entites pour la premiere fois dans un cadre diplomatique.
 - **~3 200–4 800 ap.A** : seuls le Forgon et Drahk'Nor coexistent. Le Forgon se dissout en entites maritimes intermediaires a partir de ~4 000 ap.A. Drahk'Nor s'effondre lors de la Guerre du Panghor Brise (~4 800 ap.A), produisant les Triumvirats et Voivodats successeurs.
 
@@ -551,9 +551,9 @@ Le Forgon absorbe progressivement les Corsaires en les integrant dans leur Senat
 
 La Grande Nuit ne se termine pas par un evenement unique mais par une accumulation de facteurs sur ~300 ans (~2 700 → ~3 000 ap.A).
 
-**1. La Fermeture des Failles mobiles (~1 600 ap.A)**
+**1. La Fermeture des Failles mobiles (~1 500 ap.A)**
 
-Les Failles mobiles se ferment **d'un seul coup** — un instant unique, observe simultanement partout, que les memoires appelleront *l'Heure qui se referme* (les archives tardives, elles, en font volontiers une extinction progressive etalee jusque vers ~1 700). Apres ~1 600 ap.A, seules des Failles statiques et localisees subsistent (ancetres des Failles observees en Ere VII). La pression du Fleau s'allege. Les corpus verithanis lisent une *guerison partielle de Tempora* ; les Caelumites, un *retrait de l'Etranger des Heures* ; les Vael'Kurashes, simplement une recomposition du dialogue cosmique. L'observation est commune ; les lectures ne convergent pas.
+Les Failles mobiles se ferment **d'un seul coup** — un instant unique, observe simultanement partout, que les memoires appelleront *l'Heure qui se referme* (les archives tardives, elles, en font volontiers une extinction progressive etalee jusque vers ~1 700). Apres ~1 500 ap.A, seules des Failles statiques et localisees subsistent (ancetres des Failles observees en Ere VII). La pression du Fleau s'allege. Les corpus verithanis lisent une *guerison partielle de Tempora* ; les Caelumites, un *retrait de l'Etranger des Heures* ; les Vael'Kurashes, simplement une recomposition du dialogue cosmique. L'observation est commune ; les lectures ne convergent pas.
 
 **2. La Remutation du Lien (~1 800-2 500 ap.A)**
 

@@ -56,7 +56,7 @@ Les datations en milliers d'années sont des estimations rituelles dans la Mémo
 | **Arrachement** | An 0 | An 0 du Sillage | Era IV | Nom mortel donné au Cardinal observé. Lectures associées : Navigor s'absente du chant, Eldoria devient silencieuse, Tempora paraît rouvrir sa blessure (phase 2 *Rota Mundi*), Celestia-Noctis se déséquilibrent dans les rites — naissance documentée des sevrés volontaires (futurs Déliés), 17 Brèches du Néant + Cratères du Cardinal observés (canon GDD/26). Aucune chaîne causale n'est établie. |
 
 > [!important] Fléau / Fracture / Arrachement — lecture en trois phases (Rota Mundi)
-> Le *Rota Mundi* et plusieurs traditions érudites altramites lisent la **Fracture (~-1 500)**, l'**Arrachement (An 0)** et le **Fléau des Failles (~1 400-1 600 ap.A)** comme **trois phases d'un même phénomène cosmique long** — une blessure de Tempora qui s'ouvre, se rouvre et tente de cicatriser sur trois Ères. Cette lecture en trois phases est dominante chez les bibliothécaires Rota Mundi, **mais elle n'est pas universelle** : les *Vael'Kurash* y voient trois reconfigurations distinctes de la Polyphonie sans lien causal nécessaire ; les *Caelumites* les rattachent à l'« Étranger des Heures » ; les *Noctari* y voient des trahisons internes différentes ; les *Foedus Animae* parlent d'une *résonance des âmes* dont les Failles ne seraient qu'un symptôme local ; les **Déliés** y lisent trois manifestations d'une même prison consentie qui se fissure ; les **Verithani Endeuillés** refusent toute lecture unifiante. Aucune lecture n'a fait consensus. Voir [[Era 4 - L'Arrachement]] §"Lecture Rota Mundi" et [[Era 5 - La Grande Nuit]] §"Le Fléau des Failles comme troisième phase".
+> Le *Rota Mundi* et plusieurs traditions érudites altramites lisent la **Fracture (~-1 500)**, l'**Arrachement (An 0)** et le **Fléau des Failles (~1 400-1 500 ap.A)** comme **trois phases d'un même phénomène cosmique long** — une blessure de Tempora qui s'ouvre, se rouvre et tente de cicatriser sur trois Ères. Cette lecture en trois phases est dominante chez les bibliothécaires Rota Mundi, **mais elle n'est pas universelle** : les *Vael'Kurash* y voient trois reconfigurations distinctes de la Polyphonie sans lien causal nécessaire ; les *Caelumites* les rattachent à l'« Étranger des Heures » ; les *Noctari* y voient des trahisons internes différentes ; les *Foedus Animae* parlent d'une *résonance des âmes* dont les Failles ne seraient qu'un symptôme local ; les **Déliés** y lisent trois manifestations d'une même prison consentie qui se fissure ; les **Verithani Endeuillés** refusent toute lecture unifiante. Aucune lecture n'a fait consensus. Voir [[Era 4 - L'Arrachement]] §"Lecture Rota Mundi" et [[Era 5 - La Grande Nuit]] §"Le Fléau des Failles comme troisième phase".
 
 ---
 
@@ -115,10 +115,10 @@ Aucune n'a force de fait causal. Ce qui est documenté : 7 cités volantes s'éc
 3 000 ans (Mémoire d'Astravie) en **quatre phases démographiques** :
 1. **Choc immédiat (An 0 → ~50 ap.A)** : ~90M → ~70M (famines, épidémies, guerres de prédation, premières Failles)
 2. **Stabilisation longue (~50 → ~1 400 ap.A)** : ~60-70M, érosion lente, royaumes intermédiaires émergent
-3. **Quasi-extinction par le Fléau (~1 400 → ~1 600 ap.A)** : ~30M → ~18M ; Tisses spécifiquement décimés (~150 000 → ~200-300 survivants, ancêtres des Liés modernes)
-4. **Recovery lente (~1 600 → ~3 000 ap.A)** : remontée timide vers ~18M à la transition Ère VI
+3. **Quasi-extinction par le Fléau (~1 400 → ~1 500 ap.A)** : ~30M → ~18M ; Tisses spécifiquement décimés (~150 000 → ~200-300 survivants, ancêtres des Liés modernes)
+4. **Recovery lente (~1 500 → ~3 000 ap.A)** : remontée timide vers ~18M à la transition Ère VI
 
-Trois royaumes intermédiaires : **Tharnok** (Alkaran), **Forgon** (Onara/Azoria), **Drahk'Nor** (Ilthara/Endora). Le **Fléau des Failles** (~1 400-1 600 ap.A — Failles **mobiles** + épidémie mystique) est lu par *Rota Mundi* comme la phase 3 du même phénomène que la Fracture et l'Arrachement ; les autres traditions y voient des modulations distinctes (cf. note plurilectures ci-dessus). La **Convention de Gryndor** marque symboliquement la fin. **Wildlands historiquement justifiés** : la majorité des territoires d'Ère III tardive ne sont jamais réoccupés ; les ruines des cités volantes et des empires sont absorbées par la nature.
+Trois royaumes intermédiaires : **Tharnok** (Alkaran), **Forgon** (Onara/Azoria), **Drahk'Nor** (Ilthara/Endora). Le **Fléau des Failles** (~1 400-1 500 ap.A — Failles **mobiles** + épidémie mystique) est lu par *Rota Mundi* comme la phase 3 du même phénomène que la Fracture et l'Arrachement ; les autres traditions y voient des modulations distinctes (cf. note plurilectures ci-dessus). La **Convention de Gryndor** marque symboliquement la fin. **Wildlands historiquement justifiés** : la majorité des territoires d'Ère III tardive ne sont jamais réoccupés ; les ruines des cités volantes et des empires sont absorbées par la nature.
 → [[Era 5 - La Grande Nuit]]
 
 ### Ère VI — L'Ère des Nations
@@ -163,7 +163,7 @@ Le clivage **non-Liés / Liés** (D-COSMO-3 : "non-Lié" pour la majorité démo
 |---|-----|------|------------------------------------|------------|
 | 1 | **Le Grand Gel** | ~30 000 av.A | Lecture *Rota Mundi* : cycle climatique long de Climata. Lectures alternatives : retournement naturel (*Vael'Kurash*), deuil du monde (Voix-sous-Bois) | ~27% (~73% éliminés) |
 | 2 | **L'Arrachement** | An 0 (= An 0 Sillage) | Souffle Cardinal observé. Six lectures concurrentes (cf. Ère IV) ; aucune causation prouvée | ~75% du choc immédiat (120M → ~90M) ; ~60% à stabilisation Ère V phase 2 (~70M) |
-| 3 | **Le Fléau des Failles** | ~1 400-1 600 ap.A | Failles mobiles + épidémie. Lecture *Rota Mundi* : phase 3 du même phénomène cosmique que Fracture et Arrachement (lectures alternatives : reconfigurations distinctes, résonance des âmes, prison fissurée) | ~60% (~40% éliminés sur deux siècles) ; Tisses ~150 000 → ~200-300 |
+| 3 | **Le Fléau des Failles** | ~1 400-1 500 ap.A | Failles mobiles + épidémie. Lecture *Rota Mundi* : phase 3 du même phénomène cosmique que Fracture et Arrachement (lectures alternatives : reconfigurations distinctes, résonance des âmes, prison fissurée) | ~60% (~40% éliminés sur un siècle) ; Tisses ~150 000 → ~200-300 |
 
 ---
 
@@ -349,7 +349,7 @@ Cendara · Onara · Endora · Evertia · Cestra · Baelor · Ulinor · Azoria ·
 | An 0 immédiat (post-Arrachement, choc Phase 1) | ~90 millions | ~270 000 (0,3%) |
 | Stabilisation Ère V Phase 2 (~50-1 400 ap.A) | ~60-70 millions | ~150 000-200 000 |
 | Avant Fléau (~1 400 ap.A) | ~30 millions (érosion cumulative phase 2) | ~150 000 |
-| Pic Fléau Ère V Phase 3 (~1 600 ap.A) | ~18 millions | ~200-300 (Tisses décimés) |
+| Pic Fléau Ère V Phase 3 (~1 500 ap.A) | ~18 millions | ~200-300 (Tisses décimés) |
 | Recovery Ère V Phase 4 (~3 000 ap.A) | ~18 millions stabilisés | ~500 |
 | Sillage actuel (~10 200 ap.A / an 251) | 36 nations × cités tenues + wildlands inhabités | ~30% de Liés dans la population (en légère diminution depuis ~9 700 — voir débat démographique [[Era 7 - Le Monde Actuel]]) |
 
