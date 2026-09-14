@@ -306,7 +306,7 @@ Il les a pliés, maladroitement, et il les a glissés dans sa poche.
 
 «  Passez  », finit-il par dire.
 
-La vieille femme a ri. Un rire court, incrédule, pas joyeux encore, mais vivant. Pas un discours, pas une victoire, pas même une promesse. Un rire qui disait seulement que quelque chose venait de se produire, et que personne ne savait encore quoi en faire.
+La vieille femme a ri. Un rire court, incrédule, pas joyeux encore, mais vivant. Un rire qui disait seulement que quelque chose venait de se produire, et que personne ne savait encore quoi en faire.
 
 Nous sommes passés sous la Porte d’Azur.
 

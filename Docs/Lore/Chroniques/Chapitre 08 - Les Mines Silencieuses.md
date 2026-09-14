@@ -17,7 +17,7 @@ status: draft
 
 ---
 
-Les montagnes mentent sur leur distance. Trois jours durant, je les avais vues posées sur l’horizon, immuables, et je croyais tenir leur position  ; le quatrième matin, elles n’avaient pas avancé d’une ligne. Ce n’est pas une faute de relevé, c’est une propriété de la montagne  : trop haute pour l’œil, elle écrase l’espace qui la sépare de vous. J’ai passé ma vie à corriger cette erreur sur le parchemin. À pied, la correction prend des jours.
+Les montagnes mentent sur leur distance. Trois jours durant, je les avais vues posées sur l’horizon, immuables, et je croyais tenir leur position  ; le quatrième matin, elles n’avaient pas avancé d’une ligne. La faute n’est pas dans le relevé. Une montagne trop haute pour l’œil écrase l’espace qui la sépare de vous. J’ai passé ma vie à corriger cette erreur sur le parchemin. À pied, la correction prend des jours.
 
 Vingt-cinq jours de routes intérieures séparent les cols d’Iskara des Archives de Trelios, où j’avais tenu le Fragment Zéro sous ma paume, dans une salle plus froide qu’elle n’aurait dû l’être. Les routes d’Alkaran sont larges, basses, bordées de bornes de fer qui donnent le prochain village et la distance en heures de marche. Elles ne prétendent à rien d’autre qu’à l’utilité. Pour un cartographe, on ne fait pas mieux.
 
