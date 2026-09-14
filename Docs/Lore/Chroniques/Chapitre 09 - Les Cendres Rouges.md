@@ -29,7 +29,7 @@ Le soir de mon départ d’Iskara, j’avais réglé dans mon carnet une page en
 
 ---
 
-La route d’accès est pavée de basalte noir depuis la dernière colline, d’un pavage si régulier que les joints n’ont pas bougé de deux siècles. Sur les bas-côtés, des bornes de fonte donnent le numéro de lieue et, au revers, le nom de l’équipe qui a posé la section. *Section quatorze, atelier du Maître Vordhal, an trois cent douze du règne de Myr.* À Myrtam, même les routes ont un auteur. Aucun autre pays de ma route ne signe ses chemins comme des lames.
+La route d’accès est pavée de basalte noir depuis la dernière colline, d’un pavage si régulier que les joints n’ont pas bougé de deux siècles. Sur les bas-côtés, des bornes de fonte donnent le numéro de lieue et, au revers, le nom de l’équipe qui a posé la section. *Section quatorze, atelier du Maître Vordhal, an trois cent douze du règne de Myr.* À Myrtam, même les routes ont un auteur.
 
 Au poste, un garde en plaques huilées me traita comme une ligne de registre. Nom, provenance déclarée, durée du séjour. Je répondis Kharazir, puisque c’est ce que disent mes papiers. Son regard fit le tour des sacoches et s’arrêta sur les instruments de relevé.
 
@@ -39,7 +39,7 @@ Au poste, un garde en plaques huilées me traita comme une ligne de registre. No
 — Et la seconde  ?
 — Il n’y a pas de seconde.  »
 
-Mes papiers me revinrent sans qu’il ait levé les yeux. À Kharazir, un cartographe est un espion possible  ; ici, il inquiète moins qu’un contrebandier de mithral. J’avais changé de soupçon en changeant de continent, pas de statut.
+Mes papiers me revinrent sans qu’il ait levé les yeux. À Kharazir, un cartographe est un espion possible  ; ici, il inquiète moins qu’un contrebandier de mithral.
 
 ---
 
@@ -49,7 +49,7 @@ Au *Foyer de Rendal*, dans le quartier marchand, je pris une chambre assez loin 
 — C’est mieux que rien.
 — Garde-le quand même.  » Elle prit le tissu entre deux doigts, l’évalua comme une étoffe au marché, le relâcha. «  Pas parce qu’il te sauvera. Parce que tu te rappelleras que l’air n’a pas ce goût partout.  »
 
-Personne, à Haliandris, ne porte de protection. En porter une reviendrait à admettre que la ville vous fait du mal, et un Myrtamite ne l’admet pas  : il l’accepte, ce qui est autre chose, et il le range dans ses prières. Le sifflement de Dorvha, la toux sèche des forgerons, l’essoufflement des porteurs de roche ont un nom que tout le monde emploie  : le souffle d’Eldoria. L’air de la déesse dans les poumons. Une bénédiction lente.
+Personne, à Haliandris, ne porte de protection. En porter une reviendrait à admettre que la ville vous fait du mal, et un Myrtamite ne l’admet pas  : il l’accepte, et il le range dans ses prières. Le sifflement de Dorvha, la toux sèche des forgerons, l’essoufflement des porteurs de roche ont un nom que tout le monde emploie  : le souffle d’Eldoria. L’air de la déesse dans les poumons. Une bénédiction lente.
 
 «  Tu écris ça dans ton livre, constata-t-elle en me voyant noter.
 — Je note la formule.
@@ -208,7 +208,7 @@ Aucun des deux ne me demanda ce que j’en pensais. C’est cela qui me tint év
 
 ---
 
-La nuit d’avant mon départ, je dormis mal. Le sol tenait son rythme de fond, ce battement à peine décalé qu’Oryn avait nommé et que je ne pouvais plus ne pas entendre  : une boiterie si légère qu’on ne la voit pas tant qu’on ignore sur quel pied regarder. Au milieu de la nuit, je rallumai la bougie et j’ouvris le carnet à la page des quatre colonnes.
+La nuit d’avant mon départ, je dormis mal. Le sol tenait son rythme de fond, ce battement à peine décalé qu’Oryn avait nommé et que je ne pouvais plus ne pas entendre  : une boiterie si légère qu’il fallait savoir où écouter pour l’entendre. Au milieu de la nuit, je rallumai la bougie et j’ouvris le carnet à la page des quatre colonnes.
 
 Trinoria  : des vibrations dans le sol des forêts, montées des couches inférieures, depuis environ cinq ans selon les druides. La Forêt s’éveille, disent-ils.
 
@@ -220,7 +220,7 @@ Ardentris  : la pulsation des failles décalée depuis quatre ou cinq ans. La r
 
 Quatre points, quatre pays, quatre registres qui ne se parlent pas  : des druides, des archivistes, des mineurs, des prêtres. Aucun ne connaît les autres. Aucun n’emploie les mots des autres. Et quand je posai la règle sur les dates, elle passa par les quatre sans que j’aie à la forcer. Une inflexion commune, sur des phénomènes d’âges différents, depuis quatre ou cinq ans. Une droite trop droite pour une première esquisse.
 
-Un homme seul qui affirme se laisse contredire, classer, oublier  ; on me l’a fait à Rukhsar, dans les formes. Mais une forêt du nord-ouest, une cloche scellée d’Alkaran, une mine et un temple qui n’ont jamais échangé une lettre, et qui nomment la même chose au même moment dans quatre langues étrangères l’une à l’autre, cela ne se réfute pas  : il faudrait acheter le silence de continents entiers. Une côte relevée par trois navires qui ne se sont jamais croisés est plus vraie qu’une côte jurée par un seul capitaine. Le recoupement est ma seule arme, et on ne peut pas la confisquer  : elle n’est nulle part en entier. Je le note ici comme une méthode. Je m’en servirai plus tard comme d’autre chose.
+Un homme seul qui affirme se laisse contredire, classer, oublier  ; on me l’a fait à Rukhsar, dans les formes. Mais une forêt du nord-ouest, une cloche scellée d’Alkaran, une mine et un temple qui n’ont jamais échangé une lettre, et qui nomment la même chose au même moment dans quatre langues étrangères l’une à l’autre, cela ne se réfute pas  : il faudrait acheter le silence de continents entiers. Le recoupement est ma seule arme, et on ne peut pas la confisquer  : elle n’est nulle part en entier. Je le note ici comme une méthode. Je m’en servirai plus tard comme d’autre chose.
 
 Au bas de la page, j’écrivis  : *Je reconnais.* Puis je barrai le mot et j’écrivis à la place  : *Je vois.* La barre vaut mieux que la phrase.
 
@@ -236,7 +236,7 @@ Je quittai Myrtam sous les cendres.
 
 Rien d’une catastrophe. À Ardentris, certains matins, les failles lâchent une pression de trop, et les puits d’aération soufflent un voile de cendres fines qui retombe sur la ville comme une neige grise. Les habitants ne s’en émeuvent pas  : ils ouvrent leur porte, regardent le ciel, sortent le brossoir de forge et nettoient leur seuil. Un rituel de plus dans une ville de rituels.
 
-Depuis la route du plateau, je regardai la cendre descendre sur les toits noirs, sur les colonnes de fumée, sur les hommes et les femmes qui partaient au travail sous cette neige sans lever la tête. Elle se posait sans bruit, grisait les épaules, les auvents, la croupe de Pardine, et l’air sentait la pierre refroidie. En haut, il n’y avait que de la cendre, et ils avaient appris à ne pas la regarder. Je crois qu’ils savaient ce que le dessous faisait pendant ce temps, et qu’ils balayaient aussi pour ne pas l’entendre.
+Depuis la route du plateau, je regardai la cendre descendre sur les toits noirs, sur les colonnes de fumée, sur les hommes et les femmes qui partaient au travail sous cette neige sans lever la tête. Elle se posait sans bruit, grisait les épaules, les auvents, la croupe de Pardine, et l’air sentait la pierre refroidie. Je crois qu’ils savaient ce que le dessous faisait pendant ce temps, et qu’ils balayaient aussi pour ne pas l’entendre.
 
 Pardine prit le vent d’est, vers la côte et les quais d’où l’on passe à Onara. J’emportais de Myrtam une odeur dans les vêtements qui mettrait des semaines à partir, un lexique de forge dont je ne saurai jamais quoi faire, et une page de carnet dont chaque colonne, désormais, portait un nom.
 

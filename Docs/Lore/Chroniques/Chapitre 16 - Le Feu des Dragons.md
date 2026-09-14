@@ -72,7 +72,7 @@ Le soir, Rethyn m’apporte à manger et s’assied en face de moi, droite, avec
 — Comment  ?
 — Les Brûlés se parlent, dit-elle. Il y a des relais entre Veldar et Myrthorin. Un fugitif de Gryndor qui passe le col au nord, on le signale.  » Elle laisse passer un temps et reprend plus bas  : «  Pas comme une menace. Comme une information.  »
 
-La distinction vaut d’être notée  ; c’est celle de sa porte ouverte sans chaleur. La vieille rivalité avec Gryndor, les pillages, les rancunes que rien n’éteint, tout cela me vaut ici un accueil que je n’aurais reçu nulle part ailleurs. Mon statut de fugitif fait presque office de recommandation.
+C’est la même nuance que sa porte ouverte sans chaleur. La vieille rivalité avec Gryndor, les pillages, les rancunes que rien n’éteint, tout cela me vaut ici un accueil que je n’aurais reçu nulle part ailleurs. Mon statut de fugitif fait presque office de recommandation.
 
 «  Et qu’est-ce que la capitale veut d’une information comme moi  ?  »
 
@@ -91,11 +91,11 @@ Pas un mot de plus là-dessus. Chez elle, cela doit se ranger avec les réserves
 
 ---
 
-Les deux jours d’attente sont étranges d’une manière que je n’avais pas prévue. Rien ne s’y passe. Justement  : rien, et après des semaines de fuite, l’absence d’urgence me laisse désœuvré. Je guette les bruits, je prends le silence pour un présage  ; mon corps continue de faire le guet alors que plus personne ne le lui demande.
+Les deux jours d’attente sont étranges d’une manière que je n’avais pas prévue. Rien ne s’y passe, et après des semaines de fuite, l’absence d’urgence me laisse désœuvré. Je guette les bruits, je prends le silence pour un présage  ; mon corps continue de faire le guet alors que plus personne ne le lui demande.
 
 Faute de mieux, je marche autour de Veldar. La forêt qui l’entoure est de celles qui noircissent sans se consumer  : une écorce qui garde la mémoire d’un vieil incendie et sent la résine brûlée. Les habitants me suivent des yeux avec la même curiosité utile que Rethyn  ; ils calculent, ils ne jugent pas. Le second matin, depuis la lisière, j’assiste à un exercice. Trois adolescents, deux garçons et une fille, tournent entre les rochers noirs en enchaînant des postures que je ne sais pas nommer. Ce n’est pas l’école martiale de Kharazir, où l’on apprend à combattre un corps d’homme. Comprendre me prend un moment, et quand je comprends, cela me reste dans la gorge  : ces enfants ne s’entraînent pas à tuer un dragon. Ils s’entraînent à tenir debout près de lui, et à garder l’usage de leurs mains.
 
-Le cri revient le soir, plus loin que le premier jour, déformé par les parois avant d’arriver au village. Personne ne lève la tête. Pour eux, c’est le bruit du monde. Debout sur le seuil, je regarde vers le sommet et je ne vois rien. Quelque part dans ce ciel, une vie immense vole. Mon père a-t-il entendu ce son  ? A-t-il regardé cette montagne, vingt ans plus tôt, avec mes questions, ou avec d’autres que je m’échine encore à retrouver, comme on suit un sentier avant que la pluie ne l’efface  ? Rien ne répond. Quand le froid me prend les épaules, je rentre, et la question rentre avec moi.
+Le cri revient le soir, plus loin que le premier jour, déformé par les parois avant d’arriver au village. Personne ne lève la tête. Pour eux, c’est le bruit du monde. Debout sur le seuil, je regarde vers le sommet et je ne vois rien. Quelque part dans ce ciel, une vie immense vole. Mon père a-t-il entendu ce son  ? A-t-il regardé cette montagne, vingt ans plus tôt, avec mes questions, ou avec d’autres que je m’échine encore à retrouver\1 Rien ne répond. Quand le froid me prend les épaules, je rentre, et la question rentre avec moi.
 
 ---
 
@@ -140,7 +140,7 @@ Aucune surprise sur son visage. Sa surprise à lui est drakorienne  : elle rest
 
 «  Il est revenu à Myrthorin deux fois. La deuxième, il était différent. Plus calme. Comme un homme qui a trouvé la réponse à sa question et ne sait pas si c’était une bonne idée de la trouver.  »
 
-Sans rien ajouter, il reprend le chemin, et je le suis. Aucun mot juste ne rend ce que je porte à ce moment-là  ; le plus proche serait l’espoir, et ce n’est pas tout à fait cela. Mon père a marché ici, il a posé les mêmes questions, et il est reparti deux fois, la seconde comme un homme réconcilié avec une réponse qu’il regrettait. Je sais où va cette route  ; je l’ai lue avant de la prendre. Ce que je ne sais pas, c’est ce qu’elle a fait de lui. De tout ce que je suis venu chercher, c’est la seule chose qui ne tienne pas sur une carte.
+Sans rien ajouter, il reprend le chemin, et je le suis. Le carnet est toujours ouvert dans ma main, et je marche un moment sans y écrire. Mon père a marché ici, il a posé les mêmes questions, et il est reparti deux fois, la seconde comme un homme réconcilié avec une réponse qu’il regrettait. Je sais où va cette route  ; je l’ai lue avant de la prendre. Ce que je ne sais pas, c’est ce qu’elle a fait de lui. De tout ce que je suis venu chercher, c’est la seule chose qui ne tienne pas sur une carte.
 
 ---
 
@@ -187,7 +187,7 @@ Sur la table, entre nous, je pose le carnet ouvert à la page d’Ordavan. Pas l
 
 «  Ton père est venu avec les mêmes questions. Il y a vingt ans.  »
 
-Ce que je ressens à cet instant a un nom, et je me l’interdis, parce que ce serait de la satisfaction et qu’il n’y a pas de quoi. Chaque pays traversé ajoute sa pièce  : Lunaris confirme Ordavan, Foryen confirme Lunaris, le passage de mon père confirme la trajectoire. La carte se complète si bien qu’il faudrait beaucoup de discipline pour remarquer les pièces que je ne rapporte plus, depuis longtemps, parce qu’elles ne s’emboîtent pas. Rien de cela ne va dans le carnet. Je le pense seulement.
+Ce que je ressens à cet instant ressemble à de la satisfaction, et il n’y a pas de quoi. Chaque pays traversé ajoute sa pièce  : Lunaris confirme Ordavan, Foryen confirme Lunaris, le passage de mon père confirme la trajectoire. La carte se complète si bien qu’il faudrait beaucoup de discipline pour remarquer les pièces que je ne rapporte plus, depuis longtemps, parce qu’elles ne s’emboîtent pas. Rien de cela ne va dans le carnet. Je le pense seulement.
 
 «  Votre note. Elle dit ce qui arrive quand le Dormant ne s’agite plus, mais s’éveille tout à fait  ?  »
 
@@ -210,7 +210,7 @@ Thareth me laisse partir pour Lunaris le huitième jour, avec Dhorvan pour escor
 — Qu’est-ce qu’il y a dedans  ?
 — Je n’en sais rien. Je ne lis pas les lettres qu’on me confie.  »
 
-Je le crois. Le rouleau descend au fond de la sacoche, contre le carnet. Sur les routes d’Ilthara, une lettre scellée du Conseil des Liés vaut mieux que tous les papiers qu’on m’a pris à Rukhsar. Chez les Généraux Déliés de Pyrtara, ma bonne mine de cartographe fugitif n’ouvrira aucune porte. Un sceau qu’on respecte en ouvrira. Thareth me le donne pour sa raison, qui est de mesurer ce que je vaux et jusqu’où je vais. Je le prends pour la mienne. Les deux tiennent dans le même rouleau.
+Je le crois. Le rouleau descend au fond de la sacoche, contre le carnet. Sur les routes d’Ilthara, une lettre scellée du Conseil des Liés vaut mieux que tous les papiers qu’on m’a pris à Rukhsar. Chez les Généraux Déliés de Pyrtara, ma bonne mine de cartographe fugitif n’ouvrira aucune porte. Un sceau qu’on respecte en ouvrira. Thareth me le donne pour sa raison, qui est de mesurer ce que je vaux et jusqu’où je vais. Je le prends pour la mienne.
 
 La descente vers le canyon se fait en silence. Lunaris n’est pas une ville  : une entaille dans la pierre, des parois d’un gris argenté qui prennent la lumière et la gardent, quelques ermites au bord, qui ne demandent rien. Dhorvan s’arrête à l’entrée.
 
@@ -222,7 +222,7 @@ Je descends seul.
 
 Je sens la pulsation avant d’avoir posé la main  : elle monte par la plante des pieds, à travers la roche argentée, et je reconnais l’intervalle avant de le mesurer. Ce n’est pas une impression. Je tiens les relevés d’Ordavan, je tiens ceux d’Iskara, et celui-ci se pose exactement sur les leurs. Pas semblable  : le même. Même intervalle, même profondeur de fréquence, même chaleur résiduelle dans la pierre, sans rapport avec l’air. Accroupi, la paume à plat sur le sol du canyon, je sens Vey’thar battre dessous, comme un cœur que personne n’a ausculté depuis des siècles. Pas en image  : dans la paume, dans les os du poignet.
 
-Et je sais, avec cette certitude tranquille des choses qu’on perçoit avant de les raisonner, que ce n’est pas Vey’thar que je sens.
+Et je sais, avant même de le raisonner, que ce n’est pas Vey’thar que je sens.
 
 Le Dormant est là, il appartient au canyon autant que ses parois. Mais la pulsation vient d’en dessous de lui. D’un niveau que lui-même ne touche pas. D’une profondeur dont il n’est peut-être que la couche superficielle. Cette nuit-là, j’écris en tenant ma main pour que les lettres restent lisibles  : *Il existe un dessous du fond. Sous tout ce que nous appelons profondeur. Et ce dessous s’éveille. Pas vite. Pas encore. Mais le rythme s’accélère. J’ai les relevés d’Ordavan. J’ai ceux de Lunaris. La progression est calculable. Et si elle est calculable, elle a une date.*
 

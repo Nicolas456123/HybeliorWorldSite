@@ -46,7 +46,7 @@ L’automne, encore. Le même automne où les galeries d’Iskara avaient chang�
 
 L’Archidruide me reçut le troisième jour, dans une salle circulaire taillée à même le grand séquoia. Des fenêtres d’ambre y laissaient entrer une lumière dorée qui ne bougeait pas.
 
-On m’avait décrit ses yeux avant que je la voie  : ils changeaient de couleur avec les saisons, disait-on, et j’avais rangé la phrase parmi les images que les peuples se donnent d’eux-mêmes. J’avais eu tort. En ce début de printemps, les iris de Feylara avaient le vert de la végétation neuve après la pluie, un vert si dense qu’il semblait sortir d’elle plutôt que d’y entrer. Ce n’était pourtant pas cette étrangeté qui arrêtait. C’était la lucidité. Elle regardait comme quelqu’un qui a déjà compris et qui attend, sans impatience, qu’on le rattrape.
+On m’avait décrit ses yeux avant que je la voie  : ils changeaient de couleur avec les saisons, disait-on, et j’avais rangé la phrase parmi les images que les peuples se donnent d’eux-mêmes. J’avais eu tort. En ce début de printemps, les iris de Feylara avaient le vert de la végétation neuve après la pluie, un vert si dense qu’il semblait sortir d’elle plutôt que d’y entrer. Elle regardait comme quelqu’un qui a déjà compris et qui attend, sans impatience, qu’on le rattrape.
 
 L’accueil se fit en galenorien, la langue de la neutralité.
 
@@ -107,7 +107,7 @@ Mon regard descendit du gant à la mer derrière lui, grise sous le ciel d’End
 
 «  Vous êtes des nôtres  », dis-je.
 
-Ce n’était pas une accusation. C’était un relevé  ; je l’avais su en le voyant, comme on reconnaît les siens.
+C’était un relevé  ; je l’avais su en le voyant, comme on reconnaît les siens.
 
 «  On vous a envoyé parce qu’il faut un instrument vide pour en traquer un autre.  »
 
@@ -125,7 +125,7 @@ Haldria commence où la forêt s’arrête, net, avec la brutalité des frontiè
 
 Hekorinth, la capitale, se voit de loin sur son promontoire de calcaire. On l’entend avant de la voir  : le vent qui remonte des falaises, chargé de sel, et sous le vent la rumeur continue de la mer, qui ne commence ni ne finit. Les toits y sont plats, tournés vers le haut, hérissés d’instruments. La ville entière regarde le ciel.
 
-Dans cette ville, je cherchais un nom relevé deux fois avant mon départ  : une astronome du Second Observatoire, attachée à l’Ordo Caelum, à qui l’on attribuait les premières mesures des anomalies stellaires de l’année écoulée. Pour la trouver, il fallut me perdre, ce qui reste la façon la plus sûre de trouver quoi que ce soit à Hekorinth. Les rues descendent en terrasses qui ne se correspondent pas  : on les a tracées selon les angles d’observation, pas selon la circulation. Tel passage qui semble mener au port débouche sur un cadran stellaire peint contre un mur, orienté vers une coordonnée du ciel. La ville se lit avec les étoiles, et je ne savais pas encore lire celles-là.
+Dans cette ville, je cherchais un nom relevé deux fois avant mon départ  : une astronome du Second Observatoire, attachée à l’Ordo Caelum, à qui l’on attribuait les premières mesures des anomalies stellaires de l’année écoulée. Pour la trouver, il fallut me perdre. Les rues descendent en terrasses qui ne se correspondent pas  : on les a tracées selon les angles d’observation, pas selon la circulation. Tel passage qui semble mener au port débouche sur un cadran stellaire peint contre un mur, orienté vers une coordonnée du ciel. La ville se lit avec les étoiles, et je ne savais pas encore lire celles-là.
 
 Une succession de mauvais choix me déposa sur une petite place fermée  : trois façades de pierre pâle, une fontaine de nacre. Une femme était assise au bord du bassin, le visage levé, non vers l’eau, vers le ciel encore bleu du soir, avec la concentration de quelqu’un qui cherche un point précis à l’endroit où il l’a trouvé la veille. Sur ses genoux, un carnet couvert de mesures angulaires. Je les reconnus de loin  : la langue commune du ciel, la même qu’employaient les savants de Gryndor.
 
@@ -214,7 +214,7 @@ J’avais pris le feuillet et je l’avais rangé au fond du sac, sous les relev
 
 C’est là que j’ai fait ce que je ne fais pas.
 
-La décision, je crois, était prise depuis qu’elle avait posé le chiffre sur la table. Vingt-trois, confirmées. Ce n’était pas le mot d’une femme qui doute encore  ; c’était le mot d’une femme qui a écrit sa conclusion et qui attend qu’on la lui prenne des mains. L’appareil met ces noms-là sur une liste. Et cette liste-là, je sais comment elle circule.
+La décision, je crois, était prise depuis qu’elle avait posé le chiffre sur la table. Vingt-trois, confirmées. C’était le mot d’une femme qui a écrit sa conclusion et qui attend qu’on la lui prenne des mains. L’appareil met ces noms-là sur une liste. Et je sais comment cette liste-là circule.
 
 «  Vessane. Écoutez-moi une fois, et ne me demandez pas comment je le sais  », dis-je, plus vite que je ne pèse d’ordinaire mes mots.
 
@@ -222,7 +222,7 @@ Elle reposa le réflecteur.
 
 «  Les signalements académiques d’Endora ne partent pas d’ici. Ils remontent à Perivalis, et de Perivalis au relais de Haltheria, et ils partent toujours avant la nouvelle lune, parce que les courriers de nuit se lisent au fanal et qu’on choisit les nuits sombres. Nous sommes à six jours de la nouvelle lune. Si votre nom est déjà parti, vous n’y pouvez rien. S’il n’est pas parti, il partira dans six jours. Dans les deux cas, vous ne devriez pas être sur cette terrasse dans neuf jours, à la même heure, avec le même instrument, à l’endroit exact où l’on vous trouve tous les soirs.  »
 
-Sur moi se posa le regard qu’elle aurait posé sur une étoile déplacée d’un degré qu’elle n’avait pas le droit de parcourir.
+Elle me regarda comme elle aurait regardé une étoile déplacée d’un degré qu’elle n’avait pas le droit de parcourir.
 
 «  Comment un cartographe connaît-il les nuits de courrier de l’appareil académique  ? demanda-t-elle sans hausser la voix.
 — Je vous ai demandé de ne pas me le demander.
@@ -277,7 +277,7 @@ Au douzième jour, je m’embarquai pour Ilthara dans le vent du nord-est, les f
 
 Endora se refermait comme une figure qu’on quitte sans l’avoir résolue  : Sarandel, qui écoute le monde en chanson  ; Avalor, qui le lit dans les racines et dans des yeux qui changent avec les saisons  ; Haldria, qui le mesure au ciel et le voit glisser sans oser conclure. Trois écoutes du même bruit de fond. Et sur chacune, maintenant, un guetteur, un gant, une date de courrier. L’étau ne s’était pas resserré d’un coup  : il s’était donné un visage, et je savais que je le reverrais.
 
-Je repense aux yeux. Ceux de Feylara, qui prennent la couleur de la saison et voient ce qu’on porte avant qu’on l’ait posé. Ceux de Vessane, qui savent lire un déplacement d’un degré dans un ciel qu’on croyait fixe, et qui ont eu la sagesse, une fois, de se déplacer eux-mêmes. Ceux de l’homme au gant noir, qui enregistrent sans s’arrêter et ne concluent jamais  ; il attend, comme il me l’a dit, que la ligne se ferme. Trois façons de regarder. Aucune n’a vu la même chose de moi. Moi, je les ai regardées toutes les trois.
+Je repense aux yeux. Ceux de Feylara, qui prennent la couleur de la saison et voient ce qu’on porte avant qu’on l’ait posé. Ceux de Vessane, qui savent lire un déplacement d’un degré dans un ciel qu’on croyait fixe, et qui ont eu la sagesse, une fois, de se déplacer eux-mêmes. Ceux de l’homme au gant noir, qui enregistrent sans s’arrêter et ne concluent jamais  ; il attend, comme il me l’a dit, que la ligne se ferme. Trois façons de regarder. Je les ai regardées toutes les trois.
 
 ---
 

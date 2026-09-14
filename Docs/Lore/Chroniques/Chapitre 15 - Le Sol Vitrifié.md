@@ -21,7 +21,7 @@ Les sentiers qui montaient vers Ordavan avaient été abandonnés assez longtemp
 
 Rien de cela ne me fut nécessaire. Mes pieds trouvaient la pente avant mes yeux, là où le terrain se creusait juste ce qu’il fallait, là où une dalle affleurait sous la mousse pour peu qu’on sache la chercher. On appelle cela le métier. J’avais d’ailleurs le relief d’Ordavan dans mes affaires depuis longtemps, plié en quatre, tracé d’une main que je connaissais mieux que la mienne.
 
-Quelqu’un avait coupé les ponts dans une seule direction. Personne n’avait interdit la rive  : on l’avait rendue pénible à atteindre, ce qui n’est pas la même chose. Un interdit aurait exigé un motif, un nom de responsable, une ligne dans un registre où n’importe qui viendrait lire un jour ce qu’on voulait taire. La restriction, elle, n’avait rien exigé. Elle décourageait, sans laisser d’archive, et personne n’était jamais venu contester un découragement devant un bureau.
+Quelqu’un avait coupé les ponts dans une seule direction. Personne n’avait interdit la rive  : on l’avait rendue pénible à atteindre. Un interdit aurait exigé un motif, un nom de responsable, une ligne dans un registre où n’importe qui viendrait lire un jour ce qu’on voulait taire. La restriction, elle, n’avait rien exigé. Elle décourageait, sans laisser d’archive, et personne n’était jamais venu contester un découragement devant un bureau.
 
 ---
 
@@ -86,7 +86,7 @@ Deux mesures se superposaient au même endroit. La mienne  : un matin de premi�
 
 L’une, pourtant, se tourna. Pas vers moi  : vers un point au-delà de moi, comme si elle percevait, dans une couche plus lointaine encore, ce que je ne pouvais pas voir.
 
-Immobile, je notai. C’est mon métier, et c’est ma seule défense  : devant ce qui excède, relever d’abord, corriger ensuite. Je ne pris pas la mesure de ce qui m’échappait. Je mesurai ce qui se laissait mesurer, rien de plus.
+Immobile, je notai. C’est mon métier, et c’est ma seule défense  : devant ce qui excède, relever d’abord, corriger ensuite. Je mesurai ce qui se laissait mesurer, rien de plus.
 
 Ce qui se laissait mesurer, c’était le battement, et sa progression. Sous la paume posée à plat sur le verre, il montait. Pas plus fort  : plus rapproché, l’intervalle se resserrant d’une mesure à l’autre comme un pouls qui s’échauffe, et la chaleur de présence suivait la même courbe. Une valeur seule ne m’apprenait rien  ; je voulais la variation, celle qui dit où va la chose. Trois séries, donc, à trois moments du matin, à la même dalle enfoncée, comparées au calme, le dos à la limite verte. La courbe montait. Elle montait selon une pente que je connaissais, parce que je l’avais vue s’amorcer ailleurs, sur d’autres pierres, et que le carnet la portait déjà tracée.
 
@@ -130,7 +130,7 @@ Sans répondre, elle me regarda un moment. Les autres tenaient leur cercle, asse
 
 Elle m’examinait à la manière de son pays, non pour jauger une menace, mais pour accumuler des données. Mes bottes. Le carnet. Ma façon de me tenir, qui n’était pas celle d’un homme surpris en faute. Je me tenais, je le sais, comme quelqu’un qui attendait qu’on arrive. C’est un défaut de posture que je n’ai jamais su corriger, et il m’a plus servi que desservi.
 
-Elle tendit la main vers le carnet. Pas un ordre  : une demande qui n’attendait pas de refus, ce qui revient au même sans en avoir la brutalité.
+Elle tendit la main vers le carnet. Pas un ordre  : une demande qui n’attendait pas de refus.
 
 Je le lui donnai. Elle tourna les pages avec un soin d’archiviste, s’arrêta sur les relevés du matin, la feuille neuve, nette, datée du jour. Rien qui compromît personne. Rien qui portât la date d’une autre fois. J’avais été prudent la veille, à l’heure exacte où il le fallait, et le carnet qu’elle feuilletait était propre comme je l’avais voulu propre.
 
@@ -182,7 +182,7 @@ Elle me regarda comme on regarde un enfant qui pose la question de travers.
 — Comment appelez-vous ça  ?
 — Ceux du bas disent *ceux qui entendent*.  » Elle cracha de côté, sans mépris. «  Un joli nom pour dire qu’on ne sait rien. Moi, je n’entends rien. Je pars parce que ceux qui entendent sont partis devant, et que je ne vais pas faire la fière derrière un chien.  »
 
-Puis elle reprit son chargement, et nous reprîmes la route. Elle n’avait pas dit *j’ai peur*. Elle avait dit *le sol ne veut plus de nous*, ce qui n’est pas une peur  : c’est une lecture. Une lecture plus juste que celle du Conseil des Sages, qui borde le dossier et l’appelle clos.
+Puis elle reprit son chargement, et nous reprîmes la route. Elle n’avait pas dit *j’ai peur*. Elle avait dit *le sol ne veut plus de nous*. C’est une lecture, et plus juste que celle du Conseil des Sages, qui borde le dossier et l’appelle clos.
 
 Au hameau suivant, le plus âgé des Gardes compta les toits du regard et dit seulement  :
 
@@ -192,7 +192,7 @@ Au hameau suivant, le plus âgé des Gardes compta les toits du regard et dit se
 
 Les bêtes parties devant  : je l’avais déjà relevé ailleurs, chaque fois vers l’extérieur, chaque fois vers le loin. Le soir, j’ouvris le carnet et je fis ce que je sais faire. Deux colonnes. À gauche, l’ancien  : la Faille, le verre, cinquante-huit ans, un événement qu’on peut border, dater, ranger dans un dossier appelé *Enquête*. À droite, le récent  : les charrettes de cette saison, le sol qui respire mal, les hameaux de ce mois-ci. Le Syndrome confond les deux sous un seul nom, parce qu’il est plus commode de croire qu’une plaie ancienne saigne encore que d’admettre qu’une autre s’ouvre à côté, toute neuve.
 
-Dire laquelle des deux lectures est la bonne ne m’appartient pas. Ce n’est pas mon travail de cartographier ce que je ne peux pas voir. Mon travail est de tenir les deux colonnes propres, séparées, et de refuser la tentation du trait qui les relierait. Quelqu’un d’autre tirera ce trait plus tard, avec de meilleurs yeux que les miens, ou avec les mêmes et davantage de courage.
+Dire laquelle des deux lectures est la bonne ne m’appartient pas. Mon travail est de tenir les deux colonnes propres, séparées, et de refuser la tentation du trait qui les relierait. Quelqu’un d’autre tirera ce trait plus tard, avec de meilleurs yeux que les miens, ou avec les mêmes et davantage de courage.
 
 ---
 

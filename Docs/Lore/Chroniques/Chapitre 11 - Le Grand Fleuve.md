@@ -17,7 +17,7 @@ status: draft
 
 ---
 
-Je quittai Mosrack par l’eau, et plus tôt que je ne l’aurais voulu. Deux nuits avant, sur les docks, un homme au gant de cuir noir m’avait acculé contre l’eau d’un bassin, et je ne devais d’écrire encore ces lignes qu’à une ruelle où je m’étais engouffré en ayant l’air de la fuir, et que j’avais choisie. Depuis, je cherchais ce gant dans chaque foule. Dans les montagnes d’Alkaran, j’avais essayé de mettre de la distance en marchant plus vite que ceux qui me suivaient, et j’avais appris ce que valait la méthode contre des gens qui ne dorment pas. Restait l’autre méthode  : se dissoudre dans quelque chose de plus grand que soi. Le Grand Fleuve d’Onar fut ce que je trouvai de plus grand.
+Je quittai Mosrack par l’eau, et plus tôt que je ne l’aurais voulu. Deux nuits avant, sur les docks, un homme au gant de cuir noir m’avait acculé contre l’eau d’un bassin, et je ne devais d’écrire encore ces lignes qu’à une ruelle où je m’étais jeté avec l’air de la panique, et que j’avais choisie. Depuis, je cherchais ce gant dans chaque foule. Dans les montagnes d’Alkaran, j’avais essayé de mettre de la distance en marchant plus vite que ceux qui me suivaient, et j’avais appris ce que valait la méthode contre des gens qui ne dorment pas. Restait l’autre méthode  : se dissoudre dans quelque chose de plus grand que soi. Le Grand Fleuve d’Onar fut ce que je trouvai de plus grand.
 
 À Mosrack, où j’avais quitté la mer, l’Onar n’était encore qu’une eau large et grise entre des quais de fonte. Deux jours plus bas, il était devenu une route. Non pas une route qui longe l’eau  : une route qui est l’eau. Des barges à fond plat descendaient le courant en files de six ou sept, amarrées bout à bout, gouvernées par un seul homme debout à l’arrière du convoi. D’autres remontaient, halées depuis la berge par des attelages de bœufs qui marchaient dans un sillon creusé par des siècles de sabots. Le trafic ne cessait ni le jour ni la nuit  ; aux étapes, les haleurs se relayaient sans que les convois s’arrêtent, et les fanaux des barges descendantes croisaient dans le noir ceux des barges montantes, deux chapelets de feux qui se frôlaient sans se mêler.
 
@@ -43,7 +43,7 @@ La troisième nuit, Halvern devint moins loquace. Nous passions un large méandr
 — Et ils disent quoi  ?
 — Les prudents, que le lit se déplace. De la géologie  ; on refera les cartes. Les autres, que le fleuve écoute quelque chose sous lui et qu’il ralentit pour mieux entendre.  » La barre demanda une correction  ; il la donna sans me regarder. «  Moi, je note les passes où il traîne et je décale mes horaires. Le reste, je le laisse aux vieux.  »
 
-À mon tour, je notai les passes, et l’automne, et le mot hésiter. Je posai le tout à plat sur la page, sans le relier à rien, comme j’avais posé les sons des galeries d’Iskara, comme j’avais posé les vingt ans de la montagne qui respire. Mes points se rejoignaient pourtant, ces temps-ci, plus vite que je ne les traçais, et je mis cette hâte sur le compte du fleuve, qui berce et qui trompe.
+À mon tour, je notai les passes, et l’automne, et le mot hésiter. Je posai le tout à plat sur la page, sans le relier à rien, comme j’avais posé les sons des galeries d’Iskara, comme j’avais posé les vingt ans de la montagne qui respire. Mes points se rejoignaient pourtant, ces temps-ci, plus vite que je ne les traçais, et je mis cette hâte sur le compte du fleuve.
 
 Je ne dis pas à Halvern que j’avais déjà lu le mot hésiter, d’une autre main que la mienne, à propos d’une eau qui n’était pas celle-ci. Mon père avait consigné, vingt ans plus tôt, des courants qui manquaient leurs rendez-vous. Halvern avait assez du fleuve  ; je gardai le reste pour moi, le remerciai de la leçon et j’allai dormir contre les sacs d’orge.
 
@@ -55,7 +55,7 @@ On l’entend avant de la voir. Un grondement continu monte du delta, fait de tr
 
 «  Si tu veux redescendre un jour, cherche les Grainiers, dit-il. Et ne t’attache pas. Personne ne vit à Tyndara. On y passe, on y repasse, c’est tout.  »
 
-Sur le moment, je pris cela pour une politesse de marinier. J’ai compris depuis qu’il me décrivait un endroit sans mémoire, où personne ne reste assez longtemps pour qu’on lui doive quelque chose, et pourquoi j’y étais venu.
+Sur le moment, je pris cela pour une politesse de marinier. J’ai compris depuis qu’il me décrivait un endroit sans mémoire, où personne ne reste assez longtemps pour qu’on lui doive quelque chose. C’était pour cela que j’y étais venu.
 
 ---
 
@@ -65,7 +65,7 @@ C’est ainsi que je trouvai le comptoir de Maldrix.
 
 Sa boutique de cartes occupait une rue montante de la seconde rangée, à l’angle d’un passage couvert où des marchands de quatrième ordre défendaient des produits médiocres avec des arguments superbes. L’enseigne était sobre, un compas ouvert peint sur bois, sans autre promesse. Par la porte entrouverte, on apercevait des rangées de tubes de cuir où dormaient des rouleaux de parchemin. Je ralentis devant cette porte le premier jour, puis le deuxième. Le troisième, je la poussai, cédant à une curiosité de métier que je croyais éteinte.
 
-Maldrix Thoen avait passé la cinquantaine et recevait chaque parole comme une pièce dont il vérifiait le titre. Quand il sut que j’avais été formé à la Guilde des Cartographes de Kharazir, il ne s’attendrit pas  : il me posa une question précise sur la triangulation d’un lac que je ne nommerai pas ici. Ce n’était pas une politesse. C’était un essai, la manière de vérifier que je valais le temps qu’il m’accorderait. Ma réponse fut juste. Son regard se relâcha d’un cran, celui qu’on accorde à un confrère, pas un de plus.
+Maldrix Thoen avait passé la cinquantaine et recevait chaque parole comme une pièce dont il vérifiait le titre. Quand il sut que j’avais été formé à la Guilde des Cartographes de Kharazir, il ne s’attendrit pas  : il me posa une question précise sur la triangulation d’un lac que je ne nommerai pas ici. C’était un essai  : il vérifiait que je valais le temps qu’il m’accorderait. Ma réponse fut juste. Son regard se relâcha d’un cran, celui qu’on accorde à un confrère, pas un de plus.
 
 «  Vous cherchez du travail  ? demanda-t-il.
 — Je cherche des renseignements.
@@ -99,7 +99,7 @@ Un commandant iskaran m’avait dit la même phrase, d’un avis semblable, dans
 «  Combien vaut ma tête  ? demandai-je.
 — Rien.  » Il parut presque déçu pour moi. «  Pas de prix sur vous. On demande un renseignement, pas un cadavre. C’est plus poli et cela travaille mieux  : un prix attire les brutes et laisse des corps qu’il faut expliquer  ; un service entre gens de bien n’attire personne et ne laisse rien.  » Il rangea le feuillet dans son tube. «  Vous devriez être soulagé. Vous ne l’êtes pas.  »
 
-Mon visage m’avait trahi, ce qu’il ne fait presque jamais. Ce n’était pas du soulagement, en effet. Je venais d’apprendre ce que j’étais venu acheter  : que la note me précédait, par quels comptoirs elle passait, donc où elle m’attendrait ensuite. Maldrix vendait deux renseignements ce jour-là, et je n’avais payé que le second  : non pas ce que valait ma tête, mais par où passait le message, pour marcher là où il n’était pas encore. On n’achète pas ces deux choses-là avec le même visage. Le mien s’était détendu d’un rien, à contretemps, et Maldrix l’avait vu.
+Mon visage m’avait trahi, ce qu’il ne fait presque jamais. Ce n’était pas du soulagement, en effet. Je venais d’apprendre ce que j’étais venu acheter  : que la note me précédait, par quels comptoirs elle passait, donc où elle m’attendrait ensuite. Maldrix vendait deux renseignements ce jour-là, et je n’avais payé que le second  : non pas ce que valait ma tête, mais par où passait le message, pour marcher là où il n’était pas encore. Il s’était détendu d’un rien, à contretemps, et Maldrix l’avait vu.
 
 Il ne fit aucun commentaire et rangea ma pièce. Il ne me demanda pas non plus pourquoi un homme sourit en apprenant qu’on le cherche. Il le nota quelque part, je suppose, pour plus tard.
 
@@ -111,7 +111,7 @@ Avant de quitter le comptoir, je posai la question pour laquelle j’étais rée
 
 «  Ces notes de courtoisie, dis-je. Elles ne visent pas que des cartographes déchus. Qui a-t-on signalé d’autre, ces derniers mois, dans les comptoirs de Tyndara  ?  »
 
-Maldrix me regarda avec la lenteur d’un homme qui recalcule un prix. Puis il jugea, je crois, que la question lui apprenait davantage sur moi que sa réponse ne m’apprendrait, et que le solde penchait de son côté.
+Maldrix me regarda avec la lenteur d’un homme qui recalcule un prix. Puis il jugea, je crois, que ma question lui apprenait plus que sa réponse ne m’apprendrait.
 
 «  Des savants, surtout. Des gens qui posaient des questions sur des choses anciennes.  » Il énuméra sans emphase  : «  Un épigraphiste d’Endora, qui travaillait sur une écriture que personne ne sait lire. Un vieux naturaliste de Sarandel. Un archiviste de Haldria, qui reliait des dates.  » Il s’arrêta sur un nom. «  Et un homme qui posait vos questions, à ce qu’on m’a dit. Un lettré de passage. Il cherchait des relevés de sols vitrifiés et des villages que leurs habitants avaient quittés sur un pressentiment. On l’appelait Naïm. Il est reparti vers l’ouest il y a deux mois.  »
 
@@ -140,7 +140,7 @@ Trois pas plus loin, il se retourna.
 
 «  Toi aussi, tu vends quelque chose.
 — Je ne vends rien, dis-je.
-— Tout le monde vend quelque chose, ici. Ceux qui disent le contraire vendent seulement moins bien.  » Il regarda mon carnet, pas moi. «  Toi, tu vends ce que tu as vu. Mais tu ne connais pas encore le prix.  »
+— Tout le monde vend quelque chose, ici.  » Il regarda mon carnet, pas moi. «  Toi, tu vends ce que tu as vu. Mais tu ne connais pas encore le prix.  »
 
 Il repartit en courant vers son client suivant. Sa phrase était plus juste qu’il ne pouvait le savoir, et fausse d’un seul mot. Je ne vendais pas ce que j’avais vu  : je le donnais, au plus grand nombre de mains possible, et je payais même pour que cela circule. L’enfant avait vu le geste. Il en avait lu le sens à l’envers, comme tout le monde le lirait, et cet envers me couvrait mieux qu’un mensonge  : tant qu’on me croirait vendeur, personne ne me soupçonnerait de donner.
 
@@ -187,7 +187,7 @@ Il me rendit mon regard, et j’y vis passer un moment que je connais bien, pour
 
 Il glissa mes quarante-trois pages dans une sacoche de service, y ajouta une note que je ne lus pas, et me rendit le reste  : le carnet, les instruments, le sac vidé de sa seule pièce sans valeur marchande. «  Vous pouvez descendre à la mer. Le convoi part à la marée.  »
 
-Je le remerciai, et sincèrement, je crois, ce qui dut lui paraître le comble de l’insolence ou de la sottise. Ce n’était ni l’un ni l’autre. On m’ôtait une copie  ; il en descendait cinq autres à la même heure, par cinq bras du fleuve, vers cinq ports dont Merovis ignorait les noms, portées par des mariniers que sa note ne mentionnait pas, parce que sa note connaissait l’homme et pas le fleuve. S’ils avaient su décrire ce paquet-là, c’est qu’un maillon avait cédé quelque part en amont, entre les plumes de Lumasar et les cheminées de Myrtam, et leur en avait donné la forme. Ils prenaient le seul paquet qu’ils savaient reconnaître  : le mieux surveillé de tous, et le moins important, puisqu’il était identique aux six autres. On ne saisit une chose qui se réplique qu’une fois de trop tard.
+Je le remerciai, et sincèrement, je crois, ce qui dut lui paraître le comble de l’insolence ou de la sottise. Ce n’était ni l’un ni l’autre. On m’ôtait une copie  ; il en descendait cinq autres à la même heure, par cinq bras du fleuve, vers cinq ports dont Merovis ignorait les noms, portées par des mariniers que sa note ne mentionnait pas, parce que sa note connaissait l’homme et pas le fleuve. S’ils avaient su décrire ce paquet-là, c’est qu’un maillon avait cédé quelque part en amont, entre les plumes de Lumasar et les cheminées de Myrtam, et leur en avait donné la forme. Ils prenaient le seul paquet qu’ils savaient reconnaître  : le mieux surveillé de tous, et le moins important, puisqu’il était identique aux six autres.
 
 Je n’en dis rien à Merovis. J’avais posé la vérité sur la table de la douane, à voix haute, devant l’homme chargé de la chercher. Il ne savait pas la lire.
 

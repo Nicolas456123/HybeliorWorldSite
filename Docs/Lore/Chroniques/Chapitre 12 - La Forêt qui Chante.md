@@ -59,7 +59,7 @@ Il releva la tête. Pas de surprise dans son regard  ; plutôt de la reconnaiss
 — C’est une façon de le dire.
 — C’est ce que je fais.  »
 
-Je croyais avoir deviné vers où sa descente voulait basculer  : un point que le chant n’avait pas encore touché, mais dont il connaissait déjà l’adresse. Je l’ai gardé pour moi.
+Je croyais avoir deviné où sa descente voulait aller  : un point que le chant n’avait pas encore touché, mais dont il connaissait déjà l’adresse. Je l’ai gardé pour moi.
 
 ---
 
@@ -161,7 +161,7 @@ Il hocha lentement la tête, sans approuver.
 
 Restait à obtenir de Sarandel ce que j’étais venu y chercher, et c’était le plus malaisé.
 
-Je voulais emporter le chant. Pas les paroles, que je ne comprenais pas  : l’architecture. La montée, la suspension, la descente décalée. Un relevé du Souffle tel qu’une voix humaine le rend audible. Une preuve, si le mot convient à ce qui ne s’écrit pas. La prendre n’était pas le difficile. Le difficile, c’est qu’ici on ne fixe rien.
+Je voulais emporter le chant. Pas les paroles, que je ne comprenais pas  : l’architecture. La montée, la suspension, la descente décalée. Un relevé du Souffle tel qu’une voix humaine le rend audible. Une preuve, si le mot convient à ce qui ne s’écrit pas. Le difficile n’était pas de la prendre. Ici, on ne fixe rien.
 
 J’ai fini par le demander à Brennan, sur le seuil de Galdaris, mon carnet à la main.
 
@@ -188,7 +188,7 @@ Il rit, bas, et ce rire accorda ce que ses mots retenaient encore. Il chanta len
 
 J’ai regardé la portée inachevée, cette montée qui s’ouvrait sur un blanc. Je n’y ai rien inscrit.
 
-L’ironie du marché, je l’ai gardée pour moi. Brennan refusait d’écrire son chant, de peur de l’arrêter en chemin. Moi, je passais mes nuits à écrire ce que je voyais, à le recopier en plusieurs mains, à le confier à des barges et à des scriptoriums, pour qu’en me faisant taire on ne fasse pas taire ce que j’avais vu. La même peur nous poussait en sens contraires. Je n’ai pas cherché lequel de nous deux elle conseillait le mieux.
+J’ai gardé pour moi l’ironie du marché. Brennan refusait d’écrire son chant, de peur de l’arrêter en chemin. Moi, je passais mes nuits à écrire ce que je voyais, à le recopier en plusieurs mains, à le confier à des barges et à des scriptoriums, pour qu’en me faisant taire on ne fasse pas taire ce que j’avais vu. La même peur nous poussait en sens contraires.
 
 ---
 
@@ -196,7 +196,7 @@ La frontière de Sanvara commence là où les chênes changent. De tout mon voya
 
 Le bois vibrait.
 
-Pas comme les arbres de Trinoria, dont la pulsation était lente, presque végétale, la respiration d’un organisme qui vit à un autre rythme que le nôtre. Ici, c’était plus rapide et plus dense  : un fil tendu qui répond à une traction lointaine. Au bout de quelques secondes, j’ai retiré la main. La sensation venait de passer le point où elle reste agréable.
+Pas comme les arbres de Trinoria, dont la pulsation était lente, presque végétale, la respiration d’un organisme qui vit à un autre rythme que le nôtre. Ici, c’était plus rapide et plus dense  : un fil tendu qui répond à une traction lointaine. Au bout de quelques secondes, j’ai retiré la main. Ce n’était plus agréable.
 
 «  La forêt de Sanvara est en écoute permanente, dit Brennan. Elle sent tout ce qui la traverse.  »
 
@@ -230,7 +230,7 @@ Mes instruments pendaient à ma ceinture  : le compas, l’octant, les règles 
 
 «  La forêt dit que vous êtes vide.  » Puis, devant ma figure  : «  Pas en mauvaise part. Vide comme un instrument qu’on n’a pas encore accordé. Elle ne sait pas encore ce que vous êtes fait pour jouer.  »
 
-J’ai noté la phrase le soir même, telle quelle. Vide. À Kharazir, ce genre de mot me connaissait. Délié  : celui de ma manche gauche depuis mes treize ans, et la Guilde venait de lui trouver un sens de plus en me reprenant le brevet. Détaché, au fond, des liens invisibles qui rattachent un homme à sa communauté, à sa tradition, à la résonance commune où les autres puisent sans y penser. On m’avait laissé entendre, jamais en face, que je n’avais pas la qualité de fond qu’exigent les cercles supérieurs de la cartographie, ceux où les cartes cessent de figurer des routes pour figurer des lignes de force. Sur le moment, je n’avais pas compris le reproche. Ce soir-là, je le comprenais mieux.
+J’ai noté la phrase le soir même, telle quelle. Vide. À Kharazir, je connaissais ce genre de mot. Délié  : celui de ma manche gauche depuis mes treize ans, et la Guilde venait de lui trouver un sens de plus en me reprenant le brevet. Détaché, au fond, des liens invisibles qui rattachent un homme à sa communauté, à sa tradition, à la résonance commune où les autres puisent sans y penser. On m’avait laissé entendre, jamais en face, que je n’avais pas la qualité de fond qu’exigent les cercles supérieurs de la cartographie, ceux où les cartes cessent de figurer des routes pour figurer des lignes de force. Sur le moment, je n’avais pas compris le reproche. Ce soir-là, je le comprenais mieux.
 
 Melle, elle, ne parlait pas d’un manque. L’instrument qu’elle décrivait n’était pas brisé  ; personne ne l’avait encore accordé, voilà tout. L’exil ne m’avait peut-être pas coupé de la résonance commune  : il m’avait seulement laissé sans intermédiaire entre elle et moi. Grâce ou charge, je n’en savais rien, et je l’ai écrit sans conclure.
 
@@ -260,4 +260,4 @@ Restait une pensée que je n’ai pas mise dans le carnet, parce que je ne savai
 
 *En nous séparant, il m’a dit une phrase que je garde telle qu’il l’a formée  : «  Vous écoutez d’une façon que je ne croyais pas possible chez quelqu’un qu’on n’a jamais formé. Ce n’est pas de la technique. Je ne sais pas ce que c’est. Ne l’arrêtez pas.  »*
 
-*Je ne sais pas non plus ce que c’est, et je me garderai de le décider. Demain, je pars pour Avalor, le seul pays, dit-on, où les esprits des arbres sont sujets de droit. Dans mon bagage, une ligne inachevée sur une portée, et à son bout un blanc que je n’ai pas rempli. C’est peu, pour un homme qui prétend collecter des preuves. Mais un blanc noté au bon endroit vaut mieux qu’une note fausse tenue pour vraie. Brennan me l’a appris sans le vouloir. Je le lui rends ici, à défaut de pouvoir le lui dire.*
+*Je ne sais pas non plus ce que c’est, et je me garderai de le décider. Demain, je pars pour Avalor, le seul pays, dit-on, où les esprits des arbres sont sujets de droit. Dans mon bagage, une ligne inachevée sur une portée, et à son bout un blanc que je n’ai pas rempli. C’est peu, pour un homme qui prétend collecter des preuves. Mais un blanc noté au bon endroit vaut mieux qu’une note fausse tenue pour vraie. Brennan me l’a appris sans le vouloir.*
