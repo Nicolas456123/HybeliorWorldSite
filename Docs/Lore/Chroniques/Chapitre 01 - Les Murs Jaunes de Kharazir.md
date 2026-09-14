@@ -88,7 +88,7 @@ Elle recula d’un pas dans le couloir, hésita.
 «  Écris-moi. Pas par la malle, ils la lisent. Passe par les Errants. Un mot de temps en temps, que je sache où tu es.
 — Je t’écrirai.  »
 
-C’était vrai. Depuis, je lui ai écrit plus qu’à quiconque. Elle est descendue sans que l’escalier fasse un bruit, et personne ne lui avait appris cela aux Archives. Je l’ai noté aussi.
+C’était vrai. Depuis, je lui ai écrit plus qu’à quiconque. Elle est descendue sans que l’escalier fasse un bruit, et personne ne lui avait appris cela aux Archives. Je l’ai noté aussi. J’espère, pour elle, qu’on n’a pas remarqué son passage.
 
 Après son départ, je n’ai pas rallumé. Assis près de la fenêtre, j’ai écouté la ville. On croit qu’une ville se tait, la nuit  ; elle change de bruits. Le fleuve montait plus clair qu’au jour. Un chien de la paroi est répondait à un autre chien. Et là-dessous, régulier, patient, le pas des hommes postés dans la rue des Cartographes. Deux, peut-être trois. Ils ne cherchaient pas vraiment à se cacher  : on voulait que je les sache là.
 
