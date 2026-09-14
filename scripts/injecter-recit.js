@@ -38,8 +38,12 @@ const DECALAGE = 9949;
 const doc = JSON.parse(fs.readFileSync(BASE, 'utf8'));
 const evts = JSON.parse(fs.readFileSync(EVTS, 'utf8')).evenements;
 
-// le fichier d'événements dit « chroniques », le graphe dit oeu-0013
-const OEUVRES = { chroniques: 'oeu-0013' };
+// le fichier d'événements dit « chroniques » ou « t1 », le graphe dit oeu-XXXX
+const OEUVRES = { chroniques: 'oeu-0013', t1: 'oeu-0002', t2: 'oeu-0003', t3: 'oeu-0004' };
+const NOM_OEUVRE = {
+  'oeu-0013': 'Chroniques', 'oeu-0002': 'T1 — La Septième Heure',
+  'oeu-0003': 'T2 — L’Heure qui se Referme', 'oeu-0004': 'T3 — L’Heure qui Naît',
+};
 
 // ── résolution des noms ───────────────────────────────────────────────────
 const plat = (s) => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
@@ -52,7 +56,7 @@ for (const a of doc.aliases || []) {
 }
 function resoudre(nom, types) {
   if (!nom) return null;
-  if (/^(per|lie|pol|oeu|evt|obj|rel|div|lig)-\d+$/.test(nom)) return doc.entities.find((e) => e.id === nom) || null;
+  if (/^[a-z]{3}-\d+$/.test(nom)) return doc.entities.find((e) => e.id === nom) || null;
   // dédoublonner par id : un alias identique au nom ferait croire à une homonymie
   const c = [...new Map((parNom[plat(nom)] || [])
     .filter((e) => !types || types.includes(e.type))
@@ -62,12 +66,31 @@ function resoudre(nom, types) {
 }
 
 // ── datation ─────────────────────────────────────────────────────────────
+// Trois façons de dater un événement du récit :
+//   jour: N           — Chroniques seulement (ancrage 910 jours de la bible)
+//   annee_sillage: N  — année du Sillage (an 251 = 10 200 ap.A)
+//   annee_absolue: N  — année absolue ap.A/av.A (T1 : An 0 ; T2 : ~1500)
 function annee(evt, oeuvre) {
-  if (evt.annee_sillage != null) return { sillage: evt.annee_sillage };
+  if (evt.annee_absolue != null) return { abs: evt.annee_absolue, cal: 'absolu' };
+  if (evt.annee_sillage != null) return { sillage: evt.annee_sillage, abs: evt.annee_sillage + DECALAGE, cal: 'sillage' };
   if (evt.jour != null && oeuvre === 'oeu-0013') {
-    return { sillage: 248 + Math.floor((305 + evt.jour - 1) / 365) };
+    const s = 248 + Math.floor((305 + evt.jour - 1) / 365);
+    return { sillage: s, abs: s + DECALAGE, cal: 'sillage' };
   }
   return null;
+}
+
+// l'ère d'une année : parmi celles qui la contiennent, la plus récente —
+// l'An 0 appartient à la Grande Nuit (qui COMMENCE à l'Arrachement), pas à
+// l'Âge du Lien (qui s'y achève)
+const eres = doc.entities.filter((e) => e.type === 'ere' && e.data && e.data.startYear != null);
+function ereDe(an) {
+  let m = null;
+  for (const e of eres) {
+    if (an < e.data.startYear || an > (e.data.endYear == null ? 1e15 : e.data.endYear)) continue;
+    if (!m || e.data.startYear > m.data.startYear) m = e;
+  }
+  return m ? m.id : null;
 }
 
 // ── identifiants ─────────────────────────────────────────────────────────
@@ -108,11 +131,13 @@ for (const evt of evts) {
   const oeuvre = OEUVRES[evt.oeuvre] || evt.oeuvre || 'oeu-0013';
   const an = annee(evt, oeuvre);
   if (!an) { stats.sansDate++; continue; }
-  const abs = an.sillage + DECALAGE;
+  const abs = an.abs;
 
-  // sujet_id tranche les homonymies réelles (Evertia archipel vs nation)
+  // sujet_id tranche les homonymies réelles (Evertia archipel vs nation).
+  // Repli d'un sujet non résolu : le narrateur pour les Chroniques (Sorin),
+  // l'œuvre elle-même pour les tomes (leurs POV tournent).
   const resolu = (evt.sujet_id ? resoudre(evt.sujet_id, null) : null) || resoudre(evt.sujet, null);
-  const sujet = resolu || resoudre('Sorin Valthen', ['personne']);
+  const sujet = resolu || (oeuvre === 'oeu-0013' ? resoudre('Sorin Valthen', ['personne']) : null);
   if (!resolu) { stats.sujetsNonResolus++; nonResolus[evt.sujet] = (nonResolus[evt.sujet] || 0) + 1; }
   const objet = evt.objet ? resoudre(evt.objet, null) : null;
 
@@ -125,11 +150,11 @@ for (const evt of evts) {
     object_id: objet ? objet.id : null,
     start_year: abs, start_precision: 'estimation', start_circa: 1,
     end_year: null, end_precision: null, end_circa: 0,
-    era_id: 'era7_actuel', seq: evt.chapitre || 0,
+    era_id: ereDe(abs), seq: evt.chapitre || 0,
     label: evt.titre + (evt.sujet && !resolu ? ` — ${evt.sujet}` : ''),
-    detail: (evt.detail || '') + ` [Chroniques, ch. ${evt.chapitre}${evt.jour != null ? ', jour ' + evt.jour : ''} — an ${an.sillage} du Sillage]`,
+    detail: (evt.detail || '') + ` [${NOM_OEUVRE[oeuvre] || oeuvre}, ch. ${evt.chapitre}${evt.jour != null ? ', jour ' + evt.jour : ''} — ${an.sillage != null ? 'an ' + an.sillage + ' du Sillage' : 'an ' + Math.abs(abs) + (abs < 0 ? ' av.A' : ' ap.A')}]`,
     data: {
-      calendrier: 'sillage', source_date: 'recit', recit_uid: cle,
+      calendrier: an.cal, source_date: 'recit', recit_uid: cle,
       chapitre: evt.chapitre, jour: evt.jour != null ? evt.jour : null,
       confiance: 'moyenne',
     },
@@ -150,7 +175,7 @@ for (const evt of evts) {
       id: 'lnk-' + String(lnkSuiv++).padStart(4, '0'),
       rel_type: 'apparait-dans', from_id: p.id, to_id: oeuvre,
       start_year: null, end_year: null,
-      label: `apparaît dans les Chroniques (ch. ${evt.chapitre})`,
+      label: `apparaît dans ${NOM_OEUVRE[oeuvre] || 'l’œuvre'} (ch. ${evt.chapitre})`,
       data: null, source_id: oeuvre, status: 'canon',
     });
     stats.apparitions++;

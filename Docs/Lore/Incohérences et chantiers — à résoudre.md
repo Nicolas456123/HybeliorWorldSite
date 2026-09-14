@@ -651,6 +651,27 @@ Le §2 (nombre de continents) et les lignes Folgrad/Windora du §10 sont donc **
 
 ---
 
+## Constats du versement des Romans au graphe (2026-09-14)
+
+Relevés faits pendant la lecture intégrale des trois tomes des *Trois Coups* (injection de 161 événements de récit dans le graphe). **Aucune correction silencieuse appliquée** — arbitrages d'auteur demandés.
+
+| Point | Constat | Où |
+|---|---|---|
+| **Doublon d'œuvres** | `oeu-0016` et `oeu-0004` semblent recouvrir le même tome 3 ; l'injection n'utilise que `oeu-0004`. Fusionner ou différencier. | graphe |
+| **Année de la Refermeture** | La bible du T2 date le Fléau « ~1400-1600 ap.A » et le graphe donne l'événement `evt-0162` vers la fin de la fourchette, mais le récit du T2 pose la Refermeture **vers 1500 ap.A** (prologue −30, flashbacks 1480/1485, coda cahier muré 1502, coda enfant ~1560). Les faits de récit sont injectés à 1500 (circa). Trancher l'année canonique. | T2 / graphe |
+| **Périodes de personnages** | `per-0005` et `per-0008` portent des périodes incompatibles avec leur rôle dans les romans (à re-vérifier contre le texte). | graphe |
+| **Velkar vs Verkan** | La bible du T3 (§2.1) appelle l'inquisiteur du T1 « **Velkar** Sorne » ; le texte du T1 écrit partout « **Verkan** Sorne ». Une seule graphie à choisir. | T1 / bible T3 |
+| **Navoria engloutie** | `pol-0054` : « engloutie en ~40 minutes » ; le roman T1 (H6) décrit une montée des eaux **sur des jours** et une noyade progressive sur une journée. | T1 / graphe |
+| **Nom du Grand Pontife** | Le roman T2 nomme le Grand Pontife de Navoris « **Théon Ossarin** » ; la fiche `per-0882` n'a pas de nom propre. Enrichissement possible (pas une contradiction). | T2 / graphe |
+| **Marenn (homonymie)** | `per-0758` Marenn = fille de Retto, aubergiste du Poisson Doré **an 251** ; la « vieille Marenn » du T2 (~1560, témoin de l'enfant qui entend) est un personnage distinct. Le câblage du lot de récit a été corrigé (aucun lien posé) ; créer une fiche séparée si besoin. | T2 / graphe |
+| **La seconde clef du coffre d'Olven (T3, interne)** | Ch. 15 et 28 : l'autre clef du coffre à deux serrures est **au Prime** des Ombres ; ch. 32 : la déléguée **Orsenne** dit « J'ai l'autre ». Draft à harmoniser. | T3 |
+| **Mort du Prophète Vharok (T3, interne)** | Ch. 40 : Vharok tué dans le Mont « **sept ans** plus tôt » (idem bible §3.3) ; ch. 45 : « un prophète retrouvé mort dans ce même Mont **un an** plus tôt ». Harmoniser. | T3 |
+| **« Douze continents »** (rappel) | La prose des romans dit toujours « douze continents » alors que l'arbitrage 2026-07-18 a acté 11 continents + 2 grandes îles. Toujours à réconcilier dans les textes. | romans |
+
+Créations liées au versement : `per-0913` **Vael** (frère de Thessan, T1) et `per-0914` **Rensa** (fille de Verkan/Velkar Sorne, T1), fiches minimales issues du récit.
+
+---
+
 ## Annexe — d'où viennent ces constats
 
 - Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
