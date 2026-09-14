@@ -21,7 +21,7 @@ L’odeur arrive avant le pays.
 
 Deux heures avant les premiers champs, j’ai su que j’entrais en Sylthara rien qu’en respirant  : du pain, de la terre mouillée, de l’herbe coupée, et la note sucrée d’un moût qu’on foulait quelque part derrière une ligne de collines que je ne voyais pas encore. Une frontière marquée à la fermentation. Après le sol de verre d’Ordavan, après les plateaux de Pyrtara où l’air lui-même tient un compte, cette douceur m’a pris à la gorge.
 
-Vingt-cinq jours de marche depuis la Brigade. Les gorges volcaniques avaient cédé peu à peu à un pays plus horizontal, moins nerveux, qui ne cherchait pas à se défendre. Les chemins de terre battue suivaient le relief au lieu de le corriger  : ils passaient là où le sol offrait le passage, pas là où un ingénieur l’aurait décidé. À ce seul détail, on devinait une terre tenue par des gens qui la connaissent et ne lui demandent pas d’être autre chose que ce qu’elle est.
+Vingt-cinq jours de marche depuis la Brigade. Les gorges volcaniques avaient cédé peu à peu à un pays plus horizontal, moins nerveux, qui ne cherchait pas à se défendre. Les chemins de terre battue suivaient le relief au lieu de le corriger  : ils passaient là où le sol offrait le passage, pas là où un ingénieur l’aurait décidé. À ce seul détail, on devinait une terre tenue par des gens qui la connaissent.
 
 Je ne venais pas pour la douceur.
 
@@ -47,7 +47,7 @@ Ce n’était pas une question.
 
 Il essuya ses mains à sa blouse, lentement.
 
-«  Alors on vous a mal renseigné, dit-il. Personne n’entend le sol. On l’écoute. Écouter, c’est un travail  ; entendre, c’est croire que la terre vous parle à vous en particulier. Elle ne parle à personne. Elle répond, quand on l’interroge bien.
+«  Alors on vous a mal renseigné, dit-il. Personne n’entend le sol. On l’écoute, et c’est un travail. La terre ne parle à personne. Elle répond, quand on l’interroge bien.
 — Qui vous a appris à l’interroger  ?
 — Soixante ans. Il n’y a pas d’autre maître.  »
 
@@ -61,7 +61,7 @@ J’ai pris la maison. Je n’allais pas refuser le toit d’un homme que j’é
 
 La maison de Talvind était aussi celle de sa fille Emris, de son gendre Paroth et de deux enfants dont les noms se ressemblaient trop, dans une bouche syltharie rapide, pour que je les démêle avant le second soir. De la pierre et du bois, des tuiles brunes que les années avaient mises à la couleur de la terre, des fenêtres au sud pour prendre la lumière déclinante. Emris a servi le premier repas sans cérémonie et sans négligence, chaque plat à son moment  ; Talvind remplissait mon verre avant le sien  ; les enfants parlaient bas parce qu’à cette table on parlait ainsi, sans que personne ait eu à le demander.
 
-Pyrtara m’est revenue pendant ce repas, comme elle me revenait souvent depuis mon départ. Chez les Déliés de la Brigade, on mangeait comme on tient un poste  : pour durer. Ici, rien ne servait à autre chose qu’à être là. J’ai noté la différence, puis je l’ai barrée. Vraie, elle ne menait nulle part.
+Pyrtara m’est revenue pendant ce repas, comme elle me revenait souvent depuis mon départ. Chez les Déliés de la Brigade, on mangeait comme on tient un poste  : pour durer. Ici, on mangeait pour manger. J’ai noté la différence, puis je l’ai barrée. Vraie, elle ne menait nulle part.
 
 Le deuxième jour, Talvind m’a emmené dans les champs.
 
@@ -84,7 +84,7 @@ Il fit rouler la poignée de terre dans sa paume, la regarda encore.
 
 «  La terre hésite. Comme quelqu’un qui entend un bruit au loin et ne sait pas encore d’où il vient.  »
 
-Je n’ai rien répondu. Les rapprochements qui me venaient n’étaient pas à mettre dans sa bouche, et rien ne prouvait qu’ils en étaient. Ordavan m’a traversé l’esprit, le sol vitrifié, la lumière froide qui montait des profondeurs. Puis Pyrtara, la courbe que Saven avait posée sur la table, la progression qui a une date parce qu’elle est calculable. La terre d’Amaroth hésitait peut-être pour des raisons de terre  ; les saisons ont leurs sautes, et le monde agricole a ses cycles à lui, indépendants de tout ce que j’ai vu depuis le premier jour. Peut-être.
+Je n’ai rien répondu. Les rapprochements qui me venaient n’étaient pas à mettre dans sa bouche, et rien ne prouvait qu’ils tenaient. Ordavan m’a traversé l’esprit, le sol vitrifié, la lumière froide qui montait des profondeurs. Puis Pyrtara, la courbe que Saven avait posée sur la table, la progression qui a une date parce qu’elle est calculable. La terre d’Amaroth hésitait peut-être pour des raisons de terre  ; les saisons ont leurs sautes, et le monde agricole a ses cycles à lui, indépendants de tout ce que j’ai vu depuis le premier jour. Peut-être.
 
 ---
 
@@ -142,12 +142,12 @@ Ma main est partie vers le carnet avant toute décision. Il l’a vue partir, et
 
 «  Vous voyez, dit-il. Ça, vous l’écrivez.  »
 
-Je l’ai écrit parce qu’il avait raison sur les fruits, et il a eu raison de croire que c’était pour les fruits que je l’écrivais. Un homme qui avait passé sa vie à moissonner au bon jour venait de m’expliquer, sans le savoir, la seule chose que je fais et que je ne peux nommer à personne. On cueille quand le savoir est mûr et que le porteur va tomber. Un jour trop tôt, il n’a pas fini de comprendre ce qu’il sait. Un jour trop tard, un autre l’a repris. Entre les deux, une fenêtre. Une matinée, parfois. J’étais assis chez cet homme, dans cette fenêtre-là, et il venait de me la décrire mieux que je n’aurais jamais osé le faire.
+Je l’ai écrit parce qu’il avait raison sur les fruits. Il a cru que c’était pour les fruits. Un homme qui avait passé sa vie à moissonner au bon jour venait de m’expliquer, sans le savoir, la seule chose que je fais et que je ne peux nommer à personne. On cueille quand le savoir est mûr et que le porteur va tomber. Un jour trop tôt, il n’a pas fini de comprendre ce qu’il sait. Un jour trop tard, un autre l’a repris. Entre les deux, une fenêtre. Une matinée, parfois. J’étais assis chez cet homme, dans cette fenêtre-là, et il venait de me la décrire mieux que je n’aurais jamais osé le faire.
 
 «  Vous devriez dormir, dis-je.
 — Bientôt. Restez encore un peu. C’est bon, un homme qui écoute, à cette heure. Ma fille m’aime, mais elle ne m’écoute plus  : elle sait d’avance tout ce que je vais dire.  »
 
-Nous sommes restés jusqu’à ce que les braises soient grises. Il n’a plus rien dit d’important, ou plutôt il a dit beaucoup de choses sans importance  : la façon dont son père taillait la vigne, l’année où la grêle avait tout pris et où le village avait tenu sur les greniers d’avant, le nom d’une femme qu’il avait aimée avant la mère d’Emris et qui était partie à Haldria. Je n’ai presque rien consigné de tout cela. Ce n’était plus le savoir que j’étais venu prendre. Quand j’ai rangé le carnet, la femme partie à Haldria n’y était pas. Rien de cela n’entrait dans la carte.
+Nous sommes restés jusqu’à ce que les braises soient grises. Il a dit ensuite beaucoup de choses sans importance  : la façon dont son père taillait la vigne, l’année où la grêle avait tout pris et où le village avait tenu sur les greniers d’avant, le nom d’une femme qu’il avait aimée avant la mère d’Emris et qui était partie à Haldria. Je n’ai presque rien consigné de tout cela. Ce n’était plus le savoir que j’étais venu prendre. Quand j’ai rangé le carnet, la femme partie à Haldria n’y était pas. Rien de cela n’entrait dans la carte.
 
 ---
 
@@ -162,13 +162,13 @@ Au bout d’un moment, elle m’a regardé faire.
 J’ai baissé les yeux sur ma main. Elle avait raison  : je prenais le fruit du bout des doigts, avec des précautions d’archiviste.
 
 «  Je ne veux pas l’abîmer.
-— Alors tiens-la comme du vivant, pas comme du fragile.  »
+— Alors prends-la à pleine main. Elle ne casse pas.  »
 
 D’une branche, elle a cueilli une pomme d’un geste court, me l’a posée dans la paume, et elle est passée à l’arbre suivant.
 
 J’ai cueilli. Au bout de deux heures, le geste s’est passé de moi  : mes mains savaient, et dans la place laissée libre, d’autres choses sont entrées. La lumière sur la pomme, l’instant d’avant la prise. Le froid du fruit au creux de la paume. Le bruit sourd, feutré, quand il touche le fond du panier, différent selon la taille du fruit et selon ce qui repose déjà dessous. L’odeur de la mousse au pied des troncs, plus forte à mesure que le soleil tournait.
 
-Depuis quatre cent vingt-cinq jours, ma vie est faite de surfaces  : observer, noter, repartir. Trois jours à Ydralis m’ont donné ce que la route refuse presque toujours.
+Depuis quatre cent vingt-cinq jours, ma vie est faite de surfaces  : observer, noter, repartir. Trois jours à Ydralis, et mes mains sentaient la pomme.
 
 À deux paniers de moi, une vieille femme dont je n’ai pas retenu le nom posait, à intervalles réguliers, une pomme à part dans le creux d’une racine. Pas dans le panier  : dans la mousse. Une sur cinquante, peut-être. Sans un mot, sans que son visage change. Personne ne nommait le geste, personne ne le regardait. J’ai continué ma rangée.
 
@@ -205,12 +205,12 @@ Elle m’a regardé un instant de plus, puis elle a cédé. Elle portait déjà 
 
 ---
 
-Je suis parti avant le réveil du village, comme je pars toujours. L’avant-veille, Talvind m’avait mis dans les mains un tissu noué autour de quatre pommes d’Ydralis, sans un mot pour le voyage ni pour le souvenir  ; il avait posé le tissu et il était retourné à son vin du soir. Les pommes pesaient peu dans la sacoche. Ce que j’emportais à côté d’elles pesait davantage.
+Je suis parti avant le réveil du village, comme je pars toujours. L’avant-veille, Talvind m’avait mis dans les mains un tissu noué autour de quatre pommes d’Ydralis, sans un mot pour le voyage ni pour le souvenir  ; il avait posé le tissu et il était retourné à son vin du soir. Les pommes pesaient peu dans la sacoche.
 
 Le chemin descend vers le sud, vers Ackerna et la Trace Verte, là où les champs de Sylthara cèdent à une terre qu’on ne cultive plus. Deux jours durant, j’ai marché dans les dernières grandes parcelles céréalières, des étendues de chaume à perte de vue, avant que la ligne sombre de la jungle ne se lève à l’horizon comme un mur qu’aucun semeur n’a bâti. Et je regardais les sols d’un œil que je n’avais pas à l’aller  : des jachères où la végétation spontanée revenait moins dense d’un carré à l’autre  ; une bordure de champ où le chaume, coupé à la même hauteur que partout, avait pris une teinte plus sèche que la parcelle voisine. Peut-être rien. Peut-être des variations que les Anciens d’Amaroth n’auraient pas jugées dignes de mention. Peut-être un signe.
 
-Je n’ai rien consigné au-delà des faits. La terre qui hésite d’Amaroth. Le verre d’Ordavan. La courbe de Pyrtara. Le mur qu’aucune main n’a posé. J’ai posé les points sans tracer la ligne  : si la figure existe, elle se montrera d’elle-même quand il y aura assez de points  ; tracée trop tôt, elle ne montrerait que ma peur. La carte, sans que je l’aie encore regardée d’assez loin, commençait à avoir une forme.
+Je n’ai rien consigné au-delà des faits. La terre qui hésite d’Amaroth. Le verre d’Ordavan. La courbe de Pyrtara. Le mur qu’aucune main n’a posé. J’ai posé les points sans tracer la ligne  : si la figure existe, elle se montrera d’elle-même quand il y aura assez de points  ; tracée trop tôt, elle ne montrerait que ma peur. La carte commençait à avoir une forme.
 
 Le soir, adossé à une haie, au bord des derniers champs, j’ai sorti le carnet et dénoué la lanière. Sous les trois lignes de Rynel-haut, sous la date de Virel, j’ai laissé une ligne blanche, et j’ai écrit ce qu’Emris m’avait demandé d’écrire  : *À Ydralis, j’ai été accueilli.* C’est vrai. C’est même la chose la plus vraie de la page. Un jour, quelqu’un lira ce carnet, et il faudra qu’il sache qu’entre deux relevés d’un monde qui se dérègle, un vieux m’a appris à écouter la terre, et sa fille m’a donné du pain pour la route.
 
-Puis j’ai mangé la dernière pomme d’Ydralis. Elle avait le goût de trois jours de paix, et d’une question que je ne suis pas encore prêt à poser à voix haute. La moisson d’Amaroth est rentrée. La mienne aussi.
+Puis j’ai mangé la dernière pomme d’Ydralis. Elle avait le goût de trois jours de paix. La moisson d’Amaroth est rentrée. La mienne aussi.

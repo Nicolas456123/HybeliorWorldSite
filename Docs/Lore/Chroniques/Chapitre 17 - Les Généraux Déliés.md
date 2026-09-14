@@ -40,7 +40,7 @@ Elle prend le nom sans marquer d’arrêt, comme si j’avais cité un relief qu
 
 «  Keldros, reprend-elle. Prends la route d’Ilyndor, demande à la jonction de Brevana. Quelqu’un te guidera.  »
 
-Aucun formulaire. Aucun papier réclamé. L’évaluation rapide d’un individu, puis la décision d’agir en conséquence. En m’éloignant du poste, je mesure ce qui vient d’avoir lieu  : une garde pyrtarienne m’a laissé entrer sans se demander si j’étais dangereux. Ici, le statut de Délié n’est pas une information à charge. C’est une donnée, rangée avec les autres.
+Aucun formulaire. Aucun papier réclamé. Elle m’a jaugé, elle a décidé. En m’éloignant du poste, je mesure ce qui vient d’avoir lieu  : une garde pyrtarienne m’a laissé entrer sans se demander si j’étais dangereux. Ici, le statut de Délié n’est pas une information à charge. C’est une donnée, rangée avec les autres.
 
 Avant d’arriver, je le savais déjà  : lu, recoupé, mis en réserve pour le jour où cela servirait. Le sentir est autre chose  ; mais je mentirais en écrivant que je le découvre.
 
@@ -64,7 +64,7 @@ Sur le terrain, des unités s’entraînent. Parmi ceux qui commandent, corrigen
 
 Des Déliés. Des Déliés en position d’autorité, avec le grade visible, la déférence des subordonnés, l’aisance d’un instructeur qui fait son métier au lieu de justifier sa présence. Je reste à regarder plus longtemps qu’il n’est nécessaire. Pas par émerveillement  : pour prendre la mesure exacte de ce qui, ailleurs, ne se produit jamais.
 
-On me conduit à une capitaine de la Brigade. Mara. Déliée, kharazirienne à l’accent, cette façon d’appuyer les premières syllabes qu’on garde du nord du pays. La salle où elle me reçoit est nue  : basalte, une table, des bancs, une lampe à huile volcanique qui brûle jaune et stable. Elle me jauge avec l’évaluation rapide des Pyrtariens, et elle y ajoute autre chose, que je n’ai encore vu nulle part ici. Pas une reconnaissance de moi. Une reconnaissance de ce que je suis.
+On me conduit à une capitaine de la Brigade. Mara. Déliée, kharazirienne à l’accent, cette façon d’appuyer les premières syllabes qu’on garde du nord du pays. La salle où elle me reçoit est nue  : basalte, une table, des bancs, une lampe à huile volcanique qui brûle jaune et stable. Elle me jauge avec l’évaluation rapide des Pyrtariens, et elle y ajoute autre chose, que je n’ai encore vu nulle part ici. Pas une reconnaissance de moi. La reconnaissance d’un semblable.
 
 «  Assieds-toi, lance-t-elle. Tu as l’air d’avoir marché longtemps.  »
 
@@ -84,7 +84,7 @@ Sa phrase me sert plus qu’elle ne le sait. Un fugitif de Gryndor entre chez le
 
 ---
 
-Le dîner, ce soir-là, est la première chose vraiment sociale depuis des semaines. On m’installe à une longue table commune, dans une salle basse et chaude où plusieurs unités mangent ensemble. Des tubercules de feu rôtis à la chaleur volcanique, du pain de cendre, une viande au goût plus franc que la wyverne drakorienne. La première gorgée de Sang du Mont me rappelle ma première gorgée de Souffle d’Aube, et je bois la deuxième plus lentement. Le breuvage brûle droit et long  ; la chaleur reste au fond de la gorge une heure après, comme un rappel.
+Le dîner, ce soir-là, est la première chose vraiment sociale depuis des semaines. On m’installe à une longue table commune, dans une salle basse et chaude où plusieurs unités mangent ensemble. Des tubercules de feu rôtis à la chaleur volcanique, du pain de cendre, une viande au goût plus franc que la wyverne drakorienne. La première gorgée de Sang du Mont me rappelle ma première gorgée de Souffle d’Aube, et je bois la deuxième plus lentement. Le breuvage brûle droit et long  ; la chaleur reste au fond de la gorge une heure après.
 
 Le Délié à ma droite s’appelle Saven. Kharazir, comme Mara, jeté de la Guilde des Apothicaires deux ans avant moi. Il en donne la raison sans s’y attarder.
 
@@ -151,7 +151,7 @@ Deux heures durant, je lui parle. Les vibrations d’Alkaran. Le Cantus Mundi de
 
 De sous la pile, il tire un graphique. Une courbe tracée sur du papier de basalte, régulière, puis nettement ascendante à partir d’un point marqué «  automne dernier  ». Je regarde la courbe, puis j’ouvre le carnet à la page des relevés d’Ordavan, ceux que j’ai reconstitués de mémoire après avoir arraché les pages originales. Nous posons les deux documents côte à côte sur la table.
 
-La pente des Guetteurs et celle de mes relevés sont les mêmes, à l’échelle et aux unités près, c’est-à-dire à tout ce qui sépare la mesure d’une vibration au fond d’un volcan de l’observation d’un sol sous la paume. La même montée. Le même intervalle qui se resserre. Deux témoins qui ne se sont jamais parlé décrivent, chacun dans sa langue, un seul mouvement. Personne ne dit rien pendant un moment, parce que la table dit l’essentiel  : le Dessous n’a pas une horloge par lieu. Il en a une seule, et elle accélère partout à la fois.
+La pente des Guetteurs et celle de mes relevés sont les mêmes, à l’échelle et aux unités près, c’est-à-dire à tout ce qui sépare la mesure d’une vibration au fond d’un volcan de l’observation d’un sol sous la paume. La même montée. Le même intervalle qui se resserre. Deux témoins qui ne se sont jamais parlé décrivent, chacun dans sa langue, un seul mouvement. Personne ne dit rien pendant un moment. Le Dessous n’a pas une horloge par lieu. Il en a une seule, et elle accélère partout à la fois.
 
 Saven, entré derrière moi avec le dossier de Vyldor, se penche par-dessus la table pour lire. Des années de dosages pesés lui ont fait l’œil  : il lit une colonne de chiffres comme je lis un relief. Son doigt s’arrête sur le premier point de ma page.
 
@@ -163,7 +163,7 @@ Il regarde la date en marge du point le plus ancien, puis il me regarde.
 
 Je ne réponds pas tout de suite.
 
-Puis je dis que je n’ai pas daté ma visite, mais la couche. Que le verre d’Ordavan se lit par épaisseurs, comme les anneaux d’un tronc, et que le point le plus ancien n’est pas une mesure prise sur place ce jour-là  : c’est une mesure lue à rebours dans la matière, reportée à la date que la matière indique. Un relevé qui remonte le temps sans que l’homme l’ait remonté.
+Puis je dis que je n’ai pas daté ma visite, mais la couche. Que le verre d’Ordavan se lit par épaisseurs, comme les anneaux d’un tronc, et que le point le plus ancien n’est pas une mesure prise sur place ce jour-là  : c’est une mesure lue à rebours dans la matière, reportée à la date que la matière indique.
 
 Pyrax écoute, tient l’explication pour bonne et revient à ce qui l’occupe, parce que ce qui l’occupe n’est pas ma biographie  : ce sont deux pentes qui coïncident.
 
@@ -182,19 +182,19 @@ Je dis oui. C’était déjà sur ma liste.
 
 ---
 
-Je refermai le carnet sur la page d’Ordavan.
+Je referme le carnet sur la page d’Ordavan.
 
-Saven a un bon œil. Meilleur qu’il ne le croit, et posé, par le hasard des choses, sur le seul endroit de la page qu’un bon œil n’avait aucune raison de trouver. Il cherchait une addition qui ne tombait pas juste  ; il a reçu une explication qui la fait tomber juste, et il est reparti tranquille. Un cartographe qui date la matière plutôt que sa visite, cela se défend, cela s’enseigne dans les manuels, cela n’appelle aucune autre question. Sa colonne s’additionne. La mienne aussi, autrement.
+Saven a un bon œil. Meilleur qu’il ne le croit, et tombé par hasard sur le seul chiffre de la page qui pouvait me perdre. Il cherchait une addition qui ne tombait pas juste  ; il a reçu une explication qui la fait tomber juste, et il est reparti tranquille. Un cartographe qui date la matière plutôt que sa visite, cela se défend, cela s’enseigne dans les manuels, cela n’appelle aucune autre question. Sa colonne s’additionne. La mienne aussi, autrement.
 
-Je ne raye pas les trois mots de la marge. Rayer, c’est désigner  : une marge barrée attire l’œil que la marge pleine laisse glisser. On note d’abord, on corrige ensuite  ; cette page-là, je la laisse telle quelle. Sous la ligne des relevés, j’écris seulement ce qui est vrai et qui suffit  : *Deux courbes, deux témoins, une seule montée. La progression est calculable. Donc elle a une date.* La date, cette nuit-là encore, je ne la calcule pas. Non que je ne le puisse. Écrite, elle pourrait m’être prise, et celle-là, pour l’instant, est mieux dans ma tête que sur le papier.
+Je ne raye pas les trois mots de la marge. Rayer, c’est désigner  : une marge barrée attire l’œil que la marge pleine laisse glisser. Je note d’abord, je corrige ensuite  ; cette page-là, je la laisse telle quelle. Sous la ligne des relevés, j’écris seulement ce qui est vrai et qui suffit  : *Deux courbes, deux témoins, une seule montée. La progression est calculable. Donc elle a une date.* La date, cette nuit-là encore, je ne la calcule pas. Non que je ne le puisse. Écrite, elle pourrait m’être prise, et celle-là, pour l’instant, est mieux dans ma tête que sur le papier.
 
-Ce qui me tient éveillé n’est pas la marge. C’est la coïncidence des deux pentes. J’étais venu à Pyrtara chercher une confirmation, et je l’ai eue, plus nette que je n’osais l’attendre  : le Dessous ne s’éveille pas par accès isolés, ici un volcan, là un canyon, ailleurs un village de verre. Il s’éveille d’un seul mouvement, sous tout le continent à la fois, et il presse le pas. Prolongée assez loin, la courbe quitte le papier. J’ignore encore en quel point, et je sais que d’autres l’ont su avant moi. Mon père, sûrement, qui a fait cette route et n’a laissé nulle part la moindre date. Les Guetteurs à leur façon, qui nomment d’abord, comme dit leur doctrine, et se gardent bien de publier une échéance. La suite, pour eux, viendra ou ne viendra pas. Pour moi, la suite a la forme d’une date, et je la trouverai sans l’écrire.
+Ce qui me tient éveillé n’est pas la marge. C’est la coïncidence des deux pentes. J’étais venu à Pyrtara chercher une confirmation, et je l’ai eue, plus nette que je n’osais l’attendre  : le Dessous ne s’éveille pas par accès isolés, ici un volcan, là un canyon, ailleurs un village de verre. Il s’éveille d’un seul mouvement, sous tout le continent à la fois, et il presse le pas. Prolongée assez loin, la courbe quitte le papier. J’ignore encore quand, et je sais que d’autres l’ont su avant moi. Mon père, sûrement, qui a fait cette route et n’a laissé nulle part la moindre date. Les Guetteurs à leur façon, qui nomment d’abord, comme dit leur doctrine, et se gardent bien de publier une échéance. La suite, pour eux, viendra ou ne viendra pas. Pour moi, la suite a la forme d’une date, et je la trouverai sans l’écrire.
 
 ---
 
 Saven me montre Keldros pendant quatre jours avant Vyldor. Pas sur ordre de Pyrax  : par choix. Il a décidé que je devais voir ce qu’est la Brigade avant de partir, pour avoir une mesure. Keldros n’est pas seulement un centre d’entraînement. C’est un lieu où des gens qui n’auraient trouvé de place nulle part ont une fonction et un rang. Rien d’idéaliste là-dedans, Pyrtara n’en fait pas  ; une logique de guerre, plutôt  : un soldat compétent est un soldat compétent, d’où qu’il vienne. Et cette logique produit, presque par accident, ce que des nations plus vertueuses en principe ne produisent pas  : un endroit où un Délié mange sans compter les regards.
 
-Je le note sans enjoliver, et je vois ce que vaut mon élan  : c’est le raisonnement d’un homme qui a besoin que l’endroit où il vient d’arriver soit défendable. Alors je complète, en marge, en petit  : Pyrtara fait des soldats efficaces avec des Déliés exilés, et fait aussi de ses paysans des ressources, de ses prisonniers des combustibles, de ses citoyens des colonnes de chiffres dans les registres de Vyldor. La Brigade est un coin lumineux d’un système qui ne l’est pas. Écrit petit, un fait se garde sans qu’on ait à le regarder en face.
+Je le note sans enjoliver, et je vois ce que vaut mon élan  : c’est le raisonnement d’un homme qui a besoin que l’endroit où il vient d’arriver soit défendable. Alors je complète, en marge, en petit  : Pyrtara fait des soldats efficaces avec des Déliés exilés, et fait aussi de ses paysans des ressources, de ses prisonniers des combustibles, de ses citoyens des colonnes de chiffres dans les registres de Vyldor. La Brigade est un coin lumineux d’un système qui ne l’est pas.
 
 Le quatrième soir, Thyren me trouve dans la salle commune. Elle s’assied en face de moi, décidée à poser une question qu’elle a préparée.
 
@@ -208,13 +208,13 @@ Elle ne bouge pas, très droite en face de moi. Pas de larmes  : elle est pyrta
 
 «  Ma mère y vivait. Elle devait partir en Kharazir avec ma sœur. Je ne sais pas si elles étaient encore à Mareth quand c’est arrivé, ou déjà loin.  »
 
-Aucune réponse à lui donner. Je lui propose ce que je sais faire  : noter les noms, les descriptions, chercher dès que j’aurai accès à des sources utiles. C’est peu. C’est ce que j’ai. Et je note son nom sur la même page que tout le reste  ; la main qui la console tient aussi le compte de ce qu’elle m’apprend sur le Syndrome. Est-ce que l’un salit l’autre  ? Je me le demande, et je laisse la question ouverte.
+Aucune réponse à lui donner. Je lui propose ce que je sais faire  : noter les noms, les descriptions, chercher dès que j’aurai accès à des sources utiles. C’est peu. C’est ce que j’ai. Et je note son nom sur la même page que tout le reste, avec ce qu’elle vient de m’apprendre sur le Syndrome. Je ne sais pas si l’un salit l’autre.
 
 «  Oui. Merci  », dit-elle d’une voix égale.
 
 Nous restons un moment sans parler. Le vent d’Eleris passe sous la porte. La lampe brûle, jaune, stable, et dans une pièce voisine on affûte une lame, un long geste répété qui traverse le mur. Des voix au loin. Des pas sur la roche. La flamme tremble à intervalles réguliers, et je finis par comparer son intervalle à celui du sol, sans l’avoir décidé.
 
-Thyren, ce soir-là, est arrivée à peu près là où je suis  : un pays perdu derrière soi, des noms qu’on porte, personne à qui les dire. Ce n’est pas une compagnie que j’aurais choisie. C’en est une réelle, et au jour 404, je n’en avais pas eu depuis longtemps.
+Thyren, ce soir-là, est arrivée à peu près là où je suis  : un pays perdu derrière soi, des noms qu’on porte, personne à qui les dire. Ce n’est pas une compagnie que j’aurais choisie, mais elle est réelle, et au jour 404, je n’en avais pas eu depuis longtemps.
 
 ---
 
@@ -238,7 +238,7 @@ Sa tête se tourne vers moi. Je lui explique le terme, que j’emploie depuis Av
 Je m’accoude au parapet de basalte. «  Que ferais-tu, toi, avec ce que tu as  ?
 — Je vais à Vyldor avec toi. Après, selon ce qu’on trouve, je décide de ce que je présente à Varketh.  »
 
-Ce n’est pas une réponse de théoricien. C’est la réponse pyrtarienne  : ce qu’on fait, dans quel ordre, rien de plus. Je la note comme un modèle, moi qui ai passé ma vie à préférer la carte au pas, et qui commence à peine, sur ces routes, à faire le chemin inverse.
+Ce n’est pas une réponse de théoricien. C’est la réponse pyrtarienne  : ce qu’on fait, dans quel ordre, rien de plus. Je la note comme un modèle, moi qui ai passé ma vie à préférer la carte au pas.
 
 ---
 

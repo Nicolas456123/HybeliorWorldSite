@@ -28,7 +28,7 @@ Le patron du bateau, un homme de Solena qui parlait moins que Berand et regardai
 
 Rien de plus. Vingt ans de traversées, et il n’avait jamais fixé la forêt  : c’est tout ce que j’obtins de lui.
 
-Sa phrase était dans mon cahier, sans que j’aie choisi entre la superstition d’un marin et la description exacte d’un phénomène que je n’avais pas encore de quoi mesurer. Le lendemain, la main sur le plat-bord, tandis que Valmora grandissait dans le détroit, je penchais pour la seconde lecture. La première est restée en marge, au crayon.
+Sa phrase alla dans mon cahier. Je n’avais pas à choisir entre la superstition d’un marin et la description d’un phénomène que je n’avais pas de quoi mesurer. Le lendemain, la main sur le plat-bord, tandis que Valmora grandissait dans le détroit, je penchais pour la seconde lecture. La première est restée en marge, au crayon.
 
 ---
 
@@ -193,7 +193,7 @@ Rien ne vint. Nous marchâmes un moment dans ce silence, et puis je posai la seu
 
 «  Vous avez dit qu’il n’en restait qu’un pour entendre franchement. Il est mort. Reste-t-il quelque part une voix qui réponde encore, et quelqu’un pour l’entendre  ?  »
 
-Aerith s’arrêta. La lanterne fit tourner nos deux ombres, les seules de toute la forêt, celles que la flamme nous prêtait.
+Aerith s’arrêta. La lanterne fit tourner nos deux ombres, les seules de toute la forêt.
 
 «  À Sylvara, dit-il enfin. De l’autre côté du détroit, quand la marée le permet. Une gardienne veille la dernière voix qui répond encore. Thalmaris. C’est là que va l’Aînée quand elle veut entendre l’île respirer. Mais la marée ne s’ouvre que certains jours. Vous devrez attendre.
 — J’attendrai.
@@ -216,7 +216,7 @@ Son regard resta longtemps sur moi, sans tendresse.
 
 «  Vous vous racontez une belle histoire, cartographe. Vous ne sauvez personne, et vous le savez avant de monter. Vous avez fini par tracer votre route de mourant en mourant, parce que ce sont eux qui parlent le plus vrai. Je ne dis pas que c’est un crime. Je dis que ce n’est pas la vertu que vous croyez.  »
 
-Sans la contredire, je l’ai laissée dire, et j’ai écrit sa phrase. À moitié, elle a raison, comme tous ceux qui me percent à jour cette année. La prédation, elle la voit et elle la nomme. Ce que j’en fais, et pourquoi, lui échappe, et je n’ai rien corrigé  : la corriger l’aurait mise sur une piste que je préfère lui laisser fausse.
+Sans la contredire, je l’ai laissée dire, et j’ai écrit sa phrase. La prédation, elle la voit et elle la nomme. Ce que j’en fais, et pourquoi, lui échappe, et je n’ai rien corrigé  : la corriger l’aurait mise sur une piste que je préfère lui laisser fausse.
 
 Alors seulement elle en vint à ce que j’étais venu chercher.
 
@@ -244,7 +244,7 @@ Son regard changea, comme devant deux fils qu’on croyait de deux pelotes et qu
 
 Je laissai cela descendre.
 
-Dans cette lecture, ce que je ressentais depuis Cendara n’était pas une faculté nouvelle. C’était une faculté de toujours, masquée jusque-là par la présence des esprits, et qui affleurait à mesure qu’ils se taisaient. Aucune autre figure ne rendait aussi bien compte de ce que je portais dans les os depuis le premier plateau. Cette lecture est notée comme la mienne, les autres restant ouvertes. Trois points font une ligne dès qu’on le veut.
+Dans cette lecture, ce que je ressentais depuis Cendara n’était pas une faculté nouvelle. C’était une faculté de toujours, masquée jusque-là par la présence des esprits, et qui affleurait à mesure qu’ils se taisaient. Aucune autre figure ne rendait aussi bien compte de ce que je portais dans les os depuis le premier plateau. Je la note comme la mienne, et je laisse les autres ouvertes. Trois points font une ligne dès qu’on le veut.
 
 «  Ce que je porte ne m’appartient pas encore  », dis-je, plus pour moi que pour elle.
 
@@ -266,7 +266,7 @@ Je restai encore quatre jours à Thalenvir, à attendre la marée de Sylvara.
 
 La seconde femme du Cercle, celle qui écrivait en glyphes courbes sur une plaque de bois, me laissa lire aux archives ce que je pouvais en lire  : les passages en galenorien classique, noyés dans un evertien qui me restait fermé. Cela suffit pour savoir que la théorie des Ancrages n’était pas une trouvaille du Cercle actuel. On la voit affleurer dans des textes que les druides datent d’avant la fondation de l’île. Plus vieille, donc, qu’Evertia elle-même. Cela seul valait le voyage, et ce n’est pourtant pas ce que je retiens de ces jours.
 
-Ce que je retiens, c’est la clairière d’Ourthalle. Le froid installé sous mes deux doigts. La source qui coulait sur rien. Et la question que j’avais portée en courant, restée ouverte sur une page, sous une date, pour un homme mort la veille au soir pendant que je passais les récifs. Sans y répondre et sans arracher la page, je l’ai laissée là. C’est la première page du voyage que je laisse ouverte. Si je la garde, c’est, je crois, pour ne pas oublier que j’arrive parfois après tout le monde. Cela ne change rien à ce que je fais ensuite. Cela change seulement l’idée que je pourrais me faire de moi, si je me la permettais.
+Ce que je retiens, c’est la clairière d’Ourthalle. Le froid installé sous mes deux doigts. La source qui coulait sur rien. Et la question que j’avais portée en courant, restée ouverte sur une page, sous une date, pour un homme mort la veille au soir pendant que je passais les récifs. Sans y répondre et sans arracher la page, je l’ai laissée là. C’est la première page du voyage que je laisse ouverte. Si je la garde, c’est, je crois, pour ne pas oublier que j’arrive parfois après tout le monde. Cela ne change rien à ce que je fais ensuite. Cela change seulement ce que je pourrais penser de moi.
 
 Le garçon de la source avait raison sur un point et tort sur l’autre. Je ne suis pas celui qui a fermé la porte d’Ourven  : j’étais en mer. Mais je serais reparti avec un cahier plein, et je suis reparti quand même, avec le peu que la clairière m’a laissé  : la date, le froid, le rien après le retrait, et le mot Panghor, que je n’avais pas la veille.
 

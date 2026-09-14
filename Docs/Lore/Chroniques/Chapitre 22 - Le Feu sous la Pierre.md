@@ -110,7 +110,7 @@ Le bord était mangé d’entailles serrées, si nombreuses sur les dernières m
 
 «  On ne taille plus, a dit Vharn. Il n’y a plus la place. Le Temple tient le compte sur ses tablettes, maintenant.  »
 
-J’ai relevé l’espacement des entailles anciennes et celui des récentes, au fil et à l’œil, comme on relève une côte, et reporté le tout dans mon cahier à côté du chiffre de Kessa. Le peigne de pierre et les doigts de la marchande disaient la même chose. Deux témoins qui ne se connaissent pas et qui déposent le même fait valent mieux qu’un savant qui l’affirme seul.
+J’ai relevé l’espacement des entailles anciennes et celui des récentes, au fil et à l’œil, comme on relève une côte, et reporté le tout dans mon cahier à côté du chiffre de Kessa. Le peigne de pierre et les doigts de la marchande disaient la même chose.
 
 Cet homme m’a plu. Il nommait ce qu’il voyait et se taisait sur le reste.
 
@@ -213,7 +213,7 @@ C’est le conseil le plus juste qu’on m’ait donné depuis le premier mur ja
 
 Du temple, je suis redescendu par la ruelle qui longe le mur d’un vignoble, et c’est là que je me suis arrêté net.
 
-La ruelle était vide. Plus loin, une porte ouverte laissait sortir une odeur de pain et une voix de femme qui appelait quelqu’un. Un enfant était assis sur une marche, huit ou neuf ans, les genoux remontés sous le menton. Ses yeux étaient blancs. Pas voilés, pas ceux d’un aveugle  : blancs comme de l’ivoire poli, sans iris, sans centre, et tournés vers moi. Un marchand m’avait parlé des Enfants aux Yeux Blancs à la lisière de Vytharia  ; il prétendait qu’ils naissaient de plus en plus nombreux à Caeloria, loin d’ici, vers le levant. Dans les steppes de Lythar, un autre m’avait regardé de cette façon, sans un mot. Je n’en avais jamais vu d’aussi près.
+La ruelle était vide. Plus loin, une porte ouverte laissait sortir une odeur de pain et une voix de femme qui appelait quelqu’un. Un enfant était assis sur une marche, huit ou neuf ans, les genoux remontés sous le menton. Ses yeux étaient blancs. Pas voilés, pas ceux d’un aveugle  : blancs comme de l’ivoire poli, sans iris, sans centre, et tournés vers moi. Un marchand m’avait parlé des Enfants aux Yeux Blancs à la lisière de Vytharia  ; il prétendait qu’ils naissaient de plus en plus nombreux à Caeloria, loin d’ici, vers le levant. Dans les steppes de Lythar, un autre m’avait regardé de cette façon. Je n’en avais jamais vu d’aussi près.
 
 En m’entendant, il a levé la tête. Il ne m’a pas regardé comme on regarde un étranger. Il m’a regardé comme on reconnaît quelqu’un.
 
@@ -223,7 +223,7 @@ C’était le galenorien d’un enfant qui l’apprend des marchands voisins. Pu
 
 Je ne l’ai pas suivi. Courir après un enfant pour lui faire expliquer une phrase n’aurait servi à rien.
 
-Cette phrase-là aussi est dans mon cahier, mot pour mot, et je me la suis répétée tout le long de la ruelle pour ne pas la déformer. Le *encore* dit un devenir. Ce n’était ni un refus ni une accusation  : une condition, posée par une bouche qui ne mesurait sans doute pas ce qu’elle disait. Ou qui le mesurait mieux que moi. Je n’ai pas de cadre pour cela non plus. J’attends d’en avoir un.
+Cette phrase-là aussi est dans mon cahier, mot pour mot, et je me la suis répétée tout le long de la ruelle pour ne pas la déformer. Le *encore* dit que cela viendra. Ce n’était ni un refus ni une accusation  : une condition, posée par une bouche qui ne mesurait sans doute pas ce qu’elle disait. Ou qui le mesurait mieux que moi. Je n’ai pas de cadre pour cela non plus. J’attends d’en avoir un.
 
 ---
 
@@ -245,7 +245,7 @@ Je pose la question. Je ne la tranche pas. Ce n’est pas mon travail de cartogr
 
 Le battement continue dans ma poitrine, plus diffus, atténué par les murs et par la distance. Présent, pourtant.
 
-Deux inconnus, le même jour, ont posé sur moi le même mot par deux bouches qui ne se connaissent pas  : un enfant qui voit ce que je porte, un vieux prêtre qui me nomme porteur de feu. Je n’ai corrigé ni l’un ni l’autre. J’ai rangé leurs mots à côté des autres, au propre, sans les croire ni les écarter. Ni la phrase de l’enfant ni celle du prêtre ne sont des mesures. Le jour où elles s’accorderont à un chiffre, je les croirai. Pas avant.
+Deux inconnus, le même jour, ont posé sur moi le même mot  : un enfant qui voit ce que je porte, un vieux prêtre qui me nomme porteur de feu. Je n’ai corrigé ni l’un ni l’autre. J’ai rangé leurs mots à côté des autres, au propre, sans les croire ni les écarter. Ni la phrase de l’enfant ni celle du prêtre ne sont des mesures. Le jour où elles s’accorderont à un chiffre, je les croirai. Pas avant.
 
 Talvhar a dit  : celui qui porte le feu sans le savoir.
 

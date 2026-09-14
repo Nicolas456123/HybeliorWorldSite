@@ -106,7 +106,7 @@ Derrière nous, la brume commençait à se déchirer par langues, exactement là
 
 Karsk ne répondit pas. Son regard resta longtemps sur l’eau derrière nous, là où l’autre homme dérivait, et j’y vis passer la même chose que le soir du carnet  : un fait nouveau qu’il rangeait, de mauvais gré, parmi ceux qu’il croyait être seul à connaître.
 
-Ce que je savais de Vels Draye tenait en peu de mots, et ce peu suffisait à ne pas le haïr. C’était un Délié, comme moi. L’appareil qui efface les nôtres l’avait trouvé un jour et ne l’avait pas effacé  : il l’avait retourné, parce que l’appareil tient qu’il faut un Délié pour traquer un Délié, que les mêmes absences se reconnaissent entre elles. Personne, à Mosrack, n’avait su me dire ce que le gant noir cachait, une brûlure ou pire, ni depuis quand. Ce que je savais, c’est qu’il me chassait en croyant bien faire, comme Orath, comme tous ceux qui pensent qu’un savoir lâché dans le monde fait tomber le monde plus vite. Lui aussi avait porté un jour quelque chose de trop grand, sans doute, et l’avait payé. Il me chassait comme on se poursuit dans un miroir. Je ne le méprisais pas, et je ne comptais pas non plus me laisser prendre.
+Ce que je savais de Vels Draye tenait en peu de mots, et ce peu suffisait à ne pas le haïr. C’était un Délié, comme moi. L’appareil qui efface les nôtres l’avait trouvé un jour et ne l’avait pas effacé  : il l’avait retourné, parce que l’appareil tient qu’il faut un Délié pour traquer un Délié, que les mêmes absences se reconnaissent entre elles. Personne, à Mosrack, n’avait su me dire ce que le gant noir cachait, une brûlure ou pire, ni depuis quand. Ce que je savais, c’est qu’il me chassait en croyant bien faire, comme Orath, comme tous ceux qui pensent qu’un savoir lâché dans le monde fait tomber le monde plus vite. Lui aussi avait porté un jour quelque chose de trop grand, sans doute, et l’avait payé. Je ne le méprisais pas, et je ne comptais pas non plus me laisser prendre.
 
 ---
 
@@ -140,7 +140,7 @@ Sa main tira une feuille du tas  : un dessin d’anatomie tracé de mémoire, l
 — Recevoir quoi  ?
 — Je décris ce que je vois dans la chair, répondit-il, le doigt sur le tracé du nerf. Pas ce que je ne vois pas.  »
 
-C’était la parole d’un homme honnête, et c’était la mienne, à un mot près  : moi non plus, je ne cartographie pas ce que je ne peux pas voir. Nous étions du même bois, lui et moi. Cela rendit la suite plus lourde.
+C’était la parole d’un homme honnête, et c’était la mienne. Nous étions du même bois, lui et moi. Cela rendit la suite plus lourde.
 
 «  Pourquoi tenez-vous registre  ? demandai-je. Les temples les comptent, j’imagine. Le Conclave de Cendra a ses rôles.
 — Les temples les comptent pour les bénir. Le reste les compte pour d’autres raisons.  »
@@ -215,7 +215,7 @@ Sa main posa un galet, en prit un autre, et elle réfléchit.
 
 «  Je ne sais pas, dit-elle. C’est loin encore. C’est comme un bateau qu’on entend avant de le voir. On sait qu’il vient, on ne sait pas qui est dessus.  »
 
-L’image était juste, plus juste qu’elle ne pouvait le savoir, et je me gardai de la corriger. Puis elle leva vers moi ses yeux sans couleur, qui cherchaient et qui trouvaient, et elle dit une chose que je notai le soir même, mot pour mot, parce que je sus qu’elle pèserait plus lourd que ses mots.
+L’image était juste, plus juste qu’elle ne pouvait le savoir, et je me gardai de la corriger. Puis elle leva vers moi ses yeux sans couleur, qui cherchaient et qui trouvaient, et elle dit une chose que je notai le soir même, mot pour mot, parce que je sus qu’elle resterait.
 
 «  Toi, tu arrives toujours avant.  »
 

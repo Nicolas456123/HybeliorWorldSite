@@ -84,7 +84,7 @@ La réponse a mis longtemps à venir. Elle regardait quelque chose que je ne voy
 
 Elle a partagé mon repas ce soir-là, dans une taverne basse dont les murs portaient une suie si ancienne qu’on aurait dit l’endroit forgé plutôt que bâti. Des pois chiches mijotés dans une graisse noire, un pain plat cuit sur la pierre du four central, et des épices que je n’ai pas su nommer  : une chaleur sèche derrière la langue, de la fumée, une pointe d’agrume brûlé. Le pain gardait la chaleur de la pierre. Je l’ai rompu, trempé, et pendant un moment il n’y a rien eu d’autre que le bol, la vapeur et le bruit du four. Kessa mangeait peu et me regardait manger, curieuse, tranquille. Dehors, les forges s’étaient tues, et on entendait l’âne s’ébrouer sous l’auvent.
 
-Je lui ai parlé d’Haldria, de l’astronome, de ses étoiles qui glissent, de la phrase qu’elle m’avait donnée pour la route. Kessa a écouté sans m’interrompre une seule fois. C’est rare. La plupart des gens coupent la parole par réflexe, pour se défendre, rarement par calcul. Quelqu’un qui écoute comme elle retient tout  ; je cherche ces gens-là depuis Rukhsar et je m’en méfie autant que je les cherche, parce que je préfère qu’on m’oublie.
+Je lui ai parlé d’Haldria, de l’astronome, de ses étoiles qui glissent, de la phrase qu’elle m’avait donnée pour la route. Kessa a écouté sans m’interrompre une seule fois. C’est rare. Quelqu’un qui écoute comme elle retient tout  ; je cherche ces gens-là depuis Rukhsar et je m’en méfie autant que je les cherche, parce que je préfère qu’on m’oublie.
 
 «  À Mylaris, les chèvres s’agitent depuis deux saisons, a-t-elle dit quand j’ai eu fini. Les gens qui lisent les bêtes disent que c’est plus fort qu’avant les grandes coulées. Plus profond dans le ventre.  »
 
@@ -95,7 +95,7 @@ Ailleurs, j’avais entendu la même chose. Les chevaux de Lythar, qui refusaien
 — Vous, laquelle croyez-vous  ?
 — Aucune, ou les deux, selon les jours.  » Elle a fait tourner sa coupe. «  Je ne suis pas payée pour croire. Je suis payée pour vendre du vin à des gens qui ont soif parce qu’ils ont peur, et la peur donne soif, croyez-moi. Mais si vous demandez à mon corps et pas à ma tête, mon corps dit de préparer les digues.  »
 
-Un miracle et une digue. Toute la ville tenait là-dedans, chaque camp sur sa vérité, et aucun des deux ne gouvernait seul. C’était la marge de mes propres carnets, où les hypothèses cohabitent tant que rien ne les départage.
+Un miracle et une digue. Toute la ville tenait là-dedans, chaque camp sur sa vérité, et aucun des deux ne gouvernait seul.
 
 En cartographe, j’ai demandé le nombre  : ce comptage des pulsations, où en était-il  ?
 
@@ -131,9 +131,9 @@ J’ai senti la pulsation.
 
 Pas entendue. Sentie. Dans la poitrine, ou plus bas, à un endroit dont je n’aurais pas su dire le nom. Une pression légère, régulière, sans rapport avec mon propre cœur. Un battement venu de dehors, que mon corps recevait comme s’il était le sien. On pose la main sur la gorge de quelqu’un qui chante et on sent la voix passer dans les os de la paume  : c’était cela.
 
-Devant l’inconnu, j’ai commencé par le comparer au connu. Deux doigts sur le poignet, l’autre main sur le basalte tiède, j’ai compté. Deux rythmes  : le mien, rapide  ; l’autre, lent, venu d’ailleurs. Le lent ne s’est jamais calé sur le rapide. Il n’en était donc pas l’écho. Les gens d’ici ont des mots pour cela, les prêtres en ont d’autres, et je ne les rapporte pas comme s’ils expliquaient quelque chose. J’ai fait ce que je sais faire  : compter, comparer, écarter. Quand j’ai eu tout écarté, le battement restait.
+Deux doigts sur le poignet, l’autre main sur le basalte tiède, j’ai compté. Deux rythmes  : le mien, rapide  ; l’autre, lent, venu d’ailleurs. Le lent ne s’est jamais calé sur le rapide. Il n’en était donc pas l’écho. Les gens d’ici ont des mots pour cela, les prêtres en ont d’autres, et je ne les rapporte pas comme s’ils expliquaient quelque chose. J’ai fait ce que je sais faire  : compter, comparer, écarter. Quand j’ai eu tout écarté, le battement restait.
 
-L’esprit a voulu une cause, tout de suite. L’altitude  : nous étions au ras de l’eau. La chaleur du basalte qui remonte  : un battement n’a pas la lenteur d’une chaleur. La suggestion, alors  : Kessa avait parlé des pulsations toute la soirée, et mon corps fabriquait ce que ma tête attendait. Trois explications en quelques secondes, aucune qui ait tenu plus longtemps. Le battement continuait, étranger, indifférent à mes raisonnements. Les hypothèses sont dans le carnet, et sous chacune la raison pour laquelle elle ne tient pas. Le carnet s’arrête là. *La marge sait attendre. Moi aussi.*
+J’ai cherché une cause, tout de suite. L’altitude  : nous étions au ras de l’eau. La chaleur du basalte qui remonte  : un battement n’a pas la lenteur d’une chaleur. La suggestion, alors  : Kessa avait parlé des pulsations toute la soirée, et mon corps fabriquait ce que ma tête attendait. Trois explications en quelques secondes, aucune qui ait tenu plus longtemps. Le battement continuait, étranger, indifférent à mes raisonnements. Les hypothèses sont dans le carnet, et sous chacune la raison pour laquelle elle ne tient pas. Le carnet s’arrête là. *La marge sait attendre. Moi aussi.*
 
 Il faut que j’écrive ici une phrase que j’ai passé ma vie à croire simple.
 
@@ -194,7 +194,7 @@ Cette nuit, avec ce battement encore logé dans la poitrine, ni tout à fait dan
 
 Et si les Déliés n’étaient pas sans lien  ? Si ce lien était d’un autre ordre, posé dans la trame non pour capter, mais pour tenir. Des fondations, pas des fenêtres.
 
-Je pose la question sans la trancher. Ce n’est pas mon travail de cartographier ce que je ne peux pas voir, et je ne vois ici qu’un battement et une inscription, deux points qu’une ligne relierait trop commodément. Un cartographe qui trace une côte sur deux sondages est un menteur qui s’ignore. Mais si l’inscription disait vrai, la différence entre Lié et Délié ne serait plus une affaire de présence et d’absence. Ce serait une affaire de fonction. Et la question ne serait plus ce qu’un homme sent, mais ce qu’il devrait faire, s’il portait pareille fonction, le jour où la trame qu’il est censé tenir se met à trembler.
+Je pose la question sans la trancher. Je ne cartographie pas ce que je ne peux pas voir, et je ne vois ici qu’un battement et une inscription, deux points qu’une ligne relierait trop commodément. Deux sondages ne font pas une côte. Mais si l’inscription disait vrai, la différence entre Lié et Délié ne serait plus une affaire de présence et d’absence. Ce serait une affaire de fonction. Et la question ne serait plus ce qu’un homme sent, mais ce qu’il devrait faire, s’il portait pareille fonction, le jour où la trame qu’il est censé tenir se met à trembler.
 
 La réponse que je me donne cette nuit, et qui me tient jusqu’à l’aube, n’est qu’une hypothèse  : un ancrage se mettrait peut-être à percevoir le jour où le monde qu’il ancre commence à bouger.
 

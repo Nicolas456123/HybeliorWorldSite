@@ -59,7 +59,7 @@ Wyndor ne se pose pas sur un relevé. Les marchands disent «  des maisons dans
 
 On m’attribua une guide, une Marcheuse nommée Thyris, dont le bras gauche portait un tatouage du poignet à l’épaule. Quelque chose y bougeait. Un jeu d’ombre des feuillages, ai-je d’abord pensé  ; puis elle tendit le bras vers une passerelle, et le serpent d’encre tourna nettement la tête. Je ne posai aucune question. Je portai l’observation au carnet, à sa date, sans un mot de plus.
 
-Elle me fit traverser les trois niveaux en m’expliquant les règles, dans un galenorien appris, aux voyelles arrondies par le dialecte. Ne pas descendre au sol  : les crues, les prédateurs. Bâtir entre les arbres, jamais dessus  : les racines. Laisser la cime aux chamanes  : de là-haut, on voit tout. Chaque règle avait sa raison, et la raison, chaque fois, c’était la jungle. Cela m’a reposé. Je sortais de mois entiers de pays où la foi et le calcul refusent de partager un couloir.
+Elle me fit traverser les trois niveaux en m’expliquant les règles, dans un galenorien appris, aux voyelles arrondies par le dialecte. Ne pas descendre au sol  : les crues, les prédateurs. Bâtir entre les arbres, jamais dessus  : les racines. Laisser la cime aux chamanes  : de là-haut, on voit tout. Chaque règle avait sa raison, et la raison, chaque fois, c’était la jungle. Cela m’a reposé. Je sortais de mois entiers de pays où l’on m’avait donné la règle sans jamais la raison.
 
 Le soir, on me fit une place au repas, sur une plateforme intermédiaire, entre le sol noir et la canopée encore éclairée. Des poissons grillés dans des feuilles, une pâte de fruit rouge qui pique d’abord et sucre ensuite, une bière d’écorce servie tiède. La lumière descendait par paliers dans les feuillages. Quelque part au-dessus, un chant d’appel passa de plateforme en plateforme, et le jour s’éteignit avec lui.
 
@@ -101,7 +101,7 @@ Une demi-journée de marche vers le sud, entre des troncs dont les racines affle
 
 Six mois. Le même calendrier qu’Evertia, dont je n’avais pas encore touché la côte et que je portais déjà comme une échéance. Je notai le chiffre. Je ne dis pas à Thyris qu’il rejoignait une file d’autres chiffres, tous alignés, tous convergents, sur une carte que je ne montre à personne.
 
-Il y avait autre chose, que le pied remarque avant l’esprit. Depuis deux jours, la Trace croisait des bêtes à contresens. Les singes hurleurs ne descendaient plus boire aux bas-fonds  ; ils grimpaient vers la lisière. Des colonnes de fourmis charriaient leur couvain vers le haut. Un tapir, une bête de boue et de sol, gisait au bord du sentier, mort d’épuisement à mille pieds au-dessus de son domaine, tourné vers le nord. Les Marcheurs le constataient sans effroi  : les hôtes du sol montaient. La jungle, qui respire vers le bas, expirait vers l’extérieur. J’avais vu cela à Ordavan, où les troupeaux avaient quitté la vallée trois jours avant que le sol ne devienne du verre. Ces bêtes ne tenaient pas de registre. Elles savaient seulement de quel côté ne pas rester.
+Il y avait autre chose, que le pied remarque avant l’esprit. Depuis deux jours, la Trace croisait des bêtes à contresens. Les singes hurleurs ne descendaient plus boire aux bas-fonds  ; ils grimpaient vers la lisière. Des colonnes de fourmis charriaient leur couvain vers le haut. Un tapir, une bête de boue et de sol, gisait au bord du sentier, mort d’épuisement à mille pieds au-dessus de son domaine, tourné vers le nord. Les Marcheurs le constataient sans effroi  : les hôtes du sol montaient. J’avais vu cela à Ordavan, où les troupeaux avaient quitté la vallée trois jours avant que le sol ne devienne du verre. Ces bêtes ne tenaient pas de registre. Elles savaient seulement de quel côté ne pas rester.
 
 Kael vivait dans une maison de toile tressée, à mi-hauteur, ouverte aux bruits de la jungle. Assis en tailleur, les yeux ouverts, il fixait un point que la pièce ne contenait pas. La quarantaine  ; il en paraissait soixante. Je m’assis face à lui, Thyris en retrait. Autour de nous, la forêt faisait son bruit, oiseaux, insectes, craquements du bois vivant, goutte-à-goutte de la rosée. Dans cette maison, l’absence se voyait comme le rectangle plus clair d’un mur dont on a décroché le tableau.
 
@@ -128,7 +128,7 @@ Je levai les yeux.
 «  Je note ce qu’il dit.
 — Non.  » Sa voix n’était pas dure  ; elle était exacte, ce qui était pire. «  Tu notes ce que tu peux utiliser.  »
 
-Je ne répondis pas tout de suite. Tout ce qui me venait aurait été un mensonge, et je ne mens pas quand la vérité est plus commode.
+Je ne répondis pas tout de suite. Tout ce qui me venait aurait été un mensonge, et je n’en avais pas besoin.
 
 «  Kael n’est pas un signe sur ta carte, poursuivit-elle. C’est un homme à qui le monde a cessé de répondre. Tu as fait tout ce chemin pour t’asseoir devant lui. Tu ne l’as pas soigné  ; tu n’es pas venu pour ça. Tu es venu prendre la dernière chose qui lui reste, cette phrase, et la ranger dans ton sac avec les autres.  »
 
@@ -217,7 +217,7 @@ Thyris me trouva au petit jour sur la Grande Plateforme, mon sac déjà fait.
 «  Il est reparti, dit-elle. Les esprits du sol se sont tus toute la nuit, puis ils ont recommencé.  » Elle me dévisagea. «  Tu l’avais amené ici.
 — Ici, le terrain était de mon côté, dis-je. Nulle part ailleurs sur la Trace il ne l’aurait été.
 — Et tu l’as laissé partir.  » Ce n’était pas une question. «  Un homme vient te tuer. Tu le tiens au bout d’une lame. Et tu le hisses, et tu le renvoies.  » Elle inclina la tête, de ce geste des Marcheurs qui pèse une charge. «  Hier, je t’ai vu prendre à Kael sa dernière phrase sans rien lui rendre. Cette nuit, tu rends la vie à l’homme qui te chasse. Je ne sais pas encore lequel des deux est le vrai.
-— Peut-être les deux, dis-je. Peut-être qu’on ne prend chez les vivants que ce qu’ils ne pourront plus dire, et qu’on épargne, quand on peut, ce qui n’est pas à soi.  »
+— Peut-être les deux, dis-je. Je prends ce qui va se perdre. Le reste ne m’appartient pas.  »
 
 Elle ne répondit pas, mais elle m’accompagna jusqu’à la lisière nord, là où la Trace remonte vers Lythar et le vent des steppes, là où Warenthor rend le voyageur à la lumière plate des plaines. Avant de me quitter, elle regarda le tatouage de son propre bras. Le serpent ne bougeait plus.
 

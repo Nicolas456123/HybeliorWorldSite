@@ -19,7 +19,7 @@ status: draft
 
 La steppe m’a d’abord pris le couvert.
 
-Depuis Warenthor, depuis la voûte d’Ackerna, je marchais sous des arbres. Dans une forêt, l’horizon tient à dix pas  ; derrière le prochain fût, il peut y avoir un village, un ravin, un homme qui vous suit. On ne voit rien venir. À la longue, je m’y étais fait, et mieux que fait  : ce que je ne voyais pas ne me voyait pas non plus.
+Depuis Warenthor, depuis la voûte d’Ackerna, je marchais sous des arbres. Dans une forêt, l’horizon tient à dix pas  ; derrière le prochain fût, il peut y avoir un village, un ravin, un homme qui vous suit. On ne voit rien venir. À la longue, je m’y étais fait  : le couvert qui m’aveuglait me cachait aussi.
 
 En Lythar, l’horizon est à cent lieues.
 
@@ -86,7 +86,7 @@ Quand je demandai des précisions, le jeune homme murmura quelques mots, vite, l
 «  Demandez-lui depuis quand, dis-je.
 — Depuis l’automne, je vous l’ai dit.
 — Un jour précis  ?
-— La steppe ne compte pas les jours, répondit Ryvan sans traduire. Elle compte les vents.  »
+— Il ne vous donnera pas de date, répondit Ryvan sans traduire. Ici, on compte les vents, pas les jours.  »
 
 Le Cavalier lâcha une dernière phrase, plus bas que le reste. Ryvan ne me la donna pas tout de suite.
 
@@ -194,7 +194,7 @@ Je demandai pourtant, parce que je demande toujours  :
 
 Elle me parla ensuite de sa maison, le couvent de Mythoria, où l’on garde des feuillets couverts d’une écriture que personne ne lit plus, venue, disait-elle, du plateau de Mirathi, où les Oracles la gardent sans la lire. Je consignai le nom. J’avais déjà croisé cette écriture  : à Gryndor, dans le fragment qu’on m’avait laissé copier  ; dans un relevé de Cendra, où je ne suis pas encore allé  ; dans une bouche à Ordavan  ; dans le carnet aussi. La même famille de signes affleure d’un bout du monde à l’autre, et personne ne me l’a jamais donnée entière. Je n’ai pas essayé de la déchiffrer. Ce n’est pas mon travail de lire ce que je ne peux pas lire  ; mon travail est de noter où l’illisible reparaît, et de déposer la note là où quelqu’un, un jour, saura.
 
-Elle repartit vers ses vallées voilées, et je repris la route de l’eau. Je n’entrai pas en Vytharia  ; je savais déjà que j’y reviendrais. Ce que je ne savais pas encore, c’est que ce ne serait pas pour m’y reposer.
+Elle repartit vers ses vallées voilées, et je repris la route de l’eau. Je n’entrai pas en Vytharia  ; je savais déjà que j’y reviendrais.
 
 ---
 
@@ -262,7 +262,7 @@ Vaelmar recula, puis la steppe derrière le port, puis tout Lythar, avalé par l
 
 Assis à l’arrière, le dos aux voyageurs, mon journal ouvert sur les genoux, je fis mes comptes, comme chaque soir. Quatre cent quatre-vingt-dix jours. Une steppe traversée. Une lisière de rêve à laquelle je reviendrais. Un enfant qui m’a dit que je sonne. Deux hommes en gris qui ont pesé mes pages et rendu mes papiers sans me regarder.
 
-Voici ce que je tiens, ce soir, en me rappelant qu’une lecture reste fragile tant que rien ne l’a confirmée. Des chevaux refusent les creux de Lythar depuis l’automne, comme si une pression montait du fond. Les esprits de Foedus Animae répondent de plus loin, comme derrière une vitre. En Vytharia, on rêve un homme avant qu’il n’arrive, et l’on nomme semailles ce que je nomme relevés. Un enfant aux yeux blancs entend, sous ma poitrine, ce qui bat sous les villes. Et l’appareil qui me suit depuis Lumasar a changé de proie sans que je l’aie provoqué  : il ne cherche plus le fugitif, il cherche le papier.
+Voici ce que je tiens ce soir, et rien là-dedans n’est encore confirmé. Des chevaux refusent les creux de Lythar depuis l’automne, comme si une pression montait du fond. Les esprits de Foedus Animae répondent de plus loin, comme derrière une vitre. En Vytharia, on rêve un homme avant qu’il n’arrive, et l’on nomme semailles ce que je nomme relevés. Un enfant aux yeux blancs entend, sous ma poitrine, ce qui bat sous les villes. Et l’appareil qui me suit depuis Lumasar a changé de proie sans que je l’aie provoqué  : il ne cherche plus le fugitif, il cherche le papier.
 
 De ces cinq lignes, quatre m’échappent et m’échapperont sans doute toujours. Ce qui remonte, d’où, pour quoi  : je ne le cartographierai pas. Ce n’est pas mon travail de dessiner ce que je ne peux pas voir, et je me méfie de tout homme qui prétend le contraire. Reste la cinquième, que je comprends très bien. On a cessé de me chasser pour chasser ce que j’écris, et j’y perds moins qu’il n’y paraît  : de tout ce que je porte, le journal est le seul objet que je n’ai jamais eu l’intention de garder.
 
