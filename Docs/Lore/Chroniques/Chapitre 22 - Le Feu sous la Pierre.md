@@ -120,21 +120,21 @@ Le cratère n’est pas un gouffre. C’est une lèvre  : un anneau de roche no
 
 Vharn a posé son sac et m’a laissé avancer seul jusqu’à une avancée de basalte que les Guetteurs de Feu utilisent depuis des générations, creusée au milieu par les coudes de tous ceux qui s’y sont appuyés pour regarder.
 
-J’ai posé la main sur la pierre.
+Je me suis appuyé là, les coudes dans le creux des autres.
 
-Le battement était là.
+Le battement est monté par les avant-bras.
 
-Pas entendu. Senti. Dans la poitrine, et sous la poitrine, dans un endroit plus ancien que le souffle et que je ne savais pas avoir. Une pression régulière, étrangère à mon cœur, qui n’accélérait pas quand le mien accélérait et ne ralentissait pas quand je retenais mon souffle. Comme lorsqu’on pose la paume sur la gorge de quelqu’un qui chante, et que la vibration passe dans les os de la main.
+Il est entré par l’os, il a traversé les épaules et il est allé se loger derrière les côtes, à l’endroit exact où je l’avais reçu à Brumaris, un soir, assis au ras de l’eau. Plus fort ici. Même allure, même indifférence  : mon cœur cognait encore de la montée et le battement ne s’est pas mis à son pas  ; j’ai retenu mon souffle, il a continué sans moi.
 
 Un Délié ne sent pas cela.
 
 Encore une fois, parce qu’il faut que je le voie écrit  : Délié. Vérifié à treize ans par l’épreuve de discernement, confirmé depuis par tous ceux qui savent lire ces choses. Aucune prise sur la trame du monde. À cinquante lieues à la ronde, des centaines de Liés reçoivent cette pulsation dans leurs rêves, et les prêtres la consignent depuis deux générations. C’est un phénomène qui n’est pas pour moi. Je n’aurais rien dû sentir.
 
-J’ai cherché des raisons. L’altitude, qui trompe le pouls. La chaleur du basalte, qu’on prend pour un rythme. La suggestion  : Kessa avait parlé, mon corps fabriquait ce que mon esprit attendait. Trois explications en quelques secondes, toutes raisonnables, aucune qui ait tenu plus longtemps que le temps de la formuler. Le battement continuait sous ma main.
+J’ai repris les trois raisons de Brumaris dans le même ordre  : l’altitude, qui trompe le pouls  ; la chaleur de la roche, qu’on prend pour un rythme  ; la suggestion, Kessa ayant parlé et mon corps fabriquant ce que mon esprit attendait. Aucune n’a tenu plus longtemps qu’en bas. Alors j’ai compté, comme je l’avais annoncé à Vharn  : la durée d’une pression, l’écart jusqu’à la suivante, à petits souffles par la bouche. J’ai porté les chiffres au cahier. C’était ce que j’étais monté prendre. Le battement continuait sous mes coudes.
 
 Et je le reconnaissais.
 
-Voilà ce que je n’ai pas su ranger dans une colonne. Je ne rencontrais pas ce battement. Je le retrouvais. Ma main l’a reconnu avant moi, comme on reconnaît un pas dans un couloir sans lever les yeux. Je n’ai pas cherché plus loin ce jour-là.
+Voilà ce que je n’ai pas su ranger dans une colonne. Je ne rencontrais pas ce battement. Je le retrouvais. Mon corps l’a reconnu avant moi, comme on reconnaît un pas dans un couloir sans lever les yeux. Je n’ai pas cherché plus loin ce jour-là.
 
 Vharn s’était accroupi à quelques pas.
 

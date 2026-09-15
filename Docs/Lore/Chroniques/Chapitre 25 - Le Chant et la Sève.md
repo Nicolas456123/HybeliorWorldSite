@@ -26,9 +26,9 @@ Une seule. Longue, grave, portée sur l’eau bien plus loin que la distance ne 
 «  Le Cantus du matin, dit-il, la pale suspendue au-dessus de l’eau. Ils chantent trois fois. À l’aube, à midi, et quand la lumière tombe. Par temps calme, on les entend de l’autre bord de la baie.
 — Pour quoi faire  ?  »
 
-Le rameur chercha ses mots. Il avait la réponse  ; ce qui lui manquait, c’était la manière de la dire à quelqu’un pour qui elle n’allait pas de soi.
+Le rameur chercha ses mots. La réponse allait de soi pour lui, et il ne savait pas par quel bout la prendre pour un étranger.
 
-«  Pour que les choses se souviennent d’elles-mêmes, finit-il par répondre. Le chant leur rappelle ce qu’elles sont. Les pierres, l’eau, les arbres. Depuis quelque temps, il paraît qu’elles oublient plus vite.  »
+«  Pour les pierres, l’eau, les arbres, finit-il par répondre. Le chant leur rappelle ce qu’elles sont. C’est ce que disent les Canteurs, moi je répète. Depuis quelque temps, il paraît qu’elles oublient plus vite.  »
 
 La rame replongea.
 
@@ -46,7 +46,7 @@ Je lui dis assez de vérité pour être utile. Que je relevais depuis deux ans, 
 
 Le vieux m’écouta jusqu’au bout sans m’interrompre.
 
-«  Vous parlez comme quelqu’un qui a déjà entendu la réponse, observa-t-il, et qui vient vérifier qu’il l’a bien entendue.
+«  Vous posez vos questions comme un homme qui connaît déjà les réponses et qui les vérifie, observa-t-il.
 — Je vérifie tout. C’est mon métier.
 — Le mien aussi.  »
 
@@ -58,8 +58,8 @@ Sa main se posa à plat sur la table, paume ouverte, un geste que je reverrais.
 
 Il me jaugea du regard, comme on jauge un outil avant de s’en servir.
 
-«  Je peux vous y conduire. Mais je vous préviens d’une chose, cartographe, et vous en ferez ce que vous voudrez. Ce que vous verrez là-bas n’est pas une leçon. C’est une agonie. On n’y prend pas de notes comme au marché.
-— Je ne prends jamais de notes comme au marché.
+«  Je peux vous y conduire. Mais je vous préviens, cartographe  : là-haut, une chose est en train de mourir. On n’y prend pas de notes comme au marché.
+— Je prends mes notes de la même façon partout.
 — C’est ce que je crains.  »
 
 Puis il se leva. Rien sur son visage ne m’apprit s’il m’avait accepté ou percé. Ce qui suivit, c’est qu’il m’invita à sa table pour le repas du soir.
@@ -70,7 +70,7 @@ Une huitaine de Canteurs et de compositeurs, de rangs divers, mangeaient ce soir
 
 Puis les fils vinrent, l’un après l’autre, chacun ajoutant à ce qu’un autre avait commencé, et je notai en marge ceux qui tenaient.
 
-Le premier  : le Cantus est plus vieux que Thalmaris. On le fait remonter à des communautés d’avant la monarchie, dont les archives manquent, mais qui semblent l’avoir inventé non pas d’abord comme un art, mais comme une réponse. Les premiers Canteurs n’étaient pas des artistes. C’étaient des gardiens.
+Le premier vint d’un Canteur qui repoussa son bol pour avoir la place de ses mains  : le Cantus est plus vieux que Thalmaris. On le fait remonter à des communautés d’avant la monarchie, dont les archives manquent, mais qui semblent l’avoir inventé non pas d’abord comme un art, mais comme une réponse. Les premiers Canteurs n’étaient pas des artistes. C’étaient des gardiens.
 
 «  Gardiens de quoi  ? demandai-je.
 — Du lien entre ce qui a conscience et ce qui n’en a pas, répondit Voix-de-Pierre sans hâte. Les pierres, l’eau, l’air ont chacun leur fréquence. Le chant les reconnaît et les tient.  »
@@ -92,7 +92,7 @@ Voix-de-Pierre posa de nouveau la main à plat sur la table.
 
 «  Chez nous, on apprend cela aux enfants. Quand une note glisse, on ne chante pas plus fort par-dessus. On écoute où elle veut tomber.
 — Et si elle veut tomber trop bas  ?
-— On descend avec elle. Assez pour la retenir. Pas assez pour se perdre.  »
+— On descend avec elle, aussi bas que la gorge suit. Plus bas, on casse la voix et on ne retient rien.  »
 
 La phrase alla sous les dix-huit mois. Elle valait pour le chant, et sans doute pour d’autres pratiques, mais ce n’était pas devant huit chanteurs que j’allais le vérifier.
 
@@ -109,7 +109,7 @@ Ce n’était pas une question.
 «  J’y étais hier.
 — On est cinq à saigner la rive sud.  » Il ouvrit la main, doigts écartés, comme pour se compter lui-même. «  La guilde nous compte douze sur ses registres. Si vous écrivez des choses, écrivez celle-là.
 — Pourquoi me la dire à moi  ?
-— Parce que vous êtes étranger. Aux gens d’ici, on a déjà tout dit. Les gens d’ici trouvent que la sève est sacrée et que le sacré ne se compte pas. Aux étrangers qui notent, on n’a pas encore tout dit.  »
+— Parce que vous êtes étranger. Ici, j’ai déjà tout dit à tout le monde. Pour eux la sève est sacrée, et le sacré, ça ne se compte pas. Vous, vous notez.  »
 
 Le calcul n’était pas caché, et je le notai avec le reste.
 
@@ -215,13 +215,13 @@ Voix-de-Pierre rouvrit les yeux, me chercha du regard à l’autre bout de la sa
 
 Quand les autres se furent dispersés, il vint à moi, la voix râpée d’avoir tenu le grave si longtemps.
 
-«  La fréquence de Sylvara, dit-il. Vous l’avez sentie, ne mentez pas, je l’ai vu sur vous là-bas. C’est la même. Ce n’est pas la voix de l’arbre. C’est la voix de la terre, celle qu’elle a toujours eue et que rien ne faisait vibrer. Quelque chose, en dessous, s’est mis à la frapper. Et la terre répond, comme la pierre de cette salle.
+«  La fréquence de Sylvara, dit-il. Vous l’avez sentie, ne mentez pas, je l’ai vu sur vous là-bas. C’est la même. Elle vient de la terre, pas de l’arbre. La terre l’a toujours eue, et rien ne la faisait vibrer. Quelque chose, en dessous, s’est mis à la frapper. Et la terre répond, comme la pierre de cette salle.
 — Est-ce mauvais  ?
-— Ni bon ni mauvais. Pas plus qu’un tremblement de terre.  » Il prit le temps de la réponse. «  Ce qui compte, c’est ce que vous faites pendant.
+— Ni bon ni mauvais. Pas plus qu’un tremblement de terre.  » Il prit le temps de la réponse. «  La question, c’est ce qu’on fait pendant.
 — Et que fait-on  ?
-— On continue de chanter. Tant que le Cantus dure, les choses se souviennent de ce qu’elles sont, et elles se laissent moins changer.  » Il s’appuya sur son bâton. «  Et les cartographes, que font-ils, quand le sol bouge  ?
+— On continue de chanter. Tant que le Cantus dure, les choses tiennent mieux leur place.  » Il s’appuya sur son bâton. «  Et les cartographes, que font-ils, quand le sol bouge  ?
 — Ils relèvent le nouveau tracé.
-— Alors vous et moi faisons le même métier par les deux bouts. Je rappelle aux choses ce qu’elles sont. Vous notez ce qu’elles deviennent.  »
+— Vous notez ce que les choses deviennent, alors. Moi, je leur rappelle ce qu’elles sont. Chacun son bout.  »
 
 Son regard prit une gravité que je ne lui connaissais pas.
 
@@ -234,7 +234,7 @@ Six cents jours de cahiers. Personne ne m’avait encore posé la question ainsi
 
 Sa main se tendit vers moi, paume ouverte, ce geste encore.
 
-«  Bon voyage. Écrivez juste. Vous ne retiendrez rien d’autre.  »
+«  Bon voyage. Écrivez-le bien  : c’est tout ce que vous emporterez d’ici.  »
 
 Je pris sa main sans relever qu’il venait, à son insu, de me donner la même définition qu’Elwenn au pied de l’arbre. Ce soir-là, sur la page, je commençai une phrase et ne l’achevai pas. La marge disait déjà ce qu’il fallait.
 
