@@ -47,13 +47,13 @@ Au *Foyer de Rendal*, dans le quartier marchand, je pris une chambre assez loin 
 
 «  Ça ne sert pas à grand-chose, lâcha-t-elle.
 — C’est mieux que rien.
-— Garde-le quand même.  » Elle prit le tissu entre deux doigts, l’évalua comme une étoffe au marché, le relâcha. «  Pas parce qu’il te sauvera. Parce que tu te rappelleras que l’air n’a pas ce goût partout.  »
+— Garde-le quand même.  » Elle prit le tissu entre deux doigts, l’évalua comme une étoffe au marché, le relâcha. «  Il ne te sauvera pas. Mais tu l’auras sur la bouche, et tu te rappelleras que l’air n’est pas comme ça partout.  »
 
 Personne, à Haliandris, ne porte de protection. En porter une reviendrait à admettre que la ville vous fait du mal, et un Myrtamite ne l’admet pas  : il l’accepte, et il le range dans ses prières. Le sifflement de Dorvha, la toux sèche des forgerons, l’essoufflement des porteurs de roche ont un nom que tout le monde emploie  : le souffle d’Eldoria. L’air de la déesse dans les poumons. Une bénédiction lente.
 
 «  Tu écris ça dans ton livre, constata-t-elle en me voyant noter.
 — Je note la formule.
-— Note aussi que je ris quand le prêtre la dit.  » Elle remplit mon bol de soupe noire, et le sifflement reprit entre deux phrases. «  Et note que je reste. On n’a pas tous un foulard et une frontière.  »
+— Note aussi que je ris quand le prêtre la dit.  » Elle remplit mon bol de soupe noire, et le sifflement reprit entre deux phrases. «  Et note que je reste. Je n’ai pas de foulard, moi, et pas d’autre pays où aller.  »
 
 La remarque finit dans la marge  ; elle était juste. J’étais venu juger l’air de sa ville avec une chambre payée pour dix jours et un foulard que j’ôterais en sortant du pays.
 
@@ -67,7 +67,7 @@ Je remerciai Dorvha et montai. Un homme avait traversé la moitié d’un contin
 
 ---
 
-Apprendre Haliandris me prit quatre jours. Respirer court, sans forcer les poumons dans l’air épais. Lire des rues qui n’ont rien du désordre des villes anciennes  : une logique de rendement, des quartiers découpés par fonction plutôt que par histoire. On me jaugerait sur mon travail  ; ma sympathie n’y ferait rien, mon exil non plus. Quand je disais cartographe, on me demandait l’échelle et la méthode. Quand je montrais un relevé, on l’examinait comme une pièce au sortir de la forge, pour voir s’il tenait.
+Apprendre Haliandris me prit quatre jours. Respirer court, sans forcer les poumons dans l’air épais. Le troisième jour, la cendre grisait la tranche du carnet, et je pris l’habitude de m’essuyer les doigts avant chaque trait. Lire des rues qui n’ont rien du désordre des villes anciennes  : une logique de rendement, des quartiers découpés par fonction plutôt que par histoire. On me jaugerait sur mon travail  ; ma sympathie n’y ferait rien, mon exil non plus. Quand je disais cartographe, on me demandait l’échelle et la méthode. Quand je montrais un relevé, on l’examinait comme une pièce au sortir de la forge, pour voir s’il tenait.
 
 Thyrald, un vieux graveur de lames, examina ainsi ma carte du plateau  : la feuille à deux mains, inclinée vers la lumière de son foyer, le pouce suivant les courbes de niveau.
 
@@ -77,15 +77,15 @@ Aucun compliment plus complet ne m’attendait à Myrtam. Le soir même, je le n
 
 «  Un outil pour qui  ? demanda-t-il sans rendre la feuille.
 — Pour ceux qui passeront après moi.
-— Alors on fait le même métier.  » Il me rendit la carte et reprit sa lame. «  C’est pour ça qu’on signe les routes. Vordhal est mort depuis deux cents ans. Sa section n’a pas bougé.  »
+— Moi aussi, je travaille pour ceux-là.  » Il me rendit la carte et reprit sa lame. «  C’est pour ça qu’on signe les routes. Vordhal est mort depuis deux cents ans. Sa section n’a pas bougé.  »
 
-Il retourna à son travail et n’ajouta rien. Ce qu’il venait de dire décrivait mon métier mieux que je ne le décris moi-même. Je ne le lui dis pas.
+Il retourna à son travail et n’ajouta rien. C’était vrai. Je ne le lui dis pas.
 
 ---
 
 Le cinquième jour, un Intendant royal me convoqua.
 
-Les Intendants n’arrêtent personne  : ils font arrêter, et ce qu’ils font eux-mêmes ressemble à une évaluation. Celui du quartier marchand travaillait dans une salle aux murs couverts de colonnes de chiffres  ; un homme carré, taillé dans la même matière que ses bâtiments. L’homme voulut savoir si je produisais des cartes de Myrtam, pour qui, à quelle échelle. Je répondis sans mentir  : pour mes archives, à l’échelle des marges, sans commanditaire.
+Les Intendants n’arrêtent personne  : ils font arrêter, et ce qu’ils font eux-mêmes ressemble à une évaluation. Celui du quartier marchand travaillait dans une salle aux murs couverts de colonnes de chiffres  ; un homme carré, taillé dans la même matière que ses bâtiments. Il ne me fit pas asseoir. Il voulut savoir si je produisais des cartes de Myrtam, pour qui, à quelle échelle. Je répondis sans mentir  : pour mes archives, à l’échelle des marges, sans commanditaire.
 
 Il m’écouta comme Thyrald avait examiné ma carte, en cherchant le défaut, et n’en trouva pas dans mes réponses. Alors il posa sur la table de fonte une demi-feuille pliée.
 
@@ -104,13 +104,13 @@ Dehors, l’air chargé me parut presque léger. Ma copie de Lumasar circulait d
 
 Ferrath m’adressa la parole le troisième soir, quand la salle commune se fut vidée jusqu’à nous deux.
 
-L’insigne du Syndicat des Profondeurs était cousu à son épaule, et personne dans l’auberge ne le regardait, d’un non-regard qui demandait un effort. Compagnon déchu, quatrième échelon, mis à pied d’une forge d’Ardentris six mois plus tôt. Sa chute tenait en une phrase, qu’il me livra plus tard  : «  Une lame présentait un défaut de trempe. C’était la mienne.  » À Myrtam, un défaut de trempe vaut aveu d’insuffisance, comme ailleurs une fuite devant l’ennemi. Le pays fabrique des hommes excellents, et il ne compte pas ceux qu’il casse en route.
+L’insigne du Syndicat des Profondeurs était cousu à son épaule, et personne dans l’auberge ne le regardait, d’un non-regard qui demandait un effort. Compagnon déchu, quatrième échelon, mis à pied d’une forge d’Ardentris six mois plus tôt. Il me dirait plus tard comment il était tombé  : «  Une lame présentait un défaut de trempe. C’était la mienne.  » À Myrtam, un défaut de trempe vaut aveu d’insuffisance, comme ailleurs une fuite devant l’ennemi. Le pays fabrique des hommes excellents, et il ne compte pas ceux qu’il casse en route.
 
 Ce soir-là, il ne dit pas un mot du Syndicat  ; il parla de la trempe volcanique, avec la précision et le regret d’un homme qui avait aimé son métier avant d’en être exclu.
 
-«  On ne trempe pas une lame dans la lave, on l’écoute, dit-il. Elle chante en descendant. La note dépend de la vitesse, de l’alliage, du moment dans le cycle de chaleur des failles. Un bon Compagnon lit ce chant comme un médecin lit un pouls.
+«  Quand on trempe une lame dans la lave, on l’écoute, dit-il. Elle chante en descendant. La note dépend de la vitesse, de l’alliage, du moment dans le cycle de chaleur des failles. Un bon Compagnon entend tout de suite si elle est juste.
 — Et un mauvais  ?
-— Un mauvais l’entend trop tard.  » Il fit tourner son bol entre ses paumes. «  Il y en a chez nous pour dire que la lave parle. Qu’à force d’écouter, on finit par entendre autre chose dessous. Pas le métal. La faille elle-même.
+— Un mauvais s’en aperçoit une fois la lame froide.  » Il fit tourner son bol entre ses paumes. «  Il y en a chez nous pour dire que la lave parle. Qu’à force d’écouter, on finit par entendre autre chose dessous. Pas le métal. La faille elle-même.
 — Et qu’est-ce qu’elle dit  ?  »
 
 Le bol s’immobilisa entre ses mains, pour la première fois de la soirée.
@@ -128,7 +128,7 @@ Le quatrième soir, Ferrath me parla du Syndicat.
 Mon bol retrouva la table. Je connaissais mieux que lui la chose qu’il décrivait  : une main lente, procédurière, qui ne tue pas la vérité mais l’homme qui la note. Elle s’était abattue un mois plus tôt sur un savant de Valoria, et sur d’autres avant lui. La même main voyageait par des canaux absents de tout registre, et ici elle m’avait précédé. L’Intendant me l’avait presque dit.
 
 «  À quoi tu les reconnais, ces gens-là, quand ils viennent  ? demandai-je.
-— Ils ne demandent jamais le chemin.  » Il ramassa une miette sur la table, la considéra. «  Ils l’ont déjà. Ils demandent des noms.  » Il releva les yeux. «  Toi, tu demandes le chemin. C’est pour ça que je te parle.  »
+— Ils ne demandent jamais le chemin.  » Il ramassa une miette sur la table, la considéra. «  Ils l’ont déjà. Ils demandent des noms.  » Il releva les yeux. «  Toi, tu demandes ton chemin comme tout le monde. C’est pour ça que je te parle.  »
 
 Libre à lui de le croire. Il avait raison à moitié. Je connaissais déjà le chemin  ; c’étaient les noms que j’étais venu chercher, avant que d’autres ne viennent les prendre.
 
@@ -138,10 +138,10 @@ La veille de mon départ pour Ardentris, Ferrath m’emmena voir ce que je n’a
 
 La fonte était tiède. Puis la vibration monta sous la paume, le long des os de l’avant-bras, jusqu’au coude. Cette main-là, je l’avais déjà posée cinq fois, sous cinq latitudes, sans avoir eu à chercher l’endroit  : je savais où ça battait.
 
-«  Tu la sens.  » Ce n’était pas une question.
+«  Tu la sens.  » Il ne demandait pas.
 
 «  Je sens une machine, ou une eau, ou une bête. Je ne sais pas laquelle.
-— Personne ne sait laquelle. C’est ça qui use les gens d’ici. Pas la cendre.  » Il écarta ma main du grillage, doucement, comme on éloigne quelqu’un d’un bord. «  La cendre, on la balaie.  »
+— Personne ne sait laquelle. C’est ça qui use les gens d’ici.  » Il écarta ma main du grillage, doucement. «  La cendre, on la balaie tous les matins et on n’y pense plus.  »
 
 ---
 
@@ -222,7 +222,7 @@ Quatre points, quatre pays, quatre registres qui ne se parlent pas  : des druid
 
 Un homme seul qui affirme se laisse contredire, classer, oublier  ; on me l’a fait à Rukhsar, dans les formes. Mais une forêt du nord-ouest, une cloche scellée d’Alkaran, une mine et un temple qui n’ont jamais échangé une lettre, et qui nomment la même chose au même moment dans quatre langues étrangères l’une à l’autre, cela ne se réfute pas  : il faudrait acheter le silence de continents entiers. Le recoupement est ma seule arme, et on ne peut pas la confisquer  : elle n’est nulle part en entier. Je le note ici comme une méthode. Je m’en servirai plus tard comme d’autre chose.
 
-Au bas de la page, j’écrivis  : *Je reconnais.* Puis je barrai le mot et j’écrivis à la place  : *Je vois.* La barre vaut mieux que la phrase.
+Au bas de la page, j’écrivis  : *Je reconnais.* Puis je barrai le mot, d’un seul trait, sans appuyer, et j’écrivis à la place  : *Je vois.*
 
 Je suis cartographe. Je dessine ce que je vois, je mesure ce qui se mesure, et je laisse l’interprétation à ceux qui ont des systèmes pour interpréter. Je n’ai pas de système pour ce que je commence à voir. Je n’ai que des points sur une carte que je ne sais pas encore dessiner. Mais je vois ces points converger, et je ne peux pas, en conscience, prétendre qu’ils ne disent rien. La quatrième colonne était pleine. La page tenait. On ne pouvait plus la démonter sans la reconstruire entière.
 
@@ -230,7 +230,7 @@ En tournant les feuilles, je retrouvai le carré de cuir du porteur des steppes,
 
 ---
 
-Au matin, avant de reprendre la route, je recopiai la page des quatre colonnes sur un feuillet à part, d’une main lente, et je la confiai non à la Vorne mais à un convoyeur de fonte qui descendait vers la côte par la route du sud, un homme que je n’avais jamais vu et que je ne reverrais pas. L’avertissement du porteur des steppes valait consigne  : on lisait mon courrier avant lui. Le feuillet ne portait ni mon nom ni ma destination, et une moitié seulement de ce que je savais. Quant au porteur venterai, je n’eus plus jamais de nouvelles. Je notai la date de son dernier passage, et rien d’autre  ; il n’y avait rien d’autre à noter.
+Au matin, avant de reprendre la route, je recopiai la page des quatre colonnes sur un feuillet à part, d’une main lente, en soufflant sur l’encre au bas de chaque colonne, et je la confiai non à la Vorne mais à un convoyeur de fonte qui descendait vers la côte par la route du sud, un homme que je n’avais jamais vu et que je ne reverrais pas. L’avertissement du porteur des steppes valait consigne  : on lisait mon courrier avant lui. Le feuillet ne portait ni mon nom ni ma destination, et une moitié seulement de ce que je savais. Quant au porteur venterai, je n’eus plus jamais de nouvelles. Je notai la date de son dernier passage, et rien d’autre  ; il n’y avait rien d’autre à noter.
 
 Je quittai Myrtam sous les cendres.
 
