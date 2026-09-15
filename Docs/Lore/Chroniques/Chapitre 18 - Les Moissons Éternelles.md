@@ -17,9 +17,9 @@ status: draft
 
 ---
 
-L’odeur arrive avant le pays.
+Sylthara commence par une odeur.
 
-Deux heures avant les premiers champs, j’ai su que j’entrais en Sylthara rien qu’en respirant  : du pain, de la terre mouillée, de l’herbe coupée, et la note sucrée d’un moût qu’on foulait quelque part derrière une ligne de collines que je ne voyais pas encore. Une frontière marquée à la fermentation. Après le sol de verre d’Ordavan, après les plateaux de Pyrtara où l’air lui-même tient un compte, cette douceur m’a pris à la gorge.
+Deux heures avant les premiers champs, l’air en était déjà plein  : du pain, de la terre mouillée, de l’herbe coupée, et la note sucrée d’un moût qu’on foulait quelque part derrière une ligne de collines que je ne voyais pas encore. Une frontière marquée à la fermentation. Après le sol de verre d’Ordavan, après les plateaux de Pyrtara où l’air lui-même tient un compte, cette douceur m’a pris à la gorge.
 
 Vingt-cinq jours de marche depuis la Brigade. Les gorges volcaniques avaient cédé peu à peu à un pays plus horizontal, moins nerveux, qui ne cherchait pas à se défendre. Les chemins de terre battue suivaient le relief au lieu de le corriger  : ils passaient là où le sol offrait le passage, pas là où un ingénieur l’aurait décidé. À ce seul détail, on devinait une terre tenue par des gens qui la connaissent.
 
@@ -31,7 +31,7 @@ Passé la crête, Amaroth s’est ouvert.
 
 ---
 
-Les vignobles couvraient les collines par vagues. Rangée après rangée, les sarments viraient du vert sombre à l’ocre puis au bordeaux, et l’ondulation du terrain faisait respirer les couleurs, qui avançaient et reculaient selon l’angle de la route. Entre les vignes, des vergers  : pommiers, poiriers, noisetiers dont les feuilles brunissaient dans l’air frais. En Amaroth, m’avait-on dit à Pyrtara, la moisson ne finit jamais tout à fait  : le blé rentré, viennent les pommes  ; les pommes cueillies, les vendanges  ; le moût foulé, les semailles. Je n’avais pas traversé de pays aussi comblé depuis le premier jour. Rien, ici, ne donnait l’idée qu’un monde puisse finir.
+Les vignobles couvraient les collines par vagues. Rangée après rangée, les sarments viraient du vert sombre à l’ocre puis au bordeaux, et l’ondulation du terrain faisait respirer les couleurs, qui avançaient et reculaient selon l’angle de la route. Entre les vignes, des vergers  : pommiers, poiriers, noisetiers dont les feuilles brunissaient dans l’air frais. Au bord de la route, un tas de marc pressé fumait encore, et les guêpes tournaient dessus par dizaines. En Amaroth, m’avait-on dit à Pyrtara, la moisson ne finit jamais tout à fait  : le blé rentré, viennent les pommes  ; les pommes cueillies, les vendanges  ; le moût foulé, les semailles. Je n’avais pas traversé de pays aussi comblé depuis le premier jour. Rien, ici, ne donnait l’idée qu’un monde puisse finir.
 
 C’était peut-être cela, le plus troublant. À Ordavan, la catastrophe se lit dans le sol  : il suffit de regarder le verre. À Pyrtara, elle se lit sur les visages des Déliés qui comptent les jours. Ici, elle ne se lisait nulle part. Les greniers débordaient, les enfants étaient ronds, le vin coulait. L’abondance occupait l’œil, et sous une table aussi bien garnie, personne n’avait envie de chercher plus bas. J’étais venu pour chercher plus bas.
 
@@ -47,13 +47,13 @@ Ce n’était pas une question.
 
 Il essuya ses mains à sa blouse, lentement.
 
-«  Alors on vous a mal renseigné, dit-il. Personne n’entend le sol. On l’écoute, et c’est un travail. La terre ne parle à personne. Elle répond, quand on l’interroge bien.
+«  On vous a dit ça de travers, dit-il. Je n’entends rien. Je regarde la couleur, je frotte la terre, je compte les jours entre le semis et la levée. C’est un travail. Elle répond, si on sait l’interroger.
 — Qui vous a appris à l’interroger  ?
-— Soixante ans. Il n’y a pas d’autre maître.  »
+— Soixante ans dans les mêmes parcelles. Personne ne me l’a appris.  »
 
 D’un geste, il montra l’échelle, le panier, le pommier, et derrière eux le village entier et les collines.
 
-«  Vous resterez pour la récolte. À Ydralis, les visiteurs ne demandent pas  : ils restent. La seule question, c’est la grange ou la maison. La maison est plus petite. Plus chaude. La saison tourne.  »
+«  Vous resterez pour la récolte. Ici, les gens qui passent ne demandent pas, ils restent. Vous avez le choix entre la grange et la maison. La grange est plus grande, la maison est plus chaude. Les pommes sont prêtes.  »
 
 J’ai pris la maison. Je n’allais pas refuser le toit d’un homme que j’étais venu écouter.
 
@@ -174,7 +174,7 @@ Depuis quatre cent vingt-cinq jours, ma vie est faite de surfaces  : observer, 
 
 Le soir, Emris m’a tendu une miche enveloppée dans un linge, encore chaude, et avec elle une chose que je n’ai pas su où ranger.
 
-«  Écris que tu as été accueilli, dit-elle sans s’arrêter, déjà tournée vers la tâche suivante. Vous autres voyageurs, vous n’écrivez que les étrangetés.
+«  Écris que tu as été accueilli, dit-elle sans s’arrêter, déjà tournée vers la tâche suivante. Ceux qui passent ici s’en vont raconter nos pommes qui brillent, jamais le reste.
 — L’ordinaire prouve peut-être davantage.
 — Alors écris-le.  »
 
@@ -182,9 +182,9 @@ Le soir, Emris m’a tendu une miche enveloppée dans un linge, encore chaude, e
 
 Talvind est mort dans la nuit du troisième jour.
 
-Au matin, on a relevé le corps au pied du grenier communal. Il y était monté dans la nuit, a dit Paroth, chercher on ne sait quoi dans les registres, à une heure où il n’y avait rien à y chercher. Le médecin du bourg voisin, appelé à l’aube, a parlé du cœur. Un homme de son âge. Les femmes qui lavaient le corps parlaient d’autre chose, à voix basse  : la veille de la grande récolte, un semeur qui s’en va la nuit d’avant qu’on rentre les fruits, le mauvais présage que c’est. «  Quelle coïncidence, qu’il parte juste maintenant  », a dit l’une. Une autre l’a fait taire.
+Au matin, on a relevé le corps au pied du grenier communal. Il y était monté dans la nuit, a dit Paroth, chercher on ne sait quoi dans les registres, à une heure où il n’y avait rien à y chercher. Le médecin du bourg voisin, appelé à l’aube, a parlé du cœur. Un homme de son âge. Les femmes qui lavaient le corps parlaient d’autre chose, à voix basse  : la veille des vendanges, un semeur qui s’en va la nuit d’avant qu’on rentre le raisin, le mauvais présage que c’est. «  Quelle coïncidence, qu’il parte juste maintenant  », a dit l’une. Une autre l’a fait taire.
 
-Autour de moi, le village cherchait la cause. Le cœur, disait le médecin. Le chagrin d’un vieux qui se savait moins écouté, disait une voisine. La colère du sol qu’il avait offensé en écrivant contre lui, a murmuré quelqu’un qu’on a fait taire aussi. Chacun tenait sa raison une minute, puis la lâchait, parce qu’aucune ne tenait tout à fait, et il restait le mot que personne ne voulait prononcer deux fois. Un semeur qui part la nuit d’avant la rentrée des fruits. Trois jours après l’arrivée d’un étranger qui posait des questions. Personne n’a fait le lien à voix haute. On ne me regardait plus tout à fait comme la veille.
+Autour de moi, le village cherchait la cause. Le cœur, disait le médecin. Le chagrin d’un vieux qui se savait moins écouté, disait une voisine. La colère du sol qu’il avait offensé en écrivant contre lui, a murmuré quelqu’un qu’on a fait taire aussi. Chacun tenait sa raison une minute, puis la lâchait, parce qu’aucune ne tenait tout à fait, et il restait le mot que personne ne voulait prononcer deux fois. Un semeur qui part la nuit d’avant la vendange. Trois jours après l’arrivée d’un étranger qui posait des questions. Personne n’a fait le lien à voix haute. On ne me regardait plus tout à fait comme la veille.
 
 Je me suis tenu à l’écart, au rang que la décence assigne à l’étranger. Pendant qu’on relevait le corps, j’ai fermé mon carnet, je l’ai plié dans son cuir, j’ai noué la lanière et je l’ai rangé dans la sacoche. Il n’y avait plus rien à écrire ici que je n’aie déjà. Les trois lignes de Rynel-haut. La date de Virel. Le mur qu’aucune main de ce village n’a posé. Un homme était venu, l’hiver dernier, conseiller le silence à Talvind  ; un autre était venu, trois jours plus tôt, recueillir ce qu’il savait avant qu’il se taise.
 
@@ -207,10 +207,10 @@ Elle m’a regardé un instant de plus, puis elle a cédé. Elle portait déjà 
 
 Je suis parti avant le réveil du village, comme je pars toujours. L’avant-veille, Talvind m’avait mis dans les mains un tissu noué autour de quatre pommes d’Ydralis, sans un mot pour le voyage ni pour le souvenir  ; il avait posé le tissu et il était retourné à son vin du soir. Les pommes pesaient peu dans la sacoche.
 
-Le chemin descend vers le sud, vers Ackerna et la Trace Verte, là où les champs de Sylthara cèdent à une terre qu’on ne cultive plus. Deux jours durant, j’ai marché dans les dernières grandes parcelles céréalières, des étendues de chaume à perte de vue, avant que la ligne sombre de la jungle ne se lève à l’horizon comme un mur qu’aucun semeur n’a bâti. Et je regardais les sols d’un œil que je n’avais pas à l’aller  : des jachères où la végétation spontanée revenait moins dense d’un carré à l’autre  ; une bordure de champ où le chaume, coupé à la même hauteur que partout, avait pris une teinte plus sèche que la parcelle voisine. Peut-être rien. Peut-être des variations que les Anciens d’Amaroth n’auraient pas jugées dignes de mention. Peut-être un signe.
+Le chemin descend vers le sud, vers Ackerna et la Trace Verte, là où les champs de Sylthara cèdent à une terre qu’on ne cultive plus. Deux jours durant, j’ai marché dans les dernières grandes parcelles céréalières, des étendues de chaume à perte de vue, avant que la ligne sombre de la jungle ne se lève à l’horizon comme un mur qu’aucun semeur n’a bâti. Le pain d’Emris a duré les deux jours  ; le second soir, il fallait le casser contre le genou. Et je regardais les sols d’un œil que je n’avais pas à l’aller  : des jachères où la végétation spontanée revenait moins dense d’un carré à l’autre  ; une bordure de champ où le chaume, coupé à la même hauteur que partout, avait pris une teinte plus sèche que la parcelle voisine. Peut-être rien. Peut-être des variations que les Anciens d’Amaroth n’auraient pas jugées dignes de mention. Peut-être un signe.
 
-Je n’ai rien consigné au-delà des faits. La terre qui hésite d’Amaroth. Le verre d’Ordavan. La courbe de Pyrtara. Le mur qu’aucune main n’a posé. J’ai posé les points sans tracer la ligne  : si la figure existe, elle se montrera d’elle-même quand il y aura assez de points  ; tracée trop tôt, elle ne montrerait que ma peur. La carte commençait à avoir une forme.
+Je n’ai rien consigné au-delà des faits. La terre qui hésite d’Amaroth. Le verre d’Ordavan. La courbe de Pyrtara. Le mur qu’aucune main n’a posé. Quatre faits, quatre endroits, et rien entre eux pour l’instant. Si la figure existe, elle se montrera quand j’en aurai assez  ; dessinée trop tôt, elle ne montrerait que ma peur. La carte commençait à avoir une forme.
 
 Le soir, adossé à une haie, au bord des derniers champs, j’ai sorti le carnet et dénoué la lanière. Sous les trois lignes de Rynel-haut, sous la date de Virel, j’ai laissé une ligne blanche, et j’ai écrit ce qu’Emris m’avait demandé d’écrire  : *À Ydralis, j’ai été accueilli.* C’est vrai. C’est même la chose la plus vraie de la page. Un jour, quelqu’un lira ce carnet, et il faudra qu’il sache qu’entre deux relevés d’un monde qui se dérègle, un vieux m’a appris à écouter la terre, et sa fille m’a donné du pain pour la route.
 
-Puis j’ai mangé la dernière pomme d’Ydralis. Elle avait le goût de trois jours de paix. La moisson d’Amaroth est rentrée. La mienne aussi.
+Puis j’ai mangé la dernière pomme d’Ydralis. Elle avait le goût de trois jours de paix. La moisson d’Amaroth est rentrée. J’ai rentré la mienne.
