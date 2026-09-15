@@ -72,13 +72,13 @@ Le banc est de pierre polie, sans rembourrage. Correct. Je lui donne les éléme
 
 «  Tu attends encore qu’on grimace, observe-t-elle sans reproche.
 — C’est une habitude utile, dis-je.
-— Ça l’était là-bas. Ici, ça te ralentira.  » Elle pousse vers moi une coupe d’eau tiède. «  Bois. Et range cette partie de toi pour plus tard. On n’a pas besoin que tu prouves qu’on t’a blessé. On a besoin de savoir si tu tiens encore debout.  »
+— Ça l’était là-bas. Ici, ça te ralentira.  » Elle pousse vers moi une coupe d’eau tiède. «  Bois. Je ne te demande pas ce qu’on t’a fait avant, ça ne m’apprend rien. Ce que je dois savoir, c’est dans quel état tu arrives.  »
 
-Je bois. La formule vise si bien un homme réellement blessé que je me demande, un instant, si je le suis autant que je le laisse croire. La question ne mérite pas d’être ouverte. Je la referme.
+Je bois. Ce qu’elle dit vise si bien un homme réellement blessé que je me demande, un instant, si je le suis autant que je le laisse croire. La question ne mérite pas d’être ouverte. Je la referme.
 
 «  Gryndor  », dit-elle ensuite. Elle constate, elle n’interroge pas. «  On a entendu parler d’un cartographe fugitif de Gryndor. Les nouvelles voyagent vite quand c’est Drakora qui les porte.
 — Cela pose un problème  ? demandé-je.
-— Fuir Gryndor n’est pas un crime à Pyrtara. Fuir Gryndor pour une raison liée au statut de Délié, ici, c’est presque une référence.  » Elle laisse passer un temps. «  Ce qui compte pour nous, c’est ce que tu fais ici. Pas ce que tu fuyais là-bas.  »
+— Fuir Gryndor n’est pas un crime à Pyrtara. Et quand on fuit pour une histoire de Délié, ça joue plutôt en ta faveur.  » Elle laisse passer un temps. «  On te jugera sur ce que tu fais ici, pas sur ce que tu fuyais.  »
 
 Sa phrase me sert plus qu’elle ne le sait. Un fugitif de Gryndor entre chez les Généraux Déliés mieux qu’un homme sans histoire. J’ai laissé ce statut se coller à moi, là-bas, en me faisant prendre juste assez, et il ouvre ici une porte que ma bonne mine n’aurait pas ouverte. Mara croit accueillir un homme qui fuit  ; elle classe une pièce à l’endroit exact où je voulais qu’on la classe.
 
@@ -97,7 +97,7 @@ C’est lui qui me pose la question, entre deux bouchées.
 «  Kharazir. Tu viens pour rester, ou tu passes  ?
 — Je n’ai pas décidé, dis-je en reposant ma coupe. J’ai des raisons de m’arrêter un temps. Pas encore de raison de m’installer.  »
 
-Drev se remet à manger. Saven fait rouler sa coupe entre deux doigts. La réponse leur suffit  : ces gens-là savent que certains ne s’arrêtent pas, et ils n’en font pas une affaire. À l’autre bout de la table, Mara écoute sans participer et se fait une opinion.
+Drev pousse le plat de tubercules vers moi et se remet à manger. Saven fait rouler sa coupe entre deux doigts. Personne ne relance. À l’autre bout de la table, Mara écoute sans participer et se fait une opinion.
 
 Saven me donne le reste après le repas, dehors, pendant que nous marchons. La nuit pyrtarienne est froide, chargée de soufre. Marcher m’occupe les jambes et laisse le reste travailler.
 
@@ -126,9 +126,9 @@ Du côté de Saven, la phrase est un compliment  : la reconnaissance d’un hom
 
 ---
 
-Pyrax a passé la cinquantaine. Trapu, des mains si travaillées qu’on ne distingue plus les cicatrices des lignes, il commande la Brigade depuis huit ans. Délié, et son grade est le plus haut qu’un Délié ait jamais tenu dans l’armée de Pyrtara. La veille, sans emballage, Saven m’a raconté ce que les dossiers taisent  : Pyrax a refusé l’Article V du Traité d’Ilthara, qui imposait de déclarer les Déliés à une autorité centrale et de partager avec elle les données géologiques. Devant Varketh, il a posé un argument sans réplique dans le vocabulaire du pays  : un soldat qui a fait ses preuves au combat ne se surveille pas, il commande. Varketh a cédé.
+Pyrax commande la Brigade depuis huit ans. Délié, et son grade est le plus haut qu’un Délié ait jamais tenu dans l’armée de Pyrtara. La veille, sans emballage, Saven m’a raconté ce que les dossiers taisent  : Pyrax a refusé l’Article V du Traité d’Ilthara, qui imposait de déclarer les Déliés à une autorité centrale et de partager avec elle les données géologiques. Devant Varketh, il a posé un argument sans réplique dans le vocabulaire du pays  : un soldat qui a fait ses preuves au combat ne se surveille pas, il commande. Varketh a cédé.
 
-Le second matin, je le rencontre dans un bureau à peine plus tendre que la salle de Mara  : basalte, lampe, une table couverte de cartes et de relevés. Les cartes me sautent aux yeux avant l’homme, et je fais une chose rare  : je les regarde d’abord. Rien, dans son attitude, ne m’en empêche.
+Le second matin, je le rencontre dans un bureau à peine plus tendre que la salle de Mara  : basalte, lampe, une table couverte de cartes et de relevés. Les cartes me sautent aux yeux avant l’homme, et je fais une chose rare  : je les regarde d’abord. Rien, dans son attitude, ne m’en empêche. Quand je lève les yeux, il a la cinquantaine passée, trapu, et des mains si travaillées qu’on n’y distingue plus les cicatrices des lignes.
 
 «  Les relevés de Vyldor, dis-je au bout d’une minute.
 — Tu en as vu  ? demande-t-il en levant les yeux.
@@ -186,13 +186,13 @@ Je referme le carnet sur la page d’Ordavan.
 
 Saven a un bon œil. Meilleur qu’il ne le croit, et tombé par hasard sur le seul chiffre de la page qui pouvait me perdre. Il cherchait une addition qui ne tombait pas juste  ; il a reçu une explication qui la fait tomber juste, et il est reparti tranquille. Un cartographe qui date la matière plutôt que sa visite, cela se défend, cela s’enseigne dans les manuels, cela n’appelle aucune autre question. Sa colonne s’additionne. La mienne aussi, autrement.
 
-Je ne raye pas les trois mots de la marge. Rayer, c’est désigner  : une marge barrée attire l’œil que la marge pleine laisse glisser. Je note d’abord, je corrige ensuite  ; cette page-là, je la laisse telle quelle. Sous la ligne des relevés, j’écris seulement ce qui est vrai et qui suffit  : *Deux courbes, deux témoins, une seule montée. La progression est calculable. Donc elle a une date.* La date, cette nuit-là encore, je ne la calcule pas. Non que je ne le puisse. Écrite, elle pourrait m’être prise, et celle-là, pour l’instant, est mieux dans ma tête que sur le papier.
+Je ne raye pas les trois mots de la marge. Rayer, c’est désigner  : une marge barrée attire l’œil que la marge pleine laisse glisser. Je laisse la page telle quelle. Sous la ligne des relevés, j’écris seulement ce qui est vrai et qui suffit  : *Deux courbes, deux témoins, une seule montée. La progression est calculable. Donc elle a une date.* La date, cette nuit-là encore, je ne la calcule pas. Non que je ne le puisse. Écrite, elle pourrait m’être prise, et celle-là, pour l’instant, est mieux dans ma tête que sur le papier.
 
 Ce qui me tient éveillé n’est pas la marge. C’est la coïncidence des deux pentes. J’étais venu à Pyrtara chercher une confirmation, et je l’ai eue, plus nette que je n’osais l’attendre  : le Dessous ne s’éveille pas par accès isolés, ici un volcan, là un canyon, ailleurs un village de verre. Il s’éveille d’un seul mouvement, sous tout le continent à la fois, et il presse le pas. Prolongée assez loin, la courbe quitte le papier. J’ignore encore quand, et je sais que d’autres l’ont su avant moi. Mon père, sûrement, qui a fait cette route et n’a laissé nulle part la moindre date. Les Guetteurs à leur façon, qui nomment d’abord, comme dit leur doctrine, et se gardent bien de publier une échéance. La suite, pour eux, viendra ou ne viendra pas. Pour moi, la suite a la forme d’une date, et je la trouverai sans l’écrire.
 
 ---
 
-Saven me montre Keldros pendant quatre jours avant Vyldor. Pas sur ordre de Pyrax  : par choix. Il a décidé que je devais voir ce qu’est la Brigade avant de partir, pour avoir une mesure. Keldros n’est pas seulement un centre d’entraînement. C’est un lieu où des gens qui n’auraient trouvé de place nulle part ont une fonction et un rang. Rien d’idéaliste là-dedans, Pyrtara n’en fait pas  ; une logique de guerre, plutôt  : un soldat compétent est un soldat compétent, d’où qu’il vienne. Et cette logique produit, presque par accident, ce que des nations plus vertueuses en principe ne produisent pas  : un endroit où un Délié mange sans compter les regards.
+Saven me montre Keldros pendant quatre jours avant Vyldor. Pas sur ordre de Pyrax  : par choix. Il a décidé que je devais voir ce qu’est la Brigade avant de partir, pour avoir une mesure. Le deuxième jour, il me fait monter sur le toit d’un baraquement, d’où l’on tient tout le camp d’un seul regard, et il attend, sans rien dire, que j’aie fini de le reporter dans le carnet. Keldros n’est pas seulement un centre d’entraînement. C’est un lieu où des gens qui n’auraient trouvé de place nulle part ont une fonction et un rang. Rien d’idéaliste là-dedans, Pyrtara n’en fait pas  ; une logique de guerre, plutôt  : un soldat compétent est un soldat compétent, d’où qu’il vienne. Et cette logique produit, presque par accident, ce que des nations plus vertueuses en principe ne produisent pas  : un endroit où un Délié mange sans compter les regards.
 
 Je le note sans enjoliver, et je vois ce que vaut mon élan  : c’est le raisonnement d’un homme qui a besoin que l’endroit où il vient d’arriver soit défendable. Alors je complète, en marge, en petit  : Pyrtara fait des soldats efficaces avec des Déliés exilés, et fait aussi de ses paysans des ressources, de ses prisonniers des combustibles, de ses citoyens des colonnes de chiffres dans les registres de Vyldor. La Brigade est un coin lumineux d’un système qui ne l’est pas.
 
@@ -232,8 +232,8 @@ Je le devance. «  Le Fragment Zéro.  »
 Sa tête se tourne vers moi. Je lui explique le terme, que j’emploie depuis Avalor  : ce qui existait avant la mémoire, avant les premières traces  ; ce que les racines les plus profondes touchent quand elles descendent assez bas  ; ce sur quoi Vey’thar dort peut-être sans être lui-même le fond. Pyrax reformule, en homme qui veut être sûr d’avoir compris.
 
 «  Tu dis que la source de la pulsation n’est ni le volcan, ni les dragons, ni les esprits. Qu’elle est antérieure à tout cela.
-— Je dis que je ne sais pas. J’ai des données et une hypothèse, et elles n’ont pas le même poids. Mon métier m’oblige à tenir l’écart entre ce que j’observe et ce que j’en infère. Le jour où je le comble sans preuve, je ne suis plus cartographe. Je suis prêtre.
-— On tient le même écart ici, dit Pyrax. Avec une différence  : on décide souvent avant qu’il se ferme. Le renseignement complet, sur un champ de bataille, on l’a quand la bataille est finie.  »
+— Je dis que je ne sais pas. J’ai des données et une hypothèse, et elles n’ont pas le même poids. Mon métier m’oblige à tenir l’écart entre ce que j’observe et ce que j’en infère. Le jour où je le comble sans preuve, ce que je dessine n’est plus une carte.
+— On tient le même écart ici, dit Pyrax. Seulement, nous, on décide avant qu’il se ferme. Sur un champ de bataille, le renseignement complet arrive après la bataille.  »
 
 Je m’accoude au parapet de basalte. «  Que ferais-tu, toi, avec ce que tu as  ?
 — Je vais à Vyldor avec toi. Après, selon ce qu’on trouve, je décide de ce que je présente à Varketh.  »
@@ -242,7 +242,7 @@ Ce n’est pas une réponse de théoricien. C’est la réponse pyrtarienne  : 
 
 ---
 
-Sept jours à Keldros, en tout. C’est peu, et c’est dense  : information, contacts, mesures. J’ai vu Saven instruire des recrues pyrtariennes avec une autorité que personne ne conteste, Mara signer des ordres qu’on exécute sans regarder son poignet, Drev apprendre aux jeunes à sentir la chaleur du sol, sa particularité employée comme un outil dans une armée qui préfère se servir des instruments plutôt que de les cacher. Ce n’est pas une utopie. Keldros est dur, les portions y sont comptées, l’exigence ne pardonne pas, et ceux qui ne tiennent pas s’en vont. Mais parmi les raisons d’échouer, il n’y a pas celle d’être Délié. Après douze mois de route, cette distinction me paraît encore mériter une note.
+Sept jours à Keldros, en tout. C’est peu, et c’est dense  : information, contacts, mesures. J’ai vu Saven instruire des recrues pyrtariennes avec une autorité que personne ne conteste, et Mara signer des ordres qu’on exécute sans regarder son poignet. Un matin, Drev met trois jeunes à plat ventre sur la roche, paumes ouvertes, et leur fait dire où la chaleur monte le plus. Deux se trompent. Il les replace un peu plus loin et recommence. Je pose la main à côté d’eux  : le basalte est tiède sous mes doigts, froid trois pas plus loin. Sa particularité est un outil dans une armée qui préfère se servir des instruments plutôt que de les cacher. Ce n’est pas une utopie. Keldros est dur, les portions y sont comptées, l’exigence ne pardonne pas, et ceux qui ne tiennent pas s’en vont. Mais parmi les raisons d’échouer, il n’y a pas celle d’être Délié. Après douze mois de route, cette distinction me paraît encore mériter une note.
 
 Le dernier soir, Saven vient me trouver.
 
@@ -258,4 +258,4 @@ Je marche sur sa route sans le dire à ceux qui m’écoutent, comme je marche d
 
 J’inscris, avant de fermer le carnet  : *Sept jours à Keldros. Un endroit qui prouve qu’une autre configuration était possible. Je pars sans en avoir profité comme j’aurais dû. Ce n’est pas un endroit qu’on habite quand on a une date à trouver au bout d’une courbe.*
 
-Puis je range le carnet contre la lettre du Conseil, je cale la sacoche sur la hanche et je prends la route de Vyldor. Derrière moi, la Brigade s’entraîne dans le vent de soufre  : des gens qui m’ont accueilli sans grimace, et à qui j’ai menti plus doucement qu’à personne. Devant moi, une cité qui compte les feux du monde. Elle tient peut-être, dans ses registres, le bout de ma courbe.
+Puis je range le carnet contre la lettre du Conseil, je cale la sacoche sur la hanche et je prends la route de Vyldor. Derrière moi, la Brigade s’entraîne dans le vent de soufre  : des gens qui m’ont pris tel que j’arrivais, et à qui j’ai menti plus doucement qu’à personne. Devant moi, une cité qui compte les feux du monde. Elle tient peut-être, dans ses registres, le bout de ma courbe.
