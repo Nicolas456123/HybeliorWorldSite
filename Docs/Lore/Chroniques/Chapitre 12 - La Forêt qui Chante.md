@@ -34,7 +34,7 @@ Elle appartenait à un homme d’une soixantaine d’années, assis sur une souc
 «  Vous venez de loin.
 — D’Onara, par la mer, dis-je. De Kharazir, au départ.  »
 
-Ce n’était pas une question. Son galenorien portait l’accent du centre, celui des marchands et des diplomates qui ont trop voyagé pour garder celui de chez eux. Il dit s’appeler Brennan, sans titre ni clan. J’ai su plus tard que les bardes de Sarandel taisent leur fonction à la première rencontre  : ils veulent qu’on entende leur voix avant de savoir ce qu’elle représente. Brennan était l’un des Chroniqueurs du foyer, et il ne me l’a pas dit ce matin-là.
+Son galenorien portait l’accent du centre, celui des marchands et des diplomates qui ont trop voyagé pour garder celui de chez eux. Il dit s’appeler Brennan, sans titre ni clan. J’ai su plus tard que les bardes de Sarandel taisent leur fonction à la première rencontre  : ils veulent qu’on entende leur voix avant de savoir ce qu’elle représente. Brennan était l’un des Chroniqueurs du foyer, et il ne me l’a pas dit ce matin-là.
 
 «  Vous aviez faim en montant, reprit-il. Ça s’entend au pas.  »
 
@@ -82,7 +82,7 @@ Il ne répondit pas tout de suite. Nous montions une pente douce  ; les bouleau
 — Celles d’Alkaran. Le cuivre, le sel du nord.
 — Vous y avez senti quelque chose.  »
 
-Ce n’était pas une question non plus. À cent mètres sous Iskara, la main à plat contre la roche, j’avais relevé une présence  : pas un son qu’on puisse nommer, une onde sous le seuil de l’oreille, impossible à nier. Elle attendait dans mon carnet depuis des semaines, consignée sans nom. J’en ai convenu, prudemment.
+Il ne demandait pas. À cent mètres sous Iskara, la main à plat contre la roche, j’avais relevé une présence  : pas un son qu’on puisse nommer, une onde sous le seuil de l’oreille, impossible à nier. Elle attendait dans mon carnet depuis des semaines, consignée sans nom. J’en ai convenu, prudemment.
 
 «  Ce que vous avez entendu dans les mines, dit Brennan, la main ouverte sur l’encolure de Sombre, c’est cela.  »
 

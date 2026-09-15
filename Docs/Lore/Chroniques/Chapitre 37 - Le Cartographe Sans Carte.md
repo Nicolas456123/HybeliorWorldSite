@@ -33,7 +33,7 @@ La première personne à qui j’ai vraiment parlé, je l’ai rencontrée par a
 
 «  Ce sont des journaux de terrain  », dit-elle.
 
-Ce n’était pas une question. Je lui ai expliqué ce qu’ils étaient. Elle s’assit en face de moi sans attendre d’y être invitée.
+Je lui ai expliqué ce qu’ils étaient. Elle s’assit en face de moi sans attendre d’y être invitée.
 
 «  D’où venez-vous  ?  »
 
@@ -104,7 +104,7 @@ Je ne comprenais pas encore.
 
 Je lui ai demandé, aussi doucement que je pouvais, si ce point tombait aux abords du Mont Jumeau.
 
-Elle n’a pas répondu tout de suite. Le silence a occupé la pièce entière.
+Le silence a occupé la pièce entière.
 
 «  Oui.  »
 
@@ -149,8 +149,8 @@ Le cahier qu’elle serrait s’ouvrit à une page qu’elle connaissait.
 La question était juste, plus juste qu’elle ne pouvait le savoir. J’ai pris le temps de bien répondre.
 
 «  Ni l’un ni l’autre. Je ne peux pas vous rendre votre père. Personne ne le peut, et je me méfierais de qui vous le promettrait. Ce que vos coordonnées touchent, ce n’est pas lui. C’est l’endroit qu’il regardait.
-— Ce n’est pas la même chose, dit-elle, plus bas.
-— Non. Ce n’est pas la même chose.  »
+— Ce n’est pas lui, dit-elle, plus bas.
+— Non. Ce n’est pas lui.  »
 
 Elle reçut la distinction en silence. Cela lui coûtait et la soulageait du même mouvement.
 
@@ -166,7 +166,7 @@ Selendris m’a regardé longtemps.
 
 «  Alors nous faisons le même métier, vous et moi. Nous tenons la main de quelqu’un qui n’est plus là et nous continuons à lui parler. Sauf que vous, vous avez trouvé le moyen que d’autres l’entendent.
 — Transmettre. Pas comprendre.
-— Transmettre, pas comprendre  », répéta-t-elle, et elle ne s’aperçut pas qu’elle venait de nommer, en quatre mots, ce que je faisais depuis le premier mur jaune. Je ne le lui ai pas fait remarquer. Je l’ai laissée croire qu’elle m’avait consolé.
+— Transmettre, pas comprendre  », répéta-t-elle, et elle ne s’aperçut pas qu’elle venait de nommer, en quatre mots, ce que je faisais depuis le premier mur jaune. Je n’ai rien relevé. Je l’ai laissée croire qu’elle m’avait consolé.
 
 Le cahier se referma.
 

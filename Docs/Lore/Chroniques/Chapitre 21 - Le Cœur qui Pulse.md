@@ -60,7 +60,7 @@ Le vin était noir, servi dans des coupes de verre volcanique où la lueur des f
 — Galenor. Mais j’arrive d’Ilthara par le dernier bateau.
 — Alors vous n’avez jamais vu le Mont Cendra pulser.  »
 
-Ce n’était pas une question. Depuis le débarquement, je n’avais levé les yeux vers le volcan que pour en estimer la hauteur.
+Depuis le débarquement, je n’avais levé les yeux vers le volcan que pour en estimer la hauteur.
 
 Une caisse de basalte traînait contre le chariot  ; je m’y suis assis, parce que mes jambes étaient lourdes et parce qu’elle avait l’air de ne parler qu’à ceux qui savaient se taire. Le vin est venu contre ma monnaie. Il avait un goût de fumée et de fruit mûri longtemps, ce que les vignerons de Solarith appellent la mémoire du sol.
 
@@ -82,7 +82,7 @@ La réponse a mis longtemps à venir. Elle regardait quelque chose que je ne voy
 
 ---
 
-Elle a partagé mon repas ce soir-là, dans une taverne basse dont les murs portaient une suie si ancienne qu’on aurait dit l’endroit forgé plutôt que bâti. Des pois chiches mijotés dans une graisse noire, un pain plat cuit sur la pierre du four central, et des épices que je n’ai pas su nommer  : une chaleur sèche derrière la langue, de la fumée, une pointe d’agrume brûlé. Le pain gardait la chaleur de la pierre. Je l’ai rompu, trempé, et pendant un moment il n’y a rien eu d’autre que le bol, la vapeur et le bruit du four. Kessa mangeait peu et me regardait manger, curieuse, tranquille. Dehors, les forges s’étaient tues, et on entendait l’âne s’ébrouer sous l’auvent.
+Elle a partagé mon repas ce soir-là, dans une taverne basse dont les murs portaient une suie si ancienne qu’on aurait dit l’endroit forgé plutôt que bâti. Des pois chiches mijotés dans une graisse noire, un pain plat sorti du four central, et des épices dont je n’ai pas trouvé le nom  : une chaleur sèche derrière la langue, de la fumée, une pointe d’agrume brûlé. Le pain gardait la chaleur de la pierre. Je l’ai rompu, trempé, et pendant un moment il n’y a rien eu d’autre que le bol, la vapeur et le bruit du four. Kessa mangeait peu et me regardait manger, curieuse, tranquille. Dehors, les forges s’étaient tues, et on entendait l’âne s’ébrouer sous l’auvent.
 
 Je lui ai parlé d’Haldria, de l’astronome, de ses étoiles qui glissent, de la phrase qu’elle m’avait donnée pour la route. Kessa a écouté sans m’interrompre une seule fois. C’est rare. Quelqu’un qui écoute comme elle retient tout  ; je cherche ces gens-là depuis Rukhsar et je m’en méfie autant que je les cherche, parce que je préfère qu’on m’oublie.
 
@@ -194,7 +194,7 @@ Cette nuit, avec ce battement encore logé dans la poitrine, ni tout à fait dan
 
 Et si les Déliés n’étaient pas sans lien  ? Si ce lien était d’un autre ordre, posé dans la trame non pour capter, mais pour tenir. Des fondations, pas des fenêtres.
 
-Je pose la question sans la trancher. Je ne cartographie pas ce que je ne peux pas voir, et je ne vois ici qu’un battement et une inscription, deux points qu’une ligne relierait trop commodément. Deux sondages ne font pas une côte. Mais si l’inscription disait vrai, la différence entre Lié et Délié ne serait plus une affaire de présence et d’absence. Ce serait une affaire de fonction. Et la question ne serait plus ce qu’un homme sent, mais ce qu’il devrait faire, s’il portait pareille fonction, le jour où la trame qu’il est censé tenir se met à trembler.
+Je pose la question sans la trancher. Je ne vois ici qu’un battement et une inscription, deux points qu’une ligne relierait trop commodément. Deux sondages ne font pas une côte. Mais si l’inscription disait vrai, la différence entre Lié et Délié ne serait plus une affaire de présence et d’absence. Ce serait une affaire de fonction. Et la question ne serait plus ce qu’un homme sent, mais ce qu’il devrait faire, s’il portait pareille fonction, le jour où la trame qu’il est censé tenir se met à trembler.
 
 La réponse que je me donne cette nuit, et qui me tient jusqu’à l’aube, n’est qu’une hypothèse  : un ancrage se mettrait peut-être à percevoir le jour où le monde qu’il ancre commence à bouger.
 
@@ -248,7 +248,7 @@ Demain, ou après-demain, je monte avec Kessa vers le feu, pour prendre le batte
 
 Kessa m’a dit que je ne sais pas encore ce que je suis en train de prouver.
 
-C’est la seule chose, ce soir, sur laquelle je la crois dans l’erreur. Je ne le lui ai pas dit. Elle m’a fait une place à côté de son chariot parce qu’elle me croyait perdu, et j’ai encore trop de route, et trop de gens à ménager, pour me permettre l’air de savoir où je vais.
+C’est la seule chose, ce soir, sur laquelle je la crois dans l’erreur. Je n’ai pas rectifié. Elle m’a fait une place à côté de son chariot parce qu’elle me croyait perdu, et j’ai encore trop de route, et trop de gens à ménager, pour me permettre l’air de savoir où je vais.
 
 Il y a là une injustice que je ne me cache pas. Kessa m’a offert du vin, un repas, un cornet d’épices sans nom et la route de la montagne, et elle a donné tout cela à un homme qu’elle croit sincère d’un bout à l’autre. Je ne le suis qu’à moitié  : la moitié qui doute du monde. Ce qu’elle a vu de moi est vrai. Ce n’est pas toute la carte. Un jour, si ces pages voyagent aussi loin que je l’espère, quelqu’un lira que Kessa de Mylaris avait raison sur tout sauf sur un point, et se demandera si je le savais déjà ce soir-là, sur la terrasse de basalte, la main sur la pierre chaude. La réponse est dans la manière dont j’ai posé la main. Elle n’est pas écrite. Je laisse la place blanche, comme toujours, à qui saura la remplir mieux que moi.
 

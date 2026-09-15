@@ -41,7 +41,7 @@ La cheffe avait la cinquantaine, les cheveux séparés en quatre nattes, un tali
 
 «  Vous allez à pied  », dit-elle dans un galenorien rocailleux.
 
-Ce n’était pas une question. Pas de mépris non plus, pas de pitié  : elle rangeait ce fait parmi les rares.
+Elle le constatait. Pas de mépris, pas de pitié  : elle rangeait ce fait parmi les rares.
 
 «  Oui. À pied.
 — Vers l’ouest.
@@ -178,7 +178,7 @@ Je m’arrêtai à bonne distance.
 Les couvents de Vytharia, m’avait-on dit, forment des femmes qui lisent dans le sommeil ce que la veille cache  : les Tisseuses de Voile, les rêveuses, celles qui gardent les frontières intérieures. Ce qu’elles lisent, je l’ignore. Elle avait l’ordre exact, et je ne voyais personne qui ait pu le lui souffler.
 
 «  On parle de moi jusqu’ici, hasardai-je. Un voyageur qui prend des notes se remarque.
-— On ne parle pas de vous. On vous rêve. Ce n’est pas la même chose.  » Elle fit un pas  ; ses novices ne bougèrent pas. «  Dans le rêve, vous portez un sac lourd et vos mains sont vides. C’est ce qui m’a réveillée. Un homme dont le fardeau n’est pas dans les mains.
+— On ne parle pas de vous. On vous rêve.  » Elle fit un pas  ; ses novices ne bougèrent pas. «  Dans le rêve, vous portez un sac lourd et vos mains sont vides. C’est ce qui m’a réveillée. Un homme dont le fardeau n’est pas dans les mains.
 — Le sac est sur mon épaule. Vous voyez juste.  »
 
 Elle sourit, sans triomphe.
@@ -192,7 +192,7 @@ Je demandai pourtant, parce que je demande toujours  :
 «  Et qu’est-ce qu’on récolte, dans votre rêve, après un homme comme celui-là  ?
 — Je ne l’ai pas rêvé aussi loin.  » Elle me regarda enfin de face, ce qui, chez les siens, coûte quelque chose. «  Dans le rêve, les graines n’avaient pas levé. Elles attendaient que vous soyez passé.  »
 
-Elle me parla ensuite de sa maison, le couvent de Mythoria, où l’on garde des feuillets couverts d’une écriture que personne ne lit plus, venue, disait-elle, du plateau de Mirathi, où les Oracles la gardent sans la lire. Je consignai le nom. J’avais déjà croisé cette écriture  : à Gryndor, dans le fragment qu’on m’avait laissé copier  ; dans un relevé de Cendra, où je ne suis pas encore allé  ; dans une bouche à Ordavan  ; dans le carnet aussi. La même famille de signes affleure d’un bout du monde à l’autre, et personne ne me l’a jamais donnée entière. Je n’ai pas essayé de la déchiffrer. Ce n’est pas mon travail de lire ce que je ne peux pas lire  ; mon travail est de noter où l’illisible reparaît, et de déposer la note là où quelqu’un, un jour, saura.
+Elle me parla ensuite de sa maison, le couvent de Mythoria, où l’on garde des feuillets couverts d’une écriture que personne ne lit plus, venue, disait-elle, du plateau de Mirathi, où les Oracles la gardent sans la lire. Je consignai le nom. J’avais déjà croisé cette écriture  : à Gryndor, dans le fragment qu’on m’avait laissé copier  ; dans un relevé de Cendra, où je ne suis pas encore allé  ; dans une bouche à Ordavan  ; dans le carnet aussi. La même famille de signes affleure d’un bout du monde à l’autre, et personne ne me l’a jamais donnée entière. Je n’ai pas essayé de la déchiffrer. Mon travail est de noter où l’illisible reparaît, et de déposer la note là où quelqu’un, un jour, saura.
 
 Elle repartit vers ses vallées voilées, et je repris la route de l’eau. Je n’entrai pas en Vytharia  ; je savais déjà que j’y reviendrais.
 
@@ -264,7 +264,7 @@ Assis à l’arrière, le dos aux voyageurs, mon journal ouvert sur les genoux, 
 
 Voici ce que je tiens ce soir, et rien là-dedans n’est encore confirmé. Des chevaux refusent les creux de Lythar depuis l’automne, comme si une pression montait du fond. Les esprits de Foedus Animae répondent de plus loin, comme derrière une vitre. En Vytharia, on rêve un homme avant qu’il n’arrive, et l’on nomme semailles ce que je nomme relevés. Un enfant aux yeux blancs entend, sous ma poitrine, ce qui bat sous les villes. Et l’appareil qui me suit depuis Lumasar a changé de proie sans que je l’aie provoqué  : il ne cherche plus le fugitif, il cherche le papier.
 
-De ces cinq lignes, quatre m’échappent et m’échapperont sans doute toujours. Ce qui remonte, d’où, pour quoi  : je ne le cartographierai pas. Ce n’est pas mon travail de dessiner ce que je ne peux pas voir, et je me méfie de tout homme qui prétend le contraire. Reste la cinquième, que je comprends très bien. On a cessé de me chasser pour chasser ce que j’écris, et j’y perds moins qu’il n’y paraît  : de tout ce que je porte, le journal est le seul objet que je n’ai jamais eu l’intention de garder.
+De ces cinq lignes, quatre m’échappent et m’échapperont sans doute toujours. Ce qui remonte, d’où, pour quoi  : je ne le cartographierai pas, et je me méfie de tout homme qui prétend le faire. Reste la cinquième, que je comprends très bien. On a cessé de me chasser pour chasser ce que j’écris, et j’y perds moins qu’il n’y paraît  : de tout ce que je porte, le journal est le seul objet que je n’ai jamais eu l’intention de garder.
 
 La mer était longue jusqu’à Cendara. J’avais le temps.
 

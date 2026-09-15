@@ -125,7 +125,7 @@ Après m’avoir considéré un instant, il poussa une chaise du pied.
 
 «  Asseyez-vous. Vous êtes venu pour les enfants.  »
 
-Ce n’était pas une question. Je m’assis. Je ne mens jamais à un homme qui garde des mesures  ; je choisis seulement lesquelles je lui demande.
+Je m’assis. Je ne mens jamais à un homme qui garde des mesures  ; je choisis seulement lesquelles je lui demande.
 
 «  On dit que vous les avez examinés.
 — Neuf, récita-t-il. En six ans. Le premier avait un an quand je l’ai vu, il en a sept aujourd’hui. Le dernier est né au printemps.  »
@@ -159,7 +159,7 @@ Aucune frayeur là-dedans. Ce calme m’était connu  : Mira l’avait eu, la n
 
 «  Vos mesures, demandai-je. Les dates de naissance, les lieux, l’ordre. Me les laisserez-vous copier  ?  »
 
-Sa main se posa à plat sur les feuilles. Pas pour les protéger. Pour peser ce que valait ma demande.
+Il couvrit les feuilles de sa main ouverte. Pas pour les protéger. Pour peser ce que valait ma demande.
 
 «  Pourquoi copier  ? Vous êtes cartographe. On dresse la carte d’un pays, pas d’une portée d’enfants.
 — On dresse la carte de ce qui se répète. Vos neuf enfants sont nés en six ans, dans un archipel où rien ne se répète jamais deux fois de la même façon. C’est une côte qui monte. Je la relève.
@@ -250,7 +250,7 @@ Enfin, elle tourna la tête vers moi.
 
 «  Alors maintenant, ma fille est bête. Vous comprenez  ? Devant les étrangers, devant les prêtres, devant les hommes à lettres, elle est une petite fille bête qui ne voit rien et ne dit rien. C’est moi qui le lui ai appris, à coups de peur, parce que la peur est la seule chose qui la gardera. Sur la grève, avec vous, elle a oublié.  »
 
-Je ne baissai pas les yeux. Ce n’était pas une accusation. C’était un avertissement, et c’était pire  : elle m’avait déjà rangé du bon côté.
+Je ne baissai pas les yeux. Elle ne m’accusait pas, elle m’avertissait, et c’était pire  : elle m’avait déjà rangé du bon côté.
 
 «  Je pars demain, dis-je. Je n’ai noté que ce qui se répète. Les dates, le nombre. Pas les mots de votre fille.
 — Vous mentez à moitié, dit-elle sans colère. Vous avez noté ses mots. Je vous ai vu, sur la grève, écrire pendant qu’elle parlait.  »

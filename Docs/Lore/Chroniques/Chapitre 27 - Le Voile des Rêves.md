@@ -88,7 +88,7 @@ Elle parla enfin, par phrases longues qui montaient et retombaient sans hâte, e
 
 L’assistant traduisit. La Voix eut un mouvement des lèvres qui n’était pas un sourire.
 
-«  Non. Vous le croyez. Ce n’est pas la même chose.  »
+«  Non. Vous le croyez.  »
 
 Elle me demanda si j’avais senti la pulsation. Oui, répondis-je. J’étais Délié  ; la sensibilité à ces choses était censée m’avoir été retirée, et le fait d’avoir malgré tout senti battre le Mont Cendra était ce qui m’avait conduit sur les routes. Elle reçut cela sans qu’un trait de son visage bouge, en femme à qui l’on confirme un diagnostic.
 
@@ -147,7 +147,7 @@ Orneth posa ses deux mains à plat sur la table encombrée, lentement, comme un 
 
 «  Alors la troisième langue est plus ancienne que nous ne le pensions.  »
 
-Ce n’était pas une question, et je n’y répondis pas.
+Je n’y répondis pas.
 
 «  Vous ne me demandez pas ce qu’elle dit, remarquai-je.
 — Parce que vous ne le savez pas plus que moi.  » Ses doigts couraient au-dessus de la colonne sans la toucher, comme s’il craignait de l’effacer. «  Voilà quarante ans que je vends des lectures à Thalmaris. Un texte qu’on ne peut pas lire se vend plus cher qu’un texte clair, parce que le client y met ce qu’il veut. J’ai résisté à ce commerce. C’est peut-être la seule chose dont je sois fier.  » Il me regarda enfin. «  Alors non. Je ne veux pas savoir ce qu’elle dit. Je veux savoir d’où elle vient. Et vous venez de me répondre  : d’en dessous. De plus bas que Rukhsar.

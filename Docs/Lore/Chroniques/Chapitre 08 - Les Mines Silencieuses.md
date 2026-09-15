@@ -54,7 +54,7 @@ Baret Sorn était mineur, né à Myrilith, employé depuis deux ans aux puits du
 — Oui.
 — Vous allez à Myrilith.  »
 
-Ce n’était pas une question. Je lui demandai comment il le savait.
+Il l’affirmait. Je lui demandai comment il le savait.
 
 «  Parce que c’est le seul endroit qu’un cartographe d’ailleurs voudrait voir ici. Les puits du bourg extérieur sont documentés depuis longtemps. Myrilith, les niveaux profonds  : non.  »
 
@@ -124,13 +124,13 @@ Les mines de Myrilith descendent. C’est la première chose à en dire. Ailleur
 
 Niveaux un et deux  : rien que d’ordinaire selon les normes d’Alkaran. Du fer commun, des galeries étayées de métal, le bruit constant des pics qui se répercute en longues vagues. La chaleur de la roche s’y sent déjà, sourde, presque organique, comme si la montagne tenait sa température sans rien devoir à la surface. Niveaux trois et quatre  : plus sombres, l’air plus dense, les galeries plus étroites. Le fer noir apparaît, ce minerai d’une dureté anormale qui teinte les mains de bleu pendant des jours et ne cède pas à la force, seulement à la précision.
 
-À partir du cinquième niveau, Lorn me prit la lampe des mains et passa devant. Ce n’était pas une question de préséance, c’était de la géographie. Les galeries, à ces profondeurs, suivent le fer noir là où il va  : coudes sans repère, passages bas, bifurcations sans nom, fronts de taille abandonnés derrière un éboulement qu’on n’a pas déblayé. Quand on s’arrête, on entend travailler les étais. Se perdre à cinq cents mètres sous la surface, avec l’huile des lampes pour toute réserve de lumière, est une façon très efficace de cesser d’exister. Je marchais derrière lui, compas et fil à plomb à la ceinture, relevant d’une main, protégeant mon crâne de l’autre. Les mineurs d’ici évitent les étais d’instinct. Cet instinct me manque. J’ai des bosses.
+À partir du cinquième niveau, Lorn me prit la lampe des mains et passa devant. Il ne s’agissait pas de préséance mais de géographie. Les galeries, à ces profondeurs, suivent le fer noir là où il va  : coudes sans repère, passages bas, bifurcations sans nom, fronts de taille abandonnés derrière un éboulement qu’on n’a pas déblayé. Quand on s’arrête, on entend travailler les étais. Se perdre à cinq cents mètres sous la surface, avec l’huile des lampes pour toute réserve de lumière, est une façon très efficace de cesser d’exister. Je marchais derrière lui, compas et fil à plomb à la ceinture, relevant d’une main, protégeant mon crâne de l’autre. Les mineurs d’ici évitent les étais d’instinct. Cet instinct me manque. J’ai des bosses.
 
 Au niveau sept, j’ai entendu les sons.
 
 Je veux être précis. Nous étions à l’intersection de deux galeries, et je m’étais arrêté pour tracer un repère, la règle contre la paroi, quand un son est venu de la roche. Pas de l’air de la galerie  : de la roche même. Dans une mine, les sons voyagent par la pierre et par le métal autant que par l’air  ; ils arrivent par le sol, par les étais qui font office de conduits. Celui-là ne venait ni des étais ni d’une galerie voisine. Il venait de la paroi.
 
-Un coup, lent, très lent, un toutes les trois ou quatre secondes. Régulier sans être jamais identique  : une variation minuscule empêchait le rythme d’être mécanique. Une machine aurait répété le même coup  ; celui-ci respirait entre les coups. J’ai posé la main sur la pierre. La vibration est remontée dans ma paume, mon poignet, mon avant-bras, et je l’ai reconnue  : la même famille que le Fragment Zéro sous mes doigts, à Trelios. Mais le Fragment vibrait dans une salle, à hauteur d’homme. Ici, la vibration venait d’en bas, minérale, de plus profond que l’endroit où ma main touchait.
+Un coup, lent, très lent, un toutes les trois ou quatre secondes. Régulier sans être jamais identique  : une variation minuscule empêchait le rythme d’être mécanique. Une machine aurait répété le même coup  ; celui-ci respirait entre les coups. J’ai appliqué ma main contre la paroi. La vibration est remontée dans ma paume, mon poignet, mon avant-bras, et je l’ai reconnue  : la même famille que le Fragment Zéro sous mes doigts, à Trelios. Mais le Fragment vibrait dans une salle, à hauteur d’homme. Ici, la vibration venait d’en bas, minérale, de plus profond que l’endroit où ma main touchait.
 
 Lorn se retourna. Il avait entendu mon silence.
 

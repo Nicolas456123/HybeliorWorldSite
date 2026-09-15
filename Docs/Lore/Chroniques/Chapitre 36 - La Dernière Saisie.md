@@ -57,7 +57,7 @@ Il prit la chose comme il prenait le temps qu’il faisait, sans un mot, et se r
 
 «  Je vais mettre en panne avant qu’ils me l’ordonnent. Un navire qui s’arrête de lui-même a l’air d’un navire qui n’a rien à fuir. Restez sur le pont. Dans une cabine, on a l’air de se cacher.  »
 
-C’était mon avis. Je ne le lui ai pas dit.
+C’était mon avis. J’ai hoché la tête et je suis resté sur le pont.
 
 ---
 
@@ -90,7 +90,7 @@ Reen ne bougea pas. Son regard alla d’Orath à moi, puis à la mer, et il rest
 
 «  Vos cahiers, monsieur Valthen.  »
 
-Ce n’était pas une question. J’ai défait la cordelette, ouvert le sac et posé les cahiers sur le rouf entre nous, dans leur ordre, puis j’ai reculé d’un pas pour lui laisser la place.
+J’ai défait la cordelette, ouvert le sac et posé les cahiers sur le rouf entre nous, dans leur ordre, puis j’ai reculé d’un pas pour lui laisser la place.
 
 «  Prenez-les, dis-je. Ils sont numérotés. Vous saurez tout de suite s’il en manque un.  »
 
@@ -148,7 +148,7 @@ Il ne le prit pas.
 
 «  Je vais vous dire ce qui va se passer, monsieur Valthen.  » Sa voix avait retrouvé le calme administratif du premier jour. «  Je vais rédiger un rapport. Il dira qu’un cotre du bureau a intercepté, dans les eaux d’approche, un navire marchand en règle, transportant des épices et un passager placé sous notification. Que le passager a présenté dix-sept cahiers manuscrits. Que ces cahiers ont été examinés et se sont révélés être un journal de voyage sans portée institutionnelle. Que rien de saisissable n’y figurait. Et que la notification, faute d’objet, peut être classée.
 — Vous allez écrire que je ne porte rien.
-— Je vais écrire que vous ne portez rien que la loi me permette de prendre. C’est différent, et c’est la seule chose exacte que je puisse écrire.  » Il ajusta son gant. «  Vous et moi savons que ce n’est pas la même chose que ne rien porter. Mais je ne suis pas payé pour ce que je sais. Je suis payé pour ce qui se saisit. Et l’on ne saisit pas un journal de voyage.  »
+— Je vais écrire que vous ne portez rien que la loi me permette de prendre. C’est différent, et c’est la seule chose exacte que je puisse écrire.  » Il ajusta son gant. «  Vous et moi savons que ce n’est pas ne rien porter. Mais je ne suis pas payé pour ce que je sais. Je suis payé pour ce qui se saisit. Et l’on ne saisit pas un journal de voyage.  »
 
 Il me regarda une dernière fois, et ce que j’ai lu dans ce regard n’était ni de la haine ni du triomphe. C’était la fatigue d’un homme qui a bien fait son travail pendant huit cents jours et qui vient de comprendre, sur un pont battu par le vent, que cela n’a servi à rien.
 
@@ -168,9 +168,9 @@ Reen attendit qu’elle eût disparu pour parler. Il avait ramassé le sac sans 
 — Il ne me tenait pas. Il croyait me tenir. Il l’a compris trop tard.
 — Vous saviez qu’il ne prendrait rien.  »
 
-Ce n’était pas une question. J’ai noué la cordelette et remonté la lanière contre ma poitrine.
+J’ai noué la cordelette et remonté la lanière contre ma poitrine.
 
-«  Je savais qu’il n’y avait rien à prendre. Ce n’est pas la même chose que savoir ce qu’il ferait. Mais un homme comme lui suit des règles, et les règles s’apprennent d’avance. C’est la mer qui n’en suit pas, capitaine. Pas les hommes en manteau gris.  »
+«  Je savais qu’il n’y avait rien à prendre. Je ne savais pas ce qu’il ferait. Mais un homme comme lui suit des règles, et les règles s’apprennent d’avance. C’est la mer qui n’en suit pas, capitaine. Pas les hommes en manteau gris.  »
 
 Reen me regarda de côté, avec ce qui, chez lui, tenait lieu de sourire.
 
@@ -181,7 +181,7 @@ Reen me regarda de côté, avec ce qui, chez lui, tenait lieu de sourire.
 
 Reen ne demanda pas ce que je déposais. Quelque part entre Cestra et cette côte, il avait cessé de vouloir le savoir. Il retourna à sa barre, parce qu’il y avait une côte à prendre. Je suis resté à l’avant, le sac contre la poitrine, à regarder l’endroit de l’horizon où le cotre avait cessé d’être.
 
-Aucun des huit hommes du bord ne m’avait vendu. Leur manière de me regarder, ce soir-là, dans le carré, me le confirma  : la même indifférence courtoise qu’au premier jour, sans gêne et sans curiosité nouvelle. Le matelot à l’huile de Galenor me demanda seulement si l’homme au manteau gris m’avait pris quelque chose. Je répondis que non. Il versa un filet d’huile dans ma soupe sans que je le lui demande, et dit qu’un bureau qui repart les mains vides, c’est le seul qu’on aime voir passer. Personne ne parla plus du cotre.
+Aucun des huit hommes du bord ne m’avait vendu. Leur manière de me regarder, ce soir-là, dans le carré, me le confirma  : la même indifférence courtoise qu’au premier jour, sans gêne et sans curiosité nouvelle. Le matelot à l’huile de Galenor me demanda seulement si l’homme au manteau gris m’avait pris quelque chose. Je répondis que non. Il versa un filet d’huile dans ma soupe, et dit qu’un bureau qui repart les mains vides, c’est le seul qu’on aime voir passer. Personne ne parla plus du cotre.
 
 ---
 

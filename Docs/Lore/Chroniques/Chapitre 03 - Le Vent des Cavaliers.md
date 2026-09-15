@@ -76,7 +76,7 @@ Il tira son aiguille jusqu’au bout du fil.
 
 «  Et maintenant, tu marches  », dit-il.
 
-Ce n’était pas une question non plus. J’ai reporté mon attention sur le feu, faute d’une réponse assez prudente.
+Ce n’était pas une question. J’ai reporté mon attention sur le feu, faute d’une réponse assez prudente.
 
 Renk mangeait sans un mot, à ma gauche. Quand j’ai reposé mon couteau, c’est lui qui a parlé, les yeux sur les braises.
 

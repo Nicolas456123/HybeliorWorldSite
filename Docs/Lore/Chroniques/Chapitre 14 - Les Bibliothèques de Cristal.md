@@ -21,7 +21,7 @@ J’ai mis un jour entier à comprendre pourquoi Holvendar me désorientait, moi
 
 Trente jours de mer depuis Endora, depuis les coupoles des astronomes et un gant de cuir noir aperçu sur un quai que je n’ai pas envie de revoir. La traversée m’a rendu au monde essoré, l’estomac persuadé qu’il tanguait encore, sur un débarcadère de planches noires où une eau grise cognait les pilotis. J’ai confié Pardine à un loueur de la ville basse, avec de quoi la nourrir un mois et la consigne de ne la céder à personne qui viendrait la réclamer avec un papier. Les montagnes cristallines ne sont pas un pays pour les mules. On y monte à pied, par un chemin taillé qui s’enfonce d’abord dans la roche, puis remonte vers la lumière des galeries.
 
-L’air changeait à mesure que je montais. Froid, un goût de métal  ; pas l’air d’un col, celui d’une montagne qu’on aurait ouverte au ciseau pour en polir l’intérieur. Au troisième relais, un vieil homme m’expliqua, sans que je lui aie rien demandé, que le travail continu des veines de quartz chargeait l’air d’une poussière trop fine pour l’œil. Il s’appelait Belthran, et il avait la satisfaction tranquille de l’homme qui tient enfin quelqu’un à qui livrer un détail que personne ne lui réclamait. Je l’ai écouté jusqu’au bout. Son nom est dans mon carnet, avec la poussière de quartz et le reste.
+L’air changeait à mesure que je montais. Froid, un goût de métal  ; pas l’air d’un col, celui d’une montagne qu’on aurait ouverte au ciseau pour en polir l’intérieur. Au troisième relais, un vieil homme m’expliqua de lui-même que le travail continu des veines de quartz chargeait l’air d’une poussière trop fine pour l’œil. Il s’appelait Belthran, et il avait la satisfaction tranquille de l’homme qui tient enfin quelqu’un à qui livrer un détail que personne ne lui réclamait. Je l’ai écouté jusqu’au bout. Son nom est dans mon carnet, avec la poussière de quartz et le reste.
 
 ---
 
@@ -73,13 +73,13 @@ Je demandai pourquoi.
 
 «  Parce que je connais cette écriture, dit-il à voix basse. Pas pour la lire  : personne ne la lit. Pour l’avoir vue. Il en existe un fragment dans nos fonds. Un seul, à ma connaissance, recopié il y a très longtemps d’un original venu de l’ouest brumeux, des couvents où l’on dort les yeux ouverts.  » Son regard fit le tour de la salle sans que sa tête bouge. «  Il n’est pas en niveau deux. Ni en niveau cinq. Il est dans un fonds qui, officiellement, n’existe pas. Le jour où j’ai demandé à le consulter, on m’a répondu par une question sur l’état de ma santé.  »
 
-Il n’a plus rien dit de la soirée. Il venait pourtant de me donner, sans le savoir, la forme exacte de ce que j’étais venu chercher  : la preuve que ces signes n’appartenaient pas à un lieu mais à un réseau, qu’ils couraient sous les continents comme si une même main avait écrit sur douze pierres différentes. Cette écriture ne s’était pas dispersée toute seule. Quelqu’un l’avait portée d’un bout du monde à l’autre. Ou quelque chose.
+Il n’a plus rien dit de la soirée. Il venait pourtant de me donner, sans le savoir, la forme exacte de ce que j’étais venu chercher  : la preuve que ces signes n’appartenaient pas à un lieu mais à un réseau, qu’ils couraient sous les continents comme si une même main avait écrit sur douze pierres différentes. Cette écriture ne s’était pas dispersée toute seule. Quelqu’un l’avait portée d’un continent à l’autre. Ou quelque chose.
 
 Je le remerciai du conseil, et je rangeai le feuillet contre ma chemise. Je savais déjà que je le ressortirais au pire moment.
 
 ---
 
-Les bibliothèques de cristal reposent sur un principe que je n’avais rencontré nulle part ailleurs. Les livres les plus anciens n’y dorment pas dans des coffres. On les garde visibles, enchâssés dans des alvéoles de cristal translucide, éclairés de l’intérieur par cette lumière qui vient de partout et de nulle part, et on ne les sort jamais. Les archivistes travaillent debout, face à la paroi, et transcrivent à la main, dans des cahiers séparés, ce qu’ils déchiffrent à travers l’épaisseur. Le livre ne bouge pas  ; c’est le lecteur qui se déplace.
+Les bibliothèques de cristal reposent sur un principe sans équivalent ailleurs. Les livres les plus anciens n’y dorment pas dans des coffres. On les garde visibles, enchâssés dans des alvéoles de cristal translucide, éclairés de l’intérieur par cette lumière qui vient de partout et de nulle part, et on ne les sort jamais. Les archivistes travaillent debout, face à la paroi, et transcrivent à la main, dans des cahiers séparés, ce qu’ils déchiffrent à travers l’épaisseur. Le livre ne bouge pas  ; c’est le lecteur qui se déplace.
 
 La grande galerie m’a arrêté sur le seuil. Des centaines d’alvéoles montaient en rangées jusqu’à la voûte, chacune tenant son livre dans sa propre lueur  : reliures brunes, ors éteints, papiers passés du jaune au miel. Des silhouettes immobiles se tenaient le long des parois, le cahier au bras, et l’on n’entendait que les plumes, un grattement continu, régulier, comme une pluie fine sur un toit.
 
@@ -87,7 +87,7 @@ Devant cette galerie, j’ai compris pourquoi ils disent les bibliothèques de c
 
 Le premier jour se passa dans les collections ouvertes du niveau deux, à comparer mes relevés aux leurs. Sept siècles de cartographie iltharienne, des levés de toutes les chaînes du continent, des tables d’astronomes recoupées avec celles de Haldria. Et, dans une aile latérale absente des plans mais connue des apprentis, un fonds de témoignages transcrits, classés ni par auteur ni par date, mais par sujet d’étonnement. C’était l’intitulé exact de la catégorie. Une heure passée là m’apprit sur ce peuple plus que toutes les galeries  : les Gryndoriens rangent d’abord ce qui les a surpris, et ils gardent la trace de leur propre stupeur. Ce que je cherchais n’y figurerait pas. Mon écriture anguleuse n’étonnait pas Gryndor  ; elle lui faisait peur, et on l’avait enterrée plus bas.
 
-Une archiviste travaillait à quelques pas, si concentrée qu’elle paraissait ne pas me voir. La trentaine, des gestes lents et nets. Quand elle me parla enfin, ce fut sans lever les yeux de son cahier.
+Une archiviste travaillait à quelques pas, si concentrée qu’elle paraissait ne pas me voir. La trentaine, des gestes lents et nets. Quand elle me parla enfin, elle ne s’arrêta pas d’écrire.
 
 «  Si vous cherchez quelque chose de précis, les maîtres reçoivent les demandes le matin.
 — Je cherche un fragment d’écriture. Une famille de signes anguleux, sans courbe. On m’a dit qu’il en existait un exemplaire ici.
@@ -194,6 +194,6 @@ Je repris Pardine chez le loueur de la ville basse. Elle allait bien, elle senta
 
 ---
 
-*Jour 330, ville basse de Holvendar. Ce que j’ai appris là-haut  : Gryndor ne cache pas son savoir parce qu’il en doute. Il le cache parce qu’il y croit assez pour en avoir peur. Je n’ai pas cette peur. J’ai une foi à moi, que je ne nomme pas encore ici. Elle tient dans une ligne de signes que je ne sais pas lire, recopiée deux fois sur deux feuillets, et qui prouve seulement ceci  : la route existe. Ce qu’elle dit, d’autres le liront après moi, ou personne. Ce n’est pas mon travail de cartographier ce que je ne peux pas voir. C’est mon travail de prouver qu’il y a quelque chose à voir, et de le déposer là où l’on ne pourra plus le reprendre.*
+*Jour 330, ville basse de Holvendar. Ce que j’ai appris là-haut  : Gryndor ne cache pas son savoir parce qu’il en doute. Il le cache parce qu’il y croit assez pour en avoir peur. Je n’ai pas cette peur. J’ai une foi à moi, que je ne nomme pas encore ici. Elle tient dans une ligne de signes que je ne sais pas lire, recopiée deux fois sur deux feuillets, et qui prouve seulement ceci  : la route existe. Ce qu’elle dit, d’autres le liront après moi, ou personne. Mon travail est de prouver qu’il y a quelque chose à voir, et de le déposer là où l’on ne pourra plus le reprendre.*
 
 *Je pars pour l’est demain, en fugitif. Le mot est laid. Le chemin est exactement celui que je voulais prendre.*

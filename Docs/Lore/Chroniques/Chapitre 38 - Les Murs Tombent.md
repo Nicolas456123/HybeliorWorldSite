@@ -87,7 +87,7 @@ Omarin a posé sa cuillère.
 
 «  Beaucoup de gens meurent autour de toi, Sorin.  »
 
-Ce n’était pas une accusation. Il posait un fait sur la table, à côté de la synthèse et des bols.
+Il ne m’accusait de rien. Il posait un fait à côté de la synthèse et des bols.
 
 «  Je voyage parmi les gens qui gardent ce genre de savoir. C’est le savoir qu’on efface, depuis des années, sous une consigne dont personne ne signe l’ordre. Quand on marche longtemps dans ce troupeau-là, on est souvent le dernier à avoir parlé au mort.
 — Et tu marches longtemps.

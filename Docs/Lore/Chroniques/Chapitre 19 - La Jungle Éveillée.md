@@ -51,7 +51,7 @@ Un oiseau s’est tu deux fois au même intervalle  ; un oiseau qui a peur d’
 
 Trois indices en deux jours. Je n’ai pas pressé l’allure. Le distancer était perdu d’avance, il me relevait au flair  ; je pouvais en revanche l’emmener là où le terrain travaillerait pour moi. Et sur toute la carte que je porte dans le crâne, il n’existait qu’un endroit pareil  : Wyndor, la ville dans les arbres, où le sol appartient aux esprits et la hauteur aux Marcheurs, et où un homme du dehors, seul, ne passe pas la nuit s’il ignore quelle branche porte et laquelle cède.
 
-Je lui ai fixé rendez-vous là. Je ne le lui ai pas dit.
+Je lui ai fixé rendez-vous là. Il ne le savait pas encore.
 
 ---
 
@@ -229,7 +229,7 @@ Je ne sus pas quoi noter de cela. Je n’en notai rien.
 
 Je repris seul la route du nord. Devant, Lythar, ses cavaliers, la lisière de Vytharia et ses couvents, où l’on dit que des femmes rêvent le passage des voyageurs avant qu’ils n’arrivent. Derrière, une jungle qui se tait un peu plus à chaque saison, et un homme au gant noir qui redescendait vers le sud rendre compte d’une bouche qu’il n’avait pas fermée.
 
-Le soir, à la lueur d’une lampe baissée, juste assez de lumière pour mes mots et pas davantage, je fis le compte de ce que je rapportais de Warenthor. Une phrase  : *ils arrivent par le dessous.* Un chiffre  : six mois, le même qu’ailleurs. Une ville qui négocie avec la forêt et qui perd, doucement, ses interlocuteurs. Et une nuit dans la canopée, dont je consignai les faits sans un adjectif. La barre vaut mieux que la phrase.
+Le soir, à la lueur d’une lampe baissée, juste assez de lumière pour mes mots et pas davantage, je fis le compte de ce que je rapportais de Warenthor. Une phrase  : *ils arrivent par le dessous.* Un chiffre  : six mois, le même qu’ailleurs. Une ville qui négocie avec la forêt et qui perd, doucement, ses interlocuteurs. Et une nuit dans la canopée, dont je consignai les faits sans un adjectif. Puis je baissai encore la mèche.
 
 Je tenais l’homme au bout de la lame de mon père. Je l’ai hissé, puis j’ai repris la route à l’aube.
 

@@ -88,7 +88,7 @@ Il me regarda un instant, et je crus qu’il allait me dire de ne pas monter. Il
 
 «  L’homme de Galenor, dit-il seulement. Vous êtes venu pour lui.
 — Je suis venu pour ce qu’il est venu voir.
-— Ce n’est pas la même chose  ?
+— Cela revient au même  ?
 — Non.  »
 
 Il rangea ma réponse sans la discuter et redescendit sans se retourner. Je le regardai décroître dans la lumière blanche jusqu’à n’être qu’un point sombre sur la neige, puis rien. J’étais seul, à une demi-journée de la chose, dans un abri qu’un homme avait bâti pour la regarder, et cet homme avait mes mains.
@@ -174,7 +174,7 @@ Ce n’était pas une question, et j’y répondis comme à ce que c’était.
 «  J’ai vu.
 — Vous n’êtes pas monté plus loin que le surplomb.
 — Non.
-— Bien.  » Elle remplit mon bol sans que je le lui demande. «  Les boussoles, vous me les rendez ou vous les gardez  ?
+— Bien.  » Elle remplit mon bol de nouveau. «  Les boussoles, vous me les rendez ou vous les gardez  ?
 — Je vous les rends. Elles ne serviront plus là où je vais.
 — Elles ne servaient déjà pas là où vous êtes allé, dit-elle. Mais vous les avez portées quand même, tout ce chemin, dans la poche gauche.  » Elle regardait la poche, pas moi. «  Comme lui.  »
 
@@ -182,7 +182,7 @@ Puis elle posa sur la table, à côté de mon bol, une feuille de papier pliée 
 
 «  Il a laissé ça, dit-elle. Je ne sais pas pourquoi j’ai attendu que vous soyez monté pour vous le donner.
 — Vous le savez.
-— Peut-être.  » Elle s’essuya les mains à son tablier. «  Peut-être que je voulais savoir d’abord si vous alliez redescendre. On ne donne pas ça à un homme qu’on n’est pas sûr de revoir. Ça se perd, dans la neige, avec le reste.  »
+— Peut-être. Peut-être que je voulais savoir d’abord si vous alliez redescendre. On ne donne pas ça à un homme qu’on n’est pas sûr de revoir. Ça se perd, dans la neige, avec le reste.  »
 
 Je pris la feuille. Le papier était vieux, l’encre brunie aux pliures. Je reconnus l’écriture pour la mienne, puis je vis qu’elle n’était pas la mienne  : c’était la mienne vieillie d’une génération, plus appuyée aux consonnes, plus hésitante aux virgules. Celle de mon père.
 
@@ -198,7 +198,7 @@ Je restai longtemps avec la feuille entre les mains. Borela était passée dans 
 
 Je relus les deux lignes plusieurs fois. Non pour les comprendre, elles étaient claires  ; pour tenir dans la main ce qu’elles étaient exactement. *Si tu lis ceci, tu as fait le même chemin.* La phrase posait une condition, et je l’avais remplie, non par le hasard d’un deuil qui m’aurait conduit ici les yeux fermés, mais en suivant, relevé après relevé, la route qu’un carnet m’avait apprise avant que je mette un pied hors de Kharazir. *Tu es prêt.* Un homme avait fait cette route, l’avait trouvée réelle, avait été effacé pour l’avoir trouvée réelle, et avait laissé entre les mains d’une cartographe de Noravia un relais pour celui qui viendrait après lui avec les mêmes mains et la même faim. Il ne me disait pas de revenir. Il me disait de continuer.
 
-Ce qu’il est devenu, je ne le saurai pas. Borela ne le savait pas non plus  : revenu de là-haut et reparti par la mer, ou passé à travers ce que je n’avais pas franchi et ne franchirais pas, ou ni l’un ni l’autre. Sur trois cartes à la fois, intact dans chacune et vérifié dans aucune. Je n’étais pas venu chercher un homme. Je ne cartographie pas ce que je ne peux pas voir, et le sort de mon père est de ceux qu’aucun relevé n’atteint. J’étais venu chercher ce qu’il était venu voir, et le reprendre là où l’effacement l’avait laissé tomber, pour le porter d’une façon qu’il n’avait pas su, ou pas pu, ou pas eu le temps  : pas seul.
+Ce qu’il est devenu, je ne le saurai pas. Borela ne le savait pas non plus  : revenu de là-haut et reparti par la mer, ou passé à travers ce que je n’avais pas franchi et ne franchirais pas, ou ni l’un ni l’autre. Sur trois cartes à la fois, intact dans chacune et vérifié dans aucune. Je n’étais pas venu chercher un homme. Le sort de mon père est de ceux qu’aucun relevé n’atteint. J’étais venu chercher ce qu’il était venu voir, et le reprendre là où l’effacement l’avait laissé tomber, pour le porter d’une façon qu’il n’avait pas su, ou pas pu, ou pas eu le temps  : pas seul.
 
 À un moment, sans que je m’en sois rendu compte tout de suite, le papier était humide à un endroit. Je ne notai pas autre chose.
 

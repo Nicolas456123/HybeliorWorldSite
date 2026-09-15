@@ -151,7 +151,7 @@ Deux heures durant, je lui parle. Les vibrations d’Alkaran. Le Cantus Mundi de
 
 De sous la pile, il tire un graphique. Une courbe tracée sur du papier de basalte, régulière, puis nettement ascendante à partir d’un point marqué «  automne dernier  ». Je regarde la courbe, puis j’ouvre le carnet à la page des relevés d’Ordavan, ceux que j’ai reconstitués de mémoire après avoir arraché les pages originales. Nous posons les deux documents côte à côte sur la table.
 
-La pente des Guetteurs et celle de mes relevés sont les mêmes, à l’échelle et aux unités près, c’est-à-dire à tout ce qui sépare la mesure d’une vibration au fond d’un volcan de l’observation d’un sol sous la paume. La même montée. Le même intervalle qui se resserre. Deux témoins qui ne se sont jamais parlé décrivent, chacun dans sa langue, un seul mouvement. Personne ne dit rien pendant un moment. Le Dessous n’a pas une horloge par lieu. Il en a une seule, et elle accélère partout à la fois.
+La pente des Guetteurs et celle de mes relevés sont les mêmes, à l’échelle et aux unités près, c’est-à-dire à tout ce qui sépare la mesure d’une vibration au fond d’un volcan de l’observation d’un sol sous la paume. La même montée. Le même intervalle qui se resserre. Deux témoins qui ne se connaissent pas décrivent, chacun dans sa langue, un seul mouvement. Personne ne dit rien pendant un moment. Le Dessous n’a pas une horloge par lieu. Il en a une seule, et elle accélère partout à la fois.
 
 Saven, entré derrière moi avec le dossier de Vyldor, se penche par-dessus la table pour lire. Des années de dosages pesés lui ont fait l’œil  : il lit une colonne de chiffres comme je lis un relief. Son doigt s’arrête sur le premier point de ma page.
 

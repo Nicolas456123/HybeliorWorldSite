@@ -62,7 +62,7 @@ Il me fallait quelqu’un qui connaisse le terrain. On m’envoya vers un coureu
 
 Il reposa le harnais.
 
-«  Il n’y a pas de campement là-bas. Pas de piste, pas de gibier. Ma bête ne va pas où il n’y a rien à manger, et moi non plus.  » Il me regarda pour la première fois. «  Vous n’êtes pas le premier à vouloir voir sous la glace. On vous a dit comment ils appellent le froid, là-haut  ?
+«  Il n’y a pas de campement là-bas. Pas de piste, pas de gibier. Ma bête ne va pas où il n’y a rien à manger, et moi non plus.  » Il leva les yeux sur moi. «  Vous n’êtes pas le premier à vouloir voir sous la glace. On vous a dit comment ils appellent le froid, là-haut  ?
 — Dites-le-moi.
 — Le Froid Ancien.  » Il ne baissa pas la voix. «  Passé une certaine hauteur, il ne traverse pas les fourrures. Il n’en tient pas compte. On raconte qu’il gèle le sang avant qu’on ait compris qu’on a froid. Et le vent ne souffle pas droit, il tourne. Les vieux disent que les tempêtes remontent le vent, qu’elles grossissent sur les campements comme si elles savaient où on est. Les Tempêtes Vivantes, ils disent. C’est là que vous voulez que je vous mène.
 — À un jour de marche. Le reste, je le fais seul.
@@ -163,7 +163,7 @@ Sa dernière phrase resta sans réponse. C’était la sienne, pas la mienne. Da
 
 «  Vous allez monter.  »
 
-Ce n’était pas une question.
+Elle attendait.
 
 «  Jusqu’au surplomb. Pas au pied.
 — C’est ce que Vane croyait aussi. Le surplomb, et pas plus.  » Son regard descendit sur ma main droite, celle qui tenait la plume, et y resta. «  Il y en a eu un, avant nous, qui écrivait comme vous. Deux carnets, un dans chaque poche. Lui, il n’a pas dit surplomb. Il a dit qu’il voulait voir de près. Sethiran ne l’a pas connu, il ne vous en parlera pas. Borela, oui. Demandez-lui.  »

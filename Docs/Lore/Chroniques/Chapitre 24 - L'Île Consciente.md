@@ -89,7 +89,7 @@ D’un geste du menton, il prit la forêt entière.
 
 À Thalenvir, personne n’a bâti les murs. On les a fait pousser.
 
-Les salles d’étude sont des rangées d’arbres guidés sur des générations pour croître droit, leurs branches nouées en voûte à hauteur de plafond. Nul architecte n’a dessiné cela  ; on a orienté une croissance, et la croissance a fait le travail. La salle où l’on me mena avait un sol de terre battue, des bancs de bois noueux, une ouverture dans la voûte par où tombait le jour. Cela sentait la résine, l’herbe froide, et une chose que je n’ai pas su nommer, entre la terre mouillée et l’air d’avant l’orage. Une goutte tombait quelque part derrière les troncs, à intervalles longs, toujours la même.
+Les salles d’étude sont des rangées d’arbres guidés sur des générations pour croître droit, leurs branches nouées en voûte à hauteur de plafond. Nul architecte n’a dessiné cela  ; on a orienté une croissance, et la croissance a fait le travail. La salle où l’on me mena avait un sol de terre battue, des bancs de bois noueux, une ouverture dans la voûte par où tombait le jour. Cela sentait la résine, l’herbe froide, et une chose sans nom, entre la terre mouillée et l’air d’avant l’orage. Une goutte tombait quelque part derrière les troncs, à intervalles longs, toujours la même.
 
 Trois des treize Archidruides seulement acceptèrent de paraître  : deux femmes, un homme, d’un âge que je renonçai à estimer. La plus vieille, que les autres appelaient l’Aînée sans lui donner d’autre nom, parla la première. Ma question, dit-elle, était bien posée. Je ne demandais pas *si* les esprits s’étaient tus, mais *depuis quand*, et *lequel parlait encore*  : je tenais le fait pour acquis et je cherchais un survivant. J’avais donc travaillé avant de venir.
 
@@ -212,7 +212,7 @@ La nouvelle d’Ourven l’avait précédée, comme elle avait précédé tout l
 — Ramasser pour qui  ?
 — Pour que cela ne meure pas avec le veilleur.  »
 
-Son regard resta longtemps sur moi, sans tendresse.
+Elle me regarda un long moment, sans tendresse.
 
 «  Vous vous racontez une belle histoire, cartographe. Vous ne sauvez personne, et vous le savez avant de monter. Vous avez fini par tracer votre route de mourant en mourant, parce que ce sont eux qui parlent le plus vrai. Je ne dis pas que c’est un crime. Je dis que ce n’est pas la vertu que vous croyez.  »
 

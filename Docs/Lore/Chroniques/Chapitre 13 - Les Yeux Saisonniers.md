@@ -60,7 +60,7 @@ La réponse vraie me couvrait mieux qu’aucune autre, et je la lui donnai  : u
 
 «  La Catena Fracta  », dit-elle.
 
-Ce n’était pas une question. Elle prononçait le nom comme celui d’une visite qu’on attend depuis longtemps.
+Elle prononçait le nom comme celui d’une visite qu’on attend depuis longtemps.
 
 «  Vous connaissez ce mot.
 — Nous l’appelons autrement. Mais oui.  » Ses yeux se levèrent, et le vert s’y approfondit encore. «  Les esprits en parlent depuis l’automne. Certains sont anciens, des entités qui n’avaient pas montré d’agitation en mille ans, et qui se mettent à murmurer, comme si elles percevaient au loin une présence importante sans avoir encore les termes pour en parler. Mon prédécesseur disait qu’ils n’avaient été ainsi qu’une fois  : avant ce que nous appelons le Silence de Wildoria, il y a quatre siècles. La mémoire de la cause s’est perdue de génération en génération. Les racines, elles, en gardent l’empreinte.  »
@@ -285,7 +285,7 @@ Je repense aux yeux. Ceux de Feylara, qui prennent la couleur de la saison et vo
 
 *Je ferme ici la deuxième partie de mon voyage. Trois cents jours, de la poussière de Kharazir à ce pont battu par le vent d’est. Hier soir, j’ai relu mes notes d’une traite, comme on relit une carte levée trop lentement pour qu’on en ait vu d’abord l’ensemble  : les sons d’Alkaran, les vibrations de Trinoria, le demi-ton d’Avalor, les vingt-trois étoiles d’Haldria. Séparément, des anomalies à vérifier. Ensemble, une même chose, entendue dans plusieurs langues qui ne se connaissent pas. Une résonance de fond qui se modifie depuis un automne dont tous les témoins, chacun avec ses propres instruments, donnent la même date.*
 
-*Je ne conclus pas sur ce qu’elle est. Ce n’est pas mon travail de cartographier ce que je ne peux pas voir. Je note qu’elle est là, qu’elle change, et qu’elle change assez pour que des étoiles glissent, des racines murmurent et des sols hésitent en même temps.*
+*Je ne conclus pas sur ce qu’elle est. Je note qu’elle est là, qu’elle change, et qu’elle change assez pour que des étoiles glissent, des racines murmurent et des sols hésitent en même temps.*
 
 *Je note aussi, plus bas, plus petit, pour que la ligne suivante n’oublie pas la précédente  : j’ai laissé un homme mort sur un quai pour garder une femme en vie, et j’ai appris que je ne sais pas faire ce commerce-là.*
 

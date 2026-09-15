@@ -21,7 +21,7 @@ On entend Thalmaris avant de la voir.
 
 Depuis l’aube, le canot longeait la côte intérieure d’Evertia, là où les falaises noires s’abaissent en une baie plate que la forêt vient border jusqu’au sable. Le bois de la rame cognait contre le tolet, l’eau glissait le long de la coque, le rameur soufflait à chaque traction, et ces trois bruits s’étaient fondus depuis longtemps en un seul que je n’écoutais plus. Une note le traversa.
 
-Une seule. Longue, grave, portée sur l’eau bien plus loin que la distance ne l’aurait dû. Elle aurait dû s’éteindre à mi-baie  ; elle nous parvint entière, comme si la baie l’avait conduite jusqu’à nous. Le rameur leva sa rame sans que je lui aie rien demandé.
+Une seule. Longue, grave, portée sur l’eau bien plus loin que la distance ne l’aurait dû. Elle aurait dû s’éteindre à mi-baie  ; elle nous parvint entière, comme si la baie l’avait conduite jusqu’à nous. Le rameur leva sa rame.
 
 «  Le Cantus du matin, dit-il, la pale suspendue au-dessus de l’eau. Ils chantent trois fois. À l’aube, à midi, et quand la lumière tombe. Par temps calme, on les entend de l’autre bord de la baie.
 — Pour quoi faire  ?  »
@@ -81,7 +81,7 @@ D’un geste, il m’arrêta avant que j’aie pu placer un mot.
 — Hésiter, répétai-je.
 — C’est le terme que nous employons, insista-t-il. Pas s’effondrer. Hésiter. Perdre de la cohérence sans la perdre tout à fait. Comme une note qui se déforme sans cesser d’être elle-même.  »
 
-Le second fil vint du bout de la table, d’une femme qui n’avait rien dit jusque-là, et il pesait davantage. Depuis dix-huit mois, les Canteurs relevaient des changements dans les fréquences qu’ils percevaient. Rien de brutal. Des écarts fins, absents d’une séance, présents à la suivante, de plus en plus souvent. Des notes qui résonnaient un peu autrement. Pas fausses. Autres.
+Le second fil vint du bout de la table, d’une femme qui avait laissé parler les autres, et il pesait davantage. Depuis dix-huit mois, les Canteurs relevaient des changements dans les fréquences qu’ils percevaient. Rien de brutal. Des écarts fins, absents d’une séance, présents à la suivante, de plus en plus souvent. Des notes qui résonnaient un peu autrement. Pas fausses. Autres.
 
 «  Vous êtes musiciens, dis-je. Vous entendez ce que les autres n’entendent pas.
 — Oui.  » Elle baissa la voix sur la suite. «  Et ce que nous entendons depuis dix-huit mois, c’est que quelque chose, sous nos pieds, ne tient plus tout à fait sa place.  »
@@ -104,7 +104,7 @@ C’est au retour, le lendemain, seul, que je repassai près d’eux. Un homme s
 
 «  Vous venez de l’Arbre avec le Maître Voix.  »
 
-Ce n’était pas une question.
+Il en était sûr.
 
 «  J’y étais hier.
 — On est cinq à saigner la rive sud.  » Il ouvrit la main, doigts écartés, comme pour se compter lui-même. «  La guilde nous compte douze sur ses registres. Si vous écrivez des choses, écrivez celle-là.
@@ -169,7 +169,7 @@ Je ne relevai pas. C’était vrai, et j’ai cessé depuis longtemps de corrige
 
 Vers le milieu de la nuit, l’arbre chanta.
 
-Le vocabulaire de la musique me manque, et je n’en emprunterai pas un qui ne serait pas le mien. Ce ne fut pas un battement comme au Mont Cendra, pas cette pulsation régulière que j’avais relevée là-bas. Ce fut un accord. Plusieurs fréquences tenues ensemble, très graves, et sous elles une dernière qui descendait encore, dans un registre qui n’était plus tout à fait du son et qu’on recevait dans les os, dans les dents, dans le creux du dos appuyé à la racine. Le sol en tremblait à peine. Une feuille tomba quelque part dans le noir et je l’entendis toucher terre. Alors je fermai les yeux, parce que c’est ce que font les druides et les Canteurs, et parce que, les paupières closes, la chose devenait plus nette que la lumière.
+Le vocabulaire de la musique me manque, et je n’en emprunterai pas un qui ne serait pas le mien. Ce ne fut pas un battement comme au Mont Cendra, pas cette pulsation régulière que j’avais relevée là-bas. Ce fut un accord. Plusieurs fréquences tenues ensemble, très graves, et sous elles une dernière qui descendait encore, dans un registre qui n’était plus tout à fait du son et qu’on recevait par la mâchoire, par le creux du dos appuyé à la racine. Le sol en tremblait à peine. Une feuille tomba quelque part dans le noir et je l’entendis toucher terre. Alors je fermai les yeux, parce que c’est ce que font les druides et les Canteurs, et parce que, les paupières closes, la chose devenait plus nette que la lumière.
 
 Elle était là. Comme à Cendra, comme dans la forêt du ravin, comme au pied de cet arbre une heure plus tôt sans vouloir me l’avouer, je la sentis  : une vibration lente, patiente, qui montait du dessous avec le temps de son côté. Un Délié ne devrait rien sentir de tout cela. La fréquence, je la relevai du mieux que je pus, sans instrument, par comparaison, par écart, comme on note un cap qu’on n’a pas les moyens de mesurer. Plus bas que le Mont Cendra. Apparenté pourtant, comme deux voix d’une même famille. Puis je rouvris les yeux et j’écrivis, longtemps, tant que la note me tenait dans l’oreille.
 

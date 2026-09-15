@@ -193,7 +193,7 @@ Du bout du doigt, je touchai le mot, puis je montrai la mer, le ciel, la roche a
 
 Kethron VI posa la main sur le parchemin, très doucement, sans couvrir le mot. De l’autre main, il désigna sa gorge. Le moine du quai traduisit d’un geste plus simple, mais j’avais compris avant lui. Un homme de Baelor ne rompt son silence que si un seul mot suffit  ; tous les autres seraient une profanation. Un mot suffisait, et il me l’avait donné. Le reste ne méritait pas d’être dit.
 
-Je glissai le parchemin plié contre ma poitrine, sous la chemise, à même la peau, à l’endroit où l’on garde ce qu’on ne veut pas perdre en mer. Il y est resté. Plus longtemps que je ne l’aurais cru ce jour-là.
+Je glissai le parchemin plié contre ma poitrine, sous la chemise, à même la peau. Il y est resté. Plus longtemps que je ne l’aurais cru ce jour-là.
 
 ---
 

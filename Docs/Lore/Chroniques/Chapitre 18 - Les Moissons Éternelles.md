@@ -41,7 +41,7 @@ Talvind était dans le verger, derrière le four communal, au sommet d’une lon
 
 «  Vous cherchez quelqu’un  », dit-il.
 
-Ce n’était pas une question.
+Il attendait.
 
 «  Un homme qui entend le sol.  »
 

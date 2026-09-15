@@ -83,14 +83,14 @@ Cela m’apparut à cette table, avec la netteté d’un relevé qui tombe juste
 Son menton bougea. Ce n’était pas de la surprise.
 
 «  Vous me congédiez.
-— Je vous sors. Ce n’est pas la même chose.
+— Je vous sors.
 — Une ligne ne se ferme pas comme on souffle une lampe. Mon homme met trois semaines à rentrer d’Etheira. Et ce qui est déjà en route  ?
 — Ce qui est en route arrivera ici et y restera. Vous n’ouvrez rien.
 — Je n’ouvre rien, dit-elle. C’est mon métier.  »
 
 Son regard fut celui qu’elle devait poser sur une cargaison qu’on lui proposait d’assurer.
 
-«  La dernière personne qui a relevé votre courrier a été mutée, dit-elle lentement. Et vous venez de comprendre, à cette table, à l’instant, que c’est peut-être pour ça.  » Ce n’était pas une question. «  Vous me sortez parce que vous ne voulez pas d’une deuxième mutée sur votre carte.
+«  La dernière personne qui a relevé votre courrier a été mutée, dit-elle lentement. Et vous venez de comprendre, à cette table, à l’instant, que c’est peut-être pour ça.  » Elle enchaîna sans attendre. «  Vous me sortez parce que vous ne voulez pas d’une deuxième mutée sur votre carte.
 — Oui.
 — C’est presque de la décence, cartographe.  » Elle reprit son poinçon et le fit tourner entre ses doigts. «  Presque. Un homme vraiment décent ne se promènerait pas avec des cahiers qui font muter les femmes qui les relèvent.  »
 
@@ -196,7 +196,7 @@ Y croyait-il  ? Un cartographe ne devrait pas poser cette question, parce qu’
 
 Cela aussi alla dans le cahier. Ces hommes vivaient d’attendre des marées, et ils s’étaient fait, de ce qui monte sous le monde, une image de marée  : une chose qui a son heure, qu’on ne devance pas, et qu’on prend ou qu’on laisse passer. Cette image n’était pas une preuve, et je ne la pris pas pour telle. Mais je la gardai, et elle m’a suivi plus loin que Valmora.
 
-Trancher  ? Je n’en avais aucun moyen, et ce n’est pas mon travail de trancher ce que je ne peux pas mesurer. L’histoire de l’oublié était une histoire, la manière qu’un peuple de mer avait trouvée de nommer une inquiétude que d’autres nommaient autrement  : le Panghor des druides, le dessous des gardes de la forêt, ce qui répond des chamanes des plaines, les Profonds des vieux textes que je n’avais pas lus et dont on m’avait dit qu’ils existaient. Cinq noms pour une même chose. Ou cinq peurs sans objet commun, qu’un voyageur presse à tort les unes contre les autres parce qu’il a passé deux ans à ne rencontrer que des gens effrayés. Les deux lectures restèrent côte à côte dans le cahier.
+Trancher  ? Je n’en avais aucun moyen, ni aucun instrument pour le faire. L’histoire de l’oublié était une histoire, la manière qu’un peuple de mer avait trouvée de nommer une inquiétude que d’autres nommaient autrement  : le Panghor des druides, le dessous des gardes de la forêt, ce qui répond des chamanes des plaines, les Profonds des vieux textes que je n’avais pas lus et dont on m’avait dit qu’ils existaient. Cinq noms pour une même chose. Ou cinq peurs sans objet commun, qu’un voyageur presse à tort les unes contre les autres parce qu’il a passé deux ans à ne rencontrer que des gens effrayés. Les deux lectures restèrent côte à côte dans le cahier.
 
 Ce que je notai, à plat, fut ceci  : un homme de Thyronis qui n’avait jamais mis le pied à Evertia ni entendu le mot Panghor racontait, avec sa tente et ses piquets, la même forme que la gardienne de Thalmaris me chantait de l’autre côté du détroit. La ressemblance était réelle. L’origine, incertaine. La conclusion, différée. Je la consignai  ; d’autres diront, plus tard et ailleurs, si elle mène quelque part.
 

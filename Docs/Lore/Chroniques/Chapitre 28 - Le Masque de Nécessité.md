@@ -33,7 +33,7 @@ C’était vrai. Depuis le relais, je regardais les quais.
 
 «  On m’a dit que la vie de la ville changeait avec la lune, répondis-je. Un cartographe note ce qui change.  »
 
-C’était vrai aussi, et cela suffit à Sera. Comme presque tous ceux que j’ai laissés le faire, elle prenait l’honnêteté partielle pour de la candeur. Elle m’expliqua ensuite le calendrier de Lunasar, avec la patience de quelqu’un qui l’a fait cent fois. La lune croissante est le temps des questions  : on formule, on accumule, on ne tranche rien. À la pleine lune, la cour et l’Assemblée siègent sous le ciel ouvert, et l’on vote. La lune décroissante est le temps de l’application  : on exécute, on ne revient pas en arrière. Et la nouvelle lune est le Silence.
+C’était vrai aussi, et cela suffit à Sera. Comme presque tous ceux que j’ai laissés le faire, elle prenait l’honnêteté partielle pour de la candeur. Elle m’expliqua ensuite le calendrier de Lunasar, dans l’ordre et sans se presser. La lune croissante est le temps des questions  : on formule, on accumule, on ne tranche rien. À la pleine lune, la cour et l’Assemblée siègent sous le ciel ouvert, et l’on vote. La lune décroissante est le temps de l’application  : on exécute, on ne revient pas en arrière. Et la nouvelle lune est le Silence.
 
 «  Le Silence, répétai-je.
 — Trois jours et trois nuits sans lumière neuve au ciel. Les marchés ferment à midi, aucun tribunal ne siège, personne ne prête serment ni ne signe. Et chacun, du roi au portefaix, se range le visage.
@@ -67,7 +67,7 @@ Le Veilleur s’appelait Solvanes. Une salle basse me reçut, dont un mur entier
 
 «  Vous venez de Mirathi, dit-il.
 — Oui.
-— Les dormeuses vous ont laissé recopier.  » Ce n’était pas une question. «  Elles ne le font pas pour tout le monde.  »
+— Les dormeuses vous ont laissé recopier.  » Il ne me laissa pas répondre. «  Elles ne le font pas pour tout le monde.  »
 
 Sur la table, je posai le fragment, tourné vers lui. Solvanes ne le prit pas. Il l’examina de loin, longtemps, les mains sur les genoux, sans toucher au papier.
 
@@ -84,7 +84,7 @@ Le signe de la marge était celui de mon fragment. C’était aussi celui des tu
 «  Vous savez ce qu’il désigne, demandai-je.
 — Je sais qu’on ne va pas où il désigne.  »
 
-Le volume refermé, il me fit monter, sans que je le lui demande, jusqu’à la terrasse haute de sa maison, qui donne sur le large. La nuit était nette, froide, la lune réduite à un ongle. En bas, la houle poussait contre la pierre blanche avec un bruit long, et l’air sentait le sel et la résine des lampes éteintes. Solvanes tendit la main vers le sud-ouest, là où la mer et le ciel se rejoignaient sans couture.
+Le volume refermé, il me fit monter jusqu’à la terrasse haute de sa maison, qui donne sur le large. La nuit était nette, froide, la lune réduite à un ongle. En bas, la houle poussait contre la pierre blanche avec un bruit long, et l’air sentait le sel et la résine des lampes éteintes. Solvanes tendit la main vers le sud-ouest, là où la mer et le ciel se rejoignaient sans couture.
 
 «  Regardez, dit-il. Mais pas trop longtemps.  »
 
@@ -109,7 +109,7 @@ Le vieil homme rentra le premier, comme si regarder cette chose trop longtemps l
 
 Un moment passa avant que je réponde. En bas, la mer poussait sa houle longue contre la pierre.
 
-«  Moi, je veux que rien ne se perde, dis-je enfin. Ce n’est pas la même chose.
+«  Moi, je veux que rien ne se perde, dis-je enfin. Ce n’est pas ce qu’il cherche.
 — Non. C’est le contraire exact. C’est pour cela que vous vous comprenez, lui et vous, mieux que personne d’autre sur Hybelior.  »
 
 Alors il me regarda comme le vieux maître de Warenthor m’avait regardé, comme on soupèse une charge que rien de visible n’explique.
@@ -118,7 +118,7 @@ Alors il me regarda comme le vieux maître de Warenthor m’avait regardé, comm
 
 Aldric. Le vieil homme ne le nomma pas, et je ne le demandai pas. Mon père était passé là, s’était rangé le visage, et il était reparti vers ce que je remontais à sa suite. Solvanes avait vu passer un homme masqué  ; il ne pouvait pas dire si cet homme avait fui ou choisi, et je ne lui demandai pas de trancher. Depuis longtemps, je n’attendais plus qu’on me rende l’homme. Ce que je remontais, ce n’était pas lui. C’était sa charge, et le moyen de ne pas mourir de la porter seul, comme il en était mort, s’il en était mort.
 
-Le papier de mon fragment était froid dans ma poche. Je ne notai pas autre chose.
+Le papier de mon fragment était froid dans ma poche. Je refermai le cahier.
 
 ---
 

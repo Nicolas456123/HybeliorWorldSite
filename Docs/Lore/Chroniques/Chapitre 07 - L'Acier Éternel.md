@@ -130,7 +130,7 @@ Le carnet de mon père tient dans une main. Sa couverture est usée jusqu’à l
 
 Aux pages du milieu, il a consigné une série. Des intervalles. Une colonne de nombres, mesurés je ne sais où ni comment, chacun un peu plus court que le précédent, avec en marge un seul mot, souligné deux fois  : *accélère*. Je lis cette colonne depuis mes dix-sept ans. Je l’ai lue si souvent qu’elle ne voulait plus rien dire, comme un mot qu’on répète jusqu’à le vider.
 
-Ce soir-là, dans ma chambre étroite au-dessus de l’atelier de Corven, la lampe basse, les forges au loin, j’ai posé le carnet ouvert à côté de mon relevé du jour. J’étais retourné aux Archives dans l’après-midi, et j’avais fait ce que je sais faire  : mesurer. Le battement du Fragment Zéro, compté contre le pouls de mon poignet, puis contre le sablier de poche que je porte pour les triangulations. Des intervalles. Une colonne de nombres.
+Ce soir-là, dans ma chambre étroite au-dessus de l’atelier de Corven, la lampe basse, les forges au loin, j’ai posé le carnet ouvert à côté de mon relevé du jour. J’étais retourné aux Archives dans l’après-midi, et j’avais mesuré. Le battement du Fragment Zéro, compté contre le pouls de mon poignet, puis contre le sablier de poche que je porte pour les triangulations. Des intervalles. Une colonne de nombres.
 
 Les deux colonnes n’étaient pas identiques. Vingt ans les séparaient. Mais elles appartenaient à la même courbe, et la courbe descendait. Chaque intervalle plus court que le précédent. *Accélère.*
 
@@ -138,7 +138,7 @@ Longtemps, je suis resté devant les deux pages. Un autre, découvrant cela pour
 
 J’ai recopié mon relevé au propre. Deux fois. La première copie ira dans le journal que vous lisez. La seconde est partie le lendemain, pliée dans un paquet, vers un homme dont Corven ne sait pas que je le connais. Seule, une colonne de nombres n’apprend rien à personne. Ce qui la rend dangereuse ne quitte pas ma doublure  : le carnet de mon père, que je ne montre à personne, et qui la précède de vingt ans.
 
-Je ne l’écris pas. La barre vaut mieux que la phrase.
+Je ne l’écris pas. J’ai refermé le carnet et soufflé la lampe.
 
 ---
 
@@ -179,7 +179,7 @@ Je me disais que je venais vérifier une mesure, et c’était vrai. La courbe d
 
 Neuf jours plus tôt, je m’étais arrêté sur la ligne du seuil. Cette nuit-là, je l’ai franchie.
 
-Le froid montait du sol de l’antichambre, plus net à chaque pas. Je me suis agenouillé devant le présentoir, le sablier posé sur la pierre, le carnet ouvert sur mes genoux, et j’ai posé la main sur la cloche froide.
+Le froid montait du sol de l’antichambre, plus net à chaque pas. Je me suis agenouillé devant le présentoir, le sablier posé sur la pierre, le carnet ouvert sur mes genoux, et j’ai touché la cloche froide.
 
 Le verre glaçait comme une eau d’hiver. Pas la fraîcheur d’une cave  : un froid qui cherche les doigts, qui remonte dans le poignet et s’installe. Sous ma paume, à travers le verre, le battement. Les os de ma main le comptaient avant moi. Le dernier qui s’était approché de trop près avait eu les mains engourdies quinze jours  ; je le savais, et j’ai laissé ma main où elle était. Le sable coulait. Les intervalles descendaient, fidèles à la colonne. De l’autre main, j’écrivais, du geste économe qui ne relève que l’utile.
 
@@ -245,7 +245,7 @@ Le peuple d’Alkaran, quand on l’interroge, dit que la pierre se souvient, qu
 
 Mon père avait la même colonne dans son carnet, vingt ans plus tôt, un peu moins serrée. Je le savais avant d’arriver. Ce n’était pas une révélation, c’était une confirmation.
 
-Il a suivi ce battement, de colline en antichambre, de plus en plus loin, jusqu’à ne plus revenir. Je ne cherche pas à savoir où il est allé. Ce n’est pas mon travail de cartographier un homme qui a disparu sur trois cartes à la fois. Je reprends la ligne suivante de sa colonne, et je fais de mes mesures ce qu’il n’a pas su faire  : des copies. Beaucoup de copies. En triplicata, comme la formule bleue, dans des lieux qui ne se connaissent pas entre eux, pour qu’aucune lettre, jamais, ne puisse toutes les rappeler.
+Il a suivi ce battement, de colline en antichambre, de plus en plus loin, jusqu’à ne plus revenir. Je ne cherche pas à savoir où il est allé. Il a disparu sur trois cartes à la fois, et aucune ne se vérifie depuis ici. Je reprends la ligne suivante de sa colonne, et je fais de mes mesures ce qu’il n’a pas su faire  : des copies. Beaucoup de copies. En triplicata, comme la formule bleue, dans des lieux qui ne se connaissent pas entre eux, pour qu’aucune lettre, jamais, ne puisse toutes les rappeler.
 
 Une archiviste m’a dit cette nuit, sans savoir à qui elle parlait, qu’il valait mieux que cela existe là où l’on ne peut pas le reprendre. Elle a raison. Elle ne saura jamais à quel point, ni ce qu’il lui en coûtera peut-être de me l’avoir dit. Je repars à l’aube. Rien d’autre à noter.
 

@@ -66,11 +66,11 @@ Le cercle de Kaeldrun tient sur un replat de roche, une lieue au-dessus d’Astr
 
 Devant l’un d’eux, une femme repassait à la craie blanche un trait presque effacé. Vieille, sèche, des laines superposées, les mains rouges de froid. Mon approche ne lui fit pas tourner la tête, ce qui, pour quelqu’un d’accroupi dos au sentier, suppose la surdité ou une autre manière d’entendre.
 
-«  Tu montes voir le graveur  », dit-elle. Ce n’était pas une question.
+«  Tu montes voir le graveur  », dit-elle, la craie toujours dans le trait.
 
 «  On m’a dit qu’il était là-haut.
 
-— Il est là-haut.  » Elle se redressa avec la lenteur des articulations froides et me regarda pour la première fois. Ses yeux ne se posaient pas tout à fait sur les miens  ; une part de son attention restait tournée ailleurs, vers quelque chose qui n’était pas dans le paysage. «  Toi aussi, tu montes du dur. Je me trompe  ?
+— Il est là-haut.  » Elle se redressa avec la lenteur des articulations froides et tourna enfin la tête vers moi. Ses yeux ne se posaient pas tout à fait sur les miens  ; une part de son attention restait tournée ailleurs, vers quelque chose qui n’était pas dans le paysage. «  Toi aussi, tu montes du dur. Je me trompe  ?
 
 — Je dessine du mou. Des cartes. C’est ce qu’on me répète depuis la vallée.
 

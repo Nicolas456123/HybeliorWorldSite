@@ -191,8 +191,8 @@ Puis je voulus noter une chose de plus, pour moi seul, parce qu’elle me tenait
 
 J’ai écrit  : *Je n’ai pas eu peur parce que je savais depuis Kharazir ce que je faisais ici, et lui ne le saura jamais.*
 
-J’ai relu la ligne à la lueur du brasero, une fois, puis une seconde, dans le silence de la falaise où montait de très loin la respiration de la grotte thermale. Elle disait toujours la même chose. Alors j’ai tiré un trait dessus, appuyé, deux fois. La barre vaut mieux que la phrase.
+J’ai relu la ligne à la lueur du brasero, une fois, puis une seconde, dans le silence de la falaise où montait de très loin la respiration de la grotte thermale. Elle disait toujours la même chose. Alors j’ai tiré un trait dessus, appuyé, deux fois, jusqu’à la marge.
 
-Sous l’encre, les mots tenaient encore. Contre la lueur du brasero, on les lisait  ; sur la table d’un tribunal, non.
+Sous l’encre, les mots tenaient encore. Contre la lueur du brasero, on les lisait  ; sur la table d’un tribunal, non. La barre vaut mieux que la phrase.
 
 Je fermai le cahier. Dehors, le vent avait tourné au nord-est, et quelque part au bout de ce vent, sous un voile qui ne se lève qu’un jour sur trois, l’Île du Silence attendait qu’on veuille bien la voir. Terec passerait au matin. J’avais mon sceau, mon blanc à combler, et un trait de plus dans un cahier qui en comptait déjà beaucoup.

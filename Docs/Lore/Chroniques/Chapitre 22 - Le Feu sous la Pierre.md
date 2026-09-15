@@ -51,11 +51,11 @@ J’ai sorti mon cahier et reporté le chiffre dans la colonne où j’en tenais
 Kessa me regardait faire.
 
 «  Vous notez comme si ça vous rassurait.
-— Noter ne rassure pas. Ça range. Ce n’est pas la même chose.  »
+— Noter ne rassure pas. Ça range.  »
 
 Le temps de resserrer une sangle du bât, elle y a réfléchi.
 
-«  Non, dit-elle. Ce n’est pas la même chose.  »
+«  Non, dit-elle. Ça range.  »
 
 Puis elle a repris la bride. Les vignobles de Solarith commençaient un peu plus haut, en terrasses noires accrochées au flanc, et sa commande l’attendait. Avant de bifurquer, elle s’est retournée.
 
@@ -154,9 +154,9 @@ Aux terrasses de Solarith, Kessa chargeait ses coupes. Le mariage aurait son vin
 — Jusqu’au bord.
 — Et vous avez senti.  »
 
-Ce n’était pas une question. Devant une femme qui compte les pulsations depuis l’enfance, nier n’aurait servi à rien. J’ai dit que oui.
+Devant une femme qui compte les pulsations depuis l’enfance, nier n’aurait servi à rien. J’ai dit que oui.
 
-Du doigt, elle a compté les coupes une dernière fois avant de fermer le bât. La dernière sangle nouée, elle s’est essuyé les mains à son tablier et m’a regardé avec cette fatigue qui lui vient quand elle tient deux choses à la fois sans savoir laquelle lâcher.
+Du doigt, elle a compté les coupes une dernière fois avant de fermer le bât. La dernière sangle nouée, elle a frotté ses paumes l’une contre l’autre et m’a regardé avec cette fatigue qui lui vient quand elle tient deux choses à la fois sans savoir laquelle lâcher.
 
 «  Mon grand-père ne voulait pas qu’on monte compter. Il disait qu’à force, on finirait par réveiller quelque chose.  » Elle a tiré sur la sangle pour l’éprouver. «  Vous, vous ne réveillez rien. Vous écrivez. Je ne sais pas si c’est mieux.
 — Je n’écris que ce qui est déjà réveillé.
@@ -172,7 +172,7 @@ Talvhar m’a écouté sans m’interrompre. Je lui ai dit la pulsation. Mon ét
 
 «  Les Déliés ne sont pas ceux à qui le lien manque, ai-je récité. Ce sont ceux dont le lien est d’une autre nature. Ancrages du monde. Ce que le monde pose en premier pour que les autres ne perdent pas pied.  »
 
-Talvhar n’a pas répondu tout de suite. Son regard restait sur le feu.
+Talvhar laissa passer un temps. Son regard restait sur le feu.
 
 «  La Prophétie de la Grande Éruption parle des Porteurs de Feu Invisible, a-t-il dit enfin. On l’a toujours lue d’une seule façon  : des Liés qui perçoivent sans avoir été formés. Ceux que la montagne appelle et qui l’entendent sans instruction.
 — Et il existe une autre lecture.
@@ -191,10 +191,10 @@ J’ai transcrit sa phrase le soir même, mot pour mot, comme je transcris tout 
 
 Je lui ai demandé si le temple gardait les comptes des Guetteurs. Sans un mot, il s’est levé, a écarté une tenture derrière la coupelle et m’a montré, dans une niche de basalte, une pile de tablettes de terre cuite noircie, couvertes d’entailles rangées en colonnes. Deux générations de pulsations, taillées sur la pierre du sentier puis recopiées ici, saison après saison, main après main. Les plus anciennes étaient usées aux angles, et leurs entailles larges, espacées, faites au couteau. Les dernières étaient fines et serrées, au poinçon, comme au bord de la pierre des Guetteurs.
 
-«  On ne les montre pas, d’ordinaire, a-t-il dit. Ce sont des choses du Temple. Mais vous venez de loin, et vous ne demandez pas à les emporter. Vous demandez à les lire. Ce n’est pas la même chose.
-— Non. Ce n’est pas la même chose.  »
+«  On ne les montre pas, d’ordinaire, a-t-il dit. Ce sont des choses du Temple. Mais vous venez de loin, et vous ne demandez pas à les emporter. Vous demandez à les lire.
+— Je les recopierai ici. Vous les garderez.  »
 
-J’ai passé la fin du jour à les recopier à la chandelle, colonne après colonne, de la plus vieille à la plus récente. Le travail est long et je le connais  : reporter des chiffres qui ne sont pas les vôtres sans les corriger, sans les arrondir, en laissant même les erreurs là où un vieux Guetteur avait sauté une ligne. Un relevé fidèle garde jusqu’aux fautes de celui qu’il copie. Talvhar m’a apporté une seconde chandelle sans que je la demande.
+J’ai passé la fin du jour à les recopier à la chandelle, colonne après colonne, de la plus vieille à la plus récente. Le travail est long et je le connais  : reporter des chiffres qui ne sont pas les vôtres sans les corriger, sans les arrondir, en laissant même les erreurs là où un vieux Guetteur avait sauté une ligne. Un relevé fidèle garde jusqu’aux fautes de celui qu’il copie. Talvhar m’a apporté une seconde chandelle quand la première a faibli.
 
 Les colonnes descendaient. La saison, puis le mois, puis la semaine. Je n’ai pas eu à calculer la pente  ; elle se voyait à l’œil, comme une côte qui plonge vers l’eau. J’ai reporté, rien de plus. Quatre témoins, à présent, qui ne se sont jamais parlé  : une marchande, un prêtre-guerrier, une pierre taillée, deux générations de terre cuite.
 
@@ -241,7 +241,7 @@ Je ne saurais dire d’où mon corps tenait ce qu’il a reconnu au bord du crat
 
 Si l’inscription de Morvath dit vrai, être Délié n’est pas manquer d’un lien  : c’est en porter un d’une autre nature, ancré au lieu d’ouvert, une fondation plutôt qu’une fenêtre. Et si cela est, la question n’est plus de savoir pourquoi un homme fait comme moi se met à sentir une montagne. La question est de savoir ce que ferait une fondation le jour où la maison qu’elle tient commencerait à jouer dans ses joints.
 
-Je pose la question. Je ne la tranche pas. Ce n’est pas mon travail de cartographier ce que je ne peux pas voir, et je ne vois pas le fond du cratère, seulement la lueur qui bat contre la fumée par en dessous.
+Je pose la question. Je ne vois pas le fond du cratère, seulement la lueur qui bat contre la fumée par en dessous.
 
 Le battement continue dans ma poitrine, plus diffus, atténué par les murs et par la distance. Présent, pourtant.
 

@@ -100,7 +100,7 @@ Sur sa carte, la ligne pâle du détroit ressuscité menait vers l’ailleurs.
 
 Il ne demanda pas avant quoi. Sa carte roulée, glissée dans sa veste, il me considéra le temps d’une gorgée.
 
-«  Chacun son vent. Le mien tourne à l’ouest après-demain. Mais je vais vous dire une chose, cartographe, parce que vous m’êtes sympathique et que ça ne me coûte rien. Un jour, vous aurez fini ce que vous êtes en train de faire, et vous voudrez rentrer. Ce jour-là, cherchez-moi. Je rouvre les routes que les autres croient perdues. Y compris celle du retour.  »
+«  Chacun son vent. Le mien tourne à l’ouest après-demain. Mais je vais vous dire une chose, cartographe, parce que vous m’êtes sympathique et que ça ne me coûte rien. Un jour, vous aurez fini ce que vous êtes venu faire, et vous voudrez rentrer. Ce jour-là, cherchez-moi. Je rouvre les routes que les autres croient perdues. Y compris celle du retour.  »
 
 J’ai noté son nom. Reen. Deux fois, ce qui ne m’arrive pas.
 
@@ -138,7 +138,7 @@ L’homme qui vend le papier, à Vyndralith, était une femme. Elle s’appelait
 Assis sur le tabouret d’en face, j’ai posé sur la table le prix d’une nouvelle ordinaire.
 
 «  Je cherche à savoir qui pose des questions sur moi.
-— C’est beaucoup demander pour trois pièces, dit-elle sans lever les yeux de son tri.
+— C’est beaucoup demander pour trois pièces, dit-elle, les mains toujours dans son tri.
 — Combien pour la vraie réponse  ?
 — Ça dépend de qui vous êtes.  » Elle me regarda enfin, d’un regard rapide et plat qui pesait moins mon visage que mes mains et la coupe de ma cape. «  Vous descendez du continent. Pas marin, pas marchand. Le teint d’un homme qui a dormi dehors ces derniers temps, les ongles d’un homme qui ne l’avait jamais fait avant. On en voit passer deux ou trois par saison, des comme vous.  »
 

@@ -171,7 +171,7 @@ Car voilà ce que le mot *Syndrome* range et tait, ce mot d’administration qui
 
 Au quatrième, une charrette attendait devant une maison basse, à demi chargée. Une femme âgée y hissait un coffre trop lourd pour ses bras, et le hissait quand même, avec l’obstination de qui ne veut pas d’aide. En nous voyant, elle s’arrêta, jaugea les armures de cristal des deux Gardes, puis moi, plus longuement, parce que je n’étais ni de la Garde ni du pays.
 
-«  Vous montez, dit-elle. Ce n’était pas une question. Tout le monde descend, et vous, vous montez.
+«  Vous montez, dit-elle. Tout le monde descend, et vous, vous montez.
 — Je redescends, à présent.
 — Encore heureux.  » D’une poussée, elle cala le coffre sur le plateau, souffla, s’essuya les mains à son tablier. «  Vous venez d’en haut. Ça se voit à la poussière des bottes. Il n’y a plus rien à voir en haut, l’étranger. Il n’y a que du sol qui ne veut plus de nous.
 — Qui vous a dit de partir  ?  »
@@ -234,6 +234,6 @@ Devant la borne, je restai un instant. Puis cap au nord, vers Zyrthar, d’où j
 
 *Je note ce que je tiens. Un village pris dans le verre à l’endroit exact où il vivait. Une Faille ancienne, bordée, datée, rangée. Des hameaux vides de cette saison, que le même mot recouvre à tort. Un sol qui respire mal et des bêtes qui partent devant. Un relevé qui recoupe, chiffre pour chiffre, une page que je portais déjà, et que j’ai reconstitué de mémoire après en avoir brûlé l’original, parce que je ne laisse pas traîner en zone surveillée un papier qui condamne autrui.*
 
-*Je ne note pas ce que je ne peux pas voir. Ni don, ni légitimité d’aucune sorte. J’ai un carnet qui se précise, une main qui a fait ce chemin avant la mienne, et la certitude, plus froide que le verre, que quelqu’un est arrivé à cette page avant moi et a choisi de continuer.*
+*Je n’ai rien à noter de plus. Ni don, ni légitimité d’aucune sorte. J’ai un carnet qui se précise, une main qui a fait ce chemin avant la mienne, et la certitude, plus froide que le verre, que quelqu’un est arrivé à cette page avant moi et a choisi de continuer.*
 
 *Cela suffit pour avancer. Cela a toujours suffi.*

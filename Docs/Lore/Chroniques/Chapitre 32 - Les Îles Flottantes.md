@@ -92,7 +92,7 @@ De qui le tenait-il  ? Un sourire, pas de réponse. L’aubergiste, sans doute.
 «  Je regarde les prix, dis-je. Et ce qui manque sur les étals. Je suis cartographe de formation. Les manques se cartographient aussi.
 — Vous êtes un Délié.  »
 
-Ce n’était pas une question. Un Lié me lisait comme un creux  : son sens cherchait une signature et ne trouvait rien. Ce vide le renseignait mieux qu’un aveu. Je dis oui.
+Un Lié me lisait comme un creux  : son sens cherchait une signature et ne trouvait rien. Ce vide le renseignait mieux qu’un aveu. Je dis oui.
 
 «  Les niveaux inférieurs de Galdryn, reprit-il. Vous en avez entendu parler.
 — J’en ai lu. Dans les marges de cartes géologiques, à Evertia. Des tunnels sous les mines d’aethérite. Des directions que les boussoles de l’art refusent d’indiquer.  »
