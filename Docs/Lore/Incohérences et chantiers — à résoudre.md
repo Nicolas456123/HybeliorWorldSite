@@ -821,6 +821,24 @@ Trois nombres du chapitre s'additionnent mal, indépendamment de cela :
 Rien n'a été modifié dans le chapitre : le nombre est dans le corps **et** dans le
 frontmatter, et le choix change ce que le livre dit des Failles.
 
+### Tome 2 — quand Kessane et Lirenn fuient-elles ? (ch. 29, 30, 33, 35)
+
+Quatre chapitres donnent quatre états de la même fuite, et ils ne tiennent pas ensemble.
+Relevé par trois agents indépendants pendant la réécriture ; **rien n'a été déplacé**,
+parce que c'est l'ordre des scènes qui est en cause, pas leur écriture.
+
+| Chapitre | Ce qu'il dit |
+| --- | --- |
+| **ch. 29** | Kessane et Lirenn **ont déjà fui**. |
+| **ch. 30**, juste après | Vaenor **découvre** la forge et la note « à surveiller ». |
+| **ch. 33** | Elles sont **déjà dans la Plaine**, aux trois déchirures, à l'instant où Ombreth meurt. |
+| **ch. 35** | Elles **apprennent la mort d'Ombreth au quatrième soir de marche** et atteignent Gryndor le lendemain. |
+
+Les ch. 29 et 33 supposent la fuite faite ; le ch. 30 suppose la forge encore tenue ; le
+ch. 35 la raconte et la date. Deux sorties possibles : avancer la fuite avant le ch. 29,
+ce qui oblige à reprendre le ch. 30 ; ou la laisser au ch. 35 et reprendre les deux
+mentions anticipées. **C'est un choix de montage, il revient à l'auteur.**
+
 ---
 
 ## Annexe — d'où viennent ces constats
