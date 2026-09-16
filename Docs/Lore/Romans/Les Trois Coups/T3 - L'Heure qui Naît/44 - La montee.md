@@ -2,8 +2,8 @@
 titre: La montée
 partie: V — Le Troisième Coup
 pov: Renna
-status: drafttype: roman-chapitre
-
+type: roman-chapitre
+status: draft
 ---
 
 # La montée

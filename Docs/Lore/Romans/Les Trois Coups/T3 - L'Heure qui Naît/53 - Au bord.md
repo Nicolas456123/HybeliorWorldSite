@@ -2,8 +2,8 @@
 titre: Au bord
 partie: Coda — Le troisième coup
 pov: Renna
-status: drafttype: roman-chapitre
-
+type: roman-chapitre
+status: draft
 ---
 
 # Au bord

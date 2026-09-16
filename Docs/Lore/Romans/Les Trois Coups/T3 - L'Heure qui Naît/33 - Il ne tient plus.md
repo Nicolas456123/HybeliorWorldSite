@@ -2,8 +2,8 @@
 titre: Il ne tient plus
 partie: III — La traque
 pov: Renna
-status: drafttype: roman-chapitre
-
+type: roman-chapitre
+status: draft
 ---
 
 # Il ne tient plus

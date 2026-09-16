@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-2, pov-mirathis, somnium-vigil, reves-gris, variantes]
+titre: Ce que les rêves montrent d’autre
 type: roman-chapitre
 partie: II
 pov: Mirathis (présent, Aethranor)

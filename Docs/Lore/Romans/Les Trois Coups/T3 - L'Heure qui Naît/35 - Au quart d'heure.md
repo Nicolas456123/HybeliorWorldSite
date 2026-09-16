@@ -2,8 +2,8 @@
 titre: Au quart d’heure
 partie: IV — Ce qui remonte
 pov: Renna
-status: drafttype: roman-chapitre
-
+type: roman-chapitre
+status: draft
 ---
 
 # Au quart d’heure

@@ -15,7 +15,7 @@ status: draft
 
 Ce soir-là, iel n’était pas à Gelinar. Assis·e sur le seuil de sa chambre, à l’auberge des Voyageurs Lents, à trois mille lieues de la brume, c’était cette pierre-là sous ses cuisses qu’iel s’efforçait de tenir. Aethranor sentait la pierre bleue et le charbon. Rien de l’encens, rien de la brume. Une ville dure, claire, qui montrait son ciel. Mirathis n’aimait pas les villes qui montraient leur ciel  ; iel les trouvait menteuses, à leur manière, parce qu’elles laissaient croire qu’il n’y avait rien entre le regard et l’étoile.
 
-Deux nuits qu’iel n’avait pas dormi. Ce soir non plus iel ne dormirait pas comme dorment les gens qui ont le droit de fermer les yeux sans savoir ce qu’ils vont trouver derrière.
+Deux nuits sans sommeil, déjà. Ce soir non plus iel ne dormirait pas comme dorment les gens qui ont le droit de fermer les yeux sans savoir ce qu’ils vont trouver derrière.
 
 Entre ses mains, un bol refroidissait. De l’infusion grise  : iel en avait apporté de Vytharia une réserve, dans une bourse de cuir huilé, parce qu’on n’en trouvait pas ici et qu’iel ne savait pas s’endormir sans. Ou plutôt parce qu’iel savait trop bien s’endormir sans, et que c’était cela, le problème.
 

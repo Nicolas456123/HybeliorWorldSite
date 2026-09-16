@@ -2,8 +2,8 @@
 titre: La pulse au jour
 partie: II — Les signes se pressent
 pov: Renna
-status: drafttype: roman-chapitre
-
+type: roman-chapitre
+status: draft
 ---
 
 # La pulse au jour
