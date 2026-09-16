@@ -176,4 +176,4 @@ Rien ne lui disait ce qu’elle deviendrait chez eux, et elle n’y songeait pas
 
 Elle trempa la plume. *Ils n’ont pas de faille,* écrivit-elle, *et voici pourquoi.*
 
-Loin au sud, sans qu’elle le sût, sans qu’aucun d’eux le sût, une chose immense qui ne se connaissait pas elle-même remuait dans le noir. Il lui restait un peu de temps. Elle ne le comptait pas.
+Sous une montagne dont aucun d’eux ne parlait ce soir-là, une chose immense qui ne se connaissait pas elle-même remuait dans le noir. Il lui restait un peu de temps. Elle ne le comptait pas.
