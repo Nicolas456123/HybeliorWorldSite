@@ -43,7 +43,7 @@ Aelindra. Il ne l’avait jamais vue et ne la verrait pas. Il la connaissait par
 
 «  Je vous lis quand même  », dit-il au sable noir, sans emphase.
 
-C’était vrai et cela ne servait à rien. Trois jours de retard, quatre peut-être  : voilà à quelle distance il lisait. Le bateau était loin. Les quatre marcheurs étaient loin. L’entaille dans le sable était déjà une chose morte.
+C’était vrai et cela ne servait à rien. Le sable avait dix nuits  ; l’entaille était une chose morte, et le bateau qui l’avait faite courait une autre mer. Ce qu’il tenait vraiment, c’était l’autre piste, celle des hautes terres, et celle-là n’avait que trois jours, quatre peut-être. Voilà à quelle distance il lisait. Les quatre marcheurs étaient moins loin que la quille, et cela ne suffisait pas.
 
 ---
 
