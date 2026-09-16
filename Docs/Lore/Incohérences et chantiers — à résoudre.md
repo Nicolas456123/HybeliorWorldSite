@@ -790,6 +790,37 @@ appliqués de façon inégale) : une **seule** clausule d'échappée par chapitr
 autre ; le tag `pov-velkar` est aligné sur **Verkan Sorne** dans les dix frontmatters qui
 le gardaient.
 
+### Tome 2 — un point de chronologie que je ne tranche pas (ch. 27, « Ceux qui restent debout »)
+
+Relevé pendant la réécriture. Ce n'est pas un défaut de style : c'est la **prémisse** du
+chapitre, et elle touche à ce que font les Failles. Je la pose telle quelle.
+
+Le chapitre fait basculer le hameau du Mont-Gris **deux cents ans en arrière**, et ce qu'on
+y trouve est le monde **d'avant l'Arrachement** : la main tiède, des gens « pleins », des
+cités qui flottent. Or le tome se situe vers 1 450 ap. A. Deux cents ans en arrière, c'est
+encore la Grande Nuit — le monde plein est à plus de **quatorze siècles**, pas à deux.
+
+Trois nombres du chapitre s'additionnent mal, indépendamment de cela :
+
+| Ce que dit le texte | Ce que cela implique |
+| --- | --- |
+| La narratrice a **cinquante ans** et voit sa **grand-mère à dix-sept** | Deux générations, soit **soixante-dix à quatre-vingt-dix ans** en arrière, pas deux cents. |
+| Elle revient « deux cents ans plus tard » | Sa grand-mère aurait deux cent dix-sept ans. |
+| **Vesle est morte depuis quarante ans**, enterrée par la narratrice « jeune femme » | À cinquante ans, elle en avait dix quand Vesle est morte. |
+
+**Deux sorties possibles, au choix de l'auteur :**
+1. **Garder la profondeur** (le monde plein, la main tiède) et lâcher la parenté : la jeune
+   femme de la fontaine n'est pas sa grand-mère, c'est une inconnue dont elle reconnaît le
+   rire — ce qui est plus troublant, et compatible avec une Voix qui ne sait plus quand elle
+   est.
+2. **Garder la parenté** et ramener la chute à **quatre-vingts ans** : la grand-mère à
+   dix-sept ans tient, mais alors le hameau retombe dans la Grande Nuit, pas dans le monde
+   plein — et la révélation du chapitre (apprendre ce qu'est un monde où personne n'est
+   seul) change de nature. Dans les deux cas, l'âge de Vesle est à reprendre.
+
+Rien n'a été modifié dans le chapitre : le nombre est dans le corps **et** dans le
+frontmatter, et le choix change ce que le livre dit des Failles.
+
 ---
 
 ## Annexe — d'où viennent ces constats
