@@ -118,7 +118,7 @@ Ils élargissent l'échelle et **vivent les sept heures en direct** dans le fina
 - **Nera [inventé]**, *gardienne de portail régional* à Aethranor (Galenor) — vit la fermeture en cascade **H2-H3**, voit un voyageur se dissoudre en transit. Son portail est une arche de pierre qui « grince comme une maison qui cède ».
 - **Kelib [inventé]**, *enfant d'une cité volante* au-dessus de Cendara — vit la perte d'altitude **H1-H2**. La cité tombe. Vue d'enfant : les adultes qui « posent ce qu'ils tiennent ».
 - **Ísae [inventé]**, *la jumelle Vide de Sera*, à Celethor — vit **H3-H5** sans savoir que sa sœur est au sommet. Elle, la non-Liée, ne sent d'abord *rien* — puis voit tous les Liés autour d'elle se figer. Le seul POV qui relie une fenêtre-monde à un membre du Cercle.
-- **Le Grand Pontife de Navoris [canon]** — ordonne les cultes normaux pour éviter la panique, meurt noyé (Jour 2). Un chapitre-fenêtre sur le pouvoir qui choisit le mensonge par calcul (« il a probablement raison. Il a tort d'y croire »).
+- **Le Grand Pontife de Navoris [canon]** — ordonne les cultes normaux pour éviter la panique, meurt noyé (Jour 2). Un chapitre-fenêtre sur le pouvoir qui choisit le mensonge par calcul. Ce qu'il faut faire entendre (ch. 34) : son calcul se tient — la vérité criée trop tôt à une foule sans issue aurait fait un carnage — et sa faute est ailleurs, dans la tranquillité avec laquelle il s'en est contenté.
 - **Kessa, la fille de Drakhan [inventé]** — celle qui l'a supplié de renoncer ; apparaît dans la coda ; graine T2.
 
 ### 1.8 — Table de synthèse des Huit
