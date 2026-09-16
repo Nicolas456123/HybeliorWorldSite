@@ -177,4 +177,4 @@ Rien ne lui disait ce qu’elle deviendrait chez eux, et elle n’y songeait pas
 
 Elle trempa la plume. *Ils n’ont pas de faille,* écrivit-elle, *et voici pourquoi.*
 
-Sous une montagne dont aucun d’eux ne parlait ce soir-là, une chose immense qui ne se connaissait pas elle-même remuait dans le noir. Il lui restait un peu de temps. Elle ne le comptait pas.
+Elle avait cherché deux ans une faille sans en trouver aucune, et il y en avait une pourtant, très loin de cet atelier, dans la roche d’une montagne dont personne n’avait dit le nom de la soirée  : le point où pouvait céder ce qui portait les cités volantes et les vieux que le souffle d’un guérisseur gardait en vie, et qu’aucun service d’aucune nation n’avait jamais songé à faire surveiller.

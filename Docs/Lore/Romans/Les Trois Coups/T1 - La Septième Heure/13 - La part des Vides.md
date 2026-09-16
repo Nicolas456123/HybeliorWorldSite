@@ -163,4 +163,4 @@ Elle chassa la pensée. Elle était épuisée  ; à ce degré de fatigue, elle 
 
 Elle souffla la chandelle.
 
-Dans le noir, elle garda le fil tendu vers sa sœur, sans réponse, comme tous les soirs depuis trente ans. Et loin au sud, au fond d’un mont où rien n’avait jamais bougé, quelque chose d’immense et de calme, qui tenait encore le monde et ne savait pas qu’il commençait à ne plus le tenir, sentit à son tour du mou dans ce qu’il tenait, sans le comprendre, et ne chercha pas d’où cela venait.
+Dans le noir, elle garda le fil tendu vers sa sœur, sans réponse, comme tous les soirs depuis trente ans. Au bout de ce fil comme au bout de tous les autres, là où les lignes du monde se nouaient sous la roche, ce qui l’avait toujours porté sans trouver où le rendre le porta, cette nuit-là, un peu moins droit.
