@@ -32,6 +32,10 @@ passe uniquement pour l'édition.
   (executablePath `/opt/pw-browsers/chromium-*/chrome-linux/chrome`,
   `NODE_PATH=<repo>/node_modules`), envoyer les captures à l'utilisateur.
 - Jamais de reseed du graphe sans `KG_RESEED=1` (destructif).
+- Écriture des livres : **aucune phrase n'est gardée au mot près, dans aucune
+  bible** (consigne de l'auteur, 2026-09-16). Les citations des bibles disent
+  ce qui doit être dit, pas comment ; une phrase creuse se réécrit, et la
+  bible comme les chapitres qui la reprennent suivent dans le même commit.
 - Sous-agents (outil Agent) : **toujours le modèle Opus 5** (`model: "opus"`),
   consigne de l'auteur ; lots de 5 agents au plus en parallèle.
 - Le registre des incohérences du lore :

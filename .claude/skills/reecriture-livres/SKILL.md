@@ -112,29 +112,42 @@ s'efface devant la scène. Concrètement :
    l'air d'une formalité. » Le mordant du livre vient des scènes et du
    sous-texte, pas des tournures.
 
-## 3. Ce qui se GARDE (intouchable)
+## 3. Ce qui se GARDE — et ce qui ne se garde pas
 
-1. **Les doubles-fonds du narrateur non fiable** (bible §2.4 et table §2.5).
-   Chaque phrase-piège (« J'avais déjà mon manteau sur les épaules », « un
-   service que je ne peux pas détailler », « Je pensais sincèrement que cela
-   intéresserait quelqu'un », « J'avais peur que le savoir me transforme en
-   homme d'action »…) doit survivre **au sens près** : on peut lisser la
-   syntaxe autour, jamais perdre la propriété de double lecture, jamais
-   ajouter d'insistance. En cas de doute, garder la phrase quasi telle
-   quelle. Le ≥ 1 double-fond factuel par chapitre (§2.4.7) est un invariant.
-2. **La voix de Sorin** : retenue, ironie froide, précision, lexique du
-   cartographe, litotes canon (« le papier était humide à un endroit. Je ne
-   notai pas autre chose »), ratures, astérisques, pages blanches. On corrige
-   la sentence, pas le tempérament.
+> **Aucune phrase n'est protégée au mot près, dans aucune bible** (consigne
+> explicite de l'auteur). Les guillemets d'une bible disent **ce qui doit être
+> dit**, jamais **comment le dire**. Une phrase dite « canon » qui est creuse,
+> sentencieuse ou à pivot se réécrit à plat comme les autres. Ce qui survit,
+> c'est la **fonction** : le fait, le double-fond, le beat, l'écho. La formule,
+> jamais.
+
+Ce qui se garde, donc :
+
+1. **La fonction des phrases-pièges** (bible §2.4 et table §2.5). Le double-fond
+   doit rester lisible deux fois — la lettre exacte, non. « J'avais déjà mon
+   manteau sur les épaules » peut devenir autre chose, pourvu que la phrase
+   reste vraie au premier degré, vraie au second, et sans insistance ajoutée.
+   Le ≥ 1 double-fond factuel par chapitre reste un invariant.
+2. **La voix du narrateur** : retenue, précision, lexique du métier, ratures,
+   astérisques, pages blanches. On corrige la sentence, pas le tempérament.
 3. **Les faits.** Noms, lieux, dates, jours, itinéraire, phénomènes observés,
-   ce que chaque personnage sait ou ignore, l'ordre des scènes, les échos
-   inter-chapitres (une phrase reprise plus tard doit rester reconnaissable).
-   La réécriture est stylistique, jamais scénaristique.
-4. **La structure des fichiers** : frontmatter YAML intact, titre, exergue,
+   ce que chaque personnage sait ou ignore, l'ordre des scènes. La réécriture
+   est stylistique, jamais scénaristique.
+4. **Les échos, au sens et non à la lettre.** Si une phrase est reprise ailleurs
+   (un chapitre qui se relit, une bible qui la cite, un autre tome qui s'en
+   souvient), la réécrire oblige à **propager** : corriger la reprise dans les
+   autres chapitres ET la citation dans la bible, dans le même commit. Un écho
+   cassé est une faute ; une formule figée n'est pas une vertu.
+5. **La structure des fichiers** : frontmatter YAML intact, titre, exergue,
    ligne lieu/date, séparateurs `---` entre scènes, guillemets français,
    longueur cible ±15 % de l'original.
-5. **Les chartes des bibles** (§6.1–6.2ter des Chroniques et équivalents) :
-   tout y reste en vigueur. Ce skill s'y ajoute, il ne les remplace pas.
+6. **Les chartes des bibles** (voix, narration, dialogue, typographie) restent
+   en vigueur : elles disent la manière générale, pas des phrases à copier.
+
+**Corollaire pour les bibles.** Une bible se met à jour comme un chapitre.
+Quand une citation qu'elle donne entre guillemets a été réécrite, remplacer la
+citation par la version retenue (ou par la description de ce que la phrase doit
+faire). Ne jamais laisser une bible réclamer une phrase qui n'existe plus.
 
 ## 4. Les règles de réécriture
 
@@ -247,8 +260,10 @@ rapport et corrections locales, coûte peu et attrape ce que le lot a laissé.
       « ce que … dit à qui sait » — zéro phrase-miroir.
 - [ ] Antépositions marquées : ≤ 1.
 - [ ] Un seul personnage à réplique mémorable ; les autres parlent métier.
-- [ ] Les phrases-pièges de la table §2.5 sont présentes, au sens près, sans
-      insistance ajoutée. Le double-fond factuel du chapitre est intact.
+- [ ] Le double-fond factuel du chapitre est intact et se lit deux fois — dans
+      les mots que tu as retenus, pas forcément ceux de la bible. Si tu as
+      réécrit une phrase que la bible cite ou qu'un autre chapitre reprend, tu
+      as propagé la nouvelle version partout.
 - [ ] Au moins un moment sensoriel laissé en paix (non analysé).
 - [ ] Frontmatter, exergue, ligne lieu/date, séparateurs : intacts.
 - [ ] Longueur : ±15 % de l'original (`wc -w`).
