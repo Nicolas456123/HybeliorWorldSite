@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-2, pov-mirathis, somnium-vigil, reves-gris, variantes]
-titre: Ce que les rêves montrent d’autre
+titre: Ce que les rêves montrent d'autre
 type: roman-chapitre
 partie: II
 pov: Mirathis (présent, Aethranor)
@@ -11,7 +11,7 @@ status: draft
 
 # Chapitre dix-sept. Ce que les rêves montrent d’autre
 
-Dans la cour de l’auberge des Voyageurs Lents, un banc de pierre prenait le soleil de l’après-midi et le gardait jusqu’au soir. Mirathis s’y asseyait aux heures où les autres croyaient qu’iel dormait. Tout le reste d’Aethranor était froid  : la pierre bleue des murs, qui ne se réchauffait d’aucune saison, les braseros de la galerie qui chauffaient par bouffées avares et laissaient le dos glacé. Ce banc-là rendait le jour lentement, longtemps après que le jour était passé. Iel posait les paumes à plat de chaque côté des cuisses et attendait que le froid de ses mains descende dans la pierre et que la tiédeur de la pierre remonte dans ses mains.
+Dans la cour de l’auberge des Voyageurs Lents, un banc de pierre prenait le soleil de l’après-midi et le gardait jusqu’au soir. Mirathis s’y asseyait aux heures où les autres croyaient qu’iel dormait. Tout le reste d’Aethranor était froid  : la pierre bleue des murs, qui ne se réchauffait jamais, les braseros de la galerie qui chauffaient par bouffées avares et laissaient le dos glacé. Ce banc-là rendait le jour lentement, longtemps après que le jour était passé. Iel posait les paumes à plat de chaque côté des cuisses et attendait que le froid de ses mains descende dans la pierre et que la tiédeur de la pierre remonte dans ses mains.
 
 Trois nuits qu’iel n’avait pas bu la grise. Trois nuits à laisser venir le rêve sans rien pour l’amortir, parce qu’iel voulait savoir de combien la chose s’était rapprochée. Le rêve était venu. Il était venu autrement, et c’était pour cela que, depuis le milieu de l’après-midi, iel guettait le pas de Thessan dans la galerie.
 
