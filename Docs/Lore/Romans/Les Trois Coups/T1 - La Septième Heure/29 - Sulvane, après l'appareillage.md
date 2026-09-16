@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-3, chasseur, pov-velkar, sulvane, dominat-pyrion]
-titre: sept — Sulvane, après l’appareillage
+titre: Sulvane, après l’appareillage
 type: roman-chapitre
 partie: III
 pov: Verkan Sorne (présent) — l'Arc du Chasseur
@@ -45,9 +45,9 @@ Le doigt du préposé descendit jusqu’au bas de la page, à l’endroit préci
 
 Le nom, il ne l’écrivit pas. Il ne notait jamais les faux noms  ; il les oubliait en sortant, comme il oubliait le visage des aubergistes. Ce qui valait le déplacement, c’était la fabrication. Un négociant en étain d’Everthor  : une profession qui justifie qu’on voyage, une marchandise assez lourde pour qu’on la laisse au dépôt et qu’on descende les mains vides, une cité franche où les registres s’égarent. Trois précautions. Verkan en avait vu des dizaines, bâclées ou au contraire si chargées qu’elles criaient  ; celle-ci avait été dosée par quelqu’un qui savait de combien de mensonge un homme a besoin pour traverser un port.
 
-Il avait déjà lu ce travail-là ailleurs. Trois semaines plus tôt, dans un gîte de la route de terre, une nuit manquait au registre  : ni arrachée ni raturée, absente, un blanc à la taille exacte d’une nuit. Puis un passeur qui avait «  oublié  » une traversée. Puis un relais où l’on avait acheté de l’huile de lampe le matin d’une nuit où personne, disait-on, n’avait veillé.
+Il avait déjà lu ce travail-là ailleurs. Trois semaines plus tôt, au Corbeau-Gris, sur la route de terre, une nuit avait été récrite au lieu d’être arrachée. Rien ne manquait  : l’entrée était là, à sa place, dans les formes. C’était l’encre qui parlait, une main du matin au milieu d’une lune de mains du soir. Plus au sud, un logeur moins bien tenu avait laissé un blanc à la taille exacte d’une nuit, et ce blanc-là criait  ; on l’avait pris en hâte, on n’avait pas eu le temps de lui apprendre. Puis un passeur qui avait «  oublié  » une traversée. Puis un relais où l’on avait acheté de l’huile de lampe le matin d’une nuit où personne, disait-on, n’avait veillé.
 
-La même main. Il n’en doutait plus depuis le gîte, et chaque station le lui confirmait.
+La même femme derrière chacune de ces pages. Il n’en doutait plus depuis le Corbeau-Gris, et chaque station le lui confirmait.
 
 «  La nuit d’avant-hier, dit-il. Celle où votre douzième passager est descendu. Il a plu  ?
 
