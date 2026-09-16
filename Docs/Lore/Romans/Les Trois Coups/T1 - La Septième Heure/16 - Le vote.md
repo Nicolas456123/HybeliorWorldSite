@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-2, pov-vorath, baelor, taciti, silence, vote]
+titre: Le vote
 type: roman-chapitre
 partie: II
 pov: Vorath le Tacite (présent — Baelor, l'assemblée qui pose les pierres, le consentement de la communauté)
