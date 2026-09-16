@@ -286,7 +286,7 @@ Chapitres courts, **titrés par l'heure**, alternant sommet et fenêtres-monde e
 
 **Fragment #4 — J-33.** *« Nous marchons vers le Mont. Je m'aperçois que j'écris de moins en moins "nous" et de plus en plus "je", comme si la première personne du pluriel était une chaleur que je perds à mesure que nous approchons du froid. Sera dit que le Mont est le Premier Ancrage, l'endroit où la Trame est la plus dense. Je le crois. Je crois tout ce que dit Sera. C'est peut-être cela, croire : ne pas avoir la force de vérifier. »*
 
-**Fragment #5 — J-1.** *« Demain. J'ai peur — non pas de ce que nous allons faire, mais de ce qui poussera à la place de ce que nous cassons. Nous savons ce qui va se casser. Nous ne savons pas ce qui va pousser. Personne ne le sait. Verithan lui-même ne le savait pas ; il l'a écrit dans ses dernières notes. J'ai vingt-cinq ans. Je ne veux pas mourir. J'y vais quand même. Que celui qui lira ceci comprenne au moins cela : nous n'y sommes pas allés légers. »*
+**Fragment #5 — J-1.** *« Demain. J'ai peur — non pas de ce que nous allons faire, mais de ce qui poussera à la place de ce que nous cassons. Nous savons ce qui va se casser. Nous ne savons pas ce qui va pousser à la place. Verithan lui-même ne le savait pas ; il l'a écrit dans ses dernières notes. J'ai vingt-cinq ans. Je ne veux pas mourir. J'y vais quand même. Que celui qui lira ceci comprenne au moins cela : nous n'y sommes pas allés légers. »*
 
 **Fragment #6 — An 0, avant l'aube.** *« Il s'avance. Je n'écrirai pas son nom ; il ne l'a jamais voulu, et je crois comprendre enfin pourquoi — pour qu'on parle de ce qu'il a fait et non de lui. Le ciel est ordinaire. Les étoiles sont à leur place. Rien n'indique que le monde soit sur le point de— »* *(l'entrée s'interrompt ici)*
 
