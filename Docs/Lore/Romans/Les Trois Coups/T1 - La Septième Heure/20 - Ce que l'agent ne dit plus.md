@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, partie-2, pov-velkar, pyrion]
+tags: [roman, trois-coups, tome-1, partie-2, pov-verkan, pyrion]
 type: roman-chapitre
 partie: II
 titre: Ce que l'agent ne dit plus

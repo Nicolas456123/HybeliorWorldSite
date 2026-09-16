@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, partie-3, chapitre-12b, pov-velkar, chasseur, route-de-terre, sulvane]
+tags: [roman, trois-coups, tome-1, partie-3, chapitre-12b, pov-verkan, chasseur, route-de-terre, sulvane]
 type: roman-chapitre
 partie: III
 chapitre: 23

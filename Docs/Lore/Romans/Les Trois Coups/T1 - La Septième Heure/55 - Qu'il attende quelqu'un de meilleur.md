@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, coda, pov-thessan, journal, fragment-zero, fragment-7, artefact-cache, clausule-d-echappee, cloture, beat-final, coeur-de-cendra, battement, contrepoint-velkar, etudiant-vu-de-loin]
+tags: [roman, trois-coups, tome-1, coda, pov-thessan, journal, fragment-zero, fragment-7, artefact-cache, clausule-d-echappee, cloture, beat-final, coeur-de-cendra, battement, contrepoint-verkan, etudiant-vu-de-loin]
 type: roman-chapitre
 partie: coda
 chapitre: 50

@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, partie-1, pov-velkar, pyrion, chasseur]
+tags: [roman, trois-coups, tome-1, partie-1, pov-verkan, pyrion, chasseur]
 titre: La concordance manquante
 type: roman-chapitre
 partie: I

@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, partie-4, pov-velkar, chasseur, crique-de-la-dent, cendara]
+tags: [roman, trois-coups, tome-1, partie-4, pov-verkan, chasseur, crique-de-la-dent, cendara]
 type: roman-chapitre
 partie: IV
 titre: La quille dans le sable noir

@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, partie-4, pov-velkar, chasseur, sulvane, hautes-terres, campement]
+tags: [roman, trois-coups, tome-1, partie-4, pov-verkan, chasseur, sulvane, hautes-terres, campement]
 titre: Le feu encore chaud
 type: roman-chapitre
 partie: IV

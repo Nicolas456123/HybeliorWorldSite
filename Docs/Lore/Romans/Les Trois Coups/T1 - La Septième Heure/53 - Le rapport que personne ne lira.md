@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, coda, pov-velkar, pyrion, chasseur, rapport-falsifie, six-lectures, artefact-faux, graine-t3]
+tags: [roman, trois-coups, tome-1, coda, pov-verkan, pyrion, chasseur, rapport-falsifie, six-lectures, artefact-faux, graine-t3]
 type: roman-chapitre
 partie: coda
 chapitre: 48

@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, partie-3, chasseur, pov-velkar, sulvane, dominat-pyrion]
+tags: [roman, trois-coups, tome-1, partie-3, chasseur, pov-verkan, sulvane, dominat-pyrion]
 titre: Sulvane, après l’appareillage
 type: roman-chapitre
 partie: III

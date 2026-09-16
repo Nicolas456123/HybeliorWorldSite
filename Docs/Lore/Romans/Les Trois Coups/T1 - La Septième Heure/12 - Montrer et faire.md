@@ -23,7 +23,7 @@ Un pas dans l’allée le fit sursauter. Feutré, traînant, un pas qu’il conn
 
 — On finit ce qu’on commence, maître.  » D’un pan de sa manche, Thessan couvrit la ligne fausse, du geste dont un enfant cache une bêtise.
 
-«  La concordance de l’automne  ?  » Le vieil homme hochait déjà la tête sans attendre la réponse. «  J’ai dit à Ostavne qu’il l’aurait pour les grandes lectures. Il ne me croit pas. Il dit que tu traînes.  » Un petit rire sec. «  Tu ne traînes pas. Tu es lent. Ce n’est pas la même chose. La troisième table, personne ne l’a refaite depuis quarante ans, et celui qui l’a faite s’est trompé deux fois.
+«  La concordance de l’automne  ?  » Le vieil homme hochait déjà la tête sans attendre la réponse. «  J’ai dit à Ostavne qu’il l’aurait pour les grandes lectures. Il ne me croit pas. Il dit que tu traînes.  » Un petit rire sec. «  Tu ne traînes pas. Tu es lent. La troisième table, personne ne l’a refaite depuis quarante ans, et celui qui l’a faite s’est trompé deux fois.
 
 — Trois fois, dit Thessan. J’en ai trouvé une de plus, sur les années bissextiles du calendrier bas.
 

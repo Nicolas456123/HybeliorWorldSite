@@ -1,5 +1,5 @@
 ---
-tags: [roman, trois-coups, tome-1, partie-5, chasseur, pov-velkar, cendral, mont-cendra, temoin-exterieur, six-lectures, route-des-cendres]
+tags: [roman, trois-coups, tome-1, partie-5, chasseur, pov-verkan, cendral, mont-cendra, temoin-exterieur, six-lectures, route-des-cendres]
 type: roman-chapitre
 partie: V
 chapitre: 39
