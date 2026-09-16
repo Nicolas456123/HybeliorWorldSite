@@ -152,7 +152,7 @@ Il m’écouta jusqu’au bout. Puis il fit ce que fait un Valorien à qui l’o
 
 «  On ne m’efface pas, cartographe. C’est gravé.  » Sa main s’ouvrit sur la pierre couchée, comme un témoin la pose sur le monolithe. «  Ta Kharazir efface parce qu’elle écrit sur du mou. Le parchemin, ça brûle. Ici, on écrit sur ce qui reste quand les murs tombent. Qu’ils viennent, avec leurs manteaux propres. Ils peuvent me tuer. Ils ne reprendront pas ce que la roche a reçu.  »
 
-Je n’ai pas répondu. Il avait tort sur un point  : on pouvait le faire taire. Il avait raison sur l’autre  : ce qu’il venait de me confier tenait désormais à deux endroits, et bientôt davantage. Je le savais en montant au cercle  ; je l’ai laissé me le donner comme une leçon. C’était plus courtois. C’était peut-être aussi plus lâche.
+Je n’ai pas répondu. Il avait tort sur un point  : on pouvait le faire taire. Il avait raison sur l’autre  : ce qu’il venait de me confier tenait désormais à deux endroits, et bientôt davantage. Je le savais en montant au cercle  ; je l’ai laissé me le donner comme une leçon. C’était plus courtois, et peut-être plus lâche.
 
 La descente s’est faite tard. Yrsa n’était plus à ses cairns. Sur la craie fraîche du plus haut, quelqu’un, elle sans doute, avait ajouté un trait que je n’ai pas su lire. Je l’ai recopié quand même dans ma marge, par habitude.
 
@@ -196,7 +196,7 @@ Mes relevés étaient complets. Je portais trois ans du travail d’un homme  :
 
 Le massif m’a avalé dès la première journée. Des vallées encaissées où la lumière arrive tard et repart tôt, des sentiers réduits à une vire au-dessus du vide, un vent qui, à certaines heures, décide à votre place du côté où vous allez tomber.
 
-La route sage ne l’était plus pour moi. J’avais passé une nuit au cercle avec un homme qu’on avait retrouvé mort au matin, et je n’allais pas descendre m’offrir au premier port surveillé de la côte. Le carnet de mon père me l’avait appris bien avant Valoria, dans ses marges qui valent mieux que ses relevés  : là où l’appareil veut vous voir passer, il poste ses guetteurs longtemps avant vous, aux gorges, aux bacs, aux seuls passages que la géographie autorise. La côte sud n’avait qu’une route. Voldenor n’en avait aucune, ce qui, pour qui sait lire une montagne, en fait cent.
+La route sage ne l’était plus pour moi. J’avais passé une nuit au cercle avec un homme qu’on avait retrouvé mort au matin, et je n’allais pas descendre m’offrir au premier port surveillé de la côte. Le carnet de mon père me l’avait appris bien avant Valoria, dans ses marges qui valent mieux que ses relevés  : là où l’appareil veut vous voir passer, il poste ses guetteurs longtemps avant vous, aux gorges, aux bacs, aux seuls passages que la géographie autorise. La côte sud n’avait qu’une route. Voldenor n’en avait aucune, et un homme qui sait lire une montagne y trouve cent passages.
 
 C’est en montant vers le premier col que j’ai vu la marque.
 

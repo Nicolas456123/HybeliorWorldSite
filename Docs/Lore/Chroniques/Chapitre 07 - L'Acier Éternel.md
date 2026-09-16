@@ -85,7 +85,7 @@ Ses doigts ont bougé sur la plaque qu’elle portait. Presque rien  : la plaqu
 
 «  Les niveaux les plus bas sont dans la section scellée.  » Elle a marqué un temps. «  Je peux vous montrer les autres.  »
 
-Je me suis incliné. Les autres me suffiraient pour commencer. Je n’ai encore rien demandé à personne, sur ce continent, que je ne compte obtenir autrement.
+Je me suis incliné. Les autres me suffiraient pour commencer. Je compte obtenir autrement ce que je demande sur ce continent.
 
 Neuf jours durant, j’ai travaillé aux Archives. Neuf jours de lampe à huile, de plaques qu’il faut faire ruisseler d’eau pour les rendre lisibles, de silence coupé par le bruit sourd des portes de pierre. Lisel était là chaque jour, à son propre ouvrage. Nous parlions peu, de cette économie des gens qui partagent une concentration et se respectent avant de se connaître. Je traçais les galeries qu’on me confiait, bien, mieux qu’il n’était nécessaire. Chaque ligne posée était un pas vers le couloir de gauche.
 

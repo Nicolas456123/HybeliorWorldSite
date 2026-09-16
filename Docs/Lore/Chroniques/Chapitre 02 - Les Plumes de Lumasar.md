@@ -36,7 +36,7 @@ Ce n’était pas ce que j’avais espéré entendre. Il m’a fait passer dans 
 
 «  Votre nom circule depuis quatre jours entre le Bureau des Brevets de Kharazir et la Direction des Entrées étrangères. Pas une interdiction, notez bien. Une notification. Aucun texte ne vous ferme de porte. Aucun imprimeur à patente ne vous ouvrira la sienne.  » Il poussa une tasse vers moi. «  La Catena Fracta, reprit-il plus bas. Les Chaînes Brisées. On vous a rangé là.  »
 
-Pendant sept ans, à Rukhsar, ce nom n’avait été pour moi qu’une case de formulaire  : doctrine interdite, sympathisants présumés, surveillance recommandée. Je connaissais les rapports. Jamais je n’avais rencontré un membre, ni un acte, ni la preuve que la chose existait. En me classant là, Kharazir ne m’avait pas fait sympathisant. Elle avait fait de moi un homme qu’on pouvait traiter comme tel.
+Pendant sept ans, à Rukhsar, ce nom n’avait été pour moi qu’une case de formulaire  : doctrine interdite, sympathisants présumés, surveillance recommandée. Je connaissais les rapports. Jamais je n’avais rencontré un membre, ni un acte, ni la preuve que la chose existait. En me classant là, Kharazir avait fait de moi un homme qu’on pouvait traiter comme un sympathisant.
 
 Je posai la main sur mon sac, à l’endroit où dormaient mes notes.
 
@@ -111,7 +111,7 @@ Il laissa passer le temps qu’il fallait pour que nous entendions tous les deux
 
 «  Je suis navré. Le Code ne prévoit pas votre cas.  »
 
-Aucune mauvaise foi chez cet homme, et c’est ce soir, en écrivant, que je le mesure le mieux. Il croyait ce qu’il disait, connaissait les textes, les appliquait, et tenait pour acquis qu’on les avait écrits pour de bonnes raisons, par des gens plus sages que lui  ; s’y soustraire lui aurait paru une arrogance. Il n’y a peut-être rien de plus décourageant  : la bonne foi au service d’une règle injuste.
+Aucune mauvaise foi chez cet homme, et c’est ce soir, en écrivant, que je le mesure le mieux. Il croyait ce qu’il disait, connaissait les textes, les appliquait, et tenait pour acquis qu’on les avait écrits pour de bonnes raisons, par des gens plus sages que lui  ; s’y soustraire lui aurait paru une arrogance. Contre la mauvaise foi, j’aurais su quoi faire.
 
 Je suis reparti sans qu’aucun refus formel ait été prononcé. On s’était déclaré hors d’état de m’aider compte tenu des circonstances, et l’on m’avait indiqué un recours qui exigeait précisément ce qu’on venait de me retirer. Dehors, le pavé luisait, et le froid retombait sur mes épaules. Une pensée m’a rattrapé dans la rue, plus dure que le refus  : pendant sept ans, à Rukhsar, moi aussi j’avais reçu des dossiers, classé des demandes, appliqué des procédures sans poser plus de questions que Verian Soth. Des gens étaient peut-être sortis de mon bureau comme je sortais du sien. Je n’ai pas suivi cette pensée jusqu’au bout. Notée, rangée.
 

@@ -166,7 +166,7 @@ Je levai les yeux. Elle ne souriait pas  ; ses mains continuaient de servir tro
 
 Je ne trouvai rien à répondre. Elle planta une seconde galette dans mon bol sans me demander si je pouvais la payer.
 
-«  Mange, cartographe. Une ville quitte plus facilement un homme quand il n’a pas faim.  »
+«  Mange, cartographe. Tu as de la route.  »
 
 J’ai mangé. Et j’ai regardé passer les gens en essayant de les retenir  : la femme aux cheveux rouges et son huile de cumin  ; des caravaniers qui disputaient un prix de chargement à grands gestes  ; un enfant qui vendait des tisanes dans des verres colorés  ; deux marchands de pierres d’Osaria qui se détestaient à voix basse. Je savais que je partais, alors je regardais enfin ce que j’avais cessé de voir depuis des années.
 

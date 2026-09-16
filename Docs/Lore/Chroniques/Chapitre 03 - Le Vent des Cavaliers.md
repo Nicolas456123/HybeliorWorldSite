@@ -212,7 +212,7 @@ Il rangea les plis dans une besace, contre sa poitrine, sans les regarder.
 «  On ne lit pas  ? demandai-je, plus pour l’entendre que par doute.
 — On ne lit pas. Ce que tu écris ne me regarde pas. Ce qui me regarde, c’est que ça arrive.  »
 
-J’ai remercié, et j’aurais dû m’en tenir là. Mais je pense en lignes. Une lettre confiée à une chaîne connue dessine une ligne, et une ligne qu’un homme a suivie, un autre peut la remonter. Je le savais en tendant les miennes à Renk, et je les lui ai tendues quand même.
+J’ai remercié, et j’aurais dû m’en tenir là. Mais je pense en lignes. Une lettre confiée à une chaîne connue dessine une ligne, et cette ligne se remonte. Je le savais en tendant les miennes à Renk, et je les lui ai tendues quand même.
 
 ---
 

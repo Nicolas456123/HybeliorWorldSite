@@ -165,7 +165,7 @@ Orsenne a levé les yeux, et son regard a cessé d’être plat.
 
 Elle m’a regardé un instant de trop, puis a haussé les épaules et rangé la feuille. Elle a pris ma phrase pour de la bravade, l’aplomb d’un homme qui se raidit devant sa peur. Je l’ai laissée la prendre ainsi.
 
-Un papier comme celui-là ne dit pas à un homme comment se cacher. Il dit par où la recherche passe, et où elle n’est pas encore passée. Mon père avait écrit  : cherche l’homme qui vend le papier. Il n’avait pas écrit pourquoi. La feuille d’Orsenne répondait à sa place.
+Un papier comme celui-là dit par où la recherche passe, et où elle n’est pas encore passée. Mon père avait écrit  : cherche l’homme qui vend le papier. Il n’avait pas écrit pourquoi. La feuille d’Orsenne répondait à sa place.
 
 «  Il y a autre chose, dit-elle en refermant sa caisse. Puisque vous payez bien et que vous ne pleurez pas.  »
 
@@ -220,7 +220,7 @@ Ce soir, j’écris à la fenêtre de la chambre, ouverte sur la cour. L’orang
 
 Je pense au vieux Thelorn et à son Navigor. Je pense à Reen, à son détroit ressuscité, à sa route du retour. Je pense à Orsenne, à sa caisse sans cadenas, au chiffre qu’elle a posé sur ma tête et au sourire que je n’ai pas su retenir. Je pense au porteur des steppes, que je ne reverrai pas, et au vieux Voss de Valoria, que je verrai peut-être, si je monte assez vite.
 
-Un homme prudent aurait pris le bateau. Un homme sage serait en mer à cette heure, la côte de Galenor changée en ombre derrière lui, puis en rien. Je note que je suis resté. Je n’écris pas pourquoi. Pas encore.
+Un homme prudent aurait pris le bateau et serait en mer à cette heure, la côte de Galenor changée en ombre derrière lui, puis en rien. Je note que je suis resté. Je n’écris pas pourquoi. Pas encore.
 
 Demain, la route du nord.
 
