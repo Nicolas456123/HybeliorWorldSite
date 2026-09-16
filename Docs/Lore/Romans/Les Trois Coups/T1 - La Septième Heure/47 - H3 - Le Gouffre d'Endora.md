@@ -12,162 +12,174 @@ status: draft
 
 # Le Gouffre d’Endora
 
-Personne, à Varandar, n’appelait Tarreck autrement que « le passeur du haut ». Il y avait un passeur du bas, qui menait la benne des sept mines de sel jusqu’au fond, là où la roche suait ; et lui, le passeur du haut, dont le poste était l’inverse : tenir le va-et-vient au-dessus du Gouffre, la nacelle qui reliait les deux lèvres de la faille par-dessus le vide où l’on ne voyait pas de fond.
+«  Ça tient à quoi, au juste  ?  »
 
-Le Gouffre coupait Endora en deux depuis le commencement du monde. Une plaie dans la terre, longue de trois lieues, si profonde qu’aucune pierre jetée n’en avait jamais rapporté le bruit ; et au fond, disait-on, non pas un fond mais une brume qui remuait, une pâleur qui n’était ni de l’eau ni de l’air. Les anciens racontaient qu’avant les Ancrages on faisait le tour : quatre jours de mulet pour passer d’une rive à l’autre. Puis on avait planté aux deux bords les deux Piles, les grands fûts de pierre où le Lien dormait, et entre elles tendu le câble, et depuis six cents ans la nacelle de Tarreck traversait les trois lieues de vide en le temps qu’il faut pour manger un quignon.
+Le marchand avait posé la question au milieu du vide, les deux poings serrés sur la corde de sécurité, les yeux soigneusement levés. Il payait sa première traversée et il parlait pour ne pas regarder en bas.
 
-Ce matin-là, il y avait un homme dans la nacelle, et l’homme parlait pour ne pas regarder en bas.
+«  Aux deux Piles, dit Tarreck.
 
-« Ça tient à quoi, au juste ? » Un marchand de sel, la première fois qu’il passait, les mains crispées sur la corde de sécurité. « Le câble, je veux dire. Ça tient à quoi ?
+— Et les Piles, elles tiennent à quoi  ?  »
 
-— Aux deux Piles.
+Un cran de manivelle. Le rythme était dans son poignet depuis trente ans, ni trop vite ni trop lent, et la nacelle glissait sur le câble avec ce chuintement sec qu’il aimait, le seul bruit de son métier.
 
-— Et les Piles, elles tiennent à quoi ? »
+«  À rien qu’on voie.  » Il ne quittait pas des yeux la Pile d’en face, qui grandissait. «  Regarde devant, pas dessous. Devant, il y a l’autre bord, et l’autre bord ne bouge pas.  »
 
-Tarreck laissa filer la manivelle d’un cran, le rythme qu’il avait dans le poignet depuis trente ans, ni trop vite ni trop lent, la nacelle glissant sur le câble avec ce chuintement propre qu’il aimait.
+Le marchand regarda devant.
 
-« À rien qu’on voie. » Il ne quittait pas des yeux la Pile d’en face, celle qui grandissait à mesure. « À ce qui tient tout le reste. Ne regarde pas dessous, regarde devant. Devant, il y a l’autre bord, et l’autre bord ne bouge pas. »
+Le Gouffre coupait Endora en deux depuis avant les hommes. Trois lieues de long, et si profond qu’aucune pierre jetée n’en avait jamais rapporté le bruit  ; tout au fond, là où l’œil renonçait, une pâleur remuait doucement, qui n’était ni de l’eau ni de l’air. Du temps des grands-pères des grands-pères, pour passer d’un bord à l’autre, on faisait le tour  : quatre jours de mulet. Puis on avait planté aux deux rives les Piles, deux fûts de pierre hauts comme des clochers, où le Lien dormait  ; entre elles on avait tendu le câble  ; et depuis six cents ans la nacelle traversait le vide dans le temps qu’il faut pour manger un quignon.
 
-Le marchand regarda devant. Il ne bougeait pas, l’autre bord ; il ne bougeait jamais. C’était la première chose qu’on apprenait aux passagers et la dernière chose qu’ils oubliaient : le Gouffre était le seul endroit stable d’Endora. Ailleurs la terre tremblait deux fois l’an, on avait l’habitude ; ici, au bord même de la plus grande blessure du pays, on ne sentait rien. Les Piles buvaient les secousses. Un enfant l’avait dit un jour à Tarreck, un mot qu’il avait gardé : *c’est là que ça remue le moins, parce que c’est là que ça a déjà remué une fois pour toutes.*
+Ailleurs en Endora la terre tremblait deux fois l’an et l’on rangeait la vaisselle en conséquence. Ici, au bord de la plus grande blessure du pays, rien ne bougeait jamais  : les Piles buvaient les secousses. Les passagers ne le croyaient qu’après coup, une fois le pied sur l’autre plate-forme, quand ils s’apercevaient qu’ils n’avaient rien senti du tout.
 
-La nacelle toucha la plate-forme d’en face. Le marchand débarqua sur des jambes molles, se retourna, chercha quelque chose de gentil à dire et ne trouva que la vérité :
+La nacelle toucha. Le marchand débarqua sur des jambes molles, se retourna, chercha quelque chose d’aimable à dire et ne trouva que la vérité  :
 
-« Je ne sais pas comment tu fais tous les jours.
+«  Je ne sais pas comment tu fais tous les jours.
 
-— On ne le fait pas tous les jours. » Tarreck bloqua le cliquet. « On le fait une fois, et puis on ne s’arrête plus. C’est différent. »
+— Bah.  » Tarreck bloqua le cliquet. «  Le premier hiver, j’ai vomi deux fois. Depuis, non.  »
 
-L’homme rit, du rire de celui qui a eu peur et n’a plus peur, et s’en alla vers les salines par le sentier de la rive haute. Tarreck le regarda partir. Puis il vida la nacelle, la cala, s’assit sur le billot qui lui servait de siège depuis toujours, et sortit son pain. C’était l’heure creuse. Entre la benne du matin et celle de midi, personne ne passait le Gouffre ; il avait, chaque jour, ce quart d’heure à lui, face au vide, dans le seul silence qui ne lui pesait pas.
+L’homme rit, du rire de celui qui a eu peur et n’a plus peur, et partit vers les salines par le sentier de la rive haute.
 
-C’est dans ce silence que le câble parla.
+Tarreck vida la nacelle, la cala, s’assit sur le billot qui lui servait de siège depuis toujours et sortit son pain. C’était l’heure creuse. Entre la benne du matin et celle de midi personne ne passait  ; il avait chaque jour ce quart d’heure à lui, les jambes pendantes au-dessus de rien, à mâcher lentement pendant que le soleil montait sur la roche noire et que le vent d’ouest tiédissait.
 
----
-
-Il ne parlait jamais. Voilà ce qu’il faut comprendre. En trente ans, Tarreck avait entendu le câble faire toutes les choses qu’un câble fait : chanter sous le vent, claquer au gel, gémir sous une charge lourde. Ces bruits-là, il les connaissait comme les toux de sa femme, il savait lequel voulait dire quoi. Ce qu’il entendit ce matin-là n’était aucun de ceux-là.
-
-Ce fut un son bas. Très bas. Il ne venait pas du câble : il venait de *dessous* le câble, du fond où il n’y avait pas de fond, une note grave et longue qui montait de la brume pâle comme si le Gouffre, pour la première fois depuis qu’il était un gouffre, s’était mis à respirer.
-
-Tarreck posa son pain.
-
-Il alla au bord, pas trop près ; on n’allait jamais trop près, même lui, et il écouta. La note tenait. Elle ne montait ni ne descendait ; elle *était*, simplement, comme une chose qui aurait toujours été là et qu’on n’aurait jamais entendue parce qu’elle n’avait jamais eu besoin de s’entendre. Et sous ses pieds, à travers la semelle, il sentit ce qu’aucun homme n’avait jamais senti au bord du Gouffre : un frémissement dans la roche. Le sol de la rive haute, l’inébranlable, celui qui buvait les tremblements de tout Endora — le sol tremblait.
-
-« Non », dit Tarreck à voix haute, à personne.
-
-Il posa la main à plat sur la Pile, sur la pierre froide du grand fût où le Lien dormait. Il l’avait fait mille fois, pour rien, par habitude, comme on touche le mur de sa maison en passant. La pierre avait toujours été tiède, d’une tiédeur qui n’était pas celle du soleil, une chaleur de dedans, douce, constante, qui ne changeait ni l’hiver ni la nuit. La chaleur du Lien qui travaillait. Sous sa paume, ce matin, la pierre refroidissait. Il la sentit refroidir : pas d’un coup, lentement, comme un front de malade qui bascule, le froid montant sous ses doigts pendant qu’il les tenait là, incapable de les ôter, incapable de croire.
-
-Un cri, derrière lui, sur le sentier de la rive haute.
-
-C’était Wenna, la peseuse des salines, qui descendait vers le Gouffre en courant, ce qu’on ne faisait pas, jamais, sur ce sentier-là. Elle arriva à hauteur de la plate-forme, hors d’haleine, le visage de quelqu’un qui a vu une chose pour laquelle il n’a pas de mot.
-
-« Tarreck. Le pont de corde, en amont. » Elle s’arrêta, une main sur la Pile comme lui, et il vit qu’elle aussi sentait le froid, il le vit à sa main qui se retirait. « Le petit pont, celui des chevriers, tu sais. Il vient de— » Elle chercha. « Il ne pend plus pareil. Il pendait droit ce matin. Maintenant il pend de travers. Le Gouffre s’est— » Elle n’osa pas le dire.
-
-« Élargi. » Tarreck le dit pour elle. « Il s’est élargi.
-
-— On ne peut pas. Un gouffre ne s’élargit pas.
-
-— Regarde le câble. »
-
-Ils regardèrent le câble ensemble. Le câble qui, chaque matin depuis six cents ans, traversait le vide bien tendu, une ligne droite entre deux points fixes. Il pendait. Pas beaucoup, la largeur de deux mains, peut-être, mais il pendait, mou au milieu, comme une corde dont on aurait rapproché les deux bouts. Sauf qu’on ne les avait pas rapprochés. On les avait *éloignés*, et le câble, trop court soudain pour un Gouffre devenu trop large, ne tirait plus droit.
-
-« Les deux bords s’écartent », dit Wenna, très bas, et ce fut à ce moment-là qu’elle eut peur pour de bon : pas de tomber, de comprendre. « Tarreck. Les deux bords du Gouffre s’écartent. »
+Ce fut dans ce quart d’heure-là qu’il entendit le Gouffre, pour la première fois en trente ans.
 
 ---
 
-Ils ne surent jamais l’ordre exact des choses, après ; cela vint trop vite et trop lent en même temps.
+Le fond ne faisait pas de bruit. Voilà ce qu’il faut comprendre. En trente ans, Tarreck avait appris tout ce qu’un câble sait dire  : il chantait sous le vent d’ouest, il claquait au gel, il gémissait quand la charge était mal répartie, et il savait lequel de ces bruits voulait dire quoi comme il savait les toux de sa femme. Le fond, lui, n’avait jamais rien rendu. Le fond était l’endroit d’où rien ne remontait.
 
-Il y eut d’abord la question des gens de l’autre rive. La benne de midi, celle du bas, remontait un plein chariot de sel et huit mineurs par l’autre versant ; et pour repasser sur la rive de Varandar, ces huit-là devaient prendre la nacelle. Huit hommes qui, dans une heure, seraient au bord d’en face, attendant que Tarreck les passe, au-dessus d’un vide qui s’ouvrait.
+Ce qui monta ce matin-là était grave et long, plus bas que la grosse cloche de Varandar, et cela ne venait pas du câble. Cela venait de dessous, de là où il n’y avait pas de fond.
 
-« Va au sémaphore, dit Tarreck. Fais le signe de fermeture. Qu’ils fassent le tour.
+Tarreck reposa son pain sur le billot.
 
-— Le tour, c’est quatre jours.
+Il s’avança jusqu’au bord, pas trop près, on n’allait jamais trop près, même lui, et il écouta. Le son tenait. Il ne montait ni ne descendait  ; il durait, égal, avec la patience d’une chose qui aurait attendu longtemps son tour. Et sous la semelle, dans la roche de la rive haute, celle qui buvait les tremblements de tout le pays, Tarreck sentit un frémissement.
 
-— Quatre jours vivants. » Il tirait déjà sur le frein de la nacelle, la bloquait, l’amarrait comme on amarre pour la tempête. « Personne ne monte dans cette nacelle. Tu m’entends ? Personne. Ni eux, ni toi, ni moi. »
+«  Non  », dit-il tout haut, à personne.
 
-Wenna courut au sémaphore. Tarreck resta seul au bord, la main encore sur la Pile qui refroidissait, et il fit la seule chose qu’un passeur savait faire : il regarda son câble, et il l’écouta.
+Il alla prendre la Pile à pleine paume, comme il le faisait cent fois par saison sans y penser, du geste dont on touche le chambranle en rentrant chez soi. La pierre avait toujours été tiède. Pas de la tiédeur du soleil  : une chaleur venue du dedans, égale, la même en janvier qu’en août, la même la nuit. La chaleur du Lien au travail.
 
-La note basse montait toujours du fond. Elle était plus forte, à présent : non plus une respiration, une *traction*, comme si quelque chose, très loin en dessous, halait le monde par un fil qu’on n’avait jamais vu. Et dans la brume pâle du fond, là où jamais rien ne bougeait, quelque chose bougea. La pâleur remuait. Elle montait. Lentement, par nappes, comme une eau qui déborde à l’envers, le fond du Gouffre montait vers le jour. Sauf que ce n’était pas de l’eau, ce n’était pas de la brume, c’était une absence qui avait pris la forme d’une brume, un endroit où l’œil arrivait et ne trouvait rien à quoi s’accrocher, et Tarreck, qui avait passé trente ans à ne pas regarder le fond, se surprit à ne plus pouvoir en détacher les yeux.
+Ce matin-là, sous ses doigts, elle s’en allait. Il la sentit partir pendant qu’il tenait, pas d’un coup, par degrés, comme l’eau d’une bassine qu’on laisse à la fenêtre  ; et il resta là, la main dessus, sans pouvoir l’ôter, sans pouvoir y croire.
 
-« Recule. »
+Un cri, derrière lui, sur le sentier.
 
-Ce n’était pas Wenna. C’était le vieux Delm, le gardien des Piles, celui qui venait deux fois l’an graisser les scellements et parler aux ingénieurs de la Charte. Il était là, personne ne l’avait vu venir, et il tenait Tarreck par le bras, et il tirait.
+C’était Wenna, la peseuse des salines, qui descendait vers le Gouffre en courant, ce qu’on ne faisait pas sur ce sentier-là, jamais. Elle arriva à la plate-forme sans souffle, avec la figure de quelqu’un qui a vu une chose et qui cherche encore par quel bout la prendre.
 
-« Recule de la Pile, passeur. Recule tout de suite. »
+«  Tarreck. Le pont de corde, en amont.  » Elle posa une main sur la Pile, comme lui, et la retira aussitôt  ; il sut pourquoi. «  Le petit, celui des chevriers. Ce matin il pendait droit. Il pend de travers. Le Gouffre s’est—  »
 
-Tarreck recula. La main de Delm tremblait sur son bras.
+Elle n’alla pas au bout.
 
-« Qu’est-ce que c’est, Delm ? » Il n’avait jamais tutoyé le vieux ; ce jour-là, il le fit. « Toi, tu sais. Tu as vu les papiers de la Charte. Qu’est-ce qui se passe ?
+«  Élargi, dit Tarreck. Il s’est élargi.
 
-— Rien de ce que j’ai lu. » Delm ne quittait pas la brume des yeux. Son visage était gris. « Les papiers disent que les Piles tiennent le Gouffre depuis six cents ans. Ils ne disent pas ce que le Gouffre fait quand les Piles lâchent, parce que les Piles n’ont jamais lâché. Personne n’a jamais écrit cette page-là. » Il eut un rire qui n’en était pas un. « On la vit. »
+— On ne peut pas. Un gouffre ne s’élargit pas.
 
-« Elles lâchent ?
+— Regarde le câble.  »
 
-— Sens la pierre. » Delm ne la toucha pas, lui ; il montra, du menton. « Elle était chaude ce matin ? Elle est froide. Ce qui la chauffait est parti. Pas cassé : *parti*. Comme quelqu’un qui lâche une main qu’il tenait depuis toujours et s’en va sans dire où. »
+Ils regardèrent le câble ensemble. Six cents ans qu’il traversait le vide bien raide, une ligne tirée entre deux points fixes. Il pendait. La largeur de deux mains, pas davantage, mais il pendait mou au milieu, comme une corde dont on aurait rapproché les deux bouts. On ne les avait pas rapprochés. On les avait écartés, et le câble, trop court d’un seul coup pour un Gouffre devenu trop large, ne tirait plus droit.
 
-En amont, il y eut un bruit. Un long craquement mou, et le petit pont des chevriers, celui qui pendait de travers, se rompit. Tarreck le vit basculer, une des deux cordes cédant d’un coup, et le tablier de planches battre le vide une fois avant de pendre à la verticale contre la paroi, vide, sans personne dessus, grâce au ciel, sans personne dessus. Le son de sa chute, on ne l’entendit pas. Il n’y avait pas de fond pour le rendre.
+«  Les deux bords s’en vont l’un de l’autre.  » Wenna le dit très bas. «  Tarreck. Les deux bords du Gouffre s’en vont l’un de l’autre.  »
 
----
-
-Wenna revint du sémaphore, et à sa figure Tarreck sut avant qu’elle parle.
-
-« Ils ne répondent pas.
-
-— Comment, ils ne répondent pas ?
-
-— L’autre rive. » Elle s’appuya à la Pile froide sans s’en apercevoir, puis retira sa main d’un sursaut en sentant le froid. « J’ai fait le signe de fermeture. Trois fois. On ne me renvoie rien. » Elle regarda le vide entre les deux bords, plus large qu’une heure plus tôt, la brume qui montait dedans. « Delm. Est-ce qu’ils sont encore là, en face ? Est-ce qu’il y a encore un en-face ? »
-
-« Il y a un en-face. » Le vieux ne mentait pas ; ce n’était pas un homme à mentir. « Ce qu’il n’y a plus, c’est le fil entre eux et nous. Ton signe, il partait par où, avant ? »
-
-Wenna comprit lentement. « Par les Piles. Le signe passait par les Piles.
-
-— Et les Piles se sont tues. » Delm hocha la tête, avec une douceur terrible, la douceur d’un homme qui explique une chose à laquelle lui-même ne croit pas encore tout à fait. « Tout ce qui passait par le Lien s’est tu, petite. Le signe. La chaleur. Ce qui tenait les deux bords l’un vers l’autre. Il ne reste que ce qui a toujours tenu tout seul, et le Gouffre, lui, il n’a jamais tenu tout seul. Le Gouffre voulait s’ouvrir depuis le début. On l’en empêchait. »
-
-« Depuis quand ?
-
-— Depuis six cents ans. Peut-être depuis toujours. » Le vieux regarda la brume monter. « Depuis avant les Piles, il y a eu une première fois où la terre s’est ouverte, ici, et où quelque chose l’a refermée à moitié. Les Piles ont fini le travail. Aujourd’hui elles le défont. On ne verra pas la fin, nous. La fin, c’est pour nos arrière-petits-enfants. »
-
-Tarreck n’écoutait plus qu’à moitié. Il était retourné au bord. Delm cria son nom, il n’y prit pas garde. Et il regardait la brume, parce qu’il avait cru, l’espace d’un instant, y voir une chose.
-
-Il l’avait vue. Loin dans la pâleur, à mi-hauteur du vide, là où montait le fond qui n’était pas un fond, il y avait une forme. Un homme. Un voyageur : l’habit d’un voyageur, le sac au dos, la silhouette de quelqu’un en train de faire un pas. Un homme dans le vide, à cent coudées de toute paroi, ni tombant ni volant, tenu là où rien ne tient, à demi tourné, une main levée. Et Tarreck comprit, sans avoir de mot pour le comprendre, qu’il n’y avait jamais eu de pont à cet endroit ; que cet homme n’était pas tombé ; qu’il avait dû passer, quelque part, à une heure quelconque de ce matin-là, par un de ces seuils dont on parlait dans les grandes villes, une de ces portes qui vous mettaient en un pas à cent lieues, et qu’il était resté là, dans le pas, quand la porte, sous lui, avait cessé d’être une porte. Le Gouffre, en s’ouvrant, avait remonté vers le jour ce que le monde tenait caché dans son entre-deux.
-
-La forme tremblait des bords. Comme une image sur l’eau qu’on trouble. Tarreck la vit se défaire : le manteau perdre sa ligne, la main levée se fondre dans l’air autour d’elle, l’homme cesser d’avoir des bords sans cesser tout à fait d’être là. Et il n’y eut pas de cri, parce qu’il n’y avait plus de bouche pour crier, rien qu’une pâleur qui, un instant, avait eu la forme d’un homme faisant un pas, et qui redevint pâleur.
-
-« Ne regarde pas », dit Delm derrière lui, très vieux, très bas. « Petit. Ne regarde pas ce qui remonte. »
-
-Tarreck recula. Cette fois de lui-même.
+Sa voix, en le disant, n’avait plus rien de la peur ordinaire qu’on a au-dessus d’un trou.
 
 ---
 
-Ce fut alors, dans ce silence-là, la note du fond baissant, non parce qu’elle faiblissait mais parce qu’elle n’avait plus besoin de tirer, le monde ayant cédé, que quelque chose parla qui n’était ni Delm, ni Wenna, ni un homme.
+Aucun des trois ne se rappela jamais l’ordre exact de ce qui suivit.
 
-Cela ne vint pas par les oreilles. Cela vint par la main que Tarreck avait, sans y penser, reposée sur la Pile froide ; par la semelle sur la roche ; par le fil, presque éteint, qui passait encore entre toute chose et toute chose. Ce ne fut pas une voix. Ce fut le peu qui restait d’une voix.
+Il y eut d’abord la question des gens d’en face. La benne de midi remontait par l’autre versant un plein chariot de sel et huit mineurs  ; pour rentrer sur la rive de Varandar, ces huit-là prendraient la nacelle. Dans une heure ils seraient au bord, à attendre qu’on les passe, au-dessus d’un vide qui s’ouvrait.
 
-*tenu. tenu. j’ai tenu les deux bords. les deux. depuis*
+«  Va au sémaphore, dit Tarreck. Fais le signe de fermeture. Qu’ils fassent le tour.
+
+— Le tour, c’est quatre jours.
+
+— Quatre jours. Ils les feront.  » Il amarrait déjà la nacelle, court sur le taquet, comme pour une tempête. «  Personne ne monte là-dedans. Tu m’entends  ? Ni eux, ni toi, ni moi.  »
+
+Wenna courut au sémaphore. Tarreck resta seul au bord, et il fit la seule chose qu’un passeur sache faire  : il regarda son câble, et il l’écouta.
+
+Le son du fond avait grossi. Ce n’était plus une respiration  ; cela tirait, quelque part en dessous, à la manière d’un attelage qui prend le poids d’une charge. Et la pâleur du fond, que personne n’avait jamais vue remuer, remuait. Elle montait. Par nappes, lentement, comme une eau qui déborderait à l’envers, le fond du Gouffre venait vers le jour. Ce n’était pas de l’eau. Ce n’était pas de la brume non plus  : c’était un endroit où l’œil arrivait et ne trouvait rien à quoi se tenir. Trente ans que Tarreck ne regardait pas le fond. Il ne pouvait plus en détacher les yeux.
+
+«  Recule.  »
+
+Pas Wenna. Le vieux Delm, le gardien des Piles, celui qui venait deux fois l’an graisser les scellements et recevoir les ingénieurs de la Charte. Personne ne l’avait vu arriver. Il tenait Tarreck par le bras, et il tirait.
+
+«  Recule de la Pile, passeur. Tout de suite.  »
+
+Tarreck recula. La main du vieux tremblait sur son bras.
+
+«  Qu’est-ce que c’est, Delm  ?  » Jamais il ne l’avait tutoyé  ; ce jour-là, il le fit. «  Toi, tu sais. Tu as lu les papiers de la Charte. Qu’est-ce qui se passe  ?
+
+— Rien de ce que j’ai lu.  » Delm ne quittait pas la pâleur des yeux. Son visage était gris. «  Les papiers disent que les Piles tiennent le Gouffre depuis six cents ans. Ils ne disent pas ce que fait le Gouffre quand les Piles lâchent. Personne n’a jamais écrit cette page-là.  » Delm émit un son sec, qui n’était pas un rire. «  On la vit.
+
+— Elles lâchent  ?
+
+— Touche la pierre. Non. Ne la touche pas.  » Le menton du vieux désigna la Pile. «  Elle était chaude ce matin. Elle est froide. Ce qui la chauffait s’en est allé. Pas cassé  : parti.  »
+
+En amont, un long craquement mou. Le petit pont des chevriers, celui qui pendait de travers, se rompit. Tarreck vit une des deux cordes maîtresses céder d’un coup, le tablier de planches battre le vide une fois et retomber à la verticale contre la paroi. Vide. Personne dessus, grâce au ciel, personne dessus. On n’entendit pas la chute. Il n’y avait pas de fond pour la rendre.
+
+---
+
+Wenna revint du sémaphore, et Tarreck sut à sa figure avant qu’elle parle.
+
+«  Ils ne répondent pas.
+
+— Comment, ils ne répondent pas  ?
+
+— L’autre rive.  » Elle s’appuya à la Pile sans y penser, et retira l’épaule en sentant le froid. «  J’ai fait le signe de fermeture. Trois fois. Rien ne revient.  » Elle regarda le vide entre les deux bords, plus large qu’une heure plus tôt, et la pâleur dedans. «  Delm. Est-ce qu’ils sont encore là, en face  ?
+
+— Ils y sont.  » Le vieux ne mentait pas  ; ce n’était pas un homme à mentir. «  Ce qui n’y est plus, c’est ce qui portait ton signe. Il partait par où, ton signe  ?
+
+— Par les Piles.  » Wenna comprit lentement. «  Le signe passait par les Piles.
+
+— Et les Piles se sont tues.  » Delm hocha la tête, avec une douceur terrible, celle d’un homme qui explique une chose à laquelle il ne croit pas encore lui-même. «  Tout ce qui passait par le fil s’est tu, petite. Le signe. La chaleur. Ce qui tenait les deux bords face à face. Il reste ce qui a toujours tenu tout seul, et le Gouffre n’a jamais tenu tout seul. Il voulait s’ouvrir. On l’en empêchait.
+
+— Depuis quand  ?
+
+— Depuis six cents ans. Depuis plus longtemps, peut-être.  » Le vieux regardait la pâleur monter. «  Avant les Piles, il y a eu une première fois où la terre s’est ouverte ici, et quelque chose l’a refermée à moitié. Les Piles ont fini le travail. Aujourd’hui, elles le défont. Nous, nous ne verrons pas la fin. La fin, c’est pour nos arrière-petits-enfants.  »
+
+Tarreck n’écoutait plus qu’à moitié. Il était retourné au bord. Delm cria son nom  ; il n’y prit pas garde, parce qu’il avait cru voir une chose dans la pâleur et qu’il fallait savoir.
+
+Il l’avait vue. Loin dans le blanc, à mi-hauteur du vide, à cent coudées de toute paroi, il y avait un homme. Un habit de voyage, un sac aux épaules, une jambe en avant. Rien ne le portait. Il ne tombait pas non plus. Il était posé sur rien, comme une charge qu’on aurait laissée en l’air entre deux crochets, et Tarreck, qui avait passé trente ans à calculer ce qui pend et ce qui porte, comprit d’abord cela, avant tout le reste  : ce corps-là n’avait pas de poids.
+
+Le reste vint après, plus lentement. Il n’y avait jamais eu de pont à cet endroit. Cet homme n’était pas tombé. Il avait dû passer, à une heure quelconque de ce matin-là, par une de ces portes dont on parlait dans les grandes villes, une de celles qui vous mettent à cent lieues en un pas  ; Varandar en avait une, à la halle aux grains, et Tarreck ne l’avait jamais empruntée, faute d’avoir jamais eu où aller. Ce voyageur-là avait fait le premier pas, et la porte, sous lui, avait cessé d’être une porte. Et le Gouffre, en s’ouvrant, remontait vers le jour ce que le monde gardait dans son entre-deux.
+
+Alors l’homme s’en alla. Pas d’un coup, pas en tombant  : il se défit comme un vieux cordage qu’on détord, brin par brin, le sac d’abord, puis l’épaule, puis le bras levé, chaque part s’ouvrant dans le blanc jusqu’à n’être plus que du blanc. Aucun son n’en vint. Tarreck compta, du compte dont il mesurait les lâchers de benne, et à dix il n’avait plus devant lui qu’un fond qui montait.
+
+«  Ne regarde pas ce qui remonte.  » Delm, derrière lui, très vieux, très bas. «  Petit. Ne regarde pas.  »
+
+Tarreck recula. De lui-même, cette fois.
+
+---
+
+Le son du fond baissa. Pas parce qu’il faiblissait  : parce qu’il n’avait plus rien à tirer.
+
+Dans ce creux-là, quelque chose vint qui n’était ni Delm, ni Wenna, ni personne de vivant. Cela n’entra pas par les oreilles. Cela vint par la paume que Tarreck avait, sans y penser, remise sur la Pile froide  ; par la semelle contre la roche  ; par le fil presque éteint qui courait encore d’une chose à toutes les autres. Ce n’était pas une voix. C’était ce qui reste d’une voix quand il n’en reste presque rien.
+
+*tenu. j’ai tenu les deux bords. les deux, depuis*
 
 Un blanc. Comme un mot cherché et pas trouvé.
 
-*depuis. tenu ce gouffre, tenu la porte, tenu l’homme dans la porte. je les tenais tous. et*
+*depuis. tenu le trou. tenu la porte. tenu celui qui était dans la porte. tous, je les*
 
 Un blanc plus long.
 
-*quelque chose ne tient plus. je ne sais pas. je ne sais pas si on m’a lâché ou si c’est mon heure. une main. peut-être une main. peut-être seulement... long. c’était long. si long, tenir. on se fatigue de tenir. qui parle enco*
+*ça ne tient plus. arraché, ou usé. je n’ai pas vu lequel. c’était long. si long. on se fatigue de tenir. est-ce qu’il reste quelqu’*
 
 Rien.
 
-Tarreck retira sa main de la Pile. Il n’aurait pas su dire s’il avait entendu quelque chose ou s’il l’avait rêvé debout ; il n’en parla jamais à personne, pas même à Wenna, pas même à Delm, parce qu’il n’y avait pas de mots pour cela et qu’un homme qui n’a pas de mots se tait. Mais il sut, dans son corps, une chose qu’il garderait jusqu’à sa mort : que ce qui venait de lâcher le Gouffre n’avait pas voulu lâcher, ou ne savait pas s’il l’avait voulu ; que ce n’était pas une méchanceté ; que c’était une fatigue, ou une main, ou les deux, et qu’on ne saurait jamais lequel.
+Tarreck ôta sa main de la pierre. Il n’aurait pas su dire s’il avait entendu quelque chose ou s’il l’avait rêvé debout. Il n’en parla jamais  : ni à Wenna, ni à Delm, ni à sa femme, parce qu’il aurait fallu commencer par le commencement et qu’il n’y avait pas de commencement. Mais il garda dans le corps, jusqu’à sa mort, une certitude qu’il ne chercha pas à expliquer. Ce qui venait de lâcher son Gouffre n’avait pas voulu lâcher, ou ne savait pas s’il l’avait voulu. Ce n’était pas une méchanceté. C’était une fatigue, ou un coup porté, et personne ne saurait jamais lequel.
 
 ---
 
-Ils firent, ce jour-là, ce que font les gens quand le monde change trop pour qu’on le comprenne : ils s’occupèrent des vivants.
+Ensuite il fallut s’occuper des vivants, parce que c’était tout ce qui restait à faire.
 
-On ne pouvait plus passer le Gouffre : le câble pendait trop, la nacelle ne roulerait plus droit, et de toute façon aucun homme sensé n’entrerait dans une nacelle au-dessus de *ça*. Il fallait donc le dire. Il fallait aller à Varandar, en bas, prévenir : que le haut était coupé, que ceux d’en face devaient faire le tour, que les seuils, car Varandar en avait un, un vieux, à la halle aux grains, ne portaient peut-être plus, et qu’on ne devait y engager personne.
+Le Gouffre ne se passerait plus. Le câble pendait trop, la nacelle ne roulerait pas droit sur un câble mou, et de toute façon aucun homme sensé n’entrerait dans une nacelle au-dessus de *ça*. Il fallait le dire en bas  : que le haut était coupé  ; que ceux d’en face devaient faire le tour  ; et que le seuil de la halle aux grains ne portait peut-être plus, qu’on n’y engage personne, pas un enfant, pas un courrier.
 
-« C’est toi qui descends, dit Delm à Tarreck. Tu connais tout le monde. On t’écoutera.
+«  C’est toi qui descends, dit Delm. Tu connais tout le monde. On t’écoutera.
 
-— Et toi ?
+— Et toi  ?
 
-— Je reste avec les Piles. » Le vieux s’assit contre le fût froid, sans crainte à présent, avec le calme de qui a fini de comprendre. « Quelqu’un doit rester au bord pour dire aux gens de ne pas s’approcher. Trente ans tu as tenu ce passage. Laisse-moi le tenir un jour. Il n’y a plus de nacelle à faire rouler ; il n’y a plus qu’à empêcher les vivants de regarder dedans. Je sais faire ça. »
+— Je reste.  » Le vieux s’assit contre le fût froid, sans crainte à présent. «  Il faut quelqu’un au bord pour dire aux gens de ne pas s’approcher. Tu as tenu ce passage trente ans  ; laisse-le-moi un jour. Il n’y a plus de nacelle à faire rouler. Il n’y a plus qu’à empêcher les vivants de se pencher. Ça, je sais faire.  »
 
-Tarreck ne discuta pas. On ne discute pas avec un homme qui a choisi son poste. Il prit Wenna par l’épaule, la tourna vers le sentier du bas, et ils descendirent ensemble vers Varandar, la ville dans son creux, avec ses sept mines et ses toits gris et sa halle aux grains, la ville qui, une centaine d’années plus tôt et une éternité plus tard, avait vu naître un homme dont Tarreck ignorait le nom, un érudit du nom de Verithan qui avait écrit sur le Vide un livre que le passeur du haut ne lirait jamais. Rien, à Varandar, ne savait qu’une idée née là revenait ce matin par le fond du Gouffre. La ville fumait paisiblement dans son creux. Les cheminées tiraient droit.
+Tarreck ouvrit la bouche, la referma. Il alla chercher sa gourde et le reste de son pain et les posa près du billot, à portée de la main du vieux. Puis il prit Wenna par l’épaule, la tourna vers le sentier du bas, et ils descendirent.
 
-À mi-pente, Tarreck s’arrêta une fois. Il se retourna vers le Gouffre, vers Delm minuscule contre sa Pile, vers le câble qui pendait, vers la brume pâle qui, tout en haut du vide maintenant, affleurait au niveau des rives et déposait sur la roche noire un givre qui n’était pas du givre. Il n’avait pas fini de s’ouvrir. Cela mettrait des siècles ; il le savait comme Delm le savait ; ses arrière-petits-enfants verraient un pays coupé en deux par une plaie qui avancerait. Il regarda cela une dernière fois, le premier homme peut-être à voir naître ce que d’autres, dans mille ans, appelleraient d’un nom qu’il n’avait pas ; puis il tourna le dos, parce qu’il y avait des vivants en bas à prévenir, et qu’un passeur, quand il n’a plus de pont, passe encore ce qu’il peut : la nouvelle, de bouche en bouche, d’une rive à l’autre des gens.
+Varandar était au fond de la pente, dans son creux  : les toits gris, les sept puits de sel, la halle aux grains, le collège de quatre salles où l’on apprenait aux fils de notaires à lire le vieil endorien, et les canaux noirs qui traversaient la ville comme partout dans ce pays de marais. Elle fumait doucement. Les cheminées tiraient droit. Mille ans plus tôt, un homme y était né qu’on ne nommait pas à voix haute  ; Tarreck savait son nom comme tout le monde le savait à Varandar, de la voix basse qu’on garde, dans ce pays, pour les morts qui ont mal fini, et il n’avait jamais ouvert le livre que cet homme avait écrit sur le Vide. Il n’y pensa pas ce matin-là. Personne n’y pensa. Personne, dans la ville, n’avait de raison de savoir qu’une chose née là remontait par le fond du Gouffre.
 
-Et loin au sud, tout au bout de la brume qui remontait, quelque chose d’immense achevait de desserrer la main qui, sans que Tarreck le sût, avait tenu son Gouffre fermé depuis le premier jour du monde.
+À mi-pente, il s’arrêta une fois et se retourna. En haut  : Delm minuscule contre sa Pile, le câble qui pendait, et la pâleur qui affleurait maintenant au niveau des rives et déposait sur la roche noire un givre qui n’était pas du givre. Cela n’avait pas fini de s’ouvrir. Cela mettrait des siècles  ; il le savait comme Delm le savait, sans qu’on eût besoin de le lui expliquer  ; ses arrière-petits-enfants verraient un pays coupé par une plaie qui avance. Il regarda longtemps. Puis il tourna le dos, parce qu’il y avait des gens en bas à qui personne n’avait encore rien dit.
+
+Et l’autre bord bougeait, ce matin-là, partout dans le monde à la fois  : sous un pays dont Tarreck ne saurait jamais le nom, une chose plus vieille que les Piles finissait de rendre tout ce qu’elle avait porté, et il ne restait nulle part un point assez fixe pour y amarrer un câble.
