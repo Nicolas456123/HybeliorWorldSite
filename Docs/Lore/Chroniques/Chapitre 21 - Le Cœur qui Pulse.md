@@ -174,7 +174,7 @@ Elle ne cherchait pas mon regard  ; elle regardait la fumée, comme si la répo
 
 Je me suis tourné vers elle.
 
-«  Un menteur sait ce qu’il déforme, dit-elle. Vous, vous ne savez pas encore ce que vous êtes en train de prouver.  »
+«  Un menteur, au moins, il sait ce qu’il cache, dit-elle. Vous non. Vous ne savez pas encore ce que vous êtes en train de prouver.  »
 
 La phrase est restée entre nous avec la fumée. Elle ne m’accusait pas. Elle me mettait devant une responsabilité que je n’avais pas demandée, ou que j’avais fait mine de ne pas demander. Je l’ai remerciée, ce qui était une sottise, et elle a eu la délicatesse de ne pas relever. Nous sommes remontés sans un mot par les degrés de basalte. À la porte de mon logement, elle m’a dit qu’elle repartait pour Mylaris dans trois jours  : une famille de Solarith lui commandait du vin pour un mariage, et le chemin de la montagne passait devant les vignobles. Si je voulais voir la fumée de plus près, elle connaissait la route.
 

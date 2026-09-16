@@ -102,7 +102,7 @@ Sous les voix, il y avait autre chose.
 
 Je l’écris à plat, comme je l’ai relevé. Dans les mines d’Alkaran, une vibration m’avait traversé, une présence que j’avais consignée sans la nommer. Ce qui montait de Sarandel n’était pas le même son. C’était la même qualité. Une ville de pierre et de gorges humaines produisait à l’air libre, par accumulation, ce que la roche produisait seule dans les profondeurs. Le fond du monde était monté à la surface, et des hommes le chantaient sans le savoir.
 
-J’ai ouvert mon carnet debout, parce que ce genre de recoupement se perd si l’on attend. Trois lignes. Voici la dernière, que je recopie sans la corriger  : *le phénomène a quitté la marge. Il ne se sent plus seulement dans les os d’un homme. Il s’entend d’une crête. Je ne saurais dire pourquoi cela me terrifie.* J’en ai commencé une quatrième, et je l’ai barrée avant le troisième mot. Une barre tient mieux qu’une phrase, quand la phrase en dirait trop.
+J’ai ouvert mon carnet debout, parce que ce genre de recoupement se perd si l’on attend. Trois lignes. Voici la dernière, que je recopie sans la corriger  : *le phénomène a quitté la marge. Il ne se sent plus seulement dans les os d’un homme. Il s’entend d’une crête. Je ne saurais dire pourquoi cela me terrifie.* J’en ai commencé une quatrième, et je l’ai barrée avant le troisième mot.
 
 Brennan avait attendu, sans impatience, que je referme le carnet.
 
@@ -260,4 +260,4 @@ Restait une pensée que je n’ai pas mise dans le carnet, parce que je ne savai
 
 *En nous séparant, il m’a dit une phrase que je garde telle qu’il l’a formée  : «  Vous écoutez d’une façon que je ne croyais pas possible chez quelqu’un qu’on n’a jamais formé. Ce n’est pas de la technique. Je ne sais pas ce que c’est. Ne l’arrêtez pas.  »*
 
-*Je ne sais pas non plus ce que c’est, et je me garderai de le décider. Demain, je pars pour Avalor, le seul pays, dit-on, où les esprits des arbres sont sujets de droit. Dans mon bagage, une ligne inachevée sur une portée, et à son bout un blanc que je n’ai pas rempli. C’est peu, pour un homme qui prétend collecter des preuves. Mais un blanc noté au bon endroit vaut mieux qu’une note fausse tenue pour vraie. Brennan me l’a appris sans le vouloir.*
+*Je ne sais pas non plus ce que c’est, et je me garderai de le décider. Demain, je pars pour Avalor, le seul pays, dit-on, où les esprits des arbres sont sujets de droit. Dans mon bagage, une ligne inachevée sur une portée, et à son bout un blanc que je n’ai pas rempli. C’est peu, pour un homme qui prétend collecter des preuves. Mais j’aime mieux ce blanc qu’une note inventée. Brennan me l’a appris sans le vouloir.*

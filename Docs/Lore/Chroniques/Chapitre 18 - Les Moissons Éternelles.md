@@ -136,7 +136,7 @@ La braise a craqué. Dehors, un chien aboya une fois, puis renonça.
 
 Il ne répondit pas. Penché vers le foyer, il tisonna les braises et se mit à parler de la récolte du lendemain, comme si ma question s’était perdue en route.
 
-«  Il faut cueillir au bon jour, dit-il. Les gens croient que c’est difficile parce qu’il y a beaucoup à cueillir. C’est l’inverse  : c’est difficile parce qu’il n’y a qu’un jour. Un jour trop tôt, le fruit n’a pas fini, il tient à l’arbre par toute sa peau, et si vous forcez, vous emportez du bois avec. Un jour trop tard, il tombe de lui-même, et ce qui tombe de lui-même, la terre le reprend avant vous. Entre les deux, il y a une fenêtre. Une matinée, parfois. Le savoir-faire, ce n’est pas savoir cueillir. C’est savoir quand.  »
+«  Il faut cueillir au bon jour, dit-il. Les gens croient que c’est difficile parce qu’il y a beaucoup à cueillir. C’est l’inverse  : c’est difficile parce qu’il n’y a qu’un jour. Un jour trop tôt, le fruit n’a pas fini, il tient à l’arbre par toute sa peau, et si vous forcez, vous emportez du bois avec. Un jour trop tard, il tombe de lui-même, et ce qui tombe de lui-même, la terre le reprend avant vous. Entre les deux, il y a une fenêtre. Une matinée, parfois. Cueillir, tout le monde sait. Le métier, c’est le jour.  »
 
 Ma main est partie vers le carnet avant toute décision. Il l’a vue partir, et il a souri, sans moquerie.
 

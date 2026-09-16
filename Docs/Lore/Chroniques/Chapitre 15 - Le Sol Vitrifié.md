@@ -86,11 +86,11 @@ Deux mesures se superposaient au même endroit. La mienne  : un matin de premi�
 
 L’une, pourtant, se tourna. Pas vers moi  : vers un point au-delà de moi, comme si elle percevait, dans une couche plus lointaine encore, ce que je ne pouvais pas voir.
 
-Immobile, je notai. C’est mon métier, et c’est ma seule défense  : devant ce qui excède, relever d’abord, corriger ensuite. Je mesurai ce qui se laissait mesurer, rien de plus.
+Immobile, je notai. C’est mon métier, et c’est ma seule défense. Je mesurai ce qui se laissait mesurer, rien de plus.
 
 Ce qui se laissait mesurer, c’était le battement, et sa progression. Sous la paume posée à plat sur le verre, il montait. Pas plus fort  : plus rapproché, l’intervalle se resserrant d’une mesure à l’autre comme un pouls qui s’échauffe, et la chaleur de présence suivait la même courbe. Une valeur seule ne m’apprenait rien  ; je voulais la variation, celle qui dit où va la chose. Trois séries, donc, à trois moments du matin, à la même dalle enfoncée, comparées au calme, le dos à la limite verte. La courbe montait. Elle montait selon une pente que je connaissais, parce que je l’avais vue s’amorcer ailleurs, sur d’autres pierres, et que le carnet la portait déjà tracée.
 
-Une pente qui monte selon une règle a une fin quelque part, et une fin quelque part a une date. Cette phrase-là, du moins, resta hors du carnet ce matin-là. Pas au centre du cercle, pas agenouillé sur deux cents existences prises dans l’ambre, pas sur ce sol. Une date pareille se garde, se vérifie ailleurs, se recoupe à d’autres pentes relevées sur d’autres pierres. C’est la règle du métier, et je m’y tiens, même quand les deux mesures sont de ma main.
+Une pente qui monte selon une règle finit quelque part, et cette fin a une date. Cette phrase-là, du moins, resta hors du carnet ce matin-là. Pas au centre du cercle, pas agenouillé sur deux cents existences prises dans l’ambre, pas sur ce sol. Une date pareille se garde, se vérifie ailleurs, se recoupe à d’autres pentes relevées sur d’autres pierres. C’est la règle du métier, et je m’y tiens, même quand les deux mesures sont de ma main.
 
 ---
 

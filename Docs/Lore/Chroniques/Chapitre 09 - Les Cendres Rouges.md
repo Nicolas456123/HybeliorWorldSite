@@ -117,7 +117,7 @@ Le bol s’immobilisa entre ses mains, pour la première fois de la soirée.
 
 «  Comme quelqu’un qui frappe à une porte depuis l’autre côté, dit-il enfin.  »
 
-Il n’ajouta rien. J’avais entendu la même image un mois plus tôt, dans la bouche d’un mineur, sous une autre montagne. L’image rejoignit les autres dans le carnet, et je la relus jusqu’à ce que la bougie baisse. Deux hommes qui ne s’étaient jamais vus, séparés par un mois de route et par un métier, avaient choisi la même porte pour dire la même chose. Je relevai la coïncidence comme un repère de terrain. Trois relèvements qui se croisent donnent un point. Celui-là se formait sous nos pieds.
+Il n’ajouta rien. J’avais entendu la même image un mois plus tôt, dans la bouche d’un mineur, sous une autre montagne. L’image rejoignit les autres dans le carnet, et je la relus jusqu’à ce que la bougie baisse. Deux hommes qui ne s’étaient jamais vus, séparés par un mois de route et par un métier, avaient choisi la même porte pour dire la même chose. Trois relèvements qui se croisent donnent un point. Celui-là se formait sous nos pieds.
 
 Le quatrième soir, Ferrath me parla du Syndicat.
 
@@ -186,13 +186,13 @@ Oryn transmit la question. Ferrath acquiesça, puis parla plus longtemps qu’il
 
 Oryn reposa sa cuillère. Le feu de la faille, sous le plancher, rougissait par instants les cicatrices de ses avant-bras.
 
-«  L’Église ne dit rien. Voilà trois ans, elle a reçu l’instruction de ne plus consigner les irrégularités du souffle. Une lettre du Temple d’Haliandris, qui tenait cela d’un office plus haut, lequel le tenait d’ailleurs encore. On nous a expliqué que troubler les fidèles avec des mesures que personne ne sait interpréter, c’était semer la peur au nom de rien.  » Il se tut un instant. «  L’argument n’est pas mauvais. C’est ce qui m’ôte le sommeil  : il n’est pas mauvais.
+«  L’Église ne dit rien. Voilà trois ans, elle a reçu l’instruction de ne plus consigner les irrégularités du souffle. Une lettre du Temple d’Haliandris, qui tenait cela d’un office plus haut, lequel le tenait d’ailleurs encore. On nous a expliqué que troubler les fidèles avec des mesures que personne ne sait interpréter, c’était semer la peur au nom de rien.  » Il se tut un instant. «  L’argument n’est pas mauvais. C’est ce qui m’empêche de dormir.
 — Alors vous obéissez.
-— Je célèbre les morts et je me tais sur les vivants.  » Son regard vint se poser sur moi, sans dureté, sans se dérober non plus. «  Toi, tu écris. Un jour, quelqu’un lira ton livre et saura qu’un vieux Brûlé d’Ardentris avait remarqué, cette année-là, et n’avait rien dit. C’est peut-être à cela que servent les hommes de ton espèce  : à garder ce que ceux de la mienne ont reçu l’ordre d’oublier.  »
+— Je célèbre les morts et je me tais sur les vivants.  » Son regard vint se poser sur moi, sans dureté, sans se dérober non plus. «  Toi, tu écris. Un jour, quelqu’un lira ton livre et saura qu’un vieux Brûlé d’Ardentris avait remarqué, cette année-là, et n’avait rien dit. Toi, tu garderas ce qu’on nous a ordonné d’oublier. C’est peut-être à cela que tu sers.  »
 
 Je ne répondis rien. Le prêtre venait de décrire la moitié de ce que je faisais, et je n’allais pas lui offrir l’autre.
 
-Plus tard, il répéta la phrase que j’avais déjà entendue au temple, celle avec laquelle je repartirais.
+Plus tard, il revint sur ce qu’il m’avait dit au temple.
 
 «  Ce que nous entendions comme la voix d’Eldoria sonne différemment. Et certains vieux prêtres disent qu’elle n’est peut-être pas en train de parler.  » Il arrêta sa cuillère au-dessus du bol. «  Qu’elle est peut-être en train d’écouter.  »
 
@@ -224,7 +224,7 @@ Un homme seul qui affirme se laisse contredire, classer, oublier  ; on me l’a
 
 Au bas de la page, j’écrivis  : *Je reconnais.* Puis je barrai le mot, d’un seul trait, sans appuyer, et j’écrivis à la place  : *Je vois.*
 
-Je suis cartographe. Je dessine ce que je vois, je mesure ce qui se mesure, et je laisse l’interprétation à ceux qui ont des systèmes pour interpréter. Je n’ai pas de système pour ce que je commence à voir. Je n’ai que des points sur une carte que je ne sais pas encore dessiner. Mais je vois ces points converger, et je ne peux pas, en conscience, prétendre qu’ils ne disent rien. La quatrième colonne était pleine. La page tenait. On ne pouvait plus la démonter sans la reconstruire entière.
+Je suis cartographe. Je dessine ce que je vois, je mesure ce qui se mesure, et je laisse l’interprétation à ceux qui ont des systèmes pour interpréter. Je n’ai pas de système pour ce que je commence à voir. Je n’ai que des points sur une carte que je ne sais pas encore dessiner. Mais je vois ces points converger, et je ne peux pas, en conscience, prétendre qu’ils ne disent rien. La quatrième colonne était pleine. La page tenait.
 
 En tournant les feuilles, je retrouvai le carré de cuir du porteur des steppes, et, dessous, dans ma mémoire, ma copie de Lumasar soulignée d’un ongle. Trois mots suivaient mon courrier à travers un continent  : *inscriptions, antérieures, réseau*. Les mêmes qui remplissaient ma page. On ne me chassait pas pour des routes. On me chassait pour cette droite-là. Raison de plus pour la déposer ailleurs qu’en un seul carnet, et je le savais depuis Lumasar. Je soufflai la bougie.
 

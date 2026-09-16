@@ -239,7 +239,7 @@ Peu de choses sont sûres sur mon père, et je m’efforce de ne pas ajouter à 
 
 Je ne saurais dire d’où mon corps tenait ce qu’il a reconnu au bord du cratère. Ni où je le retrouverai. Un rythme n’est pas un lieu  ; je ne peux ni le relever ni le trianguler. Et pourtant je jurerais que ce battement m’attend ailleurs, sous une autre pierre, avec la même patience. Je note l’impression. Je n’y bâtis rien.
 
-Si l’inscription de Morvath dit vrai, être Délié n’est pas manquer d’un lien  : c’est en porter un d’une autre nature, ancré au lieu d’ouvert, une fondation plutôt qu’une fenêtre. Et si cela est, la question n’est plus de savoir pourquoi un homme fait comme moi se met à sentir une montagne. La question est de savoir ce que ferait une fondation le jour où la maison qu’elle tient commencerait à jouer dans ses joints.
+Si l’inscription de Morvath dit vrai, mon lien tient au lieu d’ouvrir, et j’ai passé ma vie à le prendre pour une absence. Ce que je sens là-haut s’expliquerait de soi. Il resterait à savoir ce que fait une fondation, le jour où la maison qu’elle porte commence à jouer dans ses joints.
 
 Je pose la question. Je ne vois pas le fond du cratère, seulement la lueur qui bat contre la fumée par en dessous.
 

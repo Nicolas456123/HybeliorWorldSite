@@ -159,7 +159,7 @@ Saven, entré derrière moi avec le dossier de Vyldor, se penche par-dessus la t
 
 Il regarde la date en marge du point le plus ancien, puis il me regarde.
 
-«  Ce relevé est daté de la fin de l’été.  » Il revient à la page, vérifie, revient à moi. «  Tu as dit à Mara que tu avais touché Ordavan aux premières neiges. Il y a une cinquantaine de jours. La fin de l’été, c’est plus de trois mois avant ça.  » Son doigt se pose à plat sur le chiffre, sans malice, avec l’entêtement d’un homme qui veut que ses colonnes s’additionnent. «  Ces chiffres sont plus vieux que ton passage.  »
+«  Ce relevé est daté de la fin de l’été.  » Il revient à la page, vérifie, revient à moi. «  Tu as dit à Mara que tu avais touché Ordavan aux premières neiges. Il y a une cinquantaine de jours. La fin de l’été, c’est plus de trois mois avant ça.  » Son doigt se pose à plat sur le chiffre, sans malice, avec l’entêtement d’un homme qui veut que ses colonnes s’additionnent. «  Tes chiffres sont d’avant ta visite.  »
 
 Je ne réponds pas tout de suite.
 
@@ -186,7 +186,7 @@ Je referme le carnet sur la page d’Ordavan.
 
 Saven a un bon œil. Meilleur qu’il ne le croit, et tombé par hasard sur le seul chiffre de la page qui pouvait me perdre. Il cherchait une addition qui ne tombait pas juste  ; il a reçu une explication qui la fait tomber juste, et il est reparti tranquille. Un cartographe qui date la matière plutôt que sa visite, cela se défend, cela s’enseigne dans les manuels, cela n’appelle aucune autre question. Sa colonne s’additionne. La mienne aussi, autrement.
 
-Je ne raye pas les trois mots de la marge. Rayer, c’est désigner  : une marge barrée attire l’œil que la marge pleine laisse glisser. Je laisse la page telle quelle. Sous la ligne des relevés, j’écris seulement ce qui est vrai et qui suffit  : *Deux courbes, deux témoins, une seule montée. La progression est calculable. Donc elle a une date.* La date, cette nuit-là encore, je ne la calcule pas. Non que je ne le puisse. Écrite, elle pourrait m’être prise, et celle-là, pour l’instant, est mieux dans ma tête que sur le papier.
+Je ne raye pas les trois mots de la marge. Rayer, c’est désigner  : une marge barrée attire l’œil que la marge pleine laisse glisser. Je laisse la page telle quelle. Sous la ligne des relevés, j’écris seulement ce qui est vrai et qui suffit  : *Deux courbes, deux témoins, une seule montée. Elle est assez régulière pour qu’on la prolonge, et le prolongement tombe sur un jour.* La date, cette nuit-là encore, je ne la calcule pas. Non que je ne le puisse. Écrite, elle pourrait m’être prise, et celle-là, pour l’instant, est mieux dans ma tête que sur le papier.
 
 Ce qui me tient éveillé n’est pas la marge. C’est la coïncidence des deux pentes. J’étais venu à Pyrtara chercher une confirmation, et je l’ai eue, plus nette que je n’osais l’attendre  : le Dessous ne s’éveille pas par accès isolés, ici un volcan, là un canyon, ailleurs un village de verre. Il s’éveille d’un seul mouvement, sous tout le continent à la fois, et il presse le pas. Prolongée assez loin, la courbe quitte le papier. J’ignore encore quand, et je sais que d’autres l’ont su avant moi. Mon père, sûrement, qui a fait cette route et n’a laissé nulle part la moindre date. Les Guetteurs à leur façon, qui nomment d’abord, comme dit leur doctrine, et se gardent bien de publier une échéance. La suite, pour eux, viendra ou ne viendra pas. Pour moi, la suite a la forme d’une date, et je la trouverai sans l’écrire.
 

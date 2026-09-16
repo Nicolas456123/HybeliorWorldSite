@@ -189,7 +189,7 @@ Un demi-sourire lui vint, le premier de la soirée, et elle retourna à son ciel
 
 ---
 
-Les nuits suivantes, elle me laissa revenir. À Hekorinth, je restai plus longtemps que je n’aurais dû  ; j’écris rarement une phrase pareille, parce que je fais rarement ce que je ne devrais pas faire.
+Les nuits suivantes, elle me laissa revenir. À Hekorinth, je restai plus longtemps que je n’aurais dû.
 
 Le huitième jour, elle m’emmena au Premier Observatoire, la vieille tour de Haldros, le fondateur, bâtie deux siècles avant les autres sur une falaise tournée plein est. On n’y venait plus pour ses instruments, dépassés depuis longtemps, mais pour l’orientation que Haldros avait choisie. Le plafond de la salle était percé de canaux étroits. L’un d’eux, me montra Vessane, ne pointait vers aucune étoile cataloguée  : il visait le point du ciel où Haldros avait vu, une seule nuit, une figure qu’il n’avait jamais revue. L’attente de son retour avait décidé de l’emplacement même de la ville.
 
@@ -237,7 +237,7 @@ Il y avait dans sa voix de la gratitude, ce qui était la pire chose qu’elle p
 
 «  Et pourquoi un homme qui me connaît depuis cinq nuits aurait-il peur pour moi  ?  »
 
-Aucune réponse ne me vint. Je ne lui dis pas que j’avais passé quatre-vingt-dix jours à arriver juste après des gens comme elle, à recueillir ce qu’ils savaient pendant que d’autres se chargeaient de les faire taire. Je ne lui dis pas non plus que je m’étais juré, quelque part entre Valoria et ici, de ne jamais faire ce que j’étais en train de faire, parce que le faire une fois coûte toujours à quelqu’un d’autre. Je le savais. Je le fis quand même. C’est la seule fois du voyage où je me suis conduit comme l’homme que je feins d’être.
+Aucune réponse ne me vint. Je ne lui dis pas que j’avais passé quatre-vingt-dix jours à arriver juste après des gens comme elle, à recueillir ce qu’ils savaient pendant que d’autres se chargeaient de les faire taire. Je ne lui dis pas non plus que je m’étais juré, quelque part entre Valoria et ici, de ne jamais faire ce que j’étais en train de faire, parce que le faire une fois coûte toujours à quelqu’un d’autre. Je le savais. Je le fis quand même. C’est la seule fois du voyage où je me suis conduit comme l’homme qu’on me croit.
 
 «  Partez chez votre sœur, à Haltheria, dis-je plus bas. Emportez vos tables. Laissez le réflecteur ici, pour qu’on croie que vous revenez.  »
 
@@ -255,7 +255,7 @@ Halen écrivait les manifestes au quai numéro quatre. Depuis Sarandel, il gliss
 
 La mer, je ne la notai pas. Je notai la date, le quai, l’heure, et le fait que la barge du quatre était partie pleine, mes cahiers dedans. Puis je descendis au port, je n’y trouvai pas ce que j’aurais dû y trouver, et je remontai. Vessane vivait  ; à Haltheria, chez sa sœur, elle lisait ses étoiles, hors du fanal des courriers de nuit. Halen ne lisait plus rien.
 
-J’ai souvent relu la page de ce jour-là. Je n’y ai rien trouvé à corriger. J’avais voulu qu’une femme reste en vie  ; pour cela, j’avais retenu le chasseur sur ce port des nuits de plus, et il avait pris l’homme du quai quatre à la place. Un cartographe le sait avant tout le monde  : rien ne se soustrait sur une carte, tout se reporte.
+J’ai souvent relu la page de ce jour-là. Je n’y ai rien trouvé à corriger. J’avais voulu qu’une femme reste en vie  ; pour cela, j’avais retenu le chasseur sur ce port des nuits de plus, et il avait pris l’homme du quai quatre à la place.
 
 Je ne recommencerai pas. Je l’écris à plat, sans emphase. Il faudra s’en souvenir plus tard, quand une île me demandera de choisir encore, et que je ne choisirai plus.
 

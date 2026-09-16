@@ -271,7 +271,7 @@ On le trouva au matin dans sa maison basse, à sa table, la tête sur ses feuill
 
 Je soutins ce regard. Les faits ne laissaient rien à opposer, et ce matin-là, ils disaient tous la même chose. J’étais venu. J’avais demandé ses mesures. Il me les avait laissées. Il était mort. Dans mon carnet, les neuf noms et les neuf dates recopiés de sa main dans la mienne  ; sur la grève, la veille, une enfant aux yeux sans couleur qui disait que j’arrivais toujours avant.
 
-Je ne me défendis pas. Un détroit qui n’ouvre pas pour tout le monde, passé à l’heure exacte que j’avais annoncée à un homme qui le franchissait depuis trente ans. Un homme au gant noir laissé sur le récif, en dérive, sans un mot. Dans d’autres ports, des pages arrachées à des registres qui n’étaient pas les miens. Partout où je passais depuis Valoria, un gardien de savoir parti peu après. Chacun de ces faits était vrai. Mis bout à bout, ils dessinaient un homme, et je n’avais pas de raison de le démentir. Ceux qui me croiraient capable de cela ne me chercheraient rien d’autre.
+Je ne me défendis pas. Un détroit qui n’ouvre pas pour tout le monde, passé à l’heure exacte que j’avais annoncée à un homme qui le franchissait depuis trente ans. Un homme au gant noir laissé sur le récif, en dérive, sans un mot. Dans d’autres ports, des pages arrachées à des registres qui n’étaient pas les miens. Partout où je passais depuis Valoria, un gardien de savoir parti peu après. Chacun de ces faits était vrai. Mis bout à bout, ils faisaient un coupable, et je les laissai ainsi. Ceux qui me croiraient capable de cela ne me chercheraient rien d’autre.
 
 Je pris mes feuilles. Celles de Corvane, je les laissai sur sa table, sous sa tête, pour celui qui viendrait après moi et qui, peut-être, ne les emporterait pas.
 
@@ -285,6 +285,6 @@ Karsk me repassa la Suie à la marée du soir. La brume accepta sans que j’aie
 
 Karsk tira sur sa rame et n’ajouta rien.
 
-Derrière nous, Arkhen s’effaçait dans la Suie, l’île morte où un vieil homme reposait sur des mesures que j’emportais, et je ne notai pas ce que je ressentais, parce que ce n’était pas mon travail de le noter. Mes notes de ce soir-là tiennent en trois lignes  : la marée, l’heure, la couleur de la brume. Et que la côte qui monte, celle des neuf enfants, de la pulsation et de ce que Talise appelait le bas, se relevait un peu mieux sur ma carte que la veille.
+Derrière nous, Arkhen s’effaçait dans la Suie, l’île morte où un vieil homme reposait sur des mesures que j’emportais, et je ne notai pas ce que je ressentais. Mes notes de ce soir-là tiennent en trois lignes  : la marée, l’heure, la couleur de la brume. Et que la côte qui monte, celle des neuf enfants, de la pulsation et de ce que Talise appelait le bas, se relevait un peu mieux sur ma carte que la veille.
 
 La corde tire vers le bas. Une enfant l’avait dit avant moi, avec ses mots. Je tiens la corde depuis le début. Elle l’avait dit aussi.

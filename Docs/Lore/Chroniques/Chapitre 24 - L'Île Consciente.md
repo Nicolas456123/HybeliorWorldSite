@@ -244,7 +244,7 @@ Son regard changea, comme devant deux fils qu’on croyait de deux pelotes et qu
 
 Je laissai cela descendre.
 
-Dans cette lecture, ce que je ressentais depuis Cendara n’était pas une faculté nouvelle. C’était une faculté de toujours, masquée jusque-là par la présence des esprits, et qui affleurait à mesure qu’ils se taisaient. Aucune autre figure ne rendait aussi bien compte de ce que je portais dans les os depuis le premier plateau. Je la note comme la mienne, et je laisse les autres ouvertes. Trois points font une ligne dès qu’on le veut.
+Dans cette lecture, ce que je ressentais depuis Cendara n’était pas une faculté nouvelle. C’était une faculté de toujours, masquée jusque-là par la présence des esprits, et qui affleurait à mesure qu’ils se taisaient. Aucune autre figure ne rendait aussi bien compte de ce que je portais dans les os depuis le premier plateau. Je la note comme la mienne, et je laisse les autres ouvertes. Je n’ai que trois points, et je vois déjà la ligne.
 
 «  Ce que je porte ne m’appartient pas encore  », dis-je, plus pour moi que pour elle.
 

@@ -138,7 +138,7 @@ Elle avait raison, et contre ce genre de justesse je n’avais pas d’argument.
 — C’est une raison ou une excuse  ?
 — Je ne sais pas encore, répondis-je, et pour une fois c’était vrai. Écris-le aussi, si tu veux.  »
 
-Je rouvris le carnet et, sous la phrase traduite, j’ajoutai de ma main  : *Kael tremble quand il respire. Thyris garde une main près de lui sans le toucher. Ceci n’est pas une donnée. C’est ce que la donnée coûte.*
+Je rouvris le carnet et, sous la phrase traduite, j’ajoutai de ma main  : *Kael tremble quand il respire. Thyris garde une main près de lui sans le toucher. J’écris cela aussi.*
 
 Elle lut par-dessus mon épaule. Elle ne dit pas que c’était assez  ; rien ne l’aurait été. Mais elle retira ses doigts de la page.
 

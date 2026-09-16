@@ -95,7 +95,7 @@ Les deux jours d’attente sont étranges d’une manière que je n’avais pas 
 
 Faute de mieux, je marche autour de Veldar. La forêt qui l’entoure est de celles qui noircissent sans se consumer  : une écorce qui garde la mémoire d’un vieil incendie et sent la résine brûlée. Les habitants me suivent des yeux avec la même curiosité utile que Rethyn  ; ils calculent, ils ne jugent pas. Le second matin, depuis la lisière, j’assiste à un exercice. Trois adolescents, deux garçons et une fille, tournent entre les rochers noirs en enchaînant des postures dont j’ignore le nom. Ce n’est pas l’école martiale de Kharazir, où l’on apprend à combattre un corps d’homme. Comprendre me prend un moment, et quand je comprends, cela me reste dans la gorge  : ces enfants ne s’entraînent pas à tuer un dragon. Ils s’entraînent à tenir debout près de lui, et à garder l’usage de leurs mains.
 
-Le cri revient le soir, plus loin que le premier jour, déformé par les parois avant d’arriver au village. Personne ne lève la tête. Pour eux, c’est le bruit du monde. Debout sur le seuil, je regarde vers le sommet et je ne vois rien. Quelque part dans ce ciel, une vie immense vole. Mon père a-t-il entendu ce son  ? A-t-il regardé cette montagne, vingt ans plus tôt, avec mes questions, ou avec d’autres que je m’échine encore à retrouver\1 Rien ne répond. Quand le froid me prend les épaules, je rentre, et la question rentre avec moi.
+Le cri revient le soir, plus loin que le premier jour, déformé par les parois avant d’arriver au village. Personne ne lève la tête. Pour eux, c’est le bruit du monde. Debout sur le seuil, je regarde vers le sommet et je ne vois rien. Quelque part dans ce ciel, une vie immense vole. Mon père a-t-il entendu ce son  ? A-t-il regardé cette montagne, vingt ans plus tôt, avec mes questions, ou avec d’autres que je m’échine encore à retrouver  ? Rien ne répond. Quand le froid me prend les épaules, je rentre, et la question rentre avec moi.
 
 ---
 
@@ -243,7 +243,7 @@ La limite entre Drakora et Pyrtara n’est pas une ligne non plus. C’est un ch
 
 Dhorvan s’arrête à la borne  ; il n’a rien à faire au-delà. Avant de repartir, il me regarde comme un homme qui pèse une phrase.
 
-«  Ton père est passé par cette même frontière.  » Un temps. «  Il avait l’air de savoir où il allait. Pas de savoir si c’était une bonne idée d’y aller.  »
+«  Ton père est passé par cette même frontière.  » Un temps. «  Il avait l’air de savoir où il allait. Pas d’en être content.  »
 
 Puis il tourne les talons vers Drakora, sans un mot de plus, et sans se retourner.
 
