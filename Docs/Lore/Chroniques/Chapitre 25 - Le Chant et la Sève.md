@@ -188,7 +188,7 @@ Je notai la phrase telle qu’elle l’avait dite, au pluriel, sans y ajouter la
 
 Les mots venaient lentement, sans colère, comme on nomme une bête qu’on a fini par reconnaître.
 
-«  Vous ne pouvez pas le retenir, cet arbre, pas plus que moi. Alors vous l’inscrivez. Vous en ferez une ligne dans un cahier, et quand il se sera tu pour de bon, la ligne, elle, tiendra. C’est cela, votre métier. Un homme qui écrit ce qu’il ne peut pas sauver.  »
+«  Vous ne pouvez pas le retenir, cet arbre, pas plus que moi. Alors vous l’inscrivez. Vous en ferez une ligne dans un cahier, et quand il se sera tu pour de bon, la ligne, elle, tiendra. C’est cela, votre métier, et c’est tout ce que vous pouvez pour lui.  »
 
 Je ne répondis rien et je recopiai sa phrase dans la marge, mot pour mot. La gardienne me vit le faire et eut un geste de la main, vague, qui pouvait être le pardon ou le renoncement.
 

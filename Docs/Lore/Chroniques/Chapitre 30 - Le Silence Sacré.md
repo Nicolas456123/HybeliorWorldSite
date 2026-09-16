@@ -211,7 +211,7 @@ Sa voix était rauque, mal assurée, la voix d’un homme qui ne s’en était p
 
 «  On monte à Baeloris pour apprendre à se taire. Vous, vous le saviez avant d’accoster. Vous n’êtes pas venu apprendre le silence. Vous êtes venu voir s’il tiendrait.
 
-«  Ce que vous portez, vous ne le portez pas pour le comprendre. Vous le portez pour qu’il ne meure pas le jour où vous mourrez. Et vous laissez ceux qui vous écoutent croire qu’ils l’ont trouvé avec vous. Une vérité qu’on croit avoir trouvée seul, on ne la rend plus.  »
+«  Ce que vous portez, vous ne le portez pas pour le comprendre. Vous le portez pour qu’il ne meure pas le jour où vous mourrez. Et vous laissez ceux qui vous écoutent croire qu’ils l’ont trouvé avec vous, pour qu’ils ne le rendent plus.  »
 
 Puis il se tut, et son silence retomba sur lui.
 
