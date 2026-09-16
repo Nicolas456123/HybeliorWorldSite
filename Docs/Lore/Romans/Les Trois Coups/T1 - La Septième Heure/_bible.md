@@ -618,7 +618,11 @@ Les six irruptions de seuil (fichiers 06, 12, 18, 23, 24) + les irruptions du fi
 **Fragment intercalaire B — (en marge, sans date ; à placer dans S9 « L'homme qu'on ne recrute pas »).**
 > *« J'ai essayé, cette nuit, de lui demander pourquoi lui. Pas pourquoi nous — pourquoi *lui*, en premier, avant nous tous. Il a commencé une réponse et ne l'a pas finie, comme toutes ses phrases, et j'ai compris que le blanc à la fin n'était pas un oubli : c'était la réponse. Il ne finit pas ses phrases parce qu'il ne finit pas ses pensées ; il les laisse ouvertes pour que le geste, un jour, les ferme à sa place. J'écris tout de lui, sauf son nom et sauf le fond de ses yeux. Deux choses que je n'aurai jamais. On peut aimer un homme des années et ne posséder de lui que le bord. »*
 
-> **Note.** Aucun de ces deux fragments ne double une date existante ni ne touche la phrase-canon (Fragment #3). Le **Fragment Zéro** (main de l'Étudiant, §3) reste intouché.
+> **Note (2026-09-16).** Ces deux fragments **n'ont jamais été insérés** et ne le seront pas :
+> ils renvoient au plan de scènes S7/S9, abandonné au profit du découpage actuel en 56
+> chapitres, qui ne porte pas ces emplacements. Le dispositif en vigueur est la série
+> numérotée **Fragment #1 à #7** (ch. 00, 11, 21, 31, 38, 39, 55), complète. Le **Fragment
+> Zéro** (main de l'Étudiant, §3) reste intouché.
 
 ---
 

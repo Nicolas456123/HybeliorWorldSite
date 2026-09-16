@@ -16,11 +16,11 @@ C’était un travail de soustraction. On posait l’argument, on ôtait ligne �
 
 La copie arriva un soir de fin d’hiver, entre deux lampes qui fumaient.
 
-«  Tiens.  » Corvane la poussa sous son coude sans s’asseoir. «  Puisque tu aimes les textes cassés. Plus cassé que celui-là, ça n’existe pas.  » Il riait déjà. Corvane riait de tout, c’était sa manière de traverser l’Académie sans que rien ne l’y retînt. «  Le Traité du Vide. Le vrai. Enfin, une copie du vrai, avec des trous. On se la passe pour rire. Lis la troisième thèse, tu vas t’étrangler.  »
+«  Tiens.  » Havrenn la poussa sous son coude sans s’asseoir. «  Puisque tu aimes les textes cassés. Plus cassé que celui-là, ça n’existe pas.  » Il riait déjà. Havrenn riait de tout, c’était sa manière de traverser l’Académie sans que rien ne l’y retînt. «  Le Traité du Vide. Le vrai. Enfin, une copie du vrai, avec des trous. On se la passe pour rire. Lis la troisième thèse, tu vas t’étrangler.  »
 
 «  Le Traité de Verithan.  » Le nom était sorti tout bas, sans que Thessan l’eût décidé. À Varandar, où il était né, on ne le prononçait qu’entre soi, le soir, du ton qu’on garde pour un oncle pendu. «  Où l’as-tu eue  ?
 
-— Aucune idée. Elle circule.  » Corvane haussait déjà les épaules, reparti vers un cercle plus rieur, à l’autre bout de la salle. «  Rends-la-moi quand tu auras fini de te scandaliser. Pas trop vite quand même. Il y en a trois qui attendent après toi.  »
+— Aucune idée. Elle circule.  » Havrenn haussait déjà les épaules, reparti vers un cercle plus rieur, à l’autre bout de la salle. «  Rends-la-moi quand tu auras fini de te scandaliser. Pas trop vite quand même. Il y en a trois qui attendent après toi.  »
 
 Restait l’objet. Ce n’était pas un beau manuscrit  : du mauvais vélin, recopié à la hâte par plusieurs mains, les lacunes signalées d’un trait et parfois d’un mot d’excuse en marge, *manque ici*, *illisible*, *le copiste renonce*. Quelqu’un, avant lui, y avait travaillé au crayon, d’une écriture serrée et anguleuse qu’on n’apprenait pas à l’Académie. Thessan s’attendait à des railleries  ; il trouva des restitutions. Là où le copiste avait renoncé, la main inconnue avait remis le raisonnement manquant, sobrement, comme on remet une pierre dans un mur. Trois passages plus loin, il mit le doigt sur ce qui le gênait  : celui qui avait annoté cette copie ne s’en amusait pas.
 
@@ -38,7 +38,7 @@ La plume redescendit sur la table.
 
 Ce n’était pas juste. C’était même faux, il le sentait, il pouvait le démontrer, sauf qu’il fallait pour cela prouver qu’il existait une sortie, et la nuit avançant, il ne trouva pas comment on prouve une chose pareille. Il avait vécu à l’intérieur. Tout le monde vivait à l’intérieur. Comment démontre-t-on qu’une porte existe quand nul vivant n’est jamais passé de l’autre côté  ?
 
-Les heures cessèrent d’être comptées, ce qui, chez lui, ne s’était encore jamais produit. La troisième thèse, celle dont Corvane avait promis l’étranglement, ne le fit pas rire. Elle tenait que la souffrance des non-Liés n’était pas un accident du monde du Lien mais sa condition  : qu’une grâce distribuée au hasard fabrique des exclus aussi sûrement que la lumière fabrique de l’ombre. Personne n’avait de visage dans cette phrase, cette nuit-là  ; il ne connaissait ni Sera ni sa sœur Ísae. Mais Vael revint, malgré lui  : Vael qui était Lié, qui avait le don, et que le don avait usé jusqu’à la corde. Dans la marge, sous le crayon de l’inconnu, Thessan ajouta de sa main  : *si le Lien broie même ceux qu’il choisit, que fait-il à ceux qu’il ne choisit pas  ?* La question n’était pas dans le Traité. Elle venait de lui. Pour la première fois de la nuit, il ajoutait au texte au lieu d’en retrancher, et il ne le remarqua pas.
+Les heures cessèrent d’être comptées, ce qui, chez lui, ne s’était encore jamais produit. La troisième thèse, celle dont Havrenn avait promis l’étranglement, ne le fit pas rire. Elle tenait que la souffrance des non-Liés n’était pas un accident du monde du Lien mais sa condition  : qu’une grâce distribuée au hasard fabrique des exclus aussi sûrement que la lumière fabrique de l’ombre. Personne n’avait de visage dans cette phrase, cette nuit-là  ; il ne connaissait ni Sera ni sa sœur Ísae. Mais Vael revint, malgré lui  : Vael qui était Lié, qui avait le don, et que le don avait usé jusqu’à la corde. Dans la marge, sous le crayon de l’inconnu, Thessan ajouta de sa main  : *si le Lien broie même ceux qu’il choisit, que fait-il à ceux qu’il ne choisit pas  ?* La question n’était pas dans le Traité. Elle venait de lui. Pour la première fois de la nuit, il ajoutait au texte au lieu d’en retrancher, et il ne le remarqua pas.
 
 Les cloches sonnèrent une fois, très loin, sous la ville. Il ne les entendit pas.
 
@@ -102,7 +102,7 @@ Le sang quitta le visage de Thessan. Il compta les lampes de la salle, quatre, d
 
 ---
 
-Il aurait dû s’en tenir là  : rendre la copie à Corvane, dormir, oublier. Thessan avait dix-neuf ans et se croyait raisonnable. Il resta assis.
+Il aurait dû s’en tenir là  : rendre la copie à Havrenn, dormir, oublier. Thessan avait dix-neuf ans et se croyait raisonnable. Il resta assis.
 
 «  Attendez.  » L’appel lui avait échappé avant qu’il eût décidé d’appeler. L’homme se retourna à demi, à contre-jour de la fenêtre qui pâlissait, et Thessan n’eut de lui qu’une silhouette et le bord d’un profil. «  Si c’est vrai…  » Il s’arrêta  ; il fallait poser la vraie question, pas celle d’à côté. «  Vous n’êtes pas venu me montrer que le raisonnement tient. Vous le saviez avant d’entrer. Vous êtes venu voir si moi, je le voyais. Pourquoi  ?  »
 
@@ -114,13 +114,13 @@ Il n’alla pas plus loin. Thessan attendit la suite un long moment, puis compri
 
 «  Vous cherchez un témoin, dit Thessan.
 
-— Je ne cherche rien.  » L’homme reprenait son manteau. «  Il est trop tôt. J’ai des années devant moi, vous aussi. Vous n’êtes pas prêt, et moi non plus.  » Sur la table, il posa le crayon des marges et l’y laissa, comme on laisse une adresse sans la donner. «  Gardez la copie. Corvane la trouve amusante  ; il ne la finira pas. Vous, vous l’avez finie.  » Un dernier regard, et dans ce regard une chose que Thessan mit des années à nommer, qui était de la tendresse. «  C’est votre seule faute. La mienne aussi.  »
+— Je ne cherche rien.  » L’homme reprenait son manteau. «  Il est trop tôt. J’ai des années devant moi, vous aussi. Vous n’êtes pas prêt, et moi non plus.  » Sur la table, il posa le crayon des marges et l’y laissa, comme on laisse une adresse sans la donner. «  Gardez la copie. Havrenn la trouve amusante  ; il ne la finira pas. Vous, vous l’avez finie.  » Un dernier regard, et dans ce regard une chose que Thessan mit des années à nommer, qui était de la tendresse. «  C’est votre seule faute. La mienne aussi.  »
 
 Il sortit. Thessan ne le retint pas. Sur la table restaient un crayon, un cahier mutilé et trois mots qu’il ne pouvait pas rendre  : *montrer, c’est faire.*
 
 ---
 
-La copie ne revint jamais à Corvane. Thessan lui dit qu’il l’avait perdue  ; Corvane rit, assura qu’il en circulait d’autres, et passa à un rire suivant. Le cahier resta six ans dans les affaires de Thessan.
+La copie ne revint jamais à Havrenn. Thessan lui dit qu’il l’avait perdue  ; Havrenn rit, assura qu’il en circulait d’autres, et passa à un rire suivant. Le cahier resta six ans dans les affaires de Thessan.
 
 Six ans à chercher la faille. Six années pleines, avec l’obstination d’un homme qui refuse un résultat qu’il a lui-même établi. Dans l’intervalle il devint théoricien, l’un des meilleurs de sa promotion  ; il apprit les langues mortes, la datation des copies, la reconstitution des textes perdus. De tout ce savoir il ne se servit, au fond, que pour une besogne qu’il n’avoua à personne  : trouver dans le Traité l’erreur qui le libérerait. Sept copies fautives lui servirent à reconstituer la cinquième thèse, et il fut peut-être le seul homme vivant à la posséder entière. Puis vinrent les variantes, collationnées une à une. Il traqua le paralogisme avec une ferveur d’hérésiarque et avec espoir, car une faille aurait voulu dire qu’on pouvait garder le Lien et la conscience tranquille, garder Vael et le monde qui l’avait tué, sans avoir à choisir.
 

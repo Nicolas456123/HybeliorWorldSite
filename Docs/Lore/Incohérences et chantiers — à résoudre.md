@@ -749,6 +749,21 @@ entités touchées). Récapitulatif :
 
 ---
 
+## Arbitrages de la réécriture de la trilogie (2026-09-16 →)
+
+Relevés par les agents pendant la réécriture des *Trois Coups*, tranchés au fil de l'eau
+par délégation de l'auteur. Le style seul est réécrit ; ces points-ci touchaient au fond.
+
+| Point | Constat | Arbitrage |
+|---|---|---|
+| **Deux Corvane** (T1) | Un condisciple rieur de 19 ans au ch. 2 et « le vieux Corvane, préposé aux annales de Tempora » au ch. 12, six ans plus tard ; un troisième Corvane, autrement plus important, parle aux T2 et T3. | **Le condisciple est renommé Havrenn** (8 occurrences, ch. 2 seul) : il n'apparaît nulle part ailleurs, l'annaliste a une fonction et une suite. |
+| **Fragments intercalaires A et B** (bible du T1) | La bible les prescrit « à placer dans S7 et S9 » ; ils n'ont jamais été écrits, et le plan de scènes S ne correspond plus au découpage en 56 chapitres. | **Non insérés, classés comme tels dans la bible.** Le dispositif en vigueur est la série numérotée Fragment #1 à #7, complète. |
+| **Âge de Sera** (T1) | « Trente ans de rage » au ch. 4 (elle a ~43 ans) et une dernière lettre « trente ans plus tard » au ch. 3, ce qui la mènerait à ~75 ans. | **Aucune contradiction** : la rage date de son adolescence, et la bible ne fixe aucune fin à Sera. Rien corrigé. |
+| **« Montrer, c'est faire »** (T1) | Thessan formule la phrase à 19 ans au ch. 2, et le ch. 12 la lui fait combattre. | **Le ch. 12 est un refus, pas une ignorance** : le ch. 2 se clôt sur « six ans de méthode n'avaient pas suffi à la défaire ». |
+| **Ísae** (T1 ch. 2) | Le texte disait « ni Sera, ni sa sœur, ni Ísae » alors qu'Ísae *est* la sœur de Sera (ch. 3). | Corrigé : « ni Sera ni sa sœur Ísae ». |
+
+---
+
 ## Annexe — d'où viennent ces constats
 
 - Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
