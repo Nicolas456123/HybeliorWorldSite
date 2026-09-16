@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, onara]
 type: lore
 status: drafted

@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, pov-kessane, guilde-forgerons-non-lies, phase-1, inspecteurs-de-purete]
 titre: La lampe qu’on ne regarde pas
-type: chapitre-roman
+type: roman-chapitre
 partie: I
 pov: Kessane de la Forge-Basse
 chapitre: 8

@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, coda, fenetre-monde, d-autres-mains, le-geste-survit, cahier-de-kessane, fragment-3, echo-thessan, echo-kessane, echo-sorin, quatorze-pages-blanches, le-noyau-incorruptible, mains-vides, pied-du-cendra, le-troisieme-coup, la-carte-a-moitie-blanche, le-dessous-qui-remonte, la-reconnaissance-erodee]
 titre: D’autres mains
-type: chapitre-roman
+type: roman-chapitre
 partie: Coda — Le troisième coup
 pov: Fenêtre-monde — d'autres mains
 status: draft

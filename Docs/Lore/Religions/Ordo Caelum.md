@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [religion, lore, cosmologie, refonte-2026-05, veines-philo]
 type: lore
 status: drafted

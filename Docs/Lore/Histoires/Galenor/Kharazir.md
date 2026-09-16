@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, galenor, kharazir]
 type: histoire
 status: canon

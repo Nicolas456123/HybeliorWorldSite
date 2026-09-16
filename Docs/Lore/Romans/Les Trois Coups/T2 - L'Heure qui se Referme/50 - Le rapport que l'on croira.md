@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, coda, pov-vaenor, inspecteurs-de-purete, drahk-nor, rapport-falsifie, germe-t3]
 titre: sept — Le rapport que l’on croira
-type: chapitre-roman
+type: roman-chapitre
 partie: Coda
 pov: Vaenor Sorne
 chapitre: 37

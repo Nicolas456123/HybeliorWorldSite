@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-4, pov-sanne, fil-documentaire, le-depot, cahier-de-kessane, le-geste, fragment-3, guilde-forgerons-non-lies, transmission, jeune-passeuse, wenna, pied-du-cendra, la-pulse, guerre-de-l-ombre, la-ou-d-autres-pourront-le-ramasser, echo-thessan, echo-kessane, ce-qui-remonte]
 titre: Le dépôt
-type: chapitre-roman
+type: roman-chapitre
 partie: IV — Ce qui remonte
 pov: Sanne
 chapitre: 36

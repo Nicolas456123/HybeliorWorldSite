@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-2, fenetre-monde, gardienne, sylvara, evertia, esprits-lieux, ils-arrivent-par-le-dessous, panghor, profondeur-premiere, le-dessous-qui-monte, les-signes-se-pressent]
 titre: Le dernier esprit
-type: chapitre-roman
+type: roman-chapitre
 partie: II
 pov: Fenêtre-monde — une gardienne de Sylvara (Evertia)
 status: draft

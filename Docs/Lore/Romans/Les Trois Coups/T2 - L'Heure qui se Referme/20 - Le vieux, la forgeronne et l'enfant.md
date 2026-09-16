@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-2, pov-ombreth, chamane-de-memoire, guilde-forgerons-non-lies, triangle-kessane-ombreth-lirenn, coupure-du-lien, phase-1]
 titre: Le vieux, la forgeronne et l’enfant
-type: chapitre-roman
+type: roman-chapitre
 partie: II
 pov: Ombreth le Dernier-qui-Chante
 chapitre: 15

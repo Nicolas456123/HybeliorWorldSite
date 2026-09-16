@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-kessane, coupure, amputation-mystique, phase-1]
 titre: La coupure
-type: chapitre-roman
+type: roman-chapitre
 partie: III
 pov: Kessane de la Forge-Basse
 chapitre: 20

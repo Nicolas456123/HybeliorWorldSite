@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ilthara, gryndor]
 type: histoire
 status: canon

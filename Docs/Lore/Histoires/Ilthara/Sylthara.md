@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ilthara, sylthara]
 type: histoire
 status: canon

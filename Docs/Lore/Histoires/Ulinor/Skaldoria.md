@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ulinor, skaldoria]
 type: histoire
 status: drafted

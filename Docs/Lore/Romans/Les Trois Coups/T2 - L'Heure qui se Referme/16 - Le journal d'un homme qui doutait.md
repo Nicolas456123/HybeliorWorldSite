@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-2, pov-vaenor, inspecteurs-de-purete, journal-de-thessan, cahier-de-copie, drahk-nor, ambiguite]
 titre: Le journal d’un homme qui doutait
-type: chapitre-roman
+type: roman-chapitre
 partie: II
 pov: Vaenor Sorne
 chapitre: 12

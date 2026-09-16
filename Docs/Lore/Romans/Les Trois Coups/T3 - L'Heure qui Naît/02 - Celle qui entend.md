@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-1, pov-renna, celle-qui-entend, enfant-aux-yeux-blancs, cendara, cendra, remutation]
 titre: Celle qui entend
-type: chapitre-roman
+type: roman-chapitre
 partie: I
 pov: Renna de Taldre
 chapitre: 2

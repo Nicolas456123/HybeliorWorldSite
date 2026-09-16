@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ilthara, ackerna]
 type: histoire
 status: canon

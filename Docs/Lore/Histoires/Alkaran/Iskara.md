@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, alkaran, nation]
 type: histoires
 status: canon

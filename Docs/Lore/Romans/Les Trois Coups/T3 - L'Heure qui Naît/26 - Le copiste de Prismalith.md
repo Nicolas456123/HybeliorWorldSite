@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-3, fenetre-monde, ysolde, copiste, prismalith, academie, tribunal-de-lumasar, dix-sept-cahiers, copie-de-prismalith, quatorze-pages-blanches, carte-trop-grande, epistemologie-de-la-carte, echo-sorin, fragment-3, battement-a-mes-os, la-traque]
 titre: Le copiste de Prismalith
-type: chapitre-roman
+type: roman-chapitre
 partie: III
 pov: Fenêtre-monde — Ysolde, archiviste (Académie de Prismalith)
 status: draft

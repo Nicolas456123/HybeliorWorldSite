@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-vaenor-sorne, inspecteurs-de-purete, marquage, registre-des-foyers, germe-edit-de-purete, germe-loi-du-sol]
 titre: huit — Le registre des foyers
-type: chapitre-roman
+type: roman-chapitre
 partie: III
 pov: Vaenor Sorne
 chapitre: 18

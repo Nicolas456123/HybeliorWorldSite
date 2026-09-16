@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, galenor, valoria]
 type: histoire
 status: canon

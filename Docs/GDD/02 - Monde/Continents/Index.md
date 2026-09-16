@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [monde, continents, index]
 type: index
 status: stub

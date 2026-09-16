@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, brumaria, cendara]
 type: histoire
 status: canon

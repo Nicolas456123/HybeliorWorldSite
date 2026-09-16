@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, endora]
 type: lore
 status: drafted

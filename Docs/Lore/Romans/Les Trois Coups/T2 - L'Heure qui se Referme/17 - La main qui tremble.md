@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, chapitre]
 titre: La main qui tremble
-type: chapitre-roman
+type: roman-chapitre
 partie: II
 pov: Vaenor Sorne
 chapitre: 13

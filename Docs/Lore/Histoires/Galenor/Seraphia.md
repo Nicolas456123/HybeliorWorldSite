@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, galenor, seraphia]
 type: histoire
 status: canon

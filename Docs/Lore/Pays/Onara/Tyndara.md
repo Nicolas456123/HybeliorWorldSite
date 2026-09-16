@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, pays, onara]
 type: lore
 status: drafted

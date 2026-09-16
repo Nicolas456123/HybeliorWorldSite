@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, pov-ombreth, chamane-de-memoire, alkaran, phase-4, guideur-dames, purge-naturelle, cedé-seule]
 titre: Les chanteurs d’Alkaran
-type: chapitre-roman
+type: roman-chapitre
 partie: I
 pov: Ombreth le Dernier-qui-Chante
 chapitre: 4

@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-1, fenetre-monde, guerre-de-lombre, victime, artisan-de-paix, sans-revendication, ceux-qui-ecoutent]
 titre: Sans revendication
-type: chapitre-roman
+type: roman-chapitre
 partie: I
 pov: Fenêtre-monde — une victime de la Guerre de l'Ombre
 status: draft

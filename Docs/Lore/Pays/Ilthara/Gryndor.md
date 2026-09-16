@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, pays, ilthara, gryndor]
 type: nation
 status: canon

@@ -20,7 +20,7 @@ En face, la vieille Orenn teillait la soie de brume sur son seuil, comme elle le
 
 «  Pour Galenor  », dit Mirathis.
 
-Orenn ne demanda pas qu’on lui réponde mieux. Gelinar avait compté deux Rêveurs-de-Cendre avant Mirathis  ; elle avait vu vieillir l’un et brûler l’autre, et elle avait cessé depuis longtemps de leur faire répéter leurs réponses.
+Orenn n’insista pas. Gelinar avait compté deux Rêveurs-de-Cendre avant Mirathis  ; elle avait vu vieillir l’un et brûler l’autre, et elle avait cessé depuis longtemps de leur faire répéter leurs réponses.
 
 «  Tu ne reviendras pas  », dit-elle enfin, et elle reprit son fil.
 
@@ -84,9 +84,9 @@ Halvec rit et claqua la langue à l’adresse du cheval.
 
 «  On dit qu’il y a eu, tout au début, avant les royaumes, avant les nombres, un endroit où le temps s’est cassé. Pas la terre  : le temps. Comme un pot qu’on lâche. Depuis, à cet endroit, les heures ne coulent pas droit. Des gens y entrent jeunes et en ressortent vieux. D’autres n’en ressortent pas, et on continue de les entendre, à midi précis, appeler quelqu’un qui est mort il y a des siècles.  » Halvec haussa les épaules, content de son effet. «  Des histoires de savants. Moi je livre des draps. Mais ça t’irait bien, ça, non  ? Un endroit où le temps ne tient plus.  »
 
-Mirathis ne répondit pas tout de suite. Devant les naseaux du cheval, la route s’enfonçait dans le soir, pâle, sans un feu nulle part. Une chose que iel remuait depuis dix ans sans trouver par où la prendre trouva sa forme là, sur cette carriole d’étoffes, entre un homme qui livrait des draps et une bête fatiguée.
+Mirathis ne répondit pas tout de suite. Devant les naseaux du cheval, la route s’enfonçait dans le soir, pâle, sans un feu nulle part. Une idée qu’iel remuait depuis dix ans sans trouver par où la prendre trouva sa forme là, sur cette carriole d’étoffes, entre un homme qui livrait des draps et une bête fatiguée.
 
-«  Ce qui s’est cassé une fois peut se casser une autre fois  », dit Mirathis, lentement.
+«  Ce qui s’est cassé une fois peut se casser encore  », dit Mirathis, lentement.
 
 «  Comment ça  ?
 
@@ -122,7 +122,7 @@ Iel n’en parla à personne. Marcher ne mettait pas une lieue entre iel et le m
 
 Au dernier relais avant le grand portail de la marche, celui qui sauterait jusqu’à Galenor et qu’on ne pouvait pas contourner davantage, l’auberge était tenue par une Veilleuse à la retraite. Mirathis le sut à ses yeux. Les Veilleurs de Vytharia gardent ce regard nu toute leur vie, même loin du pays  : on ne leur apprend pas à voir le vrai, on leur arrache l’illusion.
 
-La salle basse sentait le chou et la graisse de mouton. Un feu de tourbe fumait dans l’âtre, trois rouleurs mangeaient au fond sans se parler, et la chaleur des dalles montait dans les genoux. Mirathis resta un long moment les mains autour du bol avant d’y toucher  : c’était la première fois depuis la marche que iel avait chaud aux doigts.
+La salle basse sentait le chou et la graisse de mouton. Un feu de tourbe fumait dans l’âtre, trois rouleurs mangeaient au fond sans se parler, et la chaleur des dalles montait dans les genoux. Mirathis resta un long moment les mains autour du bol avant d’y toucher  : c’était la première fois depuis Gelinar qu’iel avait chaud aux doigts.
 
 La Veilleuse servait la soupe sans un mot de trop. Quand elle posa le bol devant Mirathis, elle s’arrêta, le considéra, et parla dans le vieux vytharen des hauteurs de Cystara.
 
@@ -146,12 +146,12 @@ La Veilleuse le regarda longtemps. Dehors, l’arche luisait dans la nuit, tranq
 
 Mirathis dormit ce qu’iel dormait toujours  : un peu. Le rêve vint, gagna une marche, et au matin la montagne était plus proche et plus noire, et le silence vide, dans le rêve, prenait plus de place. Iel but la moitié de ce qui restait de grise, remercia la Veilleuse d’un signe qu’elle rendit sans un mot, et marcha jusqu’à l’arche.
 
-Devant elle, iel s’arrêta, comme devant chaque portail depuis Gelinar, et pensa ce qu’iel pensait chaque fois et ne dirait jamais à personne  :
+Devant l’arche, iel s’arrêta, comme devant chaque portail depuis Gelinar, et pensa ce qu’iel pensait chaque fois et ne dirait jamais à personne  :
 
 *Pardon. Tu ne sais pas encore. Moi je sais, et je n’ai aucun moyen de te le dire  : tu n’as rien pour entendre, rien que des mains. Porte-moi une fois de plus. Ce ne sera pas moi.*
 
-Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire  ; et dans l’instant sans durée où iel n’exista pas, quelque chose se pencha sur ellui. Iel crut le sentir, sans corps pour sentir, comment savoir. C’était doux. C’était la douceur qu’on met à porter des millions de gens par jour sans en distinguer un seul, et ce matin-là elle en portait un qui la voyait mourir toutes les nuits depuis dix ans et qui s’en allait vers elle, sans savoir encore si sa main à ellui serait celle qui déchirerait, ou seulement une main posée dans l’image au moment où tout céderait.
+Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire  ; et dans l’instant sans durée où iel n’exista pas, quelque chose se pencha sur ellui. Iel crut le sentir, sans corps pour sentir, comment savoir. C’était doux. La même douceur pour tous, des millions de gens chaque jour, sans en distinguer un seul, et ce matin-là elle en portait un qui la voyait mourir toutes les nuits depuis dix ans et qui s’en allait vers elle, sans savoir encore si sa main à ellui serait celle qui déchirerait, ou seulement une main posée dans l’image au moment où tout céderait.
 
-Iel ressortit à Galenor, sur la pierre bleue d’Aethranor, dans une ville dure où le ciel commençait au ras des toits, sans rien pour l’arrêter.
+Iel ressortit à Galenor, sur la pierre bleue d’Aethranor, dans une ville dure et claire, où le ciel tombait droit sur les toits.
 
 Et ce matin-là, ce qui tenait le monde porta un dormeur de plus d’un continent à l’autre. Il le prit, le défit, le rendit entier, comme il le faisait pour tous et depuis toujours  ; et il ne reconnut pas, dans cette âme qu’il venait de rendre, celle qui comptait depuis trois automnes les marches restant entre elle et une montagne noire, très loin au sud, dont il ne savait rien.

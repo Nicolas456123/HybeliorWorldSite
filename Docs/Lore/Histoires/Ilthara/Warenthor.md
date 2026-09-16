@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ilthara, warenthor]
 type: histoire
 status: canon

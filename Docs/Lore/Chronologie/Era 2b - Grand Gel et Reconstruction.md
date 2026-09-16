@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, ère, grand-gel, climata, refonte-2026-05, wildlands]
 type: lore
 status: drafted

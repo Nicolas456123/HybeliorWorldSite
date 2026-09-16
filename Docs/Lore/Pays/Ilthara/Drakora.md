@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, pays, ilthara, drakora]
 type: nation
 status: canon

@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-5, pov-kessane, gryndor, failles-mobiles, acceleration, phrase-canon, cahier, convergence, lirenn, cecite-neuve]
 titre: La Plaine qui se troue
-type: chapitre-roman
+type: roman-chapitre
 partie: V
 pov: Kessane de la Forge-Basse
 chapitre: 31

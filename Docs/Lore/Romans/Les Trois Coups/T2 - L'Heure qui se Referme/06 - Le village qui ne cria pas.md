@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, voix-deportees, faille-silencieuse, nysaria, engloutissement, fenetre-monde]
 titre: Le village qui ne cria pas
-type: chapitre-roman
+type: roman-chapitre
 partie: I
 pov: Le chœur des Voix Déportées (irruption incarnée : un villageois de Nysaria basculé hors de son temps)
 status: draft

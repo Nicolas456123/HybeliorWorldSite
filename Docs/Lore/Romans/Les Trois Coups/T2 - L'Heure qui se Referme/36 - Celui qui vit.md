@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-vaenor, inspecteurs-de-purete, coupure, survivant, fissure, tavel, temoin-exterieur]
 titre: sept — Celui qui vit
-type: chapitre-roman
+type: roman-chapitre
 partie: IV
 pov: Vaenor Sorne
 chapitre: 27

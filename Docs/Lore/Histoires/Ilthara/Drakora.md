@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ilthara, drakora]
 type: histoire
 status: canon

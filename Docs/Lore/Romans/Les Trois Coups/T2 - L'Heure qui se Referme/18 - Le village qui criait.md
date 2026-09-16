@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-2, chapitre, vaenor-sorne, phase-3, inspecteurs-de-purete]
 titre: Le village qui criait
-type: chapitre-roman
+type: roman-chapitre
 partie: II
 pov: Vaenor Sorne
 chapitre: 14

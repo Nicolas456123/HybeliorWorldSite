@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, pays, galenor, kharazir]
 type: nation
 status: canon

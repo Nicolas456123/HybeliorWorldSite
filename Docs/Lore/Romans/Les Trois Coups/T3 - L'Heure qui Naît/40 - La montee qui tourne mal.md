@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-4, fenetre-monde, pelerin, arkhen, ignis-aeternum, mont-cendra, cendara, spirales-branchues, flammes-anciennes, silhouettes-de-la-genese, eveil, eldoria, flamara, prophete-vharok, guerre-de-l-ombre, le-foyer, la-pulse, danger-sans-visage, ce-qui-remonte, seuil-partie-5]
 titre: La montée qui tourne mal
-type: chapitre-roman
+type: roman-chapitre
 partie: IV
 pov: Fenêtre-monde — un pèlerin d'Arkhen (Mont Cendra)
 status: draft

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ulinor]
 type: histoire
 status: drafted

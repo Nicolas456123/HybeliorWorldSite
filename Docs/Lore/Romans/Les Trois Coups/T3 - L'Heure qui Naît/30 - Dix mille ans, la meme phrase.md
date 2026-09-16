@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-3, pov-sanne, fil-documentaire, convergence-documentaire, fragment-3, prismalith, ysolde, cahier-de-kessane, copie-d-olven, journal-de-thessan, copie-de-prismalith, noyau-incorruptible, la-carte-a-moitie-blanche, la-traque]
 titre: Dix mille ans, la même phrase
-type: chapitre-roman
+type: roman-chapitre
 partie: III — La traque
 pov: Sanne
 chapitre: 30

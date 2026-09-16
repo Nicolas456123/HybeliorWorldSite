@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-secondaire, guetteur, faille, gryndor, pretre-de-la-colere, etranger-des-heures, rumeur, vengeance-cosmique, echo-vorath]
 titre: huit — Celui qui n’a pas vu
-type: chapitre-roman
+type: roman-chapitre
 partie: IV
 pov: Merric le guetteur (témoin extérieur, aux abords de Gryndor)
 chapitre: 28

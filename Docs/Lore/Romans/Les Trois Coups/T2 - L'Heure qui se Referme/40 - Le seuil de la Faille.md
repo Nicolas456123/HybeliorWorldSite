@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-voix-deportees, mangeurs-de-temps, phase-3, seuil-de-la-faille, etranger-des-heures, gryndor]
 titre: Le seuil de la Faille
-type: chapitre-roman
+type: roman-chapitre
 partie: IV
 pov: Le chœur des Voix Déportées (une Voix profondément déportée, peut-être celle du Tisse au seuil ; référent manquant)
 status: draft

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, pays, galenor, valoria]
 type: nation
 status: canon

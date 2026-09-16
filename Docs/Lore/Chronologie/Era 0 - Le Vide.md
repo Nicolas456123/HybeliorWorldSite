@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, ère, vide, éternels, refonte-2026-05]
 type: lore
 status: drafted

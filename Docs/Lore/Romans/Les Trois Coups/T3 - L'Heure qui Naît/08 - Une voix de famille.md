@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-1, pov-sanne, fil-documentaire, cahier-de-kessane]
 titre: Une voix de famille
-type: chapitre-roman
+type: roman-chapitre
 partie: I
 pov: Sanne
 status: draft

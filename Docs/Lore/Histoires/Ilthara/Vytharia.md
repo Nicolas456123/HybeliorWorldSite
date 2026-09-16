@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ilthara, vytharia, lunasar, mirathi]
 type: histoire
 status: canon

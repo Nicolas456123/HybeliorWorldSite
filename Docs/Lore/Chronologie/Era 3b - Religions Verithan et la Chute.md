@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, ère, religions, verithan, étudiant, refonte-2026-05]
 type: lore
 status: drafted

@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-vaenor-sorne, la-traque, duel-vaenor-kessane, concordances]
 titre: sept — L’enfant qui n’a pas été déclarée
-type: chapitre-roman
+type: roman-chapitre
 partie: III
 pov: Vaenor Sorne
 chapitre: 17

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, galenor, ventera]
 type: histoire
 status: canon

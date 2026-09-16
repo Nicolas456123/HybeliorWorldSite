@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-1, pov-sanne, fraternite-mains-vides, fil-documentaire]
 titre: La relique de maison
-type: chapitre-roman
+type: roman-chapitre
 partie: I
 pov: Sanne
 status: draft

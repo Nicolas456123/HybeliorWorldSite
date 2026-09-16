@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, galenor, trinoria]
 type: histoire
 status: canon

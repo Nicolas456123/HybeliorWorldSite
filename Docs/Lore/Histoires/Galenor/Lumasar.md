@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, galenor, lumasar]
 type: histoire
 status: canon

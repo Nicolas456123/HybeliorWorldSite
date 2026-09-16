@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-kessane, cahier-de-copie, journal-de-thessan, coupure-du-lien, retournement, guilde-forgerons-non-lies]
 titre: neuf — Le cahier comme outil
-type: chapitre-roman
+type: roman-chapitre
 partie: III
 pov: Kessane de la Forge-Basse
 chapitre: 19

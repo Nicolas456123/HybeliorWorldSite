@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, ère, lien, empires, fracture, refonte-2026-05]
 type: lore
 status: drafted

@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-2, pov-kessane, coupure-du-lien, phase-1, cahier-de-copie]
 titre: Ce qui va faire mal
-type: chapitre-roman
+type: roman-chapitre
 partie: II
 pov: Kessane de la Forge-Basse
 chapitre: 9

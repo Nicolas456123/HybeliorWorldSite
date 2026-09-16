@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-vaenor, inspecteurs-de-purete, edit-de-purete, apaisement-preventif, famille, refus, fissure, germe-loi-du-sol]
 titre: Les familles
-type: chapitre-roman
+type: roman-chapitre
 partie: IV
 pov: Vaenor Sorne
 chapitre: 30

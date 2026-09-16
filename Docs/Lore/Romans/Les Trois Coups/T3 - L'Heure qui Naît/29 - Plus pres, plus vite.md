@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-3, fenetre-monde, guerre-de-lombre, victime, cartographe, gardien-de-savoir, sans-revendication, la-traque]
 titre: Plus près, plus vite
-type: chapitre-roman
+type: roman-chapitre
 partie: III
 pov: Fenêtre-monde — une victime de la Guerre de l'Ombre
 status: draft

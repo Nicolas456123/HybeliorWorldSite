@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, galenor, solena]
 type: histoire
 status: canon

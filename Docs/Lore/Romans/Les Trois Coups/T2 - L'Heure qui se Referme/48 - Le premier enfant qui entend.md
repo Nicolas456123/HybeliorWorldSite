@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, coda, pov-exterieur, remutation, enfant-qui-entend, rumeur, peur-et-espoir, filiation-ambigue, prepare-37]
 titre: Le premier enfant qui entend
-type: chapitre-roman
+type: roman-chapitre
 partie: coda
 pov: Marenn, une femme du village (POV extérieur — les adultes découvrent qu'un enfant entend de nouveau ; rumeur, peur et espoir mêlés ; sans le chœur)
 status: draft

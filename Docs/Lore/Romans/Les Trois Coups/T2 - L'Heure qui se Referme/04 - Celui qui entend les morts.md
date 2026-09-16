@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, pov-ombreth, chamane-de-memoire, errants-sans-corps, phase-2, voix-deportees]
 titre: Celui qui entend les morts
-type: chapitre-roman
+type: roman-chapitre
 partie: I
 pov: Ombreth le Dernier-qui-Chante
 chapitre: 3

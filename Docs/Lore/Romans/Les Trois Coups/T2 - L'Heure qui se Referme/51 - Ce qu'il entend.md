@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, coda, voix-deportees, enfant-qui-entend, remutation, echo-t1, motif-titre, cloture-trilogie, perception-jamais-nommee, dernier-souffle]
 titre: Ce qu’il entend
-type: chapitre-roman
+type: roman-chapitre
 partie: coda
 pov: Le chœur des Voix Déportées (dernière irruption absolue — le chœur s'est tu ; il ne reste qu'une seule voix neuve, un enfant né après la refermeture, enfin situé dans le temps)
 status: draft

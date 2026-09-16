@@ -1,7 +1,7 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-3, pov-sanne, la-traque, route-du-sud, prismalith, cahier-de-kessane, fragment-3, le-depot, echo-sorin, une-verite-trop-grande, la-jeune-passeuse, renoncement]
 titre: Là où il pourra se passer d’elle
-type: chapitre-roman
+type: roman-chapitre
 partie: III — La traque
 pov: Sanne
 chapitre: 25

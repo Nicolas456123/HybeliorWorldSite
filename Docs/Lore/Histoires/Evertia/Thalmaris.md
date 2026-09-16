@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, evertia]
 type: lore
 status: drafted

@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [lore, histoire, ilthara, pyrtara]
 type: histoire
 status: canon
