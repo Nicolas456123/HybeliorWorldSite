@@ -43,7 +43,7 @@ Sera passa la première. Née la première, elle passait la première.
 
 Trente ans plus tard, elle se souvenait encore de la fraîcheur du bois sous ses paumes, de l’odeur de terre humide et de sève, du froissement des robes quand les préceptrices s’agenouillèrent.
 
-Et cela vint. Tout de suite, sans effort. Une fenêtre s’ouvrit quelque part en elle, et tout l’air du monde y entra d’un coup. Et l’Arbre fut là. Pas le bois  : l’Arbre, la longue patience verte de mille ans. Sous l’Arbre, les autres racines. Sous les racines, la ville. Autour d’elle, les préceptrices comme des lampes chaudes dans le noir, chacune un foyer distinct de présence. Et plus loin, derrière elles, quelque chose d’immense et de doux qui la tenait sans la serrer, qui l’avait toujours tenue sans qu’elle le sût, et qui, à cet instant, se retourna vers elle et la reconnut.
+Et cela vint. Tout de suite, sans effort. Une fenêtre s’ouvrit quelque part en elle, et tout l’air du monde y entra d’un coup. L’Arbre, ensuite. Pas le bois  : l’Arbre, la longue patience verte de mille ans. Sous l’Arbre, les autres racines. Sous les racines, la ville. Autour d’elle, les préceptrices comme des lampes chaudes dans le noir, chacune un foyer distinct de présence. Et plus loin, derrière elles, quelque chose d’immense et de doux qui la tenait sans la serrer, qui l’avait toujours tenue sans qu’elle le sût, et qui, à cet instant, se retourna vers elle et la reconnut.
 
 «  Elle pleure  », murmura une voix quelque part.
 
@@ -119,7 +119,7 @@ Et elle la regarda. C’était le pire, et elle le fit quand même, avec l’att
 
 Le soleil de fin de matinée tapait sur les pavés. Cela sentait l’argile mouillée de l’étal du potier et, plus loin, la friture d’une échoppe. Le marchand tenait son panier à bout de bras pour en montrer le fond  ; Ísae y passa la main, tâta l’osier à l’endroit de l’anse, secoua la tête, et il baissa son prix. Ísae savait acheter. Elle avait toujours su acheter.
 
-La lettre était sur elle. Prise en descendant, ce matin-là, sans se le dire vraiment, pliée contre la poitrine, entre la chemise et le vieux gilet de laine. Sous la laine, le papier faisait un angle dur contre sa peau, à trente pas du carré de tissu clair, sans que l’un des deux le sût.
+La lettre était sur elle. Elle l’avait prise en descendant, ce matin-là, sans se le dire vraiment, pliée contre la poitrine, entre la chemise et le vieux gilet de laine. Sous la laine, le papier faisait un angle dur contre sa peau, à trente pas du carré de tissu clair, sans que l’un des deux le sût.
 
 Son panier payé, Ísae s’en alla vers le haut de la place, du pas tranquille de qui rentre chez soi. Elle ne s’était pas retournée  ; elle n’avait aucune raison de le faire.
 
@@ -171,7 +171,7 @@ Toute sa jeunesse, elle voulut donner à Ísae ce qu’elle avait de trop, et d�
 
 *Aucune justice.*
 
-La pensée qui la mènerait au Mont était née là  ; elle le comprendrait des années plus tard. Pas dans les livres. Pas dans le Traité de Verithan, qu’elle ne lirait que bien plus tard et qui ne ferait que donner une charpente à ce qu’elle savait déjà dans sa chair. Elle était née un soir de ses dix-sept ans, les mains dans celles de sa sœur, le jour où elle avait découvert que la plus belle chose du monde coupait l’humanité en deux, et que personne, jamais, ne recoudrait cela.
+La pensée qui la mènerait au Mont était née là  ; elle le comprendrait des années plus tard. Pas dans les livres. Pas dans le Traité de Verithan, qu’elle ne lirait que bien plus tard et qui ne ferait que donner une charpente à ce qu’elle savait déjà dans sa chair. Elle datait d’un soir de ses dix-sept ans, les mains dans celles de sa sœur, du jour où elle avait découvert que la plus belle chose du monde coupait l’humanité en deux, et que personne, jamais, ne recoudrait cela.
 
 ---
 
