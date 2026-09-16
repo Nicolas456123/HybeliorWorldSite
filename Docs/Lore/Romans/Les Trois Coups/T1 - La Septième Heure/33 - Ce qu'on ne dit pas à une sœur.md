@@ -83,7 +83,7 @@ Elle écrivit.
 
 *Je t’écris d’un endroit que je ne peux pas te nommer, un soir que je ne peux pas te dater, et tu ne recevras sans doute jamais cette lettre. Je le sais en la commençant. Je la commence quand même  : il y a des choses qu’on doit dire même à personne, pour savoir qu’on les a portées jusqu’au bout.*
 
-Sa main allait. Le froid entrait dans ces articulations d’Orvane où l’on disait autrefois qu’on sentait venir le changement de temps et la pensée des êtres aimés, et qui ne lui rapportaient plus, depuis des années, que la douleur ordinaire de l’âge. Elles tenaient la plume. Elles savaient encore faire cela.
+Sa main allait. Le froid entrait dans ses doigts et s’y installait comme chez lui. Ils tenaient la plume quand même. Ils savaient encore faire cela.
 
 *Tu te souviens de la Salle des Racines. Bien sûr que tu t’en souviens. Nous n’en avons jamais reparlé  ; nous avons su toutes les deux, ce matin-là, qu’il valait mieux ne pas en reparler, et nous avons tenu cet accord trente ans. Je le romps ce soir. Pardonne-moi. Je n’ai plus le temps de la pudeur.*
 

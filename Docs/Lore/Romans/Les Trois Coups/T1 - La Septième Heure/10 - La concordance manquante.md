@@ -123,7 +123,7 @@ Il approcha les quarante pages des braises et ne les lâcha pas tout de suite.
 
 «  Un mensonge, on le réfute, dit-il à voix basse, à la pièce vide. Une vérité, il n’y a qu’à ne pas la laisser exister.  »
 
-Elle avait écrit ces pages en croyant qu’un texte assez vrai finit par forcer la main de qui le lit. Toute sa vie d’espionne tenait là-dessus. Sans qu’elle le sût jamais, il allait lui prouver le contraire.
+Elle avait écrit ces pages en croyant qu’un texte assez vrai finit par forcer la main de qui le lit. Sans qu’elle le sût jamais, il allait lui prouver le contraire.
 
 Le cordon prit le premier, siffla, devint un fil de braise. Puis les coins se recroquevillèrent, et l’odeur monta, âcre, avec quelque chose de sucré dessous, la colle du cahier peut-être. Il les tint jusqu’à ce que la flamme lui vînt aux doigts, puis les lâcha dans le brasero et regarda l’écriture serrée d’officier noircir page par page  : les poternes murées, les contre-attaques, la trente-troisième page où elle avait deviné son propre argument, la dernière où elle avait tremblé. La chaleur lui séchait le visage. Il ne recula pas. Quand il ne resta plus qu’un tas noir et friable, il frotta ses doigts l’un contre l’autre, lentement, pour en faire tomber la cendre. Puis il garda les mains au-dessus des braises un moment encore. La pièce était froide depuis le début de la nuit et il ne s’en était pas aperçu.
 

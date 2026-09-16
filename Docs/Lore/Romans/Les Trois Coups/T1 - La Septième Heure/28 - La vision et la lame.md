@@ -23,7 +23,7 @@ L’Étudiant n’était pas au feu.
 
 Il n’y était jamais tout à fait. Sa place était à la lisière du cercle de lumière, là où la chaleur arrivait encore et où le visage restait dans l’ombre, et de là il regardait les flammes comme on regarde une chose qu’on connaît trop pour avoir besoin de la voir. Ce soir, il était plus loin  : presque hors du campement, sur une pierre au bord du col, tourné vers le sud, vers la pente qui plongeait dans le noir bleu et remontait au loin en crêtes que l’obscurité mangeait. Il ne bougeait pas. Sera avait mis des mois à ne plus trouver cette immobilité inquiétante. C’était celle d’un homme qui ne demande plus à son corps que de rester là le temps qu’il faudra.
 
-Se lever lui coûta. Le froid s’était mis dans ses articulations, à l’endroit où les vieilles préceptrices d’Orvane prétendaient sentir venir le changement de temps et la pensée des gens qu’on aime  ; les siennes ne lui rapportaient plus depuis longtemps que la douleur ordinaire. D’un geste, elle jeta sa couverture sur ses épaules et alla vers la pierre.
+Se lever lui coûta. Le froid s’était mis dans ses doigts et ne lui rapportait rien d’autre que du froid. D’un geste, elle jeta sa couverture sur ses épaules et alla vers la pierre.
 
 Elle ne s’était pas dit qu’elle irait lui parler. Elle s’aperçut, en marchant, qu’elle y allait depuis des jours.
 

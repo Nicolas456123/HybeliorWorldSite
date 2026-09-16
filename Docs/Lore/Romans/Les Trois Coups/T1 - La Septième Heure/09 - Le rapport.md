@@ -199,7 +199,7 @@ Ce ne fut que plus tard, seule sur la route, que la chose la trouva  ; la seule
 
 Sur le chemin, elle s’arrêta. La nuit sentait la terre mouillée et le bois coupé. En contrebas, les lampes de Celethor tenaient la vallée en pointillé  ; très haut au nord, une cité volante portait ses trois feux fixes comme une constellation posée trop bas. Tout cela marchait. Tout cela avait marché la veille et marcherait le lendemain.
 
-Elle avait cru qu’un texte assez vrai finit par forcer la main de qui le tient. C’était faux. Un homme pouvait lire jusqu’au bout, comprendre, et brûler.
+Elle avait passé quinze ans à croire qu’on ne peut pas montrer une chose à quelqu’un et la lui faire oublier ensuite. On pouvait. Il suffisait d’un brasero et d’une nuit sans témoin.
 
 Ce fut là, elle le comprit bien plus tard, qu’elle cessa d’être une infiltrée qui avait changé d’avis. Admettre qu’ils avaient raison ne lui avait coûté qu’une carrière  ; cela, c’était de la logique. Mais sur cette route, en apprenant qu’on avait brûlé son rapport, elle tenait la démonstration vivante de la thèse qu’elle avait mis deux ans à ne pas pouvoir réfuter. Ils brûlaient la vérité pour garder la chaîne. Peut-être cela méritait-il qu’on tire sur le fil. *Peut-être.* Elle garda le mot, elle le garderait toujours, comme une réserve qu’un officier n’engage pas. Elle ne disait jamais *sûrement*. Eux non plus ne le disaient jamais, et c’est ce qui lui rendrait leur compagnie possible.
 
