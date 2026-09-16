@@ -55,7 +55,7 @@ Ollam ne bougea pas tout de suite. Puis il fit une chose qui n’était d’aucu
 
 *Moi, j’ai posé le blanc.*
 
-Vorath aurait dû le reprendre. Un frère ne montre pas sa pierre, fût-ce d’un geste, fût-ce à celui qu’elle concerne. Il ne le reprit pas. L’Abbé lui revint, ce matin-là, dans l’ombre de la Salle, et ce qu’il avait cru voir passer sur ce vieux visage  : une pitié, chez un homme qui avait rendu sa voix au silence quarante ans plus tôt. Ollam ne cherchait pas à le faire pencher d’un côté  ; il voulait qu’il ne portât pas les trois jours tout seul, et c’était tout. Vorath inclina la tête, très lentement. Il referma les doigts sur le rien qu’il tenait et porta le poing contre sa poitrine  : reçu, et merci.
+Vorath aurait dû le reprendre. Un frère ne montre pas sa pierre, fût-ce d’un geste, fût-ce à celui qu’elle concerne. Il ne le reprit pas. L’Abbé lui revint, ce matin-là, dans l’ombre de la Salle, et ce qu’il avait cru voir passer sur ce vieux visage  : une pitié, chez un homme qui avait rendu sa voix au silence quarante ans plus tôt. Ollam ne cherchait pas à le faire pencher d’un côté  ; il voulait qu’il ne portât pas les trois jours tout seul, et c’était tout. Vorath inclina la tête, très lentement. Puis il ferma la main vide et l’appuya contre sa poitrine  : reçu, et merci.
 
 Ollam se leva et sortit dans la nuit, du côté du quai. Vorath resta seul avec ce qu’il n’aurait pas dû savoir  : qu’au moins une pierre, sur la dalle, était blanche.
 
