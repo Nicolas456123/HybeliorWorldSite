@@ -136,4 +136,4 @@ Quand ce soir vint, des années plus tard, il descendit sans hésiter  : un esc
 
 On ne l’avait pas convaincu. On ne le convaincrait jamais tout à fait, et ce serait son tourment, peut-être son honneur  : douter jusqu’au bout et y aller quand même. Simplement, à dix-neuf ans, un soir de fin d’hiver, il avait compris une phrase, et six ans de méthode n’avaient pas suffi à la défaire.
 
-Loin au sud, à une distance qu’aucun cours de l’Académie n’apprenait à mesurer, dormait une montagne noire dont le nom ne lui disait rien encore. Cette nuit-là, Thessan ne connaissait que la salle basse, quatre lampes dont deux éteintes, et trois mots qu’il venait de dire tout haut.
+Sur les cartes de la salle basse, une montagne noire portait un nom qui ne lui disait rien. Il ne la regarda pas. Cette nuit-là, Thessan ne connaissait que quatre lampes dont deux éteintes, et trois mots qu’il venait de dire tout haut.
