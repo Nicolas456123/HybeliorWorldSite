@@ -10,188 +10,190 @@ status: draft
 
 # Chapitre dix-huit — Le registre des foyers
 
-La circulaire était arrivée par le même courrier que le sel, et c’était, songea Vaenor, une façon assez juste de la présenter.
+La circulaire arriva par le même courrier que le sel.
 
-Elle l’avait lue dans la salle basse du poste de Vellemont, à la lumière d’une chandelle que le jeune tenait trop près, si bien que la cire gouttait sur le coin du feuillet et qu’elle avait dû l’écarter, deux fois, d’un revers d’ongle, sans un mot. Deux paragraphes. Le sceau de la Préfecture des Cendres, pas celui d’un préfet nommé : le sceau de la maison, impersonnel, celui qu’on appose quand on ne veut pas qu’un ordre ait un auteur. En tête, trois mots qu’elle relut : *Du registre des foyers.* Et dessous, dans la langue plate des bureaux qui ne dit jamais ce qu’elle fait mais le fait, la chose neuve : que là où un sujet aurait été signalé, détecté ou apaisé, l’Inspecteur porterait désormais au registre non plus le seul nom, mais *le foyer* : la maison, sa porte, ceux qui l’habitent ; et qu’un signe serait apposé sur ledit foyer, aux fins de suivi.
+Vaenor la lut dans la salle basse du poste de Vellemont, à la lumière d’une chandelle que le jeune tenait trop près  ; la cire gouttait sur le coin du feuillet et elle dut l’écarter deux fois, d’un revers d’ongle, sans rien dire. Deux paragraphes. Le sceau de la Préfecture des Cendres, et non celui d’un préfet nommé  : le sceau de la maison, celui qu’on appose quand on ne veut pas qu’un ordre ait un auteur. En tête, trois mots qu’elle relut  : *Du registre des foyers.* Dessous, dans la langue plate des bureaux, la chose neuve  : là où un sujet aurait été signalé, détecté ou apaisé, l’Inspecteur porterait désormais au registre non plus le seul nom, mais le *foyer*, c’est-à-dire la maison, sa porte et ceux qui l’habitent  ; et un signe serait apposé sur ledit foyer, aux fins de suivi.
 
-Le jeune lisait par-dessus son épaule. Terrin, c’était son nom, il avait la veste grise encore raide de neuf, l’œil sûr, et il finit la lecture avant elle parce qu’il lisait comme on court, sans peser.
+Le jeune lisait par-dessus son épaule. Terrin, c’était son nom, une veste grise qui n’avait pas encore pris le pli des épaules  ; il lisait vite, comme on court, sans peser, et il finit avant elle.
 
-« Enfin », dit-il.
+«  Enfin  », dit-il.
 
-Vaenor ne releva pas tout de suite. D’un geste lent, elle plia le feuillet le long de son pli, le lissa du plat de la main, et le posa bien à plat sur la table, parallèle au bord. Puis :
+Vaenor plia le feuillet le long de son pli, le lissa du plat de la main et le posa sur la table, parallèle au bord. Puis  :
 
-« Enfin quoi ?
+«  Enfin quoi  ?
 
-— Enfin la maison. » Terrin avait un sourire, celui d’un homme à qui l’on vient de confirmer qu’il avait raison depuis le début. « On courait après des noms. Un nom, ça marche, ça se déplace, ça meurt et vous voilà repartis à zéro sur le suivant. Une maison, ça ne bouge pas. On la marque, on la connaît, le prochain qui passe la lit d’un coup d’œil. » Il fit claquer ses doigts, doucement, comme on désigne une évidence. « Propre.
+— Enfin la maison.  » Terrin souriait comme un homme à qui l’on vient de donner raison. «  On courait après des noms. Un nom, ça marche, ça se déplace, ça meurt, et vous voilà repartis à zéro sur le suivant. Une maison, ça ne bouge pas. On la marque, on la connaît, le prochain qui passe la lit d’un coup d’œil.  » Il fit claquer ses doigts, doucement. «  Propre.
 
-— Propre, répéta Vaenor. »
+— Propre  », répéta Vaenor.
 
-Un instant, elle laissa le mot tourner. C’était un mot qu’elle employait elle-même, elle le savait, elle l’employait pour l’ouvrage bien fait, la mise au repos sans un murmure dans le bourg, le linge en ordre : *propre* était, dans sa bouche à elle, le plus haut compliment qu’un métier pût mériter. L’entendre dans celle de Terrin, appliqué à ceci, lui fit l’effet d’entendre un mot de sa langue prononcé avec un accent qui n’était pas le sien, où chaque son était juste et l’ensemble faux.
+Elle laissa le mot tourner. C’était le sien. Elle le disait d’un ouvrage bien fait, d’une mise au repos sans un murmure dans le bourg, d’un linge en ordre  ; dans sa bouche à elle, on ne disait pas mieux d’un ouvrage. Dans celle de Terrin, appliqué à ceci, il ne sonnait pas juste, et elle mit un moment à trouver où.
 
-« Vous trouvez ça propre.
+«  Vous trouvez ça propre.
 
-— Pas vous ? » Il ne cherchait pas à la défier ; il était sincère, et c’était pire. « Regardez la circulaire, Inspectrice. Elle ne demande rien de plus que ce que vous faites déjà, en mieux rangé. Vous, vous tenez tout ça là-dedans. » Il désigna, du menton, la tempe de Vaenor, puis le carnet contre son cœur. « Vous savez quelle maison a donné un Tisse, quelle route mène à laquelle, qui protège qui. Vous le portez dans la tête et dans votre carnet, et le jour où vous tomberez de cheval, tout ça tombe avec vous. La circulaire vous demande seulement de le sortir de votre tête et de le mettre sur la porte. Pour que ça ne meure pas avec vous. » Il eut un petit rire. « C’est efficace, voilà tout. Je ne vois pas ce qu’il y a de—
+— Pas vous  ?  » Il ne la défiait pas. Il était sincère, ce qui était pire. «  Regardez la circulaire, Inspectrice. Elle ne demande rien de plus que ce que vous faites déjà, en mieux rangé. Vous, vous tenez tout ça là-dedans.  » Du menton il désigna la tempe de Vaenor, puis le carnet contre son cœur. «  Vous savez quelle maison a donné un Tisse, quelle route mène à laquelle, qui protège qui. Vous le portez dans la tête et dans votre carnet, et le jour où vous tomberez de cheval, tout ça tombe avec vous. On vous demande seulement de le sortir de votre tête et de le mettre sur la porte. Pour que ça ne meure pas avec vous.  » Il eut un petit rire. «  C’est efficace, voilà tout. Je ne vois pas ce qu’il y a de—
 
-— Le nom, coupa Vaenor, du même ton bas, celui du temps qu’il fait, n’était pas là par paresse. »
+— Le nom n’était pas là par paresse  », coupa Vaenor, sans monter d’un ton.
 
 Terrin s’arrêta.
 
-« Nous portions le nom, poursuivit-elle, parce que le mal est dans le sang d’un homme, non dans les murs qui l’abritent. Un Tisse a une maison comme il a un chapeau ; on ne pend pas le chapeau à sa place. Vous voulez marquer la porte. Réfléchissez à ce que porte une porte. » Elle le regarda, et elle vit qu’il ne comprenait pas la question, qu’il la prenait pour une figure de rhétorique. « Une porte, ça n’est jamais habité par une seule personne. »
+«  Nous portions le nom parce que le mal est dans le sang d’un homme. Il n’est pas dans ses murs.  » Elle le regarda et vit qu’il prenait cela pour une façon de parler. «  Vous voulez peindre la porte. Réfléchissez à ce qu’il y a derrière une porte. Il n’y a jamais une seule personne.  »
 
 *
 
-Le lendemain, il l’apprit, et il l’apprit mal, parce que c’est toujours mal qu’on apprend ces choses-là : non par une leçon, mais par un visage.
+Le lendemain, ils montèrent à la dernière maison du bourg.
 
-La maison était au bout de Vellemont, la dernière avant les prés, une maison basse de torchis avec un appentis où pendaient des herbes, et Vaenor la connaissait déjà : elle y était montée trois mois plus tôt pour un signalement, un garçon, sept ans, Phase 1 déjà franche, qui suivait des yeux des choses au plafond et parlait à une place vide au bout de la table. De cette visite, elle se souvenait de la place vide. Surtout, il lui restait la mère, une femme jeune encore, les mains rouges de lessive, qui n’avait ni menti ni caché, et qui avait seulement demandé, quand Vaenor était repartie ce jour-là sans le prendre, car il tenait encore debout, et on ne prend pas un enfant qui tient debout, la fiole est pour la fin, jamais pour le début, c’était sa règle ; la mère avait seulement demandé : *combien de temps ?* Et Vaenor avait répondu la vérité, parce qu’elle ne mentait pas : *quelques mois. Peut-être moins.*
+Elle était au bout de Vellemont, la dernière avant les prés, basse, en torchis, avec un appentis où pendaient des herbes. Vaenor la connaissait  : elle y était venue trois mois plus tôt pour un signalement. Un garçon de sept ans, Phase 1 déjà franche, qui suivait des yeux des choses au plafond et parlait à une place vide au bout de la table. C’était la place vide qu’elle avait gardée. La mère aussi  : une femme jeune encore, les mains rouges de lessive, qui n’avait ni menti ni caché. Ce jour-là, Vaenor était repartie sans le prendre, parce qu’il tenait encore debout, et on ne prend pas un enfant qui tient debout  ; la fiole est pour la fin, c’était sa règle. Sur le seuil, la mère avait demandé une seule chose  : *combien de temps  ?* Vaenor avait répondu ce qu’elle savait, car elle ne mentait pas  : *quelques mois. Peut-être moins.*
 
 C’était moins.
 
-À la porte, elle le sut. Un linge blanc pendait au clou, dehors, ce linge qu’on met quand la maison a un mort dedans et qu’elle veut que le pays le sache sans qu’on ait à le crier. Vaenor s’arrêta devant. Terrin, derrière elle, tira de sa sacoche le nécessaire : un petit pot de brai, un pinceau court, la circulaire pliée pour référence. Car le signe, cette fois, la Préfecture l’avait joint : un rond barré d’un trait, simple, qu’un enfant saurait tracer et qu’un enfant, dans dix ans, saurait lire.
+Elle le sut à la porte. Un linge blanc pendait au clou, dehors, celui qu’on met quand la maison a un mort dedans et qu’elle veut que le pays le sache sans avoir à le crier. Vaenor s’arrêta devant. Derrière elle, Terrin tira de sa sacoche le nécessaire  : un petit pot de brai, un pinceau court, la circulaire pliée pour référence. Car le signe, cette fois, la Préfecture l’avait joint. Un rond barré d’un trait. Simple, qu’un enfant saurait tracer et qu’un enfant, dans dix ans, saurait lire.
 
-« La suite est facile, dit Terrin, presque soulagé. Il est mort. Le foyer a donné son Tisse. On marque, on inscrit, on repart. » Il tenait déjà le pinceau. « C’est même le cas le plus net qui soit. Personne à apaiser, personne à—
+Dedans, on n’entendait rien. Pas de pleureuse, pas de voisines venues laver le petit, pas de bruit de chaises qu’on pousse contre un mur pour faire de la place. Une maison du bout du bourg, et le mal qui fait qu’on n’y monte pas.
 
-— Attendez. »
+«  La suite est facile, dit Terrin, presque soulagé. Il est mort. Le foyer a donné son Tisse. On marque, on inscrit, on repart.  » Il tenait déjà le pinceau. «  C’est même le cas le plus net qui soit. Personne à apaiser, personne à—
+
+— Attendez.  »
 
 La porte s’était ouverte.
 
 *
 
-La mère se tenait dans l’encadrement, et elle avait, sur le visage, cette chose que Vaenor avait vue une fois chez la meunière et qu’elle rangeait, faute d’un meilleur nom, sous celui de *loyauté acculée*. Sauf qu’ici il n’y avait plus rien à protéger, l’enfant était froid dans la maison derrière elle, et la loyauté acculée d’une femme qui n’a plus rien à protéger est une autre chose, plus nue, sans objet, une fidélité qui tourne à vide comme une roue dont on a coupé la courroie.
+La mère se tenait dans l’encadrement. Vaenor avait vu ce visage-là chez la meunière, quelques semaines plus tôt  : la tête haute de celle qui a quelqu’un à couvrir. Mais la meunière avait encore une enfant à faire passer par une autre route. Celle-ci n’avait plus rien derrière elle que son fils, froid dans la maison, et le visage tenait quand même, sans rien à tenir.
 
-Son regard alla vers Vaenor. Puis vers le pot de brai dans la main de Terrin. Puis le pinceau. Elle ne comprit pas tout de suite ; on ne comprend jamais tout de suite ce qui n’a pas encore de précédent.
+Son regard alla vers Vaenor. Puis vers le pot de brai dans la main de Terrin. Puis vers le pinceau. Elle ne comprit pas.
 
-« Il est parti cette nuit, dit-elle. » Sa voix était plate, essorée comme ses mains. « Vous venez pour le certificat ? Le prêtre a dit qu’il fallait un—
+«  Il est parti cette nuit  », dit-elle. Sa voix était plate, essorée comme ses mains. «  Vous venez pour le certificat  ? Le prêtre a dit qu’il fallait un—
 
-— Non, dit Vaenor. »
+— Non  », dit Vaenor.
 
-Terrin aurait pu répondre à sa place. Elle ne le laissa pas. C’était sa règle, l’autre, celle qu’elle ne formulait jamais mais qui tenait sous toutes : ce qui fait mal, on le porte soi-même, on ne le sous-traite pas à un plus jeune qui le porterait moins bien parce qu’il pèserait moins. Alors elle fit un pas.
+Terrin aurait pu répondre à sa place  ; elle ne le laissa pas. Ce qui faisait mal, elle le portait elle-même. Un plus jeune l’aurait porté moins bien, parce qu’il pesait moins. Elle fit un pas.
 
-« Votre garçon est mort du mal, dit-elle. Vous ne l’avez pas caché. Vous ne l’avez pas fui. Vous l’avez veillé jusqu’au bout, et c’est plus que beaucoup font, et je ne suis pas venue vous le reprocher. » Elle laissa un temps. « Mais il y a une chose neuve, madame. Une chose que je dois faire à votre porte, et je préfère que vous l’appreniez de moi, debout, plutôt que de la découvrir demain sur votre propre seuil sans savoir qui l’y a mise. »
+«  Votre garçon est mort du mal. Vous ne l’avez pas caché, vous ne l’avez pas emmené ailleurs, vous l’avez veillé jusqu’au bout. C’est plus que beaucoup font, et je ne viens pas vous le reprocher.  » Elle marqua un temps. «  Mais il y a une chose neuve, madame. Une chose que je dois faire à votre porte. Je préfère que vous l’appreniez de moi, debout, plutôt que de la trouver demain sur votre seuil sans savoir qui l’y a mise.  »
 
 La femme regarda de nouveau le pinceau.
 
-« Qu’est-ce que c’est.
+«  Qu’est-ce que c’est.
 
-— Un signe. » Vaenor ne détourna pas les yeux, parce que détourner les yeux, dans ce métier, était le seul mensonge qu’elle se fût jamais permis et qu’elle avait cessé de se permettre. « Un rond barré. Sur le bois de votre porte. Il dit, à moi, à ceux de ma veste qui passeront après moi, que ce foyer a donné un Tisse.
+— Un signe.  » Vaenor ne détourna pas les yeux. «  Un rond barré. Sur le bois de votre porte. Il dit, à ceux de ma veste qui passeront après moi, que ce foyer a donné un Tisse.
 
-— Mon fils est mort.
+— Mon fils est mort.
 
-— Je sais.
+— Je sais.
 
-— Alors le Tisse est mort. » La femme parlait lentement, comme on avance dans le noir, une main devant soi. « Il n’y en a plus. C’est fini. Vous n’avez plus rien à— pourquoi marquer une maison où le mal est mort ? »
+— Alors le Tisse est mort.  » La femme parlait lentement, une main devant elle comme on avance dans le noir. «  Il n’y en a plus. C’est fini. Vous n’avez plus rien à— pourquoi marquer une maison où le mal est mort  ?  »
 
 *
 
-Et voilà, pensa Vaenor. Voilà la question exacte, celle que Terrin n’avait pas su entendre dans le *une porte n’est jamais habitée par une seule personne*, et qu’une femme aux mains rouges venait de poser d’un coup, sans la chercher, parce que les gens qui n’ont plus rien à perdre trouvent d’instinct la seule question qui compte.
+C’était la question exacte. Terrin ne l’avait pas entendue la veille, dans la salle basse, quand Vaenor la lui avait mise devant lui  ; la femme venait de la poser d’un coup, sans la chercher.
 
-Mentir : elle aurait pu. Plus doux, aussi, de mentir. *Formalité. On efface l’année prochaine. Cela ne veut rien dire.* Terrin, elle le sentait dans son dos, attendait qu’elle mentît un peu, non par cruauté mais par hâte, pour qu’on marque et qu’on reparte. Elle ne mentit pas. Jamais elle ne mentait ; c’était sa seule discipline, et elle l’avait gardée en tout, même en ceci, qui était le plus dur endroit où la garder.
+Elle aurait pu mentir. C’eût été plus doux. *Une formalité. On efface l’année prochaine. Cela ne veut rien dire.* Elle sentait Terrin dans son dos qui attendait un petit mensonge, non par cruauté, par hâte, pour qu’on marque et qu’on reparte. Elle ne mentait pas  ; c’était la seule discipline qu’elle se fût jamais donnée, et elle la tenait ici comme ailleurs.
 
-« Parce que le signe n’est plus pour lui, dit-elle. »
+«  Parce que le signe n’est plus pour lui  », dit-elle.
 
-La femme ne comprit pas. Vaenor le vit, et elle continua, avec ce soin qu’elle mettait à tout, à poser chaque mot comme un homme pose des choses fragiles sur une étagère haute.
+La femme ne comprit pas. Vaenor le vit, et elle reprit avec le soin qu’elle mettait à tout, posant les mots l’un après l’autre.
 
-« La circulaire, c’est le mot qu’on emploie, une circulaire, une feuille qui tourne de poste en poste ; la circulaire dit que le mal se transmet par le sang. Que le Lien saute. Qu’il dort dans une lignée trois générations, quatre, et qu’il se réveille dans un enfant qui n’a rien demandé, comme il s’est réveillé dans le vôtre alors que vous-même n’êtes pas Tisse, ni votre mère, ni personne dont vous vous souveniez. » Elle laissa cela descendre. « Votre garçon n’est pas venu de nulle part, madame. Il est venu de vous. Pas de votre faute — de votre sang. Et ce sang, vous le portez encore. Vous l’avez, dans vos veines, à cet instant. Vos autres enfants, si vous en faites, le porteront. Vos sœurs le portent. Le signe ne dit pas *ici mourut un Tisse.* Il dit *ici est un foyer qui en fait.* »
+«  La circulaire, c’est le mot qu’on emploie, une feuille qui tourne de poste en poste  ; elle dit que le mal se transmet par le sang. Que le Lien saute. Qu’il dort dans une lignée trois générations, quatre, et qu’il reparaît chez un enfant qui n’y est pour rien, comme il a reparu chez le vôtre, alors que vous n’êtes pas Tisse, ni votre mère, ni personne dont vous vous souveniez.  » Elle laissa cela descendre. «  Votre garçon n’est pas venu de nulle part, madame. Il est venu de vous. Pas de votre faute. De votre sang. Et ce sang, vous le portez encore, à cet instant, dans vos veines. Vos autres enfants, si vous en faites, le porteront. Vos sœurs le portent. Le signe ne parle pas de lui. Il parle de la maison. Il dit qu’il en est sorti un Tisse, et qu’il peut en sortir d’autres.  »
 
 Le linge blanc, au clou, remua un peu dans le vent des prés.
 
-« Vous marquez ma maison, dit la femme, à cause de ce que mon fils *était*.
+«  Vous marquez ma maison à cause de ce que mon fils *était*.
 
-— À cause de ce que vous *êtes*. »
-
-*
-
-Le coup porta, elle le vit. Ce fut, comme toujours, le pire instant, non pour la femme, pour elle : l’instant où le visage de l’autre s’ouvre sur la mesure exacte de ce qu’on vient de lui faire, et où l’on est seul à savoir qu’on n’a rien fait, soi, qu’on a seulement transmis, qu’on n’est que la main et non la volonté, et que cette distinction, si claire pour la main, ne pèse rien pour celui qu’elle frappe.
-
-La femme ne pleura pas. Vaenor l’aurait presque préféré. Au lieu de pleurer, elle fit une chose plus terrible : elle regarda sa propre porte, le bois usé où sa paume avait dû se poser dix mille fois, le seuil que son fils avait franchi en courant et qu’on avait passé cette nuit dans l’autre sens, sur une planche ; elle le regarda comme on regarde une chose qui vient de cesser de vous appartenir sans changer de main. Dans une heure il y aurait là un rond barré, et à partir de ce rond la maison ne serait plus tout à fait à elle : elle serait *au registre*. Un morceau d’elle appartiendrait désormais à une feuille qui tournait de poste en poste et à des hommes en veste grise qui ne la connaissaient pas et qui, la lisant sur sa porte, sauraient d’elle une chose qu’elle-même venait à peine d’apprendre.
-
-« Combien de temps il reste, le signe, demanda-t-elle enfin. »
-
-C’était, mot pour mot, la question qu’elle avait posée trois mois plus tôt pour son fils. *Combien de temps.* Vaenor le remarqua, et la coïncidence lui fit, au creux de l’estomac, quelque chose qu’elle n’avait pas de nom pour désigner : la même question, l’une pour un enfant vivant, l’autre pour une porte, et entre les deux la mort de l’enfant. Que la seconde dût seulement exister était toute la nouveauté du monde, tenue dans quatre mots répétés.
-
-« Je ne sais pas, dit Vaenor. »
-
-Et c’était vrai, et le vrai, dans ce métier, servait mieux que le faux. La circulaire ne disait pas *combien de temps.* Elle disait qu’on marquait. Du fait qu’on effaçât, elle ne disait rien, jamais, ni dans quelles conditions, ni si l’on effaçait. Un signe qu’on ne sait pas effacer est un signe pour toujours.
-
-« Je ne sais pas, répéta-t-elle. La feuille ne le dit pas. Et quand une feuille de bureau ne dit pas qu’une chose finit, madame, c’est en général qu’elle ne finit pas. »
+— À cause de ce que vous *êtes*.  »
 
 *
 
-Des mains de Terrin, elle prit le pot de brai. Le jeune la laissa faire, un peu surpris : c’était son ouvrage à lui, marquer, le premier ouvrage franc qu’on lui eût confié, et il avait dû s’en réjouir sur la route. S’il la laissa le lui prendre, ce fut parce qu’elle était l’ancienne et qu’on ne discute pas l’ancienne, mais elle vit, sur son visage, qu’il ne comprenait pas pourquoi elle le lui ôtait, pourquoi elle voulait tracer elle-même un rond que n’importe quelle main savait tracer.
+Le coup porta. Elle le vit prendre sur ce visage-là, lentement, trait après trait. Elle n’avait rien décidé de tout cela  ; elle n’était que la main qui l’apportait. De l’autre côté du seuil, cette différence-là ne valait rien.
 
-Si elle le voulait, c’était pour une raison qu’elle ne se formula qu’en s’agenouillant devant la porte, le pinceau à la main : si le signe devait exister, elle préférait qu’il portât la marque de sa propre main plutôt que de celle d’un homme qui le trouvait *propre.* Que le premier rond du registre des foyers, dans cette vallée, fût tracé par quelqu’un à qui il coûtait quelque chose. Ce n’était une consolation ni pour la femme ni pour elle. C’était la seule chose qu’elle pût faire, et faire la seule chose qu’on peut faire, elle l’avait appris depuis longtemps, ne soulage de rien, mais tient debout.
+La femme prit le chambranle à deux mains et resta ainsi. Ses yeux restèrent secs, et Vaenor aurait presque préféré des larmes. Au lieu de pleurer, la femme regarda sa propre porte  : le bois usé où sa paume avait dû se poser dix mille fois, le seuil que son fils avait franchi en courant et qu’on avait passé cette nuit dans l’autre sens, sur une planche. Dans une heure il y aurait là un rond barré, et la maison ne serait plus tout à fait à elle. Elle serait *au registre*. Un morceau de cette femme appartiendrait désormais à une feuille qui tournait de poste en poste et à des hommes en veste grise qui ne la connaissaient pas, et qui sauraient d’elle, en passant sur la route, une chose qu’elle-même venait d’apprendre.
 
-Le pinceau trempé, elle traça le rond. Sa main ne trembla pas, elle avait, à force, maté sa main, la nuit mate tout, et le rond fut net, rond, sans bavure, un beau rond, et elle en eut honte comme d’un talent qu’on découvre au mauvais endroit. Puis le trait, en travers. Le brai était noir sur le bois gris, encore luisant, un peu bombé au milieu ; il sécherait mat.
+«  Combien de temps il reste, le signe  », demanda-t-elle enfin.
 
-Terrin, derrière elle, regardait par-dessus son épaule, et elle sut, sans le voir, qu’il approuvait le travail : la netteté, l’économie du geste, le fait qu’un signe pût dire tant en si peu.
+C’étaient les mots de la dernière fois, dans le même ordre. Vaenor les reçut au creux de l’estomac. La même question posée pour un enfant vivant, puis pour une porte, et entre les deux l’enfant était mort.
 
-« Voyez, dit-il à mi-voix, comme pour lui-même. Efficace. »
+«  Je ne sais pas  », dit Vaenor.
 
-Vaenor se releva. Du pinceau essuyé au pot refermé, elle rendit le tout au jeune. La femme n’avait pas bougé de son seuil ; elle regardait le rond barré à trois empans de son visage, cette chose neuve sur son vieux bois, et elle ne disait plus rien, parce qu’il n’y avait plus rien à dire, c’était le propre des ordres de la Préfecture qu’on ne pût les défaire, seulement se tenir dessous.
+Elle l’ignorait pour de bon. La circulaire ne disait pas *combien de temps.* Elle disait qu’on marquait. De l’effacement, elle ne disait rien  : ni quand, ni à quelles conditions, ni si l’on effaçait jamais.
 
-*
-
-Un instant, elles restèrent face à face, la femme dans l’encadrement marqué, l’Inspectrice sur le seuil.
-
-« Vous croyez que vous faites bien », dit la femme.
-
-Ce n’était pas une question. Vaenor le prit tout de même comme si c’en était une, parce qu’elle avait passé sa vie à répondre aux affirmations comme à des questions : c’était même là toute sa méthode, entendre l’aveu sous la déclaration.
-
-« Je crois que je fais ce qui est ordonné, dit-elle. Et je crois que ce qui est ordonné a une raison, et que la raison n’est pas folle. Le mal *est* dans le sang. Ceci, personne ne l’a inventé pour vous faire du tort ; on le sait, on l’a vu, un Tisse naît dans une lignée qu’on croyait pure et le fléau recommence. Marquer le foyer, c’est— » Elle s’arrêta. Elle avait failli dire *c’est une prudence.* Le mot était juste, du point de vue de la feuille. Il lui resta en travers.
-
-« C’est vous protéger, dit-elle enfin, et vous savez que ce n’est pas vrai, parce que ce n’est pas vous que ça protège. »
-
-La femme la regarda.
-
-« Alors qui.
-
-— Ceux qui viendront après moi. » Vaenor renfila ses gants, un doigt après l’autre, lentement, comme elle faisait toujours quand elle voulait laisser à ses mots le temps de se poser. « Un Inspecteur plus jeune que moi. Un qui n’aura pas connu votre fils vivant, ni entendu votre question de tout à l’heure, ni la mienne d’il y a trois mois. Il passera devant votre porte dans dix ans, il verra le rond, et il saura d’un coup d’œil, sans monter, sans vous parler, sans veiller personne, ce que moi j’ai mis un métier à apprendre à voir. Le signe est pour lui. C’est à lui qu’il rendra les choses— » elle chercha le mot de Terrin, le trouva, l’employa contre elle-même comme un tesson qu’on serre exprès dans sa paume — « propres. »
-
-Puis elle remonta en selle. Le linge blanc pendait toujours au clou ; le rond barré séchait sur le bois ; la femme n’était pas rentrée, elle se tenait dans son cadre marqué et elle regardait l’Inspectrice tourner bride, de ce regard qu’ont les gens qu’on vient de blesser sans les toucher et qui cherchent, sur celui qui part, la trace du coup qu’il croit ne pas avoir porté.
+«  Je ne sais pas, répéta-t-elle. La feuille ne le dit pas. Et une feuille de bureau qui ne dit pas qu’une chose finit, madame, en général ne la fait pas finir.  »
 
 *
 
-« Vous avez été longue, dit Terrin quand ils eurent repris la route. Pour un foyer sans personne à apaiser. »
+Elle prit le pot de brai des mains de Terrin.
 
-Nul reproche là-dedans ; il apprenait, et il notait qu’on pouvait être long là où lui eût été bref, et il rangeait ça quelque part, honnêtement, pour plus tard.
+Le jeune la laissa faire, surpris. Marquer était son ouvrage à lui, le premier ouvrage franc qu’on lui eût confié, et il avait dû s’en réjouir sur la route. S’il lâcha le pot, ce fut parce qu’elle était l’ancienne et qu’on ne discute pas l’ancienne  ; mais elle vit sur sa figure qu’il ne comprenait pas pourquoi elle voulait tracer elle-même un rond que n’importe quelle main savait tracer.
 
-« Le signe m’a paru simple, reprit-il, comme la route était longue et qu’il aimait parler. Je m’attendais à pire. À des mots, une inscription, un nom, quelque chose qu’on peut lire de travers. Un rond barré, tout le monde le lit pareil. Le riche et l’idiot, l’ami et l’étranger. » Il hocha la tête, satisfait. « C’est ça qui est bien pensé. Ça ne dépend pas de qui regarde. »
+Elle ne se le formula qu’en s’agenouillant devant la porte, le pinceau à la main. Si le signe devait exister, elle le préférait de sa main à elle plutôt que de celle d’un homme qui le trouvait *propre.* Que le premier rond de la vallée fût tracé par quelqu’un à qui il coûtait quelque chose. Cela ne consolait ni la femme ni elle. C’était ce qu’elle pouvait faire, et elle le fit.
 
-Vaenor chevaucha un moment sans répondre. Le pays défilait, gris, troué çà et là de maisons dont elle savait, elle, lesquelles avaient donné un Tisse et lesquelles non : elle le savait dans sa tête, dans son carnet, à l’ancienne, et voilà qu’on lui demandait de le sortir de sa tête et de le peindre sur le bois pour que le sût aussi bien l’idiot que le riche, l’étranger que l’ami.
+Le brai sentait le goudron chaud et la vieille barque. Elle en prit peu sur les soies, comme on prend de l’huile, et posa le premier arc en haut à gauche, à hauteur d’épaule, là où un homme à cheval le verrait sans avoir à se pencher. Puis elle traça le rond. Sa main ne trembla pas. Le rond fut net, régulier, sans bavure, un beau rond, et elle en eut honte comme d’un talent découvert au mauvais endroit. Puis le trait, en travers. Le brai faisait noir sur le bois gris, luisant encore, un peu bombé au milieu  ; il sécherait mat.
 
-« Ça ne dépend pas de qui regarde, dit-elle enfin. Non. » Elle laissa le cheval trouver son pas. « C’est justement ce qui me tient éveillée. »
+Derrière elle, Terrin regardait. Elle sut, sans se retourner, qu’il approuvait l’ouvrage  : la netteté, l’économie du geste, tout ce qu’un signe pouvait dire en si peu de traits.
+
+«  Voyez, dit-il à mi-voix, comme pour lui-même. Efficace.  »
+
+Elle se releva, essuya le pinceau, referma le pot et rendit le tout au jeune. La femme n’avait pas bougé de son seuil. Elle regardait le rond barré à trois empans de son visage, cette chose neuve sur son vieux bois, et elle ne dit plus rien.
+
+*
+
+Un instant, elles restèrent face à face, la femme dans son encadrement marqué, l’Inspectrice sur le seuil.
+
+«  Vous croyez que vous faites bien  », dit la femme.
+
+Vaenor répondit comme si on l’avait interrogée. Vingt ans qu’elle faisait parler les gens en traitant leurs affirmations comme des aveux  ; elle n’allait pas s’en défaire devant celle-là.
+
+«  Je crois que je fais ce qui est ordonné. Et je crois que ce qui est ordonné a une raison, et que la raison n’est pas folle. Le mal *est* dans le sang. Personne n’a inventé cela pour vous faire du tort  : on l’a vu, un Tisse naît dans une lignée qu’on croyait pure et tout recommence. Marquer le foyer, c’est—  » Elle s’arrêta. Elle avait failli dire *une prudence.* Du point de vue de la feuille, le mot était juste. Il lui resta en travers.
+
+«  C’est pour vous protéger, dit-elle enfin. Et ce n’est pas vrai. Ce n’est pas vous que cela protège.
+
+— Alors qui.
+
+— Ceux qui viendront après moi.  » Vaenor frotta du pouce une trace de brai restée sur son index, lentement, pour laisser à ses mots le temps de se poser. «  Un Inspecteur plus jeune que moi. Un qui n’aura pas connu votre fils vivant, ni votre question de tout à l’heure, ni la mienne d’il y a trois mois. Il passera devant votre porte dans dix ans, il verra le rond, et il saura d’un coup d’œil, sans monter, sans vous parler, sans veiller personne, ce que j’ai mis un métier à apprendre à voir. Le signe est pour lui. C’est à lui qu’il rendra les choses—  » elle reprit le mot de Terrin et s’en servit contre elle-même — «  propres.  »
+
+Puis elle reprit son cheval. Le linge blanc pendait toujours au clou  ; le rond barré séchait sur le bois  ; la femme n’était pas rentrée. Elle se tenait dans son cadre marqué et elle regardait l’Inspectrice tourner bride, cherchant sur elle la trace du coup qu’elle venait de recevoir sans qu’on l’eût touchée.
+
+*
+
+«  Vous avez été longue, dit Terrin quand ils eurent repris la route. Pour un foyer sans personne à apaiser.  »
+
+Terrin ne lui reprochait rien. Il apprenait  : il notait qu’on pouvait être long là où lui aurait été bref, et il rangeait cela quelque part, honnêtement, pour plus tard.
+
+«  Le signe m’a paru simple, reprit-il, parce que la route était longue et qu’il aimait parler. Je m’attendais à pire. Des mots, une inscription, un nom, quelque chose qu’on peut lire de travers. Un rond barré, tout le monde le lit pareil. Le riche et l’idiot, l’ami et l’étranger.  » Il hocha la tête, content. «  C’est ça qui est bien pensé. Ça ne dépend pas de qui regarde.  »
+
+Vaenor laissa le cheval trouver son pas. Le pays défilait, gris, troué çà et là de maisons dont elle savait, elle, lesquelles avaient donné un Tisse et lesquelles non. Elle le savait dans sa tête et dans son carnet, à l’ancienne  ; et on lui demandait de le sortir de là pour le peindre sur le bois, où l’idiot le lirait aussi bien que le riche, et l’étranger aussi bien que l’ami.
+
+«  Ça ne dépend pas de qui regarde, dit-elle enfin. Non.  » Elle attendit d’avoir passé le tournant. «  C’est justement ce qui me tient éveillée.  »
 
 Terrin la regarda de côté.
 
-« Un nom, poursuivit-elle, il faut savoir le lire, et pour le lire il faut avoir appris, et pour l’apprendre il faut avoir été dans le métier, et le métier, même le nôtre, même celui-ci, a des règles, un moment pour prendre, un moment pour laisser, un enfant qu’on ne touche pas tant qu’il tient debout. Un signe sur une porte n’a pas de métier. Il est là. Il se lit tout seul. Il ne connaît ni le moment ni la règle. Le jour où le pays entier saura lire nos ronds sur les portes aussi bien que nous, dis-moi, Terrin, qui empêchera le pays de s’en servir sans nous ? »
+«  Un nom sur un registre, poursuivit-elle, il faut savoir le lire. Pour le lire, il faut avoir appris  ; pour l’apprendre, il faut être du métier  ; et le métier, même le nôtre, même celui-ci, a ses règles. Un moment pour prendre, un moment pour laisser. Un enfant qu’on ne touche pas tant qu’il tient debout. Ce rond-là, non. Demain matin, n’importe qui le lira sur cette porte sans qu’on lui ait rien montré. Il ne connaît ni le moment ni la règle. Le jour où le pays entier lira nos ronds aussi bien que nous, dis-moi, Terrin, qui l’empêchera de s’en servir sans nous  ?  »
 
-Le jeune n’avait pas de réponse. Du danger, il ne voyait même pas l’ombre ; pour lui, un outil bien fait était un bien en soi, et qu’il fût lisible de tous était sa perfection, non son défaut.
+Terrin n’avait pas de réponse. Il ne voyait même pas le danger  ; pour lui, un outil bien fait était un bien, et qu’on pût tous le lire en faisait un meilleur outil.
 
-« Ce ne sera pas de notre vivant, dit-il, pour dire quelque chose.
+«  Ce ne sera pas de notre vivant, dit-il, pour dire quelque chose.
 
-— Non, dit Vaenor. Ce ne sera pas de notre vivant. »
+— Non, dit Vaenor. Ce ne sera pas de notre vivant.  »
 
-Et cela ne la rassura pas ; cela l’inquiéta davantage, car les choses qu’on met en place et qui ne portent leurs fruits qu’après nous sont précisément celles dont on ne répond plus, celles qu’on a semées sans savoir ce qu’on semait, dans une saison qu’on ne verra pas lever.
-
-*
-
-Ce soir-là, au poste de Vellemont, elle sortit ses deux carnets.
-
-Deux, elle en tenait ; elle l’avait toujours fait, depuis assez longtemps pour ne plus se souvenir du jour où elle avait commencé. L’un était le registre, propre, réglementaire, celui qu’on lui prendrait si l’on venait à la prendre, où elle inscrivait ce qu’elle voulait qu’on sût : ce jour-là, un foyer marqué, aux marges de Vellemont, un Tisse décédé, article de la circulaire du mois, geste conforme. Trois lignes. Nettes. Sans peine elle les écrivit ; elles étaient vraies ; elles ne mentaient que par ce qu’elles taisaient, ce qui n’est pas mentir, seulement l’art plus ancien de dire vrai en laissant tomber le reste.
-
-L’autre carnet, elle le sortait moins souvent, et jamais devant Terrin. Nul sceau dessus, pas de règle, pas de colonnes ; c’était là qu’elle mettait ce qu’elle savait et non ce qu’elle voulait qu’on crût. À la page suivante, elle l’ouvrit. Un moment, elle resta le porte-plume en l’air, non parce qu’elle cherchait les mots, les mots venaient toujours, mais parce qu’elle hésitait à leur donner l’existence que donne l’encre.
-
-Puis elle écrivit, de sa petite écriture serrée qui corrigeait les chiffres des autres et ne s’autorisait, dans ce carnet-là, aucune correction :
-
-*Aujourd’hui, marqué le premier foyer. Une porte, non un homme. On m’a dit que c’était propre. On m’a dit que c’était efficace. Les deux sont vrais. Un signe qui se lit sans qu’on ait appris à lire est un signe qui échappera un jour à ceux qui l’ont fait. Nous marquons le sang pour l’épargner de lui-même. Je note ici, où personne ne le lira, que je ne sais pas ce qu’un autre marquera, un jour, avec le même rond, sur d’autres portes, pour d’autres raisons. Le signe, lui, sera prêt. Il attend. Il ne demande à personne pourquoi on le trace.*
-
-Elle relut. Un instant, elle faillit rayer la dernière phrase : elle rayait volontiers, dans le premier carnet, tout ce qui dépassait le fait. Elle ne la raya pas. C’était le propre du second carnet qu’on n’y rayât rien, que ce qui dépassait le fait fût justement ce qu’il avait charge de garder.
-
-Le carnet refermé, elle le glissa contre son cœur, du côté où elle rangeait toujours ce qu’elle savait, et non ce qu’elle montrait.
+Cela ne la rassura pas. Elle avait tracé ce matin-là un signe dont elle ne verrait jamais l’usage.
 
 *
 
-Cette nuit-là, elle ne dormit pas beaucoup. Ce n’était pas la femme qui l’en empêchait, ni même le rond barré séchant à trois lieues sur une porte de torchis. C’était une chose plus vague, sans visage, comme la circulaire elle-même : le sentiment d’avoir mis, ce jour-là, la première pierre d’un mur dont elle ne verrait ni la hauteur ni l’usage, et qu’on continuerait de monter longtemps après qu’elle aurait cessé de douter, longtemps après qu’elle aurait cessé de vivre, par des mains plus sûres que la sienne parce qu’elles n’auraient jamais connu la femme aux mains rouges, ni son fils qui parlait à une place vide, ni la question, la même, deux fois, à trois mois d’écart, *combien de temps.*
+Ce soir-là, au poste, elle sortit ses deux carnets.
 
-Avant le jour, elle se leva. Dans le sud l’attendaient une forge à trouver, une femme qui coupait, une enfant qu’on cachait : sa vraie chasse, celle qui la creusait, celle qui tenait la seule réponse qu’elle poursuivît vraiment. Le foyer marqué de Vellemont n’avait été qu’une besogne au passage, un ordre appliqué proprement sur la route de l’autre. Comme tout le reste, elle le rangea dans la pièce fermée où s’entassaient les visages, à côté du prêtre qui ne signait pas, de Harn qui connaissait les moulins, de la meunière trop lisse. La femme aux mains rouges y entra à son tour, sans un mot, et referma derrière elle la porte que Vaenor, désormais, savait marquer.
+Elle en tenait deux depuis assez longtemps pour avoir oublié quand elle avait commencé. L’un était le registre  : propre, réglementaire, celui qu’on lui prendrait si l’on venait à la prendre, où elle inscrivait ce qu’elle voulait qu’on sache. Ce jour-là  : un foyer marqué aux marges de Vellemont, un Tisse décédé, l’article de la circulaire du mois, geste conforme. Trois lignes, nettes. Elle les écrivit sans peine. Elles étaient vraies. Ce qu’elles taisaient ne s’y voyait pas.
 
-Loin au sud, entre deux collines basses, une enclume battait peut-être déjà dans le petit matin, tenue par une main qui coupait pour sauver, pendant qu’au nord une autre main, la sienne, avait appris cette nuit à marquer pour suivre : deux gestes que rien, dans le compte, ne distinguerait plus le jour où les deux femmes seraient mortes et où il ne resterait, de l’une et de l’autre, que des signes sur des portes et des noms sur des feuilles, tracés par des mains plus jeunes qui trouveraient tout cela, à bon droit, propre et efficace, et qui ne se demanderaient jamais laquelle des deux, la coupeuse ou la marqueuse, avait cru faire le bien.
+L’autre, elle le sortait moins souvent, et jamais devant Terrin. Pas de sceau dessus, pas de colonnes, pas de règle  : c’était là qu’elle mettait ce qu’elle savait, et non ce qu’elle voulait qu’on croie. Elle l’ouvrit à la page suivante. Un moment elle resta le porte-plume en l’air, non qu’elle cherchât ses mots, ils venaient toujours, mais parce qu’elle hésitait à leur donner l’existence que donne l’encre.
+
+Puis elle écrivit, de sa petite écriture serrée, celle qui reprenait les chiffres des autres dans les rapports et qui, dans ce carnet-ci, ne se reprenait jamais  :
+
+*Marqué aujourd’hui le premier foyer de la vallée. La porte, et non l’homme. Terrin dit que c’est propre, il dit que c’est efficace, et il a raison deux fois. Je ne sais pas combien de temps le rond reste  ; la feuille ne le dit pas. Je ne sais pas qui le lira dans dix ans, ni ce qu’il croira y lire, ni sur quelles portes il ira le porter ensuite, ni pour quelles raisons. Je note ici, où personne ne me lira, que le rond n’aura besoin de personne pour servir. Il est tracé. Il attend. Il ne demandera jamais pourquoi.*
+
+Elle relut. Un instant elle faillit rayer la dernière ligne. Dans l’autre carnet, elle l’aurait rayée  : elle y rayait tout ce qui dépassait le fait. Ici, on ne rayait rien  ; c’était à cela que ce carnet servait.
+
+Elle le referma et le glissa contre son cœur, sous la veste, dans la poche qui n’était pas celle de la fiole.
+
+*
+
+Cette nuit-là, elle dormit mal. Ce n’était pas la femme qui l’en empêchait, ni le rond barré qui séchait au bout du bourg. C’était une chose plus vague, sans visage, comme la circulaire elle-même  : elle avait posé le matin la première pierre d’un mur dont elle ne verrait ni la hauteur ni l’usage, et qu’on monterait longtemps après qu’elle aurait cessé de douter, longtemps après qu’elle aurait cessé de vivre, par des mains plus sûres que la sienne, parce qu’elles n’auraient connu ni la femme aux mains rouges, ni le garçon qui parlait à une place vide, ni la même question posée deux fois à trois mois d’écart.
+
+Elle se leva avant le jour. Au sud, il y avait une forge à trouver, une femme qui coupait, une enfant qu’on cachait  : sa vraie chasse, la seule qui la creusait, la seule au bout de laquelle il y avait une réponse. Le foyer de Vellemont n’avait été qu’une besogne au passage, un ordre appliqué proprement sur la route de l’autre. Elle le rangea où elle rangeait le reste, avec le prêtre qui ne signait pas, Harn qui connaissait les moulins, la meunière trop lisse. La femme aux mains rouges y entra à son tour et referma derrière elle  ; et sur ce bois-là, désormais, Vaenor savait ce qu’on peignait.
+
+Et sur la Plaine de Gryndor, pendant qu’elle sellait, une maison se vida entre deux respirations, la porte close et le loquet mis du dedans  ; ce qui venait de prendre ceux qui vivaient là n’avait rien peint sur leur bois pour qu’un autre le lise en passant, et n’avait, après lui, personne à qui apprendre son ouvrage.
