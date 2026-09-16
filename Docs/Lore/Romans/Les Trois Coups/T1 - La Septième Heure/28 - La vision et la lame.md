@@ -139,4 +139,4 @@ Elle était montée chercher une certitude  ; elle rapportait la preuve que per
 
 Elle ferma les yeux. Le protocole contre son flanc, et pliée dedans la lettre qu’elle n’enverrait pas, la tendresse rangée dans le calcul. Ísae qui dormait ou ne dormait pas. Il restait peu de jours  ; elle les compterait, parce que compter était sa façon de ne pas détourner les yeux.
 
-Et à l’autre bout de cette nuit, sous la masse noire que l’homme sans nom ne quittait pas des yeux, quelque chose de très ancien tenait le monde comme il l’avait toujours tenu, sans effort et sans y penser, et ne fit aucune différence entre les huit poids qui montaient vers lui à travers les cols, huit et pas un de plus, et tout le reste de ce qu’il portait.
+Et au bout de ce noir qu’ils avaient regardé à deux sans rien y voir, une chose sans mains tenait tout ce qui vivait à l’endroit même où le fil se tend le plus, sans s’être jamais demandé si elle avait raison de le tenir.

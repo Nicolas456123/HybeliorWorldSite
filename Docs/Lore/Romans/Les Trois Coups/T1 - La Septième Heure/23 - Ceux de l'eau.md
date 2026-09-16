@@ -227,4 +227,4 @@ Une dernière fois, par habitude, elle goûta le sel en s’éloignant. Redevenu
 
 Elle laissa cela derrière elle, avec la côte. La route serait longue. Le vent était bon.
 
-Et loin derrière elle, au sud, par-delà la crique et les dents de roche et les hauteurs noires où quatre ombres montaient dans la nuit, ce qui tenait le monde depuis toujours, sans effort et sans y penser, sentit à son tour le sel changer quelque part en soi  ; et, si une telle chose peut se demander quoi que ce soit, elle se demanda pourquoi la seule qui s’éloignait était la seule qui n’avait pas peur.
+Et derrière elle, sous les hauteurs noires où quatre ombres cherchaient les cairns d’un forgeron, la vieille chose qui ne lâchait jamais rien tenait tout d’un bloc, raide comme un hauban étarqué depuis mille ans, ignorant ce que savait la plus pauvre maison d’Azoria  : qu’on tient mieux en pliant.
