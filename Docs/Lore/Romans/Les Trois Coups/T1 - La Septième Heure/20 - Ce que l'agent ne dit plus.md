@@ -2,6 +2,7 @@
 tags: [roman, trois-coups, tome-1, partie-2, pov-velkar, pyrion]
 type: roman-chapitre
 partie: II
+titre: Ce que l'agent ne dit plus
 pov: Verkan (présent — Pyrion, le Bureau des Concordances)
 chapitre: 19
 lieu: Dominat de Pyrion — la ville haute, puis le Bureau des Concordances
