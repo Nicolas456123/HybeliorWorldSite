@@ -179,7 +179,7 @@ Tout ce qu’elle avait dit ce soir à l’homme venu de la pluie, elle l’avai
 
 L’encre sécha sur la plume. Longtemps, elle resta devant le prénom seul en haut de la page. Puis elle reposa la plume, plia la feuille sans l’avoir noircie davantage et la glissa au fond d’un tiroir. Ce serait la première d’une longue suite  ; elle ne le savait pas encore. La dernière viendrait trente ans plus tard, et elle la porterait contre son cœur sans jamais la remettre.
 
-Elle souffla la lampe. Dans le noir, par vieux réflexe orvane, elle tendit vers la maison de sa sœur, de l’autre côté de la colline, ce fil ténu qu’elle avait appris adolescente à lancer et qui n’avait jamais rien rapporté.
+Elle souffla la lampe. Dans le noir, par vieux réflexe orvane, elle lança le fil vers la maison de sa sœur, de l’autre côté de la colline.
 
 Le fil partit dans la nuit. Il ne revint pas.
 
