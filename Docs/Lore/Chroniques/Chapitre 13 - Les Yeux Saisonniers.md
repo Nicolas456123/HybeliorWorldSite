@@ -241,6 +241,10 @@ Aucune réponse ne me vint. Je ne lui dis pas que j’avais passé quatre-vingt-
 
 «  Partez chez votre sœur, à Haltheria, dis-je plus bas. Emportez vos tables. Laissez le réflecteur ici, pour qu’on croie que vous revenez.  »
 
+Elle rangea ses tables sans répondre tout de suite. Sur le seuil, elle se retourna.
+
+«  Vos dates viennent de partout et vous les ramassez une par une, dit-elle. Allez là où le monde parle le plus fort.  »
+
 Elle partit le lendemain à l’aube. Le réflecteur resta sur la balustrade.
 
 ---

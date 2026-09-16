@@ -43,7 +43,7 @@ Sorin est porteur, sans en avoir conscience, de **deux Pièges Institutionnels i
 
 1. **L'Espérance Vide kharazirienne** — la foi profonde dans le Savoir comme protecteur. Il quitte Kharazir avec un plan A : Lumasar publiera. Il n'a pas de plan B parce que dans la cosmologie qu'il a héritée, la République des Plumes *est* la garantie. Il découvrira au chapitre 2 que cette espérance est vide (la notification voyage plus vite que lui), mais il ne tirera la leçon structurelle qu'au chapitre 39 : *les institutions sont lentes mais elles ne sont pas sourdes* — phrase qui dit la fin de l'Espérance Vide et le début de quelque chose d'autre.
 
-2. **L'Âge de la Loi Figée par contagion** — il a appris à *appliquer la procédure*. Ce réflexe le poursuit. Quand il rencontre Verian Soth à l'Académie d'Invorial (ch. 2), il comprend que c'est "la bonne foi au service d'une règle injuste" qui décourage, mais il ne voit pas immédiatement qu'il a été ce Verian Soth pendant sept ans. La projection — voir chez l'autre ce qu'on ne voit pas chez soi — est sa première mécanique défensive.
+2. **L'Âge de la Loi Figée par contagion** — il a appris à *appliquer la procédure*. Ce réflexe le poursuit. Quand il rencontre Verian Soth à l'Académie d'Invorial (ch. 2), il comprend que c'est "Contre la mauvaise foi, j'aurais su quoi faire" qui décourage, mais il ne voit pas immédiatement qu'il a été ce Verian Soth pendant sept ans. La projection — voir chez l'autre ce qu'on ne voit pas chez soi — est sa première mécanique défensive.
 
 ### 1.4 Trait de plume initial
 
@@ -242,7 +242,7 @@ Tous les 40 chapitres sont actuellement **denses** (entre 17 et 43 KB chacun). A
 Ces chapitres tiennent déjà bien la posture sans avoir besoin de retouches majeures. A.4 doit y être très conservateur.
 
 - **Ch. 01** — voix initiale calibrée. Risque : accentuer l'amertume au-delà de ce qui est. Conserver la sécheresse ironique.
-- **Ch. 02** — la phrase sur Verian Soth ("la bonne foi au service d'une règle injuste") fait tout le travail. Ne pas commenter.
+- **Ch. 02** — la phrase sur Verian Soth ("Contre la mauvaise foi, j'aurais su quoi faire") fait tout le travail. Ne pas commenter.
 - **Ch. 03** — Ventera réussit déjà l'effet "il existait dans l'entièreté de ce qu'il était". Garder la pudeur.
 - **Ch. 05** — Solena tient. Thelorn n'enseigne rien, c'est exactement ça qu'il fait.
 - **Ch. 11** — Myrtam tient. La phrase finale ("J'aurais voulu comprendre si ces hommes mouraient plus doucement pour y croire") est déjà dans la voix mature.
