@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-2, pov-mirathis, vytharia, ilthara, somnium-vigil, voyage]
+titre: Vytharia, l’automne d’avant
 type: roman-chapitre
 partie: II
 pov: Mirathis (passé récent, automne, l'an trois avant ; Gelinar → Aethranor)
@@ -20,7 +21,7 @@ En face, la vieille Orenn teillait la soie de brume sur son seuil, comme elle le
 
 «  Pour Galenor  », dit Mirathis.
 
-Orenn n’insista pas. Gelinar avait compté deux Rêveurs-de-Cendre avant Mirathis  ; elle avait vu vieillir l’un et brûler l’autre, et elle avait cessé depuis longtemps de leur faire répéter leurs réponses.
+Orenn n’insista pas. Elle avait vu vieillir l’un et brûler l’autre des deux Rêveurs-de-Cendre que Gelinar avait comptés avant Mirathis, et elle avait cessé depuis longtemps de leur faire répéter leurs réponses.
 
 «  Tu ne reviendras pas  », dit-elle enfin, et elle reprit son fil.
 
@@ -150,7 +151,7 @@ Devant l’arche, iel s’arrêta, comme devant chaque portail depuis Gelinar, e
 
 *Pardon. Tu ne sais pas encore. Moi je sais, et je n’ai aucun moyen de te le dire  : tu n’as rien pour entendre, rien que des mains. Porte-moi une fois de plus. Ce ne sera pas moi.*
 
-Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire  ; et dans l’instant sans durée où iel n’exista pas, quelque chose se pencha sur ellui. Iel crut le sentir, sans corps pour sentir, comment savoir. C’était doux. La même douceur pour tous, des millions de gens chaque jour, sans en distinguer un seul, et ce matin-là elle en portait un qui la voyait mourir toutes les nuits depuis dix ans et qui s’en allait vers elle, sans savoir encore si sa main à ellui serait celle qui déchirerait, ou seulement une main posée dans l’image au moment où tout céderait.
+Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire  ; et dans l’instant sans durée où iel n’exista pas, une attention se pencha sur ellui. Iel crut la sentir, sans corps pour sentir, comment savoir. C’était doux. La même douceur pour tous, des millions de gens chaque jour, sans en distinguer un seul, et ce matin-là elle en portait un qui la voyait mourir toutes les nuits depuis dix ans et qui s’en allait vers elle, sans savoir encore si sa main à ellui serait celle qui déchirerait, ou seulement une main posée dans l’image au moment où tout céderait.
 
 Iel ressortit à Galenor, sur la pierre bleue d’Aethranor, dans une ville dure et claire, où le ciel tombait droit sur les toits.
 
