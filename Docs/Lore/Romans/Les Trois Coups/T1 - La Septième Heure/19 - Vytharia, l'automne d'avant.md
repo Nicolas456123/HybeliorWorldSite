@@ -151,8 +151,8 @@ Devant l’arche, iel s’arrêta, comme devant chaque portail depuis Gelinar, e
 
 *Pardon. Tu ne sais pas encore. Moi je sais, et je n’ai aucun moyen de te le dire  : tu n’as rien pour entendre, rien que des mains. Porte-moi une fois de plus. Ce ne sera pas moi.*
 
-Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire  ; et dans l’instant sans durée où iel n’exista pas, une attention se pencha sur ellui. Iel crut la sentir, sans corps pour sentir, comment savoir. C’était doux. La même douceur pour tous, des millions de gens chaque jour, sans en distinguer un seul, et ce matin-là elle en portait un qui la voyait mourir toutes les nuits depuis dix ans et qui s’en allait vers elle, sans savoir encore si sa main à ellui serait celle qui déchirerait, ou seulement une main posée dans l’image au moment où tout céderait.
+Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire  ; et dans l’instant sans durée où iel n’exista pas, une attention se pencha sur ellui. Iel crut la sentir, sans corps pour sentir, comment savoir. C’était doux. La même douceur pour tous, sans doute, des millions de gens chaque jour sans en distinguer un seul — iel n’en sut jamais rien, iel le crut. Et ce matin-là elle en portait un qui la voyait mourir toutes les nuits depuis dix ans et qui s’en allait vers elle, sans savoir encore si sa main à ellui serait celle qui déchirerait, ou seulement une main posée dans l’image au moment où tout céderait.
 
 Iel ressortit à Galenor, sur la pierre bleue d’Aethranor, dans une ville dure et claire, où le ciel tombait droit sur les toits.
 
-Et ce matin-là, ce qui tenait le monde porta un dormeur de plus d’un continent à l’autre. Il le prit, le défit, le rendit entier, comme il le faisait pour tous et depuis toujours  ; et il ne reconnut pas, dans cette âme qu’il venait de rendre, celle qui comptait depuis trois automnes les marches restant entre elle et une montagne noire, très loin au sud, dont il ne savait rien.
+Et ce matin-là, la chose qui n’avait que des mains prit le seul voyageur qui lui eût jamais demandé pardon, le défit, le rendit entier trois mille lieues plus loin, et n’en garda rien.

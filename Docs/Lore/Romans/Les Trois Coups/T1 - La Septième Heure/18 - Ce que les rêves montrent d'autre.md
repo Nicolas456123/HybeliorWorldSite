@@ -183,4 +183,4 @@ Iel rentra. Depuis la galerie, iel vit Thessan se pencher davantage sur la page,
 
 Dans la chambre, iel ne s’allongea pas tout de suite. La bourse de cuir huilé était sur la table, fermée, avec ce qui restait de grise dedans. Iel la regarda un moment et n’y toucha pas. Iel voulait voir  : savoir combien de fins tiendraient encore, cette nuit, sur la tête d’une épingle, et si un quatrième bras s’ouvrirait dans le fleuve, une manière de plus pour la chose d’arriver. Plus on approchait, plus les Rêves-Gris se ramifiaient, comme si le temps lui-même hésitait sur la forme qu’il allait prendre.
 
-Cette nuit-là, loin au sud, ce qui tenait le monde ensemble tenait encore, et ne savait pas qu’il y avait plus d’une façon de lâcher, ni laquelle serait la sienne.
+Sous la montagne, ce qui allait céder n’avait aucun rêve pour lui dire par où  : il y avait là aussi tout un delta de fins, et nul carnet nulle part n’en tiendrait le compte.

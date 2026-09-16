@@ -207,4 +207,4 @@ Longtemps il resta la tête dans le vide, à regarder la lueur rouge au sud, jus
 
 Il se releva. Un dernier regard au trou, aux feux d’en bas, à la lueur rouge au sud.
 
-Et il ne pouvait pas savoir. Personne à Cendal’Horun ne pouvait le savoir, ni son oncle aux mains ouvertes, ni la femme qui avait dit *tiens*, ni sa mère au chiffon, ni les Porteurs assis dans le noir des Chambres à tenir plus longtemps que leur tour  : que très loin au sud, sous cette même lueur rouge, dans la pierre la plus vieille et la plus dense du monde, quelque chose d’immense, sans nom et qui s’ignorait, tenait aussi, depuis bien plus longtemps que quatre cents ans, et avait commencé, très doucement, à desserrer la main.
+Et sous cette lueur, dans une roche plus vieille que toutes les Chambres de la ville, un Porteur que nul n’avait jamais relevé tenait son seau depuis bien avant les quatre cents ans, et cette nuit-là l’anse glissa d’un doigt.
