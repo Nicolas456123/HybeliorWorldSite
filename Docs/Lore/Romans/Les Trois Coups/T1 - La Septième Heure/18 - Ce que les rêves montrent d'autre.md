@@ -19,17 +19,17 @@ Le jeune homme parut à l’angle, son cahier sous le bras, et s’arrêta net.
 
 «  Encore vous, dit-il.
 
-— Encore moi. Asseyez-vous.  »
+— Encore moi. Assieds-toi.  »
 
 Il ne s’assit pas tout de suite. Il regarda le banc, puis Mirathis, de l’air d’un homme qui a appris ce que coûte une conversation avec un devin à la tombée du jour. Il avait du mauve sous les yeux et le teint de quelqu’un qui lit trop tard.
 
-«  Vous n’avez pas dormi, dit Mirathis.
+«  Tu n’as pas dormi, dit Mirathis.
 
 — Vous non plus, à ce qu’on dit. Trois nuits. Sera s’inquiète. Elle dit que vous vous privez de l’herbe exprès.  »
 
 Mirathis eut un rire bref, qui ne monta pas jusqu’aux yeux.
 
-«  Sera s’inquiète comme elle fait tout  : avec méthode. Dites-lui que je vais bien.  » Iel tapota la pierre à côté de soi. «  Asseyez-vous pour de bon. J’ai quelque chose à vous donner, et vous allez vouloir l’écrire. Vous écrivez mal debout.  »
+«  Sera s’inquiète comme elle fait tout  : avec méthode. Dis-lui que je vais bien.  » Iel tapota la pierre à côté de soi. «  Assieds-toi pour de bon. J’ai quelque chose à te donner, et tu vas vouloir l’écrire. Tu écris mal debout.  »
 
 La promesse d’une chose à écrire  : il s’assit, posa le cahier sur ses genoux et ne l’ouvrit pas. C’était sa façon de résister encore un instant. Une servante traversa la cour avec un seau, s’arrêta pour les regarder, jugea qu’il n’y avait rien à voir et repartit vers les cuisines, en laissant derrière elle une traînée d’eau qui sécha avant d’atteindre le mur. Thessan suivit le seau des yeux jusqu’à la porte.
 
@@ -41,7 +41,7 @@ La promesse d’une chose à écrire  : il s’assit, posa le cahier sur ses ge
 
 Iel prit le temps. Le froid de ses mains avait fini de descendre dans la pierre  ; la pierre commençait à le lui rendre. Un chariot ferré passa dans la rue derrière le mur, secoué sur les pavés, et quand il se fut éloigné on n’entendit plus que les pigeons sous l’auvent.
 
-«  Vous savez comment vont les Rêves-Gris, dit Mirathis. Je vous l’ai dit l’autre soir. Ils reviennent, et chaque fois ils sont un peu plus près. Depuis dix ans, c’est toujours le même qui revient  : le mont noir, l’homme de dos, le nœud, les huit silhouettes, le silence vide. Toujours le même.  » Un temps. «  Depuis trois nuits, ce n’est plus le même.  »
+«  Tu sais comment vont les Rêves-Gris, dit Mirathis. Je te l’ai dit l’autre soir. Ils reviennent, et chaque fois ils sont un peu plus près. Depuis dix ans, c’est toujours le même qui revient  : le mont noir, l’homme de dos, le nœud, les huit silhouettes, le silence vide. Toujours le même.  » Un temps. «  Depuis trois nuits, ce n’est plus le même.  »
 
 Thessan releva la tête.
 
@@ -57,7 +57,7 @@ Thessan avait ouvert le cahier. Sa main restait posée dessus, immobile, mais il
 
 «  Racontez-les, dit-il.
 
-— Je vais les raconter. Promettez-moi de les écrire toutes les trois et de n’en souligner aucune.  » Iel tourna vers lui son visage gris. «  C’est important. Votre main va vouloir choisir. Elle va vouloir écrire  : voici ce qui arrivera. Écrivez  : voici ce que Mirathis a vu. Au pluriel. Les trois debout côte à côte, sans juge. Sinon vous mentez dans le seul document qui n’ait pas le droit de mentir.  »
+— Je vais les raconter. Promets-moi de les écrire toutes les trois et de n’en souligner aucune.  » Iel tourna vers lui son visage gris. «  C’est important. Ta main va vouloir choisir. Elle va vouloir écrire  : voici ce qui arrivera. Écris  : voici ce que Mirathis a vu. Au pluriel. Les trois debout côte à côte, sans juge. Sinon tu mens dans le seul document qui n’ait pas le droit de mentir.  »
 
 Le jeune homme l’observa un moment. Puis il hocha la tête, trempa sa plume et attendit.
 
@@ -67,7 +67,7 @@ Le jeune homme l’observa un moment. Puis il hocha la tête, trempa sa plume et
 
 Iel ferma les yeux. Iel racontait mieux ainsi  : les rêves restaient imprimés de ce côté-là des paupières, et il suffisait de les relire.
 
-«  La première nuit, c’était presque l’ancien rêve. Le mont, l’homme de dos, sa main qui monte vers son propre nœud. Ce geste, je le connais par cœur  ; je pourrais vous donner l’angle du coude. Mais cette nuit-là, au moment où la main s’est levée, mes yeux se sont détournés de lui. Tout seuls. Comme on regarde ailleurs à la dernière seconde. Et ailleurs, il y avait quelqu’un.  »
+«  La première nuit, c’était presque l’ancien rêve. Le mont, l’homme de dos, sa main qui monte vers son propre nœud. Ce geste, je le connais par cœur  ; je pourrais te donner l’angle du coude. Mais cette nuit-là, au moment où la main s’est levée, mes yeux se sont détournés de lui. Tout seuls. Comme on regarde ailleurs à la dernière seconde. Et ailleurs, il y avait quelqu’un.  »
 
 «  Quelqu’un du Cercle  ?
 
@@ -81,7 +81,7 @@ La plume de Thessan s’était arrêtée.
 
 — Il n’y a rien de plus haut que le sommet.
 
-— Je sais. C’est pour cela que je vous le raconte.  »
+— Je sais. C’est pour cela que je te le raconte.  »
 
 Il tourna le cahier pour prendre ce qui restait de jour sur la page.
 
@@ -93,7 +93,7 @@ Thessan écrivait vite, à présent. Il s’arrêta, la plume en l’air.
 
 «  Neuf, dit-il. Non. Huit, et un de plus  : ce n’est pas la même chose.  » Il baissa la voix. «  Quelqu’un derrière l’Étudiant.
 
-— Je ne crois rien. Je vous rapporte un rêve.  » Mirathis leva la main pour l’arrêter net. «  Vous voyez  ? En deux phrases, une image est devenue une thèse. Il y a une nuit où j’ai vu une silhouette de trop. Une autre nuit m’en montrera peut-être zéro. Écrivez la silhouette. N’écrivez pas la thèse.  »
+— Je ne crois rien. Je te rapporte un rêve.  » Mirathis leva la main pour l’arrêter net. «  Tu vois  ? En deux phrases, une image est devenue une thèse. Il y a une nuit où j’ai vu une silhouette de trop. Une autre nuit m’en montrera peut-être zéro. Écris la silhouette. N’écris pas la thèse.  »
 
 Le jeune homme baissa les yeux sur sa page, biffa une ligne, la recommença. Il comptait toujours quand il avait peur  ; iel l’avait remarqué dès la première nuit, à la table du Cercle, quand il reprenait les nombres à voix haute pour se les rendre supportables. Iel le laissa faire.
 
@@ -115,7 +115,7 @@ Un long silence dans la cour. Thessan avait cessé d’écrire.
 
 «  Alors, dit-il, et sa voix était moins ferme qu’il ne l’aurait voulu, dans ce rêve-là, nous ne faisons rien.
 
-— Dans ce rêve-là, nous ne comptons pas. Nous sommes en bas quelque part, à dormir, à croire que nous décidons de quelque chose, pendant que la vieille toile lâche toute seule.  » Mirathis se tourna vers lui. «  Vous comprenez pourquoi je ne dors plus  ? L’ancien rêve était terrible, mais il me donnait une place. J’étais l’une des huit. Coupable, complice, instrument, mais quelqu’un. Celui-ci me retire jusqu’à ma faute. Il me dit que la toile ne m’attendait pas. Qu’elle aurait cédé avec moi ou sans moi, sur ce mont ou sur un autre, cette année ou dans dix ans.  »
+— Dans ce rêve-là, nous ne comptons pas. Nous sommes en bas quelque part, à dormir, à croire que nous décidons de quelque chose, pendant que la vieille toile lâche toute seule.  » Mirathis se tourna vers lui. «  Tu comprends pourquoi je ne dors plus  ? L’ancien rêve était terrible, mais il me donnait une place. J’étais l’une des huit. Coupable, complice, instrument, mais quelqu’un. Celui-ci me retire jusqu’à ma faute. Il me dit que la toile ne m’attendait pas. Qu’elle aurait cédé avec moi ou sans moi, sur ce mont ou sur un autre, cette année ou dans dix ans.  »
 
 Thessan regardait sa page. Les quelques lignes qu’il y avait posées tremblaient.
 
@@ -145,7 +145,7 @@ Thessan ne notait plus du tout. Il regardait Mirathis avec une expression que le
 
 «  Le voile se retire, répéta-t-il. De lui-même. Comme une marée.
 
-— Comme une chose qui a fini son ouvrage et s’en va. Sans colère. Sans qu’on l’ait chassée. Un pacte arrivé à son terme, peut-être  ; vous savez, ces accords qu’on scelle pour cent ans et qui cessent le cent-et-unième matin, simplement, parce que le temps convenu est passé. Le silence de ce rêve-là n’avait rien d’un silence de mort. Il était poli. Presque doux. Quelqu’un qui range ses affaires, tire la porte derrière soi et s’en va.  »
+— Comme une chose qui a fini son ouvrage et s’en va. Sans colère. Sans qu’on l’ait chassée. Un pacte arrivé à son terme, peut-être  ; tu sais, ces accords qu’on scelle pour cent ans et qui cessent le cent-et-unième matin, simplement, parce que le temps convenu est passé. Le silence de ce rêve-là n’avait rien d’un silence de mort. Il était poli. Presque doux. Quelqu’un qui range ses affaires, tire la porte derrière soi et s’en va.  »
 
 Mirathis se tut. Dans la rue, derrière le mur, quelqu’un rabattait des volets un à un, avec un bruit de bois sec. Le banc était tiède sous ses paumes, tout à fait tiède, et iel avait froid quand même.
 
@@ -159,7 +159,7 @@ Thessan resta longtemps sans rien dire. Quand il posa sa question, Mirathis comp
 
 C’était exactement celle qu’iel avait supplié qu’on ne posât pas, et iel n’arrivait pas à lui en vouloir. Il voulait ranger  : une question, une réponse, l’affaire classée, et passer à la suivante.
 
-«  Vous n’avez pas écouté, dit Mirathis, sans dureté. Ou vous avez écouté, et vous n’avez pas pu vous en empêcher.  » Iel se pencha un peu vers lui. «  Aucun n’est vrai. Ou les trois. Ce sont des couches, je vous en ai parlé l’autre soir  : on les porte toutes en même temps, et à la fin il n’en reste qu’une, et il est trop tard pour les autres. Un Rêveur-de-Cendre voit vrai, toujours. Quand il en voit trois, ce n’est pas qu’il se trompe deux fois. C’est qu’à cette distance, le vrai n’a pas encore pris sa forme.  »
+«  Tu n’as pas écouté, dit Mirathis, sans dureté. Ou tu as écouté, et tu n’as pas pu t’en empêcher.  » Iel se pencha un peu vers lui. «  Aucun n’est vrai. Ou les trois. Ce sont des couches, je t’en ai parlé l’autre soir  : on les porte toutes en même temps, et à la fin il n’en reste qu’une, et il est trop tard pour les autres. Un Rêveur-de-Cendre voit vrai, toujours. Quand il en voit trois, ce n’est pas qu’il se trompe deux fois. C’est qu’à cette distance, le vrai n’a pas encore pris sa forme.  »
 
 «  Mais l’un se réalisera. Un seul. Quand nous serons là-haut, il n’y aura qu’une seule nuit.
 
@@ -169,7 +169,7 @@ Thessan baissa les yeux sur son cahier. Une page et demie, en tout  ; l’écri
 
 «  C’est pour cela que vous me les donnez, dit-il. Pour qu’il en reste une trace. Pour qu’après, quand il n’y aura plus qu’une histoire, il y ait au moins ce carnet où les autres fins sont écrites.
 
-— Vous commencez à voir à quoi vous servez.  » Iel se leva, lentement, une main au creux du rein comme un vieillard, bien qu’iel n’eût pas trente-cinq ans. «  Vous gardez les fins que nous n’aurons pas eues. Personne d’autre ne les gardera.  »
+— Tu commences à voir à quoi tu sers.  » Iel se leva, lentement, une main au creux du rein comme un vieillard, bien qu’iel n’eût pas trente-cinq ans. «  Tu gardes les fins que nous n’aurons pas eues. Personne d’autre ne les gardera.  »
 
 Le jeune homme leva vers iel un visage brouillé.
 

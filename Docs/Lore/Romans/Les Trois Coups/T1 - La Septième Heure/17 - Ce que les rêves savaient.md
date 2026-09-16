@@ -85,35 +85,35 @@ Voilà pourquoi iel s’était assis·e sur ce seuil, dans cette ville dure qui 
 
 Thessan sortit dans la cour peu après, son cahier sous le bras. Il l’avait toujours sous le bras, à croire qu’il craignait qu’on ne le lui volât, ou qu’il ne le perdît, ou que la chose écrite ne s’échappât si on la laissait seule. Le jeune homme s’arrêta en voyant Mirathis sur le seuil, et prit cet air que Mirathis lui connaissait déjà  : celui de quelqu’un qui voudrait bien dormir et qui sait qu’on va l’en empêcher.
 
-«  Je vous avais dit que vous dormiriez mal  », dit Mirathis, doucement.
+«  Je t’avais dit que tu dormirais mal  », dit Mirathis, doucement.
 
 «  Vous ne me l’aviez pas dit pour cette nuit, répondit Thessan. Vous me l’avez dit pour toutes les nuits. C’est cette précision-là qui est difficile.  »
 
 Il vint s’asseoir sur le seuil voisin, à distance polie. Mirathis aimait bien ce garçon. Vingt-cinq ans, le plus jeune du Cercle, et déjà cette gravité de vieil homme qui a trop lu. Iel retrouvait en lui, parfois, quelque chose de ce qu’iel avait été à Gelinar avant que les rêves ne commencent  : quelqu’un qui croyait encore que comprendre pouvait suffire à supporter.
 
-«  Vous n’écrivez pas, ce soir  ? demanda Mirathis.
+«  Tu n’écris pas, ce soir  ? demanda Mirathis.
 
 — J’allais.  » Le cahier resta posé sur ses genoux, fermé. «  Je passe plus de temps à ne pas l’ouvrir qu’à écrire, ces derniers jours. J’ai peur de ce que ma main va noter. Elle ne note jamais ce que je décide de noter.
 
-— Vous aussi, alors.  » Mirathis eut un petit rire sans joie.
+— Toi aussi, alors.  » Mirathis eut un petit rire sans joie.
 
 «  Moi aussi quoi  ?
 
-— Vous avez une part de vous qui sait des choses avant vous, et qui les écrit avant que vous ayez décidé de les penser.  » L’infusion refroidissait toujours  ; iel la regardait faire. «  C’est cela, un rêve. Une main qui écrit sans vous demander. La mienne écrit la nuit. La vôtre le jour.  »
+— Tu as une part de toi qui sait des choses avant toi, et qui les écrit avant que tu aies décidé de les penser.  » L’infusion refroidissait toujours  ; iel la regardait faire. «  C’est cela, un rêve. Une main qui écrit sans te demander. La mienne écrit la nuit. La tienne le jour.  »
 
 Thessan resta un long moment sans répondre, les yeux sur ellui. Il avait une théorie sur chacun d’eux, Mirathis le savait  : c’était son travail, comprendre le Cercle et en faire la mémoire. Iel le vit chercher où cette phrase irait dans le cahier, à quelle date, auprès de quoi. Les Tisseurs de Vytharia auraient reconnu le geste.
 
-«  Je vais vous poser une question, Thessan. Vous n’êtes pas obligé d’y répondre. Mais vous êtes le seul à qui je puisse la poser, parce que vous êtes le seul de nous à ne rien *faire*.  » Le jeune homme se raidit un peu  ; iel ajouta  : «  Ce n’est pas un reproche. C’est presque de l’envie.
+«  Je vais te poser une question, Thessan. Tu n’es pas obligé d’y répondre. Mais tu es le seul à qui je puisse la poser, parce que tu es le seul de nous à ne rien *faire*.  » Le jeune homme se raidit un peu  ; iel ajouta  : «  Ce n’est pas un reproche. C’est presque de l’envie.
 
 — Posez-la.
 
-— Si vous saviez, avec certitude, la certitude d’une chose déjà arrivée, pas l’espoir ni la crainte, la *certitude*, que ce que nous montons faire au sommet de ce mont arrivera de toute façon, avec nous ou sans nous, dans trois ans, quoi que nous décidions ici… est-ce que vous monteriez quand même  ?  »
+— Si tu savais, avec certitude, la certitude d’une chose déjà arrivée, pas l’espoir ni la crainte, la *certitude*, que ce que nous montons faire au sommet de ce mont arrivera de toute façon, avec nous ou sans nous, dans trois ans, quoi que nous décidions ici… est-ce que tu monterais quand même  ?  »
 
 Thessan ne répondit pas tout de suite. Il regardait ses mains. La chandelle de la cour tremblait dans un courant d’air, et l’ombre du jeune homme s’allongeait puis se raccourcissait sur les pavés.
 
 «  Je ne comprends pas la question, dit-il enfin. Si cela arrive de toute façon, monter ou ne pas monter ne change rien. Donc la question n’a pas de sens.
 
-— Elle n’a pas de sens si vous croyez qu’agir sert à changer les choses, dit Mirathis. Mais nous ne montons peut-être pas pour changer quelque chose. Peut-être montons-nous pour *être là*. Pour que la chose, quand elle arrivera, ait eu des visages, et des noms, et un pain partagé, et un journal. Pour qu’elle ne soit pas seulement quelque chose qui *tombe*.  » Iel se tourna vers lui. «  Vous tenez le journal, Thessan. Vous, mieux que quiconque, devriez comprendre qu’on peut avoir une raison de faire une chose qui n’est pas de la *causer*.  »
+— Elle n’a pas de sens si tu crois qu’agir sert à changer les choses, dit Mirathis. Mais nous ne montons peut-être pas pour changer quelque chose. Peut-être montons-nous pour *être là*. Pour que la chose, quand elle arrivera, ait eu des visages, et des noms, et un pain partagé, et un journal. Pour qu’elle ne soit pas seulement quelque chose qui *tombe*.  » Iel se tourna vers lui. «  Tu tiens le journal, Thessan. Toi, mieux que quiconque, tu devrais comprendre qu’on peut avoir une raison de faire une chose qui n’est pas de la *causer*.  »
 
 Le garçon pâlit légèrement et resserra les bras sur son cahier. Mirathis regretta de l’avoir dit, et n’ajouta rien.
 
@@ -131,7 +131,7 @@ Un long silence. Au-dessus des toits d’Aethranor, le ciel était clair, piqué
 
 — Vous voulez dire, dit Thessan très lentement, que nous pourrions ne rien causer du tout  ?
 
-— Je veux dire que je ne sais pas, dit Mirathis. Le rêve sait tout le reste avec une précision que vous ne pouvez pas imaginer  : la couleur du ciel ce matin-là, la position exacte des mains, le nombre de secondes du silence. Sur ce point-là, il refuse de me montrer. Comme s’il ne le savait pas non plus. Comme si personne ne le savait. Pas même la chose qui va mourir.  »
+— Je veux dire que je ne sais pas, dit Mirathis. Le rêve sait tout le reste avec une précision que tu ne peux pas imaginer  : la couleur du ciel ce matin-là, la position exacte des mains, le nombre de secondes du silence. Sur ce point-là, il refuse de me montrer. Comme s’il ne le savait pas non plus. Comme si personne ne le savait. Pas même la chose qui va mourir.  »
 
 Il y eut, dans la cour, ce silence particulier qui suit une phrase qu’on ne pourra pas reprendre. Thessan avait ouvert son cahier, machinalement, et sa main s’était mise à écrire toute seule  ; Mirathis vit la plume bouger sans que le jeune homme parût la commander, et ne chercha pas à lire. C’était bien ainsi. Une main écrivait le jour ce que l’autre voyait la nuit.
 
@@ -143,7 +143,7 @@ Mirathis ne répondit pas tout de suite. Iel finit par porter le bol à ses lèv
 
 Iel se leva. La brume intérieure était retombée un peu, comme chaque fois qu’iel avait parlé  ; c’était sa manière à ellui de dormir, parler à quelqu’un jusqu’à ce que le rêve recule d’une marche. Ce soir, iel dormirait un peu, et le rêve viendrait quand même, et au matin il aurait encore approché.
 
-«  Vous devriez écrire ceci, dit Mirathis en désignant le cahier du menton. Pas ce que j’ai dit sur les rêves. L’autre chose. Que je vous ai posé la question, que vous n’avez pas su répondre, et moi non plus. Écrivez que personne ici ne croit vraiment que c’est bien, et que nous croyons seulement que c’est inévitable. C’est différent. C’est plus honnête. Et je crois que c’est la seule chose vraie que nous pourrons jamais dire de nous-mêmes.  »
+«  Tu devrais écrire ceci, dit Mirathis en désignant le cahier du menton. Pas ce que j’ai dit sur les rêves. L’autre chose. Que je t’ai posé la question, que tu n’as pas su répondre, et moi non plus. Écris que personne ici ne croit vraiment que c’est bien, et que nous croyons seulement que c’est inévitable. C’est différent. C’est plus honnête. Et je crois que c’est la seule chose vraie que nous pourrons jamais dire de nous-mêmes.  »
 
 Thessan leva les yeux, et Mirathis vit que le garçon retenait la phrase, qu’il la garderait, et qu’un soir, dans quelques semaines peut-être, quand quelqu’un reposerait enfin la question à voix haute devant les autres réunis, cette phrase-là serait prête, sur des lèvres, quelque part.
 
