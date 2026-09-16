@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-1, pov-aelindra, celethor, recrutement, expansion-v2]
+titre: Deux ans pour une faille
 type: roman-chapitre
 partie: I
 pov: Aelindra (passé — la dernière rencontre de l'infiltration, la conversion par la raison)

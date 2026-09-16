@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-2, pov-sanne, fil-documentaire, cahier-de-kessane, fragment-3, le-battement, renna, ilex, coeur-thematique, les-signes-se-pressent]
+titre: Le texte et le battement
 type: chapitre-roman
 partie: II — Les signes se pressent
 pov: Sanne

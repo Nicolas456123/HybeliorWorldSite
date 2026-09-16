@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, pov-kessane, guilde-forgerons-non-lies, serment, cahier-de-la-guilde]
+titre: Le serment du fer froid
 type: chapitre-roman
 partie: I
 pov: Kessane de la Forge-Basse

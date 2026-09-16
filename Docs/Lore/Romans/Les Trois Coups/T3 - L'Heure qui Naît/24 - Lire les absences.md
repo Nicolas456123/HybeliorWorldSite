@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-3, pov-vaskar-sorne, ombres-souterraines, drakora, la-traque, lire-les-absences, registre-trafique, nuit-qui-manque, gite-paye-deux-fois, duel-a-distance, immobiliser-un-texte, copie-dolven, catena-fracta-fausse-piste, marches-donara]
+titre: Lire les absences
 type: roman-chapitre
 partie: III
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

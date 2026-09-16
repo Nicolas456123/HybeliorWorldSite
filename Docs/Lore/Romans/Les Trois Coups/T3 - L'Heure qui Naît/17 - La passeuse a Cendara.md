@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-2, pov-renna, cendara, la-passeuse, sanne, ilex, enfant-aux-yeux-blancs, cahier-de-kessane, le-geste-et-l-ouie, fragment-3, triangle, les-signes-se-pressent]
+titre: La passeuse à Cendara
 type: chapitre-roman
 partie: II — Les signes se pressent
 pov: Renna

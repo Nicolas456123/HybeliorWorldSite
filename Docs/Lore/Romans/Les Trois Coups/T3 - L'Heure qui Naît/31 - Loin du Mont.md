@@ -1,7 +1,9 @@
 ---
+titre: Loin du Mont
 partie: III — La traque
 pov: Renna
-status: draft
+status: drafttype: roman-chapitre
+
 ---
 
 # Loin du Mont

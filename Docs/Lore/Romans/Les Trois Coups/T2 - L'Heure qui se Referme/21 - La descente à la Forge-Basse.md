@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-olven, verithani-endeuille, cahier-de-copie, journal-de-thessan, scriptorium-incendie, deux-cahiers, fragment-3, blessure-qui-suppure, mythe-du-troisieme-coup, la-route]
+titre: La descente à la Forge-Basse
 type: chapitre-roman
 partie: III
 pov: Frère Olven (présent) — le copiste, Verithani Endeuillé

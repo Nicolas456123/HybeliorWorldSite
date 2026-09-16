@@ -10,142 +10,148 @@ status: draft
 
 # Chapitre dix-huit — Vytharia, l’automne d’avant
 
-À Gelinar, on ne partait pas. On s’y dissolvait ou l’on y restait ; personne, de mémoire de Tisseur, n’avait jamais bouclé un sac pour aller *ailleurs* de son plein gré, parce que Gelinar était le bout du monde par le bas, la dernière brume avant qu’il n’y eût plus rien à respirer. Mirathis fit sa besace un matin où la brume avait sa teinte de fin de saison, plus jaune, presque terreuse, la couleur qu’elle prenait quand l’année basculait vers le froid, et iel comprit, en la fermant, que iel venait de faire le geste qu’aucun enfant du champ d’encens n’avait fait avant ellui. Le geste de tourner le dos à la couche épaisse.
+La brume avait pris sa teinte de fin de saison, plus jaune, presque terreuse, celle qui venait quand l’année basculait vers le froid. Mirathis fit sa besace dans cette lumière-là, un matin, sur le seuil de la maison où iel était né·e, et serra la courroie deux fois pour s’occuper les mains.
 
-Sa voisine, la vieille Orenn, qui teillait la soie de brume sur le seuil d’en face depuis avant la naissance de Mirathis, leva la tête de son fil.
+On ne partait pas de Gelinar. On y restait, ou bien on s’y perdait sans avoir rien décidé  : c’était le bout du monde par le bas, la dernière brume avant qu’il n’y eût plus rien à respirer, et de mémoire de Tisseur personne du champ d’encens n’avait jamais bouclé un sac pour aller ailleurs. Mirathis venait de le faire.
 
-« Tu pars pour combien de temps ? »
+En face, la vieille Orenn teillait la soie de brume sur son seuil, comme elle le faisait depuis avant la naissance de Mirathis. Elle leva la tête de son fil.
 
-« Je ne pars pas pour un temps », dit Mirathis. « Je pars pour un lieu. »
+«  Tu pars pour combien de temps  ?  »
 
-La vieille femme suspendit son geste. Elle connaissait les manières des Rêveurs-de-Cendre. Gelinar en avait compté deux avant Mirathis, et Orenn avait vu vieillir l’un et brûler l’autre. Elle savait qu’on ne leur demandait pas de s’expliquer, parce que leurs réponses étaient toujours à côté, non par ruse, mais parce que la langue de veille leur allait comme une chaussure d’un autre pied.
+«  Pour Galenor  », dit Mirathis.
 
-« Tu ne reviendras pas », dit-elle enfin. Ce n’était pas une question.
+Orenn ne demanda pas qu’on lui réponde mieux. Gelinar avait compté deux Rêveurs-de-Cendre avant Mirathis  ; elle avait vu vieillir l’un et brûler l’autre, et elle avait cessé depuis longtemps de leur faire répéter leurs réponses.
 
-« Je ne sais pas », répondit Mirathis, et c’était la chose la plus honnête que iel eût dite depuis des mois. « J’ai des rêves où je reviens et des rêves où je ne reviens pas. Je vous laisse la moitié de la grise », iel posa une bourse de cuir huilé sur le muret bas qui séparait leurs deux seuils, « pour celui des deux qui se trompe. »
+«  Tu ne reviendras pas  », dit-elle enfin, et elle reprit son fil.
 
-Orenn regarda la bourse sans y toucher. Puis, avec la brusquerie des gens qui ont teillé toute leur vie et n’ont plus de temps à perdre en douceurs :
+«  Certaines nuits je reviens. D’autres, non.  » Mirathis posa une bourse de cuir huilé sur le muret bas qui séparait les deux seuils. «  La moitié de ma grise. Pour celui des deux qui se trompe.  »
 
-« Emporte-la, ta grise. Là où tu vas, ils n’auront pas appris à dormir mal. Tu seras seul·e à le savoir. Autant emporter de quoi. »
+Orenn regarda la bourse sans y toucher. Puis elle la repoussa du dos de la main, sans lâcher son fil.
 
-Mirathis reprit la bourse. C’était, iel le sut bien plus tard, à Aethranor, sur un seuil de pierre bleue, le meilleur conseil qu’on lui eût donné.
+«  Reprends-la. Là-haut, ils ne connaissent pas l’herbe. Tu n’en retrouveras pas une pincée, et tu en auras besoin avant moi.  »
 
----
-
-Remonter Gelinar, c’était remonter la brume marche après marche, comme on remonte un puits. À chaque lieue vers le nord, l’air s’éclaircissait d’un ton, et Mirathis sentait quelque chose se serrer en ellui à mesure que le monde se montrait davantage. La brume, iel l’avait crue une prison, en partant. C’était une paupière : vivre sous elle, c’était vivre les yeux mi-clos, et le monde nu, sans filtre, faisait mal comme une lumière qu’on rallume trop vite.
-
-À Nectoria, où les Tisseurs de Voile calibraient les illusions pour ne pas terrifier les étrangers, une jeune Rêveuse Lucide en formation l’aborda sur le pont des jardins. Elle avait reconnu la démarche : cette manière qu’ont les gens de Gelinar de poser le pied comme s’ils vérifiaient que le sol est bien là.
-
-« Vous descendez de la brume », dit-elle, ravie de son observation. « On voit ça à la façon dont vous regardez les fleurs. Vous attendez qu’elles fassent quelque chose. »
-
-Autour d’eux, les fleurs de Nectoria changeaient de couleur au passage des promeneurs, s’ouvraient, murmuraient de petites illusions bienveillantes. Mirathis les regardait, en effet, comme on regarde des enfants qui jouent près d’un ravin.
-
-« Je les regarde parce qu’elles ne savent pas », dit Mirathis.
-
-« Ne savent pas quoi ? »
-
-« Qu’on les tient. » Iel posa une main sur la balustrade du pont ; sous la pierre, iel sentait, ou croyait sentir, comment savoir, la trame fine qui faisait tenir toute cette douceur, l’immense attention patiente qui tissait les couleurs et les parfums. « Elles croient qu’elles sont belles toutes seules. C’est cela, une illusion réussie : elle efface la main qui la tient. »
-
-La jeune femme rit, du rire poli de ceux qui prennent une gravité pour un jeu.
-
-« Vous parlez comme un Veilleur. Ils disent tous que rien n’est vrai, que tout est tenu. Ça les rend tristes, à la fin. Vous devriez venir à l’Aube d’Aurion, l’an prochain, on rallume les lanternes de rêve, ça vous —
-
-— Il n’y aura pas d’an prochain comme celui-ci », dit Mirathis.
-
-Iel ne l’avait pas voulu ; c’était sorti, comme sortaient parfois les phrases des Rêves-Gris, par-dessous la garde. La jeune Rêveuse cligna des yeux, chercha la plaisanterie, ne la trouva pas, et son sourire se défit d’un cran. Mirathis vit qu’iel venait de faire ce qu’iel faisait toujours : poser une ombre sur une lumière qui ne demandait rien. Iel s’en voulut, et fit ce qu’iel avait appris à faire dans ces cas-là : reculer d’un pas, sourire à moitié, rendre à l’autre son insouciance en faisant mine d’avoir plaisanté.
-
-« Ne m’écoutez pas. Les gens de la brume disent des choses de brume. Allez rallumer vos lanternes. »
-
-Elle repartit, un peu rassurée, pas tout à fait. Longtemps, Mirathis se rappellerait ce visage, non pour ce qu’il avait dit, mais parce que c’était l’un des derniers visages qu’iel eût vus *avant*, un visage qui appartenait encore entièrement au monde tenu, et qui ne saurait jamais que quelqu’un, sur un pont de jardin, lui avait présenté ses adieux.
+Mirathis reprit la bourse. Bien plus tard, à Aethranor, sur un seuil de pierre bleue, iel se dirait que personne ne lui avait jamais donné de meilleur conseil.
 
 ---
 
-Quitter Vytharia se fit par les routes de l’ouest, là où le Voile s’amincit et où le pays cesse peu à peu de rêver pour redevenir de la terre ordinaire. Mirathis passa la marche sans cérémonie, une borne de pierre grise, une auberge, un changement dans le goût de l’eau, et se retrouva dans Ilthara nue, le plus grand continent du monde, huit nations cousues ensemble par la seule impossibilité de s’ignorer.
+On remontait de Gelinar comme d’un puits. À chaque lieue vers le nord l’air s’éclaircissait d’un ton, et Mirathis, qui avait cru la brume pesante, découvrit qu’elle portait. Les premiers matins sans elle, iel marcha les yeux plissés jusqu’à midi et garda toute la journée un mal de tête sourd derrière les tempes. Le ciel était trop haut. Il n’y avait plus rien entre iel et lui.
 
-En carriole quand iel put en payer une, à pied quand iel ne put pas, Mirathis évitait les portails, se le reprochait sans se l’expliquer, une répugnance physique à confier son corps au rien de l’entre-deux, et remettait toujours au portail suivant le moment de céder à la fatigue et de sauter.
+À Nectoria, la ville-jardin où les Tisseurs de Voile calibrent les illusions pour ne pas terrifier les étrangers, une jeune Rêveuse Lucide en formation l’aborda sur le pont des jardins. Elle avait reconnu la démarche  : cette manière qu’ont les gens de Gelinar de poser le pied comme s’ils vérifiaient que le sol est bien là.
 
-Ce fut un rouleur de Gryndor qui le prit un soir sur sa carriole d’étoffes, un homme large et bavard nommé Halvec, qui allait porter des draps de laine aux foires de la marche haute et qui n’aimait rien tant que trouver, sur une route déserte, une oreille neuve.
+«  Vous descendez de la brume  », dit-elle, contente d’elle. «  On le voit à la façon dont vous regardez les fleurs. Vous attendez qu’elles fassent quelque chose.  »
 
-« Tu évites les arches », remarqua Halvec au bout d’une heure, en désignant du fouet une arche de transit qui luisait à un carrefour, à main gauche. « Trois jours qu’on double des portails et tu ne regardes même pas de leur côté. La plupart des gens, quand ils sont fatigués, ils sautent. Toi tu marches. Pourquoi tu marches ? »
+Autour d’eux, les fleurs changeaient de couleur au passage des promeneurs, s’ouvraient, murmuraient de petites illusions aimables. Mirathis les regardait, en effet, comme on regarde des enfants qui jouent près d’un ravin.
 
-« Parce que je n’aime pas qu’on me porte sans me voir », dit Mirathis.
+«  Je les regarde parce qu’elles ne savent pas.
 
-« Personne ne te voit, dans un portail. C’est bien le but. Tu entres ici, tu sors là-bas, entre les deux tu n’existes pas. Moi je trouve ça reposant. »
+— Ne savent pas quoi  ?
 
-« Vous ne trouveriez pas ça reposant, dit Mirathis, si vous saviez que la chose qui vous fait ne pas exister le fait avec tendresse. »
+— Qu’on les tient.  » Iel posa la main sur la balustrade du pont. Sous la pierre, il y avait le travail  : quelqu’un, quelque part, tenait ces couleurs ouvertes depuis le matin et les tiendrait jusqu’au soir. «  Elles se croient belles toutes seules.  »
 
-Halvec rit, claqua sa langue à l’adresse du cheval, et coula vers son passager le regard oblique des gens simples devant les phrases trop tournées.
+La jeune femme rit. Elle avait pris cela pour un jeu.
 
-« Tu es un de ces mystiques de la brume, hein. On m’avait dit que vous parliez tous comme ça. À l’envers. » Il n’y avait pas de méchanceté dans sa voix, seulement l’aisance d’un homme qui a roulé sur toutes les routes et cessé depuis longtemps de s’étonner des cargaisons qu’elles lui donnent. « Tiens, puisque tu aimes les choses invisibles, tu connais l’histoire de la Fracture ? Chez nous, à Gryndor, les savants en parlent encore, alors que c’est vieux, vieux comme rien du tout, personne ne sait de quand. »
+«  Vous parlez comme un Veilleur. Ils disent tous que rien n’est vrai, que tout est tenu. Ça les rend tristes, à la fin. Vous devriez venir à l’Aube d’Aurion, l’an prochain, on rallume les lanternes de rêve, ça vous —
 
-« Racontez. » Mirathis remonta son manteau ; le froid venait avec le soir, sur ces hauteurs sans brume.
+— Il n’y aura pas d’an prochain comme celui-ci.  »
 
-« On dit qu’il y a eu, tout au début, avant les royaumes, avant les nombres, un endroit où le temps s’est *cassé*. Pas la terre : le temps. Comme un pot qu’on lâche. Et depuis, à cet endroit, les heures ne coulent pas droit. Des gens y entrent jeunes et en ressortent vieux ; d’autres n’en ressortent jamais mais on continue de les entendre, à midi précis, appeler quelqu’un qui est mort il y a des siècles. » Halvec haussa les épaules, ravi de son effet. « Des histoires de savants. Moi je livre des draps. Mais ça t’irait bien, ça, non ? Un endroit où le temps ne tient plus. »
+Iel ne l’avait pas voulu. La phrase était sortie par-dessous la garde, comme sortaient parfois celles des Rêves-Gris. La jeune Rêveuse cligna des yeux, chercha la plaisanterie, ne la trouva pas, et son sourire descendit d’un cran. Mirathis recula d’un pas et sourit à moitié, pour lui rendre ce qu’iel venait de lui prendre.
 
-Mirathis ne répondit pas tout de suite. La route, devant les naseaux du cheval, cette bande de terre pâle qui s’enfonçait dans le soir : iel la regardait, et pensait à une chose qu’iel n’avait jamais formulée et qui, sur cette carriole d’étoffes, entre un homme qui livrait des draps et un cheval fatigué, prit d’un coup sa forme.
+«  Ne m’écoutez pas. On dort mal, en bas, et on parle mal. Allez rallumer vos lanternes.  »
 
-« Une chose qui s’est déjà cassée une fois », dit Mirathis, lentement, « peut se casser une autre. »
-
-« Comment ça ? »
-
-« Vous venez de me dire qu’un jour, quelque part, ce qui tenait le temps a lâché. Sans que personne l’ait décidé, sans qu’on sache pourquoi, ni de quand. » Vers le rouleur, iel se tourna. « Si cela est arrivé une fois à ce qui tient le temps, qu’est-ce qui empêche que cela arrive, une fois, à ce qui tient *le reste* ? »
-
-Le rouleur médita cela le temps de trois pas de cheval, puis secoua la tête en riant, du rire de qui referme une porte qu’on vient d’entrouvrir sur le noir.
-
-« Rien, j’imagine. Mais faut pas penser à ça, l’ami. On deviendrait fou. » Il claqua le fouet. « Le monde tient. Il a toujours tenu. Un homme qui livre des draps depuis trente ans te le dit : le monde tient. »
-
-« Je vous crois », dit Mirathis avec douceur.
-
-Et c’était vrai, d’une certaine manière : iel croyait Halvec. Iel croyait que le monde avait toujours tenu, exactement comme un fil trop tendu tient — jusqu’à la seconde d’avant. Mais cela, iel ne le dit pas. On ne retire pas à un homme la carriole sur laquelle il roule.
+Elle repartit, à moitié rassurée. Mirathis garda ce visage longtemps. C’était l’un des derniers qu’iel verrait d’avant, et elle ne saurait jamais qu’on lui avait dit adieu sur un pont de jardin.
 
 ---
 
-Ils se séparèrent à la marche haute, où Gryndor donne la main à Haldria et où les toits changent de pente. Halvec lui laissa, en guise d’adieu, un coupon de laine grise « pour les nuits d’en haut, il y fait un froid de traître », et Mirathis lui laissa la seule chose qu’iel avait de trop : un petit cristal onirique de Gelinar, un de ceux qui, posés près de la tempe, adoucissent le premier sommeil. Le rouleur le fit rouler dans sa grosse paume, méfiant.
+Quitter Vytharia se fit par les routes de l’ouest, là où le Voile s’amincit et où le pays cesse peu à peu de rêver pour redevenir de la terre ordinaire. Une borne de pierre grise, une auberge, un changement dans le goût de l’eau  : Mirathis passa la marche sans cérémonie et se retrouva dans Ilthara nue, le plus grand continent du monde, huit nations pressées les unes contre les autres.
 
-« Ça fait quoi ?
+En carriole quand iel put en payer une, à pied le reste du temps. Iel évitait les arches sans savoir dire pourquoi  ; son corps refusait chaque fois qu’iel s’en approchait, et chaque fois iel remettait au portail suivant le moment de céder à la fatigue et de sauter.
 
-— Ça donne de beaux rêves », mentit Mirathis : car il donnait surtout des rêves *sans conséquence*, ce qui n’est pas la même chose, mais Halvec n’avait pas besoin de connaître la différence, lui qui dormait déjà comme dorment les justes et les ignorants. « Gardez-le pour une nuit où vous auriez peur.
+Ce fut un rouleur de Gryndor qui le prit un soir sur sa carriole d’étoffes. Un homme large et bavard, nommé Halvec, qui montait des draps de laine aux foires de la marche haute et qui n’aimait rien tant que trouver une oreille neuve sur une route déserte.
 
-— J’ai jamais peur, la nuit.
+«  Tu évites les arches  », remarqua-t-il au bout d’une heure, en désignant du fouet une arche de transit qui luisait à un carrefour, à main gauche. «  Trois jours qu’on en double et tu ne regardes même pas de leur côté. Les gens fatigués, d’habitude, ils sautent. Toi tu marches. Pourquoi tu marches  ?
 
-— Alors gardez-le pour la première. »
+— Parce que je n’aime pas qu’on me porte sans me voir.
 
-L’homme rangea le cristal dans sa ceinture, et Mirathis sut qu’il ne s’en servirait jamais, et que ce n’était pas grave : que certains présents ne sont pas faits pour être utilisés mais pour que celui qui les reçoit sache, un jour lointain, qu’on avait pensé à sa peur avant lui.
+— Personne ne te voit, dans un portail. C’est le principe. Tu entres ici, tu sors là-bas, entre les deux tu n’existes pas. Moi je trouve ça reposant.
 
-Les nuits d’en haut furent les pires. Sans la brume, sans la grise qu’iel rationnait maintenant à cause du conseil d’Orenn, Mirathis dormait à découvert sous un ciel que rien ne voilait, et le rêve montait sans obstacle. Chaque nuit, la même montagne noire, très loin au sud, plus loin que tout ce qu’iel traversait, un mont où rien ne bougeait et d’où pourtant tout partait. Chaque nuit, l’homme de dos, les sept silhouettes, puis huit avec la sienne. Et chaque nuit, à mesure qu’iel avançait vers l’ouest et le nord, le pas de l’escalier montait d’une marche, comme si le fait même de voyager rapprochait la chose, alors qu’iel voyageait, pourtant, dans une direction qui aurait dû l’en éloigner.
+— Il y a quelqu’un qui vous porte, là-dedans  », dit Mirathis. «  Vous ne le savez pas, c’est tout.  »
 
-C’était l’une des cruautés qu’iel n’avait dites à personne : on ne fuit pas un Rêve-Gris en s’éloignant du lieu. Le lieu vient à vous depuis l’intérieur.
+Halvec rit et claqua la langue à l’adresse du cheval.
+
+«  Tu es un de ces mystiques de la brume, hein. On m’avait dit que vous parliez tous comme ça. À l’envers.  » Il n’y mettait pas de méchanceté  : il avait chargé pire, sur cette route. «  Tiens, puisque tu aimes les choses invisibles. Tu connais l’histoire de la Fracture  ? Chez nous, à Gryndor, les savants en parlent encore, et c’est vieux, vieux comme rien du tout, personne ne sait de quand.
+
+— Racontez.  » Mirathis remonta son manteau. Le froid venait avec le soir, sur ces hauteurs sans brume. La carriole sentait la laine neuve et le suint  ; sous la bâche, les draps pliés bougeaient à chaque ornière, avec un bruit doux de chose bien rangée.
+
+«  On dit qu’il y a eu, tout au début, avant les royaumes, avant les nombres, un endroit où le temps s’est cassé. Pas la terre  : le temps. Comme un pot qu’on lâche. Depuis, à cet endroit, les heures ne coulent pas droit. Des gens y entrent jeunes et en ressortent vieux. D’autres n’en ressortent pas, et on continue de les entendre, à midi précis, appeler quelqu’un qui est mort il y a des siècles.  » Halvec haussa les épaules, content de son effet. «  Des histoires de savants. Moi je livre des draps. Mais ça t’irait bien, ça, non  ? Un endroit où le temps ne tient plus.  »
+
+Mirathis ne répondit pas tout de suite. Devant les naseaux du cheval, la route s’enfonçait dans le soir, pâle, sans un feu nulle part. Une chose que iel remuait depuis dix ans sans trouver par où la prendre trouva sa forme là, sur cette carriole d’étoffes, entre un homme qui livrait des draps et une bête fatiguée.
+
+«  Ce qui s’est cassé une fois peut se casser une autre fois  », dit Mirathis, lentement.
+
+«  Comment ça  ?
+
+— Vous venez de me dire qu’un jour, quelque part, ce qui tenait le temps a lâché. Sans que personne l’ait décidé, sans qu’on sache pourquoi, ni de quand.  » Iel se tourna vers le rouleur. «  Si c’est arrivé à ce qui tient le temps, qu’est-ce qui empêche que cela arrive, une fois, à ce qui tient le reste  ?  »
+
+Halvec réfléchit le temps de trois pas de cheval, puis secoua la tête et rit, plus fort qu’il n’était besoin.
+
+«  Rien, j’imagine. Mais faut pas penser à ça, l’ami. On deviendrait fou.  » Il claqua le fouet. «  Le monde tient. Il a toujours tenu. Trente ans que je roule dessus, je le saurais.  »
+
+«  Je vous crois  », dit Mirathis avec douceur.
+
+C’était vrai  : le monde avait toujours tenu. Mirathis pensa au fil d’Orenn, tendu entre deux doigts secs, qui tenait jusqu’à la seconde où il ne tenait plus, et n’en dit rien.
 
 ---
 
-Au dernier relais avant le grand portail de la marche, celui qui sauterait jusqu’à Galenor, trop large pour qu’on le contournât davantage, il y avait une auberge tenue par une Veilleuse à la retraite. Mirathis le sut à ses yeux : ce regard nu, dépouillé d’illusion, que les Veilleurs de Vytharia gardent toute leur vie même loin du pays, parce qu’on ne leur a pas appris à voir le vrai, on le leur a *arraché*. Elle servait la soupe sans un mot de trop, et quand elle posa le bol devant Mirathis, elle s’arrêta, le considéra, et dit, dans le vieux vytharen des hauteurs de Cystara :
+Ils se séparèrent à la marche haute, où Gryndor donne la main à Haldria et où les toits changent de pente. Halvec laissa à Mirathis un coupon de laine grise, «  pour les nuits d’en haut, il y fait un froid de traître  »  ; Mirathis lui laissa la seule chose qu’iel avait de trop, un petit cristal onirique de Gelinar, de ceux qu’on pose près de la tempe pour adoucir le premier sommeil. Le rouleur le fit rouler dans sa grosse paume, méfiant.
 
-« Tu es de chez nous. Et tu ne dors pas. »
+«  Ça fait quoi  ?
 
-« Je suis de Gelinar », dit Mirathis. « Et je dors mal, ce qui n’est pas la même chose que ne pas dormir. »
+— Ça donne de beaux rêves  », mentit Mirathis. Le cristal donnait surtout des rêves sans conséquence, et Halvec n’avait pas besoin de la différence  : il dormait déjà très bien. «  Gardez-le pour une nuit où vous auriez peur.
 
-« Pour toi, c’est la même chose. » La Veilleuse s’assit en face, sans y être invitée, avec l’autorité tranquille des gens qui ont passé leur vie à voir ce que les autres ne voulaient pas voir. « J’ai formé des Rêveurs-de-Cendre, à Velthorin. On nous les amenait quand ils devenaient trop lourds pour leur famille. On ne pouvait rien leur apprendre, remarque : on ne dresse pas quelqu’un à ne pas voir. On leur apprenait juste à ne pas devenir fous de le porter seuls. » Elle inclina la tête. « Toi, on ne te l’a pas appris. »
+— J’ai jamais peur, la nuit.
 
-« On me l’a mal appris.
+— Alors gardez-le pour la première.  »
 
-— Alors laisse-moi te le dire une fois, avant que tu sautes cette arche et que tu quittes tout ce qui parle ta langue. » Elle se pencha, et sa voix, sans monter, se fit dense comme la soupe. « Ce que tu vois, je ne veux pas savoir ce que c’est, je vois bien que c’est grand, tu as les yeux de quelqu’un qui a vu grand, ce que tu vois, ce n’est pas à toi de le *tenir*. Un Rêveur-de-Cendre croit toujours, à la fin, qu’il porte la chose. Que s’il lâchait, elle tomberait. C’est faux. La chose se porte toute seule. Tu n’es pas le fil. Tu es l’œil. L’œil ne tient rien ; il regarde. »
+Halvec le rangea dans sa ceinture. Il ne s’en servirait pas, Mirathis le savait  ; il le retrouverait un jour au fond d’un coffre et se rappellerait que quelqu’un avait pensé à sa peur avant lui.
 
-Mirathis reposa sa cuillère. Personne, en dix ans, ne lui avait dit cela. Le Cercle, plus tard, ne le lui dirait pas non plus : le Cercle avait besoin qu’iel crût porter quelque chose, comme eux tous.
+Les nuits d’en haut furent les pires. Sans brume, sans la grise qu’iel rationnait maintenant à cause d’Orenn, Mirathis dormait à découvert sous un ciel que rien ne voilait, et le rêve montait sans rencontrer d’obstacle. Chaque nuit la même montagne noire, très loin au sud, un mont où rien ne bougeait et d’où pourtant tout partait. Chaque nuit l’homme de dos, les sept silhouettes, puis huit avec la sienne. Et chaque nuit, à mesure qu’iel s’en éloignait par l’ouest et par le nord, le rêve gagnait une marche.
 
-« Et si l’œil, dit Mirathis très bas, se voit lui-même dans l’image qu’il regarde ? Si l’œil est *dans* la chose qu’il croit seulement voir ? »
+Iel n’en parla à personne. Marcher ne mettait pas une lieue entre iel et le mont  : le rêve voyageait dans ses os, et il arrivait toujours avant iel.
 
-La Veilleuse le regarda longtemps. Dehors, le grand portail luisait dans la nuit, patient, une bouche de pierre qui attendait de le prendre par la main et de le rendre à l’autre bout, entier, fidèle, à trois mille lieues, plus près de la montagne noire.
+---
 
-« Alors », dit-elle enfin, et pour la première fois quelque chose vacilla dans son regard nu, « alors tu n’es plus seulement un œil. Et je ne connais pas de mot pour ce que tu es. On ne l’a pas cousu, celui-là, dans le Grand Tissu. » Elle se leva, reprit le bol vide. « Dors ici cette nuit. Saute demain, à la lumière. On ne devrait jamais entrer dans le rien du portail avec le noir déjà plein la tête. »
+Au dernier relais avant le grand portail de la marche, celui qui sauterait jusqu’à Galenor et qu’on ne pouvait pas contourner davantage, l’auberge était tenue par une Veilleuse à la retraite. Mirathis le sut à ses yeux. Les Veilleurs de Vytharia gardent ce regard nu toute leur vie, même loin du pays  : on ne leur apprend pas à voir le vrai, on leur arrache l’illusion.
 
-Mirathis dormit un peu, comme toujours, comme on lui accordait. Le rêve vint, monta d’une marche encore, et au matin la montagne était un peu plus proche, un peu plus noire, et le silence vide, dans le rêve, un peu plus vide. Iel but la moitié de ce qui restait de grise, remercia la Veilleuse d’un signe qu’elle rendit sans un mot, et marcha jusqu’à l’arche.
+La salle basse sentait le chou et la graisse de mouton. Un feu de tourbe fumait dans l’âtre, trois rouleurs mangeaient au fond sans se parler, et la chaleur des dalles montait dans les genoux. Mirathis resta un long moment les mains autour du bol avant d’y toucher  : c’était la première fois depuis la marche que iel avait chaud aux doigts.
 
-Devant elle, iel s’arrêta, comme iel s’arrêtait devant chaque portail depuis Gelinar, et pensa ce qu’iel pensait chaque fois, et qu’iel ne dirait jamais à âme qui vive :
+La Veilleuse servait la soupe sans un mot de trop. Quand elle posa le bol devant Mirathis, elle s’arrêta, le considéra, et parla dans le vieux vytharen des hauteurs de Cystara.
 
-*Pardon. Tu ne sais pas encore, et moi je sais, et je ne peux rien te dire, parce que tu n’as pas d’oreilles pour m’entendre, tu n’as que des mains. Porte-moi une fois de plus. Je te promets que ce n’est pas moi.*
+«  Tu es de chez nous. Et tu ne dors pas.
 
-Puis iel entra dans le rien, se laissa prendre, se laissa dissoudre ; et pendant l’instant sans durée où iel n’exista pas, iel crut sentir, mais comment savoir, dans un lieu où l’on n’a plus de corps pour sentir, l’immense attention se pencher sur ellui avec sa tendresse coutumière, la tendresse d’une chose qui portait chaque jour des millions de voyageurs sans se douter qu’elle en portait un, ce matin-là, qui l’avait vue mourir chaque nuit depuis dix ans, et qui montait vers le sud lui présenter, marche après marche, la main qui la déchirerait, sans savoir, iel non plus, si ce serait sa main à ellui, ou seulement la main qui, dans le rêve, se trouvait dans l’image au moment où tout cédait.
+— Je suis de Gelinar. Je dors mal, c’est tout.
 
-Iel ressortit à Galenor, sur la pierre bleue d’Aethranor, dans une ville dure qui montrait son ciel sans pudeur.
+— Mal ou pas du tout, ça te fait la même figure.  » Elle s’assit en face, sans qu’on l’y eût invitée. «  J’ai formé des Rêveurs-de-Cendre, à Velthorin. On nous les amenait quand ils devenaient trop lourds pour leur famille. On ne pouvait pas leur apprendre à ne pas voir, remarque. On leur apprenait à ne pas devenir fous de porter ça seuls.  » Elle inclina la tête. «  Toi, on ne te l’a pas appris.
 
-Très loin au sud, sous une étoffe si vaste qu’aucun voyageur, sur aucune route d’aucun continent, ne pouvait la voir en entier, une chose immense qui ne se savait pas elle-même sentit passer en elle, ce matin-là, un dormeur de plus : elle ne reconnut pas, dans cette âme qu’elle rendait fidèlement à l’autre bout, celle qui, depuis trois automnes, comptait les marches qui la séparaient d’elle.
+— On me l’a mal appris.
+
+— Alors laisse-moi te le dire une fois, avant que tu sautes cette arche et que tu quittes tout ce qui parle ta langue.  » Elle se pencha. Sa voix ne monta pas  ; elle appuya. «  Ce que tu vois, je ne veux pas savoir ce que c’est. Je vois que c’est grand  ; tu as les yeux de quelqu’un qui a vu grand. Ce n’est pas à toi de le tenir. Ils finissent tous par croire qu’ils portent la chose, et que s’ils lâchaient elle tomberait. Elle ne tombera pas. Tu n’es pas le fil. Tu es l’œil.  »
+
+Mirathis reposa sa cuillère. Personne, en dix ans, ne lui avait dit cela. Le Cercle ne le lui dirait pas non plus, plus tard  : le Cercle aurait besoin qu’iel crût porter quelque chose, comme eux tous.
+
+«  Et si l’œil se voit dans l’image  ?  » dit Mirathis, très bas. «  Si l’œil est dedans  ?  »
+
+La Veilleuse le regarda longtemps. Dehors, l’arche luisait dans la nuit, tranquille, une bouche de pierre qui attendait. Demain elle poserait Mirathis à trois mille lieues d’ici, entier·ère, fidèlement, et plus près de la montagne noire.
+
+«  Alors  », dit-elle enfin, et pour la première fois quelque chose vacilla dans son regard nu, «  alors tu n’es plus seulement un œil. Et je ne connais pas de mot pour ce que tu es. On ne l’a pas cousu, celui-là, dans le Grand Tissu.  » Elle se leva, reprit le bol vide. «  Dors ici. Tu sauteras demain, à la lumière. Pas la nuit, pas avec le noir déjà plein la tête.  »
+
+Mirathis dormit ce qu’iel dormait toujours  : un peu. Le rêve vint, gagna une marche, et au matin la montagne était plus proche et plus noire, et le silence vide, dans le rêve, prenait plus de place. Iel but la moitié de ce qui restait de grise, remercia la Veilleuse d’un signe qu’elle rendit sans un mot, et marcha jusqu’à l’arche.
+
+Devant elle, iel s’arrêta, comme devant chaque portail depuis Gelinar, et pensa ce qu’iel pensait chaque fois et ne dirait jamais à personne  :
+
+*Pardon. Tu ne sais pas encore. Moi je sais, et je n’ai aucun moyen de te le dire  : tu n’as rien pour entendre, rien que des mains. Porte-moi une fois de plus. Ce ne sera pas moi.*
+
+Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire  ; et dans l’instant sans durée où iel n’exista pas, quelque chose se pencha sur ellui. Iel crut le sentir, sans corps pour sentir, comment savoir. C’était doux. C’était la douceur qu’on met à porter des millions de gens par jour sans en distinguer un seul, et ce matin-là elle en portait un qui la voyait mourir toutes les nuits depuis dix ans et qui s’en allait vers elle, sans savoir encore si sa main à ellui serait celle qui déchirerait, ou seulement une main posée dans l’image au moment où tout céderait.
+
+Iel ressortit à Galenor, sur la pierre bleue d’Aethranor, dans une ville dure où le ciel commençait au ras des toits, sans rien pour l’arrêter.
+
+Et ce matin-là, ce qui tenait le monde porta un dormeur de plus d’un continent à l’autre. Il le prit, le défit, le rendit entier, comme il le faisait pour tous et depuis toujours  ; et il ne reconnut pas, dans cette âme qu’il venait de rendre, celle qui comptait depuis trois automnes les marches restant entre elle et une montagne noire, très loin au sud, dont il ne savait rien.

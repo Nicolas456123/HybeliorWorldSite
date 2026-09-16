@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-4, pov-vaskar-sorne, ce-qui-remonte, vers-le-mont, la-traque-au-cendra, trop-tard-pour-sceller, les-trois-strates, le-suspect-commode, catena-fracta, l-impuissance-de-l-ordre, temoin-exterieur, ombres-souterraines, drakora]
+titre: Vers le Mont
 type: roman-chapitre
 partie: IV
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

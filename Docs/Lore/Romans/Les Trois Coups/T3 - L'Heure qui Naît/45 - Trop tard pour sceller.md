@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-5, pov-vaskar-sorne, le-troisieme-coup, trop-tard-pour-sceller, le-mont-cendra, l-appareil-a-suivi, l-impuissance-de-l-ordre, le-temoin-exterieur, echo-velkar-heure-zero, aucun-coupable-humain, la-clef-sans-serrure, l-enfant-aux-yeux-blancs]
+titre: Trop tard pour sceller
 type: roman-chapitre
 partie: V
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

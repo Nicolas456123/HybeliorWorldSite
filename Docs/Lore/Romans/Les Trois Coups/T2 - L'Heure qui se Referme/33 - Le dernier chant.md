@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-ombreth, chamane-de-memoire, voix-deportees, phase-4, mort-pov-majeur, lignee-ecoute, cede-seule]
+titre: quatre — Le dernier chant
 type: chapitre-roman
 partie: IV
 pov: Ombreth le Dernier-qui-Chante

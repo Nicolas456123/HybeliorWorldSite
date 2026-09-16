@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-1, pov-velkar, pyrion, chasseur]
+titre: La concordance manquante
 type: roman-chapitre
 partie: I
 pov: Verkan (présent — le Bureau des Concordances ; le rapport à brûler, qu'il lit d'abord)

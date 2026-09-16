@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-2, voix-deportees, mangeurs-de-temps, culte-des-failles, journal-de-thessan]
+titre: Ceux qui entrent dans la Faille
 type: chapitre-roman
 partie: II
 pov: Le chœur des Voix Déportées (une Voix jetée dans un passé, peut-être l'un d'eux, sans confirmation)

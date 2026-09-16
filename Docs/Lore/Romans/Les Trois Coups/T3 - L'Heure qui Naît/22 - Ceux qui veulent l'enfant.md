@@ -1,7 +1,9 @@
 ---
+titre: Ceux qui veulent l’enfant
 partie: II — Les signes se pressent
 pov: Renna
-status: draft
+status: drafttype: roman-chapitre
+
 ---
 
 # Ceux qui veulent l’enfant

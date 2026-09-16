@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-1, fenetre-monde, astronome, baelor, etoiles-mouvantes, couronne-voyageur-manteau, cosmos-qui-glisse, ceux-qui-ecoutent]
+titre: Le décalage
 type: chapitre-roman
 partie: I
 pov: Fenêtre-monde — une astronome de Baelor

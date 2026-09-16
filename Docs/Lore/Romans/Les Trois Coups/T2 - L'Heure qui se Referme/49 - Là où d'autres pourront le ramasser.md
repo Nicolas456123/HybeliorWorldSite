@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, coda, pov-kessane, cahier-de-copie, artefact-cache, echo-thessan, fil-documentaire, germe-t3, cloture, lirenn-coupee, doute-non-tranche]
+titre: six — Là où d’autres pourront le ramasser
 type: chapitre-roman
 partie: coda
 pov: Kessane de la Forge-Basse

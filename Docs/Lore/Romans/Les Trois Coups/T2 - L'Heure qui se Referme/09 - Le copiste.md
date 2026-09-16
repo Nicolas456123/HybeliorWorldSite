@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, pov-olven, verithani-endeuille, journal-de-thessan, cahier-de-copie, blessure-qui-suppure, mythe-du-troisieme-coup]
+titre: Le copiste
 type: roman-chapitre
 partie: I
 pov: Frère Olven (présent), le copiste, Verithani Endeuillé

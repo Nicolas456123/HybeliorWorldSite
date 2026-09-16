@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, chapitre]
+titre: cinq — Le témoin extérieur
 type: chapitre-roman
 partie: V
 pov: Vaenor Sorne

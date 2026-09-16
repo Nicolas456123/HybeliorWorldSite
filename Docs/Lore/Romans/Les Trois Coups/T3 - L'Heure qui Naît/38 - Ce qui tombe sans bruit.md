@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-4, pov-sanne, guerre-de-lombre, beat-mort-sur-scene, premier-pov-qui-s-eteint, fil-documentaire, ce-qui-suit-sans-visage, le-geste-survit, se-rendre-inutile-a-sa-mort, cendara, halka, cahier-deja-mure, enfant-partie-au-levant, delestee, monte-seule, la-brique-rescellee, les-trois-traits, mystere-du-jeu-intact]
+titre: Ce qui tombe sans bruit
 type: chapitre-roman
 partie: IV — Ce qui remonte
 pov: Sanne

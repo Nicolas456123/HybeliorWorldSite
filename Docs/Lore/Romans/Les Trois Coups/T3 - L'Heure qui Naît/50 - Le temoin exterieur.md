@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-5, pov-vaskar-sorne, le-troisieme-coup, le-temoin-exterieur, le-monde-bascule, l-appareil-ne-comprend-rien, ce-n-est-pas-un-homme, la-lecture-qui-se-lezarde, le-troisieme-faux, l-histoire-faite-de-faux, echo-velkar-vaenor, ambiguite-verrouillee]
+titre: Le témoin extérieur
 type: roman-chapitre
 partie: V
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, pov-nael, mangeurs-de-temps, culte-des-failles, troisieme-voie, recrutement, drahk-nor]
+titre: Ceux qu’on habille pour avant
 type: chapitre-roman
 partie: I
 pov: Nael, recruteur du culte des Mangeurs de Temps (ancien Tisse coupé, sourd aux morts)

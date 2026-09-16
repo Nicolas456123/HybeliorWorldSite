@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-3, pov-kayara, azoria, gens-de-l-eau, recrutement, passe]
+titre: La barre et le fil
 type: roman-chapitre
 partie: III
 pov: Kayara-du-Large (passé — la vie de mer avant le Cercle, un sauvetage, la Ligue Marchande d'Everthor)

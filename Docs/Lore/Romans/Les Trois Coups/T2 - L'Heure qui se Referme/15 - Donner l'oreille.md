@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-2, pov-ombreth, chamane-de-memoire, errants-sans-corps, transmission, voix-deportees, lecture-cede-seule]
+titre: Donner l’oreille
 type: chapitre-roman
 partie: II
 pov: Ombreth le Dernier-qui-Chante

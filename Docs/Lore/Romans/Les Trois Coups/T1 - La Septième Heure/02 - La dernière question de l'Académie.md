@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-1, pov-thessan, aethranor, recrutement]
+titre: La dernière question de l’Académie
 type: roman-chapitre
 partie: I
 pov: Thessan (passé)

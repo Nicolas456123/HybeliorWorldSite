@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-2, pov-sanne, guerre-de-lombre, fil-documentaire, la-cible, transmettre-quand-transmettre-tue]
+titre: Porter une cible
 type: chapitre-roman
 partie: II
 pov: Sanne

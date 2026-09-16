@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-2, pov-vaenor, inspecteurs-de-purete, phase-1, flashback, tavel, drahk-nor]
+titre: Tavel, vingt-deux ans
 type: chapitre-roman
 partie: II
 pov: Vaenor Sorne

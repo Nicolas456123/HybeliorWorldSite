@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-vaenor, inspecteurs-de-purete, drahvel, edit-de-purete, marquage, doctrine, purge, germe-loi-du-sol]
+titre: neuf — L’Édit de Pureté
 type: chapitre-roman
 partie: IV
 pov: Vaenor Sorne

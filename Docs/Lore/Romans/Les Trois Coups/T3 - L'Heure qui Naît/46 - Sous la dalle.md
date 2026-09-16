@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-5, fenetre-monde, kharazir, porte-d-azur, loi-du-sol, tissu-jaune, delies, dalle-scellee, huitieme-peuple, huitieme-eternel, inscription-des-huit, le-dessous-qui-remonte, les-murs-commencent-a-tomber, echo-sorin, le-troisieme-coup]
+titre: Sous la dalle
 type: chapitre-roman
 partie: V
 pov: Fenêtre-monde — Vhail, Maître du Seuil de la Porte d'Azur (Kharazir)

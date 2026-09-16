@@ -1,7 +1,9 @@
 ---
+titre: Ilex parle à personne
 partie: I — Ceux qui écoutent
 pov: Renna
-status: draft
+status: drafttype: roman-chapitre
+
 ---
 
 # Ilex parle à personne

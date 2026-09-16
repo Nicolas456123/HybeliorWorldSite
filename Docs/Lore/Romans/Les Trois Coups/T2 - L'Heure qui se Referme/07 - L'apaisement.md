@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, pov-vaenor, inspecteurs-de-purete, phase-1, drahk-nor]
+titre: L’apaisement
 type: chapitre-roman
 partie: I
 pov: Vaenor Sorne

@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-2, pov-vaskar-sorne, ombres-souterraines, drakora, cahier-qui-circule, fraternite-des-mains-vides, immobiliser-un-texte, duel-a-distance, couvrir-une-archive, copie-dolven, fragment-3, les-signes-se-pressent]
+titre: Un cahier qui circule
 type: roman-chapitre
 partie: II
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

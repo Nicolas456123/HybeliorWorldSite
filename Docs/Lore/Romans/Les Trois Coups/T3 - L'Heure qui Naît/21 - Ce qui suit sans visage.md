@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-2, pov-sanne, guerre-de-lombre, fil-documentaire, protocoles-de-la-peur, pris-a-sa-place]
+titre: Ce qui suit sans visage
 type: chapitre-roman
 partie: II
 pov: Sanne

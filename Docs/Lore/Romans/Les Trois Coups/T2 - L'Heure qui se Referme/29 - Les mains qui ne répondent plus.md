@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-ombreth, chamane-de-memoire, phase-3, errants-sans-corps, guideur-d-ames, voix-deportees, transmission, lecture-cede-seule]
+titre: Les mains qui ne répondent plus
 type: chapitre-roman
 partie: III
 pov: Ombreth le Dernier-qui-Chante

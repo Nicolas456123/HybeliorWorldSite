@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-1, pov-vaskar-sorne, ombres-souterraines, drakora, coffres-scelles, copie-d-olven, guerre-de-l-ombre, cahier-a-ne-pas-ouvrir, fragment-3, la-logique-du-scelle, ceux-qui-ecoutent]
+titre: Les coffres qu’on n’ouvre pas
 type: roman-chapitre
 partie: I
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

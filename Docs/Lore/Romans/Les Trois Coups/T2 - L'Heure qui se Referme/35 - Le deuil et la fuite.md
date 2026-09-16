@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-kessane, fuite, gryndor, silence-coupure, deuil, viatique, cahier, convergence]
+titre: six — Le deuil et la fuite
 type: chapitre-roman
 partie: IV
 pov: Kessane de la Forge-Basse

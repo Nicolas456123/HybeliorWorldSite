@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, coda, le-troisieme-coup, pov-vaskar-sorne, le-rapport-que-le-monde-croira, le-faux-comme-misericorde, l-histoire-faite-de-faux, le-troisieme-faux-de-la-lignee, echo-velkar-vaenor, le-recit-lu-une-nuit-puis-rescelle, la-copie-d-olven, le-fragment-3, graine-pour-le-jeu]
+titre: Le rapport que le monde croira
 type: roman-chapitre
 partie: Coda
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

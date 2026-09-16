@@ -1,7 +1,9 @@
 ---
+titre: Ce que l’oreille a coûté
 partie: I — Ceux qui écoutent
 pov: Renna
-status: draft
+status: drafttype: roman-chapitre
+
 ---
 
 # Ce que l’oreille a coûté

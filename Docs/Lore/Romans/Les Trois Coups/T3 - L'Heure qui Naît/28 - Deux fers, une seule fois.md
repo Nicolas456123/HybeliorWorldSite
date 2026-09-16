@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-3, pov-vaskar-sorne, la-traque, ombres-souterraines, drakora, copie-d-olven, cahier-de-kessane, le-geste-et-le-recit, fragment-3, deux-fers, la-rencontre-unique, le-premier-lezard, trois-strates]
+titre: Deux fers, une seule fois
 type: roman-chapitre
 partie: III
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-5, pov-vaenor, inspecteurs-de-purete, gryndor, failles-mobiles, duel-a-distance, sans-capture, temoin-exterieur, tavel, kessane, lirenn]
+titre: deux — À distance, entre deux Failles
 type: chapitre-roman
 partie: V
 pov: Vaenor Sorne

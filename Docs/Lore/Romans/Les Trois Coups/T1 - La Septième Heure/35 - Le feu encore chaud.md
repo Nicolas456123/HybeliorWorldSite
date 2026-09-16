@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-4, pov-velkar, chasseur, sulvane, hautes-terres, campement]
+titre: deux — Le feu encore chaud
 type: roman-chapitre
 partie: IV
 pov: Verkan Sorne, Prime-Inquisiteur du Bureau des Concordances de Pyrion (présent, la veille)

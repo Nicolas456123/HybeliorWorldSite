@@ -1,7 +1,9 @@
 ---
+titre: La bouche qui s’ouvre
 partie: V — Le Troisième Coup
 pov: Renna
-status: draft
+status: drafttype: roman-chapitre
+
 ---
 
 # La bouche qui s’ouvre

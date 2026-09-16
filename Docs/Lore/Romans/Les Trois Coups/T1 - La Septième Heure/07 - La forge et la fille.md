@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-1, pov-drakhan, cendral, cendara, recrutement]
+titre: La forge et la fille
 type: roman-chapitre
 partie: I
 pov: Drakhan l'Aîné (passé — Cendral, recrutement)

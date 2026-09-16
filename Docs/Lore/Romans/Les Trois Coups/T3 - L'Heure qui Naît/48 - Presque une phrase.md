@@ -1,7 +1,9 @@
 ---
+titre: Presque une phrase
 partie: V — Le Troisième Coup
 pov: Renna
-status: draft
+status: drafttype: roman-chapitre
+
 ---
 
 # Presque une phrase

@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-1, partie-1, pov-sera, celethor, recrutement]
+titre: La lettre non écrite
 type: roman-chapitre
 partie: I
 pov: Sera (passé) — recrutement

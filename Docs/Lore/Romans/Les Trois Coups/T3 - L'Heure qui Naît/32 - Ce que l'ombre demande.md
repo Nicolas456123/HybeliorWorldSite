@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-3, pov-vaskar-sorne, ombres-souterraines, drakora, la-traque, la-mise-au-calme, secret-d-etat, copie-dolven, seconde-cle, ne-pas-nommer-le-cendra, guerre-de-l-ombre-sans-auteur, instrument-a-son-insu, l-ambiguite-verrouillee, vocabulaire-du-soin]
+titre: Ce que l’ombre demande
 type: roman-chapitre
 partie: III
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

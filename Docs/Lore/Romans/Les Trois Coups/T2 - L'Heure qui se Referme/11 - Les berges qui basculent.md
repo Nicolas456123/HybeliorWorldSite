@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-1, voix-deportees, faille-aquatique, onara-sud, delta, engloutissement, fenetre-monde]
+titre: Les berges qui basculent
 type: chapitre-roman
 partie: I
 pov: Le chœur des Voix Déportées (irruption incarnée : un batelier du delta d'Onara-sud basculé à mi-course)

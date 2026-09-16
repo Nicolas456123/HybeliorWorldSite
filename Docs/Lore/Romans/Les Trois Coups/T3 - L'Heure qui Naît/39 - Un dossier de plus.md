@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-4, pov-vaskar-sorne, ce-qui-remonte, la-mort-de-sanne, un-dossier-de-plus, sans-revendication, le-meme-fil, la-fissure, gardien-a-temoin, le-troisieme-faux, l-homme-qui-lit-tout, ombres-souterraines, drakora, copie-dolven]
+titre: Un dossier de plus
 type: roman-chapitre
 partie: IV
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

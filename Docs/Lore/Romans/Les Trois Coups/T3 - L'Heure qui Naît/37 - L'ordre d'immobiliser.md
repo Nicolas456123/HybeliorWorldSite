@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-4, ce-qui-remonte, pov-vaskar-sorne, ombres-souterraines, drakora, ordre-d-immobilisation, la-traque, sanne-localisee, politesse-froide, chiffres-corriges, deux-signatures, requerant-ordonnateur, guerre-de-l-ombre-mystere, troisieme-main, nevran, le-doute-qui-ronge, immobiliser-n-est-pas-arreter]
+titre: L’ordre d’immobiliser
 type: roman-chapitre
 partie: IV — Ce qui remonte
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

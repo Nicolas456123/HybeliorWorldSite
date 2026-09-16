@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-2, fenetre-monde, omarin, velithis, rukhsar, kharazir, herboriste, seconde-copie, copie-de-prismalith, tissu-jaune, loi-du-sol, porte-d-azur, huitieme-pilier, inscription-des-huit, echo-sorin, les-signes-se-pressent]
+titre: La seconde copie
 type: chapitre-roman
 partie: II
 pov: Fenêtre-monde — Omarin de Velithis, herboriste (Rukhsar)

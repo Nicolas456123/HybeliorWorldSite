@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-2, pov-vaskar-sorne, ombres-souterraines, drakora, terrain, catena-fracta, fils-de-labime, chaine-brisee, le-lien-meurt-aidons-le, reconfiguration-hatee, suspect-commode, fausse-piste, guerre-de-lombre-jamais-imputee, sans-revendication, les-signes-se-pressent]
+titre: Le suspect commode
 type: roman-chapitre
 partie: II
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora

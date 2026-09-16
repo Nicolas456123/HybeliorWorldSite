@@ -1,7 +1,9 @@
 ---
+titre: Les premiers mots
 partie: III — La traque
 pov: Renna
-status: draft
+status: drafttype: roman-chapitre
+
 ---
 
 # Les premiers mots

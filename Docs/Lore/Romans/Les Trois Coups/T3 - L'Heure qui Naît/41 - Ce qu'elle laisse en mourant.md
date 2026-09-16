@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-4, pov-renna, ce-qui-remonte, mort-de-sanne, guerre-de-l-ombre, fraternite-des-mains-vides, jeune-passeuse, reconnaissance-transmise, le-geste-depose, fragment-3, le-meme-os, se-boucher-les-oreilles, la-decision-de-monter, ancrage-humain, mont-cendra, la-pulse, ilex, langue-qui-rime, mystere-du-jeu-intact]
+titre: Ce qu’elle laisse en mourant
 type: chapitre-roman
 partie: IV — Ce qui remonte
 pov: Renna

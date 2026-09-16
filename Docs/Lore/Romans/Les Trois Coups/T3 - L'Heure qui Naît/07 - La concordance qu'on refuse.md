@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-3, sillage, an-251, partie-1, pov-vaskar-sorne, ombres-souterraines, drakora, guerre-de-lombre, concordances, la-digue-de-lordre, le-dossier-classe, des-hommes-pas-des-dieux, copie-dolven, scelles]
+titre: La concordance qu’on refuse
 type: roman-chapitre
 partie: I
 pov: Vaskar Sorne (présent) — archiviste-enquêteur des Ombres Souterraines de Drakora

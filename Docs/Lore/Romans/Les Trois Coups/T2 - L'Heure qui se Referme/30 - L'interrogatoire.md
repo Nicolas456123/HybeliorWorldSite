@@ -1,5 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-vaenor-sorne, inspectrice-de-purete, drahk-nor, journal-de-thessan, cahier-de-copie, fragment-3, phrase-canon, purge-necessaire, blessure-qui-suppure, la-traque]
+titre: deux — L’interrogatoire
 type: roman-chapitre
 partie: III
 pov: Vaenor Sorne (présent) — Inspectrice de Pureté de Drahk'Nor
