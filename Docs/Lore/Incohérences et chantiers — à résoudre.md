@@ -763,6 +763,33 @@ par délégation de l'auteur. Le style seul est réécrit ; ces points-ci toucha
 | **« Montrer, c'est faire »** (T1) | Thessan formule la phrase à 19 ans au ch. 2, et le ch. 12 la lui fait combattre. | **Le ch. 12 est un refus, pas une ignorance** : le ch. 2 se clôt sur « six ans de méthode n'avaient pas suffi à la défaire ». |
 | **Ísae** (T1 ch. 2) | Le texte disait « ni Sera, ni sa sœur, ni Ísae » alors qu'Ísae *est* la sœur de Sera (ch. 3). | Corrigé : « ni Sera ni sa sœur Ísae ». |
 
+### Arbitrages de fait du tome 1 (réécriture terminée le 2026-09-16)
+
+Les 56 chapitres du T1 ont été réécrits et relus transversalement. Ces points-là étaient
+des contradictions entre chapitres, pas des questions de style ; ils sont tranchés dans
+le texte, la bible du tome ayant suivi dans le même commit quand elle divergeait.
+
+| Point | Ce qui clochait | Arbitrage |
+| --- | --- | --- |
+| **Qui pose la question au J-51** (ch. 17) | Mirathis s'attribuait la question ; le Fragment #3, le ch. 21 et le ch. 36 disent que c'est Thessan qui la pose et Mirathis qui répond par la phrase. | **Thessan pose, Mirathis répond.** Un mot inversé au ch. 17. |
+| **Le gîte du Corbeau-Gris** (ch. 25 / 29) | Le ch. 25 montre un trou de registre **bouché** (l'entrée est récrite le matin, c'est l'encre qui trahit) ; le ch. 29 s'en souvenait comme d'un blanc laissé béant, soit l'inverse. | Le ch. 29 se souvient d'une nuit **récrite** ; le blanc mal bouché revient au logeur plus au sud, l'amateur pris en hâte, que le ch. 25 mentionne déjà. |
+| **Le débarquement à la crique de la Dent** (ch. 36, 37, 51) | Le ch. 37 donnait à Verkan « trois jours de retard » sur une quille vieille de dix nuits. | **Dix nuits** (les ch. 36 et 51 le disaient tous deux). Le ch. 37 distingue désormais deux âges : la quille a dix nuits, la piste vivante des hautes terres en a trois. |
+| **Drakhan et sa forge** (ch. 24, 36, 38, 44, 45) | Le ch. 38 le faisait forger la veille de la montée, le ch. 44 déduisait son départ d'une cheminée éteinte — alors qu'il a éteint sa forge et emporté son marteau au ch. 24, et que Kessa y tient le feu. | Il n'a plus de forge : il attend en bas les mains froides. Au ch. 44, Verkan lit **la cendre comme une horloge**, pas une cheminée. |
+| **Où est Kessa la dernière nuit** (ch. 33 / 52) | Le ch. 52 la faisait partir de la remise trois jours plus tôt ; le ch. 33 la montre au campement du pied du Mont la veille au soir. | **Le ch. 33 fait foi.** Elle part du campement dans la nuit, une nuit de marche, un relais au petit jour. |
+| **Sera à H0** (ch. 42, 43, 55) | Le ch. 55 la faisait disparaître « le protocole roulé contre elle », alors que le ch. 42 le lui fait ranger et que le ch. 43 ouvre sur « tu as les mains vides ». | **Les mains vides**, la sacoche du protocole au flanc. |
+| **Vorath et le nom de Navigor** (ch. 15 / 43) | Il ignore le nom à Baelor et le prononce au sommet. | Il l'a **appris en route**, avec le Cercle : une incise d'une ligne au ch. 43. |
+| **Verithan** (ch. 47) | Né à Varandar « une centaine d'années plus tôt », contre mille ans aux ch. 01 et 02 ; et son nom dit inconnu, alors qu'à Varandar on le connaît sans le prononcer (ch. 02). | **Mille ans**, et Tarreck tient le nom « de la voix basse qu'on garde, dans ce pays, pour les morts qui ont mal fini ». |
+| **Kelib** (ch. 14 / 46) | « Comme cinq ans plus tôt » alors qu'il avait cinq ans au ch. 14 et en a douze. | **Sept ans plus tôt.** |
+| **Ísae à H0** (ch. 43 / 48) | Le ch. 48 la mettait au jardin « à l'heure où cela commença » ; le ch. 43 la montre endormie. | Cela **commence dans la nuit** — elle se réveille une fois sans rien en savoir — et met quatre heures à atteindre Celethor. Au passage, « depuis quarante ans » disparaît : Ísae est la jumelle de Sera, que la bible donne à quarante-cinq ans. |
+| **La bible contre le livre** (deux points) | La bible écrivait « l'un d'entre nous » là où le livre dit « l'un **de** nous », et gardait la forme longue du Fragment #5. | **Le livre fait foi**, la bible s'aligne. La citation aphoristique du Grand Pontife, que le ch. 34 ne dit plus ainsi, est remplacée par la fonction à faire entendre. |
+| **Calendrier de l'autodafé** (ch. 09, 10, 53) | Signalé, **non corrigé** : rien ne se contredit sur la page — Aelindra envoie les quarante pages, Verkan les brûle sans se dater, elle l'apprend trois mois plus tard, la coda situe le brasier « au dernier hiver ». Seul le mot « présent » du frontmatter du ch. 10 est lâche, et c'est de la métadonnée. | **Laissé à l'auteur** s'il veut fixer le calendrier interne du tome. |
+
+**Dispositifs consolidés au passage** (ce ne sont pas des incohérences, mais ils étaient
+appliqués de façon inégale) : une **seule** clausule d'échappée par chapitre — les ch. 19,
+46, 51 et 53 en portaient de deux à quatre — et aucune ne partage plus ses mots avec une
+autre ; le tag `pov-velkar` est aligné sur **Verkan Sorne** dans les dix frontmatters qui
+le gardaient.
+
 ---
 
 ## Annexe — d'où viennent ces constats
