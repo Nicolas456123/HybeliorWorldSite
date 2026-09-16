@@ -87,15 +87,15 @@ Elle resta debout au milieu de la ruelle. Ses yeux restèrent secs  ; arrivés 
 
 Un doigt se leva.
 
-«  La première, on vous l’a fermée  : couper. Trop tard.
+«  La première, on vous l’a fermée  : couper. Trop tard.  »
 
 «  La deuxième.  » Le deuxième doigt monta, et sa voix se fit plate, exprès, pour qu’elle entende sous la platitude ce qu’il en pensait. «  L’Inspectrice. Vous en avez entendu parler. Une femme douce, m’a-t-on dit, qui ne hausse jamais le ton, patiente comme la cendre. Elle vous trouvera. Elle trouve tout le monde. Et elle vous parlera si bien que vous croirez qu’elle vous aime. Elle vous dira que c’est un soin. Elle appelle ça *l’apaisement*.  » Le mot flotta un instant dans l’odeur d’indigo. «  Une fiole de verre sombre, un mot gentil, et vous vous endormez, et vous ne vous réveillez pas, et la ville continue sans vous. Le pire, madame, c’est qu’elle a peut-être raison. C’est peut-être vraiment plus doux que le reste. Ça non plus, je ne vous le cacherai pas.  »
 
 Dans le regard de la femme, la colère avait cédé la place à une attention aiguë, presque animale.
 
-«  Et la troisième.
+«  Et la troisième  ?  »
 
-— La troisième.  » Nael leva le dernier doigt, le garda en l’air un moment, seul, puis le baissa lentement. «  On ne vous coupe pas, et on ne vous apaise pas. On vous fait remonter.  »
+«  La troisième.  » Nael leva le dernier doigt, le garda en l’air un moment, seul, puis le baissa lentement. «  On ne vous coupe pas, et on ne vous apaise pas. On vous fait remonter.  »
 
 \*
 
