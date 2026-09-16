@@ -60,7 +60,7 @@ Elle lava son assiette. L’eau coula longtemps dans le bac de pierre, et le po�
 
 À la vingt-troisième heure, le Bureau des Concordances travaillait encore. Dans les longues salles voûtées, les plumes grattaient, les dossiers claquaient en se refermant, et les lampes brûlaient l’huile qu’on leur versait deux fois par nuit.
 
-Fenn attendait devant la porte du cabinet, un dossier sous le bras, de l’encre sur deux doigts et les yeux rougis par la lampe, avec l’air d’un homme qui n’a pas voulu rentrer chez lui sans avoir posé son fardeau. Un bon scribe, Fenn. Trop honnête pour être inquisiteur, assez précis pour le servir.
+Thevin attendait devant la porte du cabinet, un dossier sous le bras, de l’encre sur deux doigts et les yeux rougis par la lampe, avec l’air d’un homme qui n’a pas voulu rentrer chez lui sans avoir posé son fardeau. Un bon scribe, Thevin. Trop honnête pour être inquisiteur, assez précis pour le servir.
 
 «  Prime. J’ai fini le recoupement que vous aviez demandé. Sur l’agent Vessa.  »
 
@@ -70,11 +70,11 @@ Fenn attendait devant la porte du cabinet, un dossier sous le bras, de l’encre
 
 À l’intérieur, il alluma la lampe lui-même, il n’aimait pas qu’on la lui allume, et déplia le dossier sur la table. Le cahier de quarante pages était en haut de la pile, là où il l’avait laissé la veille. Ce n’était pas le rapport. Le vrai avait brûlé de sa main, le soir où l’ordre était tombé, tenu au-dessus des braises jusqu’à ce que la flamme lui vienne aux doigts. Ceci était sa propre écriture, sa propre encre  : quarante pages recopiées de mémoire dans les nuits d’après.
 
-«  Vous savez qu’il n’existe plus, dit Fenn, prudent, les yeux sur le cahier. Le rapport. Vous l’avez fait brûler.
+«  Vous savez qu’il n’existe plus, dit Thevin, prudent, les yeux sur le cahier. Le rapport. Vous l’avez fait brûler.
 
-— Je l’ai fait brûler.  » Verkan posa la main à plat sur la couverture, sans l’ouvrir. «  Ceci n’est pas le rapport.  » Il tira une chaise, pour lui, car Fenn resterait debout. «  Dites-moi ce que vous avez trouvé.
+— Je l’ai fait brûler.  » Verkan posa la main à plat sur la couverture, sans l’ouvrir. «  Ceci n’est pas le rapport.  » Il tira une chaise, pour lui, car Thevin resterait debout. «  Dites-moi ce que vous avez trouvé.
 
-— Vous vouliez savoir si l’arrêt des rapports de Vessa était un cas isolé.  » Fenn ouvrit son feuillet. «  J’ai comparé, sur les cinq nations, tous les agents du Bureau et des Bureaux frères qui ont cessé d’écrire dans la même fenêtre de temps. Deux ans, disons.
+— Vous vouliez savoir si l’arrêt des rapports de Vessa était un cas isolé.  » Thevin ouvrit son feuillet. «  J’ai comparé, sur les cinq nations, tous les agents du Bureau et des Bureaux frères qui ont cessé d’écrire dans la même fenêtre de temps. Deux ans, disons.
 
 — Combien.
 
@@ -82,15 +82,15 @@ Fenn attendait devant la porte du cabinet, un dossier sous le bras, de l’encre
 
 — Huit.  »
 
-Fenn cligna des yeux. «  Prime  ?
+Thevin cligna des yeux. «  Prime  ?
 
 — Vous avez compté l’agent Loresh, noyé au large de Sulvane. Loresh a un corps, une fosse et une veuve qui touche la pension.  » Verkan tapota le feuillet du dos de l’ongle. «  Rayez-le. Je veux ceux qui se sont tus en restant vivants.
 
-— Huit, corrigea Fenn en raturant. Huit agents.
+— Huit, corrigea Thevin en raturant. Huit agents.
 
 — Lisez-les-moi. Où, quand, sur quoi ils travaillaient.  »
 
-Fenn lut. Celethor  : Vessa. Puis Baelor, un agent infiltré chez les Silencieux Taciti, dernier envoi deux automnes plus tôt.
+Thevin lut. Celethor  : Vessa. Puis Baelor, un agent infiltré chez les Silencieux Taciti, dernier envoi deux automnes plus tôt.
 
 «  Lisez-le.
 
@@ -98,7 +98,7 @@ Fenn lut. Celethor  : Vessa. Puis Baelor, un agent infiltré chez les Silencieu
 
 — Relisez.
 
-— *Rien à signaler, communauté inoffensive, je demande mon rappel.*  » Fenn leva les yeux du feuillet. «  Le rappel n’a pas été accordé. L’agent n’est jamais rentré.
+— *Rien à signaler, communauté inoffensive, je demande mon rappel.*  » Thevin leva les yeux du feuillet. «  Le rappel n’a pas été accordé. L’agent n’est jamais rentré.
 
 — On l’envoie chez des gens qu’on lui a décrits comme dangereux, et il écrit *inoffensifs* avant de demander à partir.  » Verkan laissa la phrase se poser. «  Continuez.  »
 
@@ -114,7 +114,7 @@ Aethranor  : un homme placé sur les cercles d’érudits de l’Académie, sil
 
 Restaient trois envois plus obscurs  : un à Vytharia, un sur les routes de terre entre Sulvane et l’intérieur, et un dernier qui n’était même pas un agent, un correspondant des ports qui rendait compte contre bourse et qui, lui aussi, s’était tu.
 
-Verkan écoutait les yeux mi-clos, sans rien noter. Fenn avait mis un an à comprendre qu’il ne dormait pas.
+Verkan écoutait les yeux mi-clos, sans rien noter. Thevin avait mis un an à comprendre qu’il ne dormait pas.
 
 «  Répétez le troisième.
 
@@ -124,15 +124,15 @@ Verkan écoutait les yeux mi-clos, sans rien noter. Fenn avait mis un an à comp
 
 — Celethor. Vessa.
 
-— Et celui de Baelor a demandé son rappel en jurant que les Taciti étaient inoffensifs.  » Verkan rouvrit les yeux. «  Qu’est-ce que vous voyez, Fenn  ?
+— Et celui de Baelor a demandé son rappel en jurant que les Taciti étaient inoffensifs.  » Verkan rouvrit les yeux. «  Qu’est-ce que vous voyez, Thevin  ?
 
 — Huit agents qui se sont tus, Prime.
 
 — Vous vous arrêtez là où le rapport s’arrête.  » Debout, il gagna la carte murale des cinq nations, celle dont les provinces étaient cousues de fil, et posa le doigt sur Celethor. «  Regardez plutôt ce qu’ils surveillaient. Une préceptrice à Celethor. Une communauté de non-Liés à Baelor. Des érudits à Aethranor. De l’argent à Everthor. Une forge à Cendara. Un rêveur à Vytharia.  » Le doigt glissait d’un point à l’autre et dessinait sur la toile une figure que la lampe faisait trembler. «  Ce ne sont pas huit affaires. C’est une affaire, vue de huit fenêtres.  »
 
-Fenn regarda la carte, et Verkan vit le moment exact où les huit points cessèrent d’être huit points.
+Thevin regarda la carte, et Verkan vit le moment exact où les huit points cessèrent d’être huit points.
 
-«  Les Verithani, souffla Fenn.
+«  Les Verithani, souffla Thevin.
 
 — On surveille les Verithani depuis quarante ans  ; qu’on ait des agents chez eux n’a rien de neuf.  » Verkan retira son doigt de la carte. «  Ce qui est neuf, c’est qu’ils se taisent tous. Huit agents, cinq nations, des cellules qui ne se connaissent pas entre elles. Et la même année, tous, ils posent la plume.
 
@@ -140,17 +140,17 @@ Fenn regarda la carte, et Verkan vit le moment exact où les huit points cessèr
 
 — Alors montrez-moi le message.  »
 
-Fenn ne comprit pas tout de suite.
+Thevin ne comprit pas tout de suite.
 
 «  J’ai vu vingt mouvements démasquer un agent. Vingt fois, ils l’ont fait savoir  : l’homme dans un fossé, dans un fleuve, ou dans une geôle avec une rançon au bout. C’est un avertissement pour le suivant, et il faut qu’on le lise.  » Verkan reprit le cahier des quarante pages recopiées et le tint un instant sans l’ouvrir. «  Pas de corps. Pas de rançon. Pas d’avertissement. Huit dossiers qui s’arrêtent proprement, et rien derrière.  » Il reposa le cahier. «  On ne les a pas tués. On les a convaincus.  »
 
-Le silence, dans le cabinet, prit une autre épaisseur. Fenn n’avait plus envie de rentrer chez lui.
+Le silence, dans le cabinet, prit une autre épaisseur. Thevin n’avait plus envie de rentrer chez lui.
 
 «  Huit agents retournés, dit-il lentement. Ça ne s’est jamais vu.
 
 — Un, cela se voit. Deux, on parle de malchance.  » Verkan revint à la carte, mais cette fois il ne regarda pas les huit points  ; il regarda l’espace entre eux, le vide au milieu de la figure, là où les huit fils se rejoindraient si on les tirait. «  Huit agents formés à ne croire personne ont cru la même chose la même année. Demandez-vous ce qu’il faut pour obtenir cela.  » Un temps. «  Moi, je me le demande depuis trois semaines.  »
 
-Fenn referma son feuillet et resta planté là, à attendre une consigne.
+Thevin referma son feuillet et resta planté là, à attendre une consigne.
 
 «  Ouvrez un dossier, dit Verkan. Les huit ensemble, une chemise, un cordon.
 
@@ -160,7 +160,7 @@ Fenn referma son feuillet et resta planté là, à attendre une consigne.
 
 ---
 
-Il renvoya Fenn chez lui, un homme a le droit de dormir. Les semelles du scribe s’éloignèrent dans le couloir voûté, longtemps, jusqu’à la porte du bas  ; puis il n’y eut plus que la lampe et les quarante pages de sa propre main. Le brasero du cabinet couvait sous sa cendre  ; il y jeta deux morceaux de charbon et regarda le rouge reprendre, parce qu’il avait froid aux mains et pour aucune autre raison.
+Il renvoya Thevin chez lui, un homme a le droit de dormir. Les semelles du scribe s’éloignèrent dans le couloir voûté, longtemps, jusqu’à la porte du bas  ; puis il n’y eut plus que la lampe et les quarante pages de sa propre main. Le brasero du cabinet couvait sous sa cendre  ; il y jeta deux morceaux de charbon et regarda le rouge reprendre, parce qu’il avait froid aux mains et pour aucune autre raison.
 
 L’original, il l’avait lu d’un bout à l’autre avant de le porter au feu  : c’était sa règle, et il ne l’avait jamais enfreinte. Il aurait dû en rester là.
 
