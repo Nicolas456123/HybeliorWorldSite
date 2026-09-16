@@ -143,7 +143,7 @@ Mirathis ne répondit pas tout de suite. Iel finit par porter le bol à ses lèv
 
 Iel se leva. La brume intérieure était retombée un peu, comme chaque fois qu’iel avait parlé  ; c’était sa manière à ellui de dormir, parler à quelqu’un jusqu’à ce que le rêve recule d’une marche. Ce soir, iel dormirait un peu, et le rêve viendrait quand même, et au matin il aurait encore approché.
 
-«  Tu devrais écrire ceci, dit Mirathis en désignant le cahier du menton. Pas ce que j’ai dit sur les rêves. L’autre chose. Que je t’ai posé la question, que tu n’as pas su répondre, et moi non plus. Écris que personne ici ne croit vraiment que c’est bien, et que nous croyons seulement que c’est inévitable. C’est différent. C’est plus honnête. Et je crois que c’est la seule chose vraie que nous pourrons jamais dire de nous-mêmes.  »
+«  Tu devrais écrire ceci, dit Mirathis en désignant le cahier du menton. Pas ce que j’ai dit sur les rêves. L’autre chose. Que tu m’as posé la question, que je n’ai pas su répondre, et toi non plus. Écris que personne ici ne croit vraiment que c’est bien, et que nous croyons seulement que c’est inévitable. C’est différent. C’est plus honnête. Et je crois que c’est la seule chose vraie que nous pourrons jamais dire de nous-mêmes.  »
 
 Thessan leva les yeux, et Mirathis vit que le garçon retenait la phrase, qu’il la garderait, et qu’un soir, dans quelques semaines peut-être, quand quelqu’un reposerait enfin la question à voix haute devant les autres réunis, cette phrase-là serait prête, sur des lèvres, quelque part.
 

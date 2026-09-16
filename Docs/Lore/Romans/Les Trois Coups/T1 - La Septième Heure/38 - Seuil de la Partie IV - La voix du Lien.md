@@ -41,7 +41,7 @@ Seule, en avance sur les autres. Elle a tracé la route et elle efface leurs pas
 
 Celui du feu.
 
-Il n’est pas monté, pas encore. Il est en bas, tout au pied, dans la ville sous le sommet, et il forge une dernière nuit, les mains dans une chaleur qui est la mienne. Personne d’autre que lui ne sait le dedans du sommet. Il a fait dire qu’il monterait demain soir. Il sera le dernier. Sa fille lui a demandé de ne pas monter. Il monte quand même. Ils montent tous quand même. C’est le mot qui revient cette nuit, quand même, et je ne le comprends pas, et je le porte.
+Il n’est pas monté, pas encore. Il est en bas, tout au pied, dans la ville sous le sommet, les mains froides pour la première fois depuis quarante ans  : sa forge est éteinte depuis des semaines, et la seule chaleur qui l’attende encore est la mienne. Personne d’autre que lui ne sait le dedans du sommet. Il a fait dire qu’il monterait demain soir. Il sera le dernier. Sa fille lui a demandé de ne pas monter. Il monte quand même. Ils montent tous quand même. C’est le mot qui revient cette nuit, quand même, et je ne le comprends pas, et je le porte.
 
 Le jeune qui écrit.
 
