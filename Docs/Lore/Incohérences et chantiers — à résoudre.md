@@ -839,6 +839,28 @@ ch. 35 la raconte et la date. Deux sorties possibles : avancer la fuite avant le
 ce qui oblige à reprendre le ch. 30 ; ou la laisser au ch. 35 et reprendre les deux
 mentions anticipées. **C'est un choix de montage, il revient à l'auteur.**
 
+### Tome 2 — le marquage des portes : qui l'institue, et qui nomme le signe ? (ch. 24, 38, 39)
+
+Même situation, autre nœud. Relevé par les agents des ch. 24, 38 et 39 ; **rien n'a été
+déplacé**.
+
+| Chapitre | Ce qu'il dit |
+| --- | --- |
+| **ch. 24** (Partie III, antérieur) | La circulaire **institue déjà** le marquage **et joint le signe** : « Car le signe, cette fois, la Préfecture l'avait joint. Un rond barré d'un trait. » Vaenor trace elle-même le premier rond de la vallée, **au brai**, et le note dans son second carnet. |
+| **ch. 38** (postérieur) | L'article quatre de l'Édit crée le marquage comme **chose neuve** — « l'Édit ne disait pas lequel, cela viendrait par circulaire » — et le chapitre se ferme sur « un signe que la circulaire n'avait pas encore nommé ». |
+| **ch. 39** | Confirme ce second état, et le signe y est **tracé au couteau**. |
+
+Le désaccord est double : **l'ordre d'institution** et **le nommage du signe**, plus la
+matière (brai contre couteau). La sortie la moins coûteuse, à titre indicatif : faire de
+l'Édit la **généralisation d'une circulaire déjà appliquée dans une vallée** — cela ne
+touche que l'article quatre du ch. 38 et la fin des ch. 38 et 39. Mais c'est une décision
+de montage institutionnel, elle revient à l'auteur.
+
+### Tome 2 — Herec et Herrec (ch. 18, 37)
+
+Le prêtre du ch. 37 s'appelle **Herec** (un r) et le bourg du ch. 18 **Herrec** (deux r).
+Homonymie volontaire ou coquille : à trancher. Rien n'a été renommé.
+
 ---
 
 ## Annexe — d'où viennent ces constats
