@@ -130,11 +130,11 @@ Nous sommes restés un moment dans le silence de la cuisine. Il y avait dedans q
 
 «  Il y a des gens qui veulent entendre ça, dit-il plus bas, avec un coup d’œil vers la porte. Pas beaucoup. Mais ils existent.  »
 
-Je lui ai dit ce que je pensais depuis le glacier  : que ce que je portais était trop grand pour un seul homme, et qu’une vérité trop grande pour un seul homme ne peut pas mourir avec lui.
+Je lui ai dit ce que je pensais depuis le glacier  : que ce que je portais était trop grand pour un seul homme, et que cela ne pouvait pas mourir avec moi.
 
 Omarin n’a pas répondu tout de suite. Sa main a écarté le bol de deux doigts, comme on dégage une table avant d’y poser quelque chose de lourd.
 
-«  Ne l’appelle pas vérité trop vite. Appelle-la charge. Une charge se porte à plusieurs sans devenir un dogme. Une vérité, les hommes se battent aussitôt pour savoir qui la possède.  »
+«  Ne l’appelle pas vérité trop vite. Appelle-la charge. Une charge, on demande à quelqu’un d’en prendre un côté. Une vérité, on se bat pour savoir à qui elle est.  »
 
 J’ai ouvert le cahier et corrigé le mot. Pas par obéissance. Parce qu’il avait raison.
 
@@ -314,7 +314,7 @@ Les murs jaunes étaient toujours debout. Ils n’avaient pas bougé d’une pie
 
 Mais une règle venait de manquer son geste.
 
-C’est peut-être ainsi que les murs commencent à tomber. Pas d’abord par le fracas. Pas d’abord par la poussière. D’abord par une pierre qui cesse d’obéir à la forme qu’on lui a donnée.
+C’est peut-être ainsi que les murs commencent à tomber.
 
 Je ne suis pas retourné écrire cela dans le carnet.
 

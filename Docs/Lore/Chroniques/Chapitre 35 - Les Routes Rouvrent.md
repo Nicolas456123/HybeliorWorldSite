@@ -139,7 +139,7 @@ La phrase me prit plus juste que je ne l’aurais voulu. Je gardai les mains sur
 «  Vous dites cela à tous vos passagers  ?
 — Seulement à ceux qui regardent la mer comme si elle leur devait une réponse.  »
 
-Il avait tort, et il avait raison de la manière la plus incommode. Je ne cherche pas mon père. Je l’ai su tôt, plus tôt qu’il ne conviendrait de l’écrire  : ce que je remonte de cette route n’est pas un homme, c’est une charge. La question que je me pose depuis le premier mur jaune n’a jamais été *où est Aldric*. Elle a toujours été *comment ne pas mourir comme lui en portant cela seul*. Reen ne pouvait pas le savoir, et je n’aurais pas pu le lui dire sans mentir sur le reste. Je l’ai laissé croire ce qui l’arrangeait. Cela m’arrangeait aussi.
+Il se trompait sur le mot. Je ne cherche pas mon père. Je l’ai su tôt, plus tôt qu’il ne conviendrait de l’écrire  : ce que je remonte de cette route n’est pas un homme. La question que je me pose depuis le premier mur jaune n’a jamais été *où est Aldric*. Elle a toujours été *comment ne pas mourir comme lui en portant cela seul*. Reen ne pouvait pas le savoir, et je n’aurais pas pu le lui dire sans mentir sur le reste. Je l’ai laissé croire ce qui l’arrangeait. Cela m’arrangeait aussi.
 
 Il se redressa, tapota une fois le bastingage du plat de la main et retourna vers la barre. Tout l’utile avait été dit.
 

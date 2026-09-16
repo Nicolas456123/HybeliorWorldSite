@@ -128,7 +128,7 @@ Le travail, dans son détail, était celui qu’un archiviste de Kharazir aurait
 
 Je n’avais démontré aucun système. Je l’ai écrit en toutes lettres à la page deux. Mais la cohérence des observations, vérification après vérification, me paraissait suffisante pour qu’une institution s’en saisisse. Chaque déduction s’appuyait sur une observation, chaque recoupement sur un autre cahier, un autre lieu, un autre témoin. J’avais été méticuleux depuis le début précisément parce que j’avais soupçonné depuis le début que ce que je rapporterais serait difficile à faire admettre, et qu’on m’opposerait, à raison, autant de lectures alternatives qu’il y avait de traditions sur la route.
 
-Je relis cette phrase à présent que je l’ai écrite. Je la laisse. Elle est vraie, et je ne vois pas comment la rendre plus courte sans lui ôter ce qui compte.
+Je relis cette phrase à présent que je l’ai écrite. Je la laisse.
 
 ---
 
@@ -166,7 +166,7 @@ Selendris m’a regardé longtemps.
 
 «  Alors nous faisons le même métier, vous et moi. Nous tenons la main de quelqu’un qui n’est plus là et nous continuons à lui parler. Sauf que vous, vous avez trouvé le moyen que d’autres l’entendent.
 — Transmettre. Pas comprendre.
-— Transmettre, pas comprendre  », répéta-t-elle, et elle ne s’aperçut pas qu’elle venait de nommer, en quatre mots, ce que je faisais depuis le premier mur jaune. Je n’ai rien relevé. Je l’ai laissée croire qu’elle m’avait consolé.
+— Transmettre, pas comprendre  », répéta-t-elle. Je n’ai rien relevé. Je l’ai laissée croire qu’elle m’avait consolé.
 
 Le cahier se referma.
 
@@ -202,7 +202,7 @@ Thalendris reprit la parole.
 — Et votre hypothèse sur les Déliés est politiquement explosive.
 — Elle est aussi étayée par quinze observations indépendantes. J’ai les références.  »
 
-Un silence différent tomba, celui des institutions qui calculent entre ce qu’elles voudraient ne pas entendre et ce qu’elles ne peuvent pas réfuter. Je l’ai reconnu. Je l’avais vu venir depuis le premier jour. Voilà pourquoi j’avais tout noté, toujours, dès le premier mur jaune, même l’insignifiant, même les sensations que je marquais d’un astérisque. On ne peut pas réfuter un cartographe qui a dessiné chaque pas du chemin.
+Un silence différent tomba, celui des institutions qui calculent entre ce qu’elles voudraient ne pas entendre et ce qu’elles ne peuvent pas réfuter. Je l’ai reconnu. Je l’avais vu venir depuis le premier jour. Voilà pourquoi j’avais tout noté, toujours, dès le premier mur jaune, même l’insignifiant, même les sensations que je marquais d’un astérisque. Ils ne trouveraient rien à opposer. J’avais dessiné chaque pas du chemin.
 
 L’un des Recteurs, un homme au col haut qui n’avait rien dit jusque-là, se pencha.
 

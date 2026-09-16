@@ -131,7 +131,7 @@ Au-dessous, je n’écrivis qu’une ligne.
 
 Puis, plus bas  : *[barré ce soir, jour 845. Le cadre ne tient pas. Je n’ai pas le mot pour ce qui ne tient pas. Je note qu’il manque.]*
 
-Je ne récrivis pas le raisonnement. Sur mes cartes, je laisse en blanc ce que je n’ai pas mesuré, et j’écris en marge  : *ici, je ne sais pas*. La barre était ce mot-là. Je la laissai.
+Je ne récrivis pas le raisonnement. Sur mes cartes, je laisse en blanc ce que je n’ai pas mesuré, et j’écris en marge  : *ici, je ne sais pas*. Je laissai la barre.
 
 ---
 

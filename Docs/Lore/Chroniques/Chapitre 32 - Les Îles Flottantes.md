@@ -117,9 +117,9 @@ Nous nous sommes observés un moment, chacun tenant le compte de ce que l’autr
 
 Inutile de lui demander comment il le savait. Il m’avait observé plusieurs jours de suite  ; ma main gauche revenait contre mon flanc, et il l’avait vu. Ma seule réponse fut que j’allais réfléchir. Puis il se leva, et à la porte, sans se retourner, il laissa tomber la phrase pour laquelle, je le comprends maintenant, il était venu s’asseoir.
 
-«  Vous ne cherchez pas à comprendre, dit-il. Vous cherchez à transmettre. Ce n’est pas la même faim.  »
+«  Vous ne cherchez pas à comprendre, dit-il. Vous cherchez à transmettre.  »
 
-Cette faim, je ne la niai pas. Je recopie sa phrase ici telle qu’il l’a dite, parce que mon métier est de recopier juste, et je laisse la ligne suivante blanche.
+Je ne le niai pas. Je recopie sa phrase ici telle qu’il l’a dite, parce que mon métier est de recopier juste, et je laisse la ligne suivante blanche.
 
 ---
 
