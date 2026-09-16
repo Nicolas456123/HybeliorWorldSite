@@ -11,154 +11,186 @@ status: draft
 
 # Chapitre vingt-trois — Le gîte trop propre
 
-Un homme qui n’a rien à cacher ne récure pas sa cour à la nuit tombée.
+La cour de l’Auberge du Corbeau-Gris avait été lavée.
 
-Verkan Sorne le savait, comme il savait qu’un registre trop bien tenu est un registre qu’on a tenu deux fois : la première pour la vérité, la seconde pour lui. Debout dans la cour de l’Auberge du Corbeau-Gris, ses gants de voyage encore aux mains, il regardait le sol. Des pavés lavés. À cette heure, sur une route de terre où passaient des bêtes, des rouliers, des marchands qui pissaient au coin du mur, les pavés d’une cour d’auberge auraient dû être ce qu’ils étaient partout ailleurs : gras de crottin, tachés de graisse de roue, semés de paille pourrie. Ceux-ci avaient été frottés. Récemment. Il y avait, entre deux pierres, une ligne de mousse morte, arrachée au balai. On ne frotte pas si fort une cour qu’on entretient tous les jours ; on frotte comme cela une cour qu’on veut faire oublier.
+Verkan Sorne s’arrêta sous le porche, ses gants de voyage encore aux mains, et regarda le sol avant de regarder la maison. Sur une route de terre où passent des mules, des rouliers et des marchands qui pissent au coin du mur, les pavés d’une cour d’auberge sont gras de crottin, tachés de graisse de roue, semés de paille pourrie. Ceux-là avaient été frottés jusqu’au grain. Entre deux pierres courait une ligne claire, là où le balai avait arraché la mousse. Le travail était récent, et il avait été fait comme on ne fait pas un travail d’entretien  : à fond, et une seule fois.
 
-*Le trou exactement à sa taille,* pensa-t-il, et il eut, pour la première fois depuis Pyrion, quelque chose qui ressemblait à de la joie. Une joie froide, la sienne, celle du lecteur qui tourne une page et sait, à la première ligne, que le livre va tenir sa promesse.
+*Le trou exactement à sa taille.* Il se l’était dit tout un hiver, au Bureau, devant trois liasses et une exécution sans corps. C’était la première fois qu’il le voyait sous ses bottes.
 
-L’aubergiste vint sur le seuil, un linge à la ceinture, le sourire trop large des hommes qui ont vu arriver un cheval de fonctionnaire.
+Trois semaines qu’il descendait cette route en lisant des registres honnêtes. Celui-ci ne le serait pas.
 
-« Vous cherchez le gîte, messire ? On a de la place.
+Le cheval souffla derrière lui et fit trois pas sur la pierre nue. Le bruit des fers portait trop clair dans cette cour sans paille. De l’autre côté du mur, l’auberge travaillait  : une soupe qui bouillait, une porte, une voix de femme qui appelait quelqu’un par son nom. L’enseigne pendait au-dessus du porche, un oiseau gris écaillé, repeint jadis et plus depuis.
 
-— Je cherche une nuit », dit Verkan.
+L’aubergiste vint sur le seuil, un linge à la ceinture, avec le sourire large des hommes qui ont vu entrer un cheval de fonction.
 
-*
+«  Vous cherchez le gîte, messire  ? On a de la place.
 
-Il s’assit à la table du fond, celle qui voyait la porte, la salle et l’escalier, la table qu’il choisissait toujours, par vieille habitude d’inquisiteur, comme un chat choisit l’angle d’où l’on voit deux issues. La salle était vide à cette heure creuse. Un feu bas. L’aubergiste apporta du vin sans qu’on le lui demandât, ce qui était une manière de rester, et de savoir pourquoi l’homme au cheval de fonction s’attardait.
-
-« La route est calme, en ce moment ? demanda Verkan.
-
-— Calme, oui. La saison. Les gros convois passent au printemps.
-
-— Combien de nuitées, sur la dernière lune ? »
-
-L’aubergiste haussa une épaule, versa. « Je ne compte pas. Ce qui passe passe.
-
-— Vous tenez un registre. » Ce n’était pas une question ; c’était le nom d’une chose posée sur la table. « Tous les gîtes de la route de terre tiennent un registre, depuis l’édit sur les passeurs. Deux ans, maintenant. Vous avez encaissé l’amende comme tout le monde, la première année, le temps d’apprendre. »
-
-Un silence bref. Le sourire tint bon, à peine.
-
-« On tient le registre, messire. Dans les règles.
-
-— Je n’en doute pas. » Verkan but une gorgée, reposa le gobelet exactement à sa place, sur le cerne humide qu’il avait laissé. « Montrez-le-moi. »
+— Je cherche une nuit  », dit Verkan.
 
 *
 
-Le registre était un cahier de papier gris, corné, taché aux pouces des campagnards qui signent d’une croix. Verkan le feuilleta lentement, du bout du doigt ganté, non pour lire les noms. Les noms mentaient, il le savait, les noms étaient la première chose qu’on truquait. Il feuilletait pour lire l’encre. L’encre, elle, ne mentait pas comme les hommes ; elle mentait autrement, plus honnêtement, par sa couleur, par la vitesse de sa main, par le noir d’une entrée qu’on avait posée sèche à côté d’une autre qu’on avait posée fraîche.
+Il s’assit à la table du fond, celle qui voyait la porte, la salle et l’escalier. La salle était vide à cette heure creuse, le feu bas. L’aubergiste apporta du vin sans qu’on le lui eût demandé, ce qui était une manière de rester.
 
-« Il fait beau, cette page, dit-il enfin.
+«  La route est calme, en ce moment  ?
 
-— Messire ?
+— Calme, oui. La saison. Les gros convois passent au printemps.
 
-— Vos entrées. » Il tourna le cahier vers l’aubergiste, un doigt sur la marge. « Regardez. Ici, une main penchée, l’encre pâle : un homme fatigué, le soir, qui écrit vite pour aller se coucher. Là, la même. Là encore. Toute la lune, la même main lasse du soir. C’est bien ; c’est vrai ; un aubergiste écrit le soir, fatigué. » Le doigt glissa. « Et puis cette entrée-ci. La quatrième avant la fin. La main est droite. L’encre est franche. On l’a posée le matin, au repos, d’une main qui avait dormi. Un aubergiste n’inscrit pas ses nuitées le matin. Le matin, il a du pain à faire et des bêtes à sortir. »
+— Combien de nuitées, sur la dernière lune  ?  »
 
-L’homme regardait la page comme on regarde un chien qu’on croyait dormir et qui s’est levé.
+L’homme haussa une épaule et versa. «  Je ne compte pas. Ce qui passe passe.
 
-« Je l’aurai oubliée le soir. Ça arrive. On la note au réveil.
+— Vous tenez un registre.  » Verkan le dit du ton dont il avait parlé de la saison. «  Tous les gîtes de la route en tiennent un depuis l’édit sur les passeurs.
 
-— Cela arrive, oui. » Verkan hocha la tête, généreux, presque tendre. « Une fois sur cent. Un homme oublie, le lendemain il répare. Ce n’est pas cette entrée-là qui me parle. C’est qu’elle soit la seule. Sur toute la lune, une seule main du matin, et c’est justement la nuit où votre cour a été récurée. Deux petites choses, chacune innocente. La cour propre. L’entrée du matin. Séparément, rien. Ensemble… » Il referma le cahier, doucement. « Ensemble, elles disent la même chose, et je les crois quand elles le disent deux fois. »
+— On le tient dans les règles, messire. Depuis trois ans.
 
-*
+— Deux. L’édit est de l’automne d’avant.  » Il le corrigea sans y mettre de poids, comme on redresse un cadre de travers en passant. «  Vous avez payé l’amende la première année, comme tout le monde, le temps d’apprendre.
 
-L’aubergiste s’assit sans qu’on le lui offrît, ce que les hommes ne font que lorsque leurs jambes le décident pour eux. Cette fois, il remplit son propre gobelet, et le vida à demi.
+— On apprend, messire.
 
-« Vous êtes de la route, messire ? De la maréchaussée ?
-
-— Non.
-
-— De quoi, alors ? »
-
-Verkan posa sur la table, entre eux, un petit disque de plomb frappé du sceau de Pyrion : trois traits croisés sous une couronne fermée. Du Bureau, il ne dit pas le nom. Le nom du Bureau, dans les provinces, ne disait rien ; le sceau, lui, disait tout ce qu’il fallait : *ceci vient de loin et ne repartira pas les mains vides.*
-
-« Je mets les récits en concordance, dit-il. C’est mon métier. Les gens racontent, et moi je regarde si les morceaux tiennent ensemble. La plupart tiennent : les gens mentent mal, par petits bouts, et les petits bouts se contredisent, et je vois le jour entre eux comme on voit le jour entre les planches d’une porte mal jointe. » Sous son doigt, le disque de plomb tourna, lentement. « La vôtre est bien jointe. C’est cela qui m’a arrêté chez vous. Une porte trop bien jointe est une porte qu’on a rabotée exprès. »
-
-« Je ne comprends pas la moitié de ce que vous dites.
-
-— Vous comprenez l’autre moitié. Cela suffira. »
+— Je n’en doute pas.  » Verkan but une gorgée et reposa le gobelet sur le cerne qu’il avait laissé. «  Montrez-le-moi.  »
 
 *
 
-Il ne haussa pas la voix. Il ne la haussait jamais ; il avait appris jeune que la voix haute est l’aveu du faible, l’homme qui crie pour couvrir ce qu’il ne peut pas prouver. Verkan prouvait. On n’a pas besoin de crier ce qu’on prouve.
+Le registre était un cahier de papier gris, corné, taché aux pouces des campagnards qui signent d’une croix. Verkan le feuilleta du bout du doigt ganté, lentement, sans s’arrêter aux noms  : les noms sont la première chose qu’on truque, et ceux-là ne mèneraient qu’à d’autres noms. Il lisait l’encre.
 
-« Une nuit, il y a une lune, dit-il, quelqu’un a dormi ici, ou est passé ici, ou a changé de cheval ici, je ne sais pas encore lequel, et c’est sans importance pour l’instant. Cette personne voulait qu’on l’oublie. Elle a payé pour cela. Non pas payé le gîte : payé l’oubli. Le gîte, on le paie en cuivre ; l’oubli, on le paie plus cher, et vous avez pris les deux, et c’est humain, moi aussi j’aurais pris. » Un temps. « Ensuite cette personne vous a dit ce qu’il fallait faire. Récurer la cour, pour qu’aucune trace de roue ni de sabot ne reste où un œil pourrait la lire. Refaire l’entrée du registre, pour qu’il n’y ait pas de nuit manquante : car une nuit manquante se voit, un trou dans un registre crie plus fort qu’une tache. Il fallait donc boucher le trou. Vous l’avez bouché. Proprement. Trop proprement. »
+«  Elle est belle, cette page, dit-il enfin.
 
-L’aubergiste ne disait plus rien. Il avait cessé de sourire, et son visage sans sourire était plus honnête, presque soulagé, comme celui d’un homme à qui l’on retire enfin un poids qu’il portait mal.
+— Messire  ?
 
-« Je vais vous dire ce qui vous perd, reprit Verkan, et vous m’écouterez, parce que c’est aussi ce qui vous sauve. Un menteur ordinaire aurait laissé un trou. Il aurait eu peur, il aurait arraché la page, ou barré la nuit, ou dit *je ne me souviens pas*. Vous, non. Vous avez été bien conseillé. Celui, ou plutôt celle, qui vous a conseillé savait qu’un trou attire l’œil, et vous a fait boucher le trou. C’est un travail de maître. Je ne poursuis pas les traces, l’ami. Les traces, n’importe quel sergent les suit. Moi, je poursuis les endroits *sans* trace, dans un monde qui en laisse partout. Et le vôtre est le premier gîte de toute cette route où l’on a pensé à effacer jusqu’à l’absence. »
+— Vos entrées.  » Il tourna le cahier vers l’aubergiste, un doigt dans la marge. «  Ici, une main penchée, l’encre pâle  : un homme fatigué qui écrit vite pour aller se coucher. Là, la même. Là encore. Toute la lune, la même main du soir. C’est bien, et c’est vrai  : un aubergiste écrit le soir.  » Le doigt glissa de quatre lignes. «  Et puis celle-ci. La main est droite, l’encre est franche, le trait ne traîne pas. On l’a posée le matin, au repos, d’une main qui avait dormi. Un aubergiste n’inscrit pas ses nuitées le matin. Le matin, il y a le pain à faire et les bêtes à sortir.  »
 
-*
+La main de l’aubergiste vint sur le cahier pour le refermer, ou pour le tourner, il ne savait sans doute pas lui-même. Verkan posa un doigt sur la page. Ce fut tout, et cela suffit  ; la main se retira. L’homme regardait maintenant le registre comme on regarde un chien qu’on croyait endormi et qui vient de se lever.
 
-Il laissa le silence travailler. Le silence était son meilleur second ; il faisait à sa place la moitié du chemin. Un homme placé devant le vide de sa propre faute finit toujours par le combler avec des mots : c’est plus fort que lui, le vide fait mal, on le bourre de paroles comme on presse une plaie.
+«  Je l’aurai oubliée le soir. Ça arrive. On la note au réveil.
 
-« C’était une femme », dit enfin l’aubergiste.
-
-Verkan ne bougea pas. Surtout ne pas bouger, quand cela vient ; un geste de trop, et l’homme se rappelle qu’il parle, et se tait.
-
-« Elle est passée un soir. Pas descendue vraiment, juste le temps d’un relais. Elle avait deux bêtes de rechange, du bon, du sûr. Elle a payé le double du gîte pour ne pas y coucher. » Le gobelet tournait entre ses doigts. « Elle m’a pas menacé. C’est ça qui m’a fait, je crois. Un qui menace, on résiste, on a sa fierté. Elle, elle m’a expliqué. Calme. Comme vous. Elle m’a dit : voilà ce que tu vas faire, et voilà pourquoi, et voilà ce que ça te rapporte, et voilà ce qui t’arrive si tu le fais mal. Le tout sans un mot plus haut que l’autre. Comme si elle lisait dans un livre ce qui allait se passer.
-
-— Décrivez-la.
-
-— On ne décrit pas cette femme-là, messire. » L’aubergiste eut un petit rire sans joie. « J’ai essayé, après, pour moi, de me la remettre. Rien. Ni grande ni petite. Un manteau de route comme tout le monde. Un visage, je vous jure, un visage que j’ai regardé une heure et que je serais incapable de reconnaître demain sur la place. Elle avait ça aussi. L’art de n’être personne. »
-
-*L’art de n’être personne.* Verkan rangea la formule quelque part, avec soin, comme on range une pièce dont on sait qu’elle servira.
-
-« Combien de bêtes de rechange, vous avez dit ?
-
-— Deux.
-
-— Des bêtes à elle, ou des bêtes qu’elle plaçait pour d’autres ? »
-
-L’aubergiste le regarda, cette fois avec une lenteur nouvelle, la lenteur d’un homme qui comprend qu’on en sait plus que lui sur sa propre nuit.
-
-« Comment vous savez ça ? »
-
-— Je ne sais pas. Je demande. » Verkan se pencha à peine. « Une femme qui voyage seule ne mène pas deux bêtes de rechange pour elle seule ; deux, c’est trop pour un corps, pas assez pour un convoi. Deux, c’est un relais qu’on prépare pour d’autres qui passeront après. Elle ne fuyait pas, l’ami. Elle *aménageait*. Elle posait des chevaux frais le long d’une route pour des gens qui ne l’ont pas encore prise. » Il se redressa. « Voilà ce qui me manquait. Merci. »
+— Cela arrive, oui.  » Verkan hocha la tête. «  Une fois sur cent. Un homme oublie, le lendemain il répare, et ce n’est rien. Ce n’est pas cette entrée qui me parle, c’est qu’elle soit la seule. Sur toute une lune, une seule main du matin, et c’est justement la nuit où votre cour a été récurée.  » Il referma le cahier sans bruit. «  Deux petites choses. Séparément, je les oublie. Ensemble, elles me disent la même chose, et je les crois.  »
 
 *
 
-Il paya sa nuit. Il coucherait là : autant lire la cour au matin, à la vraie lumière. Il monta seul dans une chambre basse qui sentait le suif et la laine humide. Il ne dormit pas tout de suite. Assis au bord du lit, ses gants ôtés enfin, il regarda ses propres mains, ces mains qui n’avaient jamais tenu que des papiers et des sceaux, et il pensa à elle. À la femme sans visage. À l’agent Aelindra.
+L’aubergiste s’assit sans qu’on le lui offrît, comme font les hommes dont les jambes décident avant eux. Cette fois il remplit son propre gobelet, et le vida à demi.
 
-Car c’était elle. Il n’en avait pas la preuve nommée, pas encore ; mais il avait mieux que la preuve, il avait la signature. Il connaissait cette main. Il l’avait lue une fois déjà, tout entière, quarante pages serrées d’une écriture militaire qui ne barrait jamais un mot : le rapport qu’on lui avait ordonné de brûler et qu’il avait lu d’abord, jusqu’au bout, parce qu’on lit tout, dans son métier, avant de brûler. Ces quarante pages, il ne les avait pas trouvées fausses. C’était cela, le pire ; c’était cela qu’il n’avait dit à personne. Une capitaine du Dominat était partie chercher la faille des Verithani, deux ans durant, avec toute la froideur d’un bon couteau, et elle n’avait pas trouvé la faille, parce qu’il n’y en avait pas, et elle l’avait écrit, et il l’avait lu, et le raisonnement l’avait mordu, lui aussi, à l’endroit exact où il avait mordu elle.
+«  Vous êtes de la maréchaussée, messire  ?
 
-« Vous êtes bonne », dit-il à la chambre vide, à voix basse, sans ironie. « Vous êtes la meilleure que j’aie lue. »
+— Non.
 
-Et c’était vrai, et cela n’aurait pas dû lui faire plaisir, et cela lui en faisait. Il y avait, dans le fait de poursuivre une adversaire de cette taille, quelque chose qui le lavait de toutes les petites poursuites de sa vie : les faussaires de grain, les déserteurs, les scribes qui volaient trois pièces. Toute sa carrière il avait chassé des menteurs médiocres qui laissaient des trous béants. Elle, elle bouchait ses trous. Elle bouchait jusqu’à l’absence de trou. On ne se mesure vraiment qu’à ce qui vous vaut ; et pour la première fois depuis très longtemps, Verkan Sorne avait devant lui quelqu’un qui le valait, peut-être le dépassait, et qui ne le verrait jamais, ne saurait jamais qu’il existait, et qu’il ne verrait jamais non plus. Deux joueurs penchés sur le même échiquier, dos à dos, dans deux pièces séparées, qui jouaient chacun contre le vide laissé par l’autre.
+— De quoi, alors  ?  »
+
+Verkan posa entre eux un petit disque de plomb frappé du sceau de Pyrion, trois traits croisés sous une couronne fermée. Il ne dit pas le nom du Bureau. Dans les provinces, le nom ne disait rien  ; le sceau disait le reste.
+
+«  Je mets les récits en concordance. C’est mon métier. Les gens racontent, et je regarde si les morceaux tiennent ensemble. La plupart du temps ils ne tiennent pas  : on ment par petits bouts, et les petits bouts ne s’ajustent jamais tout à fait.  » Sous son doigt, le disque de plomb fit un demi-tour. «  Chez vous, tout s’ajuste. Voilà pourquoi je me suis arrêté ici et pas trois lieues plus loin.
+
+— Je ne comprends pas la moitié de ce que vous dites.
+
+— Vous comprenez l’autre moitié. Cela suffira.  »
 
 *
 
-Ce qui le tenait éveillé, pourtant, n’était pas l’admiration. C’était la géométrie.
+Il continua du même ton, celui qu’il aurait pris pour demander le prix de l’avoine.
 
-Il se releva, alluma la chandelle, sortit de sa sacoche la carte de la route de terre, la sienne, annotée, couverte de sa petite écriture serrée où chaque marque était une concordance déjà faite. Le doigt sur le Corbeau-Gris. Puis, de mémoire, les autres. Un passeur, deux relais au sud, qui avaient « oublié » une traversée. Un logeur, plus bas, dont le registre sautait une nuit : mal bouché, celui-là, un amateur qu’elle avait dû prendre en hâte. Un cocher payé pour une course qu’il jurait n’avoir jamais faite, et dont les chevaux, pourtant, étaient rentrés fourbus.
+«  Il y a une lune, quelqu’un a dormi ici, ou changé de cheval ici, ou seulement mangé ici  ; je ne sais pas encore lequel, et cela ne presse pas. Cette personne voulait qu’on l’oublie, et elle a payé pour cela. Pas le gîte  : l’oubli. Vous avez pris les deux. J’aurais pris aussi.  » Un temps. «  Ensuite elle vous a dit quoi faire. Récurer la cour, pour qu’il n’y reste ni roue ni sabot à lire. Réécrire la nuit dans le registre, parce qu’une nuit qui manque se voit de loin. Vous avez bouché le trou. Proprement. Trop proprement.  »
 
-Chacun de ces silences, seul, ne disait rien. Un passeur oublie. Un logeur se trompe de nuit. Un cocher ment sur une course pour ne pas payer l’octroi. Chacun avait sa raison ordinaire, honnête, et c’était pour cela qu’aucun sergent de la route ne les avait reliés : parce qu’un sergent voit des faits, et que ces faits-là, un par un, étaient innocents. Mais Verkan ne voyait pas les faits. Il voyait ce qui les tenait ensemble : la même main sous eux, la même douceur froide qui expliquait au lieu de menacer, la même science de l’oubli. Et quand il traçait, d’un silence à l’autre, la ligne qui les joignait, quand il reliait le passeur, le logeur, le cocher, le gîte trop propre, la ligne ne serpentait pas. Elle ne cherchait pas. Elle allait.
+L’aubergiste ne souriait plus, et son visage sans sourire était plus honnête, presque soulagé.
 
-Elle allait droit au sud.
+«  Je vais vous dire ce qui vous perd, reprit Verkan, et écoutez-le, parce que c’est la même chose qui vous sauve. Un menteur ordinaire aurait laissé un trou  : il aurait arraché la page, ou barré la nuit, ou juré qu’il ne se souvenait pas. Vous, non. Vous avez été bien conseillé. Celui qui vous a conseillé, ou plutôt celle, savait qu’un trou attire l’œil, et vous a fait boucher le trou. C’est un travail de maître, et je n’en avais pas vu depuis longtemps. Les traces, l’ami, n’importe quel sergent de la route les suit. On m’envoie là où il n’y en a pas. Votre gîte est le premier de toute cette route où quelqu’un a pensé à effacer jusqu’à l’absence.  »
 
-Il resta longtemps le doigt sur la carte, à suivre cette flèche que personne n’avait dessinée, que personne n’avait voulu dessiner, et qui était là quand même, tracée en creux par tout ce qu’on avait effacé pour qu’elle ne le fût pas. C’était le paradoxe qui le tenait, chaque fois, et qui faisait de lui ce qu’il était : on peut cacher un pas. On peut cacher dix pas. Mais on ne peut pas cacher une *direction* : car plus on l’efface, plus le vide de l’effacement dessine exactement là où l’on va. Elle le savait. Elle était trop bonne pour ne pas le savoir. Et pourtant elle n’avait pas le choix ; il faut bien mener les gens quelque part, et le quelque part, une fois qu’on a assez de vides, se laisse lire dans la neige des absences comme une piste dans la neige vraie.
+*
 
-Vers quoi, au sud ? Il n’en savait rien encore. Un point. Un seul point où convergeaient des gens qu’on déplaçait avec ce soin extrême, sans qu’ils se croisent, chacun par sa route, chacun oublié à son gîte. Beaucoup de soin pour beaucoup de gens vers un seul lieu, à une date qu’il ne connaissait pas mais qui existait, il en aurait juré, car on n’aménage pas des relais de chevaux frais pour une date vague ; les chevaux frais, cela se prépare pour un *jour*.
+Il n’ajouta rien. Il garda les mains à plat sur la table. Le feu bas fit son bruit de feu, et dehors, dans la cour lavée, une bête tira sur sa longe.
+
+«  C’était une femme  », dit enfin l’aubergiste.
+
+Verkan ne bougea pas.
+
+«  Elle est passée un soir. Pas descendue, non  : le temps d’un relais. Elle avait deux bêtes de rechange, du bon, du sûr. Elle a payé le double d’une nuit pour ne pas coucher ici.  » Le gobelet tournait entre ses doigts. «  Elle m’a pas menacé. C’est ça qui m’a fait, je crois. Un qui menace, on lui résiste, on a sa fierté. Elle, elle m’a expliqué. Voilà ce que tu vas faire, voilà pourquoi, voilà ce que ça te rapporte, voilà ce qui t’arrive si tu le fais mal. Elle m’a dit tout ça comme on parle du temps qu’il fera demain.
+
+— Quand  ?
+
+— Il y a un mois. À peu près.
+
+— Trente-quatre jours. C’est votre écriture qui le dit.  » Verkan laissa passer un temps. «  Décrivez-la.
+
+— On ne décrit pas cette femme-là, messire.  » L’aubergiste eut un petit rire sans joie. «  J’ai essayé après, pour moi, de me la remettre. Rien. Ni grande ni petite. Un manteau de route comme tout le monde. Un visage que j’ai regardé une heure et que je ne reconnaîtrais pas demain sur la place. Elle avait ça aussi. L’art de n’être personne.  »
+
+Verkan garda la formule. Elle servirait.
+
+«  Elles étaient comment, ces bêtes  ?
+
+— Bonnes.  » L’aubergiste parlait des chevaux d’un autre visage, et c’était l’endroit du récit où il cessait de se surveiller. «  Des hongres de poste. La robe sale et le pied net, ferrés de frais tous les quatre. On ne fait pas ferrer quatre pieds à des bêtes de rechange pour le plaisir.
+
+— Combien, vous avez dit  ?
+
+— Deux.
+
+— Des bêtes à elle, ou des bêtes qu’elle plaçait pour d’autres  ?  »
+
+L’aubergiste le regarda avec une lenteur nouvelle, celle d’un homme qui comprend qu’on en sait plus que lui sur sa propre nuit.
+
+«  Comment vous savez ça  ?
+
+— Je ne sais pas. Je demande.  » Verkan se pencha à peine. «  Une femme qui voyage seule ne mène pas deux bêtes de rechange pour elle. Deux, c’est trop pour un corps et pas assez pour un convoi. Deux, c’est un relais qu’on prépare pour des gens qui passeront après. Elle ne fuyait pas, l’ami. Elle aménageait. Elle posait des chevaux frais le long d’une route que d’autres n’ont pas encore prise.  »
+
+L’aubergiste regarda le fond de son gobelet un long moment.
+
+«  Elle a payé le foin trois semaines d’avance, dit-il enfin. Et la litière. Elle a dit que je n’aurais rien à faire qu’à les sortir un peu, et à ne pas m’étonner si on venait me les prendre.
+
+— Trois semaines.  » Verkan se redressa. «  Voilà ce qui me manquait. Merci.  »
+
+*
+
+Il paya sa nuit. Il coucherait là, pour lire la cour au matin, à la vraie lumière.
+
+La chambre était basse et sentait le suif et la laine humide. En dessous, on tirait des bancs, on raclait un âtre, quelqu’un riait d’un rire court  ; dans la cour, une bête changea d’appui et fit sonner un fer. Verkan resta longtemps assis au bord du lit sans rien faire, à écouter l’auberge se coucher.
+
+Puis il ôta ses gants, regarda ses mains, qui n’avaient jamais tenu que du papier et des sceaux, et il pensa à elle.
+
+Car c’était elle. Il n’en avait pas la preuve nommée, pas encore  ; il avait mieux, il avait la manière. Quarante pages d’une écriture d’officier qui ne barrait jamais un mot, lues d’un bout à l’autre une nuit de Pyrion avant d’être portées au brasier, parce qu’on lit tout avant de brûler. Deux ans durant, une capitaine du Dominat avait cherché la faille des Verithani avec la froideur d’un bon couteau, et ne l’avait pas trouvée, et l’avait écrit. Lui non plus n’avait pas trouvé le tournant de ces quarante pages. C’était la seule chose qu’il n’eût dite à personne.
+
+«  Vous êtes bonne, dit-il à la chambre vide, à voix basse, sans ironie. La meilleure que j’aie lue.  »
+
+Cela n’aurait pas dû lui faire plaisir, et lui en faisait. Toute sa carrière, il avait couru après des menteurs médiocres  : des faussaires de grain, des déserteurs, des scribes qui volaient trois pièces et laissaient derrière eux des trous béants. Elle bouchait les siens. Elle bouchait jusqu’à l’absence de trou. Elle travaillait un jour devant lui, il travaillait un jour derrière elle, et ils ne se verraient pas  ; elle ne saurait jamais qu’il existait. Il aurait pourtant reconnu son ouvrage entre cent registres, comme on reconnaît une écriture sur une page.
+
+*
+
+L’admiration ne l’empêcha pas de dormir. La carte, si.
+
+Il se releva, alluma la chandelle, sortit de sa sacoche la carte de la route de terre, la sienne, couverte de sa petite écriture serrée où chaque marque était une concordance déjà faite. Le doigt sur le Corbeau-Gris. Puis les autres, de mémoire. Un passeur, deux relais plus au sud, qui avait oublié une traversée. Un logeur, plus bas, dont le registre sautait une nuit  : mal bouché, celui-là, un amateur qu’elle avait dû prendre en hâte. Un cocher payé pour une course qu’il jurait n’avoir jamais faite, et dont les chevaux étaient rentrés fourbus.
+
+Pris un par un, ces silences ne disaient rien. Un passeur oublie. Un logeur se trompe de nuit. Un cocher ment sur une course pour ne pas payer l’octroi. Chacun avait sa raison ordinaire, et c’est pour cela qu’aucun sergent de la route ne les avait reliés  : un sergent voit des faits, et ces faits-là étaient innocents. Verkan regardait ce qui les tenait ensemble. La même douceur qui explique au lieu de menacer. La même façon de payer un peu trop, jamais beaucoup trop. La même science de l’oubli.
+
+Et quand il joignait ces vides, du passeur au logeur, du logeur au cocher, du cocher à la cour récurée, la ligne ne serpentait pas. Elle allait droit au sud.
+
+Il resta longtemps le doigt dessus. Elle pouvait effacer une nuit, un homme, un attelage  ; elle ne pouvait pas effacer où tout cela allait, et chaque vide de plus rendait la ligne plus nette. Elle était trop bonne pour l’ignorer. Elle n’avait pas le choix non plus  : il faut bien mener les gens quelque part.
+
+Vers quoi, au sud, il n’en savait rien. Un point, un seul, où l’on amenait des gens avec ce soin extrême, chacun par sa route, sans qu’ils se croisent. Et une date  : on n’aménage pas des relais pour un mois vague. Des chevaux frais, cela se prépare pour un jour.
 
 *
 
 Au matin, il descendit dans la cour à la première lumière, comme il l’avait décidé.
 
-La lumière rasante fit ce qu’il attendait d’elle : elle rendit à la pierre ce que la pénombre lui avait caché. On avait bien récuré. Mais on ne récure pas la pierre elle-même, seulement ce qui est dessus ; et dans le grain d’un pavé, au ras du mur, là où le balai passe mal, un peu de terre grasse était restée, tassée dans un creux : de la terre noire, fine, volcanique. Verkan s’accroupit, en gratta un peu du bout de l’ongle, la roula entre deux doigts. Elle ne venait pas d’ici. Ici, la terre était rouge, argileuse, une terre de plaine. Celle-ci était noire et légère comme de la cendre tamisée. Une terre du sud. Une terre de sabot qui était descendu du sud, ou qui remontait vers lui, accrochée à un fer qu’on avait cru propre.
+Il faisait froid. Son souffle fumait. Le soleil vint de biais par-dessus le mur et rendit à la pierre ce que la pénombre avait caché  : le grain des pavés, le creux des joints, la ligne pâle du balai le long du mur. Un merle se posa sur le muret, regarda l’homme accroupi et repartit.
 
-Il la garda dans un pli de papier, sans savoir encore ce qu’elle lui dirait, par pur réflexe de sa nature : on ramasse tout, on trie après. Puis il se releva, épousseta ses genoux, et regarda un moment la cour lavée, le mur, la route qui filait vers le sud entre deux haies grises. L’aubergiste, sur le seuil, le regardait faire sans oser parler.
+Il fit lentement le tour de la cour, en gardant la lumière de son côté. Sous l’auvent, l’anneau de fer scellé dans le mur portait une usure claire à l’endroit précis où une longe travaille quand la bête tire  ; il y en avait deux, à quatre pieds l’un de l’autre. Il s’arrêta là où un attelage se serait rangé, mesura de l’œil la porte de l’écurie, et sut en combien de pas la femme au manteau de route avait traversé cette cour, sinon quand.
 
-« Vous ne m’arrêtez pas ? » finit par demander l’homme, et il y avait dans sa voix moins de peur que de fatigue, le désir presque d’en finir.
+On récure ce qui est sur la pierre, pas la pierre elle-même. Au ras du mur, là où le balai passe mal, un peu de terre grasse était restée, tassée dans un creux. Verkan en gratta du bout de l’ongle et la roula entre deux doigts. Elle ne venait pas d’ici  : ici, la terre était rouge, argileuse, une terre de plaine. Celle-ci était noire, fine, légère comme de la cendre tamisée. Une terre du sud, montée jusque-là sur un fer qu’on avait cru propre.
 
-« Non. » Verkan remit ses gants. « Vous n’êtes pas le gibier. Vous êtes une empreinte que le gibier a laissée en vous croyant effacer. » Il eut, pour la première fois, quelque chose d’un sourire, très bref, qui n’atteignit pas ses yeux. « Un maillon. On garde les maillons, on ne les brise pas ; c’est en les suivant qu’on remonte la chaîne. Vivez bien. Tenez mieux votre registre. Non pas pour moi. Pour le prochain. Il ne sera peut-être pas aussi aimable. »
+Il la plia dans un papier et la glissa contre sa poitrine. Puis il se releva, épousseta ses genoux et regarda un moment la cour lavée, le mur, la route qui filait vers le sud entre deux haies grises. Sur le seuil, l’aubergiste n’osait pas parler.
 
-En selle. Le cheval de fonction, reposé, piaffa vers la route.
+«  Vous ne m’arrêtez pas  ?  » finit-il par demander, et il y avait dans sa voix moins de peur que de fatigue, presque le désir d’en finir.
 
-« Messire, dit l’aubergiste. Cette femme. Vous la trouverez ?
+«  Non.  » Verkan remit ses gants. «  Vous n’êtes pas ce que je cherche. Vous êtes l’endroit où elle est passée, et je reviendrai peut-être vous relire. Vivez bien. Tenez mieux votre registre. Pas pour moi  : pour le suivant, qui sera peut-être moins aimable.  » Il eut quelque chose d’un sourire, très bref, qui n’atteignit pas ses yeux.
 
-— Non. » Verkan rassembla ses rênes, le regard déjà au sud, sur la haie grise, sur ce qu’il y avait derrière et qu’il ne voyait pas encore. « On ne la trouvera pas. On ne trouve pas les gens comme elle ; on arrive là où ils ont été. » Un temps. « Mais ils vont tous au même endroit. Et cet endroit-là, lui, ne peut pas s’effacer. »
+Le cheval de fonction, reposé, piaffait déjà vers la route.
 
-Il talonna, et prit le sud.
+«  Messire. Cette femme. Vous la trouverez  ?  »
+
+Verkan rassembla ses rênes, le regard déjà au sud, sur la haie grise et sur ce qu’il y avait derrière et qu’il ne voyait pas encore.
+
+«  Non. J’arriverai là où elle est passée, comme toujours, et elle sera partie de la veille.  » Un temps. «  Mais ils vont tous au même endroit. Un endroit, ça ne s’efface pas.  »
+
+Il talonna et prit le sud.
 
 *
 
-Longtemps, sur la route, il ne pensa à rien qu’à sa carte et à sa flèche en creux. La terre noire dans son pli de papier pesait, minuscule, contre sa poitrine. Il ne savait pas encore lire ce qu’elle disait ; il ne savait pas encore le nom du point où toutes ces absences pointaient ; il ne savait pas que là-bas, très loin au sud, par-delà les haies grises et les hautes terres et la mer qu’il faudrait longer, une montagne qu’il n’avait jamais vue commençait, très lentement, à respirer un peu plus fort qu’à l’ordinaire — et qu’il courait, sans le savoir, non pour empêcher, mais pour arriver juste à temps pour voir.
+Il chevaucha tout le jour sans penser à rien d’autre qu’à sa carte. Vers midi, à une halte, il déplia le papier et regarda la terre noire au creux de sa paume, si légère qu’un souffle la lui aurait prise. Elle venait d’un pays qu’il n’avait jamais vu et dont il ne savait pas le nom.
+
+Il la replia et se remit en selle. Il croyait gagner du temps sur elle. Il n’en gagnait pas  : il descendait vers le seul endroit du monde que personne ne pouvait récurer, et il y arriverait à temps pour le voir, pas pour l’empêcher.
