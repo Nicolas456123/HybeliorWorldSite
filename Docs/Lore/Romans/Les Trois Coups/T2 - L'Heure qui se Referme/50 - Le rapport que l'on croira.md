@@ -10,128 +10,158 @@ status: draft
 
 # Chapitre trente-sept — Le rapport que l’on croira
 
-Le papier de Drahk’Nor était mauvais, et Vaenor Sorne y tenait comme à une vertu.
+Le papier de Drahk’Nor était mauvais, et Vaenor Sorne l’avait toujours préféré au bon.
 
-Gris, grenu, fait de vieux chiffons repulpés et de cendre qui n’avait pas voulu s’en aller, il buvait l’encre trop vite par endroits, la rendait par plaques ailleurs, et une ligne écrite dessus n’avait jamais l’air tout à fait sèche, tout à fait sûre d’elle. Les jeunes se plaignaient. Ils réclamaient le vélin des greffes anciennes, celui d’avant, qui tenait le trait net pendant mille ans. Elle n’avait jamais réclamé, elle. Un rapport, pensait-elle, doit être écrit sur une matière qui doute un peu ; le vélin ment mieux que le chiffon, il fait passer n’importe quoi pour du définitif, et tout ce qui se donnait pour définitif avant d’avoir été relu lui inspirait de la méfiance.
+Gris, grenu, fait de vieux chiffons repulpés et d’une cendre qui n’avait jamais voulu s’en aller, il buvait l’encre trop vite par endroits et la refusait par plaques ailleurs  ; une ligne écrite dessus n’avait jamais l’air tout à fait sèche. Les jeunes réclamaient le vélin des greffes anciennes, celui d’avant, qui tenait le trait net pendant mille ans. Elle n’avait jamais rien réclamé. Sur ce chiffon-là, tout bavait un peu, et elle se relisait deux fois avant de signer.
 
-Quatre jours qu’elle était rentrée. Cela, au moins, elle pouvait le dater : quatre jours, la barbe grise repoussée sur la nuque des chevaux, le linge changé, la poussière de Gryndor lavée de sous ses ongles à l’exception d’un liséré qui ne partait pas. Le calendrier avait repris. En remontant vers le nord, la lune des cendres avait retrouvé ses jours, un par un, à leur rang, et à chaque relais elle s’était surprise à les recompter avec un soulagement qu’elle ne s’avouait pas, comme on tâte un membre après une chute pour vérifier qu’il plie encore. Le douzième. Le treizième. Le quatorzième. Les jours pliaient. Le monde, ici, se laissait de nouveau dater. C’était presque assez pour croire que rien n’avait eu lieu.
+Quatre jours qu’elle était rentrée. Cela, au moins, elle pouvait le dater. Quatre jours de linge changé, de chevaux rendus, de poussière de Gryndor lavée sous les ongles à l’exception d’un liséré qui ne partait pas. En remontant vers le nord, la lune des cendres avait retrouvé ses jours un par un, à leur rang, et à chaque relais elle s’était surprise à les recompter, avec le soulagement qu’on a de plier un doigt après une chute. Le douzième. Le treizième. Le quatorzième. Les jours pliaient. Ici, le monde se laissait de nouveau dater, et il s’en fallait de peu qu’on pût croire que rien n’avait eu lieu.
 
-Petit, chaulé, une fenêtre haute par où entrait la lumière filtrée de cendre qui était la seule lumière de cette ville : le bureau ne changeait pas. Sur la table, l’encrier, le grattoir, le buvard, et la liasse vierge sur laquelle il fallait maintenant écrire ce qui avait mis fin au Fléau.
+Le bureau n’avait pas changé  : chaulé, étroit, une fenêtre haute par où tombait la lumière filtrée de cendre qui était la seule lumière de cette ville. Sur la table, l’encrier, le grattoir, le buvard, la coupe à sable. Et la liasse vierge, sur laquelle il fallait maintenant écrire ce qui avait mis fin au Fléau. Au-dessus du plafond, dans les greffes, on copiait depuis le matin  ; le bruit des plumes tombait à travers les planches comme une pluie très fine.
 
-La plume trempée, elle ne l’approcha pas du papier.
+Elle trempa la plume et ne l’approcha pas du papier.
 
 ---
 
-Un premier mot, et le premier mot fixait tous les autres. Cela, elle le savait depuis toujours, elle qui avait démonté tant de récits d’autrui : le menteur se trahit rarement à la fin ; il se trahit à l’attaque, au tout premier terme qu’il choisit, parce que le premier terme est le seul qu’il pose vraiment libre, et que tout le reste, ensuite, ne fait qu’obéir. On tient un homme par sa première phrase comme on tient une étoffe par le premier fil qu’on tire.
+Elle commença par ce qui s’écrit sans y penser  : le district, la lune, le grade, le nom. *Sorne, Prime-Inspectrice.* La main allait toute seule sur ces lignes-là. Tout commençait après.
 
-*Le Fléau*, écrivit-elle enfin. Deux mots sûrs, que personne ne contesterait. Les regarder boire l’encre lui prit un moment.
+Elle avait défait trop de récits pour attaquer celui-ci à la légère. Les hommes qu’elle avait pris ne s’étaient presque jamais trahis à la fin  ; ils s’étaient trahis au premier mot, le seul qu’ils eussent choisi librement, et tout ce qui venait ensuite s’était rangé derrière lui. Elle chercha longtemps le sien, la plume en l’air. La goutte au bec grossit et tomba d’elle-même sur le buvard.
 
-Puis elle s’arrêta de nouveau, la plume levée, une goutte au bec, à attendre que la phrase suivante monte comme montaient toujours ses phrases, d’elle-même, avec la logique d’un fait qui manque et qu’il faut boucher.
+*Le Fléau*, écrivit-elle.
+
+Deux mots que personne ne contesterait. Elle les regarda boire l’encre.
 
 *Le Fléau a cédé.*
 
-Cela, c’était vrai, et le vrai la reposa un instant. Le Fléau avait cédé. Nul mensonge encore. Les Failles s’étaient refermées, les Tisses avaient presque tous disparu, l’épidémie n’avait plus de corps où loger : *a cédé*, c’était le seul verbe qu’elle pût poser la conscience droite, un verbe qui ne disait pas *pourquoi*, un verbe qui laissait la porte entrouverte. Comme cède une digue, une fièvre, une corde. On ne demande pas à une corde qui a rompu de nommer la main qui a tiré. Peut-être personne n’avait tiré. Peut-être s’était-elle rompue seule, de vieillesse, comme le disent les vieux qui lisent les morts. Et déjà la pensée s’en allait, sans laisser d’adresse.
+Cela était vrai, et le vrai la reposa. Les Failles s’étaient refermées  ; les Tisses avaient presque tous disparu  ; l’épidémie n’avait plus de corps où loger. *A cédé* était le seul verbe qu’elle pût poser la conscience droite. Une digue cède, une fièvre cède, et le verbe n’obligeait à nommer personne. Peut-être n’y avait-il eu personne.
 
-Là, elle aurait pu s’arrêter. *Le Fléau a cédé.* Trois mots vrais, et le point. Un long moment devant ces trois mots vrais lui suffit pour comprendre qu’ils étaient impossibles.
+Elle aurait pu s’arrêter là. Trois mots vrais et un point. Elle les regarda jusqu’à comprendre qu’ils étaient impossibles.
 
-Un rapport qui s’arrête à *le Fléau a cédé* n’est pas un rapport. C’est un aveu. Le greffier le lirait, lèverait un sourcil, le porterait à Drahvel, et Drahvel, qui avait une doctrine pour chaque chose et ne doutait de rien, poserait la seule question que l’appareil savait poser : *cédé à quoi ? sous quelle action ? par l’effet de qui ?* L’appareil ne connaissait pas le verbe *céder* tout seul, intransitif, orphelin de son agent. On pressait le monde et le monde rendait sa cause ; c’était la foi de Drahk’Nor, la foi qu’elle avait servie vingt ans d’une main plus sûre qu’aucune autre. Un fait sans agent, dans un rapport, se lisait comme un trou. Et les trous, elle les connaissait, elle qui avait passé sa vie à les débusquer chez les autres : la nuit non consignée, l’heure que le menteur saute parce qu’elle le condamne.
+Le greffier lirait la ligne, lèverait un sourcil, monterait la liasse. Et le Préfet-Inquisiteur poserait la seule question que l’appareil sût poser  : cédé à quoi, sous quelle action, par l’effet de qui. Le verbe tout seul, orphelin de son agent, n’existait pas dans cette maison. On pressait le monde et le monde rendait sa cause  ; c’était la foi de Drahk’Nor, et elle l’avait servie vingt ans. Elle avait vu renvoyer des rapports pour une ligne trop honnête, et l’Inspecteur avec. On ne les accusait de rien  ; on leur donnait un district plus petit, puis un bureau, puis on cessait de les nommer.
 
-Cette fois le trou était dans son récit à elle. C’était à elle de le boucher, et avec quoi, elle le savait déjà.
+Le rapport vrai, celui-là, tenait en quatre lignes  ; elle les portait en elle depuis Gryndor. Elle se les récita une fois, la plume immobile. Il n’y avait dedans ni heure, ni nom, ni cause. Aucun greffe du Dominat n’aurait su où le ranger.
+
+Cette fois, le manque était dans son récit à elle, et elle savait déjà avec quoi elle le comblerait.
 
 ---
 
-Le grattoir accrocha un grain du papier. Reposé aussitôt : on grattait pour effacer, et elle n’avait rien à effacer encore ; elle avait à ajouter, ce qui était l’autre nom d’effacer, le nom propre.
+Le grattoir accrocha un grain du papier. Elle le reposa. On gratte pour retirer. Elle n’avait rien à retirer  ; elle avait à mettre.
 
-*Le Fléau a cédé*, relut-elle, et la plume descendit d’elle-même vers la suite, *sous l’action des Inspecteurs de Pureté.*
+*Le Fléau a cédé*, relut-elle, et la plume descendit vers la suite. *sous l’action des Inspecteurs de Pureté.*
 
-Voilà. C’était fait, ou presque ; restaient les heures et les noms, l’appareil aimait les heures et les noms, mais l’ossature était posée, le mensonge tenait debout sur ses trois piliers : *le Fléau*, *a cédé*, *sous l’action*. La ligne entière, relue, ne la fit pas trembler. Sa main ne tremblait jamais ; c’était sa fierté et son outil ; une main qui tremble rate son coup et fait durer ce qu’elle devrait abréger.
+Sa main ne trembla pas. Sur le mauvais papier, les pleins de *Pureté* s’étaient épaissis et la boucle du P avait bu de travers  ; elle laissa la lettre comme elle était venue.
 
-Quelque chose aurait dû monter alors. Un pincement, une chaleur au visage, la petite alarme que sonnent les gens ordinaires quand ils écrivent un faux. Rien ne vint. À la place, une pensée froide, précise, la sienne : *ce n’est pas un faux. C’est une concordance.*
+L’ossature était posée. Elle relut la ligne comme elle aurait relu celle d’un autre, en cherchant par où la prendre, et elle s’arrêta sur la préposition. *Par l’action* faisait du corps la main qui avait tiré, et une main qui tire, on la demande à l’examen  : par quel moyen, en quel lieu, à quelle heure. *Sous l’action* laissait le Fléau en tête de phrase et l’action en dessous, une pression, un poids, quelque chose qui appuie longtemps et que personne n’est tenu de démontrer. Elle garda *sous*.
 
-Car cette ligne, elle pouvait la défendre ; elle l’aurait défendue devant Drahvel sans ciller. Les Inspecteurs *avaient* agi. Vingt ans durant. Traqué les Tisses, dénombrés, apaisés, ôtés du monde un par un, cent cinquante mille descendus à quelques centaines : c’était établi, les registres le portaient, elle-même en avait rempli des colonnes. Fait. Et les Failles s’étaient refermées quand il n’était presque plus resté de Tisses. Fait. Deux faits, un dans chaque main. Il suffisait de les rapprocher pour que le troisième jaillisse, *donc les Inspecteurs ont eu raison des Failles* ; il suffisait de faire ce qu’elle avait fait toute sa vie, aligner deux termes et laisser le tiers se déduire, la somme qui se fait toute seule.
+Restait l’objection. Un district pouvait écrire que les Failles s’étaient refermées aussi là où nul Inspecteur n’avait mis les pieds. Elle nota de rappeler plus bas, entre deux nombres, que le corps opérait dans tous les districts du Dominat  ; posée entre deux chiffres vrais, la mention passerait.
 
-Elle les rapprocha. Côte à côte au-dessus du papier gris, les deux pierres ; et le mur ne se fit pas.
+Quelque chose aurait dû monter alors  : un pincement, une chaleur au visage, la petite alarme que sonnent les gens ordinaires devant un faux. Rien ne monta. À la place vint une pensée froide et propre, tout à fait la sienne. Ce n’était pas un faux. C’était une concordance.
 
-Les deux faits restaient deux faits, étrangers, posés sur la table sans monter l’un sur l’autre, deux pierres qui ne faisaient pas un mur. Pas de *donc*. Elle le chercha comme on cherche une marche dans le noir, le pied qui tâte et ne trouve que l’air, et sous la plume revint le même creux qu’au bord de la plaine, la même dent absente, le même blanc à la taille exacte d’une explication. Avoir vu mourir les Tisses. Avoir vu les Failles se recoudre. Et entre les deux, là où sa vie entière lui commandait de mettre un *parce que*, toujours rien, aussi net et aussi muet que la plaine guérie.
+Elle pouvait la défendre, cette ligne, et elle l’aurait défendue debout. Les Inspecteurs *avaient* agi. Vingt ans durant, traqué, dénombré, apaisé, ôté du monde un par un  : cent cinquante mille au commencement du corps, quelques centaines à la fin. Les registres le portaient, elle-même en avait rempli des colonnes. Fait. Et les Failles s’étaient refermées quand il ne restait presque plus de Tisses. Fait. Deux faits, un dans chaque main.
 
-Ainsi elle savait. En écrivant *sous l’action des Inspecteurs*, elle savait que ce n’était pas vrai. Non pas incertain : *faux*. Les Failles, elle ne les avait pas fermées. Personne à Drahk’Nor ne les avait fermées. Le monde s’était sauvé sous leur main sans leur laisser voir l’aiguille, et voilà qu’elle rentrait le déclarer sauvé par eux : le mensonge le plus propre qu’elle eût jamais écrit, fait de deux vérités qui ne se touchaient pas, et dont elle avait fabriqué le troisième terme de rien, de sa seule volonté qu’il fût là.
+Elle fit alors ce qu’elle faisait avant de signer quoi que ce fût. Elle les tint un moment l’un près de l’autre et attendit.
 
-La plume reposée dans la rainure de l’encrier, elle regarda la ligne sécher mal sur le mauvais papier.
+Rien ne se leva.
+
+Elle prit la chose par l’autre bout, comme elle la prenait chez les autres. Si le corps avait fermé les Failles, les Failles se seraient fermées à mesure, district par district, derrière les fioles, en commençant par les provinces où l’on avait le plus apaisé. Les relevés des quatre derniers jours étaient montés de partout et disaient autre chose  : partout à la fois, dans la même heure, jusque dans des vallées où aucun Inspecteur n’était monté depuis six ans. La preuve du contraire tenait en douze feuillets sur sa propre table, et elle les avait lus avant d’écrire.
+
+Elle recommença tout de même, avec la méthode entière, celle qu’elle enseignait aux jeunes. Les deux faits restèrent deux. Vingt ans qu’elle serrait le réel et qu’il lâchait son troisième terme. Il ne lâchait plus rien, et aucune prise ne l’y obligerait.
+
+Ainsi elle savait. En écrivant *sous l’action des Inspecteurs*, elle savait. Pas incertaine  : le mot était faux. Elle n’avait pas fermé les Failles, et personne à Drahk’Nor ne les avait fermées. Elle venait de fabriquer le troisième terme de rien. Deux vérités qui ne se touchaient pas, et entre elles un mot qu’elle avait mis là de sa propre main  : c’était le mensonge le plus propre de sa vie.
+
+Elle reposa la plume dans la rainure de l’encrier et regarda la ligne sécher mal.
 
 ---
 
 Ce n’était pas la première fois qu’elle avait besoin qu’une chose fût vraie.
 
-La pensée arriva par le côté, comme arrivent les enfants qui courent dans un marché, et elle ne se rangea pas assez vite pour l’éviter. Dans sa mémoire, il y avait une pièce où elle rangeait une bouche, une bouche qu’elle avait aimée, qui disait *ce ne sont que les poutres, Vaenor, ce ne sont que les poutres qui travaillent*, et la pièce avait un verrou, et depuis vingt ans ce verrou, elle le poussait d’un geste intérieur si rodé qu’il ne paraissait rien sur son visage. Elle le poussa. Il tint. Mais la porte, cette fois, laissait passer sous elle un filet d’air, et l’air portait ce qu’il portait toujours quand elle écrivait un rapport : la nécessité, plus vieille que le métier, plus vieille que le titre, d’avoir eu raison.
+Trois étages plus haut, dans les greffes où l’on copiait, dormait une ligne qu’elle avait écrite vingt ans plus tôt. Elle en connaissait l’année, le registre, et la place dans le registre. Elle aurait pu monter, demander la liasse, poser le doigt dessus  ; elle ne l’avait jamais fait, et elle n’avait jamais eu besoin de le faire pour savoir mot pour mot ce qu’il y avait d’écrit. *Sujet reconnu, première phase, apaisement consenti.* La formule de service, celle qu’elle employait encore, celle qu’elle corrigeait chez les jeunes quand ils écrivaient plus cru. Devant cette formule-là, ce jour-là, il y avait un nom qu’elle avait dit ailleurs, autrement, d’une autre voix que la voix de service.
 
-Sa première fiole, elle l’avait posée dans une main qu’elle aimait. Phase un ; de cela elle avait été certaine ; elle l’était encore. Le regard qui glissait au coin des choses, la main qui ne se fiait plus, le corps qui n’entendait plus venir le monde : les trois signes, alignés, la somme qui se fait toute seule. Elle avait lu juste. Apaisé une douleur avant qu’elle devînt un cri qu’un corps pousse tout seul pendant des semaines après que l’âme est partie. Un soin. C’était un soin. À l’attaque de chaque rapport depuis, elle se répétait ce premier terme qui fixe tous les autres, et tous les autres obéissaient.
+Elle avait lu juste. De cela elle n’avait jamais douté. Le sang au nez sans cause. La main qui manquait ce qu’elle visait. La tête tournée, deux fois dans la même soirée, vers un appel que personne n’avait lancé. Trois signes dans l’ordre, et la conclusion au bout. Elle avait posé la fiole comme elle la poserait mille fois ensuite, elle était rentrée, elle avait écrit la ligne, et la ligne avait tenu vingt ans.
 
-Sauf qu’il existait, quelque part dans les marges, des mains qui savaient couper, et des gens coupés à temps qui labouraient aujourd’hui leur champ, sourds et vivants. Elle en avait croisé un, il y a peu : un homme coupé par la méthode de la forgeronne, qui vivait, qui bêchait, qui la regardait de ses yeux vivants sans savoir ce qu’elle avait fait, vingt ans plus tôt, d’un homme comme lui. Et entre la bouche qu’elle avait aimée et l’un de ces vivants-là, la distance était peut-être seulement celle d’une route qu’il n’aurait pas eu le temps de faire, ou peut-être un abîme que rien n’aurait comblé, et de quel côté il serait tombé, elle ne pouvait pas le savoir. Elle ne pouvait pas. Pas de *donc*. Il n’y en avait jamais eu. Vingt ans de main sûre bâtis sur un *donc* qui n’existait pas plus que celui des Failles ; et à le regarder en face maintenant, alors elle avait tué la bouche qu’elle aimait sans savoir, exactement comme elle avait vu mourir les Tisses sans savoir, exactement comme le monde s’était refermé sans qu’elle sache. Et cela, ce grand blanc à la place de toutes ses causes, elle ne pouvait pas le porter. Cela n’entrait dans aucune pièce. Dans sa mémoire, il n’y avait pas de verrou assez lourd pour une porte de cette taille.
+Puis il y avait eu cet homme, l’autre année, sur une route des marges d’Onara. Un homme qui bêchait. Coupé par la méthode de la forgeronne ou par une autre main, elle n’avait pas cherché  : il vivait. Il s’était redressé pour la regarder passer, avec des yeux qui n’avaient rien à cacher et qui ne savaient rien de ce qu’elle avait fait, vingt ans plus tôt, d’un homme bâti comme lui. Elle n’avait pas arrêté son cheval. Trois lieues plus loin, elle s’était aperçue qu’elle n’avait pas noté le bourg non plus, elle qui notait tout.
 
-Alors elle faisait ce qu’elle avait toujours fait. Le *donc*, elle l’écrivait. Elle le fabriquait de rien et elle l’écrivait, parce qu’un instrument qui avoue n’avoir rien compris à ce qu’il servait n’est plus un instrument, et qu’entre le mensonge qui la tenait debout et l’aveu qui la couchait, son choix, comme toujours, était de tenir debout. *Sous l’action des Inspecteurs.* Besoin que ce fût vrai comme, jadis, elle avait eu besoin que sa main eût été une main de soin. Le même besoin, exactement, à quinze ans de distance dans sa propre vie et, mais cela, elle ne le savait pas, à quinze siècles de distance d’un autre Sorne qui avait eu, dans une ville dont elle ignorait le nom, à écrire qu’une capitaine était une traîtresse exécutée pour ne pas écrire qu’il l’avait perdue.
+De l’un à l’autre, il y avait vingt ans, une méthode qu’elle n’avait jamais voulu apprendre, et une question qu’aucun registre du Dominat ne pouvait clore. Le *donc* de sa vingtième année n’existait pas plus que celui des Failles. Il n’avait jamais existé. Il avait seulement été écrit.
 
-La plume reprise, elle se remit à écrire.
+Elle demeura un moment immobile. Ce n’était pas du remords  ; le remords, elle aurait su où le mettre. C’était l’absence de cause sous vingt ans de main sûre, et sous une main en particulier, et cela n’avait pas de taille.
 
----
-
-Restaient les heures et les noms ; l’appareil ne se rassasiait que d’heures et de noms.
-
-Elle les donna. L’aisance froide qui était sa marque, celle qui faisait dire à Drahk’Nor, sans le lui dire en face, qu’elle était la meilleure main des Cendres, revint sous la plume, et la refermeture fut datée d’une date, une seule, choisie ferme, parce qu’un fait sans heure n’est pas tout à fait un fait, et qu’elle refusait de livrer au greffe une plaine où le calendrier avait cessé de tenir. Des Inspecteurs furent nommés, les vivants et deux morts, le mérite d’une victoire que nul n’avait remportée réparti sur eux comme on répartit une dette entre des solvables. Elle chiffra. À l’issue de vingt années d’apaisement méthodique, écrivit-elle, les foyers de contagion réduits à un résidu que la nature acheva, les Failles privées de la matière qui les nourrissait s’étaient résorbées. Et cette dernière ligne, relue, la fit corriger *nourrissait*, qui suggérait un lien qu’aucun fait ne portait, en *coïncidait*, puis effacer *coïncidait* au grattoir parce que *coïncidait* était trop honnête, c’était le seul mot vrai et le seul qu’un rapport ne pût contenir, et remettre *nourrissait*. Sciemment. Le grain du papier garda la petite blessure du grattage sous le faux mot, cicatrice pâle que personne ne lirait jamais, sauf peut-être, très loin, un homme penché sur les archives brûlées d’un monde qui ne saurait plus lire cette encre.
-
-Une seule relecture. Se relire davantage, c’était rouvrir le doute, et le doute, elle l’avait scellé avec le mot *nourrissait*. Le rapport tenait : un début qui fixait tout, un milieu d’heures et de noms, une fin qui refermait la porte. Propre. Faux. Ce serait, dans mille ans, dans deux mille, dans les archives de ce que Drahk’Nor deviendrait ou de ce qui pousserait sur ses cendres, la chose qu’on lirait à la place de ce qui avait eu lieu : *le Fléau des Failles a cédé sous l’action des Inspecteurs de Pureté.* On le lirait, et on le croirait, comme on croit tout ce qui est classé. On le graverait peut-être. On en ferait une date, une leçon, une fierté ou une honte, quelque chose de *su*, tandis que la vérité, elle, n’entrerait dans aucune archive. Cette vérité : qu’un monde s’était recousu tout seul en une heure, sans que l’instrument le plus fin de cet appareil comprît la moindre fibre de comment. Elle mourrait avec Vaenor Sorne, dans le creux qu’un homme sans nom lui avait laissé au bord d’une plaine, un homme qu’elle avait déjà à demi oublié.
-
-Le sable, jeté sur la dernière ligne, but l’excès d’encre du mauvais papier ; elle le fit couler dans la coupe, et l’encre séchée resta.
+Alors elle reprit la plume. Le *donc*, elle l’écrirait. Elle l’avait déjà écrit une fois, sur une autre ligne, pour une autre main, et elle avait vécu vingt ans dessus.
 
 ---
 
-Drahvel vint lui-même, ce qui n’arrivait jamais.
+Restaient les heures et les noms.
 
-Le Préfet-Inquisiteur ne se déplaçait pas pour un rapport ; on lui portait les rapports, il les lisait dans son cabinet du haut, il rendait ses ordres par un greffier. Qu’il descendît de trois étages jusqu’au bureau chaulé, la liasse déjà en main, le greffier avait donc parlé avant même de classer, disait assez le prix qu’on mettait à cette ligne-là. Il entra sans frapper, un homme sec et net, de ceux que le Fléau n’avait pas maigris parce qu’ils s’étaient nourris de lui.
+Elle les donna. Elle data la refermeture d’un jour unique, choisi ferme, parce qu’un fait sans heure n’est pas tout à fait un fait, et qu’elle n’allait pas livrer au greffe une plaine où le calendrier avait cessé de tenir. Elle nomma des Inspecteurs, les vivants d’abord, par ancienneté, puis deux morts dont l’un n’avait jamais vu Gryndor, et le mérite d’une victoire que personne n’avait remportée se répartit sans peine, comme une dette entre gens solvables.
 
-« Je l’ai lu », dit-il.
+Puis elle rangea les faits, et ce fut là que le rapport se fit.
 
-Elle se leva à demi ; il l’arrêta d’un geste et posa la liasse sur la table, entre eux, exactement à l’endroit où, tout à l’heure, elle avait posé les deux pierres qui ne montaient pas l’une sur l’autre.
+Elle posa d’abord les vingt années de traque, avec les nombres du greffe, vérifiables jusqu’au dernier. Un lecteur qui a contrôlé trois chiffres ne contrôle pas le quatrième. Elle posa ensuite la chute des foyers, vraie aussi, et mesurable elle aussi. Elle garda pour la fin la seule ligne qui ne reposait sur rien, et elle la fit courte  : à cet endroit du texte, le greffe aurait déjà dit oui trois fois.
 
-« Asseyez-vous. C’est un beau texte, Sorne. Sobre. » Il tapota la première page du bout d’un ongle propre. « *A cédé sous l’action des Inspecteurs de Pureté.* Voilà vingt ans qu’on attendait cette phrase. »
+Ce qu’elle n’écrivit pas lui demanda autant de soin. Elle n’écrivit pas qu’elle était entrée seule dans la Plaine, contre l’usage et contre l’ordre. Elle n’écrivit pas qu’elle y avait perdu le compte des jours, elle qui comptait tout. De l’homme ressorti là où personne ne ressort, en habits d’une coupe morte, il ne resta pas une ligne.
 
-« Ce n’est qu’un rapport de terrain », dit-elle.
+*Le corps des Inspecteurs de Pureté, poursuivant le dénombrement et l’apaisement des sujets atteints, a ramené les foyers recensés de cent cinquante mille sujets à quelques centaines*, écrivit-elle, et elle s’arrêta pour vérifier le report des colonnes. Il était juste. Tout ce qui, dans cette page, pouvait être vérifié le serait.
 
-« Ne faites pas la modeste, cela ne vous va pas. » Il n’y avait pas de chaleur dans le compliment, ni de méchanceté ; il énonçait, comme il énonçait tout, une donnée. « C’est la conclusion d’une guerre. On la copiera, on la lira dans les provinces, on l’apprendra aux Inspecteurs qui vous suivront. Vous savez cela. »
+*À l’issue de vingt années d’apaisement méthodique*, écrivit-elle encore, *les foyers de contagion réduits à un résidu que la nature acheva, les Failles privées de la matière qui les nourrissait se sont résorbées.*
 
-« Je le sais. »
+Elle relut. *Nourrissait* affirmait un lien qu’aucun fait ne portait. Elle le raya, écrivit *coïncidait* au-dessus, relut encore. *Coïncidait* disait exactement ce qui s’était passé, et une page qui le portait ne tenait plus debout. Elle prit le grattoir, ôta *coïncidait* du papier, souffla la poudre et remit *nourrissait*. Sciemment.
 
-« Alors vous savez qu’il faut qu’elle soit juste. »
+Le grain garda sous le mot faux la petite blessure du grattage. Elle y passa le pouce. Personne ne la lirait jamais.
 
-Le mot tomba dans le petit bureau et y resta. *Juste.* Il ne voulait pas dire *vraie* ; il voulait dire *exacte*, *conforme*, *tenant à l’examen* : juste comme une somme est juste, comme une pièce sonne juste sur le marbre. Et le vertige de sa vie tenait tout entier, une fois de plus, dans le fait que ces deux mots-là se ressemblaient à s’y méprendre.
+Une seule relecture, et elle ferma. Se relire deux fois, c’était rouvrir. Le rapport tenait  : une attaque qui fixait tout, un milieu d’heures et de noms, une fin qui refermait la porte. Propre, et faux.
 
-« Elle tient », dit Vaenor.
-
-« Elle tient. » Drahvel s’assit enfin, en face, et croisa les mains. « Il y a pourtant une chose que je veux entendre de vous, ici, où nul ne nous écrit. » Un temps. « Vous y étiez. À Gryndor. Vous avez vu les Failles se fermer. »
-
-Ce n’était pas une question ; c’était le début d’une concordance, et elle en reconnut la méthode parce que c’était la sienne : poser deux faits, laisser venir le troisième. Elle attendit le deuxième terme.
-
-« Et vous écrivez que c’est nous qui les avons fermées. » Il la regardait, de ces yeux qui ne cherchaient pas à lire, il n’avait pas besoin de lire, il croyait déjà, mais à confirmer. « Dites-le-moi. Simplement. Est-ce nous ? »
-
-Là était le troisième terme, et c’était elle qui devait le fournir.
-
-Elle aurait pu le fournir vrai. Les mots étaient dans sa bouche, à la taille exacte du trou : *non. Je ne sais pas ce qui a fermé les Failles. Je sais seulement que ce n’est pas nous.* Elle les avait déjà dits une fois, au bord de la plaine, à un homme perdu dans le temps, et le monde ne s’était pas effondré de les entendre.
-
-« Vous doutez », dit Drahvel, et ce n’était pas un reproche ; c’était presque de la douceur, la douceur d’un homme qui vous a vu chanceler et vous tend la rampe qu’il faut. « Je le vois. Vous doutez depuis Gryndor. C’est bien. Un instrument qui ne doute jamais s’émousse. Mais un instrument qui doute *dans un rapport* se casse, et casse ce qu’il servait. » Il posa la main à plat sur la liasse. « Le doute, Sorne, on le porte. On ne le classe pas. »
-
-Et elle comprit, à cet instant, qu’il lui offrait exactement le verrou de sa propre pièce fermée. Qu’il faisait de sa doctrine ce qu’elle avait fait, elle, de son besoin d’avoir eu raison : une porte, un verrou, un endroit où ranger ce qui ne pouvait pas être porté au jour. Ils étaient de la même encre, lui et elle et l’autre Sorne dont ni l’un ni l’autre ne connaissait le nom, sauf que lui ne le savait pas, lui croyait tenir une vérité, et c’était là, précisément là, dans cette croyance sincère, que naissaient les archives que les siècles liraient.
-
-« Ce n’est pas un doute », dit-elle.
-
-Sa voix ne monta pas. Elle ne montait jamais ; et elle s’entendit poser, calmement, la seule phrase qui pût être à la fois un mensonge pour lui et un aveu pour elle-même, une phrase à double fond comme le papier avait un double fond sous *nourrissait* : « C’est ce qui reste quand on a fait son travail jusqu’au bout. »
-
-Drahvel hocha la tête, satisfait, prenant le premier fond et ne soupçonnant pas le second. Il se leva.
-
-« Bien. » Il laissa la liasse sur la table ; on la reprendrait, on la copierait, elle était déjà passée du côté des choses qui ne s’effacent plus. « Reposez-vous. Vous avez fini une guerre. » Et, à la porte, sans se retourner, du ton dont on récite un principe qu’on n’a jamais eu à vérifier : « Le monde répond toujours, quand on sait le presser. Vous en êtes la preuve. »
-
-La porte se referma sur lui. Il croyait avoir raison. Il l’emporterait, cette croyance, jusque dans les provinces, jusque dans les leçons, jusque dans la pierre. Et pas une fois il n’aurait à mentir, lui, parce qu’il ne saurait jamais qu’il transmettait un faux. C’était ainsi qu’une chose fausse devenait l’Histoire : non par un menteur qui la sème, mais par mille hommes sincères qui la portent après lui, ayant cru celui qui l’avait crue.
+Elle jeta le sable sur la dernière ligne, le laissa boire, le fit couler dans la coupe. L’encre séchée resta.
 
 ---
 
-Seule dans le bureau chaulé, devant l’encrier, le grattoir, le buvard, elle regarda la lumière de cendre baisser à la fenêtre haute. Le trou du monde, elle l’avait bouché avec une victoire. La sienne. Celle du Dominat. Plus rien à faire, plus rien à voir, plus rien à mettre en concordance ; pour la première fois depuis vingt ans le réel ne lui demandait rien, et ce repos-là fut le plus vide qu’elle eût connu.
+Drahvel descendit lui-même, ce qui n’arrivait jamais.
 
-Loin au sud, ou dans une direction qui n’était plus tout à fait le sud, une plaine guérie ne rendait aucun compte à personne. Et quelque part — jamais elle ne le saurait, personne ne le lui dirait, cela n’entrerait dans aucune archive non plus — dans un monde qui venait de se recoudre sans savoir pourquoi, un enfant né de ce silence tourna la tête, écouta quelque chose qui n’avait pas de nom, et l’entendit pour la première fois.
+On lui portait les rapports  ; il les lisait dans son cabinet du haut et rendait ses ordres par un greffier. Qu’il eût descendu trois étages jusqu’au bureau chaulé, la liasse déjà en main, disait que le greffier avait parlé avant même de classer. Il entra sans frapper, poussa le battant derrière lui et resta debout un instant à regarder la pièce, qu’il n’avait sans doute jamais vue. Un homme sec et net, de ceux que le Fléau n’avait pas maigris parce qu’ils s’en étaient nourris.
+
+«  Je l’ai lu  », dit-il.
+
+Elle se leva à demi  ; il l’arrêta d’un geste et posa la liasse sur la table, entre eux.
+
+«  Asseyez-vous. C’est un beau texte, Sorne. Sobre.  » Il tapota la première page de l’ongle. «  *A cédé sous l’action des Inspecteurs de Pureté.* Voilà vingt ans qu’on attendait cette phrase.  »
+
+«  Ce n’est qu’un rapport de terrain  », dit-elle.
+
+«  Ne faites pas la modeste, cela ne vous va pas.  » Il n’y avait dans le compliment ni chaleur ni malveillance  ; il énonçait une donnée, comme il énonçait tout. «  On la copiera. On la lira dans les provinces. On l’apprendra aux Inspecteurs qui viendront après vous. Vous le savez.
+
+— Je le sais.
+
+— Alors vous savez qu’il faut qu’elle soit juste.  »
+
+Le mot resta dans le petit bureau. *Juste.* Il ne disait pas *vraie*. Il disait exacte, conforme, tenant à l’examen  ; juste comme une somme est juste, comme une pièce sonne juste sur le marbre. Elle avait entendu ce mot toute sa vie dans les greffes, appliqué à des poids, à des dates, à des comptes  ; jamais une fois à un fait.
+
+«  Elle tient  », dit Vaenor.
+
+«  Elle tient.  » Drahvel s’assit en face d’elle et croisa les mains. «  Il y a pourtant une chose que je veux entendre de vous, ici, où nul ne nous écrit.  » Un temps. «  Vous y étiez. À Gryndor. Vous avez vu les Failles se fermer.  »
+
+Elle reconnut la manœuvre pour l’avoir montée mille fois  : un fait posé, un second qui allait suivre, et le reste à la charge de l’autre. Elle attendit le second.
+
+«  Et vous écrivez que c’est nous qui les avons fermées.  » Il la regardait sans chercher à lire  ; il croyait déjà, il voulait seulement s’entendre confirmer. «  Dites-le-moi simplement. Est-ce nous  ?  »
+
+C’était à elle de fournir le troisième terme.
+
+Elle aurait pu le fournir vrai. Les mots étaient dans sa bouche, tout prêts  : *non. Je ne sais pas ce qui a fermé les Failles. Je sais seulement que ce n’est pas nous.* Elle les avait dits une fois déjà, au bord de la plaine, à un homme perdu dans le temps dont elle ne retrouvait déjà plus le visage, et rien ne s’était effondré de les entendre.
+
+«  Vous doutez  », dit Drahvel, et il ne le lui reprochait pas  ; il y avait presque de la douceur dans sa voix, celle d’un homme qui vous voit chanceler et qui avance la rampe. «  Depuis Gryndor. Cela se voit. C’est même bon signe.  » Il appuya la paume sur la liasse. «  Le doute, Sorne, on le porte. On ne le classe pas.  »
+
+Il lui tendait, de bonne foi, l’endroit exact où ranger ce qui ne s’écrivait pas.
+
+«  Ce n’est pas un doute  », dit-elle.
+
+Elle le posa du ton dont elle rendait un chiffre, et elle s’entendit dire la seule phrase qui pût être à la fois un mensonge pour lui et un aveu pour elle  : «  C’est ce qu’on rapporte quand on a fait son travail jusqu’au bout.  »
+
+Drahvel hocha la tête, satisfait, et prit le premier fond sans soupçonner le second. Il se leva.
+
+«  Bien.  » Il laissa la liasse sur la table  ; on viendrait la prendre, on la copierait, elle était déjà passée du côté des choses qui ne s’effacent plus. «  Reposez-vous. Vous avez fini une guerre.  » Et, à la porte, sans se retourner, du ton dont on récite un principe qu’on n’a jamais eu à vérifier  : «  Le monde répond toujours, quand on sait le presser. Vous en êtes la preuve.  »
+
+La porte se referma sur lui. Il emporterait cette croyance-là dans les provinces, dans les leçons, dans la pierre, et il n’aurait pas une seule fois à mentir, puisqu’il ne saurait jamais qu’il transmettait un faux.
+
+---
+
+Seule dans le bureau chaulé, devant l’encrier, le grattoir et le buvard, elle regarda la lumière de cendre baisser à la fenêtre haute. Au-dessus du plafond, les plumes du greffe avaient repris.
+
+Elle rangea le grattoir dans le tiroir, à sa place, le manche vers elle, comme elle l’y rangeait depuis vingt ans. Elle avait comblé le trou du monde avec une victoire, et la victoire portait son nom et celui du Dominat. Plus rien à vérifier, plus rien à mettre en concordance  ; après vingt ans, le réel ne lui demandait plus rien, et ce repos fut le plus vide qu’elle eût connu.
+
+Les copies partirent le lendemain vers les provinces, et la phrase se mit au travail, qui serait de prendre, année après année, la place de ce qui avait eu lieu, jusqu’au jour où plus personne ne saurait qu’une plaine s’était refermée toute seule, un matin, et que nul n’y était pour rien.
