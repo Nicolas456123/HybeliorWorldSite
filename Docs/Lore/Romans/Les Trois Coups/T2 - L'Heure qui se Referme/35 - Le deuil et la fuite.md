@@ -172,4 +172,4 @@ Elle se garda d’en faire une consolation. Le vieux était mort quand même. L�
 
 Elles descendirent vers la plaine où le temps ne se tenait pas, la mère devant, l’enfant à sa hanche, le cahier tiède contre une poitrine qui ne tremblait pas.
 
-Plus bas que la pente qu’elles descendaient, plus bas que le dernier nom porté par les cartes arrêtées, le dessous de la Plaine s’en allait toujours, régulièrement, dans un noir sans saison  ; et ce qui l’emportait n’avait eu ni maison à arracher pour partir, ni rien à tenir contre sa peau pour ne pas le semer en chemin.
+Elle avait vidé le sac deux fois avant de partir, et une maison n’y était toujours pas entrée. Sous la Plaine, une chose s’enfonçait nuit et jour, et elle avait déjà tout sur soi.

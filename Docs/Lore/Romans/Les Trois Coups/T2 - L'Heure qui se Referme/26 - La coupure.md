@@ -230,4 +230,4 @@ En haut, dans le lit, elle entendit sa fille se retourner. Et pour la première 
 
 Le marteau monta, s’arrêta une fraction en haut de sa course, et retomba dans le silence.
 
-Le même matin, à trente jours de route de là, tout à l’est, une plaine s’affaissait encore d’un doigt sur ce qui la mangeait par-dessous, et ce qui la mangeait n’avait eu ni dose à peser trois fois, ni pardon à demander au réveil.
+Elle avait pesé trois pincées au trébuchet, ce soir-là, plutôt que de s’en remettre à sa main. Sous une plaine, une chose entamait le sol à la grosse, et le matin la retrouvait à la même place.

@@ -201,4 +201,4 @@ Ce jour-là, il n’irait pas. Ses jambes ne le porteraient pas jusqu’en bas, 
 
 Il se laissa glisser contre le muret, dans le soleil pâle, la copie tiède contre la peau, et ferma les yeux un moment. Il pensait à la phrase, à toutes les bouches par lesquelles elle était passée avant d’arriver dans la sienne, et à toutes celles par lesquelles elle passerait après lui, quand il ne serait plus qu’un mourant sans nom dans une grange, dont un autre garderait le souvenir un moment, puis l’oublierait, comme on oublie tout, les noms d’abord.
 
-Au sud, très loin de cette vallée et de toutes les routes qu’il avait marchées, une plaine perdait son fond en silence, et ce qui l’ouvrait n’avait à être ni récité, ni recopié, ni repassé d’un mourant à l’autre pour continuer.
+Une fumée qui tient tout le jour veut dire un feu que quelqu’un nourrit. Dans une plaine, la terre partait par en dessous, et cela n’attendait personne.

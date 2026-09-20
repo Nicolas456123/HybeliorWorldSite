@@ -162,4 +162,4 @@ Le compte ne tombait pas juste. Il ne tomberait jamais juste. Comme celui de la 
 
 Il se leva, ce qui lui prit longtemps, et dans le froid, sans feu, il commença de rassembler ce qu’un homme aux mains mortes pouvait emporter pour trente lieues  : très peu de chose. Le bâton de sa mère. Le linge à sang. Et dans la poitrine une note gardée pour une enfant, au bout d’un chemin, s’il arrivait avant que le silence se referme sur elle.
 
-À l’ouest, au bout des trente lieues qu’il se promettait, sous une herbe où nul berger ne passait plus, le sol lâchait un peu plus cette nuit-là  ; et ce qui le tirait par en dessous n’avait ni doigts à perdre, ni matin où refaire ses comptes, ni personne à qui laisser ce qu’il savait.
+Il avait traversé des déchirures tout l’automne en croyant que son oreille s’affinait. Une plaine entière s’usait par-dessous depuis des années, et les rares qui la traversaient mettaient le froid sur le dos du vent.

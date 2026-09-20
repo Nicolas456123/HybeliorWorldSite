@@ -194,4 +194,4 @@ Demain, elle lirait le reste. Demain, elle apprendrait le geste  : elle aiguise
 
 Le plancher craqua au-dessus de la lampe. La petite ne dormait plus, ou pas encore, et elle parlait  ; et ce n’était pas à sa mère qu’elle parlait.
 
-Cette nuit-là, à des semaines de marche de la Forge-Basse, sur une plaine d’herbe rase où des villages dormaient sans rien savoir, le temps s’ouvrit en trois endroits à la fois, lentement, sans que rien sût, ni dessus ni dessous, de quelle nuit il s’agissait.
+On entendait la Forge-Basse depuis le bourg, les jours de gros ouvrage. Sur l’herbe rase d’une plaine, un ouvrage se faisait en trois endroits  ; les villages posés dessus dormaient d’une traite.
