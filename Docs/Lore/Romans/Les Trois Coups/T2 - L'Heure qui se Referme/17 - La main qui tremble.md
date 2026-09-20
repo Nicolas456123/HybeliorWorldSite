@@ -234,4 +234,4 @@ Avoir eu raison  : il ne lui restait que cela pour se tenir droite sur ce cheva
 
 Dans la lumière longue, elle vit clairement ce que cela voulait dire  : plus elle en apaiserait, moins elle pourrait se permettre que ce fût autre chose qu’un soin. Elle ne s’arrêta pas pour autant. Elle avait deux signalements à vérifier avant la nuit, et le rapport du soir à écrire.
 
-Au même moment, à des semaines de cheval de là, sous une herbe dont aucun rapport n’était encore monté jusqu’à son bureau, le sol cédait en trois points sans consulter personne  ; ce qui le faisait céder n’avait pas de main à tenir droite, pas de raison à se donner, et aucune idée du jour qu’il était.
+Elle avait remis la petite du moulin au lendemain. Sous une herbe dont aucun rapport n’était encore monté jusqu’à son bureau, le sol cédait en trois points, et un jour y valait l’autre.

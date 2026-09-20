@@ -186,4 +186,4 @@ Les veilleurs restèrent jusqu’au matin. Ils firent ce qu’on fait. Ils lavè
 
 Le chœur ne revint pas cette nuit-là. Ni les nuits suivantes. Personne, au hameau, ne s’en aperçut  : il n’y avait plus d’oreille pour entendre le silence à l’endroit où, deux hivers durant, une foule d’égarés du temps avait poussé contre le mur d’un homme en le prenant pour la seule paroi, sans savoir qu’ils poussaient contre une porte, ni que la porte ne s’ouvrirait plus.
 
-Vers l’ouest, la Plaine de Gryndor perdait sa terre par en bas, une poignée à l’heure et un peu davantage chaque nuit, et il n’y avait là-dedans rien à faire passer, rien qui attendît, rien qui eût jamais rien demandé.
+Il s’en était allé par les mains d’abord, et le cœur venait en dernier. La Plaine de Gryndor perdait sa terre par en bas, une poignée à l’heure et davantage chaque nuit, et cela tenait sa note, la même depuis le premier jour.
