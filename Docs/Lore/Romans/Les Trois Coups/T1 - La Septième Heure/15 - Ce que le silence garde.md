@@ -177,4 +177,4 @@ Il attendit que le jour touchât la troisième pierre. Il ne pria pas  ; on ne 
 
 La lumière atteignit la troisième pierre. Vorath prit son bol, sa natte, son stylet, un moine ne possède rien d’autre. Il roula la natte, la lia, glissa le stylet dans le pli. Il rinça le bol au puits, l’essuya sur sa manche, parce qu’on ne laisse pas un bol sale dans une cellule qu’un autre habitera. Du plat de la main, il toucha une dernière fois le mur du fond, à l’endroit où le ciseau avait ripé la première année, quand ses bras n’en pouvaient plus. Puis il sortit de la cellule qu’il avait creusée. Il ne se retourna pas, comme le Voyageur de sa vision  ; mais lui savait pourquoi. Baelor tenait dans sa poitrine, et nulle main, visible ou non, ne pourrait l’en pousser dehors.
 
-Et par-delà cette mer qu’il avait écoutée quarante ans, cela durait encore, sans un bruit, sans rien qu’une oreille de Tholmë pût saisir  ; et derrière, déjà, la même poussée sans origine.
+Tout au fond de son silence, dans une roche que nulle mer ne touchait, une chose tenait une note trop basse pour qu’on lui donnât un nom, et c’était elle que Vorath écoutait depuis quarante ans.

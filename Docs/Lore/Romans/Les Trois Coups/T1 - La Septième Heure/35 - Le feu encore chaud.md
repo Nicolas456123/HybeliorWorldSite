@@ -123,4 +123,4 @@ Descendre, maintenant. Reprendre le peu de fil qui restait  : la côte, une cri
 
 Un dernier regard au campement. Cinq places, un feu mort, l’herbe qui se relevait déjà dans les creux tassés et effaçait d’elle-même ce que personne n’avait eu besoin d’effacer. Dans une heure, un berger passerait sans rien voir. Dans un jour, la pluie prendrait le reste.
 
-À des jours de marche au sud, sous une montagne que personne ne regardait ce matin-là, il y avait une autre tiédeur  : une roche qui chauffait depuis toujours, sans feu, sans veilleur, et qui ne datait rien non plus. Quelque chose dormait contre elle, qui n’avait jamais eu d’heure et n’en avait jamais eu besoin, et qui venait, sans le savoir, d’en recevoir une.
+À des jours de route au sud, sous la même aube, il existait une autre tiédeur, plus vieille que tous les feux du monde, et dont aucune horloge n’avait jamais marqué l’heure  ; elle en avait une désormais, et celui qui viendrait la lire arriverait après, comme il arrivait partout.

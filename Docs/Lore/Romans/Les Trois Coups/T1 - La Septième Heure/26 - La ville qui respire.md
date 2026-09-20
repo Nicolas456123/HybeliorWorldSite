@@ -153,4 +153,4 @@ Elle hocha la tête, lentement, et ne demanda pas pourquoi. Depuis vingt ans, en
 
 Il reprit ses avirons et rama vers les lumières qui s’allumaient, une à une, aux mille fenêtres de la plus grande cité du monde  : vers Teo qui l’attendait peut-être sur le pont de Corail, vers sa maison sur pilotis et le clapot sous le plancher, vers tout ce qui était sa vie et qu’il n’avait jamais eu besoin de nommer.
 
-Derrière lui, dans le dernier bassin, l’eau continuait de monter, sans marée, sans vent, sans raison qu’aucun homme de Navoria pût nommer. Très loin de là, sous une pierre plus vieille et plus profonde que toutes les conduites du monde, ce qui tenait la ville hors de l’eau depuis le premier jour desserrait sa prise, un peu, encore un peu, sans savoir ce qu’il tenait ni qu’il lâchait.
+Derrière lui, dans le dernier bassin, la mer montait encore, et ce qui la faisait monter se tenait sous la pierre, au-dessous des conduites où nul ingénieur n’était jamais descendu, et posait désormais, entre deux souffles, un temps qui n’y avait jamais été.

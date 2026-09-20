@@ -139,4 +139,4 @@ Elle était montée chercher une certitude  ; elle rapportait la preuve que per
 
 Elle ferma les yeux. Le protocole contre son flanc, et pliée dedans la lettre qu’elle n’enverrait pas, la tendresse rangée dans le calcul. Ísae qui dormait ou ne dormait pas. Il restait peu de jours  ; elle les compterait, parce que compter était sa façon de ne pas détourner les yeux.
 
-Et au bout de ce noir qu’ils avaient regardé à deux sans rien y voir, une chose sans mains tenait tout ce qui vivait à l’endroit même où le fil se tend le plus, sans s’être jamais demandé si elle avait raison de le tenir.
+Et là où ce noir finissait, une chose portait tout ce qui vivait  ; elle le portait depuis toujours, et de tout ce qui veillait cette nuit-là entre le col et le Mont, elle seule ignorait le doute.
