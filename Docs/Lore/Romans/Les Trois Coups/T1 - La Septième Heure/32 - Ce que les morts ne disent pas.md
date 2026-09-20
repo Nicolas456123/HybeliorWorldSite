@@ -139,7 +139,7 @@ Kessa. Il l’aimait bien, de l’affection distante et vraie qu’il avait pour
 
 «  Vous le confirmez. C’est ce qu’ils disent. Que c’est vous qui avez dit que c’était possible.  »
 
-Il ne répondit pas tout de suite. Il aurait pu se défendre  : lui expliquer les deux moitiés, la file des morts à la porte, le fil qui rompait peut-être tout seul  ; déposer dans cette fille déjà brisée le doute qu’il avait déposé dans le garçon au journal, et s’en soulager d’autant. Il ne le fit pas. Elle n’avait pas besoin d’une graine. Il lui fallait quelque chose qu’elle pût tenir dans la main.
+Il aurait pu se défendre  : lui expliquer les deux moitiés, la file des morts à la porte, le fil qui rompait peut-être tout seul  ; déposer dans cette fille déjà brisée le doute qu’il avait déposé dans le garçon au journal, et s’en soulager d’autant. Il ne le fit pas. Elle n’avait pas besoin d’une graine. Il lui fallait quelque chose qu’elle pût tenir dans la main.
 
 «  J’ai dit ce que j’ai lu, dit-il enfin. Que le fil est tendu à se rompre. Je n’ai pas dit qui devait le rompre. Ça, je ne l’ai lu nulle part. Personne ne l’a lu. Personne ne le lira peut-être jamais.
 

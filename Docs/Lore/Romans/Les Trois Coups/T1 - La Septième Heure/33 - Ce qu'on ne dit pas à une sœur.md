@@ -43,7 +43,7 @@ Sera attendit. Mirathis répondait toujours à côté d’un demi-temps, et posa
 
 — La même chose.  » Un temps. «  Plusieurs fois la même chose, et jamais tout à fait pareille.  » Les paupières de l’érudit·e de Vytharia remuèrent, comme si les images étaient encore dessous, à portée, gênantes. «  Une main qui va vers un fil. Et le fil qui cède avant que la main l’atteigne. Puis je recommence, et cette fois la main l’atteint. Puis je recommence encore, et il n’y a plus de main du tout, seulement le fil qui se défait, comme un vieux nœud qu’on n’a jamais serré.  » Iel tourna la tête vers elle. «  Tu vois pourquoi je ne le dis plus. À quoi bon annoncer à des gens qui montent tuer un monde que le monde meurt peut-être sans eux  ? Ça ne console personne. Ça insulte, plutôt.  »
 
-Sera ne répondit pas tout de suite. La phrase avait touché en elle l’endroit exact que touchait la lettre, celui qu’elle évitait de regarder depuis des semaines. *Avec ou sans nous.* Iveth avait dit presque cela, à sa manière de mourant  : *la main, ou son propre poids.* L’un lisait les morts, l’autre les rêves, et ils ne s’étaient pas concertés.
+La phrase avait touché en elle l’endroit exact que touchait la lettre, celui qu’elle évitait de regarder depuis des semaines. *Avec ou sans nous.* Iveth avait dit presque cela, à sa manière de mourant  : *la main, ou son propre poids.* L’un lisait les morts, l’autre les rêves, et ils ne s’étaient pas concertés.
 
 «  Iveth dit la même chose, dit-elle.
 

@@ -37,7 +37,7 @@ Il n’y avait rien à voir. Le sud n’était qu’une masse de noir qui montai
 
 — Il n’y a rien à voir. C’est reposant.  » Un temps. «  Toi aussi tu le regardes. Depuis Celethor. Depuis avant Celethor, peut-être.  »
 
-Elle ne répondit pas tout de suite. C’était vrai, et elle n’aimait pas s’entendre le dire par un autre, parce qu’elle le savait mieux que lui. Le Mont, elle le regardait depuis le matin de ses treize ans, sans le savoir, sans en connaître le nom, depuis l’instant où quelque chose s’était ouvert en elle dans la Salle des Racines et où sa sœur, les mains sur le même bois, n’avait rien senti du tout. Tout partait de là. Il lui avait fallu trente ans pour trouver le chemin qui menait de ce matin-là à cette pierre froide, mais le chemin partait de là.
+C’était vrai, et elle n’aimait pas s’entendre le dire par un autre, parce qu’elle le savait mieux que lui. Le Mont, elle le regardait depuis le matin de ses treize ans, sans le savoir, sans en connaître le nom, depuis l’instant où quelque chose s’était ouvert en elle dans la Salle des Racines et où sa sœur, les mains sur le même bois, n’avait rien senti du tout. Tout partait de là. Il lui avait fallu trente ans pour trouver le chemin qui menait de ce matin-là à cette pierre froide, mais le chemin partait de là.
 
 «  Je voulais te demander quelque chose, dit-elle.
 

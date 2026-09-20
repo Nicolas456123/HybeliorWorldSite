@@ -75,7 +75,7 @@ Elle se retourna. Immobile, les mains ouvertes sur les genoux, il écoutait.
 
 «  Moi, je sais *pourquoi*.  » C’était elle qui achevait la phrase. «  Et je crois, à t’entendre ce soir, que c’est ce qui te manque.  »
 
-Il ne répondit pas tout de suite. Ses yeux étaient sur ses propres mains, et elle vit qu’il ne les voyait pas.
+Il avait les yeux sur ses propres mains, et elle vit qu’il ne les voyait pas.
 
 ---
 

@@ -103,7 +103,7 @@ Kessa avait vingt-cinq ans. Elle avait tisonné le feu longtemps, sans un mot, e
 
 «  Qu’est-ce qu’ils ont dit, cet après-midi  ?  » demanda-t-il.
 
-Kessa laissa passer un temps, les yeux au feu, pas sur lui.
+Kessa garda les yeux au feu, pas sur lui.
 
 «  Ils ont demandé quand tu partirais. Pour le Sud.  » Elle releva les yeux. «  Ils savent, père. Je ne sais pas comment, mais ils savent que tu prépares quelque chose.
 
@@ -196,8 +196,6 @@ Ses yeux revinrent aux siens.
 «  C’est ça, ou rien, père. Tu montes au Mont pour ta colère, soit. Mais laisse-moi de quoi bâtir dans les cendres que tu vas faire. Sinon tu ne casses pas seulement le monde. Tu me casses moi aussi, et tu le sais, et tu ne veux pas ça. Tu peux vouloir tout le reste. Pas ça.  »
 
 *
-
-Il ne répondit pas tout de suite.
 
 Quand une chose était trop grande pour les mots, il retournait au fer  ; il y retourna. La barre avait refroidi, sombre, muette. Remise au feu, elle reprit couleur sous ses yeux, du noir au rouge sombre, du rouge sombre au rouge clair, la chaleur rentrant en elle par le dehors, la ramollissant, la rendant de nouveau capable de devenir autre chose. C’était le moment qu’il aimait le mieux, depuis toujours  : celui où une pièce finie, durcie, arrêtée dans sa forme, redevient possible.
 

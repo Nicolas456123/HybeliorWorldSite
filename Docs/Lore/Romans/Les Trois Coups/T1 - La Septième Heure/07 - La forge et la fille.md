@@ -77,7 +77,7 @@ Kessa avait reposé la tenaille. Elle s’était rapprochée d’un pas, et Drak
 
 *
 
-L’homme ne répondit pas tout de suite  : il regarda le feu longuement, à la manière de quelqu’un qui cherche non pas ses mots mais l’ordre dans lequel les poser.
+L’homme regarda le feu longuement, à la manière de quelqu’un qui cherche non pas ses mots mais l’ordre dans lequel les poser.
 
 «  Ta colère.  »
 

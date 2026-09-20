@@ -103,7 +103,7 @@ Sera s’assit. Longtemps elle regarda les mains de sa sœur aller et venir, cho
 
 «  On plante droit ce qui a déjà des racines.  » Ísae ne levait pas les yeux. «  Celle-là n’en a presque pas. Droite, elle cherche l’eau vers le bas, ne la trouve pas, et sèche. Couchée, elle fait racine sur toute la tige. Elle se rattrape par les côtés.  »
 
-Sera ne répondit rien. Elle n’était pas certaine qu’on parlât encore des pousses, et relever la phrase l’aurait trahie.
+Sera n’était pas certaine qu’on parlât encore des pousses, et relever la phrase l’aurait trahie.
 
 «  Tu dors, ces temps-ci  ?  » demanda-t-elle enfin, parce qu’il fallait dire une chose vraie et que c’était la seule à portée.
 

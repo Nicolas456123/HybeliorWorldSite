@@ -85,7 +85,7 @@ Halvec rit et claqua la langue à l’adresse du cheval.
 
 «  On dit qu’il y a eu, tout au début, avant les royaumes, avant les nombres, un endroit où le temps s’est cassé. Pas la terre  : le temps. Comme un pot qu’on lâche. Depuis, à cet endroit, les heures ne coulent pas droit. Des gens y entrent jeunes et en ressortent vieux. D’autres n’en ressortent pas, et on continue de les entendre, à midi précis, appeler quelqu’un qui est mort il y a des siècles.  » Halvec haussa les épaules, content de son effet. «  Des histoires de savants. Moi je livre des draps. Mais ça t’irait bien, ça, non  ? Un endroit où le temps ne tient plus.  »
 
-Mirathis ne répondit pas tout de suite. Devant les naseaux du cheval, la route s’enfonçait dans le soir, pâle, sans un feu nulle part. Une idée qu’iel remuait depuis dix ans sans trouver par où la prendre trouva sa forme là, sur cette carriole d’étoffes, entre un homme qui livrait des draps et une bête fatiguée.
+Devant les naseaux du cheval, la route s’enfonçait dans le soir, pâle, sans un feu nulle part. Une idée qu’iel remuait depuis dix ans sans trouver par où la prendre trouva sa forme là, sur cette carriole d’étoffes, entre un homme qui livrait des draps et une bête fatiguée.
 
 «  Ce qui s’est cassé une fois peut se casser encore  », dit Mirathis, lentement.
 

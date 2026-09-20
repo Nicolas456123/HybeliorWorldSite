@@ -51,7 +51,7 @@ Sous ses pieds, sur le dernier degré, l’eau sainte léchait le marbre. À la 
 
 «  Combien de temps  », demanda-t-il.
 
-Térec ne répondit pas tout de suite. Ce fut peut-être ce silence-là, plus que tout le reste, qui dit la vérité à Théon Ossarin.
+On entendit l’eau bouger contre les degrés. Ce fut peut-être ce silence-là, plus que tout le reste, qui dit la vérité à Théon Ossarin.
 
 «  Nous ne savons pas, Éminence. Nous n’avons rien vu de pareil. Les vieux registres n’en parlent pas.
 

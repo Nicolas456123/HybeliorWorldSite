@@ -109,7 +109,7 @@ Thessan resta un long moment sans répondre, les yeux sur ellui. Il avait une th
 
 — Si tu savais, avec certitude, la certitude d’une chose déjà arrivée, pas l’espoir ni la crainte, la *certitude*, que ce que nous montons faire au sommet de ce mont arrivera de toute façon, avec nous ou sans nous, dans trois ans, quoi que nous décidions ici… est-ce que tu monterais quand même  ?  »
 
-Thessan ne répondit pas tout de suite. Il regardait ses mains. La chandelle de la cour tremblait dans un courant d’air, et l’ombre du jeune homme s’allongeait puis se raccourcissait sur les pavés.
+Thessan regardait ses mains. La chandelle de la cour tremblait dans un courant d’air, et l’ombre du jeune homme s’allongeait puis se raccourcissait sur les pavés.
 
 «  Je ne comprends pas la question, dit-il enfin. Si cela arrive de toute façon, monter ou ne pas monter ne change rien. Donc la question n’a pas de sens.
 
@@ -137,7 +137,7 @@ Il y eut, dans la cour, ce silence particulier qui suit une phrase qu’on ne po
 
 «  Vous avez un plan de sortie.  » Thessan n’avait pas levé les yeux de sa page. Il ne demandait pas  ; il vérifiait. Les autres le disaient de Mirathis à voix basse, avec un reproche mal dissimulé  : *Mirathis est peut-être le·la seul·e d’entre nous à avoir prévu de survivre.*
 
-Mirathis ne répondit pas tout de suite. Iel finit par porter le bol à ses lèvres et but l’infusion froide d’un trait, comme on avale un remède.
+Mirathis finit par porter le bol à ses lèvres et but l’infusion froide d’un trait, comme on avale un remède.
 
 «  J’ai des rêves où je suis en haut du mont, dit-iel. Et j’ai des rêves où je n’y suis pas.  » Le bol vide reposé sur la pierre. «  Les deux sont vrais, Thessan. C’est le problème, avec les couches. On ne choisit pas laquelle on habitera. On les habite toutes jusqu’à ce que l’une devienne la seule. Alors non, je n’ai pas de plan de sortie. J’ai deux rêves qui ne s’accordent pas, et je ne saurai lequel était le vrai qu’au moment où il sera trop tard pour l’autre.  »
 

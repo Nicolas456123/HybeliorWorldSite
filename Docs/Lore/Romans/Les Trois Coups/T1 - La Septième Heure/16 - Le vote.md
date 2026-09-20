@@ -105,7 +105,7 @@ Le mot tomba sur la grève et la mer le recouvrit. Le vieux referma la bouche, e
 
 ---
 
-Vorath ne répondit rien. Il n’y avait rien à répondre, et un autre mot aurait abîmé celui-là. La main à plat sur sa poitrine, il s’inclina  : d’abord vers les onze pierres noires, vers ceux qui avaient voulu le garder, parce que ceux-là méritaient d’être salués les premiers  ; ensuite vers la nappe blanche du levant, vers ceux qui l’avaient donné.
+Il n’y avait rien à répondre, et un autre mot aurait abîmé celui-là. La main à plat sur sa poitrine, Vorath s’inclina  : d’abord vers les onze pierres noires, vers ceux qui avaient voulu le garder, parce que ceux-là méritaient d’être salués les premiers  ; ensuite vers la nappe blanche du levant, vers ceux qui l’avaient donné.
 
 Il avait cru qu’on l’envoyait porter un avertissement, pour préparer les siens. Devant la dalle, il comprit qu’il s’était trompé de sens. Les onze noires disaient qu’on l’aimait  ; les blanches disaient qu’on ne le gardait pas, et elles le disaient plus durement, parce qu’elles disaient aussi qu’il ne leur appartenait plus. L’île ne l’envoyait pas chercher quelque chose, elle le posait. Elle le posait du côté du levant comme on pose un caillou clair, pour qu’il y eût là-haut, sur une montagne, parmi des étrangers, un homme qui sût de quoi est fait un monde sans Lien, et qui pût le montrer à ceux qui l’apprendraient en une nuit.
 
