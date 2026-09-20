@@ -61,4 +61,4 @@ Pour l’ins—
 
 > **Fragment #6 — Journal de Thessan. An 0, avant l’aube.**
 >
-> *«  Il s’avance. Je n’écrirai pas son nom  ; il ne l’a jamais voulu, et je crois comprendre enfin pourquoi — pour qu’on parle de ce qu’il a fait et non de lui. Le ciel est ordinaire. Les étoiles sont à leur place. Rien n’indique que le monde soit sur le point de—  »* *(l’entrée s’interrompt ici)*
+> *«  Il s’avance. Je n’écrirai pas son nom  ; il ne l’a jamais voulu, et je crois comprendre enfin pourquoi — pour qu’on parle de ce qu’il a fait et non de lui. Le ciel est ordinaire. Les étoiles sont à leur place. Rien n’indique que le monde soit sur le point de—  »* *l’entrée s’interrompt ici*
