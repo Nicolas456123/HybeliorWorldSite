@@ -209,4 +209,4 @@ Il la laissa partir dans la nuit, le bronze serré contre elle, et il resta un m
 
 Puis il redescendit coudre. Il y avait toujours quelqu’un à habiller pour avant.
 
-Et très au-delà des dernières fumées de la ville, sur une plaine que personne, au marché bas, n’aurait su nommer, l’herbe s’ouvrait d’elle-même en trois endroits, sans arche, sans passeur et sans péage  ; rien là-dessous ne réclamait de jeton à l’entrée, rien ne regardait la couleur des habits, et ce qui s’y tenait n’aurait pas su dire de quelle saison venaient ceux qui entraient, ni dans laquelle il les rendrait.
+L’entrée était gratuite. Sur une plaine, le sol s’ouvrait de lui-même en trois endroits, et ce qui attendait dessous recevait chacun dans la tenue qu’il avait, le prenait à une saison et le rendait à une autre.

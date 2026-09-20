@@ -194,4 +194,4 @@ Lirenn tourna le visage vers la flamme et fixa l’endroit brûlant où sa mère
 
 Cette nuit-là, Kessane redescendit à la cave. Elle ouvrit le cahier à l’endroit qu’il fallait  : le geste, l’eau froide, la table basse, tout ce que quinze siècles de mains avaient recopié pour ce jour-là. Et cette nuit, pour la première fois, elle ne se dit pas *demain*. Elle se dit *bientôt*. Le mot avait le poids d’un fer qu’on sort du feu au bon moment.
 
-Et très loin des vallons de la guilde, sous une plaine où les villages avaient cessé d’allumer le soir, une chose creusait sans flamme ni fumée  ; on pouvait regarder cet endroit-là bien droit, des heures, sans rien y voir qui demandât d’être regardé.
+Les villages d’une plaine soufflaient leur lampe de bonne heure  ; dessous, quelque chose creusait, toujours à la même allure, et cela, vu d’en haut, ressemblait à un pâturage comme un autre.

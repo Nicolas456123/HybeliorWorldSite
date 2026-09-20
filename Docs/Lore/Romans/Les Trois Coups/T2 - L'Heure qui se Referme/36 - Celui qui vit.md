@@ -288,4 +288,4 @@ Elle prit au sud, vers les vallées basses, vers le delta, vers les marges d’O
 
 Mais dedans, quelque chose retournait la terre en bandes bien droites, disait *je peux couper, je peux pas promettre*, et ne s’arrêtait pas pour la nuit. Elle chevaucha tout le jour avec cet ouvrage-là derrière elle, qui avançait à sa vitesse d’homme, régulier, sans hâte, et qui aurait fini bien avant les pluies.
 
-Et très loin au sud, sur une terre plate que ses cartes donnaient encore pour de l’herbe, une chose installée dessous prenait des gens sans leur demander de quoi ils souffraient, sans leur laisser ni la nuit ni le matin, et n’aurait jamais eu à décider lequel des deux elle leur devait.
+Ses cartes donnaient cet endroit-là pour de l’herbe. Ce qui s’était mis là-dessous prenait les gens d’une seule fois, tels qu’ils venaient, le mourant et celui qui aurait bêché trente ans encore, et tous tombaient pour lui au même endroit de la courbe.

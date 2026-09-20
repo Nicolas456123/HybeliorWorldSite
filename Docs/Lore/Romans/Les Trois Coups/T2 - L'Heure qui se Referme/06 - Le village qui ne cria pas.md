@@ -157,4 +157,4 @@ Le métier d’Orsane resta dans la position où la navette avait été posée. 
 
 Et très loin de là, devant, derrière, on ne peut plus le dire, dans un temps où les tilleuls d’un autre village fleurissaient encore, un homme que les danseurs prenaient pour une ombre ouvrait la bouche sur un beau matin qui n’était pas le sien et commençait, pour vous qui l’écoutez sans savoir d’où, à raconter la seule chose dont il fût encore sûr  : qu’il y avait eu, un midi, quelque part, une soupe qui bouillait pour trois, et que personne n’était venu la manger.
 
-Et loin des forêts de Nysaria, dans une plaine d’Ilthara que trois déchirures rongeaient par en dessous, un ouvrage que nul n’avait commencé se défaisait rangée après rangée, sous des doigts qui ne savaient pas dans quelle heure ils tiraient le fil.
+L’hiver vint quand même. Trois déchirures défaisaient une plaine d’Ilthara par en dessous, rangée après rangée, et chaque nuit la pièce était plus courte.

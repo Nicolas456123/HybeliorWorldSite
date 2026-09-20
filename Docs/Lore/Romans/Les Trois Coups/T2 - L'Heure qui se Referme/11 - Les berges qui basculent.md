@@ -151,4 +151,4 @@ On sut que c’était la Faille parce que, cette nuit-là, plusieurs à Vieille-
 
 La lanterne, on l’éteignit après quelques jours, parce qu’une flamme qu’on n’entretient plus salit le verre. La petite ne voulut pas qu’on l’éteigne. On l’éteignit quand même, et la tante lava le verre et rangea la lanterne avec les affaires d’hiver.
 
-Et loin des bras d’Onara, dans une plaine que le fleuve n’atteindrait jamais, l’herbe se déchaussait en trois endroits comme se déchausse une berge des années avant de tomber, sans qu’aucune crue montât pour prévenir personne.
+L’herbe tenait encore sous le pied. En trois points d’une plaine, le dessous était déjà parti, et le dessus répondait toujours, comme le fond d’un fleuve répond à la perche.

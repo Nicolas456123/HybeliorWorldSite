@@ -172,4 +172,4 @@ Ce qu’Ombreth savait, ce matin-là, était plus petit et plus sûr, et Baelic 
 
 En bas, la vallée d’Alkaran s’éclaircissait lentement, toit d’ardoise après toit d’ardoise, avec ses maisons enfoncées dans la roche pour rester à hauteur des morts  ; et bientôt il n’y aurait plus, derrière aucune de ces portes, un vivant pour descendre les trois marches et entendre ce qui pousse d’en dessous.
 
-Ailleurs, très loin des vallées d’Alkaran, sous une plaine où personne n’avait jamais creusé de maison assez basse pour écouter le sol, quelque chose avançait sans un bruit, et la mort du dernier chanteur du monde n’y changerait rien.
+Les morts s’entassaient partout dans les vallées, et sous une plaine, quelque chose avançait déjà, qui avancerait tout pareil le matin où il ne resterait plus un chanteur au monde.
