@@ -137,6 +137,6 @@ C’est tout ce qui ne se troue pas.
 
 ---
 
-> **Fragment #4  : d’un cahier de copie du journal de Thessan.** *(copie de copie de copie  ; feuillet presque illisible, retrouvé dans les cendres d’un bûcher de Pureté  ; la plupart des lignes sont perdues  : trous, brûlures, mots effacés par les mains successives)*
+> **Fragment #4 — d’un cahier de copie du journal de Thessan.** *Copie de copie de copie  ; feuillet presque illisible, retrouvé dans les cendres d’un bûcher de Pureté  ; la plupart des lignes sont perdues  : trous, brûlures, mots effacés par les mains successives*
 >
 > *«  … et le … du soir … je ne sais plus … [illisible] … avons posé la q… celle que … depuis … [brûlé] … a duré si longtemps que … [trou] … quelqu’un a … non. Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable. … [le reste manque] …  »*

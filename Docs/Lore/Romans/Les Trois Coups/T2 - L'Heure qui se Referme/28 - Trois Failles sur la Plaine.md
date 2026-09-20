@@ -161,6 +161,6 @@ Un jour, quelqu’un fera ce geste devant vous. Il n’y aura rien d’autre à 
 
 ---
 
-> **Fragment #4 — d’un cahier de copie du journal de Thessan.** *(copie très dégradée, recueillie aux abords de la Plaine de Gryndor  ; presque tout le texte est perdu, rongé par l’humidité et les mains  ; seul le noyau tient)*
+> **Fragment #4 — d’un cahier de copie du journal de Thessan.** *Copie très dégradée, recueillie aux abords de la Plaine de Gryndor  ; presque tout le texte est perdu, rongé par l’humidité et les mains  ; seul le noyau tient*
 >
 > *«  […] et l’on ne saura […] pas plus que nous ne l’avons su […] ⟨mot effacé⟩ ⟨mot effacé⟩. Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable. […] ⟨reste illisible⟩  »*

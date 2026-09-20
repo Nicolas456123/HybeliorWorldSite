@@ -177,6 +177,6 @@ Mais nous vous aurons montré, sur une femme d’Alkaran, ce que c’est que d�
 
 ---
 
-> **Fragment #4b, d’un cahier de copie du journal de Thessan.** *(fragment recueilli dans un coffre de Chamane de Mémoire, en Alkaran  ; une main a ajouté en marge, d’une encre plus récente, les mots «  pour Vesle  », on ignore qui)*
+> **Fragment #4b — d’un cahier de copie du journal de Thessan.** *Fragment recueilli dans un coffre de Chamane de Mémoire, en Alkaran  ; une main a ajouté en marge, d’une encre plus récente, les mots «  pour Vesle  », on ignore qui*
 >
 > *«  […] j’ai cru que couper serait perdre. Je n’avais pas compris qu’on ne perd vraiment que ce qu’on n’a pas donné. […] Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable. […] ⟨le reste manque⟩  »*
