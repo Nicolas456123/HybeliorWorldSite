@@ -47,7 +47,7 @@ La petite le dit à plat, comme sa mère aurait dit le prix du grain. Kessane s�
 
 Elles n’étaient pas seules sur la Plaine.
 
-Kessane l’avait su dès le troisième jour, et cela l’avait d’abord effrayée, puis rassurée d’une manière tordue, la manière dont on est rassuré de ne pas être la seule folle. Sur Gryndor vivait une poignée d’autres. Des Tisses en fuite, comme elle fuyait pour sa fille  ; des marcheurs qui n’étaient plus des marcheurs de rien  ; et des gens dont on ne savait pas dire ce qu’ils fuyaient ni ce qu’ils cherchaient, qui erraient d’un bord à l’autre avec dans le regard cette faim qu’elle avait vue chez le chanteur mourant, sauf que chez ceux-là ce n’était pas une faim de transmettre. C’était une faim d’entrer.
+Kessane l’avait su dès le troisième jour, et cela l’avait d’abord effrayée, puis rassurée d’une manière tordue, la manière dont on est rassuré de ne pas être la seule folle. Sur Gryndor vivait une poignée d’autres. Des Tisses en fuite, comme elle fuyait pour sa fille  ; des marcheurs qui n’étaient plus des marcheurs de rien  ; et des gens dont on ne savait pas dire ce qu’ils fuyaient ni ce qu’ils cherchaient, qui erraient d’un bord à l’autre avec dans le regard cette faim qu’elle avait vue chez le chanteur mourant, mais tournée ailleurs.
 
 Ceux-là s’appelaient les Mangeurs de Temps. Vêtus d’habits d’un autre âge, cousus grossièrement d’après on ne savait quel souvenir, ils apprenaient entre eux des mots morts, et ils regardaient les Failles non comme des feux mais comme des portes. Kessane les évitait comme elle évitait les arbres qui ne savaient plus leur saison. Elle ne se serait pas assise à leur feu.
 

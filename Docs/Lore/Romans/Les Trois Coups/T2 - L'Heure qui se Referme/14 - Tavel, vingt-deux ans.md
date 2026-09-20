@@ -168,4 +168,4 @@ Elle avait, pour ce matin, une réponse qui était le protocole et une réponse 
 
 Elle sortit dans la cendre, très droite, en se disant qu’elle irait doucement, qu’elle regarderait l’homme longtemps avant de rien décider, qu’elle verrait de quel côté du doigt il se tenait. Elle ne se dit pas que *doucement* était le mot qu’elle mettait toujours devant les choses qu’elle avait déjà décidé de faire.
 
-Loin de cette vallée, sous une plaine d’herbe rase, trois trous du temps s’élargissaient dans le noir de la largeur d’un doigt par nuit, avec le bruit sourd des vieilles maisons qui travaillent, et ce qui travaillait là ne savait ni quelle nuit c’était, ni depuis combien de nuits.
+Dans une herbe rase que nul chemin ne traversait, trois trous du temps s’élargissaient d’une nuit à l’autre, avec le bruit sourd des vieilles maisons qui travaillent, et pour ce qui travaillait là, c’était toujours la même nuit.

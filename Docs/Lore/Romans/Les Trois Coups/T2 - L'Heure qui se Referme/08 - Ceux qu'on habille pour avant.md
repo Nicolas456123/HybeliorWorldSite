@@ -39,7 +39,7 @@ La femme mit un temps à comprendre qu’on s’adressait à elle. Ceux qu’il 
 
 Elle le jaugea. Ce regard, il le connaissait  : celui qui cherche l’Inspecteur déguisé, le voisin qui vendrait un nom pour trois deniers. Il le laissa venir jusqu’au bout sans bouger. De ce côté-là, rien à cacher. Il n’était pas de la ville haute, il ne relevait aucun nom, et cela se voyait sur lui, à ce qu’on lui disait  : une façon d’être du côté des trous et pas du côté de ceux qui les comblent.
 
-«  Qu’est-ce que vous me voulez  ?  » Ce n’était pas hostile. C’était las.
+«  Qu’est-ce que vous me voulez  ?  » Elle le demanda du ton dont elle avait marchandé le châle.
 
 «  Marcher un peu. Vous parler d’une chose.  » Il montra du menton la sortie du marché, sans insister. «  Vous ne risquez rien. Je ne suis pas de ceux que vous croyez.
 

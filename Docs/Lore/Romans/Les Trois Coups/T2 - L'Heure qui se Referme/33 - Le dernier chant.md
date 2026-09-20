@@ -174,7 +174,7 @@ Puis la marée qui montait par le bas atteignit enfin le centre. Elle gagna la c
 
 Il n’entendit pas qui. Il n’y avait personne. Il l’entendit quand même.
 
-C’était sa propre note, tenue très bas, très juste, dans le noir, jusqu’à ce que ça sonne creux quelque part et qu’une porte apparaisse  : sa porte à lui, celle qu’il avait cru ne jamais devoir trouver, la porte de l’homme qui n’avait jamais été seul et qui allait mourir sans savoir ce que cela faisait. À la fin, il sut ce que cela faisait. Ce n’était pas terrible. C’était très calme. C’était comme rentrer.
+C’était sa propre note, tenue très bas, très juste, dans le noir, jusqu’à ce que ça sonne creux quelque part et qu’une porte apparaisse  : sa porte à lui, celle qu’il avait cru ne jamais devoir trouver, la porte de l’homme qui n’avait jamais été seul et qui allait mourir sans savoir ce que cela faisait. À la fin, il sut ce que cela faisait. C’était comme rentrer.
 
 *
 
