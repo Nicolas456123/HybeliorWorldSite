@@ -193,4 +193,4 @@ Il part vers l’est, vers l’ombre, vers le bourg, vers la vie diminuée qui l
 
 Une heure approche. Je la sens comme on sent le mauvais temps, longtemps avant, sans pouvoir dire le jour  : une heure où toutes les déchirures se recoudront d’un coup, celle qui a pris Tarn et celles qui prendront d’autres. Je ne sais pas quand. Bien sûr. Le quand, toujours le quand. Mais je sais qu’après cette heure-là je chercherai encore Tarn parmi nous, et qu’il n’y sera pas.
 
-Et sous la terre que le garçon traverse, très bas, il y a trois endroits où le sol ne tient plus à rien, et de quelle heure ils sont, personne ne me le dira jamais.
+Et sous la terre que le garçon traverse, très bas, il y a trois endroits où le sol tient à peine, et c’est de là que l’heure viendra.

@@ -157,6 +157,6 @@ Nous nous taisons pour lui.
 
 Nous nous taisons aussi parce qu’on nous a pris le peu qu’il aurait fallu pour parler encore. Les deux sont vrais, et nous avons appris à vivre avec deux choses vraies, à force de ne pas savoir quand.
 
-Sur la Plaine refermée, il reste une place propre où une chose est entrée, et personne n’ira jamais la chercher, puisqu’il n’y a rien à y voir.
+Sur la Plaine refermée, il reste une place propre où une chose est entrée, et cette place ressemble à toute l’herbe d’alentour.
 
 *et puis le blanc  ; non plus le nôtre, cette fois, mais celui qu’on fait dans une pièce juste avant que quelqu’un parle pour la première fois*

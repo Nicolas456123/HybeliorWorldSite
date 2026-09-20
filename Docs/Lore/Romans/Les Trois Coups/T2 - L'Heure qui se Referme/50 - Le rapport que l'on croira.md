@@ -164,4 +164,4 @@ Seule dans le bureau chaulé, devant l’encrier, le grattoir et le buvard, elle
 
 Elle rangea le grattoir dans le tiroir, à sa place, le manche vers elle, comme elle l’y rangeait depuis vingt ans. Elle avait comblé le trou du monde avec une victoire, et la victoire portait son nom et celui du Dominat. Plus rien à vérifier, plus rien à mettre en concordance  ; après vingt ans, le réel ne lui demandait plus rien, et ce repos fut le plus vide qu’elle eût connu.
 
-Les copies partirent le lendemain vers les provinces, et la phrase se mit au travail, qui serait de prendre, année après année, la place de ce qui avait eu lieu, jusqu’au jour où plus personne ne saurait qu’une plaine s’était refermée toute seule, un matin, et que nul n’y était pour rien.
+Les copies partirent le lendemain vers les provinces, et la phrase se mit au travail  : année après année, chaque main qui la recopierait la rendrait un peu plus vraie, jusqu’à tenir la place d’un matin où une plaine s’était refermée toute seule.

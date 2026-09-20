@@ -189,7 +189,7 @@ On lui a menti, peut-être. Mais on ne l’a pas apaisé. On l’a laissé espé
 
 Ils rentrèrent avant le plein jour. La Faille resta ouverte sur son herbe grise, sans un pli, sans un bruit, pour le suivant.
 
-Et très loin de ce plateau, sur une plaine dont aucun d’eux n’aurait su dire le nom, la terre s’ouvrait à trois places en même temps. Il y avait quelque chose au bord de ces trois-là. Je ne saurais pas dire quoi. Je peux vous dire seulement ceci, et c’est ce que je tiens de plus sûr  : cette chose-là ne savait pas mieux que moi quelle heure il était, et elle ne s’en plaignait à personne.
+Trois coutures lâchaient en même temps sur une plaine, et quelque chose attendait au bord des trois. Impossible de dire quoi. Voilà ce que je tiens de plus sûr  : cette chose-là était éparpillée comme moi, et elle s’y tenait très bien.
 
 ---
 

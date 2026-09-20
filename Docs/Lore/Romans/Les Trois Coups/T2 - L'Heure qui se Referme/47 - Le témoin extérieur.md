@@ -162,4 +162,4 @@ Le monde s’était sauvé sans elle, et elle rentrait le déclarer sauvé par e
 
 Elle tourna bride.
 
-Ce qui lui avait pris ce morceau-là poursuivait sa route dans un ordre de jours qui n’appartenait plus à personne, et n’avait rien gardé d’elle non plus.
+Ce qui lui avait pris ce morceau-là poursuivait sa route dans un ordre de jours à lui seul, et le creux restait tout entier chez elle.

@@ -198,4 +198,4 @@ Il ralluma le feu et mangea, ce qu’il ne faisait plus guère le soir  : le pa
 
 Puis il alla chercher sous le lit le bâton de marche de sa mère, qu’il n’avait pas pris depuis des années. Le bois était lissé à un endroit qui n’était pas le sien  ; elle était plus petite que lui, elle l’avait tenu plus bas. Il s’y fit la main un moment, au milieu de la pièce, sans allumer davantage. Puis il le posa contre la porte, prêt pour le matin.
 
-Et bien au-delà du bourg dont il n’avait pas su entendre le nom, une plaine s’amincissait par en dessous, un peu chaque nuit, comme s’amincit une paroi qu’on pousse des deux côtés depuis trop longtemps.
+La vieille du lavoir ferait la route avec lui. Une plaine s’amincissait par en dessous, un peu chaque nuit, comme s’amincit une paroi qu’on pousse des deux côtés depuis trop longtemps.

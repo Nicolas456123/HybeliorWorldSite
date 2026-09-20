@@ -208,4 +208,4 @@ En haut, la braise dormait sous la cendre qu’elle y avait jetée en allant ouv
 
 Le cahier, lui, n’avait pas bougé d’une lettre depuis mille ans. C’était le monde qui s’était retourné dessous, comme on retourne une pièce sur l’enclume pour frapper la face qui n’a pas encore servi. Un homme avait coupé pour prouver qu’on pouvait le faire  ; elle couperait, elle, pour qu’on ne meure pas  ; et la page était la même page.
 
-Au-dessus d’elle, dans le noir, sa fille se retourna dans son lit et parla tout bas à quelqu’un d’autre qu’elle. Et très loin à l’est, sur une étendue plate dont personne dans la vallée ne savait le nom, trois déchirures avançaient chacune à son allure, et sous elles la terre cédait par plaques, dans un ordre que rien ne commandait.
+Au-dessus d’elle, dans le noir, sa fille se retourna dans son lit et parla tout bas à quelqu’un d’autre qu’elle. Dans la cave, trois feuillets gardaient les gestes dans leur ordre. Sur une étendue plate, à l’est, trois déchirures avançaient chacune à son allure, et sous elles la terre cédait par plaques, dans un ordre que rien ne commandait.
