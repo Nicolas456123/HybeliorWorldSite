@@ -861,6 +861,23 @@ de montage institutionnel, elle revient à l'auteur.
 Le prêtre du ch. 37 s'appelle **Herec** (un r) et le bourg du ch. 18 **Herrec** (deux r).
 Homonymie volontaire ou coquille : à trancher. Rien n'a été renommé.
 
+### Tome 2 — trois points de fait relevés aux ch. 40 et 42 (2026-09-20)
+
+Relevés pendant la réécriture, **non corrigés** : ce sont des faits, et les faits ne se
+touchent pas sans l'auteur. La prose a seulement cessé de les souligner.
+
+| # | Où | Ce qui cloche | État |
+|---|----|---------------|------|
+| 1 | ch. 42, l. 174 contre ch. 26 | Le délai avant le crachement de sang : **six mois** au ch. 42, **dix-huit mois** au ch. 26. | à trancher |
+| 2 | ch. 40 | L'arithmétique des sept ne boucle pas : « sept à marcher avec Tarn », le garçon qui est « un des sept », et « sept personnes » qui passent ne font pas le même compte. Hérité de l'original. | à trancher |
+| 3 | ch. 40 contre ch. 34 | **Nael est absent du ch. 40** alors que le ch. 34 le met en tête du même convoi, à deux jours du bord. Pas contradictoire en droit — mais un lecteur du 34 le cherchera au 40. | à trancher |
+
+Au ch. 40, le recompte final des sept a été supprimé de la prose : le chapitre ne se
+livre plus à une arithmétique qu'il ne peut pas tenir. Le fait, lui, est intact.
+
+Rectification d'un classement porté plus haut : **le ch. 19 porte bien une clausule**.
+Les chapitres de fragment qui n'en ont pas sont donc **huit**, pas neuf.
+
 ---
 
 ## Annexe — d'où viennent ces constats
