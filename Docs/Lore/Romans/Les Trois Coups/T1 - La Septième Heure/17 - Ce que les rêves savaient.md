@@ -155,4 +155,4 @@ Thessan leva les yeux, et Mirathis vit que le garçon retenait la phrase, qu’i
 
 Iel rentra dans la chambre. À travers la porte mince, iel entendit la plume de Thessan reprendre dans la cour, régulière, obstinée, un petit bruit de vivant qui refuse de se taire. Iel s’allongea sans se dévêtir, dans un noir qui n’était pas la brume de Gelinar mais qui ferait l’affaire, et ferma les yeux sur une ville dure qui montrait son ciel, à trois mille lieues d’un champ d’encens, à trois ans d’une montagne noire, trois ans, deux ans, un an, les marches qui restaient  ; et iel se laissa descendre, à contrecœur, vers ce que les rêves savaient déjà et qu’iel serait, encore une fois, seul·e à porter jusqu’au matin.
 
-Sous une montagne que Mirathis n’avait jamais vue qu’en dormant, la chose qui allait mourir dormait elle aussi, sans un rêve pour l’avertir, et n’en savait pas davantage.
+Sous une montagne que Mirathis n’avait jamais vue qu’en dormant, la chose qui allait mourir dormait elle aussi, sans un rêve pour l’avertir, et elle porta jusqu’au matin ce qu’elle portait la veille.

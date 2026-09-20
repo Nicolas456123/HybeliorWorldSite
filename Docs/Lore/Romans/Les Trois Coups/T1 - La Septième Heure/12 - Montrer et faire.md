@@ -227,4 +227,4 @@ Il sortit le journal. Il n’y voyait rien  ; il écrivit à l’aveugle, comme
 
 Il ne relut pas  : il faisait trop sombre, et puis il savait désormais qu’on n’écrit pas ces choses-là pour les relire. Il referma le cahier sur l’encre fraîche, le glissa contre sa poitrine, contre le carnet de Vael, et resta longtemps assis dans le noir, les deux cuirs sur le cœur.
 
-Au-dehors, très haut au-dessus des terrasses, l’arche pâle du Grand Portail marquait le ciel. Sous le mont dont il venait d’apprendre le nom vrai, la couture que Sera voulait découdre tenait bon, point par point, comme au premier jour, et rien en ce monde ne pouvait l’avertir qu’une encre séchait lentement, très loin au nord, sur la page d’un homme assis dans le noir.
+Au-dehors, le Grand Portail dessinait son arche au-dessus des terrasses. Sous le mont dont il venait d’apprendre le nom vrai, la couture que Sera voulait découdre tenait bon, point par point, comme au premier jour  ; et ce qui avait commencé cette nuit-là séchait sur une page, dans le noir.

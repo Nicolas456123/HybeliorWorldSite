@@ -163,4 +163,4 @@ Aucun fil ne l’avait jamais tenue. On ne pouvait rien lui couper.
 
 Longtemps elle resta ainsi, à écouter l’eau remuer sous les pilotis. L’idée d’une fin du monde ne lui faisait pas plus peur qu’une marée qui monte.
 
-Au nord, loin sous l’horizon, une chose que personne n’avait jamais vue portait cent vingt millions d’âmes, cette nuit-là comme toutes les nuits, et sans effort. Elle ne portait pas la femme assise au bout du ponton, là-bas, dans les îles. Elle n’avait jamais eu d’elle un seul fil, et elle ne sentit rien.
+Cette nuit-là comme toutes les nuits, une masse que le monde n’avait pas nommée portait cent vingt millions de vivants. La femme assise au bout du ponton tenait par autre chose, et cela la tiendrait debout le matin où le reste tomberait.

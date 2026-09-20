@@ -95,4 +95,4 @@ Il ne pria pas. La lumière vint sur la troisième pierre. Sa pensée alla aux c
 
 Le silence était revenu, disait-on déjà sur la côte. Il n’était jamais parti de Baelor. C’était le reste du monde qui venait d’y entrer.
 
-Et partout ailleurs, à la même heure, dans des maisons dont l’île ignorait jusqu’aux noms, des gens assis dans le noir attendaient encore qu’on leur répondît  ; rien ne leur répondit, et aucun d’eux ne sut qu’il venait de faire, lui aussi, sa première Heure Vide.
+Et partout ailleurs, à la même heure, dans des maisons dont l’île ignorait jusqu’aux noms, des gens assis dans le noir attendaient encore qu’on leur répondît  ; ils attendirent jusqu’au jour, et chacun d’eux fit cette nuit-là sa première Heure Vide, quatre cents ans après Tholmë.
