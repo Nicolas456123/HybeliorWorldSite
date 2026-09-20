@@ -213,7 +213,7 @@ Nous n’avons pas mieux.
 
 ---
 
-> **Fragment #5, d’un cahier de copie du journal de Thessan.** *Le grand cahier d’une maison verithane d’Onara  : relié de bois, attaché au lutrin par une chaîne, lu à voix haute aux offices du soir. Le copiste a commenté ligne à ligne, entre les lignes et dans les marges, et sa main a pris plus de place que celle qu’il recopiait.*
+> **Fragment #5 — d’un cahier de copie du journal de Thessan.** *Le grand cahier d’une maison verithane d’Onara  : relié de bois, attaché au lutrin par une chaîne, lu à voix haute aux offices du soir. Le copiste a commenté ligne à ligne, entre les lignes et dans les marges, et sa main a pris plus de place que celle qu’il recopiait.*
 >
 > *«  Nous montons demain. [Glose  : entends que la montée est l’Ascension figurée de l’âme vers le Renoncement, et que «  demain  » ne désigne pas un jour mais l’imminence perpétuelle où se tient le fidèle.] J’ai peur — [Glose abondante  : non d’une crainte charnelle, qui messiérait au Bienheureux, mais du saint tremblement de qui approche le Mystère  ; que le lecteur ne lise ici nulle faiblesse.] non de ce que nous ferons, mais de ce qui poussera à la place. [Glose  : car de la Coupure sainte poussa le Monde-d’Après, ainsi qu’il est enseigné, et le Bienheureux le pressentait sans le nommer  ; rendons grâce.] Nous savons ce qui se casse. Nous ne savons pas ce qui pousse. [Glose  : mais NOUS le savons, nous qui venons après et qui voyons pousser  ; là où le Bienheureux doutait, réjouis-toi, ô lecteur, car le doute fut relevé par l’événement, et ce qu’il ne savait pas, tu le sais.]*
 >
