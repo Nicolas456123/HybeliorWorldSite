@@ -254,4 +254,4 @@ Vers le sud, la phrase l’accompagna, au coin de tout ce qu’elle regardait, e
 
 Elle talonna son cheval et descendit vers les portes qu’elle allait devoir marquer.
 
-À l’est de Tavelpast, sur une plaine d’où aucun Inspecteur ne rapportait plus de chiffre, la terre descendit encore cette nuit-là de l’épaisseur d’un doigt, sans écart à justifier, sans colonne à équilibrer, sans rien à signer, et sans avoir besoin, pour continuer, que quiconque y crût.
+Elle avait vu la signature du préfet, nette, au bas du dernier article. À l’est de Tavelpast, sur une plaine d’où aucun Inspecteur ne rapportait plus de chiffre, la terre descendit encore cette nuit-là d’une ligne, et son compte tomba juste, comme toutes les nuits.

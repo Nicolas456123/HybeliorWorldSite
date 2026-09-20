@@ -180,4 +180,4 @@ Il fallait trouver la femme. Elle le comprit sur le cheval, et ce n’était dé
 
 Elle tourna bride. Derrière elle, la forge de Harn s’était remise à sonner  ; il avait repris sa chauffe, trop vite encore, mais il frappait, et l’on entendit le marteau jusqu’au tournant de la route.
 
-Personne, cette année-là, n’avait déclaré la Plaine de Gryndor. Ses villages tenaient debout, ses bergers comptaient leurs bêtes, et rien, sur les cartes des Cendres, ne marquait cet endroit-là. Dessous, une chose sans main et sans raison défaisait le sol à son rythme  ; elle ne cachait personne, elle ne sauvait personne, elle n’avait de comptes à rendre à aucun bureau, et le jour qu’il était ne lui faisait rien.
+Personne, cette année-là, n’avait déclaré la Plaine de Gryndor. Ses villages tenaient debout, ses bergers comptaient leurs bêtes, et rien, sur les cartes des Cendres, ne marquait cet endroit-là. Dessous, une chose défaisait le sol à son rythme, et elle avait devant elle toutes les semaines qu’il faudrait.

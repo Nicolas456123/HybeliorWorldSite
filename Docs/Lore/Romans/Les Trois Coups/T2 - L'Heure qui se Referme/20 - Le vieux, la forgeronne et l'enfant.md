@@ -254,4 +254,4 @@ Alors il rentra sa chambre et la ferma, doucement, sur cet appel d’enfant qui 
 
 Il marcha vers le bourg voisin, le dos courbé, le bâton de sa mère plantant son pouce dans la caillasse, et il chercha une grange où l’on voudrait bien loger un vieux contre un peu d’ouvrage de bouche. Il savait encore chanter les morts, et il y avait des morts partout, désormais  ; on ne le laisserait pas coucher dehors.
 
-Ce soir-là, sous une plaine que ni lui ni la forgeronne n’auraient pu nommer, le sol gagna encore un peu sur l’herbe en trois endroits, poussé par une chose sans cahier et sans mains, qui ne se demandait jamais si c’était le moment.
+Il laissait derrière lui deux mains qui savaient le creux où tombe un marteau. Sous une plaine que ni lui ni la forgeronne n’auraient pu nommer, le sol gagna encore un peu sur l’herbe en trois endroits, poussé par une chose qui frappait dans le plein du son.

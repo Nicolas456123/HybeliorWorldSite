@@ -155,6 +155,6 @@ Les Errants ne s’y installèrent même pas. Un homme d’Alkaran l’aurait re
 
 Le métier d’Orsane resta dans la position où la navette avait été posée. Le drap gris ne fut jamais fini  ; il lui manquait quatre rangées, peut-être cinq. Personne ne sut jamais le nom de l’herbe.
 
-Et très loin de là, devant, derrière, on ne peut plus le dire, dans un temps où les tilleuls d’un autre village fleurissaient encore, un homme que les danseurs prenaient pour une ombre ouvrait la bouche sur un beau matin qui n’était pas le sien et commençait, pour vous qui l’écoutez sans savoir d’où, à raconter la seule chose dont il fût encore sûr  : qu’il y avait eu, un midi, quelque part, une soupe qui bouillait pour trois, et que personne n’était venu la manger.
+Moi non plus, je ne l’ai pas su. Je le demande encore, ici, sous les tilleuls d’un autre village, à des gens qui s’écartent quand j’approche et me prennent pour une ombre. La musique reprend derrière moi. J’ouvre quand même la bouche, et c’est à vous que je parle, vous qui êtes je ne sais quand  : il y avait, un midi, quelque part, une soupe qui bouillait pour trois, et personne n’est venu la manger.
 
 L’hiver vint quand même. Trois déchirures défaisaient une plaine d’Ilthara par en dessous, rangée après rangée, et chaque nuit la pièce était plus courte.

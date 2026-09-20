@@ -173,4 +173,4 @@ Le couloir sentait la paille humide et le suif. Ses bottes y faisaient plus de b
 
 Elle ne le lui dirait pas. Le lui dire, ce serait lui donner de l’espoir, et l’espoir ne lui servirait à rien là où il allait. Elle le garderait pour elle, comme elle gardait la clef, tiède, contre sa peau.
 
-À la même heure, très loin de ce poste et de ses papiers, trois déchirures travaillaient sous une herbe que nul registre ne mentionnait encore, et elles gardaient ce qu’elles prenaient  : sans toile, sans cire, sans un mot écrit dessus, et sans clef au cou de personne.
+Le pêne du coffre avait mordu du premier coup. Sous une herbe que nul registre ne mentionnait encore, trois déchirures gardaient ce qu’elles prenaient, et elles étaient ouvertes à qui marchait dessus.
