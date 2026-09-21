@@ -46,7 +46,7 @@ Ce fut dans ce quart d’heure-là qu’il entendit le Gouffre, pour la premièr
 
 Le fond ne faisait pas de bruit. Voilà ce qu’il faut comprendre. En trente ans, Tarreck avait appris tout ce qu’un câble sait dire : il chantait sous le vent d’ouest, il claquait au gel, il gémissait quand la charge était mal répartie, et il savait lequel de ces bruits voulait dire quoi comme il savait les toux de sa femme. Le fond, lui, n’avait jamais rien rendu. Le fond était l’endroit d’où rien ne remontait.
 
-Ce qui monta ce matin-là était grave et long, plus bas que la grosse cloche de Varandar, et cela ne venait pas du câble. Cela venait de dessous, de là où il n’y avait pas de fond.
+Ce qui monta ce matin-là était grave et long, plus bas que la grosse cloche de Varandar, et cela venait de dessous, de là où il n’y avait pas de fond.
 
 Tarreck reposa son pain sur le billot.
 
@@ -54,9 +54,9 @@ Il s’avança jusqu’au bord, pas trop près, on n’allait jamais trop près,
 
 « Non », dit-il tout haut, à personne.
 
-Il alla prendre la Pile à pleine paume, comme il le faisait cent fois par saison sans y penser, du geste dont on touche le chambranle en rentrant chez soi. La pierre avait toujours été tiède. Pas de la tiédeur du soleil : une chaleur venue du dedans, égale, la même en janvier qu’en août, la même la nuit. La chaleur du Lien au travail.
+Il alla prendre la Pile à pleine paume, comme il le faisait cent fois par saison sans y penser, du geste dont on touche le chambranle en rentrant chez soi. La pierre avait toujours été tiède d’une chaleur venue du dedans, égale, la même en janvier qu’en août, la même la nuit. La chaleur du Lien au travail.
 
-Ce matin-là, sous ses doigts, elle s’en allait. Il la sentit partir pendant qu’il tenait, pas d’un coup, par degrés, comme l’eau d’une bassine qu’on laisse à la fenêtre ; et il resta là, la main dessus, sans pouvoir l’ôter, sans pouvoir y croire.
+Ce matin-là, sous ses doigts, elle s’en allait. Il la sentit partir pendant qu’il tenait, par degrés, comme l’eau d’une bassine qu’on laisse à la fenêtre ; et il resta là, la main dessus, sans pouvoir l’ôter, sans pouvoir y croire.
 
 Un cri, derrière lui, sur le sentier.
 
@@ -72,7 +72,7 @@ Elle n’alla pas au bout.
 
 — Regarde le câble. »
 
-Ils regardèrent le câble ensemble. Six cents ans qu’il traversait le vide bien raide, une ligne tirée entre deux points fixes. Il pendait. La largeur de deux mains, pas davantage, mais il pendait mou au milieu, comme une corde dont on aurait rapproché les deux bouts. On ne les avait pas rapprochés. On les avait écartés, et le câble, trop court d’un seul coup pour un Gouffre devenu trop large, ne tirait plus droit.
+Ils regardèrent le câble ensemble. Six cents ans qu’il traversait le vide bien raide, une ligne tirée entre deux points fixes. Il pendait. La largeur de deux mains, pas davantage, mais il pendait mou au milieu, comme une corde dont on aurait rapproché les deux bouts. C’étaient les bouts qui s’écartaient, et le câble, trop court d’un seul coup pour un Gouffre devenu trop large, ne tirait plus droit.
 
 « Les deux bords s’en vont l’un de l’autre. » Wenna le dit très bas. « Tarreck. Les deux bords du Gouffre s’en vont l’un de l’autre. »
 
@@ -92,11 +92,11 @@ Il y eut d’abord la question des gens d’en face. La benne de midi remontait 
 
 Wenna courut au sémaphore. Tarreck resta seul au bord, et il fit la seule chose qu’un passeur sache faire : il regarda son câble, et il l’écouta.
 
-Le son du fond avait grossi. Ce n’était plus une respiration ; cela tirait, quelque part en dessous, à la manière d’un attelage qui prend le poids d’une charge. Et la pâleur du fond, que personne n’avait jamais vue remuer, remuait. Elle montait. Par nappes, lentement, comme une eau qui déborderait à l’envers, le fond du Gouffre venait vers le jour. Ce n’était pas de l’eau. Ce n’était pas de la brume non plus : c’était un endroit où l’œil arrivait et ne trouvait rien à quoi se tenir. Trente ans que Tarreck ne regardait pas le fond. Il ne pouvait plus en détacher les yeux.
+Le son du fond avait grossi. Cela tirait, à présent, quelque part en dessous, à la manière d’un attelage qui prend le poids d’une charge. Et la pâleur du fond, que personne n’avait jamais vue remuer, remuait. Elle montait. Par nappes, lentement, comme une eau qui déborderait à l’envers, le fond du Gouffre venait vers le jour : un endroit où l’œil arrivait et ne trouvait rien à quoi se tenir. Trente ans que Tarreck ne regardait pas le fond. Il ne pouvait plus en détacher les yeux.
 
 « Recule. »
 
-Pas Wenna. Le vieux Delm, le gardien des Piles, celui qui venait deux fois l’an graisser les scellements et recevoir les ingénieurs de la Charte. Personne ne l’avait vu arriver. Il tenait Tarreck par le bras, et il tirait.
+Le vieux Delm, le gardien des Piles, celui qui venait deux fois l’an graisser les scellements et recevoir les ingénieurs de la Charte. Personne ne l’avait vu arriver. Il tenait Tarreck par le bras, et il tirait.
 
 « Recule de la Pile, passeur. Tout de suite. »
 
@@ -138,7 +138,7 @@ Il l’avait vue. Loin dans le blanc, à mi-hauteur du vide, à cent coudées de
 
 Le reste vint après, plus lentement. Il n’y avait jamais eu de pont à cet endroit. Cet homme n’était pas tombé. Il avait dû passer, à une heure quelconque de ce matin-là, par une de ces portes dont on parlait dans les grandes villes, une de celles qui vous mettent à cent lieues en un pas ; Varandar en avait une, à la halle aux grains, et Tarreck ne l’avait jamais empruntée, faute d’avoir jamais eu où aller. Ce voyageur-là avait fait le premier pas, et la porte, sous lui, avait cessé d’être une porte. Et le Gouffre, en s’ouvrant, remontait vers le jour ce que le monde gardait dans son entre-deux.
 
-Alors l’homme s’en alla. Pas d’un coup, pas en tombant : il se défit comme un vieux cordage qu’on détord, brin par brin, le sac d’abord, puis l’épaule, puis le bras levé, chaque part s’ouvrant dans le blanc jusqu’à n’être plus que du blanc. Aucun son n’en vint. Tarreck compta, du compte dont il mesurait les lâchers de benne, et à dix il n’avait plus devant lui qu’un fond qui montait.
+Alors l’homme s’en alla. Il se défit comme un vieux cordage qu’on détord, brin par brin, le sac d’abord, puis l’épaule, puis le bras levé, chaque part s’ouvrant dans le blanc jusqu’à n’être plus que du blanc. Aucun son n’en vint. Tarreck compta, du compte dont il mesurait les lâchers de benne, et à dix il n’avait plus devant lui qu’un fond qui montait.
 
 « Ne regarde pas ce qui remonte. » Delm, derrière lui, très vieux, très bas. « Petit. Ne regarde pas. »
 
@@ -146,9 +146,9 @@ Tarreck recula. De lui-même, cette fois.
 
 ---
 
-Le son du fond baissa. Pas parce qu’il faiblissait : parce qu’il n’avait plus rien à tirer.
+Le son du fond baissa. Il n’avait plus rien à tirer.
 
-Dans ce creux-là, quelque chose vint qui n’était ni Delm, ni Wenna, ni personne de vivant. Cela n’entra pas par les oreilles. Cela vint par la paume que Tarreck avait, sans y penser, remise sur la Pile froide ; par la semelle contre la roche ; par le fil presque éteint qui courait encore d’une chose à toutes les autres. Ce n’était pas une voix. C’était ce qui reste d’une voix quand il n’en reste presque rien.
+Dans ce creux-là, quelque chose vint qui n’était ni Delm, ni Wenna, ni personne de vivant. Cela vint par la paume que Tarreck avait, sans y penser, remise sur la Pile froide ; par la semelle contre la roche ; par le fil presque éteint qui courait encore d’une chose à toutes les autres. C’était ce qui reste d’une voix quand il n’en reste presque rien.
 
 *tenu. j’ai tenu les deux bords. les deux, depuis*
 
@@ -162,7 +162,7 @@ Un blanc plus long.
 
 Rien.
 
-Tarreck ôta sa main de la pierre. Il n’aurait pas su dire s’il avait entendu quelque chose ou s’il l’avait rêvé debout. Il n’en parla jamais : ni à Wenna, ni à Delm, ni à sa femme, parce qu’il aurait fallu commencer par le commencement et qu’il n’y avait pas de commencement. Mais il garda dans le corps, jusqu’à sa mort, une certitude qu’il ne chercha pas à expliquer. Ce qui venait de lâcher son Gouffre n’avait pas voulu lâcher, ou ne savait pas s’il l’avait voulu. Ce n’était pas une méchanceté. C’était une fatigue, ou un coup porté, et personne ne saurait jamais lequel.
+Tarreck ôta sa main de la pierre. Il n’aurait pas su dire s’il avait entendu quelque chose ou s’il l’avait rêvé debout. Il n’en parla jamais : ni à Wenna, ni à Delm, ni à sa femme, parce qu’il aurait fallu commencer par le commencement et qu’il n’y avait pas de commencement. Mais il garda dans le corps, jusqu’à sa mort, une certitude qu’il ne chercha pas à expliquer. Ce qui venait de lâcher son Gouffre n’avait pas voulu lâcher, ou ne savait pas s’il l’avait voulu. C’était une fatigue, ou un coup porté, et personne ne saurait jamais lequel.
 
 ---
 

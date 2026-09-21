@@ -61,19 +61,19 @@ Il ne monta pas jusqu’en haut.
 
 À mi-rampe, le faubourg cessait et la roche nue prenait le relais des dernières maisons. Un replat s’y avançait, une dalle de pierre noire d’où l’on voyait, en se retournant, toute la ville couchée dessous : les ruelles qui dévalaient en pente raide, les toits sous leur couche grise, et par milliers les feux de la nuit fumant bas. En levant la tête, on voyait le Mont. À cette distance, ce n’était plus une montagne : c’était l’endroit où le ciel s’arrêtait, une paroi de noir qui montait droit et prenait les étoiles à mesure qu’on en cherchait le haut.
 
-Verkan s’arrêta là, le souffle court, un mois de route dans les jambes. Et comme il ne se mentait jamais lorsque personne ne l’écoutait, il s’accorda l’autre raison : il avait peur. Non de la rampe. De ce qu’il y avait au bout. Après, il faudrait redescendre, rentrer, écrire.
+Verkan s’arrêta là, le souffle court, un mois de route dans les jambes. Et comme il ne se mentait jamais lorsque personne ne l’écoutait, il s’accorda l’autre raison : il avait peur de ce qu’il y avait au bout de la rampe. Après, il faudrait redescendre, rentrer, écrire.
 
 Un moment, il ne fit rien du tout. Le froid de l’altitude lui séchait la sueur entre les épaules. La cendre avait sur les lèvres un goût de suie douce, et dessous un autre goût, plus âcre, qui prenait le fond de la gorge. Très loin en bas, une porte battit deux fois avant que quelqu’un la calât. Un enfant pleura quelque part et se tut. L’air sentait le soufre tiède et le pain de la veille.
 
 C’est alors qu’il les vit.
 
-Très haut sur le flanc noir, plus haut qu’aucun homme sensé ne grimpe de nuit, il y avait des lumières. Faibles. Pas des torches : une torche danse, une torche jette du jaune. Celles-ci étaient basses et rougeâtres, immobiles d’abord, puis lentement mouvantes, comme des braises qu’on porterait à hauteur d’homme. Elles montaient vers le sommet, vers l’endroit où la masse noire se creusait d’une lueur plus profonde, une rougeur qui ne venait d’aucune main.
+Très haut sur le flanc noir, plus haut qu’aucun homme sensé ne grimpe de nuit, il y avait des lumières. Faibles. Une torche danse, une torche jette du jaune ; celles-ci étaient basses et rougeâtres, immobiles d’abord, puis lentement mouvantes, comme des braises qu’on porterait à hauteur d’homme. Elles montaient vers le sommet, vers l’endroit où la masse noire se creusait d’une lueur plus profonde, une rougeur qui ne venait d’aucune main.
 
 Il les compta. La nuit les mangeait, la distance les brouillait, elles se recouvraient et se séparaient ; il crut en voir cinq, puis moins, puis davantage. Huit, disait un chiffre de sa propre écriture, tracé l’hiver d’avant en marge d’un dossier qu’on lui avait remis pour qu’il le détruise. Cinq dans un creux des hautes terres, quatre dans le sable d’une crique, jamais le compte plein, jamais deux fois le même chiffre. *Combien êtes-vous ?* La question resta où il l’avait posée. Il n’avait jamais lâché un compte de sa vie ; il lâcha celui-là, et cela lui coûta plus qu’il ne s’y attendait. *Assez pour ce qu’ils montent faire*, se dit-il enfin, et c’était la première fois qu’il gardait en lui une chose qu’il ne pouvait pas vérifier.
 
 Il ne comprenait pas ce qu’il voyait, et il se le dit dans les mots où il l’écrirait plus tard, car sa tête rédigeait toujours pendant que ses yeux regardaient. Des gens montaient une montagne de nuit. C’était tout. Ce vers quoi ils montaient, ce qu’ils feraient là-haut, si cela aurait le moindre effet, rien de cela n’était dans ce qu’il voyait. Il savait ce qu’ils croyaient monter faire : il avait lu le même livre qu’eux, et jusqu’à la dernière thèse, ce dont peu d’hommes au monde pouvaient se vanter. Ce qu’ils faisaient, en revanche, lui échappait. Il tint les deux choses séparées, faute de pouvoir faire autre chose, et il regarda.
 
-Puis vint ce qu’il ne sut jamais dire. Des semaines durant il en composerait des versions, et il les brûlerait toutes. Ce ne fut pas un bruit qui cessa : il n’y avait pas de bruit à cette heure, la ville dormait, le vent était tombé. L’air devint mince entre ses dents. Ses oreilles se creusèrent, comme au bord d’un orage, et il n’y avait pas d’orage. En bas, dans le faubourg, les chiens se turent tous ensemble, et ce fut pire qu’un hurlement.
+Puis vint ce qu’il ne sut jamais dire. Des semaines durant il en composerait des versions, et il les brûlerait toutes. Il n’y avait pas de bruit à cette heure : la ville dormait, le vent était tombé. L’air devint mince entre ses dents. Ses oreilles se creusèrent, comme au bord d’un orage, et il n’y avait pas d’orage. En bas, dans le faubourg, les chiens se turent tous ensemble, et ce fut pire qu’un hurlement.
 
 Il compta, parce qu’il ne savait rien faire d’autre de sa peur.
 
@@ -87,15 +87,15 @@ Elles ne bougeaient plus du tout. Au sommet, la rougeur s’ouvrait, virait à c
 
 *Trois.*
 
-Et dans ce troisième silence, il crut voir une forme de plus. Il n’en fut jamais sûr ; c’était la limite exacte de ce qu’il pouvait jurer. Elle ne montait pas. Elle était là, au bord, où la lueur finissait et où le noir reprenait, comme si elle s’y était toujours tenue et qu’il ne l’eût aperçue qu’à l’instant où tout s’était tu. Un homme, peut-être. Peut-être la fatigue, la peur, le rouge jouant sur la roche. Les mots vinrent seuls, dans l’ordre exact où il les écrirait un jour : *il y avait quelqu’un de plus que ceux que je poursuivais.*
+Et dans ce troisième silence, il crut voir une forme de plus. Il n’en fut jamais sûr ; c’était la limite exacte de ce qu’il pouvait jurer. Elle était là, au bord, où la lueur finissait et où le noir reprenait, comme si elle s’y était toujours tenue et qu’il ne l’eût aperçue qu’à l’instant où tout s’était tu. Un homme, peut-être. Peut-être la fatigue, la peur, le rouge jouant sur la roche. Les mots vinrent seuls, dans l’ordre exact où il les écrirait un jour : *il y avait quelqu’un de plus que ceux que je poursuivais.*
 
 *
 
 Puis cela s’arrêta, comme une porte qu’on rouvre, et la montagne s’ouvrit.
 
-Le fracas ne vint pas d’abord. Personne, plus tard, ne voulut le croire, et il cessa vite de le dire. Cela commença par une lumière : le sommet devint rouge du dedans, comme une braise qu’on souffle, et la lueur descendit le long du flanc et le dessina entier contre le ciel, chaque arête, chaque pli de roche, une montagne qui s’allumait par en dessous. Les petites lumières qu’il n’avait pas su compter, la forme de plus, tout cela fut avalé dans le grand rouge, comme une chandelle qu’on approche du soleil.
+La lumière vint avant le fracas. Personne, plus tard, ne voulut le croire, et il cessa vite de le dire. Le sommet devint rouge du dedans, comme une braise qu’on souffle, et la lueur descendit le long du flanc et le dessina entier contre le ciel, chaque arête, chaque pli de roche, une montagne qui s’allumait par en dessous. Les petites lumières qu’il n’avait pas su compter, la forme de plus, tout cela fut avalé dans le grand rouge, comme une chandelle qu’on approche du soleil.
 
-Le bruit vint ensuite, et pas par les oreilles : par la plante des pieds, par les os des jambes, par les dents. Un coup bas, lent, énorme. Puis le creux du coup. Puis un autre. Verkan tomba à genoux sur la roche, non de terreur, quoiqu’il eût terreur, mais parce que le sol montait à sa rencontre et redescendait, montait et redescendait, sur un battement qui n’était pas là une minute plus tôt et dont il sut, sans pouvoir le justifier, qu’il ne s’arrêterait plus.
+Le bruit vint ensuite, par la plante des pieds, par les os des jambes, par les dents. Un coup bas, lent, énorme. Puis le creux du coup. Puis un autre. Verkan tomba à genoux sur la roche. Il avait terreur, mais ce fut le sol qui le mit là : il montait à sa rencontre et redescendait, montait et redescendait, sur un battement qui n’était pas là une minute plus tôt et dont il sut, sans pouvoir le justifier, qu’il ne s’arrêterait plus.
 
 Et il ne relia pas.
 
@@ -113,17 +113,17 @@ Rien ne l’empêchait de descendre en courant, de hurler dans les ruelles, de t
 
 Il pensa à sa fille.
 
-Cela vint sans qu’il l’appelât. Une non-Liée, loin au nord, méprisée par un Dominat qu’il avait servi toute sa vie et de tout son zèle, parce qu’il croyait le mépris survivable, et l’effondrement, non. Et voici que l’effondrement venait. Il ne venait pas du bas, ni des Vides révoltés qu’il avait guettés trente ans durant : il venait du haut, de gens qui avaient lu le même livre que lui et en avaient tiré le geste inverse. *Je gardais la mauvaise porte*, pensa-t-il, et il se mit à courir.
+Cela vint sans qu’il l’appelât. Une non-Liée, loin au nord, méprisée par un Dominat qu’il avait servi toute sa vie et de tout son zèle, parce qu’il croyait le mépris survivable, et l’effondrement, non. Et voici que l’effondrement venait, et il venait du haut : de gens qui avaient lu le même livre que lui et en avaient tiré le geste inverse. Trente ans durant, il avait guetté le bas, les Vides révoltés. *Je gardais la mauvaise porte*, pensa-t-il, et il se mit à courir.
 
 *
 
-La rampe descendait dans un noir rouge. Il courut sans regarder derrière lui, non par peur de voir, mais parce que la pente ne pardonnait pas et qu’il lui restait un rapport à écrire.
+La rampe descendait dans un noir rouge. Il courut sans regarder derrière lui : la pente ne pardonnait pas, et il lui restait un rapport à écrire.
 
 Dans le faubourg qui se vidait, il croisa l’aubergiste debout sur son seuil, le verre encore à la main, les yeux au haut de la rampe.
 
 « Descendez ! lui cria Verkan sans s’arrêter. Vers Sulvane ! Ne montez pas voir, descendez ! »
 
-L’homme ne bougea pas. Sa bouche remua sur quelque chose que la course emporta : *ma ville*, peut-être, ou *ma cendre*, ou un mot sans suite, le mot d’un homme qui reste. Verkan ne s’arrêta pas. Toute sa vie il avait cru qu’on pouvait sauver les gens contre leur gré ; cela venait de mourir sur un replat de roche noire, et il courut plus vite pour ne pas le pleurer.
+L’homme ne bougea pas. Sa bouche remua sur quelque chose que la course emporta : *ma ville*, peut-être, ou *ma cendre*, ou un mot sans suite, le mot d’un homme qui reste. Verkan ne s’arrêta pas. Il avait cru jusqu’à cette nuit qu’on pouvait sauver les gens contre leur gré ; cela venait de mourir sur un replat de roche noire, et il courut plus vite pour ne pas le pleurer.
 
 Plus bas, la route de Sulvane s’emplissait déjà. Des familles entières sortaient des maisons, à moitié vêtues, portant des enfants, des lampes, des choses insensées qu’on saisit dans la panique : une chaise, une cage, un pain. Personne ne courait vraiment. On marchait vite, tête basse, dans le silence stupéfait des gens qui ne comprennent pas encore. Et la cendre changeait déjà, plus dense, plus grise, plus chaude, se posant sur les épaules et dans les cheveux sans qu’on la vît tomber. Verkan entra dans le flot et s’y perdit, un homme parmi des milliers, l’inquisiteur du Bureau des Concordances noyé dans la foule des non-Liés d’en bas qu’il avait passé sa vie à croire protéger. Ils ignoraient qui il était. Ils ignoraient ce qui les tuait. Lui savait, ou croyait savoir, ou du moins avait vu, et il portait cela dans la gorge comme une pierre, sans pouvoir le poser sur personne, car il n’y a rien à dire de tel à un homme qui marche avec une chaise sur le dos et pleure sans bruit.
 
@@ -135,7 +135,7 @@ Une seule fois il se retourna, au premier tournant de la route, là où l’on v
 
 Il se détourna, et il marcha vers le nord avec les autres, dans la cendre chaude, sous un ciel qui n’avait plus de lune parce que la fumée avait pris la lune.
 
-Vers le matin, un homme se mit à sa hauteur. Un Lié, à la manière dont il portait la tête, un peu penchée, comme s’il écoutait quelqu’un marchant à son côté. Il trébuchait, une main tendue devant lui dans le vide.
+Vers le matin, un homme se mit à sa hauteur. Un Lié : il marchait l’oreille tournée de côté, comme on marche près de quelqu’un qui parle bas. Il trébuchait, une main tendue devant lui dans le vide.
 
 « Vous ne l’entendez plus ? demanda-t-il sans regarder Verkan. Le fond. Vous savez, le fond, sous tout. Il n’y est plus. Depuis cette nuit il n’y est plus, et personne autour de moi ne s’en aperçoit. Je crois que je deviens fou. Dites-moi que vous l’entendez encore. »
 

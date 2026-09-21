@@ -13,11 +13,11 @@ status: draft
 
 Les genoux dans la cendre, à trois pas du bord, Vorath faisait l’Heure Vide quand l’homme sans nom se leva.
 
-Une étoffe remua, une semelle chercha la roche. Vorath ne regarda pas. Plus tard, quand on ferait de lui un saint, c’est la première chose qu’on voudrait lui arracher : où étiez-vous, à l’heure du geste, et qu’avez-vous vu ? Vieux, il laisserait dire. Reprendre les gens aurait demandé des mots, et il n’en dépensait pas. Mais il garderait par-devers lui la réponse, qui était celle d’un homme et non d’un saint : il était à genoux, tourné vers rien, occupé à n’attendre personne, exactement comme chaque nuit depuis quarante ans.
+Une étoffe remua, une semelle chercha la roche. Vorath ne regarda pas. Plus tard, quand on ferait de lui un saint, c’est la première chose qu’on voudrait lui arracher : où étiez-vous, à l’heure du geste, et qu’avez-vous vu ? Vieux, il laisserait dire. Reprendre les gens aurait demandé des mots, et il n’en dépensait pas. Mais il garderait par-devers lui la réponse d’un homme : il était à genoux, tourné vers rien, occupé à n’attendre personne, exactement comme chaque nuit depuis quarante ans.
 
-Puis rien ne se rompit. Quelque chose s’arrêta, à la manière d’une note tenue si longtemps qu’on ne l’entend plus et dont on n’entend que la fin.
+Puis quelque chose s’arrêta, à la manière d’une note tenue si longtemps qu’on ne l’entend plus et dont on n’entend que la fin.
 
-Vorath ouvrit les yeux, et sa tête se redressa toute seule. Ni l’homme, ni la fissure : il chercha un point de l’air au-dessus d’eux, où nul autre n’aurait rien vu, parce que cela venait de là. Et il retrouva ce qu’il avait entendu à Tholmë la dernière nuit avant son départ : une pièce dont quelqu’un vient de sortir, et l’air qui n’a pas fini de se refermer derrière lui.
+Vorath ouvrit les yeux, et sa tête se redressa toute seule. Il chercha un point de l’air au-dessus d’eux, où nul autre n’aurait rien vu, parce que cela venait de là. Et il retrouva ce qu’il avait entendu à Tholmë la dernière nuit avant son départ : une pièce dont quelqu’un vient de sortir, et l’air qui n’a pas fini de se refermer derrière lui.
 
 *Quelqu’un l’a aidé à partir,* pensa-t-il, ou dit tout bas, ou crut dire ; il ne le sut jamais. *Quelqu’un que nous n’avons pas vu.*
 
@@ -31,7 +31,7 @@ Au troisième port, il descendit remplir sa gourde et trouva le quai plein. On f
 
 « Les guérisseurs guérissent plus. » Sa main serrait, dure, pleine de cals. « Ma fille brûle depuis deux jours. J’ai fait trois villages dans la nuit. Trois. Qu’est-ce qu’ils ont ? Qu’est-ce que tu sais, toi ? Dis quelque chose. »
 
-Vorath posa la paume à plat sur sa propre poitrine.
+Vorath appuya la main contre sa poitrine et l’y garda.
 
 « Tu es muet ? » Le poignet fut lâché comme un cordage qui ne tient pas. « Tout le monde perd la voix, et moi je tombe sur le seul qui l’avait déjà perdue. »
 
@@ -79,20 +79,20 @@ Elle repartit moins effrayée qu’elle n’était venue. Sur la côte, elle rac
 
 Il ne lui avait rien dit. Assis auprès d’elle, il s’était tu, et elle était repartie avec une phrase qu’il n’avait pas prononcée. Cela recommença, avec d’autres, et il cessa d’en être surpris : le monde venait de perdre ses voix, il en cherchait partout, et il en trouvait là où il n’y en avait pas.
 
-On ne renvoya personne. Le flot fut tel qu’on rouvrit pour eux les cloîtres d’en bas, les plus vieux, creusés au galet faute d’outils, si bas de plafond qu’un homme s’y tient assis, et qu’on ne faisait voir jusque-là qu’aux apprentis du premier jour. À chacun Vorath apprit l’Heure Vide. Non pas à prier, il n’y avait rien à prier : à rester dans ce qui ne répond pas sans rien y mettre. La première semaine, ils pleuraient au bout de dix minutes. À la troisième, ils tenaient l’heure entière. De Tholmë, ils remportaient cela et rien d’autre, et cela leur suffisait souvent pour l’hiver.
+On ne renvoya personne. Le flot fut tel qu’on rouvrit pour eux les cloîtres d’en bas, les plus vieux, creusés au galet faute d’outils, si bas de plafond qu’un homme s’y tient assis, et qu’on ne faisait voir jusque-là qu’aux apprentis du premier jour. À chacun Vorath apprit l’Heure Vide : à rester dans ce qui ne répond pas sans rien y mettre. La première semaine, ils pleuraient au bout de dix minutes. À la troisième, ils tenaient l’heure entière. De Tholmë, ils remportaient cela et rien d’autre, et cela leur suffisait souvent pour l’hiver.
 
-Qu’on le dît saint, il le laissa dire. La légende grossirait après lui. On lui prêterait des visions qu’il n’avait pas eues ; de son écho creux sur Navigor, on ferait une prophétie limpide sur l’Étranger qui avait poussé le Voyageur dehors. On dirait qu’il avait vu clair. Rien de clair : une pièce vide, et l’air qui s’y refermait. L’homme qu’il avait aidé avait-il poussé le premier, ou s’était-il appuyé, le dernier, sur un battant qui cédait déjà tout seul ? Il ne le sut pas mieux à Baelor qu’au sommet, et il finit par cesser d’attendre de le savoir.
+Qu’on le dît saint, il le laissa dire. La légende grossirait après lui. On lui prêterait des visions qu’il n’avait pas eues ; de son écho creux sur Navigor, on ferait une prophétie limpide sur l’Étranger qui avait poussé le Voyageur dehors. On dirait qu’il avait vu clair. Ce qu’il avait eu, c’était une pièce vide et l’air qui s’y refermait. L’homme qu’il avait aidé avait-il poussé le premier, ou s’était-il appuyé, le dernier, sur un battant qui cédait déjà tout seul ? Il ne le sut pas mieux à Baelor qu’au sommet, et il finit par cesser d’attendre de le savoir.
 
 ---
 
-Un matin, longtemps après son retour, il se tint sur le seuil de sa cellule avant que le jour eût gagné la troisième pierre, et il fit l’Heure Vide, comme au sommet, comme il la ferait jusqu’à ce qu’on le couchât dans la roche. Il écouta. Non pour entendre : on n’attend rien pendant l’Heure Vide. Mais écouter était toute sa vie.
+Un matin, longtemps après son retour, il se tint sur le seuil de sa cellule avant que le jour eût gagné la troisième pierre, et il fit l’Heure Vide, comme au sommet, comme il la ferait jusqu’à ce qu’on le couchât dans la roche. Il écouta. On n’attend rien pendant l’Heure Vide ; écouter était toute sa vie.
 
-Il n’entendit rien. Pas le rien d’autrefois, qui était plein, ce fond sur quoi tout s’entend, cette épaisseur basse qu’on ne remarque qu’une fois qu’elle a cessé. Un autre rien, plus grand et plus nu. La grande rumeur du Lien, que les frères avaient toujours sentie sous leur silence sans jamais la porter, s’était tue et ne reviendrait pas. Pour la première fois en quatre cents ans, le silence de Baelor n’avait plus rien derrière lui.
+Il n’entendit rien. Le rien d’autrefois était plein : ce fond sur quoi tout s’entend, cette épaisseur basse qu’on ne remarque qu’une fois qu’elle a cessé. Celui-ci était un autre rien, plus grand et plus nu. La grande rumeur du Lien, que les frères avaient toujours sentie sous leur silence sans jamais la porter, s’était tue et ne reviendrait pas. Pour la première fois en quatre cents ans, le silence de Baelor n’avait plus rien derrière lui.
 
 Il resta longtemps dedans. Ce qu’il éprouva ne ressemblait ni à la joie ni au deuil, et il ne lui chercha pas de nom ; il en avait désappris l’usage trente ans plus tôt. Le monde était devenu ce que Baelor avait toujours dit qu’il serait : nu, sans voix, rendu à lui-même. C’était affreux. C’était aussi ce que les fondateurs avaient choisi quatre siècles plus tôt, pour eux seuls, sans le demander à personne. Les deux étaient vrais. Il ne les mit pas d’accord.
 
 Il ne pria pas. La lumière vint sur la troisième pierre. Sa pensée alla aux cent vingt millions d’êtres pour qui, cette nuit-là, quelque chose avait cessé de répondre, et qui apprendraient dans les années noires à vivre comme les Silencieux vivaient, ou n’apprendraient pas et mourraient de ne pas savoir. Il ne pouvait rien pour eux, sinon rester là, se taire, prendre la main de qui monterait le sentier, et lui dire ce qu’il dirait désormais à chaque naufragé de Tholmë : *Ce qui ne répond plus s’appelle le silence. On peut y vivre. Nous le faisons depuis quatre cents ans. Entre.*
 
-Le silence était revenu, disait-on déjà sur la côte. Il n’était jamais parti de Baelor. C’était le reste du monde qui venait d’y entrer.
+Le silence était revenu, disait-on déjà sur la côte. À Baelor, il tenait depuis les fondateurs ; le reste du monde venait seulement d’y entrer.
 
 Et partout ailleurs, à la même heure, dans des maisons dont l’île ignorait jusqu’aux noms, des gens assis dans le noir attendaient encore qu’on leur répondît ; ils attendirent jusqu’au jour, et chacun d’eux fit cette nuit-là sa première Heure Vide, quatre cents ans après Tholmë.
