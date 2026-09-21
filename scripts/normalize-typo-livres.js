@@ -2,8 +2,11 @@
 'use strict';
 // Normalise la typographie française d'un chapitre de livre (Chroniques, romans) :
 //   • apostrophes courbes (' → ’)
-//   • guillemets français avec espace + insécable : «␣⍽texte⍽␣»
-//   • insécable + espace avant ? ! ; : (convention du corpus : ⍽␣ devant le signe)
+//   • guillemets français avec insécable : «⍽texte⍽»
+//   • insécable avant ? ! ; : — UNE seule espace, insécable, jamais doublée.
+//     (C'est la convention des chapitres jamais passés au script, c.-à-d. le texte
+//      d'origine de l'auteur. La version antérieure ajoutait une espace ordinaire
+//      après l'insécable et créait un blanc double — corrigé le 2026-09-21.)
 // Le frontmatter YAML (entre les deux premiers ---) n'est pas touché.
 // Usage : node scripts/normalize-typo-livres.js <fichier.md> [...]
 
@@ -19,9 +22,9 @@ function normalizeBody(text) {
     .replace(/[   ]*»/g, ' »')
     .replace(/[   ]+([?!;:])/g, ' $1')
     // puis application de la convention du corpus
-    .replace(/« /g, '« ' + NBSP)
-    .replace(/ »/g, NBSP + ' »')
-    .replace(/ ([?!;:])/g, NBSP + ' $1');
+    .replace(/« /g, '«' + NBSP)
+    .replace(/ »/g, NBSP + '»')
+    .replace(/ ([?!;:])/g, NBSP + '$1');
 }
 
 for (const file of process.argv.slice(2)) {
