@@ -41,7 +41,7 @@ Karsel se posa, sur le tabouret bas qui servait aux visiteurs, ceux qu’on fais
 
 Le jeune leva la tête.
 
-« Trois morts, » reprit Vaskar sans hausser la voix. Il ne corrigeait pas pour humilier. Un chiffre faux lui faisait l’effet d’un feuillet glissé dans le mauvais rang, et il le remettait à sa place. « Quatre tentatives. Vous comptez les corps. On ne compte pas les corps. La Reine Ysendre a survécu, en Astremer, au printemps ; on l’a manquée de peu, la lame a pris le chambellan à sa place. Une main qui manque vous apprend la même chose qu’une main qui réussit : qui l’on veut mort, et combien on le veut. Vous ôtez Ysendre de votre compte parce qu’elle respire, et vous jetez la moitié de ce que nous savons. » Il tira à lui la liasse, la parcourut, retourna deux feuillets. « Trois et un. Quatre. Portez quatre. »
+« Trois morts, » reprit Vaskar sans hausser la voix. Un chiffre faux lui faisait l’effet d’un feuillet glissé dans le mauvais rang, et il le remettait à sa place. « Quatre tentatives. Vous comptez les corps. On ne compte pas les corps. La Reine Ysendre a survécu, en Astremer, au printemps ; on l’a manquée de peu, la lame a pris le chambellan à sa place. Une main qui manque vous apprend la même chose qu’une main qui réussit : qui l’on veut mort, et combien on le veut. Vous ôtez Ysendre de votre compte parce qu’elle respire, et vous jetez la moitié de ce que nous savons. » Il tira à lui la liasse, la parcourut, retourna deux feuillets. « Trois et un. Quatre. Portez quatre. »
 
 « Quatre, » répéta Karsel, et il le nota, et sa manière de le noter disait qu’il avait compris plus que le chiffre.
 
@@ -65,7 +65,7 @@ Karsel hésita, puis obéit.
 
 « Vous avez dit *on*. » Vaskar releva doucement, sans appuyer, comme il relevait un mot chez un interrogé. « Deux fois. *On tue.* Qui, *on* ? »
 
-Karsel ouvrit la bouche, la referma. Il n’y avait pas de piège là-dedans ; il n’y avait que la leçon.
+Karsel ouvrit la bouche, la referma. Il n’y avait là-dedans que la leçon.
 
 « Je ne sais pas, » dit-il enfin, plus bas.
 
@@ -89,7 +89,7 @@ Sur le flanc du couvercle, une étiquette. Plusieurs, en vérité, les unes sur 
 
 Vaskar connaissait le coffre. Il en tenait une des clefs.
 
-Pas la clef : une des clefs. Les fonds réservés se fermaient à deux serrures, deux clefs, deux hommes, l’usage voulant que nul, seul, ne pût rouvrir ce que deux hommes avaient scellé. La sienne pendait à son cou, sous l’uniforme, tiède de sa peau, avec les autres. L’autre était au Prime des Ombres, et le Prime ne descendait ici qu’une fois l’an, pour une cérémonie de comptes où l’on n’ouvrait rien. Ce coffre-là, en pratique, ne s’ouvrait donc jamais.
+Les fonds réservés se fermaient à deux serrures, deux clefs, deux hommes, l’usage voulant que nul, seul, ne pût rouvrir ce que deux hommes avaient scellé. La sienne pendait à son cou, sous l’uniforme, tiède de sa peau, avec les autres. L’autre était au Prime des Ombres, et le Prime ne descendait ici qu’une fois l’an, pour une cérémonie de comptes où l’on n’ouvrait rien. Ce coffre-là, en pratique, ne s’ouvrait donc jamais.
 
 « Deux clefs, deux hommes, » dit-il, parce que Karsel regardait la serrure. « Et retenez pourquoi. La plus sûre des serrures n’est pas celle qu’on ne peut pas crocheter, mais celle que personne n’a de raison d’ouvrir ensemble. »
 
@@ -113,7 +113,7 @@ Ils remontèrent vers la table, laissant les vieux coffres à leur nuit sans nui
 
 « Des morts. » Karsel avait baissé la voix. Personne ne pouvait les entendre, sous douze toises de pierre ; il l’avait baissée quand même. « Le dessin, vous l’avez dit vous-même, il existe. On sait quel genre d’homme meurt. On sait quel genre d’homme mourra ensuite : un raccommodeur, un pont, quelqu’un qui parle de table. On tient, dans nos dossiers, la liste de tous ceux qui, demain, prêcheront le concile ou le libre passage. On pourrait les prévenir. Un mot. *Prenez garde, on abat vos pareils.* On pourrait sauver le prochain Vyntaris avant qu’il soit un dossier. Et on ne le fait pas. On classe. On scelle. On descend le mort à sa place, comme cette nuit, et on remonte. » Il leva les yeux et les y laissa, ce qui lui coûtait. « Pourquoi on ne prévient pas ? »
 
-Vaskar aligna la liasse du mois sur le bord de la table, un coin après l’autre, jusqu’à ce qu’elle fût droite. La réponse, il l’avait entière ; il y vivait depuis vingt ans. Ce qui l’arrêtait, c’était l’âge de Karsel. Donnée trop tôt, mal mâchée, elle ressortirait chez lui en cynisme ou en révolte, et il ne voulait ni l’un ni l’autre. Il voulait qu’il comprît, ce qui demandait plus de temps.
+Vaskar aligna la liasse du mois sur le bord de la table, un coin après l’autre, jusqu’à ce qu’elle fût droite. La réponse, il l’avait entière ; il y vivait depuis vingt ans. Ce qui l’arrêtait, c’était l’âge de Karsel. Donnée trop tôt, mal mâchée, elle ressortirait chez lui en cynisme ou en révolte. Il voulait qu’il comprît, ce qui demandait plus de temps.
 
 « Prévenons, alors, » dit-il. « Suivons votre idée jusqu’au bout, c’est la seule façon de savoir si elle tient. Nous prenons notre liste, tous les raccommodeurs du monde connu, et à chacun nous envoyons le mot : *on abat vos pareils, prenez garde.* Que se passe-t-il, le lendemain matin ? »
 
@@ -143,13 +143,13 @@ L’Archiviste Nevran.
 
 Karsel l’avait récité tout à l’heure sans le savoir, un nom entre deux autres. Nevran. Un gardien de savoir, un homme des registres, du même métier que lui ; mort quatre ans plus tôt, cause non revendiquée. Personne ne le savait, et le registre ne le portait pas : six semaines avant cette mort, le dossier de Nevran avait passé sur cette table, sous cette lampe, entre ces mains. Une note mince. Trois concordances qui, mises côte à côte, disaient qu’une main travaillait, méthodique, et que Nevran était sur son chemin. Vaskar les avait alignées, comme il alignait toujours, et il avait vu le troisième fait se lever, comme il se levait toujours. Il aurait pu envoyer le mot. Un seul homme, cette fois, pas cent ; pas une guerre, un homme. *Prenez garde, Nevran.*
 
-Il ne l’avait pas envoyé. Il avait classé.
+Il avait classé.
 
 Parce que prévenir Nevran, c’était nommer la main à Nevran ; et Nevran était bavard, savant, honnête de cette honnêteté qui ne sait pas se taire ; et un mot dit à Nevran devenait, en un mois, un mot su de vingt archivistes, et de vingt il serait monté là-haut, où les gens ont peur. Il avait pesé un homme contre une digue, et il avait choisi la digue. Six semaines plus tard, Nevran était un dossier, et le dossier était descendu, et Vaskar l’avait glissé à sa place entre deux morts plus anciennes, de sa propre main, sans que rien sur son visage bougeât.
 
 Voilà ce qu’il n’avait pas dit à Karsel. *On ne prévient pas cent hommes* : cela se défendait, cela s’enseignait, il venait de l’enseigner. *Je n’ai pas prévenu le seul* : cela ne s’enseignait à personne. Il ne saurait jamais s’il avait laissé mourir un homme qu’il aurait pu sauver, ou s’il avait évité, par cette mort, une guerre dont il ne verrait donc jamais la couleur. La digue tient, et personne ne remercie pour l’eau qui n’est pas venue. C’était le prix du métier de poids. Ses fautes, on les lui compterait : elles avaient un nom, un dossier, une place dans un rang. Les désastres qu’il empêchait n’avaient rien de tout cela et n’existaient nulle part, sinon dans le doute d’un homme seul, la nuit, sous la ville.
 
-Plus il scellait, plus il avait besoin d’avoir eu raison. Le remords, il n’avait pas ce luxe ; c’était le besoin qui le rongeait. Chaque coffre qu’il fermait pesait de tout le poids des précédents, car si l’un d’eux, un seul, s’était fermé sur une faute au lieu d’une digue, alors peut-être tous ; et pour le savoir il aurait fallu les rouvrir, ce que la seconde serrure, la clef du Prime et l’absence de motif lui interdisaient à jamais. Il vivait au-dessus de ses propres coffres comme un homme au-dessus d’une cave dont il a jeté la clef : sûr d’y avoir rangé ce qu’il fallait, hors d’état de le vérifier.
+Plus il scellait, plus il avait besoin d’avoir eu raison. Chaque coffre qu’il fermait pesait de tout le poids des précédents, car si l’un d’eux, un seul, s’était fermé sur une faute au lieu d’une digue, alors peut-être tous ; et pour le savoir il aurait fallu les rouvrir, ce que la seconde serrure, la clef du Prime et l’absence de motif lui interdisaient à jamais. Il vivait au-dessus de ses propres coffres comme un homme au-dessus d’une cave dont il a jeté la clef : sûr d’y avoir rangé ce qu’il fallait, hors d’état de le vérifier.
 
 *
 

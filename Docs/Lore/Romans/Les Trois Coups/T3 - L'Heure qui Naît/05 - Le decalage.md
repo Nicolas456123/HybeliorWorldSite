@@ -57,7 +57,7 @@ Nève glissa le doigt sur la page jaunie, trouva la ligne, lut le second nombre.
 
 D’un nombre à l’autre, il y avait un tiers de degré.
 
-Un tiers de degré. Sur le ciel, cela ne vaut rien : le tiers de ce qu’un ongle couvre à bout de bras, moins que la Lune. Un enfant qui lève la tête ne le verra jamais. Mais on n’était pas des enfants qui levaient la tête. On était Baelor, et Baelor mesurait à la tierce, et à la tierce un tiers de degré faisait un gouffre. La reine des étoiles fixes, celle par quoi les capitaines de trois mers réglaient leur route, avait quitté sa place d’un tiers de degré en vingt ans.
+Un tiers de degré. Sur le ciel, cela ne vaut rien : le tiers de ce qu’un ongle couvre à bout de bras, moins que la Lune. Un enfant qui lève la tête ne le verra jamais. Mais on était Baelor, et Baelor mesurait à la tierce, et à la tierce un tiers de degré faisait un gouffre. La reine des étoiles fixes, celle par quoi les capitaines de trois mers réglaient leur route, avait quitté sa place d’un tiers de degré en vingt ans.
 
 « Ce n’est pas beaucoup, dit Nève, qui regardait le visage de sa maîtresse plus que la page. Si ? »
 
@@ -81,7 +81,7 @@ Un tiers de degré. Le même. Dans le même sens.
 
 « Le Manteau », dit Sévrane.
 
-Le Manteau ne se lève pas ; il tourne, très haut, autour du clou du monde, cette région du ciel où tout pivote et où rien ne passe au méridien de la même façon. On le prend autrement, par des visées répétées, par la moyenne. Sévrane le prit trois fois. À la troisième, ses mains n’étaient plus tout à fait sûres sur la vis, et elle en voulut à ses mains.
+Le Manteau tourne, très haut, autour du clou du monde, cette région du ciel où tout pivote et où rien ne passe au méridien de la même façon. On le prend autrement, par des visées répétées, par la moyenne. Sévrane le prit trois fois. À la troisième, ses mains n’étaient plus tout à fait sûres sur la vis, et elle en voulut à ses mains.
 
 Un tiers de degré. Le même. Le même sens.
 

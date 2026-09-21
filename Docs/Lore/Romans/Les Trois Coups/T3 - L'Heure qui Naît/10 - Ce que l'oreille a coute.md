@@ -96,7 +96,7 @@ On la calma. Sarre la saigna au pli du bras, une écuelle de sang tiède qu’il
 
 Renna avait passé un hiver ainsi, lourde, silencieuse, une enfant qu’on citait en exemple parce qu’elle ne disait plus de choses qui font peur. Au printemps, sa mère avait manqué de sous pour le pavot. Le bourdonnement se leva comme se lève un brouillard, et le dessous était là, intact, qui l’avait attendue tout l’hiver sans bouger d’un pouce.
 
-Elle avait compris ce matin-là ce que le pavot avait acheté, et à qui. Il ne l’avait pas guérie d’entendre. Il avait endormi la petite fille qui entendait, et la petite fille s’était réveillée. Alors elle avait pris l’autre chemin, celui qu’aucun rebouteux ne vendait : entendre et ne pas broncher. Laisser la chose passer sur son visage sans qu’un cil bougeât. Cela se payait tous les jours et pas seulement l’hiver, mais on restait éveillée.
+Elle avait compris ce matin-là ce que le pavot avait acheté, et à qui. Il avait endormi la petite fille qui entendait, et la petite fille s’était réveillée. Alors elle avait pris l’autre chemin, celui qu’aucun rebouteux ne vendait : entendre et ne pas broncher. Laisser la chose passer sur son visage sans qu’un cil bougeât. Cela se payait tous les jours et pas seulement l’hiver, mais on restait éveillée.
 
 Ne réponds jamais, lui dit sa mère des années plus tard, en mourant, comme si elle lui livrait là un secret neuf. Tu entends que ça t’appelle, tu ne réponds pas, tu fais la sourde, tu vis vieille. Renna avait tenu la main de la mourante sans avoir le cœur de lui dire qu’elle savait déjà, depuis l’hiver du pavot, depuis l’écuelle vidée dans la cour. Sa mère lui avait tout appris le jour où elle avait souri chez Sarre, et elle ne s’en était jamais doutée.
 
@@ -146,7 +146,7 @@ Déjà il rangeait, dans sa tête, les herbes qu’il faudrait.
 
 « Je m’en souviens », dit Renna.
 
-Elle s’en souvenait comme d’un tombeau. Le bourdonnement de ruche, la langue pâteuse, les jours passés dans un coton où plus rien n’avait de bord. Et la chose qu’elle ne dit pas : que même là, au fond du pavot, la chose du dessous continuait de battre et l’attendait. Le remède n’était jamais descendu jusqu’à elle. Il s’était arrêté à l’oreille, et le village avait mieux dormi.
+Elle s’en souvenait comme d’un tombeau. Le bourdonnement de ruche, la langue pâteuse, les jours passés dans un coton où plus rien n’avait de bord. Et la chose qu’elle ne dit pas : que même là, au fond du pavot, la chose du dessous continuait de battre et l’attendait. Le remède s’était arrêté à l’oreille sans descendre jusqu’à elle, et le village avait mieux dormi.
 
 « Et si je ne veux pas être calmée », dit-elle.
 

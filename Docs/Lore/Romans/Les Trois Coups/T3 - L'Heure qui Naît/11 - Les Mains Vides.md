@@ -85,7 +85,7 @@ Corven mâcha sa colère avec son pain. Puis il dit la chose que Sanne attendait
 
 Wenna, revenue avec son seau, s’était arrêtée sur le seuil et n’osait plus entrer. On n’entendait plus que le feu.
 
-Ce fut Doreth qui répondit, sans hausser la voix et sans poser son ouvrage, ce qui était pire qu’un cri.
+Ce fut Doreth qui répondit, sans poser son ouvrage, ce qui était pire qu’un cri.
 
 « On a les mains vides, mon garçon. Pas pleines. Vides. » La vieille leva une de ses mains, la paume vers lui, ouverte, brûlée, calleuse. « Tu sais pourquoi la maison s’appelle comme ça ? Tu crois que c’est parce qu’on est pauvres, parce qu’on n’a rien ? On a une forge, on a des toits, on a du pain. On s’appelle les Mains Vides parce qu’on montre nos mains. Regarde. Vides. Pas de couteau, pas de chaîne, pas de sang dessus. Le jour où l’un de nous prend un couteau, ce jour-là, tu sais ce qui se passe ? »
 
@@ -139,7 +139,7 @@ Sanne releva les yeux. La vieille regardait le feu de trop loin pour le voir.
 
 — Six. » Sanne n’eut pas à chercher : elle les comptait la nuit comme d’autres comptent des moutons, sauf que les siens ne revenaient pas dans le pré au matin. « Six en dix-huit mois. Que je connaisse. Il y en a plus que je ne connais pas.
 
-— Six. » La vieille laissa le chiffre s’installer. « Et aucun ne portait rien qui vaille un vol. Que du papier. Des noms, des rôles, des copies. Du papier qui ne vaut rien pour un voleur. » Elle reprit les mots presque exactement comme Roshel les avait dits, et Sanne comprit que ce n’était pas un hasard : la même peur montait dans toutes les vieilles bouches de la maison en même temps, comme une nappe d’eau sous un champ. « Alors voilà ce que je dis, moi, et tu en feras ce que tu voudras, parce que tu n’es pas de ma maison et que je n’ai pas d’ordre à te donner. Quelqu’un a compris que le papier vaut quelque chose. Pas pour l’argent. Pour ce qu’il porte. Quelqu’un a compris qu’un nom recopié au sud, c’est un nom qu’on ne peut plus effacer, et que des gens qui recopient des noms, c’est plus dangereux que des gens qui prennent des couteaux, parce qu’un couteau tue un homme, et qu’un registre fait vivre un peuple qu’on voulait rayer. »
+— Six. » La vieille laissa le chiffre s’installer. « Et aucun ne portait rien qui vaille un vol. Que du papier. Des noms, des rôles, des copies. Du papier qui ne vaut rien pour un voleur. » Elle reprit les mots presque exactement comme Roshel les avait dits, et Sanne comprit pourquoi : la même peur montait dans toutes les vieilles bouches de la maison en même temps, comme une nappe d’eau sous un champ. « Alors voilà ce que je dis, moi, et tu en feras ce que tu voudras, parce que tu n’es pas de ma maison et que je n’ai pas d’ordre à te donner. Quelqu’un a compris que le papier vaut quelque chose. Pas pour l’argent. Pour ce qu’il porte. Quelqu’un a compris qu’un nom recopié au sud, c’est un nom qu’on ne peut plus effacer, et que des gens qui recopient des noms, c’est plus dangereux que des gens qui prennent des couteaux, parce qu’un couteau tue un homme, et qu’un registre fait vivre un peuple qu’on voulait rayer. »
 
 La vieille se tut. Le feu respirait bas.
 
@@ -155,7 +155,7 @@ Sanne laissa la phrase refroidir avant d’y toucher.
 
 « Et si le après ne vaut pas la peau qu’il coûte ? »
 
-Sanne se leva, alla jusqu’au foyer, prit le tisonnier et remua les braises, non qu’elles en eussent besoin, mais parce qu’elle pensait mieux les mains occupées, et qu’elle avait quelque chose de dur à mettre en forme avant de le dire.
+Sanne se leva, alla jusqu’au foyer, prit le tisonnier et remua les braises, qui n’en avaient pas besoin, parce qu’elle pensait mieux les mains occupées, et qu’elle avait quelque chose de dur à mettre en forme avant de le dire.
 
 « Tu sais ce qui arrive, à un fer, quand plus personne ne le tient ? » demanda-t-elle, l’œil dans la braise.
 
@@ -171,7 +171,7 @@ La vieille monta se coucher, et ses pas sonnèrent longtemps dans l’escalier d
 
 *
 
-Sanne ne monta pas. Elle resta près du feu, comme au relais de Roshel, comme chaque nuit à présent : le sommeil ne venait plus et elle avait cessé de l’appeler. Elle glissa le cahier sous sa tête, contre le bois du banc, à côté de Wenna endormie, et ferma les yeux.
+Sanne resta près du feu, comme au relais de Roshel, comme chaque nuit à présent : le sommeil ne venait plus et elle avait cessé de l’appeler. Elle glissa le cahier sous sa tête, contre le bois du banc, à côté de Wenna endormie, et ferma les yeux.
 
 Elle rangea les bruits un à un, comme elle les rangeait chaque nuit dans les maisons des autres : le tassement d’une braise, le bois qui travaille en refroidissant, le volet mal pris qui n’en était pas un, le souffle de la petite. Il en resta un qu’elle ne put loger nulle part. Elle l’écouta comme on écoute ce qui traîne après un coup de marteau, ce son d’après le son qui dit ce que le fer cache dedans, et elle attendit qu’il s’éteigne.
 

@@ -135,7 +135,7 @@ Il rit, malgré lui, et le rire leur suffit. Wenna, dans son coin, avait tout é
 
 Wenna dormait mal, cette nuit-là. Elle se tournait, se retournait, et vers le milieu de la nuit, quand la pluie eut cessé et que le silence revint, épais, ce silence sans vent qui pesait sur toute la contrée depuis des semaines, elle se releva sur un coude et regarda Sanne, qui ne dormait pas non plus.
 
-Sanne avait sorti le second paquet. Pas celui des copies. L’autre. Celui qu’elle ne montrait à personne et que Wenna avait fini par remarquer, à force de route, parce qu’une enfant de la route finit par voir ce que les grands croient cacher. Un paquet plat, enveloppé de toile cirée puis de laine, ficelé d’un cordon qui n’était plus d’aucune couleur. Sanne le tenait sur ses genoux, les deux mains posées dessus, à plat, comme Roshel sur sa table. Elle ne le défaisait pas. Elle le tenait.
+Sanne avait sorti le second paquet, celui qu’elle ne montrait à personne et que Wenna avait fini par remarquer, à force de route, parce qu’une enfant de la route finit par voir ce que les grands croient cacher. Un paquet plat, enveloppé de toile cirée puis de laine, ficelé d’un cordon qui n’était plus d’aucune couleur. Sanne le tenait sur ses genoux, les deux mains posées dessus, à plat, comme Roshel sur sa table.
 
 « C’est quoi ? » demanda la petite, tout bas, pour ne pas réveiller le prêtre.
 

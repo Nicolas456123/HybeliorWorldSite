@@ -98,7 +98,7 @@ Accroupie au potager, à casser les mottes que la cendre durcissait toujours en 
 
 Elle posa la main à plat sur le sol pour ne pas tomber et attendit. La terre était tiède, de cette tiédeur qu’a le flanc d’une bête endormie.
 
-Puis, sous la paume, il y eut le battement lui-même, et il ne resta pas dehors. Il monta par l’os du poignet, remonta le bras, gagna la cage des côtes et s’installa derrière le sternum, à l’endroit exact où le cœur travaille ; et là, l’espace de quelques longues secondes, elle ne sut plus démêler ce qui battait d’elle et ce qui battait dessous. Son pouls comptait la mesure d’un autre. Son souffle se calait sur un souffle plus lent, plus vaste, qui la contenait comme la mer contient une barque. On lui avait appris à ne pas répondre. Personne ne lui avait dit ce qu’on fait d’une chose entrée par les pieds, déjà sous la peau, et qui faisait de son corps entier une seule oreille tournée vers le bas. Les dents serrées, elle pensa très fort à des choses plates et sûres, le prix du sel, le nombre de fèves, le trou à recoudre au coude d’Ilex, et lentement, comme on décolle deux mains jointes, son rythme à elle se détacha du rythme d’en dessous et redevint le sien.
+Puis, sous la paume, il y eut le battement lui-même. Il monta par l’os du poignet, remonta le bras, gagna la cage des côtes et s’installa derrière le sternum, à l’endroit exact où le cœur travaille ; et là, l’espace de quelques longues secondes, elle ne sut plus démêler ce qui battait d’elle et ce qui battait dessous. Son pouls comptait la mesure d’un autre. Son souffle se calait sur un souffle plus lent, plus vaste, qui la contenait comme la mer contient une barque. On lui avait appris à ne pas répondre. Personne ne lui avait dit ce qu’on fait d’une chose entrée par les pieds, déjà sous la peau, et qui faisait de son corps entier une seule oreille tournée vers le bas. Les dents serrées, elle pensa très fort à des choses plates et sûres, le prix du sel, le nombre de fèves, le trou à recoudre au coude d’Ilex, et lentement, comme on décolle deux mains jointes, son rythme à elle se détacha du rythme d’en dessous et redevint le sien.
 
 Elle resta un moment à quatre pattes dans la cendre, à respirer comme après une longue montée. La honte venait toujours ensuite : d’avoir failli répondre.
 
@@ -108,11 +108,11 @@ Ils montèrent tous en même temps, des toits, des haies, du grand frêne mort a
 
 Et là-bas, au bout de tout, par-dessus les toits et la ligne noire des sapins, le Mont fuma.
 
-Le mot de volcan ne serait venu à personne, à Taldre ; les vieux qui l’employaient encore étaient morts. Le Mont ne crachait rien. Il exhalait. Une seule spirale de cendre pâle monta droit dans l’air sans vent, tourna sur elle-même, se dédoubla en montant comme faisaient ces spirales depuis quelque temps, deux bras au lieu d’un, tressés, puis se défit tout en haut en une figure branchue que Renna ne se laissa pas regarder. À force de regarder ces choses-là, on finissait par y lire quelque chose, et on ne s’en débarrassait plus.
+Le mot de volcan ne serait venu à personne, à Taldre ; les vieux qui l’employaient encore étaient morts. Le Mont exhalait. Une seule spirale de cendre pâle monta droit dans l’air sans vent, tourna sur elle-même, se dédoubla en montant comme faisaient ces spirales depuis quelque temps, deux bras au lieu d’un, tressés, puis se défit tout en haut en une figure branchue que Renna ne se laissa pas regarder. À force de regarder ces choses-là, on finissait par y lire quelque chose, et on ne s’en débarrassait plus.
 
 Dans son dos, l’enfant avait quitté le seuil.
 
-Elle ne l’entendit pas venir ; il ne faisait jamais de bruit. Elle le devina parce que le battement, dans sa propre poitrine, sembla soudain moins seul, comme si un troisième rameur s’était assis dans la barque. Quand elle tourna la tête, l’enfant se tenait debout à trois pas, tout droit, le visage levé vers le Mont, les deux bras un peu écartés du corps, et sur ses joues coulaient deux traînées de larmes qu’il ne semblait pas remarquer.
+Il ne faisait jamais de bruit. Elle le devina parce que le battement, dans sa propre poitrine, sembla soudain moins seul, comme si un troisième rameur s’était assis dans la barque. Quand elle tourna la tête, l’enfant se tenait debout à trois pas, tout droit, le visage levé vers le Mont, les deux bras un peu écartés du corps, et sur ses joues coulaient deux traînées de larmes qu’il ne semblait pas remarquer.
 
 « Ilex. Rentre.
 
@@ -160,7 +160,7 @@ Renna reposa le linge sur le pot, bien à plat, en lissant les bords.
 
 — Au registre de la halle. Comme tous les autres. Pour le sel, pour la milice plus tard, pour qu’on sache qui est du village et qui n’en est pas. » Elle croisa les bras. « Le tien, tu ne l’as jamais porté. Deux ans qu’il est chez toi, et pas une ligne à son nom. Ça finit par se voir, une absence. Une maison de plus, on la compte et on n’y pense plus. Une maison qui manque au compte, on la cherche. »
 
-C’était dit sans hausser la voix, presque avec douceur, et le froid descendit à Renna le long des bras. La Corvane ne menaçait pas. Elle rangeait : une absence ici, un volet clos là, deux ans sans une ligne, et elle laissait Renna voir toute seule le dessin que cela faisait.
+C’était dit presque avec douceur, et le froid descendit à Renna le long des bras. La Corvane rangeait : une absence ici, un volet clos là, deux ans sans une ligne, et elle laissait Renna voir toute seule le dessin que cela faisait.
 
 « Je le porterai, dit Renna.
 
@@ -180,7 +180,7 @@ La porte se referma sur elle. Le loquet retomba. Renna resta debout au milieu de
 
 Un long moment passa avant qu’elle allât tirer la couverture.
 
-L’enfant était assis, les genoux remontés. Il la regarda venir de ses yeux sans regard. Il ne demanda pas ce qu’était un registre, ni pourquoi la dame avait parlé si longtemps de le compter comme on compte les moutons. Il demanda autre chose.
+L’enfant était assis, les genoux remontés. Il la regarda venir de ses yeux sans regard. Il ne demanda pas ce qu’était un registre, ni pourquoi la dame avait parlé si longtemps de le compter comme on compte les moutons.
 
 « Elle a peur de moi, la dame ?
 

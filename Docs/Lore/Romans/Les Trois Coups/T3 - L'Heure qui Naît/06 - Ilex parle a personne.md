@@ -14,7 +14,7 @@ Renna avait les mains dans l’eau froide du baquet, à essorer une brassée de 
 
 Accroupi au bout du potager, entre les rangs de fèves grises et le muret où les chèvres passaient la tête, Ilex tenait un caillou dans chaque main. Les cailloux, il ne les cognait pas, ne les regardait même pas. Son regard montait vers l’air, un peu au-dessus du muret, là où il n’y avait rien qu’un carré de ciel blanc, et c’est à ce rien qu’il parlait, avec le sérieux d’un homme qui traite une affaire.
 
-« À qui tu parles », demanda Renna, sans lever la voix, sans lâcher la laine.
+« À qui tu parles », demanda Renna, sans lâcher la laine.
 
 Il ne répondait jamais à celle-là. L’enfant tourna vers elle ses yeux sans iris, ce blanc de lait tiède qui la prenait encore à la gorge, et son visage prit le petit froncement des fois où on l’obligeait à revenir de loin.
 
@@ -62,7 +62,7 @@ Ilex leva les yeux, surpris. Il n’avait rien fait de mal. Il avait cinq ans, p
 
 « Rentre, dit Renna, plus doucement. Il va faire chaud. Rentre boire. »
 
-Ilex se leva, laissa tomber les cailloux, et en passant devant elle redit le mot, tout bas, non plus pour l’air au-dessus du muret mais pour lui-même, comme on garde une chose dans sa poche.
+Ilex se leva, laissa tomber les cailloux, et en passant devant elle redit le mot, tout bas, comme on garde une chose dans sa poche.
 
 « Ourrène. »
 
@@ -218,7 +218,7 @@ Il tourna enfin la tête, et il la regarda avec cette gravité d’eau calme qui
 
 Renna n’eut rien à répondre. Sous le plancher, la chose reprit la syllabe qu’Ilex venait de taire et la roula à sa place, un ton plus bas, un peu plus près d’y arriver, comme si le silence de l’enfant lui avait laissé le champ.
 
-Le jour tomba pendant qu’elle rangeait le linge sec. En bas, aux premières fumées de Taldre, une lanterne s’attardait près de la fontaine, immobile, là où stationnait la voiture de Caeloria. On ne repartait pas. On attendait quelque chose, ou quelqu’un, ou simplement le lendemain et les deux noms neufs sur le registre. Renna regarda la lanterne longtemps, du haut de son sentier, et pour la première fois de sa vie il lui vint que ce sentier n’avait qu’une issue, et qu’elle avait pris un cul-de-sac pour une cachette.
+Le jour tomba pendant qu’elle rangeait le linge sec. En bas, aux premières fumées de Taldre, une lanterne s’attardait près de la fontaine, immobile, là où stationnait la voiture de Caeloria. On attendait quelque chose, ou quelqu’un, ou simplement le lendemain et les deux noms neufs sur le registre. Renna regarda la lanterne longtemps, du haut de son sentier, et pour la première fois de sa vie il lui vint que ce sentier n’avait qu’une issue, et qu’elle avait pris un cul-de-sac pour une cachette.
 
 ---
 
@@ -232,7 +232,7 @@ Puis il parla, la voix épaisse, tournée vers le feu et au-delà du feu.
 
 — Celui qui finit pas. Il finit pas parce qu’il est loin. Si on va près, il finira. »
 
-Renna garda les yeux sur le feu. Elle savait ce que voulait dire l’enfant, elle le savait dans son propre corps depuis toujours, cette traction, cette envie de marcher vers le sud, vers l’épaule de la colline et ce qu’il y avait derrière, le Mont, le battement, la source de la chose qui montait. Toute sa vie elle avait résisté à cette traction comme on résiste à une pente, en s’arc-boutant, en s’accrochant aux jours ordinaires, au linge, aux chèvres, à la guède. L’enfant, lui, désirait cette chose qu’elle avait fuie ; il se penchait vers elle, il tendait le corps vers le sud comme une plante vers ce qui l’éclaire.
+Renna garda les yeux sur le feu. Elle savait ce que voulait dire l’enfant, elle le savait dans son propre corps depuis toujours, cette traction, cette envie de marcher vers le sud, vers l’épaule de la colline et ce qu’il y avait derrière, le Mont, le battement, la source de la chose qui montait. Elle y avait résisté comme on résiste à une pente, en s’arc-boutant, en s’accrochant aux jours ordinaires, au linge, aux chèvres, à la guède. L’enfant, lui, désirait cette chose qu’elle avait fuie ; il se penchait vers elle, il tendait le corps vers le sud comme une plante vers ce qui l’éclaire.
 
 « On ne va nulle part, dit-elle. On reste ici. On est bien, ici.
 
