@@ -75,7 +75,7 @@ Le maître Corvane l’attendait dans le cabinet du fond, debout devant la fenê
 
 « C’est précisément ce que je ne peux plus répondre. » Il soupira, et la courtoisie le quitta. « Le monde a peur, Ysolde. Vous le savez comme moi. Les étoiles bougent, les gens de Cendara racontent que le Mont bat comme un cœur, on tue des hommes de bien sur les routes sans qu’aucune bouche revendique, et au milieu de cette peur il y a dix-sept cahiers, chez nous, qui ont l’air de parler de tout cela avant tout le monde. Les gens le sentent. Ils viennent. Et quand ils viennent, je ne peux pas leur tendre dix-sept cahiers et quatorze pages blanches et leur dire de se débrouiller. Il leur faut une phrase droite qu’ils puissent emporter. » Il eut un geste vers la porte. « Trois hommes de Lumasar attendent depuis hier dans le vestibule des fonds. Le plus jeune a apporté un mandat d’extrait. Un extrait, Ysolde. D’une pièce que nous n’avons jamais établie. »
 
-Ysolde le laissa finir. Puis elle se leva, alla jusqu’à l’étagère basse, et rapporta non pas les cahiers, qu’on ne sortait pas de la chambre forte, mais une simple feuille pliée qu’elle gardait dans un carton à part, écrite le soir même du dépôt. Elle la posa devant lui sans l’ouvrir. Elle n’avait pas besoin de la relire.
+Ysolde le laissa finir. Puis elle se leva, alla jusqu’à l’étagère basse, et rapporta une simple feuille pliée — les cahiers ne sortaient pas de la chambre forte — qu’elle gardait dans un carton à part, écrite le soir même du dépôt. Elle la posa devant lui sans l’ouvrir. Elle n’avait pas besoin de la relire.
 
 « Savez-vous ce que l’homme a dit, quand il les a déposés ? »
 

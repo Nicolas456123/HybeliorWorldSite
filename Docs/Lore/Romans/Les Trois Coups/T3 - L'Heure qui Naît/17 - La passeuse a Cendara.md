@@ -65,7 +65,7 @@ C’était un mensonge, et un bon, et Renna le reconnut pour tel à ceci qu’il
 
 — Alors je reste trois jours. » La femme ne cilla pas. « Si tu loges. Sinon je loge en bas et je remonte. »
 
-Derrière Renna, dans l’ombre, l’enfant remua. La femme le vit. Renna sentit l’instant où elle le vit, non pas à un mouvement, la femme ne bougea pas, mais à un arrêt, une seconde de trop où son regard, qui avait couru partout, revint au renfoncement et y demeura. Renna connaissait l’œil de ceux de Caeloria, qui évalue et qui range. Celui-ci se posa sur Ilex comme sur un visage rencontré très loin en arrière, dans une vie ou dans un récit, et qu’on n’espérait plus voir en chair.
+Derrière Renna, dans l’ombre, l’enfant remua. La femme le vit. Renna sentit l’instant où elle le vit, à un arrêt : la femme ne bougea pas, et ce fut une seconde de trop où son regard, qui avait couru partout, revint au renfoncement et y demeura. Renna connaissait l’œil de ceux de Caeloria, qui évalue et qui range. Celui-ci se posa sur Ilex comme sur un visage rencontré très loin en arrière, dans une vie ou dans un récit, et qu’on n’espérait plus voir en chair.
 
 « Il a mal aux yeux, la lumière, dit Renna, du ton exact qu’elle avait pris avec la Corvane. C’est pour ça, le volet.
 
