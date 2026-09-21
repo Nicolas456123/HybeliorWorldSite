@@ -13,11 +13,11 @@ status: draft
 
 Ils n’entrèrent pas par la porte, et c’est à cela qu’Olven sut que ce n’était pas un contrôle.
 
-Un contrôle passe par la porte. Un contrôle a des papiers à faire signer, un registre, un homme qui s’ennuie et voudrait rentrer chez lui. Ceux-là passèrent par les deux fenêtres du bas et par la porte en même temps, dans le même souffle, et le premier bruit qu’Olven en eut ne fut pas une voix mais une odeur : l’huile de lampe qu’on renverse exprès, à pleine jarre, sur du bois sec.
+Un contrôle passe par la porte. Un contrôle a des papiers à faire signer, un registre, un homme qui s’ennuie et voudrait rentrer chez lui. Ceux-là passèrent par les deux fenêtres du bas et par la porte en même temps, dans le même souffle, et le premier bruit qu’Olven en eut fut une odeur : l’huile de lampe qu’on renverse exprès, à pleine jarre, sur du bois sec.
 
 Il était au troisième feuillet. Depuis des heures il l’était ; il lui semblait que sa vie entière s’était repliée sur cette page où la phrase attendait. Sa plume se leva toute seule. Elle avait compris avant lui.
 
-« Le copiste », dit une voix, sans hausser le ton. Ce calme-là apprit à Olven tout ce qu’il avait besoin de savoir : l’homme avait déjà ouvert beaucoup de portes de cette façon, et il ne s’attendait à aucune difficulté.
+« Le copiste », dit une voix, à hauteur de conversation. Ce calme-là apprit à Olven tout ce qu’il avait besoin de savoir : l’homme avait déjà ouvert beaucoup de portes de cette façon, et il ne s’attendait à aucune difficulté.
 
 *
 
@@ -57,7 +57,7 @@ Il prit la neuve.
 
 Il l’enveloppa dans la toile cirée qu’il tenait prête depuis des années contre la pluie et la crasse des routes, comme les vieux gardent leur linceul plié, et la glissa sous sa tunique, contre la poitrine, à l’endroit où les Tisses protégeaient leur ventre et où lui, non-Lié, n’avait que de l’encre à protéger.
 
-Le modèle prit derrière lui. Le parchemin ne criait pas comme le bois. Il gémissait, il se recroquevillait, il faisait le bruit d’une feuille morte qu’on écrase. Olven ne se retourna pas. Il en avait déjà bien assez, de choses qu’il revoyait la nuit.
+Le modèle prit derrière lui. Le bois criait ; le parchemin gémissait, il se recroquevillait, il faisait le bruit d’une feuille morte qu’on écrase. Olven ne se retourna pas. Il en avait déjà bien assez, de choses qu’il revoyait la nuit.
 
 *
 
@@ -71,7 +71,7 @@ La lueur montait sur les toits, orange, gourmande. Il pensa, sans amertume : *i
 
 *
 
-On lui avait dit où aller. Pas Teor : Teor était parti vers l’est, vers sa Faille, tenir sa peur contre celle d’un mort. C’était un autre, un frère de passage, un de ceux qui remontent les routes en portant des bouts de rumeur comme d’autres portent des puces.
+On lui avait dit où aller. C’était un frère de passage, un de ceux qui remontent les routes en portant des bouts de rumeur comme d’autres portent des puces ; Teor, lui, était parti vers l’est, vers sa Faille, tenir sa peur contre celle d’un mort.
 
 *Il y a, disait le frère, aux marges d’Onara, dans une vallée où il y a plus de rivières que de routes, une forge tenue par une femme. On dit que chez elle il y a un cahier comme le tien. Un très vieux. Peut-être le plus vieux qui roule encore. Et on dit, mais tu sais ce que valent les on-dit, que cette femme-là aurait le geste.*
 
@@ -79,7 +79,7 @@ On lui avait dit où aller. Pas Teor : Teor était parti vers l’est, vers sa 
 
 *Le geste. Elle saurait couper. Pas seulement lire le cahier : le faire. Les autres le récitent ; elle, elle s’en sert.*
 
-Cette phrase-là ne l’avait plus quitté. *Elle, elle s’en sert.* Toute sa vie, Olven avait porté le cahier comme un témoignage, une chose qu’on lit pour savoir où est la plaie. On lui parlait d’une femme qui en avait fait un outil, qui l’ouvrait non pour comprendre mais pour trancher. Il en était attiré et épouvanté à parts égales, et il avait renoncé à trier.
+Cette phrase-là ne l’avait plus quitté. *Elle, elle s’en sert.* Olven avait porté le cahier toute sa vie comme un témoignage, une chose qu’on lit pour savoir où est la plaie. On lui parlait d’une femme qui en avait fait un outil, qui l’ouvrait pour trancher. Il en était attiré et épouvanté à parts égales, et il avait renoncé à trier.
 
 Il descendit vers la vallée basse, la copie propre contre le cœur, et il sut qu’il n’arriverait peut-être pas. Ses jambes le lui disaient, et sa bouche qui avait oublié sa forme pleine, et cette manière qu’avait le froid, depuis quelque temps, d’entrer plus profond et de rester. Le Fléau ne le prendrait pas, il n’était pas Tisse. Mais on mourait d’autres façons sur les routes de ce temps-là, et la faim en était une, et il en connaissait le goût.
 
@@ -87,7 +87,7 @@ Il descendit vers la vallée basse, la copie propre contre le cœur, et il sut q
 
 Le troisième soir, il trouva l’homme.
 
-Il ne l’avait pas trouvé, à vrai dire. C’est l’homme qui l’appela, d’une grange à demi effondrée où Olven cherchait un coin sec, une voix qui sortit du foin comme sort une bête qu’on n’avait pas vue.
+C’est l’homme qui l’appela, à vrai dire, d’une grange à demi effondrée où Olven cherchait un coin sec, une voix qui sortit du foin comme sort une bête qu’on n’avait pas vue.
 
 « N’entre pas si tu as peur des mourants. »
 
@@ -123,7 +123,7 @@ Le foin sentait la poussière et un peu le miel. Dehors, le froid tenait la vall
 
 Longtemps ils demeurèrent sans parler. La grange respirait : le vent dans les trous du toit, une bête quelque part, le foin qui tasse. Puis, sans prévenir, l’homme se mit à réciter.
 
-Olven crut d’abord à une prière et faillit se taire par respect. Mais ce n’étaient pas des mots adressés à un dieu. C’était un récit plat, remonté de très loin dans une mémoire qui s’effritait, et dès la troisième phrase le sol se déroba sous lui.
+Olven crut d’abord à une prière et faillit se taire par respect. C’était un récit plat, remonté de très loin dans une mémoire qui s’effritait, et dès la troisième phrase le sol se déroba sous lui.
 
 « *Ils étaient sept sur le Mont*, disait l’homme. *Non. Neuf. On m’a dit neuf une fois, et sept une autre. Ils étaient plusieurs sur le Mont, ils tenaient le fil du monde et ils allaient le couper. Et l’un d’eux, la veille, a posé une question.* »
 
@@ -173,7 +173,7 @@ Il ne l’annonça pas ; il n’y eut pas d’adieu, pas de dernière parole. C
 
 Il ne chanta pas. Chanter les morts était le métier d’un autre, un vieux d’Alkaran qu’il ne rencontrerait jamais, quelque part sur ces mêmes routes, qui portait sa propre mort et l’écoute des morts dans le même corps. Olven ne savait que réparer. Il répara ce qu’il put : sur la poitrine du mort il croisa les mains, à l’endroit où lui-même portait le cahier, et il resta assis contre les gerbes jusqu’à ce que le jour montât par les trous du toit, gris, indifférent.
 
-Avant de partir, il fit de cette nuit ce qu’il faisait de tout ce qui lui parvenait : il la nota. Pas sur le cahier. On ne touche pas au corps du texte. Sur un bout de parchemin qu’il gardait pour les comptes de route, à la marge, tout petit, de sa main la plus soigneuse.
+Avant de partir, il fit de cette nuit ce qu’il faisait de tout ce qui lui parvenait : il la nota. On ne touche pas au corps du texte ; il prit un bout de parchemin qu’il gardait pour les comptes de route et écrivit à la marge, tout petit, de sa main la plus soigneuse.
 
 *Cette nuit, un mourant sans nom m’a rendu le troisième fragment sans une faute, lui qui avait perdu tout le reste. Elle ne vit pas que dans nos cahiers. Elle vit dans les bouches qui s’éteignent. Que celui qui me lira cesse d’avoir peur du feu : il y a toujours une autre copie quelque part, et celle-là n’est pas en encre.*
 
@@ -193,7 +193,7 @@ Il connaissait la réponse ; il ne doutait pas une seconde. Mais la savoir ne l
 
 Vers midi, au fond de la vallée, entre deux collines basses, il vit une fumée.
 
-Elle ne montait pas comme une fumée de cuisine. Plus épaisse, plus sombre, et elle tenait : quelqu’un, là-dessous, nourrissait un feu depuis le matin et le nourrirait jusqu’au soir. Autour, la vallée tenait ses couleurs de fin d’année : des prés jaunes, des saules, un moulin qui ne tournait pas, des toits bas posés le long des rivières comme des bêtes qui boivent. Il resta longtemps à la regarder, appuyé à un muret de pierres sèches, la main sur la bosse dure du cahier qui avait survécu au feu, aux routes et à la faim, et qui lui survivrait.
+Elle montait plus épaisse et plus sombre qu’une fumée de cuisine, et elle tenait : quelqu’un, là-dessous, nourrissait un feu depuis le matin et le nourrirait jusqu’au soir. Autour, la vallée tenait ses couleurs de fin d’année : des prés jaunes, des saules, un moulin qui ne tournait pas, des toits bas posés le long des rivières comme des bêtes qui boivent. Il resta longtemps à la regarder, appuyé à un muret de pierres sèches, la main sur la bosse dure du cahier qui avait survécu au feu, aux routes et à la faim, et qui lui survivrait.
 
 *La Forge-Basse*, pensa-t-il.
 

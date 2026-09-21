@@ -50,7 +50,7 @@ Il commença comme sa mère avait commencé avec lui. La main sur le sternum.
 
 La poitrine du garçon était large et chaude sous sa paume, et elle montait et descendait avec le calme d’un soufflet bien réglé. Rien dedans. Ombreth le sut avant même de tendre sa propre chambre, comme on sait qu’une maison est vide rien qu’à frapper au volet. Il tendit quand même, à peine : la semaine lui avait déjà coûté deux linges roulés au fond de sa manche, et il fallait que le nez tînt jusqu’au soir.
 
-Apprendre cela à quelqu’un ne consistait pas à lui montrer un mort. Il fallait trouver chez l’élève la corde qui vibrait à l’unisson de la sienne, et la faire sonner assez fort pour qu’il la sente vibrer une fois, une seule, et qu’il n’oublie plus jamais où elle était. Sa mère avait fait cela. Elle avait ouvert sa chambre à elle, grande, et l’avait posée contre celle du petit Ombreth comme on pose deux coquillages l’un contre l’autre pour que le même son y tourne ; et Ombreth, à sept ans, avait entendu, non pas un mort, mais le poids au fond de la pièce, la basse insistance, à travers sa mère, avec sa mère. Il avait dit *il y a quelqu’un.* Sa mère avait pleuré. Elle tenait son héritier, et elle savait mieux que personne ce qu’elle venait de lui mettre sur le dos.
+Apprendre cela à quelqu’un, c’était trouver chez l’élève la corde qui vibrait à l’unisson de la sienne, et la faire sonner assez fort pour qu’il la sente vibrer une fois, une seule, et qu’il n’oublie plus jamais où elle était. Sa mère avait fait cela. Elle avait ouvert sa chambre à elle, grande, et l’avait posée contre celle du petit Ombreth comme on pose deux coquillages l’un contre l’autre pour que le même son y tourne ; et Ombreth, à sept ans, avait entendu le poids au fond de la pièce, la basse insistance, à travers sa mère, avec sa mère. Il avait dit *il y a quelqu’un.* Sa mère avait pleuré. Elle tenait son héritier, et elle savait mieux que personne ce qu’elle venait de lui mettre sur le dos.
 
 Ombreth chercha la corde de Torvi. Il la chercha longtemps, comme on tâte un mur pour trouver le montant, en descendant, en remontant, en s’attardant à tous les endroits où il aurait dû y avoir quelque chose.
 
@@ -116,7 +116,7 @@ Ils restèrent un moment sans rien dire. Dehors, la lumière avait basculé.
 
 — Tu n’as pas le don.
 
-— Ma mère va être déçue. » Il n’avait pas l’air déçu, lui. Plutôt l’air d’un garçon qui préférerait rentrer garder les chèvres que passer sa vie à écouter le ventre des remises. « Elle voulait que je sois quelqu’un. Un chamane, elle disait. Que tout le monde vienne me voir. »
+— Ma mère va être déçue. » Il avait plutôt l’air d’un garçon qui préférerait rentrer garder les chèvres que passer sa vie à écouter le ventre des remises. « Elle voulait que je sois quelqu’un. Un chamane, elle disait. Que tout le monde vienne me voir. »
 
 « Ta mère a peur pour toi, dit Ombreth. Alors elle t’a inventé une chose qui la rassure. Elle croit qu’un don met à l’abri. Rentre garder tes chèvres, petit. C’est un bon métier. Une chèvre, quand elle est morte, elle est morte pour de bon ; elle ne reste pas dans le coin de l’étable à te réclamer une note. »
 
@@ -140,13 +140,13 @@ Elle prit le pain et le fromage, les tint un moment contre elle, puis les reposa
 
 Le neuvième, pensa-t-il. Neuf en un an. Neuf chambres vides.
 
-Et il commençait à comprendre une chose qu’il n’avait pas voulu comprendre : ce n’était pas la faute des enfants. Il ne cherchait pas mal, il n’était pas tombé sur les mauvais villages. Les enfants à la chambre habitée n’existaient plus, voilà tout, ou presque plus. Le don s’éteignait dans le monde par le bout même qui le tuait, lui. Le Fléau prenait les Tisses adultes un par un, et les lignées se coupaient des deux côtés : celles que la coupure sauvait devenaient sourdes à vie, celles que le Fléau prenait s’éteignaient tout court. Chaque année, il y avait davantage de morts à faire passer et moins d’oreilles pour les trouver.
+Et il commençait à comprendre une chose qu’il n’avait pas voulu comprendre : les enfants à la chambre habitée n’existaient plus, voilà tout, ou presque plus. Le don s’éteignait dans le monde par le bout même qui le tuait, lui. Le Fléau prenait les Tisses adultes un par un, et les lignées se coupaient des deux côtés : celles que la coupure sauvait devenaient sourdes à vie, celles que le Fléau prenait s’éteignaient tout court. Chaque année, il y avait davantage de morts à faire passer et moins d’oreilles pour les trouver.
 
 Après lui, à Alkaran, plus personne ne saurait faire ce qu’il faisait. Depuis quelque temps il le savait ; ce soir, à regarder le tournant vide où Torvi avait disparu en riant, il en sentit le poids d’un coup, comme un Errant de plus entré dans sa chambre, et le plus lourd de tous, celui-là, parce qu’il n’était encore le mort de personne. C’était l’après qui pesait. L’après poussait déjà contre la porte.
 
 *
 
-Il ne rentra pas tout de suite. Sur le banc de pierre, contre le mur de sa maison, là où le dernier soleil s’attardait, il s’assit et ne fit rien, ce qui lui arrivait de plus en plus, non par paresse mais parce que faire coûtait, désormais, et qu’il fallait choisir.
+Il ne rentra pas tout de suite. Sur le banc de pierre, contre le mur de sa maison, là où le dernier soleil s’attardait, il s’assit et ne fit rien, ce qui lui arrivait de plus en plus, parce que faire coûtait, désormais, et qu’il fallait choisir.
 
 C’est là que le chœur revint.
 

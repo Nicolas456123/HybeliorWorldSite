@@ -24,7 +24,7 @@ Kessane avait posé la question sans détour, à la table du matin, en repoussan
 
 Lirenn compta sur ses doigts, s’arrêta, recommença.
 
-« Je peux pas. » Elle avait dit cela comme une mauvaise élève qui avoue. « Avant y avait la dame. La dame, je la connaissais. Maintenant y en a d’autres derrière elle, et derrière eux d’autres encore, et quand j’essaie de compter celui de devant, celui de derrière parle plus fort, et je perds le premier. » Elle leva la tête. Elle avait les yeux fatigués, et pas comme un enfant qui a mal dormi : une fatigue d’adulte, posée de travers sur un visage de neuf ans. Kessane ne les lui avait pas vus ainsi, même l’année de la fièvre. « Ils sont pas méchants. Mais ils s’arrêtent pas. Même quand je dors, maman. Ils s’arrêtent pas quand je dors. »
+« Je peux pas. » Elle avait dit cela comme une mauvaise élève qui avoue. « Avant y avait la dame. La dame, je la connaissais. Maintenant y en a d’autres derrière elle, et derrière eux d’autres encore, et quand j’essaie de compter celui de devant, celui de derrière parle plus fort, et je perds le premier. » Elle leva la tête. Elle avait les yeux fatigués d’une fatigue d’adulte, posée de travers sur un visage de neuf ans. Kessane ne les lui avait pas vus ainsi, même l’année de la fièvre. « Ils sont pas méchants. Mais ils s’arrêtent pas. Même quand je dors, maman. Ils s’arrêtent pas quand je dors. »
 
 « La dame te disait de faire la sourde.
 
@@ -46,7 +46,7 @@ Dans le renfoncement, il y avait une table basse. Kessane avait cru toute sa vie
 
 Elle n’avait pas dormi de la semaine à cause de ce linge et de ce qu’il enveloppait.
 
-Ce n’étaient pas des outils de forge. Kessane avait des outils de forge plein les murs, elle les connaissait comme ses dents ; ceux-ci, elle les avait sortis d’une boîte qu’elle n’avait jamais ouverte, une boîte remise avec le cahier, et ils étaient étrangers à sa main de la plus mauvaise façon. Trop fins. Trop propres. Un forgeron se méfie d’un métal trop propre : ou il n’a jamais servi, ou on l’a nettoyé après chaque fois avec un soin qui en dit long. Une lame courte, pas plus longue qu’un doigt, à un seul tranchant, montée sur un manche d’os poli par des paumes mortes. Une aiguille courbe. Un fil qui n’était pas du fil, quelque chose de plus clair, de vaguement irisé, enroulé sur une fusaïole. Deux petites pinces. Et une chose plate et ronde, en verre poli ou en pierre claire, dont Kessane ne comprenait pas l’usage et que le cahier appelait *le miroir de la coupe* sans expliquer davantage.
+Ce n’étaient pas des outils de forge. Kessane avait des outils de forge plein les murs, elle les connaissait comme ses dents ; ceux-ci, elle les avait sortis d’une boîte qu’elle n’avait jamais ouverte, une boîte remise avec le cahier, et ils étaient étrangers à sa main de la plus mauvaise façon. Trop fins. Sans une piqûre de rouille. Un forgeron se méfie d’un métal trop propre : ou il n’a jamais servi, ou on l’a nettoyé après chaque fois avec un soin qui en dit long. Une lame courte, pas plus longue qu’un doigt, à un seul tranchant, montée sur un manche d’os poli par des paumes mortes. Une aiguille courbe. Un fil qui n’était pas du fil, quelque chose de plus clair, de vaguement irisé, enroulé sur une fusaïole. Deux petites pinces. Et une chose plate et ronde, en verre poli ou en pierre claire, dont Kessane ne comprenait pas l’usage et que le cahier appelait *le miroir de la coupe* sans expliquer davantage.
 
 Lirenn regarda tout cela en silence. Puis elle tendit un doigt vers la lame courte, sans la toucher, et dit :
 
@@ -64,7 +64,7 @@ Kessane s’arrêta. Elle s’était interdit cette question-là, parce qu’y p
 
 Le cahier était ouvert entre elles, calé sur son étui pour ne pas se refermer.
 
-Kessane avait passé la semaine dedans, et elle avait fini par comprendre comment il fallait le lire. Personne ne l’avait écrit seul. Il avait été fait par couches, chacune posée sur celle d’avant, si bien que le geste de la coupure y était donné trois fois, dans trois mains, avec trois écarts. Une main ancienne disait de couper *au premier signe des voix*. Une main plus récente corrigeait en marge : *pas aux voix. Au premier signe du sang, jamais avant ; on en a trop coupé qui n’en avaient pas besoin.* Une troisième, presque effacée, avait tracé sous les deux autres, d’une écriture que la peur faisait trembler : *et comment savoir. Comment savoir avant qu’il soit trop tard.*
+Kessane avait passé la semaine dedans, et elle avait fini par comprendre comment il fallait le lire. Il avait été fait par couches, chacune posée sur celle d’avant, si bien que le geste de la coupure y était donné trois fois, dans trois mains, avec trois écarts. Une main ancienne disait de couper *au premier signe des voix*. Une main plus récente corrigeait en marge : *pas aux voix. Au premier signe du sang, jamais avant ; on en a trop coupé qui n’en avaient pas besoin.* Une troisième, presque effacée, avait tracé sous les deux autres, d’une écriture que la peur faisait trembler : *et comment savoir. Comment savoir avant qu’il soit trop tard.*
 
 Le cahier disait le geste. Il ne disait pas cela.
 
@@ -82,7 +82,7 @@ Lirenn considéra cela avec le sérieux qu’elle mettait à tout.
 
 — Un peu.
 
-— Alors pourquoi on descend aujourd’hui. » Elle montra la table, les outils, la lame trop propre. « Pourquoi tu sors tout ça aujourd’hui si on a le temps. »
+— Alors pourquoi on descend aujourd’hui. » Elle montra la table, les outils, la lame au manche d’os. « Pourquoi tu sors tout ça aujourd’hui si on a le temps. »
 
 Kessane avait une réponse toute prête, *parce que je veux être prête, parce qu’un forgeron n’entre pas dans un ouvrage sans avoir chauffé sa forge la veille*. Elle s’entendit dire autre chose, qui lui échappa comme un coup part parfois tout seul.
 
@@ -140,11 +140,11 @@ Tu ne sauras jamais. Tu auras fermé la porte, jeté l’oreille, éteint la dam
 
 Elle pensa au prêtre de la Roue, à l’autre semaine. *Votre fille est le retour de ce que vos pères ont chassé.* Elle l’avait renvoyé avec sa leçon de trempe et la moitié du pain de la veille, et elle avait eu raison, l’homme était un imbécile. Mais l’imbécile avait posé une question sans le savoir, et la question restait, retournée. Lui prétendait dire ce que Lirenn était ; elle avait répondu qu’elle était sa fille, et voilà tout. Bien. Et si elle coupait, que dirait-elle d’autre ? *Tu ne seras pas ça. Je décide que tu ne seras pas ça.* Elle avait reproché au prêtre de vouloir enfermer l’enfant dans une roue. Elle s’apprêtait à l’enfermer dans le refus de cette roue, et de l’intérieur, peut-être, l’enfant ne verrait pas la différence.
 
-La lame était là, sur le linge, trop propre. Kessane la prit, la soupesa. Un doigt de long. De quoi fermer une porte dans la chair d’une enfant de neuf ans, ou de quoi mutiler pour rien une petite fille qui aurait vécu.
+La lame était là, sur le linge, sans une trace. Kessane la prit, la soupesa. Un doigt de long. De quoi fermer une porte dans la chair d’une enfant de neuf ans, ou de quoi mutiler pour rien une petite fille qui aurait vécu.
 
 Elle ne savait pas laquelle.
 
-Il n’y avait pas de trempe pour ça. Il n’y avait pas de fer qui chante puis se tait pour dire *frappe maintenant*. Il y avait une enfant qui maigrissait, des morts qui ne s’arrêtaient pas quand elle dormait, une lame d’un doigt, et une mère qui devait décider seule, dans une chaleur qu’elle ne pouvait pas laisser passer, sans jamais savoir si elle avait raison.
+Le fer a sa trempe et ses signes : il chante, puis il se tait, et c’est là qu’on frappe. Ici, il y avait une enfant qui maigrissait, des morts qui ne s’arrêtaient pas quand elle dormait, une lame d’un doigt, et une mère qui devait décider seule, dans une chaleur qu’elle ne pouvait pas laisser passer, sans jamais savoir si elle avait raison.
 
 *
 
@@ -152,7 +152,7 @@ Elle ne coupa pas cette nuit-là.
 
 Elle enveloppa la lame dans son linge, avec l’aiguille courbe, le fil qui n’était pas du fil et le miroir de la coupe dont elle ne comprenait pas l’usage. Le cahier, elle le laissa ouvert à la page du copiste tremblant, parce qu’elle savait déjà qu’elle redescendrait. Elle remonta l’escalier sans avoir rien fait, et elle s’en voulut de n’avoir rien fait, et elle sut, en s’en voulant, qu’elle redescendrait le lendemain avec la même lame et remonterait encore sans avoir coupé, et le jour d’après, et le jour d’après.
 
-Pas encore. Le mot lui revenait, celui qui lui avait échappé un soir dans les cheveux de sa fille. *Pas encore, ma toute.* Elle l’avait dit alors pour ne pas dire : phase un, tu as trois mois. Elle se le disait maintenant à elle-même, et il avait changé de sens. Ce n’était plus une tendresse. C’était de la lâcheté, ou de la prudence ; chez elle, les deux avaient toujours eu le même visage, et elle n’avait jamais su les séparer.
+Pas encore. Le mot lui revenait, celui qui lui avait échappé un soir dans les cheveux de sa fille. *Pas encore, ma toute.* Elle l’avait dit alors pour ne pas dire : phase un, tu as trois mois. Elle se le disait maintenant à elle-même, et il avait changé de sens. C’était de la lâcheté, ou de la prudence ; chez elle, les deux avaient toujours eu le même visage, et elle n’avait jamais su les séparer.
 
 Elle s’assit au bord du lit de Lirenn. La petite dormait enfin sans parler : ils s’étaient tus, ou elle était descendue trop bas pour les entendre. Son visage, dans le noir, était lisse. Un visage de neuf ans qui ne savait pas encore qu’à trois pas de lui, roulée dans un linge, dormait une lame qui déciderait bientôt de ce qu’il serait : entier et mort ; coupé et vivant ; ou coupé, vivant, et sauvé pour rien d’une mort qui ne serait pas venue.
 

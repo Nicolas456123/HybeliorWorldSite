@@ -12,7 +12,7 @@ status: draft
 
 La grange sentait le foin mouillé. Vaenor Sorne y entra la première, regarda les poutres, la terre battue, l’unique fenêtre, et dit que cela ferait l’affaire.
 
-On lui monta une table et deux chaises. Elle les demandait partout, dans les bourgs qui n’avaient pas l’usage de ce genre de visite : une table, une chaise de chaque côté, le jour d’une seule fenêtre. Les autres Inspecteurs restaient dehors, sous l’auvent, à fumer et à surveiller la route. Cela ne venait d’aucun règlement. Elle en avait pris l’habitude les premières années, après avoir constaté qu’à trois on obtient un homme qui se tait, et qu’à deux on obtient un homme qui parle.
+On lui monta une table et deux chaises. Elle les demandait partout, dans les bourgs qui n’avaient pas l’usage de ce genre de visite : une table, une chaise de chaque côté, le jour d’une seule fenêtre. Les autres Inspecteurs restaient dehors, sous l’auvent, à fumer et à surveiller la route. Elle en avait pris l’habitude d’elle-même, les premières années, après avoir constaté qu’à trois on obtient un homme qui se tait, et qu’à deux on obtient un homme qui parle.
 
 L’homme qu’on lui amena avait la quarantaine et des mains de tanneur, brunes jusqu’au poignet, la corne épaisse au bout des doigts. Il s’assit. Il regarda la lampe.
 
@@ -54,7 +54,7 @@ Ce n’était pas terrible du tout. Ce le serait dans trois mois.
 
 ---
 
-Elle connaissait la suite mieux que sa propre vie. Personne ne lui avait remis le canon des phases : elle l’avait vu s’écrire sur des corps, un corps après l’autre, jusqu’à pouvoir lire l’avenir d’un homme dans le premier tremblement de son regard.
+Elle connaissait la suite mieux que sa propre vie. Le canon des phases, elle l’avait vu s’écrire sur des corps, un corps après l’autre, jusqu’à pouvoir lire l’avenir d’un homme dans le premier tremblement de son regard.
 
 Phase 1, mois un à trois : les choses au bord de l’œil, la voix d’un mort, l’odeur de la pluie sur une terre sèche. Les rapports appelaient cela des parasites de perception, et le mot lui semblait juste. Quelque chose se nourrissait de ce Marek en passant par ce qui lui restait de Lien, et il croyait entendre sa mère alors qu’il entendait sa fin.
 
@@ -88,7 +88,7 @@ Il chercha un nom. Il n’en trouva pas.
 
 « On raconte beaucoup de choses dans les bourgs », dit Vaenor, sans appuyer, du ton qu’elle prenait pour redresser un chiffre. « Je vais vous donner ce que je sais, et rien d’autre. Oui, cela se fait. Oui, il y en a qui vivent après. »
 
-Elle marqua un temps. Puis, du même ton :
+Elle lui laissa le temps d’y croire. Puis, du même ton :
 
 « Il faut quelqu’un qui sache le faire. Entre des doigts qui ne savent pas, ils meurent, tous, sans une exception ; j’ai relevé les corps. Cela se fait avant le premier sang et jamais après ; après, on n’ajoute plus que du mal à ce qui est commencé. Et celui qu’on coupe reste sourd jusqu’à sa mort. Ce qu’on vous ôte ne repousse pas. Vous seriez un homme diminué, dans un pays qui n’aime déjà pas les hommes diminués. »
 
@@ -108,7 +108,7 @@ Elle marqua un temps. Puis, du même ton :
 
 « Alors voici où nous en sommes, vous et moi. Vous allez chercher cette main dans des bourgs où l’on vous répondra ce que vous venez de me répondre, et pendant ce temps la chose avancera. Elle avance plus vite que vous ne chercherez. » Elle s’arrêta là. Après le compte, elle n’ajoutait jamais rien ; c’était le compte qui travaillait.
 
-Elle le regarda comprendre. Le pire n’était jamais qu’ils apprissent leur mort : ils la savaient depuis les neiges. Le pire était l’instant où le compte se refermait devant eux et où ils y trouvaient leur propre nom, posé juste, à la bonne ligne. Marek mit les deux mains à plat sur la table. Il ne dit rien pendant un temps qu’elle ne mesura pas.
+Elle le regarda comprendre. Ils savaient leur mort depuis les neiges ; le pire venait à l’instant où le compte se refermait devant eux et où ils y trouvaient leur propre nom, posé juste, à la bonne ligne. Marek mit les deux mains à plat sur la table. Il ne dit rien pendant un temps qu’elle ne mesura pas.
 
 « Vous êtes venue me tuer », dit-il, du ton dont on annonce le temps qu’il fera. Il n’y avait pas de colère dedans.
 
@@ -138,7 +138,7 @@ C’était vrai, et c’était ce qu’elle avait dit de plus vrai de la journé
 
 « Et si j’étais de ceux qui vivent ? »
 
-Aucune supplique dans sa voix. Il posait la question comme elle posait les siennes, à plat, pour voir ce qu’elle en ferait.
+Il posait la question comme elle posait les siennes, à plat, pour voir ce qu’elle en ferait.
 
 *Et si j’étais de ceux qui vivent.*
 
@@ -216,7 +216,7 @@ Dehors, un des Inspecteurs jeta sa cigarette et se redressa.
 
 Vaenor s’arrêta. La lumière tombait longue sur la route, entre les granges. Une fille au moulin, qui parlait à personne. Phase 1 : le stade où l’on entend, où l’on suit ce qui bouge sur les bords, où un mort vous appelle et vous dit qu’il fait froid. Le seul stade, aussi, où une main qui sait peut encore sauver quelqu’un.
 
-La ride dans le verre lui revint. La question de Marek lui revint, qui n’avait pas de réponse mais un besoin à la place. Et le registre fermé lui revint, celui dont elle n’avait jamais fait le total ; elle se mit à chercher, avec sa précision d’Inspectrice, combien de noms y dormaient déjà, et combien parmi eux seraient tombés sur quelqu’un qui savait couper, si elle leur en avait laissé le temps.
+La ride dans le verre lui revint. La question de Marek lui revint, avec le besoin qui lui servait de réponse. Et le registre fermé lui revint, celui dont elle n’avait jamais fait le total ; elle se mit à chercher, avec sa précision d’Inspectrice, combien de noms y dormaient déjà, et combien parmi eux seraient tombés sur quelqu’un qui savait couper, si elle leur en avait laissé le temps.
 
 « La fille peut attendre demain », dit-elle.
 

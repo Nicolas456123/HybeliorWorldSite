@@ -39,7 +39,7 @@ Le jeune homme regarda sa propre main dans celle du vieux, cette chose qui n’�
 
 « Et vous en êtes sûr », dit-il.
 
-Il ne demandait pas pour savoir. Il demandait comme on demande quand on veut qu’on vous mente bien.
+Il demandait comme on demande quand on veut qu’on vous mente bien.
 
 ---
 
@@ -71,7 +71,7 @@ Elle ne leur expliquait jamais pourquoi ça comptait. Ils le savaient : de l’
 
 Le garçon redit *vaenn*. Il le dit bien. La femme lui posa la main sur la joue, contente.
 
-Je ne crois pas que cette langue fût vraie. Je crois qu’ils ont inventé la moitié des sons et deviné l’autre, et que s’ils avaient débarqué pour de bon de l’autre côté en récitant leur *vaenn* et leur *shalore*, personne ne les aurait compris. Mais ça faisait quelque chose, d’entendre des condamnés réciter à mi-voix des mots dont ils ne savaient rien, appliqués comme des écoliers, pour un examen qui n’aurait peut-être jamais lieu.
+Je crois qu’ils ont inventé la moitié des sons et deviné l’autre, et que s’ils avaient débarqué pour de bon de l’autre côté en récitant leur *vaenn* et leur *shalore*, personne ne les aurait compris. Mais ça faisait quelque chose, d’entendre des condamnés réciter à mi-voix des mots dont ils ne savaient rien, appliqués comme des écoliers, pour un examen qui n’aurait peut-être jamais lieu.
 
 ---
 
@@ -111,7 +111,7 @@ Ils parlaient de quelque chose qui *mangeait le temps*.
 
 Pas une bête. Ou une bête, je ne sais pas. Ils n’étaient pas d’accord entre eux, et c’est ça que je voudrais que vous entendiez : *eux non plus n’étaient pas d’accord*. Certains, les plus vieux, les plus doux, en parlaient comme d’une porte et de rien d’autre. La Faille était une porte, on entrait, on tombait dans le temps, il n’y avait personne, seulement un couloir de rien qui vous déposait quelque part en amont. Personne dans le couloir. Juste le passage. C’était la version du vieux, celle qu’il servait aux nouveaux pour ne pas les effrayer.
 
-D’autres en parlaient comme de quelqu’un, et la femme qui apprenait la langue était de ceux-là. Ils disaient qu’il y avait, dans la Faille, une chose qui vous prenait par la main. Qui vous choisissait. Qui mangeait votre temps à vous, pas le temps du monde, le vôtre, tout ce qui vous restait de matins, et qui, en échange de cette durée avalée, vous portait ailleurs. On lui donnait ses jours ; il vous donnait un lieu. Un marché. Ils l’appelaient de plusieurs noms, tous vieux, tous à moitié faux comme leur langue, et le seul que j’aie retenu, celui que la femme prononçait le mieux parce qu’elle le disait le plus ancien, c’était quelque chose comme *celui-qui-a-faim-de-durée*. Le Mangeur. Il était sorti autrefois, à l’heure où le monde s’était déchiré, et il rôdait depuis dans les déchirures ; entrer dans une Faille, ce n’était pas se jeter dans un couloir vide, c’était aller à sa rencontre, lui offrir ses jours, et espérer qu’il vous emmène où vous vouliez aller.
+D’autres en parlaient comme de quelqu’un, et la femme qui apprenait la langue était de ceux-là. Ils disaient qu’il y avait, dans la Faille, une chose qui vous prenait par la main. Qui vous choisissait. Qui mangeait votre temps à vous, pas le temps du monde, le vôtre, tout ce qui vous restait de matins, et qui, en échange de cette durée avalée, vous portait ailleurs. On lui donnait ses jours ; il vous donnait un lieu. Un marché. Ils l’appelaient de plusieurs noms, tous vieux, tous à moitié faux comme leur langue, et le seul que j’aie retenu, celui que la femme prononçait le mieux parce qu’elle le disait le plus ancien, c’était quelque chose comme *celui-qui-a-faim-de-durée*. Le Mangeur. Il était sorti autrefois, à l’heure où le monde s’était déchiré, et il rôdait depuis dans les déchirures ; entrer dans une Faille, c’était aller à sa rencontre, lui offrir ses jours, et espérer qu’il vous emmène où vous vouliez aller.
 
 « Et il existe », demanda un des jeunes à la femme, ce soir-là, à voix basse, pour que le vieux n’entendît pas ; le vieux disait qu’il n’y avait personne dans le couloir, et le jeune ne savait plus qui croire.
 
@@ -145,7 +145,7 @@ C’était beau. C’était si beau que même moi, qui vous parle de si loin, j�
 
 Le jour se leva sur le plateau, et la Faille était là.
 
-Je voudrais vous la décrire et je n’ai pas les mots. Non parce que ma langue meurt : elle ne meurt pas, la mienne, c’est le temps qui meurt en moi, pas la grammaire. C’est qu’il n’y a rien à décrire. Voilà ce qu’est une Faille, vue du seuil : rien. Pas un tourbillon, pas une bouche béante dans l’air comme les enfants les dessinent. Un endroit du champ où le matin arrivait en retard, et c’est tout. Là où nous étions, le soleil levant dorait déjà l’herbe ; à trois pas devant, sur une ligne que personne n’aurait su montrer du doigt et que tout le monde voyait, l’herbe restait grise de nuit. De l’herbe d’une aube qui n’était pas la nôtre, cousue à la nôtre, et qu’un pas suffisait à franchir. Le monde, à trois pas, n’était pas à la même heure.
+Je voudrais vous la décrire et je n’ai pas les mots. Ma langue tient, elle : c’est le temps qui meurt en moi, pas la grammaire. C’est qu’il n’y a rien à décrire. Voilà ce qu’est une Faille, vue du seuil : rien. Pas un tourbillon, pas une bouche béante dans l’air comme les enfants les dessinent. Un endroit du champ où le matin arrivait en retard, et c’est tout. Là où nous étions, le soleil levant dorait déjà l’herbe ; à trois pas devant, sur une ligne que personne n’aurait su montrer du doigt et que tout le monde voyait, l’herbe restait grise de nuit. De l’herbe d’une aube qui n’était pas la nôtre, cousue à la nôtre, et qu’un pas suffisait à franchir. Le monde, à trois pas, n’était pas à la même heure.
 
 Ils déposèrent le brancard au bord de la couture.
 
@@ -157,7 +157,7 @@ Personne ne parla pendant un long moment. Le vieux, la femme de la langue, les j
 
 « Garde le disque. Lui, il est de l’autre monde. Il rentre chez lui. »
 
-On aida Kel à se lever. Il tenait à peine sur ses jambes, mais il tenait, un jeune de chaque côté, et il fit le premier pas vers la couture par ses propres moyens, en traînant les pieds, le disque froid contre sa poitrine. Le vieux marcha derrière lui, une main dans son dos, non pour le pousser mais pour être là, pour qu’il sente jusqu’au bout une main dans son dos.
+On aida Kel à se lever. Il tenait à peine sur ses jambes, mais il tenait, un jeune de chaque côté, et il fit le premier pas vers la couture par ses propres moyens, en traînant les pieds, le disque froid contre sa poitrine. Le vieux marcha derrière lui, une main dans son dos, juste pour être là, pour qu’il sente jusqu’au bout une main dans son dos.
 
 Au dernier pas, au tout dernier, quand un de ses pieds était déjà dans l’herbe grise et l’autre encore dans l’herbe dorée, un pied à cette heure-ci et un pied à une autre, Kel s’arrêta. Il tourna la tête vers nous. Vers ceux qui restaient. Vers moi, si j’étais de ceux qui restaient ; ou bien c’était moi qui avais un pied de chaque côté et qui regardais en arrière. Je ne sais plus. C’est ici, précisément ici, que ça se défait.
 

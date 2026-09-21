@@ -12,7 +12,7 @@ status: draft
 
 On lui apportait les choses saisies pour qu’elle décide de leur mort, et Vaenor Sorne n’avait jamais brûlé une chose sans l’avoir d’abord lue.
 
-Dans le service, on lui passait cette manie sans la comprendre. Un autre Inspecteur aurait jeté le cahier au feu sur la foi du bordereau, *texte verithane, saisi sur le corps d’un Tisse mort en route, à détruire*, et serait passé à la ligne suivante ; il y avait toujours une ligne suivante, et le registre montait plus vite qu’on ne le vidait. Vaenor lisait d’abord. Ce n’était pas du scrupule. Un texte qu’elle n’avait pas lu pouvait avoir été recopié vingt fois avant d’arriver sur sa table : elle en brûlait un exemplaire, elle se couchait contente, et la chose continuait de courir la ville. Elle avait vu des collègues brûler dix fois le même feuillet en dix ans et jurer chaque fois qu’ils tenaient l’original.
+Dans le service, on lui passait cette manie sans la comprendre. Un autre Inspecteur aurait jeté le cahier au feu sur la foi du bordereau, *texte verithane, saisi sur le corps d’un Tisse mort en route, à détruire*, et serait passé à la ligne suivante ; il y avait toujours une ligne suivante, et le registre montait plus vite qu’on ne le vidait. Vaenor lisait d’abord, et par calcul. Un texte qu’elle n’avait pas lu pouvait avoir été recopié vingt fois avant d’arriver sur sa table : elle en brûlait un exemplaire, elle se couchait contente, et la chose continuait de courir la ville. Elle avait vu des collègues brûler dix fois le même feuillet en dix ans et jurer chaque fois qu’ils tenaient l’original.
 
 Le cahier attendait sur son bureau depuis la veille, sous la lampe qu’elle ne descendait jamais ; l’huile, en ville haute, on l’avait encore. Une couverture de toile cirée, mangée aux angles. Elle sentait le chemin et le sang séché d’un homme qu’elle n’avait pas connu, mort quelque part à l’est, ce paquet serré contre lui. Le bordereau disait *contre sa poitrine.* Elle avait relu le détail deux fois. Cet homme était mort les mains prises ; il aurait pu les avoir libres. Elle voulait voir ce qu’il avait préféré à ses mains.
 
@@ -36,7 +36,7 @@ Elle revint en arrière et se cala mieux sur sa chaise. Un mot juste dans un tex
 
 C’était le journal d’un homme qui avait aidé à couper le Lien du monde entier.
 
-Elle mit un moment à le comprendre, parce que le texte ne le disait pas ainsi. Il ne se vantait de rien, il n’annonçait rien : il racontait des soirs, rien que des soirs. Un homme jeune. Il donnait son âge une fois, vingt-cinq ans, et elle le nota comme elle notait tout : vingt-cinq ans, et il écrivait chaque soir, en homme qui a peur de mourir avant d’avoir fini. Il vivait parmi d’autres, sept ou huit ; elle n’arrivait pas à les compter, le nombre changeait d’une copie à l’autre et une glose en marge prévenait *ici le copiste a compté faux.* Ils préparaient quelque chose d’immense, dont ils parlaient à mots couverts, une chose qui casserait le monde et le délivrerait. C’étaient ses mots à lui, *casser* et *délivrer*, dans la même phrase, sans qu’il choisît.
+Elle mit un moment à le comprendre, parce que le texte ne le disait pas ainsi. Il racontait des soirs, rien que des soirs. Un homme jeune. Il donnait son âge une fois, vingt-cinq ans, et elle le nota comme elle notait tout : vingt-cinq ans, et il écrivait chaque soir, en homme qui a peur de mourir avant d’avoir fini. Il vivait parmi d’autres, sept ou huit ; elle n’arrivait pas à les compter, le nombre changeait d’une copie à l’autre et une glose en marge prévenait *ici le copiste a compté faux.* Ils préparaient quelque chose d’immense, dont ils parlaient à mots couverts, une chose qui casserait le monde et le délivrerait. C’étaient ses mots à lui, *casser* et *délivrer*, dans la même phrase, sans qu’il choisît.
 
 D’abord elle lut cela comme une pièce à charge. Voilà donc la source, pensa-t-elle. La racine verithane. Ces gens-là avaient coupé le fil quinze siècles plus tôt, et de leur coupure descendait tout : la Grande Nuit, les Failles, le mal dans le sang des Tisses, son propre métier. Elle tenait le témoignage du crime, et il y avait presque du confort là-dedans, dans cette généalogie propre : une faute au commencement, un fléau à la fin, et entre les deux une ligne droite qu’on pouvait suivre du doigt. Les jeunes Inspecteurs auraient aimé ce cahier. Il justifiait tout. *Vous voyez, dirait Drahvel, ils l’ont écrit eux-mêmes. Le mal a une source, et nous en curons les dernières gouttes.*
 
@@ -48,7 +48,7 @@ Elle ne la trouva pas.
 
 L’homme doutait.
 
-C’était cela qui montait de page en page, sous les soirs et les mots couverts, comme une eau sous un plancher : il n’était pas sûr. Pas une fois, dans tout ce qu’elle avait lu, cet homme n’écrivait *nous avons raison.* Sa plume donnait plutôt le contraire : *nous savons ce qui va se casser, nous ne savons pas ce qui poussera à la place.* Et plus bas, ailleurs : *j’ai vingt-cinq ans, je ne veux pas mourir, j’y vais quand même.* Pas de gloire dans le *quand même*, rien qu’une fatigue, celle d’un homme qui va faire une chose dont il n’a pas envie parce qu’il croit qu’il le faut.
+C’était cela qui montait de page en page, sous les soirs et les mots couverts, comme une eau sous un plancher : il n’était pas sûr. Pas une fois, dans tout ce qu’elle avait lu, cet homme n’écrivait *nous avons raison.* Sa plume donnait plutôt le contraire : *nous savons ce qui va se casser, nous ne savons pas ce qui poussera à la place.* Et plus bas, ailleurs : *j’ai vingt-cinq ans, je ne veux pas mourir, j’y vais quand même.* Une fatigue dans ce *quand même*, celle d’un homme qui va faire une chose dont il n’a pas envie parce qu’il croit qu’il le faut.
 
 Vaenor s’arrêta là et regarda un moment la lampe sans la voir.
 
@@ -56,7 +56,7 @@ Ce n’était pas ce qu’on lui avait appris à attendre d’un ennemi. Jeune, 
 
 Elle se leva, fit le tour de son bureau, revint. Elle ne se le permettait pas devant témoin. Seule, la nuit, elle marchait parfois pour tenir une pensée qui refusait de se poser.
 
-Cet homme doutait, et il avait agi quand même. Ce n’était pas un fanatique. Le mot juste lui vint ; elle le repoussa, il revint, et elle ne se mentait pas, même en pensée. C’est quelqu’un comme elle.
+Cet homme doutait, et il avait agi quand même. Le mot juste lui vint ; elle le repoussa, il revint, et elle ne se mentait pas, même en pensée. C’est quelqu’un comme elle.
 
 *
 
@@ -112,7 +112,7 @@ Elle se défendit, comme toujours. C’était sa force : ne pas se laisser pren
 
 Une phrase n’est pas une preuve, se dit-elle. Il en courait de belles dans toutes les bouches, et les prêcheurs de la Roue en vendaient au coin des rues, de ces phrases qui ont l’air de tout dire et ne coûtent rien. Celle-ci était habile, voilà tout. Un homme qui avoue son doute a l’air honnête, et les pires convaincus qu’elle avait pris s’étaient donné l’air de douter pour qu’on les croie mesurés. Elle en avait démasqué, des faux hésitants. Elle savait la manœuvre.
 
-Sauf que ce cahier n’était pas écrit pour elle, ni pour personne comme elle. L’homme n’écrivait devant personne. Il écrivait dans le noir, pour se souvenir avant de mourir, et pour un inconnu lointain qu’il suppliait de ne pas déformer ses mots. Vaenor avait vu beaucoup de gens à la toute fin, sur un banc, sous des tilleuls, la fiole posée entre eux : à ce moment-là, ils ne se donnaient plus d’air. La voix du cahier était cette voix-là. C’était son métier de ne pas s’y tromper, et elle ne s’y trompait pas.
+Sauf que ce cahier n’était pas écrit pour elle, ni pour personne comme elle. L’homme écrivait dans le noir, pour se souvenir avant de mourir, et pour un inconnu lointain qu’il suppliait de ne pas déformer ses mots. Vaenor avait vu beaucoup de gens à la toute fin, sur un banc, sous des tilleuls, la fiole posée entre eux : à ce moment-là, ils ne se donnaient plus d’air. La voix du cahier était cette voix-là. C’était son métier de ne pas s’y tromper, et elle ne s’y trompait pas.
 
 Donc l’homme disait vrai. Donc il avait douté. Donc il avait fait la plus grande coupure du monde sans en être sûr, et le serrement, dans sa poitrine, acheva de se refermer.
 
@@ -126,7 +126,7 @@ Elle avait bâti sa vie sur une certitude, et elle l’aimait simple : on coupe
 
 Or l’homme du cahier avait coupé sans savoir.
 
-Noir sur blanc, il l’avait écrit, et dans les seules lignes du cahier que quinze siècles n’avaient pas osé tordre. Ils avaient coupé le fil du monde entier, et au fond d’eux, pas un compte qui tombe juste : un doute que personne n’avait écouté. Ils avaient appelé cela *inévitable*, comme elle appelait ses fioles inévitables, comme Drahvel appelait l’Édit inévitable. Sous la lampe, elle vit enfin à quoi ce mot leur avait servi, à eux comme à elle : à poser quelque chose sur un doute pour agir sans l’entendre.
+Noir sur blanc, il l’avait écrit, et dans les seules lignes du cahier que quinze siècles n’avaient pas osé tordre. Ils avaient coupé le fil du monde entier, et au fond d’eux, à la place du compte qui tombe juste, un doute que personne n’avait écouté. Ils avaient appelé cela *inévitable*, comme elle appelait ses fioles inévitables, comme Drahvel appelait l’Édit inévitable. Sous la lampe, elle vit enfin à quoi ce mot leur avait servi, à eux comme à elle : à poser quelque chose sur un doute pour agir sans l’entendre.
 
 *
 
@@ -156,12 +156,12 @@ Alors elle pensa à son frère. Elle ne gardait plus l’original de cette nuit-
 
 Tout tenait depuis sur un seul étai, un seul : *je savais.* Je ne doutais pas parce que je savais. Le savoir excusait tout. Le savoir rachetait son frère. Le savoir faisait de la fiole un soin.
 
-Et l’homme du cahier venait de lui montrer que le savoir n’excusait rien, puisqu’on pouvait savoir tout ce qu’elle savait et douter encore. Le doute n’était peut-être pas une faiblesse à ranger. C’était, dans le geste, la seule part honnête. La part qu’aucun copiste n’avait osé corriger en quinze siècles, quand tout le reste se laissait corriger. La part qu’elle-même avait corrigée à chaque fiole, rayée d’un trait net, comme elle venait de rayer *détruit* sur le bordereau, et remplacée par un mot qui tenait mieux dans un registre.
+Et l’homme du cahier venait de lui montrer que le savoir n’excusait rien, puisqu’on pouvait savoir tout ce qu’elle savait et douter encore. Le doute était peut-être, dans le geste, la seule part honnête. La part qu’aucun copiste n’avait osé corriger en quinze siècles, quand tout le reste se laissait corriger. La part qu’elle-même avait corrigée à chaque fiole, rayée d’un trait net, comme elle venait de rayer *détruit* sur le bordereau, et remplacée par un mot qui tenait mieux dans un registre.
 
 *
 
 Elle rabattit la toile cirée sur le cahier et le laissa sous la lampe.
 
-Ce soir, elle ne le brûlerait pas. Elle se donna encore une raison propre, *on ne détruit pas une pièce qu’on n’a pas fini de comprendre*, et cette fois elle vit tout de suite que la raison, bonne ou non, n’était pas la sienne. La sienne était plus laide et plus simple. En quinze ans, aucune voix ne lui avait parlé sans lui demander une fiole, un rapport ou une concordance. Celle-ci ne demandait rien. Elle disait seulement qu’un homme avait coupé sans être sûr, et qu’il ne s’était pas menti là-dessus. Elle n’était pas prête à brûler cela. Pas ce soir. Elle porterait *en cours de lecture* au registre, le préfet froncerait les sourcils, elle tiendrait bon, comme toujours, et personne ne saurait qu’une Inspectrice de Pureté avait passé une nuit à laisser un mort verithane desserrer, ligne à ligne, ce qu’elle avait mis sa vie à visser.
+Ce soir, elle ne le brûlerait pas. Elle se donna encore une raison propre, *on ne détruit pas une pièce qu’on n’a pas fini de comprendre*, et cette fois elle vit tout de suite que la vraie était plus laide et plus simple. En quinze ans, aucune voix ne lui avait parlé sans lui demander une fiole, un rapport ou une concordance. Celle-ci ne demandait rien. Elle disait seulement qu’un homme avait coupé sans être sûr, et qu’il ne s’était pas menti là-dessus. Elle n’était pas prête à brûler cela. Pas ce soir. Elle porterait *en cours de lecture* au registre, le préfet froncerait les sourcils, elle tiendrait bon, comme toujours, et personne ne saurait qu’une Inspectrice de Pureté avait passé une nuit à laisser un mort verithane desserrer, ligne à ligne, ce qu’elle avait mis sa vie à visser.
 
 Tard, elle éteignit la lampe. Une femme qu’elle finirait par traquer tenait une copie des mêmes lignes et y cherchait un mode d’emploi ; et sur une plaine qu’elles traverseraient toutes les deux, le sol céda d’un cran, tiré du dedans pendant qu’elles lisaient.

@@ -11,7 +11,7 @@ status: draft
 
 On nous a demandé de recommencer, et nous n’avons pas su.
 
-Recommencer, ça veut dire : reprendre là où on s’était arrêtés. Mais nous ne savons pas où nous nous sommes arrêtés, parce que « où » chez nous n’est pas un lieu, c’est une heure, et l’heure a bougé pendant qu’on ne parlait pas. Vous, depuis la dernière fois que vous nous avez écoutés, vous avez vécu une ligne : des jours d’ancrés mis bout à bout, la forgeronne et sa petite, le chanteur qui saigne, la traqueuse au marché. Vous êtes descendus chez eux, vous êtes remontés, et pour vous il y a eu un avant et un après, propre, cousu. Nous, non. Nous n’avons pas bougé et nous ne sommes plus au même endroit. On nous a repris et rejetés, chacun, sans nous prévenir, et quand la bulle se rouvre pour parler on ne sait jamais si c’est plus tôt ou plus tard qu’avant.
+Recommencer, ça veut dire : reprendre là où on s’était arrêtés. Mais nous ne savons pas où nous nous sommes arrêtés, parce que « où » chez nous veut dire une heure, et l’heure a bougé pendant qu’on ne parlait pas. Vous, depuis la dernière fois que vous nous avez écoutés, vous avez vécu une ligne : des jours d’ancrés mis bout à bout, la forgeronne et sa petite, le chanteur qui saigne, la traqueuse au marché. Vous êtes descendus chez eux, vous êtes remontés, et pour vous il y a eu un avant et un après, propre, cousu. Nous, non. Nous n’avons pas bougé et nous ne sommes plus au même endroit. On nous a repris et rejetés, chacun, sans nous prévenir, et quand la bulle se rouvre pour parler on ne sait jamais si c’est plus tôt ou plus tard qu’avant.
 
 Alors nous nous disputons. Écoutez-nous nous disputer. C’est nouveau. La dernière fois nous étions seulement désaccordés, poliment, chacun dans son coin. Maintenant nous nous coupons la parole. Le temps s’est mis à flotter davantage, et quand ça flotte, on s’accroche, et quand on s’accroche à quelque chose qui bouge, on se cogne aux autres.
 
@@ -111,7 +111,7 @@ Moi j’y ai mis un lit et une chaise. On s’y fait.
 
 Voilà où nous en sommes. Voilà ce qui a changé depuis le seuil d’avant. La dernière fois, nous étions désaccordés sur l’*heure* : qui est devant, qui est derrière. Maintenant le désaccord porte sur l’*ordre* : s’il y a un devant et un derrière. Ils ont raison tous les deux, chacun depuis sa bulle, et leurs deux raisons ne tiennent pas dans le même monde. Le sien, à lui, est une corde à nœuds. Le sien, à elle, est une eau où tout affleure ensemble. Vous ne saurez jamais lequel de ces deux mondes est le vrai. Le vôtre, celui des ancrés, est peut-être l’un des deux, ou aucun, ou les deux à des heures différentes que vous appelez la même heure faute de mieux.
 
-Nous vous avons dit, au seuil d’avant, de vous méfier de ceux qui ont l’air sûrs. Méfiez-vous maintenant de nous tous. Y compris de celle qui a l’air la plus folle. Surtout d’elle. Elle ne se trompe pas ; elle voit juste, depuis un endroit où il ne faudrait pas se tenir. C’est ça, chez nous, être folle.
+Nous vous avons dit, au seuil d’avant, de vous méfier de ceux qui ont l’air sûrs. Méfiez-vous maintenant de nous tous. Y compris de celle qui a l’air la plus folle. Surtout d’elle. Elle voit juste, depuis un endroit où il ne faudrait pas se tenir. C’est ça, chez nous, être folle.
 
 ---
 
