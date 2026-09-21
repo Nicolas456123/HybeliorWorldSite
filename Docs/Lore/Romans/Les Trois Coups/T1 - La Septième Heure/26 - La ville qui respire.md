@@ -95,7 +95,7 @@ En ressortant pour la pêche du soir, il retrouva la gêne, et cette fois elle n
 
 Sous sa maison, l’eau était plus haute qu’à la sieste. Aucun doute possible : il connaissait ses pilotis comme ses propres doigts, et la troisième traverse, celle qui restait toujours sèche, celle où il posait ses filets à ressuyer, était mouillée. Il la toucha. Le bois était humide sur toute sa largeur, d’une humidité fraîche et montante, pas d’une éclaboussure. La mer était venue jusque-là et n’était pas redescendue.
 
-Descendu dans sa pirogue, il rama vers le grand canal, non pour pêcher, pour voir. À mesure qu’il avançait dans la ville, il vit qu’il n’était pas le seul à regarder. Sur les quais bas, des femmes remontaient leur linge d’une marche. Un homme clouait une planche en travers de son seuil, de biais, sans mesurer, et sa voisine lui tendait les clous. Trois gamins avaient trouvé de l’eau neuve dans une ruelle qui n’en avait jamais eu et s’y jetaient à plat ventre, et leur mère criait de loin sans descendre les chercher. Un marchand de sel, sur l’île du Change, faisait passer ses sacs de bras en bras vers un entrepôt plus haut, et pestait à chaque sac.
+Descendu dans sa pirogue, il rama vers le grand canal, pour voir. À mesure qu’il avançait dans la ville, il vit qu’il n’était pas le seul à regarder. Sur les quais bas, des femmes remontaient leur linge d’une marche. Un homme clouait une planche en travers de son seuil, de biais, sans mesurer, et sa voisine lui tendait les clous. Trois gamins avaient trouvé de l’eau neuve dans une ruelle qui n’en avait jamais eu et s’y jetaient à plat ventre, et leur mère criait de loin sans descendre les chercher. Un marchand de sel, sur l’île du Change, faisait passer ses sacs de bras en bras vers un entrepôt plus haut, et pestait à chaque sac.
 
 « Regarde-moi ça, lui lança-t-il sans le connaître, à la manière des gens qui ont besoin d’un témoin. Trente ans que je pose mes sacs sur cette marche. Trente ans qu’elle est sèche à cette heure. Aujourd’hui, elle boit.
 
@@ -117,7 +117,7 @@ Le second prêtre s’arrêta net : il venait de voir la pirogue lente, et l’
 
 Personne ne s’affolait, pourtant. C’était cela qu’Ílvar garderait, s’il devait y avoir un après pour garder quelque chose : nul ne criait, nul ne courait. La ville rangeait son linge plus haut, déplaçait ses sacs, comptait ses degrés en haussant les épaules, et attendait l’explication qui n’avait jamais manqué. Les ingénieurs de la Thalassocratie, ceux qui descendaient dans les conduites et parlaient à Navigor dans le secret des vannes, savaient sûrement déjà, et régleraient cela avant la nuit comme ils réglaient tout depuis quatre cents ans.
 
-Ílvar ne se disait pas cela. Sans Lien depuis toujours, il n’en avait jamais rien attendu ; sa confiance allait à ses yeux, à ses mains, à son eau. Et ses yeux lui disaient que la mer montait sans marée, au matin, à midi, au soir, et qu’elle n’avait pas l’air d’une chose qui doive s’arrêter.
+Ílvar se fiait à autre chose. Sans Lien depuis toujours, il n’en avait jamais rien attendu ; sa confiance allait à ses yeux, à ses mains, à son eau. Et ses yeux lui disaient que la mer montait sans marée, au matin, à midi, au soir, et qu’elle n’avait pas l’air d’une chose qui doive s’arrêter.
 
 Au dernier bassin, celui qui donne sur le large, il resta comme au matin, avirons croisés, à écouter.
 
@@ -125,7 +125,7 @@ Le souffle était toujours sous la coque, et il n’était plus le même. Plus r
 
 Des mots pour cela, il n’en avait pas ; ils n’existaient pas encore, et ne naîtraient que plus tard, ailleurs, dans la bouche des rares qui verraient et survivraient. De ce savoir des mains qui ne se trompe pas, il savait seulement que la grande machine noyée sous Navoria, celle qui montait l’eau et tenait le sel dehors, respirait mal. Et qu’un pêcheur n’y pouvait rien, sinon rentrer, border son petit-fils si le petit passait, et se lever avant le jour pour relever ses nasses.
 
-Sur le chemin du retour, Méryl fermait son étal. Le voyant passer, elle leva la main, non pour le saluer : pour l’arrêter. Cela se lisait sur son visage.
+Sur le chemin du retour, Méryl fermait son étal. Le voyant passer, elle leva la main pour l’arrêter. Cela se lisait sur son visage.
 
 « Tu as vu les degrés du Sanctuaire ? dit-elle.
 

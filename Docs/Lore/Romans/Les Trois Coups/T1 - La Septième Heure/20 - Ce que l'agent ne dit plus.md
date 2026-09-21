@@ -19,7 +19,7 @@ Verkan le vit du seuil, avant même d’ôter son manteau : l’assiette, le ve
 
 — De trois quarts d’heure. » Le manteau accroché, il compta les pas jusqu’à la table, par habitude, et s’assit. « Le Bureau ne ferme pas parce que j’ai faim. »
 
-Elle apporta la marmite, servit deux assiettes de soupe aux fèves, comme tous les hivers, et laissa la troisième sèche. Vingt-deux ans, sèche elle aussi, avec les mains de sa mère et le silence de son père : un mauvais héritage des deux côtés, il le savait, et il n’y pouvait rien. Rensa était née Vide. Pas faible : Vide. Le test de résonance, à l’âge où l’on éprouve les enfants du Dominat, n’avait rien trouvé en elle, pas un fil, pas une trace, pas même l’ombre d’un Lien qui aurait pu grandir. Le mire le lui avait annoncé à voix basse, du ton dont on annonce une maladie, avec un regard qui demandait pardon. Verkan n’avait que faire d’un pardon. Sa question avait été : qui d’autre lirait le résultat, et combien d’années le registre le garderait.
+Elle apporta la marmite, servit deux assiettes de soupe aux fèves, comme tous les hivers, et laissa la troisième sèche. Vingt-deux ans, sèche elle aussi, avec les mains de sa mère et le silence de son père : un mauvais héritage des deux côtés, il le savait, et il n’y pouvait rien. Rensa était née Vide. Le test de résonance, à l’âge où l’on éprouve les enfants du Dominat, n’avait rien trouvé en elle, pas un fil, pas une trace, pas même l’ombre d’un Lien qui aurait pu grandir. Le mire le lui avait annoncé à voix basse, du ton dont on annonce une maladie, avec un regard qui demandait pardon. Verkan n’avait que faire d’un pardon. Sa question avait été : qui d’autre lirait le résultat, et combien d’années le registre le garderait.
 
 « On t’a vue aux registres bas, dit-il. Hier, en fin de matinée. »
 
@@ -69,7 +69,7 @@ Thevin attendait devant la porte du cabinet, un dossier sous le bras, de l’enc
 
 « Dans mon cabinet. »
 
-À l’intérieur, il alluma la lampe lui-même, il n’aimait pas qu’on la lui allume, et déplia le dossier sur la table. Le cahier de quarante pages était en haut de la pile, là où il l’avait laissé la veille. Ce n’était pas le rapport. Le vrai avait brûlé de sa main, le soir où l’ordre était tombé, tenu au-dessus des braises jusqu’à ce que la flamme lui vienne aux doigts. Ceci était sa propre écriture, sa propre encre : quarante pages recopiées de mémoire dans les nuits d’après.
+À l’intérieur, il alluma la lampe lui-même, il n’aimait pas qu’on la lui allume, et déplia le dossier sur la table. Le cahier de quarante pages était en haut de la pile, là où il l’avait laissé la veille. Le rapport, le vrai, avait brûlé de sa main, le soir où l’ordre était tombé, tenu au-dessus des braises jusqu’à ce que la flamme lui vienne aux doigts. Ceci était sa propre écriture, sa propre encre : quarante pages recopiées de mémoire dans les nuits d’après.
 
 « Vous savez qu’il n’existe plus, dit Thevin, prudent, les yeux sur le cahier. Le rapport. Vous l’avez fait brûler.
 
@@ -149,7 +149,7 @@ Le silence, dans le cabinet, prit une autre épaisseur. Thevin n’avait plus en
 
 « Huit agents retournés, dit-il lentement. Ça ne s’est jamais vu.
 
-— Un, cela se voit. Deux, on parle de malchance. » Verkan revint à la carte, mais cette fois il ne regarda pas les huit points ; il regarda l’espace entre eux, le vide au milieu de la figure, là où les huit fils se rejoindraient si on les tirait. « Huit agents formés à ne croire personne ont cru la même chose la même année. Demandez-vous ce qu’il faut pour obtenir cela. » Un temps. « Moi, je me le demande depuis trois semaines. »
+— Un, cela se voit. Deux, on parle de malchance. » Verkan revint à la carte, et cette fois il regarda l’espace entre les huit points, le vide au milieu de la figure, là où les huit fils se rejoindraient si on les tirait. « Huit agents formés à ne croire personne ont cru la même chose la même année. Demandez-vous ce qu’il faut pour obtenir cela. » Un temps. « Moi, je me le demande depuis trois semaines. »
 
 Thevin referma son feuillet et resta planté là, à attendre une consigne.
 
@@ -167,7 +167,7 @@ L’original, il l’avait lu d’un bout à l’autre avant de le porter au feu
 
 Il n’en était pas resté là. Voilà où était le mal.
 
-Les nuits suivantes, les pages brûlées avaient continué de se rouvrir en lui. Il se réveillait avec une phrase entière derrière les yeux, à la virgule près, et ne parvenait plus à la rendormir. Un soir, il avait pris une plume et recommencé le travail qu’il croyait avoir achevé : quarante pages recopiées de mémoire, dans son écriture serrée, chaque thèse, chaque objection, la ligne où elle avait tremblé. Pour l’enquête, se disait-il, pour tenir la pièce au dossier. Il savait que non. Il ne voulait pas être le seul homme vivant à avoir lu cela et à l’avoir laissé mourir sans trace.
+Les nuits suivantes, les pages brûlées avaient continué de se rouvrir en lui. Il se réveillait avec une phrase entière derrière les yeux, à la virgule près, et ne parvenait plus à la rendormir. Un soir, il avait pris une plume et recommencé le travail qu’il croyait avoir achevé : quarante pages recopiées de mémoire, dans son écriture serrée, chaque thèse, chaque objection, la ligne où elle avait tremblé. Pour l’enquête, se disait-il, pour tenir la pièce au dossier. Il ne voulait pas être le seul homme vivant à avoir lu cela et à l’avoir laissé mourir sans trace.
 
 Rouvrant sa copie à la première page, il retrouva sous sa propre encre l’autre écriture, telle qu’elle était restée dans sa mémoire : une main d’officier, droite, sans ornement, chaque lettre à sa place comme un soldat au garde-à-vous. Il l’avait connue, jadis. C’était lui qui avait signé son ordre de mission, des années plus tôt, dans une salle qui sentait la cire. *Vous la trouverez, capitaine. Il y en a toujours une, une faille.* Il le pensait sincèrement ce jour-là, et il le pensait encore : il avait défait beaucoup de mouvements sans une lame, rien qu’en trouvant la pourriture et en la posant sur la table.
 
@@ -179,7 +179,7 @@ Lui non plus n’avait pas d’arme pour l’inverse. Tout son métier tenait da
 
 Plus loin dans le cahier, elle exposait le Traité thèse par thèse, chacune suivie de l’attaque qu’elle avait tentée et de la raison de son échec, avec la sécheresse d’un plan de campagne. Il lut cela comme un officier lit le rapport d’un autre officier : en refaisant les attaques pour son compte, pour voir si elle avait manqué une poterne qu’il verrait, lui.
 
-Elle n’en avait manqué aucune. À chaque thèse, il posait l’objection dans sa tête ; deux pages plus loin, Verithan l’avait déjà posée et y avait répondu, non par un tour de force, mais en concédant tout ce qu’un honnête homme doit concéder. Y compris, et il s’arrêta longtemps là, que le monde d’après tuerait. Que les non-Liés qu’on prétendait libérer mourraient en foule, eux aussi.
+Elle n’en avait manqué aucune. À chaque thèse, il posait l’objection dans sa tête ; deux pages plus loin, Verithan l’avait déjà posée et y avait répondu en concédant tout ce qu’un honnête homme doit concéder. Y compris, et il s’arrêta longtemps là, que le monde d’après tuerait. Que les non-Liés qu’on prétendait libérer mourraient en foule, eux aussi.
 
 C’est là que le raisonnement le mordit.
 
@@ -199,12 +199,12 @@ La copie ne brûla pas ce soir-là. Il avait le brasier, la nuit, la solitude ;
 
 Restait la carte. Huit agents tus, un centre vide où les fils se nouaient. Lampe en main, il revint devant les cinq nations. Les provinces y étaient cousues au fil, une couleur par nation, et tout le sud de Cendara n’était qu’une grande pièce de toile grise que personne, au Bureau, n’avait jamais pris la peine de border. Une préceptrice, une communauté de silencieux, des érudits, de l’argent, une forge, un rêveur, un homme des ports. Et Vessa.
 
-C’était l’autre chose qu’il avait comprise sous les quarante pages : celle qui les avait écrites n’était pas seulement passée de l’autre côté. Elle était devenue leur effaceuse. C’était elle, maintenant, qui tenait les gîtes, trafiquait les registres, brouillait les pas, elle qui, deux ans plus tôt, lui aurait rapporté comment on s’y prend.
+C’était l’autre chose qu’il avait comprise sous les quarante pages : celle qui les avait écrites avait fait plus que passer de l’autre côté : elle était devenue leur effaceuse. C’était elle, maintenant, qui tenait les gîtes, trafiquait les registres, brouillait les pas, elle qui, deux ans plus tôt, lui aurait rapporté comment on s’y prend.
 
-Il connaissait sa main, son économie, sa façon de ne rien laisser dépasser ; il avait signé lui-même l’ordre qui l’avait envoyée apprendre tout cela. Elle effacerait. Il apprendrait à lire les endroits trop propres. Elle finirait par comprendre qu’il les lisait, et elle changerait de méthode ; il changerait aussi.
+Il connaissait sa main, son économie, sa façon de ne rien laisser dépasser ; il avait signé lui-même l’ordre qui l’avait envoyée apprendre tout cela. Elle effacerait. Il apprendrait à lire les endroits sans trace. Elle finirait par comprendre qu’il les lisait, et elle changerait de méthode ; il changerait aussi.
 
 « Où les envoies-tu, Vessa ? » dit-il à voix basse, à la carte, à personne.
 
-Les huit fils, si on les tirait, ne partaient pas dans huit directions : ils se rejoignaient. Il ne savait pas encore où. Le centre de la figure tombait au sud, dans les terres de Cendara, une région qu’il n’avait jamais eu de raison de surveiller et qu’il surveillerait désormais. Huit absences aussi propres, la même année, dans cinq nations : il ne croyait pas au hasard. Ces huit-là n’étaient pas morts. Ils avaient un rendez-vous, et ils préféraient qu’on n’y soit pas.
+Les huit fils, si on les tirait, se rejoignaient. Il ne savait pas encore où. Le centre de la figure tombait au sud, dans les terres de Cendara, une région qu’il n’avait jamais eu de raison de surveiller et qu’il surveillerait désormais. Huit absences aussi propres, la même année, dans cinq nations : il ne croyait pas au hasard. Ces huit-là avaient un rendez-vous, et ils préféraient qu’on n’y soit pas.
 
 Il éteignit la lampe. La carte disparut ; la figure resta derrière ses yeux, huit points, un centre, une flèche vers le sud. Et sous des terres que le Bureau n’avait bordées sur aucune carte, une chose lente, plus vieille que les cinq nations, tenait cette nuit-là les seuils ouverts, les guérisseurs debout et les cités dans le ciel ; elle ne s’était recopiée nulle part, et ce qu’on en garderait un jour, il faudrait le tenir de mémoire.

@@ -19,7 +19,7 @@ Elle tombait comme elle tombait toujours, sans qu’on la vît tomber : on la t
 
 *Pensée de savant.* Il la chassa. C’en était une qu’il avait prise aux autres, à la femme de Celethor, à l’homme de l’Académie ; il n’avait jamais rien cru, lui, que le feu, le fer, et ce que la main peut tenir.
 
-Et pourtant il l’entendait. C’était son secret, celui qu’il n’avait dit qu’à Kessa, celui pour quoi les sept autres l’avaient voulu dans le Cercle : il entendait le Mont. Pas avec les oreilles. Avec ce que la Voie de Khatun avait fait de lui : cette faculté de sentir la chaleur du dedans, la vraie, celle que l’œil ne montre pas. Sur une barre au feu, il la sentait ; sous la pierre, il la sentait aussi. Depuis toujours, quand il posait ses paumes à plat sur le sol de la remise, tard, quand tout dormait, très loin sous lui, très bas, montait une chaleur lente qui montait et descendait, montait et descendait, un souffle énorme et patient, un feu qui n’était pas encore un feu. Le Cœur. Jamais il n’en avait parlé aux prêtres de Khatun, qui en auraient fait un prêtre ou l’auraient brûlé. Rien de tout cela ne lui avait jamais fait envie. Forger, garder sa place, laisser à sa fille ce qu’on lui avait laissé : il n’avait pas voulu autre chose.
+Et pourtant il l’entendait. C’était son secret, celui qu’il n’avait dit qu’à Kessa, celui pour quoi les sept autres l’avaient voulu dans le Cercle : il entendait le Mont. La Voie de Khatun lui avait donné cela, cette faculté de sentir la chaleur du dedans, la vraie, celle que l’œil ne montre pas. Sur une barre au feu, il la sentait ; sous la pierre, il la sentait aussi. Depuis toujours, quand il posait ses paumes à plat sur le sol de la remise, tard, quand tout dormait, très loin sous lui, très bas, montait une chaleur lente qui montait et descendait, montait et descendait, un souffle énorme et patient, un feu qui n’était pas encore un feu. Le Cœur. Jamais il n’en avait parlé aux prêtres de Khatun, qui en auraient fait un prêtre ou l’auraient brûlé. Rien de tout cela ne lui avait jamais fait envie. Forger, garder sa place, laisser à sa fille ce qu’on lui avait laissé : il n’avait pas voulu autre chose.
 
 On lui avait pris la place. Restait le reste. Il montait le donner.
 
@@ -145,7 +145,7 @@ Kessa ne dit rien. Sa gorge travaillait.
 
 — Père—
 
-— Laisse. Laisse-moi finir, j’ai dit que je le dirais mal. » Les yeux fermés un instant, il chercha en lui, non les mots, il n’en avait pas, mais la chaleur, la vraie, celle de Khatun ; et il la fit monter doucement, en calme, pas en colère. Le foyer répondit : une flamme haute et droite et paisible, qui monta vers les poutres sans les mordre et redescendit à un souffle de son esprit. Une fois déjà, un an plus tôt, elle l’avait vu faire cela. Elle ne s’y était pas habituée. Elle avait grandi en le voyant lever le feu en colère ; celui-là montait autrement, et elle le regarda monter.
+— Laisse. Laisse-moi finir, j’ai dit que je le dirais mal. » Les yeux fermés un instant, il chercha en lui, à défaut des mots, la chaleur, la vraie, celle de Khatun ; et il la fit monter doucement, en calme, pas en colère. Le foyer répondit : une flamme haute et droite et paisible, qui monta vers les poutres sans les mordre et redescendit à un souffle de son esprit. Une fois déjà, un an plus tôt, elle l’avait vu faire cela. Elle ne s’y était pas habituée. Elle avait grandi en le voyant lever le feu en colère ; celui-là montait autrement, et elle le regarda monter.
 
 « Je te forgerai un poinçon. Un vrai. En acier de trempe, celui qui dure. Avec au bout les trois traits et le cercle, en creux, gravés à l’envers, pour que tu n’aies plus à les tracer trait par trait au burin sur chacune de tes pièces dans le monde d’après. Tu poses le poinçon, tu frappes un coup, et la marque est là, d’un coup, entière, propre. Sur chaque soc. Chaque clou. Chaque gond. Aussi longtemps que tu forgeras, et que forgeront celles et ceux à qui tu l’apprendras. »
 
@@ -155,13 +155,13 @@ Il la regardait.
 
 *
 
-Kessa pleurait, cette fois. Pas de rage. L’autre eau, celle qu’elle avait retenue tout le soir, qu’elle avait refusée aux cris et aux disputes et qu’elle laissait enfin descendre, sans un bruit, comme la cendre de Cendral.
+Kessa pleurait, cette fois. L’autre eau, celle qu’elle avait retenue tout le soir, qu’elle avait refusée aux cris et aux disputes et qu’elle laissait enfin descendre, sans un bruit, comme la cendre de Cendral.
 
 « Tu ne renonces pas, dit-elle. Ce n’est pas oui à ce que je demande vraiment.
 
 — Non. » Il le dit sans se dérober ; il ne savait pas mentir au fer et il n’allait pas mentir à sa fille le dernier soir. « Ce n’est pas oui. Je monte. J’ai les yeux ouverts et je monte quand même, et je mourrai là-haut le premier, parce que je connais le Cœur et que celui qui le réveille est le premier pris. Tu ne me changeras pas ; personne ne me change ; je suis trempé depuis quarante ans, je ne me déforge plus. Mais toi… » Il posa la main sur l’épaule de sa fille, cette large épaule de forgeronne, pendant que derrière eux la flamme montait toujours droite. « Toi tu es encore au feu. Toi tu peux encore devenir autre chose que ma colère. Et je vais passer mon dernier jour d’homme, mon tout dernier jour, à te forger de quoi ne pas hériter du pire de moi. Le soc pour Tomas. Le poinçon pour toi. Deux choses de fer que je laisse en bas pendant que je monte porter le feu. C’est tout ce qu’un vieux forgeron sait faire, petite : poser du fer dans les mains des vivants avant de s’en aller. »
 
-Elle s’appuya contre lui. Elle ne l’avait pas fait depuis des années, depuis qu’elle était devenue trop grande et lui trop dur : le front contre l’épaule de son père, comme à sept ans. Il la tint, maladroitement, de ce bras qui savait tenir la tenaille et le marteau et si mal les gens. Par-dessus la tête de sa fille, il regardait le feu monter droit, calme, obéissant, cette flamme qu’il avait appris sur le tard à appeler autrement qu’en rage. C’était peut-être la seule chose bonne qu’il eût jamais tirée de la Voie de Khatun : non pas soulever le feu, n’importe quel prêtre le faisait, mais apprendre, à soixante ans, une fois, le dernier soir, à le lever en paix.
+Elle s’appuya contre lui. Elle ne l’avait pas fait depuis des années, depuis qu’elle était devenue trop grande et lui trop dur : le front contre l’épaule de son père, comme à sept ans. Il la tint, maladroitement, de ce bras qui savait tenir la tenaille et le marteau et si mal les gens. Par-dessus la tête de sa fille, il regardait le feu monter droit, calme, obéissant, cette flamme qu’il avait appris sur le tard à appeler autrement qu’en rage. C’était peut-être la seule chose bonne qu’il eût jamais tirée de la Voie de Khatun : avoir appris, à soixante ans, une fois, le dernier soir, à lever le feu en paix. Soulever le feu, n’importe quel prêtre le faisait.
 
 *
 
@@ -183,7 +183,7 @@ Drakhan se leva. Les vieux yeux mirent un temps à le trouver dans la lueur du f
 
 — Fini. »
 
-Il le prit sur l’établi, encore tiède de la trempe du matin, et le lui mit dans les mains : non sur l’établi entre eux, dans les mains, la paume du vieux refermée dessus par la sienne. Tomas éprouva le tranchant du pouce, à la manière des paysans, comme on jauge une faux avant l’aoûtage, et hocha la tête.
+Il le prit sur l’établi, encore tiède de la trempe du matin, et le lui mit dans les mains, la paume du vieux refermée dessus par la sienne. Tomas éprouva le tranchant du pouce, à la manière des paysans, comme on jauge une faux avant l’aoûtage, et hocha la tête.
 
 « Du bon, dit-il. Ça durera. Tu fais toujours du bon, Cendrier. Ton père en faisait, ton grand-père en faisait. » Tomas leva le soc à hauteur de ses yeux, chercha la marque au talon, la trouva. « Les trois traits et le cercle. Tiens. Je croyais qu’ils t’avaient défendu de la mettre.
 
@@ -235,8 +235,8 @@ Elle le prit à deux mains, comme on prend une braise qu’on n’ose pas encore
 
 À la tombée du jour, il partit.
 
-Pas par la Route des Cendres : Aelindra passa le prendre au bas de la ruelle, avec les autres, dans l’ombre bleue de ce crépuscule de Cendral où la cendre tombait comme toujours, un peu plus dense, un peu plus grise. Il ne se retourna guère. Une fois seulement, à l’angle de la ruelle, il regarda la lueur de la forge par la porte entrebâillée, et la silhouette de sa fille dedans, déjà penchée sur l’enclume, déjà à s’entraîner à forger sans lui. La porte était loin et la lumière basse. Il vit quand même, ou il crut voir, qu’elle levait le poinçon neuf, le posait sur une chute de fer et frappait, une fois, pour essayer, pour voir la marque venir d’un coup, entière, propre.
+Aelindra passa le prendre au bas de la ruelle, avec les autres, dans l’ombre bleue de ce crépuscule de Cendral où la cendre tombait comme toujours, un peu plus dense, un peu plus grise. Il ne se retourna guère. Une fois seulement, à l’angle de la ruelle, il regarda la lueur de la forge par la porte entrebâillée, et la silhouette de sa fille dedans, déjà penchée sur l’enclume, déjà à s’entraîner à forger sans lui. La porte était loin et la lumière basse. Il vit quand même, ou il crut voir, qu’elle levait le poinçon neuf, le posait sur une chute de fer et frappait, une fois, pour essayer, pour voir la marque venir d’un coup, entière, propre.
 
 Le son ne lui parvint pas. Trop loin, déjà. Mais il connaissait ce bruit depuis soixante ans. *Tannk.* Il l’emporta.
 
-Devant lui, la ruelle montait, comme montaient toutes les ruelles de Cendral, vers le haut, vers le noir, vers la masse sans lumière qui bouchait la moitié du ciel et n’était pas la nuit mais le Mont. Pas *au loin*, jamais au loin, pas pour un homme de Cendral : le Mont était là, sur eux, penché sur la ville comme un forgeron sur son enclume, et sa cendre tombait sur les épaules de Drakhan à mesure qu’il montait vers lui. Et sous ses pieds, dans la pierre qu’il connaissait mieux qu’aucun vivant, ce qui respirait là bien avant les premières forges avait mis sa marque au talon de tout ce qui marchait par-dessus, et aucun burin au monde n’aurait pu l’effacer.
+Devant lui, la ruelle montait, comme montaient toutes les ruelles de Cendral, vers le haut, vers le noir, vers la masse sans lumière qui bouchait la moitié du ciel : le Mont. Il était là, sur eux, penché sur la ville comme un forgeron sur son enclume, jamais au loin pour un homme de Cendral, et sa cendre tombait sur les épaules de Drakhan à mesure qu’il montait vers lui. Et sous ses pieds, dans la pierre qu’il connaissait mieux qu’aucun vivant, ce qui respirait là bien avant les premières forges avait mis sa marque au talon de tout ce qui marchait par-dessus, et aucun burin au monde n’aurait pu l’effacer.

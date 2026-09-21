@@ -13,7 +13,7 @@ status: draft
 
 Le naufragé jurait dans une langue que Kayara ne connaissait pas, et elle sut qu’il vivrait.
 
-Ceux qui meurent ne jurent pas. Ils appellent, ou ils se taisent, ou ils disent des noms de femmes et d’enfants à une eau qui ne rend rien. Celui-là, accroché à son bout d’espar au milieu de la passe du Corail-Mort, insultait la mer avec la régularité d’un charpentier qui plante un clou. Elle abattit *l’Amère* d’un quart, laissa porter, calcula la dérive de l’épave et la sienne, et vint le cueillir par le travers sans mouiller le pont.
+Ceux qui meurent appellent, ou ils se taisent, ou ils disent des noms de femmes et d’enfants à une eau qui ne rend rien. Celui-là, accroché à son bout d’espar au milieu de la passe du Corail-Mort, insultait la mer avec la régularité d’un charpentier qui plante un clou. Elle abattit *l’Amère* d’un quart, laissa porter, calcula la dérive de l’épave et la sienne, et vint le cueillir par le travers sans mouiller le pont.
 
 « Arrête de gueuler, lança-t-elle en se penchant. Tu vas avaler la moitié de la passe. »
 
@@ -77,7 +77,7 @@ Trois pas. La femme ne la retint pas, ne dit rien, ne bougea pas. Ce fut l’hom
 
 « Comment as-tu su que la passe était franchissable ? »
 
-Kayara s’arrêta. Pas à cause de la question : à cause de la façon dont il l’avait posée. Pas *comment as-tu osé*. Pas *comment as-tu eu de la chance*. Il tenait pour acquis qu’elle avait su. Il voulait seulement savoir par quoi.
+Kayara s’arrêta. C’était la façon dont il avait posé la question. Un autre aurait demandé *comment as-tu osé*, ou *comment as-tu eu de la chance*. Lui tenait pour acquis qu’elle avait su. Il voulait seulement savoir par quoi.
 
 Elle se retourna à demi.
 
@@ -87,7 +87,7 @@ Elle se retourna à demi.
 
 — Le bruit de l’eau *sur* le corail. » Elle haussa une épaule, agacée de devoir mettre des mots sur une chose qui n’en demandait pas. « L’eau qui passe sur un fond mort ne chante pas comme l’eau qui passe sur un fond vif. Le Corail-Mort, il est mort, justement. L’eau y glisse plus lisse. Tu l’entends, si tu as passé quarante ans à l’écouter. Un chenal, là-dedans, ça sonne comme une note tenue au milieu d’un raclement. Je suis la note. Voilà. C’est tout mon secret, et il ne te sert à rien, parce qu’il te faudrait quarante ans pour l’avoir. »
 
-L’homme ne dit rien. Sur son visage passa quelque chose qui n’était pas de l’étonnement : il venait de trouver ce qu’il cherchait, et il avait l’air de l’avoir cherché longtemps.
+L’homme ne dit rien. Sur son visage passa la satisfaction de quelqu’un qui vient de trouver ce qu’il cherchait, et qui l’a cherché longtemps.
 
 « Assieds-toi cinq minutes, dit la femme. Une tasse. Tu prendras ta marée après ; elle attendra.
 
@@ -99,7 +99,7 @@ Mais elle s’assit.
 
 Elle s’assit parce que la tasse était de vraie tisane d’algue et non de cette lavasse continentale, et qu’ils avaient su la choisir ; parce que l’homme silencieux ne la fatiguait pas, ce qui était rare ; et parce qu’elle était curieuse et n’avait jamais su s’en cacher.
 
-On ne lui proposa rien ce jour-là. C’était habile. Ils lui posèrent des questions : sur les îles, sur les maisons qui plient, sur la façon dont on trouve de l’eau douce sur une côte sèche, sur ce qu’on mange quand la pêche manque, sur les enfants d’Azoria qui apprennent les routes d’eau par cœur en chantant. La femme buvait les réponses ; l’homme les pesait. Et Kayara, qui se méfiait des gens qui achètent, se surprit à parler, parce que personne ne l’avait jamais interrogée ainsi : non pour la plaindre de n’avoir pas le Lien, mais pour apprendre ce qu’elle avait à la place.
+On ne lui proposa rien ce jour-là. C’était habile. Ils lui posèrent des questions : sur les îles, sur les maisons qui plient, sur la façon dont on trouve de l’eau douce sur une côte sèche, sur ce qu’on mange quand la pêche manque, sur les enfants d’Azoria qui apprennent les routes d’eau par cœur en chantant. La femme buvait les réponses ; l’homme les pesait. Et Kayara, qui se méfiait des gens qui achètent, se surprit à parler, parce que personne ne l’avait jamais interrogée ainsi. On la plaignait, d’ordinaire, de n’avoir pas le Lien ; ces deux-là voulaient apprendre ce qu’elle avait à la place.
 
 « Une côte sèche, reprit l’homme après un temps, comme si le détail lui importait plus que le reste. Tu as dit qu’on y trouve de l’eau douce. Comment ? Il n’y a pas de source.
 
@@ -153,11 +153,11 @@ Elle sortit dans le vent du port, et ne se retourna plus.
 
 Elle rentra aux îles ce soir-là, sur la marée qu’elle avait failli manquer. Trois jours durant, elle laissa l’affaire au mouillage au fond d’elle, ni larguée ni relevée. Elle ne l’oublia pas un seul de ces trois jours.
 
-Les gens à taches d’encre revinrent. Pas eux : d’autres, plus tard, une autre saison. Un homme de la Ligue dans un tripot, une bourse trop lourde, quatre passagers à porter du continent vers le continent par un grand détour, et un mot, un seul, à cause duquel elle prendrait la bourse : *la mer ne le dira à personne.* Mais cela, c’était encore devant elle.
+Les gens à taches d’encre revinrent. D’autres qu’eux, plus tard, une autre saison. Un homme de la Ligue dans un tripot, une bourse trop lourde, quatre passagers à porter du continent vers le continent par un grand détour, et un mot, un seul, à cause duquel elle prendrait la bourse : *la mer ne le dira à personne.* Mais cela, c’était encore devant elle.
 
 Chez elle, la maison l’attendait sur ses pilotis, plus haute qu’au départ parce que la marée était pleine, et le plancher gardait ce mouvement lent qu’elle ne sentait plus depuis longtemps. Les enfants rentraient leurs pirogues en chantant la carte des passes, une note par écueil, comme on la leur avait apprise, comme elle-même l’avait apprise. Assise au bord du ponton, les pieds dans le vide au-dessus de l’eau noire, elle goûta le sel une dernière fois avant la nuit. Franc. Pur. Le sel de chez elle.
 
-Puis elle pensa à la femme aux taches d’encre, à sa phrase sur le jour qui venait et sur ceux qui resteraient debout. Elle n’y croyait qu’à moitié. Les gens de la terre annonçaient une fin tous les dix ans, et le monde durait ; ils avaient trop à perdre pour dormir tranquilles. Elle pensa quand même, sans y penser vraiment, à ce que serait un monde où tout ce qui tenait par le fil invisible du continent lâcherait d’un coup : les Liés-de-Navigor devenus sourds au milieu de l’eau comme le pauvre du Corail-Mort, les portails qui ne s’ouvriraient plus, les cités hautes qui redescendraient. Et dans ce monde-là, les enfants de son village chanteraient encore la carte des passes. Elle ne pendait à aucun fil qu’on pût couper : elle était dans les bouches, dans les mémoires, dans la corne des mains qui tiennent une barre.
+Puis elle pensa à la femme aux taches d’encre, à sa phrase sur le jour qui venait et sur ceux qui resteraient debout. Elle n’y croyait qu’à moitié. Les gens de la terre annonçaient une fin tous les dix ans, et le monde durait ; ils avaient trop à perdre pour dormir tranquilles. Elle pensa quand même, sans y penser vraiment, à ce que serait un monde où tout ce qui tenait par le fil invisible du continent lâcherait d’un coup : les Liés-de-Navigor devenus sourds au milieu de l’eau comme le pauvre du Corail-Mort, les portails qui ne s’ouvriraient plus, les cités hautes qui redescendraient. Et dans ce monde-là, les enfants de son village chanteraient encore la carte des passes. Elle était dans les bouches, dans les mémoires, dans la corne des mains qui tiennent une barre.
 
 Aucun fil ne l’avait jamais tenue. On ne pouvait rien lui couper.
 

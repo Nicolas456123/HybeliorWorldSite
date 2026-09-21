@@ -17,11 +17,11 @@ Ils voyageaient par petits groupes, jamais tous ensemble, jamais tout à fait s�
 
 — Alors nous nous cachons, avait dit Thessan.
 
-— Non. » Elle avait posé le paquet de cartes et l’avait aligné au bord de la table du bout de l’ongle, comme si la symétrie comptait. « On cache une lettre en la posant ouverte entre mille autres lettres. Personne ne la lit parce que personne ne la remarque. » Elle avait relevé les yeux, et ils étaient sans chaleur, non par dureté, par économie, comme tout chez elle. « Ne vous rendez pas invisible, Thessan. Rendez-vous ennuyeux. C’est plus sûr. »
+— Non. » Elle avait posé le paquet de cartes et l’avait aligné au bord de la table du bout de l’ongle, comme si la symétrie comptait. « On cache une lettre en la posant ouverte entre mille autres lettres. Personne ne la lit parce que personne ne la remarque. » Elle avait relevé les yeux, et ils étaient sans chaleur, par économie, comme tout chez elle. « Ne vous rendez pas invisible, Thessan. Rendez-vous ennuyeux. C’est plus sûr. »
 
 Il n’avait rien trouvé à répondre. Deux jours plus tard, commis d’ambre sans ambre, il marchait, et il comprenait qu’elle avait dispersé le Cercle à l’endroit exact où personne ne penserait à regarder.
 
-Ces jours-ci, on l’avait mis avec Sera. Une part de lui savait que ce n’était pas un hasard : on l’avait logé chez elle comme on met l’enfant qui a peur du noir dans la chambre du plus calme des adultes. Il ne s’en offusquait pas, faute de force. La peur ne le lâchait plus assez longtemps pour lui laisser le loisir d’avoir de l’orgueil.
+Ces jours-ci, on l’avait mis avec Sera. Une part de lui savait qu’on l’avait voulu ainsi : on l’avait logé chez elle comme on met l’enfant qui a peur du noir dans la chambre du plus calme des adultes. Il ne s’en offusquait pas, faute de force. La peur ne le lâchait plus assez longtemps pour lui laisser le loisir d’avoir de l’orgueil.
 
 Trois jours plus tôt, ils avaient quitté la route des grandes caravanes, à Sulvane. Sulvane où Vael était mort. Cela, il ne l’avait pas dit à Sera. Il avait regardé les toits bas, les canaux, l’eau verte d’où montait la fièvre, en se demandant lequel de ces murs avait vu tomber son frère, et ce soir-là il n’avait rien écrit du tout. Depuis, une route de terre battue remontait vers le sud à travers Cendara, entre des champs de blé mûr que personne n’avait moissonnés et des villages où l’on brûlait le soir des herbes contre les moustiques. Le pays devenait sec. La terre avait la couleur du fer qu’on laisse rouiller. Et quand le vent tournait, l’air apportait par bouffées une odeur qu’il ne connaissait pas : minérale, chaude, un peu soufrée.
 
@@ -57,9 +57,9 @@ La plume revint sur la table. Il regarda ses deux mains ouvertes sur le cahier, 
 
 *Je m’aperçois que j’écris de moins en moins « nous » et de plus en plus « je », comme si la première personne du pluriel était une chaleur que je perds à mesure que nous approchons du froid.*
 
-Il relut la ligne. Et il remarqua, avec un petit rire sans joie qui fit lever les yeux de Sera à l’autre bout du feu, que dans la phrase même où il constatait la perte du *nous*, il avait écrit une dernière fois *nous approchons*. Le pronom tenait encore, agrippé au bord de la phrase, comme un homme qui glisse tient encore le rebord du bout des doigts. Il lâcherait bientôt. Thessan le sentait.
+Il relut la ligne. Et il remarqua, avec un petit rire qui fit lever les yeux de Sera à l’autre bout du feu, que dans la phrase même où il constatait la perte du *nous*, il avait écrit une dernière fois *nous approchons*. Le pronom tenait encore, agrippé au bord de la phrase, comme un homme qui glisse tient encore le rebord du bout des doigts. Il lâcherait bientôt. Thessan le sentait.
 
-Cette érosion-là l’effrayait plus que le reste, parce qu’elle se passait en lui, dans sa langue, sans qu’il l’eût décidé. Il n’avait pas choisi d’écrire *je*. Sa main l’avait choisi pour lui, comme elle choisissait Vael, comme elle avait toujours choisi ce qu’il n’osait pas penser. Et il comprit ce soir-là une chose qu’il n’écrivit pas : il se préparait à mourir seul, et il avait commencé sans le savoir, par la grammaire.
+Cette érosion-là l’effrayait plus que le reste, parce qu’elle se passait en lui, dans sa langue, sans qu’il l’eût décidé. Sa main avait choisi pour lui d’écrire *je*, comme elle choisissait Vael, comme elle avait toujours choisi ce qu’il n’osait pas penser. Et il comprit ce soir-là une chose qu’il n’écrivit pas : il se préparait à mourir seul, et il avait commencé sans le savoir, par la grammaire.
 
 ---
 
@@ -101,7 +101,7 @@ Puis sa main glissa, comme toujours, et sous la ligne sur Sera elle écrivit ce 
 
 ---
 
-L’homme sans nom les rejoignit à la nuit tombée, au sixième ou septième jour. Thessan ne savait plus très bien : le décompte en marge n’obéissait plus tout à fait aux jours réels, il flottait comme flottaient tous les chiffres à mesure qu’on approchait. L’homme n’était pas venu par la route de Sulvane. Il montait de la côte, du sud, de cette crique sans nom où l’autre moitié du Cercle avait débarqué de la mer et remontait maintenant vers eux par les hauteurs. Personne ne le dit à Thessan ; il le devina au sel resté dans ses vêtements, et à sa façon de regarder le nord en homme qui en revenait.
+L’homme sans nom les rejoignit à la nuit tombée, au sixième ou septième jour. Thessan ne savait plus très bien : le décompte en marge n’obéissait plus tout à fait aux jours réels, il flottait comme flottaient tous les chiffres à mesure qu’on approchait. L’homme montait de la côte, du sud, de cette crique sans nom où l’autre moitié du Cercle avait débarqué de la mer et remontait maintenant vers eux par les hauteurs. Personne ne le dit à Thessan ; il le devina au sel resté dans ses vêtements, et à sa façon de regarder le nord en homme qui en revenait.
 
 Il arrivait toujours ainsi, sans qu’on l’entendît venir, surgi du bord de la nuit comme s’il avait été là depuis le début et qu’on ne l’eût pas remarqué. D’un fil du Cercle à l’autre, il se glissait selon une logique que lui seul tenait : le chef de l’entreprise devait rester introuvable en étant partout.
 
@@ -123,7 +123,7 @@ Thessan attendit. L’homme ne développa pas tout de suite. Du bout d’une bri
 
 « C’est bien, reprit-il enfin, parce que le *nous* est un mensonge doux. » La brindille remuait les braises, une par une, comme on compte. « On ne fait jamais rien d’important ensemble. Jamais. »
 
-Un long temps. Thessan crut la phrase finie ; elle ne l’était pas. L’homme la laissait seulement refroidir avant d’en poser une autre.
+Un long temps. Thessan crut la phrase finie. L’homme la laissait seulement refroidir avant d’en poser une autre.
 
 « Sera pour sa sœur. Drakhan pour sa classe. Vorath pour son Silence. » La brindille s’arrêta une seconde sur une braise. « Toi pour ta mémoire. Et moi pour… »
 
@@ -139,7 +139,7 @@ La phrase resta ouverte, encore, suspendue au bord du feu. Thessan attendit une 
 
 « C’est ça, ta part, acheva l’homme, plus bas. Ne pas trancher. »
 
-Il y avait dans sa voix, ce soir-là, une nuance que Thessan ne lui connaissait pas. Pas la lassitude patiente des grands soirs d’Aethranor. Quelque chose de plus mince, de plus tendu, une fatigue d’un autre ordre. Thessan hésita. Puis, parce qu’il tenait le journal et qu’il commençait à comprendre que tenir le journal donnait aussi le droit de poser les questions que personne d’autre n’osait, il demanda :
+Il y avait dans sa voix, ce soir-là, une nuance que Thessan ne lui connaissait pas. Quelque chose de plus mince, de plus tendu, une fatigue d’un autre ordre que la lassitude patiente des grands soirs d’Aethranor. Thessan hésita. Puis, parce qu’il tenait le journal et qu’il commençait à comprendre que tenir le journal donnait aussi le droit de poser les questions que personne d’autre n’osait, il demanda :
 
 « Et toi, tu le perds aussi, le *nous* ? »
 
@@ -149,7 +149,7 @@ Il avait vu. Ou cru voir. Jamais il ne pourrait en être sûr : la nuit, le feu
 
 Mais si c’était vrai, si l’homme de la certitude, celui qui s’avancerait au sommet vers son propre Nœud sans que sa main tremblât, avait tremblé ce soir, dans le noir, à la seule question de savoir s’il perdait le *nous*, alors une chose que Thessan avait prise pour un roc se fissurait comme tout le reste.
 
-Il ne dit rien. Cet homme avait passé sa vie à ne montrer que son dos ; Thessan n’allait pas lui apprendre qu’on l’y avait vu trembler. S’il s’était trompé, il lui prêtait une faiblesse qu’il n’avait pas. S’il avait vu juste, il lui arrachait le seul voile tendu entre le monde et lui. Dans les deux cas, c’était une cruauté.
+Il ne dit rien. Cet homme montrait son dos depuis toujours ; Thessan n’allait pas lui apprendre qu’on l’y avait vu trembler. S’il s’était trompé, il lui prêtait une faiblesse qu’il n’avait pas. S’il avait vu juste, il lui arrachait le seul voile tendu entre le monde et lui. Dans les deux cas, c’était une cruauté.
 
 Alors il reprit sa plume. Et sur la page, dans le noir, d’une main qui, elle, tremblait un peu, il écrivit ceci, qu’il n’oserait relire qu’au matin :
 
@@ -185,7 +185,7 @@ Un matin, au sortir d’une hêtraie, la plaine s’ouvrit devant eux, immense, 
 
 « Le voilà », dit-elle, très doucement, sans se retourner.
 
-Un sommet. Noir, tranquille, coiffé d’un très mince filet de brume pâle qui montait tout droit dans l’air sans vent et se défaisait très haut. Ce n’était pas de la brume, comprit Thessan. C’était un souffle. La respiration lente d’une chose qui dormait là depuis le commencement et qu’ils allaient réveiller.
+Un sommet. Noir, tranquille, coiffé d’un très mince filet de brume pâle qui montait tout droit dans l’air sans vent et se défaisait très haut. Un souffle, comprit Thessan. La respiration lente d’une chose qui dormait là depuis le commencement et qu’ils allaient réveiller.
 
 « On dirait qu’il fume, dit-il. Comme s’il y avait quelqu’un dessus qui aurait allumé un feu.
 

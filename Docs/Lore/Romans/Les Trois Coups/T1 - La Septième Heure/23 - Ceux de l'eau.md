@@ -13,7 +13,7 @@ status: draft
 
 Le sel avait changé de goût, et Kayara sut qu’il y aurait du gros temps avant le soir.
 
-Cela ne s’apprenait pas. Les nœuds s’apprenaient, les cartes, la façon de lire un ciel ; tout cela se transmettait d’une génération à l’autre comme un vieil outil qu’on se passe et qu’on affûte au passage. Mais le virement du sel vers le métal, quand la mer se retourne sur elle-même quelque part au sud, sous l’horizon, cela ne s’enseignait pas : cela se buvait. Année après année, jusqu’à ce que la langue devienne plus fine qu’aucun instrument sorti d’un atelier du continent. Sa mère l’avait bu avant elle, et la mère de sa mère, et ainsi jusqu’à la première femme d’Azoria qui avait tiré une pirogue sur le sable noir. C’était là tout son héritage. Elle le portait dans la bouche et ne l’aurait pas échangé contre le Lien.
+Cela ne s’apprenait pas. Les nœuds s’apprenaient, les cartes, la façon de lire un ciel ; tout cela se transmettait d’une génération à l’autre comme un vieil outil qu’on se passe et qu’on affûte au passage. Mais le virement du sel vers le métal, quand la mer se retourne sur elle-même quelque part au sud, sous l’horizon, cela se buvait. Année après année, jusqu’à ce que la langue devienne plus fine qu’aucun instrument sorti d’un atelier du continent. Sa mère l’avait bu avant elle, et la mère de sa mère, et ainsi jusqu’à la première femme d’Azoria qui avait tiré une pirogue sur le sable noir. C’était là tout son héritage. Elle le portait dans la bouche et ne l’aurait pas échangé contre le Lien.
 
 Du dos de la main elle essuya ses lèvres, goûta encore, confirma. Métal. Avant le soir, donc. Elle ne dit rien tout de suite. Ses passagers dormaient, ou faisaient semblant, et rien ne justifiait de leur voler les quelques heures de calme qui restaient. Ils en auraient besoin.
 
@@ -99,7 +99,7 @@ Le silence de Sera avait duré, et Kayara, qui n’aimait pas les silences qui d
 
 « Vas-y. Dis-le, ton affaire. On a la nuit, et la nuit avance. »
 
-Alors Sera avait parlé. Pas pour convaincre : pour donner, avec la patience d’une préceptrice, comme si expliquer était une manière de se rendre supportable à elle-même. Ils allaient au sud de Cendara pour tuer le Lien. Pas le blesser. Pas le réformer. Le tuer, le trancher au seul endroit du monde où on pouvait le trancher, un sommet noir dont Sera parlait comme d’un cœur, le point le plus dense de toute la Trame. Et rendre par là le monde à ce qu’il était avant.
+Alors Sera avait parlé. Pour donner, avec la patience d’une préceptrice, comme si expliquer était une manière de se rendre supportable à elle-même. Ils allaient au sud de Cendara pour tuer le Lien. Pas le blesser. Pas le réformer. Le tuer, le trancher au seul endroit du monde où on pouvait le trancher, un sommet noir dont Sera parlait comme d’un cœur, le point le plus dense de toute la Trame. Et rendre par là le monde à ce qu’il était avant.
 
 « On ne peut pas donner le Lien à tous, dit Sera. C’est le drame. On a essayé, sur mille ans, de toutes les manières. Il naît avec vous ou il ne naît pas, et rien n’y fait. Alors il y a ceux qui l’ont et ceux qui ne l’ont pas, et ceux qui ne l’ont pas ne sont rien. On les appelle Vides. Ma sœur en est une. »
 
@@ -113,7 +113,7 @@ Puis elle avait fait une chose que Sera, visiblement, n’attendait pas.
 
 Elle avait ri.
 
-Pas méchamment. Elle n’était pas méchante, et cette femme lui plaisait, avec sa lumière fatigante et sa justice terrible. Le rire bref et rauque des gens qui ont pris beaucoup d’embruns dans la gorge.
+Elle n’était pas méchante, et cette femme lui plaisait, avec sa lumière fatigante et sa justice terrible. Le rire bref et rauque des gens qui ont pris beaucoup d’embruns dans la gorge.
 
 « Quoi ? » La lumière de Sera avait vacillé pour la première fois. « J’ai dit quelque chose de risible ?
 
@@ -121,7 +121,7 @@ Pas méchamment. Elle n’était pas méchante, et cette femme lui plaisait, ave
 
 ---
 
-Elle avait essayé de le lui expliquer, cette nuit-là, et les nuits d’après. Pas pour la contredire : ce n’était pas son affaire, elle l’avait dit, on l’avait payée pour la traversée. Mais Sera avait posé sur elle un regard de pitié, et Kayara, qui supportait beaucoup de choses, ne supportait pas la pitié. Surtout pas celle de quelqu’un qui allait mourir sur une montagne pour vous.
+Elle avait essayé de le lui expliquer, cette nuit-là, et les nuits d’après. La contredire n’était pas son affaire, elle l’avait dit, on l’avait payée pour la traversée. Mais Sera avait posé sur elle un regard de pitié, et Kayara, qui supportait beaucoup de choses, ne supportait pas la pitié. Surtout pas celle de quelqu’un qui allait mourir sur une montagne pour vous.
 
 « Chez nous, sur les îles, on n’est pas des Vides. » Elle avait cherché ses mots dans le noir, ceux d’une langue qui n’avait pas été taillée pour ces débats. « On est des Gens de l’Eau. Le Lien y est si mince que même ceux qui naissent Liés ne le sont qu’à peine, et grandissent comme les autres, avec leurs mains, leur langue, leur mémoire. Pas de guérisseurs-Liés chez nous. Des rebouteuses qui connaissent trois cents plantes. Pas de portails. Des routes d’eau que les enfants apprennent par cœur en chantant. Pas de cités volantes. Des maisons sur pilotis qui montent et descendent avec la marée, et qu’aucune tempête n’a jamais arrachées, parce qu’on les bâtit pour plier au lieu de résister. Comme une coque. »
 
@@ -129,7 +129,7 @@ Elle avait essayé de le lui expliquer, cette nuit-là, et les nuits d’après.
 
 — On ne vit pas *sans*. » Le mot avait fait tiquer Kayara. « *Sans*, c’est ton mot à toi. Ton mot de Liée. Pour toi il y a le Lien, et à côté un trou en forme de Lien. Chez nous il n’y a pas de trou. Il n’y a jamais rien eu à cet endroit-là. » Elle avait raffermi sa prise sur la barre, corrigé le cap d’un souffle, sans quitter des yeux la voile pâle. « Toi, tu as le Lien, tu sais ce que c’est de le perdre, et ça vous terrifie, tous. Je le vois à votre façon de vous tenir. Comme des gens au bord d’un quai. Nous, on ne l’a jamais eu. On ne peut pas le perdre. »
 
-Sera l’avait regardée avec quelque chose de neuf dans les yeux : non plus de la pitié, mais une sorte de faim, l’avidité de quelqu’un qui a passé sa vie à imaginer une chose et rencontre soudain la personne qui l’a vécue.
+Sera l’avait regardée avec quelque chose de neuf dans les yeux. La pitié avait cédé la place à une sorte de faim, l’avidité de quelqu’un qui a longtemps imaginé une chose et rencontre soudain la personne qui l’a vécue.
 
 « Le jour où votre monde s’écroulera, car c’est ça que vous allez faire, écrouler le monde des Liés, poursuivit Kayara, nous, on ne le remarquera peut-être même pas. On pêchera. On naviguera. On construira nos maisons qui plient. Le vôtre s’arrêtera comme un cœur s’arrête. Le nôtre continuera parce qu’il n’a jamais battu de ce battement-là.
 
@@ -151,13 +151,13 @@ Le gros temps vint avec le soir, comme le sel l’avait promis.
 
 Une heure avant qu’il fût visible, Kayara le sentit monter du sud : une longue houle sourde qui n’appartenait pas au vent présent, l’onde d’avant-garde d’une chose qui roulait encore sous l’horizon. Elle réveilla ceux qui dormaient. Un passager qu’on n’a pas prévenu se croit trahi par le bateau. Cordes de vie passées, places assignées : où se tenir, où ne pas se tenir, comment nouer autour de la taille le tour-mort qui vous garde à bord quand la mer veut vous prendre. Ils obéirent bien. Des gens intelligents, qui apprenaient vite, et qui avaient l’habitude d’obéir à qui savait : ils l’avaient fait toute leur vie avec le Lien.
 
-Sauf que le Lien était une puissance, et qu’elle n’était qu’une femme avec un savoir. Elle vit le moment où ils s’en aperçurent, agrippés à leurs cordes : ils ne regardaient pas le ciel. Ils regardaient ses mains.
+Sauf que le Lien était une puissance, et qu’elle n’était qu’une femme avec un savoir. Elle vit le moment où ils s’en aperçurent, agrippés à leurs cordes : ils regardaient ses mains.
 
 Le grain les prit à la nuit close.
 
 Elle ne le raconta jamais à personne, après, parce qu’il n’y avait rien à raconter : un grain comme elle en avait passé cent, mauvais, mais dans les limites du connu. Border, choquer, laisser porter, remonter au vent quand il fallait remonter, se laisser coucher quand il fallait se coucher, danser avec la chose comme avec un partenaire qu’on n’aime pas mais qu’on connaît par cœur. *L’Amère* pliait et se relevait, pliait et se relevait, sa coque bâtie comme les maisons d’Azoria pour céder plutôt que rompre.
 
-Une lame plus haute que les autres passa par-dessus le pont et emporta une caisse mal arrimée. Derrière elle, un des quatre poussa un cri, celui aux paupières lourdes, celui que le sommeil fuyait et qui parlait la nuit comme on récite un mauvais songe. Non de peur pour lui-même : un cri de perte, comme si la caisse emportait quelque chose d’irremplaçable.
+Une lame plus haute que les autres passa par-dessus le pont et emporta une caisse mal arrimée. Derrière elle, un des quatre poussa un cri, celui aux paupières lourdes, celui que le sommeil fuyait et qui parlait la nuit comme on récite un mauvais songe. Un cri de perte, comme si la caisse emportait quelque chose d’irremplaçable.
 
 « Restez ! » lança Kayara sans se retourner, la voix arrachée au vent. « On ne se lève pas ! Une caisse ne vaut pas un homme ! »
 
@@ -167,7 +167,7 @@ Mais dans le fracas, une pensée lui vint qui lui resta.
 
 *Ils ont si peur de perdre.* Toute leur vie était faite de choses qui peuvent se perdre : le Lien, les portails, les cités qui volent, les guérisons, tout ce qui tenait par la Trame et tomberait avec elle. Ils allaient de leur plein gré briser le socle de tout cela, et ils le savaient, et c’était pour cette raison qu’ils se tenaient si droits et dormaient si mal. Le rêveur qui pleurait sa caisse dans la tempête, c’étaient eux quatre. Des gens qui aimaient un monde et montaient une montagne pour le finir.
 
-Elle, non. Sa maison pliait. Son savoir ne pouvait pas tomber d’un ciel. Son Lien, cet infime, cet inutile filet qui traînait peut-être en elle comme en toute chose vivante, pouvait bien mourir cette nuit ou dans un an : elle ne le sentirait pas passer. Voilà pourquoi elle tenait la barre sans trembler pendant qu’ils s’accrochaient aux cordes. Pas par bravoure. Parce qu’elle avait accepté de tout perdre quarante ans plus tôt, le jour où sa mère l’avait mise sur l’eau pour la première fois en lui disant la seule prière d’Azoria, qui n’est pas une prière : *l’eau ne te doit rien. Ne lui dois rien non plus. Vous êtes quittes. Maintenant nage.*
+Elle, non. Sa maison pliait. Son savoir ne pouvait pas tomber d’un ciel. Son Lien, cet infime, cet inutile filet qui traînait peut-être en elle comme en toute chose vivante, pouvait bien mourir cette nuit ou dans un an : elle ne le sentirait pas passer. Voilà pourquoi elle tenait la barre sans trembler pendant qu’ils s’accrochaient aux cordes. Elle avait accepté de tout perdre quarante ans plus tôt, le jour où sa mère l’avait mise sur l’eau pour la première fois en lui disant la seule prière d’Azoria, qui n’est pas une prière : *l’eau ne te doit rien. Ne lui dois rien non plus. Vous êtes quittes. Maintenant nage.*
 
 Au petit matin, le grain était passé. Lavée, la mer respirait large et longue sous un ciel gris tendre. Trempés, épuisés, vivants, ses quatre passagers la regardaient autrement. Elle connaissait ce regard : celui des gens qu’on a fait passer par une nuit.
 
@@ -189,7 +189,7 @@ La phrase resta un moment suspendue entre elles, dans l’air lavé. C’était 
 
 Ils touchèrent la côte de Cendara le sixième jour, à la nuit, à la crique de la Dent.
 
-Kayara la connaissait, cette crique : une échancrure étroite entre deux dents de roche noire, d’où la terre montait aussitôt en pente raide vers l’intérieur, vers les hauteurs sombres qu’on devinait plus qu’on ne les voyait dans le soir. L’air, ici, n’était pas l’air du large. Il portait une odeur de soufre et de cendre froide, l’haleine des monts de feu, et par-dessous, plus profonde, cette densité de continent qu’elle sentait toujours dès qu’elle quittait l’eau, l’impression d’entrer dans une foule invisible. Sauf qu’ici, ce soir, la foule invisible avait quelque chose de tendu. Elle ne le dit pas aux autres ; elle n’avait pas les mots des Liés pour ces choses-là, et d’ailleurs elle n’y croyait qu’à moitié. Mais son corps, qui savait la mer, savait aussi obscurément la terre, et cette terre-ci le mettait mal à l’aise. Comme une bête qui dort d’un mauvais sommeil.
+Kayara la connaissait, cette crique : une échancrure étroite entre deux dents de roche noire, d’où la terre montait aussitôt en pente raide vers l’intérieur, vers les hauteurs sombres qu’on devinait plus qu’on ne les voyait dans le soir. L’air, ici, était celui de la terre. Il portait une odeur de soufre et de cendre froide, l’haleine des monts de feu, et par-dessous, plus profonde, cette densité de continent qu’elle sentait toujours dès qu’elle quittait l’eau, l’impression d’entrer dans une foule invisible. Sauf qu’ici, ce soir, la foule invisible avait quelque chose de tendu. Elle ne le dit pas aux autres ; elle n’avait pas les mots des Liés pour ces choses-là, et d’ailleurs elle n’y croyait qu’à moitié. Mais son corps, qui savait la mer, savait aussi obscurément la terre, et cette terre-ci le mettait mal à l’aise. Comme une bête qui dort d’un mauvais sommeil.
 
 Elle amena *l’Amère* dans la crique à l’aviron, sans voile, sans un bruit, à la seule connaissance des fonds, dans le noir presque total. Rassemblés à l’avant, prêts, chargés de leurs maigres bagages, ils étaient là tous les quatre : une préceptrice, un moine, un rêveur, l’homme sans nom. Ils partaient à pied vers l’intérieur avec si peu, comme des gens qui savent qu’ils n’auront plus besoin de grand-chose. Elle les fit débarquer un par un, sur la roche glissante, tenant chacun par le poignet à l’ancienne, fort, assez fort pour que ça marque, comme sa mère l’avait tenue au bord de l’eau la première fois : pour qu’il leur restât dans le poignet la trace de la main qui les avait posés sur la terre ferme.
 
@@ -199,7 +199,7 @@ Le moine de Baelor descendit sans un mot, plié sur son silence, et lui rendit s
 
 « La mer l’a prise. » Kayara resserra sa poigne autour du poignet maigre. « Elle prend ce qu’on arrime mal. Ce n’est pas contre toi. »
 
-Elle le lâcha. L’homme sans nom descendit à son tour, et elle ne vit pas son visage dans le noir, seulement une silhouette qui, une fois à terre, se tourna vers l’intérieur des terres, vers le sud et les hauteurs, comme aimantée. Il ne lui tendit pas le poignet : il le posa dans sa main sans qu’elle eût à le prendre. Personne, de toute la traversée, n’avait devancé son geste, et elle n’aurait pas su dire si c’était de la courtoisie ou autre chose.
+Elle le lâcha. L’homme sans nom descendit à son tour, et elle ne vit pas son visage dans le noir, seulement une silhouette qui, une fois à terre, se tourna vers l’intérieur des terres, vers le sud et les hauteurs, comme aimantée. Il posa son poignet dans sa main sans qu’elle eût à le prendre. Personne, de toute la traversée, n’avait devancé son geste, et elle n’aurait pas su dire si c’était de la courtoisie ou autre chose.
 
 Sera descendit la dernière. Sur la roche, elle se retourna, chercha Kayara dans l’obscurité.
 
@@ -217,7 +217,7 @@ Sera eut un mouvement, presque un rire, qui n’alla pas jusqu’au bout.
 
 Rien à répondre à cela. Kayara serra le poignet de Sera, fort, à l’ancienne, et Sera comprit le geste sans qu’on le lui expliquât. Un sourire vint sur le visage de la préceptrice, le premier et le dernier qui ne portât pas sa lumière fatigante : le sourire d’une femme fatiguée.
 
-Puis elle monta sur la roche, rejoignit les autres, et les quatre silhouettes s’engagèrent dans le noir, vers l’intérieur, vers les hauteurs, en file, sans lampe. Ce n’était pas une main qui les guidait : c’était un chemin qu’une main leur avait fait parvenir. Le forgeron du pied du Mont, celui qui ne montait pas avec eux, leur avait envoyé sa montagne d’avance, tracée sur un croquis serré et jalonnée, disait Sera, de balises qu’on ne voyait que si l’on savait déjà les chercher : un cairn ici, une entaille pâle dans l’écorce là, une pierre posée sur une pierre à l’embranchement des sentes. Dans le noir, ils montaient en lisant la mémoire d’un homme qui connaissait ces roches de naissance et les leur avait données sans les leur montrer. Kayara les regarda se fondre dans l’ombre de la terre, une à une, jusqu’à la dernière, jusqu’à ce qu’il ne restât rien que le bruit de la mer contre les dents de roche et l’odeur de soufre dans l’air tendu.
+Puis elle monta sur la roche, rejoignit les autres, et les quatre silhouettes s’engagèrent dans le noir, vers l’intérieur, vers les hauteurs, en file, sans lampe. Le forgeron du pied du Mont, celui qui ne montait pas avec eux, leur avait envoyé sa montagne d’avance, tracée sur un croquis serré et jalonnée, disait Sera, de balises qu’on ne voyait que si l’on savait déjà les chercher : un cairn ici, une entaille pâle dans l’écorce là, une pierre posée sur une pierre à l’embranchement des sentes. Dans le noir, ils montaient en lisant la mémoire d’un homme qui connaissait ces roches de naissance et les leur avait données sans les leur montrer. Kayara les regarda se fondre dans l’ombre de la terre, une à une, jusqu’à la dernière, jusqu’à ce qu’il ne restât rien que le bruit de la mer contre les dents de roche et l’odeur de soufre dans l’air tendu.
 
 Elle les avait portés. C’était fait. On l’avait payée pour la traversée, pas pour comprendre. Et pourtant elle comprenait, maintenant : quatre personnes venaient de descendre de son bateau pour en rejoindre d’autres, plus haut, plus loin, et aller éteindre un monde avec elles. Et elle, elle n’avait pas peur, parce qu’elle n’attendait rien de ce monde-là.
 

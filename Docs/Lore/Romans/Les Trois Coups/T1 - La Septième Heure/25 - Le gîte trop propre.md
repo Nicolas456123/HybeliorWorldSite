@@ -109,7 +109,7 @@ Verkan ne bougea pas.
 
 — Trente-quatre jours. C’est votre écriture qui le dit. » Verkan laissa passer un temps. « Décrivez-la.
 
-— On ne décrit pas cette femme-là, messire. » L’aubergiste eut un petit rire sans joie. « J’ai essayé après, pour moi, de me la remettre. Rien. Ni grande ni petite. Un manteau de route comme tout le monde. Un visage que j’ai regardé une heure et que je ne reconnaîtrais pas demain sur la place. Elle avait ça aussi. L’art de n’être personne. »
+— On ne décrit pas cette femme-là, messire. » L’aubergiste eut un petit rire contre lui-même. « J’ai essayé après, pour moi, de me la remettre. Rien. Ni grande ni petite. Un manteau de route comme tout le monde. Un visage que j’ai regardé une heure et que je ne reconnaîtrais pas demain sur la place. Elle avait ça aussi. L’art de n’être personne. »
 
 Verkan garda la formule. Elle servirait.
 
@@ -143,7 +143,7 @@ La chambre était basse et sentait le suif et la laine humide. En dessous, on ti
 
 Puis il ôta ses gants, regarda ses mains, qui n’avaient jamais tenu que du papier et des sceaux, et il pensa à elle.
 
-Car c’était elle. Il n’en avait pas la preuve nommée, pas encore ; il avait mieux, il avait la manière. Quarante pages d’une écriture d’officier qui ne barrait jamais un mot, lues d’un bout à l’autre une nuit de Pyrion avant d’être portées au brasier, parce qu’on lit tout avant de brûler. Deux ans durant, une capitaine du Dominat avait cherché la faille des Verithani avec la froideur d’un bon couteau, et ne l’avait pas trouvée, et l’avait écrit. Lui non plus n’avait pas trouvé le tournant de ces quarante pages. C’était la seule chose qu’il n’eût dite à personne.
+Car c’était elle. Avant toute preuve nommée, il avait la manière. Quarante pages d’une écriture d’officier qui ne barrait jamais un mot, lues d’un bout à l’autre une nuit de Pyrion avant d’être portées au brasier, parce qu’on lit tout avant de brûler. Deux ans durant, une capitaine du Dominat avait cherché la faille des Verithani avec la froideur d’un bon couteau, et ne l’avait pas trouvée, et l’avait écrit. Lui non plus n’avait pas trouvé le tournant de ces quarante pages. C’était la seule chose qu’il n’eût dite à personne.
 
 « Vous êtes bonne, dit-il à la chambre vide, à voix basse, sans ironie. La meilleure que j’aie lue. »
 
@@ -157,7 +157,7 @@ Il se releva, alluma la chandelle, sortit de sa sacoche la carte de la route de 
 
 Pris un par un, ces silences ne disaient rien. Un passeur oublie. Un logeur se trompe de nuit. Un cocher ment sur une course pour ne pas payer l’octroi. Chacun avait sa raison ordinaire, et c’est pour cela qu’aucun sergent de la route ne les avait reliés : un sergent voit des faits, et ces faits-là étaient innocents. Verkan regardait ce qui les tenait ensemble. La même douceur qui explique au lieu de menacer. La même façon de payer un peu trop, jamais beaucoup trop. La même science de l’oubli.
 
-Et quand il joignait ces vides, du passeur au logeur, du logeur au cocher, du cocher à la cour récurée, la ligne ne serpentait pas. Elle allait droit au sud.
+Et quand il joignait ces vides, du passeur au logeur, du logeur au cocher, du cocher à la cour récurée, la ligne allait droit au sud.
 
 Il resta longtemps le doigt dessus. Elle pouvait effacer une nuit, un homme, un attelage ; elle ne pouvait pas effacer où tout cela allait, et chaque vide de plus rendait la ligne plus nette. Elle était trop bonne pour l’ignorer. Elle n’avait pas le choix non plus : il faut bien mener les gens quelque part.
 
@@ -177,7 +177,7 @@ Il la plia dans un papier et la glissa contre sa poitrine. Puis il se releva, é
 
 « Vous ne m’arrêtez pas ? » finit-il par demander, et il y avait dans sa voix moins de peur que de fatigue, presque le désir d’en finir.
 
-« Non. » Verkan remit ses gants. « Vous n’êtes pas ce que je cherche. Vous êtes l’endroit où elle est passée, et je reviendrai peut-être vous relire. Vivez bien. Tenez mieux votre registre. Pas pour moi : pour le suivant, qui sera peut-être moins aimable. » Il eut quelque chose d’un sourire, très bref, qui n’atteignit pas ses yeux.
+« Non. » Verkan remit ses gants. « Vous n’êtes pas ce que je cherche. Vous êtes l’endroit où elle est passée, et je reviendrai peut-être vous relire. Vivez bien. Tenez mieux votre registre. Pas pour moi : pour le suivant, qui sera peut-être moins aimable. » Il eut quelque chose d’un sourire, très bref.
 
 Le cheval de fonction, reposé, piaffait déjà vers la route.
 
@@ -193,4 +193,4 @@ Il talonna et prit le sud.
 
 Il chevaucha tout le jour sans penser à rien d’autre qu’à sa carte. Vers midi, à une halte, il déplia le papier et regarda la terre noire au creux de sa paume, si légère qu’un souffle la lui aurait prise. Elle venait d’un pays qu’il n’avait jamais vu et dont il ne savait pas le nom.
 
-Il la replia et se remit en selle. Il croyait gagner du temps sur elle. Il n’en gagnait pas : il descendait vers le seul endroit du monde que personne ne pouvait récurer, et il y arriverait à temps pour le voir, pas pour l’empêcher.
+Il la replia et se remit en selle. Il croyait gagner du temps sur elle. Il descendait vers le seul endroit du monde que personne ne pouvait récurer, et il y arriverait à temps pour le voir, pas pour l’empêcher.

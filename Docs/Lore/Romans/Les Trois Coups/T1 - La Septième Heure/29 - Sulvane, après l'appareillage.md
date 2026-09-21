@@ -13,7 +13,7 @@ status: draft
 
 Le bureau du manifeste sentait le goudron chaud et l’encre bon marché. Verkan Sorne connaissait cette odeur depuis Pyrion : celle des pièces où l’on écrit vite et où personne ne relit. Il était venu pour cela. Dans un port, un nom se change pour le prix d’un repas, et il n’en attendait pas un seul de vrai.
 
-Le préposé était un homme épais, la cinquantaine, avec la lenteur des fonctionnaires de quai qu’on ne paie ni pour se presser ni pour comprendre. Le grand livre était ouvert devant lui, une paume à plat sur la page, comme on couvre une carte au jeu.
+Le préposé était un homme épais, la cinquantaine, avec la lenteur des fonctionnaires de quai qu’on ne paie ni pour se presser ni pour comprendre. Le grand livre était ouvert devant lui, une main posée en travers de la page, comme on couvre une carte au jeu.
 
 « Prime-Inquisiteur Sorne. Bureau des Concordances. » Verkan posa le sceau de Pyrion sur le comptoir, sans le pousser vers l’homme, et l’y laissa, entre eux, un objet qu’on pouvait regarder ou non. « Le *Diamant de Corr*. Paquebot marchand, ligne de Pyrion par Everthor. Arrivé il y a —
 
@@ -21,7 +21,7 @@ Le préposé était un homme épais, la cinquantaine, avec la lenteur des foncti
 
 — Trois. » La correction vint sans poids, du ton dont on signale à quelqu’un qu’il a du noir sur la joue. « Il a mouillé l’avant-veille, au petit matin. Votre capitainerie a horodaté l’entrée à la sixième cloche ; j’ai lu le registre du bassin en montant du quai. Deux jours, ce serait hier. Hier, le *Diamant* était déjà reparti. »
 
-Un silence. La paume ne bougea pas de la page. Les doigts, eux, se refermèrent d’un demi-pouce. Verkan rangea cela avec le reste et n’en dit rien.
+Un silence. La main ne bougea pas de la page. Les doigts, eux, se refermèrent d’un demi-pouce. Verkan rangea cela avec le reste et n’en dit rien.
 
 « Je cherche un passager, reprit-il. Descendu ici. Un homme seul, sans bagage lourd, des papiers en règle. Trop en règle : pas une rature, pas un cachet pâle, pas une date reportée.
 
@@ -55,11 +55,11 @@ La même femme derrière chacune de ces pages. Il n’en doutait plus depuis le 
 
 — Beau temps. » Verkan laissa la chose reposer un instant, comme on laisse lever une pâte. « Votre registre de fournitures, sur la même page, à droite du manifeste, dans la colonne des consommables du bureau. On y a porté six livres d’huile de lampe le matin qui a suivi. Six livres. Pour un bureau qui n’a pas veillé, une nuit sans pluie, sans arrivée nocturne, aux jours les plus longs de l’année. »
 
-L’homme ouvrit la bouche, la referma. Verkan avait entendu ce silence-là dans trente ports. Le préposé n’avait pas menti ; on avait menti dans son livre, à son insu, en se servant de son bureau comme d’un abri, et il venait de s’en apercevoir.
+L’homme ouvrit la bouche, la referma. Verkan avait entendu ce silence-là dans trente ports. On avait menti dans le livre du préposé, à son insu, en se servant de son bureau comme d’un abri, et il venait de s’en apercevoir.
 
 « Quelqu’un a écrit dans votre livre », reprit Verkan. Il parlait à peine plus haut que le grattement d’une plume, et le bureau, autour, faisait plus de bruit que lui. « On y a porté une dépense qui n’existe pas, pour qu’une nuit qui a existé ait l’air d’une nuit comme les autres. Rien n’a été effacé. On a posé du banal par-dessus. Six livres d’huile, personne ne remonte une piste là-dessus. » Un temps. « Personne, sauf moi. »
 
-Il n’y avait pas de triomphe dans sa voix. Devant ce petit travail soigné, cacher une nuit derrière une facture d’huile plutôt que derrière une page arrachée, ce qu’il éprouvait ressemblait plutôt à du respect.
+Il l’avait dit sans triomphe. Devant ce petit travail soigné, cacher une nuit derrière une facture d’huile plutôt que derrière une page arrachée, ce qu’il éprouvait ressemblait à du respect.
 
 Une pensée le traversa, qu’il chassa aussitôt : sa fille, à Pyrion, penchée le soir sur ses colonnes, qui recommençait la page entière quand un chiffre bavait, parce qu’une Vide n’a droit à aucune erreur et qu’on la surveille de plus près qu’une autre. Il revint au registre.
 
@@ -101,7 +101,7 @@ Resté seul au bord du quai, Verkan fit ce qu’il faisait chaque fois qu’une 
 
 Le gîte de la route de terre : arrivé le lendemain du départ. Le passeur de la traversée oubliée : reparti l’avant-veille. Et maintenant Sulvane, ce bollard tiède, cette mer plate : un jour de retard, peut-être moins. La marée d’hier soir contre celle de ce soir. Un homme manqué d’une seule montée d’eau.
 
-Trois stations, trois fois le même retard, et ce n’était pas le hasard. Ses jambes n’y étaient pour rien non plus : le Dominat n’avait jamais formé de lecteur de traces plus rapide que lui, et il le savait sans orgueil, comme on sait sa taille. Le retard tenait à ce qu’il lisait.
+Trois stations, trois fois le même retard. Le Dominat n’avait jamais formé de lecteur de traces plus rapide que lui, et il le savait sans orgueil, comme on sait sa taille. Le retard tenait donc à ce qu’il lisait.
 
 *Je lis des départs.*
 
@@ -109,7 +109,7 @@ La phrase se posa en lui, nette, définitive. Toute sa science consistait à ét
 
 Car derrière chaque station, il y avait elle.
 
-Il ne connaissait pas son visage. Il connaissait sa main : cette économie du mensonge, cette façon de ne jamais laisser une trace de trop ni d’en effacer une de trop, parce qu’un registre trop lisse crie aussi fort qu’un registre raturé. Aelindra de Pyrion. Il l’écrivait encore avec son titre, dans ses rapports : *capitaine*. Ancienne capitaine du Dominat, son agent à lui. L’ordre de mission portait sa signature ; il l’avait tracée des années plus tôt en croyant placer une lame chez l’ennemi, et il avait fourni à l’ennemi la meilleure personne qu’il eût jamais formée.
+Son visage lui restait inconnu. Il connaissait sa main : cette économie du mensonge, cette façon de ne jamais laisser une trace de trop ni d’en effacer une de trop, parce qu’un registre trop lisse crie aussi fort qu’un registre raturé. Aelindra de Pyrion. Il l’écrivait encore avec son titre, dans ses rapports : *capitaine*. Ancienne capitaine du Dominat, son agent à lui. L’ordre de mission portait sa signature ; il l’avait tracée des années plus tôt en croyant placer une lame chez l’ennemi, et il avait fourni à l’ennemi la meilleure personne qu’il eût jamais formée.
 
 « Vous êtes en avance d’un jour, dit-il à voix basse, à la mer, à personne. Vous l’avez été tout du long. »
 
@@ -139,7 +139,7 @@ Le préposé le regardait, bouche entrouverte.
 
 L’homme ne répondit pas, et Verkan n’attendait rien d’autre. Il posait ces questions-là pour entendre ce qui venait après.
 
-Dehors, le port travaillait dans la lumière déclinante : les grues, les cris, une odeur de poisson et de bois mouillé, deux gamins qui couraient entre les ballots d’un pas de voleurs. Verkan s’arrêta un instant pour regarder cela. Jeune officier, il avait vu ce qu’il en restait quand le Lien lâchait : un quartier de Pyrion coupé trois jours par un sabotage, les guérisseurs muets, des enfants morts de fièvres ordinaires, le pillage à la tombée du soir. Voilà ce qu’il défendait. Pas un système : ce quai, ce préposé épais et médiocre, ces grues, cette rumeur de commerce, ce monde tiède et injuste et vivant qu’un petit nombre de lecteurs de Verithan montaient quelque part défaire, au nom d’une justice qu’il ne pouvait même pas trouver fausse. Il ignorait combien ils étaient là-haut.
+Dehors, le port travaillait dans la lumière déclinante : les grues, les cris, une odeur de poisson et de bois mouillé, deux gamins qui couraient entre les ballots d’un pas de voleurs. Verkan s’arrêta un instant pour regarder cela. Jeune officier, il avait vu ce qu’il en restait quand le Lien lâchait : un quartier de Pyrion coupé trois jours par un sabotage, les guérisseurs muets, des enfants morts de fièvres ordinaires, le pillage à la tombée du soir. Voilà ce qu’il défendait : ce quai, ce préposé épais et médiocre, ces grues, cette rumeur de commerce, ce monde tiède et injuste et vivant qu’un petit nombre de lecteurs de Verithan montaient quelque part défaire, au nom d’une justice qu’il ne pouvait même pas trouver fausse. Il ignorait combien ils étaient là-haut.
 
 Il avait lu le Traité, lui aussi, une nuit, à Pyrion. Il ne lui avait pas trouvé de faute. C’était pour cette raison qu’il descendait vers le sud.
 
