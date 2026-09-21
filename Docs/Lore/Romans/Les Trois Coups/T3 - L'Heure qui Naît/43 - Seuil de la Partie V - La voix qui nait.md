@@ -65,7 +65,7 @@ Et cela tient, presque tout, presque entier, la profondeur et le chemin et la so
 
 > **Fragment documentaire VI.** *Cahier de travail, papier grossier, cousu à la main, sans titre ni cote. Il a changé de mains depuis peu : les premières pages sont d’une écriture ferme et vieillie, les dernières d’une main jeune, hâtive, qui a repris le cahier là où l’autre l’a laissé. Nulle part il n’est dit qui fut la première, ni où elle est passée. Sur le plat intérieur, cette seule ligne, de la main ancienne : « On l’ouvre quand on en a besoin, et on sait quand. »*
 >
-> *À l’avant-dernier feuillet, la main ancienne s’arrête au milieu d’une phrase sur le travail du fer, à un mot qui n’est pas fini. Le reste de la page est blanc. Puis, en tête du feuillet suivant, la main jeune a écrit :*
+> *À l’avant-dernier feuillet, la main ancienne s’arrête au milieu d’une phrase sur le travail du fer, à un mot qui n’est pas fini. Le reste de la page est blanc. Puis, en tête du feuillet suivant, la main jeune a écrit :*
 >
 > *« Je ne l’ai pas connue. On m’a mis le cahier dans les mains et on m’a dit de le porter, et qu’un jour je saurais à qui le passer, comme elle avait su, comme celle d’avant elle avait su. On m’a dit qu’il y avait dedans une phrase à garder. Je l’ai cherchée. La voici, à la page qu’elle avait cornée avant de ne plus rien écrire : »*
 >

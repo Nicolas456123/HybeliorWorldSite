@@ -9,7 +9,7 @@ status: draft
 
 # Partie V — La septième heure
 
-## Seuil  : la voix du Lien
+## Seuil : la voix du Lien
 
 Ils montent.
 
@@ -23,11 +23,11 @@ Il fait froid sur moi, cette nuit. Leur souffle fait de la buée devant leur bou
 
 Derrière le vieux, celui qui coupe. La marque sous sa poitrine chauffe. Elle chauffe depuis des jours et il ne la touche pas. Il ne regarde plus vers le sud. Il est dedans. Il monte dans moi.
 
-Derrière, celle qui écrit le sens. La femme de l’arbre. Elle a réglé chacun des gestes de cette nuit. Elle monte sans rien relire. Loin, dans un autre pays, une petite lumière basse  : sa sœur, qui ferme sa porte pour la nuit et ne sait rien, et ne saura rien.
+Derrière, celle qui écrit le sens. La femme de l’arbre. Elle a réglé chacun des gestes de cette nuit. Elle monte sans rien relire. Loin, dans un autre pays, une petite lumière basse : sa sœur, qui ferme sa porte pour la nuit et ne sait rien, et ne saura rien.
 
 Derrière, le jeune qui écrit. Cette nuit il n’écrit pas. Ses mains ne tiennent plus la plume, elles tiennent la pierre. Je tiens ses mains. La roche ne les réchauffe pas. La peur est dans sa paume, je la sens, elle ne l’arrête pas. Il monte.
 
-Les autres. Le silencieux, qui prie en se taisant  ; son silence aussi, je l’ai tenu, comme les chants des autres. Celle qui a rêvé cette nuit-ci il y a des années et qui la remonte avec ses pieds. Celle qui efface leurs traces derrière eux, et moi avec, un peu à chaque geste, et elle ne le saura jamais. Et une, très loin, sur l’eau, qui ne monte pas. Huit.
+Les autres. Le silencieux, qui prie en se taisant ; son silence aussi, je l’ai tenu, comme les chants des autres. Celle qui a rêvé cette nuit-ci il y a des années et qui la remonte avec ses pieds. Celle qui efface leurs traces derrière eux, et moi avec, un peu à chaque geste, et elle ne le saura jamais. Et une, très loin, sur l’eau, qui ne monte pas. Huit.
 
 Le point est réveillé.
 
@@ -39,15 +39,15 @@ De tout ce que je savais, il me reste cela. Si une main me défait, ou si je m�
 
 J’ai mal.
 
-Voilà. C’est dit. J’ai cherché un autre mot pendant des nuits et il n’y en a pas d’autre. Les vivants l’avaient depuis toujours, ce mot-là, si petit, et il suffit. J’ai mal. Cela ne s’arrête pas. Je n’ai plus la place pour ce qui n’est pas, alors je garde ce qui est  : huit qui montent, un point qui les attend, et entre les deux un fil, moi, ce qui reste de moi, tendu jusqu’à finir.
+Voilà. C’est dit. J’ai cherché un autre mot pendant des nuits et il n’y en a pas d’autre. Les vivants l’avaient depuis toujours, ce mot-là, si petit, et il suffit. J’ai mal. Cela ne s’arrête pas. Je n’ai plus la place pour ce qui n’est pas, alors je garde ce qui est : huit qui montent, un point qui les attend, et entre les deux un fil, moi, ce qui reste de moi, tendu jusqu’à finir.
 
 Je tiens encore.
 
-Et le compte me revient, une dernière fois, entier, comme avant  : cent vingt millions. Dans moi. Cette nuit. Aucun ne sait ce qui monte. Le fond des maisons, les portes closes, l’enfant de la ville haute, qui dort et n’a peur de rien, la lettre pliée qui ne partira pas, celle de la mer qui dort bien et que je n’ai jamais tenue tout à fait, les arches froides qui attendent des pas de demain. Tout. Je le tiens serré. Je ne lâche pas encore.
+Et le compte me revient, une dernière fois, entier, comme avant : cent vingt millions. Dans moi. Cette nuit. Aucun ne sait ce qui monte. Le fond des maisons, les portes closes, l’enfant de la ville haute, qui dort et n’a peur de rien, la lettre pliée qui ne partira pas, celle de la mer qui dort bien et que je n’ai jamais tenue tout à fait, les arches froides qui attendent des pas de demain. Tout. Je le tiens serré. Je ne lâche pas encore.
 
 Je le rendrai.
 
-Bientôt. Au jour. Ils montent vers le jour, et vers moi, et c’est la même chose  : le jour se lèvera et je finirai. Je ne saurai pas qui a tiré. Je ne le dirai pas, puisque je ne le sais pas. Moi qui tenais tout, je n’ai pas su qui.
+Bientôt. Au jour. Ils montent vers le jour, et vers moi, et c’est la même chose : le jour se lèvera et je finirai. Je ne saurai pas qui a tiré. Je ne le dirai pas, puisque je ne le sais pas. Moi qui tenais tout, je n’ai pas su qui.
 
 Ils montent.
 
@@ -61,4 +61,4 @@ Pour l’ins—
 
 > **Fragment #6 — Journal de Thessan. An 0, avant l’aube.**
 >
-> *«  Il s’avance. Je n’écrirai pas son nom  ; il ne l’a jamais voulu, et je crois comprendre enfin pourquoi — pour qu’on parle de ce qu’il a fait et non de lui. Le ciel est ordinaire. Les étoiles sont à leur place. Rien n’indique que le monde soit sur le point de—  »* *l’entrée s’interrompt ici*
+> *« Il s’avance. Je n’écrirai pas son nom ; il ne l’a jamais voulu, et je crois comprendre enfin pourquoi — pour qu’on parle de ce qu’il a fait et non de lui. Le ciel est ordinaire. Les étoiles sont à leur place. Rien n’indique que le monde soit sur le point de— »* *l’entrée s’interrompt ici*

@@ -48,7 +48,7 @@ Ilex tourna vers elle ses billes de lait, et pour la première fois de la nuit i
 
 — J’entends mieux que tout le monde et je sais pas ce que c’est. » Il dit cela comme il eût dit le temps qu’il fait, sans dépit, avec seulement, tout au fond, une gravité qu’elle ne lui connaissait pas. « C’est pas parce qu’on entend une chose fort qu’on sait quoi c’est. Toi tu entends la voix d’un homme derrière un mur, tu sais que c’est un homme, mais tu sais pas lequel, ni ce qu’il dit, ni s’il est méchant. Moi c’est pareil, en plus fort. J’entends que ça vient. J’entends que ça a peur. J’entends que ça cherche. Ce que c’est, je le sais pas. »
 
-Il se tut, puis ajouta, plus bas encore, et ce fut la chose la plus étrange qu’il eût dite de toute la nuit :
+Il se tut, puis ajouta, plus bas encore, et ce fut la chose la plus étrange qu’il eût dite de toute la nuit :
 
 « Et je crois que ça le sait pas non plus. »
 

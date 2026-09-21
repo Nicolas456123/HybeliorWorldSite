@@ -136,7 +136,7 @@ Le mot d’après ne vint pas. La bouche resta ouverte dessus, tremblante, la la
 
 « À toi, souffla-t-elle, sans savoir pourquoi, sans l’avoir voulu, comme on souffle son nom à celui qui l’a sur le bout de la langue. À toi, Ilex. À nous. Si c’est ça que tu cherches. Nous sommes là. »
 
-Et la voix d’enfant, comme si elle avait attendu qu’on lui tendît le dernier appui, le prit, et se referma dessus, et dit, d’un souffle, tout entier cette fois, sans buter :
+Et la voix d’enfant, comme si elle avait attendu qu’on lui tendît le dernier appui, le prit, et se referma dessus, et dit, d’un souffle, tout entier cette fois, sans buter :
 
 « Il vient à toi. »
 

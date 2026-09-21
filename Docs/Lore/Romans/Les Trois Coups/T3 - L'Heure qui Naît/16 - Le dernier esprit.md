@@ -11,27 +11,27 @@ status: draft
 
 L’Arbre-Mère respirait plus lentement cette nuit. Orwenne, la joue contre l’écorce, comptait ses souffles, et pour la première fois elle avait le temps, entre deux, de penser à autre chose.
 
-On appelait cet endroit la Chambre, faute d’un mot plus juste. C’était le creux du plus vieil arbre du monde, une cavité haute comme trois femmes debout, aux parois de bois vif, ronde comme l’intérieur d’un ventre, et tapissée jusqu’à hauteur d’épaule d’une pellicule de sève lente qui suintait, brillait à peine, et gardait la main tiède quand on l’y posait. Les gardiennes de Sylvara descendaient là depuis plus de générations qu’on n’en tenait le compte. Elles y venaient pour la seule chose que leur peuple sût faire et qu’aucune autre nation d’Evertia ne faisait tout à fait de la même manière  : écouter la sève.
+On appelait cet endroit la Chambre, faute d’un mot plus juste. C’était le creux du plus vieil arbre du monde, une cavité haute comme trois femmes debout, aux parois de bois vif, ronde comme l’intérieur d’un ventre, et tapissée jusqu’à hauteur d’épaule d’une pellicule de sève lente qui suintait, brillait à peine, et gardait la main tiède quand on l’y posait. Les gardiennes de Sylvara descendaient là depuis plus de générations qu’on n’en tenait le compte. Elles y venaient pour la seule chose que leur peuple sût faire et qu’aucune autre nation d’Evertia ne faisait tout à fait de la même manière : écouter la sève.
 
 Car les esprits ne parlaient pas. C’était la première chose qu’on apprenait aux petites, et la plus dure, parce que toute leur vie on leur avait dit le contraire, dans les chansons du soir, dans les contes où l’esprit de la source donnait trois conseils et l’esprit de la combe posait trois énigmes. Les esprits ne parlaient pas. Ils étaient le dépôt de dix mille ans de bois, d’eau et de lenteur, ce qu’un lieu très ancien finit par décanter de conscience au fond de lui-même, et ils se disaient par ce qu’ils avaient sous la main. Une fraîcheur qui tombait soudain sur une clairière chaude. Une branche qui pliait sans vent. Un dessin dans la mousse, un vol d’oiseaux qui traçait deux fois la même figure. Et, pour qui savait descendre dans la sève et s’y tenir sans avoir peur, des images qui montaient derrière les yeux fermés, avec la netteté d’un songe rêvé tout à côté de vous par quelqu’un d’autre, et qui déborde.
 
-«  Vous avez froid aux mains  », dit Orwenne sans ouvrir les yeux.
+« Vous avez froid aux mains », dit Orwenne sans ouvrir les yeux.
 
 Wisse, agenouillée de l’autre côté du puits de sève, retira ses paumes de la paroi et les frotta l’une contre l’autre.
 
-«  Non, gardienne.  »
+« Non, gardienne. »
 
-«  Vos mains ont froid et votre bouche ment. Remettez-les. On n’écoute pas avec des mains qui mentent.  »
+« Vos mains ont froid et votre bouche ment. Remettez-les. On n’écoute pas avec des mains qui mentent. »
 
 La petite remit ses paumes contre le bois. Elle avait seize ans et sa première veille. Elle attendait cette nuit depuis l’enfance, et elle découvrait que c’était une longue station immobile dans le noir tiède, à sentir un arbre respirer.
 
-«  Qu’est-ce qu’on attend  ?  » demanda-t-elle au bout d’un long temps.
+« Qu’est-ce qu’on attend ? » demanda-t-elle au bout d’un long temps.
 
-«  On n’attend pas. Attendre, ça se voit jusque dans les mains, et il se tait.  » Orwenne ouvrit enfin les yeux. Dans la Chambre, la seule clarté venait de la sève elle-même, un lait à peine bleui, si faible qu’on le voyait mieux en ne le regardant pas. «  On se tient là. On garde les mains tièdes et la tête vide. Et quand il vient, s’il vient, on ne se jette pas dessus. On le laisse nous trouver, comme un animal qu’on ne veut pas faire fuir.  »
+« On n’attend pas. Attendre, ça se voit jusque dans les mains, et il se tait. » Orwenne ouvrit enfin les yeux. Dans la Chambre, la seule clarté venait de la sève elle-même, un lait à peine bleui, si faible qu’on le voyait mieux en ne le regardant pas. « On se tient là. On garde les mains tièdes et la tête vide. Et quand il vient, s’il vient, on ne se jette pas dessus. On le laisse nous trouver, comme un animal qu’on ne veut pas faire fuir. »
 
-«  Vous parlez de lui comme d’un animal.  »
+« Vous parlez de lui comme d’un animal. »
 
-«  Je parle de lui comme je peux, dit Orwenne. On ne m’a pas donné d’autres mots.  »
+« Je parle de lui comme je peux, dit Orwenne. On ne m’a pas donné d’autres mots. »
 
 Le silence retomba. Dans le silence, Orwenne fit ce qu’elle évitait de faire devant les jeunes, parce que c’était une faiblesse et qu’on la lui aurait vue. Elle compta. Les autres, cette fois. Les absents.
 
@@ -45,63 +45,63 @@ Et un seul, un seul dans tout le nord, qui parlait encore comme on avait toujour
 
 Des pas dans le boyau de racines qui montait à la Chambre. Un homme, au pas trop assuré pour ces lieux, qui ne baissait pas assez la tête et cognait de l’épaule contre le bois vif.
 
-«  Il descend, celui-là, comme on entre dans une taverne  », murmura Wisse.
+« Il descend, celui-là, comme on entre dans une taverne », murmura Wisse.
 
-«  Il descend comme un homme des côtes, dit Orwenne. C’est presque pareil. Taisez-vous.  »
+« Il descend comme un homme des côtes, dit Orwenne. C’est presque pareil. Taisez-vous. »
 
 Le Cantor Vireth de Thalmaris se plia en deux pour passer la dernière racine et se redressa dans la Chambre en époussetant sa robe, geste inutile ici où rien ne poussière, réflexe d’un homme habitué aux salles de pierre sèche et aux dalles frottées. Il portait sous le bras l’étui de cuivre où les Cantori tenaient leurs fourches de métal. Son peuple à lui cherchait dans le son de ces fourches ce que le sien cherchait dans la sève, et les deux écoles se querellaient là-dessus depuis avant elle.
 
-«  Gardienne Orwenne.  » Il inclina la tête, poliment, avec cette politesse un peu trop nette des envoyés qui savent qu’on ne les aime pas. «  Thalmaris me charge de ses respects et de sa gratitude.  »
+« Gardienne Orwenne. » Il inclina la tête, poliment, avec cette politesse un peu trop nette des envoyés qui savent qu’on ne les aime pas. « Thalmaris me charge de ses respects et de sa gratitude. »
 
-«  Thalmaris vous charge de venir voir mourir mon dernier esprit et de rentrer le dire, dit Orwenne sans se lever. Asseyez-vous ou repartez, mais ne restez pas debout au-dessus de nous. Il n’aime pas qu’on soit debout.  »
+« Thalmaris vous charge de venir voir mourir mon dernier esprit et de rentrer le dire, dit Orwenne sans se lever. Asseyez-vous ou repartez, mais ne restez pas debout au-dessus de nous. Il n’aime pas qu’on soit debout. »
 
 Vireth marqua un temps. Puis il s’assit, avec plus de souplesse qu’elle ne l’aurait cru, en repliant ses longues jambes sous lui, et posa l’étui de cuivre à plat sur le bois, hors de portée de la sève.
 
-«  Vous m’accueillez mal  », dit-il, mais sans aigreur, presque avec curiosité.
+« Vous m’accueillez mal », dit-il, mais sans aigreur, presque avec curiosité.
 
-«  Je vous accueille comme on accueille un médecin étranger au chevet d’un père. Vous êtes venu pour un chiffre. Je le vois d’ici. Vous voulez rentrer à Thalmaris et dire aux vôtres  : c’est fini, Sylvara l’a confirmé, le dernier a parlé et voilà ce qu’il a dit, et maintenant nous savons.  » Elle le regarda dans la demi-clarté de lait. «  Vous ne saurez rien. Je vous le dis tout de suite pour vous épargner la déception. Personne ne saura rien. Vous aurez une chose de plus sur les bras, et plus personne pour vous dire ce qu’elle est.  »
+« Je vous accueille comme on accueille un médecin étranger au chevet d’un père. Vous êtes venu pour un chiffre. Je le vois d’ici. Vous voulez rentrer à Thalmaris et dire aux vôtres : c’est fini, Sylvara l’a confirmé, le dernier a parlé et voilà ce qu’il a dit, et maintenant nous savons. » Elle le regarda dans la demi-clarté de lait. « Vous ne saurez rien. Je vous le dis tout de suite pour vous épargner la déception. Personne ne saura rien. Vous aurez une chose de plus sur les bras, et plus personne pour vous dire ce qu’elle est. »
 
-«  Vous êtes injuste, gardienne.  » Vireth croisa les mains. «  Thalmaris n’a jamais prétendu comprendre. Nous avons une lecture. Vous en avez une autre. C’est justement pour cela qu’on m’envoie  : parce que deux oreilles valent mieux qu’une, et que les vôtres sont les meilleures qui restent.  »
+« Vous êtes injuste, gardienne. » Vireth croisa les mains. « Thalmaris n’a jamais prétendu comprendre. Nous avons une lecture. Vous en avez une autre. C’est justement pour cela qu’on m’envoie : parce que deux oreilles valent mieux qu’une, et que les vôtres sont les meilleures qui restent. »
 
-«  Dites-la, votre lecture. Puisque vous mourez d’envie de la dire.  »
+« Dites-la, votre lecture. Puisque vous mourez d’envie de la dire. »
 
-Il ne se fit pas prier. Les Cantori aimaient parler  ; c’était leur art, la voix tenue juste, la phrase accordée.
+Il ne se fit pas prier. Les Cantori aimaient parler ; c’était leur art, la voix tenue juste, la phrase accordée.
 
-«  Arborius se meurt, dit-il simplement. L’Éthéré des forêts, le père de tout ce bois. Il agonise depuis des âges, nous le savons tous  ; depuis la Fracture, il n’est plus qu’un très long crépuscule. Et les esprits-lieux sont ses enfants, gardienne. Le dépôt de lui dans les lieux qu’il a le plus longtemps habités. Un père qui meurt rappelle ses enfants autour de lui avant la fin. Il les reprend. Voilà ce que nous entendons dans nos fréquences, à Thalmaris  : des voix qui rentrent. Elles reviennent au père. Ce silence-là est un rappel, et un rappel se chante.  »
+« Arborius se meurt, dit-il simplement. L’Éthéré des forêts, le père de tout ce bois. Il agonise depuis des âges, nous le savons tous ; depuis la Fracture, il n’est plus qu’un très long crépuscule. Et les esprits-lieux sont ses enfants, gardienne. Le dépôt de lui dans les lieux qu’il a le plus longtemps habités. Un père qui meurt rappelle ses enfants autour de lui avant la fin. Il les reprend. Voilà ce que nous entendons dans nos fréquences, à Thalmaris : des voix qui rentrent. Elles reviennent au père. Ce silence-là est un rappel, et un rappel se chante. »
 
 Il avait dit cela bien, avec une tristesse vraie. Orwenne s’avoua que c’était beau, et elle s’en méfia pour cette raison-là.
 
-«  C’est une consolation d’homme des côtes, dit-elle enfin. Un père qui rappelle ses enfants. Ça se chante, ça console, ça s’accorde juste. Et ça regarde du bon côté.  »
+« C’est une consolation d’homme des côtes, dit-elle enfin. Un père qui rappelle ses enfants. Ça se chante, ça console, ça s’accorde juste. Et ça regarde du bon côté. »
 
-«  Du bon côté  ?  »
+« Du bon côté ? »
 
-«  Vers le haut. Vers le père. Vers ce qui a été, l’ancien, le grand mourant qui reprend les siens.  » Orwenne posa de nouveau sa paume à plat contre la paroi tiède, et sous sa paume l’Arbre-Mère prit un souffle, lent, immense. «  Vous entendez des voix qui rentrent. Moi, depuis trois ans, j’entends des voix qui se retournent.  »
+« Vers le haut. Vers le père. Vers ce qui a été, l’ancien, le grand mourant qui reprend les siens. » Orwenne posa de nouveau sa paume à plat contre la paroi tiède, et sous sa paume l’Arbre-Mère prit un souffle, lent, immense. « Vous entendez des voix qui rentrent. Moi, depuis trois ans, j’entends des voix qui se retournent. »
 
-«  Qui se retournent.  »
+« Qui se retournent. »
 
-«  Qui cessent de regarder vers nous, oui, mais pas pour regarder le père. Pour regarder ailleurs. En dessous.  » Elle laissa le mot poser dans la Chambre tiède. «  Un enfant qu’on rappelle sourit à celui qui l’appelle. Ce que j’écoute depuis trois ans ne sourit à personne. Ça détourne la tête. Ça écoute autre chose que nous, quelque chose qui vient d’en dessous, et nous n’avons pas de mot pour ce dessous-là. Vos voix rentrent, Cantor. Les miennes se penchent au bord d’un puits.  »
+« Qui cessent de regarder vers nous, oui, mais pas pour regarder le père. Pour regarder ailleurs. En dessous. » Elle laissa le mot poser dans la Chambre tiède. « Un enfant qu’on rappelle sourit à celui qui l’appelle. Ce que j’écoute depuis trois ans ne sourit à personne. Ça détourne la tête. Ça écoute autre chose que nous, quelque chose qui vient d’en dessous, et nous n’avons pas de mot pour ce dessous-là. Vos voix rentrent, Cantor. Les miennes se penchent au bord d’un puits. »
 
 À la lueur de la sève, Vireth parut plus vieux qu’à son entrée, et moins sûr.
 
-«  Le puits, dit-il enfin, prudemment. Vous parlez comme les gens de Vael’Ur.  »
+« Le puits, dit-il enfin, prudemment. Vous parlez comme les gens de Vael’Ur. »
 
-«  Je parle comme ce que j’entends. Si ça ressemble à Vael’Ur, c’est peut-être que Vael’Ur, pour une fois, écoutait la bonne cloison.  »
+« Je parle comme ce que j’entends. Si ça ressemble à Vael’Ur, c’est peut-être que Vael’Ur, pour une fois, écoutait la bonne cloison. »
 
-«  La Profondeur Première.  » Il prononça les deux mots avec la réticence d’un homme instruit qui répète une superstition. «  Le vieux conte druidique. Qu’il y a, sous le sol du monde, sous la racine même de tout ce bois, quelque chose de plus ancien que les Éthérés, un fond que le Panghor recouvrait avant de se briser, et qui n’a jamais dormi qu’à moitié. C’est un joli conte du soir, gardienne. On l’écarte à Thalmaris comme à Orvalis. Il n’y a rien sous le sol que de la roche et du feu, et sous le feu encore de la roche.  »
+« La Profondeur Première. » Il prononça les deux mots avec la réticence d’un homme instruit qui répète une superstition. « Le vieux conte druidique. Qu’il y a, sous le sol du monde, sous la racine même de tout ce bois, quelque chose de plus ancien que les Éthérés, un fond que le Panghor recouvrait avant de se briser, et qui n’a jamais dormi qu’à moitié. C’est un joli conte du soir, gardienne. On l’écarte à Thalmaris comme à Orvalis. Il n’y a rien sous le sol que de la roche et du feu, et sous le feu encore de la roche. »
 
-«  Je n’ai pas dit qu’il y avait quelque chose sous le sol, Cantor.  » Orwenne tourna vers lui son visage ridé, et elle baissa la voix jusqu’à la douceur, ce qui était sa manière d’être terrible. «  J’ai dit que mes esprits, depuis trois ans, écoutent dans cette direction-là. Voilà tout ce que je tiens, et je m’y tiens. Vous, vous me faites dire ce que vous voulez pouvoir réfuter. Je vous dis où ils tournent la tête. Ce qu’il y a au bout de leur regard, je l’ignore, et je me méfie de vous parce que vous croyez le savoir. Vous êtes descendu avec votre réponse dans votre étui, à côté de vos fourches. Rangez-la avec elles. On ne descend pas au chevet d’un mourant en tenant déjà ce qu’il va dire.  »
+« Je n’ai pas dit qu’il y avait quelque chose sous le sol, Cantor. » Orwenne tourna vers lui son visage ridé, et elle baissa la voix jusqu’à la douceur, ce qui était sa manière d’être terrible. « J’ai dit que mes esprits, depuis trois ans, écoutent dans cette direction-là. Voilà tout ce que je tiens, et je m’y tiens. Vous, vous me faites dire ce que vous voulez pouvoir réfuter. Je vous dis où ils tournent la tête. Ce qu’il y a au bout de leur regard, je l’ignore, et je me méfie de vous parce que vous croyez le savoir. Vous êtes descendu avec votre réponse dans votre étui, à côté de vos fourches. Rangez-la avec elles. On ne descend pas au chevet d’un mourant en tenant déjà ce qu’il va dire. »
 
 Le Cantor la regarda longuement. Puis, geste qu’Orwenne ne lui aurait pas prêté, il tira l’étui de cuivre à lui, l’ouvrit, en sortit la plus grande des fourches, la frappa contre son genou d’un coup sec, l’approcha de son oreille, l’écouta décroître, et la rangea sans avoir rien dit. Comme on referme un livre qu’on n’a plus le droit de lire tout haut.
 
-«  Apprenez-moi  », dit-il.
+« Apprenez-moi », dit-il.
 
-«  On n’apprend pas ça en une nuit.  »
+« On n’apprend pas ça en une nuit. »
 
-«  Apprenez-moi assez pour me taire à la bonne place.  »
+« Apprenez-moi assez pour me taire à la bonne place. »
 
 C’était bien dit, et Orwenne, contre son gré, en eut de l’estime.
 
-«  Alors mettez vos mains contre le bois, dit-elle. Là. Les deux. Rangez vos fréquences, oubliez vos justes accords, ils ne servent à rien ici. Videz-vous. Et quand ça viendra, ne cherchez pas de mot. Le mot vous le mettrez après, dehors, dans la lumière, quand ce sera fini et qu’on aura le droit de mentir un peu. Ici, on ne fait que recevoir.  »
+« Alors mettez vos mains contre le bois, dit-elle. Là. Les deux. Rangez vos fréquences, oubliez vos justes accords, ils ne servent à rien ici. Videz-vous. Et quand ça viendra, ne cherchez pas de mot. Le mot vous le mettrez après, dehors, dans la lumière, quand ce sera fini et qu’on aura le droit de mentir un peu. Ici, on ne fait que recevoir. »
 
 Ils se turent tous les trois. La petite Wisse, le Cantor des côtes, la vieille au bord du puits de sève. Trois paires de mains tièdes contre le ventre du plus vieil arbre du monde, et au-dehors, très loin par-dessus le couvert, la mer d’Evertia contre ses caps, à des jours de marche, dans une autre vie.
 
@@ -109,25 +109,25 @@ Il vint sur le troisième quart de la nuit.
 
 Orwenne le sentit d’abord dans la fraîcheur. Une fraîcheur d’eau, qui montait par les paumes et par les genoux, venue du haut de la forêt, de la Source Haute, à travers les racines qui liaient tous les arbres de la forêt primordiale en un seul, lent, immense corps. La sève, sur les parois de la Chambre, prit une teinte plus pâle, presque blanche, et se mit à luire du dedans comme si on avait soufflé sur une braise de lait.
 
-«  Il est là  », souffla Wisse, et sa voix tremblait, et Orwenne n’eut pas le cœur de lui reprocher son tremblement, parce qu’elle-même, après quarante ans, tremblait encore chaque fois.
+« Il est là », souffla Wisse, et sa voix tremblait, et Orwenne n’eut pas le cœur de lui reprocher son tremblement, parce qu’elle-même, après quarante ans, tremblait encore chaque fois.
 
-«  Ne bougez pas. Ne pensez rien.  »
+« Ne bougez pas. Ne pensez rien. »
 
 Derrière les yeux fermés, l’image monta. Elle montait toujours de biais, jamais en face, comme une chose vue par le bord de l’œil et qui se défait si on la fixe. La Source Haute. Les deux dents de pierre grise, l’eau froide entre elles, le froid de l’aube sur la mousse. C’était sa manière à lui, sa signature, la figure par quoi il disait je suis là, c’est moi, la Source, depuis toujours. Orwenne connaissait cette image comme le visage d’un vieil ami. Mais cette nuit, l’image avait changé de sens. Entre les deux dents de pierre, l’eau descendait dans la pierre.
 
 Le filet s’enfonçait entre les dents, aspiré, et la source, au lieu de sourdre, avalait.
 
-«  Il a peur  », dit Orwenne tout haut, malgré elle, et elle s’entendit le dire d’une voix qu’elle ne se connaissait pas.
+« Il a peur », dit Orwenne tout haut, malgré elle, et elle s’entendit le dire d’une voix qu’elle ne se connaissait pas.
 
 Alors les mots vinrent.
 
-Ils vinrent par le dedans. Aucun esprit ne parlait, elle l’avait dit à la petite, aucun n’avait de bouche  ; ce fut comme si, quelque part au fond d’elle, dans le lieu où l’on se dit les choses à soi-même sans les prononcer, une phrase se formait qui n’était pas d’elle, une phrase qui cherchait ses mots dans sa langue à elle faute d’en avoir une, qui butait, reprenait, comme quelqu’un de très ancien qui n’aurait jamais eu l’usage de la parole et qui, une seule fois, pour dire une seule chose, empruntait à la hâte la bouche qui l’écoutait. Elle sentit la phrase se chercher, trébucher deux fois. Et à la troisième elle tomba, entière, nette, froide comme l’eau des deux dents de pierre.
+Ils vinrent par le dedans. Aucun esprit ne parlait, elle l’avait dit à la petite, aucun n’avait de bouche ; ce fut comme si, quelque part au fond d’elle, dans le lieu où l’on se dit les choses à soi-même sans les prononcer, une phrase se formait qui n’était pas d’elle, une phrase qui cherchait ses mots dans sa langue à elle faute d’en avoir une, qui butait, reprenait, comme quelqu’un de très ancien qui n’aurait jamais eu l’usage de la parole et qui, une seule fois, pour dire une seule chose, empruntait à la hâte la bouche qui l’écoutait. Elle sentit la phrase se chercher, trébucher deux fois. Et à la troisième elle tomba, entière, nette, froide comme l’eau des deux dents de pierre.
 
 *Ils arrivent par le dessous.*
 
 Le froid, sous les paumes d’Orwenne, monta d’un coup jusqu’aux coudes. Wisse eut un hoquet et arracha ses mains de la paroi. Le Cantor Vireth, à côté, était devenu très blanc, les yeux grands ouverts sur le rien de la Chambre, et Orwenne sut qu’il l’avait reçu lui aussi, l’homme des côtes, avec ses mains d’emprunt et son oreille de cuivre. Il l’avait senti passer, et aucune lecture ne tenait plus.
 
-«  Remettez vos mains, dit Orwenne, d’une voix basse et pressante. Vite. Ne le lâchez pas. C’est la dernière fois.  »
+« Remettez vos mains, dit Orwenne, d’une voix basse et pressante. Vite. Ne le lâchez pas. C’est la dernière fois. »
 
 Elle le savait. Comment, elle n’aurait su le dire, mais elle le savait avec la certitude sans appel de celles qui ont veillé trop de fins. Ses vieilles paumes s’écrasèrent contre le bois, de toute leur force, comme pour retenir par les épaules quelqu’un qui glisse d’un toit, et elle tendit vers lui tout ce qu’elle avait, quarante ans d’écoute, la Source, les deux dents de pierre, l’eau, le froid, viens, reste, je suis là, dis-le encore, dis-le mieux, ne pars pas dans le noir avec les cent quatre-vingt-neuf autres, tu es le dernier, tu es à moi, reste.
 
@@ -139,19 +139,19 @@ Et la sève, sur les parois de la Chambre, cessa de luire.
 
 Ils restèrent longtemps sans bouger, les trois, dans le noir tiède redevenu tout à fait noir. Ce fut Wisse qui pleura la première, sans bruit. Elle avait espéré cette nuit-là toute sa courte vie, et il n’y en aurait pas d’autre. Orwenne tendit le bras dans le noir, trouva l’épaule de l’enfant, la garda.
 
-«  Vous avez entendu  », dit-elle au Cantor.
+« Vous avez entendu », dit-elle au Cantor.
 
-«  J’ai entendu.  » La voix de Vireth était méconnaissable. «  Gardienne, j’ai entendu. Je croyais qu’on recevait des images. Ça m’est venu par le dedans, ça m’est venu comme si c’était moi qui…  » Il n’acheva pas.
+« J’ai entendu. » La voix de Vireth était méconnaissable. « Gardienne, j’ai entendu. Je croyais qu’on recevait des images. Ça m’est venu par le dedans, ça m’est venu comme si c’était moi qui… » Il n’acheva pas.
 
-«  C’était presque des mots, dit Orwenne. Oui. Il n’en avait jamais eu. Aucun d’eux n’en a jamais eu. Et celui-là, pour partir, en a trouvé.  » Sa gorge se serra  ; elle n’y prêta pas attention, il y avait plus urgent que son chagrin. «  Un être qui n’a jamais parlé apprend à parler pour dire une chose, une seule. Et c’est celle-là qu’il dit.  »
+« C’était presque des mots, dit Orwenne. Oui. Il n’en avait jamais eu. Aucun d’eux n’en a jamais eu. Et celui-là, pour partir, en a trouvé. » Sa gorge se serra ; elle n’y prêta pas attention, il y avait plus urgent que son chagrin. « Un être qui n’a jamais parlé apprend à parler pour dire une chose, une seule. Et c’est celle-là qu’il dit. »
 
-«  Que quelque chose arrive par le dessous.  »
+« Que quelque chose arrive par le dessous. »
 
-«  Non.  » Orwenne se surprit à corriger, dans le noir, avec une précision de veilleuse. «  Il a dit *ils*. Au pluriel. *Ils* arrivent par le dessous. Ils sont plusieurs. Ou bien il y en a une si vaste qu’il a fallu, pour la dire, un mot qui en compte beaucoup.  »
+« Non. » Orwenne se surprit à corriger, dans le noir, avec une précision de veilleuse. « Il a dit *ils*. Au pluriel. *Ils* arrivent par le dessous. Ils sont plusieurs. Ou bien il y en a une si vaste qu’il a fallu, pour la dire, un mot qui en compte beaucoup. »
 
 Le Cantor était sans voix. Dans le noir, on entendait seulement les pleurs retenus de la petite et, loin au-dessous d’eux, un frémissement dans les racines, alors qu’il n’y avait pas de vent, une vibration lente et profonde qui montait du sol de la Chambre et passait de la gardienne au Cantor et du Cantor à la petite comme un frisson qu’on se serait donné de la main à la main. Aucun des trois ne le nomma.
 
-«  Les autres, dit soudain Wisse à travers ses larmes. Les vingt-huit. Descendez, gardienne. Écoutez les autres. Peut-être qu’ils…  »
+« Les autres, dit soudain Wisse à travers ses larmes. Les vingt-huit. Descendez, gardienne. Écoutez les autres. Peut-être qu’ils… »
 
 Orwenne avait déjà remis ses mains contre le bois. Elle n’espérait rien. On n’espère pas, elle l’avait dit. Mais elle descendit quand même, une dernière fois cette nuit-là, dans la sève de l’Arbre-Mère, dans le grand corps unique de la forêt, vers le sud chaud où tenaient encore, hier, vingt-sept voix après celle du nord.
 
@@ -163,13 +163,13 @@ Orwenne retira ses mains avant d’avoir à en compter un de moins encore. Elle 
 
 Bien plus tard, remontée à l’air, dehors, dans le petit jour gris qui filtrait par le couvert et rendait au monde ses couleurs ordinaires, Orwenne fit ce que faisaient les gardiennes de Sylvara depuis toujours quand un esprit se taisait. Sur le côté resté vierge de son écorce lissée, celle des entailles, à la pointe d’un stylet d’os, elle grava les mots. Au lieu de la cent quatre-vingt-dixième entaille sèche, les mots, en entier. Pour qu’ils restent après elle, et après la dernière gardienne qui descendrait un jour écouter un arbre devenu muet.
 
-*Le dernier esprit du nord, celui de la Source Haute, s’est tu la nuit de la cascade. Avant de se taire il a dit, et ce sont les seuls mots qu’un esprit ait jamais formés dans notre langue  : ils arrivent par le dessous.*
+*Le dernier esprit du nord, celui de la Source Haute, s’est tu la nuit de la cascade. Avant de se taire il a dit, et ce sont les seuls mots qu’un esprit ait jamais formés dans notre langue : ils arrivent par le dessous.*
 
 Elle relut, hésita. Puis, en dessous, plus petit, elle ajouta une ligne qu’une gardienne n’avait pas le droit d’ajouter, puisqu’une gardienne consigne ce qu’elle reçoit et rien de plus. Elle l’ajouta quand même. Il fallait qu’une main, quelque part, l’eût écrite, ne fût-ce que pour qu’on pût la nier plus tard.
 
 *Il n’avait jamais parlé. Aucun d’eux n’a jamais parlé. Celui-là a trouvé des mots pour s’en aller, et je ne sais pas qui les lui a appris.*
 
-Le Cantor Vireth partit à la marée du matin, l’étui de cuivre fermé sous le bras. Il ne dit pas ce qu’il rapporterait à Thalmaris. Orwenne ne le lui demanda pas  : il n’en savait rien, cela se voyait, et c’était peut-être tout ce qu’il avait de juste à rapporter.
+Le Cantor Vireth partit à la marée du matin, l’étui de cuivre fermé sous le bras. Il ne dit pas ce qu’il rapporterait à Thalmaris. Orwenne ne le lui demanda pas : il n’en savait rien, cela se voyait, et c’était peut-être tout ce qu’il avait de juste à rapporter.
 
 Orwenne resta seule au pied de l’Arbre-Mère, avec la petite endormie de fatigue contre une racine, et l’écorce des noms serrée dans son poing. Le jour montait. Les oiseaux, qui depuis trois ans ne chantaient plus tout à fait comme avant dans cette forêt, se turent un instant tous ensemble, sans raison, comme ils faisaient de plus en plus souvent, puis reprirent. Sa vieille nuque trouva l’écorce du plus vieil arbre du monde. Il n’y avait plus rien à écouter. Elle ferma les yeux pour se reposer un peu de tout ce silence.
 

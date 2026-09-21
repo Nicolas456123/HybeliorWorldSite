@@ -87,7 +87,7 @@ Plus vite. C’est encore le mot qui manque le plus et que ça sent le mieux. En
 
 > **Fragment documentaire V.** *Cahier de belle main, papier neuf pour son âge, cousu et non brûlé, tenu par un maître copiste d’un atelier dont l’enseigne ne se lit plus. On n’y recopie pas des récits : on y range, pour l’exemple des apprentis, des « sentences dignes d’être tenues », choisies pour la fermeté du trait et la justesse du son, chacune détachée de son livre d’origine et alignée sans provenance, comme on garde des médailles sans savoir de quel règne.*
 >
-> *Au feuillet des sentences sur ce qui doit arriver, entre un adage sur la roue qui tourne et un autre sur la cendre qui se souvient du feu, une seule main a tracé, d’une encre égale et sans repentir :*
+> *Au feuillet des sentences sur ce qui doit arriver, entre un adage sur la roue qui tourne et un autre sur la cendre qui se souvient du feu, une seule main a tracé, d’une encre égale et sans repentir :*
 >
 > *« Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable. »*
 >
