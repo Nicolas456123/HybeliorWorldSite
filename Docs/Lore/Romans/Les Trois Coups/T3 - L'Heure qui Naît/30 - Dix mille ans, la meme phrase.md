@@ -41,7 +41,7 @@ Sanne prit la lampe par le pied et la fit glisser de deux doigts sur la table, s
 
 — Qu’on ne l’arrange pas.
 
-— Ses mots. Il a dit : recopiez les blancs comme le reste. Dans le dernier cahier, il y a quatorze pages blanches, reliées et comptées comme les pleines. Il a exigé qu’on les refasse à l’identique. Quatorze pages où il n’y a rien, et rien pour rien, parce que le rien, là, veut dire quelque chose. » Ysolde eut quelque chose comme un sourire, mince et sans gaieté. « J’ai passé une nuit à recopier du vide pour ma propre copie de travail. C’est le plus difficile que j’aie fait de l’année, et le plus honnête. »
+— Ses mots. Il a dit : recopiez les blancs comme le reste. Dans le dernier cahier, il y a quatorze pages blanches, reliées et comptées comme les pleines. Il a exigé qu’on les refasse à l’identique. Quatorze pages où il n’y a rien, et rien pour rien, parce que le rien, là, veut dire quelque chose. » Ysolde eut quelque chose comme un sourire. « J’ai passé une nuit à recopier du vide pour ma propre copie de travail. C’est le plus difficile que j’aie fait de l’année, et le plus honnête. »
 
 Dehors, très loin, une cloche de collège sonna une heure que personne n’écoutait. Sanne attendit qu’elle se taise.
 
@@ -61,7 +61,7 @@ Alors seulement Ysolde approcha sa propre lampe, et se pencha de côté, très b
 
 — Ouvrez au hasard. Pas au milieu. N’importe où. »
 
-Sanne ouvrit au tiers. Les pages brunes se soulevèrent avec cette raideur qu’elles prennent en vieillissant, et Ysolde ne regarda pas le texte. Elle regarda la page en biais, une fois, comme on regarde un champ au soir pour voir où la terre penche.
+Sanne ouvrit au tiers. Les pages brunes se soulevèrent avec cette raideur qu’elles prennent en vieillissant, et Ysolde regarda la page en biais, une fois, comme on regarde un champ au soir pour voir où la terre penche.
 
 « Combien de mains ?
 
@@ -87,7 +87,7 @@ Sanne ouvrit le cahier au milieu, du pouce, à l’endroit que le fil tient, et 
 
 *Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable.*
 
-Ysolde ne se pencha pas dessus. Elle la lut de sa place, de loin, à la renverse, sans buter une seule fois, et elle en récita la fin avant que ses yeux n’y fussent arrivés. Puis elle demeura immobile, très longtemps. Puis elle se leva, prit sa lampe, et s’enfonça dans les rayonnages du fond, là où l’ombre mangeait les cotes.
+Ysolde la lut de sa place, de loin, à la renverse, sans buter une seule fois, et elle en récita la fin avant que ses yeux n’y fussent arrivés. Puis elle demeura immobile, très longtemps. Puis elle se leva, prit sa lampe, et s’enfonça dans les rayonnages du fond, là où l’ombre mangeait les cotes.
 
 « Où allez-vous, dit Sanne.
 
@@ -219,7 +219,7 @@ Sanne hocha la tête. Un homme parti à l’autre bout du monde, une forgeronne 
 
 — Le cahier ? Il est trop mangé pour une copie honnête. Je pourrais rendre les mains dessinées, à peu près, et les blancs, tous les blancs, mais le geste ne reviendra pas d’une copie.
 
-— Pas le cahier. La ligne. Recopiez-moi la ligne. » Sanne poussa le vieux cahier d’un doigt vers Ysolde, un tout petit peu, un geste minuscule et énorme. « Jusqu’à ce soir, elle n’était qu’à un endroit : contre ma peau, sous la lanière. Une seule copie vivante, portée par une seule femme qu’on suit sur les routes. Vous savez ce que c’est qu’une chose gardée à un seul endroit ? C’est une chose qu’on peut faire disparaître d’un seul coup. On me prend, moi, une nuit, dans une auberge trop propre, et la ligne s’en va avec moi. Il reste les copies pauvres, la rumeur mouillée, le bordereau, la marge effacée. L’os survit encore un peu, corrompu. Mais celui-ci, l’intact, celui du pli, il meurt avec le dos qui le porte. »
+— Pas le cahier. La ligne. Recopiez-moi la ligne. » Sanne poussa le vieux cahier d’un doigt vers Ysolde, un tout petit peu, un geste minuscule et énorme. « Jusqu’à ce soir, elle n’était qu’à un endroit : contre ma peau, sous la lanière. Une seule copie vivante, portée par une seule femme qu’on suit sur les routes. Vous savez ce que c’est qu’une chose gardée à un seul endroit ? C’est une chose qu’on peut faire disparaître d’un seul coup. On me prend, moi, une nuit, dans une auberge où l’on m’attendait, et la ligne s’en va avec moi. Il reste les copies pauvres, la rumeur mouillée, le bordereau, la marge effacée. L’os survit encore un peu, corrompu. Mais celui-ci, l’intact, celui du pli, il meurt avec le dos qui le porte. »
 
 Ysolde la regardait, et elle avait compris, Sanne le vit, tout ce qui se tenait sous les mots.
 

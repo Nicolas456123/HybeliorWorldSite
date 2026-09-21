@@ -18,7 +18,7 @@ Il y avait dans la charrette une chose qu’elle n’y avait pas mise. La laine 
 
 Elle partait à cause de l’avant-veille.
 
-Cette nuit-là, à l’heure creuse, la chose sous le plancher avait fait son ouvrage habituel, le long, puis le court, et le bout qu’elle laissait tomber ; et puis elle avait tenu le bout. Tenu tout entier, une seconde, deux, un son plein qui n’était plus une mesure. Renna s’était retrouvée debout devant le mur du sud, pieds nus, dans le noir. Elle ne s’était pas vue se lever. Le son ne l’épouvanta pas. Ce fut la terre battue sous ses pieds, qui était tiède : elle était restée plantée là assez longtemps pour que le froid du sol eût passé dans elle. Au matin, elle était descendue louer le mulet.
+Cette nuit-là, à l’heure creuse, la chose sous le plancher avait fait son ouvrage habituel, le long, puis le court, et le bout qu’elle laissait tomber ; et puis elle avait tenu le bout. Tenu tout entier, une seconde, deux, un son plein qui n’était plus une mesure. Renna s’était retrouvée debout devant le mur du sud, pieds nus, dans le noir. Elle ne s’était pas vue se lever. Ce qui l’épouvanta fut la terre battue sous ses pieds, qui était tiède : elle était restée plantée là assez longtemps pour que le froid du sol eût passé dans elle. Au matin, elle était descendue louer le mulet.
 
 À l’arrière, dans le foin, Ilex dormait roulé sur le flanc, tourné au sud comme toujours, et Renna dut se retenir de le remettre droit, puisqu’on partait justement pour qu’il n’eût plus, jamais, de sud vers quoi rouler.
 
@@ -184,7 +184,7 @@ Des prairies grasses, des haies pleines d’oiseaux qui ne fuyaient pas, une riv
 
 Elle y était. C’était cela, être loin : une couverture qui ne rend plus rien.
 
-Elle regarda ses mains. Le bleu n’avait pas bougé d’un ton. Il ne s’en irait pas avec les lieues ; il s’en irait avec la peau, dans un mois, si elle ne teignait plus. Ce que la route pouvait emporter, elle l’avait emporté le premier jour.
+Elle regarda ses mains. Le bleu n’avait pas bougé d’un ton. Il s’en irait avec la peau, dans un mois, si elle ne teignait plus. Ce que la route pouvait emporter, elle l’avait emporté le premier jour.
 
 Renna arrêta la charrette au bord de la rivière, au plus beau de ce beau pays, prit l’enfant sur ses genoux et se mit à lui parler, elle qui se taisait par métier.
 
@@ -216,7 +216,7 @@ D’abord si faible que Renna la prit pour son propre sang aux oreilles. Puis ne
 
 Deux choses se refermèrent sur elle en même temps.
 
-La première, c’est que l’aubergiste avait raison. Ça ne sortait pas que du Mont. Son puits qui chantait à dix-huit lieues n’était pas une exception, il était le premier. Se boucher, changer de vallée, filer vers le nord ou vers la mer : Renna avait passé sa vie à mettre de la distance entre elle et ça, et elle venait de voir, au bord d’une rivière, le fond de ce qu’on peut mettre. Le puits d’une aubergiste qui n’avait jamais rien entendu de sa vie s’était mis à répéter la chose dans le noir. Viendraient les chiens, puis les enfants ordinaires, puis chacun.
+La première, c’est que l’aubergiste avait raison. Ça ne sortait pas que du Mont. Son puits qui chantait à dix-huit lieues était le premier. Se boucher, changer de vallée, filer vers le nord ou vers la mer : Renna avait passé sa vie à mettre de la distance entre elle et ça, et elle venait de voir, au bord d’une rivière, le fond de ce qu’on peut mettre. Le puits d’une aubergiste qui n’avait jamais rien entendu de sa vie s’était mis à répéter la chose dans le noir. Viendraient les chiens, puis les enfants ordinaires, puis chacun.
 
 La seconde, c’est qu’elle avait emmené mourir l’enfant qui entendait le mieux, très exactement à l’heure où il aurait fallu l’écouter, lui, avant tous les autres.
 

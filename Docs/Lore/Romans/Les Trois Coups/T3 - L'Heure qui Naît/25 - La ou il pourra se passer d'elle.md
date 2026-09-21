@@ -31,7 +31,7 @@ Il fallait donc poser quelque chose avant. Tout de suite, sur cette route-ci. Qu
 
 Elle mit la matinée à trouver, et ce qu’elle trouva lui vint de la forge, comme tout ce qui lui venait.
 
-Quand on démonte un ouvrage qu’on n’a pas monté soi-même, une penture, une serrure, la bande d’une roue, on trace d’abord un trait en travers du joint, d’un coup de pointe, avant de séparer les morceaux. Chacun s’en va ensuite avec sa moitié de trait. Une moitié seule ne dit rien à personne : elle s’arrête bêtement au bord de son fer, elle ressemble à une éraflure. Mais qu’on rapproche un jour les deux morceaux, et si les deux moitiés tombent en face, ils venaient du même ouvrage, et il n’y a pas d’autre preuve à chercher. Marquer au repère, on appelait ça, dans la maison. Le trait ne servait à rien à celui qui démontait : lui, il se rappelait. Il servait à la main d’après, celle qui n’était pas là ce jour-là et qui n’aurait rien d’autre pour retrouver le sens du montage.
+Quand on démonte un ouvrage qu’on n’a pas monté soi-même, une penture, une serrure, la bande d’une roue, on trace d’abord un trait en travers du joint, d’un coup de pointe, avant de séparer les morceaux. Chacun s’en va ensuite avec sa moitié de trait. Une moitié seule ne dit rien à personne : elle s’arrête bêtement au bord de son fer, elle ressemble à une éraflure. Mais qu’on rapproche un jour les deux morceaux, et si les deux moitiés tombent en face, ils venaient du même ouvrage, et il n’y a pas d’autre preuve à chercher. Marquer au repère, on appelait ça, dans la maison. Celui qui démontait, lui, se rappelait. Le trait servait à la main d’après, celle qui n’était pas là ce jour-là et qui n’aurait rien d’autre pour retrouver le sens du montage.
 
 Sanne s’arrêta sous un hêtre au bord du chemin, la charge encore aux épaules, et retourna la chose deux fois avant d’y croire. Trente ans qu’elle traçait ces traits sans y penser. Elle n’avait jamais vu qu’on pouvait en tracer un dans quelqu’un.
 
@@ -87,7 +87,7 @@ Elles mangèrent le soir dans la salle basse, une soupe d’orge, du fromage dur
 
 — Tant mieux. » Sanne sourit malgré elle, du souvenir d’une autre petite à qui elle avait dit tant mieux sur une autre route. « Tu la verras. »
 
-Elle hésita. Le battement était là, ce soir, comme chaque soir, plus proche que la veille, monté dans le plancher et dans le bois du banc ; et elle sentait, de la manière sourde qui était la sienne, que le moment était de ceux qu’on ne repasse pas. On lui avait passé le cahier, à elle, un soir de ce genre, sa mère mourante lui ayant seulement dit : tu ne l’ouvres que quand tu en as besoin, et tu sauras quand. Elle avait cru longtemps que ce besoin serait le sien. Elle comprenait, ce soir, contre ce banc, que le besoin dont sa mère parlait n’était peut-être pas celui d’ouvrir. C’était celui de passer.
+Elle hésita. Le battement était là, ce soir, comme chaque soir, plus proche que la veille, monté dans le plancher et dans le bois du banc ; et elle sentait, de la manière sourde qui était la sienne, que le moment était de ceux qu’on ne repasse pas. On lui avait passé le cahier, à elle, un soir de ce genre, sa mère mourante lui ayant seulement dit : tu ne l’ouvres que quand tu en as besoin, et tu sauras quand. Elle avait cru longtemps que ce besoin serait le sien. Elle comprenait, ce soir, contre ce banc, que le besoin dont sa mère parlait était peut-être celui de passer.
 
 « Nesse. Va me chercher une chandelle neuve, et ferme la porte du fond. »
 

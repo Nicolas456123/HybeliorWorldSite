@@ -20,7 +20,7 @@ La place, en bas, n’était plus la place. Entre la fontaine et l’auvent du f
 
 « Vous l’avez sous les pieds ! criait-il. Vous la sentez cinq fois le jour et vous cherchez encore à qui la vendre. Ce n’est pas un mal. Ce n’est pas une fièvre du sol. C’est Flamara qui rouvre les yeux. Le Feu premier, celui qui dormait dans le Mont depuis le commencement, qui remue, qui pousse, qui cherche à revenir au jour par la seule bouche qui lui reste. Réjouissez-vous et craignez, car les deux se doivent ! »
 
-Au premier rang, une femme ne se réjouissait ni ne craignait. Elle attendait son tour, et Renna vit à sa mise qu’elle attendait pour contredire : un tablier de cuir roussi, et au bout d’une chaîne un petit brasero de fer où tenait une braise vive, qu’elle balançait doucement pour la garder en vie. Pyrevane. La porteuse de braise. Quand l’homme d’Arkhen reprit son souffle, elle leva le brasero et la voix ensemble.
+Au premier rang, une femme attendait son tour sans se réjouir ni craindre, et Renna vit à sa mise qu’elle attendait pour contredire : un tablier de cuir roussi, et au bout d’une chaîne un petit brasero de fer où tenait une braise vive, qu’elle balançait doucement pour la garder en vie. Pyrevane. La porteuse de braise. Quand l’homme d’Arkhen reprit son souffle, elle leva le brasero et la voix ensemble.
 
 « Flamara », dit-elle, avec le sourire usé de qui a fait cette dispute cent fois. « Voilà bien Arkhen. Vous nommez le feu d’après le mont, comme si les deux ne faisaient qu’un. Votre flamme droite, celle qui brûle et qui tue, elle vient après. Ce qui monte d’abord, toujours, c’est la braise. C’est Eldoria, la mère sous la cendre, celle qui couve et qui n’a jamais tout à fait cédé. Elle ne rouvre pas les yeux. Elle ne les a jamais fermés. Elle se rappelle à nous, voilà tout, parce que le monde a assez refroidi pour qu’elle ait froid elle aussi.
 
@@ -118,7 +118,7 @@ Renna le garda contre elle. Dessous, la chose reprit son premier temps, son deux
 
 Le prédicant d’Arkhen monta le lendemain. Seul, sans sa braisière pour le contredire, et Renna comprit à cette solitude qu’il ne venait pas prêcher.
 
-Du seuil elle le vit prendre le tournant du bas, la bure rousse dans le gris du petit matin, et elle poussa Ilex dans la resserre par vieille habitude, entre les cuves, avant de se rappeler que celui-là ne montait pas pour l’enfant. Il montait pour elle. La planche entrouverte, elle sortit sur le seuil, les bras croisés, pour qu’il n’entrât pas.
+Du seuil elle le vit prendre le tournant du bas, la bure rousse dans le gris du petit matin, et elle poussa Ilex dans la resserre par vieille habitude, entre les cuves, avant de se rappeler que celui-là venait pour elle. La planche entrouverte, elle sortit sur le seuil, les bras croisés, pour qu’il n’entrât pas.
 
 « La femme qui entend », dit-il en arrivant, essoufflé de la montée, et il sourit d’un sourire qui voulait être doux et n’avait que faim. « Sur la place, hier, tu as dit que le Mont ne t’avait jamais dit son nom. Je t’ai crue à moitié. On ment bien, à Taldre. Mais on ne ment pas au grain de la voix, et ta voix, quand tu as dit qu’un tremblement ne se baptise pas, ta voix, elle, savait qu’elle mentait.
 

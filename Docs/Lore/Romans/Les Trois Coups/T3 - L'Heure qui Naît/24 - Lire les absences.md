@@ -137,7 +137,7 @@ Il avait dit vrai à Vellan, sans lui dire tout. La femme des marches savait son
 
 Il aurait pu dire, sans l’avoir vue, ce qu’elle ne faisait jamais. Elle n’achetait pas deux fois dans la même ville. Elle ne reprenait pas une porte par laquelle elle était déjà sortie. Elle laissait derrière elle un homme qui croyait lui avoir rendu service et un autre qui croyait l’avoir volée, et aucun des deux n’avait de raison d’aller le raconter. C’était un vieux savoir, et une vieille fatigue.
 
-Il déplia sa propre carte, celle qu’il n’avait pas montrée. Pas de ligne rouge. Des croix à l’encre ordinaire, une par manque relevé, avec sa date en dessous et son rang, numérotées dans l’ordre où il les avait trouvées, comme il aurait coté des pièces d’un même versement. Il prolongea la ligne par les deux bouts.
+Il déplia sa propre carte, celle qu’il n’avait pas montrée. Des croix à l’encre ordinaire, une par manque relevé, avec sa date en dessous et son rang, numérotées dans l’ordre où il les avait trouvées, comme il aurait coté des pièces d’un même versement. Il prolongea la ligne par les deux bouts.
 
 Vers le haut, elle montait au nord, vers Cendara et le Mont qui battait. Cela, il l’avait su. Tout montait au nord cette année, les pèlerins, les enfants aux yeux blancs, les rumeurs, comme si le monde s’était incliné d’un côté.
 
@@ -145,7 +145,7 @@ Vers le bas, elle descendait. Et en la descendant, croix après croix, poste apr
 
 Le premier manque était dans la basse marche d’Onara. Pas la ville : le pays autour, les hameaux de fondeurs, les vieux postes de confrontation d’un district dissous depuis longtemps. Le pays d’où sa femme des marches était partie. Le pays, exactement, d’où était venu, à l’Ère V, le nommé Olven, copiste, dont la copie dormait au fond du versement dans un coffre que sa clef n’ouvrait qu’à moitié.
 
-Il ne noua rien. Il mit les deux points côte à côte, le pays que sa carte donnait pour source à la femme vivante, le pays que l’étiquette de son coffre donnait pour source au copiste mort, et c’était le même pays. Le récit dormait sous sa clef, descendu de cette marche. L’autre courait les routes, remonté de la même. Deux pièces d’un seul versement, séparées par tout ce temps, que personne n’avait jamais rangées dans le même rang.
+Il mit les deux points côte à côte et n’écrivit rien entre eux, le pays que sa carte donnait pour source à la femme vivante, le pays que l’étiquette de son coffre donnait pour source au copiste mort, et c’était le même pays. Le récit dormait sous sa clef, descendu de cette marche. L’autre courait les routes, remonté de la même. Deux pièces d’un seul versement, séparées par tout ce temps, que personne n’avait jamais rangées dans le même rang.
 
 Il connaissait l’étiquette par cœur, les couches d’écritures collées les unes sur les autres et le poste de confins qui avait rédigé la plus ancienne. Il n’avait jamais lu ce qu’il y avait dessous. Cette nuit-là, l’envie lui en vint, et elle prit la forme d’une question de métier : de quel rang cette pièce-là manquait-elle, et qui tenait ce rang.
 

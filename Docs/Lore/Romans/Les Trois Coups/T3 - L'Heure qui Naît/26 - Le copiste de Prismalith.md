@@ -27,7 +27,7 @@ Il tourna les feuillets de sa copie jusqu’au dernier tiers, sans se presser, d
 
 La main du vieux ne tournait pas d’un train égal. Elle s’attardait à des endroits sans raison, repartait plus vite, butait ; et Ysolde reconnut l’allure, parce qu’elle avait la même dans le poignet. On ne copie pas une main sans en prendre le pas. Le vieux tournait les pages au train de l’homme qui les avait écrites, il s’arrêtait où l’autre s’était arrêté, et cela lui tiendrait le poignet des semaines encore.
 
-Elle avait établi sa copie de travail elle-même, cahier après cahier, et il lui était resté du voyageur ce que le métier laisse toujours : pas ses idées, pas ses peurs, son train de main. Elle écrivait plus vite qu’avant. Elle butait sur les listes de noms là où il avait buté. Un soir de la semaine passée, en écrivant à sa sœur, elle s’était arrêtée au milieu d’un mot sans savoir pourquoi, et elle avait mis un temps à comprendre à qui appartenait cet arrêt-là.
+Elle avait établi sa copie de travail elle-même, cahier après cahier, et il lui était resté du voyageur ce que le métier laisse toujours : son train de main. Elle écrivait plus vite qu’avant. Elle butait sur les listes de noms là où il avait buté. Un soir de la semaine passée, en écrivant à sa sœur, elle s’était arrêtée au milieu d’un mot sans savoir pourquoi, et elle avait mis un temps à comprendre à qui appartenait cet arrêt-là.
 
 « Quatorze », dit-elle.
 
@@ -37,7 +37,7 @@ Elle avait établi sa copie de travail elle-même, cahier après cahier, et il l
 
 « J’ai recopié ce qui était là. » Il posa sa main ridée sur la liasse neuve, doucement. « Il y avait quatorze pages sans écriture. Ma copie en a quatorze. Treize, et je mentais sur la quinzième. Quinze, et j’inventais la quatorzième. Le blanc se compte, madame. Comme le reste. »
 
-Ysolde connaissait cette voix. C’était celle qu’il prenait quand un jeune, à l’autre bout de la salle, avait amélioré une tournure, redressé la faute d’un ancien, comblé une lacune de son propre chef en croyant bien faire. Il ne haussait jamais le ton. Il expliquait.
+Ysolde connaissait cette voix. C’était celle qu’il prenait quand un jeune, à l’autre bout de la salle, avait amélioré une tournure, redressé la faute d’un ancien, comblé une lacune de son propre chef en croyant bien faire. Il expliquait, aussi longtemps qu’il le fallait.
 
 « Certains diront que recopier des pages blanches, c’est recopier du papier, pas un texte. »
 
@@ -107,7 +107,7 @@ Dehors, une poulie grinça sur une citerne, et l’eau monta quelque part dans l
 
 La chambre forte se tenait sous la salle des copies, deux étages plus bas, là où le jour n’entrait jamais et où le prisme n’était qu’une rumeur. Ysolde y descendit seule à la nuit, comme elle le faisait quand la journée avait été de celles qui laissent les mains sales d’un accord conclu, et alluma la lampe qu’on autorisait là, une lourde lampe à huile cerclée de verre épais, qu’on ne laissait jamais sans surveillance à côté du vélin.
 
-Les dix-sept cahiers dormaient dans leur coffre de cèdre, à plat, le dos tourné vers elle, sans titre, parce que l’homme n’avait pas voulu leur en donner. Le dix-septième vint dans ses mains de lui-même, par habitude. Pas aux pages blanches, pas encore : elle l’ouvrit un peu avant, à l’endroit qu’elle relisait toujours, celui qu’elle n’avait jamais su comment traiter dans sa copie de travail et qu’elle avait fini par laisser tel quel, ce qui était sa façon à elle de rendre les armes.
+Les dix-sept cahiers dormaient dans leur coffre de cèdre, à plat, le dos tourné vers elle, sans titre, parce que l’homme n’avait pas voulu leur en donner. Le dix-septième vint dans ses mains de lui-même, par habitude. Elle l’ouvrit un peu avant les pages blanches, à l’endroit qu’elle relisait toujours, celui qu’elle n’avait jamais su comment traiter dans sa copie de travail et qu’elle avait fini par laisser tel quel, ce qui était sa façon à elle de rendre les armes.
 
 C’était une note de marge. L’homme en avait mis partout, des choses jetées de biais pendant qu’il écrivait autre chose, un souvenir, une peur, un mot d’une langue qu’il ne parlait pas. Celle-ci tenait en une ligne, tracée d’une écriture plus serrée que le reste, comme s’il avait eu froid en l’écrivant.
 

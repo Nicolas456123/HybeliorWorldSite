@@ -12,7 +12,7 @@ La laine mouillée pèse trois fois la laine sèche, et c’est la corde du séc
 
 Le répit se mesurait maintenant à un quart d’heure, et le quart d’heure fondait.
 
-Renna ne le lut ni au ciel ni à la chandelle, dont elle ne comptait plus les doigts brûlés. Elle le lut au corps de l’enfant. La maison de guède avait toujours eu ses horloges à elle, la chèvre qui réclamait, le mordant qui virait, l’ombre du Mont qui basculait d’un mur sur l’autre selon l’heure. Depuis le retour, une seule marchait, et c’était Ilex. Quand la poussée venait sous le plancher, tout le petit corps se tendait d’un coup vers le sud, la nuque, les épaules, jusqu’aux orteils nus qui pointaient dans le foin ; puis elle refluait, et le corps retombait, mou, une seconde, deux, dix, avant de se retendre. Renna n’avait qu’à poser la main sur l’omoplate de l’enfant pour savoir l’heure du dessous. Et l’heure du dessous revenait chaque fois de plus près, comme revient une bête qui sait où est la porte et qui toque plus vite.
+Renna le lut au corps de l’enfant. La maison de guède avait toujours eu ses horloges à elle, la chèvre qui réclamait, le mordant qui virait, la chandelle dont elle ne comptait plus les doigts brûlés, l’ombre du Mont qui basculait d’un mur sur l’autre selon l’heure. Depuis le retour, une seule marchait, et c’était Ilex. Quand la poussée venait sous le plancher, tout le petit corps se tendait d’un coup vers le sud, la nuque, les épaules, jusqu’aux orteils nus qui pointaient dans le foin ; puis elle refluait, et le corps retombait, mou, une seconde, deux, dix, avant de se retendre. Renna n’avait qu’à poser la main sur l’omoplate de l’enfant pour savoir l’heure du dessous. Et l’heure du dessous revenait chaque fois de plus près, comme revient une bête qui sait où est la porte et qui toque plus vite.
 
 On était rentrés depuis quatre jours. Quatre jours qu’ils avaient remonté la même route à l’envers, du vert vers la cendre, de l’eau claire vers l’air sans vent, et à chaque lieue regagnée vers le Mont l’enfant avait repris un gramme, une lueur, un souffle. Renna aurait voulu s’en réjouir. Mais le lait revenait dans les yeux d’Ilex à mesure exacte qu’on le rapprochait de la chose, et rien, dans cette guérison-là, ne ressemblait à une bonne nouvelle.
 
@@ -62,7 +62,7 @@ Au matin, elle descendit à Taldre, parce qu’il ne restait ni pain ni sel et q
 
 Le chemin du bas n’était pas le chemin du bas.
 
-D’ordinaire, à cette heure, on y croisait trois carriers et une chèvre. Ce matin-là il y avait du monde comme un jour de foire, et tout ce monde montait. Des gens à pied, un baluchon en travers du dos, un bâton neuf coupé pour la pente. Des familles entières, le vieux devant, les enfants derrière, une bête chargée au milieu. Ils montaient vers le Mont sans se parler beaucoup, du pas de ceux qui ont déjà marché longtemps et à qui il reste à marcher encore, et sur les visages il n’y avait ni la joie des pèlerins ni la peur des fuyards, mais une troisième chose, plus difficile à nommer, une manière de céder à une pente en cessant de lutter contre elle.
+D’ordinaire, à cette heure, on y croisait trois carriers et une chèvre. Ce matin-là il y avait du monde comme un jour de foire, et tout ce monde montait. Des gens à pied, un baluchon en travers du dos, un bâton neuf coupé pour la pente. Des familles entières, le vieux devant, les enfants derrière, une bête chargée au milieu. Ils montaient vers le Mont sans se parler beaucoup, du pas de ceux qui ont déjà marché longtemps et à qui il reste à marcher encore, et sur les visages il y avait une manière de céder à une pente en cessant de lutter contre elle.
 
 Renna se rangea contre le talus pour les laisser passer, le petit calé sur la hanche, et croisa Ferane qui descendait, elle, à contre-courant, son panier vide au bras et le fichu de travers comme toujours.
 
@@ -178,7 +178,7 @@ Renna écouta. Elle ne se boucha pas ; elle n’essaya même plus. Sous le plan
 
 — Pour être là, » répéta Ilex, et il le dit comme on pose enfin un poids qu’on a longtemps porté à bout de bras.
 
-Il s’endormit, la tête tournée non plus vers le sud mais contre l’épaule de la femme, parce qu’il n’avait plus à s’orienter vers ce qu’il allait rejoindre au matin.
+Il s’endormit, la tête contre l’épaule de la femme, parce qu’il n’avait plus à s’orienter vers ce qu’il allait rejoindre au matin.
 
 Renna resta les yeux ouverts dans le noir, la porte non barrée découpant un rectangle plus pâle où l’on devinait, tout en haut, la base de la colonne de cendre qui montait droit dans la nuit sans vent. Elle ne dormit pas. Au matin ils monteraient. Elle prendrait la petite main dans sa main bleue, et elle irait du pas des autres, du côté où le sol tirait, et cela ne lui coûterait rien.
 

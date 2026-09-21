@@ -13,7 +13,7 @@ status: draft
 
 Depuis deux mois, Vaskar Sorne chassait un cahier qu’il n’avait jamais vu.
 
-Il en avait des copies, prises à des portes que rien ne reliait, toutes fautives et toutes différentes, et au milieu de chacune la même phrase intacte. Il avait les routes de l’objet. Il n’en avait pas une page. La femme qui le portait et le cahier qu’elle portait ne faisaient plus qu’une seule affaire dans son travail, non par une idée qu’il se fût faite d’elle, mais parce qu’on ne lui signalait jamais l’un sans l’autre : aux portes, on se rappelait mal son visage et très bien ses mains, des mains de travail, disait-on, qui posaient le cahier à plat et ne le tenaient jamais contre elles. Vaskar avait noté cela le premier jour sans rien en tirer, et l’avait gardé.
+Il en avait des copies, prises à des portes que rien ne reliait, toutes fautives et toutes différentes, et au milieu de chacune la même phrase intacte. Il avait les routes de l’objet. Il n’en avait pas une page. La femme qui le portait et le cahier qu’elle portait ne faisaient plus qu’une seule affaire dans son travail, parce qu’on ne lui signalait jamais l’un sans l’autre : aux portes, on se rappelait mal son visage et très bien ses mains, des mains de travail, disait-on, qui posaient le cahier à plat et ne le tenaient jamais contre elles. Vaskar avait noté cela le premier jour sans rien en tirer, et l’avait gardé.
 
 Cette nuit-là, pour la première fois, la traque rapporta du papier.
 
@@ -95,7 +95,7 @@ Le cahier d’Olven, il l’ouvrit.
 
 *
 
-Le cahier ne portait pas de dessins. Là où la chemise de la traque montrait des mains, des chiffres, l’ordre d’un geste qu’on ne lisait plus, celui-ci n’avait que des mots. Une écriture serrée, ancienne, penchée, celle d’un homme qui copie et qui a peur de manquer de place. Un récit. Le récit du geste : pourquoi on l’avait fait, et par qui, et ce qu’ils s’étaient dit avant de le faire. L’un des deux cahiers avait sauvé la main et perdu la voix ; l’autre avait sauvé la voix et n’avait jamais eu la main.
+Là où la chemise de la traque montrait des mains, des chiffres, l’ordre d’un geste qu’on ne lisait plus, celui-ci n’avait que des mots. Une écriture serrée, ancienne, penchée, celle d’un homme qui copie et qui a peur de manquer de place. Un récit. Le récit du geste : pourquoi on l’avait fait, et par qui, et ce qu’ils s’étaient dit avant de le faire. L’un des deux cahiers avait sauvé la main et perdu la voix ; l’autre avait sauvé la voix et n’avait jamais eu la main.
 
 Vaskar se pencha entre les deux et attendit qu’ils s’emboîtassent. Ils se ressemblèrent. C’était la même peine, dite deux fois, dans deux langues qui s’ignoraient.
 
@@ -109,7 +109,7 @@ Vaskar leva les yeux du feuillet. La lampe ne bougeait pas. Au bout des rangs, l
 
 Et c’est alors qu’il la retrouva.
 
-Elle était là, dans le récit d’Olven, comme elle était dans la chemise de la traque, la même, à un mot près. Le copiste l’avait posée au bout d’un paragraphe, sans la souligner, sans savoir peut-être qu’elle valait mieux que le reste. Autour d’elle, l’encre avait passé au brun, puis au rien. Elle, non. Vaskar approcha la lampe et vit pourquoi : cette encre-là ne s’était pas posée sur le papier, elle y était entrée. Elle avait mangé la fibre et creusé sa propre place, et la page, en vieillissant, avait lâché tout le reste et gardé l’entaille. Il avait vu cela cent fois sur des pièces sans valeur, et cent fois il n’en avait rien conclu.
+Elle était là, dans le récit d’Olven, comme elle était dans la chemise de la traque, la même, à un mot près. Le copiste l’avait posée au bout d’un paragraphe, sans la souligner, sans savoir peut-être qu’elle valait mieux que le reste. Autour d’elle, l’encre avait passé au brun, puis au rien. Elle, non. Vaskar approcha la lampe et vit pourquoi : cette encre-là était entrée dans le papier. Elle avait mangé la fibre et creusé sa propre place, et la page, en vieillissant, avait lâché tout le reste et gardé l’entaille. Il avait vu cela cent fois sur des pièces sans valeur, et cent fois il n’en avait rien conclu.
 
 *Nul d’entre nous ne le croit vraiment ; et tous, nous le croyons inévitable.*
 
@@ -135,11 +135,11 @@ Vingt ans lui avaient appris l’ordre dans lequel une pièce s’en va. Le fil 
 
 Sous sa lampe, une ligne prenait cet ordre à l’envers. Elle noircissait à mesure que sa page blanchissait. Sur trois pièces qui n’avaient rien de commun, tout ce qui l’entourait avait servi à la porter jusqu’ici, et tout s’était défait une fois qu’elle était arrivée.
 
-Vaskar attendit que les trois papiers se complètent. Ils se répétèrent. Le manuel laissa les blancs du récit où ils étaient ; le récit laissa les mains du manuel sans explication ; le débris apporta la ligne, et la ligne seule. Il n’y avait que la même phrase, trois fois, et autour d’elle trois désastres. Il avait forcé cette rencontre, sa propre règle violée, la troisième clef, un vieux tiré de son lit à la troisième heure, et il n’en sortait aucun savoir neuf. Il en sortait en ayant reconnu. Trois fers côte à côte une seule fois : ils avaient la même trempe, et d’où leur venait cette trempe, aucun des trois ne le disait, et les trois seuls à pouvoir le dire se taisaient.
+Vaskar attendit que les trois papiers se complètent. Ils se répétèrent. Le manuel laissa les blancs du récit où ils étaient ; le récit laissa les mains du manuel sans explication ; le débris apporta la ligne, et la ligne seule. Il n’y avait que la même phrase, trois fois, et autour d’elle trois désastres. Il avait forcé cette rencontre, sa propre règle violée, la troisième clef, un vieux tiré de son lit à la troisième heure, et il en sortait en ayant reconnu. Trois fers côte à côte une seule fois : ils avaient la même trempe, et d’où leur venait cette trempe, aucun des trois ne le disait, et les trois seuls à pouvoir le dire se taisaient.
 
 *
 
-Une soudure ne cède pas par la plaque. Elle cède par la ligne, là où le métal a été mis au métal, et elle prévient longtemps d’avance : un cheveu de jour s’ouvre le long du joint, et rien encore ne tombe.
+Une soudure cède par la ligne, là où le métal a été mis au métal, et elle prévient longtemps d’avance : un cheveu de jour s’ouvre le long du joint, et rien encore ne tombe.
 
 Vaskar était sûr d’une chose, une seule, et toute sa vie portait dessus. Que sceller était une miséricorde. Que le silence qu’il tenait était une digue. Qu’en gardant froid ce que le monde ne pouvait porter tiède il lui épargnait son propre effondrement, et que le doute sans fin où cela le laissait, cette impossibilité de savoir s’il avait bien fait, entrait dans le prix. Il l’avait dit à Karsel. Il se l’était répété mille nuits. Sceller est une miséricorde.
 
