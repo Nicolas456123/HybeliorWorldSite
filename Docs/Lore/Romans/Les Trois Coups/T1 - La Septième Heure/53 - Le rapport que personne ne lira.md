@@ -15,7 +15,7 @@ Le brasero du cabinet brûlait, comme tous les jours depuis vingt ans. Verkan So
 
 Trois semaines pour rentrer, sa propre route reprise à l’envers. Pendant six jours, il avait marché dans la colonne des réfugiés de Cendral, à la vitesse des enfants et des vieux ; ensuite on l’avait laissé doubler aux relais, parce qu’il était seul et qu’il payait comptant. Aux octrois, les sergents demandaient les mêmes papiers qu’avant, les regardaient plus longtemps qu’avant, et n’y trouvaient plus rien. Personne n’avait su lui dire ce qui s’était passé. Tout le monde savait qu’il s’était passé quelque chose.
 
-Pyrion n’avait pas changé de forme. Le Dominat n’avait ni cité de l’air ni grand portail à perdre, rien de suspendu au fil ; la Nuit l’avait pris par en dessous, sans fracas, et il fallait savoir où regarder. Aux portes, les guérisseurs ne guérissaient plus, et on les avait laissés à leur poste faute de savoir quoi en faire. À la garnison, les résonateurs étaient devenus des tubes de bronze qu’on astiquait par habitude. Dans les rues, les Liés se cognaient aux passants : toute leur vie ils avaient su qui venait en face sans avoir à regarder. Le Bureau des Concordances, lui, n’avait pas perdu un grain. Il marchait au feu et à l’encre, et ni l’un ni l’autre ne s’était arrêté.
+Pyrion n’avait pas changé de forme. Le Dominat n’avait ni cité de l’air ni grand portail à perdre, rien de suspendu au fil ; la Nuit l’avait pris par en dessous, sans fracas, et il fallait savoir où regarder. Aux portes, les guérisseurs ne guérissaient plus, et on les avait laissés à leur poste faute de savoir quoi en faire. À la garnison, les résonateurs étaient devenus des tubes de bronze qu’on astiquait par habitude. Dans les rues, les Liés se cognaient aux passants : ils avaient su toute leur vie qui venait en face sans avoir à regarder. Le Bureau des Concordances, lui, n’avait pas perdu un grain. Il marchait au feu et à l’encre, et ni l’un ni l’autre ne s’était arrêté.
 
 ---
 
@@ -77,7 +77,7 @@ Le Préfet eut ce geste agacé des deux mains, celui d’un homme à qui l’on 
 
 « Prise et exécutée. » Le Préfet tira un feuillet d’une chemise et le poussa sur la table. Verkan reconnut le cachet, le même qu’on lui avait mis sous les yeux l’hiver passé, avec la date ronde, le premier du mois, la date des choses qu’on invente. « On a ça. C’est faible, je sais : pas de lieu, pas de corps. Mais si vous confirmez, moi je signe, et le dossier se ferme. Confirmez-vous ? »
 
-Le silence dura exactement ce qu’il fallait, et Verkan le laissa durer. Pas par calcul, cette fois. Il pesait la première décision de sa vie qu’il prendrait contre son métier.
+Le silence dura exactement ce qu’il fallait, et Verkan le laissa durer. Il pesait la première décision de sa vie qu’il prendrait contre son métier.
 
 *Elle n’est pas morte.* Il le savait mieux que personne au monde. Un mois durant il l’avait suivie sans jamais trouver de corps, parce qu’il n’y en avait pas ; il avait trouvé le vide qu’elle creusait derrière elle, propre, admirable, et ce vide était monté une montagne au sud et n’en était peut-être pas redescendu, mais on ne l’avait pas pris. Confirmer *prise et exécutée*, c’était porter un faux dans les archives du Dominat, de sa propre main, lui dont toute la vie tenait dans une phrase : *un mensonge, on le réfute ; une vérité, il n’y a qu’à ne pas la laisser exister.*
 
@@ -105,7 +105,7 @@ Thevin l’attendait, la plume déjà taillée. Il avait maigri de trois semaine
 
 Le jeune homme n’y vit rien, ne pouvait rien y voir, et attendit, la plume au-dessus du vide.
 
-Verkan écarta les mains sur le bois, à la largeur d’une page, et les y laissa. Il n’avait pas de carte à tenir ce matin. Il avait une feuille blanche, et le devoir neuf, appris à cinquante ans, d’y coucher le contraire de ce qu’il avait vu.
+Verkan écarta les mains sur le bois, à la largeur d’une page, et les y laissa. Devant lui, une feuille blanche, et le devoir neuf, appris à cinquante ans, d’y coucher le contraire de ce qu’il avait vu.
 
 Il dicta.
 
@@ -163,7 +163,7 @@ Thevin avait failli comprendre. Un autre comprendrait tout à fait, bien plus ta
 
 D’elle, il n’avait jamais lu que des places vides, et chacune avait sa mesure exacte : la cour récurée du Corbeau-Gris, la nuit réécrite au matin dans un registre de gîte, la quille dans le sable noir, les cinq creux d’un campement des hautes terres. Un mois durant il avait lu ce qu’elle ôtait, et il l’avait admirée de l’ôter si bien. Voici qu’en clôturant sa défaite il laissait la sienne, sciemment : *aucun corps confirmé.* Pour enterrer vraiment une affaire, il aurait écrit *exécutée* et se serait arrêté là. Il avait ajouté le manque. C’était une faute de métier, et il l’avait commise les yeux ouverts.
 
-Il laissait la porte entrebâillée. Pas pour lui : il ne rouvrirait plus rien, il était trop vieux, trop las, il en savait déjà trop. Pour le lecteur d’après, celui qui viendrait longtemps après tout le monde, trouverait cette ligne bancale dans les archives de Pyrion et referait le compte que Verkan avait fait devant le rapport d’exécution qu’on lui tendait : on ne lui montrait pas de corps, et on ne lui en montrerait jamais.
+Il laissait la porte entrebâillée. Il ne rouvrirait plus rien lui-même, il était trop vieux, trop las, il en savait déjà trop. C’était pour le lecteur d’après, celui qui viendrait longtemps après tout le monde, trouverait cette ligne bancale dans les archives de Pyrion et referait le compte que Verkan avait fait devant le rapport d’exécution qu’on lui tendait : on ne lui montrait pas de corps, et on ne lui en montrerait jamais.
 
 C’était tout ce qu’il pouvait faire pour elle. Pour cette femme qu’il n’avait jamais vue de près et qui lui avait écrit sans le savoir, à travers deux ans et deux frontières : *que celui qui lira ces pages sache au moins qu’elles ont été écrites par quelqu’un qui n’avait plus rien à y gagner.* Lui non plus n’avait plus rien à y gagner. Il pouvait donc, enfin, dire un peu vrai dans un rapport tout faux.
 
@@ -175,9 +175,9 @@ Il garda le brouillon, le brûla de sa main : les mêmes doigts tenus jusqu’a
 
 Puis il resta seul, avec le troisième silence de sa vie. Le premier avait été celui d’Aelindra qui cessait d’écrire ; le deuxième, celui du sommet, les trois secondes ; celui-ci était le sien.
 
-Une chose, pourtant, n’était pas dans le rapport, et il savait qu’elle ne serait dans aucun papier de ce monde. Il l’avait vue et il ne pouvait pas l’écrire. Non qu’elle fût fausse : c’était même la seule chose entièrement vraie qu’il eût rapportée du sud. Elle ne se rangeait sous aucune colonne, ne s’adossait à aucun fait, ne répondait de rien. Il l’avait vue dans le troisième silence, tout en haut, sur le fond rouge : une silhouette de plus. Une de plus que ceux qu’il poursuivait, immobile, là où la lueur s’arrêtait et où le noir reprenait.
+Une chose, pourtant, n’était pas dans le rapport, et il savait qu’elle ne serait dans aucun papier de ce monde. Il l’avait vue et il ne pouvait pas l’écrire. Elle était vraie. C’était même la seule chose entièrement vraie qu’il eût rapportée du sud. Elle ne se rangeait sous aucune colonne, ne s’adossait à aucun fait, ne répondait de rien. Il l’avait vue dans le troisième silence, tout en haut, sur le fond rouge : une silhouette de plus. Une de plus que ceux qu’il poursuivait, immobile, là où la lueur s’arrêtait et où le noir reprenait.
 
-Il prit une feuille, pas une feuille d’archive, une feuille à lui, de celles qu’on ne verse à aucun dossier, et il écrivit, une fois, pour personne :
+Il prit une feuille à lui, de celles qu’on ne verse à aucun dossier, et il écrivit, une fois, pour personne :
 
 *Il y avait quelqu’un de plus que ceux que je poursuivais.*
 
@@ -191,7 +191,7 @@ Sa main resta là, la feuille à un pouce du feu, la chaleur montant contre ses 
 
 La feuille, il la retira du feu.
 
-Pliée en quatre, elle n’alla ni dans une chemise ni dans un tiroir du Bureau, mais dans la doublure de son manteau, contre sa poitrine. Elle y vieillirait avec lui. Un faux et un vrai voyageraient désormais chacun de son côté : le rapport signé, aux archives, que personne ne lirait, parce que le Dominat n’aurait bientôt plus d’archivistes pour le lire ; et cette phrase-ci sur lui, qu’il ne montrerait à personne. Il en avait retrouvé, dans sa vie, de ces papiers-là, au fond de caisses que trois générations avaient déménagées sans les ouvrir.
+Pliée en quatre, elle alla dans la doublure de son manteau, contre sa poitrine. Elle y vieillirait avec lui. Un faux et un vrai voyageraient désormais chacun de son côté : le rapport signé, aux archives, que personne ne lirait, parce que le Dominat n’aurait bientôt plus d’archivistes pour le lire ; et cette phrase-ci sur lui, qu’il ne montrerait à personne. Il en avait retrouvé, dans sa vie, de ces papiers-là, au fond de caisses que trois générations avaient déménagées sans les ouvrir.
 
 Il rangea le cordon avec les autres : celui d’Aelindra, gardé depuis ce soir-là, et ceux du sud, un par station manquée. Puis il éteignit la lampe.
 

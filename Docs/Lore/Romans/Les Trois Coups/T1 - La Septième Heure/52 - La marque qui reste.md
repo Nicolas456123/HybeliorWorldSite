@@ -103,7 +103,7 @@ Elle pensa au vieux Tomas, qui avait poussé la porte de la remise à midi pour 
 
 Elle décrocha le poinçon de sa ceinture et en éprouva le bout du pouce : les trois traits, le deuxième plus court, et le cercle, en creux, à l’envers, dans l’acier de la meilleure trempe. Aucun burin n’entamerait cela. Pour l’effacer il faudrait le refondre, et pour le refondre il faudrait du feu. *Ils ont effacé la marque dans la pierre. Je te la donne dans l’acier.*
 
-Ce soir-là non plus elle ne pleura pas. Elle pleurerait plus tard, un matin où elle ne l’attendrait plus, au bruit que fait l’acier qui chante dans l’eau. Pas ce soir. Ce soir, il y avait du travail.
+Ce soir-là non plus elle ne pleura pas. Elle pleurerait plus tard, un matin où elle ne l’attendrait plus, au bruit que fait l’acier qui chante dans l’eau. Ce soir, il y avait du travail.
 
 Elle ralluma la forge au briquet, comme toutes celles qui n’avaient jamais compté sur le fil pour faire du feu. Elle chauffa longtemps une chute de bon fer, à la couleur ; quand le rouge fut juste, elle posa le poinçon dessus, à plat, et frappa. Un seul coup, franc, parti du talon, le geste qu’il lui avait appris. La marque vint entière et propre.
 

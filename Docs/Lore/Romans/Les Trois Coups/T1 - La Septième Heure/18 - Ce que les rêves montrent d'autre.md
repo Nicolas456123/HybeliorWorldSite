@@ -27,7 +27,7 @@ Il ne s’assit pas tout de suite. Il regarda le banc, puis Mirathis, de l’air
 
 — Vous non plus, à ce qu’on dit. Trois nuits. Sera s’inquiète. Elle dit que vous vous privez de l’herbe exprès. »
 
-Mirathis eut un rire bref, qui ne monta pas jusqu’aux yeux.
+Mirathis eut un rire bref.
 
 « Sera s’inquiète comme elle fait tout : avec méthode. Dis-lui que je vais bien. » Iel tapota la pierre à côté de soi. « Assieds-toi pour de bon. J’ai quelque chose à te donner, et tu vas vouloir l’écrire. Tu écris mal debout. »
 
@@ -141,7 +141,7 @@ Iel s’interrompit.
 
 — Non. Je n’ai jamais rien vu de ce qui se tient derrière tout. J’ai vu le vide qu’il laissait, et la place où il avait été. »
 
-Thessan ne notait plus du tout. Il regardait Mirathis avec une expression que le devin ne lui avait pas encore vue : ni la prudence, ni la peur ordinaire, mais l’air d’un homme à qui l’on retire le plancher une planche après l’autre.
+Thessan ne notait plus du tout. Il regardait Mirathis avec une expression que le devin ne lui avait pas encore vue : l’air d’un homme à qui l’on retire le plancher une planche après l’autre.
 
 « Le voile se retire, répéta-t-il. De lui-même. Comme une marée.
 
