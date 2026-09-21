@@ -9,7 +9,7 @@ status: draft
 
 # Une voix de famille
 
-La route du sud avait perdu ses bornes. On les avait descellées quelque part vers la fin d’un été dont plus personne ne tenait le compte, pour en tailler des pierres à aiguiser ou boucher un mur, et depuis on marchait au jugé, à la couleur du sol et à la pente, comme Sanne l’avait appris à la petite. Trois jours qu’elles avaient quitté le relais de Roshel. Trois jours que le silence sans vent tenait sur la contrée, cet air suspendu entre deux coups de soufflet. Et trois nuits que le battement, sous la terre, montait sa pente un peu plus haut.
+La route du sud avait perdu ses bornes. On les avait descellées quelque part vers la fin d’un été dont plus personne ne tenait le compte, pour en tailler des pierres à aiguiser ou boucher un mur, et depuis on marchait au jugé, à la couleur du sol et à la pente, comme Sanne l’avait appris à la petite. Trois jours qu’elles avaient quitté le relais de Roshel. Trois jours que le silence sans vent tenait sur la contrée, et pas une poussière ne se levait devant elles. Et trois nuits que le battement, sous la terre, montait sa pente un peu plus haut.
 
 Sanne n’en avait rien dit à Wenna. Elle avait failli, deux fois, et s’était tue les deux fois. La petite dormait bien  ; c’était encore ce qu’on pouvait dire de mieux d’une journée. Alors elle marchait, elle réglait son pas sur celui de la gamine, elle regardait le sol, et elle gardait pour elle ce qu’elle seule entendait.
 
