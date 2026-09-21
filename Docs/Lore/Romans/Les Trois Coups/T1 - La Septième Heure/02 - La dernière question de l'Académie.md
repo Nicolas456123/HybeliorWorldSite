@@ -23,7 +23,7 @@ La copie arriva un soir de fin d’hiver, entre deux lampes qui fumaient.
 
 — Aucune idée. Elle circule. » Havrenn haussait déjà les épaules, reparti vers un cercle plus rieur, à l’autre bout de la salle. « Rends-la-moi quand tu auras fini de te scandaliser. Pas trop vite quand même. Il y en a trois qui attendent après toi. »
 
-Restait l’objet. Ce n’était pas un beau manuscrit : du mauvais vélin, recopié à la hâte par plusieurs mains, les lacunes signalées d’un trait et parfois d’un mot d’excuse en marge, *manque ici*, *illisible*, *le copiste renonce*. Quelqu’un, avant lui, y avait travaillé au crayon, d’une écriture serrée et anguleuse qu’on n’apprenait pas à l’Académie. Thessan s’attendait à des railleries ; il trouva des restitutions. Là où le copiste avait renoncé, la main inconnue avait remis le raisonnement manquant, sobrement, comme on remet une pierre dans un mur. Trois passages plus loin, il mit le doigt sur ce qui le gênait : celui qui avait annoté cette copie ne s’en amusait pas.
+Restait l’objet : du mauvais vélin, recopié à la hâte par plusieurs mains, les lacunes signalées d’un trait et parfois d’un mot d’excuse en marge, *manque ici*, *illisible*, *le copiste renonce*. Quelqu’un, avant lui, y avait travaillé au crayon, d’une écriture serrée et anguleuse qu’on n’apprenait pas à l’Académie. Thessan s’attendait à des railleries ; il trouva des restitutions. Là où le copiste avait renoncé, la main inconnue avait remis le raisonnement manquant, sobrement, comme on remet une pierre dans un mur. Trois passages plus loin, il mit le doigt sur ce qui le gênait : celui qui avait annoté cette copie ne s’en amusait pas.
 
 La première thèse l’attendait. Une heure, se dit-il. Sa méthode était réglée comme une horloge d’eau : une lecture pour la structure, une pour l’argument, une pour les failles. Trois heures au pire, et il serait couché avant les cloches.
 
@@ -33,19 +33,19 @@ Il ne fut pas couché avant les cloches.
 
 La première thèse ne céda pas. Cela ne l’inquiéta guère ; il n’attaquait presque jamais un texte par son début.
 
-La deuxième le retint plus longtemps. Elle posait le Lien non comme un don, mais comme une servitude consentie, et Thessan resta la plume levée, non qu’il la crût, mais parce qu’il ne voyait pas par où mordre. L’angle finit par venir. Content de lui, il l’écrivit dans sa propre marge : *confusion entre dépendance et servitude ; un enfant dépend de sa mère, il n’en est pas l’esclave.* Solide. Réconforté, il tournait la page quand son regard tomba sur le crayon, en bas, dans l’écriture anguleuse. La main inconnue avait répondu des années avant qu’il fût là pour lire : *l’enfant grandit et cesse de dépendre. Nous, non. On nous a coupés de la sortie.*
+La deuxième le retint plus longtemps. Elle posait le Lien comme une servitude consentie, et Thessan resta la plume levée, faute de voir par où mordre. L’angle finit par venir. Content de lui, il l’écrivit dans sa propre marge : *confusion entre dépendance et servitude ; un enfant dépend de sa mère, il n’en est pas l’esclave.* Solide. Réconforté, il tournait la page quand son regard tomba sur le crayon, en bas, dans l’écriture anguleuse. La main inconnue avait répondu des années avant qu’il fût là pour lire : *l’enfant grandit et cesse de dépendre. Nous, non. On nous a coupés de la sortie.*
 
 La plume redescendit sur la table.
 
 Ce n’était pas juste. C’était même faux, il le sentait, il pouvait le démontrer, sauf qu’il fallait pour cela prouver qu’il existait une sortie, et la nuit avançant, il ne trouva pas comment on prouve une chose pareille. Il avait vécu à l’intérieur. Tout le monde vivait à l’intérieur. Comment démontre-t-on qu’une porte existe quand nul vivant n’est jamais passé de l’autre côté ?
 
-Les heures cessèrent d’être comptées, ce qui, chez lui, ne s’était encore jamais produit. La troisième thèse, celle dont Havrenn avait promis l’étranglement, ne le fit pas rire. Elle tenait que la souffrance des non-Liés n’était pas un accident du monde du Lien mais sa condition : qu’une grâce distribuée au hasard fabrique des exclus aussi sûrement que la lumière fabrique de l’ombre. Personne n’avait de visage dans cette phrase, cette nuit-là ; il ne connaissait ni Sera ni sa sœur Ísae. Mais Vael revint, malgré lui : Vael qui était Lié, qui avait le don, et que le don avait usé jusqu’à la corde. Dans la marge, sous le crayon de l’inconnu, Thessan ajouta de sa main : *si le Lien broie même ceux qu’il choisit, que fait-il à ceux qu’il ne choisit pas ?* La question n’était pas dans le Traité. Elle venait de lui. Pour la première fois de la nuit, il ajoutait au texte au lieu d’en retrancher, et il ne le remarqua pas.
+Les heures cessèrent d’être comptées, ce qui, chez lui, ne s’était encore jamais produit. La troisième thèse, celle dont Havrenn avait promis l’étranglement, ne le fit pas rire. Elle tenait la souffrance des non-Liés pour la condition même du monde du Lien : qu’une grâce distribuée au hasard fabrique des exclus aussi sûrement que la lumière fabrique de l’ombre. Personne n’avait de visage dans cette phrase, cette nuit-là ; il ne connaissait ni Sera ni sa sœur Ísae. Mais Vael revint, malgré lui : Vael qui était Lié, qui avait le don, et que le don avait usé jusqu’à la corde. Dans la marge, sous le crayon de l’inconnu, Thessan ajouta de sa main : *si le Lien broie même ceux qu’il choisit, que fait-il à ceux qu’il ne choisit pas ?* La question venait de lui. Pour la première fois de la nuit, il ajoutait au texte au lieu d’en retrancher, et il ne le remarqua pas.
 
 Les cloches sonnèrent une fois, très loin, sous la ville. Il ne les entendit pas.
 
 Un à un, les autres étaient partis. Le dernier souffla sa lampe en passant, par économie, et ne dit rien. Le froid montait des dalles à travers les semelles. La suie des mèches laissait sur la langue un goût de graisse froide. Sous la fenêtre haute, le vent poussait contre le mur quelque chose de léger, une feuille, un papier, à intervalles irréguliers. Thessan tourna une page, et le bruit du vélin lui parut énorme.
 
-À la quatrième thèse, sa lecture changea de sens sans qu’il pût l’arrêter : il cherchait toujours les failles, mais ce n’était plus pour avoir raison. C’était pour se rassurer. Chaque objection qu’il levait, le crayon l’avait devancée, et pas avec des réponses : avec des questions, qui ouvraient sous lui des trappes qu’il n’avait pas vues. Bientôt il lut les marges avant le texte. Vers le milieu de la nuit, il s’entendit répondre tout haut à l’inconnu, dans la salle vide, comme s’ils avaient été deux érudits assis face à face, séparés par il ne savait combien d’années, penchés sur le même défaut du monde.
+À la quatrième thèse, sa lecture changea de sens sans qu’il pût l’arrêter : il cherchait toujours les failles, mais désormais pour se rassurer. Chaque objection qu’il levait, le crayon l’avait devancée, avec des questions qui ouvraient sous lui des trappes qu’il n’avait pas vues. Bientôt il lut les marges avant le texte. Vers le milieu de la nuit, il s’entendit répondre tout haut à l’inconnu, dans la salle vide, comme s’ils avaient été deux érudits assis face à face, séparés par il ne savait combien d’années, penchés sur le même défaut du monde.
 
 Et à la cinquième thèse, il n’y avait plus rien.
 
@@ -81,7 +81,7 @@ Le silence qui suivit ne ressemblait pas à ceux de la salle basse. Ni l’un ni
 
 « Pardon ?
 
-— Vous comptez. Je vous ai vu, en cours. Quand une chose vous fait peur, vous comptez : les colonnes, les fenêtres, les élèves. » Il n’y avait pas de moquerie là-dedans, seulement le constat d’un homme qui regardait vraiment les gens. « Alors comptez pour moi. Dans cette copie, combien de fois Verithan écrit-il qu’il faut détruire le Lien ? »
+— Vous comptez. Je vous ai vu, en cours. Quand une chose vous fait peur, vous comptez : les colonnes, les fenêtres, les élèves. » Il y avait là le constat d’un homme qui regardait vraiment les gens. « Alors comptez pour moi. Dans cette copie, combien de fois Verithan écrit-il qu’il faut détruire le Lien ? »
 
 Thessan ouvrit la bouche, la referma. Le cahier repassa sous ses doigts, vite d’abord, puis lentement, avec le sérieux qu’il mettait à tout, et cette fois il chercha le mot pour de bon. *Détruire. Briser. Abattre. Tuer.* Le mot n’y était pas. Il y avait *montrer*. Il y avait *établir*. Et il y avait, à la quatrième thèse, une ligne qu’il avait lue sans la voir : *qu’un seul homme, une seule fois, prouve que le fil peut être coupé, et rien ne sera plus jamais comme si nul ne l’avait su.*
 
@@ -93,13 +93,13 @@ La réponse était là. Elle était toujours là, c’était sa malédiction. *T
 
 Et elle se referma dans sa main.
 
-Pour *montrer* que le fil peut être coupé, il faut le couper. Une fois. Pour de bon. On ne démontrait pas une coupure en la décrivant. Et le Lien n’était pas une corde qu’on tranche puis qu’on renoue : une trame unique, tendue à travers le monde entier, la même pour tous, indivise. Le couper quelque part, une seule fois, pour montrer, c’était le couper partout. La démonstration et l’acte tenaient dans le même geste. Entre les deux, pas de marge, pas de faille, pas un interstice de vélin où glisser une distinction qui rassure.
+Pour *montrer* que le fil peut être coupé, il faut le couper. Une fois. Pour de bon. On ne démontrait pas une coupure en la décrivant. Et le Lien tenait d’un seul tenant : une trame unique, tendue à travers le monde entier, la même pour tous, indivise. Le couper quelque part, une seule fois, pour montrer, c’était le couper partout. La démonstration et l’acte tenaient dans le même geste. Entre les deux, pas de marge, pas de faille, pas un interstice de vélin où glisser une distinction qui rassure.
 
 Le sang quitta le visage de Thessan. Il compta les lampes de la salle, quatre, dont deux éteintes, sans savoir qu’il comptait.
 
 « Il n’y a pas de différence, dit-il. C’est la même chose. » Sa voix était basse. « Montrer, c’est faire. »
 
-« Oui. » L’homme se leva. Rien en lui n’avait l’air d’avoir gagné : une fatigue, seulement, et une douceur qui ressemblait à des excuses. « C’est ce qu’aucun copiste ne veut recopier. Pas la thèse. Cette phrase-là. Celle que vous venez de dire. »
+« Oui. » L’homme se leva. Sur son visage, une fatigue, et une douceur qui ressemblait à des excuses. « C’est ce qu’aucun copiste ne veut recopier. Pas la thèse. Cette phrase-là. Celle que vous venez de dire. »
 
 ---
 
@@ -127,7 +127,7 @@ Six ans à chercher la faille. Six années pleines, avec l’obstination d’un 
 
 Il ne la trouva pas.
 
-Elle n’était pas seulement introuvable pour lui : elle n’existait pas. Six ans durant, il avait fait ce que fait un archiviste, séparer les textes qu’on n’a pas su lire de ceux qui ne disent rien ; et celui-là disait quelque chose. Le Traité tenait. L’homme du dernier rang, qui avait posé sa question un soir de fin d’hiver et n’était jamais revenu la reprendre, avait raison sur le seul point qui comptait.
+Elle n’existait pas. Six ans durant, il avait fait ce que fait un archiviste, séparer les textes qu’on n’a pas su lire de ceux qui ne disent rien ; et celui-là disait quelque chose. Le Traité tenait. L’homme du dernier rang, qui avait posé sa question un soir de fin d’hiver et n’était jamais revenu la reprendre, avait raison sur le seul point qui comptait.
 
 Vael revenait souvent, ces années-là. Thessan portait sur lui en permanence le carnet médical de son frère : les doses, les gestes, les noms des patients morts après lui, cette écriture penchée et pressée qu’il était seul au monde à savoir lire. Un soir, il posa le carnet et le Traité côte à côte sur la même table et les regarda longtemps. Deux morts avaient écrit jusqu’au bout ce qu’ils savaient. L’un savait sauver des vies ; personne n’avait su le lire, et personne n’avait été sauvé. L’autre savait défaire le monde ; personne n’avait osé le lire jusqu’à la fin, et le monde tenait encore. Thessan referma les deux cahiers et resta un moment les mains posées dessus, dans le froid de la chambre, sans penser à rien du tout.
 

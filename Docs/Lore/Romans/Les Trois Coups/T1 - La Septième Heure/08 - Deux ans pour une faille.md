@@ -11,11 +11,11 @@ status: draft
 
 # Chapitre huit — Deux ans pour une faille
 
-Deux ans qu’Aelindra guettait le même signe, et deux ans qu’il ne venait pas. Chez tous les hommes qu’elle avait fait parler, et elle en avait fait parler une centaine, l’écart finissait par apparaître : la distance entre ce qu’ils disaient et ce qu’ils tenaient sous la table. La question qui l’intéressait, elle ne la posait jamais. Elle en posait une autre, qui obligeait l’homme à choisir entre trois mensonges, et elle regardait lequel il prenait. On l’avait payée toute sa vie pour ce regard-là.
+Deux ans qu’Aelindra guettait le même signe, et deux ans qu’il ne venait pas. Chez tous les hommes qu’elle avait fait parler, et elle en avait fait parler une centaine, l’écart finissait par apparaître : la distance entre ce qu’ils disaient et ce qu’ils tenaient sous la table. Elle posait toujours une autre question que celle qui l’intéressait, une question qui obligeait l’homme à choisir entre trois mensonges, et elle regardait lequel il prenait. On l’avait payée toute sa vie pour ce regard-là.
 
 Chez celui-là, rien.
 
-Elle avait fini par demander à le voir seul. Pas le tisserand qui lui avait tendu le Traité ; pas la vieille Naris, qui tenait les comptes de la cellule au demi-grain ; pas les querelleurs qui citaient leur Verithan à tout propos. Lui. L’homme qu’on ne nommait jamais deux fois de la même façon, dont on disait *il est passé*, ou *il repartira bientôt*, jamais le nom. Celui qui avait, disait-on, la main derrière le protocole. Dans chaque mouvement qu’elle avait démantelé, il y avait eu quelque part une main comme celle-là. Elle était venue casser celle-ci.
+Elle avait fini par demander à le voir seul : lui, et personne d’autre, ni le tisserand qui lui avait tendu le Traité, ni la vieille Naris, qui tenait les comptes de la cellule au demi-grain, ni les querelleurs qui citaient leur Verithan à tout propos. L’homme qu’on ne nommait jamais deux fois de la même façon, dont on disait *il est passé*, ou *il repartira bientôt*, jamais le nom. Celui qui avait, disait-on, la main derrière le protocole. Dans chaque mouvement qu’elle avait démantelé, il y avait eu quelque part une main comme celle-là. Elle était venue casser celle-ci.
 
 On la mena par une ruelle basse, un soir de fin d’automne, jusqu’à un atelier de teinturier qui sentait l’urine et la garance. L’homme était assis sur un banc près des cuves, un bâton à la main. Il remuait. Ni salut, ni geste vers elle, pas même un tour de tête.
 
@@ -53,7 +53,7 @@ Un point pour lui. Elle changea d’angle.
 
 — Le protocole que rédige la préceptrice ne se lit pas autrement. Vous demandez à des gens d’aller au bout d’un rituel dont ils ne reviendront pas.
 
-— Je ne demande à personne d’y aller. » Sa voix ne montait pas. « Chacun décide seul. Moi le premier. Si vous cherchez l’homme qui envoie les autres au feu et reste au chaud, ce n’est pas — »
+— Je ne demande à personne d’y aller. » Le bâton continua de tourner. « Chacun décide seul. Moi le premier. Si vous cherchez l’homme qui envoie les autres au feu et reste au chaud, ce n’est pas — »
 
 Il s’arrêta là. Ses phrases, elle le remarquait depuis le début, restaient ouvertes, comme s’il manquait toujours un dernier mot qu’il refusait de choisir à la place de l’autre.
 
@@ -79,13 +79,13 @@ Le bâton s’immobilisa dans la cuve.
 
 « Et ça ne vous — »
 
-« Ça me défait. » Il ne haussa pas la voix ; il la baissa, et elle dut se pencher pour ne rien perdre. « Vous croyez me tendre une objection que je n’aurais pas vue. La préceptrice y pense chaque nuit : sa propre sœur est une Vide. Elle rédige le protocole en sachant qu’elle tue peut-être aussi les gens pour qui elle le rédige. » Un temps, plus long que les autres. « Si vous cherchez celui qui a oublié ce détail, il n’y en a pas. Nous n’avons que des gens qui n’arrivent pas à l’oublier, et qui — »
+« Ça me défait. » Il parla plus bas encore, et elle dut se pencher pour ne rien perdre. « Vous croyez me tendre une objection que je n’aurais pas vue. La préceptrice y pense chaque nuit : sa propre sœur est une Vide. Elle rédige le protocole en sachant qu’elle tue peut-être aussi les gens pour qui elle le rédige. » Un temps, plus long que les autres. « Si vous cherchez celui qui a oublié ce détail, il n’y en a pas. Nous n’avons que des gens qui n’arrivent pas à l’oublier, et qui — »
 
 Encore une fois, il ne finit pas, et elle comprit pourquoi : la fin de cette phrase-là, personne ne pouvait la dire tout haut.
 
 Pour la première fois de la soirée, elle cessa de prendre des notes dans sa tête. D’ordinaire, quand elle poussait un homme jusqu’au mort qu’il ferait, elle voyait sa peur ou son mépris. Celui-ci portait le mort d’avance et ne faisait pas semblant qu’il pesât moins.
 
-Aucune réplique ne vint, et cela l’humilia comme un défaut de métier. Il reconnaissait ses techniques à mesure qu’elle les employait, non par ruse : il n’avait rien à protéger derrière. Tout son art à elle supposait une pièce fermée quelque part, et une clé à trouver. Chez cet homme, les portes étaient ouvertes et les pièces vides.
+Aucune réplique ne vint, et cela l’humilia comme un défaut de métier. Il reconnaissait ses techniques à mesure qu’elle les employait ; il n’avait rien à protéger derrière. Tout son art à elle supposait une pièce fermée quelque part, et une clé à trouver. Chez cet homme, les portes étaient ouvertes et les pièces vides.
 
 « Alors je vais vous poser la seule question qui compte, dit-elle. Et je saurai, à la façon dont vous répondrez, ce que vous êtes. »
 
@@ -115,7 +115,7 @@ Ce qu’elle venait de comprendre, à cet instant précis, dans l’odeur d’ur
 
 Ce fut là, au milieu de la phrase qu’elle ne prononça pas, qu’elle changea de camp.
 
-Il n’y eut pas de foudre. Rien ne se brisa, rien ne chauffa. Ce fut net et sans appel, comme un compte qui se ferme sur le dernier chiffre : pas une émotion, un constat. Deux ans qu’elle assiégeait une place forte. D’un seul regard d’officier, elle voyait enfin qu’il n’y avait pas de place forte, et que le mur, c’était elle qui l’avait dressé. Sans mur en face, elle ne savait plus ce qu’elle était.
+Ce fut net et sans appel, comme un compte qui se ferme sur le dernier chiffre : un constat, rien de plus. Rien ne chauffa, rien ne se rompit, et il n’y eut pas de foudre. Deux ans qu’elle assiégeait une place forte. D’un seul regard d’officier, elle voyait enfin qu’il n’y avait pas de place forte, et que le mur, c’était elle qui l’avait dressé. Sans mur en face, elle ne savait plus ce qu’elle était.
 
 « Vous êtes silencieuse », dit-il.
 
@@ -131,7 +131,7 @@ Pour la première fois, elle le regarda comme un homme et non comme une cible. U
 
 — Non. » C’était son métier, et elle le savait au trait près. « J’ai cherché deux ans. J’ai calomnié une aveugle pour voir si vous mordriez au sang de l’un des vôtres. Vous n’avez pas mordu. J’ai tendu six pièges. Six sont revenus vides. Un mouvement pourri en tend un seul, et il prend. » Elle marqua le temps qu’on met à sceller un rapport. « Vous n’êtes pas ce qu’on m’a dit que vous étiez. C’est un fait. Je ne rends pas de faux rapports. »
 
-Il la regarda longuement. Ce qui passa sur son visage n’était pas du triomphe ; elle ne le vit jamais triompher de rien. C’était une fatigue de plus, comme si gagner une âme lui coûtait autant qu’en perdre une.
+Il la regarda longuement. Ce qui passa sur son visage était une fatigue de plus, comme si gagner une âme lui coûtait autant qu’en perdre une ; elle ne le vit jamais triompher de rien.
 
 « Vous savez ce que ça vous coûte, dit-il. De ne pas rendre le rapport qu’on attend. »
 
@@ -165,7 +165,7 @@ Un moment, elle resta dans l’embrasure, à le regarder remuer une couleur qui 
 
 Elle sortit dans la ruelle froide. Celethor sentait la sève et la pierre mouillée. Par-dessus les toits, très loin, une cité flottait au-dessus d’une plaine, un portail dormait, un guérisseur veillait un malade : tout ce monde énorme et qui marchait, qu’on lui avait appris à défendre, et qu’elle venait, dans une phrase non prononcée, de décider de laisser tomber.
 
-Elle ne se sentait ni sauvée ni damnée, mais comme au soir d’une bataille perdue proprement, sans faute, contre plus fort que soi. Un calme dur, presque du soulagement, celui de n’avoir plus à tenir une position intenable. Deux ans à chercher la faille dans leur mur. Il n’y en avait pas dans leur mur. Il y en avait une en elle, à l’endroit exact où elle avait eu besoin qu’on lui mentît pour pouvoir rentrer chez elle.
+Elle se sentait comme au soir d’une bataille perdue proprement, sans faute, contre plus fort que soi. Un calme dur, presque du soulagement, celui de n’avoir plus à tenir une position intenable. Deux ans à chercher la faille dans leur mur. Elle était en elle, à l’endroit exact où elle avait eu besoin qu’on lui mentît pour pouvoir rentrer chez elle.
 
 ---
 

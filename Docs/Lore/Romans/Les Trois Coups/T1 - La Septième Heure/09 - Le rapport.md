@@ -85,9 +85,9 @@ Le feuillet resta un moment entre elles, tremblant un peu au bout du bras tendu.
 
 La calomnie lui restait aux doigts.
 
-Au bout d’un an, les carnets ne portaient toujours rien, et cela commença à l’inquiéter. Pas pour son rapport : d’une inquiétude plus basse, plus froide, qu’elle ne s’avoua pas tout de suite. Rien, en dessous, où descendre encore. Du chef qui se sert le premier, pas trace ; à table, ils se poussaient le plat les uns vers les autres jusqu’à ce qu’il refroidisse. Guettant les femmes dont on se sert, elle avait vu des hommes baisser les yeux devant elles. Tous ses pièges lui revenaient vides, celui de Naris comme les autres.
+Au bout d’un an, les carnets ne portaient toujours rien, et cela commença à l’inquiéter, d’une inquiétude basse et froide qu’elle ne s’avoua pas tout de suite. Rien, en dessous, où descendre encore. Du chef qui se sert le premier, pas trace ; à table, ils se poussaient le plat les uns vers les autres jusqu’à ce qu’il refroidisse. Guettant les femmes dont on se sert, elle avait vu des hommes baisser les yeux devant elles. Tous ses pièges lui revenaient vides, celui de Naris comme les autres.
 
-Ce n’étaient pas des saints ; elle se méfiait des saints, elle en avait démasqué. C’étaient des gens ordinaires, querelleurs, orgueilleux de leur savoir, agaçants à force de citer leur Verithan à tout propos. Mais ils ne se mentaient pas sur ce qu’ils étaient, et voilà ce qui, lentement, la désarçonna. L’écart entre ce qu’un homme dit être et ce qu’il est, cet écart où loge toujours la prise, existait bien chez eux ; il allait dans l’autre sens. Ils se croyaient pires qu’ils n’étaient. Toute sa carrière, elle avait chassé des gens qui se croyaient meilleurs.
+Elle se méfiait des saints et en avait démasqué ; ceux-là étaient des gens ordinaires, querelleurs, orgueilleux de leur savoir, agaçants à force de citer leur Verithan à tout propos. Mais ils ne se mentaient pas sur ce qu’ils étaient, et voilà ce qui, lentement, la désarçonna. L’écart entre ce qu’un homme dit être et ce qu’il est, cet écart où loge toujours la prise, existait bien chez eux ; il allait dans l’autre sens. Ils se croyaient pires qu’ils n’étaient. Toute sa carrière, elle avait chassé des gens qui se croyaient meilleurs.
 
 Puisque la pourriture n’était pas dans les mœurs, elle serait dans le dogme : l’autre endroit où elle avait vu mourir des mouvements, là où ce qu’ils prêchent ne tient pas debout. Elle ne se croyait pas érudite, mais elle démontait un raisonnement comme un plan de bataille, en cherchant l’endroit où la ligne est trop tendue.
 
@@ -109,7 +109,7 @@ Le linge changea de mains. Elle le prit sans répondre ; devant cet homme-là, 
 
 — Oui. » Il était déjà sur le seuil. « Reviens me dire quoi. »
 
-Elle le remercia sans croire un mot. Rentrée, elle le lut pour le briser, comme on lit le plan d’une forteresse qu’on va prendre : pas pour l’admirer, pour trouver la poterne.
+Elle le remercia sans croire un mot. Rentrée, elle le lut pour le briser, comme on lit le plan d’une forteresse qu’on va prendre, pour y trouver la poterne.
 
 ---
 
@@ -117,11 +117,11 @@ Elle chercha la faille deux ans, et pas mollement. La trouver, c’était rentre
 
 Le Traité tenait en cinq thèses. La première d’abord : *le Lien n’est pas un don mais une chaîne.* Facile, pensa-t-elle. Sophisme. Le Lien guérit, nourrit, unit ; une chaîne fait le contraire. Mais pour réfuter proprement, comme un officier prépare son terrain, il fallait poser deux colonnes : les bienfaits d’un côté ; de l’autre, par probité, les prix. Les guérisseurs usés jusqu’à la mort. Les cités volantes tenues par des hommes qui vieillissaient de dix ans en un. Le tiers du monde maintenu au second rang par une chose qu’il n’avait pas choisie et ne pouvait pas obtenir. Les deux colonnes posées, sûre que la première l’emporterait, elle vit que le compte ne tombait pas où elle voulait. *Une chaîne peut nourrir,* écrivait Verithan, *c’est même la meilleure façon de garder un peuple enchaîné : le nourrir, pour qu’il ait peur de la faim plus que de la chaîne.* Trois fois elle relut la phrase. Elle avait mené des guerres ; elle savait comment on tient un peuple.
 
-Après quoi elle attaqua la deuxième en se disant qu’elle avait mal attaqué la première, puis la troisième, puis la quatrième, chacune comme un front qui ne veut pas céder, chacune sondée pour sa poterne, chacune trouvée murée. Deux pages plus haut, chaque fois, Verithan avait dressé lui-même l’objection qu’elle croyait inventer, et il y avait répondu : non par un tour de passe-passe, mais en concédant tout ce qu’un honnête homme doit concéder, jusqu’à écrire que le monde d’après serait terrible, qu’il tuerait, que même les non-Liés qu’il voulait libérer mourraient en foule. Elle guettait le sophisme qui rassure, celui par quoi les prophètes achètent leurs fidèles. Il n’y en avait pas. Et chaque fois qu’elle croyait avoir enfoncé la ligne, elle s’apercevait que la ligne n’avait pas bougé, et qu’elle avait reculé seule.
+Après quoi elle attaqua la deuxième en se disant qu’elle avait mal attaqué la première, puis la troisième, puis la quatrième, chacune comme un front qui ne veut pas céder, chacune sondée pour sa poterne, chacune trouvée murée. Deux pages plus haut, chaque fois, Verithan avait dressé lui-même l’objection qu’elle croyait inventer, et il y avait répondu d’avance, en concédant tout ce qu’un honnête homme doit concéder, jusqu’à écrire que le monde d’après serait terrible, qu’il tuerait, que même les non-Liés qu’il voulait libérer mourraient en foule. Elle guettait le sophisme qui rassure, celui par quoi les prophètes achètent leurs fidèles. Il n’y en avait pas. Et chaque fois qu’elle croyait avoir enfoncé la ligne, elle s’apercevait que la ligne n’avait pas bougé, et qu’elle avait reculé seule.
 
-La cinquième thèse tomba un soir d’hiver, la chandelle courte. Brève, et refusant de conclure. *Je ne prouve pas qu’il faut le faire,* écrivait Verithan tout à la fin, comme on pose un fardeau qu’on ne peut plus porter. *Je montre seulement qu’on le pourrait. Le reste est un silence que chacun devra habiter seul.* Pas d’ordre. Pas de lendemain promis. Rien qu’un miroir et ce silence, laissés à qui lirait.
+La cinquième thèse tomba un soir d’hiver, la chandelle courte. Brève, et refusant de conclure. *Je ne prouve pas qu’il faut le faire,* écrivait Verithan tout à la fin, comme on pose un fardeau qu’on ne peut plus porter. *Je montre seulement qu’on le pourrait. Le reste est un silence que chacun devra habiter seul.* Rien qu’un miroir et ce silence, laissés à qui lirait : pas d’ordre, pas de lendemain promis.
 
-Il n’y avait pas de faille. Elle le comprit là, non comme une émotion mais comme un fait, de la même façon qu’un éclaireur rentre et annonce que le gué n’est pas passable. Pas de faille parce que pas de mensonge. On lui avait appris à trouver l’endroit où un homme se ment à lui-même ; ces gens-là ne se mentaient pas.
+Il n’y avait pas de faille. Elle le comprit là comme un fait, de la même façon qu’un éclaireur rentre et annonce que le gué n’est pas passable. Pas de faille parce que pas de mensonge. On lui avait appris à trouver l’endroit où un homme se ment à lui-même ; ces gens-là ne se mentaient pas.
 
 Longtemps elle resta immobile, le livre fermé sous sa main. Ce ne fut pas chaud. On lui avait toujours dit que les hommes changent de camp par le cœur, par amour, par haine, par une nuit où quelque chose se brise ; rien ne se brisa. Elle avait suivi une démonstration jusqu’au bout comme elle aurait suivi un ennemi jusqu’à sa position, et la conclusion l’attendait là, nue. *Ils ont raison sur la chaîne. Sur le reste, sur le fait qu’il faille la couper, personne ne peut savoir, eux non plus. Je suis venue prouver qu’ils mentaient. Ils ne mentent pas.*
 
@@ -135,7 +135,7 @@ Le battement du métier s’arrêta. Il ne se retourna pas tout de suite.
 
 « C’est plus lourd à porter », dit-il enfin, et il reprit la navette. « Garde-le encore. Tu n’as pas fini. »
 
-Elle ne pleura pas ; elle n’était pas de celles qui pleurent. Rentrée, elle sortit un carnet neuf, pas un carnet de graines, un vrai, et traça en haut de la première page la date, le lieu codé, son matricule. Par habitude. Par métier. Puis elle commença son rapport.
+Elle ne pleura pas ; elle n’était pas de celles qui pleurent. Rentrée, elle sortit un carnet neuf et traça en haut de la première page la date, le lieu codé, son matricule. Par habitude. Par métier. Puis elle commença son rapport.
 
 ---
 
@@ -149,7 +149,7 @@ Qu’il n’y avait pas de faille, et pourquoi. Les cinq thèses, résumées ave
 
 La plume s’arrêta là un moment. Puis elle la trempa et écrivit quand même la chose pour laquelle on brûlerait ces pages.
 
-Qu’ils avaient raison sur ce qu’elle connaissait mieux qu’aucun érudit de leur cercle : la guerre. Elle l’avait faite. Comme tout le Dominat, elle avait cru le Lien grand pacificateur, et que sans lui les hommes se seraient entre-tués bien davantage. Deux ans hors de l’uniforme, à voir le monde d’en bas, lui avaient montré l’inverse avec une évidence humiliante. Le Lien n’avait pas arrêté les guerres ; il les avait rendues plus efficaces. On ne se battait pas moins depuis qu’on était Lié : on se battait mieux. Les Liés de combat changeaient une bataille en abattoir propre. Les cités volantes larguaient le feu d’en haut. Les portails jetaient une armée d’un bout du monde à l’autre en une nuit. L’Âge d’Or n’était pas la paix du Lien : six empires s’étaient arrêtés d’épuisement, à force de trop bien se tuer, comme deux lutteurs tombent ensemble.
+Qu’ils avaient raison sur ce qu’elle connaissait mieux qu’aucun érudit de leur cercle : la guerre. Elle l’avait faite. Comme tout le Dominat, elle avait cru le Lien grand pacificateur, et que sans lui les hommes se seraient entre-tués bien davantage. Deux ans hors de l’uniforme, à voir le monde d’en bas, lui avaient montré l’inverse avec une évidence humiliante. Le Lien avait rendu les guerres plus efficaces : depuis qu’on était Lié, on se battait mieux. Les Liés de combat changeaient une bataille en abattoir propre. Les cités volantes larguaient le feu d’en haut. Les portails jetaient une armée d’un bout du monde à l’autre en une nuit. L’Âge d’Or était venu de l’épuisement : six empires s’étaient arrêtés à force de trop bien se tuer, comme deux lutteurs tombent ensemble.
 
 *Le Lien n’a pas désarmé les hommes,* écrivit-elle de sa main d’officier, sans une once de tremblement dans le trait. *Il leur a donné de meilleures armes, et nous avons appelé paix le moment où ils ont eu peur de leurs propres armes. Ce n’est pas une paix. C’est une pause. J’ai passé ma vie à la servir. Je ne la servirai plus.*
 
@@ -171,7 +171,7 @@ L’homme était mal à l’aise. Il l’avait aimée jadis ; il avait servi so
 
 « Le Préfet l’a lu. » Une hésitation. « Deux fois, paraît-il. On dit qu’il est resté longtemps avec, seul. »
 
-Quelque chose se serra dans la poitrine d’Aelindra. Pas de l’espoir, elle ne s’autorisait pas l’espoir ; quelque chose de plus bas, de plus bête. Un homme intelligent, seul avec la vérité, longtemps, finit par la voir : elle avait cru cela toute sa vie, c’était le fondement même de son métier.
+Quelque chose se serra dans la poitrine d’Aelindra, quelque chose de plus bas et de plus bête que l’espoir, qu’elle s’interdisait. Un homme intelligent, seul avec la vérité, longtemps, finit par la voir : elle avait cru cela toute sa vie, c’était le fondement même de son métier.
 
 « Et ? »
 
@@ -195,7 +195,7 @@ Un hochement de tête. C’était propre. C’était même, elle s’en étonna,
 
 Elle repartit vers Celethor dans la nuit, par des chemins qu’aucune patrouille ne tenait à cette heure.
 
-Ce ne fut que plus tard, seule sur la route, que la chose la trouva ; la seule fois, peut-être, où quelque chose la trouva vraiment, et elle n’aurait pas su dire si c’était du chagrin. Pas d’avoir perdu sa vie : ce prix-là, elle l’avait payé les yeux ouverts. C’était le rapport. Quarante pages écrites avec le soin d’un officier qui rend son dernier service, et un brasier de préfecture.
+Ce ne fut que plus tard, seule sur la route, que la chose la trouva ; la seule fois, peut-être, où quelque chose la trouva vraiment, et elle n’aurait pas su dire si c’était du chagrin. C’était le rapport. Sa vie, elle l’avait payée les yeux ouverts. Quarante pages écrites avec le soin d’un officier qui rend son dernier service, et un brasier de préfecture.
 
 Sur le chemin, elle s’arrêta. La nuit sentait la terre mouillée et le bois coupé. En contrebas, les lampes de Celethor tenaient la vallée en pointillé ; très haut au nord, une cité volante portait ses trois feux fixes comme une constellation posée trop bas. Tout cela marchait. Tout cela avait marché la veille et marcherait le lendemain.
 
@@ -217,7 +217,7 @@ Drakhan croisa ses avant-bras. « Ma montagne, je la connais mieux que tes cart
 
 Un silence. Le forgeron n’aimait pas ça, cela se voyait ; on lui prenait la seule chose qu’il pût donner de ses propres bras.
 
-« Tu leur donnes ma montagne sans moi. » Il ne demandait rien. Il constatait un vol.
+« Tu leur donnes ma montagne sans moi. » Il constatait un vol.
 
 « Je vous donne, à vous, la certitude d’y être encore quand ils y seront. » Elle releva enfin la tête. « Un guide qu’on arrête sur la route, c’est huit personnes arrêtées. Un croquis dans une doublure, c’est du papier. On n’arrête pas du papier, Drakhan. »
 
@@ -225,7 +225,7 @@ Un silence. Le forgeron n’aimait pas ça, cela se voyait ; on lui prenait la 
 
 « Encore faut-il le trouver. » Elle soutint son regard. « C’est mon métier qu’on ne trouve rien. »
 
-Il la fixa un long moment, puis quelque chose céda dans ses épaules : pas l’accord, plutôt le calcul refait et tombé juste malgré lui. « Bon feu », marmonna-t-il, ce qui chez lui valait un oui.
+Il la fixa un long moment, puis quelque chose céda dans ses épaules : le calcul refait, et tombé juste malgré lui. « Bon feu », marmonna-t-il, ce qui chez lui valait un oui.
 
 Penchée sur les cinq cailloux, les mains à plat de part et d’autre de la carte, Sera regardait. Elle se penchait ainsi, Aelindra l’apprendrait, sur toute chose qu’elle voulait comprendre à fond.
 
@@ -263,9 +263,9 @@ La porte rabattue, il ne restait derrière elle qu’une chambre qu’un voyageu
 
 Tout ce voyage fut pour elle une campagne. La dernière de sa vie, et la seule qu’elle ne perdrait pas, puisque gagner, cette fois, c’était seulement arriver.
 
-Les autres l’aimaient bien, à leur manière prudente, et se méfiaient d’elle un peu de la même manière ; elle le voyait, et ne leur en voulait pas. De tous, elle était la seule que le Lien n’eût pas blessée. Drakhan avait perdu son atelier ; Sera, sa sœur au regard du monde ; le jeune Thessan traînait un frère mort dans son sac. Elle, rien. Pas de mort à venger, pas d’injustice intime. Une conclusion. Venue à eux par le chemin le plus froid qui soit, elle faisait dans ce cercle de gens qui souffraient une pièce un peu étrange : la seule qui n’était là que parce que les comptes tombaient juste.
+Les autres l’aimaient bien, à leur manière prudente, et se méfiaient d’elle un peu de la même manière ; elle le voyait, et ne leur en voulait pas. De tous, elle était la seule que le Lien n’eût pas blessée. Drakhan avait perdu son atelier ; Sera, sa sœur au regard du monde ; le jeune Thessan traînait un frère mort dans son sac. Elle, rien. Une conclusion. Venue à eux par le chemin le plus froid qui soit, elle faisait dans ce cercle de gens qui souffraient une pièce un peu étrange : la seule qui n’était là que parce que les comptes tombaient juste.
 
-Ils se trompaient pourtant, ceux qui la croyaient sans plaie. Elle en avait une, une seule, qu’elle ne montrait à personne et qu’elle-même traitait avec le mépris d’un soldat pour une vieille blessure qui gêne encore : le rapport brûlé. Il lui arrivait d’y repenser, la nuit, quand elle traçait des routes à la chandelle comme jadis dans le quartier bas. Non de l’avoir écrit, qu’elle ne regrettait pas, mais de l’avoir écrit pour rien.
+Ils se trompaient pourtant, ceux qui la croyaient sans plaie. Elle en avait une, une seule, qu’elle ne montrait à personne et qu’elle-même traitait avec le mépris d’un soldat pour une vieille blessure qui gêne encore : le rapport brûlé. Il lui arrivait d’y repenser, la nuit, quand elle traçait des routes à la chandelle comme jadis dans le quartier bas : elle l’avait écrit sans regret, et pour rien.
 
 Quelquefois, le soir, elle regardait le jeune Thessan penché sur son journal, écrivant, écrivant, avec cette foi douce et têtue que ses pages diraient un jour à quelqu’un le pourquoi de tout cela. Jamais elle ne lui disait rien.
 
@@ -285,4 +285,4 @@ La réponse lui vint toute prête, payée de deux ans : *non.* Son regard tomba
 
 Il la remercia comme si elle lui avait offert quelque chose. Peut-être l’avait-elle fait. Elle n’allait pas prendre à un garçon de vingt-cinq ans la croyance qui le tient debout ; qui était-elle pour cela.
 
-Elle retourna à ses cartes, à ses cols, à ses relèves de patrouilles, froide en surface, méthodique : la seule d’entre eux qui, montant vers le Mont, ne priait pas, ne rêvait pas, ne pleurait pas d’avance, mais comptait les pas qui restaient et effaçait, derrière huit silhouettes, la trace de leur passage sur la neige. Sous ce mont vers lequel elle les menait, dans une roche où aucun pas n’avait jamais pu s’imprimer et que personne n’avait donc jamais eu à effacer, une masse énorme et lente portait les vivants par millions, et rien en elle n’était prévu pour s’apercevoir que huit d’entre eux montaient.
+Elle retourna à ses cartes, à ses cols, à ses relèves de patrouilles, froide en surface, méthodique : la seule d’entre eux qui, montant vers le Mont, comptait les pas qui restaient et effaçait, derrière huit silhouettes, la trace de leur passage sur la neige. Sous ce mont vers lequel elle les menait, dans une roche où aucun pas n’avait jamais pu s’imprimer et que personne n’avait donc jamais eu à effacer, une masse énorme et lente portait les vivants par millions, et rien en elle n’était prévu pour s’apercevoir que huit d’entre eux montaient.

@@ -43,7 +43,7 @@ Un trait sur le registre. Il y en aurait quatre ou cinq cents avant le soir.
 
 On imaginait mal son métier quand on ne le faisait pas. Les gens croyaient qu’elle ouvrait le portail, qu’elle avait une clé, un mot. Le portail était toujours ouvert, il l’avait toujours été. Elle veillait, c’était tout. Régler le flux pour que deux corps ne s’engagent jamais ensemble, car deux corps ensemble dans le seuil, disaient les vieilles consignes, ne ressortent pas toujours deux. Refuser le passage aux mourants qu’on voulait faire traverser pour qu’ils rendent l’âme au pays : le règlement l’interdisait, et elle n’avait jamais eu envie d’essayer. Et écouter l’arche. Ça, surtout.
 
-Le soleil monta, la terrasse s’anima. En contrebas, Aethranor déployait sa matinée : les cloches de l’Académie sonnant les heures d’étude, les cris des marchands du bas quartier, l’odeur du pain montant des fours communaux et se mêlant à l’odeur froide de la pierre bleue. À un portail régional comme le sien, on ne voyait pas passer les empires. On voyait passer l’eau, le sel, les lettres, les gens qui vont voir leur fille. Pour eux, l’arche n’était pas un prodige : c’était un pont. Cinq siècles plus tôt, un homme aurait mis un mois à faire ce que le porteur faisait deux fois par jour sans y penser. Maintenant : un pas, un grincement, et l’on était de l’autre côté. Elle en gardait une porte.
+Le soleil monta, la terrasse s’anima. En contrebas, Aethranor déployait sa matinée : les cloches de l’Académie sonnant les heures d’étude, les cris des marchands du bas quartier, l’odeur du pain montant des fours communaux et se mêlant à l’odeur froide de la pierre bleue. À un portail régional comme le sien, on voyait passer l’eau, le sel, les lettres, les gens qui vont voir leur fille, jamais les empires. Pour eux, l’arche était un pont. Cinq siècles plus tôt, un homme aurait mis un mois à faire ce que le porteur faisait deux fois par jour sans y penser. Maintenant : un pas, un grincement, et l’on était de l’autre côté. Elle en gardait une porte.
 
 La vieille Maldre arriva sur le coup de la troisième cloche, comme chaque semaine, essoufflée d’avoir monté les marches et déjà pleine de nouvelles.
 
@@ -107,7 +107,7 @@ Rien. L’arche se taisait. Elle était redevenue une arche.
 
 *Un tassement,* voulut-elle croire. La pierre travaillait. Le froid de la nuit, la chaleur du jour, cinq cents ans. On entendait parfois, dans les fondations d’Aethranor, de longs soupirs minéraux qui n’étaient que la ville changeant de température.
 
-Sauf qu’elle connaissait aussi le tassement de son arche. Deux ou trois fois l’an, un son sec et court, venu de la jointure du linteau et des montants : un craquement de pierre. Ce qu’elle venait d’entendre était l’autre son. Grave, long, presque organique, monté non de la jointure mais de partout à la fois, et que produisait le franchissement d’un corps vivant. L’arche avait grincé comme si quelqu’un l’avait traversée.
+Sauf qu’elle connaissait aussi le tassement de son arche. Deux ou trois fois l’an, un son sec et court, venu de la jointure du linteau et des montants : un craquement de pierre. Ce qu’elle venait d’entendre était l’autre son. Grave, long, presque organique, monté de partout à la fois, et que produisait le franchissement d’un corps vivant. L’arche avait grincé comme si quelqu’un l’avait traversée.
 
 Personne ne l’avait traversée.
 

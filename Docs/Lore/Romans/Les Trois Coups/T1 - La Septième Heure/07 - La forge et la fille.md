@@ -19,7 +19,7 @@ Drakhan reconnaissait un vendeur à sa façon d’entrer. Quarante ans qu’ils 
 
 Celui-ci n’entra d’aucune de ces façons.
 
-Il s’arrêta sous le linteau et attendit. Pas celui de la place du Marteau : on le lui avait pris trois ans plus tôt, avec le reste. Le linteau nu de la remise louée, sans marque, sans histoire. L’homme regarda le forgeron avant de regarder le feu, et ne dit rien pour couvrir le soufflet. Ses mains pendaient ouvertes le long du corps, et Drakhan le vit tout de suite, parce que les mains étaient toujours la première chose qu’il voyait chez quelqu’un.
+Il s’arrêta sous le linteau et attendit. Le linteau nu de la remise louée, sans marque, sans histoire : celui de la place du Marteau, on le lui avait pris trois ans plus tôt, avec le reste. L’homme regarda le forgeron avant de regarder le feu, et ne dit rien pour couvrir le soufflet. Ses mains pendaient ouvertes le long du corps, et Drakhan le vit tout de suite, parce que les mains étaient toujours la première chose qu’il voyait chez quelqu’un.
 
 « On ferme, dit Drakhan sans lever la tête. La forge est fermée aux étrangers. »
 
@@ -67,7 +67,7 @@ Personne ne disait cela. Les gens disaient tu forges bien, tu as la main, ton fe
 
 — Rien. Je ne suis pas forgeron. » L’homme fit un pas dans la lumière du foyer, un seul, et s’arrêta de nouveau, comme quelqu’un qui demande la permission d’un pas à la fois. « Mais je regarde depuis un moment. Les autres frappent quand le rouge est bon. Toi tu frappes avant, et ton fer tient. »
 
-Kessa avait reposé la tenaille. Elle s’était rapprochée d’un pas, et Drakhan sentit sa fille se raidir, non de peur, de cette attention aiguë qu’elle mettait quand une chose lui déplaisait avant qu’elle sût pourquoi.
+Kessa avait reposé la tenaille. Elle s’était rapprochée d’un pas, et Drakhan sentit sa fille se raidir de cette attention aiguë qu’elle mettait quand une chose lui déplaisait avant qu’elle sût pourquoi.
 
 « Il flatte, père, dit-elle à voix basse. Il a commencé par ton travail. Dans un moment il parlera de toi. »
 
@@ -77,7 +77,7 @@ Kessa avait reposé la tenaille. Elle s’était rapprochée d’un pas, et Drak
 
 *
 
-L’homme regarda le feu longuement, à la manière de quelqu’un qui cherche non pas ses mots mais l’ordre dans lequel les poser.
+L’homme regarda le feu longuement, à la manière de quelqu’un qui cherche l’ordre dans lequel poser ses mots.
 
 « Ta colère. »
 
@@ -127,7 +127,7 @@ La phrase resta suspendue, comme une barre au rouge sombre.
 
 « Toi tu es Lié, et tu es en bas. Vhaeran serait Vide qu’il serait encore en haut, avec son papier. Alors ou bien ce n’est pas le Lien qui range, ou bien on nous a menti sur ce qu’il range. »
 
-La gorge de Drakhan se serra, et ce n’était pas de colère. C’étaient ses mots. Presque ceux qu’il avait dits à Kessa, un soir, près de ce feu, la première fois que les hommes de Vhaeran étaient venus : le Lien n’est que le bâton, et la main qui le tient est toujours la même. Il ne les avait dits qu’à elle. Personne d’autre ne les avait entendus.
+La gorge de Drakhan se serra. C’étaient ses mots. Presque ceux qu’il avait dits à Kessa, un soir, près de ce feu, la première fois que les hommes de Vhaeran étaient venus : le Lien n’est que le bâton, et la main qui le tient est toujours la même. Il ne les avait dits qu’à elle. Personne d’autre ne les avait entendus.
 
 Drakhan chercha sa fille du regard. Kessa regardait ailleurs, la mâchoire serrée, et il comprit qu’elle les avait reconnus aussi, et qu’elle venait de voir, avant lui, à quoi ils allaient servir.
 
@@ -141,7 +141,7 @@ Il n’acheva pas. La fin de la phrase resta en l’air, sous le souffle du foye
 
 Kessa se déplia de contre l’établi.
 
-« Voilà, dit-elle, et son tranchant était revenu. Un livre. » Elle vint se placer entre son père et l’étranger, non pour le protéger, Drakhan n’avait jamais eu besoin qu’on le protégeât, mais comme on met une enclume entre le marteau et ce qu’on ne veut pas voir plier. « Tu viens dire à mon père que sa vie, la marque qu’on a effacée au burin, l’atelier de son père et du père de son père, que tout ça c’est la même chose qu’un livre. Que sa colère est juste parce qu’un mort l’a pensée avant lui.
+« Voilà, dit-elle, et son tranchant était revenu. Un livre. » Drakhan n’avait jamais eu besoin qu’on le protégeât ; elle vint se placer entre son père et l’étranger comme on met une enclume entre le marteau et ce qu’on ne veut pas voir plier. « Tu viens dire à mon père que sa vie, la marque qu’on a effacée au burin, l’atelier de son père et du père de son père, que tout ça c’est la même chose qu’un livre. Que sa colère est juste parce qu’un mort l’a pensée avant lui.
 
 — Non, dit l’étranger.
 
@@ -157,7 +157,7 @@ Dessous, le foyer continuait de souffler.
 
 L’homme hocha la tête, lentement, comme s’il rangeait le nom quelque part avec soin.
 
-« Kessa. Dans toute cette ville, tu es la première à me demander ce que ça coûtera à celui qui donne. Les autres me demandent seulement ce que je viens prendre. » Sa voix n’avait pas de triomphe. Plutôt de la fatigue.
+« Kessa. Dans toute cette ville, tu es la première à me demander ce que ça coûtera à celui qui donne. Les autres me demandent seulement ce que je viens prendre. » Il y avait de la fatigue dans sa voix.
 
 *
 
@@ -185,7 +185,7 @@ L’étranger eut, pour la première fois, quelque chose qui ressemblait à un s
 
 Personne ne parla. La goutte à l’auge, une braise qui se tassait, la barre qui blanchissait pour rien.
 
-« Père. » Kessa parlait tout bas, et pour la première fois de la soirée sa voix trembla, non de colère, de ce qui se tient sous la colère. « Ne réponds pas ce soir. Quoi que tu penses. Pas ce soir. »
+« Père. » Kessa parlait tout bas, et pour la première fois de la soirée sa voix trembla, de ce qui se tient sous la colère. « Ne réponds pas ce soir. Quoi que tu penses. Pas ce soir. »
 
 Drakhan ne répondit pas ce soir-là. Il lui devait bien cela ; il ne lui restait plus grand-chose à lui donner, mais il pouvait lui donner de ne pas dire oui devant elle, dans la remise, avec une barre qui se gâchait au feu. Puis il s’avança vers l’étranger et essuya sa paume à son tablier, le geste qu’on fait avant de sceller un marché. Kessa le vit faire, il le sut. Sa main s’était décidée avant lui. Il la retint contre son flanc et ne la tendit pas.
 

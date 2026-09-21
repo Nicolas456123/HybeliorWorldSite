@@ -15,7 +15,7 @@ Thessan reconnaissait une bibliothèque interdite à l’odeur. Les salles ouver
 
 Depuis un moment, il descendait.
 
-Ce n’était pas une lettre. Un morceau de papier plié quatre fois, glissé sous sa porte, sans signature : une suite de chiffres et le mot *ce soir*. Les chiffres l’avaient mené par des couloirs qu’il ne connaissait pas, dans une aile qu’il croyait condamnée. Sept ans qu’il vivait ici, pourtant : il aurait juré connaître chaque escalier de l’Académie, chaque odeur, chaque professeur qui feignait de ne pas dormir pendant les longues lectures du Codex. Sous ce qu’il connaissait, il y avait tout cela, qui attendait qu’on eût les bons chiffres.
+Un morceau de papier plié quatre fois, glissé sous sa porte, sans signature : une suite de chiffres et le mot *ce soir*. Les chiffres l’avaient mené par des couloirs qu’il ne connaissait pas, dans une aile qu’il croyait condamnée. Sept ans qu’il vivait ici, pourtant : il aurait juré connaître chaque escalier de l’Académie, chaque odeur, chaque professeur qui feignait de ne pas dormir pendant les longues lectures du Codex. Sous ce qu’il connaissait, il y avait tout cela, qui attendait qu’on eût les bons chiffres.
 
 Une porte de fer, en bas. Si basse qu’il dut se courber. Ses doigts effleurèrent le linteau au passage, par habitude d’érudit : des mots gravés dans la pierre, une graphie plus anguleuse que celle qu’on lui avait apprise. Il crut lire *antérieure à la Charte*. Cela n’avait pas de sens. La Charte d’Aethranor fondait l’Académie ; rien, ici, n’était antérieur à la Charte. Il faisait sombre ; il avait mal lu. Il franchit la porte.
 
@@ -53,11 +53,11 @@ L’homme qui avait parlé était le plus vieux de la table, soixante ans sûrem
 
 Thessan ouvrit la bouche pour répondre. Rien ne vint. Il était descendu avec une phrase préparée, il en avait toujours une, et elle l’avait quitté au seuil, avec l’inscription qu’il avait déjà oubliée. Alors il fit ce qu’il faisait chaque fois que les mots parlés lui manquaient : il posa son sac sur ses genoux, l’ouvrit et sortit le cahier.
 
-Ce n’était pas encore *le* journal. Un cahier neuf, relié de cuir souple, acheté trois jours plus tôt sans très bien savoir pourquoi. Dans le sac, il y avait l’autre : le vieux, celui de son frère. Le carnet médical de Vael, ses pages couvertes d’une écriture penchée et pressée, des doses, des observations, des noms de patients dont la plupart étaient morts après lui. Vael, guérisseur-Lié, mort à trente et un ans d’épuisement en service du Lien, réquisitionné une fois de trop pour une fièvre qui n’était pas de son pays, tombé une nuit sur un grabat entre deux malades qu’il soignait. On avait rendu le carnet à la famille avec ses effets. Personne d’autre ne savait le lire ; Thessan l’avait appris. Il le portait contre lui.
+Le cahier neuf, relié de cuir souple, acheté trois jours plus tôt sans très bien savoir pourquoi, deviendrait *le* journal. Dans le sac, il y avait l’autre : le vieux, celui de son frère. Le carnet médical de Vael, ses pages couvertes d’une écriture penchée et pressée, des doses, des observations, des noms de patients dont la plupart étaient morts après lui. Vael, guérisseur-Lié, mort à trente et un ans d’épuisement en service du Lien, réquisitionné une fois de trop pour une fièvre qui n’était pas de son pays, tombé une nuit sur un grabat entre deux malades qu’il soignait. On avait rendu le carnet à la famille avec ses effets. Personne d’autre ne savait le lire ; Thessan l’avait appris. Il le portait contre lui.
 
-Il ouvrit le cahier neuf, trempa la plume et écrivit, non pas la salle, ni les sept, ni le dos au fond, mais ceci : *Mon frère est mort en servant une chose qu’il aimait, et personne n’a pu me dire à quoi ça avait servi.*
+Il ouvrit le cahier neuf, trempa la plume et écrivit ceci : *Mon frère est mort en servant une chose qu’il aimait, et personne n’a pu me dire à quoi ça avait servi.*
 
-La ligne le regarda comme une accusation. Ce n’était pas ce qu’il avait voulu écrire. Un archiviste aurait consigné la salle, les sept, le dos au fond. Sa main avait écrit Vael. Elle écrirait souvent Vael dans les mois qui venaient : chaque fois qu’il faudrait consigner l’urgence, elle glisserait vers un souvenir.
+La ligne le regarda comme une accusation. Il avait voulu écrire autre chose. Un archiviste aurait consigné la salle, les sept, le dos au fond. Sa main avait écrit Vael. Elle écrirait souvent Vael dans les mois qui venaient : chaque fois qu’il faudrait consigner l’urgence, elle glisserait vers un souvenir.
 
 « Tu écris déjà. » Sera l’avait vu faire. Sa remarque était douce, et sous la douceur il y avait autre chose, du soulagement peut-être. « C’est bien. C’est aussi pour cela que tu es ici.
 
@@ -71,7 +71,7 @@ Un silence. Puis, du fond de la salle, sans se retourner, l’homme sans nom par
 
 La phrase s’arrêta là. Elle ne fut pas finie. Elle n’en avait pas besoin.
 
-Le cœur de Thessan cogna. C’était vrai, exactement vrai, et il ne l’avait jamais dit à personne. À dix-neuf ans, il avait lu le Traité du Vide sur une copie fautive et incomplète, prêtée par un condisciple qui la trouvait *amusante* ; il l’avait lue en une nuit, et au matin il n’avait pas trouvé cela amusant du tout. Terrifiant de justesse, plutôt. Six ans, ensuite, à chercher la faille de l’argument de Verithan, méthodiquement, avec l’espoir sincère de le réfuter. Il n’y avait pas de faille. C’était sa honte secrète : non pas d’avoir cru, mais de n’avoir pas su ne pas croire.
+Le cœur de Thessan cogna. C’était vrai, exactement vrai, et il ne l’avait jamais dit à personne. À dix-neuf ans, il avait lu le Traité du Vide sur une copie fautive et incomplète, prêtée par un condisciple qui la trouvait *amusante* ; il l’avait lue en une nuit, et au matin il n’avait pas trouvé cela amusant du tout. Terrifiant de justesse, plutôt. Six ans, ensuite, à chercher la faille de l’argument de Verithan, méthodiquement, avec l’espoir sincère de le réfuter. Il n’y avait pas de faille. C’était sa honte secrète : n’avoir pas su ne pas croire.
 
 « Beaucoup de gens ont lu le Traité », dit-il, pour se défendre.
 
@@ -83,7 +83,7 @@ Sa main écrivit, sans qu’il l’eût décidé : *le Lien tue aussi ceux qu�
 
 Ils le laissèrent. C’était une de leurs manières, il le comprendrait plus tard : ils laissaient les silences durer. Aucun d’eux n’avait peur du silence. Dans tous les groupes qu’il avait fréquentés, on comblait les vides par bravade ; ici, on regardait le silence tomber, on le laissait toucher le sol, et on attendait.
 
-En face de lui, une jeune personne le regardait sans détourner les yeux. Trente ans peut-être, les traits fins, une écharpe grise enroulée haut sur le cou. Thessan ne sut pas d’abord dire si c’était un homme ou une femme, et il apprendrait que ce n’était ni l’un ni l’autre. Ce n’était pas de la curiosité, dans ce regard. C’était l’attention de quelqu’un qui compare.
+En face de lui, une jeune personne le regardait sans détourner les yeux. Trente ans peut-être, les traits fins, une écharpe grise enroulée haut sur le cou. Thessan ne sut pas d’abord dire si c’était un homme ou une femme, et il apprendrait que ce n’était ni l’un ni l’autre. Dans ces yeux-là, l’attention de quelqu’un qui compare.
 
 « Cette nuit, tu dormiras mal », dit cette personne.
 
@@ -107,11 +107,11 @@ Il sut, à cet instant, qu’il ne verrait jamais ce visage en face. Il aurait b
 
 « Nous avons quatre-vingt-dix jours », dit l’homme sans nom, de dos, à la salle entière. Il n’élevait pas la voix. « Peut-être un peu plus. Mirathis nous le dira. Ce n’est pas beaucoup. Ce n’est pas rien non plus. » Un silence. « Thessan tiendra le journal. »
 
-Personne ne lui demanda son avis. Et le plus étrange fut qu’il n’en éprouva pas de colère, mais un vertige, la sensation de tomber vers une place qui l’attendait depuis toujours. On lui donnait l’encre et la mémoire. Il ne guérissait rien, il ne forgeait rien, il ne savait ni faire tomber une cité ni fermer un portail ; on lui demandait la seule chose qu’il sût faire : rester en vie assez longtemps pour écrire ce que les autres feraient, et pourquoi.
+Personne ne lui demanda son avis. Et le plus étrange fut le vertige qu’il en éprouva, la sensation de tomber vers une place qui l’attendait depuis toujours. On lui donnait l’encre et la mémoire. Il ne guérissait rien, il ne forgeait rien, il ne savait ni faire tomber une cité ni fermer un portail ; on lui demandait la seule chose qu’il sût faire : rester en vie assez longtemps pour écrire ce que les autres feraient, et pourquoi.
 
 « Et si le journal ne survit pas ? »
 
-C’était sa vraie peur, déjà, et il venait de la dire tout haut, le cahier fermé sous ses mains. Non pas mourir. Mourir sans que rien ne dise pourquoi.
+C’était sa vraie peur, déjà, et il venait de la dire tout haut, le cahier fermé sous ses mains. Mourir sans que rien ne dise pourquoi.
 
 L’homme sans nom eut un mouvement d’épaule qui pouvait être un rire.
 

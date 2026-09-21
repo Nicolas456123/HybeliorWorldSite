@@ -53,7 +53,7 @@ Elle ne l’aida pas. Une bûche s’affaissa dans les braises ; elle laissa le
 
 « Alors nous sommes deux à ne pas savoir qui recrute qui. » Son sourire n’avait rien d’un triomphe. « Bois ton vin. Tu as marché sous la pluie pour me dire que tu ne sais pas ce que tu me veux. Le moins que je puisse faire, c’est de te le dire, moi. »
 
-Il leva les yeux. Pour la première fois de la soirée, quelque chose remua sur ce visage tranquille. Pas de la surprise, il ne semblait pas de ceux qui se laissent surprendre, mais une attention plus aiguë, celle d’un maître qui entend soudain, dans la bouche d’un élève, une phrase qu’il n’avait pas prévue.
+Il leva les yeux. Quelque chose remua sur ce visage tranquille : une attention plus aiguë, celle d’un maître qui entend soudain, dans la bouche d’un élève, une phrase qu’il n’avait pas prévue.
 
 « Dis-le-moi, alors. »
 
@@ -89,7 +89,7 @@ Pas de réponse. Le feu se refléta une fois dans ses yeux, puis rien.
 
 « Ça ne suffit pas, dit-elle. Montrer que c’est possible, ce n’est pas une raison. Il te faut une justice, ou alors laisse le monde tranquille. »
 
-« Alors donne-moi la justice. » C’était dit très bas, ni provocation ni prière : la demande exacte d’un homme qui cherche depuis longtemps quelque chose et vient d’entendre qu’un autre l’a. « Tu dis que je n’ai pas le pourquoi. Montre-le-moi. »
+« Alors donne-moi la justice. » C’était dit très bas : la demande exacte d’un homme qui cherche depuis longtemps quelque chose et vient d’entendre qu’un autre l’a. « Tu dis que je n’ai pas le pourquoi. Montre-le-moi. »
 
 ---
 
@@ -129,7 +129,7 @@ Les yeux dans les siens, elle dit tout haut, pour la première fois de sa vie, �
 
 ---
 
-Longtemps il ne dit rien. Un assentiment aussitôt, voilà ce qu’elle avait cru obtenir : c’était sa conclusion à lui, portée à son terme, et elle venait de lui donner la raison qui lui manquait. Mais il resta courbé sur le feu mourant, et quand il releva la tête, il n’avait pas le visage d’un homme qu’on vient de convaincre. Il avait peur, et c’était d’elle : de la netteté avec laquelle elle venait de dire une chose pareille.
+Longtemps il ne dit rien. Un assentiment aussitôt, voilà ce qu’elle avait cru obtenir : c’était sa conclusion à lui, portée à son terme, et elle venait de lui donner la raison qui lui manquait. Mais il resta courbé sur le feu mourant, et quand il releva la tête, il avait peur, et c’était d’elle : de la netteté avec laquelle elle venait de dire une chose pareille.
 
 « Tu n’hésites pas, dit-il.
 
@@ -159,7 +159,7 @@ Il ne partit pas. Debout, le sac à l’épaule, il dit la seule phrase de la so
 
 « C’est ainsi que je le voulais, dit Sera. Tu sauras faire et tu ne seras jamais sûr d’avoir raison. Je serai sûre d’avoir raison et je ne saurai jamais faire. À deux, ça fait peut-être une conscience. »
 
-Il eut, pour la première fois, quelque chose qui n’était pas tout à fait un sourire. Puis il tendit la main vers le loquet.
+Il eut, cette fois, quelque chose qui n’était pas tout à fait un sourire. Puis il tendit la main vers le loquet.
 
 « Reste, dit-elle. Il est tard, il pleut, et je ne renvoie pas un homme sur les routes à cette heure-ci. Il y a une paillasse près du foyer. Demain, tu me diras comment on coupe un Nœud, et je te dirai pourquoi. Nous avons quinze ans à rattraper de vive voix. »
 
@@ -171,7 +171,7 @@ Cette nuit-là, quand la maison fut endormie et que le feu ne fut plus qu’un r
 
 Elle voulait écrire à Ísae.
 
-Non pour lui dire, jamais pour lui dire. Seulement pour poser quelque part le poids de la soirée ; parce qu’elle n’avait au monde qu’une personne à qui elle eût voulu tout raconter, et que c’était justement la seule à qui elle ne le raconterait jamais.
+Pour poser quelque part le poids de la soirée, rien de plus ; parce qu’elle n’avait au monde qu’une personne à qui elle eût voulu tout raconter, et que c’était justement la seule à qui elle ne le raconterait jamais.
 
 Le prénom, elle l’écrivit. *Ísae.* Sous le prénom, la plume s’arrêta.
 

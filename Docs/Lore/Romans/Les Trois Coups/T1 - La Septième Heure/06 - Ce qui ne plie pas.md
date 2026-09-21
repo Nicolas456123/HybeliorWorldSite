@@ -31,9 +31,9 @@ Pas celui-ci. Celui-ci était une remise louée dans un mauvais quartier, en pen
 
 Le marteau tomba. *Tannk.*
 
-On ne la lui avait pas volée avec des couteaux. Voilà ce que sa colère de vieil homme n’arrivait toujours pas à digérer : pas dans le sang, pas la nuit, pas à visage découvert. Avec du papier. Un noble de la haute ville, un certain seigneur Vhaeran, Lié lui aussi, Lié de sang, Lié de titre, Lié de tout ce qui s’hérite sans qu’on ait à suer une goutte, avait obtenu de la Chambre des Métiers le monopole de la forge pour le quartier bas. Un mot. Un sceau. Une ligne dans un registre que Drakhan ne pouvait pas lire, parce qu’on n’apprend pas à lire au fils d’un Cendrier. Du jour au lendemain, forger sans la licence de Vhaeran devenait un délit. Vhaeran vendait la licence. Vhaeran en fixait le prix. Le prix, c’était ce que Drakhan gagnait en un an, plus un peu.
+On la lui avait volée avec du papier, en plein jour, sans un couteau et sans un visage. Voilà ce que sa colère de vieil homme n’arrivait toujours pas à digérer. Un noble de la haute ville, un certain seigneur Vhaeran, Lié lui aussi, Lié de sang, Lié de titre, Lié de tout ce qui s’hérite sans qu’on ait à suer une goutte, avait obtenu de la Chambre des Métiers le monopole de la forge pour le quartier bas. Un mot. Un sceau. Une ligne dans un registre que Drakhan ne pouvait pas lire, parce qu’on n’apprend pas à lire au fils d’un Cendrier. Du jour au lendemain, forger sans la licence de Vhaeran devenait un délit. Vhaeran vendait la licence. Vhaeran en fixait le prix. Le prix, c’était ce que Drakhan gagnait en un an, plus un peu.
 
-Il avait proposé de payer sur trois ans : refusé. Puis de forger pour Vhaeran, sous la marque de Vhaeran, en abandonnant la sienne, celle du linteau : refusé aussi. Non pas que le noble voulût la marque des Cendriers ; elle ne valait rien pour lui. Trois cents ans de fierté, vus de la haute ville, ce n’était qu’une vieillerie de gueux à ôter d’une façade. On l’avait ôtée. Un apprenti l’avait vu et le lui avait raconté : un échafaudage monté contre le mur, un tailleur de pierre qui avait passé la matinée à effacer au burin trois traits et un cercle, pour que la façade fût propre.
+Il avait proposé de payer sur trois ans : refusé. Puis de forger pour Vhaeran, sous la marque de Vhaeran, en abandonnant la sienne, celle du linteau : refusé aussi. La marque des Cendriers ne valait rien pour le noble. Trois cents ans de fierté, vus de la haute ville, ce n’était qu’une vieillerie de gueux à ôter d’une façade. On l’avait ôtée. Un apprenti l’avait vu et le lui avait raconté : un échafaudage monté contre le mur, un tailleur de pierre qui avait passé la matinée à effacer au burin trois traits et un cercle, pour que la façade fût propre.
 
 Le troisième coup partit trop fort.
 
@@ -75,13 +75,13 @@ Sans demander qui, il souffla la chaleur d’entre ses dents et regarda le feu.
 
 *
 
-Ils étaient venus une première fois trois mois plus tôt. Pas Vhaeran : ses hommes. Vhaeran ne descendait pas dans le quartier bas ; il envoyait. À cette remise, à ce feu, ils avaient trouvé Drakhan forgeant sans licence comme il forgeait depuis quatre ans. La première fois, ils avaient prévenu poliment. La deuxième, ils briseraient les outils. La troisième, on ne savait pas : il n’y en eut jamais, parce que les hommes de Vhaeran n’avaient pas prévu une chose.
+Vhaeran envoyait ; il ne descendait pas dans le quartier bas. Ses hommes étaient venus une première fois trois mois plus tôt. À cette remise, à ce feu, ils avaient trouvé Drakhan forgeant sans licence comme il forgeait depuis quatre ans. La première fois, ils avaient prévenu poliment. La deuxième, ils briseraient les outils. La troisième, on ne savait pas : il n’y en eut jamais, parce que les hommes de Vhaeran n’avaient pas prévu une chose.
 
 Il était Lié.
 
-Personne chez Vhaeran ne s’en était souvenu, ou ne l’avait jamais su. Un forgeron du quartier bas n’est pas censé être Lié : dans la tête des gens d’en haut, le Lien appartient à ceux d’en haut, affaire de sang, de titre et d’académie, pas une chose qui traîne dans des mains calleuses de Cendrier. Mais la Voie de Khatun ne demande pas de titre. Elle demande du feu, et personne à Cendara ne connaissait le feu comme Drakhan. Quand le premier des trois avait tendu la main vers l’enclume pour la renverser, Drakhan avait regardé les braises du foyer, et les braises s’étaient levées.
+Personne chez Vhaeran ne s’en était souvenu, ou ne l’avait jamais su. Un forgeron du quartier bas n’est pas censé être Lié : dans la tête des gens d’en haut, le Lien appartient à ceux d’en haut, affaire de sang, de titre et d’académie, pas une chose qui traîne dans des mains calleuses de Cendrier. Mais la Voie de Khatun demande du feu, et personne à Cendara ne connaissait le feu comme Drakhan. Quand le premier des trois avait tendu la main vers l’enclume pour la renverser, Drakhan avait regardé les braises du foyer, et les braises s’étaient levées.
 
-Ce souvenir-là ne lui plaisait pas. Non par honte de la peur qu’il leur avait faite, ils l’avaient méritée ; mais parce qu’il avait vu jusqu’où irait sa colère si on la laissait sortir, et que cela l’avait effrayé dans son propre corps. La chaleur était montée par le ventre, avait empli sa poitrine, et le foyer avait répondu comme un chien répond au maître, dressé en une gerbe qui avait roussi les poutres et rejeté les trois hommes jusqu’à la porte, blancs, une odeur de laine brûlée sur eux. Il aurait pu les tuer. Une clarté froide était venue au milieu de la chaleur, à cet instant précis : *je peux les tuer là, maintenant, et personne ne le prouvera ; un accident de forge, un feu mal gardé.* Il ne l’avait pas fait. Il avait ravalé la chaleur, l’avait fait redescendre par le même chemin ; les braises étaient retombées, les hommes s’étaient enfuis, et il était resté seul dans son atelier illégal, tremblant non de peur mais de tout ce qu’il venait de ne pas faire.
+Ce souvenir-là ne lui plaisait pas. La peur qu’il leur avait faite, ils l’avaient méritée ; mais il avait vu jusqu’où irait sa colère si on la laissait sortir, et cela l’avait effrayé dans son propre corps. La chaleur était montée par le ventre, avait empli sa poitrine, et le foyer avait répondu comme un chien répond au maître, dressé en une gerbe qui avait roussi les poutres et rejeté les trois hommes jusqu’à la porte, blancs, une odeur de laine brûlée sur eux. Il aurait pu les tuer. Une clarté froide était venue au milieu de la chaleur, à cet instant précis : *je peux les tuer là, maintenant, et personne ne le prouvera ; un accident de forge, un feu mal gardé.* Il ne l’avait pas fait. Il avait ravalé la chaleur, l’avait fait redescendre par le même chemin ; les braises étaient retombées, les hommes s’étaient enfuis, et il était resté seul dans son atelier illégal, tremblant de tout ce qu’il venait de ne pas faire.
 
 Au soir seulement, il en avait parlé à Kessa. Elle avait vu, en rentrant, l’établi, une poutre noircie, l’odeur qui restait.
 
@@ -91,9 +91,9 @@ Au soir seulement, il en avait parlé à Kessa. Elle avait vu, en rentrant, l’
 
 — Je sais que tu es Lié, père. J’ai grandi à te voir sentir la chaleur d’une barre les yeux fermés.
 
-— Non. » La tête avait fait non, les mots avaient tardé, puis c’était sorti comme un rire sans joie, une chose ruminée des années qui trouvait enfin sa bouche. « Pas ça. Je suis Lié *comme Vhaeran est Lié*. J’ai le feu dans les mains, le vrai, la Voie que les prêtres de Khatun mettent trente ans à apprendre et que j’ai eue à sept ans en regardant mon père souffler sur des braises. Aussi Lié que lui. Et on m’a quand même écrasé. »
+— Non. » La tête avait fait non, les mots avaient tardé, puis c’était sorti d’un coup, une chose ruminée des années qui trouvait enfin sa bouche. « Pas ça. Je suis Lié *comme Vhaeran est Lié*. J’ai le feu dans les mains, le vrai, la Voie que les prêtres de Khatun mettent trente ans à apprendre et que j’ai eue à sept ans en regardant mon père souffler sur des braises. Aussi Lié que lui. Et on m’a quand même écrasé. »
 
-Elle n’avait pas répondu : juste attendu, comme sa mère attendait, en laissant le silence ouvert à côté de lui.
+Elle avait juste attendu, comme sa mère attendait, en laissant le silence ouvert à côté de lui.
 
 « Tu comprends ce que ça veut dire ? » Sa voix avait pris ce tranchant qu’il gardait pour les choses dont il se croyait sûr. « On nous apprend que c’est le Lien qui sépare les hommes. Les Liés en haut, les Vides en bas, chacun sa place, et c’est le Lien qui la donne. C’est faux. Moi je suis Lié et je suis en bas. Vhaeran serait Vide qu’il serait encore en haut, avec son papier et son sceau. Le Lien n’est que le bâton, petite. Ce qui décide, c’est la main qui le tient, et cette main-là est toujours la même. »
 
@@ -157,7 +157,7 @@ Il avait cherché, honnêtement, retourné cela dans sa tête comme on retourne 
 
 « C’est vrai. » La phrase était venue lentement, ce soir-là, le seul soir où il eût été tout à fait honnête. « C’est ma colère. Tu as raison. Je n’ai que ça. » Ses mains s’étaient ouvertes devant lui, malgré lui. « Je ne monte pas pour de bonnes raisons, petite. J’ai cru longtemps que si. J’ai emprunté celles des autres, je me suis raconté le monde à réparer. Au fond, j’y vais pour la seule chose qui ne m’a jamais lâché. Elle m’a tenu debout soixante ans. Je ne vais pas la poser maintenant pour mourir tranquille dans un lit en ayant tout pardonné. Je n’ai rien pardonné. Je ne pardonnerai rien. C’est peut-être laid. C’est ce que je suis. »
 
-Kessa avait pleuré, alors. Pas de tristesse. De rage, la même que la sienne. Reconnaître sa propre rage dans les yeux de sa fille avait été le pire moment de toute cette année-là : voir sa colère à lui, celle qu’il gardait comme un dernier bien, passer dans son enfant comme un feu passe d’une poutre à l’autre.
+Kessa avait pleuré, alors. De rage, la même que la sienne. Reconnaître sa propre rage dans les yeux de sa fille avait été le pire moment de toute cette année-là : voir sa colère à lui, celle qu’il gardait comme un dernier bien, passer dans son enfant comme un feu passe d’une poutre à l’autre.
 
 « Alors ne me la laisse pas. » Elle l’avait dit à travers les larmes, sans les essuyer, et chaque mot l’avait atteint plus droit que le précédent. « Si tu montes, ne me laisse pas ta colère. Emporte-la. Garde-la. Meurs avec, puisque tu y tiens tant. Mais ne me la laisse pas. Parce que moi je vais rester. Moi je vais devoir vivre dans le monde d’après, avec les gens qui auront survécu, et je ne peux pas les regarder avec tes yeux. »
 
@@ -183,11 +183,11 @@ Quelque chose se déplaçait en lui, lentement, comme un métal trop massif qu�
 
 « Des forgerons non-Liés », dit-elle, et il entendit dans sa voix qu’elle y avait pensé longtemps, seule, la nuit, pendant qu’il la croyait endormie. « Parce que dans le monde d’après il n’y aura plus de Liés. Il n’y aura plus que des gens. Des mains, du charbon, du fer et de la sueur, comme au commencement. Je ne serai plus Liée. Toi non plus. Mais toi tu ne seras plus là. Moi je resterai. Et je forgerai à la couleur, comme les Vides ont toujours forgé, parce que je n’aurai plus ton feu dans les mains pour sentir la chaleur du dedans.
 
-— Tu forgeras moins bien. » Ce n’était pas un reproche. C’était une peur.
+— Tu forgeras moins bien. » C’était une peur.
 
 « Je forgerai plus lentement. » Elle eut un sourire très bref, très dur, tellement le sien qu’il en eut mal. « Il faudra tout réapprendre : à la main, à l’œil, à l’oreille. On y arrivera. On forgeait avant le Lien. On forgera après. »
 
-S’approchant de l’enclume, elle y posa la main à plat, à l’endroit usé par les coups. Pas sur celle-ci : il n’y avait pas trois cents ans d’histoire dans une remise louée. Mais la main se posa comme on la pose sur l’autre, celle de la place du Marteau, celle qu’ils avaient perdue.
+S’approchant de l’enclume, elle y posa la main à plat, à l’endroit usé par les coups. Il n’y avait pas trois cents ans d’histoire dans une remise louée ; la main se posa quand même comme on la pose sur l’autre, celle de la place du Marteau, celle qu’ils avaient perdue.
 
 « Ta marque. Les trois traits et le cercle. Ils l’ont effacée dans la pierre. » Sa paume ne bougea pas. « Ils ne peuvent pas l’effacer de ma main. Je la frapperai sur tout ce que je ferai, dans le monde d’après, sur chaque soc et chaque clou, et ce ne sera plus la marque d’un homme, ni d’un Lié, ni d’un Cendrier. Ce sera la marque de ceux qui forgent sans permission de personne. »
 
@@ -205,7 +205,7 @@ Mais Kessa était encore chaude.
 
 C’était ce qu’il voyait en regardant la barre reprendre couleur : sa fille était encore au feu, encore malléable, encore capable de devenir autre chose que la rage dont il l’avait remplie sans le vouloir. Elle ne demandait plus qu’il renonçât ; elle avait cessé de le demander, trop honnête pour mendier ce qu’elle savait ne pas pouvoir obtenir. Une seule chose, en fait : qu’il ne l’emportât pas avec lui. Qu’il laissât dans les cendres un feu de forge à la place de sa colère.
 
-La barre sortit du feu, mûre, et il la posa sur l’enclume. Avant de frapper, il fit une chose qu’il n’avait pas faite depuis quatre ans, depuis la place du Marteau : les yeux fermés, il chercha en lui la chaleur, la vraie, celle de la Voie de Khatun, et il ne la fit pas monter en colère, mais en calme. Le foyer répondit, non plus en gerbe menaçante, mais en une seule flamme haute et droite, paisible, qui monta vers les poutres sans les roussir et redescendit, docile, à un souffle de son esprit.
+La barre sortit du feu, mûre, et il la posa sur l’enclume. Avant de frapper, il fit une chose qu’il n’avait pas faite depuis quatre ans, depuis la place du Marteau : les yeux fermés, il chercha en lui la chaleur, la vraie, celle de la Voie de Khatun, et la fit monter en calme. Le foyer répondit par une seule flamme haute et droite, paisible, qui monta vers les poutres sans les roussir et redescendit, docile, à un souffle de son esprit.
 
 Kessa la regarda monter. Jamais elle n’avait vu son père appeler le feu de cette façon-là.
 
@@ -237,7 +237,7 @@ Elle lui tendit le burin, enfin, d’une main qui tremblait un peu.
 
 *
 
-Alors le vieux forgeron se pencha sur l’enclume d’une remise louée dans un mauvais quartier de Cendara : le plus vieux des huit, le plus résolu, le moins consolé, celui qui savait qu’il mourrait le premier et qui l’avait accepté depuis longtemps. Trait après trait, il grava dans le métal froid trois traits et un cercle, avec un soin qu’il n’avait plus mis à rien depuis des années. Pas pour lui : il n’aurait plus de fer à marquer. Pour ce qui, de lui, ne monterait pas au Mont, ne mourrait pas dans l’éruption, et forgerait encore longtemps après que le feu du monde se serait éteint.
+Alors le vieux forgeron se pencha sur l’enclume d’une remise louée dans un mauvais quartier de Cendara : le plus vieux des huit, le plus résolu, le moins consolé, celui qui savait qu’il mourrait le premier et qui l’avait accepté depuis longtemps. Trait après trait, il grava dans le métal froid trois traits et un cercle, avec un soin qu’il n’avait plus mis à rien depuis des années. Il n’aurait plus de fer à marquer : il gravait pour ce qui, de lui, ne monterait pas au Mont, ne mourrait pas dans l’éruption, et forgerait encore longtemps après que le feu du monde se serait éteint.
 
 Le premier trait mordit le métal avec un bruit sec, propre, juste.
 
