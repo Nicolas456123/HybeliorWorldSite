@@ -50,11 +50,11 @@ Elle aurait dû sortir la fiole.
 
 Ce matin-là, elle le sentit avec une netteté nouvelle. Le geste était là, dans sa main, complet, appris : vingt ans d’une main qui savait déboucher la fiole d’un pouce, tenir la nuque d’un enfant sans qu’il eût peur, le faire boire en parlant d’autre chose, d’une voix calme qui expliquait que c’était une bonne gnôle contre les mauvais rêves. Le garçon aurait bu. Ils buvaient toujours. L’apaisement d’un enfant était la chose la mieux réglée du protocole : un enfant qui se débat, un bourg l’entend, et un bourg qui entend murmure.
 
-Elle ne sortit pas la fiole.
+Elle laissa la fiole dans sa poche.
 
 Elle sortit l’Édit.
 
-Elle le déplia sur la table de la salle, à côté d’une écuelle où trempait du cuir, et elle le lut à voix haute, à plat, dans la langue des Préfectures. Pas pour eux : ils n’y comprendraient goutte. Pour elle, parce qu’elle avait besoin de l’entendre dans sa propre bouche avant de savoir ce qu’elle en ferait. Article premier : la maison tenue pour suspecte tout entière. Article deux : le recensement, la marque, le suivi, la fratrie et les parents avec le signalé. Article trois : l’apaisement sans attendre le signe.
+Elle le déplia sur la table de la salle, à côté d’une écuelle où trempait du cuir, et elle le lut à voix haute, à plat, dans la langue des Préfectures. Ils n’y comprendraient goutte ; elle le lisait pour elle, parce qu’elle avait besoin de l’entendre dans sa propre bouche avant de savoir ce qu’elle en ferait. Article premier : la maison tenue pour suspecte tout entière. Article deux : le recensement, la marque, le suivi, la fratrie et les parents avec le signalé. Article trois : l’apaisement sans attendre le signe.
 
 Quand elle releva les yeux, Sarve avait porté ses deux mains à sa bouche. Onnec ne comprenait pas encore ; il cherchait sur le visage de sa femme ce qu’il fallait comprendre, et il le trouva, et il devint gris.
 
@@ -204,10 +204,10 @@ Elle piqua des deux et reprit la route du sud. Au bout de cette route, il y avai
 
 Elle ne se cachait pas la contradiction. Un carnet lui avait appris, depuis un champ, à ne plus rien se cacher. Elle avait refusé Nisse le matin ; elle voulait Kessane le surlendemain. Elle avait laissé une porte bleue intacte et elle se promettait d’entailler une porte de forge. La femme au cahier coupait le Lien de sa fille pour la sauver ; elle-même coupait la vie des Tisses pour leur épargner les cris ; et depuis ce matin elle coupait l’Édit, article par article, gardant l’un, refusant l’autre, comme Drahvel s’était coupé la faculté de voir un visage. Ce qu’elle ne savait plus dire, c’était lequel des articles était le soin et lequel le meurtre.
 
-À Tavelpast, elle avait objecté, et l’Édit était parti quand même, mot pour mot. Ce matin, à Mireuil, elle n’avait pas objecté ; elle avait agi. Une porte non marquée. Un prévôt complice. Un enfant vivant quatre jours de plus, et un père lancé sur un mot, *cahier*, qu’elle n’aurait pas dû lâcher. Une objection, Drahvel la rangeait d’un trait de plume. Un acte restait dans le monde, ouvert, comme une porte qu’on a peinte en bleu et qu’on n’a pas eu le cœur d’entailler.
+À Tavelpast, elle avait objecté, et l’Édit était parti quand même, mot pour mot. Ce matin, à Mireuil, elle avait agi. Une porte non marquée. Un prévôt complice. Un enfant vivant quatre jours de plus, et un père lancé sur un mot, *cahier*, qu’elle n’aurait pas dû lâcher. Une objection, Drahvel la rangeait d’un trait de plume. Un acte restait dans le monde, ouvert, comme une porte qu’on a peinte en bleu et qu’on n’a pas eu le cœur d’entailler.
 
 *Cela vous passera*, avait dit Drahvel. *À tous, cela passe.*
 
-Elle chevaucha vers la forge avec, pour la première fois, la certitude que non : cela ne lui passerait plus. Elle avait franchi quelque chose devant un montant de bois bleu, et cela ne se défranchissait pas. On lui avait pris son frère, une fois, par ses propres mains. On lui prenait ce matin la dernière chose qu’un Inspecteur garde en appliquant : de n’avoir pas à choisir. Elle avait choisi. Une porte oui, une porte non. Devant chaque porte, désormais, la question se poserait de nouveau, et il n’y aurait personne d’autre qu’elle pour y répondre.
+Elle chevaucha vers la forge avec la certitude que non : cela ne lui passerait plus. Elle avait franchi quelque chose devant un montant de bois bleu, et cela ne se défranchissait pas. On lui avait pris son frère, une fois, par ses propres mains. On lui prenait ce matin la dernière chose qu’un Inspecteur garde en appliquant : de n’avoir pas à choisir. Elle avait choisi. Une porte oui, une porte non. Devant chaque porte, désormais, la question se poserait de nouveau, et il n’y aurait personne d’autre qu’elle pour y répondre.
 
 Derrière elle, dans le bourg de Mireuil, un montant de porte restait bleu et intact, à hauteur d’œil, à l’endroit exact où une entaille aurait dû se lire. Elle chevaucha longtemps sans se retourner. La nuit suivante, au sud, une des trois déchirures de la Plaine de Gryndor traversa un chemin de berger à l’allure d’un homme qui marche, et elle emporta les deux maisons qui le bordaient, avec leurs portes et ce qui était marqué dessus.

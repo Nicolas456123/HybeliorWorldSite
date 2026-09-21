@@ -163,7 +163,7 @@ Aucune réponse ne vint. C’était là, précisément là, qu’il ne savait pl
 
 Ils atteignirent une déchirure le lendemain, à l’heure où le soleil baisse.
 
-Ce n’était pas la Plaine encore, pas Gryndor, pas le lieu aux trois déchirures dont le Portier parlait comme d’une terre promise et vers lequel ils marchaient toujours. C’était une déchirure isolée, une de celles qui ne marchent pas, plantée au flanc d’un plateau nu comme une porte qu’on aurait oubliée dans un pré. Et elle n’était pas pour Tarn. Elle revenait à Sève, une femme du groupe, la plus avancée après lui, dont les jambes avaient cédé le matin même et qui avait dit, quand on l’avait couchée : *pas plus loin. Celle-ci. Je ne verrai pas votre plaine.* Le Portier ne la ferait pas marcher trois jours de plus vers une porte idéale quand une porte franche s’ouvrait là, sous la main.
+C’était une déchirure isolée, encore loin de la Plaine, loin de Gryndor, loin du lieu aux trois déchirures dont le Portier parlait comme d’une terre promise et vers lequel ils marchaient toujours : une de celles qui ne marchent pas, plantée au flanc d’un plateau nu comme une porte qu’on aurait oubliée dans un pré. Elle revenait à Sève, une femme du groupe, la plus avancée après Tarn, dont les jambes avaient cédé le matin même et qui avait dit, quand on l’avait couchée : *pas plus loin. Celle-ci. Je ne verrai pas votre plaine.* Le Portier ne la ferait pas marcher trois jours de plus vers une porte idéale quand une porte franche s’ouvrait là, sous la main.
 
 « Vous d’abord, lui dit-il. Les plus avancés passent les premiers. C’est la règle. On ne laisse pas la douleur faire antichambre. »
 
@@ -177,11 +177,11 @@ Sève ne l’entendit pas s’arrêter. Elle serrait le disque, les yeux sur la 
 
 *
 
-La déchirure, de près, n’était pas ce qu’on croit. Pas une bouche, pas un gouffre, rien qui hurle. Rien qu’une herbe grise d’une autre heure, cousue à l’herbe dorée de la leur, le long d’une couture qu’aucun œil n’aurait su tracer et que tous voyaient quand même. Et aucun bruit. C’était ça le plus effrayant, depuis toujours : le silence.
+La déchirure, de près, était peu de chose : une herbe grise d’une autre heure, cousue à l’herbe dorée de la leur, le long d’une couture qu’aucun œil n’aurait su tracer et que tous voyaient quand même. Pas de bouche, pas de gouffre, rien qui hurle. Et aucun bruit. C’était ça le plus effrayant, depuis toujours : le silence.
 
 Nael se tint au bord, derrière Sève, pendant qu’on la menait, et malgré lui il tendit vers la couture cette oreille morte qui n’entendait plus rien depuis dix ans, qu’on lui avait fermée au nom d’un soin, comme on tend une main qu’on n’a plus vers une chose qu’on veut toucher. Il n’entendit rien. Bien sûr. Le silence de sa surdité, plat, définitif, celui qu’on lui avait fait.
 
-Mais pour la première fois depuis dix ans, ce silence-là ne lui parut pas tout à fait vide. Il ne le jura jamais à personne et n’en fut jamais sûr ; ce fut peut-être la fatigue, peut-être le doute qui fabrique ce qu’il craint. Il y avait, dans sa surdité, quelque chose comme une épaisseur. Quelque chose de l’autre côté, très immobile et très attentif. Pas un mort : un mort, il l’aurait reconnu même sourd, il en aurait senti le poids, la poussée contre le mur. Ceci ne poussait pas, n’appelait pas. Ceci attendait, sans hâte, chez soi.
+Mais pour la première fois depuis dix ans, ce silence-là ne lui parut pas tout à fait vide. Il ne le jura jamais à personne et n’en fut jamais sûr ; ce fut peut-être la fatigue, peut-être le doute qui fabrique ce qu’il craint. Il y avait, dans sa surdité, quelque chose comme une épaisseur. Quelque chose de l’autre côté, très immobile et très attentif. Pas un mort : un mort, il l’aurait reconnu même sourd, il en aurait senti le poids, la poussée contre le mur. Ceci attendait, sans hâte, chez soi.
 
 Il détourna les yeux au dernier moment. Il les détournait toujours ; ne pas voir la couture prendre était la seule lâcheté qu’il s’accordât. Il entendit le pas des porteurs s’arrêter. Il entendit le silence changer, très peu, comme l’air change quand quelqu’un sort d’une pièce. Et quand il rouvrit les yeux, il n’y avait plus, sur l’herbe grise du bord d’en face, ni Sève ni la tunique jaune. Il y avait le plateau, le vent, l’herbe qui se couchait par vagues, et un peigne d’os tombé qui ne servirait plus à personne.
 

@@ -18,7 +18,7 @@ Celui-ci ne se taisait pas de la bonne façon.
 
 « Là, dit le prévôt. Le champ du fond. C’est lui. »
 
-Une cinquantaine d’années, ce prévôt, et la sueur d’un homme qu’on a tiré de chez lui pour des questions dont aucune réponse ne serait bonne. Il tenait son chapeau à deux mains contre son ventre et il ne regardait pas Vaenor : il regardait le champ, le dos courbé au fond du champ, la bêche qui montait et retombait avec la lenteur régulière d’une chose qui a tout son temps.
+Une cinquantaine d’années, ce prévôt, et la sueur d’un homme qu’on a tiré de chez lui pour des questions dont aucune réponse ne serait bonne. Il tenait son chapeau à deux mains contre son ventre et gardait les yeux loin de Vaenor, sur le champ, sur le dos courbé au fond du champ, sur la bêche qui montait et retombait avec la lenteur régulière d’une chose qui a tout son temps.
 
 « Vous m’avez fait venir de trois vallées, dit Vaenor, pour un Tisse. Un signalement en règle. Un homme qui parlait à des morts, disiez-vous. Et vous me montrez un homme qui bêche. »
 
@@ -68,13 +68,13 @@ Il la regardait bien en face. Pas trop en face non plus : les Phase 1 se crampo
 
 « J’étais en train de mourir », dit Ferrec, du ton dont on dit *il pleuvait*. « Vous voulez la date ? Je vous la donne. La première fois que ma sœur m’a appelé du fond de la remise, ma sœur, morte depuis six ans, c’était aux foins. Il y a deux étés. Je peux vous donner l’heure, si vous tenez aux heures. Vous avez l’air d’une femme qui tient aux heures. »
 
-Vaenor le laissa parler. Les silences travaillaient pour elle, d’ordinaire ; celui-là, contre son habitude, ne se remplit pas de peur. Il se remplit du champ, des oies, du vent bas, et de la voix de Ferrec, qui repartit sans qu’elle eût à la relancer.
+Vaenor le laissa parler. Les silences travaillaient pour elle, d’ordinaire ; celui-là, contre son habitude, se remplit du champ, des oies, du vent bas, et de la voix de Ferrec, qui repartit sans qu’elle eût à la relancer.
 
 « Aux foins, donc. Ma sœur, dans la remise. Puis mon père, sur le seuil. Puis des gens que je connaissais pas, au coin des choses, qui passaient et repassaient. » Il haussa une épaule. « Vous savez tout ça mieux que moi, je parie. Vous savez ce qui vient après. »
 
 « Le sang, dit Vaenor.
 
-— Le sang. Voilà. » Pour la première fois ce ne fut plus de l’agacement : une gravité courte, celle d’un homme qui repasse par un endroit où il n’aime pas retourner. « J’ai jamais eu le sang. »
+— Le sang. Voilà. » L’agacement tomba d’un coup ; il lui vint une gravité courte, celle d’un homme qui repasse par un endroit où il n’aime pas retourner. « J’ai jamais eu le sang. »
 
 *
 
@@ -88,9 +88,9 @@ Elle nota le mot et ne fit rien du reste. Un métier l’attendait, et le métie
 
 « Ou vous ne connaissez pas tout, Inspectrice. » Il le dit sans insolence, presque avec douceur, comme on reprend un enfant trop sûr de lui. « C’est possible, ça aussi. Qu’il y ait des choses que même vous, vous ne connaissez pas. »
 
-Un long regard. Elle chercha le chiffre qui remettrait cet homme à sa place : le délai, la phase, la ligne du tableau où il devait tomber. Elle chercha, et pour la première fois depuis très longtemps, rien ne vint. Un homme signalé, vivant deux ans après, sans sang : cela n’entrait dans aucune colonne. Ce n’était pas un chiffre faux, qu’on redresse. C’était une case vide dans un tableau qu’elle croyait plein.
+Un long regard. Elle chercha le chiffre qui remettrait cet homme à sa place : le délai, la phase, la ligne du tableau où il devait tomber. Elle chercha, et pour la première fois depuis très longtemps, rien ne vint. Un homme signalé, vivant deux ans après, sans sang : cela n’entrait dans aucune colonne. C’était une case vide dans un tableau qu’elle croyait plein.
 
-« Qu’est-ce qui vous est arrivé, Ferrec ? » demanda-t-elle, et elle s’entendit poser la question autrement que d’habitude : non pour le prendre en défaut, pour savoir.
+« Qu’est-ce qui vous est arrivé, Ferrec ? » demanda-t-elle, et elle s’entendit poser la question autrement que d’habitude : pour savoir.
 
 Il la considéra un moment. Il pesait, elle le voyait ; il pesait s’il devait le dire, à elle, à une veste grise montée de trois vallées avec une fiole dans la poche. Puis vint le haussement d’épaules des hommes qui ont déjà tout perdu une fois et qui en sont revenus.
 
@@ -122,7 +122,7 @@ Et là, oui, quelque chose se raidit en elle. Un vieux cahier recopié, ouvert �
 
 « Continuez.
 
-— Elle m’a fait boire quelque chose avant. Pour la douleur. Ça marchait à moitié. » Un rire bref, sans gaieté. « J’ai crié. Je vous mens pas, j’ai crié toute la nuit, par bouts. Elle m’a tenu. Toute la nuit, elle m’a tenu, et le matin— »
+— Elle m’a fait boire quelque chose avant. Pour la douleur. Ça marchait à moitié. » Un rire bref, rentré aussitôt. « J’ai crié. Je vous mens pas, j’ai crié toute la nuit, par bouts. Elle m’a tenu. Toute la nuit, elle m’a tenu, et le matin— »
 
 Il s’arrêta.
 
@@ -134,7 +134,7 @@ Il s’arrêta.
 
 Vaenor resta immobile au milieu du sillon.
 
-Elle eut dans le corps la sensation exacte d’un pont qui cède : pas d’un coup, pas dans un fracas, un seul appui qui lâche au fond de l’eau, si loin qu’on l’entend à peine, et l’on sait pourtant, à la seconde, que le reste suivra.
+Elle eut dans le corps la sensation exacte d’un pont qui cède : un seul appui qui lâche au fond de l’eau, si loin qu’on l’entend à peine, et l’on sait pourtant, à la seconde, que le reste suivra.
 
 Devant une donnée neuve, elle faisait toujours la même chose. Elle aligna les faits. *Un homme signalé Phase 1. Deux ans écoulés. Pas de sang. Coupé en Phase 1 par une main qui savait, avec un cahier pour plan. Non-Lié. Sourd à ses morts. Vivant.* Elle les posa bout à bout, dans l’ordre, comme elle les posait toujours, et laissa le compte se faire.
 
@@ -166,7 +166,7 @@ Elle aurait pu biaiser. Elle n’avait jamais su le faire, et elle n’allait pa
 
 « Non. »
 
-Le mot était sorti avant qu’elle l’eût décidé. Elle s’entendit le dire et sut, à l’instant où il fut hors d’elle, qu’il était vrai. Pas une conversion, pas une lumière : une raison plus basse et qui creusait davantage. *On n’apaise pas un homme qui bêche.* La fiole était pour les morts en sursis. On ne versait pas le repos à un homme debout depuis deux ans dans son champ, sourd, sous prétexte qu’il avait porté, deux ans plus tôt, une chose qu’on lui avait ôtée. Le protocole s’appliquait à un mort à venir ; devant elle, aucun mort à venir. Un vivant, seulement.
+Le mot était sorti avant qu’elle l’eût décidé. Elle s’entendit le dire et sut, à l’instant où il fut hors d’elle, qu’il était vrai. La raison en était basse, et elle creusait davantage. *On n’apaise pas un homme qui bêche.* La fiole était pour les morts en sursis. On ne versait pas le repos à un homme debout depuis deux ans dans son champ, sourd, sous prétexte qu’il avait porté, deux ans plus tôt, une chose qu’on lui avait ôtée. Le protocole s’appliquait à un mort à venir ; devant elle, un vivant.
 
 Qu’il n’y eût, dans son protocole entier, pas une ligne qui pût mordre sur cet homme-là était en train de faire à tout le reste une chose qu’elle n’arrivait pas encore à nommer.
 
@@ -220,7 +220,7 @@ Elle avait tué son frère, ou elle l’avait soigné, et la réponse n’exista
 
 Elle ne bougea pas.
 
-Il la regarda ne pas bouger. Puis il fit une chose qu’aucun condamné n’avait jamais faite pour elle, parce qu’aucun condamné n’était jamais un vivant : il eut pitié d’elle. Sa bêche plantée, il s’approcha de deux pas, deux pas de trop, elle aurait dû reculer, elle ne recula pas, et la regarda de tout près. Il ne regardait pas la veste. Il regardait la femme dedans, et c’était la seule chose qu’elle n’avait jamais su empêcher.
+Il la regarda ne pas bouger. Puis il fit une chose qu’aucun condamné n’avait jamais faite pour elle, parce qu’aucun condamné n’était jamais un vivant : il eut pitié d’elle. Sa bêche plantée, il s’approcha de deux pas, deux pas de trop, elle aurait dû reculer, elle ne recula pas, et la regarda de tout près. Il regardait la femme sous la veste, et c’était la seule chose qu’elle n’avait jamais su empêcher.
 
 « Vous en avez fait boire, dit-il. Beaucoup. »
 
@@ -264,21 +264,21 @@ Elle ne raya pas. Son métier ne l’avait pas lâchée, même là, même avec l
 
 « Ce que j’ai vu. » Elle sortit l’autre carnet, celui sans sceau ni colonnes, où elle mettait ce qu’elle savait, et non ce qu’elle voulait qu’on croie. « Que le sujet vit. Deux ans après signalement. Sans traitement des Cendres. » Elle écrivit debout, la terre du champ encore à ses bottes. « Qu’il faut, avant tout apaisement, établir la phase réelle et non la phase supposée. Qu’un homme signalé n’est pas un homme mort. »
 
-Le prévôt la regarda écrire sans comprendre ce qu’il regardait. C’était la seule mutinerie qu’une femme comme elle pût se permettre : non contre l’ordre, jamais contre l’ordre, elle en serait morte, mais contre la certitude, qui tenait l’ordre debout, et qu’elle venait de fêler d’un trait de crayon.
+Le prévôt la regarda écrire sans comprendre ce qu’il regardait. C’était la seule mutinerie qu’une femme comme elle pût se permettre. L’ordre, elle l’aurait servi jusqu’à en mourir ; la certitude qui le tenait debout, elle venait de la fêler d’un trait de crayon.
 
 *
 
 Cette nuit-là, à l’auberge de Vannecize, elle ne dormit pas.
 
-Ne pas dormir était une vieille affaire. Elle connaissait le nom de ce qui la réveillait d’ordinaire, et ce qu’il fallait lui opposer : des corps, des cris, un village, et contre eux la forteresse, *je les abrège, je suis la dernière douceur qui leur reste.* Cette nuit-ci n’était pas de cette matière. Pas de corps, cette fois. Un champ. Des bandes de terre bien droites, une buse et son ombre suivies par un regard juste, une motte émiettée entre deux doigts larges. Un vivant. Contre un vivant, la forteresse ne servait à rien : on l’avait bâtie contre des morts.
+Ne pas dormir était une vieille affaire. Elle connaissait le nom de ce qui la réveillait d’ordinaire, et ce qu’il fallait lui opposer : des corps, des cris, un village, et contre eux la forteresse, *je les abrège, je suis la dernière douceur qui leur reste.* Cette nuit-ci était d’une autre matière. Un champ, cette fois. Des bandes de terre bien droites, une buse et son ombre suivies par un regard juste, une motte émiettée entre deux doigts larges. Un vivant. Contre un vivant, la forteresse ne servait à rien : on l’avait bâtie contre des morts.
 
 Dans les décombres, elle chercha ce qui tenait encore. Une chose tenait. Une seule. La femme au cahier savait faire le geste et pas le sort : elle coupait des gens qui vivaient et des gens qui mouraient dans ses bras, et le pari était réel des deux côtés. En Phase 2, en Phase 3, sur des corps qui criaient sans le savoir, la fiole restait la seule miséricorde, et Vaenor avait raison à la lettre. Sur ce point-là, elle avait toujours dit vrai.
 
 Mais pour les hommes qu’elle atteignait en Phase 1, le pari existait. Ouvert. Et c’était là que le pont continuait de céder, appui après appui, toute la nuit. Une femme avec un cahier le prenait ailleurs et le gagnait parfois. Et ce pari, elle, Vaenor, l’avait fermé de ses propres mains, un condamné après l’autre, en leur démontrant, avec un soin que personne d’autre ne leur donnait, qu’il n’existait pas. Elle avait été si crédible. À des hommes en Phase 1, au seul moment où couper sauve encore, elle avait ôté la nuit atroce qui, peut-être, les aurait laissés bêcher.
 
-Elle ne s’était pas convertie. Rien ne s’était retourné en elle, et jamais elle ne descendrait de cheval pour distribuer des cahiers de coupure dans les vallées. Le débat n’avait jamais été *soin contre meurtre* ; elle le savait plus clairement cette nuit qu’aucune autre. Le débat était : *à quel instant, exactement, un soin devient-il un meurtre.* À quel moment précis, sur la courbe d’un homme, la fiole cesse d’abréger un supplice certain pour trancher un peut-être vivant. Ce moment passait quelque part dans la Phase 1, à un endroit que personne ne savait mesurer : ni la femme au cahier, ni les rapports verithanes, ni Drahvel avec ses édits, ni elle. La frontière existait. Réelle. Introuvable. Et chaque jour on tranchait, d’un côté ou de l’autre, avec une fiole ou avec un cahier, sans jamais pouvoir vérifier, et l’on recommençait le lendemain.
+Elle ne s’était pas convertie. Rien ne s’était retourné en elle, et jamais elle ne descendrait de cheval pour distribuer des cahiers de coupure dans les vallées. Le débat se réduisait à ceci, et elle le voyait cette nuit plus clairement qu’aucune autre : *à quel instant, exactement, un soin devient-il un meurtre.* À quel moment précis, sur la courbe d’un homme, la fiole cesse d’abréger un supplice certain pour trancher un peut-être vivant. Ce moment passait quelque part dans la Phase 1, à un endroit que personne ne savait mesurer : ni la femme au cahier, ni les rapports verithanes, ni Drahvel avec ses édits, ni elle. La frontière existait. Réelle. Introuvable. Et chaque jour on tranchait, d’un côté ou de l’autre, avec une fiole ou avec un cahier, sans jamais pouvoir vérifier, et l’on recommençait le lendemain.
 
-Voilà ce que Ferrec lui avait pris. Pas sa raison sur les mourants, celle-là tenait. Il lui avait pris la certitude de savoir où passait la ligne. Sans elle, chaque fiole posée devenait un pari qu’elle avait fait passer pour une évidence, avec des vivants et des morts des deux côtés, et pas moyen de compter lesquels.
+Voilà ce que Ferrec lui avait pris : la certitude de savoir où passait la ligne. Sa raison sur les mourants, elle, tenait encore. Sans cette certitude, chaque fiole posée devenait un pari qu’elle avait fait passer pour une évidence, avec des vivants et des morts des deux côtés, et pas moyen de compter lesquels.
 
 *
 

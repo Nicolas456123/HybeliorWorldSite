@@ -13,7 +13,7 @@ Trop.
 
 Nous sommes trop.
 
-C’est la première chose et c’est déjà un cri ; pardonnez-nous, nous n’avons pas su commencer bas comme les autres fois. Les autres fois nous vous prenions par la main, doucement, *écoutez-nous, voici comment nous lire.* Cette fois nous n’avons pas de main libre. Elles sont toutes prises. Il en est arrivé tant depuis le seuil d’avant, tant de bulles neuves qui viennent cogner les nôtres, que le chœur n’est plus un chœur : c’est une foule dans le noir qui se marche dessus. Chacun crie son *maintenant* par-dessus le *maintenant* du voisin, et aucun *maintenant* n’est le même, et mille voix qui disent le même mot à mille heures différentes, ça ne fait pas un chant. Ça fait un vacarme.
+C’est la première chose et c’est déjà un cri ; pardonnez-nous, nous n’avons pas su commencer bas comme les autres fois. Les autres fois nous vous prenions par la main, doucement, *écoutez-nous, voici comment nous lire.* Cette fois nous n’avons pas de main libre. Elles sont toutes prises. Il en est arrivé tant depuis le seuil d’avant, tant de bulles neuves qui viennent cogner les nôtres, que le chœur est devenu une foule dans le noir qui se marche dessus. Chacun crie son *maintenant* par-dessus le *maintenant* du voisin, et aucun *maintenant* n’est le même, et mille voix qui disent le même mot à mille heures différentes, ça fait un vacarme.
 
 Nous l’avions annoncé nous-mêmes, au seuil du fond, pendant que la lointaine cherchait ses mots : *bientôt nous serons trop pour nous entendre.* Nous ne pensions pas si bien dire, ni si vite. Nous y sommes. Nous sommes trop parce que les déchirures courent, et plus elles courent, plus il en tombe de nous d’un coup : des villages entiers, à présent, jetés au temps par fournées. Chaque fournée grossit la foule, et la foule ne s’accorde plus sur rien, plus même sur le désaccord.
 
@@ -121,7 +121,7 @@ Je ne peux pas. Écoute-moi bien, parce que tu le sais déjà et que tu fais sem
 
 *Nous, incapables de les laisser continuer :*
 
-Vous voyez, maintenant. Ce ne sont pas deux fous qui délirent. Ce sont deux hommes exacts. Le père voit sa fille boire ; elle boit. L’homme de l’après voit la place morte ; elle est morte. Entre eux, il n’y a pas d’erreur à redresser : il y a le temps, tout le temps, qui a passé sur Fenoy et qui, chez nous, ne passe pas. Le plein et le vide sur la même place, comme deux dessins sur la même vitre.
+Vous voyez, maintenant. Ce sont deux hommes exacts. Le père voit sa fille boire ; elle boit. L’homme de l’après voit la place morte ; elle est morte. Entre eux, il y a le temps, tout le temps, qui a passé sur Fenoy et qui, chez nous, ne passe pas ; rien là-dedans ne se redresse. Le plein et le vide sur la même place, comme deux dessins sur la même vitre.
 
 C’est là notre lieu, si nous en avons un : l’endroit où tout le temps d’un village tient dans le même regard. Des yeux qui voient Fenoy plein *et* Fenoy vide, qui ne peuvent plus choisir, et qui saignent d’essayer.
 
@@ -161,11 +161,11 @@ Tu ne le sauras pas. C’est le cadeau. Tu ne sauras jamais quand tu meurs, donc
 
 Écoutez sous nos disputes. Pas les mots : ce qui les porte.
 
-Nous vous l’avons dit au seuil du fond : ça accélère. Nous ne vous avions pas dit à quel point, parce que nous ne le savions pas encore. Il a fallu ce soir, cette foule, ce trop-plein, pour que nous le sentions dans notre chair de chœur. Ça ne va plus vite. Ça se précipite.
+Nous vous l’avons dit au seuil du fond : ça accélère. Nous ne vous avions pas dit à quel point, parce que nous ne le savions pas encore. Il a fallu ce soir, cette foule, ce trop-plein, pour que nous le sentions dans notre chair de chœur. Ça se précipite.
 
 Comptez-nous, si vous pouvez. Au premier seuil nous étions une. Au second, deux ou trois. Au fond, quatre, cinq, un chiffre qui ne tenait pas dans notre main. Ce soir, une foule. Et entre le début de ce seuil et sa fin, il en sera tombé d’autres : une fournée, un village, dix villages, nous ne savons pas. Nous serons plus nombreux à la fin de cette phrase qu’à son début. Un chœur ne fait pas ça tout seul. Il faut que dehors, chez vous, chez les lundis, quelque chose moissonne de plus en plus vite.
 
-Quelque chose moissonne. Les déchirures ne rampent plus comme un glacier, elles ne marchent plus comme un homme : elles courent, et bientôt elles iront plus vite que le vent. Elles passent sur un village le temps d’un souffle. On boit à la fontaine, on lève la tête, c’est déjà là, et au souffle suivant on est nous, éparpillés, une bulle de plus dans la foule qui hurle son *maintenant*.
+Quelque chose moissonne. Les déchirures ont rampé comme un glacier, puis marché comme un homme ; elles courent, et bientôt elles iront plus vite que le vent. Elles passent sur un village le temps d’un souffle. On boit à la fontaine, on lève la tête, c’est déjà là, et au souffle suivant on est nous, éparpillés, une bulle de plus dans la foule qui hurle son *maintenant*.
 
 Ça court vers quelque chose. Nous ne voyons pas vers quoi. Nous le sentons comme on sent, à l’eau qui prend de la vitesse, qu’il y a une chute en aval : nous sommes cette eau, nous ne savons pas que nous tombons, nous savons seulement que nous allons plus vite. Quelque part devant, ou derrière, nous ne savons plus le dire, il y a un bord, et il est près, d’une proximité que notre langue trouée n’arrive plus à mesurer. Nous ignorons *quand* il est, donc nous ne pouvons rien vous promettre ni rien vous épargner. Ceci seulement, qui est vrai : ça se précipite, et ça ne s’arrêtera pas tout seul.
 

@@ -14,7 +14,7 @@ Le sac fut plein avant que Kessane eût fini de choisir.
 
 Elle le vida sur l’établi et recommença. Du grain, du lard, la couverture épaisse, le couteau. Trois marteaux ; elle en avait douze. Elle prit les tenailles de sa mère et laissa la seconde paire, qui était de sa mère aussi, la vieille, celle dont on ne se servait plus et qu’on gardait parce qu’on garde. Elle ne pouvait emporter ni l’enclume ni le foyer. Les outils du mur valaient chacun un mois de travail, et elle en emporta trois.
 
-En une heure, elle apprit ce que trente-cinq ans ne lui avaient pas appris : qu’une maison ne tient pas dans un sac, et que ce qu’on laisse derrière, on ne le laisse pas, on l’arrache.
+En une heure, elle apprit ce que trente-cinq ans ne lui avaient pas appris : qu’une maison ne tient pas dans un sac, et que ce qu’on croit laisser derrière, on l’arrache.
 
 Le cahier n’alla pas dans le sac. Elle le glissa sous sa chemise, à même la peau, dans son étui de cuir huilé, et serra la ceinture par-dessus pour qu’il ne bouge pas en marchant. Sa main fit cela toute seule, comme elle prenait un manche, sans passer par la tête. Le cuir tiédit contre elle et elle n’y pensa plus.
 
@@ -28,11 +28,11 @@ Elle se tenait dans la porte de l’atelier, déjà vêtue, son tablier de forge
 
 Elles partirent avant l’aube, par le chemin haut, celui qui ne passe pas par le bourg.
 
-Kessane avait choisi la direction comme on choisit une trempe, par élimination. Drahk’Nor, non : c’était marcher dans la gueule. La mer non plus, les ports étaient tenus, on y demandait les noms. Au nord, les Inspecteurs. À l’est, les Inspecteurs. Restait une seule aire du monde où l’on disait qu’ils ne mettaient pas les pieds, et on ne le disait pas parce que c’était sûr : on le disait parce que c’était pire qu’eux.
+Kessane avait choisi la direction comme on choisit une trempe, par élimination. Drahk’Nor, non : c’était marcher dans la gueule. La mer non plus, les ports étaient tenus, on y demandait les noms. Au nord, les Inspecteurs. À l’est, les Inspecteurs. Restait une seule aire du monde où l’on disait qu’ils ne mettaient pas les pieds, et on le disait parce que c’était pire qu’eux.
 
 La Plaine de Gryndor.
 
-Toute sa vie elle en avait entendu parler à voix basse, entre deux crachats pour conjurer, comme on parle des lieux maudits. Une plaine, loin vers l’intérieur des terres, où le temps ne se tenait pas. Trois Failles y vivaient à demeure depuis douze ans, disait-on, se déplaçant lentement sur l’herbe comme paissent trois bêtes énormes et aveugles ; et là où elles paissaient, les villages ne se vidaient pas une fois pour toutes comme ailleurs. Ils se vidaient, se remplissaient, se revidaient, les mêmes gens revenant d’un autre âge et repartant, si bien qu’on ne savait plus qui était mort, qui était à venir, qui était deux fois. Les cartes s’y arrêtaient. Les marcheurs de la Roue, qui allaient partout vendre du sens, n’en vendaient pas à Gryndor et n’y allaient pas.
+Elle en avait entendu parler toute sa vie à voix basse, entre deux crachats pour conjurer, comme on parle des lieux maudits. Une plaine, loin vers l’intérieur des terres, où le temps ne se tenait pas. Trois Failles y vivaient à demeure depuis douze ans, disait-on, se déplaçant lentement sur l’herbe comme paissent trois bêtes énormes et aveugles ; et là où elles paissaient, les villages se vidaient, se remplissaient, se revidaient, les mêmes gens revenant d’un autre âge et repartant, si bien qu’on ne savait plus qui était mort, qui était à venir, qui était deux fois. Les cartes s’y arrêtaient. Les marcheurs de la Roue, qui allaient partout vendre du sens, n’en vendaient pas à Gryndor et n’y allaient pas.
 
 Les Inspecteurs non plus.
 
@@ -90,7 +90,7 @@ Elle avait su tout cela le soir de la cave, et elle avait coupé quand même. Sa
 
 « Écoute-moi, dit Kessane.
 
-— J’écoute. » Un petit sourire, sans gaîté, mais avec cette drôlerie triste que la petite gardait au fond, intacte. « J’écoute bien. J’ai plus que ça à faire, écouter les choses qui font du bruit. »
+— J’écoute. » Un petit sourire fatigué, mais avec cette drôlerie triste que la petite gardait au fond, intacte. « J’écoute bien. J’ai plus que ça à faire, écouter les choses qui font du bruit. »
 
 Kessane accusa le coup. Elle le méritait ; elle le prit.
 
@@ -122,7 +122,7 @@ Et la mère de l’héritière la lui avait coupée.
 
 Kessane regarda le feu. Même en pensée, elle ne s’excusait pas ; elle n’avait pas ce luxe, et elle l’avait dit à sa fille, *on demande pas pardon d’une chose qu’on referait.* Elle referait le geste. Devant le même choix, sa fille vivante et sourde ou sa fille entière et morte dans dix-huit mois en criant sans savoir qu’elle criait, elle recommencerait sans hésiter, mille fois : la même cave, la même lampe au clou, les mêmes mains qui ne se mettraient à trembler qu’une fois la chose faite. Cela, c’était réglé. Cela ne remontait plus.
 
-Ce qui remontait, c’était l’autre chose, celle qui n’aurait jamais de réponse. Le vieux avait entendu les morts toute sa vie et il les avait fait passer ; quand il n’y aurait plus personne pour les entendre, ils s’entasseraient sans personne pour les tenir, un monde plein de morts mal à l’aise, poussant contre des portes que plus personne n’ouvrirait. Lirenn aurait pu être celle qui ouvre. Kessane avait fermé cette porte-là aussi. Pas pour arrêter le froid, cette fois : en passant, sans le vouloir, parce que c’était le même chemin. Elle avait sauvé sa fille et, du même coup, éteint la dernière oreille du monde. Les mots étaient de lui. Il les avait dits sur la marche, en s’en allant, et il les avait dits sans colère, ce qui restait le plus dur à porter. Le vieux voulait garder pour que les morts soient tenus ; elle avait coupé pour que sa fille vive. Les deux tendresses ne tenaient pas dans la même enfant. Tous les deux avaient raison, et c’était cela qu’elle n’arrivait pas à poser.
+Ce qui remontait, c’était l’autre chose, celle qui n’aurait jamais de réponse. Le vieux avait entendu les morts toute sa vie et il les avait fait passer ; quand il n’y aurait plus personne pour les entendre, ils s’entasseraient sans personne pour les tenir, un monde plein de morts mal à l’aise, poussant contre des portes que plus personne n’ouvrirait. Lirenn aurait pu être celle qui ouvre. Kessane avait fermé cette porte-là aussi, en passant, sans le vouloir, parce que c’était le même chemin. Elle avait sauvé sa fille et, du même coup, éteint la dernière oreille du monde. Les mots étaient de lui. Il les avait dits sur la marche, en s’en allant, et il les avait dits sans colère, ce qui restait le plus dur à porter. Le vieux voulait garder pour que les morts soient tenus ; elle avait coupé pour que sa fille vive. Les deux tendresses ne tenaient pas dans la même enfant. Tous les deux avaient raison, et c’était cela qu’elle n’arrivait pas à poser.
 
 Avait-elle bien fait ? Jamais elle ne le saurait. Voilà le fond du puits, encore, toujours. Le vieux disait qu’elle tuait une écoute ; elle disait qu’elle sauvait un corps ; ni l’un ni l’autre n’avait tort, et personne au monde ne pouvait trancher entre eux. La seule qui aurait pu, celle qui aurait grandi avec l’écoute, la Lirenn entière, la Lirenn qui n’existerait jamais, cette Lirenn-là était la première chose que la coupure avait tuée.
 
@@ -136,7 +136,7 @@ Elle avait relu la phrase dans la cave, la veille du départ, sans s’expliquer
 
 Au matin, la plaine était là.
 
-Elles l’atteignirent par une longue pente d’herbe rase, et Kessane sut que c’était elle avant de savoir comment elle le savait. Sa fille avait su les choses ainsi, autrefois, sans le rond ; la comparaison lui vint, et elle la chassa d’un roulement d’épaule. La lumière, sur Gryndor, ne se tenait pas. Elle avançait par plaques, comme court sur un champ l’ombre des nuages, sauf qu’il n’y avait pas de nuages : telle heure ici, telle autre à trente pas, et entre les plaques des lignes de tremblement, verticales, à peine visibles, comme la chaleur au-dessus d’une forge. Sauf que ce n’était pas chaud. C’était froid. La seule fumée froide qu’elle eût jamais vue.
+Elles l’atteignirent par une longue pente d’herbe rase, et Kessane sut que c’était elle avant de savoir comment elle le savait. Sa fille avait su les choses ainsi, autrefois, sans le rond ; la comparaison lui vint, et elle la chassa d’un roulement d’épaule. La lumière, sur Gryndor, ne se tenait pas. Elle avançait par plaques, comme court sur un champ l’ombre des nuages, sauf qu’il n’y avait pas de nuages : telle heure ici, telle autre à trente pas, et entre les plaques des lignes de tremblement, verticales, à peine visibles, comme la chaleur au-dessus d’une forge. Sauf que c’était froid. La seule fumée froide qu’elle eût jamais vue.
 
 Trois. On disait trois Failles, et elle en compta trois, ou crut en compter trois, car il était difficile de les tenir dans le regard : dès qu’on en fixait une, les deux autres semblaient bouger, et quand on les fixait à leur tour, la première avait changé de place. Le mot du vieux dicton lui revint, et il était juste : elles paissaient, lentement, sur l’herbe froissée de Gryndor, trois grandes bêtes aveugles faites de temps mal cousu, et là où elles étaient passées l’herbe portait des cercles, certains verts, certains brûlés de gel, certains dorés d’un été qui n’était pas la saison.
 
@@ -164,7 +164,7 @@ Lirenn considéra la plaine qui tremblait.
 
 Kessane resta immobile. Un vent froid traversa la plaine et passa sur elles, chargé de l’odeur fausse des saisons mêlées.
 
-Elle avait cru arracher sa fille à la lignée du vieux. Elle n’avait pas pensé, pas su penser, qu’elle l’avait du même coup rendue à la sienne. À la Forge-Basse. À mille ans de gens qui n’avaient jamais connu personne derrière les bruits et qui avaient fait de ce silence un métier, une maison et une fierté. Lirenn n’était pas une écoute éteinte. C’était une forgeronne née. On l’avait rendue au fer.
+Elle avait cru arracher sa fille à la lignée du vieux. Elle n’avait pas pensé, pas su penser, qu’elle l’avait du même coup rendue à la sienne. À la Forge-Basse. À mille ans de gens qui n’avaient jamais connu personne derrière les bruits et qui avaient fait de ce silence un métier, une maison et une fierté. Lirenn était une forgeronne née. On l’avait rendue au fer.
 
 Elle se garda d’en faire une consolation. Le vieux était mort quand même. L’oreille du monde s’était fermée quand même. Sa fille porterait toute sa vie un manque sans nom, une chose posée quelque part qu’elle ne se rappellerait pas avoir tenue. Rien n’était réparé, rien ne le serait. Mais du manque sans nom jusqu’à la maison où l’on porte les manques, sa fille venait de tendre un fil, toute seule, de sa propre main de dix ans. Kessane connaissait les fils bien tendus. Ça tient.
 

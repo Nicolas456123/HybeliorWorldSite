@@ -16,13 +16,13 @@ Vaenor attendait debout. On l’avait fait mander de trois vallées. Le mot éta
 
 « Vous êtes en retard sur vos apaisements », dit Drahvel sans lever les yeux.
 
-Drahvel ne demandait rien. Il alignait deux nombres à sa manière : celui qu’il attendait, celui qu’il avait reçu. Elle faisait le même métier autrement, en posant deux faits côte à côte et en laissant le tiers se lever tout seul ; chez Drahvel, la concordance descendait d’un registre et non d’un visage. Devant lui, il avait le livre du district. Elle savait ce qu’il y lisait : trois bourgs de la vallée basse, trois signalements, et pas une fiole portée au compte ce mois-ci.
+Drahvel alignait deux nombres à sa manière : celui qu’il attendait, celui qu’il avait reçu. Elle faisait le même métier autrement, en posant deux faits côte à côte et en laissant le tiers se lever tout seul ; chez Drahvel, la concordance descendait d’un registre et non d’un visage. Devant lui, il avait le livre du district. Elle savait ce qu’il y lisait : trois bourgs de la vallée basse, trois signalements, et pas une fiole portée au compte ce mois-ci.
 
 « Trois signalements, dit-il. Aucune mise au repos. » La plume s’arrêta. « Expliquez-moi cet écart, Inspectrice. »
 
 *
 
-Drahvel était un petit homme sec, sans âge visible, le crâne rasé haut comme tous les préfets de Drahk’Nor, la veste grise mieux coupée que la sienne et sans un grain de poussière. Il ne montait pas dans les champs. Il ne montait que dans les chiffres. Il tenait le district comme un grand livre de comptes : une colonne des détectés, une colonne des mis au repos, et entre les deux un délai, la seule variable qu’il tolérât et qu’il faisait profession de réduire.
+Drahvel était un petit homme sec, sans âge visible, le crâne rasé haut comme tous les préfets de Drahk’Nor, la veste grise mieux coupée que la sienne et sans un grain de poussière. Il ne montait que dans les chiffres. Il tenait le district comme un grand livre de comptes : une colonne des détectés, une colonne des mis au repos, et entre les deux un délai, la seule variable qu’il tolérât et qu’il faisait profession de réduire.
 
 Le préfet n’était pas cruel. Vaenor l’avait servi vingt ans ; elle le savait, et elle savait que c’était pire. Un homme cruel a un plaisir, et un plaisir se prend. Drahvel n’avait qu’une somme à faire tomber juste. Il apaisait un Tisse comme il eût asséché un marais : sans haine, sans hâte, avec le contentement tranquille d’un homme qui améliore une terre pour ceux d’après. Une fois, elle l’avait vu s’attarder devant le corps d’une enfant apaisée, et elle avait cru une seconde qu’il ressentait quelque chose ; il s’était penché pour vérifier que le linge était propre. Un bourg où l’on apaise salement murmure, un bourg qui murmure finit par cacher ses Tisses, et alors le chiffre ment.
 
@@ -38,7 +38,7 @@ Une seconde, elle chercha la réponse qui referme la prise, celle qu’elle aura
 
 « Il était signalé Phase 1. Il y a deux ans. Quand je suis montée, il vivait. Il bêchait un champ. Deux ans après signalement, sans sang, sans phase. Il avait été coupé. »
 
-Le mot *coupé* tomba sur la table comme il était tombé dans le champ, sans écho. Drahvel ne s’y arrêta pas une seconde ; il le rangea dans une colonne qu’il avait déjà ouverte.
+Le mot *coupé* tomba sur la table comme il était tombé dans le champ, sans écho. Drahvel le rangea sans s’y arrêter, dans une colonne qu’il avait déjà ouverte.
 
 « Coupé, dit-il. La rumeur de la coupure. »
 
@@ -50,7 +50,7 @@ Le mot *coupé* tomba sur la table comme il était tombé dans le champ, sans é
 
 Voilà ce qu’elle était venue chercher sans le savoir, et ce qu’elle avait redouté de trouver : pour chaque poutre qui cédait en elle, Drahvel avait une poutre sèche à glisser dessous.
 
-Il n’avait pas vu le champ. Il n’avait pas vu Ferrec lever la tête vers un oiseau qui était vraiment là, ni son regard descendre avec l’ombre de cet oiseau, au bon endroit, au bon moment. Un homme d’accord avec ce qui existait, et qui lui avait sonné faux à elle tant elle cherchait le faux. Il n’avait pas eu sous les bottes la terre que cet homme retournait. Il avait un registre, et dans le registre Ferrec n’était qu’une ligne qu’on n’avait pas encore soldée.
+Il n’avait pas vu le champ. Il n’avait pas vu Ferrec lever la tête vers un oiseau qui était vraiment là, ni son regard descendre avec l’ombre de cet oiseau, au bon endroit, au bon moment. Un homme d’accord avec ce qui existait, et qui lui avait sonné faux à elle tant elle cherchait le faux. Il n’avait pas eu sous les bottes la terre que cet homme retournait. Dans son registre, Ferrec n’était qu’une ligne qu’on n’avait pas encore soldée.
 
 Rien ne l’empêchait de le lui dire. *Vous n’y étiez pas.* Sa clarté d’Inspectrice ne l’avait pas quittée, même là : elle savait que cela ne pèserait rien. Drahvel se méfiait justement de ce qu’on rapporte d’un champ. Un homme qui monte revient avec des visages plein la tête, et les visages faussent les sommes ; c’était sa doctrine, à un mot près de se dire. Il tenait le district à distance comme un chirurgien tient un corps sous un drap percé d’un seul trou à l’endroit du geste : on ne voit pas la personne, on n’entame que la chair.
 
@@ -90,9 +90,9 @@ Vaenor connaissait le chiffre. Tout le monde le connaissait ; il circulait dans
 
 C’était la première fois qu’il nommait devant elle l’ancienne impératrice, ce nom qui traînait dans Drahk’Nor comme un vieux remords dont personne ne savait plus l’objet : *la meilleure au mauvais moment*, celle qui aurait pu régner et n’avait pas régné, et à la place de laquelle il y avait eu tout ceci.
 
-Drahvel ne le disait pas en s’excusant. Il le posait comme la dernière pierre d’une preuve : à défaut d’une main juste, une main ferme ; à défaut de sagesse, de la doctrine ; et ne me reprochez pas d’être ce que le monde a obtenu faute de mieux. Il avait fait sa paix depuis longtemps avec le fait d’être un pis-aller, et cette paix-là ne se fissurait par aucun bout.
+Drahvel le posait comme la dernière pierre d’une preuve, sans s’excuser de rien : à défaut d’une main juste, une main ferme ; à défaut de sagesse, de la doctrine ; et ne me reprochez pas d’être ce que le monde a obtenu faute de mieux. Il avait fait sa paix depuis longtemps avec le fait d’être un pis-aller, et cette paix-là ne se fissurait par aucun bout.
 
-Puis il alla à un coffret posé sur la table basse, l’ouvrit et en tira un feuillet qu’il lui tendit. Pas le rapport qu’il corrigeait : un autre, épais, scellé du sceau des Cendres, l’encre encore fraîche.
+Puis il alla à un coffret posé sur la table basse, l’ouvrit et en tira un feuillet qu’il lui tendit : un autre que celui qu’il corrigeait, épais, scellé du sceau des Cendres, l’encre encore fraîche.
 
 « Voilà pourquoi je vous ai fait venir, dit-il. Lisez. »
 
@@ -114,11 +114,11 @@ Arrivée au bas, elle revint à l’article trois et le relut. Puis elle reposa 
 
 « Vous objectez, dit Drahvel. »
 
-Drahvel l’avait lu sur elle. Il lisait, lui aussi ; ils portaient la même veste et sortaient du même métier. Ferrec l’avait lue de la même façon, au fond de son champ. Chez Drahvel, c’était plus froid : il ne cherchait pas à la connaître, il cherchait à savoir si elle allait le gêner.
+Drahvel l’avait lu sur elle. Il lisait, lui aussi ; ils portaient la même veste et sortaient du même métier. Ferrec l’avait lue de la même façon, au fond de son champ. Chez Drahvel, c’était plus froid : il cherchait seulement à savoir si elle allait le gêner.
 
 « J’objecte », dit-elle.
 
-Sa voix resta basse. Elle ne l’avait jamais haussée ; ce matin, la tenir basse lui coûta, parce qu’il y avait dessous un champ, un homme qui bêchait, et un frère de dix-neuf ans dont elle avait soutenu la tête.
+Sa voix resta basse, comme toujours ; ce matin, la tenir basse lui coûta, parce qu’il y avait dessous un champ, un homme qui bêchait, et un frère de dix-neuf ans dont elle avait soutenu la tête.
 
 « L’article trois. L’apaisement préventif. » Elle posa ses mots un par un, avec la lenteur qu’elle avait vue à Ferrec et qui, ce matin, lui venait toute seule. « Tout notre fondement, préfet, celui qui fait de l’apaisement un soin et non un meurtre, c’est que le sujet est un mort en sursis. Qu’il va souffrir. Qu’on lui épargne. Retirez cela, retirez le fait qu’il est *déjà* condamné, et il ne reste que le geste. Un enfant qui ne montre aucun signe n’est pas un mort en sursis. Il est un enfant. Peut-être un Tisse un jour. Peut-être jamais. Le prendre, ce n’est pas l’épargner d’une agonie ; il n’a pas d’agonie ; c’est— »
 
@@ -158,7 +158,7 @@ L’aise s’éteignit.
 
 *
 
-« Vous savez ce que j’ai vu dans ce champ, préfet. » Elle ne le laissa pas répondre. Pour la première fois dans cette salle, c’était elle qui menait, non par le grade, elle ne l’avait pas, mais parce qu’elle tenait une chose qu’il n’avait pas, et cette chose lui tenait la voix. « Un homme qu’on a coupé en Phase 1, et qui vit. La femme qui l’a coupé lui a dit une phrase, il me l’a répétée, et je ne l’oublierai pas : *je peux couper, je peux pas promettre.* Elle en a coupé qui ont vécu. Elle en a coupé qui sont morts dans ses bras malgré tout. Elle sait couper. Elle ne sait pas qui vivra. »
+« Vous savez ce que j’ai vu dans ce champ, préfet. » Elle ne le laissa pas répondre. Dans cette salle, ce matin-là, c’était elle qui menait, sans en avoir le grade, parce qu’elle tenait une chose qu’il n’avait pas, et cette chose lui tenait la voix. « Un homme qu’on a coupé en Phase 1, et qui vit. La femme qui l’a coupé lui a dit une phrase, il me l’a répétée, et je ne l’oublierai pas : *je peux couper, je peux pas promettre.* Elle en a coupé qui ont vécu. Elle en a coupé qui sont morts dans ses bras malgré tout. Elle sait couper. Elle ne sait pas qui vivra. »
 
 « Une rumeur, dit Drahvel.
 
@@ -172,7 +172,7 @@ Elle s’arrêta, le temps de poser la dernière chose bien à plat.
 
 Un silence. Dehors, dans la cour, un cheval piaffa, quelqu’un parla, une porte se ferma.
 
-Drahvel la regarda longtemps, de ses yeux gris sans fond, et elle attendit. Non la colère : elle y avait renoncé. Le verdict, le trait de plume qui la rangerait, elle et son champ, dans la colonne des choses corrigées.
+Drahvel la regarda longtemps, de ses yeux gris sans fond, et elle attendit. La colère, elle y avait renoncé ; elle attendait le verdict, le trait de plume qui la rangerait, elle et son champ, dans la colonne des choses corrigées.
 
 « Vous avez peut-être raison, dit-il enfin. »
 
@@ -192,7 +192,7 @@ La pensée la tint immobile au milieu de la salle, tant elle était nette. Voil�
 
 Il ne me manque, pour être lui, qu’une seule chose : cesser de douter.
 
-Vaenor regarda son dos droit contre la fenêtre grise, ce dos qui ne portait pas de champ. Il ne doutait pas, et ce n’était ni dureté, ni cruauté, ni intelligence : elle était plus retorse que lui, elle qui savait redresser un registre du bout des doigts. Il avait choisi une fois pour toutes de ne regarder que le nombre, et un nombre n’a pas de visage. Son assurance était une amputation. Il s’était coupé quelque chose, lui aussi, comme la femme au cahier coupait ses mourants. Pas le Lien, il n’était pas Tisse : la faculté de voir un homme là où il y avait un chiffre. Cette coupure-là lui avait épargné les nuits que Vaenor ne dormait plus depuis un champ. Il vivait. Diminué. Sourd. Vivant. Comme Ferrec. Sauf que Ferrec avait pleuré le silence de ses morts, et que Drahvel ne savait même pas ce qu’on lui avait pris.
+Vaenor regarda son dos droit contre la fenêtre grise, ce dos qui ne portait pas de champ. Il ne doutait pas, et ce n’était ni dureté, ni cruauté, ni intelligence : elle était plus retorse que lui, elle qui savait redresser un registre du bout des doigts. Il avait choisi une fois pour toutes de ne regarder que le nombre, et un nombre n’a pas de visage. Son assurance était une amputation. Il s’était coupé quelque chose, lui aussi, comme la femme au cahier coupait ses mourants. Il n’était pas Tisse ; ce qu’il avait tranché était la faculté de voir un homme là où il y avait un chiffre. Cette coupure-là lui avait épargné les nuits que Vaenor ne dormait plus depuis un champ. Il vivait. Diminué. Sourd. Vivant. Comme Ferrec. Sauf que Ferrec avait pleuré le silence de ses morts, et que Drahvel ne savait même pas ce qu’on lui avait pris.
 
 « Vous ne signerez pas, dit-elle. »
 
@@ -224,7 +224,7 @@ C’était sa propre phrase, ou presque ; elle l’avait laissée dans un champ
 
 « Quand vous avez cessé de monter dans les champs, le jour où vous avez décidé de ne plus regarder que le nombre, est-ce que vous saviez, ce jour-là, ce que vous perdiez ? Ou est-ce que vous l’avez perdu sans le savoir ? »
 
-Drahvel la regarda. Pour la première fois depuis qu’elle était entrée, il y eut un temps avant sa réponse, et ce n’était pas une pause de calcul : l’hésitation courte d’un homme devant une porte qu’il n’ouvre pas souvent.
+Drahvel la regarda. Un temps passa avant sa réponse, le premier depuis qu’elle était entrée : l’hésitation courte d’un homme devant une porte qu’il n’ouvre pas souvent.
 
 « Je le savais, dit-il enfin. On sait toujours ce qu’on ampute, Inspectrice, à l’instant où on l’ampute. C’est après qu’on oublie. » Il reprit sa plume. « C’est même à cela qu’on reconnaît que c’est fait : on ne se souvient plus d’avoir eu mal. Vous, vous vous en souvenez encore. C’est pourquoi vous montez l’escalier de ma Préfecture avec un champ sur le visage, et c’est pourquoi vous redescendrez marquer les portes en pleurant dans un carnet que personne ne lira. Cela vous passera. À tous, cela passe. » La plume trouva sa ligne, se remit à rayer des chiffres. « Refermez la porte en sortant. Doucement. »
 
@@ -244,13 +244,13 @@ Il montait. Il était l’article trois fait homme.
 
 Dehors, la cour était grise, la plaine grise, le ciel bas et sourd. Loin à l’est, où l’on ne montait plus, l’horizon tremblait faiblement, comme au-dessus d’une pierre chauffée, à l’endroit des Failles.
 
-Dans la cour, elle détacha son cheval et se mit en selle. La fiole d’un côté du cœur, l’édit de l’autre, le carnet contre l’un des deux. Elle reprit la route du sud, celle qui descendait vers le delta, vers les marges d’Onara, vers une forge où une femme cachait une enfant. Ce n’était plus une enfant qu’elle allait chercher : un foyer, un sang, une porte à marquer d’un signe que la circulaire n’avait pas encore nommé.
+Dans la cour, elle détacha son cheval et se mit en selle. La fiole d’un côté du cœur, l’édit de l’autre, le carnet contre l’un des deux. Elle reprit la route du sud, celle qui descendait vers le delta, vers les marges d’Onara, vers une forge où une femme cachait une enfant. Elle allait chercher davantage qu’une enfant, désormais : un foyer, un sang, une porte à marquer d’un signe que la circulaire n’avait pas encore nommé.
 
 Elle avait objecté. Elle savait maintenant ce que valait une objection. Le préfet l’avait vue sur son visage, l’avait pesée, y avait donné raison, et avait signé quand même ; un district a besoin qu’on signe, et rien de ce qu’elle avait à offrir ne se signait. Son doute n’avait pas arrêté l’Édit d’une ligne. Il n’avait servi qu’à une chose : lui montrer, dans un dos droit contre une fenêtre, le visage exact de la femme qu’elle deviendrait le jour où le champ de Ferrec cesserait de la creuser. Une femme sûre, ferme, propre, la dernière main entre les vivants et le gouffre, et qui aurait oublié d’avoir eu mal.
 
 *Cela vous passera. À tous, cela passe.*
 
-Vers le sud, la phrase l’accompagna, au coin de tout ce qu’elle regardait, et pour la première fois Vaenor ne chercha pas à la mater. Elle la laissa. Tant qu’elle avait mal, elle n’était pas Drahvel ; et c’était tout ce qui lui restait contre la femme qu’un édit scellé lui commandait de devenir : cette douleur qu’on lui promettait passagère, le champ qui ne se rangeait nulle part, la poutre qui n’en finissait pas de céder, le silence de ce chiffre-là.
+Vers le sud, la phrase l’accompagna, au coin de tout ce qu’elle regardait, et Vaenor ne chercha pas à la mater. Elle la laissa. Tant qu’elle avait mal, elle n’était pas Drahvel ; et c’était tout ce qui lui restait contre la femme qu’un édit scellé lui commandait de devenir : cette douleur qu’on lui promettait passagère, le champ qui ne se rangeait nulle part, la poutre qui n’en finissait pas de céder, le silence de ce chiffre-là.
 
 Elle talonna son cheval et descendit vers les portes qu’elle allait devoir marquer.
 

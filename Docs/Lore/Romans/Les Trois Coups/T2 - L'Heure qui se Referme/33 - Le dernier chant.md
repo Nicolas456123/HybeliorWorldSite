@@ -16,15 +16,13 @@ Depuis trois jours elles gisaient au bout de ses bras, deux outils qu’un autre
 
 On l’avait couché près du feu. Quelqu’un venait le tourner, le faire boire, glisser sous ses reins un coussin de balle d’avoine ; il ne savait plus toujours qui. Les visages se succédaient au-dessus de lui, penchés, inquiets, un peu effrayés de veiller un homme qu’ils avaient tenu pour un saint et qui n’était plus qu’un vieux corps refroidissant par le bas. Il les remercia tant qu’il eut la voix. Puis la voix se mit à lui coûter, il cessa de remercier, et ils crurent qu’il dormait.
 
-Il ne dormait pas.
-
 Il écoutait.
 
 *
 
 La chambre s’était ouverte comme elle ne s’était jamais ouverte de toute sa vie, maintenant, au bout, dans ce corps qui le lâchait membre après membre.
 
-Il ne l’avait pas voulu. Il n’avait plus rien à payer depuis longtemps : le nez ne saignait plus, parce qu’il n’y avait plus rien à tirer du fil, plus d’effort possible, plus de note à pousser vers un coin. Et la chambre s’ouvrait quand même. Toute seule, sans qu’il tendît rien, comme un loquet qui finit par céder à force d’être poussé du dehors. Par elle entrait, non plus une insistance basse dans un angle de remise, mais le chœur. Celui qu’il avait entendu pour la première fois deux hivers plus tôt, sur le rocher plat au-dessus de la vallée, quand il n’en attrapait pas trois mots de suite. Et qui, ce soir, emplissait tout.
+Il ne l’avait pas voulu. Il n’avait plus rien à payer depuis longtemps : le nez ne saignait plus, parce qu’il n’y avait plus rien à tirer du fil, plus d’effort possible, plus de note à pousser vers un coin. Et la chambre s’ouvrait quand même. Toute seule, sans qu’il tendît rien, comme un loquet qui finit par céder à force d’être poussé du dehors. Par elle entrait le chœur. Celui qu’il avait entendu pour la première fois deux hivers plus tôt, sur le rocher plat au-dessus de la vallée, quand il n’en attrapait pas trois mots de suite. Et qui, ce soir, emplissait tout.
 
 Ils étaient là. Ils étaient partout. Fini d’être loin sur les côtés du monde : ils étaient dans la chambre avec lui, penchés sur lui comme les vivants sur son grabat. À mesure que son corps se retirait vers le centre, à mesure que ses mains, ses avant-bras, ses pieds cessaient d’être à lui, il lui semblait recevoir en échange une part de plus du chœur, comme si le corps n’avait jamais été que le mur qui l’empêchait d’entendre pour de bon.
 
@@ -46,7 +44,7 @@ Il n’avait pas su qu’il parlait. Sa bouche allait encore, apparemment, et c�
 
 — Chut. »
 
-Ombreth aurait voulu leur dire de ne pas s’inquiéter, que ce n’étaient pas des noms, qu’il n’y avait pas de noms là où il regardait, seulement des poids et des directions, et maintenant, pour la première fois, des heures. Chaque voix du chœur avait son heure, sa lumière, sa saison. C’était cela qu’il essayait de dire tout haut, dans le langage pauvre des vivants qui n’avait pas les mots, et qui ressortait par sa bouche en syllabes que les veilleurs prenaient pour des noms étrangers.
+Ombreth aurait voulu leur dire de ne pas s’inquiéter, que ce n’étaient pas des noms, qu’il n’y avait pas de noms là où il regardait, seulement des poids et des directions, et maintenant des heures. Chaque voix du chœur avait son heure, sa lumière, sa saison. C’était cela qu’il essayait de dire tout haut, dans le langage pauvre des vivants qui n’avait pas les mots, et qui ressortait par sa bouche en syllabes que les veilleurs prenaient pour des noms étrangers.
 
 Il fit un effort. Dans sa gorge, il rassembla ce qui lui restait.
 
@@ -74,9 +72,9 @@ Pour Ombreth, c’était une morte qui avait perdu son enfant. Cela suffit à lu
 
 — Celle du soir. Celle de la cloche. » Sa voix baissait ; chaque mot en prenait un peu de ce qui restait. « Elle cherche sa petite à un endroit qui n’est pas le bon. Elle croit que c’est le champ. Ce n’est plus le champ. »
 
-Les veilleurs se regardèrent. Il ne les voyait déjà plus très bien : le noir montait par les bords des yeux, ce point noir qui dansait autrefois au bord de sa vue quand il avait trop chanté, et qui maintenant ne dansait plus, s’installait, s’élargissait, mangeait la chambre par les côtés. Mais il sentit ce qu’ils pensaient. Ils pensaient : *il délire*. Ils pensaient : *le vieux chamane s’en va, et son esprit part devant lui, cela arrive, il faut le laisser aller doucement.*
+Les veilleurs se regardèrent. Il ne les voyait déjà plus très bien : le noir montait par les bords des yeux, ce point noir qui dansait autrefois au bord de sa vue quand il avait trop chanté, et qui maintenant s’installait, s’élargissait, mangeait la chambre par les côtés. Mais il sentit ce qu’ils pensaient. Ils pensaient : *il délire*. Ils pensaient : *le vieux chamane s’en va, et son esprit part devant lui, cela arrive, il faut le laisser aller doucement.*
 
-Ils avaient tort. Jamais de sa vie il n’avait été aussi clair. Toute son existence il avait entendu à travers un mur, à travers le sang, à travers l’effort et la douleur, et n’avait jamais attrapé qu’un lambeau de ce qui se disait. Voilà que le mur tombait, que l’effort n’était plus nécessaire, que le chœur entrait à flots dans une chambre enfin grande ouverte, et personne, dans la pièce, ne pouvait le suivre là où il allait.
+Ils avaient tort. Jamais de sa vie il n’avait été aussi clair. Il avait entendu toute son existence à travers un mur, à travers le sang, à travers l’effort et la douleur, et n’avait jamais attrapé qu’un lambeau de ce qui se disait. Voilà que le mur tombait, que l’effort n’était plus nécessaire, que le chœur entrait à flots dans une chambre enfin grande ouverte, et personne, dans la pièce, ne pouvait le suivre là où il allait.
 
 Ce fut sa dernière solitude, et la pire. Il entendait enfin, pleinement, ce que personne autour de lui n’entendrait jamais, et il ne pouvait le partager avec aucun des vivants penchés sur lui, qui prenaient sa clarté pour du délire et son entente pour de l’agonie. Il avait passé sa vie seul au milieu des morts. Il mourrait seul au milieu de ce qui n’étaient pas des morts, sans le savoir.
 
@@ -84,7 +82,7 @@ Ce fut sa dernière solitude, et la pire. Il entendait enfin, pleinement, ce que
 
 Ils étaient trop, maintenant.
 
-C’était cela qui commençait à l’effrayer, lui que rien n’effrayait plus. Ce n’était plus un chœur : c’était une foule. À mesure que la chambre s’ouvrait, il en venait, et il en venait encore, des voix par centaines, par milliers peut-être, chacune dans son heure, chacune appelant de sa saison propre, et elles ne s’accordaient sur rien, jamais, sur aucune année, sur aucun côté du désastre. L’une parlait d’un monde plein, de cités debout, de portails qui chantaient, un monde qu’Ombreth ne reconnaissait pas, plus vieux que les récits les plus vieux de sa lignée ; et cette voix-là ne comprenait pas ce qui montait en elle, une douleur qui n’existait pas dans son monde, et elle demandait, terrifiée, ce qu’elle avait fait pour mériter de sentir ce qu’elle sentait. Une autre parlait d’un temps si loin devant qu’elle n’avait presque plus de mots, une voix trouée de partout, qui disait *une pierre*, qui disait *un battement*, qui disait *un enfant qui entend*, et se taisait.
+C’était cela qui commençait à l’effrayer, lui que rien n’effrayait plus. Une foule. À mesure que la chambre s’ouvrait, il en venait, et il en venait encore, des voix par centaines, par milliers peut-être, chacune dans son heure, chacune appelant de sa saison propre, et elles ne s’accordaient sur rien, jamais, sur aucune année, sur aucun côté du désastre. L’une parlait d’un monde plein, de cités debout, de portails qui chantaient, un monde qu’Ombreth ne reconnaissait pas, plus vieux que les récits les plus vieux de sa lignée ; et cette voix-là ne comprenait pas ce qui montait en elle, une douleur qui n’existait pas dans son monde, et elle demandait, terrifiée, ce qu’elle avait fait pour mériter de sentir ce qu’elle sentait. Une autre parlait d’un temps si loin devant qu’elle n’avait presque plus de mots, une voix trouée de partout, qui disait *une pierre*, qui disait *un battement*, qui disait *un enfant qui entend*, et se taisait.
 
 Et toutes poussaient dans le noir contre un mur qui n’était pas un mur, en croyant que le noir n’avait pas d’autre côté.
 
@@ -118,13 +116,13 @@ Il n’y avait pas de note.
 
 Ou plutôt il y en avait trop. C’était là l’impossible, ce qu’aucun Chamane de sa lignée n’avait eu à affronter et qu’il affrontait seul, le dernier, au bout de la file. Il savait prendre la note d’un mort : une seule, la sienne, le poids exact de son insistance à lui, et la lui chanter jusqu’au bout. Il ne savait pas prendre la note de mille. Personne n’aurait su prendre celle d’une foule qui ne s’accordait sur rien, qui appelait de mille heures différentes, et dont chacune voulait une chanson que les autres empêchaient d’entendre. Il chercha quand même. C’était son métier, sa lignée, et sa mort ; il n’allait pas mourir sans l’avoir tenté.
 
-Il commença bas. Très bas : non plus une note, à ce point, mais un souffle timbré, tout ce que son diaphragme à moitié pris pouvait encore pousser, une vibration posée au fond d’une gorge qui se fermait. Il ne chercha pas la note d’un. Il chercha celle de dessous, la basse qui tenait sous toutes les autres, celle sur laquelle ces heures désaccordées reposaient peut-être sans le savoir, comme mille cloches de villages différents sonnent quand même toutes dans le même ciel. Il chercha le ciel sous les cloches. Il chercha ce qu’il pouvait y avoir de commun entre une paysanne d’avant les temps et une voix trouée du fond de l’avenir, et entre toutes celles du milieu, et il crut, un instant, le toucher.
+Il commença bas. Très bas : un souffle timbré, tout ce que son diaphragme à moitié pris pouvait encore pousser, une vibration posée au fond d’une gorge qui se fermait. Il chercha la note de dessous, la basse qui tenait sous toutes les autres, celle sur laquelle ces heures désaccordées reposaient peut-être sans le savoir, comme mille cloches de villages différents sonnent quand même toutes dans le même ciel. Il chercha le ciel sous les cloches. Il chercha ce qu’il pouvait y avoir de commun entre une paysanne d’avant les temps et une voix trouée du fond de l’avenir, et entre toutes celles du milieu, et il crut, un instant, le toucher.
 
-Ce fut très bas, et très simple, et cela ne ressemblait à aucune chanson. C’était la note de rentrer. Rien d’autre. Celle qui dit : *tu peux revenir à ta place, il y a une place, elle t’attend, elle a toujours été là.* Il ne pouvait pas savoir qu’aucune de ces voix n’avait de place où rentrer, qu’elles n’étaient pas des morts égarés hors du monde mais des vivants égarés hors de leur temps, et que la porte qu’il leur chantait, cette porte vers l’ailleurs des morts, n’existait pour aucune d’elles. Il chantait à des déplacés la chanson des trépassés.
+Ce fut très bas, et très simple, et cela ne ressemblait à aucune chanson. C’était la note de rentrer. Rien d’autre. Celle qui dit : *tu peux revenir à ta place, il y a une place, elle t’attend, elle a toujours été là.* Il ne pouvait pas savoir qu’aucune de ces voix n’avait de place où rentrer, qu’elles étaient des vivants égarés hors de leur temps, et que la porte qu’il leur chantait, cette porte vers l’ailleurs des morts, n’existait pour aucune d’elles. Il chantait à des déplacés la chanson des trépassés.
 
 Et quelque chose répondit.
 
-Pas ce qu’il croyait. Les voix ne rentrèrent nulle part ; aucune porte ne s’ouvrit, parce qu’aucune d’elles n’avait de porte. Mais elles se turent, un instant, une à une, comme on se tait dans une salle bruyante quand quelqu’un se met à chanter très juste et très bas. Elles l’entendirent. Aucun vivant dans la chambre ne le perçut ; lui seul le sut et l’emporta. À travers toutes les heures, à travers tous les côtés du désastre, la foule désaccordée des perdus du temps entendit passer une note qui venait d’un homme en train de mourir dans une seule heure, ancré dans un seul temps, à sa seule place ; et pour un souffle, un seul, elle cessa de pousser dans le noir. Elle écouta. Sans comprendre d’où cela venait, elle sut qu’il existait quelque part quelqu’un qui était à sa place, et pour des gens qui n’étaient plus à la leur, cela valait mieux qu’une porte.
+Les voix ne rentrèrent nulle part ; aucune porte ne s’ouvrit, parce qu’aucune d’elles n’avait de porte. Mais elles se turent, un instant, une à une, comme on se tait dans une salle bruyante quand quelqu’un se met à chanter très juste et très bas. Elles l’entendirent. Aucun vivant dans la chambre ne le perçut ; lui seul le sut et l’emporta. À travers toutes les heures, à travers tous les côtés du désastre, la foule désaccordée des perdus du temps entendit passer une note qui venait d’un homme en train de mourir dans une seule heure, ancré dans un seul temps, à sa seule place ; et pour un souffle, un seul, elle cessa de pousser dans le noir. Elle écouta. Sans comprendre d’où cela venait, elle sut qu’il existait quelque part quelqu’un qui était à sa place, et pour des gens qui n’étaient plus à la leur, cela valait mieux qu’une porte.
 
 Le pont tint un souffle. Puis il n’eut plus de souffle.
 
@@ -144,7 +142,7 @@ Il aurait voulu répondre : *pour tout le monde. Pour ceux qui n’ont plus d�
 
 *
 
-Ce n’était plus à la jeune femme qu’il parlait.
+Il parlait à quelqu’un d’autre.
 
 C’était à une enfant qu’il n’avait vue qu’une fois, loin vers l’ouest, dans une forge à demi enterrée où l’on refusait les métaphores. Une petite qui parlait à personne parce qu’elle entendait quelqu’un, la seule, en toute sa quête, en tout Alkaran et au-delà, qu’il eût trouvée avec la chambre au bon endroit. Lirenn. Il n’avait pas oublié son nom.
 
@@ -168,9 +166,9 @@ On crut qu’il commandait à quelqu’un dans la pièce.
 
 La jeune femme se pencha, tendit l’oreille, chercha ce qu’il fallait écouter et n’entendit que le feu, et le vent dehors, et le silence d’un hameau de montagne la nuit. Elle ne comprit pas. Aucun d’eux ne comprit. Ils virent le vieux chamane retomber contre le mur, très doucement, la tête un peu de côté, et ils crurent d’abord qu’il dormait enfin, du sommeil qu’ils appelaient sur lui depuis des heures.
 
-Ce n’était pas à eux qu’il avait parlé. Ce n’était même plus tout à fait à Lirenn. C’était à la chambre elle-même, à ce qui restait de la longue file de gens de sa lignée qui l’avaient précédé dans la terre d’Alkaran, à sa mère et à la mère de sa mère et à tous ceux, remontant plus loin que les noms, qui avaient tenu les portes des morts en payant chacun de son temps. Un ordre, un legs, la seule consigne qui vaille pour ceux qui entendent : *écoute. Quoi qu’on te donne, si peu que ce soit. C’est tout ce qu’on peut faire pour eux, et c’est tout ce qu’ils demandent : quelqu’un, quelque part, qui écoute.*
+Il avait parlé par-delà eux, par-delà Lirenn même : à la chambre, à ce qui restait de la longue file de gens de sa lignée qui l’avaient précédé dans la terre d’Alkaran, à sa mère et à la mère de sa mère et à tous ceux, remontant plus loin que les noms, qui avaient tenu les portes des morts en payant chacun de son temps. Un ordre, un legs, la seule consigne qui vaille pour ceux qui entendent : *écoute. Quoi qu’on te donne, si peu que ce soit. C’est tout ce qu’on peut faire pour eux, et c’est tout ce qu’ils demandent : quelqu’un, quelque part, qui écoute.*
 
-Puis la marée qui montait par le bas atteignit enfin le centre. Elle gagna la chambre, la vraie, celle du sternum, celle où logeaient les morts, et pour la première fois Ombreth la sentit non plus se remplir mais se vider : d’un coup, entièrement, tous ses occupants rendus à leurs portes dans le même souffle, le vieux de la remise, la femme aux tilleuls, le chœur, la foule, la paysanne qui cherchait sa fille, la voix trouée du fond des temps qui disait *un battement*, tous ensemble, dans un immense apaisement qu’il n’avait jamais offert à personne parce qu’on ne se chante pas à soi-même, et que voilà, quelqu’un le lui chantait.
+Puis la marée qui montait par le bas atteignit enfin le centre. Elle gagna la chambre, la vraie, celle du sternum, celle où logeaient les morts, et Ombreth la sentit se vider : d’un coup, entièrement, tous ses occupants rendus à leurs portes dans le même souffle, le vieux de la remise, la femme aux tilleuls, le chœur, la foule, la paysanne qui cherchait sa fille, la voix trouée du fond des temps qui disait *un battement*, tous ensemble, dans un immense apaisement qu’il n’avait jamais offert à personne parce qu’on ne se chante pas à soi-même, et que voilà, quelqu’un le lui chantait.
 
 Il n’entendit pas qui. Il n’y avait personne. Il l’entendit quand même.
 

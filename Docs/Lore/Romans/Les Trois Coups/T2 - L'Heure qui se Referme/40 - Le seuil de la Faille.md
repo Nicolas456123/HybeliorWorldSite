@@ -25,7 +25,7 @@ C’est la chose qu’on remarque d’abord, même d’où je suis, où l’on r
 
 Je sais ce que c’est. Vous ne le savez peut-être plus, alors je le dis : c’est un jeton de passage. On en portait un pour entrer sous les arches. On le tendait au gardien, il le lisait, et l’arche vous prenait et vous rendait à mille lieues sans que vous tombiez. Ces gens-là ont retrouvé le geste. Ils ont refait les jetons de mémoire, avec du bronze fondu et un trou percé au poinçon, et ils les portent au cou comme si les arches allaient les reconnaître.
 
-Il n’y a plus d’arches. Plus aucune, depuis le froid, depuis l’heure qui a déchiré. Et ces gens-là ne marchent pas vers une arche : ils marchent vers une déchirure, qui n’a pas de gardien et qui ne lit aucun jeton. Ils croient que c’est pareil. Ils croient qu’elle les prendra comme l’arche prenait, doucement, et qu’elle les rendra de l’autre côté. Pas de l’autre côté de la plaine. De l’autre côté du temps. Avant le froid. Dans le monde plein, celui où personne n’est seul, celui où la mort est un lavoir.
+Il n’y a plus d’arches. Plus aucune, depuis le froid, depuis l’heure qui a déchiré. Et ces gens-là marchent vers une déchirure, qui n’a pas de gardien et qui ne lit aucun jeton. Ils croient que c’est pareil. Ils croient qu’elle les prendra comme l’arche prenait, doucement, et qu’elle les rendra de l’autre côté du temps. Avant le froid. Dans le monde plein, celui où personne n’est seul, celui où la mort est un lavoir.
 
 Je connais ce monde. Je viens peut-être de là. Ou j’y vais. Je ne sais plus lequel des deux, et voilà pourquoi je ne peux rien leur dire, même si je le voulais, même si ma voix passait jusqu’à eux : je ne sais pas si l’endroit où ils veulent aller est un endroit où l’on arrive.
 
@@ -59,7 +59,7 @@ Et Tarn hoche la tête, parce que c’est bien trouvé, et parce qu’il n’a p
 
 Quand le soleil baisse, ils font halte, et Tarn ne peut plus tenir sa cuillère.
 
-Une des femmes le nourrit. Son nom, je ne le saisis pas ; il se troue, il me manque, non parce que je l’oublie mais parce qu’il n’est pas encore, ou plus, dans le temps où je suis. Une femme, disons, avec des mains douces et une robe du vieil âge. Elle porte la cuillère aux lèvres de Tarn comme à un enfant, et Tarn se laisse faire, et c’est cela qui me serre, si j’ai encore de quoi être serrée : un homme fait qui se laisse nourrir sans honte, parce qu’il a décidé de ne plus avoir de honte, parce qu’il a lâché le monde où l’on a honte.
+Une des femmes le nourrit. Son nom, je ne le saisis pas ; il se troue, il me manque, parce qu’il n’est pas encore, ou plus, dans le temps où je suis. Une femme, disons, avec des mains douces et une robe du vieil âge. Elle porte la cuillère aux lèvres de Tarn comme à un enfant, et Tarn se laisse faire, et c’est cela qui me serre, si j’ai encore de quoi être serrée : un homme fait qui se laisse nourrir sans honte, parce qu’il a décidé de ne plus avoir de honte, parce qu’il a lâché le monde où l’on a honte.
 
 « Vous étiez quoi ? » lui demande la femme. « Avant. »
 
@@ -71,7 +71,7 @@ La femme ne dit rien. Une autre cuillère, qu’elle porte aux lèvres.
 
 « Et l’autre voie ? » demande la femme, tout bas. « La leur. La veste grise, la fiole. »
 
-« L’apaisement. » Tarn dit le mot comme on tient un charbon. « Une Inspectrice est passée dans mon bourg. Une femme calme, qui ne haussait jamais la voix. Elle m’a expliqué qu’à la fin je crierais sans savoir que je criais, et qu’elle m’épargnerait ça. » Il rouvre les yeux. « Elle voulait que je m’endorme un soir dans une grange, sans savoir que c’était le soir. Je n’en ai pas voulu. Si je dois passer une porte, je veux la passer debout, et savoir que je la passe. » Il regarde au loin la déchirure, qui bat doucement dans l’air couchant. « Alors je marche vers celle-là. Au moins, celle-là, elle mène quelque part. »
+« L’apaisement. » Tarn dit le mot comme on tient un charbon. « Une Inspectrice est passée dans mon bourg. Une femme calme, qui parlait bas et posément. Elle m’a expliqué qu’à la fin je crierais sans savoir que je criais, et qu’elle m’épargnerait ça. » Il rouvre les yeux. « Elle voulait que je m’endorme un soir dans une grange, sans savoir que c’était le soir. Je n’en ai pas voulu. Si je dois passer une porte, je veux la passer debout, et savoir que je la passe. » Il regarde au loin la déchirure, qui bat doucement dans l’air couchant. « Alors je marche vers celle-là. Au moins, celle-là, elle mène quelque part. »
 
 Personne, autour du feu, ne lui dit que non. Personne ne sait si c’est non. Moi je sais et je ne sais pas en même temps, et ça ne fait pas un savoir.
 
@@ -81,7 +81,7 @@ Je m’aperçois qu’ils arrivent à ceci : je vais mieux.
 
 C’est comme ça que je les reconnais, les déchirures. Elles ne montrent rien, mais plus j’en suis près, moins je flotte. Le brouillard se lève d’un doigt. J’ai presque une heure à moi, presque un jour de la semaine, et il me semble une seconde que je pourrais dire *nous sommes aujourd’hui* et le dire juste. Puis ça repart. C’est ma seule boussole et elle ne sert à rien : elle m’apprend qu’une porte est tout près, jamais de quel côté je me tiens.
 
-Ce que les sept voient, eux, ce n’est presque rien. Une bande de plaine, large comme une rue, où l’herbe penche dans l’autre sens, couchée par un vent qui ne souffle pas de ce côté-ci. Et pas un bruit. Je le sais mieux que personne : j’en ai franchi une, je crois, et je n’ai rien entendu du tout, ni en entrant ni en sortant. Un homme peut marcher droit dedans en croyant marcher droit devant lui. Le sol tremble un peu quand on approche, un frisson, et de l’autre côté du frisson il n’y a plus de sol, plus de plaine, plus d’heure. Il y a l’autre chose. Le rien qui n’est pas un lieu.
+Ce que les sept voient, eux, ce n’est presque rien. Une bande de plaine, large comme une rue, où l’herbe penche dans l’autre sens, couchée par un vent qui ne souffle pas de ce côté-ci. Et pas un bruit. Je le sais mieux que personne : j’en ai franchi une, je crois, et je n’ai rien entendu du tout, ni en entrant ni en sortant. Un homme peut marcher droit dedans en croyant marcher droit devant lui. Le sol tremble un peu quand on approche, un frisson, et de l’autre côté du frisson il n’y a plus de sol, plus de plaine, plus d’heure. L’autre chose commence. Le rien qui n’est pas un lieu.
 
 Les sept s’arrêtent au bord. Le Portier lève une main.
 
@@ -155,7 +155,7 @@ Le Portier l’aide à se lever. Tarn ne tient plus sur ses jambes ; deux des s
 
 Le garçon ne bouge pas. Il est resté là où Tarn l’a laissé, dos tourné à la porte maintenant, face à la plaine, comme un guetteur à qui on aurait donné une consigne et qui la tient parce que c’est tout ce qui lui reste à tenir. Il regarde le rien. Il regarde l’endroit où il n’y a personne, où il y a quelqu’un, et ses lèvres remuent, et il ne parle à personne, comme moi, comme nous tous, comme cette enfant au lavoir dont je crois me souvenir alors qu’elle n’est pas encore, ou plus, dans mon temps.
 
-Au bord, Tarn tourne la tête une dernière fois. Pas vers le garçon. Vers rien de précis. Vers l’air, comme s’il cherchait, lui aussi, ce que le garçon a senti. Et je vois. Je vois ça, et je ne pourrai jamais le dire à personne qui me croie. Je vois son visage changer à son tour, à l’instant du seuil ; je vois la fatigue douce s’en aller et autre chose venir, qui n’est ni la peur ni la paix : l’expression d’un homme qui, au moment de passer une porte qu’il croyait vide, s’aperçoit qu’il y a quelqu’un de l’autre côté, quelqu’un qui l’attendait, quelqu’un qui était là depuis le début.
+Au bord, Tarn tourne la tête une dernière fois. Vers rien de précis. Vers l’air, comme s’il cherchait, lui aussi, ce que le garçon a senti. Et je vois. Je vois ça, et je ne pourrai jamais le dire à personne qui me croie. Je vois son visage changer à son tour, à l’instant du seuil ; je vois la fatigue douce s’en aller et autre chose venir, qui n’est ni la peur ni la paix : l’expression d’un homme qui, au moment de passer une porte qu’il croyait vide, s’aperçoit qu’il y a quelqu’un de l’autre côté, quelqu’un qui l’attendait, quelqu’un qui était là depuis le début.
 
 Sa bouche s’ouvre. Peut-être qu’il dit un nom. Peut-être qu’il dit *vous*. Peut-être qu’il ne dit rien.
 
@@ -173,7 +173,7 @@ Je vous ai dit que là où je suis on ne connaît pas les côtés, qu’on ne sa
 
 Alors de deux choses l’une. Ou bien il est allé dans un temps si loin, si à l’écart, que même moi je n’y ai pas d’oreille : un temps sans référent, un temps qui n’a pas encore de mots pour se dire, et il pousse là sa douleur en silence, comme une graine à contre-saison dans une terre qui n’existe pas.
 
-Ou bien le garçon avait raison. Ou bien il y avait quelqu’un. Quelqu’un qui n’entre pas dans le temps par les déchirures comme nous, en s’y perdant, mais qui l’habite, qui va d’un siècle à l’autre chez lui, et qui, à ceux qui franchissent le seuil, mange le quand. Leur ôte l’ordre. Les prend enfant, homme et mort dans le même regard, et les garde là, hors de toute heure, de sorte qu’on ne peut plus les pleurer, plus les attendre, plus les entendre, et que leur nom ne s’écrit dans le registre d’aucun temps.
+Ou bien le garçon avait raison. Ou bien il y avait quelqu’un. Quelqu’un qui habite le temps au lieu de s’y perdre comme nous, qui va d’un siècle à l’autre chez lui, et qui, à ceux qui franchissent le seuil, mange le quand. Leur ôte l’ordre. Les prend enfant, homme et mort dans le même regard, et les garde là, hors de toute heure, de sorte qu’on ne peut plus les pleurer, plus les attendre, plus les entendre, et que leur nom ne s’écrit dans le registre d’aucun temps.
 
 Je n’en sais rien, et je n’ai pas de quoi trancher. Mais je vous dis ceci, et c’est tout ce dont je sois sûre dans ce qui flotte : quand Tarn a franchi le seuil, il a ouvert la bouche comme on l’ouvre pour saluer quelqu’un qu’on reconnaît. Et de ce côté-ci, il n’y avait personne à saluer.
 
@@ -187,7 +187,7 @@ Il faudra qu’il rentre. Il faudra qu’il traverse la plaine de nuit en évita
 
 Je ne me transmets pas davantage. Vous m’écoutez sans savoir d’où je parle ; je vous parle sans savoir quand. C’est comme ça entre nous, et ça ne se recoud pas.
 
-Le garçon se lève enfin. Il glisse le jeton de bronze à son cou, sur le fil de laine, non pour entrer un jour, car il n’entrera pas ; je crois qu’il n’entrera jamais, ceux qui ont senti le regard n’entrent pas. Il le met là pour se souvenir, pour porter contre sa poitrine le poids de ceux qui sont passés vers on ne sait où.
+Le garçon se lève enfin. Il glisse le jeton de bronze à son cou, sur le fil de laine, pour se souvenir, pour porter contre sa poitrine le poids de ceux qui sont passés vers on ne sait où. Il n’entrera pas ; je crois qu’il n’entrera jamais, ceux qui ont senti le regard n’entrent pas.
 
 Il part vers l’est, vers l’ombre, vers le bourg, vers la vie diminuée qui l’attend et qui est quand même une vie.
 

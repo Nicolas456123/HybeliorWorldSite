@@ -81,7 +81,7 @@ Herec attendit sans rien dire, de cette manière qui laisse la place.
 
 *
 
-Le prêtre ne bougea pas. Ses traits ne marquèrent pas la surprise ; ils marquèrent autre chose, que Merric mit un temps à reconnaître, et qui était la joie d’un homme entendant sa langue sur une route étrangère.
+Le prêtre ne bougea pas. Ses traits marquèrent une chose que Merric mit un temps à reconnaître, et qui était la joie d’un homme entendant sa langue sur une route étrangère.
 
 « Continuez », dit-il, et sous le mot il y avait une faim qu’il retenait.
 
@@ -109,7 +109,7 @@ Merric le regarda. Derrière eux, la brume recommença son mouvement.
 
 « C’est écrit, ça ?
 
-— C’est répété. On brûle les cahiers, batelier ; on ne brûle pas ce qu’un homme redit à un autre. » Herec eut un demi-sourire sans joie. « Depuis quinze siècles, de bouche en bouche, cette parole marche. On l’appelle, chez nous, l’Étranger des Heures. Celui qui était là, dans l’ombre, à la rupture. Il n’a pas coupé le fil lui-même, car le fil, ce sont des hommes fous et savants qui l’ont coupé ; mais il *a laissé faire.* Ou il a poussé la main. Ou il attendait l’instant où la main tremblerait, pour la refermer sur la lame. » Il regarda la Plaine. « Et cette nuit, vous, un batelier qui n’a jamais lu une ligne, vous me dites qu’au bord d’une déchirure quelqu’un vous a regardé de derrière. Vous rendez-vous compte de ce que vous me confirmez ? »
+— C’est répété. On brûle les cahiers, batelier ; on ne brûle pas ce qu’un homme redit à un autre. » Herec eut un demi-sourire. « Depuis quinze siècles, de bouche en bouche, cette parole marche. On l’appelle, chez nous, l’Étranger des Heures. Celui qui était là, dans l’ombre, à la rupture. Il n’a pas coupé le fil lui-même, car le fil, ce sont des hommes fous et savants qui l’ont coupé ; mais il *a laissé faire.* Ou il a poussé la main. Ou il attendait l’instant où la main tremblerait, pour la refermer sur la lame. » Il regarda la Plaine. « Et cette nuit, vous, un batelier qui n’a jamais lu une ligne, vous me dites qu’au bord d’une déchirure quelqu’un vous a regardé de derrière. Vous rendez-vous compte de ce que vous me confirmez ? »
 
 *
 
@@ -121,7 +121,7 @@ Merric eut froid à la nuque, et ce n’était pas la nuit. Il connaissait la pe
 
 — Non. » Merric s’entêta sans savoir sur quoi ; seulement il y avait, entre ce qu’il avait senti et ce que l’autre en faisait, un écart, un tout petit écart, et il y tenait comme il tenait au battement de sa lanterne, une chose que personne ne voyait et qui changeait tout. « Sur l’eau, mon père, une largeur de main à la perche, ça décide si vous accostez ou si vous descendez au fil. Moi, j’ai senti quelqu’un. Vous, vous lui donnez un nom, une histoire, une colère. Vous lui donnez une raison de nous en vouloir. J’ai pas senti de colère. J’ai senti de l’attention. Je fais bien attention à une fourmi avant de poser le pied, et je la hais pas pour ça. »
 
-Herec le considéra, et son visage doux ne se ferma pas ; au contraire, il s’éclaira, comme si Merric venait de dire mieux qu’il n’espérait.
+Herec le considéra, et son visage doux s’éclaira, comme si Merric venait de dire mieux qu’il n’espérait.
 
 « Vous avez raison, dit le prêtre, et vous ne mesurez pas à quel point. » Il se pencha encore. « Ce qui vous regarde souffrir sans rien vous vouloir, comme on regarde couler du sable, les vieux textes l’appellent la vengeance d’en haut : elle ne crie pas, elle ne hait pas, elle remet en place. Nous avons coupé le fil du monde, jadis, par orgueil ; et depuis quinze siècles, quelqu’un que nous n’avons pas vu défait ce que nous avons fait, village par village, en nous regardant comme on regarde le sable. Vous venez de le sentir. Vous êtes un témoin. »
 
@@ -151,7 +151,7 @@ Un instant, il laissa cela flotter, puis :
 
 — Vous le répéterez. » Le prêtre n’y mit aucun triomphe. Il l’annonça comme on annonce à quelqu’un une chose qu’il ne voit pas encore sur lui-même. « Pas à moi. À d’autres. À la veste grise, demain, vous ne direz rien : on ne parle pas de ces choses aux vestes grises. Mais après-demain, à un passeur d’en aval, à un homme qui aura perdu sa fille sur la Plaine et qui viendra pleurer sur votre rive parce que c’est là qu’on vient pleurer, à celui-là, vous direz : *j’ai senti quelqu’un derrière la Faille. Quelqu’un qu’on n’a pas vu.* Et il vous croira, parce qu’il a besoin qu’il y ait quelqu’un. Un ennemi, on peut le prier. Lui demander grâce. Lui envoyer un homme en rouge qui entre dans la Faille pour parlementer en notre nom. Une plaie, on ne lui demande rien. » Herec eut son demi-sourire. « Voilà pourquoi c’est ma parole qui marchera, et pas les leurs. Pas parce qu’elle est plus vraie. Parce qu’elle laisse quelque chose à faire aux vivants. »
 
-Merric se tut. Il regardait l’homme en rouge, et il vit très clairement ce qui allait arriver, non par une vision, il n’avait pas ce don, mais par le bon sens d’un homme qui a passé quatorze ans à regarder les gens entrer et ne pas ressortir. Cet homme entrerait dans la Faille au matin. Il n’en ressortirait pas. Et sa parole ne finirait pas là : elle commencerait. On dirait : *le prêtre de la Colère est entré parlementer avec l’Étranger, et il n’est pas revenu, donc l’Étranger existe.* On tiendrait son absence pour une preuve, comme on venait de tenir la nuit d’un batelier pour une preuve. Personne n’irait vérifier : vérifier, ici, c’était entrer, et entrer, c’était ne pas revenir.
+Merric se tut. Il regardait l’homme en rouge, et il vit très clairement ce qui allait arriver, par le bon sens d’un homme qui a passé quatorze ans à regarder les gens entrer et ne pas ressortir. Cet homme entrerait dans la Faille au matin. Il n’en ressortirait pas. Et sa parole ne finirait pas là : elle commencerait. On dirait : *le prêtre de la Colère est entré parlementer avec l’Étranger, et il n’est pas revenu, donc l’Étranger existe.* On tiendrait son absence pour une preuve, comme on venait de tenir la nuit d’un batelier pour une preuve. Personne n’irait vérifier : vérifier, ici, c’était entrer, et entrer, c’était ne pas revenir.
 
 « Vous allez y entrer pour de bon, dit-il. Demain.
 
@@ -165,7 +165,7 @@ Herec le regarda un long moment, et pour la première fois son visage doux vacil
 
 *
 
-Il descendit vers l’endroit où la brume recommençait, là où le sol avalait le bruit des pas. Merric le suivit des yeux jusqu’à ce que le rouge de la bure se dissolût dans le gris, non d’un coup, non comme un homme qui s’éloigne, mais par degrés, comme une couleur qu’on efface, et il ne sut jamais s’il avait vu Herec entrer dans la Faille ou seulement se fondre dans la nuit ordinaire. C’était toujours ainsi sur cette rive. On voyait avant, on voyait après, et entre les deux il y avait ce battement où le monde ne montrait pas ce qu’il faisait.
+Il descendit vers l’endroit où la brume recommençait, là où le sol avalait le bruit des pas. Merric le suivit des yeux jusqu’à ce que le rouge de la bure se dissolût dans le gris, par degrés, comme une couleur qu’on efface, et il ne sut jamais s’il avait vu Herec entrer dans la Faille ou seulement se fondre dans la nuit ordinaire. C’était toujours ainsi sur cette rive. On voyait avant, on voyait après, et entre les deux il y avait ce battement où le monde ne montrait pas ce qu’il faisait.
 
 Puis il resta seul avec son registre, sa lanterne, son eau noire.
 
@@ -191,6 +191,6 @@ Merric alluma sa lanterne. Il la baissa ; l’ombre baissa après. Le battement
 
 Il ne saurait jamais, lui non plus, laquelle des histoires était la vraie. La blessure, la roue, la purge, l’Étranger. Il les porterait toutes les quatre ensemble, comme on porte quatre seaux trop pleins sans pouvoir en poser aucun. Mais il savait une chose que le prêtre en rouge, avec toute sa doctrine, n’avait dite qu’à moitié : au bord de ces trous, la nuit, il y avait une attention. Ni bonne ni mauvaise. Ni haine ni pitié. Elle savait ce qu’elle faisait, et elle n’attendait rien de personne.
 
-Il ne dirait plus jamais *rien*. Dans son ventre, il dirait *quelqu’un.* Et ce mot-là, il le devinait sans savoir le formuler, irait plus loin que sa vie et plus loin que la Plaine, porté par tous ceux qui préféreraient un ennemi qu’on n’a pas vu à des trous qui s’ouvrent sans raison, jusqu’à devenir, pour des gens qui n’auraient jamais gardé de seuil ni senti de regard, une chose qu’on tenait pour sûre : que le Fléau était une main.
+Désormais, dans son ventre, il dirait *quelqu’un* là où il avait toujours dit *rien.* Et ce mot-là, il le devinait sans savoir le formuler, irait plus loin que sa vie et plus loin que la Plaine, porté par tous ceux qui préféreraient un ennemi qu’on n’a pas vu à des trous qui s’ouvrent sans raison, jusqu’à devenir, pour des gens qui n’auraient jamais gardé de seuil ni senti de regard, une chose qu’on tenait pour sûre : que le Fléau était une main.
 
 Sur l’autre rive, sous une terre que sa perche n’avait jamais sondée, l’ouvrage continuait à son allure, indifférent aux quatre noms qu’on lui donnait cette nuit-là et à l’homme en rouge qui venait de descendre le lui demander, et il n’existait au monde aucun registre où l’inscrire.

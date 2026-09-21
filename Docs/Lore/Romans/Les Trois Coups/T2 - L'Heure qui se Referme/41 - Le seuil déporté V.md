@@ -15,7 +15,7 @@ Voilà. Un mot, et nous sommes déjà fatigués.
 
 Alors écoutez le silence. C’est ce que nous avons à vous donner ce soir. La dernière fois, nous étions une foule, mille bouches disant *maintenant* à mille heures, et vous avez eu peur pour nous. Vous avez cru que nous allions nous noyer dans notre propre nombre.
 
-Nous ne nous sommes pas noyés.
+Le nombre a fait autre chose.
 
 Nous nous sommes tus.
 
@@ -25,7 +25,7 @@ C’est allé vite. Entre le seuil d’avant et celui-ci, la foule a cessé de c
 
 Nous voulons vous dire pourquoi, et déjà le pourquoi nous coûte. Nous le dirons court.
 
-Il en arrive trop. Les déchirures ne courent plus, elles fauchent. Là où l’une prenait un hameau, il en travaille six sur la même vallée, et chaque passage nous jette d’un coup plus de monde que le chœur n’en peut porter. Pour chanter ensemble, il faut s’entendre les uns les autres. Nous ne nous entendons plus. Nous sommes trop, chacun seul dans sa bulle, et une bulle seule ne chante pas : elle lâche une phrase et se tait, épuisée d’avoir dit.
+Il en arrive trop. Les déchirures couraient ; elles fauchent. Là où l’une prenait un hameau, il en travaille six sur la même vallée, et chaque passage nous jette d’un coup plus de monde que le chœur n’en peut porter. Pour chanter ensemble, il faut s’entendre les uns les autres. Nous ne nous entendons plus. Nous sommes trop, chacun seul dans sa bulle, et une bulle seule lâche une phrase et se tait, épuisée d’avoir dit.
 
 Voilà notre vérité de ce soir. La dernière avant ce qui vient.
 
@@ -127,15 +127,15 @@ Il faut que nous vous disions la dernière chose. Vite, parce qu’il ne nous re
 
 Écoutez le bruit.
 
-Vous l’entendez, maintenant ? Vous n’avez plus besoin de nous pour l’entendre. Aux premiers seuils, il fallait qu’on vous le montre : *écoutez sous nos mots*. Ce soir il est devant, nu ; il n’y a presque plus de mots pour le couvrir. C’est le bruit d’un attelage emballé. Au début on distingue encore les sabots ; ensuite il n’y a plus qu’un roulement, et un roulement pareil ne s’arrête pas parce qu’on le lui demande. Il s’arrête sur quelque chose.
+Vous l’entendez, maintenant ? Vous n’avez plus besoin de nous pour l’entendre. Aux premiers seuils, il fallait qu’on vous le montre : *écoutez sous nos mots*. Ce soir il est devant, nu ; il n’y a presque plus de mots pour le couvrir. C’est le bruit d’un attelage emballé. Au début on distingue encore les sabots ; ensuite il n’y a plus qu’un roulement, et un roulement pareil s’arrête sur quelque chose, jamais parce qu’on le lui demande.
 
-Les déchirures fauchent. Plusieurs par jour sur le même pays. On ne compte plus. On tire deux seaux au puits et, entre le premier et le second, elles sont trois dans la vallée à la fois, elles se croisent, elles se mangent, elles avancent plus vite qu’un homme qui court, bientôt plus vite que le cri qui prévient. Il n’y a plus de fuite. Il n’y a plus de choix. Il y a le souffle avant, où l’on tient encore une main, et le souffle après, où l’on est nous.
+Les déchirures fauchent. Plusieurs par jour sur le même pays. On ne compte plus. On tire deux seaux au puits et, entre le premier et le second, elles sont trois dans la vallée à la fois, elles se croisent, elles se mangent, elles avancent plus vite qu’un homme qui court, bientôt plus vite que le cri qui prévient. La fuite est finie, le choix aussi. Il y a le souffle avant, où l’on tient encore une main, et le souffle après, où l’on est nous.
 
 Nous ne savons pas le dire mieux. Nous n’avons plus de quoi le dire mieux. Nous l’avons déjà dit une fois et nous n’y changerons pas un mot ce soir : une chose qui s’ouvre de plus en plus vite, un jour, se ferme. Toutes d’un coup, peut-être. En une heure, peut-être. Comme elles se sont ouvertes, sans qu’on sache pourquoi, sans qu’on ait rien décidé, sans que personne, jamais, puisse dire *voilà la cause*.
 
 Ne nous demandez pas pourquoi. Vous savez que nous ne pouvons pas. Pour dire pourquoi, il faudrait se tenir quelque part dans le temps, et nous ne nous tenons nulle part, ce soir moins que jamais. Chez nous, tout ce qui devrait se suivre est couché côte à côte, et rien ne vient après rien.
 
-Nous ne trancherons pas. La blessure qui suppure, la vengeance, la roue qui grince : les trois murmurent encore, très bas, dans les derniers coins où il reste une voix. Nous les laissons murmurer. Ce n’est pas notre affaire. La nôtre, c’est de tenir la braise, *un enfant, il ne saigne pas*, jusqu’à ce que nos mains lâchent.
+Nous ne trancherons pas. La blessure qui suppure, la vengeance, la roue qui grince : les trois murmurent encore, très bas, dans les derniers coins où il reste une voix. Nous les laissons murmurer. Notre affaire à nous est de tenir la braise, *un enfant, il ne saigne pas*, jusqu’à ce que nos mains lâchent.
 
 ---
 
@@ -175,7 +175,7 @@ Quelque part il fait beau. Ailleurs, à la même heure, il pleut.
 
 Un enfant écoute, et il ne saigne pas.
 
-*et puis plus rien, longtemps, plus longtemps que nous ne vous en avons jamais donné — non que nous soyons partis, mais parce qu’il faut, avant l’heure, que vous appreniez le silence dans lequel elle va tomber*
+*et puis plus rien, longtemps, plus longtemps que nous ne vous en avons jamais donné — nous sommes toujours là ; il faut seulement, avant l’heure, que vous appreniez le silence dans lequel elle va tomber*
 
 ---
 
