@@ -106,7 +106,7 @@ Elle avait fait une seule chose de sa vie, et elle l’avait bien faite : ne pa
 
 Elle regarda la fente battre, la suie ouvrir ses branches dans un ciel sans souffle, les dos qui montaient, et le métier de sa vie ne valut plus rien.
 
-Le dessous ne cognait plus pour elle seule, ni pour les Enfants aux Yeux Blancs, ni pour les trois ou quatre malades du pays qu’on cachait des registres ; il cognait pour tous. La femme d’Arkhen l’entendait à sa façon, le safran à la sienne, la vieille au huitième, le marcheur des vents dans son étoile qui glisse, l’homme de l’ordre jusque dans le rapport froid où il le nierait. Ils l’entendaient tous, mal, chacun dans sa langue, chacun le tordant vers son dieu ou vers son rien. Il lui restait une place, une seule : celle de l’entendre nu.
+Le dessous avait cogné pour elle seule, pour les Enfants aux Yeux Blancs, pour les trois ou quatre malades du pays qu’on cachait des registres. Cette nuit, il cognait pour tous. La femme d’Arkhen l’entendait à sa façon, le safran à la sienne, la vieille au huitième, le marcheur des vents dans son étoile qui glisse, l’homme de l’ordre jusque dans le rapport froid où il le nierait. Ils l’entendaient tous, mal, chacun dans sa langue, chacun le tordant vers son dieu ou vers son rien. Il lui restait une place, une seule : celle de l’entendre nu.
 
 Elle n’eut pas à trancher, on lui avait retiré de quoi. Plus de nord où fuir, plus de bruit de surface assez large pour couvrir ce qui poussait sous tous ces pieds. Il restait une chose à faire, celle qu’elle n’avait pas faite en vingt-cinq ans, et elle la fit comme on pose un seau qu’on n’a plus la main pour tenir.
 

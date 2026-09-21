@@ -77,7 +77,7 @@ Vaskar ne l’avait pas mandée. On ne mandait pas la déléguée Orsenne ; ell
 
 « Vous avez une rive », dit-elle.
 
-Elle n’avait rien demandé. Elle n’interrogeait jamais : elle affirmait, et laissait à l’autre le soin de démentir.
+Elle n’avait rien demandé. Elle affirmait toujours, et laissait à l’autre le soin de démentir.
 
 « J’ai une rive et une avance mesurée. Je n’ai pas la femme.
 

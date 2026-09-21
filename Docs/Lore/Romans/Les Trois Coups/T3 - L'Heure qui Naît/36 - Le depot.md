@@ -33,7 +33,7 @@ La femme acheva sa chaude avant de se retourner. Elle sortit son fer, le coucha 
 
 — Sanne. On m’a dit qu’ici une femme tenait encore. Et qu’elle tenait autre chose que le feu.
 
-— On vous a dit trop. » La voix n’avait pas durci ; elle avait baissé, comme on baisse la voix sur une chose qu’on ne nomme pas à voix pleine. Halka regarda l’enfant, cette petite maigre aux yeux cernés qui se tenait un demi-pas en arrière, une main accrochée à la sangle de son sac. « Et la gamine ?
+— On vous a dit trop. » La voix avait baissé, comme on baisse la voix sur une chose qu’on ne nomme pas à voix pleine. Halka regarda l’enfant, cette petite maigre aux yeux cernés qui se tenait un demi-pas en arrière, une main accrochée à la sangle de son sac. « Et la gamine ?
 
 — Wenna. Elle est avec moi.
 
@@ -73,7 +73,7 @@ Près du feu, Wenna cessa de mâcher.
 
 « Pas ainsi, répéta Halka, et la voix, cette fois, se ferma. Il n’y a qu’une manière. Celle qu’on m’a apprise.
 
-— Il y en avait une. » Sanne referma les doigts sur le bord du cahier. « Écoutez-moi, parce que je ne vous dirai pas deux fois une chose aussi laide. La manière qu’on vous a apprise valait tant qu’on ne chassait pas les femmes qui portent. Une main à l’autre, une gorge à l’autre, tranquille, personne ne regardait. Le cahier avançait dans le monde comme un secret de cuisine, à voix basse, entre gens qui n’intéressaient personne. » Elle s’arrêta, écouta le silence de l’atelier, reprit. « Ce temps-là est fini. On nous regarde, maintenant. On regarde exactement les gens comme nous : ceux qui gardent une vieille chose, ceux qui la font passer, ceux qui vont d’un bout à l’autre du monde porter un savoir qu’on ne leur a pas demandé. J’en ai vu ranger. Une amie à moi, une nuit, sous un toit trop propre, qui portait moins que moi. On l’a rangée dans une route vide, personne n’a rien revendiqué, et le lendemain il ne restait que le toit propre et le lit fait. »
+— Il y en avait une. » Sanne referma les doigts sur le bord du cahier. « Écoutez-moi, parce que je ne vous dirai pas deux fois une chose aussi laide. La manière qu’on vous a apprise valait tant qu’on ne chassait pas les femmes qui portent. Une main à l’autre, une gorge à l’autre, tranquille, personne ne regardait. Le cahier avançait dans le monde comme un secret de cuisine, à voix basse, entre gens qui n’intéressaient personne. » Elle s’arrêta, écouta le silence de l’atelier, reprit. « Ce temps-là est fini. On nous regarde, maintenant. On regarde exactement les gens comme nous : ceux qui gardent une vieille chose, ceux qui la font passer, ceux qui vont d’un bout à l’autre du monde porter un savoir qu’on ne leur a pas demandé. J’en ai vu ranger. Une amie à moi, une nuit, sous un toit lavé de frais, qui portait moins que moi. On l’a rangée dans une route vide, personne n’a rien revendiqué, et le lendemain il ne restait que le toit propre et le lit fait. »
 
 Halka baissa les yeux sur ses tenailles. Elle savait de quoi Sanne parlait ; tout le monde savait, cette année-là, et personne ne pouvait dire qui.
 
@@ -105,7 +105,7 @@ Cela dura le temps de trois respirations. Puis la terre se tut.
 
 Sanne écouta le sol revenu au silence, un silence qui était une reprise de souffle, la pause d’une chose entre deux poussées. Elle avait cessé, quelque part sur le sud, de faire la différence entre ce qui montait du dessous et ce qui montait d’elle.
 
-Ses yeux revinrent à la caisse lutée, au bord de l’âtre. Le tour du couvercle était fendu d’un cheveu, une fente longue et régulière qui suivait le joint : la première couche avait travaillé, comme travaille toujours la première. Il y en avait une seconde par-dessus, posée en travers, et celle-là tenait. On ne lute pas une fois. On lute deux, croisé, pour que les deux fentes ne tombent jamais au même endroit.
+Ses yeux revinrent à la caisse lutée, au bord de l’âtre. Le tour du couvercle était fendu d’un cheveu, une fente longue et régulière qui suivait le joint : la première couche avait travaillé, comme travaille toujours la première. Il y en avait une seconde par-dessus, posée en travers, et celle-là tenait. On lute deux fois, croisé, pour que les deux fentes ne tombent jamais au même endroit.
 
 Voilà ce qu’il fallait faire, et Sanne le trouva là, devant l’ouvrage d’une autre. Mettre le cahier dans la pierre. Mettre ailleurs, dans une autre matière, ce qu’il fallait savoir de lui : dans un dos si petit, si neuf, si peu regardé qu’aucun chasseur ne penserait à le suivre. Deux fermetures, croisées. Si l’une lâchait, elle ne lâcherait pas à la place de l’autre.
 

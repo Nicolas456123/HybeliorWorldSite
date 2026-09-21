@@ -105,7 +105,7 @@ Renna lui ramena la tête au creux du bras pour le renfoncer dans le sommeil, et
 
 Renna écoutait, et tout en écoutant elle sentait quelque chose se mettre en place, en elle, du côté de l’oreille, une de ces coïncidences qui ne prouvent rien et qui vous glacent quand même.
 
-Trois traits. Le Mont, cette nuit, ne faisait plus de ronds dans le ciel ; il faisait des branches, deux qui font quatre, quatre qui font huit, une chose ramifiée que personne ne savait plus lire. Et là, au pied du même Mont, sous une assise de forge, une morte avait laissé trois traits qu’il fallait chercher à genoux. Renna savait ce que Sanne aurait répondu : Sanne mettait deux faits l’un près de l’autre et n’y touchait plus. Le savoir ne l’empêcha pas de le sentir.
+Trois traits. Le Mont, cette nuit, faisait des branches dans le ciel, deux qui font quatre, quatre qui font huit, une chose ramifiée que personne ne savait plus lire. Et là, au pied du même Mont, sous une assise de forge, une morte avait laissé trois traits qu’il fallait chercher à genoux. Renna savait ce que Sanne aurait répondu : Sanne mettait deux faits l’un près de l’autre et n’y touchait plus. Le savoir ne l’empêcha pas de le sentir.
 
 « Et il faut que je fasse quoi, avec ta forge et tes trois traits. »
 
@@ -195,7 +195,7 @@ Elle essaya pour voir, sans le lever : elle desserra la main qui tenait la peti
 
 « Ilex », dit-elle, et l’enfant releva la tête, parce qu’il connaissait ce ton-là et qu’il l’avait attendu toute la nuit. « On monte. »
 
-Il ne cria pas de joie. Il se tut, tout entier, comme le Mont se taisait entre deux poussées, et il posa sa petite main bleue de suie sur la joue de Renna, et il la regarda longtemps de ses deux billes de lait, du regard des enfants qui comprennent une chose avant d’avoir les mots pour la dire.
+Un autre enfant aurait crié de joie. Il se tut, tout entier, comme le Mont se taisait entre deux poussées, et il posa sa petite main bleue de suie sur la joue de Renna, et il la regarda longtemps de ses deux billes de lait, du regard des enfants qui comprennent une chose avant d’avoir les mots pour la dire.
 
 « Pas parce qu’ils te tirent, dit Renna, qui avait besoin de le dire tout haut pour se le rendre vrai. Pas parce que la dame en cendre veut te brûler, ni parce que l’homme de Drakora veut te ranger dans son registre. Pas pour eux. On monte parce que la chose que tu entends, moi aussi je l’entends, et qu’il n’y a plus d’endroit assez bas dans ce monde pour ne plus l’entendre. Alors autant l’entendre net. »
 

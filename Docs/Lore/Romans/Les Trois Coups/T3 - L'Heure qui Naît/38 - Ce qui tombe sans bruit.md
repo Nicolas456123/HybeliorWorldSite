@@ -15,7 +15,7 @@ Depuis trois jours, Sanne balayait.
 
 Elle avait pris le balai de bruyère derrière la porte le premier matin, sans rien demander, parce qu’on paie son toit et qu’elle n’avait plus que ça à donner. Elle avait poussé la poussière noire de sous l’établi, du bas des murs, du pied de l’enclume où quarante ans de chaudes l’avaient tassée dure comme du mortier. Elle l’avait portée dehors à la pelle et versée sur une toile, par petites quantités, pour la passer au crible. Le fin s’en allait au vent. Ce qui restait, elle le triait à genoux dans le gel : le charbon d’un côté, qui rebrûlerait ; les écailles de l’autre.
 
-Une forge en fait tomber à chaque coup. Le fer sort du feu avec sa peau grise, le marteau descend, la peau saute, et ça retombe sur l’enclume et par terre sans plus de bruit qu’une pincée de sable jetée sur une table. On ne les compte jamais. Personne n’a pesé ce qu’une barre perd entre le premier coup et le dernier ; on pèse ce qu’on livre. Le sol, lui, prend tout, et au bout de quarante ans la terre battue d’un atelier est noire, lourde, et pleine de fer.
+Une forge en fait tomber à chaque coup. Le fer sort du feu avec sa peau grise, le marteau descend, la peau saute, et ça retombe sur l’enclume et par terre sans plus de bruit qu’une pincée de sable jetée sur une table. On ne les compte jamais. On pèse ce qu’on livre ; ce qu’une barre perd entre le premier coup et le dernier, personne ne l’a pesé. Le sol, lui, prend tout, et au bout de quarante ans la terre battue d’un atelier est noire, lourde, et pleine de fer.
 
 Le tas qu’elle avait tiré de la forge de Halka tenait dans un panier à claire-voie et ne se serait vendu nulle part. Remis au feu ensemble, serré à petits coups jusqu’à ce que les morceaux prennent les uns aux autres, cela ferait quand même une barre. Courte, sale sur les bords. De quoi tailler trois gonds.
 
@@ -117,7 +117,7 @@ Sanne ne le vit pas. C’est la première chose, et la dernière, qu’elle sut 
 
 « Le fer, quand on le comprend enfin, ne fait pas de bruit. » Elle avait dit ça un soir, dans un talus, à personne, en pensant à la mort d’une autre. La voilà qui se l’entendait redire du dedans, très calme, du ton dont on constate une trempe.
 
-Le chemin bascula. Pas violemment. Doucement, comme une pièce qu’on couche sur l’enclume, le monde vint se poser sur le flanc, le ciel gris glissa là où le sol aurait dû être, et Sanne se retrouva contre la terre froide sans avoir senti tomber, le lacet toujours serré dans le poing ; la main avait tenu toute seule.
+Le chemin bascula. Doucement, comme une pièce qu’on couche sur l’enclume, le monde vint se poser sur le flanc, le ciel gris glissa là où le sol aurait dû être, et Sanne se retrouva contre la terre froide sans avoir senti tomber, le lacet toujours serré dans le poing ; la main avait tenu toute seule.
 
 Aucun cri ne vint. Il n’y avait pas à crier. Un cri, c’est pour appeler, personne n’était là à appeler, et appeler faisait venir, et faire venir, sur ce chemin, avec ce qui l’avait suivie jusque-là sans visage, n’aurait servi qu’à peindre une dernière cible sur le premier accouru. Elle avait tenu le silence pendant des années, quand le silence était le seul outil qui restât. Elle le tint une dernière fois, par métier, par vieille discipline de bête traquée devenue, tout au bout, discipline de femme qui s’en va proprement.
 

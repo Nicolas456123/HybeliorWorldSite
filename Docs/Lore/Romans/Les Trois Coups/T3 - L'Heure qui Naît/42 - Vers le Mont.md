@@ -35,7 +35,7 @@ Il n’y avait pas si longtemps, il aurait repris Vellan avant la fin de sa phra
 
 Il ne dit rien de tout cela.
 
-Aux Fonds, il aurait tiré la chemise à lui, l’aurait ouverte du pouce à la feuille qu’il fallait, aurait posé l’ongle sous la ligne et laissé Vellan lire. Ici, il n’avait que sa tête. Ce qu’il aurait avancé, il l’aurait avancé sur sa seule parole, et un fait qui tient sur la parole d’un homme n’était pas un fait dans sa maison : c’était une déposition. Vingt ans durant, il avait enseigné à ses jeunes ce qu’une déposition vaut tant que rien ne vient se placer à côté d’elle.
+Aux Fonds, il aurait tiré la chemise à lui, l’aurait ouverte du pouce à la feuille qu’il fallait, aurait posé l’ongle sous la ligne et laissé Vellan lire. Ici, il n’avait que sa tête. Ce qu’il aurait avancé, il l’aurait avancé sur sa seule parole, et ce qui tient sur la parole d’un homme portait, dans sa maison, un autre nom : une déposition. Vingt ans durant, il avait enseigné à ses jeunes ce qu’une déposition vaut tant que rien ne vient se placer à côté d’elle.
 
 « Peut-être », dit Vaskar.
 
@@ -51,7 +51,7 @@ Vaskar le laissa faire. Il savait ce qu’il en coûte d’ôter sa case à un h
 
 La nuit, sous la couverture rêche du relais, Vaskar essaya de mettre les choses côte à côte.
 
-C’était son geste, le seul qu’il eût, et il tenait tout entier dans un meuble. Deux pièces posées à plat, à la même lumière, assez près l’une de l’autre pour qu’on passât de celle-ci à celle-là sans lever la tête, et le troisième fait qui se levait de leur voisinage. Il n’avait pas de table. Sur une route, les choses ne se posent pas côte à côte ; elles se suivent, elles arrivent l’une après l’autre, et la première est déjà partie quand la seconde se présente. Il s’en aperçut cette nuit-là avec une netteté désagréable, allongé sur la paille, les mains vides, à refaire dans le noir un geste qui demandait des planches.
+C’était son geste, le seul qu’il eût, et il tenait tout entier dans un meuble. Deux pièces posées à plat, à la même lumière, assez près l’une de l’autre pour qu’on passât de celle-ci à celle-là sans lever la tête, et le troisième fait qui se levait de leur voisinage. Il n’avait pas de table. Sur une route, les choses se suivent ; elles arrivent l’une après l’autre, et la première est déjà partie quand la seconde se présente. Il s’en aperçut cette nuit-là avec une netteté désagréable, allongé sur la paille, les mains vides, à refaire dans le noir un geste qui demandait des planches.
 
 Il n’avait rien apporté. On ne sort pas les Fonds des Fonds. La copie d’Olven dormait sous sa toile, à douze toises, dans un coffre que trois mots fermaient ; le manuel que la femme avait porté courait dans des mains qu’il ne tenait pas, et il l’avait eu dans les siennes une seule fois, contre l’autre, sans y être jamais revenu ; du débris brûlé il ne restait, depuis longtemps, que de la cendre. Il avait sur lui une chemise de rechange et le pli fermé du Prime, qu’il n’avait pas ouvert.
 
@@ -67,7 +67,7 @@ Une ligne tenait, qu’il n’avait pas besoin de vérifier, et de tout ce qu’
 
 Elle avait traversé le récit, le manuel et la ruine sans bouger d’un mot, quand tout ce qui l’entourait s’en allait. Les copies elles-mêmes la garantissaient, qui ne s’accordaient sur rien d’autre et la donnaient au même mot à des siècles de distance. Sa mémoire n’entrait pour rien dans l’affaire. Le reste, ce soir, il ne le tenait que de lui-même.
 
-Il resta longtemps les yeux ouverts, et quelque chose se leva quand même, sans deux faits dessous pour le porter. Ce qui l’attendait là-haut n’était pas un objet. Un objet, il aurait su le prendre : une clef ferme un fer, une cire ferme un pli, et une signature ferme une série. Mais on ne lui avait pas rapporté qu’un cahier dormait sous une dalle, à Cendara, où il n’aurait eu qu’à descendre le chercher. On lui avait rapporté qu’une phrase avait été reconnue. Des mains inconnues avaient vu, dans le geste que la femme portait, la même arête que dans un texte de dix mille ans ; elles l’avaient vue sans qu’il le voulût ; elles l’avaient dite tout haut, et elles la disaient encore. La femme était morte, et cela n’avait rien fermé du tout. Il montait sceller une chose qui avait cessé d’avoir une forme à sceller, il le savait avant de partir, et il était parti.
+Il resta longtemps les yeux ouverts, et quelque chose se leva quand même, sans deux faits dessous pour le porter. Ce qui l’attendait là-haut n’était pas un objet. Un objet, il aurait su le prendre : une clef ferme un fer, une cire ferme un pli, et une signature ferme une série. Un cahier sous une dalle, à Cendara, il n’aurait eu qu’à descendre le chercher. On lui avait rapporté qu’une phrase avait été reconnue. Des mains inconnues avaient vu, dans le geste que la femme portait, la même arête que dans un texte de dix mille ans ; elles l’avaient vue sans qu’il le voulût ; elles l’avaient dite tout haut, et elles la disaient encore. La femme était morte, et cela n’avait rien fermé du tout. Il montait sceller une chose qui avait cessé d’avoir une forme à sceller, il le savait avant de partir, et il était parti.
 
 *
 
@@ -151,7 +151,7 @@ Il resta contre la pierre jusqu’au gris du matin, et il ne pria pas, ne connai
 
 *
 
-Ils levèrent le camp avant le jour, et la route, cette dernière matinée, ne monta plus vers le Mont : elle tomba dedans. Toutes les voies du haut pays finissaient par verser là, vers ce foyer où les fils du monde, cette année, se rassemblaient sans que nul l’eût décidé. Vellan menait, ses Fils au chaud sous le manteau. Les deux Liés ne parlaient plus du tout. Karsel tenait la mule court, le coffre attaché bas contre le flanc de la bête. La cendre tombait plus dru, tiède, dessinée.
+Ils levèrent le camp avant le jour, et la route, cette dernière matinée, cessa de monter vers le Mont : elle tomba dedans. Toutes les voies du haut pays finissaient par verser là, vers ce foyer où les fils du monde, cette année, se rassemblaient sans que nul l’eût décidé. Vellan menait, ses Fils au chaud sous le manteau. Les deux Liés ne parlaient plus du tout. Karsel tenait la mule court, le coffre attaché bas contre le flanc de la bête. La cendre tombait plus dru, tiède, dessinée.
 
 Vaskar allait au milieu des six, et il regardait la pente devant lui comme il avait regardé la pierre plate de la veille, cherchant par habitude ce qu’il pourrait en emporter. Il n’y avait rien à prendre.
 

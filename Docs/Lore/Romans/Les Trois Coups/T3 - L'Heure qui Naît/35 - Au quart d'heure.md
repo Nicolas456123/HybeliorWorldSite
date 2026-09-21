@@ -154,13 +154,13 @@ Et il s’en fut, avalé par la marée, ses compteurs de têtes derrière lui, l
 
 « Il l’a presque », dit Ilex.
 
-Sa voix avait changé. Elle n’avait plus la faiblesse du bord de la rivière, ni la gravité trop vieille des autres jours ; elle était tendue, tirée vers le haut, comme sa main l’était vers le Mont.
+Sa voix avait changé : tendue, tirée vers le haut, comme sa main l’était vers le Mont.
 
 « Renna. Pose-moi. Faut que je monte. »
 
 « Non.
 
-— Le mot, il est presque entier. Le long, le court, le bout, et après le bout un autre bout, et ça fait deux, et deux ça fait bientôt une phrase. » L’enfant se tordit contre elle, non pour lui échapper, elle le sentit bien, mais parce que tout son petit corps tirait vers la fente comme le fer vers l’aimant, sans qu’il y pût rien. « Faut que je sois plus près quand il dira. Faut que je sois là. Ici je l’entends à travers toute la cendre. Là-haut je l’entendrai net. »
+— Le mot, il est presque entier. Le long, le court, le bout, et après le bout un autre bout, et ça fait deux, et deux ça fait bientôt une phrase. » L’enfant se tordit contre elle, et elle sentit bien que tout son petit corps tirait vers la fente comme le fer vers l’aimant, sans qu’il y pût rien. « Faut que je sois plus près quand il dira. Faut que je sois là. Ici je l’entends à travers toute la cendre. Là-haut je l’entendrai net. »
 
 Renna s’assit, ou plutôt tomba assise, dans la margelle chaude, l’enfant en travers des genoux, et le tint des deux bras.
 
