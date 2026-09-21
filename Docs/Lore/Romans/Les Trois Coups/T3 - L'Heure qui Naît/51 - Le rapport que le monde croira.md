@@ -49,7 +49,7 @@ Le jeune homme s’assit. Des mains propres, sûres, la belle main de copie que 
 
 Le calame courut. Karsel écrivait vite et bien, et il écrivit cela sans lever les yeux.
 
-« Corps du rapport. » Vaskar marqua un temps, et regarda par la fenêtre le flanc gris qui montait au fond du ciel, vide à présent, rendu à sa cendre. « Un rassemblement de fidèles de plusieurs obédiences, majoritairement des cultes du feu, s’est formé sur le flanc bas du Mont dans le courant de la semaine, à l’occasion d’une période d’activité thermique accrue, phénomène connu et périodiquement observé. »
+« Corps du rapport. » Vaskar regarda par la fenêtre le flanc gris qui montait au fond du ciel, vide à présent, rendu à sa cendre. « Un rassemblement de fidèles de plusieurs obédiences, majoritairement des cultes du feu, s’est formé sur le flanc bas du Mont dans le courant de la semaine, à l’occasion d’une période d’activité thermique accrue, phénomène connu et périodiquement observé. »
 
 « Maître. » Karsel s’était arrêté au bout de la ligne, le calame en l’air. « Il y avait dix mille personnes. Vous l’avez dit vous-même à la capitaine. Vous lui avez dit que cette foule grossissait par le milieu.
 

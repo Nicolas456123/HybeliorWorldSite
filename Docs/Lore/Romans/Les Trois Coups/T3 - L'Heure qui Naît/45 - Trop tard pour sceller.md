@@ -21,7 +21,7 @@ Le flanc du Mont Cendra montait sans une marche. Vaskar s’en aperçut au premi
 
 Le calcul, lui, avait été juste ; il l’avait refait trois fois sur la selle. Partir de Drakora la nuit du versement, prendre les relais du haut pays, couper par le vieux chemin des toucheurs de bêtes là où une femme sans papiers était morte sans une marque, et déboucher sur Cendara avant que la chose qu’il venait clore eût pris sa forme. Le calcul portait sur les routes. Vaskar savait tout des routes. De ce qui ne prend pas les routes, il n’avait rien su.
 
-Ils étaient là avant lui. Pas un attroupement qu’un guet disperse à la pique et au registre : une foule. Elle tenait le flanc devant lui, autour de lui, au-dessus de lui, une pente noire piquetée de gens sans raison commune de s’y trouver et qui s’y trouvaient tous. Sur eux descendait la cendre, lente, d’un ciel sans vent.
+Ils étaient là avant lui. Une foule, trop nombreuse pour la pique et le registre d’un guet. Elle tenait le flanc devant lui, autour de lui, au-dessus de lui, une pente noire piquetée de gens sans raison commune de s’y trouver et qui s’y trouvaient tous. Sur eux descendait la cendre, lente, d’un ciel sans vent.
 
 *
 
@@ -87,7 +87,7 @@ Une foule qui gronde se lit ; Vaskar en avait lu. C’est un texte, avec sa syn
 
 Il chercha le meneur, parce que c’était le pli de son crâne : il montait et il triait, il posait les visages l’un contre l’autre pour voir lequel commandait, lequel parlait quand les autres se taisaient, lequel avait ce quart de pas d’avance qui trahit celui qui sait où l’on va. Un pèlerin d’Arkhen priait à genoux dans une tunique de cendre ; trois pas plus loin, un homme qui n’avait rien d’un fidèle regardait le même point du sommet avec la même faim ; et une femme en tablier de fondeur, et un enfant, et un vieux, et aucun ne priait le dieu de l’autre, et tous allaient vers le même haut. Il chercha la doctrine qui les tenait : il y en avait dix, qui se contredisaient et montaient ensemble. Il chercha les Fils de l’Abîme, qu’il souhaitait trouver plus que tout ce mois-ci, et il se méfia de ce souhait comme il s’en méfiait toujours. Neuf hommes au plus, dans une cellule, ne lèvent pas dix mille personnes. Une cellule veut la guerre, et ceux-ci ne voulaient rien qu’on pût vouloir.
 
-Restait l’ordre. Vaskar ne savait pas monter autrement qu’en remontant un fil, et chaque pas de la pente en était un tour. Le fil, à chaque nœud qu’il défaisait, ne le menait pas à un homme. Il le menait à la cendre, au tiède sous la botte, au point du sommet vers quoi tous étaient tournés, et où il voyait bien, à mesure qu’il approchait, qu’aucune bouche n’avait rien ordonné.
+Restait l’ordre. Vaskar ne savait pas monter autrement qu’en remontant un fil, et chaque pas de la pente en était un tour. Le fil, à chaque nœud qu’il défaisait, le menait à la cendre, au tiède sous la botte, au point du sommet vers quoi tous étaient tournés, et où il voyait bien, à mesure qu’il approchait, qu’aucune bouche n’avait rien ordonné.
 
 Il monta encore, et à chaque chose qu’il ramassait il se surprit au même mouvement de tête, celui d’un homme qui cherche un rang. La foule qui grossit par le milieu. Vingt sifflets rendus dans une main. Un prêtre qui ne compte pas le nombre qu’il dit. C’étaient des pièces, elles étaient bonnes, et pas une n’allait quelque part.
 
@@ -139,7 +139,7 @@ Cela se fit comme un muscle tenu serré vingt ans qui, un instant, sans qu’on 
 
 Et il ne mit rien à la place.
 
-Ce qui lui vint ensuite ne ressemblait pas à une pensée. C’était un embarras de métier, le plus petit et le plus bête qui fût, et il le reconnut avant de le formuler : il avait devant lui une chose qui ne se plaçait nulle part.
+Ce qui lui vint ensuite fut un embarras de métier, le plus petit et le plus bête qui fût, et il le reconnut avant de le formuler : il avait devant lui une chose qui ne se plaçait nulle part.
 
 Un dossier reçoit par le bas. On peut lui ajouter cent pièces, il n’y a pas de terme à ce qu’on lui ajoute, et c’est la commodité de la maison. Un dossier ne sait pas recevoir par le haut. Aucun numéro ne précède le premier. Vaskar avait tenu, une fois, une lettre qui aurait dû se lire avant toutes les autres d’une affaire close depuis trois ans ; il l’avait portée à la suite, faute d’un autre endroit, et il savait qu’un lecteur, dans cent ans, la prendrait pour la fin d’une histoire qu’elle commençait.
 

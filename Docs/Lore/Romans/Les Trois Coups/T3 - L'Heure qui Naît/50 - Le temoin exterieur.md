@@ -19,7 +19,7 @@ Toute la nuit, il avait compté, faute d’un autre emploi pour ses mains. Les h
 
 Puis l’intervalle passa sous la mesure.
 
-Le creux, à un moment, cessa d’être assez large pour qu’on y logeât une séparation, et deux choses, faute de vide entre elles, cessèrent d’être deux. Vaskar essaya deux fois encore, par honnêteté de métier. La seconde fois, il s’aperçut qu’il ne comptait plus ce qui battait, mais sa propre attente du second coup.
+Le creux, à un moment, cessa d’être assez large pour qu’on y logeât une séparation, et deux choses, faute de vide entre elles, cessèrent d’être deux. Vaskar essaya deux fois encore, par honnêteté de métier. La seconde fois, il se surprit à compter sa propre attente du second coup.
 
 Alors il posa le compte.
 
@@ -101,11 +101,11 @@ Le garçon prit un temps ; il avait appris cela aussi, à ne pas combler tout d
 
 Vaskar regarda ses propres mains, et ce qui se leva en lui n’avait pas l’allure d’une invention. Les mots vinrent dans l’ordre où ils devaient venir, du premier coup, avec leurs angles, à la manière d’une leçon récitée. Il parla lentement, et s’entendit parler.
 
-« On écrit un phénomène de chaleur. Rare, spectaculaire, mal compris, à l’étude. On écrit un rassemblement de fidèles que ce phénomène exalte, comme les foules s’exaltent depuis qu’il y a des foules et des montagnes qui fument. On écrit que le guet a tenu son cordon. On écrit qu’à l’aube la foule s’est dispersée, comme se disperse toute foule quand la fatigue passe la ferveur. On écrit que l’ordre a prévalu. » Il marqua un temps. « Et l’on écrit trois mille où vous en avez vu dix. Le monde porte trois mille exaltés autour d’une montagne chaude. Il ne porte pas dix mille silences tournés vers un sommet dont personne ne sait ce qu’ils écoutent. »
+« On écrit un phénomène de chaleur. Rare, spectaculaire, mal compris, à l’étude. On écrit un rassemblement de fidèles que ce phénomène exalte, comme les foules s’exaltent depuis qu’il y a des foules et des montagnes qui fument. On écrit que le guet a tenu son cordon. On écrit qu’à l’aube la foule s’est dispersée, comme se disperse toute foule quand la fatigue passe la ferveur. On écrit que l’ordre a prévalu. Et l’on écrit trois mille où vous en avez vu dix. Le monde porte trois mille exaltés autour d’une montagne chaude. Il ne porte pas dix mille silences tournés vers un sommet dont personne ne sait ce qu’ils écoutent. »
 
 Karsel le regardait, et sur son jeune visage passa ce que Vaskar attendait et redoutait, la première fêlure de l’élève qui comprend la leçon.
 
-« Mais rien de cela n’est vrai, maître. » Le garçon ne le disait pas en reproche, mais du constat honnête de qui refait une addition et la trouve fausse. « La foule ne s’est pas dispersée. Le cordon n’a tenu nulle part. On n’a rien tenu du tout. Vous m’avez appris à traquer les absences, un registre où une nuit manque, une page recopiée deux fois. Ce que vous dictez là, c’est une page qu’on recopie exprès. »
+« Mais rien de cela n’est vrai, maître. » C’était le constat honnête de qui refait une addition et la trouve fausse. « La foule ne s’est pas dispersée. Le cordon n’a tenu nulle part. On n’a rien tenu du tout. Vous m’avez appris à traquer les absences, un registre où une nuit manque, une page recopiée deux fois. Ce que vous dictez là, c’est une page qu’on recopie exprès. »
 
 « Oui. » Vaskar soutint son regard. « C’est exactement cela. Et vous la recopierez, et vous la scellerez, et dans cent ans un archiviste comme vous la lira pour un fait, parce qu’elle aura le grain d’un fait, le calme d’un fait, les trois mille exaltés d’un fait. Il ne saura pas qu’un homme l’a écrite un soir où il ne comprenait rien, pour que le monde ne s’écroulât pas d’apprendre qu’un homme n’avait rien compris. » Il mit un instant la main sur le coffre que le garçon portait, sur le fer noir dedans, sur la clef qui, sur cette montagne, n’avait plus de serrure. « Voilà ce qu’est une archive, Karsel. Ce que le monde a pu se permettre de se rappeler. On la prend pour sa mémoire, et de loin les deux se ressemblent. »
 
@@ -121,7 +121,7 @@ Karsel garda le silence, rajusta le coffre sur son épaule, et Vaskar vit qu’i
 
 La femme au petit passa près d’eux, et elle montait.
 
-Vaskar la reconnut à mi-flanc, la même que l’autre nuit contre le rocher, celle qu’il n’avait pas su lire, celle qui entendait sans savoir quoi. L’autre nuit, elle le retenait contre elle et il tirait vers le sommet, et elle avait dit : « Descendre ne le sauve pas. J’ai essayé. » Cette nuit, elle ne le retenait plus. Elle le portait dans le sens où il voulait aller. Les yeux blancs de l’enfant étaient tenus grands sur le sommet, et la cendre s’y posait sans qu’il clignât, comme on ouvre les mains sous une pluie. La femme avançait sans regarder ses pieds, la tête un peu penchée de côté, dans la posture de qui écoute une voix venue d’ailleurs que du sol.
+Vaskar la reconnut à mi-flanc, la même que l’autre nuit contre le rocher, celle qu’il n’avait pas su lire, celle qui entendait sans savoir quoi. L’autre nuit, elle le retenait contre elle et il tirait vers le sommet, et elle avait dit : « Descendre ne le sauve pas. J’ai essayé. » Cette nuit, elle le portait dans le sens où il voulait aller. Les yeux blancs de l’enfant étaient tenus grands sur le sommet, et la cendre s’y posait sans qu’il clignât, comme on ouvre les mains sous une pluie. La femme avançait sans regarder ses pieds, la tête un peu penchée de côté, dans la posture de qui écoute une voix venue d’ailleurs que du sol.
 
 Elle s’arrêta en le voyant, et le reconnut. Puis elle remonta l’enfant d’un coup de hanche, le cala, souffla une fois.
 
