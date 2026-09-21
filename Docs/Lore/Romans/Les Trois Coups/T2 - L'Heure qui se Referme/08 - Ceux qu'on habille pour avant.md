@@ -13,15 +13,15 @@ status: draft
 
 Nael reconnaissait les siens au vide qu’ils faisaient dans un marché.
 
-Les Inspecteurs, disait-on, repéraient les Tisses à ce qu’ils regardaient de travers : l’œil qui glisse au bord d’une lampe, la nuque qui se raidit sur un nom appelé derrière soi. Lui cherchait l’inverse. Pas celui que quelque chose regarde ; celui que plus rien ne regarde. Quelqu’un qui avait cessé d’attendre quoi que ce soit laissait tomber les yeux sur ses propres mains sans plus rien leur demander, et cela se voyait d’un bout de l’allée à l’autre, comme on voit un puits comblé au milieu d’un champ.
+Les Inspecteurs, disait-on, repéraient les Tisses à ce qu’ils regardaient de travers : l’œil qui glisse au bord d’une lampe, la nuque qui se raidit sur un nom appelé derrière soi. Lui cherchait l’inverse : celui que plus rien ne regarde. Quelqu’un qui avait cessé d’attendre quoi que ce soit laissait tomber les yeux sur ses propres mains sans plus rien leur demander, et cela se voyait d’un bout de l’allée à l’autre, comme on voit un puits comblé au milieu d’un champ.
 
 Ce matin-là, il en trouva une sous la bâche du fripier.
 
-Une femme. Quarante ans à peine, peut-être moins ; le mal vieillissait vite. Elle tenait un châle qu’elle n’achèterait pas, et le prix n’y était pour rien : elle avait décidé, quelque part derrière ses yeux, qu’elle n’aurait pas d’hiver à couvrir. Elle marchandait quand même, par habitude, et le fripier lui répondait sans la voir.
+Une femme. Quarante ans à peine, peut-être moins ; le mal vieillissait vite. Elle tenait un châle qu’elle n’achèterait pas : elle avait décidé, quelque part derrière ses yeux, qu’elle n’aurait pas d’hiver à couvrir. Elle marchandait quand même, par habitude, et le fripier lui répondait sans la voir.
 
 Nael laissa passer deux clientes. Il ne s’approchait jamais tant que les mains bougeaient encore. L’étal du fripier n’avait que des vêtements de morts, d’ailleurs, il n’y avait plus que cela à vendre cette année-là : des manteaux retournés, des robes reprises aux coutures, tout un mur d’habits qui avaient déjà servi à quelqu’un. Il regarda les mains de la femme palper la laine, l’ouvrir contre la lumière grise, la replier trois fois plus lentement qu’il n’aurait fallu.
 
-Le châle retourna sur l’étal. Ses doigts se refermèrent sur du vide, et elle les regarda comme surprise de les trouver vides. À ce geste-là, Nael sut qu’elle saignait déjà : pas dehors, pas encore, mais dedans, chaque fois qu’elle essayait de se servir de la chose brisée qui la tuait. La première saison était derrière elle. On ne la couperait plus.
+Le châle retourna sur l’étal. Ses doigts se refermèrent sur du vide, et elle les regarda comme surprise de les trouver vides. À ce geste-là, Nael sut qu’elle saignait déjà, dedans, chaque fois qu’elle essayait de se servir de la chose brisée qui la tuait. La première saison était derrière elle. On ne la couperait plus.
 
 Alors il traversa l’allée du pas d’un homme qui va à ses affaires, et il s’arrêta devant l’étal comme s’il cherchait, lui aussi, de quoi couvrir un hiver.
 
@@ -67,7 +67,7 @@ Il le dit brut, sans le préparer, et il vit l’espoir traverser le visage de l
 
 « Alors on peut, dit-elle. On peut couper. C’est vrai.
 
-— On peut. » Là-dessus il ne mentait jamais. « On peut couper, et vivre. Ce n’est pas une rumeur, madame. Des gens marchent aujourd’hui dans les champs, sourds à tout et vivants, parce qu’une main a tranché en eux au bon moment la chose qui les tuait. » Il la laissa boire cela. Puis, du même ton, sans hausser la voix, il enfonça le clou qu’il détestait enfoncer. « Au bon moment. »
+— On peut. » Là-dessus il ne mentait jamais. « On peut couper, et vivre. Ce n’est pas une rumeur, madame. Des gens marchent aujourd’hui dans les champs, sourds à tout et vivants, parce qu’une main a tranché en eux au bon moment la chose qui les tuait. » Il la laissa boire cela. Puis, du même ton tranquille, il enfonça le clou qu’il détestait enfoncer. « Au bon moment. »
 
 Le mot fit son chemin. L’espoir hésita.
 
@@ -101,7 +101,7 @@ Dans le regard de la femme, la colère avait cédé la place à une attention ai
 
 Il l’emmena chez eux quand le marché tomba, à l’heure grise où la cendre des fourneaux se confond avec le crépuscule et où les rues se vident de témoins.
 
-C’était une cave sous un ancien pressoir ; l’escalier sentait la cire froide et le vieux vin. Ils étaient cinq ou six ce soir-là, penchés sur leur ouvrage sous des lampes qu’on ne ménageait pas. La lumière était leur seul luxe, et le plus nécessaire. À son entrée ils levèrent la tête, virent la femme derrière lui, et se remirent au travail sans un mot. On n’accueillait pas à grands cris, dans cette cave. On faisait de la place sur un banc, on poussait un bol de tisane tiède, et on laissait le nouveau venu regarder.
+C’était une cave sous un ancien pressoir ; l’escalier sentait la cire froide et le vieux vin. Ils étaient cinq ou six ce soir-là, penchés sur leur ouvrage sous des lampes qu’on ne ménageait pas. La lumière était leur seul luxe, et le plus nécessaire. À son entrée ils levèrent la tête, virent la femme derrière lui, et se remirent au travail sans un mot. On faisait de la place sur un banc, on poussait un bol de tisane tiède, et on laissait le nouveau venu regarder.
 
 La femme s’assit et ne toucha pas au bol. Il y avait, dans la salle basse, le bruit des aiguilles qui traversent l’étoffe, ce petit crissement sec, et le grattement d’un ciseau qu’on affûtait au fond, et un homme qui toussait à intervalles réguliers sans que personne lève la tête. Un chat dormait sur une pile de coupons. Ça sentait la laine mouillée, la cire, et par-dessous le vin des vieux tonneaux qui avaient fini par entrer dans la pierre.
 
@@ -139,7 +139,7 @@ Elle recommença, la langue entre les dents, et le deuxième point fut moins mau
 
 « Voilà, dit-il. Vous savez coudre l’avant. »
 
-La femme regarda son point, encore de travers, mais un point. Pour la première fois depuis la ruelle, son visage bougea autrement : pas un sourire, pas encore, mais le chemin d’un sourire.
+La femme regarda son point, encore de travers, mais un point. Pour la première fois depuis la ruelle, son visage bougea autrement : le chemin d’un sourire.
 
 « Comment vous appelez-vous ?
 
@@ -175,7 +175,7 @@ Elle frappa. Le poinçon mordit le bronze et laissa un point brillant au milieu 
 
 « Encore. Et à chaque coup, pensez à une chose de ce monde-ci que vous laissez. Votre mal. Votre peur. L’Inspectrice et sa fiole. On perce le jeton pour se percer soi-même : pour se faire dans la vie un trou propre, au centre, par où le reste de vous s’écoulera au moment du seuil. »
 
-Il la regarda frapper, le visage penché, absorbée, et le trou s’ouvrit peu à peu dans le bronze. Il sut à ce moment-là qu’elle était à eux ; non parce qu’il l’avait convaincue, mais parce que ses mains avaient enfin quelque chose à faire, et que des mains occupées ne cherchent ni la fiole ni la corde.
+Il la regarda frapper, le visage penché, absorbée, et le trou s’ouvrit peu à peu dans le bronze. Il sut à ce moment-là qu’elle était à eux : ses mains avaient enfin quelque chose à faire, et des mains occupées ne cherchent ni la fiole ni la corde.
 
 « Voilà, dit-il quand le trou fut franc, quand on vit le jour au travers. Vous avez percé votre passage. »
 

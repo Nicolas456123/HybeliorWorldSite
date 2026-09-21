@@ -46,7 +46,7 @@ Et dans ce silence, la voix de Lirenn reprit. Basse. Pas pour sa mère.
 
 « Non, disait-elle. Non, c’est pas ça. Elle veut pas. »
 
-Kessane ne bougea pas. Elle laissa la barre au feu et regarda les braises, et elle écouta sa fille parler à personne. Ce n’était pas le bavardage d’un enfant qui joue. La voix remontait au bout de chaque phrase, comme quand on répond ; puis elle s’arrêtait et laissait un trou, le temps que quelqu’un d’autre finisse la sienne.
+Kessane ne bougea pas. Elle laissa la barre au feu et regarda les braises, et elle écouta sa fille parler à personne. La voix remontait au bout de chaque phrase, comme quand on répond ; puis elle s’arrêtait et laissait un trou, le temps que quelqu’un d’autre finisse la sienne.
 
 « Je sais pas, disait Lirenn. Faudrait lui demander à elle. Moi je peux pas, je la connais pas. »
 
@@ -88,7 +88,7 @@ Elle avait ouvert la bouche pour gronder, pour dire qu’il n’y avait pas de d
 
 Le prêtre vint le surlendemain.
 
-Pas un prêtre de quelque chose de précis : un de ces marcheurs de la Roue qui passaient de bourg en bourg depuis que les temples s’étaient tus, ramassant les frayeurs des gens comme d’autres ramassent les peaux de lapin, et les revendant sous forme de sens. Celui-ci avait les chausses grises jusqu’aux genoux et le visage doux des hommes qui n’ont jamais soulevé rien de lourd. Du regard il fit le tour de l’atelier, des outils pendus au mur, de la petite enclume dans le coin, et il eut ce hochement de tête compatissant qui, chez Kessane, réveillait toujours l’envie de chauffer quelque chose.
+Un de ces marcheurs de la Roue qui passaient de bourg en bourg depuis que les temples s’étaient tus, ramassant les frayeurs des gens comme d’autres ramassent les peaux de lapin, et les revendant sous forme de sens. Celui-ci avait les chausses grises jusqu’aux genoux et le visage doux des hommes qui n’ont jamais soulevé rien de lourd. Du regard il fit le tour de l’atelier, des outils pendus au mur, de la petite enclume dans le coin, et il eut ce hochement de tête compatissant qui, chez Kessane, réveillait toujours l’envie de chauffer quelque chose.
 
 « On m’a parlé de l’enfant, dit-il.
 

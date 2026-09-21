@@ -34,7 +34,7 @@ La mère Sanvel poussa la porte sans s’annoncer, parce qu’on ne s’annonce 
 
 — C’est le pays. » Kessane referma la porte. « Il n’y a plus de grain qui monte. Tout descend vers Drahk’Nor et rien ne remonte. On forge pour des œufs.
 
-— On a toujours forgé pour des œufs, dans les mauvaises années. » La mère Sanvel fit le tour de l’atelier, une main derrière le dos, l’autre effleurant les outils au passage, pas pour les prendre, pour les *reconnaître*, comme on passe la main sur l’échine d’un cheval qu’on a connu poulain. « Ta mère aussi. Et sa mère. On n’a jamais été une guilde riche. On est une guilde qui dure, et ça se paie en œufs. »
+— On a toujours forgé pour des œufs, dans les mauvaises années. » La mère Sanvel fit le tour de l’atelier, une main derrière le dos, l’autre effleurant les outils au passage pour les *reconnaître*, comme on passe la main sur l’échine d’un cheval qu’on a connu poulain. « Ta mère aussi. Et sa mère. On n’a jamais été une guilde riche. On est une guilde qui dure, et ça se paie en œufs. »
 
 Elle s’arrêta devant la petite enclume, dans le coin, près de la trempe. La boîte de clous tordus de Lirenn était encore là, à moitié redressés. Elle la regarda un long moment.
 
@@ -70,7 +70,7 @@ Kessane l’avait dit sec. Elle forgeait depuis vingt-cinq ans et n’était plu
 
 « Redonne-le-moi, dit seulement la doyenne. Le fer. Et cette fois, ne frappe pas. Laisse-moi ta main. »
 
-Cela ne se faisait pas, ou ne se faisait plus ; cela appartenait au temps des apprentissages, quand Kessane était haute comme la petite enclume et que sa mère se tenait derrière elle. La mère Sanvel avait déjà contourné l’enclume. Elle se plaça au flanc de Kessane, prit son poignet par-dessous dans sa vieille main sèche, l’enveloppa et le corrigea : pas d’un coup, doucement, en le remontant d’un rien, en ouvrant l’angle du coude, en reportant le poids sur l’épaule et sur le dos.
+Cela ne se faisait pas, ou ne se faisait plus ; cela appartenait au temps des apprentissages, quand Kessane était haute comme la petite enclume et que sa mère se tenait derrière elle. La mère Sanvel avait déjà contourné l’enclume. Elle se plaça au flanc de Kessane, prit son poignet par-dessous dans sa vieille main sèche, l’enveloppa et le corrigea doucement, en le remontant d’un rien, en ouvrant l’angle du coude, en reportant le poids sur l’épaule et sur le dos.
 
 « Là, dit-elle. Frappe de là. Le poignet suit, il ne mène pas. »
 

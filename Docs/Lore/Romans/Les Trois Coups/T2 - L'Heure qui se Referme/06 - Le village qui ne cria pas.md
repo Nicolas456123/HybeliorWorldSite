@@ -23,7 +23,7 @@ C’était sa contrariété de tous les jours, celle qui ne coûte rien et qui r
 
 — La petite est dehors. Elle rentrera quand ça sentira. »
 
-Talvenn grommela quelque chose qui n’était pas un vrai désaccord. Il avait quarante ans, ou à peu près, car on ne comptait pas de si près à Sève-Basse, dans les forêts de Nysaria. Il était né l’année du grand vent, celui qui avait couché les hêtres du versant nord. Sa fille avait neuf hivers. Entre les deux, des étés qu’il n’aurait pas su nommer un par un et n’avait jamais eu besoin de nommer, puisqu’ils se ressemblaient tous et qu’ils revenaient tous. Le temps, ici, ne s’en allait pas. Il tournait, comme la cuiller dans le pot.
+Talvenn grommela quelque chose qui n’était pas un vrai désaccord. Il avait quarante ans, ou à peu près, car on ne comptait pas de si près à Sève-Basse, dans les forêts de Nysaria. Il était né l’année du grand vent, celui qui avait couché les hêtres du versant nord. Sa fille avait neuf hivers. Entre les deux, des étés qu’il n’aurait pas su nommer un par un et n’avait jamais eu besoin de nommer, puisqu’ils se ressemblaient tous et qu’ils revenaient tous. Le temps, ici, tournait comme la cuiller dans le pot.
 
 Il s’assit sur le banc devant la porte pour attendre la soupe qui avait peur, et il regarda son village faire ce qu’il faisait à cette heure-là.
 
@@ -45,7 +45,7 @@ Un enfant traversa la rue en courant, les mains fermées sur quelque chose, un o
 
 Rien. Il ne se passait rien : Talvenn avait faim, la soupe avait peur, le métier battait, les femmes marchandaient, un enfant courait.
 
-C’est ce qu’il ne se pardonne pas. Pas d’être resté, il a compris depuis qu’on ne reste pas. D’avoir eu tout cela sous les yeux, ce midi-là, et de ne pas l’avoir regardé une seule fois pour de bon. La soupe. Le métier. L’enfant aux mains pleines. Rien, à Sève-Basse, n’annonçait rien ; il n’avait aucune raison de regarder. Il en veut quand même à l’homme assis sur le banc.
+C’est ce qu’il ne se pardonne pas : d’avoir eu tout cela sous les yeux, ce midi-là, et de ne pas l’avoir regardé une seule fois pour de bon. Qu’on ne reste pas, il l’a compris depuis. La soupe. Le métier. L’enfant aux mains pleines. Rien, à Sève-Basse, n’annonçait rien ; il n’avait aucune raison de regarder. Il en veut quand même à l’homme assis sur le banc.
 
 *
 
@@ -63,7 +63,7 @@ Sa femme sortit sur le seuil, la cuiller de corne à la main, et goûta.
 
 Il rit. Elle rentra remuer.
 
-De tout Sève-Basse, c’est cet instant-là qu’il garde. Elle sur le seuil avec la cuiller, et cette phrase sur l’herbe qu’elle ne dirait pas, le seul secret d’un ménage qui n’avait plus rien d’autre à se cacher. Elle ne le lui a jamais dit. Il n’y a pas eu de temps qui manque : il y a eu le sol qui s’est ouvert sous eux deux et les a lâchés chacun dans un puits différent. Elle est quelque part avec son herbe. Lui est ici, à parler à des gens qui ne sont pas nés. Il a perdu sa maison, sa fille, son village et son heure, et de tout cela il n’arrive à porter que la petite perte, celle qui a une taille d’homme : le nom d’une herbe dans une soupe. Les autres sont trop grandes pour ses bras. Alors il pleure le nom de l’herbe, et il le pleure pour toutes.
+De tout Sève-Basse, c’est cet instant-là qu’il garde. Elle sur le seuil avec la cuiller, et cette phrase sur l’herbe qu’elle ne dirait pas, le seul secret d’un ménage qui n’avait plus rien d’autre à se cacher. Elle ne le lui a jamais dit. Le sol s’est ouvert sous eux deux et les a lâchés chacun dans un puits différent. Elle est quelque part avec son herbe. Lui est ici, à parler à des gens qui ne sont pas nés. Il a perdu sa maison, sa fille, son village et son heure, et de tout cela il n’arrive à porter que la petite perte, celle qui a une taille d’homme : le nom d’une herbe dans une soupe. Les autres sont trop grandes pour ses bras. Alors il pleure le nom de l’herbe, et il le pleure pour toutes.
 
 *
 
@@ -75,7 +75,7 @@ Personne ne cria. Il n’y avait pas de quoi crier. Il fallait avoir les yeux po
 
 Puis le battement manqua.
 
-Ce fut cela qui le mit debout : non la lumière, qu’il n’avait pas comprise, mais le trou dans le bruit. Orsane ne s’arrêtait jamais au milieu d’une passe. On l’entendait finir sa rangée même quand on venait la chercher pour un mort ; elle finissait sa rangée, toujours. Là, le métier s’était tu net, la navette lancée, et Sève-Basse sans ce battement n’avait plus rien qui lui marquât la mesure.
+Ce fut le trou dans le bruit qui le mit debout ; la lumière, il ne l’avait pas comprise. Orsane ne s’arrêtait jamais au milieu d’une passe. On l’entendait finir sa rangée même quand on venait la chercher pour un mort ; elle finissait sa rangée, toujours. Là, le métier s’était tu net, la navette lancée, et Sève-Basse sans ce battement n’avait plus rien qui lui marquât la mesure.
 
 « Orsane ? » appela Talvenn.
 
@@ -85,11 +85,11 @@ Il fit trois pas vers la maison de la tisserande. Trois pas, pas plus. Il le jur
 
 Talvenn arriva devant la maison d’Orsane, et il n’y avait personne.
 
-Le métier était là. Le drap gris était là, tendu sur le cadre, à moitié fait. La navette ne gisait pas par terre : elle reposait au creux du drap, exactement où une main l’avait laissée au milieu d’une passe. Pas jetée, pas tombée. Posée, comme on pose un outil qu’on va reprendre dans l’instant. Le fil courait d’elle au peigne, tendu, et la laine sentait le suint chaud, comme toujours chez la vieille à cette heure, quand le soleil de midi tapait sur le mur et réveillait l’odeur des écheveaux pendus. Sur le rebord du cadre, la tasse d’Orsane fumait encore, une fumée mince et droite, celle d’une infusion versée le temps d’avant. Talvenn tint la main au-dessus. C’était chaud.
+Le métier était là. Le drap gris était là, tendu sur le cadre, à moitié fait. La navette reposait au creux du drap, exactement où une main l’avait laissée au milieu d’une passe. Posée, comme on pose un outil qu’on va reprendre dans l’instant. Le fil courait d’elle au peigne, tendu, et la laine sentait le suint chaud, comme toujours chez la vieille à cette heure, quand le soleil de midi tapait sur le mur et réveillait l’odeur des écheveaux pendus. Sur le rebord du cadre, la tasse d’Orsane fumait encore, une fumée mince et droite, celle d’une infusion versée le temps d’avant. Talvenn tint la main au-dessus. C’était chaud.
 
 « Orsane. »
 
-Cette fois, ce n’était plus un appel. Il dit le nom pour voir. La maison était pleine d’elle, de sa laine, de son odeur de vieille et de suint, de son tabouret décalé du métier comme si elle venait de s’en lever, et elle n’y était pas. L’absence était si fraîche que Talvenn eut l’idée grotesque qu’elle se tenait derrière lui, qu’il suffisait de se retourner vite, qu’on lui jouait un tour et qu’il allait la trouver dans un coin, riant de son piège.
+Cette fois, il dit le nom pour voir. La maison était pleine d’elle, de sa laine, de son odeur de vieille et de suint, de son tabouret décalé du métier comme si elle venait de s’en lever, et elle n’y était pas. L’absence était si fraîche que Talvenn eut l’idée grotesque qu’elle se tenait derrière lui, qu’il suffisait de se retourner vite, qu’on lui jouait un tour et qu’il allait la trouver dans un coin, riant de son piège.
 
 Il se retourna vite.
 
@@ -99,7 +99,7 @@ La rue non plus n’avait personne.
 
 Alors il courut.
 
-Il courut chez lui d’abord. Il ne décida pas d’y aller ; ses jambes y allèrent. Il fit les vingt pas en criant leurs deux noms. Sa porte était ouverte comme il l’avait laissée, l’odeur montait plus forte que jamais, les fèves, le lard, l’herbe sans nom ; le feu ronflait, le pot bouillait à gros bouillons, la soupe avait fini d’avoir peur ; le couvert était mis pour trois, trois écuelles, trois cuillers, le pain rompu au milieu de la table. Il n’y avait personne.
+Il courut chez lui d’abord. Ses jambes décidèrent pour lui. Il fit les vingt pas en criant leurs deux noms. Sa porte était ouverte comme il l’avait laissée, l’odeur montait plus forte que jamais, les fèves, le lard, l’herbe sans nom ; le feu ronflait, le pot bouillait à gros bouillons, la soupe avait fini d’avoir peur ; le couvert était mis pour trois, trois écuelles, trois cuillers, le pain rompu au milieu de la table. Il n’y avait personne.
 
 « Non », dit Talvenn.
 
@@ -107,7 +107,7 @@ Il le dit à la soupe. Il le dit au couvert de trois. Comme si l’on pouvait re
 
 Il ressortit et courut la rue entière, ouvrant les portes, hurlant les noms, et chaque maison lui rendait la même horreur tranquille : le feu allumé, l’ouvrage en cours, la porte battante, et personne. La chèvre du litige broutait seule, sa corde tendue vers un piquet que plus aucune main ne tenait. Un chat dormait au soleil sur un seuil, le seul être de Sève-Basse à qui rien ne manquait. Dans une maison, du linge trempait dans un baquet, les manches d’une chemise flottant comme deux bras. Dans une autre, un berceau vide et bordé, la couverture gardant encore le creux d’un petit corps qu’on venait d’en ôter, sans le pli de la fuite, sans le désordre de l’arrachement. Il redescendit jusqu’au lavoir. Les battoirs étaient posés sur la pierre, côte à côte, et deux paniers de linge attendaient au bord de l’eau. Il appela les deux femmes par leur nom, puis par leur nom de mari, puis il n’appela plus, parce que sa voix lui revenait du bois et qu’il ne supportait pas de l’entendre revenir. Il remonta jusqu’au haut du village, jusqu’à la dernière maison, celle des fagotiers, et la dernière maison était pareille aux autres.
 
-Pas un cadavre. C’est cela qui lui cassa quelque chose dans la poitrine, ce midi-là, plus que tout le reste : il aurait donné n’importe quoi pour un cadavre. Un mort, on le pleure. Il a un corps, une place, une fosse à creuser, un nom à graver. On peut faire quelque chose d’un mort. Mais Sève-Basse n’était pas morte, Sève-Basse était partie. En plein midi, en pleine soupe, en pleine passe de métier, on avait retiré les gens de leur heure comme on retire une bûche du milieu du feu, et on les avait posés ailleurs, il ne savait ni où ni quand. Le village continuait sans eux de fumer, de bouillir et de faire tremper son linge, machine aveugle à qui l’on avait ôté ses hommes.
+Pas un cadavre. C’est cela qui lui cassa quelque chose dans la poitrine, ce midi-là, plus que tout le reste : il aurait donné n’importe quoi pour un cadavre. Un mort, on le pleure. Il a un corps, une place, une fosse à creuser, un nom à graver. On peut faire quelque chose d’un mort. Mais Sève-Basse était partie. En plein midi, en pleine soupe, en pleine passe de métier, on avait retiré les gens de leur heure comme on retire une bûche du milieu du feu, et on les avait posés ailleurs, il ne savait ni où ni quand. Le village continuait sans eux de fumer, de bouillir et de faire tremper son linge, machine aveugle à qui l’on avait ôté ses hommes.
 
 *
 
@@ -129,7 +129,7 @@ Non. Ce n’est pas ainsi qu’il faut le dire. Laissez-moi reprendre. Vous me p
 
 Il y a des tilleuls, ici. C’est la première chose. J’atterris, c’est le mot, on tombe d’un temps et le sol d’un autre vous reçoit ; j’atterris au bord d’une fête, sous des tilleuls en fleur. Il y a de la musique. Des gens dansent. Une femme au milieu des danseurs a le rire de ma mère, tellement le rire de ma mère que je fais un pas vers elle avant de comprendre que c’est une inconnue, dans un village que je ne connais pas, sous des arbres qui, chez moi, sont des souches depuis dix ans. Ici ils fleurissent. Donc je suis avant. Avant les souches, avant le grand vent, avant ma naissance peut-être. Je ne sais pas. Les nombres me lâchent dès que j’essaie de les remonter.
 
-Ils me voient. Voilà ce qui me serre : ils me voient, mais pas comme on voit un homme. La musique a hésité quand je suis apparu au bord des tilleuls. Un enfant m’a montré du doigt et sa mère a rabattu sa main. Une vieille a tracé du pouce un signe sur son front, contre le mauvais sort, et elle a détourné les yeux. Ils dansent de nouveau, maintenant, mais en s’écartant de l’endroit où je me tiens, et il reste autour de moi un rond vide dans la fête. Pour eux je suis un revenant. Un mort qui n’a pas trouvé sa porte. Ils ont un mot pour cela, ici, je l’entends courir de bouche en bouche à mi-voix, et ce mot n’est ni homme ni étranger : c’est celui qu’on donne aux ombres.
+Ils me voient. Voilà ce qui me serre : ils me voient, mais pas comme on voit un homme. La musique a hésité quand je suis apparu au bord des tilleuls. Un enfant m’a montré du doigt et sa mère a rabattu sa main. Une vieille a tracé du pouce un signe sur son front, contre le mauvais sort, et elle a détourné les yeux. Ils dansent de nouveau, maintenant, mais en s’écartant de l’endroit où je me tiens, et il reste autour de moi un rond vide dans la fête. Pour eux je suis un revenant. Un mort qui n’a pas trouvé sa porte. Ils ont un mot pour cela, ici, je l’entends courir de bouche en bouche à mi-voix : c’est celui qu’on donne aux ombres.
 
 Je voudrais leur dire : je ne suis pas mort. Je suis Talvenn de Sève-Basse, j’avais faim, j’attendais ma soupe, ma femme faisait bouillir des fèves et me cachait le nom d’une herbe. Coupez-moi et je saigne. Mais quand j’ouvre la bouche, ce qui sort ne les atteint pas, ou les atteint mal, comme une voix entendue à travers un mur : on saisit qu’elle parle, on ne saisit pas ce qu’elle dit. Je vais vers un homme, un grand, un qui n’a pas l’air d’avoir peur, et je lui prends le bras à pleine main. Je le tiens. Je sens la laine de sa manche et l’os dessous. Lui ne sent rien qu’un froid ; il regarde son bras, il regarde à travers moi, il cherche d’où vient le courant d’air. Ils reculent. La vieille refait son signe. Et je comprends lentement, de la lenteur d’un homme à qui l’on ôte un morceau à la fois, que dans ce beau matin de tilleuls qui n’est pas le mien je suis une ombre pour de bon. Mon sang n’y change rien. Je ne suis plus à mon heure, et cela suffit. Je suis un homme entier, avec ma faim, mon deuil et le nom d’une herbe qui me manque, posé de travers dans une heure qui n’est pas la mienne, et c’est cela que la vieille dessine sur son front.
 
@@ -143,7 +143,7 @@ Je ne suis pas seul. Il y a d’autres voix, éparpillées comme moi, et de loin
 
 Il y avait une soupe. Elle bouillait. Le couvert était mis pour trois.
 
-Je le dirai aussi longtemps que je pourrai le dire. Un jour, très loin d’ici, dans une remise de montagne, quelqu’un entendra ma voix et la prendra pour celle d’un mort. Il se trompera, et je ne pourrai pas le lui apprendre. Il chantera pour me montrer une porte que je n’ai pas à franchir, parce que je ne suis pas mort : je suis seulement ailleurs, seulement de travers, un homme qui attend encore, dans toutes les heures à la fois, que sa femme lui dise enfin le nom de l’herbe.
+Je le dirai aussi longtemps que je pourrai le dire. Un jour, très loin d’ici, dans une remise de montagne, quelqu’un entendra ma voix et la prendra pour celle d’un mort. Il se trompera, et je ne pourrai pas le lui apprendre. Il chantera pour me montrer une porte que je n’ai pas à franchir : je suis seulement ailleurs, seulement de travers, un homme qui attend encore, dans toutes les heures à la fois, que sa femme lui dise enfin le nom de l’herbe.
 
 *
 

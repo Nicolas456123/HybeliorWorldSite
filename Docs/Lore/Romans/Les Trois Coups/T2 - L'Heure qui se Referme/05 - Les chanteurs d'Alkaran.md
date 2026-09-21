@@ -12,7 +12,7 @@ status: draft
 
 Baelic mourait depuis onze jours, et il s’y prenait mal exprès, pour faire honte à Ombreth.
 
-C’était bien de lui. Ombreth y pensait encore ce matin-là, en montant le raidillon qui menait à la maison-basse des Renn. Chez les chanteurs d’Alkaran on ne disait pas *chez Baelic*, on disait *chez les Renn* : une maison portait le nom de la lignée qui l’avait creusée dans le flanc de la montagne, et les hommes qui la tenaient n’y passaient que leur tour. Baelic était le dernier des Renn. Après lui, il n’y aurait plus de nom à dire devant cette porte.
+C’était bien de lui. Ombreth y pensait encore ce matin-là, en montant le raidillon qui menait à la maison-basse des Renn. Chez les chanteurs d’Alkaran on disait *chez les Renn*, jamais *chez Baelic* : une maison portait le nom de la lignée qui l’avait creusée dans le flanc de la montagne, et les hommes qui la tenaient n’y passaient que leur tour. Baelic était le dernier des Renn. Après lui, il n’y aurait plus de nom à dire devant cette porte.
 
 On les avait toutes creusées de la même façon, les maisons des chanteurs : à demi enfoncées dans la roche, le seuil plus bas que le chemin, si bien qu’on descendait trois marches pour entrer. « On habite bas pour être à la hauteur de ceux qui poussent d’en dessous », disaient les vieux. Ombreth avait grandi dans une maison pareille, deux vallées plus loin, et de toute sa vie il n’était pas rentré chez lui sans cette petite descente qui lui rappelait à quel étage il logeait.
 
@@ -88,7 +88,7 @@ Quand Kolm fut reparti, avec force courbettes et un dernier regard inquiet vers 
 
 — J’ai vu un bon garçon.
 
-— Tu as vu l’avenir. » Il y avait de la cruauté dans sa voix, et elle n’était pas pour Kolm ; elle cherchait Ombreth, elle le visait. « Voilà ce qui tiendra les portes après nous. Du miel et des berceuses. Et tu sais ce qu’il y a de plus drôle ? » Il attendit, exigeant la question.
+— Tu as vu l’avenir. » Il y avait de la cruauté dans sa voix, et c’était Ombreth qu’elle visait. « Voilà ce qui tiendra les portes après nous. Du miel et des berceuses. Et tu sais ce qu’il y a de plus drôle ? » Il attendit, exigeant la question.
 
 « Quoi.
 
@@ -96,7 +96,7 @@ Quand Kolm fut reparti, avec force courbettes et un dernier regard inquiet vers 
 
 — L’inverse comment.
 
-— Et s’ils étaient nombreux parce qu’il *faut* qu’ils soient nombreux. » Le vieux pesait chaque mot sur ce qu’il avait encore de souffle, et Ombreth reconnut malgré lui la façon dont un chanteur cherche sa note, non plus dans la gorge, cette fois, dans la pensée. « Nous, on croit tenir des portes. On se croit indispensables, les grands passeurs sans qui les morts s’entassent. Notre orgueil de métier. Mais regarde bien. Les morts s’entassent quand même, et la Trame se remplit, quelque part, d’un poids qu’elle porte de moins en moins. Comme un grenier qu’on charge et qu’on charge. Un jour le plancher cède. Peut-être que personne ne nous fait rien, Ombreth. Peut-être qu’un grenier trop chargé commence à céder tout seul, sous son propre poids, et que les chanteurs n’ont jamais été que les gens qui montaient et descendaient l’escalier en croyant que le plancher tenait grâce à eux. »
+— Et s’ils étaient nombreux parce qu’il *faut* qu’ils soient nombreux. » Le vieux pesait chaque mot sur ce qu’il avait encore de souffle, et Ombreth reconnut malgré lui la façon dont un chanteur cherche sa note, dans la pensée cette fois. « Nous, on croit tenir des portes. On se croit indispensables, les grands passeurs sans qui les morts s’entassent. Notre orgueil de métier. Mais regarde bien. Les morts s’entassent quand même, et la Trame se remplit, quelque part, d’un poids qu’elle porte de moins en moins. Comme un grenier qu’on charge et qu’on charge. Un jour le plancher cède. Peut-être que personne ne nous fait rien, Ombreth. Peut-être qu’un grenier trop chargé commence à céder tout seul, sous son propre poids, et que les chanteurs n’ont jamais été que les gens qui montaient et descendaient l’escalier en croyant que le plancher tenait grâce à eux. »
 
 Ombreth se taisait. Dehors, le chien s’était tu. La femme polie attendait.
 
@@ -156,7 +156,7 @@ Il s’agenouilla près du garçon. La chambre, il la tendit doucement, sans for
 
 Il n’y avait personne.
 
-Baelic n’était pas resté. Le dernier des Renn était passé bien, tout seul, dans la nuit, sans avoir eu besoin qu’on lui trouvât sa note : il savait où était la porte, il avait passé sa vie à la montrer aux autres, il n’allait pas la rater pour lui-même. La femme polie non plus n’était plus là. Quelqu’un l’avait fait passer, et ce ne pouvait être que lui, dans un dernier effort, dans un chant qu’aucune bouche n’avait prononcé, apaisant l’inconnue avant de s’apaiser lui-même. Un chanteur qui range sa maison avant de la quitter.
+Le dernier des Renn était passé bien, tout seul, dans la nuit, sans avoir eu besoin qu’on lui trouvât sa note : il savait où était la porte, il l’avait montrée aux autres toute sa vie, il n’allait pas la rater pour lui-même. La femme polie non plus n’était plus là. Quelqu’un l’avait fait passer, et ce ne pouvait être que lui, dans un dernier effort, dans un chant qu’aucune bouche n’avait prononcé, apaisant l’inconnue avant de s’apaiser lui-même. Un chanteur qui range sa maison avant de la quitter.
 
 « Il n’y a plus rien ici, dit Ombreth, et il se releva. Plus personne. C’est une maison vide, maintenant. Une vraie. »
 
@@ -164,11 +164,11 @@ Baelic n’était pas resté. Le dernier des Renn était passé bien, tout seul,
 
 Il redescendit le raidillon dans le petit matin gris, et à mi-pente il s’assit sur un rocher plat, parce qu’il n’y avait plus de pente, ni dans un sens ni dans l’autre, qu’il pût prendre d’une traite.
 
-Il était le dernier, maintenant. Non plus l’un des deux derniers : le dernier. Le Dernier-qui-Chante, comme on l’appelait au bourg, un titre qu’il avait toujours trouvé trop lourd et qui, ce matin, tombait juste. Après lui, personne. Baelic le lui avait mis dans la bouche et il ne pouvait plus le recracher.
+Il était le dernier, maintenant. Le Dernier-qui-Chante, comme on l’appelait au bourg, un titre qu’il avait toujours trouvé trop lourd et qui, ce matin, tombait juste. Après lui, personne. Baelic le lui avait mis dans la bouche et il ne pouvait plus le recracher.
 
 Il repensa au grenier trop chargé. La Trame qui se remplit d’un poids qu’elle porte de moins en moins. Peut-être. Peut-être que les chanteurs n’avaient jamais rien retenu, qu’ils avaient monté et descendu l’escalier pendant mille ans sous un plancher qui n’avait pas besoin d’eux, et qu’il cédait aujourd’hui parce que c’était son heure de céder, comme un fruit tombe, sans faute et sans punition. Ou peut-être pas. Peut-être le prêtre avait-il raison : une blessure et un prix. Ou l’Inspecteur : une purge et un soulagement. Baelic était mort sans savoir, en mourant de la chose même sur laquelle tous les autres avaient un avis si ferme.
 
-Ce qu’Ombreth savait, ce matin-là, était plus petit et plus sûr, et Baelic l’avait dénudé avant de partir. Qu’il n’avait pas raté sa fenêtre. Qu’il l’avait laissée passer les yeux ouverts, deux ans plus tôt, un matin, en essuyant un filet de sang qu’il n’avait jamais vraiment pris pour une dent, quoi qu’il en eût dit ; qu’il avait su, dès la première goutte, ce que c’était et ce qu’il fallait faire, et qu’il ne l’avait pas fait. Qu’il mourrait donc de sa propre main autant que du Fléau, d’une main qui n’avait pas coupé quand elle le pouvait encore. Ce ne serait ni un martyre ni un accident : un choix, tenu jusqu’au bout, et personne à qui le faire porter.
+Ce qu’Ombreth savait, ce matin-là, était plus petit et plus sûr, et Baelic l’avait dénudé avant de partir. Qu’il avait laissé passer sa fenêtre les yeux ouverts, deux ans plus tôt, un matin, en essuyant un filet de sang qu’il n’avait jamais vraiment pris pour une dent, quoi qu’il en eût dit ; qu’il avait su, dès la première goutte, ce que c’était et ce qu’il fallait faire, et qu’il ne l’avait pas fait. Qu’il mourrait donc de sa propre main autant que du Fléau, d’une main qui n’avait pas coupé quand elle le pouvait encore. Ce serait un choix, tenu jusqu’au bout, et personne à qui le faire porter.
 
 En bas, la vallée d’Alkaran s’éclaircissait lentement, toit d’ardoise après toit d’ardoise, avec ses maisons enfoncées dans la roche pour rester à hauteur des morts ; et bientôt il n’y aurait plus, derrière aucune de ces portes, un vivant pour descendre les trois marches et entendre ce qui pousse d’en dessous.
 

@@ -17,11 +17,11 @@ Il y a du linge à tremper jusqu’à midi. Le savon sent la cendre et le suif. 
 
 Le village s’appelle Vaumielle. Je le dis tout de suite, avant qu’il m’échappe. Il est plein.
 
-Plein, oui. Pas comme un panier. Plein comme un fruit avant qu’on le morde, tendu du dedans. Soixante feux, et derrière chaque feu des gens, et derrière ces gens d’autres gens qu’on ne voit pas et qu’on touche quand même, à Sanavir, à Onara-la-Basse, jusqu’aux cités qui flottent dont j’entends les cloches certains matins, à cent lieues d’ici. Je les entends parce qu’on me les donne. Il suffit d’écouter du bon côté, et le monde entier vous est prêté. Personne n’est seul ici. Personne. Là où vous êtes, quelqu’un est seul ; je le devine à je ne sais quoi, à un froid que vous avez et que je n’ai pas encore. Ici, on tend la main dans le noir et une main répond. Ma grand-mère mourra l’an prochain. Je serai à son chevet, je tiendrai sa main, et par sa main je tiendrai tous ceux qu’elle a tenus, et ce sera doux. Mourir, chez nous, on appelle ça passer la haie.
+Plein, oui. Plein comme un fruit avant qu’on le morde, tendu du dedans. Soixante feux, et derrière chaque feu des gens, et derrière ces gens d’autres gens qu’on ne voit pas et qu’on touche quand même, à Sanavir, à Onara-la-Basse, jusqu’aux cités qui flottent dont j’entends les cloches certains matins, à cent lieues d’ici. Je les entends parce qu’on me les donne. Il suffit d’écouter du bon côté, et le monde entier vous est prêté. Personne n’est seul ici. Personne. Là où vous êtes, quelqu’un est seul ; je le devine à je ne sais quoi, à un froid que vous avez et que je n’ai pas encore. Ici, on tend la main dans le noir et une main répond. Ma grand-mère mourra l’an prochain. Je serai à son chevet, je tiendrai sa main, et par sa main je tiendrai tous ceux qu’elle a tenus, et ce sera doux. Mourir, chez nous, on appelle ça passer la haie.
 
 Alors pourquoi est-ce que ça me fait mal.
 
-Non. Attendez. Je vais bien. Je vais très bien. Quel âge ai-je ? L’âge de la femme qui rit près des ruches, disons. Ou celui d’avant. Le temps ne presse pas, chez nous : il tourne. Il y a une roue quelque part, très vieille, dans un temple d’Endora que je n’ai jamais vu, et des hommes en gris la font tourner en croyant qu’ils tiennent le temps. Peut-être qu’ils le tiennent, qui suis-je pour dire. Moi, c’est le temps qui me tient, comme le grain dans la meule, et il me broie doucement, et jusqu’à ce matin ça ne faisait pas mal.
+Non. Attendez. Je vais bien. Je vais très bien. Quel âge ai-je ? L’âge de la femme qui rit près des ruches, disons. Ou celui d’avant. Le temps ne presse pas, chez nous. Il y a une roue quelque part, très vieille, dans un temple d’Endora que je n’ai jamais vu, et des hommes en gris la font tourner en croyant qu’ils tiennent le temps. Peut-être qu’ils le tiennent, qui suis-je pour dire. Moi, c’est le temps qui me tient, comme le grain dans la meule, et il me broie doucement, et jusqu’à ce matin ça ne faisait pas mal.
 
 Ce matin, ça fait mal.
 
@@ -97,9 +97,9 @@ Il avait raison, avec la vérité de son monde à lui. Ici, ce que j’ai dans l
 
 — Si. Ça coule. »
 
-J’ai touché ma joue. Ce n’était pas de l’eau du lavoir. Sur mes doigts, sous le beau soleil de Vaumielle, il y avait du rouge. Un filet fin, venu du nez ou de l’œil, je n’ai pas su dire. Je le comprends à l’instant où je vous le dis : ça saigne quand j’appelle. Le monde me tend encore son cadeau. La main tiède est là, entière, partout, et elle ne mourra pas avant quarante ans. Mais quand je la prends, je saigne, parce que ma part à moi est déjà pourrie là d’où je viens, et je la rapporte dans le fruit intact.
+J’ai touché ma joue. Sur mes doigts, sous le beau soleil de Vaumielle, il y avait du rouge. Un filet fin, venu du nez ou de l’œil, je n’ai pas su dire. Je le comprends à l’instant où je vous le dis : ça saigne quand j’appelle. Le monde me tend encore son cadeau. La main tiède est là, entière, partout, et elle ne mourra pas avant quarante ans. Mais quand je la prends, je saigne, parce que ma part à moi est déjà pourrie là d’où je viens, et je la rapporte dans le fruit intact.
 
-L’enfant a reculé d’un pas. Pas de peur. D’étonnement.
+L’enfant a reculé d’un pas, les yeux sur mes doigts comme devant une chose neuve.
 
 « Ça fait mal ?
 

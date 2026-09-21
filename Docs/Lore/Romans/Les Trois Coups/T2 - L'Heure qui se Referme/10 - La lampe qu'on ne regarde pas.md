@@ -18,7 +18,7 @@ Le feu était la première chose de la maison. On l’apprenait aux enfants avan
 
 Et Lirenn, ce matin-là, tisonnait le foyer les yeux tournés de côté.
 
-Pas fermés. Pas baissés. Tournés de trois doigts vers la droite, vers l’angle mort au bord de la lumière, là où la clarté du feu s’arrêtait et où commençait l’ombre de l’établi. Elle poussait les braises à l’aveugle, de mémoire, et sa joue fuyait la flamme comme on se détourne d’une gifle qu’on voit venir.
+Tournés de trois doigts vers la droite, vers l’angle mort au bord de la lumière, là où la clarté du feu s’arrêtait et où commençait l’ombre de l’établi. Elle poussait les braises à l’aveugle, de mémoire, et sa joue fuyait la flamme comme on se détourne d’une gifle qu’on voit venir.
 
 « Regarde ce que tu fais », dit Kessane.
 
@@ -178,7 +178,7 @@ Lirenn fronça les sourcils, avec cette gravité qu’elle mettait à peser les 
 
 — La dame me dit tout le temps de faire ça. » Lirenn eut un petit sourire triste, trop vieux pour son visage. « Elle dit : petite, fais comme si tu m’entendais pas. Elle sera contente que je le fasse enfin. Elle attend ça depuis longtemps. »
 
-Kessane resta un moment le front penché près du foyer, à sentir la chaleur lui prendre la figure. Elle apprenait à une enfant de neuf ans à tenir un visage lisse et à mentir avec le corps, et elle le lui apprenait ici, dans la maison où sa lignée s’était crue à l’abri pendant mille ans. Cela ne gagnerait que du temps. Faire semblant ne fermait aucune porte ; cela tenait le battant, l’épaule appuyée dessus, en attendant qu’elle trouve le courage de le murer.
+Kessane resta un moment le front penché près du foyer, à sentir la chaleur lui prendre la figure. Elle apprenait à une enfant de neuf ans à tenir un visage lisse et à mentir avec le corps, et elle le lui apprenait ici, dans la maison où sa lignée s’était crue à l’abri pendant mille ans. Cela ne gagnerait que du temps. Faire semblant tenait le battant, l’épaule appuyée dessus, en attendant qu’elle trouve le courage de le murer.
 
 « Bien, dit-elle. On va s’entraîner. Regarde le feu. La dame y est ?
 
@@ -192,6 +192,6 @@ Lirenn tourna le visage vers la flamme et fixa l’endroit brûlant où sa mère
 
 — Comme ça. Tous les jours, ma toute. Jusqu’à ce que ça se voie plus. »
 
-Cette nuit-là, Kessane redescendit à la cave. Elle ouvrit le cahier à l’endroit qu’il fallait : le geste, l’eau froide, la table basse, tout ce que quinze siècles de mains avaient recopié pour ce jour-là. Et cette nuit, pour la première fois, elle ne se dit pas *demain*. Elle se dit *bientôt*. Le mot avait le poids d’un fer qu’on sort du feu au bon moment.
+Cette nuit-là, Kessane redescendit à la cave. Elle ouvrit le cahier à l’endroit qu’il fallait : le geste, l’eau froide, la table basse, tout ce que quinze siècles de mains avaient recopié pour ce jour-là. Et cette nuit, pour la première fois, elle se dit *bientôt* à la place de *demain*. Le mot avait le poids d’un fer qu’on sort du feu au bon moment.
 
 Les villages d’une plaine soufflaient leur lampe de bonne heure ; dessous, quelque chose creusait, toujours à la même allure, et cela, vu d’en haut, ressemblait à un pâturage comme un autre.

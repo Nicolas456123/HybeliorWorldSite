@@ -15,7 +15,7 @@ La lampe était trop basse. À cette hauteur de mèche l’encre coulait épaiss
 
 Il en était à la troisième page. La copie qu’on lui avait apportée, celle qu’il devait reproduire feuille contre feuille, tenait ouverte à sa gauche, calée par un galet de rivière. Une mauvaise copie. Le frère qui l’avait faite avait eu la main pressée ou la peur au ventre : des mots sautés, d’autres doublés, et à deux endroits l’encre s’était dissoute en une auréole brune, comme si le parchemin avait pleuré.
 
-Olven ne corrigeait rien. On ne corrige pas un témoignage : on le porte tel qu’il vous arrive, avec ses trous, et si l’on croit savoir mieux, on l’écrit en bas, dans la marge.
+Olven ne corrigeait rien. Un témoignage se porte tel qu’il vous arrive, avec ses trous, et si l’on croit savoir mieux, on l’écrit en bas, dans la marge.
 
 On lui avait appris cela à seize ans, dans une cellule qui sentait la même mauvaise huile que celle-ci : que corriger, c’est effacer le frère d’avant ; qu’il ne saurait jamais laquelle des deux mains avait raison, la sienne ou celle de l’autre ; qu’il fallait donc garder les deux et laisser le lecteur trancher. Le vieux qui lui avait enseigné cela était mort depuis, un matin où il ne s’était pas levé. Olven gardait toutes les mains. Les fautes de tous les frères passés avant lui dormaient côte à côte sous la sienne.
 
@@ -55,13 +55,13 @@ Un raclement contre la porte le fit sursauter.
 
 *
 
-Ce n’étaient pas les Inspecteurs. Les Inspecteurs ne raclent pas les portes, ils les ouvrent. Olven avait appris les bruits de porte comme un aveugle apprend les pas : ce racle bas contre le battant, c’était un vivant qui n’avait plus la force de frapper à hauteur d’homme.
+Les Inspecteurs ouvrent les portes. Olven avait appris les bruits de porte comme un aveugle apprend les pas : ce racle bas contre le battant, c’était un vivant qui n’avait plus la force de frapper à hauteur d’homme.
 
 Il ouvrit. Le froid entra avant l’homme.
 
-L’homme se tenait courbé, une main à plat sur le chambranle, comme s’il avait besoin du mur pour se rappeler comment on reste debout. Jeune, sous la crasse : trente ans, peut-être moins. Ses yeux fuyaient la lampe, et ils la fuyaient de biais, obliquement, ce qui n’était pas de la timidité. La lumière lui faisait mal. Elle lui montrait des choses au bord d’elle, dans les coins, et il ne voulait pas les regarder de peur qu’elles le regardent en retour.
+L’homme se tenait courbé, une main à plat sur le chambranle, comme s’il avait besoin du mur pour se rappeler comment on reste debout. Jeune, sous la crasse : trente ans, peut-être moins. Ses yeux fuyaient la lampe, et ils la fuyaient de biais, obliquement. La lumière lui faisait mal. Elle lui montrait des choses au bord d’elle, dans les coins, et il ne voulait pas les regarder de peur qu’elles le regardent en retour.
 
-Olven connaissait ce regard. Il en voyait un par saison, toujours à la même heure de la nuit, toujours chez des gens qui avaient marché longtemps pour arriver à une porte dont ils n’attendaient plus grand-chose. Il baissa la mèche d’un cran, non pour l’huile cette fois.
+Olven connaissait ce regard. Il en voyait un par saison, toujours à la même heure de la nuit, toujours chez des gens qui avaient marché longtemps pour arriver à une porte dont ils n’attendaient plus grand-chose. Il baissa la mèche d’un cran, cette fois pour les yeux d’en face.
 
 « Entre, dit-il. Le feu n’est pas grand, mais il est à toi autant qu’à moi.
 
@@ -179,7 +179,7 @@ Olven le regarda longtemps. Ils avaient raison tous les deux, et leurs deux rais
 
 « Je ne te le vends pas, dit-il. On ne vend pas ça. »
 
-Il ne prit pas son modèle. Celui-là, il le gardait ; il en était le copiste, il devait le faire vivre encore. Il prit la copie qu’il achevait, l’encre à peine sèche, avec la phrase du troisième feuillet posée dedans de sa main à lui, entière et vérifiée trois fois, et il l’enveloppa dans un carré de toile cirée, pour la pluie et pour la boue des chemins.
+Son modèle, il le gardait ; il en était le copiste, il devait le faire vivre encore. Il prit la copie qu’il achevait, l’encre à peine sèche, avec la phrase du troisième feuillet posée dedans de sa main à lui, entière et vérifiée trois fois, et il l’enveloppa dans un carré de toile cirée, pour la pluie et pour la boue des chemins.
 
 « Tiens. Celui-ci est propre. Ne le montre à personne sur la route. Un Tisse qu’on trouve avec un texte verithane, ça leur fait deux motifs au lieu d’un. »
 

@@ -100,7 +100,7 @@ Le nom ne lui dit rien, et ne pouvait rien lui dire, ni à lui ni à personne da
 
 « Corvane, dit-elle, il faut que nous parlions, vous et moi. Pas ici. »
 
-Elle l’avait dit du même ton que le reste, ni plus bas ni plus grave, et ce fut cela qui le figea. Pas la menace : il n’y avait pas de menace. L’absence de changement. Une voisine aimable venait de dire *il faut que nous parlions* comme elle aurait dit *j’ai des œufs à vous vendre*, et l’écart entre le ton et les mots ouvrit sous Corvane un vide où il tomba d’un coup, avant même de comprendre pourquoi.
+Elle l’avait dit du même ton que le reste, ni plus bas ni plus grave, et ce fut cela qui le figea : l’absence de changement. Une voisine aimable venait de dire *il faut que nous parlions* comme elle aurait dit *j’ai des œufs à vous vendre*, et l’écart entre le ton et les mots ouvrit sous Corvane un vide où il tomba d’un coup, avant même de comprendre pourquoi.
 
 « Je vous connais pas », dit-il. La négation tombée, comme tombent les formes chez les gens qui ont peur.
 
@@ -110,23 +110,23 @@ Le corroyeur devint gris. La cendre du marché, tombée sur tous les visages, pa
 
 « Comment vous— »
 
-« Parce que c’est mon métier de le savoir. » Elle le laissa comprendre seul, sans nommer le métier ; dans cette ville, le mot n’avait pas besoin d’être dit pour être entendu, et elle le vit arriver en lui, se poser, faire son travail. Elle vit les yeux de l’homme chercher les issues, l’allée des grains, le puits, la sortie sud, et elle le vit renoncer. Il ne renonçait pas faute d’issue. La fatigue de trois mois venait de passer d’un coup par-dessus la peur, cette fatigue des gens qui portent une chose trop lourde et à qui l’on vient annoncer qu’ils ont le droit de la poser.
+« Parce que c’est mon métier de le savoir. » Elle le laissa comprendre seul, sans nommer le métier ; dans cette ville, le mot n’avait pas besoin d’être dit pour être entendu, et elle le vit arriver en lui, se poser, faire son travail. Elle vit les yeux de l’homme chercher les issues, l’allée des grains, le puits, la sortie sud, et elle le vit renoncer. La fatigue de trois mois venait de passer d’un coup par-dessus la peur, cette fatigue des gens qui portent une chose trop lourde et à qui l’on vient annoncer qu’ils ont le droit de la poser.
 
 « Ma femme, dit-il. Mes gosses.
 
 — Nous parlerons d’eux. » Elle ne dit pas *ils ne risquent rien* ; à cette heure de la ville, c’eût été un mensonge, et elle ne mentait pas. Ce qu’elle dit était vrai. « Ils ne sont pas malades, eux. Le mal ne prend pas les gens comme votre femme et vos enfants. Il ne prend que ceux qui sont faits comme vous. Vous le savez déjà, cela aussi. »
 
-Il le savait. Elle le lut sur lui : le petit affaissement du soulagement au milieu de l’effroi, la part de lui qui depuis des semaines tremblait moins pour lui-même que pour les siens, et qui venait d’apprendre que les siens seraient épargnés. C’était toujours par là qu’ils cédaient, les hommes de cette sorte. Pas par la peur de mourir. Par l’assurance qu’en mourant ils n’emporteraient personne.
+Il le savait. Elle le lut sur lui : le petit affaissement du soulagement au milieu de l’effroi, la part de lui qui depuis des semaines tremblait moins pour lui-même que pour les siens, et qui venait d’apprendre que les siens seraient épargnés. C’était toujours par là qu’ils cédaient, les hommes de cette sorte : par l’assurance qu’en mourant ils n’emporteraient personne.
 
 « Venez, dit Vaenor. Marchons. »
 
 *
 
-Ils sortirent du marché et gagnèrent le petit jardin muré où l’on avait planté, du temps où la ville plantait encore, quelques tilleuls que la cendre avait à demi tués. Vaenor les menait toujours là, ou dans des lieux comme celui-là. Il fallait un endroit sans témoins et sans écho, où les choses pussent se dire à leur poids. Ce n’était pas de la pitié. Vaenor se méfiait de la pitié comme d’une main qui tremble. C’était de la méthode : elle faisait ce travail à voix basse, sous des arbres, parce que la voix basse était tout ce qu’elle pouvait encore donner à un homme avant la fiole.
+Ils sortirent du marché et gagnèrent le petit jardin muré où l’on avait planté, du temps où la ville plantait encore, quelques tilleuls que la cendre avait à demi tués. Vaenor les menait toujours là, ou dans des lieux comme celui-là. Il fallait un endroit sans témoins et sans écho, où les choses pussent se dire à leur poids. Vaenor se méfiait de la pitié comme d’une main qui tremble. C’était de la méthode : elle faisait ce travail à voix basse, sous des arbres, parce que la voix basse était tout ce qu’elle pouvait encore donner à un homme avant la fiole.
 
 Le jardin sentait la feuille mouillée et le fer froid. Un merle sautait sur le faîte du mur, s’arrêtait, repartait. Au-dessus du banc les tilleuls lâchaient leurs dernières feuilles, une à une, sans vent, et l’une d’elles se posa sur le genou de l’homme et y resta.
 
-Ils s’assirent. Corvane tremblait un peu, non de froid, et elle attendit qu’il se pose.
+Ils s’assirent. Corvane tremblait un peu, et elle attendit qu’il se pose.
 
 « Vous allez me tuer », dit-il enfin. Sans colère. C’était toujours sans colère à la fin, et c’était le plus difficile à porter ; de la colère, elle aurait su quoi faire. Ils arrivaient tous, tôt ou tard, à ce calme des gens qui ont cessé de se débattre.
 
@@ -138,7 +138,7 @@ Ils s’assirent. Corvane tremblait un peu, non de froid, et elle attendit qu’
 
 Il ne répondit pas. C’était un oui.
 
-« Dans deux mois, trois, vous saignerez. Du nez, des yeux. Chaque fois que vous chercherez à vous servir de ce qui vous fait ce que vous êtes. Et vous chercherez : on cherche toujours, c’est plus fort que soi. Puis vous ne saignerez plus, parce que vous n’oserez plus. Ensuite les mains ne répondront plus. Les doigts d’abord. Un corroyeur sans ses doigts. » Elle laissa cela poser, non par cruauté, mais parce qu’elle lui devait de savoir ce qu’on lui épargnait. « Et à la fin, dans un an, un peu plus, vous serez couché quelque part sans pouvoir bouger ni parler, et vous crierez. Vous crierez sans arrêt. J’ai vu un village entier, Corvane, de mes yeux. Le pire est que vous ne saurez même pas que vous criez. Ce sera votre corps qui criera. Vous serez déjà parti, et il restera là, à crier tout seul, des semaines. »
+« Dans deux mois, trois, vous saignerez. Du nez, des yeux. Chaque fois que vous chercherez à vous servir de ce qui vous fait ce que vous êtes. Et vous chercherez : on cherche toujours, c’est plus fort que soi. Puis vous ne saignerez plus, parce que vous n’oserez plus. Ensuite les mains ne répondront plus. Les doigts d’abord. Un corroyeur sans ses doigts. » Elle laissa cela poser, parce qu’elle lui devait de savoir ce qu’on lui épargnait. « Et à la fin, dans un an, un peu plus, vous serez couché quelque part sans pouvoir bouger ni parler, et vous crierez. Vous crierez sans arrêt. J’ai vu un village entier, Corvane, de mes yeux. Le pire est que vous ne saurez même pas que vous criez. Ce sera votre corps qui criera. Vous serez déjà parti, et il restera là, à crier tout seul, des semaines. »
 
 Sous les tilleuls morts, le silence fut complet. Très loin, le marché continuait de vivre son mensonge.
 
@@ -162,7 +162,7 @@ Rien.
 
 « Il est vrai que certains coupent », dit Vaenor, doucement, comme on borde un enfant, parce que c’était vrai et parce que le vrai servait mieux, dans ce métier, que le faux. « Il est vrai que quelques-uns vivent. Mais il faut une main qui sache, et une main qui ne sait pas tue à tous les coups, tous, j’ai vu les corps. Il faut que ce soit fait maintenant, en cette saison-ci et pas la suivante. Et il faut trouver la main. Où la trouverez-vous, Corvane ? En combien de temps ? » Elle laissa les questions faire leur chemin. « Vous entrerez en saison de sang avant d’avoir trouvé une main qui sache, et couper alors n’ajoutera qu’une douleur à une mort déjà en marche. Faites le compte vous-même. Je ne veux pas le faire à votre place. »
 
-Alors elle le vit comprendre. C’était toujours le pire instant, celui où ils comprenaient. Non qu’ils allaient mourir : ils le savaient déjà. Qu’*elle avait raison*, que la seule porte s’était ouverte trop loin d’eux et se refermait à mesure qu’ils la cherchaient. Elle leur ôtait l’espoir, et pas par cruauté. L’espoir, à ce stade, était le plus long des supplices, et elle abrégeait les supplices. C’était sa charge, son titre, et ce qui lui restait de foi.
+Alors elle le vit comprendre. C’était toujours le pire instant, celui où ils comprenaient. Mourir, ils le savaient déjà ; ce qui leur venait là, c’était qu’*elle avait raison*, que la seule porte s’était ouverte trop loin d’eux et se refermait à mesure qu’ils la cherchaient. Elle leur ôtait l’espoir. L’espoir, à ce stade, était le plus long des supplices, et elle abrégeait les supplices. C’était sa charge, son titre, et ce qui lui restait de foi.
 
 Elle ne se disait pas, pas avec des mots, qu’elle ignorait au fond s’il n’aurait pas trouvé la main. Qu’il existait dans les marges des mains qui savaient, et des gens coupés à temps qui labouraient aujourd’hui leur champ, sourds et vivants. Qu’entre le corroyeur assis sur ce banc et l’un de ces vivants-là il y avait peut-être la seule distance d’une route qu’il n’aurait pas eu le temps de faire, ou peut-être un abîme que rien n’aurait comblé, et qu’elle, Vaenor Sorne, ne pouvait pas savoir de quel côté il serait tombé. Non. Elle ne se le disait pas. Se le dire, c’eût été laisser sortir de la pièce fermée la bouche qui répétait *ce ne sont que les poutres* ; c’eût été rouvrir le verrou. Elle le tint clos. Elle avait besoin d’avoir raison plus que d’air, parce que si elle n’avait pas raison ici, elle n’avait pas eu raison là-bas non plus, et cela n’entrait dans aucune pièce.
 
@@ -170,13 +170,13 @@ Elle ne se disait pas, pas avec des mots, qu’elle ignorait au fond s’il n’
 
 — Doucement. » Elle sortit de la poche intérieure de sa veste une petite fiole de verre sombre et la posa sur le banc, entre eux, sans la lui tendre. « C’est le repos. Vous vous endormez, et vous ne saignez pas, et vous ne criez pas, et votre corps ne reste pas seul à crier après vous quand vous êtes déjà parti. Vous partez d’un coup, propre, et vos enfants se souviendront d’un père qui s’est éteint, pas d’un père qui a hurlé six semaines dans une grange. C’est tout ce que je peux vous donner, Corvane. Ce n’est pas rien. »
 
-Il regarda la fiole. Il ne la prit pas ; ils ne la prenaient jamais du premier coup. Il fallait la regarder longtemps, apprivoiser la petite chose sombre qui tenait dans une paume et qui tenait toute la mort d’un homme. Vaenor connaissait cette durée et ne la pressait pas. Presser, ici, c’eût été de la barbarie. Elle n’était pas barbare : elle était la dernière douceur d’une ville qui n’en avait plus, elle le savait, et c’était ce savoir qui lui permettait de continuer.
+Il regarda la fiole. Il ne la prit pas ; ils ne la prenaient jamais du premier coup. Il fallait la regarder longtemps, apprivoiser la petite chose sombre qui tenait dans une paume et qui tenait toute la mort d’un homme. Vaenor connaissait cette durée et ne la pressait pas. Presser, ici, c’eût été de la barbarie. Elle était la dernière douceur d’une ville qui n’en avait plus, elle le savait, et c’était ce savoir qui lui permettait de continuer.
 
 « Ma femme, dit-il encore.
 
 — Vous rentrerez chez vous ce soir, dit Vaenor. Vous embrasserez vos enfants, vous mangerez avec eux, vous ferez ce qu’on fait un dernier soir sans qu’ils sachent que c’est un dernier soir. C’est le plus grand cadeau, croyez-moi : un dernier soir ordinaire, un dernier soir sans adieux qui pèsent. Puis, quand ils dormiront, vous prendrez ce que je vous ai donné. Ou vous ne le prendrez pas, et je reviendrai, et nous en reparlerons, et à la fin ce sera la même chose, seulement plus tard et avec plus de douleur au milieu. Je préférerais que ce soit ce soir. Pour vous. Pas pour moi. »
 
-C’était vrai aussi. Sur ce point-là elle ne mentait jamais. Rien, dans ce qu’elle faisait, n’était pour elle, sinon ce besoin d’avoir eu raison, qui n’était pas un avantage mais une dette, et qu’elle payait à chaque fiole posée sur chaque banc.
+C’était vrai aussi. Sur ce point-là elle ne mentait jamais. Rien, dans ce qu’elle faisait, n’était pour elle, sinon ce besoin d’avoir eu raison, qui était une dette, et qu’elle payait à chaque fiole posée sur chaque banc.
 
 *
 
