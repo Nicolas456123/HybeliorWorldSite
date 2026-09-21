@@ -173,4 +173,4 @@ Une nuit, à sa table, il avait posé côte à côte trois pièces que rien, en 
 
 Et cela arriverait. Il le sentait sans pouvoir l’écrire, comme la femme l’entendait sans pouvoir le nommer, et leurs deux ignorances se ressemblaient plus qu’il n’aurait toléré de l’admettre. Alors il fit, debout dans la cendre, le geste qu’il faisait à sa table devant une pièce qui n’entre nulle part : il chercha à quel dossier la joindre. Il en avait une maison pleine, sous une ville, à des semaines de là. Il les passa en revue, et il les passa vite, parce qu’aucun n’était de cette affaire-là.
 
-Dans la pierre sous la pente, une chose montait qui arriverait la dernière et prendrait le premier numéro, et tout ce qu’on avait classé au-dessus d’elle en deviendrait la suite.
+Dans la pierre sous la pente, une chose montait qui arriverait la dernière et prendrait le premier numéro, et tout le classement au-dessus d’elle en deviendrait la suite.

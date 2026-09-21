@@ -186,4 +186,4 @@ Une pulse monta, plus proche encore que la précédente, si proche que le souffl
 
 Elle tint l’enfant plus fort. Sa main libre s’était refermée toute seule sur la poche où le pain n’était plus. Le temps de ce mot-là, demanda-t-elle ; laisse-moi le tenir jusqu’à ce que le mot soit entier, et après, s’il faut le lâcher vers le haut, je le lâcherai ; mais donne-moi le mot entier d’un seul tenant, et personne entre lui et moi pendant ce temps-là. Elle ne sut pas à qui elle demandait cela.
 
-Au fond du gosier, sous la cendre que quinze mille pas avaient tassée, ce qui poussait rendit son creux au val, puis le referma sur tout ce qu’on avait commencé dedans.
+Au fond du gosier, sous la cendre que quinze mille pas avaient tassée, ce qui poussait rendit son creux au val, puis le referma sur ce qu’on y avait commencé.

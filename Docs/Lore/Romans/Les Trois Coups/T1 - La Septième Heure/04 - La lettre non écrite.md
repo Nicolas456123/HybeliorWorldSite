@@ -183,4 +183,4 @@ Elle souffla la lampe. Dans le noir, par vieux réflexe orvane, elle lança le f
 
 Le fil partit dans la nuit. Il ne revint pas.
 
-Et à l’autre bout de ce fil qui ne rapportait rien, dans la nuit où dormait déjà, près de son feu, l’homme qui saurait couper, une montagne portait sans le savoir tout ce qu’on lui demanderait un jour de lâcher, et personne à Celethor n’en avait seulement le nom en tête ce soir-là, sauf une femme qui venait de décider d’aller jusqu’à elle.
+Et à l’autre bout de ce fil qui ne rapportait rien, dans la nuit où dormait déjà, près de son feu, l’homme qui saurait couper, une montagne portait sans le savoir tout ce qu’on lui demanderait un jour de lâcher, et personne à Celethor n’en avait seulement le nom en tête, sauf une femme qui avait décidé, ce soir-là, d’aller jusqu’à elle.

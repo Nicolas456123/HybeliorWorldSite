@@ -167,4 +167,4 @@ Elle remit le cahier contre sa peau, réveilla Wenna d’une main sur l’épaul
 
 Elles sortirent du val par le sud, la petite devant, Sanne derrière avec la charge haute. Sur la crête, il n’y avait plus personne, ou bien il y avait quelqu’un qui ne se laissait plus prendre à contre-jour. Sanne garda les yeux sur le chemin. Le dos faisait le reste ; il l’avait toujours fait.
 
-Dans la roche du val, que le gel tenait jusqu’au ruisseau, quelque chose appuyait du dedans, et la marque que cela usait en remontant s’élargissait d’une nuit à l’autre, du peu dont s’élargit, sur une épaule, la place d’une lanière.
+Dans la roche du val, que le gel tenait jusqu’au ruisseau, quelque chose appuyait du dedans, et la marque que cela usait en remontant s’élargissait de nuit en nuit, du peu dont s’élargit, sur une épaule, la place d’une lanière.
