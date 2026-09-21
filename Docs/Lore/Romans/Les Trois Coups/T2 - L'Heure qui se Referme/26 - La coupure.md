@@ -12,7 +12,7 @@ status: draft
 
 On ne coupe pas à froid.
 
-C’était la première ligne du geste, celle que la mère Sanvel lui avait fait lire le jour du serment, soulignée de ce trait maladroit qu’une main morte avait tiré dessous. Kessane l’avait relue chaque nuit depuis, et elle la savait comme elle savait le silence du fer. On chauffe d’abord. On amène la chose au point où elle cède sans se briser. Une barre qu’on tord à froid casse net et emporte un doigt ; chauffée, elle plie et se laisse faire. Le cahier ne disait pas chauffer. Le cahier disait : *apaiser l’enfant, l’installer dans le sommeil du seuil, ne rien tenter tant qu’iel lutte.* Kessane traduisait tout dans sa langue, parce que c’était la seule où elle ne se mentait pas, et cela revenait au même.
+C’était la première ligne du geste, celle que la mère Sanvel lui avait fait lire le jour du serment, soulignée de ce trait maladroit qu’une main morte avait tiré dessous. Kessane l’avait relue chaque nuit depuis, et elle la savait comme elle savait le silence du fer. On chauffe d’abord. On amène la chose au point où elle cède sans se briser. Une barre qu’on tord à froid casse net et emporte un doigt ; chauffée, elle plie et se laisse faire. Le cahier disait : *apaiser l’enfant, l’installer dans le sommeil du seuil, ne rien tenter tant qu’iel lutte.* Kessane traduisait tout dans sa langue, parce que c’était la seule où elle ne se mentait pas, et cela revenait au même.
 
 La table basse était prête. Tirée du renfoncement la veille, calée sur la terre battue, elle avait reçu dans l’ordre ce que le cahier demandait : le baquet d’eau froide, les linges, le charbon, le paquet plat qui gardait la lame courte, l’aiguille courbe et le miroir de la coupe dont elle n’avait toujours pas compris l’usage, et les trois aiguilles longues qu’elle avait forgées cette semaine-là et retrempées jusqu’à ce qu’elles chantent juste. Le cahier était ouvert à la page du geste, calé contre la pierre du mur par un galet. Une lampe, une seule, pendue au clou à hauteur d’épaule.
 
@@ -54,9 +54,9 @@ Kessane trempa un linge dans l’eau froide, l’essora, le reposa plié au bord
 
 Le cahier avait un défaut : ce n’était pas un livre de forge.
 
-Elle s’en apercevait maintenant, à genoux devant la table, la lampe tirée près pour ne pas perdre un mot. L’homme du fond, celui dont l’encre était la plus pâle et que toutes les autres mains n’avaient fait que recopier, cet homme-là ne coupait rien du tout. Il décrivait. Il avait regardé quelqu’un couper, ou il s’était figuré qu’on pût le faire, et il l’avait mis en mots avec le soin d’un témoin et non celui d’un artisan. Ses phrases étaient trop belles. Un mode d’emploi dit *prends ceci, tiens comme ça, ne dépasse pas cette ligne*. Celui-là disait : *le Lien résiduel n’est pas mort, il dort d’un sommeil brisé, et c’est ce sommeil qu’il faut trancher sans réveiller ce qui dort.*
+Elle s’en apercevait maintenant, à genoux devant la table, la lampe tirée près pour ne pas perdre un mot. L’homme du fond, celui dont l’encre était la plus pâle et que toutes les autres mains n’avaient fait que recopier, cet homme-là décrivait. Il avait regardé quelqu’un couper, ou il s’était figuré qu’on pût le faire, et il l’avait mis en mots avec le soin d’un témoin et non celui d’un artisan. Ses phrases étaient trop belles. Un mode d’emploi dit *prends ceci, tiens comme ça, ne dépasse pas cette ligne*. Celui-là disait : *le Lien résiduel n’est pas mort, il dort d’un sommeil brisé, et c’est ce sommeil qu’il faut trancher sans réveiller ce qui dort.*
 
-Alors elle avait fait ce que sa maison faisait de ce cahier depuis mille ans : elle avait cogné la beauté de l’homme jusqu’à ce qu’elle rende un outil. *Trancher sans réveiller* : lever un copeau sur une pièce trempée sans la fêler. *Le sommeil brisé* : le point mou dans un métal par ailleurs dur, le défaut qu’on sent sous le marteau avant de le voir. Un défaut, elle savait le trouver à l’oreille ; toute sa vie n’avait été que ça, chercher dans une matière qui a l’air pleine l’endroit exact où elle est autre chose. Le cahier lui disait où cet endroit se tenait dans un enfant. Sous le sternum, d’abord, à chercher la paume à plat. Puis aux deux tempes et à la base de la nuque, les trois points que les aiguilles devaient joindre pour fermer la chaîne. Et par cette chaîne fermée, tirer. *Un seul coup, disait le cahier, un seul et franc ; l’hésitation tue plus sûrement que la faute.*
+Alors elle avait fait ce que sa maison faisait de ce cahier depuis mille ans : elle avait cogné la beauté de l’homme jusqu’à ce qu’elle rende un outil. *Trancher sans réveiller* : lever un copeau sur une pièce trempée sans la fêler. *Le sommeil brisé* : le point mou dans un métal par ailleurs dur, le défaut qu’on sent sous le marteau avant de le voir. Un défaut, elle savait le trouver à l’oreille ; toute sa vie n’avait été que ça, chercher dans une matière qui a l’air pleine l’endroit exact où elle est autre chose. Le cahier lui disait où cet endroit se tenait dans un enfant. Sous le sternum, d’abord, à chercher sous la main. Puis aux deux tempes et à la base de la nuque, les trois points que les aiguilles devaient joindre pour fermer la chaîne. Et par cette chaîne fermée, tirer. *Un seul coup, disait le cahier, un seul et franc ; l’hésitation tue plus sûrement que la faute.*
 
 « Ça va faire mal, dit Lirenn. Tu me l’as dit l’autre fois. J’ai demandé et tu as dit oui.
 
@@ -64,7 +64,7 @@ Alors elle avait fait ce que sa maison faisait de ce cahier depuis mille ans : 
 
 — Combien. » Elle balançait moins les jambes. « Comme quoi. Dis-moi comme quoi, pour que je sache où me tenir. »
 
-Kessane releva la tête. Sa fille avait ce regard grave d’enfant qui pèse plus lourd que celui des grands, et dans ce visage-là il y avait déjà, aux tempes, à la base du cou, les trois endroits où les aiguilles entreraient. Elle ne les regarda pas. Elle regarda les yeux.
+Kessane releva la tête. Sa fille avait ce regard grave d’enfant qui pèse plus lourd que celui des grands, et dans ce visage-là il y avait déjà, aux tempes, à la base du cou, les trois endroits où les aiguilles entreraient. Elle regarda les yeux.
 
 « Tu te souviens de la barre que tu as prise par le mauvais bout. L’hiver dernier. Celle qui sortait du feu, que tu as empoignée à main nue parce que tu la croyais froide. »
 
@@ -94,7 +94,7 @@ Le galet ne bougea pas sur le cahier. La lampe brûlait droit. Mais Kessane, à 
 
 Elle amena l’enfant au sommeil du seuil comme le cahier disait.
 
-Une chose amère dans un peu de lait chaud. Pas la dose des autres : le cahier était formel, *une dose qui endort et rend, pas une dose qui prend*, et entre les deux il y avait trois pincées d’une poudre que la guilde gardait. Kessane les avait pesées à la balance, trois fois de suite, comme on dose une trempe. Elle qui jugeait le poids des choses à la main, elle avait pesé au trébuchet comme un orfèvre pèse l’or, parce que ce soir-là sa main sûre ne lui suffisait pas et qu’il lui fallait un chiffre à opposer au reste. Le chiffre était trois. Une pincée de plus et elle n’aurait pas sauvé sa fille : elle l’aurait soulagée, du mot doux que la femme grise employait sur les routes, avec le même lait, la même nuque tenue, la même mère penchée. Trois pincées séparaient les deux gestes. Il n’y avait rien d’autre entre eux.
+Une chose amère dans un peu de lait chaud. Le cahier était formel : *une dose qui endort et rend, pas une dose qui prend*, et entre les deux il y avait trois pincées d’une poudre que la guilde gardait. Kessane les avait pesées à la balance, trois fois de suite, comme on dose une trempe. Elle qui jugeait le poids des choses à la main, elle avait pesé au trébuchet comme un orfèvre pèse l’or, parce que ce soir-là sa main sûre ne lui suffisait pas et qu’il lui fallait un chiffre à opposer au reste. Le chiffre était trois. Une pincée de plus et elle l’aurait soulagée, du mot doux que la femme grise employait sur les routes, avec le même lait, la même nuque tenue, la même mère penchée. Trois pincées séparaient les deux gestes. Il n’y avait rien d’autre entre eux.
 
 Lirenn but. Au milieu du bol elle s’arrêta, la bouche tordue, et souffla par le nez pour chasser le goût.
 
@@ -144,9 +144,9 @@ Le premier point était à la tempe gauche, sous les cheveux, à l’endroit exa
 
 Et Kessane tira.
 
-Elle ne sut jamais avec quoi elle avait tiré. Pas avec les mains : les mains ne tenaient que les aiguilles, et les aiguilles ne bougèrent pas. Sur le pas de sa porte, la mère Sanvel lui avait promis que la main qui venait de lui remonter le poignet le lui tiendrait aussi le jour où elle couperait. La vieille avait dit vrai. Kessane tira de tout ce savoir logé dans son corps et qui ne lui appartenait pas en propre, d’un coup net et franc, un seul, dans le silence exact où le fer se tait, et quelque chose céda.
+Elle ne sut jamais avec quoi elle avait tiré. Les mains ne tenaient que les aiguilles, et les aiguilles ne bougèrent pas. Sur le pas de sa porte, la mère Sanvel lui avait promis que la main qui venait de lui remonter le poignet le lui tiendrait aussi le jour où elle couperait. La vieille avait dit vrai. Kessane tira de tout ce savoir logé dans son corps et qui ne lui appartenait pas en propre, d’un coup net et franc, un seul, dans le silence exact où le fer se tait, et quelque chose céda.
 
-Ce ne fut pas comme un fer qui casse. Ce fut comme une corde qu’on tranche sous tension : libérée, elle cingle l’air une dernière fois avant de tomber. Un fouettement. Le dernier passage de quelque chose de vivant qui ne serait plus jamais là. Lirenn cria. Un seul cri, comme la barre à main nue, un cri sans mots parce qu’il venait d’avant les mots, d’un endroit du corps que les mots n’atteignent pas ; il monta, se cassa, retomba.
+Ce fut comme une corde qu’on tranche sous tension : libérée, elle cingle l’air une dernière fois avant de tomber. Un fouettement. Le dernier passage de quelque chose de vivant qui ne serait plus jamais là. Lirenn cria. Un seul cri, comme la barre à main nue, un cri sans mots parce qu’il venait d’avant les mots, d’un endroit du corps que les mots n’atteignent pas ; il monta, se cassa, retomba.
 
 Puis le silence. Le vrai. Celui d’après.
 
@@ -154,7 +154,7 @@ Kessane ne bougea pas. Elle entendit la lampe grésiller, l’eau du baquet trem
 
 *
 
-La petite dormit encore une heure. Kessane retira les aiguilles une à une, pressa le linge froid sur les trois points, essuya la goutte à chaque tempe et celle de la nuque, et lava les aiguilles dans le baquet où l’eau rougit à peine, moins qu’après une lame qu’on trempe. Elle remit le cahier dans son étui et le rendit au renfoncement, tout au fond, derrière ce qui ne servait plus. Un moment elle garda la main dessus, à plat, comme sur une enclume qui aurait cessé de chauffer.
+La petite dormit encore une heure. Kessane retira les aiguilles une à une, pressa le linge froid sur les trois points, essuya la goutte à chaque tempe et celle de la nuque, et lava les aiguilles dans le baquet où l’eau rougit à peine, moins qu’après une lame qu’on trempe. Elle remit le cahier dans son étui et le rendit au renfoncement, tout au fond, derrière ce qui ne servait plus. Un moment elle garda la main dessus, comme sur une enclume qui aurait cessé de chauffer.
 
 Elle ne pleura pas. Elle essaya, en haut, assise au bord du lit où elle venait de porter et de border sa fille, et rien ne vint : les yeux restaient secs, la gorge tenait, le corps faisait ce qu’on lui avait appris à faire depuis vingt-cinq ans devant un feu. Elle attendit le réveil de l’enfant comme on attend qu’un fer sorte du recuit, sans pouvoir dire, avant de le voir, s’il aura pris ou s’il aura fêlé.
 
@@ -164,7 +164,7 @@ D’abord elle ne dit rien. Elle regarda le plafond, les poutres, la fumée séc
 
 Et Kessane la regarda regarder le coin.
 
-Le visage de Lirenn ne changea pas encore. Il attendait. Il attendait qu’une chose vienne du coin, une chose qui venait chaque matin depuis les premières neiges. Le visage attendit. Rien ne vint. Et Kessane vit passer sur les traits de sa fille la seconde exacte où l’attente cessa d’attendre : pas encore la douleur, mais l’instant nu où l’on tend l’oreille vers un bruit familier et où l’on s’aperçoit, sans encore y croire, qu’il n’y est plus.
+Le visage de Lirenn ne changea pas encore. Il attendait. Il attendait qu’une chose vienne du coin, une chose qui venait chaque matin depuis les premières neiges. Le visage attendit. Rien ne vint. Et Kessane vit passer sur les traits de sa fille la seconde exacte où l’attente cessa d’attendre : l’instant nu où l’on tend l’oreille vers un bruit familier et où l’on s’aperçoit, sans encore y croire, qu’il n’y est plus.
 
 « Elle est pas là, dit Lirenn.
 

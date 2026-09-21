@@ -11,11 +11,11 @@ status: draft
 
 # Chapitre vingt-trois — La clef du coffre
 
-On avait ramené Olven à sa cellule et le poste était rentré dans son silence de nuit. Ce n’était jamais un vrai silence, dans une maison où l’on garde des hommes : c’était le bruit que font les gens qui s’appliquent à n’en pas faire. Un pas dans le couloir. Une porte qu’on retient pour qu’elle ne claque pas. La respiration de quelqu’un qui veille et qui préférerait dormir.
+On avait ramené Olven à sa cellule et le poste était rentré dans son silence de nuit. Dans une maison où l’on garde des hommes, ce silence est le bruit que font les gens qui s’appliquent à n’en pas faire. Un pas dans le couloir. Une porte qu’on retient pour qu’elle ne claque pas. La respiration de quelqu’un qui veille et qui préférerait dormir.
 
-Vaenor était restée dans la salle. Elle avait dit au garde qu’elle finissait le procès-verbal. C’était vrai à moitié : il tenait en dix lignes, elle les avait écrites dans sa tête pendant qu’Olven récitait, elle n’avait plus qu’à les poser sur le papier. Ce n’était pas le procès-verbal qui la retenait.
+Vaenor était restée dans la salle. Elle avait dit au garde qu’elle finissait le procès-verbal. C’était vrai à moitié : il tenait en dix lignes, elle les avait écrites dans sa tête pendant qu’Olven récitait, elle n’avait plus qu’à les poser sur le papier.
 
-C’était le cahier.
+Le cahier la retenait.
 
 La salle sentait encore l’homme et l’huile chaude. La chaise du copiste était restée de travers, comme le garde l’avait laissée en le relevant, et la lampe baissait : il y avait tout juste de quoi finir la nuit.
 
@@ -35,13 +35,13 @@ Elle tira le cahier vers elle.
 
 Elle le rouvrit.
 
-Elle l’avait déjà lu deux fois, la veille, à la chandelle. Ce n’était pas pour apprendre qu’elle le rouvrait. Elle voulait voir comment il se comporterait maintenant qu’elle croyait le connaître.
+Elle l’avait déjà lu deux fois, la veille. Elle le rouvrait pour voir comment il se comporterait maintenant qu’elle croyait le connaître.
 
-Elle avait saisi assez de copies en dix ans pour les ranger d’un coup d’œil : les pressées, pleines de mots sautés ; les dévotes, où la glose d’un copiste pieux noie le texte qu’elle prétend servir ; les fautives, recopiées par des mains qui ne lisaient pas ce qu’elles écrivaient. Celle-ci n’était d’aucune de ces sortes.
+Elle avait saisi assez de copies en dix ans pour les ranger d’un coup d’œil : les pressées, pleines de mots sautés ; les dévotes, où la glose d’un copiste pieux noie le texte qu’elle prétend servir ; les fautives, recopiées par des mains qui ne lisaient pas ce qu’elles écrivaient.
 
-C’était une copie neuve. Papier de bonne facture, à peine jauni ; encre noire, régulière ; une main patiente et droite, qui aimait sa tâche. Olven n’avait pas recopié en fugitif, à la hâte, sur un coin de table. Il avait recopié en homme qui fabrique une chose faite pour durer.
+Celle-ci était une copie neuve. Papier de bonne facture, à peine jauni ; encre noire, régulière ; une main patiente et droite, qui aimait sa tâche. Olven avait recopié en homme qui fabrique une chose faite pour durer.
 
-Le cahier était propre. Il était plein, aussi : tout le récit y tenait, mot à mot, des hommes qui montaient sur une montagne, qui doutaient, qui avaient coupé le Lien du monde entier. Il n’y manquait que le geste. Nulle part le cahier ne disait comment on coupait. Il disait qu’on avait coupé. Pas la main, pas la lame, pas la manœuvre. On y apprenait qu’une chose avait eu lieu ; on n’y apprenait pas à la refaire.
+Le cahier était propre. Il était plein, aussi : tout le récit y tenait, mot à mot, des hommes qui montaient sur une montagne, qui doutaient, qui avaient coupé le Lien du monde entier. Il n’y manquait que le geste. Le cahier disait qu’on avait coupé et s’arrêtait là. Pas la main, pas la lame, pas la manœuvre. On y apprenait qu’une chose avait eu lieu ; on n’y apprenait pas à la refaire.
 
 *
 
@@ -59,9 +59,9 @@ Un bruit dans le couloir, un pas qui revenait. Elle reposa vite le cahier à pla
 
 *
 
-Ce n’était pas le garde. C’était Mern, le vieux geôlier, qui tenait les clefs des cellules et qui à cette heure aurait dû dormir. Il apportait de l’eau. Il en apportait toujours, la nuit, aux Inspecteurs qui veillaient, sans qu’on le lui demande ; c’était sa façon de compter dans une maison où il n’était que celui qui ouvre et qui ferme.
+Le pas était celui de Mern, le vieux geôlier, qui tenait les clefs des cellules et qui à cette heure aurait dû dormir. Il apportait de l’eau. Il en apportait toujours, la nuit, aux Inspecteurs qui veillaient, sans qu’on le lui demande ; c’était sa façon de compter dans une maison où il n’était que celui qui ouvre et qui ferme.
 
-Il posa la cruche au bord de la table, loin des papiers. En entrant, il avait pris son trousseau à plat contre sa cuisse pour qu’il ne sonne pas : le couloir dormait, et il y tenait. Il remplit le gobelet resté près de la lampe et le poussa vers la main gauche de Vaenor, du côté où elle n’écrivait pas.
+Il posa la cruche au bord de la table, loin des papiers. En entrant, il avait serré son trousseau dans sa paume pour qu’il ne sonne pas : le couloir dormait, et il y tenait. Il remplit le gobelet resté près de la lampe et le poussa vers la main gauche de Vaenor, du côté où elle n’écrivait pas.
 
 « Il dort ? » demanda Vaenor sans lever les yeux.
 
@@ -105,7 +105,7 @@ Il sortit en retenant la porte derrière lui, comme on faisait ici.
 
 Elle resta seule avec le cahier et le brasero froid.
 
-Ce que Mern ne savait pas, elle le savait : ce cahier-ci n’était pas une prière. Les prières étaient dans mille têtes ; elle en avait brûlé des dizaines, et elles lui étaient toujours revenues par la bouche de quelqu’un d’autre. Celui-ci était une copie soignée d’un texte rare, faite par un homme qu’on venait de prendre et qui ne recopierait plus rien. La source, le vrai journal, celui dont on parlait dans les cercles verithani comme du texte le plus cherché du monde, personne ne l’avait jamais retrouvée et ne la retrouverait peut-être jamais. Les copies étaient rares, traquées, brûlées une à une. Celle-ci était peut-être l’une des dernières bonnes, l’une des dernières où la phrase n’était pas fautive et où le récit tenait entier.
+Ce que Mern ne savait pas, elle le savait : les prières étaient dans mille têtes ; elle en avait brûlé des dizaines, et elles lui étaient toujours revenues par la bouche de quelqu’un d’autre. Ce cahier-ci était une copie soignée d’un texte rare, faite par un homme qu’on venait de prendre et qui ne recopierait plus rien. La source, le vrai journal, celui dont on parlait dans les cercles verithani comme du texte le plus cherché du monde, personne ne l’avait jamais retrouvée et ne la retrouverait peut-être jamais. Les copies étaient rares, traquées, brûlées une à une. Celle-ci était peut-être l’une des dernières bonnes, l’une des dernières où la phrase n’était pas fautive et où le récit tenait entier.
 
 Si elle la brûlait, elle ne reviendrait pas.
 
@@ -115,7 +115,7 @@ C’était le livre de comptes de Mern, sur sa table à elle.
 
 Elle se leva, marcha jusqu’au mur, revint. Trois pas : le geste qui lui rangeait le visage quand elle avait quelqu’un en face. Il n’y avait personne. Le geste ne rangea rien du tout et la ramena à la table, devant le cahier resté ouvert.
 
-Elle pensa à Drahvel. S’il apprenait qu’elle avait gardé un texte au lieu de le brûler, il ne se fâcherait pas. Il la regarderait de sa patience froide et dirait qu’une exception en appelle une autre, qu’un service commence toujours à se défaire par là. Il aurait raison. Il avait toujours raison, de la raison sans faille de ceux que rien n’a jamais rongés.
+Elle pensa à Drahvel. S’il apprenait qu’elle avait gardé un texte au lieu de le brûler, il la regarderait de sa patience froide et dirait qu’une exception en appelle une autre, qu’un service commence toujours à se défaire par là. Il aurait raison. Il avait toujours raison, de la raison sans faille de ceux que rien n’a jamais rongés.
 
 Et pourtant.
 
@@ -125,7 +125,7 @@ Le mot l’arrêta comme une marche qu’on rate.
 
 C’était le mot du cahier. Le mot des hommes de la montagne, celui qu’Olven avait récité trois heures plus tôt à cette place, celui qu’elle glissait, elle, sous son travail depuis dix ans sans jamais le sortir à la lumière. Brûler le cahier avec ce mot-là dans la bouche, c’était lui donner raison une fois de plus. C’était couper encore, et prendre le doute pour une raison de couper.
 
-Et pour une fois, pour une seule fois, elle pouvait ne pas couper. Il n’y avait pas de cri à épargner, pas de village qui ne dormait plus. Il y avait un cahier sur une table, un brasero froid, un ordre, et personne pour voir.
+Et pour une fois, pour une seule fois, elle pouvait ne pas couper. Il n’y avait pas de cri à épargner, pas de village qui ne dormait plus, rien qu’un cahier sur une table, un brasero froid, un ordre, et personne pour voir.
 
 *
 
@@ -135,9 +135,9 @@ Elle rabattit la couverture du bout des doigts, sans hâte.
 
 Et elle ne le brûla pas.
 
-Elle ne se dit pas qu’elle sauvait un chef-d’œuvre, ni une vérité, ni rien de grand. Elle se le dit avec les mots plats de Mern : c’était une chose qui ne reviendrait pas, et elle n’était pas sûre. Voilà tout. Elle coupait depuis dix ans. Ce soir, elle se laissa n’être pas sûre ; et au lieu de trancher, comme elle tranchait toujours quand le doute montait, comme le doute lui-même *ordonnait* de trancher pour qu’on n’ait plus à douter, elle garda le doute.
+Elle s’en donna la raison avec les mots plats de Mern : c’était une chose qui ne reviendrait pas, et elle n’était pas sûre. Voilà tout. Elle coupait depuis dix ans. Ce soir, elle se laissa n’être pas sûre ; et au lieu de trancher, comme elle tranchait toujours quand le doute montait, comme le doute lui-même *ordonnait* de trancher pour qu’on n’ait plus à douter, elle garda le doute.
 
-Dans une salle vide, pour un cahier de rien du tout, elle désobéissait pour la première fois. Pas à un ordre : un ordre, elle aurait su le contourner par les voies du service. À sa propre doctrine. À la chose en elle qui disait : *dans le doute, coupe.* Elle avait bâti tout son métier là-dessus, elle en vivait, elle avait tué son frère là-dessus. Et ce soir elle la prenait en défaut.
+Dans une salle vide, pour un cahier de rien du tout, elle désobéissait pour la première fois. À sa propre doctrine. À la chose en elle qui disait : *dans le doute, coupe.* Un ordre, elle aurait su le contourner par les voies du service ; celle-là, elle avait bâti tout son métier dessus, elle en vivait, elle avait tué son frère dessus. Et ce soir elle la prenait en défaut.
 
 Elle ne se le pardonnerait peut-être pas. De cela non plus elle n’était pas sûre.
 
@@ -149,7 +149,7 @@ Le coffre des preuves était dans l’angle, contre le mur porteur, une caisse d
 
 Le sceau, la cire, la petite lampe à sceller. Elle enveloppa le cahier dans une toile propre, la même toile grossière, songea-t-elle, que celle du paquet emporté douze jours plus tôt par l’homme aux mains tremblantes. Un nœud. La cire qu’on fait couler. Le sceau qu’on presse : l’écusson de Drahk’Nor mordit la cire rouge, le poing fermé sur la flamme, l’emblème de ceux qui tiennent le feu pour qu’il ne prenne pas partout. Elle garda le doigt dessus le temps que la cire prenne, froide et dure sous la pulpe. Ce fut le seul moment de la nuit où elle ne pensa à rien.
 
-Puis elle écrivit l’étiquette. C’était là que la chose se jouait vraiment, pas dans le geste de garder mais dans le mot qu’on met dessus, et elle le pesa comme elle pesait chaque mot devant un interrogé.
+Puis elle écrivit l’étiquette. La chose se jouait là, dans le mot qu’on met dessus plus que dans le geste de garder, et elle le pesa comme elle pesait chaque mot devant un interrogé.
 
 Elle n’écrivit pas *texte hérétique, à détruire, ajourné* : la mention serait restée au dossier, et un jour quelqu’un aurait demandé pourquoi le feu n’avait pas été fait. Elle écrivit, de sa main nette : *Pièce à conviction. Copie manuscrite, provenance : le nommé Olven, copiste, détenu. Conservée aux fins de confrontation ultérieure avec le témoin et d’identification des complices.* Elle data. Elle signa.
 

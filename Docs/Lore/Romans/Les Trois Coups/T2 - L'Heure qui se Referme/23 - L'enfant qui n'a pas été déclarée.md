@@ -32,7 +32,7 @@ Il y eut ce battement, ce quart de seconde de trop où l’on cherche un nom qu�
 
 — Tout à l’heure, une tante. »
 
-Vaenor ne haussa pas la voix. Jamais elle ne la haussait. Elle laissa les deux mots se tenir côte à côte dans la poussière du moulin, tante, cousine, et elle regarda la meunière comprendre qu’ils ne pouvaient pas tenir ensemble, et qu’à force de vouloir éloigner l’enfant elle venait de la rapprocher.
+Vaenor laissa les deux mots se tenir côte à côte dans la poussière du moulin, tante, cousine, et elle regarda la meunière comprendre qu’ils ne pouvaient pas tenir ensemble, et qu’à force de vouloir éloigner l’enfant elle venait de la rapprocher.
 
 « Vous en avez trop dit, madame. Une femme qui a vraiment une nièce sur la côte lâche son nom sans y penser, se trompe sur le degré de parenté et n’en fait pas une affaire. Vous, vous avez soigné vos mots. On vous les a appris, et vous venez de me les réciter. »
 
@@ -40,7 +40,7 @@ La meunière ne répondit rien.
 
 « Je ne fouillerai pas votre moulin, dit l’Inspectrice en se levant. La petite n’y est plus, vous vous en êtes assurée, et fouiller ne me rendrait que ce que je sais déjà : qu’on est bon, ici, à cacher les gens. » Elle remit ses gants. « Dites à celle qui vous a appris ces phrases qu’elles étaient bien faites. Trop bien. Dites-lui qu’une Inspectrice est passée et qu’elle a vu la main derrière vous. Dites-le-lui dans ces mots-là. Je veux qu’elle sache que je sais qu’elle existe. »
 
-Le visage de la femme changea alors, et ce ne fut pas de la peur. Une sorte de loyauté acculée, la tête haute de qui préfère être prise plutôt que de livrer quelqu’un. C’était le visage des gens qu’on a bien aimés et bien instruits. La forgeronne, quelle qu’elle fût, ne se faisait pas des complices ; elle se faisait des fidèles.
+Le visage de la femme changea alors. Une sorte de loyauté acculée, la tête haute de qui préfère être prise plutôt que de livrer quelqu’un. C’était le visage des gens qu’on a bien aimés et bien instruits. La forgeronne, quelle qu’elle fût, se faisait des fidèles.
 
 Elle n’insista pas. Elle n’insistait presque jamais. Elle avait ce qu’elle était venue prendre : une enfant existait, elle n’était nulle part, et on l’avait déplacée exprès. Elle sortit sous le regard de la meunière, qui la suivit des yeux comme on suit une chose qui reviendra.
 
@@ -50,17 +50,17 @@ Une enfant Tisse qui n’a pas été déclarée. Vaenor tourna la phrase tout le
 
 *Non déclarée.* Le mot supposait quelqu’un qui n’avait pas déclaré. Une enfant de neuf ans ne se cachait pas toute seule. Elle parlait à la morte qui l’appelait, elle le racontait à table, et une voisine, une commère, un prêtre inquiet la portait au registre. On l’y portait presque toujours. Vaenor avait vu vingt bourgs livrer leur propre enfant, en pleurant, et vite. La peur du Fléau passait avant la tendresse ; c’était la seule chose qu’elle eût jamais vue passer avant la tendresse.
 
-Donc, quand une enfant restait cachée, ce n’était pas un signalement oublié. C’était un travail. Quelqu’un tenait la peur des voisins en respect, déplaçait la petite avant qu’on vînt, cousait des tantes malades sur des côtes lointaines, apprenait à une meunière une histoire trop lisse.
+Donc, quand une enfant restait cachée, c’était un travail. Quelqu’un tenait la peur des voisins en respect, déplaçait la petite avant qu’on vînt, cousait des tantes malades sur des côtes lointaines, apprenait à une meunière une histoire trop lisse.
 
 Le chemin remontait la vallée entre des murets à demi éboulés. Il y avait eu du monde ici : des vergers, des rigoles, un four à pain au bord de la route dont la voûte tenait encore. Le cheval allait au pas et personne ne venait en sens inverse.
 
-Et cela, elle le respectait. Elle s’en aperçut là, dans la lumière plate de l’après-midi, avec la surprise d’un artisan devant l’ouvrage d’un autre. Cacher un Tisse était son métier à l’envers. Quinze ans qu’elle voyait ce que les gens croyaient invisible : l’œil qui va à côté de la flamme, le troisième enfant qui n’est plus que deux, le saignement qu’on met sur le compte de l’air sec. Cette fois, à l’autre bout de la vallée, quelqu’un fabriquait ces absences-là aussi soigneusement qu’elle les lisait, et effaçait devant elle à mesure. Elle ne savait pas qui. Elle savait que la main était bonne, qu’elle avait déjà fait cela plusieurs fois et qu’elle recommencerait.
+Et cela, elle le respectait. Elle s’en aperçut là, dans la lumière plate de l’après-midi, avec la surprise d’un artisan devant l’ouvrage d’un autre. Cacher un Tisse était son métier à l’envers. Quinze ans qu’elle voyait ce que les gens croyaient invisible : l’œil qui va à côté de la flamme, le troisième enfant qui n’est plus que deux, le saignement qu’on met sur le compte de l’air sec. Cette fois, à l’autre bout de la vallée, quelqu’un fabriquait ces absences-là aussi soigneusement qu’elle les lisait, et effaçait devant elle à mesure. Elle ne savait pas qui. La main était bonne, elle avait déjà fait cela plusieurs fois, elle recommencerait.
 
 *Une femme*, pensa-t-elle, sans pouvoir dire d’où lui venait cette idée. Puis, par principe, car elle corrigeait tout, y compris elle-même : *probablement une femme.* Un homme cachait par force, portes closes et dents montrées. Cette main-ci cachait avec soin. Dans le trop-lisse de la meunière, il y avait moins une menace qu’une leçon apprise : quelqu’un avait répété ces phrases avec elle, le soir, longtemps, jusqu’à ce qu’elle les tînt sans hésiter. Il avait fallu des semaines pour ce petit morceau de mensonge.
 
 ---
 
-Le prêtre de la vallée basse était un vieil homme aux mains tachées, et sa chapelle n’avait plus de porte, seulement un rideau de toile qu’un clou tenait de travers. Vaenor n’était pas venue pour lui. Elle était venue parce que c’était toujours le prêtre qui signalait, et que là où l’enfant ne l’avait pas été, il fallait savoir pourquoi celui-ci s’était tu.
+Le prêtre de la vallée basse était un vieil homme aux mains tachées, et sa chapelle n’avait plus de porte, seulement un rideau de toile qu’un clou tenait de travers. Vaenor était venue parce que c’était toujours le prêtre qui signalait, et que là où l’enfant ne l’avait pas été, il fallait savoir pourquoi celui-ci s’était tu.
 
 « On me dit que vous connaissez tout le monde ici, dit-elle en s’asseyant sur le banc qu’il lui offrait. Les naissances, les morts. Vous les inscrivez.
 
@@ -128,7 +128,7 @@ Vaenor ne dit rien. Elle regarda le baquet fumer. Dehors, un des Inspecteurs, ad
 
 — Y a des forges partout.
 
-— Il y a des forges partout, oui. » Elle le concéda comme on concède un point sans importance. « Une forge, ça se connaît pourtant, entre gens du métier. On sait qui bat le fer à trois lieues, qui fait bon travail et qui fait vite. Un forgeron qui ne connaît pas les forges de sa vallée, c’est un meunier qui ne connaît pas les moulins. » Elle marqua le temps qu’il fallait. « Vous connaissez les moulins ?
+— Il y a des forges partout, oui. » Elle le concéda comme on concède un point sans importance. « Une forge, ça se connaît pourtant, entre gens du métier. On sait qui bat le fer à trois lieues, qui fait bon travail et qui fait vite. Un forgeron qui ne connaît pas les forges de sa vallée, c’est un meunier qui ne connaît pas les moulins. Vous connaissez les moulins ?
 
 — Bien sûr que je connais les—
 
@@ -166,13 +166,13 @@ Dehors, l’un des siens s’approcha du cheval avec la mine du chien qui a flai
 
 — Chaque jour qu’on attend, elle déplace l’enfant un peu plus loin et elle apprend à quelqu’un d’autre une histoire un peu plus lisse. Je sais. » Elle regarda le fond de la vallée, l’endroit où la lumière se ramassait entre deux collines basses, là où devait se tenir la forge qu’elle ne voyait pas. « Une femme qui cache aussi bien ne se prend pas en une descente. Elle nous entendra venir de trois lieues. Nous trouverions une forge froide, une enfant partie chez une autre tante, un pays qui n’a rien vu, et nous aurions brûlé notre seule chance de la surprendre pour le plaisir d’arriver ce soir plutôt que la semaine prochaine. »
 
-L’Inspecteur ne comprenait pas. Pour lui, on chassait comme on abat un arbre, à force et vite. Elle-même ne l’avait appris qu’à l’usure, en manquant des gens qu’elle aurait pris en attendant huit jours de plus. La meunière trop lisse, le prêtre qui ne signait pas, le forgeron qui connaissait les moulins, ce n’étaient pas des maillons à briser ; c’étaient des mesures, et elles disaient toutes la même chose de l’autre femme.
+L’Inspecteur ne comprenait pas. Pour lui, on chassait comme on abat un arbre, à force et vite. Elle-même ne l’avait appris qu’à l’usure, en manquant des gens qu’elle aurait pris en attendant huit jours de plus. La meunière trop lisse, le prêtre qui ne signait pas, le forgeron qui connaissait les moulins : c’étaient des mesures, et elles disaient toutes la même chose de l’autre femme.
 
 Elle pensa, et les mots lui vinrent tels quels : *elle coupe.* La femme de la forge devait connaître la coupure. Une forgeronne, des mains qui savaient le métal et le tranchant, un pays de non-Liés serrés autour d’elle, un savoir passé de main en main comme un secret de guilde, et une enfant en Phase 1 cachée au lieu d’être déclarée. Un enfant qu’on croyait perdu, on le pleurait et on le portait au registre. Celui-là, on l’avait caché. Donc cette femme croyait pouvoir le sauver. Donc elle savait couper. Donc elle était de celles qui prétendaient qu’il existait une autre porte que la sienne.
 
 Et si elle avait raison ? Si l’enfant du moulin, coupée à temps par cette main patiente, vivait non-Liée, diminuée mais vivante, là où la même enfant, apaisée par une fiole, serait seulement morte propre ?
 
-La question ne monta pas comme une supplique. Elle se posa à plat, du dedans, avec la voix dont Vaenor se servait pour interroger les autres. C’était Marek qui la lui avait mise dans la bouche, et Marek ne se rangeait plus. *Et si elle était de celles qui vivent.* Chaque enfant que cette forgeronne sauverait était une preuve possible qu’ailleurs, une autre année, Vaenor avait fait boire quelqu’un qui aurait pu vieillir.
+La question se posa à plat, du dedans, avec la voix dont Vaenor se servait pour interroger les autres. C’était Marek qui la lui avait mise dans la bouche, et Marek ne se rangeait plus. *Et si elle était de celles qui vivent.* Chaque enfant que cette forgeronne sauverait était une preuve possible qu’ailleurs, une autre année, Vaenor avait fait boire quelqu’un qui aurait pu vieillir.
 
 Il fallait trouver la femme. Elle le comprit sur le cheval, et ce n’était déjà plus pour l’enfant. C’était pour savoir. Pour voir de ses yeux un Tisse coupé qui vivait, ou pour ne jamais le voir et pouvoir continuer. L’inconnue de la Forge-Basse tenait dans ses mains la seule chose que Vaenor n’avait jamais pu se procurer : la preuve qu’elle avait eu tort, ou celle qu’elle avait eu raison.
 

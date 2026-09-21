@@ -11,7 +11,7 @@ status: draft
 
 # Chapitre vingt-deux — L’interrogatoire
 
-Elle ne s’asseyait jamais en face. Un quart de tour de côté, assez près pour partager la table, jamais la même ligne : de face, on a un adversaire, et un homme qui se sent adversaire se ferme. De côté, on regarde la même chose que lui, le mur, la flamme, le vide, et il finit par parler comme on parle à quelqu’un qui vous accompagne. Vaenor Sorne s’asseyait ainsi depuis toujours, sans se rappeler qu’on le lui eût jamais appris.
+Elle se plaçait toujours de côté, un quart de tour, assez près pour partager la table, jamais dans la même ligne : de face, on a un adversaire, et un homme qui se sent adversaire se ferme. De côté, on regarde la même chose que lui, le mur, la flamme, le vide, et il finit par parler comme on parle à quelqu’un qui vous accompagne. Vaenor Sorne s’asseyait ainsi depuis toujours, sans se rappeler qu’on le lui eût jamais appris.
 
 Elle posa la lampe entre eux et la remonta d’un cran. Elle voulait de la lumière. On ne cachait pas les visages dans cette salle-là. Il y flottait une odeur de suif et de mur humide ; au-dessus de la porte, quelqu’un avait cloué une planche sur un carreau cassé, et le vent passait quand même, en mince filet, au ras du sol.
 
@@ -47,7 +47,7 @@ Il regarda les deux doigts sur la toile cirée. Elle le vit peser le mensonge et
 
 « Non.
 
-— Non », répéta-t-elle du même ton que lui. Elle ne le remerciait pas de sa franchise ; elle en prenait acte, et elle voulut qu’il le vît. « Tout sera plus court si nous restons dans le *non*, frère Olven. Le *oui* prend des heures. Continuons dans le non. »
+— Non », répéta-t-elle du même ton que lui. Elle prenait acte de sa franchise, et elle voulut qu’il le vît. « Tout sera plus court si nous restons dans le *non*, frère Olven. Le *oui* prend des heures. Continuons dans le non. »
 
 *
 
@@ -59,9 +59,9 @@ Elle ouvrit son carnet, mince, relié de gris, et le posa à plat, la page tourn
 
 — Celui-là fuyait la lampe. » Elle pencha un peu la tête, comme pour mieux le voir. « Il détournait les yeux du feu. Il tenait ses mains l’une contre l’autre pour qu’on ne les vît pas trembler. Vous savez ce que cela veut dire. Vous en avez reçu plus que moi. »
 
-Le copiste ne dit rien. Mais quelque chose bougea en lui, et elle le vit. Ce n’était pas de la peur pour lui-même. C’était de la peur pour l’autre, pour l’homme aux mains tremblantes, déjà loin sur une route.
+Le copiste ne dit rien. Mais quelque chose bougea en lui, et elle le vit : la peur pour l’autre, pour l’homme aux mains tremblantes, déjà loin sur une route.
 
-Avec les Endeuillés, cela s’était toujours passé ainsi : ils ne craignaient jamais pour eux, seulement pour ceux qu’ils avaient soignés. Vaenor rangea la peur d’Olven dans la colonne de ce qui servirait.
+Avec les Endeuillés, cela s’était toujours passé ainsi : leur peur allait à ceux qu’ils avaient soignés. Vaenor rangea la peur d’Olven dans la colonne de ce qui servirait.
 
 « Je ne sais pas de qui vous parlez, dit-il enfin.
 
@@ -127,7 +127,7 @@ Elle s’immobilisa.
 
 *
 
-Il l’avait dit sans appuyer, les yeux sur ses mains, presque distraitement. Elle sut aussitôt que ce n’était pas distrait : il avait posé le mot à l’endroit exact où il ferait le plus mal, et il attendait.
+Il l’avait dit sans appuyer, les yeux sur ses mains, presque distraitement. Elle sut aussitôt qu’il avait posé le mot à l’endroit exact où il ferait le plus mal, et qu’il attendait.
 
 « La coupure ne marche qu’en Phase 1, dit-elle.
 
@@ -217,7 +217,7 @@ Elle employa le mot exprès, *aumône*, le mot des Endeuillés, et elle le vit l
 
 *
 
-Il baissa les yeux. Il ne rouvrit pas le cahier ; il n’en avait pas besoin. Il joignit les mains à hauteur de poitrine, non comme on prie mais comme on tient quelque chose de fragile, et il récita, de mémoire, à voix basse, du ton dont on dit le nom de ses morts.
+Il baissa les yeux. Il ne rouvrit pas le cahier ; il n’en avait pas besoin. Il joignit les mains à hauteur de poitrine, comme on tient quelque chose de fragile, et il récita, de mémoire, à voix basse, du ton dont on dit le nom de ses morts.
 
 « *Hier soir j’ai posé la question que je remettais depuis des semaines. Est-ce que l’un de nous croit vraiment que c’est bien ? Le silence a duré. Puis quelqu’un a répondu : non. Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable.* »
 
@@ -233,7 +233,7 @@ Elle ne dit rien. Son regard restait sur la lampe.
 
 La veille, à la chandelle, elle y avait vu une phrase de fous. Des gens qui défont le monde, qui l’avouent, et qui trouvent le moyen de se donner raison dans l’aveu même : *nous n’y croyions pas, mais c’était inévitable, donc ce n’est pas notre faute.* Elle avait refermé le cahier avec mépris.
 
-Dans la bouche du copiste, à voix basse, ce n’était plus du tout ce qu’elle avait lu. *Aucun de nous ne le croit vraiment.* Ces gens-là n’étaient pas sûrs d’eux. Ils ne croyaient pas à ce qu’ils faisaient et ils l’avaient fait quand même. Pas par foi. Parce qu’ils tenaient la chose pour écrite d’avance : *ça arrivera de toute façon, alors autant que ce soit nous, autant que ce soit maintenant, autant que ce soit fait proprement.*
+Dans la bouche du copiste, à voix basse, ce n’était plus du tout ce qu’elle avait lu. *Aucun de nous ne le croit vraiment.* Ces gens-là n’étaient pas sûrs d’eux. Ils ne croyaient pas à ce qu’ils faisaient et ils l’avaient fait quand même, parce qu’ils tenaient la chose pour écrite d’avance : *ça arrivera de toute façon, alors autant que ce soit nous, autant que ce soit maintenant, autant que ce soit fait proprement.*
 
 Elle connaissait cette conviction. Elle la connaissait du dedans. C’était la sienne.
 

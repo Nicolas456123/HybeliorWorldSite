@@ -10,9 +10,9 @@ status: draft
 
 # Chapitre dix-neuf — Le cahier comme outil
 
-L’homme qui frappa à la Forge-Basse cette nuit-là ne frappa pas comme un client.
+L’homme qui vint à la Forge-Basse cette nuit-là gratta au bas du battant.
 
-Un client cogne fort, une fois, deux, et attend qu’on lui ouvre parce qu’il a besoin d’un fer et qu’un fer se paie. Celui-là gratta. Un grattement bas, contre le bois, à hauteur de genou. Kessane n’avait jamais entendu ce bruit-là à sa porte et elle sut tout de suite ce qu’il voulait dire.
+Un client cogne fort, une fois, deux, et attend qu’on lui ouvre parce qu’il a besoin d’un fer et qu’un fer se paie. Celui-là grattait, à hauteur de genou. Kessane n’avait jamais entendu ce bruit-là à sa porte et elle sut tout de suite ce qu’il voulait dire.
 
 Elle posa le marteau. Dans le foyer, le fer chantait encore ; il attendrait. Avant d’aller ouvrir elle jeta une pelletée de cendre sur la braise, parce qu’elle ne savait pas ce qu’il y avait derrière la porte et qu’elle n’allait pas laisser un feu vif dans son dos.
 
@@ -60,7 +60,7 @@ Kessane le laissa dire. Puis :
 
 — Ça me paraît un luxe. » Elle croisa les bras. « Chez nous, un outil, on ne le regarde pas pour le plaisir de le regarder. On s’en sert, ou on le fond pour en faire un qui serve. »
 
-Quelque chose passa sur le visage d’Olven. Pas de la peine : l’attention d’un homme qui vient d’entendre un mot qu’il n’attendait pas dans cette bouche.
+Quelque chose passa sur le visage d’Olven : l’attention d’un homme qui vient d’entendre un mot qu’il n’attendait pas dans cette bouche.
 
 « Un outil, répéta-t-il.
 
@@ -72,15 +72,15 @@ Il défit la toile cirée lentement, avec ces gestes de mains qui ont passé une
 
 « Descendez le vôtre, dit-il. Je vous en prie. Que je les voie ensemble. »
 
-Kessane hésita. Puis elle descendit, parce qu’au fond elle voulait savoir elle aussi : pas ce que voulait savoir cet homme-là, une autre chose, plus vieille, qui la travaillait depuis la nuit où elle avait ouvert son propre cahier dans la cave et où une phrase l’avait arrêtée en travers du chemin comme une pierre au milieu du feu.
+Kessane hésita. Puis elle descendit, parce qu’au fond elle voulait savoir elle aussi, et sa question à elle était plus vieille que celle de cet homme-là : elle la travaillait depuis la nuit où elle avait ouvert son propre cahier dans la cave et où une phrase l’avait arrêtée en travers du chemin comme une pierre au milieu du feu.
 
 Elle remonta l’étui de cuir huilé et le posa sur l’établi, à côté de l’autre. Dans la lumière du foyer, les deux cahiers se ressemblaient comme se ressemblent deux fers forgés dans deux forges qui ne se sont jamais parlé et qui, pourtant, tiennent le même geste.
 
 Olven se pencha dessus, et pour un instant tout son épuisement le quitta. Du bout de l’index il tournait les feuillets du sien, cherchant, comparant, murmurant à mi-voix des noms qui n’avaient pas de sens pour elle : *ici il a écrit Aethralor, mais vous, chez vous, regardez, la cité aux ponts, votre copiste avait déjà renoncé au nom, deux cents ans plus tôt peut-être.* Et sa voix avait une joie douloureuse, celle d’un homme qui retrouve un parent perdu et le retrouve malade.
 
-Kessane, elle, ne regardait pas les noms des villes.
+Kessane, elle, attendait la phrase.
 
-Elle attendait la phrase. Dans son cahier à elle, elle savait à peu près où elle se tenait : le troisième feuillet, un peu avant le milieu, là où l’encre changeait de teinte. Quand Olven arriva à cette page dans les deux exemplaires, il mit un doigt sur chacune, à la même hauteur, et ses lèvres s’arrêtèrent de bouger.
+Dans son cahier à elle, elle savait à peu près où elle se tenait : le troisième feuillet, un peu avant le milieu, là où l’encre changeait de teinte. Quand Olven arriva à cette page dans les deux exemplaires, il mit un doigt sur chacune, à la même hauteur, et ses lèvres s’arrêtèrent de bouger.
 
 « Là, dit-il très bas. Vous voyez ? Tout le reste diffère. Les mots, les tournures, les fautes. Mais celle-là. » Il la montrait sans la toucher, comme on montre une chose brûlante. « Mot pour mot. Dans le vôtre et dans le mien. À quinze siècles l’un de l’autre. »
 
@@ -152,7 +152,7 @@ Olven avait pâli sous sa crasse.
 
 — L’homme du livre. Celui qui a coupé le monde. Il a coupé son propre nœud, au Mont, pour montrer que le fil du monde *pouvait* être coupé. C’était — » sa voix trembla, ce qui ne devait pas lui arriver souvent — « c’était la plus grande catastrophe de l’histoire. La fin d’un âge. Cent vingt millions d’âmes coupées de ce qui les portait. Et vous… vous prenez la même page, le même geste, et vous… »
 
-« Et moi je le fais sur une petite fille pour qu’elle passe l’hiver. » Kessane hocha la tête, lentement, sans triomphe, parce qu’il n’y avait là aucun triomphe, seulement une chose qu’elle voyait enfin en entier et qui n’était belle pour personne. « Oui. C’est ça. C’est exactement ça. »
+« Et moi je le fais sur une petite fille pour qu’elle passe l’hiver. » Kessane hocha la tête, lentement, sans triomphe : ce qu’elle voyait enfin en entier n’était beau pour personne. « Oui. C’est ça. C’est exactement ça. »
 
 Deux doigts sur le coin du feuillet, elle l’empêcha de se rabattre.
 
@@ -202,10 +202,10 @@ Et il descendit dans le noir, vers l’est, du côté où l’on disait qu’une
 
 Kessane resta sur le seuil, le froid contre le visage, jusqu’à ce que la forme d’Olven se fût fondue dans la nuit. Puis elle rentra, ferma, et redescendit ranger le cahier à sa place, dans le renfoncement, sous la cave.
 
-En remontant l’échelle, elle pensa à la mère Sanvel. La vieille, elle, n’avait rien laissé dans la cave : le cahier des mille mains, elle l’avait posé en haut, sur l’étagère au-dessus de la trempe, à côté des tenailles, et elle était repartie sans dire pourquoi. Dans une forge, cette étagère-là n’a qu’un usage. On y met ce qu’on va prendre dans l’heure.
+En remontant l’échelle, elle pensa à la mère Sanvel. La vieille, elle, avait laissé le cahier des mille mains en haut, sur l’étagère au-dessus de la trempe, à côté des tenailles, et elle était repartie sans dire pourquoi. Dans une forge, cette étagère-là n’a qu’un usage. On y met ce qu’on va prendre dans l’heure.
 
 En haut, la braise dormait sous la cendre qu’elle y avait jetée en allant ouvrir. Elle la découvrit, souffla, attendit que le rouge revienne. Le fer était resté dans le foyer toute la nuit ; il avait trop chauffé, il faudrait le reprendre du début. Elle le reprit du début.
 
-Le cahier, lui, n’avait pas bougé d’une lettre depuis mille ans. C’était le monde qui s’était retourné dessous, comme on retourne une pièce sur l’enclume pour frapper la face qui n’a pas encore servi. Un homme avait coupé pour prouver qu’on pouvait le faire ; elle couperait, elle, pour qu’on ne meure pas ; et la page était la même page.
+Le cahier, lui, n’avait pas bougé d’une lettre depuis mille ans. Le monde s’était retourné dessous, comme on retourne une pièce sur l’enclume pour frapper la face qui n’a pas encore servi. Un homme avait coupé pour prouver qu’on pouvait le faire ; elle couperait, elle, pour qu’on ne meure pas ; et la page était la même page.
 
 Au-dessus d’elle, dans le noir, sa fille se retourna dans son lit et parla tout bas à quelqu’un d’autre qu’elle. Dans la cave, trois feuillets gardaient les gestes dans leur ordre. Sur une étendue plate, à l’est, trois déchirures avançaient chacune à son allure, et sous elles la terre cédait par plaques, dans un ordre que rien ne commandait.
