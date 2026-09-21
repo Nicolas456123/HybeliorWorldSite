@@ -163,7 +163,7 @@ C’était exactement celle qu’iel avait supplié qu’on ne posât pas, et ie
 
 « Mais l’un se réalisera. Un seul. Quand nous serons là-haut, il n’y aura qu’une seule nuit.
 
-— Une seule, oui. Et quand elle sera là, elle aura l’air d’avoir toujours été la seule possible. » Un sourire court, sans joie. « Ceux qui survivront, s’il en survit, raconteront une histoire, et ils la raconteront comme si les autres n’avaient jamais été rêvées. Les huit sont montés, l’un a coupé, le monde est mort. Propre. Une phrase qu’un enfant retient. Et personne ne saura qu’il y a eu, trois nuits de suite, dans la tête d’un dormeur d’Aethranor, tout un delta de fins dont celle-là n’était qu’un bras. »
+— Une seule, oui. Et quand elle sera là, elle aura l’air d’avoir toujours été la seule possible. » Un sourire court. « Ceux qui survivront, s’il en survit, raconteront une histoire, et ils la raconteront comme si les autres n’avaient jamais été rêvées. Les huit sont montés, l’un a coupé, le monde est mort. Propre. Une phrase qu’un enfant retient. Et personne ne saura qu’il y a eu, trois nuits de suite, dans la tête d’un dormeur d’Aethranor, tout un delta de fins dont celle-là n’était qu’un bras. »
 
 Thessan baissa les yeux sur son cahier. Une page et demie, en tout ; l’écriture se resserrait vers le bas, comme un pas qui presse. Il remonta en haut de la page et data l’entrée, comme il datait tout : le jour, la ville, l’heure à peu près. Puis il écrivit trois chiffres dans la marge, un par rêve, et les entoura.
 

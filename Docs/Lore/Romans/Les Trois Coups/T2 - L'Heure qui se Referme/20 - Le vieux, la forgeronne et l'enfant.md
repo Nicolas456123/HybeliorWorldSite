@@ -250,7 +250,7 @@ Derrière lui, dans la forge basse, ce fut sa chambre qui l’entendit : la pet
 
 Mais chaque note qu’il lui aurait chantée aurait ouvert plus grand ce que sa mère devait fermer. Lui apprendre à mieux entendre, c’était l’aider à mourir. Il n’avait qu’une chose à lui donner, à cette petite chambre qui l’appelait par-dessus les toits, et c’était de ne pas répondre.
 
-Alors il rentra sa chambre et la ferma, doucement, sur cet appel d’enfant qui poussait contre la paroi. De toute sa vie de Chamane, il n’avait jamais tenu un silence aussi dur. Il savait tenir tête aux morts. Celle-là était vivante, et il la laissait seule exprès.
+Alors il rentra sa chambre et la ferma, doucement, sur cet appel d’enfant qui poussait contre la paroi. De tous les silences que son métier lui avait demandés, celui-là était le plus lourd. Il savait tenir tête aux morts. Celle-là était vivante, et il la laissait seule exprès.
 
 Il marcha vers le bourg voisin, le dos courbé, le bâton de sa mère plantant son pouce dans la caillasse, et il chercha une grange où l’on voudrait bien loger un vieux contre un peu d’ouvrage de bouche. Il savait encore chanter les morts, et il y avait des morts partout, désormais ; on ne le laisserait pas coucher dehors.
 

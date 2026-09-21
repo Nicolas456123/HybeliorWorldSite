@@ -106,7 +106,7 @@ Renna souffla sur la soupe de l’enfant et la lui porta aux lèvres. Ilex but, 
 
 « Ils remontent parce qu’ils sont fous, dit Renna. Nous, on va vers le calme. Pas vers le feu.
 
-— Le calme. » La femme fit dans sa gorge un bruit court, où il n’entrait aucune gaieté, et tira un tabouret. « Vous croyez qu’il fait calme, ici ? »
+— Le calme. » La femme fit dans sa gorge un bruit court et tira un tabouret. « Vous croyez qu’il fait calme, ici ? »
 
 Quelque chose dans le ton fit lever les yeux à Renna. La femme regardait la fenêtre, la nuit derrière, l’eau qu’on entendait courir dehors.
 
@@ -230,7 +230,7 @@ L’enfant, sur ses genoux, ouvrit à demi ses yeux de cire. Il ne demanda pas o
 
 Renna fit tourner le mulet dans le pré, à mains nues, sans reprendre les rênes, en poussant la tête de la bête vers le sud.
 
-La charrette reprit la route à l’envers. À chaque tour de roue le pays reperdait sa beauté et retrouvait sa cendre, ses arbres dont les branches s’en vont toutes du même bord ; et dans le foin, la main d’Ilex se réchauffa. Il demanda du pain avant le soir. Renna le lui donna, le regarda mordre dedans, et n’en tira aucune joie. Les deux morts marchaient toujours devant elle. Elle avait seulement cessé de choisir celle qui se déguisait en salut.
+La charrette reprit la route à l’envers. À chaque tour de roue le pays reperdait sa beauté et retrouvait sa cendre, ses arbres dont les branches s’en vont toutes du même bord ; et dans le foin, la main d’Ilex se réchauffa. Il demanda du pain avant le soir. Renna le lui donna et le regarda mordre dedans. Les deux morts marchaient toujours devant elle. Elle avait seulement cessé de choisir celle qui se déguisait en salut.
 
 Au milieu de l’après-midi, la première cendre neuve se posa sur le dos de sa main. Tiède. Une pincée de rien. Renna ne l’essuya pas. Elle attendit qu’il en vînt une deuxième. Il en vint une deuxième.
 

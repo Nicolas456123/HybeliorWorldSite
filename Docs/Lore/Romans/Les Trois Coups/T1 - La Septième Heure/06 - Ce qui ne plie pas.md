@@ -71,7 +71,7 @@ Sans demander qui, il souffla la chaleur d’entre ses dents et regarda le feu.
 
 — Cet après-midi. Trois. Pas ceux d’avant. Des plus jeunes.
 
-— Ceux d’avant ont dû raconter. » Un demi-sourire lui vint, sans joie. « Vhaeran a dû chercher un moment avant d’en trouver trois. »
+— Ceux d’avant ont dû raconter. » Un demi-sourire lui vint, vite rangé. « Vhaeran a dû chercher un moment avant d’en trouver trois. »
 
 *
 

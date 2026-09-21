@@ -99,7 +99,7 @@ On le lui donna sans façon. Ce fut un homme jeune, un tisserand, qui le lui app
 
 « Pour savoir de quoi vous parlez tous. » C’était vrai à moitié.
 
-« Non. » Un demi-sourire, sans joie. « Ça, c’est ce que tu diras à ta voisine. Pourquoi tu le veux, toi ? »
+« Non. » Un demi-sourire qui ne dura pas. « Ça, c’est ce que tu diras à ta voisine. Pourquoi tu le veux, toi ? »
 
 Le linge changea de mains. Elle le prit sans répondre ; devant cet homme-là, mieux mentir aurait été pire.
 
