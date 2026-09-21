@@ -35,7 +35,7 @@ Un bon scribe. Verkan posa un doigt sur la dernière page de la première liasse
 
 — Je ne vous demande pas si c’est vous. » La voix ne montait pas ; elle ne montait jamais. « Je vous demande le nom de l’homme qui a inscrit *reçu*. Le paquet est là, sous ma main, et il n’est pas venu par les canaux occidentaux. Le cordon porte un sceau de campagne, pas un sceau de service. On l’a apporté à pied. Quelqu’un est entré dans ce bâtiment et a posé quarante pages sur un bureau. Et le registre écrit *reçu par les canaux*, comme si le paquet était arrivé tout seul. »
 
-Le scribe hésita. L’hésitation ne gênait pas Verkan ; c’était la suite qu’il écoutait. Le jeune homme regardait le cordon comme s’il le voyait pour la première fois, et c’était peut-être vrai.
+Le scribe hésita. L’hésitation ne gênait pas Verkan : il écoutait la suite. Le jeune homme regardait le cordon comme s’il le voyait pour la première fois, et c’était peut-être vrai.
 
 « Je ne sais pas qui l’a apporté », dit-il enfin, et il était sincère.
 
@@ -53,9 +53,9 @@ En haut, on lui avait donné l’explication toute prête. *Prise et exécutée.
 
 Le cachet était bon. La date était ronde : le premier du mois, comme les dates qu’on invente. Et nulle part, dans les trois liasses qu’on lui avait remises pour clore le dossier, il n’y avait la seule chose qu’une exécution laisse toujours derrière elle : un corps. Un lieu. Un fossoyeur payé. Une fosse marquée. *Prise et exécutée*, disait le papier, et le papier ne disait pas où, ni qui l’avait prise, ni qui avait creusé.
 
-Une exécution sans corps n’est pas une exécution. C’est un vœu.
+Une exécution sans corps reste un vœu.
 
-Il prit la posture qu’il prenait pour penser : non les mains jointes, cela ressemble à la prière, et il ne priait pas ; les doigts écartés à plat sur l’arête de la table, comme on tient une carte pour qu’elle ne roule pas. *Premier fait : on me dit qu’elle est morte. Deuxième fait : personne ne peut me montrer qu’elle est morte.* Il laissa venir le troisième. Il vint, froid et simple. *Elle n’est pas morte. On me raconte sa mort parce qu’une capitaine morte se classe mieux qu’une capitaine passée à l’ennemi. Et on me la raconte à moi, qui ai signé son ordre, pour que je ferme le dossier sans le rouvrir.*
+Il prit la posture qu’il prenait pour penser : les doigts écartés à plat sur l’arête de la table, comme on tient une carte pour qu’elle ne roule pas. Les mains jointes ressemblaient à la prière, et il ne priait pas. *Premier fait : on me dit qu’elle est morte. Deuxième fait : personne ne peut me montrer qu’elle est morte.* Il laissa venir le troisième. Il vint, froid et simple. *Elle n’est pas morte. On me raconte sa mort parce qu’une capitaine morte se classe mieux qu’une capitaine passée à l’ennemi. Et on me la raconte à moi, qui ai signé son ordre, pour que je ferme le dossier sans le rouvrir.*
 
 On lui demandait de fermer. Au Bureau, on ne fermait pas les dossiers, on les mettait en concordance, et rien ne partait à l’archive tant que les faits ne disaient pas tous la même chose. Ici, un fait manquait, le corps, et un fait de trop encombrait la table : quarante pages qu’une femme exécutée n’aurait pas eu le temps d’écrire, apportées à la main par quelqu’un que le registre refusait de nommer.
 
@@ -79,7 +79,7 @@ Il lut la suite comme il lisait tout, en cherchant le tournant. En vingt ans, il
 
 Les cinq thèses défilèrent, résumées avec une sécheresse qu’il ne put s’empêcher d’admirer : elle traitait un traité de philosophie comme un plan de campagne, chaque idée en position à prendre, chaque objection en contre-attaque, et pour chaque contre-attaque, la raison exacte de son échec. Il avait lu le Traité du Vide très jeune, comme on lit ce qu’on va combattre. Ses poternes lui étaient familières, croyait-il. Elle les avait toutes essayées avant lui, et notait à côté de chacune pourquoi elle n’ouvrait pas.
 
-Restait le sien. Celui qu’il gardait pour lui depuis vingt ans, l’argument qui fermait la question : *le Traité a peut-être raison, et c’est pour cela qu’il faut le taire, parce que les vérités les plus séduisantes tuent le plus de monde.* Il chercha si elle l’avait manqué. À la trente-troisième page, dans des mots presque identiques à ceux qu’il aurait employés, elle l’avait posé, *on m’objectera qu’une vérité qui tue vaut moins qu’un mensonge qui garde en vie*, et elle y avait répondu, non par un tour, mais par une question qu’il ne s’était jamais posée à lui-même : *un mensonge qui garde en vie qui ? Les Liés. Et ceux d’en bas ? Ceux qui n’ont pas de Lien, et qu’on tient au second rang pour une chose qu’ils n’ont pas choisie ? Le mensonge les garde en vie comme on garde une bête : nourrie, pour qu’elle ait plus peur de la faim que de la corde.*
+Restait le sien. Celui qu’il gardait pour lui depuis vingt ans, l’argument qui fermait la question : *le Traité a peut-être raison, et c’est pour cela qu’il faut le taire, parce que les vérités les plus séduisantes tuent le plus de monde.* Il chercha si elle l’avait manqué. À la trente-troisième page, dans des mots presque identiques à ceux qu’il aurait employés, elle l’avait posé, *on m’objectera qu’une vérité qui tue vaut moins qu’un mensonge qui garde en vie*, et elle y avait répondu par une question qu’il ne s’était jamais posée à lui-même : *un mensonge qui garde en vie qui ? Les Liés. Et ceux d’en bas ? Ceux qui n’ont pas de Lien, et qu’on tient au second rang pour une chose qu’ils n’ont pas choisie ? Le mensonge les garde en vie comme on garde une bête : nourrie, pour qu’elle ait plus peur de la faim que de la corde.*
 
 Verkan reposa la page. Sa fille, à Pyrion, était une de ces bêtes-là. Non-Liée. Une Vide. Nourrie.
 
@@ -89,7 +89,7 @@ Quelque part au-dessus, une cloche sonna l’heure, puis une autre, plus loin, m
 
 La lecture alla jusqu’au bout.
 
-La dernière page n’était plus un rapport. C’était une signature, au sens où un homme signe sa condamnation.
+La dernière page était une signature, au sens où un homme signe sa condamnation.
 
 *Ils ont raison sur ce que je connais mieux qu’aucun érudit de leur cercle : la guerre. Le Lien n’a pas désarmé les hommes. Il leur a donné de meilleures armes, et nous avons appelé paix le moment où ils ont eu peur de leurs propres armes. Ce n’est pas une paix. C’est une pause. J’ai passé ma vie à la servir. Je ne la servirai plus.*
 
@@ -105,7 +105,7 @@ Longtemps, il resta sans bouger, les quarante pages à plat sous sa main.
 
 Il n’avait pas trouvé le tournant.
 
-C’était le fait, et il le regarda en face comme il regardait tous les faits, sans se donner le confort de le contester. Vingt ans à démonter les raisonnements des autres, à trouver dans chaque discours honnête le petit mensonge sans lequel il ne tiendrait pas debout. Et là, sous sa lampe, quarante pages sans mensonge, où chaque poterne était murée par probité et non par ruse, et qui menaient ligne après ligne exactement où il ne voulait pas aller.
+C’était le fait, et il le regarda en face comme il regardait tous les faits, sans se donner le confort de le contester. Vingt ans à démonter les raisonnements des autres, à trouver dans chaque discours honnête le petit mensonge sans lequel il ne tiendrait pas debout. Et là, sous sa lampe, quarante pages sans mensonge, où chaque poterne était murée par probité, et qui menaient ligne après ligne exactement où il ne voulait pas aller.
 
 Cela ne le convertit pas.
 
@@ -137,9 +137,9 @@ Il garda le cordon et le posa dans le tiroir du bas. Le sceau venait d’un post
 
 La posture de la carte revint, doigts écartés, sur le rien de la table.
 
-Ce n’était plus une défection. Trois choses étaient arrivées à la même femme dans le même hiver : elle avait cessé d’écrire, elle était passée de l’autre côté, et on l’avait déclarée morte sans pouvoir montrer le corps. Cela faisait beaucoup pour un accident. On lui avait dit *prise et exécutée*, et il tenait la preuve du contraire ; on lui avait dit *ferme le dossier*, et il venait de comprendre que ce dossier n’était pas un dossier mais une porte.
+Ce n’était plus une défection. Trois choses étaient arrivées à la même femme dans le même hiver : elle avait cessé d’écrire, elle était passée de l’autre côté, et on l’avait déclarée morte sans pouvoir montrer le corps. Cela faisait beaucoup pour un accident. On lui avait dit *prise et exécutée*, et il tenait la preuve du contraire ; on lui avait dit *ferme le dossier*, et il venait de comprendre que ce dossier était une porte.
 
-Verkan avait vu des agents retournés. Ils se taisaient, changeaient de nom, sauvaient leur peau. Celle-ci avait écrit quarante pages qui ne pouvaient que la tuer, et les avait envoyées par les canaux réguliers, dûment, comme un officier loyal. Ce n’était pas le geste de quelqu’un qui cherche à s’en sortir. Elle servait donc autre chose, et elle ne l’avait pas trouvé toute seule : on le lui avait montré, quelqu’un le lui avait montré, et ce quelqu’un existait.
+Verkan avait vu des agents retournés. Ils se taisaient, changeaient de nom, sauvaient leur peau. Celle-ci avait écrit quarante pages qui ne pouvaient que la tuer, et les avait envoyées par les canaux réguliers, dûment, comme un officier loyal. Elle servait donc autre chose, et elle ne l’avait pas trouvé toute seule : on le lui avait montré, quelqu’un le lui avait montré, et ce quelqu’un existait.
 
 Pour l’instant, il n’avait qu’un fait et une absence. Le fait : une capitaine du Dominat, la meilleure qu’il eût jamais lancée, était passée de l’autre côté d’une question, par la raison, sans qu’on eût rien brisé en elle. L’absence : le corps qu’on lui promettait et qu’on ne lui montrait pas.
 
@@ -147,4 +147,4 @@ Entre les deux, il y avait une forme. Il ne la voyait pas encore. *Un homme ordi
 
 Il éteignit la lampe. *Elle ne me laissera rien. Rien que le vide qu’elle creuse derrière elle. Et un vide, ça se lit.*
 
-Il ne savait pas encore que ce vide dessinait une flèche, ni vers quoi elle pointait, ni qu’il la suivrait un jour jusqu’au bout. En sortant du Bureau des Concordances dans le petit matin de Pyrion, il savait seulement ceci, et cela ne le lâcherait plus : quelque part au-delà des frontières qu’il avait passé sa vie à surveiller, une femme qu’il n’avait jamais vue de près effaçait ses traces avec le soin exact qu’il aurait mis à les lire. Et à la pointe de cette flèche, sous la pierre d’un pays qu’il ne connaissait que par des cartes, il y avait une chose qu’on s’apprêtait à ôter au monde, et que personne, jamais, n’aurait lue avant de la brûler.
+Il ne savait pas encore que ce vide dessinait une flèche, ni vers quoi elle pointait, ni qu’il la suivrait un jour jusqu’au bout. En sortant du Bureau des Concordances dans le petit matin de Pyrion, il savait seulement ceci, et cela ne le lâcherait plus : quelque part au-delà des frontières qu’il surveillait depuis vingt ans, une femme qu’il n’avait jamais vue de près effaçait ses traces avec le soin exact qu’il aurait mis à les lire. Et à la pointe de cette flèche, sous la pierre d’un pays qu’il ne connaissait que par des cartes, il y avait une chose qu’on s’apprêtait à ôter au monde, et que personne, jamais, n’aurait lue avant de la brûler.

@@ -25,11 +25,11 @@ Le matin passa. La lumière entrée par l’ouverture tourna sur le mur, descend
 
 Le livre était venu jusqu’à la dalle sans qu’un mot fût prononcé nulle part, et c’était le plus étrange de l’affaire.
 
-Vorath avait posé la chose devant le Conseil des Abbés. Pas l’objet : l’idée. La charge sur la poutre, le fil qui se laissait entendre, l’homme sans nom qui voulait couper au grand jour ce qui menaçait de se rompre dans l’ombre. Une matinée entière à la poser, dans le Geste de cour, cet ample langage lent qu’on regarde des années avant d’oser le pratiquer. Les Abbés avaient regardé. Puis ils avaient fait ce qu’un Conseil de Baelor fait d’une chose trop grande pour lui : ils l’avaient rendue à la communauté. Un Conseil peut trancher une règle ; il ne tranche pas une âme. Envoyer l’un des leurs mourir à l’autre bout du monde n’appartenait pas aux Abbés. Cela appartenait à tous, ou à personne.
+Vorath avait posé l’idée devant les Abbés. La charge sur la poutre, le fil qui se laissait entendre, l’homme sans nom qui voulait couper au grand jour ce qui menaçait de se rompre dans l’ombre. Une matinée entière à la poser, dans le Geste de cour, que les frères mettent des années à oser. Les Abbés avaient regardé. Puis ils avaient fait ce qu’un Conseil de Baelor fait d’une chose trop grande pour lui : ils l’avaient rendue à la communauté. Un Conseil peut trancher une règle ; il ne tranche pas une âme. Envoyer l’un des leurs mourir à l’autre bout du monde n’appartenait pas aux Abbés. Cela appartenait à tous, ou à personne.
 
 On avait donc descendu deux paniers à la grève. Dans le premier, des galets clairs ramassés au nord de l’île, presque blancs, ceux de la mer douce. Dans le second, du basalte usé de la falaise, noir. Blanc pour *va*. Noir pour *reste*. Chaque frère, chaque sœur en âge de poser, depuis le Second Voile confirmé jusqu’aux plus vieux Maîtres, descendrait seul, à l’heure qu’il choisirait, prendrait une pierre dans l’un des deux paniers et l’irait poser sur la dalle : au levant pour *va*, au couchant pour *reste*. Personne ne verrait qui posait quoi. Cela durerait trois jours.
 
-Les pierres, en s’accumulant, ne diraient pas *un tel a voulu ceci*. À la fin, elles diraient seulement de quelle couleur était la dalle. Ainsi nul n’avait à voter contre un frère : on posait un caillou, on remontait le sentier, et l’on gardait cela pour soi jusqu’à la mort.
+À la fin, les pierres diraient seulement de quelle couleur était la dalle. Ainsi nul n’avait à voter contre un frère : on posait un caillou, on remontait le sentier, et l’on gardait cela pour soi jusqu’à la mort.
 
 Trois jours. Vorath les passa à ne rien savoir.
 
@@ -55,7 +55,7 @@ Ollam ne bougea pas tout de suite. Puis il fit une chose qui n’était d’aucu
 
 *Moi, j’ai posé le blanc.*
 
-Vorath aurait dû le reprendre. Un frère ne montre pas sa pierre, fût-ce d’un geste, fût-ce à celui qu’elle concerne. Il ne le reprit pas. L’Abbé lui revint, ce matin-là, dans l’ombre de la Salle, et ce qu’il avait cru voir passer sur ce vieux visage : une pitié, chez un homme qui avait rendu sa voix au silence quarante ans plus tôt. Ollam ne cherchait pas à le faire pencher d’un côté ; il voulait qu’il ne portât pas les trois jours tout seul, et c’était tout. Vorath inclina la tête, très lentement. Puis il ferma la main vide et l’appuya contre sa poitrine : reçu, et merci.
+Vorath aurait dû le reprendre. Un frère ne montre pas sa pierre, fût-ce d’un geste, fût-ce à celui qu’elle concerne. Il ne le reprit pas. L’Abbé lui revint, ce matin-là, dans l’ombre de la Salle, et ce qu’il avait cru voir passer sur ce vieux visage : une pitié, chez un homme qui avait rendu sa voix au silence quarante ans plus tôt. Ollam voulait seulement qu’il ne portât pas les trois jours tout seul. Vorath inclina la tête, très lentement. Puis il ferma la main vide et l’appuya contre sa poitrine : reçu, et merci.
 
 Ollam se leva et sortit dans la nuit, du côté du quai. Vorath resta seul avec ce qu’il n’aurait pas dû savoir : qu’au moins une pierre, sur la dalle, était blanche.
 
@@ -65,7 +65,7 @@ Le deuxième jour fut le pire, parce qu’il ne s’y passa rien.
 
 Personne ne vint. Vorath fit l’Heure Vide au matin, mangea son riz au réfectoire dans le silence ordinaire, revint à la Salle du bas. La journée n’en finissait pas. Il recompta les irrégularités du mur de sa cellule, celles qu’il connaissait depuis onze ans, et s’arrêta net quand il s’aperçut qu’il comptait. La mer travaillait la falaise. On descendait à la grève, il le savait sans rien voir : à la lenteur nouvelle de certains pas dans les couloirs, à la façon dont un frère croisé tenait son regard une fraction de trop, ou pas assez. La chose continuait de se faire. Dans quel sens, il n’en savait rien. On ne comptait pas avant la fin ; compter aurait été du bruit. On laissait les pierres s’entasser, et au dernier soir seulement on regarderait de quel côté la dalle était couverte.
 
-Vers midi, il céda. Il eut honte de céder et céda quand même : il descendit vers la grève, non pour poser, jamais, mais pour voir. Bien avant la table, à cet endroit du sentier d’où l’on aperçoit la dalle sans en distinguer le détail, il s’arrêta et regarda.
+Vers midi, il céda. Il eut honte de céder et céda quand même : il descendit vers la grève pour voir. Bien avant la table, à cet endroit du sentier d’où l’on aperçoit la dalle sans en distinguer le détail, il s’arrêta et regarda.
 
 De loin, les deux tas se ressemblaient. Le levant et le couchant faisaient sur le basalte deux amas gris que la distance confondait. Vorath plissa les yeux. Un instant, le levant parut l’emporter. Puis ce fut le contraire. Puis il ne crut plus rien : d’où il se tenait, la chose n’était pas lisible, et elle ne le serait pas avant le troisième soir. Il remonta le sentier, et fut soulagé de n’avoir rien vu.
 
@@ -95,7 +95,7 @@ Vorath les compta. C’était le seul moment du rite où l’on comptât, et com
 
 Puis il regarda le levant.
 
-La dalle y était couverte. Non pas un tas : une nappe. Les galets clairs débordaient de la pierre, glissaient sur le sable, montaient les uns sur les autres faute de place. Dans le jour qui tombait, ils gardaient encore un peu de lumière, et le basalte n’en gardait pas. On ne les compta pas. Il y en avait trop. C’était l’île entière, moins onze.
+La dalle y était couverte. Une nappe. Les galets clairs débordaient de la pierre, glissaient sur le sable, montaient les uns sur les autres faute de place. Dans le jour qui tombait, ils gardaient encore un peu de lumière, et le basalte n’en gardait pas. On ne les compta pas. Il y en avait trop. C’était l’île entière, moins onze.
 
 Un très vieux Maître se tenait au bord de la dalle, le plus vieux de tous, un Silentii du Troisième Voile qui n’avait pas parlé depuis soixante ans et dont on disait qu’il avait oublié le son de sa propre voix. Ses yeux allèrent aux pierres. Puis à Vorath. La règle autorise une parole, une seule, à l’instant où le silence a fini de décider et où il faut bien que quelqu’un scelle ce qu’il a dit. Le vieux Maître ouvrit la bouche. Sa voix sortit rouillée, éraillée, à peine humaine, comme une chose qu’on tire de l’eau après des années.
 
@@ -107,7 +107,7 @@ Le mot tomba sur la grève et la mer le recouvrit. Le vieux referma la bouche, e
 
 Il n’y avait rien à répondre, et un autre mot aurait abîmé celui-là. La main à plat sur sa poitrine, Vorath s’inclina : d’abord vers les onze pierres noires, vers ceux qui avaient voulu le garder, parce que ceux-là méritaient d’être salués les premiers ; ensuite vers la nappe blanche du levant, vers ceux qui l’avaient donné.
 
-Il avait cru qu’on l’envoyait porter un avertissement, pour préparer les siens. Devant la dalle, il comprit qu’il s’était trompé de sens. Les onze noires disaient qu’on l’aimait ; les blanches disaient qu’on ne le gardait pas, et elles le disaient plus durement, parce qu’elles disaient aussi qu’il ne leur appartenait plus. L’île ne l’envoyait pas chercher quelque chose, elle le posait. Elle le posait du côté du levant comme on pose un caillou clair, pour qu’il y eût là-haut, sur une montagne, parmi des étrangers, un homme qui sût de quoi est fait un monde sans Lien, et qui pût le montrer à ceux qui l’apprendraient en une nuit.
+Il avait cru qu’on l’envoyait porter un avertissement, pour préparer les siens. Devant la dalle, il comprit qu’il s’était trompé de sens. Les onze noires disaient qu’on l’aimait ; les blanches disaient qu’on ne le gardait pas, et elles le disaient plus durement, parce qu’elles disaient aussi qu’il ne leur appartenait plus. L’île le posait. Elle le posait du côté du levant comme on pose un caillou clair, pour qu’il y eût là-haut, sur une montagne, parmi des étrangers, un homme qui sût de quoi est fait un monde sans Lien, et qui pût le montrer à ceux qui l’apprendraient en une nuit.
 
 Près de lui, quelqu’un leva la main gauche. Ollam, une dernière fois, le geste de cellule. Il ne le referma pas. La main resta ouverte, en suspens, et Vorath comprit que c’était exprès. On lui tendait la fin du geste comme on tend le dernier mot d’une phrase.
 
@@ -123,7 +123,7 @@ Jamais il ne saurait qui c’était. Onze visages, quelque part sur l’île, qu
 
 Il savait déjà ce que les Annales diraient : *à l’unanimité*. De ce feuillet, il connaissait d’avance le vélin épais, l’encre broyée à Thyldris qui noircit en séchant, la ligne courte qu’un frère enlumineur mettrait un mois à tracer. Elles le diraient sans mentir. Le Silence ne compte pas ses pierres, et l’Abbé, quand il scelle un consentement, ne consigne que la couleur qui l’emporte : la dalle avait dit *va*, le registre dirait *va*, et les onze noires n’y auraient pas même un chiffre. Dans mille ans, on lirait le feuillet et l’on y verrait une île d’accord avec elle-même. Ce que la marée avait recouvert ce soir-là ne serait écrit nulle part, et c’était pourtant là que Baelor se tenait tout entier.
 
-C’était cela qu’il apporterait au Cercle, et que le Cercle ne comprendrait qu’à moitié. Ils croyaient tous les Taciti sereins parce qu’ils ne s’attachaient pas. Le jeune homme au journal le croyait ; Sera le croyait, dans sa tendresse de justicière ; la navigatrice aux mains tannées le croyait aussi, elle qui vivait déjà l’après sans peur. Ils se trompaient. On pouvait aimer un frère de tout son cœur, poser une pierre noire pour le garder, le laisser partir quand même, et faire l’Heure Vide le soir sans que la perte devînt un cri. Voilà ce que valaient quatre cents ans de falaise : on y apprenait à tenir et à lâcher du même geste.
+C’était cela qu’il emporterait vers la montagne, et que personne là-haut ne recevrait tout à fait. Ils croyaient tous les Taciti sereins parce qu’ils ne s’attachaient pas. Le jeune homme au journal le croyait ; Sera le croyait, dans sa tendresse de justicière ; la navigatrice aux mains tannées le croyait aussi, elle qui vivait déjà l’après sans peur. Ils se trompaient. On pouvait aimer un frère de tout son cœur, poser une pierre noire pour le garder, le laisser partir quand même, et faire l’Heure Vide le soir sans que la perte devînt un cri. Voilà ce que valaient quatre cents ans de falaise : on y apprenait à tenir et à lâcher du même geste.
 
 Le monde aurait à l’apprendre en une nuit. Baelor y avait mis quatre siècles, une pierre à la fois.
 

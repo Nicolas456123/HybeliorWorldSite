@@ -49,7 +49,7 @@ Fenn chercha quoi répondre et ne trouva pas. Au bout d’un moment ses galoches
 
 Kelib resta seul avec son trou et son homme.
 
-Parce qu’il était impossible, cet homme qui les regardait d’en bas. Impossible, cette ville dans l’air. Personne autour de Kelib n’avait plus l’air de le trouver impossible. Ici, il y avait des rues, des maisons, des puits, un marché, et de vrais arbres dans le jardin du Vieux Cloître, poussés dans de la vraie terre montée par paniers, motte après motte, des siècles plus tôt. Tout cela tenait au-dessus du rien. Les grands ne s’en émerveillaient plus ; ils s’en méfiaient tout juste, comme d’un vieux plancher dont on connaît la marche qui grince. Mais un garçon de douze ans est juste au bon âge : assez grand pour comprendre que c’est impossible, assez jeune pour n’avoir pas encore appris à ne plus le voir. À plat ventre, la tête dans le trou, Kelib sentait sous son ventre toute l’épaisseur de la ville, les caves, les fondations, la grande quille de pierre bleue en dessous. Et sous la quille, rien. Deux mille pas de rien. Et ça tenait.
+Parce qu’il était impossible, cet homme qui les regardait d’en bas. Impossible, cette ville dans l’air. Personne autour de Kelib n’avait plus l’air de le trouver impossible. Ici, il y avait des rues, des maisons, des puits, un marché, et de vrais arbres dans le jardin du Vieux Cloître, poussés dans de la vraie terre montée par paniers, motte après motte, des siècles plus tôt. Tout cela tenait au-dessus du rien. Les grands s’en méfiaient tout juste, comme d’un vieux plancher dont on connaît la marche qui grince. Mais un garçon de douze ans est juste au bon âge : assez grand pour comprendre que c’est impossible, assez jeune pour n’avoir pas encore appris à ne plus le voir. À plat ventre, la tête dans le trou, Kelib sentait sous son ventre toute l’épaisseur de la ville, les caves, les fondations, la grande quille de pierre bleue en dessous. Et sous la quille, rien. Deux mille pas de rien. Et ça tenait.
 
 Et il savait aussi *comment* ça tenait. Tout le monde le savait. On l’apprenait tôt, comme le bord ; mais celle-là, on l’apprenait sans peur, et même avec un peu de fierté.
 
@@ -57,7 +57,7 @@ Et il savait aussi *comment* ça tenait. Tout le monde le savait. On l’apprena
 
 ---
 
-Son oncle Davor était Porteur. C’était la gloire discrète de la famille, la chose qu’on ne disait pas et qu’on portait haut : *chez nous, il y a un Porteur.* Trois fois par décade, Davor descendait aux Chambres, y restait six heures et en ressortait gris. C’était le mot que Kelib employait dans sa tête. Pas malade, pas blessé : vidé d’une couleur. Il entrait avec son visage d’oncle, celui qui faisait des grimaces et cachait des figues sèches dans ses poches pour les neveux, et il ressortait avec un autre visage, plus vieux de dix ans le temps d’un tour de garde, les yeux enfoncés, les gestes lents. La couleur mettait deux jours à revenir. Elle revenait, il refaisait des grimaces, et on ne parlait pas de l’entre-deux.
+Son oncle Davor était Porteur. C’était la gloire discrète de la famille, la chose qu’on ne disait pas et qu’on portait haut : *chez nous, il y a un Porteur.* Trois fois par décade, Davor descendait aux Chambres, y restait six heures et en ressortait gris. C’était le mot que Kelib employait dans sa tête. Vidé d’une couleur. Il entrait avec son visage d’oncle, celui qui faisait des grimaces et cachait des figues sèches dans ses poches pour les neveux, et il ressortait avec un autre visage, plus vieux de dix ans le temps d’un tour de garde, les yeux enfoncés, les gestes lents. La couleur mettait deux jours à revenir. Elle revenait, il refaisait des grimaces, et on ne parlait pas de l’entre-deux.
 
 Kelib avait demandé une fois ce qu’on faisait dans les Chambres. Il devait avoir huit ans. Sa mère avait eu le regard qu’elle gardait pour les questions trop grandes ; c’est Davor qui s’était accroupi pour être à sa hauteur.
 
@@ -77,7 +77,7 @@ Il avait fait oui de la tête. Il n’avait pas compris.
 
 À douze ans, il comprenait mieux, en regardant l’homme immobile tout en bas dans son champ. Ça voulait dire que depuis quatre cents ans, pas une nuit, pas un orage, pas une guerre n’avait laissé les Chambres vides. Que des gens comme son oncle étaient assis dans le noir à cette heure même, et l’avaient été à toutes les heures, et donnaient leur force à la ville. Que Cendal’Horun flottait sur une file d’hommes et de femmes qui ne se voyaient pas les uns les autres et se passaient la même chose, génération après génération. L’homme du champ, en levant la tête, regardait ça sans le savoir.
 
-Cela ne faisait pas frissonner. Ce n’était pas une histoire à raconter l’hiver, comme la Pierre Perdue. Ça faisait une chaleur bizarre dans la poitrine et une envie de bien se tenir. Quand il y pensait, Kelib marchait plus doucement sur les dalles, comme on marche sur le dos de quelqu’un qui vous porte.
+La Pierre Perdue était une histoire à frissons, bonne pour l’hiver. Cela faisait une chaleur bizarre dans la poitrine et une envie de bien se tenir. Quand il y pensait, Kelib marchait plus doucement sur les dalles, comme on marche sur le dos de quelqu’un qui vous porte.
 
 ---
 
@@ -119,7 +119,7 @@ Kelib s’assit. On n’embêtait pas un Porteur qui remontait des Chambres ; c
 
 « Elle a été lourde, aujourd’hui », dit Davor.
 
-Tout bas. Pas vraiment à Kelib, plutôt à ses mains. Le cœur du garçon cogna, parce que ça rejoignait son idée à lui, le cheveu de trop dans la rotation, la ville qui n’était pas tout à fait remontée.
+Tout bas, à ses mains plus qu’à Kelib. Le cœur du garçon cogna, parce que ça rejoignait son idée à lui, le cheveu de trop dans la rotation, la ville qui n’était pas tout à fait remontée.
 
 « Lourde comment ? »
 
@@ -141,7 +141,7 @@ Kelib fit oui.
 
 — Alors qu’est-ce qui tire ? »
 
-Ils se regardèrent. Le vieux visage gris, le jeune visage inquiet. Et Kelib vit passer, dans les yeux de son oncle, la chose qu’on cache aux enfants : non pas le mensonge, mais l’endroit où l’adulte lui-même ne sait pas, et s’en aperçoit à l’instant.
+Ils se regardèrent. Le vieux visage gris, le jeune visage inquiet. Et Kelib vit passer, dans les yeux de son oncle, la chose qu’on cache aux enfants : l’endroit où l’adulte lui-même ne sait pas, et s’en aperçoit à l’instant.
 
 Puis Davor eut un geste de la main, comme pour balayer ses propres mots, et cette fois la grimace vint, forcée mais vraie, et il ébouriffa les cheveux de Kelib de sa main gauche.
 

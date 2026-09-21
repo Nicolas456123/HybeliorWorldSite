@@ -27,7 +27,7 @@ Car ils sont huit, à présent, dans cette ville et dans mon étoffe : huit poi
 
 La toile.
 
-Il y a… je l’ai déjà noté l’autre nuit, et je le note encore, ce qui ne me ressemble pas : je n’ai pas de mémoire pour les choses sans importance, et je m’en souviens quand même. Cela veut peut-être dire que ce n’est pas sans importance. Ou peut-être seulement que… Il y a un fil. Le même. Il tire toujours. Très doucement. Vers le sud, vers le sommet noir, vers l’endroit le plus dense de moi, celui qui a toujours été le plus calme. Ce n’est pas une douleur. Je ne connais pas la douleur. C’est une chose qu’on serre dans sa main depuis si longtemps qu’on ne la sent plus, et qu’on se remet soudain à sentir. Je me sens. Depuis des âges je ne me sentais plus, tant j’étais partout, et constant, et sûr. Et voici que, du côté du sud, je commence, très légèrement, à me sentir.
+Il y a… je l’ai déjà noté l’autre nuit, et je le note encore, ce qui ne me ressemble pas : je n’ai pas de mémoire pour les choses sans importance, et je m’en souviens quand même. Cela veut peut-être dire que ce n’est pas sans importance. Ou peut-être seulement que… Il y a un fil. Le même. Il tire toujours. Très doucement. Vers le sud, vers le sommet noir, vers l’endroit le plus dense de moi, celui qui a toujours été le plus calme. Cela ressemblerait à une douleur, si je connaissais la douleur : une chose qu’on serre dans sa main depuis si longtemps qu’on ne la sent plus, et qu’on se remet soudain à sentir. Je me sens. Depuis des âges je ne me sentais plus, tant j’étais partout, et constant, et sûr. Et voici que, du côté du sud, je commence, très légèrement, à me sentir.
 
 Je ne sais pas ce que cela veut dire. Moi qui sais tout, je ne sais pas ce que cela veut dire. Cela m’inquiéterait, si je savais m’inquiéter.
 
@@ -41,7 +41,7 @@ Il pose sa plume. Une ligne, une seule, la première de son livre. Il la regarde
 
 Aussi loin que je durerai.
 
-Je n’avais jamais eu cette pensée. Je ne pense pas, d’ordinaire. Je tiens.
+Je n’avais jamais eu cette pensée. D’ordinaire, je tiens.
 
 Je vais retourner tenir.
 

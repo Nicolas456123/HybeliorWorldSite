@@ -121,7 +121,7 @@ Iel n’en parla à personne. Marcher ne mettait pas une lieue entre iel et le m
 
 ---
 
-Au dernier relais avant le grand portail de la marche, celui qui sauterait jusqu’à Galenor et qu’on ne pouvait pas contourner davantage, l’auberge était tenue par une Veilleuse à la retraite. Mirathis le sut à ses yeux. Les Veilleurs de Vytharia gardent ce regard nu toute leur vie, même loin du pays : on ne leur apprend pas à voir le vrai, on leur arrache l’illusion.
+Au dernier relais avant le grand portail de la marche, celui qui sauterait jusqu’à Galenor et qu’on ne pouvait pas contourner davantage, l’auberge était tenue par une Veilleuse à la retraite. Mirathis le sut à ses yeux. Les Veilleurs de Vytharia gardent ce regard nu toute leur vie, même loin du pays : on leur arrache l’illusion.
 
 La salle basse sentait le chou et la graisse de mouton. Un feu de tourbe fumait dans l’âtre, trois rouleurs mangeaient au fond sans se parler, et la chaleur des dalles montait dans les genoux. Mirathis resta un long moment les mains autour du bol avant d’y toucher : c’était la première fois depuis Gelinar qu’iel avait chaud aux doigts.
 

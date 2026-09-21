@@ -37,9 +37,9 @@ Ceux qui n’avaient jamais rien tiré du Lien. Ceux qu’on méprisait précis�
 
 Trois pas suffisaient à traverser la chambre. Sera les fit, se cogna au coffre, revint. Car si c’était vrai, tout se retournait encore, dans un sens qu’elle n’avait pas prévu. Elle avait cru réparer un tort. Son geste faisait autre chose : pour la première fois de l’Histoire, le monde se plierait à leur mesure, et plus rien n’y compterait que la main. Elle ne savait pas si cela la soulageait ou l’épouvantait.
 
-Tout son édifice tenait sur une phrase. *Soit tout le monde a accès au Lien, soit personne. Entre les deux, je choisis personne.* Une équation de justice, la seule qui tînt debout : puisqu’on ne peut donner le Lien à tous, on le retire à tous. Elle se la répétait depuis quinze ans. Elle savait ce qu’elle lui avait coûté. Cette nuit, l’équation montrait son revers. L’égalité qu’elle promettait n’était pas celle qu’elle avait rêvée, un monde où plus personne ne regarderait sa sœur de haut : c’était l’égalité de la chute, et dans une chute on n’est pas égaux, on est seulement précipités ensemble. Son geste ne mettait pas le monde à plat. Il retournait le sablier et faisait passer en haut ceux d’en bas. C’était peut-être mérité. Ce n’était pas ce qu’elle avait promis.
+Tout son édifice tenait sur une phrase. *Soit tout le monde a accès au Lien, soit personne. Entre les deux, je choisis personne.* Une équation de justice, la seule qui tînt debout : puisqu’on ne peut donner le Lien à tous, on le retire à tous. Elle se la répétait depuis quinze ans. Elle savait ce qu’elle lui avait coûté. Cette nuit, l’équation montrait son revers. Elle avait rêvé un monde où plus personne ne regarderait sa sœur de haut ; elle promettait l’égalité de la chute, et dans une chute on est seulement précipités ensemble. Son geste retournait le sablier et faisait passer en haut ceux d’en bas. C’était peut-être mérité. Ce n’était pas ce qu’elle avait promis.
 
-Elle revint à la table et ouvrit enfin le protocole, quarante et une pages qu’elle savait par cœur et qu’elle ne relisait plus pour apprendre, mais pour vérifier qu’elle y croyait encore. Les feuilles tournèrent jusqu’à la ligne qui arrêtait sa main depuis des semaines : *l’effet atteindra tous les Liés, et par contrecoup toutes les structures Lié-dépendantes.*
+Elle revint à la table et ouvrit enfin le protocole, quarante et une pages qu’elle savait par cœur et qu’elle relisait pour vérifier qu’elle y croyait encore. Les feuilles tournèrent jusqu’à la ligne qui arrêtait sa main depuis des semaines : *l’effet atteindra tous les Liés, et par contrecoup toutes les structures Lié-dépendantes.*
 
 Trois fois elle avait essayé de l’écrire autrement. Trois fois elle avait raturé : cela disait la même chose, en plus poli. Elle n’avait jamais aimé les jolis mots ; elle venait d’Orvane, la Voie qui nomme les choses par leur nom nu. La ligne resta telle qu’elle était. Le protocole disait comment faire ; il ne disait nulle part pourquoi, et c’était elle qui le portait, ligne après ligne.
 
@@ -75,7 +75,7 @@ Le silence dura assez pour qu’elle crût ne pas être entendue. Puis, très ba
 
 Le froid de la coque passait à travers sa laine. « Pourquoi tu me le dis à moi ? » finit-elle par demander.
 
-« Parce que tu écris le comment. » Aucun reproche ; Mirathis ne reprochait rien, iel constatait, comme on note un changement de temps. « Et parce que tu es la seule qui aime encore ce qu’on va défaire. Les autres le haïssent, ou le craignent, ou s’en moquent. Toi, tu l’aimes. C’est à toi qu’il faut dire quand la corde se détend. Les autres seraient soulagés. »
+« Parce que tu écris le comment. » Aucun reproche ; Mirathis constatait, comme on note un changement de temps. « Et parce que tu es la seule qui aime encore ce qu’on va défaire. Les autres le haïssent, ou le craignent, ou s’en moquent. Toi, tu l’aimes. C’est à toi qu’il faut dire quand la corde se détend. Les autres seraient soulagés. »
 
 Elle resta sur le pont longtemps après que Mirathis se fut rendormi·e, à essayer de décider si on venait de la soulager ou de la charger davantage.
 
@@ -87,7 +87,7 @@ Quelques années plus tôt, avant le Traité, avant le Cercle, quand Sera n’é
 
 Sera resta un moment sans se signaler. L’odeur de la terre remuée, le bruit mat du plantoir, les guêpes dans les groseilliers du fond, le dos de sa sœur qui montait et descendait. Le soleil de l’après-midi chauffait le muret et la pierre plate où l’on s’asseyait.
 
-Puis le coup lui vint au ventre, physique. Aucun Lien là-dedans. Aucune trame, aucune résonance, aucun accord. Une femme, la terre, des plantes, et le savoir patient d’une vie passée à observer sans jamais résonner. Ce qu’Ísae faisait pousser poussait très bien. Ses jardins étaient les plus beaux de la colline, tout le monde le disait, y compris ceux qui prononçaient le mot *Vide* en le disant.
+Puis le coup lui vint au ventre, physique. Tout cela tenait debout hors du Lien : une femme, la terre, des plantes, et le savoir patient d’une vie passée à observer sans jamais résonner. Ce qu’Ísae faisait pousser poussait très bien. Ses jardins étaient les plus beaux de la colline, tout le monde le disait, y compris ceux qui prononçaient le mot *Vide* en le disant.
 
 C’est Ísae qui parla la première, sans se retourner.
 
@@ -131,7 +131,7 @@ Deux fardeaux, et aucun qu’on pût poser. Elle avançait sous celui qu’elle 
 
 ---
 
-Elle tira à elle la seconde feuille, celle qu’elle gardait pliée entre les pages quarante et quarante et une, à l’endroit précis où le protocole parlait de la propagation. Elle l’avait rangée là exprès, pour que la tendresse dormît au cœur du calcul et non à côté.
+Elle tira à elle la seconde feuille, celle qu’elle gardait pliée entre les pages quarante et quarante et une, à l’endroit précis où le protocole parlait de la propagation. Elle l’avait rangée là exprès, pour que la tendresse dormît au cœur du calcul.
 
 La lettre.
 
@@ -157,7 +157,7 @@ Elle rangea le protocole, la lettre à sa place entre les pages, et fit le geste
 
 Avant de souffler la chandelle, elle fit ce qu’elle faisait chaque nuit depuis trente ans : dans le noir qui venait, elle chercha sa sœur à travers la trame. Le vieux fil, celui qu’elle avait appris à tendre vers Ísae quand elles étaient adolescentes, et qui n’avait jamais rien ramené. Elle le tendit quand même, vers la maison de l’autre côté de la colline, où une femme aux mains couvertes de terre dormait ou ne dormait pas, et ne savait rien, et ne saurait rien.
 
-Le fil partit dans le noir. Et cette nuit, pour la première fois depuis trente ans, quelque chose hésita tout au bout. Non pas répondit : rien ne répondait, rien n’avait jamais répondu. Mais la trame elle-même, sur toute la longueur qui la séparait de sa sœur, lui parut moins tendue qu’avant, comme une corde qu’on aurait très doucement commencé à relâcher par l’autre extrémité. *Pas la couper. La détendre.*
+Le fil partit dans le noir. Et cette nuit, pour la première fois depuis trente ans, quelque chose hésita tout au bout. Rien ne répondit ; rien n’avait jamais répondu. Mais la trame elle-même, sur toute la longueur qui la séparait de sa sœur, lui parut moins tendue qu’avant, comme une corde qu’on aurait très doucement commencé à relâcher par l’autre extrémité. *Pas la couper. La détendre.*
 
 Elle chassa la pensée. Elle était épuisée ; à ce degré de fatigue, elle ne se fiait plus à ce qu’elle sentait. Elle avait raison, ou bien elle avait tort, et elle ne le saurait jamais.
 
