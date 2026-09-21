@@ -197,7 +197,7 @@ Il ferma les yeux. Du premier coup, elle avait trouvé le joint.
 
 « Non. »
 
-« Mon père monte », dit-elle, et sa voix ne monta pas d’un ton, elle se fit seulement plus dure. « Il monte pour mourir, il le sait, et je n’ai pas pu le retenir. Vous, vous restez en bas parce que vous n’avez plus de jambes, et vous gardez dans votre poche un doute que vous ne donnez à personne. Vous appelez ça de la pitié. Moi j’appelle ça décider à leur place. »
+« Mon père monte », dit-elle, et sa voix durcit. « Il monte pour mourir, il le sait, et je n’ai pas pu le retenir. Vous, vous restez en bas parce que vous n’avez plus de jambes, et vous gardez dans votre poche un doute que vous ne donnez à personne. Vous appelez ça de la pitié. Moi j’appelle ça décider à leur place. »
 
 Longtemps il la regarda. Elle n’avait pas tort, et lui montrer en quoi elle se trompait revenait à lui donner ce qu’il refusait à son père.
 

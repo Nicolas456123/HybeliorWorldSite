@@ -135,7 +135,7 @@ La Veilleuse servait la soupe sans un mot de trop. Quand elle posa le bol devant
 
 — On me l’a mal appris.
 
-— Alors laisse-moi te le dire une fois, avant que tu sautes cette arche et que tu quittes tout ce qui parle ta langue. » Elle se pencha. Sa voix ne monta pas ; elle appuya. « Ce que tu vois, je ne veux pas savoir ce que c’est. Je vois que c’est grand ; tu as les yeux de quelqu’un qui a vu grand. Ce n’est pas à toi de le tenir. Ils finissent tous par croire qu’ils portent la chose, et que s’ils lâchaient elle tomberait. Elle ne tombera pas. Tu n’es pas le fil. Tu es l’œil. »
+— Alors laisse-moi te le dire une fois, avant que tu sautes cette arche et que tu quittes tout ce qui parle ta langue. » Elle se pencha et appuya sur chaque mot. « Ce que tu vois, je ne veux pas savoir ce que c’est. Je vois que c’est grand ; tu as les yeux de quelqu’un qui a vu grand. Ce n’est pas à toi de le tenir. Ils finissent tous par croire qu’ils portent la chose, et que s’ils lâchaient elle tomberait. Elle ne tombera pas. Tu n’es pas le fil. Tu es l’œil. »
 
 Mirathis reposa sa cuillère. Personne, en dix ans, ne lui avait dit cela. Le Cercle ne le lui dirait pas non plus, plus tard : le Cercle aurait besoin qu’iel crût porter quelque chose, comme eux tous.
 
