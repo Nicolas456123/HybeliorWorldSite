@@ -135,7 +135,7 @@ L’homme entra à l’heure creuse, celle d’après le repas, quand la rue s�
 
 Omarin le vit avant qu’il n’écarte la toile, à la façon dont l’ombre s’était arrêtée devant, une seconde de trop, le temps de lire une enseigne qu’il n’y avait pas ; il n’en avait jamais fait poser. Puis la toile s’écarta et l’homme entra dans l’odeur des herbes comme on entre dans une eau froide, sans rien en montrer.
 
-Il n’était pas de Rukhsar. Cela se voyait à peu de chose. Au manteau trop propre pour la poussière du canyon. Aux bottes qui n’avaient pas la marque du fleuve sur le cuir. À la manière de tenir les mains jointes devant lui, sans rien dedans. Ici, tout le monde tenait quelque chose : un panier, un enfant, un chapelet, un souci.
+Il n’était pas de Rukhsar. Cela se voyait à peu de chose. Au manteau que la poussière du canyon avait épargné. Aux bottes qui n’avaient pas la marque du fleuve sur le cuir. À la manière de tenir les mains jointes devant lui, sans rien dedans. Ici, tout le monde tenait quelque chose : un panier, un enfant, un chapelet, un souci.
 
 « Vous êtes l’herboriste. »
 
@@ -167,7 +167,7 @@ Dehors, très loin, un âne cria dans une ruelle basse, et l’écho monta les d
 
 « Je vends des plantes, dit-il. Pas des cartes. Vous vous êtes trompé de rue. Les faiseurs de cartes sont au quartier des Passeurs, près du fleuve. Ils vous vendront le canyon, les cols, les routes de haute mer qu’on rouvre, tout ce que vous voudrez. Beau papier. »
 
-« Je ne parle pas d’un faiseur de cartes. » L’homme n’avait pas haussé la voix d’un souffle. Il ne la haussait sans doute jamais. C’était une voix qui posait ses mots comme on pose des jetons sur une table, un par un, en attendant de voir ce que l’autre couvrait. « Je parle d’un homme qui est parti longtemps, et qui est revenu, et qui a rapporté un travail. Un travail qui circule. On m’a dit qu’à Rukhsar quelqu’un en gardait une part. »
+« Je ne parle pas d’un faiseur de cartes. » Sa voix posait les mots un par un, des jetons qu’on aligne sur une table, en attendant de voir ce que l’autre couvrait. « Je parle d’un homme qui est parti longtemps, et qui est revenu, et qui a rapporté un travail. Un travail qui circule. On m’a dit qu’à Rukhsar quelqu’un en gardait une part. »
 
 « On vous a dit beaucoup, pour un homme qui vient de si loin. »
 
@@ -181,7 +181,7 @@ La bouche bougea un peu plus.
 
 « Vous ne le connaissez donc pas. Ce cartographe. »
 
-« Je connais beaucoup de monde. Rukhsar est une ville de passage, monsieur. Il y passe des cartographes, des herboristes, des marchands d’huile qui ne savent pas d’où vient leur huile, et des hommes trop propres qui cherchent d’autres hommes. Ils passent tous. Je vends une racine à celui qui tousse et j’oublie son visage à la toile. On ne tient pas boutique autrement, ici. Tout coule, comme le fleuve, en bas. »
+« Je connais beaucoup de monde. Rukhsar est une ville de passage, monsieur. Il y passe des cartographes, des herboristes, des marchands d’huile qui ne savent pas d’où vient leur huile, et des hommes sans poussière aux bottes qui cherchent d’autres hommes. Ils passent tous. Je vends une racine à celui qui tousse et j’oublie son visage à la toile. On ne tient pas boutique autrement, ici. Tout coule, comme le fleuve, en bas. »
 
 « Tout ne coule pas, dit l’homme. Ce qui est lourd reste au fond. »
 

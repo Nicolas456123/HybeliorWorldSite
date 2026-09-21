@@ -43,7 +43,7 @@ C’était vrai, et Mielle le crut parce que c’était vrai, et Renna vit passe
 
 On frappa au milieu de l’après-midi, deux coups, puis un troisième après un temps, comme quelqu’un qui hésite entre frapper et s’en aller.
 
-Renna avait poussé le volet dès qu’elle les avait vues monter du chemin, la femme et la petite. Dans le renfoncement, Ilex s’était redressé sur les genoux, tourné vers la porte, pas vers le sud pour une fois, vers la porte, avec sur son petit visage une attention qu’elle ne lui connaissait pas et qui la troubla plus qu’une frayeur.
+Renna avait poussé le volet dès qu’elle les avait vues monter du chemin, la femme et la petite. Dans le renfoncement, Ilex s’était redressé sur les genoux et regardait la porte. Il avait lâché le sud, pour une fois, et il y avait sur son petit visage une attention qu’elle ne lui connaissait pas et qui la troubla plus qu’une frayeur.
 
 « Ne dis rien, souffla-t-elle. Quoi qu’elle demande. Tu ne dis rien de l’eau qui monte. On se rappelle ?
 
@@ -91,13 +91,13 @@ Renna reposa l’écheveau sur le banc et laissa la phrase où elle était. Ce f
 
 — Pour l’entendre mieux. Le dos, ça entend. Pas comme l’oreille. Plus bas. Toi tu l’entends dans le dos et tu sais pas que tu l’entends, alors tu mets ton dos où ça s’entend le plus fort et tu te racontes que c’est pour le feu. »
 
-Sanne mit longtemps à répondre, et Renna la regarda chercher. La femme cherchait ses mots. Pas comme on cherche une réponse habile ; comme on cherche à tâtons, dans le noir, un objet dont on connaît la forme et pas la place. Elle posait un mot, le retirait, en essayait un autre, s’arrêtait au bord d’une phrase et la reprenait par un autre bout. Renna connaissait cette manière-là mieux qu’aucune autre au monde, parce que c’était la sienne les rares fois où il avait fallu dire ce qu’elle entendait, et parce que c’était aussi, exactement, celle de l’enfant quand le mot d’en bas essayait de passer par sa bouche. Deux femmes faites et un petit de six ans, et les trois butaient au même endroit de la phrase.
+Sanne mit longtemps à répondre, et Renna la regarda chercher. La femme cherchait ses mots à tâtons, dans le noir, comme un objet dont on connaît la forme et pas la place. Elle posait un mot, le retirait, en essayait un autre, s’arrêtait au bord d’une phrase et la reprenait par un autre bout. Renna connaissait cette manière-là mieux qu’aucune autre au monde, parce que c’était la sienne les rares fois où il avait fallu dire ce qu’elle entendait, et parce que c’était aussi, exactement, celle de l’enfant quand le mot d’en bas essayait de passer par sa bouche. Deux femmes faites et un petit de six ans, et les trois butaient au même endroit de la phrase.
 
 « Depuis quand tu l’entends, toi, dit enfin Sanne, à Renna, sans détour cette fois.
 
 — Je n’entends rien.
 
-— Bon. » La femme hocha la tête, sans insister, du geste de qui range un fait sans le forcer. « Moi non plus, longtemps, je n’ai rien entendu. J’ai cru que c’était le sang qui bat aux oreilles quand on a monté trop vite. J’ai cru que c’était l’eau dans les murs. J’ai cru bien des choses, parce que c’est plus reposant de croire n’importe quoi que de croire ça. » Elle prit le tisonnier, remua la braise, non pour l’attiser, pour occuper la main. « Et puis un matin j’ai posé le dos contre une meule froide, dans un moulin mort, et j’ai senti que ça montait de la pierre. Pas du sang. Pas de l’eau. De la pierre. Et que ça cherchait mon pas, comme un second marteau cherche le premier quand on frappe à deux sur la même pièce. Depuis, je ne me raconte plus rien. C’est reposant à sa façon, aussi, d’arrêter de se raconter. »
+— Bon. » La femme hocha la tête, sans insister, du geste de qui range un fait sans le forcer. « Moi non plus, longtemps, je n’ai rien entendu. J’ai cru que c’était le sang qui bat aux oreilles quand on a monté trop vite. J’ai cru que c’était l’eau dans les murs. J’ai cru bien des choses, parce que c’est plus reposant de croire n’importe quoi que de croire ça. » Elle prit le tisonnier, remua la braise pour occuper la main. « Et puis un matin j’ai posé le dos contre une meule froide, dans un moulin mort, et j’ai senti que ça montait de la pierre. Pas du sang. Pas de l’eau. De la pierre. Et que ça cherchait mon pas, comme un second marteau cherche le premier quand on frappe à deux sur la même pièce. Depuis, je ne me raconte plus rien. C’est reposant à sa façon, aussi, d’arrêter de se raconter. »
 
 Renna tenait sa cuiller sans manger. Elle s’était crue seule à porter cette folie, seule de sa lignée, seule de son espèce, la femme qu’on tolère mal parce qu’elle sait ; et voilà qu’une inconnue montée d’on ne savait où la disait à sa table, avec les mêmes trébuchements, et un tisonnier dans le poing pour tenir la main tranquille.
 
@@ -155,7 +155,7 @@ Elles ne dormirent plus. On ne dort pas après cela. Assises de part et d’autr
 
 — Moi aussi. » Sanne regarda le feu. « Pas les mêmes, ou bien les mêmes, je ne sais pas. Les miens ne paient personne et ne parlent de prendre soin de rien. Ils ne demandent rien non plus, et c’est ça qui les rend pires. Ils rangent. Ils prennent celui qui porte, ils laissent le papier, ils vident la route derrière eux et ils la laissent propre, si propre que tu crois d’abord qu’il n’y a rien. Le rien, c’est leur ouvrage. »
 
-Renna sentit à ce mot un froid qu’elle connaissait remonter le long de ses bras. Ils rangent. La Corvane était venue poser un pot de sang tiède sur cette table et lui dire, sans hausser le ton, que ce qui n’est au registre de personne est à qui met la main dessus le premier. Renna avait cru que cette manie de mettre les êtres en ordre comme des chiffres appartenait à la Corvane, à Caeloria, à sa petite peur de vallée. Cette nuit-là, elle apprit que la même voix parlait plus loin et plus grand, et qu’elle rangeait des femmes comme Sanne dans des routes vides du sud, du geste calme dont on rangeait Renna dans un registre de halle.
+Renna sentit à ce mot un froid qu’elle connaissait remonter le long de ses bras. Ils rangent. La Corvane était venue poser un pot de sang tiède sur cette table et lui dire que ce qui n’est au registre de personne est à qui met la main dessus le premier. Renna avait cru que cette manie de mettre les êtres en ordre comme des chiffres appartenait à la Corvane, à Caeloria, à sa petite peur de vallée. Cette nuit-là, elle apprit que la même voix parlait plus loin et plus grand, et qu’elle rangeait des femmes comme Sanne dans des routes vides du sud, du geste calme dont on rangeait Renna dans un registre de halle.
 
 « C’est une seule main, dit-elle lentement. Celle qui te range et celle qui me compte. Je le sens. C’est le même froid.
 

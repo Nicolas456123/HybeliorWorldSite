@@ -113,7 +113,7 @@ Sanne se leva, du mouvement qu’on avait dans sa maison pour mieux dire une cho
 
 — Pas celle-là. » Elle le dit doucement, sans reculer d’un pouce. « Ma mère m’a laissé une règle, une seule, et elle la tenait de la sienne, et ainsi de suite jusqu’à des femmes dont il ne reste même plus les noms. Rien qui soit trop grand pour un seul ne doit mourir avec un seul. C’est une consigne d’atelier, Merik, pas un serment. Quand tu forges une pièce que personne d’autre ne sait forger, tu passes le geste à un apprenti avant de mourir, sinon le geste s’en va avec toi et il n’y a plus personne pour le refaire. On ne jette pas ce qu’on ne saura pas remplacer. »
 
-Merik la regarda. Il n’y avait pas de contradiction dans ses vieux yeux, plutôt du chagrin, celui de l’homme qui a raison sur le petit et qui sent qu’il a tort sur le grand, ou l’inverse, et qui ne saura jamais lequel.
+Merik la regarda sans la contredire. Ses vieux yeux avaient le chagrin de l’homme qui a raison sur le petit et qui sent qu’il a tort sur le grand, ou l’inverse, et qui ne saura jamais lequel.
 
 « Et si c’était le geste qui te tue ? dit-il très bas. Si le porter, c’était ça, la cible qu’on t’a peinte dans le dos sans que tu la voies ? Ils veulent peut-être le vieux, Sanne. Quelqu’un, quelque part, sait ce que tu portes mieux que toi qui ne l’as jamais ouvert, et le veut, ou le craint, et il prend l’un après l’autre tous ceux qui pourraient en tenir un pareil, jusqu’à toi. »
 

@@ -50,7 +50,7 @@ C’est là que la longue poussée monta, à son heure de midi, plus rapprochée
 
 C’est en relevant la tête qu’elle vit les deux hommes.
 
-Ils n’étaient pas du pays. On voyait ça à la coupe, au drap trop propre pour la cendre. L’un se tenait à l’ombre de l’auvent du forgeron, le soleil brodé sur la manche, le même fil d’or que les gens d’Oréane. L’autre attendait de l’autre bord de la place, près de l’abreuvoir, et portait cousue au gris de son manteau, sur l’épaule, une lune blanche, pleine, ronde, un disque de fil pâle qui ne brillait pas. Ils ne se parlaient pas. Ils ne se regardaient pas non plus, de la façon appuyée dont deux hommes évitent de se regarder quand chacun surveille l’autre. Entre eux il y avait la fontaine, les mères, les gamins, et Renna au milieu avec son alun.
+Ils n’étaient pas du pays. On voyait ça à la coupe, et au drap, que la cendre du pays n’avait pas touché. L’un se tenait à l’ombre de l’auvent du forgeron, le soleil brodé sur la manche, le même fil d’or que les gens d’Oréane. L’autre attendait de l’autre bord de la place, près de l’abreuvoir, et portait cousue au gris de son manteau, sur l’épaule, une lune blanche, pleine, ronde, un disque de fil pâle qui ne brillait pas. Ils ne se parlaient pas. Ils ne se regardaient pas non plus, de la façon appuyée dont deux hommes évitent de se regarder quand chacun surveille l’autre. Entre eux il y avait la fontaine, les mères, les gamins, et Renna au milieu avec son alun.
 
 Elle reprit son panier. Le sentier lui parut plus court à la montée qu’à la descente.
 
@@ -74,7 +74,7 @@ Oréane s’arrêta au seuil, comme la première fois, et sourit, comme la premi
 
 — Je vous présente le greffier Corvane. Il inscrit. »
 
-L’homme inclina la tête d’un pouce, pas plus. Un homme gris, ni vieux ni jeune, avec un visage fait pour ne rien laisser paraître et une sacoche de cuir qu’il tenait à deux mains devant lui comme un prêtre tient un livre. Il ne regarda pas Renna. Son œil alla à la maison, au linteau, au seuil, aux cuves qu’on voyait par la porte entrebâillée, à l’étagère et à ce qu’il y avait dessus. Renna avait ses trois réponses. Le greffier comptait les écuelles.
+L’homme inclina la tête d’un pouce, pas plus. Un homme gris, ni vieux ni jeune, avec un visage fait pour ne rien laisser paraître et une sacoche de cuir qu’il tenait à deux mains devant lui comme un prêtre tient un livre. Son œil passa Renna sans s’arrêter et alla à la maison, au linteau, au seuil, aux cuves qu’on voyait par la porte entrebâillée, à l’étagère et à ce qu’il y avait dessus. Renna avait ses trois réponses. Le greffier comptait les écuelles.
 
 « Vous vivez seule, dit-il.
 
@@ -100,7 +100,7 @@ Renna regarda le registre ouvert sur l’avant-bras du greffier. Le soleil au fe
 
 « Et si je n’ai pas d’enfant qui entend, dit-elle. Si je n’ai qu’un petit de ma cousine, lent, que je garde parce que sa mère est morte. »
 
-Le greffier Corvane parla pour la première fois sans qu’on l’eût interrogé. Il avait la voix qu’on attend d’un homme gris, ni haute ni basse, égale, une voix qui ne poussait pas les mots et les posait un à un, à intervalles égaux.
+Le greffier Corvane parla pour la première fois sans qu’on l’eût interrogé. Il avait la voix qu’on attend d’un homme gris, égale du premier mot au dernier, chaque mot y durant le même temps que le précédent.
 
 « Alors nous l’inscrirons comme lent, dit-il. C’est une case aussi. Il y a une case pour tout. Montrez-le-moi, je note *enfant simple, sans perception*, je clos la ligne, et Vytharia ne montera jamais jusqu’ici, parce qu’un enfant simple ne les intéresse pas plus qu’il ne nous intéresse. Montrez-moi l’enfant, madame, et je vous débarrasse de la lune d’un trait de plume. »
 
@@ -110,7 +110,7 @@ Le raisonnement était bon. Renna le sentit se refermer sur elle, propre, sans u
 
 — Nous ne repassons pas, dit Corvane. Nous descendons. Nous avons onze hameaux à faire avant que Vytharia n’en fasse un seul, et le temps que nous perdons ici, nous le perdons contre eux, pas contre vous. Réveillez-le. Un enfant simple qu’on réveille pleure et se rendort. Deux minutes, madame, et pas de cruauté là-dedans. »
 
-Derrière la cloison, entre les cuves, dans le noir de la resserre, il y eut un bruit. Pas un pleur. Pas un mot. Un froissement, le froissement d’un petit corps qui s’est tourné dans le noir, malgré la consigne, vers le sud, vers le Mont, parce qu’à l’heure du milieu de journée la longue poussée montait et que rien, pas même une planche tirée et l’ordre trois fois dit, ne tenait l’enfant du bon côté. Oréane l’entendit. Le greffier l’entendit. Renna vit les yeux du greffier bouger d’un cheveu vers la porte de la resserre, s’y poser, y rester.
+Derrière la cloison, entre les cuves, dans le noir de la resserre, il y eut un froissement : un petit corps s’était tourné, sans une toux, sans un mot, vers le sud, vers le Mont, parce qu’à l’heure du milieu de journée la longue poussée montait et que rien, pas même une planche tirée et l’ordre trois fois dit, ne tenait l’enfant du bon côté. Oréane l’entendit. Le greffier l’entendit. Renna vit les yeux du greffier bouger d’un cheveu vers la porte de la resserre, s’y poser, y rester.
 
 Depuis l’enfance, elle entendait à travers un mur ce que personne n’entendait. Deux étrangers venaient de le faire à travers le sien.
 
@@ -174,7 +174,7 @@ L’enfant écouta, mâcha, avala, et ne parut ni fier ni effrayé. Il pencha la
 
 — Comme le trou du sablier, dit l’enfant, et il fit le geste, deux petites mains en cornet qui se rejoignent par la pointe. Tu sais, le verre à sable qu’avait le marchand. Tout le sable il passe par le milieu, le petit trou étroit, et le trou il bouge pas, il fait rien, il tient rien, tout va à travers et lui il reste vide. C’est ça que je suis. Le trou. Tout va à travers moi et moi je reste vide. Ils croient que je suis le sable. Ils se battent pour le trou en croyant se battre pour le sable. Et pendant qu’ils se battent, le sable il coule. Il attend pas qu’ils aient fini. »
 
-Renna reprit le quignon et finit de le couper. Elle ne savait pas ce qu’était ce sable. Elle savait que l’enfant avait raison, qu’on se disputait autour de lui une chose qui n’était pas lui, et qu’aucun de ceux qui se pressaient vers ce point étroit ne voyait couler ce qui coulait. Elle non plus.
+Renna reprit le quignon et finit de le couper. Le sable, elle n’y comprenait rien. L’enfant avait raison, cela ne faisait pas de doute : on se disputait autour de lui une chose qui n’était pas lui, et aucun de ceux qui se pressaient vers ce point étroit ne voyait couler ce qui coulait. Elle non plus.
 
 Elle le coucha face à l’âtre. Au matin il serait retourné, la joue au mur du sud, et elle ne se lèverait pas pour le remettre.
 

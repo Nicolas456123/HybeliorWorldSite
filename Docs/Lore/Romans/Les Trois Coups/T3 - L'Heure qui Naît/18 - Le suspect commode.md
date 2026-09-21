@@ -43,7 +43,7 @@ Ferran le regarda de côté, et mit un temps à lâcher l’autre nombre.
 
 « Sept. Peut-être neuf. Une cellule. Toujours la même, à ce qu’on dit. »
 
-Cinq à neuf. Vaskar rangea le nombre. C’était celui des rapports, celui qu’il aurait pu réciter avant de descendre : les Catena Fracta ne faisaient pas d’armées, ils faisaient des cellules de cinq à neuf, soudées, sans rôle et sans registre, une main gauche qui ignorait la droite. Impossibles à compter, donc bonnes à multiplier dans la tête d’une chancellerie. Une cellule de sept devenait, dans un mémoire bien tourné, un fléau de mille.
+Cinq à neuf. Vaskar rangea le nombre. C’était celui des rapports, celui qu’il aurait pu réciter avant de descendre : les Catena Fracta travaillaient par cellules de cinq à neuf, soudées, sans rôle et sans registre, une main gauche qui ignorait la droite. Impossibles à compter, donc bonnes à multiplier dans la tête d’une chancellerie. Une cellule de sept devenait, dans un mémoire bien tourné, un fléau de mille.
 
 Et c’est là, devant les trois clous descellés, qu’il se surprit à vouloir.
 
@@ -77,7 +77,7 @@ Ils vinrent le soir même, ce qui lui apprit deux choses avant qu’un seul mot 
 
 On le mena dans l’arrière-salle d’une fonderie que l’on avait éteinte pour la nuit. Le sol y gardait encore la chaleur du jour et l’air sentait le fer refroidi. Deux hommes le fouillèrent sans brutalité, avec le sérieux de gens qui l’avaient déjà fait cent fois, prirent son couteau de ceinture, laissèrent ses papiers, ce qu’il nota. Puis ils se retirèrent contre les murs, dans l’ombre, et y restèrent, bien visibles. Chez ces gens, tout était fait pour être vu.
 
-L’homme qui s’assit en face de lui, sur un billot, n’avait rien d’un fanatique de tréteau. La quarantaine dure, des mains de fondeur, les poignets brûlés comme le sont ceux qui ont longtemps versé le métal, un visage calme et attentif. Il regarda Vaskar un long moment avant de parler, et son regard ne jaugeait pas un ennemi. Il lisait. Vaskar, qui passait sa vie à lire les autres, éprouva le déplaisir exact de la chose.
+L’homme qui s’assit en face de lui, sur un billot, avait la quarantaine dure, des mains de fondeur, les poignets brûlés comme le sont ceux qui ont longtemps versé le métal, un visage calme et attentif. Il regarda Vaskar un long moment avant de parler, et son regard le lisait. Vaskar, qui passait sa vie à lire les autres, éprouva le déplaisir exact de la chose.
 
 « Un homme de l’ordre, dit enfin l’inconnu. Ça se voit à la manière dont vous êtes entré. Vous avez compté les issues avant de compter les hommes.
 
@@ -133,7 +133,7 @@ Le Fondeur le regarda longtemps. Puis il fit une chose que Vaskar n’avait pas 
 
 — Je vous offre le plus beau titre de gloire de votre cause. Une centaine de morts dans toutes les chancelleries du monde. On tremblerait à votre nom, si vous en aviez un. Prenez-le.
 
-— Vous m’offrez de mentir. » L’homme se leva du billot, non pour menacer, mais parce que le mépris, chez lui, se tenait debout. « Écoutez-moi bien, homme de l’ordre, puisque vous êtes descendu pour écouter. Ce que nous faisons, nous le faisons au grand jour. Nous décrochons une chaîne à la vue de tous, et le lendemain nous la plantons hors les murs, sur notre mur, avec les autres, pour qu’on sache que c’est nous. Nous signons. Toujours. C’est le sens même du geste : montrer qu’un homme peut décrocher sa laisse et rester debout. Une chose qu’on fait dans le noir, sans la signer, pour qu’on croie à un accident, à un cœur fatigué, à un plancher pourri, cette chose-là dit le contraire de tout ce que nous disons. Elle dit : cachez-vous. Elle dit : ayez honte. Nous n’avons pas honte.
+— Vous m’offrez de mentir. » L’homme se leva du billot, parce que le mépris, chez lui, se tenait debout. « Écoutez-moi bien, homme de l’ordre, puisque vous êtes descendu pour écouter. Ce que nous faisons, nous le faisons au grand jour. Nous décrochons une chaîne à la vue de tous, et le lendemain nous la plantons hors les murs, sur notre mur, avec les autres, pour qu’on sache que c’est nous. Nous signons. Toujours. C’est le sens même du geste : montrer qu’un homme peut décrocher sa laisse et rester debout. Une chose qu’on fait dans le noir, sans la signer, pour qu’on croie à un accident, à un cœur fatigué, à un plancher pourri, cette chose-là dit le contraire de tout ce que nous disons. Elle dit : cachez-vous. Elle dit : ayez honte. Nous n’avons pas honte.
 
 — Un homme peut vouloir la fin et cacher les moyens.
 
@@ -149,7 +149,7 @@ Il était descendu chercher un oui. Il avait apporté avec lui, sans se l’avou
 
 *
 
-On lui rendit son couteau à la porte. Le Fondeur le raccompagna jusqu’au seuil, non par courtoisie, Vaskar en était sûr, mais pour être vu une dernière fois, debout, à côté d’un homme de l’ordre qui repartait les poches plates. Dès le matin, le quartier saurait que la Chaîne Brisée avait reçu un scelleur de Drakora et l’avait laissé repartir. Cela aussi servait leur mur.
+On lui rendit son couteau à la porte. Le Fondeur le raccompagna jusqu’au seuil pour être vu une dernière fois, Vaskar en était sûr, debout, à côté d’un homme de l’ordre qui repartait les poches plates. Dès le matin, le quartier saurait que la Chaîne Brisée avait reçu un scelleur de Drakora et l’avait laissé repartir. Cela aussi servait leur mur.
 
 « Une dernière chose, dit le Fondeur sur le seuil. Vous chercherez encore. C’est votre nature, vous ne pouvez pas ranger un rang tant qu’il manque une pièce. Alors je vais vous épargner une descente. La femme au cahier, celle qui passe dans les marches, celle que vos commis, là-haut, ont déjà marquée du nom de ma cause : elle n’est pas des nôtres non plus. Nous ne portons pas de papiers. Un papier, c’est encore une chaîne, un fil qu’on suit, une laisse d’encre. Elle croit sauver le monde avec de la mémoire. Nous, on le sauve en oubliant. Elle n’est pas des nôtres, nous ne sommes pas des siens, et vos raccommodeurs, elle les laisse vivre autant que nous. Trois choses bougent dans les marches, homme de l’ordre. La femme qui porte. Nous qui décrochons. Et une troisième, dans le noir, qui ne signe rien. Ne nous confondez pas. Ce serait commode pour vous. Ce serait faux. »
 
@@ -169,7 +169,7 @@ Le contraire, pourtant, il aurait pu l’écrire. Rien ne l’empêchait de scel
 
 Et dans ce mémoire-là, Doran Vethis redeviendrait de sa faute, ou cesserait de l’être, il ne savait plus lequel des deux, et c’était peut-être cela qu’il achetait vraiment, en secret, sous le coupable commode. La main une fois nommée, il n’aurait plus eu à se demander s’il aurait dû nouer le fil quinze ans plus tôt. Ce qu’on lui offrait de sceller, c’était son doute, et le crime allait avec, par-dessus le marché.
 
-Voilà pourquoi il ne le ferait pas. Non par vertu, il ne se serait pas fait cet honneur. Par métier. On se méfie d’un témoin qu’on paie ; il fallait se méfier d’un coupable qu’on désirait. Il avait souhaité que ce fussent eux assez fort pour descendre en personne dans une chaleur qui lui ôtait ses mains, et le souhait allait au dossier comme pièce, à côté des autres, avec sa date et son heure.
+Voilà pourquoi il ne le ferait pas. Par métier, et il n’allait pas se faire l’honneur d’y voir de la vertu. On se méfie d’un témoin qu’on paie ; il fallait se méfier d’un coupable qu’on désirait. Il avait souhaité que ce fussent eux assez fort pour descendre en personne dans une chaleur qui lui ôtait ses mains, et le souhait allait au dossier comme pièce, à côté des autres, avec sa date et son heure.
 
 Il ne trancherait pas davantage le reste. La trame qui se refait, les enfants aux yeux blancs qui en seraient les premières bouches, le vieux monde qu’il faudrait cesser de retenir. Un homme y croyait sans preuve, parce que sa vie y gagnait un sens. Un autre n’y croyait pas sans preuve, parce que sa vie y gagnait une digue. Vaskar rangea les deux côte à côte, comme il rangeait tout, et ne mit de tampon sur aucun.
 

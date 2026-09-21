@@ -91,7 +91,7 @@ L’aubergiste était un homme entre deux âges, épais, aux mains rouges, du ge
 
 « Une nuit, dit-elle. Pour moi et la petite. On repart demain à l’aube.
 
-— Une nuit. » Il ne demanda pas d’où elles venaient. Un aubergiste de carrefour demande toujours d’où l’on vient, non par curiosité, par habitude, parce que c’est la première chose qu’on dit à qui entre, comme on dit bonjour. Celui-là ne le demanda pas. « La chambre du haut est libre. La bonne. Elle donne sur la cour.
+— Une nuit. » Il ne demanda pas d’où elles venaient. Un aubergiste de carrefour demande toujours d’où l’on vient, par habitude, parce que c’est la première chose qu’on dit à qui entre, comme on dit bonjour. Celui-là ne le demanda pas. « La chambre du haut est libre. La bonne. Elle donne sur la cour.
 
 — La bonne. » Sanne s’assit sans qu’on l’y invite, à la table la plus proche de la porte, dos au mur, comme toujours. « Vous avez du monde ? La fumée disait du monde.
 
@@ -147,9 +147,9 @@ La colère vint, dure et brève. Elle tomba comme tombe la première chauffe, ce
 
 Il fallait que le cahier pût se passer d’elle.
 
-Voilà. C’était dit, à l’intérieur, avec ces mots-là. Pas le lâcher : le murer, c’était le perdre, et c’était faire à leur place le travail de ceux qui la suivaient. Le poser quelque part où il cesserait d’être le cahier de Sanne. Une ville d’archives, des copistes, des mains étrangères les unes aux autres. Dix copies sur dix tables, et pas une qui eût encore besoin d’un dos. Non pour se sauver, elle ; cela lui était devenu presque égal, dans le froid de ce talus. Pour que sa mort, quand elle viendrait, ne fût plus la mort du cahier. Pour qu’on pût la prendre enfin sans rien reprendre au monde. Se rendre inutile à sa propre mort : c’était le seul mot qu’elle trouvait pour ce qu’elle voulait devenir.
+Voilà. C’était dit, à l’intérieur, avec ces mots-là. Le murer, c’était le perdre, et c’était faire à leur place le travail de ceux qui la suivaient. Le poser quelque part où il cesserait d’être le cahier de Sanne. Une ville d’archives, des copistes, des mains étrangères les unes aux autres. Dix copies sur dix tables, et pas une qui eût encore besoin d’un dos. Se sauver, elle, lui était devenu presque égal dans le froid de ce talus. Elle voulait que sa mort, quand elle viendrait, ne fût plus la mort du cahier. Qu’on pût la prendre enfin sans rien reprendre au monde. Se rendre inutile à sa propre mort : c’était le seul mot qu’elle trouvait pour ce qu’elle voulait devenir.
 
-Elle ne savait pas encore comment. Elle savait le sud, Prismalith, la copiste, le cartographe et sa carte trop grande, et le mot déposer qui tournait dans sa tête depuis Vèdre. Cela suffirait pour se lever à la corne du jour et remettre un pied devant l’autre. Le comment viendrait avec la route.
+Elle savait le sud, Prismalith, la copiste, le cartographe et sa carte trop grande, et le mot déposer qui tournait dans sa tête depuis Vèdre. Cela suffirait pour se lever à la corne du jour et remettre un pied devant l’autre. Le comment viendrait avec la route.
 
 Elle avait tort, peut-être. Pour déposer, il faudrait entrer dans une ville, monter un escalier, remettre le cahier à quelqu’un qui aurait un nom et une porte ; et en le portant jusque-là, peut-être ne ferait-elle qu’y mener ce qui la suivait, et peindre une cible sur la copiste, sur le cartographe, sur toute une ville de gens qui n’avaient rien demandé. Sanne pesa les deux dans la même main et n’arriva pas à dire lequel pesait le plus. Cela ne changeait rien à la nuit. Il n’y avait qu’une route, et elle descendait.
 

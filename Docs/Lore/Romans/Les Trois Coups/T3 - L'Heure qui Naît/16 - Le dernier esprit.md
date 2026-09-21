@@ -55,7 +55,7 @@ Le Cantor Vireth de Thalmaris se plia en deux pour passer la dernière racine et
 
 « Thalmaris vous charge de venir voir mourir mon dernier esprit et de rentrer le dire, dit Orwenne sans se lever. Asseyez-vous ou repartez, mais ne restez pas debout au-dessus de nous. Il n’aime pas qu’on soit debout. »
 
-Vireth marqua un temps. Puis il s’assit, avec plus de souplesse qu’elle ne l’aurait cru, en repliant ses longues jambes sous lui, et posa l’étui de cuivre à plat sur le bois, hors de portée de la sève.
+Il s’assit, avec plus de souplesse qu’elle ne l’aurait cru, en repliant ses longues jambes sous lui, et posa l’étui de cuivre à plat sur le bois, hors de portée de la sève.
 
 « Vous m’accueillez mal », dit-il, mais sans aigreur, presque avec curiosité.
 

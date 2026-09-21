@@ -14,7 +14,7 @@ Chaque matin, sous la chèvre grise, la surface du seau se ridait d’un bord à
 
 La semaine d’avant, trois ou quatre matins de répit tenaient encore. Puis deux. Puis plus un seul. Entre les deux traites il y avait la journée pleine, la guède à tremper, les fèves à écosser, l’eau à porter, et au bout de la journée, à l’heure dite, la poussée sous les pieds. Renna ne vit pas passer la limite. Elle s’aperçut un matin qu’on était passé de la semaine au jour, comme on ne voit pas l’instant où le ruisseau devient rivière.
 
-Ilex ne regardait pas les seaux. Ilex se tournait.
+Ilex se tournait.
 
 C’était la nouveauté de ces nuits, et elle serrait le ventre de Renna plus que la traite. Le soir, elle couchait l’enfant la tête au nord, contre le mur chaud de l’âtre ; chaque matin elle le retrouvait la tête au sud, le corps entier ployé de ce côté, une joue offerte à la paroi qui regardait la colline. Il ne s’éveillait jamais pour cela et n’en gardait rien au réveil. La nuit, quelque chose le prenait par l’échine et le faisait pivoter vers ce qu’il entendait, lentement, comme on retourne un dormeur pour qu’il respire mieux.
 
@@ -120,7 +120,7 @@ Le carrier remonta le col de sa veste.
 
 « En bas, madame, on l’entend moins. On l’entend moins, c’est tout ce que ça veut dire. Mon frère non plus, on l’entendait pas brûler. Ça l’a pas empêché de fondre. »
 
-Renna regarda défiler la route entre les ridelles. À l’heure du soir, la poussée traversa les dalles et le plancher du chariot, plus faible qu’à Taldre, filtrée par toutes les lieues qu’on avait mises entre elle et le Mont, et bien là. Contre la pierre, l’enfant tourna la tête vers elle, non pas vers Renna, vers la poussée, remua les lèvres et se rendormit.
+Renna regarda défiler la route entre les ridelles. À l’heure du soir, la poussée traversa les dalles et le plancher du chariot, plus faible qu’à Taldre, filtrée par toutes les lieues qu’on avait mises entre elle et le Mont, et bien là. Contre la pierre, l’enfant tourna la tête du côté de la poussée, remua les lèvres et se rendormit.
 
 ---
 
@@ -140,7 +140,7 @@ Il était éveillé. Les yeux grands ouverts, sans iris, il tenait le plafond de
 
 — Toi aussi tu goûtes le vide, maintenant. Avant tu goûtais Renna. Là tu goûtes rien. Comme tout. »
 
-Renna posa le bol et prit la petite main sur la couverture, celle qui, trois jours plus tôt, tenait deux cailloux et montrait l’endroit de la poitrine où ça se durcit. La main était froide. Pas de fièvre, pas de fraîcheur du matin : froide comme un fer qu’on a laissé refroidir loin de la forge et qui a oublié d’avoir été chaud.
+Renna posa le bol et prit la petite main sur la couverture, celle qui, trois jours plus tôt, tenait deux cailloux et montrait l’endroit de la poitrine où ça se durcit. La main était froide. Renna y chercha la fièvre et n’y trouva qu’un froid de fer qu’on a laissé refroidir loin de la forge et qui a oublié d’avoir été chaud.
 
 Depuis le col, tout en lui s’était retiré, à la manière d’une marée qui descend sans qu’on la voie bouger et qui laisse un enfant échoué où il y avait un enfant. Les lèvres, qui remuaient encore la nuit d’avant, tenaient le silence des choses posées. Sous la peau, les veines faisaient un réseau bleu de guède mal rincée. Les paupières mettaient un souffle de trop à remonter, comme un volet dont la corde a lâché. Rien de tout cela ne demandait une oreille : une voisine l’aurait vu depuis la porte. Plus Renna l’éloignait de ce qui montait, plus il s’en allait avec.
 
@@ -154,7 +154,7 @@ L’enfant releva la tête, et le blanc de ses yeux avait tourné au mat. Depuis
 
 Renna se prit le visage dans les mains. Elle n’avait pas pleuré à la mort de sa mère, qui l’avait battue, ni devant Oréane, parce qu’on ne pleure pas devant un pêcheur. Il lui monta dans la gorge quelque chose de vieux et de retenu, une eau qui avait attendu toute une vie le fond d’une soupente au-dessus d’une étable pour trouver par où sortir.
 
-Voilà donc ce qu’était le choix. Elle l’avait su en descendant le col, en payant le carrier, en louant la chambre, et elle avait fait semblant de l’ignorer, comme elle faisait semblant de ne pas entendre. Le cacher, c’était le tuer. Pas d’un coup, pas d’un couteau : l’éloigner assez du battement pour qu’aucune dame de lumière, aucun prêtre, aucun homme au registre ne pût jamais le lui prendre, et le regarder s’éteindre dans cette sécurité-là, comme s’éteint une braise qu’on écarte du foyer. Le garder, elle le pouvait. Le garder vivant, non.
+Voilà donc ce qu’était le choix. Elle l’avait su en descendant le col, en payant le carrier, en louant la chambre, et elle avait fait semblant de l’ignorer, comme elle faisait semblant de ne pas entendre. Le cacher, c’était le tuer. Lentement, sans couteau : l’éloigner assez du battement pour qu’aucune dame de lumière, aucun prêtre, aucun homme au registre ne pût jamais le lui prendre, et le regarder s’éteindre dans cette sécurité-là, comme s’éteint une braise qu’on écarte du foyer. Le garder, elle le pouvait. Le garder vivant, non.
 
 Restait à le laisser aller. Le ramener vers le Mont, vers ce qu’il entendait, le rendre au battement qui le tenait par le milieu : il reprendrait ses couleurs, son goût et son avance sur elle, il redeviendrait l’enfant qui tenait deux cailloux et nommait le durcissement des poitrines. Il vivrait. Et il cesserait d’être à elle, puisque le monde le prendrait d’une façon ou d’une autre, Caeloria par le registre, le culte d’Arkhen par la procession, ou le Mont lui-même par la voix. Un enfant qu’on voit de la route ne se garde pas au bout d’un sentier. Elle chercha longtemps la troisième façon, le visage dans les mains. Il n’y en avait pas.
 

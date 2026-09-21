@@ -37,7 +37,7 @@ Les deux enfants s’observaient par-dessus les écuelles.
 
 *
 
-Wenna, brune, mince, l’œil vif et méfiant, dressée depuis un an à marcher sans se retourner et à lire le rien d’un chemin trop propre. Le garçon, lui, avait cette pâleur de suif que Sanne avait déjà croisée deux ou trois fois dans sa vie de route, sur des enfants qu’on cachait, et les yeux tout blancs, sans partage, sans iris, deux billes de lait sous des paupières qui tombaient un peu trop lentement. Un enfant aux yeux blancs. Sanne n’en avait jamais eu un si près, à portée de la main, mangeant du petit-lait dans une écuelle ébréchée comme n’importe quel gamin.
+Wenna, brune, mince, l’œil vif et méfiant, dressée depuis un an à marcher sans se retourner et à compter qui manque sur un chemin. Le garçon, lui, avait cette pâleur de suif que Sanne avait déjà croisée deux ou trois fois dans sa vie de route, sur des enfants qu’on cachait, et les yeux tout blancs, sans partage, sans iris, deux billes de lait sous des paupières qui tombaient un peu trop lentement. Un enfant aux yeux blancs. Sanne n’en avait jamais eu un si près, à portée de la main, mangeant du petit-lait dans une écuelle ébréchée comme n’importe quel gamin.
 
 « Tu regardes quoi, toi, demanda Wenna au garçon, du ton de qui n’aime pas être regardé.
 
@@ -49,7 +49,7 @@ Wenna, brune, mince, l’œil vif et méfiant, dressée depuis un an à marcher 
 
 Wenna regarda Sanne, comme on se tourne vers un adulte pour qu’il défasse une chose que l’enfance a mal nouée. Sanne ne la défit pas. Elle ne quittait plus le petit des yeux, parce qu’un vieux forgeron lui avait dit la même chose, accroupi devant un feu qui se couchait à midi et ne voulait plus monter. Il apprend à parler, avait dit le vieux.
 
-« Ilex, dit Renna, sans hausser le ton mais avec dessous une corde tendue. Bois ton lait. On ne parle pas du dessous à table.
+« Ilex, dit Renna, et ses mains bleues s’arrêtèrent sur la table. Bois ton lait. On ne parle pas du dessous à table.
 
 — Pourquoi.
 
