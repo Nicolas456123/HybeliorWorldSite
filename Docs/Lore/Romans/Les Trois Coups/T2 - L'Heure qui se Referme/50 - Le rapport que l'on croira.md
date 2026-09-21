@@ -24,7 +24,7 @@ Elle trempa la plume et ne l’approcha pas du papier.
 
 Elle commença par ce qui s’écrit sans y penser : le district, la lune, le grade, le nom. *Sorne, Prime-Inspectrice.* La main allait toute seule sur ces lignes-là. Tout commençait après.
 
-Elle avait défait trop de récits pour attaquer celui-ci à la légère. Les hommes qu’elle avait pris ne s’étaient presque jamais trahis à la fin ; ils s’étaient trahis au premier mot, le seul qu’ils eussent choisi librement, et tout ce qui venait ensuite s’était rangé derrière lui. Elle chercha longtemps le sien, la plume en l’air. La goutte au bec grossit et tomba d’elle-même sur le buvard.
+Elle avait défait trop de récits pour attaquer celui-ci à la légère. Les hommes qu’elle avait pris s’étaient presque toujours trahis au premier mot, le seul qu’ils eussent choisi librement ; tout ce qui venait ensuite s’était rangé derrière lui. Elle chercha longtemps le sien, la plume en l’air. La goutte au bec grossit et tomba d’elle-même sur le buvard.
 
 *Le Fléau*, écrivit-elle.
 
@@ -36,7 +36,7 @@ Cela était vrai, et le vrai la reposa. Les Failles s’étaient refermées ; l
 
 Elle aurait pu s’arrêter là. Trois mots vrais et un point. Elle les regarda jusqu’à comprendre qu’ils étaient impossibles.
 
-Le greffier lirait la ligne, lèverait un sourcil, monterait la liasse. Et le Préfet-Inquisiteur poserait la seule question que l’appareil sût poser : cédé à quoi, sous quelle action, par l’effet de qui. Le verbe tout seul, orphelin de son agent, n’existait pas dans cette maison. On pressait le monde et le monde rendait sa cause ; c’était la foi de Drahk’Nor, et elle l’avait servie vingt ans. Elle avait vu renvoyer des rapports pour une ligne trop honnête, et l’Inspecteur avec. On ne les accusait de rien ; on leur donnait un district plus petit, puis un bureau, puis on cessait de les nommer.
+Le greffier lirait la ligne, lèverait un sourcil, monterait la liasse. Et le Préfet-Inquisiteur poserait la seule question que l’appareil sût poser : cédé à quoi, sous quelle action, par l’effet de qui. Le verbe tout seul, orphelin de son agent, n’existait pas dans cette maison. On pressait le monde et le monde rendait sa cause ; c’était la foi de Drahk’Nor, et elle l’avait servie vingt ans. Elle avait vu renvoyer des rapports pour une ligne trop honnête, et l’Inspecteur avec. Sans un mot d’accusation, on leur donnait un district plus petit, puis un bureau, puis on cessait de les nommer.
 
 Le rapport vrai, celui-là, tenait en quatre lignes ; elle les portait en elle depuis Gryndor. Elle se les récita une fois, la plume immobile. Il n’y avait dedans ni heure, ni nom, ni cause. Aucun greffe du Dominat n’aurait su où le ranger.
 
@@ -44,7 +44,7 @@ Cette fois, le manque était dans son récit à elle, et elle savait déjà avec
 
 ---
 
-Le grattoir accrocha un grain du papier. Elle le reposa. On gratte pour retirer. Elle n’avait rien à retirer ; elle avait à mettre.
+Le grattoir accrocha un grain du papier. Elle le reposa. On gratte pour retirer. Elle avait à mettre.
 
 *Le Fléau a cédé*, relut-elle, et la plume descendit vers la suite. *sous l’action des Inspecteurs de Pureté.*
 
@@ -54,7 +54,7 @@ L’ossature était posée. Elle relut la ligne comme elle aurait relu celle d�
 
 Restait l’objection. Un district pouvait écrire que les Failles s’étaient refermées aussi là où nul Inspecteur n’avait mis les pieds. Elle nota de rappeler plus bas, entre deux nombres, que le corps opérait dans tous les districts du Dominat ; posée entre deux chiffres vrais, la mention passerait.
 
-Quelque chose aurait dû monter alors : un pincement, une chaleur au visage, la petite alarme que sonnent les gens ordinaires devant un faux. Rien ne monta. À la place vint une pensée froide et propre, tout à fait la sienne. Ce n’était pas un faux. C’était une concordance.
+Quelque chose aurait dû monter alors : un pincement, une chaleur au visage, la petite alarme que sonnent les gens ordinaires devant un faux. Rien ne monta. À la place vint une pensée froide et propre, tout à fait la sienne. Le mot juste était *concordance*.
 
 Elle pouvait la défendre, cette ligne, et elle l’aurait défendue debout. Les Inspecteurs *avaient* agi. Vingt ans durant, traqué, dénombré, apaisé, ôté du monde un par un : cent cinquante mille au commencement du corps, quelques centaines à la fin. Les registres le portaient, elle-même en avait rempli des colonnes. Fait. Et les Failles s’étaient refermées quand il ne restait presque plus de Tisses. Fait. Deux faits, un dans chaque main.
 
@@ -66,7 +66,7 @@ Elle prit la chose par l’autre bout, comme elle la prenait chez les autres. Si
 
 Elle recommença tout de même, avec la méthode entière, celle qu’elle enseignait aux jeunes. Les deux faits restèrent deux. Vingt ans qu’elle serrait le réel et qu’il lâchait son troisième terme. Il ne lâchait plus rien, et aucune prise ne l’y obligerait.
 
-Ainsi elle savait. En écrivant *sous l’action des Inspecteurs*, elle savait. Pas incertaine : le mot était faux. Elle n’avait pas fermé les Failles, et personne à Drahk’Nor ne les avait fermées. Elle venait de fabriquer le troisième terme de rien. Deux vérités qui ne se touchaient pas, et entre elles un mot qu’elle avait mis là de sa propre main : c’était le mensonge le plus propre de sa vie.
+Ainsi elle savait. En écrivant *sous l’action des Inspecteurs*, elle savait, du savoir le plus net : le mot était faux. Elle n’avait pas fermé les Failles, et personne à Drahk’Nor ne les avait fermées. Elle venait de fabriquer le troisième terme de rien. Deux vérités qui ne se touchaient pas, et entre elles un mot qu’elle avait mis là de sa propre main : c’était le mensonge le plus propre de sa vie.
 
 Elle reposa la plume dans la rainure de l’encrier et regarda la ligne sécher mal.
 
@@ -80,9 +80,9 @@ Elle avait lu juste. De cela elle n’avait jamais douté. Le sang au nez sans c
 
 Puis il y avait eu cet homme, l’autre année, sur une route des marges d’Onara. Un homme qui bêchait. Coupé par la méthode de la forgeronne ou par une autre main, elle n’avait pas cherché : il vivait. Il s’était redressé pour la regarder passer, avec des yeux qui n’avaient rien à cacher et qui ne savaient rien de ce qu’elle avait fait, vingt ans plus tôt, d’un homme bâti comme lui. Elle n’avait pas arrêté son cheval. Trois lieues plus loin, elle s’était aperçue qu’elle n’avait pas noté le bourg non plus, elle qui notait tout.
 
-De l’un à l’autre, il y avait vingt ans, une méthode qu’elle n’avait jamais voulu apprendre, et une question qu’aucun registre du Dominat ne pouvait clore. Le *donc* de sa vingtième année n’existait pas plus que celui des Failles. Il n’avait jamais existé. Il avait seulement été écrit.
+De l’un à l’autre, il y avait vingt ans, une méthode qu’elle n’avait jamais voulu apprendre, et une question qu’aucun registre du Dominat ne pouvait clore. Le *donc* de sa vingtième année n’existait pas plus que celui des Failles. Il avait seulement été écrit.
 
-Elle demeura un moment immobile. Ce n’était pas du remords ; le remords, elle aurait su où le mettre. C’était l’absence de cause sous vingt ans de main sûre, et sous une main en particulier, et cela n’avait pas de taille.
+Elle demeura un moment immobile. Le remords, elle aurait su où le mettre ; ceci était l’absence de cause sous vingt ans de main sûre, et sous une main en particulier, et cela n’avait pas de taille.
 
 Alors elle reprit la plume. Le *donc*, elle l’écrirait. Elle l’avait déjà écrit une fois, sur une autre ligne, pour une autre main, et elle avait vécu vingt ans dessus.
 
@@ -130,7 +130,7 @@ Elle se leva à demi ; il l’arrêta d’un geste et posa la liasse sur la tab
 
 — Alors vous savez qu’il faut qu’elle soit juste. »
 
-Le mot resta dans le petit bureau. *Juste.* Il ne disait pas *vraie*. Il disait exacte, conforme, tenant à l’examen ; juste comme une somme est juste, comme une pièce sonne juste sur le marbre. Elle avait entendu ce mot toute sa vie dans les greffes, appliqué à des poids, à des dates, à des comptes ; jamais une fois à un fait.
+Le mot resta dans le petit bureau. *Juste.* Il disait exacte, conforme, tenant à l’examen ; juste comme une somme est juste, comme une pièce sonne juste sur le marbre. Elle avait entendu ce mot toute sa vie dans les greffes, appliqué à des poids, à des dates, à des comptes ; jamais à un fait, et jamais pour dire *vraie*.
 
 « Elle tient », dit Vaenor.
 

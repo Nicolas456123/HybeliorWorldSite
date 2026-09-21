@@ -117,7 +117,7 @@ Nous avions su une chose, tout à l’heure. Nous en sommes sûrs comme on l’e
 
 Nous ne savons plus.
 
-Voilà. Écoutez bien : c’est arrivé à l’instant, sous vos yeux, dans la phrase que nous étions en train de vous dire. Nous avions le fragment et nous ne l’avons plus. Il était là, au début de ce que nous vous disions, un village vu trois fois, quelque chose, un visage, une main qui prend le temps comme on prend un fruit, et pendant que nous vous le tendions, il s’est défait entre nos mains et les vôtres. C’est ce qu’elle fait. Elle ne mange pas seulement ceux qui la croisent : elle mange le souvenir qu’on garde d’elle, à retardement, à distance, même chez ceux qui ne l’ont vue que par le regard d’un autre. Elle efface sa trace en amont et en aval, elle nettoie le chemin devant elle et derrière elle, et il ne reste que la place trop propre où une chose a été sue.
+Voilà. Écoutez bien : c’est arrivé à l’instant, sous vos yeux, dans la phrase que nous étions en train de vous dire. Nous avions le fragment et nous ne l’avons plus. Il était là, au début de ce que nous vous disions, un village vu trois fois, quelque chose, un visage, une main qui prend le temps comme on prend un fruit, et pendant que nous vous le tendions, il s’est défait entre nos mains et les vôtres. C’est ce qu’elle fait. Elle ne mange pas seulement ceux qui la croisent : elle mange le souvenir qu’on garde d’elle, à retardement, à distance, même chez ceux qui ne l’ont vue que par le regard d’un autre. Elle efface sa trace en amont et en aval, elle nettoie le chemin devant elle et derrière elle, et il ne reste qu’une place balayée à l’endroit où une chose a été sue.
 
 Nous touchons ce trou-là, nous aussi, maintenant, avec ce qui nous tient lieu de langue. Sans arrêt. Sans pouvoir nous en empêcher. Comme la fille de la margelle touchait sa dent manquante. Nous savions une chose, et nous ne savons plus laquelle. Il reste le creux, et il reste la certitude : qu’il y avait là quelque chose d’énorme, que cela nous aurait peut-être tout expliqué, la cause, le pourquoi, ce qu’aucun de nous n’a jamais pu dire, et que c’est parti avec elle, de l’autre côté d’un bord qu’on ne repasse pas.
 
@@ -159,4 +159,4 @@ Nous nous taisons aussi parce qu’on nous a pris le peu qu’il aurait fallu po
 
 Sur la Plaine refermée, il reste une place propre où une chose est entrée, et cette place ressemble à toute l’herbe d’alentour.
 
-*et puis le blanc ; non plus le nôtre, cette fois, mais celui qu’on fait dans une pièce juste avant que quelqu’un parle pour la première fois*
+*et puis le blanc ; un autre blanc que le nôtre, cette fois, celui d’une chambre où quelqu’un va dire son premier mot*

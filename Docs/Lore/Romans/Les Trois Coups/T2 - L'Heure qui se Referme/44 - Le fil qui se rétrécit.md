@@ -31,7 +31,7 @@ Les douze premiers jours, on levait le camp une fois. On marchait une demi-journ
 
 — Aujourd’hui plus qu’hier. »
 
-Lirenn ne discuta pas. Depuis des jours elle ne discutait plus les choses de la marche, non par obéissance, sa fille n’obéissait pas plus qu’un fer n’obéit, elle *cédait* quand la chose était juste et tenait bon quand elle ne l’était pas ; mais les choses de la vitesse, elle les voyait aussi bien que sa mère. Peut-être mieux. C’était la chose neuve, et Kessane commençait à la remarquer du coin de l’œil, comme on remarque qu’un apprenti, un matin, a mis le charbon là où il fallait sans qu’on le lui ait dit.
+Lirenn ne discuta pas. Depuis des jours elle ne discutait plus les choses de la marche. Sa fille n’obéissait pas plus qu’un fer n’obéit : elle *cédait* quand la chose était juste et tenait bon quand elle ne l’était pas. Et les choses de la vitesse, elle les voyait aussi bien que sa mère. Peut-être mieux. C’était la chose neuve, et Kessane commençait à la remarquer du coin de l’œil, comme on remarque qu’un apprenti, un matin, a mis le charbon là où il fallait sans qu’on le lui ait dit.
 
 *
 
@@ -109,7 +109,7 @@ Contre un talus d’herbe grise, le seul relief à portée, elles se plaquèrent
 
 Il n’y avait presque plus de vert.
 
-Douze jours plus tôt, la Plaine était une étendue verte trouée de marques : cercles de gel, taches d’or hors saison, cendres. Le vert faisait le fond, la marque faisait l’exception ; c’était pour ça qu’on tenait, parce qu’il y avait plus de bord que de trou. Le rapport s’était inversé sans qu’elle eût vu le jour du basculement. Le blanc faisait le fond, maintenant, et le vert n’était plus qu’un lacis, un filet dont les mailles fondaient une à une. On ne marchait plus sur une plaine trouée : on marchait sur les fils d’un filet qui se défaisait, et chaque fil qu’on quittait, on le voyait blanchir derrière soi.
+Douze jours plus tôt, la Plaine était une étendue verte trouée de marques : cercles de gel, taches d’or hors saison, cendres. Le vert faisait le fond, la marque faisait l’exception ; c’était pour ça qu’on tenait, parce qu’il y avait plus de bord que de trou. Le rapport s’était inversé sans qu’elle eût vu le jour du basculement. Le blanc faisait le fond, maintenant, et le vert n’était plus qu’un lacis, un filet dont les mailles fondaient une à une. On marchait sur les fils d’un filet qui se défaisait, et chaque fil qu’on quittait, on le voyait blanchir derrière soi.
 
 « Il en reste combien, des fils ? » demanda Lirenn, qui regardait la même chose.
 
@@ -133,7 +133,7 @@ Kessane ouvrit la bouche pour dire *si*. Sa fille la regardait. Elle ne le dit p
 
 Le tremblement s’éloigna enfin, à contrecœur, et elles reprirent le filet.
 
-Et ce fut Lirenn qui mena. Kessane ne l’avait pas décidé ; cela se fit tout seul. L’enfant devant, qui s’arrêtait, penchait la tête, disait *pas là, l’air est trop en retard* ou *là ça va, l’air est sur son heure* ; la mère derrière, qui vérifiait de l’œil quand elle le pouvait et suivait quand elle ne le pouvait pas. Sans un mot, elles avaient échangé leurs places. La petite lisait le retard ; la mère lisait le froid sur la joue, les nappes qui montaient, la vitesse des bords. Deux sens, deux âges, et sur un fil qui rétrécissait, deux mains sur la même pièce, celle qui tient et celle qui frappe.
+Et ce fut Lirenn qui mena. Cela se fit tout seul. L’enfant devant, qui s’arrêtait, penchait la tête, disait *pas là, l’air est trop en retard* ou *là ça va, l’air est sur son heure* ; la mère derrière, qui vérifiait de l’œil quand elle le pouvait et suivait quand elle ne le pouvait pas. Sans un mot, elles avaient échangé leurs places. La petite lisait le retard ; la mère lisait le froid sur la joue, les nappes qui montaient, la vitesse des bords. Deux sens, deux âges, et sur un fil qui rétrécissait, deux mains sur la même pièce, celle qui tient et celle qui frappe.
 
 « À droite, dit Lirenn. À gauche, l’air est retardé.
 
@@ -191,7 +191,7 @@ Lirenn la regarda avec un calme qu’elle n’avait pas avant la Plaine.
 
 *
 
-Le silence qui suivit ne fut pas un silence de peur. Lirenn n’avait pas peur ; elle avait usé la sienne les premiers jours et ne la ressortait plus. Ce fut un silence de calcul, celui d’une enfant qui pèse une chose neuve avant de la rendre à sa mère, transformée.
+Le silence qui suivit fut un silence de calcul, celui d’une enfant qui pèse une chose neuve avant de la rendre à sa mère, transformée. Lirenn n’avait pas peur ; elle avait usé la sienne les premiers jours et ne la ressortait plus.
 
 « Le chanteur, dit-elle enfin. Celui d’Alkaran. Il entendait les morts, et le Fléau l’a mangé par là, par l’oreille des morts. C’est toi qui me l’as dit.
 
@@ -207,7 +207,7 @@ Kessane la regarda, et quelque chose, dans sa poitrine, se desserra d’un demi-
 
 Kessane resta sans voix.
 
-Ce n’était pas une preuve, et sa fille n’avait pas dit que c’en fût une. C’était seulement une autre manière de poser la même question, et celle-là n’avait pas de fond noir. Depuis la cave, Kessane tournait dans le noir sans en trouver les bords. On venait de lui en montrer un.
+C’était la même question, retournée par l’enfant ; elle ne prouvait rien et ne prétendait rien prouver, et de ce côté-là elle n’avait pas de fond noir. Depuis la cave, Kessane tournait dans le noir sans en trouver les bords. On venait de lui en montrer un.
 
 « Tu ne sais pas ça, dit-elle, doucement. Que tu es tournée loin de ce qui tue. Tu ne peux pas le savoir. Personne ne peut. »
 

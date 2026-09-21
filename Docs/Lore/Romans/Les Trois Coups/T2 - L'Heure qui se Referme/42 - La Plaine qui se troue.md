@@ -15,7 +15,7 @@ Il y avait une règle, sur la Plaine, et Kessane l’avait apprise en douze jour
 
 Les premiers jours, elle n’y arrivait pas. Tout en elle voulait tenir la chose dans les yeux, comme on garde une braise à l’œil pour savoir de quel côté elle roulera. Et la Faille ne se tenait pas dans les yeux. Dès qu’on la fixait elle glissait, ou plutôt c’était le monde autour d’elle qui glissait, et pendant ce temps-là on ne comptait plus ses pas. Un pas mal compté, sur Gryndor, ne se rattrapait pas.
 
-Alors elle avait fait de la Faille une chaleur. On ne cherche pas un feu des yeux ; on le sent sur la joue, et on travaille de l’autre côté, les yeux sur l’ouvrage. Celle-ci était une chaleur froide, une aile de fraîcheur qui frôlait le côté gauche du visage. Tant qu’elle la sentait à gauche, elle allait à droite, les yeux sur l’herbe et sur ses pieds.
+Alors elle avait fait de la Faille une chaleur. Un feu, on le sent sur la joue, et on travaille de l’autre côté, les yeux sur l’ouvrage. Celle-ci était une chaleur froide, une aile de fraîcheur qui frôlait le côté gauche du visage. Tant qu’elle la sentait à gauche, elle allait à droite, les yeux sur l’herbe et sur ses pieds.
 
 Sauf que les feux de forge ne se déplaçaient pas.
 
@@ -49,7 +49,7 @@ Elles n’étaient pas seules sur la Plaine.
 
 Kessane l’avait su dès le troisième jour, et cela l’avait d’abord effrayée, puis rassurée d’une manière tordue, la manière dont on est rassuré de ne pas être la seule folle. Sur Gryndor vivait une poignée d’autres. Des Tisses en fuite, comme elle fuyait pour sa fille ; des marcheurs qui n’étaient plus des marcheurs de rien ; et des gens dont on ne savait pas dire ce qu’ils fuyaient ni ce qu’ils cherchaient, qui erraient d’un bord à l’autre avec dans le regard cette faim qu’elle avait vue chez le chanteur mourant, mais tournée ailleurs.
 
-Ceux-là s’appelaient les Mangeurs de Temps. Vêtus d’habits d’un autre âge, cousus grossièrement d’après on ne savait quel souvenir, ils apprenaient entre eux des mots morts, et ils regardaient les Failles non comme des feux mais comme des portes. Kessane les évitait comme elle évitait les arbres qui ne savaient plus leur saison. Elle ne se serait pas assise à leur feu.
+Ceux-là s’appelaient les Mangeurs de Temps. Vêtus d’habits d’un autre âge, cousus grossièrement d’après on ne savait quel souvenir, ils apprenaient entre eux des mots morts, et ils regardaient les Failles comme des portes. Kessane les évitait comme elle évitait les arbres qui ne savaient plus leur saison. Elle ne se serait pas assise à leur feu.
 
 Mais ce matin-là, en montant vers le bord neuf qu’elle avait repéré la veille, un tertre, plus haut encore, ceinturé d’herbe franche, elle en croisa un qui n’était pas des Mangeurs. Un homme seul, un vieux presque, le dos plié sous un ballot, qui montait la même pente qu’elles vers le même tertre, parce que c’était le dernier bord visible et que tous les yeux de la Plaine allaient aux derniers bords.
 
@@ -63,9 +63,9 @@ Le vieux les vit. Il ne dit rien d’abord, on ne se parlait pas beaucoup, sur G
 
 « Elles vont plus vite », dit Kessane. Elle avait besoin qu’un autre le dise, que ce ne fût pas seulement dans sa tête à elle.
 
-« Elles vont plus vite. » Le vieux le confirma comme on confirme une mauvaise nouvelle attendue. « Depuis quatre, cinq jours. Avant, tu les regardais paître, t’avais le temps de faire ton pain. Maintenant tu tournes le dos pour pisser et le bord a changé de camp. » Il cracha de côté, pas de mépris, une habitude. « Je sais pas ce qu’elles ont. On dirait qu’elles ont faim. On dirait qu’elles se dépêchent de finir quelque chose. »
+« Elles vont plus vite. » Le vieux le confirma comme on confirme une mauvaise nouvelle attendue. « Depuis quatre, cinq jours. Avant, tu les regardais paître, t’avais le temps de faire ton pain. Maintenant tu tournes le dos pour pisser et le bord a changé de camp. » Il cracha de côté, par vieille habitude. « Je sais pas ce qu’elles ont. On dirait qu’elles ont faim. On dirait qu’elles se dépêchent de finir quelque chose. »
 
-Lirenn, à la hanche de sa mère, écoutait. Elle ne regardait pas le vieux ; elle regardait, en contrebas, la langue de givre qui les avait chassées du premier repli, et qui montait, elle aussi, vers le tertre, par une autre pente. Trois routes qui convergeaient vers le même sommet d’herbe : elles deux, le vieux, et la bête aveugle faite de froid.
+Lirenn, à la hanche de sa mère, écoutait. Elle avait les yeux plus bas, sur la langue de givre qui les avait chassées du premier repli, et qui montait, elle aussi, vers le tertre, par une autre pente. Trois routes qui convergeaient vers le même sommet d’herbe : elles deux, le vieux, et la bête aveugle faite de froid.
 
 « On va tous au même endroit, dit la petite.
 
@@ -83,7 +83,7 @@ Plus petit que Kessane ne l’avait cru d’en bas : d’en bas tout paraît pl
 
 — Il paraît, dit Kessane.
 
-— Il paraît. » Il eut, dans la voix, l’ombre d’un rire sans joie. « Sur la Plaine tout se dit et rien se sait. On marche sur des *il paraît*. C’est le seul sol qui reste. »
+— Il paraît. » Il eut, dans la voix, l’ombre d’un rire usé. « Sur la Plaine tout se dit et rien se sait. On marche sur des *il paraît*. C’est le seul sol qui reste. »
 
 Le vieux rajusta son ballot. Déjà il s’apprêtait à redescendre par la pente nord, celle qui plongeait entre deux des trois tremblements, dans l’étroit couloir d’herbe que la rumeur donnait pour sûr. Kessane hésita. Le couloir descendait vite, entre deux Failles à la fois, deux chaleurs froides, une à chaque joue, et la part d’elle qui venait de la forge, celle qui savait qu’on ne travaille jamais entre deux feux quand on peut travailler à côté d’un seul, résistait.
 
@@ -115,7 +115,7 @@ Kessane recula d’un pas. Tira Lirenn contre sa jambe.
 
 C’était la question, et Kessane sut, en l’entendant, qu’elle marquait la distance entre sa fille d’avant et sa fille d’à présent.
 
-La Lirenn d’avant la coupure n’aurait pas demandé *il est où*. La Lirenn d’avant aurait *su*. Dans l’eau, elle aurait senti le rond s’ouvrir. Mais non, justement : le vieux n’était pas mort. Il n’y avait pas de rond, parce qu’il n’y avait pas de mort. Il était ailleurs dans le temps, entier, vivant peut-être, à traire des vaches sous un ciel encore lié ou à mourir de vieillesse dans un âge qui n’avait pas de nom. Chez les gens de derrière les bruits, il n’était pas passé. Il était passé dans le temps. Et cela, ni la Lirenn d’avant ni la Lirenn d’à présent n’aurait pu le *sentir* : c’était une chose que même le chanteur d’Alkaran, qui entendait les morts, n’entendait pas, parce que les déportés n’étaient pas des morts et ne faisaient pas de rond.
+La Lirenn d’avant la coupure aurait *su*. Dans l’eau, elle aurait senti le rond s’ouvrir. Mais non, justement. Il n’y avait pas de rond, parce qu’il n’y avait pas de mort : le vieux était ailleurs dans le temps, entier, vivant peut-être, à traire des vaches sous un ciel encore lié ou à mourir de vieillesse dans un âge qui n’avait pas de nom. Chez les gens de derrière les bruits, sa place restait vide. Il était passé dans le temps. Et cela, ni la Lirenn d’avant ni la Lirenn d’à présent n’aurait pu le *sentir* : c’était une chose que même le chanteur d’Alkaran, qui entendait les morts, n’entendait pas, parce que les déportés n’étaient pas des morts et ne faisaient pas de rond.
 
 Il y avait autre chose encore dans le *il est où* de sa fille, et cette chose-là, c’était la coupure.
 
@@ -123,7 +123,7 @@ Il y avait autre chose encore dans le *il est où* de sa fille, et cette chose-l
 
 — Je l’ai pas senti passer. »
 
-Kessane la regarda. L’enfant fixait le couloir vide, le ballot, la gamelle immobile, avec un front plissé qui n’était pas de la peur, mais de l’effort. La peur, Lirenn l’avait montrée les premiers jours, et l’avait remisée comme on remise un outil dont on se sert trop. L’effort de sentir une chose qu’elle ne pouvait plus sentir, et de buter, encore, sur la place lisse où le sens avait été.
+Kessane la regarda. L’enfant fixait le couloir vide, le ballot, la gamelle immobile, avec le front plissé de l’effort. La peur, Lirenn l’avait montrée les premiers jours, et l’avait remisée comme on remise un outil dont on se sert trop. L’effort de sentir une chose qu’elle ne pouvait plus sentir, et de buter, encore, sur la place lisse où le sens avait été.
 
 « Tu l’aurais pas senti passer même avant, dit Kessane, doucement. Ça, personne le sent. Les déchirures, ça se voit avec les yeux, ça se sent avec la joue. » Elle toucha sa propre joue, du côté du froid. « Ça se sent pas avec l’autre chose. L’autre chose, c’était pour les morts. Lui, il est pas mort. »
 
@@ -189,7 +189,7 @@ Kessane la regarda longtemps. Sa fille venait de la consoler, encore, avec la se
 
 Elles ne trouvèrent pas d’autre bord ce jour-là.
 
-Tandis qu’elles marchaient, la Plaine se troua devant elles : c’était le mot juste, se troua, comme un tissu qu’on approche d’une flamme se troue de points noirs qui s’ouvrent et s’élargissent avant même que la flamme le touche. Là où hier une plaine avait des bords, aujourd’hui elle avait des trous entre lesquels des bords rétrécissaient. Les trois bêtes ne paissaient plus. Elles se hâtaient.
+Tandis qu’elles marchaient, la Plaine se troua devant elles : c’était le mot juste, se troua, comme un tissu qu’on approche d’une flamme se troue de points noirs qui s’ouvrent et s’élargissent avant même que la flamme le touche. Là où hier une plaine avait des bords, aujourd’hui elle avait des trous entre lesquels des bords rétrécissaient. Les trois bêtes se hâtaient.
 
 Douze jours durant, Kessane avait lu leur lenteur ; il lui fallut désapprendre en une journée. Deux fois avant le soir, elle leur accorda le temps qu’elles n’avaient plus, et deux fois il fallut lever le camp dans la hâte.
 
@@ -205,7 +205,7 @@ Elle desserra la ceinture, et le cahier vint dans sa main, tiède, dans son étu
 
 Depuis la cave, depuis la nuit d’avant la fuite, elle ne l’avait pas rouvert. Tout ce temps, elle l’avait porté contre sa peau comme on porte le pain dans le ventre, sans le lire, parce qu’elle en connaissait la seule page qui lui servait, celle de la coupure, les gestes, le silence après, et qu’elle n’avait pas eu besoin des autres.
 
-Mais cette nuit, sur la crête douteuse, entre deux Failles qui se hâtaient dans le noir, avec sa fille sourde qui dormait à sa hanche et un vieux passé le matin sans un cri, elle l’ouvrit. Pas à la page de la coupure. À l’autre.
+Mais cette nuit, sur la crête douteuse, entre deux Failles qui se hâtaient dans le noir, avec sa fille sourde qui dormait à sa hanche et un vieux passé le matin sans un cri, elle l’ouvrit. Et ce fut à une autre page.
 
 À la lumière fausse, elle chercha. Même la nuit, sur Gryndor, n’était pas tout à fait la nuit ; il y avait, entre les tremblements, des restes de jour qui ne se décidaient pas à partir, des flaques de crépuscule accrochées à l’herbe comme de la brume. Elle chercha le troisième feuillet, celui que le copiste avait recopié entier, vérifié trois fois, de sa main à lui. Le noyau. La chose que quinze siècles n’avaient pas usée.
 
@@ -227,7 +227,7 @@ Elle ignorait qui avait écrit ces lignes. Le copiste le lui avait dit à mots c
 
 Mais elle savait ceci, qui suffisait : l’homme qui avait écrit cela l’avait écrit au bord d’un geste qu’il ne croyait pas bien et qu’il faisait quand même, parce qu’il le croyait forcé. Et elle, cette nuit, sur cette crête, entre deux trous du monde, elle était au même bord exact. Sa fille, elle l’avait coupée. Elle l’avait fait sans y croire, et elle le referait sans y croire davantage. L’homme mort avait posé quinze siècles entre eux pour qu’elle pût, cette nuit, mettre sa main de forge sur la sienne à travers le temps et savoir qu’elle n’était pas la première à faire une chose terrible sans y croire.
 
-C’était cela, la vertu du cahier. Pas de protéger. Le copiste avait raison : il ne protégeait de rien. Tout ce qu’il faisait, c’était qu’on était deux, à mille cinq cents ans de distance, à porter la même chose. Deux peurs qui se tenaient chaud. Et sur une plaine où les bords fondaient et où les hommes passaient sans un cri, c’était peut-être tout ce qui restait d’entier.
+C’était cela, la vertu du cahier. Le copiste avait raison : il ne protégeait de rien. Tout ce qu’il faisait, c’était qu’on était deux, à mille cinq cents ans de distance, à porter la même chose. Deux peurs qui se tenaient chaud. Et sur une plaine où les bords fondaient et où les hommes passaient sans un cri, c’était peut-être tout ce qui restait d’entier.
 
 Contre sa peau, elle glissa le cahier. Referma la ceinture.
 

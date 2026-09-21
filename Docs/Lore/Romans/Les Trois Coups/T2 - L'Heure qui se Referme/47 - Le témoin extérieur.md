@@ -12,7 +12,7 @@ status: draft
 
 Elle remarqua le silence d’abord. Elle comprit ensuite qu’il n’était pas bon.
 
-Vaenor Sorne tenait son cheval par l’encolure, au bord de la Plaine de Gryndor, et elle écoutait une chose qui manquait. Douze ans, disait-on, que cette plaine portait trois Failles ensemble. Le bruit des Failles n’en était pas un : c’était un bruit attendu qui n’arrivait jamais, un mot coupé avant sa fin, un tonnerre qui ne roulait pas jusqu’au bout. À force de le porter, on cessait de l’entendre. On l’entendait le jour où il cessait.
+Vaenor Sorne tenait son cheval par l’encolure, au bord de la Plaine de Gryndor, et elle écoutait une chose qui manquait. Douze ans, disait-on, que cette plaine portait trois Failles ensemble. Le bruit des Failles était un bruit attendu qui n’arrivait jamais, un mot coupé avant sa fin, un tonnerre qui ne roulait pas jusqu’au bout. À force de le porter, on cessait de l’entendre. On l’entendait le jour où il cessait.
 
 Il venait de cesser.
 
@@ -28,7 +28,7 @@ Elle avait poursuivi la forgeronne jusque-là. Deux mois, peut-être trois : le
 
 Elle n’avait jamais su chercher que par les manques. Le bourg trop calme. Le voisin qui n’avait « rien remarqué » chez la petite. Les deux femmes du lavoir qui lui avaient raconté la même chose avec les mêmes mots, dans le même ordre. La forge éteinte depuis trois jours, quand un artisan n’éteint jamais la sienne. Elle avait suivi les manques, et les manques menaient tous à la même plaine, celle que les Inspecteurs eux-mêmes ne traversaient plus.
 
-Ses hommes l’avaient laissée à la lisière, et ils avaient eu raison. On n’entrait pas dans Gryndor : les Failles y marchaient plus vite qu’un cheval, elles se croisaient, et l’homme qui entrait ressortait trente ans plus tôt ou ne ressortait pas. Elle était entrée quand même. Pas par courage. Par la même chose qui l’avait jetée, jeune, du côté des Inspecteurs : il lui fallait voir. De ses yeux, toujours, sinon un fait restait un racontar, et les racontars lui étaient insupportables.
+Ses hommes l’avaient laissée à la lisière, et ils avaient eu raison. On n’entrait pas dans Gryndor : les Failles y marchaient plus vite qu’un cheval, elles se croisaient, et l’homme qui entrait ressortait trente ans plus tôt ou ne ressortait pas. Elle était entrée quand même, par la même chose qui l’avait jetée, jeune, du côté des Inspecteurs, et qui n’avait rien à voir avec le courage : il lui fallait voir. De ses yeux, toujours, sinon un fait restait un racontar, et les racontars lui étaient insupportables.
 
 Elle avait vu la forgeronne. De loin, de très loin, entre deux tremblements de l’air : une silhouette petite et une plus petite encore qui traversaient à découvert là où personne ne traverse à découvert. Elle n’avait pas pu les atteindre. Entre elles et elle, l’air se pliait ; le sol montrait par plaques une herbe d’une autre saison. Elle avait crié un mot, un ordre, elle ne savait plus lequel, et le mot était parti sans arriver, mangé en route par une distance qui n’était pas une distance.
 
@@ -42,7 +42,7 @@ Au bord de la plaine, elle se le répéta méthodiquement, comme elle mettait de
 
 Il y avait eu les Failles. Établi : elle les avait vues, elle avait senti l’air se plier, elle avait perdu un ordre dans la pliure. Fait.
 
-Il y avait eu un changement dans la qualité du silence, à un moment qu’elle ne pouvait pas dater, et cela seul aurait dû l’alerter, elle qui datait tout. Fait, mais mou. Un fait sans heure n’est pas tout à fait un fait ; c’est le début d’une rumeur.
+Il y avait eu un changement dans la qualité du silence, à un moment qu’elle ne pouvait pas dater, et cela seul aurait dû l’alerter, elle qui datait tout. Fait, mais mou. Un fait sans heure n’est pas tout à fait un fait. Une rumeur commence toujours par là.
 
 Il y avait eu ensuite la plaine intacte, les Failles fermées, toutes, au même instant semblait-il, quoiqu’elle ne pût le jurer, parce qu’elle regardait la silhouette de la forgeronne au moment où… au moment où quoi ? Là, elle butait. Chaque fois qu’elle arrivait à *au moment où*, sa phrase se cassait, comme la Plaine coupait les bruits avant leur fin.
 
@@ -52,7 +52,7 @@ Rien. Une marche manquante dans un escalier : le pied qui cherche l’appui et 
 
 Elle porta la main à son front, geste qu’elle ne faisait jamais, geste des gens qui doutent, et elle resta ainsi, à fouiller. Car c’était bien un manque, et elle le reconnaissait : vingt ans qu’elle reconnaissait les manques dans le récit des autres, le mot qu’on omet, la nuit qu’un registre ne porte pas, l’heure qu’un homme saute dans sa déposition parce qu’elle l’accuse. Sauf que celui-ci était dans le sien.
 
-Entre le silence qui change et la plaine intacte, il y avait un morceau de temps qu’elle avait vécu et qui n’était plus là. Elle en était sûre comme on est sûr d’une écriture grattée : on ne lit pas ce qui était écrit, on voit que le papier a maigri.
+Entre le silence qui change et la plaine intacte, il y avait un morceau de temps qu’elle avait vécu et qui n’était plus là. Elle en était sûre comme on l’est d’une écriture grattée : le papier a maigri, cela se voit.
 
 Quelque chose s’était tenu là. Elle n’aurait pas su dire quoi, et la différence comptait. On oublie, d’ordinaire, et l’on garde de quoi savoir qu’on a oublié. Ici, ce qui manquait, c’était que quelque chose eût été. Il en restait la forme, rien d’autre.
 
@@ -68,7 +68,7 @@ Celui-là revenait. C’était donc faux.
 
 « Vous êtes là depuis longtemps ? » demanda-t-elle.
 
-Ce fut le seul réflexe qui la tint : la question dont on croit connaître la réponse, posée non pour apprendre mais pour voir, et le ton qu’elle ne levait jamais. Sauf qu’ici elle ne connaissait pas la réponse, et elle ne s’en avisa qu’après l’avoir posée.
+Ce fut le seul réflexe qui la tint : la question dont on croit connaître la réponse, posée pour voir, et le ton qu’elle ne levait jamais. Sauf qu’ici elle ne connaissait pas la réponse, et elle ne s’en avisa qu’après l’avoir posée.
 
 L’homme la regarda. Un beau visage calme, et des yeux qui ne l’étaient pas du tout.
 
@@ -96,7 +96,7 @@ Et Vaenor Sorne ouvrit la bouche pour répondre, parce qu’elle avait toujours 
 
 Rien ne vint, et le rien était énorme.
 
-Toute sa vie, elle avait tenu le monde par les deux bouts d’une phrase : deux faits alignés, le troisième qui se déduit. Le passeur dort la nuit, le passeur achète l’huile au matin, donc le passeur ment. L’enfant n’est pas déclarée, la forge est froide, donc la mère cache. Cette façon d’habiter le réel n’avait pas failli une fois en vingt ans, parce que le réel, pressé comme il faut, rendait toujours son troisième terme.
+Elle avait toujours tenu le monde par les deux bouts d’une phrase : deux faits alignés, le troisième qui se déduit. Le passeur dort la nuit, le passeur achète l’huile au matin, donc le passeur ment. L’enfant n’est pas déclarée, la forge est froide, donc la mère cache. Cette façon d’habiter le réel n’avait pas failli une fois en vingt ans, parce que le réel, pressé comme il faut, rendait toujours son troisième terme.
 
 Elle pressa. *Les Failles se sont fermées. Les Tisses ont presque tous disparu.* Deux faits. Elle les tint séparément un moment, puis les approcha pour en voir sortir le troisième, donc les Failles se sont fermées parce que… et il ne sortit rien. Les deux restèrent deux, côte à côte, étrangers, comme deux pierres posées sur une table ne font pas un mur.
 

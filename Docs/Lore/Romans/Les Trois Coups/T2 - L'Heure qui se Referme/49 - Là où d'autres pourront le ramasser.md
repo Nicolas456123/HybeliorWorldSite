@@ -14,7 +14,7 @@ Le monde s’était refermé, et il n’en restait rien qu’on pût montrer.
 
 Il fallut des jours à Kessane pour comprendre que c’était cela qui lui pesait. Le matin où les Failles s’étaient recousues, cette heure où la plaine avait cessé de se trouer sous les pieds des gens, elle avait attendu un fracas, un signe, quelque chose qu’on montrerait plus tard à un enfant en disant *c’est là que ça s’est fait*. Il n’y avait rien eu. Le ciel n’avait pas changé. La lumière était rentrée dans ses heures comme une bête rentre à l’étable, et le lendemain les oiseaux s’étaient posés sur une terre qui ne se dérobait plus, et voilà tout. Le copiste lui avait dit qu’on avait déchiré le monde quinze siècles plus tôt sans que personne sût pourquoi. Il venait de se recoudre de la même façon.
 
-Les gens autour d’elle, eux, avaient repris. Le fermier qui leur prêtait la maison avait ressemé son carré de seigle dès la deuxième semaine, parce qu’il fallait manger. Au marché du bourg, on ne parlait déjà plus des déchirures. On parlait de la pluie, du prix des sabots, d’un cheval boiteux à l’attelage des Verrin. Kessane y descendait deux fois le mois, vendait ce qu’elle avait réparé, remontait avec du sel et du fil. Personne ne lui demandait d’où elle venait.
+Les gens autour d’elle, eux, avaient repris. Le fermier qui leur prêtait la maison avait ressemé son carré de seigle dès la deuxième semaine, parce qu’il fallait manger. Au marché du bourg, les déchirures avaient déjà quitté les conversations. On parlait de la pluie, du prix des sabots, d’un cheval boiteux à l’attelage des Verrin. Kessane y descendait deux fois le mois, vendait ce qu’elle avait réparé, remontait avec du sel et du fil. Personne ne lui demandait d’où elle venait.
 
 Tout le temps qu’avait duré le Fléau, elle avait cru qu’il finirait comme finissent les incendies : par de la cendre, par un compte des pertes, par un lieu noirci qu’on montre du doigt. Il avait fini autrement. Un jour, elle s’était aperçue qu’il n’était plus là, sans savoir depuis quand.
 
@@ -28,7 +28,7 @@ Mais depuis deux ans, les coins de la maison étaient des coins ordinaires.
 
 « La dame », avait demandé Kessane, une fois, longtemps après, quand elle avait cru le moment venu où l’on peut demander. « Celle qui restait près de la trempe. Tu l’entends encore ? »
 
-Lirenn avait secoué la tête. Pas triste, pas soulagée, simplement la tête d’un enfant à qui l’on parle d’une chose ancienne qui ne le concerne plus.
+Lirenn avait secoué la tête. Le hochement d’un enfant à qui l’on parle d’une chose ancienne qui ne le concerne plus, sans tristesse et sans soulagement.
 
 « Non. » Un temps. « Des fois je me demande si elle est toujours là, la dame. Si elle me parle et que moi j’entends plus. » Elle avait regardé le coin de la pièce, un coin ordinaire, un coin de mur. « Ça serait pas gentil pour elle. De parler à quelqu’un qui répond plus. »
 
@@ -132,7 +132,7 @@ En le tenant, elle comprit qu’elle ne pouvait ni le détruire ni le garder, po
 
 Alors elle le déposerait quelque part, et d’autres le ramasseraient, ou personne.
 
-L’homme du cahier avait fait cela, à la fin. Le copiste le lui avait raconté, la nuit où les deux exemplaires étaient restés côte à côte sur l’établi : il avait muré son livre dans une montagne, pour un lecteur qu’il jugeait meilleur que lui. Elle n’avait pas retenu le nom de la montagne. Elle avait retenu le geste.
+L’homme du cahier avait fait cela, à la fin. Le copiste le lui avait raconté, la nuit où les deux exemplaires étaient restés côte à côte sur l’établi : il avait muré son livre dans une montagne, pour un lecteur qu’il jugeait meilleur que lui. Elle avait retenu le geste, et laissé filer le nom de la montagne.
 
 *
 

@@ -43,7 +43,7 @@ C’était l’autre loi de la Plaine, et Kessane ne l’avait comprise que le d
 
 Elles y descendaient donc. Le fil d’herbe qu’elles suivaient depuis l’aube s’inclinait vers un creux que Kessane n’avait jamais vu de si près : une herbe pâle, sans saison qu’on pût nommer, verte et dorée et blanche à la fois, brouillée comme une étoffe teinte trois fois par-dessus. Au-dessus, l’air tremblait.
 
-Il tremblait d’une manière neuve. Pas le tremblement d’une Faille, qu’elle savait lire à présent, cette ondulation de chaleur froide sur la joue. C’était plus large : l’air entier, sur des lieues, avait pris le retard qu’elle venait de voir sur sa main, et le portait partout. Un oiseau passa très loin ; il en restait sur les hauts, qui n’osaient pas descendre. Son cri arriva décalé de son vol. Elle connaissait le décalage de la distance ; ce n’était pas celui-là. Le cri restait collé à l’endroit que l’oiseau avait quitté.
+Il tremblait d’une manière neuve. Le tremblement d’une Faille, elle savait le lire à présent, cette ondulation de chaleur froide sur un côté de la joue. Ce tremblement-ci tenait tout le ciel : l’air entier, sur des lieues, avait pris le retard qu’elle venait de voir sur sa main, et le portait partout. Un oiseau passa très loin ; il en restait sur les hauts, qui n’osaient pas descendre. Son cri arriva décalé de son vol. Elle connaissait le décalage de la distance, et celui-ci ne lui ressemblait pas : le cri restait collé à l’endroit que l’oiseau avait quitté.
 
 « Tu entends ? » dit Lirenn.
 
@@ -61,7 +61,7 @@ Elle ne dit rien à sa fille de ce qu’elle venait de voir. Elle avait juré de
 
 Au fond, elles n’étaient pas seules.
 
-Elle s’y attendait, l’entonnoir rassemblait tout le monde ; mais pas à *ceux-là*. Les Mangeurs de Temps étaient descendus au centre eux aussi. Trois, quatre, une poignée, dans leurs habits cousus de travers d’après des gravures d’un autre âge. Ils ne fuyaient pas, eux : ils étaient venus au fond exprès, au plus près des trois trous, avec cette faim tranquille sur le visage que Kessane avait appris à éviter. Ils s’étaient assis en cercle dans l’herbe brouillée comme on s’assied autour d’un feu. Le feu manquait. À sa place il y avait le tremblement, et ils le regardaient comme une bonne chose qui vient.
+Elle s’y attendait, l’entonnoir rassemblait tout le monde ; mais pas à *ceux-là*. Les Mangeurs de Temps étaient descendus au centre eux aussi. Trois, quatre, une poignée, dans leurs habits cousus de travers d’après des gravures d’un autre âge. Eux étaient venus au fond exprès, au plus près des trois trous, avec cette faim tranquille sur le visage que Kessane avait appris à éviter. Ils s’étaient assis en cercle dans l’herbe brouillée comme on s’assied autour d’un feu. Le feu manquait. À sa place il y avait le tremblement, et ils le regardaient comme une bonne chose qui vient.
 
 L’un d’eux se leva quand il les vit. Un homme maigre, le crâne rasé de frais, qui portait au cou une chose de fer sur une lanière. Kessane la reconnut à dix pas, son œil ne se trompait pas sur le fer : une clef. Une vieille clef du genre qu’on n’usinait plus, à panneton compliqué, à anneau ouvragé. La clef d’une porte disparue depuis mille ans, au cou d’un homme qui voulait entrer par une porte qui n’était pas une porte.
 
@@ -75,7 +75,7 @@ Il l’annonçait. Kessane s’arrêta et mit Lirenn derrière sa hanche droite,
 
 « Ma petite n’a rien à craindre de son don. Je le lui ai coupé. C’est réglé. »
 
-Le sourire vacilla, non de peur, d’une pitié qui la hérissa plus que la peur ne l’aurait fait.
+Le sourire vacilla d’une pitié qui la hérissa plus que la peur ne l’aurait fait.
 
 « Vous l’avez mutilée pour la garder dans un monde cassé. Nous, nous emmenons les nôtres entiers dans un monde qui ne l’est pas. Voyez comme c’est plus doux. Vous coupez. Nous, nous ramenons. »
 
@@ -127,13 +127,13 @@ Kessane s’arrêta net, au milieu du fil, entre les deux fraîcheurs, parce que
 
 Vers le milieu du jour, s’il y avait encore un milieu au jour sur Gryndor, où le soleil montait par plaques et s’attardait de travers, l’air changea.
 
-Kessane le sentit d’abord dans les dents. Une vibration, très basse, comme lorsqu’on frappe une enclume fêlée et que la fêlure rend un son sourd, faux, qui vous remonte le bras et se loge dans la mâchoire. Elle s’arrêta et appuya la paume dans l’herbe brouillée. Sous sa main, le sol rendait le même son sourd : pas un tremblement, une note. Une note tenue, très grave, tenue si bas et si longtemps qu’on l’aurait prise pour un silence si on n’y avait pas mis la main.
+Kessane le sentit d’abord dans les dents. Une vibration, très basse, comme lorsqu’on frappe une enclume fêlée et que la fêlure rend un son sourd, faux, qui vous remonte le bras et se loge dans la mâchoire. Elle s’arrêta et appuya la paume dans l’herbe brouillée. Sous sa main, le sol rendait le même son sourd : une note. Une note tenue, très grave, tenue si bas et si longtemps qu’on l’aurait prise pour un silence si on n’y avait pas mis la main.
 
 « Couche-toi », dit-elle à Lirenn. Pas fort. Pourquoi elle le disait, elle ne le savait pas. Rien ne menaçait dans la seconde, aucune nappe ne montait plus vite, aucun bord ne fondait sous elles. Mais tout son corps de forgeronne, ce corps qui savait avant la tête quand une trempe allait rater, quand un métal allait fendre, lui disait de mettre son enfant contre la terre. « Couche-toi près de moi. Pas un mot. »
 
 Lirenn se coucha. Elle ne demanda pas pourquoi. C’était une des choses que la Plaine leur avait apprises, à toutes les deux : quand le corps de l’autre sait, on obéit au corps, on demande après.
 
-Couchées sur le fil d’herbe pâle, joue contre le sol qui chantait faux, elles restèrent, et Kessane tint sa fille d’un bras en travers du dos, et de l’autre main elle chercha le cahier sous sa chemise. Pas pour le lire. Pour le tenir. Le fer de la boucle était froid ; le cahier était tiède, de sa peau à elle.
+Couchées sur le fil d’herbe pâle, joue contre le sol qui chantait faux, elles restèrent, et Kessane tint sa fille d’un bras en travers du dos, et de l’autre main elle chercha le cahier sous sa chemise, pour le tenir dans la main, rien de plus. Le fer de la boucle était froid ; le cahier était tiède, de sa peau à elle.
 
 Et la note monta.
 
@@ -145,11 +145,11 @@ Ce qu’elle put dire, c’est que le monde ne cria pas. Le matin du couloir lui
 
 Voilà tout. La note cessa.
 
-Depuis si longtemps elle avait été là, ce fond sourd tenu sous toute chose, ce retard de l’air, ce chant faux du sol, que Kessane ne l’avait plus entendu comme un son : elle l’avait pris pour le silence même de la Plaine. Et quand il s’arrêta, elle comprit, à ce qui manqua soudain, qu’il avait toujours été là. Le vrai silence tomba comme tombe le froid quand le feu s’éteint : d’un coup, par l’absence, par le manque de ce qui chauffait. Le monde, sous elle, se tut. La note qui tenait le retard de l’air se tut, et l’air, libéré, rejoignit ses gestes.
+Depuis si longtemps elle avait été là, ce fond sourd tenu sous toute chose, ce retard de l’air, ce chant faux du sol, que Kessane avait fini par la prendre pour le silence même de la Plaine. Et quand il s’arrêta, elle comprit, à ce qui manqua soudain, qu’il avait toujours été là. Le vrai silence tomba comme tombe le froid quand le feu s’éteint : d’un coup, par l’absence, par le manque de ce qui chauffait. Le monde, sous elle, se tut. La note qui tenait le retard de l’air se tut, et l’air, libéré, rejoignit ses gestes.
 
 Elle le sut parce qu’elle leva la main.
 
-Elle ne l’avait pas décidé. La main monta seule, comme au réveil on tâte s’il fait jour. Elle la tint devant ses yeux, paume, dos, doigts écartés, le vieux geste, et la main bougea, et sa trace bougea avec elle. Avec elle. Pas après. Il n’y avait plus de main de brume qui s’attardait à l’endroit quitté. L’air était sur son geste, collé à lui, exact. L’air avait rattrapé son retard.
+La main monta seule, avant qu’elle l’eût décidé, comme au réveil on tâte s’il fait jour. Elle la tint devant ses yeux, paume, dos, doigts écartés, le vieux geste, et la main bougea, et sa trace bougea avec elle. Avec elle. Pas après. Il n’y avait plus de main de brume qui s’attardait à l’endroit quitté. L’air était sur son geste, collé à lui, exact. L’air avait rattrapé son retard.
 
 « Lève ta main », dit Kessane, et elle ne reconnut pas sa propre voix.
 
@@ -169,7 +169,7 @@ Et Kessane s’assit dans l’herbe pâle, tenant sa fille contre elle, et regar
 
 Les trois trous n’étaient plus.
 
-Là où, un instant plus tôt, l’air tremblait autour de trois centres de froid qui tournaient l’un autour de l’autre, il n’y avait maintenant que de l’air. De l’air ordinaire, tiède, immobile, un air d’après-midi de fin d’été qui sentait l’herbe chaude, car l’herbe, sous ses yeux, changeait. Le givre qui bordait le fil, ces nappes blanches qui montaient à leur rencontre depuis l’aube, reculait. Pas fondait : reculait. Rentrait. Comme une marée qui se retire, le blanc quittait l’herbe, et sous le blanc l’herbe n’était pas morte, elle était verte, drue, à sa saison, une herbe d’été qui n’avait jamais cessé d’être de l’été et qui redevenait visible à mesure que le froid la lâchait. La Plaine se remettait à l’endroit. Son *quand*, elle le retrouvait.
+Là où, un instant plus tôt, l’air tremblait autour de trois centres de froid qui tournaient l’un autour de l’autre, il n’y avait maintenant que de l’air. De l’air ordinaire, tiède, immobile, un air d’après-midi de fin d’été qui sentait l’herbe chaude, car l’herbe, sous ses yeux, changeait. Le givre qui bordait le fil, ces nappes blanches qui montaient à leur rencontre depuis l’aube, reculait. Il rentrait, sans laisser une goutte d’eau derrière lui. Comme une marée qui se retire, le blanc quittait l’herbe, et sous le blanc l’herbe était verte, drue, à sa saison, une herbe d’été qui n’avait jamais cessé d’être de l’été et qui redevenait visible à mesure que le froid la lâchait. La Plaine se remettait à l’endroit. Son *quand*, elle le retrouvait.
 
 Kessane chercha l’arbre des yeux. Il y en avait un, loin, au centre, qu’elle avait évité douze jours durant : une ligne nette le partageait en deux saisons, le printemps d’un côté, l’automne pourri de l’autre. La ligne s’effaçait. Les deux moitiés se rejoignaient dans un seul âge, celui du jour où l’on était, et l’arbre fut vert d’un bout à l’autre, banal, un arbre qu’on ne remarque pas et qui n’avait plus qu’un temps, comme tous les arbres du monde.
 
@@ -197,13 +197,13 @@ Lirenn considéra le monde qui se réparait.
 
 Elle ne remarqua l’autre silence qu’ensuite.
 
-Pas celui de la note, qu’elle avait déjà entendue s’arrêter. Un autre, dont rien ne lui disait qu’il y eût eu du bruit avant, tant le bruit s’était tenu bas, en dessous de tout, dans une pièce de son crâne qu’elle n’ouvrait jamais.
+Un second, par-dessous celui de la note, dont rien ne lui disait qu’il y eût eu du bruit avant, tant le bruit s’était tenu bas, en dessous de tout, dans une pièce de son crâne qu’elle n’ouvrait jamais.
 
 Depuis douze jours sur la Plaine, et sans le savoir depuis bien plus longtemps, il y avait eu une rumeur, très bas, au-dessous du vent et du sol qui chantait faux, au-dessous même de ce qu’elle pensait. Jamais elle ne l’avait entendue franchement. Ç’avait été comme le bruit d’une rivière lointaine quand on habite au bord : on ne l’entend plus, il est devenu le fond du monde, et c’est la nuit où la rivière gèle qu’on se réveille en sursaut dans un silence qui fait mal aux oreilles, sans comprendre ce qui manque. Quelque chose qui avait toujours murmuré, tout au fond, venait de se taire.
 
 Les jours où elle l’avait presque perçu, elle avait cru que c’était le vent dans une combe. Ou son propre sang, la nuit, quand elle veillait. Ou les morts. Le chanteur d’Alkaran lui avait dit un jour que les morts n’étaient jamais tout à fait silencieux, qu’il y avait sous le silence des vivants le grand chuchotis patient de ceux qui poussaient contre la porte.
 
-Mais ce n’étaient pas les morts. Le chanteur le lui aurait dit : il l’avait presque dit, une fois, à la Forge-Basse, avant de mourir : qu’aux abords des Failles il entendait des voix qui n’étaient pas des morts, des gens *ailleurs*, et que ça le déroutait plus que tous les morts du monde, parce qu’un mort, au moins, on sait où il est. Ces voix-là, il ne savait pas où elles étaient, ni quand. Elles parlaient toutes en même temps de temps différents, disait-il, et ça faisait, tout au fond, une rumeur : une foule qui ne s’accorde jamais sur l’heure qu’il est.
+Mais le chanteur aurait fait la différence. Il l’avait presque dite, une fois, à la Forge-Basse, avant de mourir : qu’aux abords des Failles il entendait des voix d’un autre genre, des gens *ailleurs*, et que ça le déroutait plus que tous les morts du monde, parce qu’un mort, au moins, on sait où il est. Ces voix-là, il ne savait pas où elles étaient, ni quand. Elles parlaient toutes en même temps de temps différents, disait-il, et ça faisait, tout au fond, une rumeur : une foule qui ne s’accorde jamais sur l’heure qu’il est.
 
 Cette rumeur-là venait de cesser.
 
@@ -231,7 +231,7 @@ Elle sortit le cahier.
 
 Rien de cela n’était prévu. Sa main le tira de sous sa chemise comme elle s’était levée tout à l’heure pour tâter l’air : seule, pour une raison du corps que la tête ne connaissait pas. Elle l’ouvrit sur ses genoux, dans l’herbe qui reverdissait, sous un air d’été qui avait enfin le droit d’être de l’été.
 
-Elle ne chercha pas la page de la coupure. Ses doigts trouvèrent seuls le troisième feuillet, celui qu’elle avait lu une nuit, sur une crête, pour personne, et que quinze siècles de copies n’avaient pas entamé. Cette fois, elle allait le lire pour sa fille, qui vivait, qui était là, et dont les oreilles ne servaient plus aux morts mais servaient aux vivants.
+Ses doigts passèrent la page de la coupure et trouvèrent seuls le troisième feuillet, celui qu’elle avait lu une nuit, sur une crête, pour personne, et que quinze siècles de copies n’avaient pas entamé. Cette fois, elle allait le lire pour sa fille, qui vivait, qui était là, et dont les oreilles servaient désormais aux vivants.
 
 « Écoute, dit Kessane. Un homme a écrit ça, il y a très longtemps. Un homme qui a vu le monde s’ouvrir comme nous venons de le voir se fermer. Lui non plus ne savait pas pourquoi ça s’ouvrait. Il l’a écrit quand même. » Elle posa le doigt sur les lignes. « Il l’a peut-être écrit pour aujourd’hui, pour nous deux, ici. On ne le saura pas. Il a jeté sa phrase dans le temps sans savoir où elle tomberait. »
 
@@ -239,7 +239,7 @@ Et elle lut, à voix basse, dans le monde recousu :
 
 « *Aucun de nous ne le croit vraiment.* »
 
-Cette fois, les mots ne traînèrent pas derrière elle. L’air les porta juste : ils quittèrent sa bouche et arrivèrent à l’oreille de sa fille dans le même instant, pour la première fois depuis douze jours.
+Cette fois, l’air porta les mots juste : ils quittèrent sa bouche et arrivèrent à l’oreille de sa fille dans le même instant, pour la première fois depuis douze jours.
 
 « *Nous croyons que c’est inévitable.* »
 
@@ -259,15 +259,15 @@ Elles restèrent au centre de la Plaine jusqu’au soir.
 
 Il n’y avait plus de raison de fuir, c’était l’étrange, l’inconcevable : il n’y avait plus rien à fuir. Les trois trous ne trouaient plus. L’herbe était verte partout, à sa saison, une prairie ordinaire de fin d’été, vaste, un peu triste de sa banalité neuve, avec le vent dedans et des insectes qui revenaient de nulle part, prudemment, comme des convives après une querelle. À la regarder ainsi, on n’aurait pas cru qu’elle avait avalé quarante villages et dispersé leurs gens dans tous les temps du monde. Rien ne le disait. Le sol était redevenu du sol.
 
-Kessane pensa au vieux du couloir, passé sans un cri. Il ne reviendrait pas : la fermeture ne rendait rien de ce que l’ouverture avait pris. Les trous s’étaient scellés sur leurs prises, là où elles étaient tombées. Éparpillés dans tous les âges du monde, il y avait des gens de Gryndor et d’ailleurs, figés à l’instant de leur chute, menant des bêtes dans un siècle où le Lien tenait encore, vieillissant jusqu’au bout dans une année sans nom, penchés pour toujours sur un linge au soleil. La fin des Failles ne les rendait pas. Elle empêchait seulement qu’il s’en fît d’autres.
+Kessane pensa au vieux du couloir, passé sans un cri. Il ne reviendrait pas : la fermeture ne rendait rien de ce que l’ouverture avait pris. Les trous s’étaient scellés sur leurs prises, là où elles étaient tombées. Éparpillés dans tous les âges du monde, il y avait des gens de Gryndor et d’ailleurs, figés à l’instant de leur chute, menant des bêtes dans un siècle où le Lien tenait encore, vieillissant jusqu’au bout dans une année sans nom, penchés pour toujours sur un linge au soleil. La fin des Failles empêchait seulement qu’il s’en fît d’autres.
 
 « On rentre ? » dit Lirenn, vers le soir.
 
-« On rentre. » Kessane se leva, épousseta l’herbe de ses genoux, de la vraie herbe, qui laissait de vraies traces vertes, qui n’était plus faite de temps mais de sève. « Il n’y a plus de plaine à traverser. Il n’y a plus qu’un champ. On le traverse comme un champ. On rentre. »
+« On rentre. » Kessane se leva, épousseta l’herbe de ses genoux, de la vraie herbe, faite de sève, qui laissait de vraies traces vertes. « Il n’y a plus de plaine à traverser. Il n’y a plus qu’un champ. On le traverse comme un champ. On rentre. »
 
-Elle ne savait pas vers quoi l’on rentrait. La Forge-Basse était loin, et peut-être prise, et l’Inspectrice était quelque part, en arrière, sur une route qui n’existait plus. Celle-là ne se refermait pas, elle, ne se scellait pas, elle resterait, avec sa corde et son ordre scellé, dans le monde recousu. Il y aurait encore des choses à fuir demain, des choses d’hommes, des lois et des fioles. Mais pas cette chose-là. Pas cette grande chose sans nom et sans cause qui trouait le monde. Celle-là avait fini, aussi brusquement qu’elle avait commencé, et sans plus d’explication.
+Elle ne savait pas vers quoi l’on rentrait. La Forge-Basse était loin, et peut-être prise, et l’Inspectrice était quelque part, en arrière, sur une route qui n’existait plus. Celle-là resterait, avec sa corde et son ordre scellé, dans le monde recousu. Il y aurait encore des choses à fuir demain, des choses d’hommes, des lois et des fioles. Mais pas cette chose-là. Pas cette grande chose sans nom et sans cause qui trouait le monde. Celle-là avait fini, aussi brusquement qu’elle avait commencé, et sans plus d’explication.
 
-Elles se mirent en marche vers le levant, où le fil d’herbe n’était plus un fil mais toute la prairie, où l’on pouvait poser le pied n’importe où sans compter ses pas.
+Elles se mirent en marche vers le levant, où le fil d’herbe s’était élargi à toute la prairie, où l’on pouvait poser le pied n’importe où sans compter ses pas.
 
 « Maman.
 

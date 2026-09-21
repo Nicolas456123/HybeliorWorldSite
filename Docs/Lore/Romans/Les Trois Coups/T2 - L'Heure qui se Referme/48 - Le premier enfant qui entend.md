@@ -17,7 +17,7 @@ Elles étaient toutes assez vieilles pour se rappeler le temps où les enfants q
 
 « Écouter par en bas », avait dit la femme du puits, qui répétait les mots du petit sans les comprendre et les tenait devant elle comme un tison. « Il dit qu’il écoute par en bas. Qu’il faut écouter par le bon côté. »
 
-*Le bon côté.* Marenn ne savait pas ce que cela voulait dire, et personne ne le savait. Les mots avaient traîné dans le village toute la journée, comme traîne une odeur de brûlé dont on ne trouve pas la source. Le soir, en rentrant ses poules, elle s’était surprise à écouter, elle aussi : pas la terre, les voix des autres, pour savoir si la peur montait ou si elle retombait.
+*Le bon côté.* Marenn ne savait pas ce que cela voulait dire, et personne ne le savait. Les mots avaient traîné dans le village toute la journée, comme traîne une odeur de brûlé dont on ne trouve pas la source. Le soir, en rentrant ses poules, elle s’était surprise à écouter, elle aussi : les voix des autres, pour savoir si la peur montait ou si elle retombait.
 
 Elle montait.
 
@@ -27,7 +27,7 @@ Le mauvais temps était fini depuis longtemps. Tout le monde le savait, tout le 
 
 Mais il y avait eu l’autre chose, avant, celle dont on ne parlait qu’à mots couverts et jamais devant les petits. Il y avait eu ceux qui entendaient. Ceux qui parlaient à des présences dans les coins, qui voyaient ce qui n’était pas là, qui saignaient du nez sans qu’on les eût frappés. Le mal les prenait par l’intérieur, leur propre don les rongeait, et ils mouraient en dix-huit mois dans des cris que leur corps poussait tout seul quand ils n’avaient plus la force de les pousser eux-mêmes. Et par-dessus le mal, il y avait eu les gens en robe. Ils venaient quand on signalait un enfant qui ne parlait à personne. Ils avaient la voix douce. Un soin, disaient-ils. Marenn avait vu emmener, quand elle était petite, un garçon d’une ferme voisine ; elle se rappelait surtout la mère, qui n’avait pas crié, parce qu’un cri aussi, cela se signalait.
 
-Voilà pourquoi un enfant qui écoutait par en bas faisait peur. L’étrangeté n’y était pour rien. Dans la mémoire du village, un enfant qui entendait ce que les autres n’entendaient pas était un enfant déjà à moitié pris, par le mal ou par les robes, l’un appelant l’autre. On avait mis des générations à apprendre à taire ces enfants-là. Le mauvais temps avait beau être fini, la peur n’avait pas suivi : elle mettait plus de temps que les déchirures à quitter les corps.
+Voilà pourquoi un enfant qui écoutait par en bas faisait peur. Dans la mémoire du village, un enfant qui entendait ce que les autres n’entendaient pas était un enfant déjà à moitié pris, par le mal ou par les robes, l’un appelant l’autre. On avait mis des générations à apprendre à taire ces enfants-là. Le mauvais temps avait beau être fini, la peur n’avait pas suivi : elle mettait plus de temps que les déchirures à quitter les corps.
 
 « Il faudrait le dire à sa mère », avait risqué quelqu’un, au lavoir.
 
@@ -39,9 +39,9 @@ Marenn la connaissait un peu, la mère.
 
 Une femme des marges, arrivée deux ou trois ans plus tôt, de vers Onara disait-on, un pays d’eau et de forges ; elle n’en parlait pas et on n’insistait pas, car beaucoup de gens, ces années-là, étaient arrivés de quelque part sans en parler. Ses mains étaient larges et avaient travaillé dur. On l’avait crue forgeronne à cause des mains, et parce qu’à son arrivée elle avait remis d’aplomb le soc de deux charrues sans que personne le lui eût demandé. Elle ne forgeait pourtant pas. Elle avait dit une fois, à qui s’en étonnait, qu’elle avait tenu le fer autrefois et que c’était derrière elle, et elle l’avait dit d’un ton qui fermait la porte. Elle filait la laine et vendait ses écheveaux au marché du bourg. Personne ne l’avait jamais vue rallumer une forge ni en chercher une, et le village avait fini par ne plus y penser.
 
-On remarquait davantage la façon dont elle veillait son enfant. Pas une tendresse qui se montre : elle était sèche, brève, de celles qui grondent avant de caresser. Mais elle savait toujours où était son petit. À toute heure du jour, sans en avoir l’air, elle savait. Marenn avait élevé quatre enfants et en avait enterré deux ; elle connaissait cette vigilance-là de l’intérieur.
+On remarquait davantage la façon dont elle veillait son enfant. Elle était sèche, brève, de celles qui grondent avant de caresser, et sa tendresse ne se montrait jamais. Mais elle savait toujours où était son petit. À toute heure du jour, sans en avoir l’air, elle savait. Marenn avait élevé quatre enfants et en avait enterré deux ; elle connaissait cette vigilance-là de l’intérieur.
 
-Aussi, quand la rumeur avait couru, elle n’avait pas pensé d’abord à l’enfant. Elle avait pensé à la mère. À ce que ce devait être, quand on veille ainsi, d’entendre son fils répéter les mots qui faisaient venir les robes.
+Aussi, quand la rumeur avait couru, sa première pensée avait été pour la mère, avant l’enfant. À ce que ce devait être, quand on veille ainsi, d’entendre son fils répéter les mots qui faisaient venir les robes.
 
 ---
 
@@ -71,7 +71,7 @@ Elle l’avait dit d’un trait, comme on abat une carte gardée trop longtemps.
 
 ---
 
-Ce que Marenn rapporta au village, ce soir-là, ne calma personne, mais déplaça la peur.
+Ce que Marenn rapporta au village, ce soir-là, déplaça la peur.
 
 Elle avait dit la seule chose qui comptait : *l’enfant ne saigne pas.* Dans un village qui se souvenait de ce que saigner voulait dire, la phrase avait le poids d’un miracle ou celui d’un piège, et personne ne savait encore lequel. Les vieilles hochaient la tête et se taisaient. Deux ou trois firent le signe contre le mauvais œil. D’autres se taisaient autrement : elles regardaient vers la porte, plusieurs fois dans la soirée, sans qu’on eût frappé. Marenn était de celles-là et n’en dit rien à personne.
 
@@ -95,11 +95,11 @@ Marenn rentra tard.
 
 Elle passa devant la maison de la fileuse, la dernière avant les champs, une lumière basse à la fenêtre, et elle s’arrêta sans savoir pourquoi. Pour écouter, peut-être, elle aussi. Elle appuya un peu plus fort sa semelle sur le chemin, bêtement, et ne sentit rien que la terre dure d’un soir ordinaire. Bien sûr. Elle n’entendait pas ces choses-là. Personne au village ne les entendait, sauf peut-être, désormais, un enfant de dix ans aux grandes mains.
 
-Par la fenêtre basse, elle vit la mère assise près de l’âtre, un objet sombre ouvert sur les genoux, un livre ou un cahier, épais, gondolé, qu’elle ne lisait pas : elle avait seulement posé la main dessus et l’y laissait. Le petit dormait plus loin, dans l’ombre, et l’on ne voyait de lui qu’une forme qui respirait. La mère regardait le feu. On entendait d’ici le bois qui travaillait, et rien d’autre. La main ne bougeait pas sur le cahier. Il n’y avait pas de peur sur ce visage, et pas d’espérance non plus. Il y avait autre chose, que Marenn n’aurait pas su nommer et qu’elle emporta chez elle comme on emporte une braise dans un pot.
+Par la fenêtre basse, elle vit la mère assise près de l’âtre, un objet sombre ouvert sur les genoux, un livre ou un cahier, épais, gondolé ; elle avait seulement posé la main dessus et l’y laissait. Le petit dormait plus loin, dans l’ombre, et l’on ne voyait de lui qu’une forme qui respirait. La mère regardait le feu. On entendait d’ici le bois qui travaillait, et rien d’autre. La main ne bougeait pas sur le cahier. Sur ce visage il y avait autre chose que la peur ou l’espérance, que Marenn n’aurait pas su nommer et qu’elle emporta chez elle comme on emporte une braise dans un pot.
 
-Marenn n’apprit jamais ce que cette femme avait fait de sa vie avant le village. Elle ne sut pas davantage pourquoi ses mains portaient les marques de la forge alors qu’elle filait la laine, ni ce que ce cahier contenait. Elle avait seulement vu, au marché, que le petit avait les mains de sa mère. Et qu’il avait les yeux clairs, presque gris, là où sa mère avait l’œil sombre, et une façon de pencher la tête de côté pour écouter que sa mère n’avait pas, que personne au village n’avait. Elle ne s’attarda pas là-dessus. Ce n’étaient pas ses affaires. Ses affaires, c’étaient ses poules, ses morts, et le peu d’espérance qu’elle s’autorisait, cette nuit-là, à laisser vivre.
+Marenn n’apprit jamais ce que cette femme avait fait de sa vie avant le village. Elle ne sut pas davantage pourquoi ses mains portaient les marques de la forge alors qu’elle filait la laine, ni ce que ce cahier contenait. Elle avait seulement vu, au marché, que le petit avait les mains de sa mère. Et qu’il avait les yeux clairs, presque gris, là où sa mère avait l’œil sombre, et une façon de pencher la tête de côté pour écouter que sa mère n’avait pas, que personne au village n’avait. Elle ne s’attarda pas là-dessus. Ses affaires, c’étaient ses poules, ses morts, et le peu d’espérance qu’elle s’autorisait, cette nuit-là, à laisser vivre.
 
-Elle rentra. Elle se coucha. Avant de dormir, elle tendit l’oreille une dernière fois, non vers la terre, elle savait qu’elle n’en tirerait rien, mais vers le village, vers toutes ces maisons où l’on se posait ce soir la même question sans oser la dire tout haut : et si c’était vrai. Et si un enfant entendait de nouveau. Et si quelque chose, après tout ce qui s’était refermé, avait recommencé quelque part à s’ouvrir.
+Elle rentra. Elle se coucha. Avant de dormir, elle tendit l’oreille une dernière fois vers le village, vers toutes ces maisons où l’on se posait ce soir la même question sans oser la dire tout haut : et si c’était vrai. Et si un enfant entendait de nouveau. Et si quelque chose, après tout ce qui s’était refermé, avait recommencé quelque part à s’ouvrir.
 
 Elle s’endormit là-dessus, et le village avec elle.
 
