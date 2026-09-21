@@ -180,7 +180,7 @@ C’était vrai aussi. Sur ce point-là elle ne mentait jamais. Rien, dans ce qu
 
 *
 
-Elle le quitta sous les tilleuls. On ne raccompagnait pas ; on laissait l’homme seul avec la petite chose sombre et la longueur de son après-midi.
+Elle le quitta sous les tilleuls. On laissait l’homme seul avec la petite chose sombre et la longueur de son après-midi.
 
 Elle remonta vers la ville haute par les ruelles, à pas mesurés, et elle nota, parce qu’elle notait tout, que la file du puits n’avait pas décru, et que le prix des œufs criés à l’entrée du marché était de trois deniers quand une autre bouche, à la sortie, criait deux et demi. La même marchandise, la même heure, et aucune des deux n’avait raison : le juste, elle l’avait calculé sans y penser, était de deux deniers huit. Elle faillit revenir sur ses pas pour le dire, et ne le fit pas : corriger le prix des œufs n’aurait rien changé à cette ville. Mais le chiffre s’était posé en elle, propre, à sa place exacte, et l’avoir en tête la reposa.
 
