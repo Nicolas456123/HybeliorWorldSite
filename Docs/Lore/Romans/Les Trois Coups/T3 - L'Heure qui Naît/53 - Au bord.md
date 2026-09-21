@@ -8,97 +8,125 @@ status: draft
 
 # Au bord
 
-Il n’y eut pas de dernière pulse.
+Une paroi de torchis rend tout d’une dispute, sauf les mots.
 
-Renna l’attendit, le corps prêt à la recevoir comme on se prépare à la marche qui manque au bas d’un escalier, ce coup de plus qu’on croit toujours devoir venir ; et il ne vint pas. Le Mont avait cessé de compter. Là où, une heure plus tôt, la chaleur montait par bouffées séparées, avec entre deux ce répit menu où l’on reprenait sa vie, il n’y avait plus qu’un seul souffle, long, sans rive, poussé dehors et retenu et poussé encore sans qu’on sût jamais où finissait l’un ni commençait l’autre. Ce n’était plus un cœur qui bat. C’était une poitrine qui respire, trop grande pour tenir sous une seule cage, et la face tournée vers la fente, elle la sentait respirer contre sa propre face comme on sent l’haleine d’un dormeur dont on a approché le visage pour savoir s’il vit.
+Renna avait appris cela avant de savoir compter. À Taldre les maisons se touchaient, et de l’autre côté du mur on entendait qu’un homme parlait ; on entendait s’il était debout ou assis, s’il demandait ou refusait, s’il sortirait ou resterait, et jusqu’où cela irait avant le jour. Jamais une syllabe. Le mur rendait l’homme entier et gardait ce qu’il disait.
 
-Loin d’elle, quelque part sur la margelle, la voix d’un homme monta, très fort, puis se cassa net, comme s’il avait entrepris un cantique et s’était rendu compte, à la deuxième mesure, qu’il n’y avait plus personne pour chanter avec lui. Après quoi, un grand silence, qui n’était pas un silence.
+Elle avait dix ans la nuit où la maison voisine s’était mise à faire ce bruit-là : une voix d’homme égale, longue, jamais forte, et entre deux phrases plus rien du tout. Renna avait su avant le matin que la femme s’en irait, et elle l’avait su par le rien entre les phrases, parce qu’une femme qui répond fait du bruit et que celle-là n’en faisait plus. Elle garda cela pour elle. Elle n’avait rien à poser sur une table ; il aurait fallu qu’on la crût sur parole, et personne ne la croyait sur parole.
 
-Car sous le silence il y avait la venue, et Renna, cette nuit, ne se bouchait plus.
+Elle en avait fait l’épreuve une fois, à huit ans, en annonçant devant les femmes qui lavaient que le puits des Faguet tarirait. Sa mère l’avait giflée. Le puits tarit trois semaines après, et il ne lui en revint rien : les femmes se mirent seulement à laver un peu plus loin d’elle.
+
+Cette nuit-là, la paroi s’en allait.
+
+Le Mont avait cessé de compter avant le milieu de la nuit, et depuis, Renna n’avait plus rien à prendre entre deux coups. Ce qui montait arrivait d’un seul tenant. La chaleur sortait de la fente avec l’égalité d’une respiration qui ne se reprend plus ; elle prenait la face, elle séchait l’œil, et entre ce qui poussait dessous et la figure d’une femme agenouillée dans la suie il ne restait qu’une épaisseur de roche. C’était le dernier mur. Il s’amincissait.
+
+Plus bas sur le flanc, une voix d’homme monta très haut et se cassa au milieu, comme quelqu’un qui entonne un cantique et s’aperçoit à la deuxième mesure qu’il chante seul. Après quoi le val se tut, et ce qui remplissait ce silence arrivait par les genoux et par les molaires.
 
 \*
 
-« C’est tout près, dit Ilex.
+Ilex parla contre son épaule, et elle dut approcher l’oreille, elle qui l’entendait d’ordinaire d’un bout à l’autre d’une cour.
 
-— Je sais. »
+« C’est tout près.
 
-Ce savoir-là lui venait de l’oreille, maintenant, non plus de l’inquiétude. Depuis qu’elle avait cessé de se protéger, au bord de la roche, elle recevait ce qui montait comme on reçoit une lumière sur les paupières fermées, sans effort, sans le repousser, et ce qui montait s’était rapproché d’une façon qu’elle n’aurait pas su dire à quelqu’un qui ne l’entendait pas, sinon que c’était comme d’entendre, à travers une porte, une personne qui parle bas se lever et venir vers la porte.
+— Je sais. »
 
-« Non, dit l’enfant. Plus près que ça. Toute la phrase, cette fois. Elle va la dire en entier. » Il avait posé les deux mains à plat dans la cendre tiède, de part et d’autre de ses genoux, comme on pose les mains sur le flanc d’une bête pour sentir jusqu’où va son souffle. « Elle a jamais dit toute une phrase. Jamais. Depuis le fond du fond. Tu comprends ce que ça fait, une chose qui a jamais dit une phrase entière et qui va en dire une ?
+Depuis que le Mont avait cessé de compter, la voix de l’enfant ne portait plus. Quand l’autre chose se servait de sa bouche, cela emplissait la margelle et des gens à dix pas tournaient la tête ; quand c’était lui, il fallait se pencher. Renna avait pris l’habitude en une nuit. Elle ignorait ce qu’on lui rendrait au matin, et elle avait renoncé à se le demander.
 
-— Non, dit Renna. Toi non plus.
-
-— Moi non plus, reconnut-il, sans que cela parût le troubler. Mais je le sens mieux que toi. »
-
-Renna ne le contredit pas. C’était vrai depuis toujours, et elle avait passé des mois à s’en effrayer pour lui, cet enfant qui entendait mieux qu’elle qui entendait déjà trop ; cette nuit, l’effroi était retombé, ou plutôt il s’était fait si grand qu’il ne servait plus de rien de le porter, comme une eau qui monte cesse d’être une chose qu’on redoute quand elle vous arrive à la bouche.
+Depuis qu’elle avait cessé de se protéger, au bord de la roche, elle recevait ce qui montait sans effort, comme on reçoit une lumière sur les paupières fermées ; et cela s’était rapproché d’une façon qu’elle n’aurait pas su dire à quelqu’un qui ne l’entendait pas, sinon que c’était comme d’entendre, derrière une porte, une personne qui parle bas se lever et venir vers la porte.
 
 « Ilex.
 
-— Oui.
+— Oui.
 
-— Est-ce que tu sais ce que c’est ? »
+— Est-ce que tu sais ce que c’est ? »
 
-Elle avait dit cela très bas, la question qu’elle ne s’était jamais permise, celle qu’elle avait toute sa vie roulée sous le bruit de surface pour n’avoir pas à se la poser, la meule, la chèvre, les voisines, tout le vacarme du dessus par-dessus le dessous. Et voilà qu’elle la posait à un enfant de six ans agenouillé dans la suie, parce qu’il n’y avait plus au monde personne d’autre à qui la poser qui eût une chance de savoir.
+Elle avait dit cela très bas. C’était la question qu’elle ne s’était jamais permise, celle qu’elle avait roulée depuis l’enfance sous le bruit du dessus, la meule, la chèvre, les voisines, tout le vacarme d’en haut posé par-dessus le dessous pour n’avoir pas à se la poser. Elle la posait à un enfant de six ans agenouillé dans la suie, parce qu’il ne restait plus au monde une bouche qui eût une chance de répondre.
 
-Ilex tourna vers elle ses billes de lait, et pour la première fois de la nuit il mit du temps à répondre.
+Ilex tourna vers elle ses billes de lait, et il mit du temps.
 
 « Non, dit-il enfin.
 
-— Tu entends mieux que tout le monde.
+— Tu entends mieux que tout le monde.
 
-— J’entends mieux que tout le monde et je sais pas ce que c’est. » Il dit cela comme il eût dit le temps qu’il fait, sans dépit, avec seulement, tout au fond, une gravité qu’elle ne lui connaissait pas. « C’est pas parce qu’on entend une chose fort qu’on sait quoi c’est. Toi tu entends la voix d’un homme derrière un mur, tu sais que c’est un homme, mais tu sais pas lequel, ni ce qu’il dit, ni s’il est méchant. Moi c’est pareil, en plus fort. J’entends que ça vient. J’entends que ça a peur. J’entends que ça cherche. Ce que c’est, je le sais pas. »
+— J’entends mieux que tout le monde et je sais pas ce que c’est. » Il dit cela sans dépit, du ton dont il annonçait que les chèvres avaient soif, avec seulement, tout au fond, une gravité qu’elle ne lui connaissait pas. « J’entends que ça vient. J’entends que ça a peur. J’entends que ça cherche. Ce que c’est, ça je l’ai pas. » Un temps, et ce fut la chose la plus étrange qu’il eût dite de la nuit. « Et je crois que ça le sait pas non plus. »
 
-Il se tut, puis ajouta, plus bas encore, et ce fut la chose la plus étrange qu’il eût dite de toute la nuit :
+Renna resta là-dessus un long moment, à genoux, la main de l’enfant reprise dans la sienne, et la phrase se déposa en elle comme la suie se déposait sur ses épaules, sans vent, régulière, tiède.
 
-« Et je crois que ça le sait pas non plus. »
-
-\*
-
-Renna resta là-dessus un long moment, à genoux, la main de l’enfant reprise dans la sienne, à laisser cette phrase se déposer en elle comme la cendre se déposait sur ses épaules, sans vent, régulière, tiède.
-
-Toute sa vie, on lui avait dit ce que c’était. Voilà ce qu’elle mesurait, au bord de la fente, tandis que la venue montait. On ne lui avait jamais laissé l’entendre nu. Enfant, quand elle s’était plainte du bruit du dessous, sa mère l’avait giflée et lui avait dit que c’était le sang dans ses oreilles et rien d’autre, et qu’on ne le dit pas, qu’on n’en parle pas, qu’une fille qui parle du sang dans ses oreilles finit chez les sœurs à laver des draps. Plus tard, les autres avaient chacun leur nom pour ce qu’elle entendait. La femme d’Arkhen avait dit que c’était Flamara, et que Renna était bénie, et avait voulu l’emmener au feu. Le safran avait dit Eldoria et l’arbre qui s’éveille. La vieille au fichu noir avait dit le huitième, celui dont on a scié le nom. Le marcheur des vents avait dit le Voyageur qui rentre. Et l’homme de l’ordre, celui qui l’avait cherchée jusqu’ici pour lui prendre l’enfant, celui-là n’avait pas de nom, ou plutôt il en avait un pire que tous : rien. Une taie sur l’oreille, un sang qui bat, une fumée du cerveau, un rien qu’on range et qu’on tait.
-
-Chacun était venu avec son nom déjà fait, et l’avait posé sur ce qu’elle entendait comme on pose un couvercle sur une marmite dont on ne veut pas voir bouillir le fond. Et pas deux de ces noms n’allaient ensemble. Et pas un ne tenait sur ce qu’elle recevait, en ce moment même, à travers la roche et la chaleur. Ce qui montait n’était ni la flamme heureuse d’Arkhen ni le néant froid de l’ordre. Ce qui montait butait, ratait, recommençait, s’effrayait de soi ; une chose qui a peur ne s’appelle pas un phénomène, et une chose qui apprend ne s’appelle pas un dieu, ou alors c’est un dieu qu’aucun des cultes agenouillés autour d’elle n’aurait reconnu pour le sien, car aucun n’avait jamais prié un dieu qui ne saurait pas encore parler.
-
-Sans amertume, presque avec une drôle de paix, elle songea qu’elle allait sans doute être la seule, dans tout ce val, à entendre la chose au plus près et à ne rien pouvoir en dire. Les autres sauraient. Ils sauraient tous, dès que ça parlerait ; chacun mettrait sur la phrase entière le nom qu’il avait apporté, et rentrerait chez lui certain d’avoir entendu son dieu, ou son néant, ou son huitième. Elle, elle rentrerait avec dans l’oreille une venue nue et pas un nom à mettre dessus. C’était, elle le comprenait maintenant, le prix exact de l’entendre juste. On n’entend juste qu’à condition de renoncer à savoir quoi.
+Un mur lui avait toujours rendu l’homme et gardé ses phrases. Celui-ci ne faisait pas autrement. Elle avait la venue et la peur dedans ; le reste tenait derrière la pierre, et la pierre s’en allait, et cela ne changerait rien. Elle serait au ras, et elle aurait ce qu’un mur donne.
 
 \*
 
-Un mouvement, tout près, à sa gauche, la tira de cela.
+On lui avait toujours dit ce que c’était. Voilà ce qu’elle voyait, au bord de la fente, pendant que la chaleur poussait. Personne ne lui avait jamais laissé l’entendre nu.
 
-Un homme s’était laissé tomber à genoux dans la cendre, à deux pas d’elle, mais non pas comme les fervents, la face levée, les bras ouverts. Lui se tenait recroquevillé, le front presque au sol, et il avait porté ses deux mains à ses oreilles et les y pressait de toutes ses forces, les paumes plaquées, les doigts crispés dans les cheveux, dans cette posture que Renna connaissait mieux qu’aucune autre au monde, parce qu’elle l’avait tenue, elle, mille nuits, roulée en boule contre le mur de sa chambre à Cendara, des cuves poussées contre la porte et les mains sur les oreilles, à supplier que ça s’arrête.
+Sa mère avait dit le sang dans ses oreilles et rien d’autre, et qu’une fille qui parle du sang dans ses oreilles finit chez les sœurs à laver des draps ; et en mourant elle lui avait laissé une phrase, et la phrase disait de ne jamais répondre. Le rebouteux avait dit le sang aussi, et l’avait ouverte au pli du bras pour le faire baisser. Après eux, chacun était monté avec son nom déjà fait. La femme d’Arkhen avait dit Flamara, et que Renna était bénie, et avait voulu lui prendre l’enfant pour le feu. Le safran avait dit Eldoria, et s’était fâché qu’on pût dire autre chose. La vieille au fichu noir avait dit le huitième, de la voix dont on nomme un mort de la famille. Le marcheur des vents avait dit le Voyageur, et montrait le ciel, où l’étoile de celui-là avait bougé. Le garçon des écoles avait dit le Lien qui se rapièce. Et l’homme au manteau sombre, celui qui était monté lui prendre l’enfant pour un registre, celui-là avait apporté le pire des noms : rien. Une taie sur l’œil, un sang qui bat, une fumée du cerveau, une chose qu’on range et qu’on tait.
 
-Renna le regarda faire, et ce fut comme de se voir dans une eau.
+Chacun avait posé son nom sur ce qu’elle entendait comme on pose un couvercle sur une marmite dont on ne veut pas voir bouillir le fond. Pas deux de ces noms n’allaient ensemble. Aucun ne tenait sur ce qui arrivait contre sa figure à cette minute : quelque chose qui essayait une phrase, la manquait, recommençait plus bas, et qu’on entendait recommencer.
 
-« Ça ne marche pas, hein », dit-elle.
+Ils sauraient tous, eux. Dès que cela parlerait, chacun mettrait sur la phrase le nom qu’il avait apporté et redescendrait certain d’avoir entendu le sien. Elle, elle redescendrait avec dans l’oreille une chose entière et pas un mot à mettre dessus.
 
-L’homme releva la tête. Il était d’âge mûr, la barbe grise, vêtu proprement, de ces gens qui ne montent pas au Mont d’ordinaire, qui laissent cela aux fervents et aux fous, et qui étaient montés cette nuit-là parce que le Mont, pour la première fois, était descendu jusque dans leurs maisons du bas. Il avait les yeux rouges d’un homme qui n’a pas dormi et qui ne comprend pas ce qui lui arrive.
+Au matin il y aurait quatre récits de cette nuit, et peut-être dix, et chacun tiendrait debout tout seul. Le sien ne tiendrait pas. Une femme qui raconte qu’elle a entendu sans savoir quoi, on la range du côté des malades, et cela se fait tout seul, et personne n’a besoin d’y mettre de la méchanceté. Elle aurait été la plus près de toutes, et la seule dont on ne garderait rien. C’était le prix de l’entendre juste, et elle n’en avait jamais vu le montant entier avant cette nuit-là.
 
-« Je ne l’entendais pas, dit-il, et sa voix se brisa sur le pas. Vous m’entendez ? Toute ma vie, je ne l’ai pas entendu. Les gens qui l’entendaient, je les prenais pour des malades. Ma propre sœur, je l’ai fait mettre chez les sœurs pour ça. » Il pressa de nouveau ses mains contre ses oreilles, les retira, les regarda comme si elles l’avaient trahi. « Et depuis trois nuits, moi aussi. Ça monte. Je me bouche et ça passe à travers les mains. Ça passe à travers les mains, comprenez-vous ? Comment est-ce qu’une chose qu’on entend passe à travers les mains ? »
+\*
 
-Renna ne répondit pas tout de suite. Elle regardait ces mains inutiles, ces mains qu’elle avait eues, et elle éprouvait, à la place de la pitié qu’elle aurait crue, quelque chose de plus froid et de plus vaste, presque de la stupeur, à voir arriver aux autres, en trois nuits, ce qu’elle avait mis vingt-cinq ans à apprendre à porter.
+À sa gauche, quelqu’un parlait trop haut.
 
-« Ça ne passe pas à travers les mains, dit-elle enfin. Ça n’entre pas par les oreilles. On croit ça parce qu’on croit que c’est un bruit. Ce n’est pas un bruit. Un bruit, on le couvre. Ça, non.
+Elle l’entendit avant de le voir, et elle l’entendit comme elle avait entendu les gens toute une enfance, sans les mots : quelqu’un, à deux pas, demandait quelque chose et n’obtenait rien. La voix montait, s’arrêtait, repartait plus bas, du mouvement des gens qui parlent pour couvrir autre chose.
 
-— Alors comment est-ce qu’on l’arrête ?
+Un homme s’était laissé tomber à genoux dans la cendre, le front presque au sol, et se parlait à lui-même sans s’entendre. Il était d’âge mûr, la barbe grise, vêtu proprement, de ces gens du bas qui ne montent pas au Mont d’ordinaire et qui étaient montés cette nuit-là parce que le Mont était descendu jusque dans leurs maisons.
 
-— On ne l’arrête pas.
+« Ça ne marche pas », dit Renna.
 
-— Il faut bien qu’on l’arrête ! » Il avait presque crié, et deux ou trois fervents, autour, tournèrent vers lui des visages absents, puis se retournèrent vers la fente, car rien, cette nuit, ne comptait plus que la fente. « Il faut qu’on l’arrête, ou qu’on parte, ou qu’on le fasse taire. On ne peut pas vivre avec ça dans la tête. Vous êtes de Cendara, vous avez l’air d’y être habituée, dites-moi comment on fait pour vivre avec.
+L’homme releva la tête. Il avait les yeux rouges de qui n’a pas dormi et ne comprend pas ce qui lui arrive.
 
-— On ne se bouche plus les oreilles, dit Renna. C’est tout ce que j’ai trouvé. On arrête de se battre contre. On écoute. »
+« Vous m’entendez ? » Sa voix se brisa sur le mot. « Moi, je ne l’entendais pas. Jamais. Les gens qui l’entendaient, je les prenais pour des malades. Ma propre sœur, je l’ai fait mettre chez les sœurs pour ça, et j’ai payé sa pension douze ans. » Il reprit son souffle. « Et depuis trois nuits, moi aussi. Je me bouche les oreilles et ça monte par les dents. Par les genoux. Comment est-ce qu’une chose qu’on entend arrive par les genoux ? »
 
-L’homme la regarda comme si elle lui avait conseillé de sauter dans la fente.
+Renna regarda cet homme qui venait d’apprendre en trois nuits ce qu’elle avait mis vingt-cinq ans à savoir porter, et ce qu’elle éprouva fut plus froid et plus large que de la pitié.
 
-« Écouter, répéta-t-il. Vous voulez que j’écoute ça. »
+« Ça n’arrive pas par les oreilles, dit-elle. On croit que c’est un bruit, alors on se bouche, et ça ne donne rien. Un bruit, ça se couvre. Vous n’aurez pas de repos de ce côté-là.
 
-« Vous vous êtes bouché les oreilles toute votre vie contre une chose que vous n’entendiez même pas, dit-elle, et elle s’entendit parler avec une douceur qu’elle ne se connaissait pas, la douceur qu’on a pour soi-même quand on se rencontre chez un autre, plus jeune, en retard de tout un chemin. Vous avez fait enfermer votre sœur pour ne pas avoir à entendre ce qu’elle entendait. Et maintenant vous l’entendez, et vous vous bouchez encore, et ça ne sert à rien, parce que ça n’a jamais servi à rien, ni pour elle ni pour moi ni pour vous. Le temps de se boucher les oreilles est passé. Il est passé pour tout le monde, cette nuit. Alors vous pouvez rester là, les mains sur la tête, à user vos bras contre une chose qui n’entre pas par les mains. Ou vous pouvez faire la seule chose qui reste. »
+— Alors comment est-ce qu’on l’arrête ?
 
-Et elle détourna les yeux de lui, vers la fente, vers l’enfant.
+— On ne l’arrête pas.
 
-« Moi, je vais l’écouter. »
+— Il faut bien qu’on l’arrête ! » Il avait presque crié, et deux ou trois fervents tournèrent vers lui des visages absents, puis se retournèrent vers la fente, car rien, cette nuit, ne comptait plus que la fente. « Il faut l’arrêter, ou partir, ou le faire taire. On ne peut pas vivre avec ça dans la tête. Vous êtes du pays, vous avez l’air d’y être faite. Dites-moi comment on vit avec.
 
-Elle ne sut pas ce qu’il fit ensuite, s’il ôta ses mains ou les garda, s’il resta ou s’en alla. La venue montait, et elle ne pouvait plus se partager. Mais quelque part, dans un pli d’elle-même, elle garda la vision de cet homme et de ses mains inutiles, et elle sut qu’il y en avait, cette nuit, sur toute la face du Mont et bien au-delà, dans les vallées, dans les villes du bas, sur les continents dont elle ignorait jusqu’au nom, des milliers et des milliers à faire le même geste vain, à presser des paumes contre des tempes, à pousser des cuves contre des portes, à croire encore qu’on peut ne pas entendre. Toute sa vie, elle avait été seule à ne pas pouvoir se boucher les oreilles. Cette nuit, c’était le monde entier qui ne le pouvait plus, et elle, la première parmi tous, la seule à le savoir déjà depuis longtemps, était en un sens la moins démunie de tous les vivants.
+— On cesse de se battre contre, dit Renna. On écoute. C’est tout ce que j’ai trouvé en vingt-cinq ans, et je n’ai pas autre chose à vous donner. »
+
+L’homme la regarda comme si elle lui conseillait de sauter dans la fente.
+
+« Écouter. Vous voulez que j’écoute ça.
+
+— Oui.
+
+— Et qu’est-ce qui me dit que vous dites vrai ? »
+
+Voilà où cela s’arrêtait toujours, et elle n’avait rien à mettre au bout.
+
+« Rien, dit-elle. Personne ne vous le montrera. Il n’y a pas de morceau à vous poser dans la main, il ne s’en est jamais trouvé, et j’ai passé une enfance entière à m’entendre dire que j’inventais sans pouvoir prouver le contraire à qui que ce soit. Vous me croyez ou vous ne me croyez pas. Ça se décide tout seul, et ça se décide maintenant. »
+
+L’homme regarda la fente un long moment.
+
+« Ma sœur disait que ça venait d’en dessous, dit-il enfin. Elle disait qu’un jour tout le monde l’entendrait et qu’on serait bien avancés. Elle est morte là-bas il y a quatre ans, et je payais toujours. » Il avala sa salive. « Elle avait raison.
+
+— Vous le saviez, dit Renna.
+
+— Non. Je l’ai su il y a trois nuits.
+
+— Vous le saviez avant. » Elle s’entendit parler avec une douceur qu’elle ne se connaissait pas, celle qu’on a pour soi-même quand on se rencontre chez un autre, plus vieux et en retard de tout un chemin. « On ne fait pas enfermer quelqu’un dont on croit qu’il déraisonne. On appelle le rebouteux, on paie une tisane, on attend l’hiver. Vous l’avez fait enfermer, et vous avez payé douze ans pour n’avoir pas à vérifier. C’est une dépense qu’on ne fait que pour ce qu’on craint d’avoir à croire. »
+
+Il baissa les yeux sur ses genoux. Quand il reparla, sa voix avait changé de pente.
+
+« Et si je vous crois. Qu’est-ce que je fais.
+
+— Rien, dit Renna. C’est tout le métier. Vous ne vous bouchez plus. Vous laissez la chose venir jusqu’à vous et vous ne posez rien dessus : pas de nom, pas de remède, pas de raison. Ça coûte, les premières nuits. Ensuite ça coûte encore et on tient.
+
+— C’est tout ?
+
+— C’est tout ce que j’ai. Il m’a fallu une vie pour l’avoir et ça se dit en quatre phrases. C’est le plus dur à supporter. »
+
+Elle se détourna, parce que l’enfant avait bougé contre elle et que la chaleur avait changé de poids. Elle ne sut jamais ce que l’homme fit ensuite, s’il l’avait crue, s’il resta ou redescendit. Elle avait donné son métier à un inconnu au bord d’un trou, et voilà tout ce qu’elle en aurait.
+
+Il y en avait des milliers, cette nuit, sur la face du Mont et bien au-delà, dans les vallées, dans les villes du bas, sur des continents dont elle ignorait jusqu’au nom, à presser des paumes contre des tempes, à pousser des cuves contre des portes qui n’avaient jamais rien arrêté, à croire encore qu’on peut ne pas entendre. Elle n’eut pas besoin de les voir. Elle avait été seule à ne pas pouvoir se boucher les oreilles ; cette nuit-là le monde entier ne le pouvait plus, et de tous les vivants elle était celle qui en avait le plus d’habitude.
 
 \*
 
@@ -106,52 +134,60 @@ Elle ne sut pas ce qu’il fit ensuite, s’il ôta ses mains ou les garda, s’
 
 Renna se retourna vers la fente.
 
-Et cela venait, en effet, non plus au loin, non plus derrière une épaisseur, mais tout contre, à une paroi, à un souffle, comme la personne derrière la porte qui a posé la main sur le loquet. Le long ronflement grave, dessous, s’était fait si serré qu’il n’y avait presque plus d’entre-deux, un-et-deux, un-et-deux, si vite que les deux coups se touchaient presque, deux battements pour un seul cœur affolé, et sur ce fond qui n’attendait plus, la venue montait d’un dernier élan, ramassée, tremblante, portant en elle ce point, ce dedans, ce quelque chose d’où elle partait et qui, à monter, semblait pour la première fois se savoir monter.
+La suie ne tombait plus droit. Au ras de la margelle elle prenait une pente, glissait vers le bord et s’en allait dans la chaleur par petites coulées, et la cendre où Renna avait les genoux se retirait sous elle d’un demi-pouce à chaque souffle, comme se retire le sable sous un pied quand la vague repart. Elle enfonça les mains dedans pour ne pas suivre.
 
-Renna reçut le premier mot sans le comprendre. Un geste dit du dedans du geste, une venue. Puis un deuxième s’y accrocha, tint, ne tomba pas. Puis un troisième se leva derrière, chercha sa place, et — elle le sentit avec un frisson qui lui prit la nuque et courut le long de l’échine — quelque part dans ce troisième, ou tout au bout, il y avait elle. Non pas son nom. Pas un mot qui aurait été Renna. Quelque chose de plus terrible qu’un nom, parce qu’un nom, on peut n’être pas celui qu’on appelle, et cela, non. Cela la désignait comme le doigt tendu désigne, sans nommer, sans se tromper, celui vers qui il pointe. La venue venait vers quelqu’un. Et de tous les remous d’oreilles tournées cette nuit vers le bas, c’était le sien qu’elle avait trouvé, ou qui s’était levé, elle ne saurait jamais lequel, pour se tenir au bout du geste et le recevoir.
+Depuis la fin du battement, trois mots se tenaient là-dessous sans retomber. Le quatrième manquait, celui qui aurait dit ce que la venue était montée faire, et il ne venait pas. Quant au troisième, il la désignait, elle ; elle l’avait senti se poser une heure plus tôt, et elle avait cessé de discuter là-dessus.
 
-Nul n’entend cela et pense un autre.
+Un vieux réflexe voulut la faire reculer, remettre entre elle et ce qui montait toute l’épaisseur qu’elle pourrait trouver. Elle ne recula pas. Elle se tint, à genoux dans la cendre chaude, la main de l’enfant nouée à la sienne, et laissa la chose arriver contre elle, et ce fut le contraire exact de ce qu’elle avait fait de ses journées et de ses nuits depuis l’enfance, et cela ne la brisa pas.
 
-Un vieux réflexe de vingt-cinq ans la voulut faire reculer, se protéger, remettre entre elle et la venue toute l’épaisseur du Mont ; et elle ne recula pas. Elle se tint. À genoux dans la cendre chaude, la main de l’enfant nouée à la sienne, elle se tint au bout de ce vers-quoi qui la cherchait, et le laissa arriver contre elle, et ce fut le contraire exact de tout ce qu’elle avait fait de sa vie, et cela ne la brisa pas. Vingt-cinq ans, elle avait cru que le jour où elle cesserait de lutter, ce qui montait la prendrait et l’emporterait, l’aval du fleuve pour qui lâche la berge. Et voilà qu’elle avait lâché la berge, et que rien ne l’emportait. On la tenait, au contraire, dans le courant, doucement, comme on tient une chose qu’on a longtemps cherchée et qu’on ne veut plus laisser filer.
+Elle avait cru, tout ce temps, que le jour où elle cesserait de lutter, ce qui montait la prendrait et l’emporterait, comme l’aval prend celui qui lâche la berge. Elle avait lâché la berge quelques heures plus tôt, sur la roche nue, et rien ne l’emportait. On la tenait dans le courant, doucement, comme on tient une chose qu’on a longtemps cherchée et qu’on ne veut plus laisser filer.
 
-« Il t’appelle, souffla Ilex, et il pleurait, l’enfant qui ne pleurait jamais, deux traînées claires dans la suie de ses joues. Il t’appelle, toi. Et moi. Et je crois pas qu’il sait qui on est. Il appelle quand même. Il a trouvé personne d’autre qui écoute vraiment, alors il vient vers ceux qui écoutent. C’est nous. »
+« Ilex. Qu’est-ce qu’il dit ? »
 
-« Je sais, dit Renna, et sa voix, à elle aussi, tremblait. Je l’entends.
+L’enfant chercha, et elle sentit le petit corps chercher avec lui, tout entier.
 
-— Qu’est-ce qu’il dit ?
+« Je sais pas ce qu’il dit, dit-il enfin. J’entends qu’il le dit. »
 
-— Je ne sais pas ce qu’il dit. J’entends qu’il le dit. »
-
-Et c’était là toute la vérité de cette nuit, la seule qu’elle emporterait, celle qu’aucun des cultes agenouillés autour d’elle n’accepterait jamais parce qu’elle ne remplissait rien, ne consolait de rien, ne fondait aucune maison : elle entendait, mieux que quiconque au monde, une chose parler pour la première fois, et elle ne savait pas ce que c’était.
+Renna ferma la main sur le poignet fin. C’était sa phrase à elle, et c’était un enfant qui la lui rendait. Ils avaient tous les deux la même chose, exactement, et ils l’auraient jusqu’au bout. Aucun culte agenouillé autour d’eux n’en aurait voulu. Cela ne consolait de rien et ne fondait aucune maison : elle entendait, mieux que quiconque, une chose apprendre à parler, et rien ne lui disait quoi.
 
 \*
 
-La chaleur, au bord de la fente, s’était faite mur. Elle prenait la face, séchait les larmes avant qu’elles tombent, et pourtant ne brûlait pas, poussait dehors avec cette régularité douce et increvable d’une respiration trop grande pour un corps. Autour de la plaie chaude, les cultes ne se disputaient plus. C’était toujours vrai, et plus vrai encore qu’à l’instant de monter. Les femmes de cendre et les hommes de safran, les marcheurs des vents et les vieilles au huitième, ceux venus recenser et ceux venus hâter, tous agenouillés côte à côte dans la même suie, tous la face vers la même fente, tous la bouche entrouverte, tous attendant que la chose montât dire son nom, pour pouvoir enfin, chacun, jurer que c’était le sien.
+Les cultes avaient cessé de se répondre.
 
-Renna les regarda, une dernière fois, ces visages tournés vers le bas, luisants de chaleur, et elle comprit qu’ils avaient tous, à cette seconde, exactement ce qu’elle avait, elle, et une chose de plus qu’elle n’aurait pas. Ils avaient la venue dans l’oreille. Cela, elle l’avait comme eux, plus fort qu’eux. Mais ils avaient aussi, tout prêt, le nom qui les attendrait à la sortie, le mot qu’ils poseraient sur la phrase dès qu’elle serait dite, la maison où ils rentreraient dormir. Et elle, non. Elle avait renoncé à cela au bord de la roche, sans le décider, parce que le monde le lui avait retiré, et parce qu’on n’entend pas juste avec un couvercle déjà en main.
+Il y a deux façons pour une foule de se taire, et Renna les distinguait de loin depuis qu’elle savait marcher. Une foule qui prie fait un bruit de fond, un ronflement bas, mille bouches qui travaillent chacune pour soi et se couvrent l’une l’autre. Une foule qui écoute ne fait rien du tout, et ce rien-là s’entend : il a un bord net, il commence à la même seconde partout, et il tient. Le val tenait ce silence-là depuis un moment déjà, et il n’y avait plus, dans ce qu’elle recevait, une seule bouche d’homme.
 
-Leur nom, elle ne l’envia pas. Ce fut la mesure du chemin qu’elle avait fait cette nuit : elle n’envia pas leur nom. Peut-être même les plaignit-elle, tendrement, ces gens qui allaient entendre la même chose qu’elle et rentrer chacun avec un mensonge chaud à mettre dessus, et n’auraient jamais, comme elle allait l’avoir, la venue toute nue, sans dieu et sans néant, cette chose insupportable et propre : une voix, et pas de nom.
+Ils étaient tous là, serrés autour du trou, la bouche entrouverte, et le val entier tenait son souffle avec eux, des feux morts du bas jusqu’aux dernières tentes crevées. Renna les regarda une dernière fois, ces visages tournés vers le bas et luisants de chaleur, et elle vit qu’ils avaient ce qu’elle avait, et une chose de plus qu’elle n’aurait pas : le mot qu’ils poseraient sur la phrase dès qu’elle serait dite, et la maison où ils rentreraient dormir avec.
 
-L’homme au bâton n’était plus là, ni celui qui se bouchait les oreilles. Quelque part, sur un flanc, un remous d’ordre s’agitait encore, des manteaux sombres qui montaient trop tard, les bras écartés, criant des choses qu’on n’entendait pas, et que personne, cette nuit, ne pouvait plus refouler ni disperser ni vider ; venus pour fermer une bouche qui n’avait pas de porte, arrivés, comme toujours, arrivés après. Renna ne les craignait plus. On ne rabat pas le couvercle sur ce qui déborde de tous les côtés à la fois. L’enfant contre elle ne serait pas effacé cette nuit, non parce qu’elle l’avait mieux caché, mais parce qu’il n’y avait plus, dans tout le val, un seul recoin d’ombre où cacher quoi que ce fût : le dessous montait pour tous, et sa lumière grise, sa cendre tiède, tombaient également sur les fervents et sur ceux qui les niaient, sur celui qui voulait remplir l’enfant de son dieu et sur celui qui voulait le vider du sien.
+Leur nom, elle ne l’envia pas. Elle n’eut pas besoin de se forcer, et elle sut à cela où sa nuit l’avait menée.
+
+Sur un flanc, un remous d’ordre s’agitait encore, des manteaux sombres montés trop tard, les bras écartés, criant des choses que personne n’entendait. Ils étaient venus fermer une bouche qui n’avait pas de porte, et ils arrivaient après, comme ils arrivaient toujours après. Renna ne les craignait plus. L’enfant contre elle ne serait pas effacé cette nuit, et elle n’y était pour rien : il ne restait pas un recoin d’ombre dans ce val où cacher quoi que ce fût. Le dessous montait pour tout le monde. Sa lumière grise et sa cendre tiède tombaient également sur celui qui voulait remplir l’enfant de son dieu et sur celui qui voulait l’en vider.
 
 \*
 
 « Mets-toi contre moi, dit-elle à Ilex. Tout contre. Ne lâche pas mon poignet. Quoi qu’il dise, tu ne lâches pas.
 
-— Je lâche pas, dit l’enfant. Toi non plus. »
+— Je lâche pas, dit l’enfant. Toi non plus.
 
-« Moi non plus. »
+— Moi non plus. »
 
-Renna le prit contre elle, le petit corps tendu comme une corde qu’on a montée d’un cran et qui ne redescend plus, le petit cœur cognant en désordre à contretemps du grand cœur d’en bas, et elle tourna la face, avec lui, vers la fente, vers le gouffre tiède d’où l’haleine du Mont montait sans fin, vers l’endroit du monde d’où la chose qui n’avait jamais parlé montait dire, pour la première et pour toujours, sa première phrase entière.
+Elle le ramena contre elle et tourna la face, avec lui, vers le trou tiède. Le petit corps était brûlant et léger, et il ne tremblait pas.
 
-Sous elle, sous la margelle, sous toute l’épaisseur de roche où enfonçaient ses talons, elle sentit le dessous se ramasser tout entier, se rassembler comme une poitrine avant le cri, comme un pas suspendu au bord de la marche qu’il va poser. Trois mots tenaient, désormais, par la main, qui ne se lâchaient plus. Il en manquait un. Le dernier. Celui qui ferme la main sur ce qu’elle tient, celui qui dit pourquoi l’on vient, et Renna sentit la venue se pencher vers ce dernier mot comme on se penche au-dessus d’une eau dont on ne voit pas le fond, et hésiter là, tout au bord, à une paroi, à un souffle, à un rien.
+L’air, au ras du bord, avait l’odeur du soufre et de la pierre cuite, et par-dessous quelque chose de sucré qu’on n’attendait pas dans un endroit pareil. La lueur qui montait du gouffre n’avait pas de flamme dedans ; elle posait sur les nuques agenouillées un jour gris de fin d’après-midi. Il tombait de la suie tiède, toujours, dans les cheveux, dans le col, au creux du bras de l’enfant. Renna la laissa tomber.
 
-Elle sut qu’il allait tomber. Qu’il tomberait maintenant, ou dans l’instant après maintenant, que rien au monde ne l’empêcherait plus de tomber, ni les mains sur les oreilles, ni les cuves contre les portes, ni les manteaux de l’ordre montés trop tard, ni les noms tout prêts des cultes, ni sa propre peur de vingt-cinq ans. Le dernier mot allait venir, et avec lui la phrase entière, tenue tout entière, sans un creux, sans un manque, et ce serait le premier son plein d’une chose qui, depuis le fond du fond, cherchait à se dire, et qui l’avait choisie, elle, ou trouvée, ou rencontrée par hasard sur le chemin de sa venue, pour être là quand ça se dirait.
+Elle sut ce qu’elle allait recevoir et ce qu’elle n’aurait pas. Elle entendrait la phrase la première de tous les vivants ; l’ayant entendue, elle ne saurait pas ce qui l’avait dite. Elle en garderait le son jusqu’à sa mort et le porterait comme les vieilles au fichu noir portent le nom d’un disparu ; le sens, jamais. Il faudrait d’autres qu’elle, plus tard, ailleurs, penchés sur d’autres traces, pour aller chercher ce qu’elle, au ras de la pierre, ne pourrait que recevoir. Cela lui parut juste. Elle avait choisi d’entendre.
 
-Et voici ce qu’elle sut aussi, dans ce même souffle suspendu, et qui ne l’effraya pas comme elle l’aurait cru : qu’elle entendrait la phrase, la première parmi tous les vivants, la phrase entière que rien n’avait jamais entendue ; et qu’elle ne saurait pas, l’ayant entendue, ce qui l’avait dite. Que la phrase tomberait dans son oreille comme tombe une clef dans une main qui n’a pas la serrure. Elle en garderait le son toute sa vie, elle le savait, elle le porterait comme les vieilles au fichu noir portent le nom d’un mort, mais elle n’en aurait jamais le sens, jamais le nom, jamais le fond ; elle serait, à jamais, celle qui a entendu et qui ne sait pas, et il faudrait d’autres qu’elle, plus tard, ailleurs, penchés sur d’autres traces, pour aller chercher ce qu’elle, au plus près, à un souffle, à une paroi, ne pourrait jamais que recevoir sans le comprendre. Cela lui parut juste. On n’entend pas et on ne sait pas du même mouvement. Elle avait choisi d’entendre.
+Restait l’enfant. Ce qu’elle avait reçu à travers de la roche et de très loin, lui l’aurait eu à un souffle, et il avait six ans, et il vivrait plus longtemps qu’elle. Un jour, dans un pays qu’elle ne verrait pas, il en parlerait à quelqu’un qui n’était pas né cette nuit. Elle n’apprendrait jamais à qui il le dirait, ni si on le croirait, lui. C’était la seule part de cette nuit qui passerait le matin, et elle la tenait par le poignet.
 
-« Écoute, dit Ilex, la joue contre elle, tout bas, et ce fut le dernier mot qu’elle entendit d’une bouche d’enfant. On va être les premiers. Écoute-le. »
+Contre son cou, l’enfant dit quelque chose qu’elle n’entendit pas. Elle dut mettre l’oreille contre sa bouche et attendre qu’il recommençât, elle qui l’entendait respirer, depuis six ans, à travers une cloison.
 
-Renna serra le poignet fin dans sa main bleuie de teinture, et pencha la face vers ce qui remontait, et n’attendit rien, ne réclama rien, ne mit aucun couvercle et ne prépara aucun nom ; elle tendit seulement, au bord du monde, à l’instant où le monde allait basculer, l’oreille qu’elle avait passé toute sa vie à boucher, et qu’elle tenait maintenant grande ouverte sous ce qui montait, comme une écuelle sous la pluie, sans forcer la pluie, sans savoir ce qui tomberait dedans.
+« On se rappelle ? » dit Ilex.
 
-Et la chose qui n’avait jamais parlé prit son souffle pour la première phrase entière de son existence.
+C’était sa consigne à elle, celle des matins où elle descendait à Taldre : on n’en parle à personne, on ne rend rien, on se rappelle.
+
+« Non, dit-il sans attendre la réponse. Pas cette fois. Cette fois on écoute. »
+
+Ce fut la dernière chose qu’une bouche d’enfant lui dit.
+
+Renna serra le poignet dans sa main bleuie de teinture et tendit vers la fente l’oreille qu’on lui avait appris à boucher avant qu’elle sût parler. Elle la tint ouverte. Il n’y avait rien dedans que la chaleur.
+
+Sous ses genoux, la roche avait maigri jusqu’à l’épaisseur d’une peau de tambour, et elle s’était mise à sonner. Ce qui poussait dessous montait maintenant par elle, entier, et prenait sur elle l’appui du dernier pouce.
