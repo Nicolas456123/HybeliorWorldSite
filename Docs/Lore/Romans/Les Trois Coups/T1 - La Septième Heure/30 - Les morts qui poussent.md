@@ -73,13 +73,13 @@ Cela ne se commandait pas. Il se taisait, il se rendait poreux, et ce qui restai
 
 Les morts anciens vinrent d’abord, comme toujours. Ceux du flanc, les usés du temps, à peine encore quelque chose, une buée si mince qu’un lecteur moins exercé n’aurait rien senti du tout. Ceux-là ne le retinrent pas.
 
-Ce qu’il cherchait était plus haut, et plus dense. Sera l’avait nommé pour lui, un soir, dans sa langue à elle : *le Premier Ancrage, l’endroit où la Trame est la plus serrée, où le fil de tout se noue au plus court.* Iveth n’avait pas ces mots-là. Rien que ses mains froides, et ce qu’elles touchaient. Et ce qu’elles touchèrent, à mesure que son écoute grimpait la pente que ses jambes ne grimperaient plus, ce ne fut ni une trame, ni un fil, ni un nœud.
+Ce qu’il cherchait était plus haut, et plus dense. Sera l’avait nommé pour lui, un soir, dans sa langue à elle : *le Premier Ancrage, l’endroit où la Trame est la plus serrée, où le fil de tout se noue au plus court.* Iveth travaillait avec moins : des mains froides, et ce qu’elles touchaient. Et ce qu’elles touchèrent, à mesure que son écoute grimpait la pente que ses jambes ne grimperaient plus, avait du nombre.
 
 Ce fut une foule.
 
 Son souffle s’arrêta. Depuis vingt ans il cherchait comment dire la chose, et le seul mot qu’il eût trouvé était *pression*, et le mot était pauvre. Ici, sur ce flanc, dans cet air trop mince pour ses poumons, le mot devint exact. Tous les morts mal partis du monde, tous ceux qui depuis des générations refluaient vers un seuil devenu trop petit pour eux, semblaient avoir été aspirés en ce point, au-dessus de lui, et s’y pressaient, épaule contre épaule, dans une gêne qui touchait à la douleur.
 
-Ils poussaient. Le mot lui vint, et il sut aussitôt qu’il le redirait aux autres, parce qu’il était juste. Ni coups ni supplications : une poussée, le poids muet et patient d’une foule contre une porte qui ne s’ouvrait plus assez. La porte tenait encore. Elle ployait sous eux, comme une planche sous trop de mains.
+Ils poussaient. Le mot lui vint, et il sut aussitôt qu’il le redirait aux autres, parce qu’il était juste. Une poussée, le poids muet et patient d’une foule contre une porte qui ne s’ouvrait plus assez. La porte tenait encore. Elle ployait sous eux, comme une planche sous trop de mains.
 
 Longtemps il resta ainsi, poreux, la nuque contre la pierre, à laisser la foule monter en lui et le remplir de sa gêne. Et à la fin, quand l’écoute fut pleine à déborder, il chercha ce qu’il cherchait depuis quarante ans et n’avait jamais trouvé. *Pourquoi.* Pourquoi le seuil s’était rétréci. Depuis quand vraiment. Par la faute de qui, ou de quoi, ou de rien.
 
@@ -107,7 +107,7 @@ Un moment il la regarda. Ce rouleau qu’elle portait contre sa hanche comme d�
 
 « Le fil est là-haut », dit-il, et sa voix baissait comme l’huile ; elle dut se pencher pour l’entendre. « Plus tendu qu’aucun fil que j’aie touché de ma vie. Il porte deux cents ans de morts qui ne passent plus. Tout ce poids. » Les yeux fermés, il laissa revenir la corniche, la foule, la poussée. « Ils poussent, Sera. Là-haut. De tout leur nombre. Et le fil ploie sous eux. Une main sûre, un seul geste au bon point, et il cède. »
 
-Les yeux fermés eux aussi, elle écouta longtemps. Aucun soulagement ne passa sur son visage. Rien qui ressemblât à de la joie, rien qu’une gravité qui se creusait davantage à mesure qu’elle écoutait.
+Les yeux fermés eux aussi, elle écouta longtemps. Aucun soulagement ne passa sur son visage ; il s’assombrissait à mesure qu’elle écoutait.
 
 « Tu me dis que c’est faisable, dit-elle enfin, sans rouvrir les yeux.
 
@@ -119,7 +119,7 @@ Il attendit d’avoir le souffle pour répondre.
 
 « Non. J’ai senti une porte qui ploie. Je n’ai dit à personne de pousser dessus.
 
-— Toi, non. » Ses yeux se rouvrirent sur ce sourire triste qu’elle avait quand elle était exacte contre elle-même. « Moi, si. Quinze ans, Iveth. Quinze ans que je pense ce geste sans savoir s’il peut seulement se faire. J’ai écrit le *pourquoi* jusqu’à en user mes yeux. Le *peut-on*, personne ne pouvait me le dire : le monde n’avait jamais coupé son propre fil. » Elle marqua un temps. « Tu viens de m’ôter la dernière raison de croire qu’il ne se peut pas. »
+— Toi, non. » Ses yeux se rouvrirent sur ce sourire triste qu’elle avait quand elle était exacte contre elle-même. « Moi, si. Quinze ans, Iveth. Quinze ans que je pense ce geste sans savoir s’il peut seulement se faire. J’ai écrit le *pourquoi* jusqu’à en user mes yeux. Le *peut-on*, personne ne pouvait me le dire : le monde n’avait jamais coupé son propre fil. » Elle attendit que sa voix revienne. « Tu viens de m’ôter la dernière raison de croire qu’il ne se peut pas. »
 
 Il la vit s’entendre, et s’arrêter.
 

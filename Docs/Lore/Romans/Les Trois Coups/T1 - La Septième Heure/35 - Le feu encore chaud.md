@@ -11,9 +11,9 @@ status: draft
 
 # Chapitre trente-deux — Le feu encore chaud
 
-Le sentier des hautes terres n’était pas un sentier. C’était une hésitation dans la caillasse, que les chèvres et les contrebandiers entretenaient à parts égales, et que personne d’honnête n’avait de raison de prendre.
+Le sentier des hautes terres était une hésitation dans la caillasse, que les chèvres et les contrebandiers entretenaient à parts égales, et que personne d’honnête n’avait de raison de prendre.
 
-Voilà pourquoi elle l’avait choisi. Verkan Sorne montait là-dedans depuis le port, dans le froid d’avant l’aube, et il connaissait maintenant la règle de cette femme : elle ne prenait pas la route qu’un innocent aurait prise, elle prenait celle qu’un innocent n’aurait eu aucune raison de prendre. Pas de registre, pas de témoin, pas de logeur à interroger. Depuis Pyrion, il remontait une piste faite de vides : une cour récurée jusqu’au grain, une nuit réécrite au matin dans un registre de gîte, un passeur qui avait oublié une traversée.
+Voilà pourquoi elle l’avait choisi. Verkan Sorne montait là-dedans depuis le port, dans le froid d’avant l’aube, et il connaissait maintenant la règle de cette femme : elle prenait la route qu’un innocent n’aurait eu aucune raison de prendre. Pas de registre, pas de témoin, pas de logeur à interroger. Depuis Pyrion, il remontait une piste faite de vides : une cour récurée jusqu’au grain, une nuit réécrite au matin dans un registre de gîte, un passeur qui avait oublié une traversée.
 
 Verkan arriverait trop tard. Cela aussi, il le savait, et il l’avait dit lui-même deux jours plus bas, au bureau du manifeste, à un préposé de quai qui n’avait pas su quoi répondre : *j’y arriverai quand le feu sera froid*. Sur ce point-là, il ne s’était jamais trompé de sa vie.
 
@@ -37,7 +37,7 @@ Cette fois, le berger s’arrêta. Ses yeux passèrent sur le visage de Verkan, 
 
 « C’est une bonne façon de vivre vieux. » Verkan hocha la tête, sans menace, sans rien. « Gardez-la. Bonne garde, l’ancien. »
 
-Il le laissa à ses bêtes, avec ce qu’il était venu prendre : pas un nom, le vieux n’en avait pas, une heure. *Du feu cette nuit.* Le berger n’avait rien inventé : il avait dit ce qu’il avait vu, et s’était tu. Restait à savoir si le feu était encore quelque chose.
+Il le laissa à ses bêtes, avec ce qu’il était venu prendre : une heure. *Du feu cette nuit.* Le berger avait dit ce qu’il avait vu, et s’était tu. Restait à savoir si le feu était encore quelque chose.
 
 L’odeur le prit au tournant, avant qu’il eût rien vu. De la fumée éteinte, ce charbon froid qui serre la gorge plus qu’il ne pique, et dessous, ténue, quelque chose de vivant. Verkan s’immobilisa. Il ne courut pas. Du bord du chemin, il regarda longuement le creux, parce qu’il y avait des semaines qu’il marchait vers ce lieu et qu’il n’y entrerait qu’une fois.
 
@@ -47,23 +47,23 @@ Il descendit avec la lenteur d’un homme qui entre chez un mort.
 
 ---
 
-Cinq foyers. Non : un foyer, et quatre couches autour. Cela faisait cinq places, et il les compta.
+Un foyer, et quatre couches autour. Cela faisait cinq places, et il les compta.
 
 Les empreintes dans la cendre grasse. Les creux tassés dans l’herbe, où des corps avaient dormi ou veillé. Les pierres qu’on avait roulées pour s’asseoir et remises ensuite où elles étaient, ou presque : à trois doigts près, à une largeur de paume. Un deuxième tour, puis un troisième, et il compta chaque fois. Les comptes qu’on fait en arrivant, il s’en méfiait.
 
 « Cinq », dit-il à voix basse, pour l’entendre.
 
-Le chiffre ne collait pas à ce qu’il attendait. Il se reprit, non pour le changer, mais pour lui poser sa question.
+Le chiffre ne collait pas à ce qu’il attendait. Il le garda tel quel, et lui posa sa question.
 
 « Cinq. Pas huit. »
 
-Car il en attendait huit. Ce huit ne venait d’aucun registre et d’aucun aveu : il l’avait fait lui-même, à Pyrion, dans la marge d’un rapport qu’il aurait dû brûler sans le lire. Huit silences ouverts la même saison, à travers les Dominats et au-delà. Huit correspondances interrompues, huit agents ou lecteurs qu’on avait cessé d’entendre, et qui, mis bout à bout, dessinaient une figure. Le chiffre ne valait que comme hypothèse, avec le devoir de la défaire si les faits la démentaient. Et sous ses doigts, dans la cendre, les faits disaient cinq.
+Car il en attendait huit. Ce huit, il l’avait fait lui-même, à Pyrion, dans la marge d’un rapport qu’il aurait dû brûler sans le lire. Huit silences ouverts la même saison, à travers les Dominats et au-delà. Huit correspondances interrompues, huit agents ou lecteurs qu’on avait cessé d’entendre, et qui, mis bout à bout, dessinaient une figure. Le chiffre ne valait que comme hypothèse, avec le devoir de la défaire si les faits la démentaient. Et sous ses doigts, dans la cendre, les faits disaient cinq.
 
-Verkan s’accroupit et posa la paume à plat au centre du foyer.
+Verkan s’accroupit et coucha la main au centre du foyer.
 
 Tiède.
 
-Pas chaud. Aucune braise vive sous la cendre grise, pas ce cœur rouge qu’un feu de la nuit même aurait gardé. Rien que cette tiédeur basse des foyers de montagne, qui couvent sous leur propre suaire là où le vent d’altitude n’atteint pas les charbons du fond, et qui tiennent ainsi bien plus longtemps qu’on ne croit. Il le savait. La secousse le prit quand même, et l’espace d’un souffle il pensa : *ils étaient là. Il y a quelques heures à peine. Je les ai manqués de quelques heures.*
+Pas chaud. Aucune braise vive sous la cendre grise, pas ce cœur rouge qu’un feu de la nuit même aurait gardé. Cette tiédeur basse était celle des foyers de montagne, qui couvent sous leur propre suaire là où le vent d’altitude n’atteint pas les charbons du fond, et qui tiennent ainsi bien plus longtemps qu’on ne croit. Il le savait. La secousse le prit quand même, et l’espace d’un souffle il pensa : *ils étaient là. Il y a quelques heures à peine. Je les ai manqués de quelques heures.*
 
 Il retira sa main et l’essuya contre sa cuisse. La tiédeur ne datait rien. Elle disait seulement qu’on avait fait du feu ici et qu’on l’avait laissé mourir seul, sans le noyer ni l’étouffer. On piétine un feu qu’on quitte en courant. On laisse mourir un feu qu’on quitte selon un plan.
 
@@ -71,9 +71,9 @@ Il retira sa main et l’essuya contre sa cuisse. La tiédeur ne datait rien. El
 
 ---
 
-Le jour pâlissait à l’orient, du côté qui n’était pas la montagne. Le givre avait pris pendant la nuit sur l’herbe rase du repli et fondait maintenant par plaques ; le creux sentait la terre mouillée et la fumée froide. Quelque part au-dessus de la crête, une alouette monta droit en chantant, puis redescendit sans se poser. Le souffle de Verkan fumait devant lui. Il faisait bon, à cet endroit-là, pour la première fois depuis deux nuits.
+Le jour pâlissait à l’orient, loin de la montagne. Le givre avait pris pendant la nuit sur l’herbe rase du repli et fondait maintenant par plaques ; le creux sentait la terre mouillée et la fumée froide. Quelque part au-dessus de la crête, une alouette monta droit en chantant, puis redescendit sans se poser. Le souffle de Verkan fumait devant lui. Il faisait bon, à cet endroit-là, après deux nuits de froid.
 
-Car il y avait une montagne. Du fond du creux on ne la voyait pas, mais Verkan la savait au sud, et toutes les absences qu’il lisait depuis Pyrion se rangeaient vers elle comme la limaille vers l’aimant. Un point unique, au sud, où l’on déplaçait des gens sans qu’ils se croisent. Ce qu’il y avait au bout, il l’ignorait, et il commençait à se douter qu’il ne l’apprendrait jamais. Le contenu lui échappait. La forme, non : quelqu’un tirait des fils épars vers un seul nœud, et le faisait avec un art qui lui arrachait, à lui, l’inquisiteur, un respect voisin de la tendresse.
+Car il y avait une montagne. Du fond du creux on ne la voyait pas, mais Verkan la savait au sud, et toutes les absences qu’il lisait depuis Pyrion se rangeaient vers elle comme la limaille vers l’aimant. Un point unique, au sud, où l’on déplaçait des gens sans qu’ils se croisent. Ce qu’il y avait au bout, il l’ignorait, et il commençait à se douter qu’il ne l’apprendrait jamais. Le contenu lui échappait ; la forme, il la tenait : quelqu’un tirait des fils épars vers un seul nœud, et le faisait avec un art qui lui arrachait, à lui, l’inquisiteur, un respect voisin de la tendresse.
 
 Cette fois il ne le dit pas tout haut. Il l’avait dit une fois, quelques semaines plus tôt, à une chambre vide, et une fois suffisait.
 
@@ -87,7 +87,7 @@ La pensée n’était pas neuve. Elle l’accompagnait depuis le quai de Sulvane
 
 Il resta un moment sans bouger, accroupi près du foyer mort, à laisser le lieu lui dire ce qu’il pouvait encore.
 
-Quatre couches, une veille. Un des creux ne portait pas la marque tassée d’un corps couché, mais celle, plus étroite et plus légère, d’un homme resté assis toute la nuit sur une pierre. L’usure du sol devant lui donnait la direction : il était tourné vers le sud. Vers la montagne qu’on ne voyait pas.
+Quatre couches, une veille. Un des creux portait une marque plus étroite et plus légère que les autres, celle d’un homme resté assis toute la nuit sur une pierre. L’usure du sol devant lui donnait la direction : il était tourné vers le sud. Vers la montagne qu’on ne voyait pas.
 
 Verkan considéra cette place-là longtemps. De l’homme qui l’avait tenue, il ne saurait rien : ni le nom, ni le visage, ni pourquoi on veille assis une nuit entière face à une chose qu’on ne distingue même pas dans le noir. Il sut seulement qu’il reconnaissait quelque chose dans cette veille immobile, sans pouvoir le nommer, et que ce n’était pas de la peur, et pas non plus le contraire.
 
@@ -103,11 +103,11 @@ Ce rapport, il l’avait brûlé, et il savait maintenant qu’il ne l’avait p
 
 « Non », dit-il, et le mot sonna nu dans le creux. « Parce qu’il était juste. »
 
-C’était la première fois qu’il le formulait, et l’avoir formulé lui fit une chose qu’il n’attendait pas : non pas un doute sur eux, celui-là ne l’avait jamais quitté, il en vivait ; un doute sur lui.
+Il ne l’avait jamais dit jusque-là, même à lui-même, et l’avoir dit lui fit une chose qu’il n’attendait pas : le doute changea de bord. Celui qui portait sur eux ne l’avait jamais quitté, il en vivait. Celui-ci portait sur lui.
 
-Toute sa vie il avait servi une digue. Jeune officier, il avait tenu un quartier de Pyrion pendant les trois jours où le Lien y avait lâché, coupé net par un sabotage, plus personne pour tenir la résonance. De cette semaine-là, il gardait une image et une seule : une femme assise sur les marches d’une maison de guérisseurs, son fils en travers des genoux, qui attendait qu’on ouvre. On n’avait pas ouvert. Derrière la porte il y avait un homme qui, du soir au matin, ne savait plus rien faire. Sur cette image, Verkan avait bâti une conviction entière, propre, défendable, qui tenait debout depuis trente ans : retirer le Lien au monde, c’était condamner pour une thèse des millions de gens d’en bas qui n’avaient rien demandé. Il le pensait encore ce matin-là. Mais une question se tourna vers lui pour la première fois, une question qu’il posait aux suspects depuis vingt ans et que personne ne lui avait jamais posée : *et si tu te trompais de camp ?*
+Il avait servi une digue toute sa vie. Jeune officier, il avait tenu un quartier de Pyrion pendant les trois jours où le Lien y avait lâché, coupé net par un sabotage, plus personne pour tenir la résonance. De cette semaine-là, il gardait une image et une seule : une femme assise sur les marches d’une maison de guérisseurs, son fils en travers des genoux, qui attendait qu’on ouvre. On n’avait pas ouvert. Derrière la porte il y avait un homme qui, du soir au matin, ne savait plus rien faire. Sur cette image, Verkan avait bâti une conviction entière, propre, défendable, qui tenait debout depuis trente ans : retirer le Lien au monde, c’était condamner pour une thèse des millions de gens d’en bas qui n’avaient rien demandé. Il le pensait encore ce matin-là. Mais une question se tourna vers lui pour la première fois, une question qu’il posait aux suspects depuis vingt ans et que personne ne lui avait jamais posée : *et si tu te trompais de camp ?*
 
-Pas sur les morts. Sur les morts, il ne se trompait pas : le chaos tuerait, il en aurait juré sur sa fille. Sur ce qu’il servait, peut-être. Peut-être n’y avait-il, dans toute cette affaire, personne à qui donner raison. Une vérité sans bord aimable, dont ils tiraient un fil et lui l’autre, tous persuadés de protéger les mêmes gens d’en bas, par des gestes exactement contraires.
+Sur les morts, il ne se trompait pas : le chaos tuerait, il en aurait juré sur sa fille. Sur ce qu’il servait, peut-être. Peut-être n’y avait-il, dans toute cette affaire, personne à qui donner raison. Une vérité sans bord aimable, dont ils tiraient un fil et lui l’autre, tous persuadés de protéger les mêmes gens d’en bas, par des gestes exactement contraires.
 
 Sa fille lui vint à l’esprit sans qu’il l’eût voulu. Puis il pensa qu’ils devaient penser à quelqu’un, eux aussi, ces cinq-là, ou ces huit ; que chacun gardait un visage au fond d’une poche comme lui gardait le sien, cette petite qu’un Dominat vénérant le Lien appelait Vide, et qu’il servait pourtant, ce Dominat, jour après jour, parce qu’il croyait le désordre plus meurtrier que le mépris. Ils aimaient quelqu’un. Ils avaient peur. Ils agissaient sur une vérité qui les terrifiait, comme lui. C’était la pensée la plus dangereuse qu’il eût laissée entrer depuis Pyrion, parce qu’elle ne faisait pas d’eux des monstres. Rien ne l’empêchait de continuer à les poursuivre. Il ne pouvait plus les mépriser.
 

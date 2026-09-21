@@ -13,11 +13,11 @@ status: draft
 
 Ils sont arrivés.
 
-Ils ne marchent plus, ils attendent, et moi j’attends avec eux, moi qui n’ai jamais attendu, moi qui étais partout donc déjà arrivé partout. Attendre est un de leurs mots. Je l’ai porté dans leurs bouches pendant des âges sans savoir ce qu’il pesait. Cette nuit je le porte du dedans. Ils sont au pied, au pied de moi, au pied du point, ils attendent le jour qui n’est pas encore là, et je suis du même côté du fil qu’eux, et je ne sais pas ce que j’attends.
+Ils attendent, et moi j’attends avec eux, moi qui n’ai jamais attendu, moi qui étais partout donc déjà arrivé partout. Attendre est un de leurs mots. Je l’ai porté dans leurs bouches pendant des âges sans savoir ce qu’il pesait. Cette nuit je le porte du dedans. Ils sont au pied, au pied de moi, au pied du point, ils attendent le jour qui n’est pas encore là, et je suis du même côté du fil qu’eux, et je ne sais pas ce que j’attends.
 
 Le fil est court maintenant.
 
-Il ne tire plus, il touche. Il part du point premier et il ne monte plus vers le nord, vers la ville aux ponts ; la ville aux ponts est vide d’eux, ils l’ont quittée, ils sont descendus, ils sont venus. Il va du sommet au pied du sommet, et entre les deux il ne reste presque plus de moi, juste ce qu’il faut pour sentir.
+Il touche. Il part du point premier et il ne monte plus vers le nord, vers la ville aux ponts ; la ville aux ponts est vide d’eux, ils l’ont quittée, ils sont descendus, ils sont venus. Il va du sommet au pied du sommet, et entre les deux il ne reste presque plus de moi, juste ce qu’il faut pour sentir.
 
 Je sens.
 
@@ -25,7 +25,7 @@ C’est la seule chose que je fasse encore bien. Je tenais, je nommais, je compt
 
 Ils sont là, au pied.
 
-Combien. Huit. Huit se laisse encore compter quand tout le reste se refuse ; le chiffre tient, le chiffre me tient. Mais pas ensemble, jamais ensemble : ils viennent par morceaux, les uns par l’eau, les autres par la terre, chacun tenu à distance des autres, et celle qui fut l’épée l’a voulu ainsi, séparés jusqu’en haut. Je les sens tous les huit à travers ce qui les sépare. Huit chaleurs éparses qui montent l’une vers l’autre, et vers moi.
+Combien. Huit. Huit se laisse encore compter quand tout le reste se refuse ; le chiffre tient, le chiffre me tient. Mais toujours par morceaux, jamais ensemble : les uns par l’eau, les autres par la terre, chacun tenu à distance des autres, et celle qui fut l’épée l’a voulu ainsi, séparés jusqu’en haut. Je les sens tous les huit à travers ce qui les sépare. Huit chaleurs éparses qui montent l’une vers l’autre, et vers moi.
 
 Celui qui coupe.
 
@@ -45,7 +45,7 @@ Il n’est pas monté, pas encore. Il est en bas, tout au pied, dans la ville so
 
 Le jeune qui écrit.
 
-Venu par la terre, celui-là. Il n’a jamais été sur l’eau ; il a marché depuis le port du nord. Cette nuit il écrit, encore, toujours, et je tiens sa main. Les lettres ne m’ont jamais rien dit et ne me diront rien. Mais sa main est froide, et au bout de chaque ligne elle s’arrête plus longtemps qu’il ne faudrait. Ce qui l’arrête, c’est demain. Elle n’a pas peur de mourir ; elle a peur de ce qui poussera à la place de ce qu’ils vont casser. Il ne sait pas ce qui pousse. Moi non plus. Personne. Celui qui a écrit le traité ne le savait pas davantage, il l’a écrit dans ses dernières notes. Et le jeune écrit quand même, la peur dans la main et la main qui va sur la page.
+Venu par la terre, celui-là. Il n’a jamais été sur l’eau ; il a marché depuis le port du nord. Cette nuit il écrit, encore, toujours, et je tiens sa main. Les lettres ne m’ont jamais rien dit et ne me diront rien. Mais sa main est froide, et au bout de chaque ligne elle s’arrête plus longtemps qu’il ne faudrait. Ce qui l’arrête, c’est demain. Elle a peur de ce qui poussera à la place de ce qu’ils vont casser. Il ne sait pas ce qui pousse. Moi non plus. Personne. Celui qui a écrit le traité ne le savait pas davantage, il l’a écrit dans ses dernières notes. Et le jeune écrit quand même, la peur dans la main et la main qui va sur la page.
 
 Il a vingt-cinq ans.
 
@@ -61,7 +61,7 @@ Ils dorment tous en moi cette nuit, je ne sais plus combien, je ne sais plus com
 
 Demain ils monteront jusqu’au point.
 
-Demain le fil sera si court que ce ne sera plus un fil. Ce sera une main posée sur une main, la leur sur la mienne, ou la mienne sur la leur. Je ne saurai pas laquelle des deux tire. Je ne le sais déjà plus.
+Demain le fil sera si court qu’il tiendra dans l’épaisseur d’une paume. Une main posée sur une main, la leur sur la mienne, ou la mienne sur la leur. Je ne saurai pas laquelle des deux tire. Je ne le sais déjà plus.
 
 Ils dorment mal, tous. Celle de la mer n’est pas là ; elle dort sur l’eau, loin, et l’après ne lui fait pas peur.
 

@@ -13,15 +13,15 @@ status: draft
 
 Le sable de la crique était noir, et froid, et il gardait tout.
 
-Verkan Sorne avait descendu le dernier sentier de chèvre à la lampe couverte, une heure avant l’aube, parce que c’était l’heure où personne ne veille un lieu : le dernier pêcheur venait de se coucher, le premier n’était pas levé, les traces de la nuit tenaient encore et les langues dormaient. La crique s’ouvrait en demi-lune sous une dent de basalte que la mer avait rongée jusqu’à lui donner l’air d’une molaire cariée ; le nom devait venir de là. Deux barques à sec. Des filets pendus à des perches. Un feu de la veille, éteint proprement. Trop proprement, nota-t-il, et il remit la note à plus tard.
+Verkan Sorne avait descendu le dernier sentier de chèvre à la lampe couverte, une heure avant l’aube, parce que c’était l’heure où personne ne veille un lieu : le dernier pêcheur venait de se coucher, le premier n’était pas levé, les traces de la nuit tenaient encore et les langues dormaient. La crique s’ouvrait en demi-lune sous une dent de basalte que la mer avait rongée jusqu’à lui donner l’air d’une molaire cariée ; le nom devait venir de là. Deux barques à sec. Des filets pendus à des perches. Un feu de la veille, éteint avec soin. Avec trop de soin, nota-t-il, et il remit la note à plus tard.
 
 La lampe posée dans le sable, il s’accroupit.
 
-Une entaille droite courait de la ligne des varechs jusqu’à l’eau, longue, nette, et se perdait dans le ressac. Une quille. Pas une barque de pêche : celles de la crique laissaient des sillons courts, ventrus, hésitants, des sillons d’embarcations qu’on tire à deux bras. Celle-ci avait été menée droite, lestée, par une main qui savait exactement combien de sable il fallait mordre avant de reprendre l’eau. Une main de haute mer, pas une main de côte. Des yeux seulement, sans y toucher encore, il mesura la trace.
+Une entaille droite courait de la ligne des varechs jusqu’à l’eau, longue, nette, et se perdait dans le ressac. Une quille. Les barques de la crique laissaient des sillons courts, ventrus, hésitants, des sillons d’embarcations qu’on tire à deux bras ; celle-ci avait été menée droite, lestée, par une main qui savait exactement combien de sable il fallait mordre avant de reprendre l’eau. Une main de haute mer. Des yeux seulement, sans y toucher encore, il mesura la trace.
 
 « Onze pas », dit-il tout bas. Puis, parce que sa bouche corrigeait toujours ce que son œil avait dit trop vite : « Non. Douze. »
 
-Douze pas de quille. Un bateau de cette taille ne vient pas pêcher le maquereau dans une crique où deux barques suffisent. Il vient déposer, ou prendre, et il repart.
+Douze pas de quille. Un bateau de cette taille vient déposer, ou prendre, et il repart. Le maquereau se pêche à deux barques.
 
 Il remonta la trace à l’envers, vers la terre, là où le sable sec gardait mieux les pieds. Au-dessus des varechs, les empreintes s’ouvraient en éventail, brouillées, à demi effacées par une nuit de vent. Quinze ans à rouvrir ce que les gens croyaient avoir effacé lui avaient appris à les lire quand même. Accroupi de nouveau, il compta.
 
@@ -107,7 +107,7 @@ Le pêcheur suivit son regard. Vers l’intérieur des terres, au nord, là où 
 
 Ils restèrent un moment côte à côte, l’inquisiteur propre et le pêcheur de sel, à regarder le Mont.
 
-Il fumait, disait-on, depuis toujours, doucement. Ceux d’ici avaient grandi sous cette fumée comme d’autres sous des nuages et n’y voyaient qu’une humeur de la terre. Verkan n’y voyait pas une humeur. Il y voyait un point : le point vers lequel montaient une entaille de quille, quatre paires de pieds et une phrase découpée en morceaux, qui se recousait quelque part là-haut, dans le noir, hors de sa portée. Des semaines qu’il remontait cette phrase à rebours, mot après mot, gîte après gîte, port après port ; ce matin, il en tenait le bout. Le bout, pas le sens. Il savait désormais où cela finissait. Ce qu’on allait y faire, il ne le saurait jamais.
+Il fumait, disait-on, depuis toujours, doucement. Ceux d’ici avaient grandi sous cette fumée comme d’autres sous des nuages et n’y voyaient qu’une humeur de la terre. Verkan y voyait un point : le point vers lequel montaient une entaille de quille, quatre paires de pieds et une phrase découpée en morceaux, qui se recousait quelque part là-haut, dans le noir, hors de sa portée. Des semaines qu’il remontait cette phrase à rebours, mot après mot, gîte après gîte, port après port ; ce matin, il en tenait le bout. Il savait désormais où cela finissait. Ce qu’on allait y faire, il ne le saurait jamais.
 
 « On dit, fit le pêcheur, et sa voix avait baissé, comme baisse la voix des gens de côte quand ils parlent de la montagne, on dit que c’est un mauvais endroit pour monter. La roche est chaude. Le sol ment sous le pied. Y a des trous qui soufflent. Les gens d’ici, on monte pas.
 
@@ -117,7 +117,7 @@ Il fumait, disait-on, depuis toujours, doucement. Ceux d’ici avaient grandi so
 
 *Un arrangement.* Verkan tourna le mot dans sa tête. C’était la chose la plus juste qu’on lui eût dite depuis Pyrion, et le vieux ne savait pas qu’il venait de la dire. Tout tenait par des arrangements de cette espèce : on ne monte pas, on ne regarde pas de trop près, on laisse la montagne fumer et le Lien tenir et les puissants prendre ; et en échange on pêche le maquereau, on dort la nuit, on redescend le sentier au matin. C’était cela qu’il servait. C’était pour cela qu’il était descendu dans cette crique noire avant le jour. Un ordre boiteux et injuste, sous lequel un vieux pouvait vieillir jusqu’à cinquante ans de nuits, et sous lequel une enfant qu’on appelait Vide grandissait méprisée plutôt que morte de la première fièvre venue.
 
-Et quelque part en amont de ce sentier, quatre personnes montaient pour le défaire. Pas par malice : il avait fini par le comprendre, et c’était le pire. Elles montaient parce qu’elles jugeaient l’arrangement injuste, et il l’était. Lui montait pour le défendre, et il ne valait pas d’être défendu, et il fallait le défendre quand même, parce que ce qui viendrait après serait pire pour ceux d’en bas : pour le pêcheur, pour l’enfant méprisée, pour tous ceux qui n’avaient rien demandé et qu’aucun des deux camps n’avait consultés.
+Et quelque part en amont de ce sentier, quatre personnes montaient pour le défaire. Elles montaient parce qu’elles jugeaient l’arrangement injuste, et il l’était ; il avait fini par le comprendre, et c’était le pire. Lui montait pour le défendre, et il ne valait pas d’être défendu, et il fallait le défendre quand même, parce que ce qui viendrait après serait pire pour ceux d’en bas : pour le pêcheur, pour l’enfant méprisée, pour tous ceux qui n’avaient rien demandé et qu’aucun des deux camps n’avait consultés.
 
 Il avait lu le Traité, lui aussi. Une nuit, à Pyrion, avant de le faire brûler. Il l’avait refermé en pensant : *c’est juste, et c’est pour cela que c’est un poison.*
 
@@ -135,7 +135,7 @@ Verkan considéra le sentier et fit son calcul, comme il calculait tout : la pe
 
 — Vous les rattraperez pas. » Le vieux le dit sans dureté, presque avec douceur, de la douceur qu’on met à annoncer une évidence à quelqu’un qui la connaît. « Trois jours d’avance sur ce terrain, c’est une vie. Vous arriverez, y aura plus personne. Le sable, ça garde. La montagne, non. »
 
-*Le sable garde, la montagne non.* Verkan retint la phrase. Elle résumait son enquête entière : il avait suivi du sable, des registres, des traces à demi effacées, des choses qui gardent ; et la piste le menait à une montagne, qui ne garde rien, qui avale ce qu’on lui monte et ne rend que de la fumée. Il arriverait en haut d’une piste, et il y trouverait de la roche chaude et un feu éteint. Un feu de plus éteint trop proprement. Cette fois, il n’y aurait même pas de sable pour dire qui était passé.
+*Le sable garde, la montagne non.* Verkan retint la phrase. Elle résumait son enquête entière : il avait suivi du sable, des registres, des traces à demi effacées, des choses qui gardent ; et la piste le menait à une montagne, qui ne garde rien, qui avale ce qu’on lui monte et ne rend que de la fumée. Il arriverait en haut d’une piste, et il y trouverait de la roche chaude et un feu éteint. Un feu de plus mort dans les règles. Cette fois, il n’y aurait même pas de sable pour dire qui était passé.
 
 Verkan ramassa sa lampe, dont il n’avait plus besoin : le jour se levait sur la crique, gris et net, un jour ordinaire de plus dans un monde qui ne savait rien.
 
@@ -151,4 +151,4 @@ Il remonta seul le sentier de chèvre, vers l’intérieur, vers le nord et la f
 
 Il ne se retourna qu’une fois, en haut de la première crête, pour regarder la crique une dernière fois : le demi-cercle de sable noir, la dent de basalte, les deux barques, le vieux minuscule penché sur son filet, et la longue entaille de quille qui filait vers une mer vide, où le bateau n’était plus qu’une absence entre les vagues. Tout cela tenait encore. Le sel, les filets, l’arrangement. Pour un jour, peut-être deux.
 
-Puis il reprit sa marche, et devant lui, au bout du sentier gris, si près maintenant qu’il en respirait par instants le soufre tiède mêlé au sel, le Mont se découpait dans le petit jour ; et sous sa roche chaude, une chose très vieille et très lente respirait au ralenti, et le monde respirait avec elle. Les quatre qui montaient vers elle et l’homme qui les suivait à trois jours de là étaient dans ce qu’elle tenait, avec le pêcheur en bas et ses deux barques. Elle ne comptait pas les vivants : elle les portait tous ensemble, et c’était le seul nombre qu’elle eût jamais su.
+Puis il reprit sa marche, et devant lui, au bout du sentier gris, si près maintenant qu’il en respirait par instants le soufre tiède mêlé au sel, le Mont se découpait dans le petit jour ; et sous sa roche chaude, une chose très vieille et très lente respirait au ralenti, et le monde respirait avec elle. Les quatre qui montaient vers elle et l’homme qui les suivait à trois jours de là étaient dans ce qu’elle tenait, avec le pêcheur en bas et ses deux barques. Elle portait les vivants tous ensemble, sans les compter, et c’était le seul nombre qu’elle eût jamais su.
