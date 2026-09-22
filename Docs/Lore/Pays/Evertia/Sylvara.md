@@ -112,7 +112,7 @@ Sylvara n'a pas de capitale. Centre symbolique : l'**Arbre-Mère** (qui n'est pa
 
 ### L'Arbre-Mère ★
 
-Arbre le plus ancien du continent, au centre du Cœur. Diamètre estimé à 30 m au tronc ; hauteur indéterminée (canopée empêchant toute mesure verticale). Écorce portant des traces de contacts (non de gravures) formant des zones lisses où des milliers de paumes se sont posées en sept générations. Sol nu sur un rayon de 20 m (rien n'y pousse). Reconnu comme *l'arbre* (et non plus comme un simple arbre énorme) par Eilenne ; cette reconnaissance a modifié les humains, non l'arbre. Les Cantori thalmariens y conduisent leurs sessions du Cantus deux fois par lunaison.
+L'Arbre-Mère est la plus ancienne du continent, au centre du Cœur. Diamètre estimé à 30 m au tronc ; hauteur indéterminée (canopée empêchant toute mesure verticale). Écorce portant des traces de contacts (non de gravures) formant des zones lisses où des milliers de paumes se sont posées en sept générations. Sol nu sur un rayon de 20 m (rien n'y pousse). Reconnue par Eilenne comme *l'arbre* et non plus comme un simple arbre énorme ; cette reconnaissance a modifié les humains, non l'arbre. Les Cantori thalmariens y conduisent leurs sessions du Cantus deux fois par lunaison.
 - Statut : Sanctuaire (pas une ville)
 - Région : Le Cœur
 - Particularités : dispositif acoustique unique du continent, pratique sept fois centenaire, sève changeante depuis 18 mois.
