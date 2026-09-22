@@ -2168,11 +2168,11 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 0,
+      "chapitre": null,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le fil qui tire — la dernière nuit ordinaire du Lien",
-      "detail": "À la veille de l'Arrachement, le Lien « tient tout » : cent vingt millions d'âmes, les sept cités flottantes, les deux cents portails et leurs seuils, les neuf grands noms, les six empires de l'Âge d'Or — jusqu'au silence de Baelor, qui prie encore par lui en croyant lui échapper. Et pourtant, quelque part dans son étoffe, un fil tire « très légèrement, dans une direction où il n'y a rien à atteindre ». Il choisit de ne pas le regarder : « J'ai un monde à tenir. »",
+      "detail": "À la veille de l'Arrachement, le Lien « tient tout » : cent vingt millions d'âmes, les sept cités flottantes, les deux cents portails et leurs seuils, les neuf grands noms, les six empires de l'Âge d'Or — jusqu'au silence de Baelor, qui prie encore par lui en croyant lui échapper. Et pourtant, quelque part dans son étoffe, un fil tire « très légèrement, dans une direction où il n'y a rien à atteindre ». Il choisit de ne pas le regarder : « J'ai un monde à tenir. » [2026-09-22 : le prologue de la voix qui portait cette scène a été retiré du livre ; le fait reste canon, sans ancrage de chapitre. Le premier signe est désormais raconté au prologue, par l'arche de Nera.]",
       "sujet": "Le Lien"
     },
     {
@@ -2246,7 +2246,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 5,
+      "chapitre": 0,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "L'arche qui grince à vide — le premier signe de Nera",
@@ -2258,7 +2258,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 6,
+      "chapitre": 5,
       "annee_absolue": -4,
       "type": "evenement",
       "titre": "La spoliation de la forge des Cendriers",
@@ -2271,7 +2271,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 6,
+      "chapitre": 5,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La marque regravée — l'héritage de Kessa",
@@ -2284,7 +2284,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 7,
+      "chapitre": 6,
       "annee_absolue": -3,
       "type": "evenement",
       "titre": "« Ta colère » — le recrutement de Drakhan à Cendral",
@@ -2298,7 +2298,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 8,
+      "chapitre": 7,
       "annee_absolue": -1,
       "type": "evenement",
       "titre": "« Vrai, pas bien » — la conversion d'Aelindra",
@@ -2311,7 +2311,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 9,
+      "chapitre": 8,
       "annee_absolue": -1,
       "type": "evenement",
       "titre": "Le rapport brûlé — Aelindra déclarée traître",
@@ -2323,7 +2323,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 9,
+      "chapitre": 8,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La dernière campagne — Aelindra efface les traces du Cercle",
@@ -2339,7 +2339,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 10,
+      "chapitre": 9,
       "annee_absolue": -1,
       "type": "evenement",
       "titre": "L'homme qui lut avant de brûler — Verkan Sorne ouvre la chasse",
@@ -2352,7 +2352,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 12,
+      "chapitre": 11,
       "annee_absolue": -5,
       "type": "mort",
       "titre": "Mort de Vael — le guérisseur qui tenait la porte ouverte",
@@ -2364,7 +2364,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 12,
+      "chapitre": 11,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le protocole dévoilé — « écris que nous savions »",
@@ -2378,7 +2378,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 13,
+      "chapitre": 12,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La part des Vides — le sablier retourné",
@@ -2392,7 +2392,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 14,
+      "chapitre": 13,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La rotation trop longue — Cendal'Horun tire vers le bas",
@@ -2404,7 +2404,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 15,
+      "chapitre": 14,
       "annee_absolue": -1,
       "type": "evenement",
       "titre": "Le livre posé sur la natte — Verithan parle la langue de Baelor",
@@ -2417,7 +2417,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 15,
+      "chapitre": 14,
       "annee_absolue": -1,
       "type": "evenement",
       "titre": "Trois jours de silence — Baelor s'offre au Cercle",
@@ -2426,7 +2426,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 15,
+      "chapitre": 14,
       "annee_absolue": -1,
       "type": "evenement",
       "titre": "La vision du Passeur poussé — « quelqu'un que nous n'avons pas vu »",
@@ -2436,7 +2436,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 16,
+      "chapitre": 15,
       "annee_absolue": -1,
       "type": "evenement",
       "titre": "La table des Cailloux — toute l'île moins onze",
@@ -2445,7 +2445,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 17,
+      "chapitre": 16,
       "annee_absolue": -10,
       "type": "evenement",
       "titre": "Les Rêves de l'Arrachement commencent",
@@ -2457,7 +2457,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 17,
+      "chapitre": 16,
       "annee_absolue": -3,
       "type": "voyage",
       "titre": "Le départ de Gelinar — « l'an trois avant »",
@@ -2466,7 +2466,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 17,
+      "chapitre": 16,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "« L'étoffe cède d'elle-même » — la confidence de Mirathis",
@@ -2479,7 +2479,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 18,
+      "chapitre": 17,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le delta des fins — trois rêves du même instant",
@@ -2492,7 +2492,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 19,
+      "chapitre": 18,
       "annee_absolue": -3,
       "type": "voyage",
       "titre": "L'automne d'avant — la traversée d'Ilthara",
@@ -2501,7 +2501,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 20,
+      "chapitre": 19,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Les huit silences — la flèche vers le sud",
@@ -2510,7 +2510,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 20,
+      "chapitre": 19,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La copie de l'inquisiteur — la tombe creusée deux fois",
@@ -2524,7 +2524,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 22,
+      "chapitre": 21,
       "annee_absolue": -2,
       "type": "evenement",
       "titre": "Le sauvetage du Corail-Mort — la Ligue vient regarder Kayara",
@@ -2536,7 +2536,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 23,
+      "chapitre": 22,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "« On ne peut manquer que de ce qu'on a eu » — la nuit du large",
@@ -2549,7 +2549,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 23,
+      "chapitre": 22,
       "annee_absolue": 0,
       "type": "voyage",
       "titre": "Le débarquement à la crique de la Dent",
@@ -2565,7 +2565,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 24,
+      "chapitre": 23,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le jour de Tomas — le soc et le poinçon",
@@ -2579,7 +2579,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 25,
+      "chapitre": 24,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le gîte trop propre — la flèche en creux",
@@ -2592,7 +2592,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 26,
+      "chapitre": 25,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "L'eau qui monte sans marée — Navoria respire mal",
@@ -2604,7 +2604,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 27,
+      "chapitre": 26,
       "annee_absolue": 0,
       "type": "voyage",
       "titre": "La première personne du singulier — J-33, la route du Mont",
@@ -2618,7 +2618,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 28,
+      "chapitre": 27,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La vision et la lame — la confession du col",
@@ -2631,7 +2631,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 29,
+      "chapitre": 28,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Sulvane — l'homme qui lit des départs",
@@ -2644,7 +2644,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 30,
+      "chapitre": 29,
       "annee_absolue": -200,
       "type": "evenement",
       "titre": "La porte des morts se rétrécit",
@@ -2653,7 +2653,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 30,
+      "chapitre": 29,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La lecture d'Iveth — la pièce à deux faces",
@@ -2668,7 +2668,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 32,
+      "chapitre": 31,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "« La main, ou son propre poids » — la phrase laissée au journal",
@@ -2683,7 +2683,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 33,
+      "chapitre": 32,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La lettre enterrée sous la bruyère — J-1",
@@ -2698,7 +2698,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 34,
+      "chapitre": 33,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le mensonge du Pontife — les chants plutôt que le tocsin",
@@ -2711,7 +2711,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 35,
+      "chapitre": 34,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le feu encore chaud — « parce qu'il était juste »",
@@ -2724,7 +2724,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 36,
+      "chapitre": 35,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La phrase qui attendait — « Nous croyons que c'est inévitable »",
@@ -2743,7 +2743,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 37,
+      "chapitre": 36,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La quille dans le sable noir — Verkan lit la crique de la Dent",
@@ -2755,7 +2755,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 40,
+      "chapitre": 39,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H-7 — l'ascension du Mont Cendra, le dernier arrivé ouvre la marche",
@@ -2773,7 +2773,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 41,
+      "chapitre": 40,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H-5 — « rien ne nous retient et nous ne redescendons pas »",
@@ -2788,7 +2788,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 42,
+      "chapitre": 41,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H-2 — le protocole au Premier Ancrage, le fil trop tendu",
@@ -2805,7 +2805,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 43,
+      "chapitre": 42,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H0 — le geste : l'Arrachement vécu du sommet",
@@ -2824,7 +2824,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 44,
+      "chapitre": 43,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le témoin du pied de la montagne — la silhouette de plus",
@@ -2836,7 +2836,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 44,
+      "chapitre": 43,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La chute de Cendral — la ville sous la neige qui brûle",
@@ -2849,7 +2849,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 45,
+      "chapitre": 44,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H1 — la mort de Drakhan : le feu levé en paix",
@@ -2865,7 +2865,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 46,
+      "chapitre": 45,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H2 — la chute de Cendal'Horun : « on ne les a pas lâchés »",
@@ -2877,7 +2877,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 46,
+      "chapitre": 45,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H2 — Nera ferme le seuil de son corps",
@@ -2889,7 +2889,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 47,
+      "chapitre": 46,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H3 — le Gouffre d'Endora s'ouvre : le germe des Failles",
@@ -2900,7 +2900,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 48,
+      "chapitre": 47,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H4 — Celethor figée : « j'ai une vie d'avance sur vous tous »",
@@ -2913,7 +2913,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 49,
+      "chapitre": 48,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H5 — Orivane Haute, la cité qui prie en tombant",
@@ -2924,7 +2924,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 50,
+      "chapitre": 49,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H6 — l'engloutissement de Navoria : la ville qui respire en se noyant",
@@ -2938,7 +2938,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 51,
+      "chapitre": 50,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "H7 — Azoria, la dernière touchée : le jour ordinaire de Kayara",
@@ -2951,7 +2951,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 52,
+      "chapitre": 51,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La marque qui reste — Kessa au premier soir de la Grande Nuit",
@@ -2964,7 +2964,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 53,
+      "chapitre": 52,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le rapport que personne ne lira — « aucun corps confirmé »",
@@ -2978,7 +2978,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 54,
+      "chapitre": 53,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le retour de Vorath — Baelor accueille la Grande Nuit",
@@ -2990,7 +2990,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 55,
+      "chapitre": 54,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "Le journal muré — « qu'il attende quelqu'un de meilleur »",
@@ -3005,7 +3005,7 @@
     },
     {
       "oeuvre": "t1",
-      "chapitre": 39,
+      "chapitre": 38,
       "annee_absolue": 0,
       "type": "evenement",
       "titre": "La voix du Lien — cinq seuils, du « je tiens tout » au « je ne sais pas qui tire »",
