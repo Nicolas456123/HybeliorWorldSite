@@ -4616,14 +4616,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": ". **Le journal de Thessan** (T1) — muré à l'An 0, **jamais retrouvé** [canon].",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": ". **Le journal de Thessan** (T1) — muré à l'An 0, **jamais retrouvé** [canon]. — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "obj-0002",
@@ -4697,14 +4697,14 @@
           "fin": 10201,
           "confiance": "basse",
           "methode": "corpus:fichier",
-          "indice": "nommé dans « _bible.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "nommé dans « bible retirée » — récit (an 251 du Sillage) — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "obj-0007",
@@ -4719,14 +4719,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": "3. **La copie d'Olven** (T2) — *le récit*, saisie et scellée par Vaenor Sorne dans le coffre d'un poste d'Inspecteurs, versée aux **archives d'État de",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "3. **La copie d'Olven** (T2) — *le récit*, saisie et scellée par Vaenor Sorne dans le coffre d'un poste d'Inspecteurs, versée aux **archives d'État de — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "obj-0008",
@@ -4741,14 +4741,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:paragraphe",
-          "indice": "### 6.3 Convergence avec les Chroniques de l'Exilé (livre 1 / Sorin) Le T3 se déroule à la même époque que la fin du journal de Sorin ( -40, an 251) e",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "### 6.3 Convergence avec les Chroniques de l'Exilé (livre 1 / Sorin) Le T3 se déroule à la même époque que la fin du journal de Sorin ( -40, an 251) e — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "ter-0001",
@@ -12029,50 +12029,6 @@
       "updated_at": "2026-07-17T00:00:00.000Z"
     },
     {
-      "id": "per-0179",
-      "type": "personne",
-      "name": "Yolenne",
-      "slug": null,
-      "summary": "Artiste de Seraphia exclue par excès de personnel, qui offre gratuitement à Sorin un dessin de sa chambre.",
-      "body": null,
-      "data": {
-        "periode": {
-          "debut": 10197,
-          "fin": 10201,
-          "confiance": "basse",
-          "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
-        }
-      },
-      "status": "canon",
-      "disclosure": "interne",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
-    },
-    {
-      "id": "per-0180",
-      "type": "personne",
-      "name": "Père Aldric Venne",
-      "slug": null,
-      "summary": "Prêtre rencontré à Seraphia dont le prénom coïncide avec celui du père de Sorin.",
-      "body": null,
-      "data": {
-        "periode": {
-          "debut": 10197,
-          "fin": 10201,
-          "confiance": "basse",
-          "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
-        }
-      },
-      "status": "canon",
-      "disclosure": "interne",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
-    },
-    {
       "id": "per-0181",
       "type": "personne",
       "name": "Thelorn",
@@ -12085,28 +12041,6 @@
           "fin": 10197,
           "confiance": "haute",
           "methode": "fait-date"
-        }
-      },
-      "status": "canon",
-      "disclosure": "interne",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
-    },
-    {
-      "id": "per-0182",
-      "type": "personne",
-      "name": "Vela Morn",
-      "slug": null,
-      "summary": "Figure de Solena remarquée par Sorin pour une compétence précise et sans démonstration.",
-      "body": null,
-      "data": {
-        "periode": {
-          "debut": 10197,
-          "fin": 10201,
-          "confiance": "basse",
-          "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
         }
       },
       "status": "canon",
@@ -12148,14 +12082,14 @@
           "fin": 10201,
           "confiance": "basse",
           "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
+          "indice": "nommé dans « bible retirée » — récit (an 251 du Sillage) — bible Chroniques retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0185",
@@ -12284,50 +12218,6 @@
       "updated_at": "2026-07-17T00:00:00.000Z"
     },
     {
-      "id": "per-0191",
-      "type": "personne",
-      "name": "Ardyn Thell",
-      "slug": null,
-      "summary": "Témoin de la catastrophe d'Ordavan, que Sorin ne rencontre jamais.",
-      "body": null,
-      "data": {
-        "periode": {
-          "debut": 10197,
-          "fin": 10201,
-          "confiance": "basse",
-          "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
-        }
-      },
-      "status": "canon",
-      "disclosure": "interne",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
-    },
-    {
-      "id": "per-0192",
-      "type": "personne",
-      "name": "Thalvin Orsett",
-      "slug": null,
-      "summary": "Géologue de Pyrendor, allié utilitaire de Sorin sur Ilthara.",
-      "body": null,
-      "data": {
-        "periode": {
-          "debut": 10197,
-          "fin": 10201,
-          "confiance": "basse",
-          "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
-        }
-      },
-      "status": "canon",
-      "disclosure": "interne",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
-    },
-    {
       "id": "per-0193",
       "type": "personne",
       "name": "Aerith",
@@ -12392,28 +12282,6 @@
       "updated_at": "2026-07-17T00:00:00.000Z"
     },
     {
-      "id": "per-0196",
-      "type": "personne",
-      "name": "Feraldir",
-      "slug": null,
-      "summary": "Astronome (situé à « Haltheria » dans l'arc v1) qui relie le décalage des constellations à la pulsation et fournit à Sorin une date-pivot (jour 298).",
-      "body": null,
-      "data": {
-        "periode": {
-          "debut": 10197,
-          "fin": 10201,
-          "confiance": "basse",
-          "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
-        }
-      },
-      "status": "canon",
-      "disclosure": "interne",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
-    },
-    {
       "id": "per-0197",
       "type": "personne",
       "name": "Tiras",
@@ -12426,14 +12294,14 @@
           "fin": 10201,
           "confiance": "basse",
           "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
+          "indice": "nommé dans « bible retirée » — récit (an 251 du Sillage) — bible Chroniques retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0198",
@@ -12585,14 +12453,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": ". 23 Arkhen +10** (brumes du Détroit de Suie), **ch.",
-          "fiche": "Docs/Lore/Chroniques/_bible-v2.md"
+          "indice": ". 23 Arkhen +10** (brumes du Détroit de Suie), **ch. — bible Chroniques retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "lie-0049",
@@ -12651,14 +12519,14 @@
           "fin": 10201,
           "confiance": "basse",
           "methode": "corpus:fichier",
-          "indice": "nommé dans « _arc-sorin.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/_arc-sorin.md"
+          "indice": "nommé dans « bible retirée » — récit (an 251 du Sillage) — bible Chroniques retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "obj-0011",
@@ -13410,14 +13278,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": "- **Le Cœur de Cendra qui pulse depuis l'An 0** (T1 §5.",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "- **Le Cœur de Cendra qui pulse depuis l'An 0** (T1 §5. — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "ter-0046",
@@ -38856,14 +38724,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": "- **Le Cœur de Cendra qui pulse depuis l'An 0** (T1 §5.",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "- **Le Cœur de Cendra qui pulse depuis l'An 0** (T1 §5. — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "lie-0377",
@@ -45369,14 +45237,14 @@
           "fin": 9956,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": "- **Ílvar [inventé]**, *pêcheur de Navoria* (Azoria) — ouvre le monde d'avant (l'Âge d'Or vu d'en bas), meurt à **H5-H7** (Navoria engloutie, ~400 000",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure/_bible.md"
+          "indice": "- **Ílvar [inventé]**, *pêcheur de Navoria* (Azoria) — ouvre le monde d'avant (l'Âge d'Or vu d'en bas), meurt à **H5-H7** (Navoria engloutie, ~400 000 — bible T1 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0885",
@@ -45799,14 +45667,14 @@
           "fin": 10201,
           "confiance": "basse",
           "methode": "corpus:fichier",
-          "indice": "nommé dans « _bible.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure/_bible.md"
+          "indice": "nommé dans « bible retirée » — récit (an 251 du Sillage) — bible T1 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "lie-0643",
@@ -45914,14 +45782,14 @@
           "fin": 9978,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": "- **V2 — « H5 — La cité qui prie en tombant »** — *POV : inconnu d'Orivane Haute [inventé] — un enfant, ou un prêtre.* **Insertion : Partie V, entre H",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure/_bible.md"
+          "indice": "- **V2 — « bible retirée »** — *POV : inconnu d'Orivane Haute [inventé] — un enfant, ou un prêtre.* **Insertion : Partie V, entre H — bible T1 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "lie-0648",
@@ -45960,14 +45828,14 @@
           "fin": 9978,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": "- **V2 — « H5 — La cité qui prie en tombant »** — *POV : inconnu d'Orivane Haute [inventé] — un enfant, ou un prêtre.* **Insertion : Partie V, entre H",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure/_bible.md"
+          "indice": "- **V2 — « bible retirée »** — *POV : inconnu d'Orivane Haute [inventé] — un enfant, ou un prêtre.* **Insertion : Partie V, entre H — bible T1 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "obj-0066",
@@ -46437,15 +46305,15 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:paragraphe",
-          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         },
         "genre": "féminin"
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0889",
@@ -46460,14 +46328,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:paragraphe",
-          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0890",
@@ -46503,14 +46371,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:paragraphe",
-          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0892",
@@ -46566,14 +46434,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:paragraphe",
-          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0895",
@@ -46588,14 +46456,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:paragraphe",
-          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0896",
@@ -46610,14 +46478,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:paragraphe",
-          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "per-0897",
@@ -46653,14 +46521,14 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:paragraphe",
-          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "**Fait canon [Era 7].** Série d'assassinats ciblés de leaders politiques et religieux, **sans revendication officielle**, depuis ~9 850, **en phase ac — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "pol-0122",
@@ -46676,15 +46544,15 @@
           "fin": null,
           "confiance": "moyenne",
           "methode": "corpus:phrase",
-          "indice": "- **Ce qu'elle est [inventé, cohérent].** Non-Liée, forgeronne de tradition mais devenue **passeuse** : elle fait circuler des textes, des registres, ",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+          "indice": "- **Ce qu'elle est [inventé, cohérent].** Non-Liée, forgeronne de tradition mais devenue **passeuse** : elle fait circuler des textes, des registres,  — bible T3 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         },
         "forme": "organisation"
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "pol-0123",
@@ -46857,14 +46725,14 @@
           "fin": 10201,
           "confiance": "basse",
           "methode": "corpus:fichier",
-          "indice": "nommé dans « _bible.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+          "indice": "nommé dans « bible retirée » — récit (an 251 du Sillage) — bible T2 retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+          "fiche": null
         }
       },
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-22T17:47:04.797Z"
     },
     {
       "id": "que-0033",
@@ -58621,6 +58489,27 @@
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
       "updated_at": "2026-09-22T17:42:02.289Z"
+    },
+    {
+      "id": "con-0162",
+      "type": "concept",
+      "name": "La clé des deux calendriers",
+      "slug": null,
+      "summary": "Correspondance constante entre le calendrier du Sillage (« an X ») et le comptage long « après l'Arrachement » (ap.A) : an X ↔ ap.A X + 9 949. L'an 251 du Sillage vaut ainsi 10 200 ap.A.",
+      "body": "Les deux œuvres ne comptent pas le temps de la même façon. Les Chroniques de l'Exilé datent en jours de voyage et en années du Sillage ; la trilogie et l'essentiel du graphe comptent en années après l'Arrachement. La clé les accorde, et elle est constante : **an X = ap.A X + 9 949**.\n\nCe qu'elle permet de poser, et qui tient ligne à ligne :\n— une année du monde vaut environ 365 jours ;\n— Sorin Valthen part à la fin de l'an 248 ;\n— son jour 910 tombe au tout début de l'an 251, soit 10 200 ap.A ;\n— le dépôt de Prismalith (jour 895) est de l'extrême début de l'an 251 ;\n— la note du copiste, « l'année qui suivit le dépôt », est donc de l'an 252, soit 10 201 ap.A ;\n— le tome 3 se joue dans les derniers mois de l'an 251, quand la copie de Prismalith dort déjà dans son coffre.\n\nSans cette clé, les deux œuvres flottent l'une par rapport à l'autre et aucune de leurs rencontres n'est vérifiable. Elle était consignée dans la bible des Chroniques, qui a été retirée du dépôt le 2026-09-22 ; elle vit désormais ici.",
+      "data": {
+        "systeme": "chronologie",
+        "decalage": 9949,
+        "exemple": {
+          "an_sillage": 251,
+          "ap_a": 10200
+        },
+        "origine": "Chroniques — bible v2 §5.1, retirée du dépôt le 2026-09-22"
+      },
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-09-22T17:47:04.797Z",
+      "updated_at": "2026-09-22T17:47:04.797Z"
     }
   ],
   "facts": [
@@ -83724,7 +83613,7 @@
         "source_date": "corpus-lu",
         "methode": "corpus-explicite",
         "confiance": "haute",
-        "indice_date": "« L'Étudiant, l'Exécutant (~120 av.A → An 0) » ; T1 _bible : « né ~120 av.A, banni ~60 av.A, forme le Cercle ~30 av.A ».",
+        "indice_date": "« L'Étudiant, l'Exécutant (~120 av.A → An 0) » ; bible T1 (retirée) : « né ~120 av.A, banni ~60 av.A, forme le Cercle ~30 av.A ».",
         "fiche": "Docs/Lore/Chronologie/Era 3b - Religions Verithan et la Chute.md"
       },
       "source_id": "src-0001",
@@ -84386,8 +84275,8 @@
         "source_date": "corpus-lu",
         "methode": "corpus-deduit",
         "confiance": "moyenne",
-        "indice_date": "Kessa survit à l'Arrachement (An 0) et fonde la guilde des forgerons non-Liés « durant la Grande Nuit » — donc de son vivant, décennies suivant l'An 0.",
-        "fiche": "Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure/_bible.md"
+        "indice_date": "Kessa survit à l'Arrachement (An 0) et fonde la guilde des forgerons non-Liés « durant la Grande Nuit » — donc de son vivant, décennies suivant l'An 0. — bible T1 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+        "fiche": null
       },
       "source_id": "src-0001",
       "status": "canon",
@@ -84581,8 +84470,8 @@
         "source_date": "corpus-lu",
         "methode": "corpus-explicite",
         "confiance": "haute",
-        "indice_date": "« Fléau des Failles (~1 400-1 600 ap.A) », 3e quasi-extinction ; pic ~1 450-1 550",
-        "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md",
+        "indice_date": "« Fléau des Failles (~1 400-1 600 ap.A) », 3e quasi-extinction ; pic ~1 450-1 550 — bible T2 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+        "fiche": null,
         "correction": {
           "date": "2026-09-14",
           "motif": "#2 : le récit du T2 fait foi — Refermeture ~1 500 (coda 1502), non ~1 600",
@@ -84618,8 +84507,8 @@
         "source_date": "corpus-lu",
         "methode": "corpus-explicite",
         "confiance": "haute",
-        "indice_date": "Même événement : Fléau des Failles ~1 400-1 600 ap.A, qui ne frappe que les Tissés",
-        "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md",
+        "indice_date": "Même événement : Fléau des Failles ~1 400-1 600 ap.A, qui ne frappe que les Tissés — bible T2 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+        "fiche": null,
         "correction": {
           "date": "2026-09-14",
           "motif": "#2 : le récit du T2 fait foi — Refermeture ~1 500 (coda 1502), non ~1 600",
@@ -84655,8 +84544,8 @@
         "source_date": "corpus-lu",
         "methode": "corpus-deduit",
         "confiance": "moyenne",
-        "indice_date": "Amputation mystique du Lien : seul soin du Fléau, donc contemporaine de celui-ci (~1 400-1 600 ap.A)",
-        "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+        "indice_date": "Amputation mystique du Lien : seul soin du Fléau, donc contemporaine de celui-ci (~1 400-1 600 ap.A) — bible T2 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+        "fiche": null
       },
       "source_id": "src-0001",
       "status": "canon",
@@ -84684,8 +84573,8 @@
         "source_date": "corpus-lu",
         "methode": "corpus-deduit",
         "confiance": "moyenne",
-        "indice_date": "Durcissement du protocole des Inspecteurs de Pureté (créés ~1 460) ; chronologie interne du T2 : ~1 440 → ~1 560 ap.A",
-        "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+        "indice_date": "Durcissement du protocole des Inspecteurs de Pureté (créés ~1 460) ; chronologie interne du T2 : ~1 440 → ~1 560 ap.A — bible T2 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+        "fiche": null
       },
       "source_id": "src-0001",
       "status": "canon",
@@ -85130,8 +85019,8 @@
         "source_date": "corpus-lu",
         "methode": "corpus-explicite",
         "confiance": "haute",
-        "indice_date": "« Tome 3 — le Sillage, an 251 / ~10 200 ap.A » ; « Vaskar Sorne, homme, ~45 ans. Troisième porteur du nom dans la trilogie » (naissance ~10 155 ap.A).",
-        "fiche": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+        "indice_date": "« Tome 3 — le Sillage, an 251 / ~10 200 ap.A » ; « Vaskar Sorne, homme, ~45 ans. Troisième porteur du nom dans la trilogie » (naissance ~10 155 ap.A). — bible T3 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+        "fiche": null
       },
       "source_id": "src-0001",
       "status": "canon",
@@ -104962,18 +104851,6 @@
       "status": "canon"
     },
     {
-      "id": "lnk-0503",
-      "rel_type": "a-ne-pas-confondre-avec",
-      "from_id": "per-0180",
-      "to_id": "per-0154",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
       "id": "lnk-0504",
       "rel_type": "lie-a",
       "from_id": "per-0153",
@@ -105430,18 +105307,6 @@
       "status": "canon"
     },
     {
-      "id": "lnk-0542",
-      "rel_type": "lie-a",
-      "from_id": "per-0191",
-      "to_id": "lie-0046",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
       "id": "lnk-0543",
       "rel_type": "situe-dans",
       "from_id": "per-0177",
@@ -105466,45 +105331,9 @@
       "status": "canon"
     },
     {
-      "id": "lnk-0545",
-      "rel_type": "situe-dans",
-      "from_id": "per-0179",
-      "to_id": "pol-0006",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
-      "id": "lnk-0546",
-      "rel_type": "situe-dans",
-      "from_id": "per-0180",
-      "to_id": "pol-0006",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
       "id": "lnk-0547",
       "rel_type": "situe-dans",
       "from_id": "per-0181",
-      "to_id": "pol-0008",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
-      "id": "lnk-0548",
-      "rel_type": "situe-dans",
-      "from_id": "per-0182",
       "to_id": "pol-0008",
       "start_year": null,
       "end_year": null,
@@ -105602,18 +105431,6 @@
       "rel_type": "situe-dans",
       "from_id": "per-0195",
       "to_id": "pol-0031",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
-      "id": "lnk-0557",
-      "rel_type": "lie-a",
-      "from_id": "per-0196",
-      "to_id": "pol-0017",
       "start_year": null,
       "end_year": null,
       "label": null,
@@ -122180,18 +121997,6 @@
       "rel_type": "a-ne-pas-confondre-avec",
       "from_id": "per-0804",
       "to_id": "per-0876",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
-      "id": "lnk-1948",
-      "rel_type": "a-ne-pas-confondre-avec",
-      "from_id": "per-0800",
-      "to_id": "per-0182",
       "start_year": null,
       "end_year": null,
       "label": null,

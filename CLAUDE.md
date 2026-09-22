@@ -55,10 +55,17 @@ du monde.
   (executablePath `/opt/pw-browsers/chromium-*/chrome-linux/chrome`,
   `NODE_PATH=<repo>/node_modules`), envoyer les captures à l'utilisateur.
 - Jamais de reseed du graphe sans `KG_RESEED=1` (destructif).
-- Écriture des livres : **aucune phrase n'est gardée au mot près, dans aucune
-  bible** (consigne de l'auteur, 2026-09-16). Les citations des bibles disent
-  ce qui doit être dit, pas comment ; une phrase creuse se réécrit, et la
-  bible comme les chapitres qui la reprennent suivent dans le même commit.
+- Écriture des livres : charger le skill **`reecriture-livres`**, qui porte
+  toute la manière (`SKILL.md`, `POETIQUE.md`, `VOIX.md`). Les cinq bibles ont
+  été retirées du dépôt le 2026-09-22 : leur poétique est dans le skill, leurs
+  faits dans l'Atrium, et le reste était des plans réalisés, des numérotations
+  mortes et des canons que le texte avait démentis.
+- **La quatrième de couverture publique ne révèle JAMAIS que Sorin ment.**
+  Les `_resume.md`, le site et tout texte de présentation vendent l'aventure
+  au premier degré — l'exilé, la traque, les érudits qui meurent sans
+  assassin, le monde qui bascule ; au plus une phrase ambiguë qui se relira
+  après coup. Un lecteur qui sait d'avance perd deux des trois paliers.
+  (Consigne d'auteur, héritée de la bible des Chroniques §1.1.)
 - Sous-agents (outil Agent) : **toujours le modèle Opus 5** (`model: "opus"`),
   consigne de l'auteur ; lots de 5 agents au plus en parallèle.
 - Le registre des incohérences du lore :

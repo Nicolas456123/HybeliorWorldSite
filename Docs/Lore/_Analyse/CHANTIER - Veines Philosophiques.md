@@ -1,12 +1,22 @@
 ---
 type: chantier
-status: en-cours
+status: clos
 created: 2026-05-06
-last_review: 2026-05-06
+last_review: 2026-09-22
 tags: [chantier, lore, philosophie, narration, patterns, infusion]
 ---
 
 # 🌿 CHANTIER — Veines Philosophiques d'Hybelior
+
+> **CLOS le 2026-09-22.** Ce plan de travail de mai 2026 a produit ce qu'il
+> demandait : `_Analyse/Veines philosophiques - Référence.md`, qui est vivant et
+> fait foi, et l'infusion dans les livres, qui est écrite. Les quatre œuvres sont
+> rédigées, la poétique est dans le skill `reecriture-livres`, les faits sont dans
+> l'Atrium. Ce qui suit est donc un **document d'archive** : ses chemins
+> (`Documentation/GDD/Lore/…`), sa répartition d'agents et sa numérotation des
+> chapitres de Sorin (quarante, il y en a trente-huit) ne décrivent plus le dépôt.
+> `Chroniques/_arc-sorin.md`, qu'il commande en A.3, a été retiré le même jour avec
+> les quatre bibles. Ne pas s'en servir comme consigne.
 
 > **Document-maître.** Plan de travail complet pour infuser une philosophie morale exigeante dans la trame du Lore Hybelior, sans jamais que cette philosophie soit explicitée in-world ni in-doc. Conçu pour pouvoir être repris d'une session de travail à l'autre, ou par une autre instance d'assistance.
 

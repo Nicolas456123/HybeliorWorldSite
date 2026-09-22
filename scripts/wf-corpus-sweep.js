@@ -156,10 +156,11 @@ ${RULES}`,
 sections.push({
   key: 'chroniques',
   prompt: `SECTION : Chroniques (voyage à travers le monde).
-Lis \`Docs/Lore/Chroniques/_bible-v2.md\`, \`_resume.md\` et \`_arc-sorin.md\` en priorité
-(fichiers de synthèse). Tu peux ouvrir quelques chapitres ciblés si un lieu/personnage
-important n'est pas résumé. Extrais les lieux, cultures, personnages et événements NOMMÉS
-absents de known-entities, avec leurs relations (situe-dans, pratique, apparait-dans).
+Les bibles ont été retirées du dépôt le 2026-09-22 : le texte fait foi. Lis
+\`Docs/Lore/Chroniques/_resume.md\` pour te situer, puis les 38 chapitres
+(\`Chapitre 01 …\` à \`Chapitre 38 …\`) — c'est là qu'est la matière. Extrais les
+lieux, cultures, personnages et événements NOMMÉS absents de known-entities, avec
+leurs relations (situe-dans, pratique, apparait-dans).
 ${RULES}`,
 })
 
@@ -171,8 +172,9 @@ for (const t of [
   sections.push({
     key: t.key,
     prompt: `SECTION : Roman ${t.dir}.
-Lis les fichiers de SYNTHÈSE \`Docs/Lore/Romans/Les Trois Coups/${t.dir}/_bible.md\` et
-\`_resume.md\` (ne lis PAS les 50+ chapitres un par un — les bibles suffisent).
+Les bibles ont été retirées du dépôt le 2026-09-22 : le texte fait foi, et l'Atrium
+(\`data/kg-base.json\`) tranche. Situe-toi avec \`_resume.md\` et
+\`roman-index.json\`, puis lis les chapitres du tome — c'est là qu'est la matière.
 Extrais les personnages, lieux, objets et événements NOMMÉS et canoniques absents de
 known-entities, avec leurs relations (apparait-dans → l'œuvre du tome, parent-de, lie-a,
 situe-dans). Rattache chaque nouveau personnage/objet à son tome via apparait-dans.

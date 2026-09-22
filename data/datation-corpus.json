@@ -647,7 +647,7 @@
    "methode": "corpus-explicite",
    "confiance": "haute",
    "indice": "« Fléau des Failles (~1 400-1 600 ap.A) », 3e quasi-extinction ; pic ~1 450-1 550",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "fact:fac-1076",
@@ -658,7 +658,7 @@
    "methode": "corpus-explicite",
    "confiance": "haute",
    "indice": "Même événement : Fléau des Failles ~1 400-1 600 ap.A, qui ne frappe que les Tissés",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "fact:fac-1077",
@@ -669,7 +669,7 @@
    "methode": "corpus-deduit",
    "confiance": "moyenne",
    "indice": "Amputation mystique du Lien : seul soin du Fléau, donc contemporaine de celui-ci (~1 400-1 600 ap.A)",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "fact:fac-1078",
@@ -680,7 +680,7 @@
    "methode": "corpus-deduit",
    "confiance": "basse",
    "indice": "Durcissement du protocole des Inspecteurs de Pureté (créés ~1 460) ; chronologie interne du T2 : ~1 440 → ~1 560 ap.A",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "entity:per-0010",
@@ -703,7 +703,7 @@
    "confiance": "moyenne",
    "indice": "Jumelle de Sera de Celethor ; « elle vit les heures de l'Arrachement » (An 0 absolu)",
    "fichier": "Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure",
-   "corrige_par_verification": "Gardé mais début corrigé. La fin (An 0) est solide : « Ísae, la jumelle Vide de Sera, à Celethor — vit H3-H5 » (T1/_bible.md l.120). En revanche −20 est arbitraire et contredit le corpus : Sera est « Femme, ~45 ans [canon] » à l'An 0 (l.65-66) et Ísae est sa JUMELLE, donc née ~−45 ; le test de résonance qui les sépare a lieu à 13 ans (~−32). Le graphe portait déjà −45 (relation fratrie-de) : garder −45 → 0."
+   "corrige_par_verification": "Gardé mais début corrigé. La fin (An 0) est solide : « Ísae, la jumelle Vide de Sera, à Celethor — vit H3-H5 » (T1/bible retirée le 2026-09-22 l.120). En revanche −20 est arbitraire et contredit le corpus : Sera est « Femme, ~45 ans [canon] » à l'An 0 (l.65-66) et Ísae est sa JUMELLE, donc née ~−45 ; le test de résonance qui les sépare a lieu à 13 ans (~−32). Le graphe portait déjà −45 (relation fratrie-de) : garder −45 → 0."
   },
   {
    "cible": "entity:per-0017",
@@ -714,7 +714,7 @@
    "methode": "corpus-explicite",
    "confiance": "moyenne",
    "indice": "Personnage du T2 : « chronologie interne du tome (~1440 → ~1560 ap.A, cœur du Fléau) »",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "entity:per-0018",
@@ -725,7 +725,7 @@
    "methode": "corpus-explicite",
    "confiance": "moyenne",
    "indice": "Préfet-Inquisiteur de Drahk'Nor, T2 (~1 440-1 560 ap.A) ; Inspecteurs de Pureté créés ~1 460",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/_bible.md",
+   "fichier": "bible retirée le 2026-09-22",
    "corrige_par_verification": "Gardé, début corrigé. Drahvel est « Préfet-Inquisiteur de Drahk'Nor » et l'auteur de l'Édit de Pureté ; or les Inspecteurs de Pureté sont « créés ~1460 » [canon Era 5]. Il ne peut donc pas être actif en tant que tel dès 1440. Floruit resserré à 1 460–1 560 (fin = borne de la chronologie interne du tome). Même réserve de méthode que per-0017 : contexte, pas corpus-explicite."
   },
   {
@@ -1569,8 +1569,8 @@
    "methode": "corpus-deduit",
    "confiance": "basse",
    "indice": "Victime « récente » mise en scène dans le T3, qui se déroule « dans la dernière année de l'an 251 » ; morte peu avant",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md",
-   "corrige_par_verification": "Confirmé et mieux étayé que l'indice ne le dit : le T3 se déroule « dans la dernière année de l'an 251 » (_bible §3.1) et le ch. 32 qualifie la vague de « décès par cause non revendiquée des trois dernières années. Six morts, quatre tentatives » → 248-251 exactement. Selvir est bien parmi les morts mises en scène (ch. 09, ch. 39)."
+   "fichier": "bible retirée le 2026-09-22",
+   "corrige_par_verification": "Confirmé et mieux étayé que l'indice ne le dit : le T3 se déroule « dans la dernière année de l'an 251 » (bible retirée le 2026-09-22, §3.1) et le ch. 32 qualifie la vague de « décès par cause non revendiquée des trois dernières années. Six morts, quatre tentatives » → 248-251 exactement. Selvir est bien parmi les morts mises en scène (ch. 09, ch. 39)."
   },
   {
    "cible": "entity:per-0889",
@@ -1581,8 +1581,8 @@
    "methode": "corpus-deduit",
    "confiance": "basse",
    "indice": "Victime « récente » de la vague du T3 (dernière année de l'an 251) ; date exacte non donnée",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md",
-   "corrige_par_verification": "Même appui que Selvir : « Général Ostrek » figure dans la vague récente (_bible l.182) et la colonne de concordance du ch. 32 porte sur « les trois dernières années » (Consul-Adjoint, Général, Reine, Archiviste, Cardinal-Élu, Prophète) → 248-251. Aucun indice plus fin ; fourchette conservée."
+   "fichier": "bible retirée le 2026-09-22",
+   "corrige_par_verification": "Même appui que Selvir : « Général Ostrek » figure dans la vague récente (bible retirée le 2026-09-22, l.182) et la colonne de concordance du ch. 32 porte sur « les trois dernières années » (Consule, Général, Reine, Archiviste, Cardinal-Élu, Prophète) → 248-251. Aucun indice plus fin ; fourchette conservée."
   },
   {
    "cible": "entity:per-0890",
@@ -1593,7 +1593,7 @@
    "methode": "corpus-explicite",
    "confiance": "moyenne",
    "indice": "« La Reine Ysendre a survécu, en Astremer, au printemps » — attentat manqué dans l'année du T3 (an 251)",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md",
+   "fichier": "bible retirée le 2026-09-22",
    "corrige_par_verification": "Citation exacte (ch. 03 : « La Reine Ysendre a survécu, en Astremer, au printemps ») et année juste (T3 = derniers mois de l'an 251). Seule réserve : « corpus-explicite » est surévalué — la phrase donne la saison, pas l'année ; l'année vient du cadre du tome. Elle survit : fin ouverte correcte."
   },
   {
@@ -1605,7 +1605,7 @@
    "methode": "corpus-deduit",
    "confiance": "moyenne",
    "indice": "« Nevran. …mort il y avait quatre ans » depuis le présent du T3 (an 251) → ~247",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md",
+   "fichier": "bible retirée le 2026-09-22",
    "corrige_par_verification": "Confirmé deux fois : ch. 03 « mort il y avait quatre ans » et ch. 28 « pour la première fois depuis quatre ans » → 251−4 = 247. À signaler à l'auteur (registre des incohérences) : le ch. 32 range pourtant l'Archiviste dans les décès « des trois dernières années » — tension interne au T3, sans effet sur la valeur retenue."
   },
   {
@@ -3025,7 +3025,7 @@
    "methode": "corpus-deduit",
    "confiance": "moyenne",
    "indice": "T1 = l'Arrachement, An 0 (absolu). Nera a « quarante ans. Dix-huit passés à ce seuil » à Aethranor → garde depuis ~18 av.A jusqu'à H2-H3.",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "fact:fac-0227",
@@ -3839,7 +3839,7 @@
    "methode": "corpus-explicite",
    "confiance": "haute",
    "indice": "« Tome 3 — le Sillage, an 251 / ~10 200 ap.A » ; « Vaskar Sorne, homme, ~45 ans. Troisième porteur du nom dans la trilogie » (naissance ~10 155 ap.A).",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "entity:per-0023",
@@ -6401,7 +6401,7 @@
    "calendrier": "absolu",
    "methode": "corpus-explicite",
    "confiance": "haute",
-   "indice": "« L'Étudiant, l'Exécutant (~120 av.A → An 0) » ; T1 _bible : « né ~120 av.A, banni ~60 av.A, forme le Cercle ~30 av.A ».",
+   "indice": "« L'Étudiant, l'Exécutant (~120 av.A → An 0) » ; bible T1 (retirée le 2026-09-22) : « né ~120 av.A, banni ~60 av.A, forme le Cercle ~30 av.A ».",
    "fichier": "Docs/Lore/Chronologie/Era 3b - Religions Verithan et la Chute.md"
   },
   {
@@ -6446,7 +6446,7 @@
    "methode": "corpus-deduit",
    "confiance": "moyenne",
    "indice": "Kessa survit à l'Arrachement (An 0) et fonde la guilde des forgerons non-Liés « durant la Grande Nuit » — donc de son vivant, décennies suivant l'An 0.",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T1 - La Septième Heure/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "entity:per-0001",
@@ -7304,7 +7304,7 @@
    "methode": "corpus-explicite",
    "confiance": "moyenne",
    "indice": "Bible du T3: « le Sillage, an 251 / ~10 200 ap.A »; « le tome couvre les derniers mois de l'an 251 ». Vyntaris y est une victime récente de la Guerre de l'Ombre.",
-   "fichier": "Docs/Lore/Romans/Les Trois Coups/T3 - L'Heure qui Naît/_bible.md"
+   "fichier": "bible retirée le 2026-09-22"
   },
   {
    "cible": "fact:fac-0195",

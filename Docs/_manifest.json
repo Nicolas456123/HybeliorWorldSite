@@ -393,18 +393,6 @@
       "title": "Chapitre 38 — Les Murs Tombent"
     },
     {
-      "name": "_arc-sorin",
-      "file": "_arc-sorin.md",
-      "title": "Arc narratif de Sorin Valthen — référence pour A.4",
-      "isIndex": true
-    },
-    {
-      "name": "_bible-v2",
-      "file": "_bible-v2.md",
-      "title": "BIBLE v2 — *Les Chroniques de l’Exilé*",
-      "isIndex": true
-    },
-    {
       "name": "_resume",
       "file": "_resume.md",
       "title": "_resume",
@@ -1448,12 +1436,6 @@
       "title": "Chapitre quarante-neuf — Qu’il attende quelqu’un de meilleur"
     },
     {
-      "name": "_bible",
-      "file": "_bible.md",
-      "title": "BIBLE — *La Septième Heure*",
-      "isIndex": true
-    },
-    {
       "name": "_resume",
       "file": "_resume.md",
       "title": "_resume",
@@ -1720,12 +1702,6 @@
       "name": "51 - Ce qu'il entend",
       "file": "51 - Ce qu'il entend.md",
       "title": "Ce qu’il entend"
-    },
-    {
-      "name": "_bible",
-      "file": "_bible.md",
-      "title": "BIBLE — *L’Heure qui se Referme*",
-      "isIndex": true
     },
     {
       "name": "_resume",
@@ -2009,12 +1985,6 @@
       "name": "54 - La premiere phrase",
       "file": "54 - La premiere phrase.md",
       "title": "La voix qui naît"
-    },
-    {
-      "name": "_bible",
-      "file": "_bible.md",
-      "title": "BIBLE — *L’Heure qui Naît*",
-      "isIndex": true
     },
     {
       "name": "_resume",
