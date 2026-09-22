@@ -37,53 +37,53 @@ Les **Sans-Sang** — ceux qui ont fui l'Épreuve du Sang à quatorze ans — in
 
 ## Valtheria --- "Le Juge et l'Accusation Impossible"
 
-Aldra Vorn etait juge a Valtheria depuis trente ans. Elle avait rendu des milliers de verdicts. Sa reputation etait celle d'une femme qui ne cede a rien --- pas a la pression des clans puissants, pas aux pleurs des misereables, pas a sa propre compassion.
+Aldra Vorn était jugé à Valtheria depuis trente ans. Elle avait rendu des milliers de verdicts. Sa réputation était celle d'une femme qui ne cède à rien --- pas à la pression des clans puissants, pas aux pleurs des misereables, pas à sa propre compassion.
 
-Un jour, on lui presenta un cas impossible.
+Un jour, on lui présenta un cas impossible.
 
-Une femme accusait son propre clan d'avoir tue son mari. Le clan niait. Les preuves etaient insuffisantes. Mais la femme connaissait un detail que seul le meurtrier pouvait savoir --- un detail qu'elle avait omis de mentionner lors de ses premieres declarations.
+Une femme accusait son propre clan d'avoir tué son mari. Le clan niait. Les preuves étaient insuffisantes. Mais la femme connaissait un détail que seul le meurtrier pouvait savoir --- un détail qu'elle avait omis de mentionner lors de ses premières déclarations.
 
-Pourquoi omis ? Parce que ce detail la condamnait aussi. Elle avait su, apres le meurtre, et n'avait rien dit pendant six mois.
+Pourquoi omis ? Parce que ce détail la condamnait aussi. Elle avait su, après le meurtre, et n'avait rien dit pendant six mois.
 
-Aldra avait deux choix : utiliser le detail pour condamner le clan et impliquer la veuve, ou ignorer le detail et laisser le clan impuni.
+Aldra avait deux choix : utiliser le détail pour condamner le clan et impliquer la veuve, ou ignorer le détail et laisser le clan impuni.
 
 Elle passa trois jours sans dormir.
 
-Son verdict fut le suivant : le clan fut condamne pour le meurtre sur la base de preuves supplementaires qu'elle chercha elle-meme. La veuve fut condamnee pour non-denonciation, avec une peine suspendue en consideration de sa position de dependance vis-a-vis du clan.
+Son verdict fut le suivant : le clan fut condamné pour le meurtre sur la base de preuves supplémentaires qu'elle chercha elle-même. La veuve fut condamnée pour non-dénonciation, avec une peine suspendue en consideration de sa position de dépendance vis-à-vis du clan.
 
-Aucune des deux parties ne fut satisfaite. Aldra considera ce verdict comme l'un des meilleurs de sa carriere.
+Aucune des deux parties ne fut satisfaite. Aldra considéra ce verdict comme l'un des meilleurs de sa carrière.
 
-"La justice ne rend personne heureux," dit-elle a son successeur. "Elle rend les choses moins injustes. C'est different."
+"La justice ne rend personne heureux," dit-elle a son successeur. "Elle rend les choses moins injustes. C'est différent."
 
 ---
 
-## Selvorn --- "L'Heritier qui Refusa l'Heritage"
+## Selvorn --- "L'Héritier qui Refusa l'Héritage"
 
-Le chef du clan Valth de Selvorn mourut sans laisser d'instructions claires. Il avait trois fils. L'aine, Bren, refusa l'heritage.
+Le chef du clan Valth de Selvorn mourut sans laisser d'instructions claires. Il avait trois fils. L'aîné, Bren, refusa l'héritage.
 
-Ce n'etait pas un geste de faiblesse. C'etait un calcul. Bren connaissait ses propres limites : il etait un bon guerrier, pas un bon chef. Son cadet Dorn etait meilleur en diplomatie. Son frere cadet Aldris etait meilleur en administration.
+Ce n'était pas un geste de faiblesse. C'était un calcul. Bren connaissait ses propres limites : il était un bon guerrier, pas un bon chef. Son cadet Dorn était meilleur en diplomatie. Son frère cadet Aldris était meilleur en administration.
 
-Il dit au Conseil du clan : "Je ne veux pas etre chef. Je veux etre son bras droit."
+Il dit au Conseil du clan : "Je ne veux pas être chef. Je veux être son bras droit."
 
-Le Conseil fut perplexe. La tradition de Valoria transmettait le titre a l'aine.
+Le Conseil fut perplexe. La tradition de Valoria transmettait le titre à l'aîné.
 
 Bren leur posa une question simple : "Voulez-vous un chef traditionnel ou un clan fort ?"
 
-Le Conseil debattit trois jours. Puis ils nommerent Dorn chef, avec Bren comme chef de guerre et Aldris comme tresorier du clan. Une structure a trois tetes, unique dans l'histoire de Valoria.
+Le Conseil débattit trois jours. Puis ils nommèrent Dorn chef, avec Bren comme chef de guerre et Aldris comme trésorier du clan. Une structure à trois têtes, unique dans l'histoire de Valoria.
 
-Le clan Valth devint le plus stable et le plus prospere de sa generation.
+Le clan Valth devint le plus stable et le plus prospère de sa génération.
 
-Bren mourut a soixante-deux ans, dans son lit, apres une vie de service sans titre. Son tombeau ne porte pas le titre de chef. Il porte le mot qu'il avait choisi lui-meme : "Bras droit."
+Bren mourut à soixante-deux ans, dans son lit, après une vie de service sans titre. Son tombeau ne porte pas le titre de chef. Il porte le mot qu'il avait choisi lui-même : "Bras droit."
 
 ---
 
 ## Bryndor --- "La Bataille qui N'eut Pas Lieu"
 
-Deux clans se disputaient les terres entre Bryndor et Aldora depuis trois generations. Chaque generation avait eu sa bataille. Chaque bataille avait laisse des morts, des rancunes, et des terres inchangees.
+Deux clans se disputaient les terres entre Bryndor et Aldora depuis trois générations. Chaque génération avait eu sa bataille. Chaque bataille avait laissé des morts, des rancunes, et des terres inchangées.
 
-L'annee ou Kela devint chef du clan Ryth, elle convoqua son homologue du clan Vass a une rencontre en terrain neutre. Ils se rencontrerent seuls, sans garde, sur la colline qui marquait la frontiere dispute.
+L'année où Kela devint chef du clan Ryth, elle convoqua son homologue du clan Vass à une rencontre en terrain neutre. Ils se rencontrerent seuls, sans garde, sur la colline qui marquait la frontière dispute.
 
-"Combien de nos peres sont morts pour cette colline ?" demanda Kela.
+"Combien de nos pères sont morts pour cette colline ?" demanda Kela.
 
 "Douze, du mien," dit l'homme du Vass.
 
@@ -91,15 +91,15 @@ L'annee ou Kela devint chef du clan Ryth, elle convoqua son homologue du clan Va
 
 "Trois."
 
-"Trois de mon cote aussi." Kela regarda la colline. "La colline n'a pas change de mains une seule fois en trois generations."
+"Trois de mon côté aussi." Kela regarda la colline. "La colline n'a pas changé de mains une seule fois en trois générations."
 
 Le silence dura.
 
 "Qu'est-ce que vous proposez ?" demanda l'homme du Vass.
 
-"La partager. Formellement. La frontiere est deja la de fait. Faisons de la colline une frontiere officielle et arreton de mourir pour quelque chose qui est deja decide."
+"La partager. Formellement. La frontière est déjà là de fait. Faisons de la colline une frontière officielle et arreton de mourir pour quelque chose qui est déjà décidé."
 
-Le traite fut signe un mois plus tard. Les anciens des deux clans le considererent comme une honte. Les jeunes guerriers le salurent comme une victoire.
+Le traite fut signé un mois plus tard. Les anciens des deux clans le considérèrent comme une honte. Les jeunes guerriers le salurent comme une victoire.
 
 La colline s'appelle aujourd'hui "la Colline du Bon Sens". Le nom n'est pas flatteur. Kela aurait ri.
 
@@ -107,25 +107,25 @@ La colline s'appelle aujourd'hui "la Colline du Bon Sens". Le nom n'est pas flat
 
 ## Thalindor --- "Les Archives du Sang"
 
-A Thalindor, on gardait les archives de chaque duel. Chaque Holmgang, chaque arbitrage de sang, chaque combat rituel etait consigne --- les noms, les raisons, le resultat, les temoins.
+À Thalindor, on gardait les archives de chaque duel. Chaque Holmgang, chaque arbitrage de sang, chaque combat rituel était consigné --- les noms, les raisons, le résultat, les témoins.
 
 Ces archives remontaient a deux cents ans.
 
 L'historien Neld passa sa vie a les analyser. Ce qu'il trouva le rendit silencieux pendant une semaine.
 
-Il presenta ses conclusions au Conseil de Valoria : sur deux cents ans d'archives, les raisons des duels se repetaient. Pas les noms --- les raisons. Les memes disputes, les memes offenses, les memes malentendus, generation apres generation.
+Il présenta ses conclusions au Conseil de Valoria : sur deux cents ans d'archives, les raisons des duels se répétaient. Pas les noms --- les raisons. Les mêmes disputes, les mêmes offensés, les mêmes malentendus, génération après génération.
 
-"Nous nous tuons pour les memes choses depuis deux cents ans," dit Neld. "Nous n'avons rien appris."
+"Nous nous tuons pour les mêmes choses depuis deux cents ans," dit Neld. "Nous n'avons rien appris."
 
-Le Conseil ne sut pas quoi faire de cette information. On ne changea pas la tradition du Holmgang --- elle etait trop enracinee.
+Le Conseil ne sut pas quoi faire de cette information. On ne changea pas la tradition du Holmgang --- elle était trop enracinée.
 
-Mais Neld publia ses archives. Chaque famille de Valoria recut une copie. Il y avait, quelque part dans les pages, les noms de leurs ancetres et les raisons pour lesquelles ils s'etaient battus.
+Mais Neld publia ses archives. Chaque famille de Valoria recut une copie. Il y avait, quelque part dans les pages, les noms de leurs ancêtres et les raisons pour lesquelles ils s'étaient battus.
 
-Certaines families remarquerent que leurs ancetres s'etaient battus pour exactement la meme chose que ce dont elles se disputaient aujourd'hui.
+Certaines families remarquèrent que leurs ancêtres s'étaient battus pour exactement la même chose que ce dont elles se disputaient aujourd'hui.
 
 Le nombre de duels a Thalindor diminua de quarante pour cent dans les dix ans suivants.
 
-Les archives de Neld sont maintenant obligatoires dans toutes les ecoles de Valoria. Pas pour decourager les duels. Pour enseigner la conscience.
+Les archives de Neld sont maintenant obligatoires dans toutes les écoles de Valoria. Pas pour décourager les duels. Pour enseigner la conscience.
 
 ---
 

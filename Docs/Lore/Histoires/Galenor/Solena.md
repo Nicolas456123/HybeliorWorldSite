@@ -17,73 +17,73 @@ Le pouvoir attisa la convoitise. Trois familles maritimes — les **Oranthor**, 
 
 ## Oranthor --- "La Capitaine qui Ne Revenait Plus"
 
-On attendit Elva Morn pendant trois ans. Son navire etait parti explorer les routes commerciales du sud profond, au-dela des cartes connues. Les archives de la Ligue des Explorateurs portaient son nom. La Chambre de Commerce avait investi dans l'expedition.
+On attendit Elva Morn pendant trois ans. Son navire était parti explorer les routes commerciales du sud profond, au-delà des cartes connues. Les archives de la Ligue des Explorateurs portaient son nom. La Chambre de Commerce avait investi dans l'expédition.
 
-Au bout de trois ans, on la declara morte. Ses enfants herita de ses biens, sa maison fut vendue, son nom fut ajoute aux listes des pertes maritimes.
+Au bout de trois ans, on la déclara morte. Ses enfants hérita de ses biens, sa maison fut vendue, son nom fut ajouté aux listes des pertes maritimes.
 
-Elle revint l'annee suivante avec trois nouvelles routes commerciales, des echantillons de marchandises inconnues, et une carte qui doubla les connaissances geographiques de Solena.
+Elle revint l'année suivante avec trois nouvelles routes commerciales, des échantillons de marchandises inconnues, et une carte qui doubla les connaissances géographiques de Solena.
 
-La Chambre de Commerce lui offrit des honneurs. Elle les refusa. "Je suis partie quatre ans. J'ai raté les funerailles de ma mere, les premieres paroles de mon petit-fils, et deux fetes de la fondation. Ne me donnez pas de medailles. Donnez-moi du temps."
+La Chambre de Commerce lui offrit des honneurs. Elle les refusa. "Je suis partie quatre ans. J'ai raté les funérailles de ma mère, les premières paroles de mon petit-fils, et deux fêtes de la fondation. Ne me donnez pas de medailles. Donnez-moi du temps."
 
-Elle passa les cinq annees suivantes a Oranthor sans quitter le port. Elle n'explora plus. Elle enseigna. Ses cartes, ses techniques, ses secrets de navigation --- tout ce qu'elle avait garde pendant quatre ans, elle le transmit.
+Elle passa les cinq années suivantes à Oranthor sans quitter le port. Elle n'explora plus. Elle enseigna. Ses cartes, ses techniques, ses secrets de navigation --- tout ce qu'elle avait gardé pendant quatre ans, elle le transmit.
 
-Puis elle repartit. Elle avait soixante ans. Le Conseil lui dit qu'elle etait trop vieille.
+Puis elle repartit. Elle avait soixante ans. Le Conseil lui dit qu'elle était trop vieille.
 
-Elle rentra dix-huit mois plus tard avec une route qui changea le commerce de Solena pour une generation.
+Elle rentra dix-huit mois plus tard avec une route qui changea le commerce de Solena pour une génération.
 
-Elle mourut a la barre, a soixante-douze ans, comme elle l'avait prevu.
+Elle mourut à la barre, à soixante-douze ans, comme elle l'avait prévu.
 
 ---
 
 ## Yltheris --- "Le Gardien du Phare"
 
-Le phare d'Yltheris fut construit il y a deux cents ans. Son premier gardien s'appelait Renn. Son quatre-vingt-dixieme gardien s'appelle Seld.
+Le phare d'Yltheris fut construit il y a deux cents ans. Son premier gardien s'appelait Renn. Son quatre-vingt-dixième gardien s'appelle Seld.
 
-La tradition dans la famille Kael est que chaque generation fournit le gardien du phare d'Yltheris. Ce n'est pas ecrit dans aucun contrat. Ce n'est pas impose par aucune autorite. C'est simplement ce qui se passe.
+La tradition dans la famille Kael est que chaque génération fournit le gardien du phare d'Yltheris. Ce n'est pas écrit dans aucun contrat. Ce n'est pas imposé par aucune autorité. C'est simplement ce qui se passe.
 
-Seld avait voulu partir. A seize ans, il avait des reves de commerce, d'exploration, de grandes villes. Son pere gardait le phare. Sa mere lui dit simplement : "Tu partiras quand ton tour sera passe."
+Seld avait voulu partir. À seize ans, il avait des rêves de commerce, d'exploration, de grandes villes. Son père gardait le phare. Sa mère lui dit simplement : "Tu partiras quand ton tour sera passé."
 
-Il ne comprit pas ce qu'elle voulait dire avant la mort de son pere.
+Il ne comprit pas ce qu'elle voulait dire avant la mort de son père.
 
-Il monta au phare ce soir-la, alluma la lumiere comme il avait vu faire mille fois, et comprit. Il y avait quelque chose dans le geste --- pas de la routine, pas de l'obligation. Un lien. Chaque soir, la lumiere indiquait aux navires que quelqu'un ici se souciait de leur passage.
+Il monta au phare ce soir-là, alluma la lumière comme il avait vu faire mille fois, et comprit. Il y avait quelque chose dans le geste --- pas de la routine, pas de l'obligation. Un lien. Chaque soir, la lumière indiquait aux navires que quelqu'un ici se souciait de leur passage.
 
 Il garda le phare quarante ans. Son fils prit sa suite il y a cinq ans.
 
-Seld vit maintenant au pied du phare, dans la maison familiale. Il monte parfois le soir, par habitude. Son fils ne le chasse pas. Ils allument la lumiere ensemble.
+Seld vit maintenant au pied du phare, dans la maison familiale. Il monte parfois le soir, par habitude. Son fils ne le chasse pas. Ils allument la lumière ensemble.
 
 ---
 
 ## Caldoris --- "Les Plongeurs de Corail"
 
-A Caldoris, les plongeurs de corail travaillaient depuis des siecles. Trois familles se partageaient les fonds, chacune ayant ses zones attitrees par accord ancestral.
+À Caldoris, les plongeurs de corail travaillaient depuis des siècles. Trois familles se partageaient les fonds, chacune ayant ses zones attitrées par accord ancestral.
 
-Une annee, une tempete exceptionnelle remodela les fonds marins. Les zones delimitees depuis des generations ne correspondaient plus a rien de reconnaissable. Des recifs avaient disparu. De nouveaux etaient apparus.
+Une année, une tempête exceptionnelle remodela les fonds marins. Les zones délimitées depuis des générations ne correspondaient plus à rien de reconnaissable. Des récifs avaient disparu. De nouveaux étaient apparus.
 
-Les trois familles se reunirent pour renogocier. Cela prit trois semaines et faillit devenir une guerre.
+Les trois familles se réunirent pour renogocier. Cela prit trois semaines et faillit devenir une guerre.
 
-Ce fut une enfant de dix ans, fille du chef de la troisieme famille, qui mit fin au debat. Elle dit : "Le corail ne sait pas a qui il appartient. Pourquoi le saurions-nous ?"
+Ce fut une enfant de dix ans, fille du chef de la troisième famille, qui mit fin au débat. Elle dit : "Le corail ne sait pas à qui il appartient. Pourquoi le saurions-nous ?"
 
-Les adultes la regarderent. L'un d'eux rit. Puis plus personne ne rit.
+Les adultes la regardèrent. L'un d'eux rit. Puis plus personne ne rit.
 
-Ils abandonnerent le systeme des zones et creerent un systeme de rotation --- chaque famille plongeait dans des zones differentes chaque semaine. Plus personne ne possedait rien. Chacun avait acces a tout.
+Ils abandonnerent le système des zones et créèrent un système de rotation --- chaque famille plongeait dans des zones différentes chaque semaine. Plus personne ne possédait rien. Chacun avait accès à tout.
 
-La production augmenta. Les conflits diminuerent. La petite fille grandit et devint la premiere Intendante Maritime de Caldoris.
+La production augmenta. Les conflits diminuerent. La petite fille grandit et devint la première Intendante Maritime de Caldoris.
 
-Sa premiere action officielle fut de faire peindre sur les murs du port sa phrase d'enfance.
+Sa première action officielle fut de faire peindre sur les murs du port sa phrase d'enfance.
 
 ---
 
-## Elyanor --- "Le Negociant qui N'osait Plus"
+## Elyanor --- "Le Négociant qui N'osait Plus"
 
-Brun avait ete le meilleur negociant de Solena. Ses contrats etaient legendaires --- personne ne partait insatisfait, et pourtant il obtenait toujours plus que ce qu'on pensait possible. Un talent rare.
+Brun avait été le meilleur négociant de Solena. Ses contrats étaient légendaires --- personne ne partait insatisfait, et pourtant il obtenait toujours plus que ce qu'on pensait possible. Un talent rare.
 
-Puis un de ses contrats causa, indirectement, la mort de trente marins. Il n'avait pas prevu que les marchandises qu'il avait acheminement seraient utilisees pour construire des navires trop legers pour les tempetes du nord. Il n'avait pas verifie. La verification n'etait pas son metier.
+Puis un de ses contrats causa, indirectement, la mort de trente marins. Il n'avait pas prévu que les marchandises qu'il avait acheminement seraient utilisées pour construire des navires trop légers pour les tempêtes du nord. Il n'avait pas vérifié. La vérification n'était pas son métier.
 
-Il le sut six mois plus tard, quand les naufrages furent rapportes. Il ne dormit plus.
+Il le sut six mois plus tard, quand les naufragés furent rapportés. Il ne dormit plus.
 
-Il continua de travailler, mais quelque chose avait change. Il verifiait maintenant chaque contrat jusqu'au bout de ses consequences. Il posait des questions que les marchands ne posaient jamais, des questions sur l'utilisation finale, sur la securite, sur les personnes en bout de chaine.
+Il continua de travailler, mais quelque chose avait changé. Il vérifiait maintenant chaque contrat jusqu'au bout de ses conséquences. Il posait des questions que les marchands ne posaient jamais, des questions sur l'utilisation finale, sur la sécurité, sur les personnes en bout de chaîne.
 
-Il negociait plus lentement. Il refusait certains contrats. Ses collegues le trouverent etrange.
+Il négociait plus lentement. Il refusait certains contrats. Ses collègues le trouvèrent étrange.
 
 Mais ses contrats ne tuaient plus personne.
 

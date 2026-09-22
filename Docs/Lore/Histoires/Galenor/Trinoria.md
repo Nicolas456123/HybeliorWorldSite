@@ -27,21 +27,21 @@ needs_review_for: []
 
 ## Gyndor --- "La Chasse qui N'eut Pas Lieu"
 
-Le seigneur Mael avait organise la Grande Chasse de Gyndor depuis quarante ans, chaque printemps. Une tradition. Un rite. Le cerf blanc de la foret de Nalithos etait la proie symbolique --- jamais vraiment traque, jamais vraiment tue, juste presente pour que la chasse ait un objectif.
+Le seigneur Mael avait organisé la Grande Chasse de Gyndor depuis quarante ans, chaque printemps. Une tradition. Un rite. Le cerf blanc de la forêt de Nalithos était la proie symbolique --- jamais vraiment traque, jamais vraiment tue, juste présente pour que la chasse ait un objectif.
 
-Cette annee-la, un eclaireur revint avec des nouvelles : le cerf blanc existait vraiment. Un vrai cerf blanc, tres vieux, qui se deplacait dans les claireres.
+Cette année-là, un éclaireur revint avec des nouvelles : le cerf blanc existait vraiment. Un vrai cerf blanc, très vieux, qui se déplaçait dans les claireres.
 
-Les chasseurs voulurent le prendre. La chasse aurait enfin un trophee veritable.
+Les chasseurs voulurent le prendre. La chasse aurait enfin un trophée véritable.
 
-Mael dit non. Il regarda ses chasseurs et dit : "Si nous prenons le cerf blanc, que chasserons-nous l'annee prochaine ?"
+Mael dit non. Il regarda ses chasseurs et dit : "Si nous prenons le cerf blanc, que chasserons-nous l'année prochaine ?"
 
-Les chasseurs protestererent. Un cerf est un cerf. La Grande Chasse avait besoin d'un trophee.
+Les chasseurs protestererent. Un cerf est un cerf. La Grande Chasse avait besoin d'un trophée.
 
-Mael les regarda un long moment. "Ce que vous chassez n'est pas le cerf. C'est la raison de se reunir chaque printemps. Le cerf blanc donne cette raison depuis quarante ans. Prenez-le, et vous perdez les quarante ans."
+Mael les regarda un long moment. "Ce que vous chassez n'est pas le cerf. C'est la raison de se réunir chaque printemps. Le cerf blanc donne cette raison depuis quarante ans. Prenez-le, et vous perdez les quarante ans."
 
-La Grande Chasse eut lieu ce printemps. Le cerf blanc fut vu de loin, dans une clairiere, et laisse tranquille.
+La Grande Chasse eut lieu ce printemps. Le cerf blanc fut vu de loin, dans une clairière, et laissé tranquille.
 
-Il mourut de vieillesse l'hiver suivant. Les chasseurs trouverent son corps dans la neige. Ils l'enterrerent avec les honneurs qu'on donne aux guerriers.
+Il mourut de vieillesse l'hiver suivant. Les chasseurs trouvèrent son corps dans la neige. Ils l'enterrèrent avec les honneurs qu'on donne aux guerriers.
 
 La Grande Chasse continua. Mais elle ne cherche plus de cerf blanc. Elle cherche quelque chose que les chasseurs ne peuvent pas tout a fait nommer.
 
@@ -49,21 +49,21 @@ La Grande Chasse continua. Mais elle ne cherche plus de cerf blanc. Elle cherche
 
 ## Velathor --- "Le Chamane et l'Arbre Mort"
 
-Kessa etait chamane du Vael'Kurash dans un village aux abords de Velathor. Son travail consistait a communiquer avec les esprits de la foret, a s'assurer que les equilibres etaient respectes.
+Kessa était chamane du Vael'Kurash dans un village aux abords de Velathor. Son travail consistait à communiquer avec les esprits de la forêt, à s'assurer que les équilibres étaient respectés.
 
-Un arbre mort au coeur du village posait un probleme. Le conseil voulait l'abattre --- il etait vieux, penche, et risquait de tomber sur une maison. Kessa s'y opposa.
+Un arbre mort au cœur du village posait un problème. Le conseil voulait l'abattre --- il était vieux, penché, et risquait de tomber sur une maison. Kessa s'y opposa.
 
 "L'esprit de cet arbre n'est pas parti," dit-elle. "Il attend quelque chose."
 
-Les habitants l'ecouterent avec le respect du aux chamanes, mais avec une impatience croissante. L'arbre pendait davantage chaque mois.
+Les habitants l'écoutèrent avec le respect du aux chamanes, mais avec une impatience croissante. L'arbre pendait davantage chaque mois.
 
-Un printemps, une graine tomba de l'arbre. Juste une. Les villageois ne la remarquerent pas. Kessa la trouva, la planta au pied de l'arbre mort.
+Un printemps, une graine tomba de l'arbre. Juste une. Les villageois ne la remarquèrent pas. Kessa la trouva, la planta au pied de l'arbre mort.
 
-L'annee suivante, un jeune arbre poussait. A mesure que le jeune grandissait, le vieux se pencha encore plus, comme pour se pencher vers sa propre descendance.
+L'année suivante, un jeune arbre poussait. À mesure que le jeune grandissait, le vieux se pencha encore plus, comme pour se pencher vers sa propre descendance.
 
-L'ete ou le jeune arbre fut assez grand pour avoir son propre esprit --- Kessa le sut le matin ou elle sentit sa presence pour la premiere fois --- l'arbre vieux s'effondra. Proprement, sans blesser personne, dans la direction opposee aux maisons.
+L'été où le jeune arbre fut assez grand pour avoir son propre esprit --- Kessa le sut le matin où elle sentit sa présence pour la première fois --- l'arbre vieux s'effondra. Proprement, sans blesser personne, dans la direction opposée aux maisons.
 
-Le village construisit une cloture autour du jeune arbre. Kessa y placa une pierre marquee d'un seul symbole.
+Le village construisit une clôture autour du jeune arbre. Kessa y plaça une pierre marquée d'un seul symbole.
 
 "Qu'est-ce que ca dit ?" demanda un enfant.
 
@@ -73,39 +73,39 @@ Le village construisit une cloture autour du jeune arbre. Kessa y placa une pier
 
 ## Ralynor --- "Le Chasseur qui Epargna"
 
-Dorren etait le meilleur chasseur de Ralynor depuis vingt ans. Ses prises etaient les plus grandes, ses techniques les plus efficaces. Les jeunes apprenaient en le regardant.
+Dorren était le meilleur chasseur de Ralynor depuis vingt ans. Ses prises étaient les plus grandes, ses techniques les plus efficaces. Les jeunes apprenaient en le regardant.
 
-Un jour, en traquant un cerf, il se retrouva face a la bete au bord d'une riviere. La fleche etait encochee, la distance parfaite, l'angle ideal.
+Un jour, en traquant un cerf, il se retrouva face à la bête au bord d'une rivière. La flèche était encochee, la distance parfaite, l'angle idéal.
 
-Le cerf avait une patte blessee qui guerissait mal. Il boitait. Et tandis que Dorren visait, il realisa qu'a chaque respiration, le cerf tremblait legerement --- non pas de peur, mais d'un effort intense pour rester debout.
+Le cerf avait une patte blessée qui guérissait mal. Il boitait. Et tandis que Dorren visait, il réalisa qu'à chaque respiration, le cerf tremblait légèrement --- non pas de peur, mais d'un effort intense pour rester debout.
 
 Dorren ne tira pas.
 
-Il rentra bredouille. Les autres chasseurs lui demanderent pourquoi. Il ne sut pas repondre.
+Il rentra bredouille. Les autres chasseurs lui demandèrent pourquoi. Il ne sut pas répondre.
 
-Le lendemain, il retourna au meme endroit. Le cerf etait la, au bord de la meme riviere. Il boitait moins.
+Le lendemain, il retourna au même endroit. Le cerf était là, au bord de la même rivière. Il boitait moins.
 
 Il revint chaque jour pendant trois semaines, sans son arc. Il regardait le cerf a distance. Le cerf le regarda aussi, sans fuir.
 
-Le jour ou le cerf traversa la riviere au galop, sans boiterie, Dorren rentra chez lui et raconta l'histoire. Les chasseurs de Ralynor ne le comprirent pas completement. Mais depuis lors, dans la tradition de chasse du village, il existe une regle qu'on ne peut pas tout a fait expliquer : on n'epargne pas les faibles. On epargne ceux qui meritent de guerir.
+Le jour où le cerf traversa la rivière au galop, sans boiterie, Dorren rentra chez lui et raconta l'histoire. Les chasseurs de Ralynor ne le comprirent pas complètement. Mais depuis lors, dans la tradition de chasse du village, il existe une règle qu'on ne peut pas tout à fait expliquer : on n'épargne pas les faibles. On épargne ceux qui méritent de guérir.
 
-Personne ne sait exactement ce que ca veut dire. Les chasseurs l'appliquent a leur maniere.
+Personne ne sait exactement ce que ça veut dire. Les chasseurs l'appliquent à leur manière.
 
 ---
 
-## Falorin --- "Ce que la Foret Garde"
+## Falorin --- "Ce que la Forêt Garde"
 
-Il y a dans les bois autour de Falorin une clairiere que les habitants evitent. Pas par peur. Par respect.
+Il y a dans les bois autour de Falorin une clairière que les habitants évitent. Pas par peur. Par respect.
 
-Deux cents ans en arriere, une troupe de soldats d'un pays aujourd'hui disparu traversa la foret de Trinoria en pillant les villages. Ils arriverent a Falorin. Le village n'avait pas de garnison, pas de defenses, pas d'armes.
+Deux cents ans en arrière, une troupe de soldats d'un pays aujourd'hui disparu traversa la forêt de Trinoria en pillant les villages. Ils arrivèrent à Falorin. Le village n'avait pas de garnison, pas de défenses, pas d'armes.
 
-Ce que les soldats trouverent a Falorin, personne ne le sut exactement. Les soldats repartirent en courant. Certains se perdrent dans la foret et ne furent jamais retrouves. D'autres revinrent chez eux avec des histoires incoherentes sur des yeux dans les arbres et des pas sur la mousse qu'ils ne pouvaient pas expliquer.
+Ce que les soldats trouvèrent à Falorin, personne ne le sut exactement. Les soldats repartirent en courant. Certains se perdrent dans la forêt et ne furent jamais retrouvés. D'autres revinrent chez eux avec des histoires incohérentes sur des yeux dans les arbres et des pas sur la mousse qu'ils ne pouvaient pas expliquer.
 
-Falorin fut epargne. Les villages voisins furent pilles.
+Falorin fut épargné. Les villages voisins furent pilles.
 
-Les habitants de Falorin n'expliquent jamais ce qui s'est passe. Ils disent seulement que la foret avait ses raisons.
+Les habitants de Falorin n'expliquent jamais ce qui s'est passé. Ils disent seulement que la forêt avait ses raisons.
 
-Dans la clairiere evitee, les arbres poussent en cercle parfait autour d'un espace vide. Les rangers de Trinoria ont observe que les animaux ne traversent pas ce cercle. Pas par obstacle. Par choix.
+Dans la clairière évitée, les arbres poussent en cercle parfait autour d'un espace vide. Les rangers de Trinoria ont observé que les animaux ne traversent pas ce cercle. Pas par obstacle. Par choix.
 
 Aucun druide n'a pu expliquer pourquoi.
 

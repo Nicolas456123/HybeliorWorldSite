@@ -21,95 +21,95 @@ La reine **Sylveira**, souveraine ambitieuse et astronome, refusa cette fatalit�
 
 ## Hekorinth --- "L'Astre qui Manquait"
 
-Les astronomes de Hekorinth cartographient les constellations depuis la fondation de la cite. Chaque etoile a un nom, une position, une signification dans les tables de navigation et de prophecie de l'Ordo Caelum.
+Les astronomes de Hekorinth cartographient les constellations depuis la fondation de la cité. Chaque étoile à un nom, une position, une signification dans les tables de navigation et de prophecie de l'Ordo Caelum.
 
-Un soir de printemps, l'astronome Sera Vyn nota qu'une etoile manquait.
+Un soir de printemps, l'astronome Sera Vyn nota qu'une étoile manquait.
 
-Pas une etoile majeure. Pas une etoile de navigation. Une etoile mineure dans la constellation du Cavalier, une de celles qu'on remarque a peine, dont les archives ne mentionnent qu'une seule ligne dans les catalogues.
+Pas une étoile majeure. Pas une étoile de navigation. Une étoile mineure dans la constellation du Cavalier, une de celles qu'on remarque à peine, dont les archives ne mentionnent qu'une seule ligne dans les catalogués.
 
-Sera la chercha pendant une semaine, pensant a une erreur. Elle n'etait pas la.
+Sera la chercha pendant une semaine, pensant à une erreur. Elle n'était pas là.
 
-Elle presenta ses notes au Grand Astronome, Aldren Vel. Il consulta les archives anciennes. L'etoile etait bien la, documentee depuis cinq cents ans.
+Elle présenta ses notes au Grand Astronome, Aldren Vel. Il consulta les archives anciennes. L'étoile était bien là, documentée depuis cinq cents ans.
 
-"Est-ce qu'une etoile peut disparaitre ?" demanda Sera.
+"Est-ce qu'une étoile peut disparaître ?" demanda Sera.
 
-"Tout peut disparaitre," dit Aldren. "La question est de savoir si quelqu'un l'a remarque."
+"Tout peut disparaître," dit Aldren. "La question est de savoir si quelqu'un l'a remarqué."
 
-Les archives de l'Ordo Caelum montrent que cette etoile avait une signification oubliee dans les vieux textes : elle etait associee aux "chemins entre les mondes". Aucun pretre ne savait plus ce que cette formule voulait dire exactement.
+Les archives de l'Ordo Caelum montrent que cette étoile avait une signification oubliée dans les vieux textes : elle était associée aux "chemins entre les mondes". Aucun prêtre ne savait plus ce que cette formule voulait dire exactement.
 
-Sera consacra le reste de sa vie a essayer de comprendre. Elle ne trouva pas de reponse definitive. Mais ses recherches mirent a jour des dizaines d'autres etoiles que les tables modernes n'incluaient pas et qui apparaissaient dans des textes tres anciens.
+Sera consacra le reste de sa vie à essayer de comprendre. Elle ne trouva pas de réponse définitive. Mais ses recherches mirent à jour des dizaines d'autres étoiles que les tables modernes n'incluaient pas et qui apparaissaient dans des textes très anciens.
 
-Certaines etaient peut-etre aussi disparues. Personne n'avait regarde.
+Certaines étaient peut-être aussi disparues. Personne n'avait regardé.
 
 ---
 
 ## Thyrin --- "La Capitaine et les Brumes"
 
-Les brumes de la cote de Haldria etaient la bete noire des navigateurs. Pas des brumes ordinaires --- des brumes epaisses, immobiles, qui ne repondaient pas aux vents normaux. Des navires avaient disparu dedans. Ceux qui en sortaient racontaient des heures supplementaires, des etoiles mal places, des sons impossibles.
+Les brumes de la côte de Haldria étaient la bête noire des navigateurs. Pas des brumes ordinaires --- des brumes épaisses, immobiles, qui ne répondaient pas aux vents normaux. Des navires avaient disparu dedans. Ceux qui en sortaient racontaient des heures supplémentaires, des étoiles mal places, des sons impossibles.
 
 La capitaine Lyrel avait traverse ces brumes treize fois sans incident. Les autres capitaines lui demandaient son secret.
 
-Elle repondait : "Je ne les combats pas."
+Elle répondait : "Je ne les combats pas."
 
-Les navigateurs ordinaires essayaient de percer les brumes, de maintenir le cap, de s'orienter avec precision. Lyrel laissait le navire ralentir, coupait les voiles, et attendait.
+Les navigateurs ordinaires essayaient de percer les brumes, de maintenir le cap, de s'orienter avec précision. Lyrel laissait le navire ralentir, coupait les voiles, et attendait.
 
-"Le brouillard a ses propres courants," dit-elle un jour a un apprenti. "Si tu rames contre, tu te perds. Si tu l'ecoutes, il finit par t'indiquer le chemin. Pas le chemin que tu voulais. Le chemin qu'il te propose."
+"Le brouillard a ses propres courants," dit-elle un jour à un apprenti. "Si tu rames contre, tu te perds. Si tu l'écoutes, il finit par t'indiquer le chemin. Pas le chemin que tu voulais. Le chemin qu'il te propose."
 
 L'apprenti demanda si le brouillard avait une intention.
 
-Lyrel regarda vers la cote. "Je ne sais pas. Mais je respecte quelque chose que je ne comprends pas, et ca m'a tenue en vie."
+Lyrel regarda vers la côte. "Je ne sais pas. Mais je respecte quelque chose que je ne comprends pas, et ça m'a tenue en vie."
 
-Elle disparut dans les brumes a soixante-huit ans. Son navire fut retrouve vide, a l'ancre, dans un port qu'elle connaissait bien. Toutes ses affaires etaient en ordre. Aucune trace de violence.
+Elle disparut dans les brumes à soixante-huit ans. Son navire fut retrouvé vide, à l'ancré, dans un port qu'elle connaissait bien. Toutes ses affaires étaient en ordre. Aucune trace de violence.
 
-Les marins de Haldria appellent ca "le chemin de Lyrel" quand quelqu'un disparait dans les brumes mais que son bateau rentre.
+Les marins de Haldria appellent ça "le chemin de Lyrel" quand quelqu'un disparaît dans les brumes mais que son bateau rentre.
 
 ---
 
 ## Fyndor --- "La Maison sans Plafond"
 
-Le temple de l'Ordo Caelum a Fyndor n'a pas de plafond. C'etait une erreur de construction, au debut --- les fonds manquaient pour terminer la structure. Les pretres officierent pendant une saison sous le ciel.
+Le temple de l'Ordo Caelum à Fyndor n'a pas de plafond. C'était une erreur de construction, au début --- les fonds manquaient pour terminer la structure. Les prêtres officierent pendant une saison sous le ciel.
 
-Puis il plut. Les pretres s'abriterent comme ils purent. Le lendemain, l'Abbe regarda le ciel.
+Puis il plut. Les prêtres s'abriterent comme ils purent. Le lendemain, l'Abbé regarda le ciel.
 
 Il dit au conseil municipal qu'il ne voulait pas de toit.
 
-L'Ordo Caelum, expliqua-t-il, vendrait Celestia. Un temple qui isole ses fideles du ciel ne les rapproche pas d'elle --- il les en separe. Si on veut etre proche des etoiles, on prie sous les etoiles.
+L'Ordo Caelum, expliqua-t-il, vendrait Celestia. Un temple qui isole ses fidèles du ciel ne les rapproche pas d'elle --- il les en sépare. Si on veut être proche des étoiles, on prie sous les étoiles.
 
-Les fideles porteraient des manteaux en hiver. En ete, ils verraient le ciel qu'ils priaent.
+Les fidèles porteraient des manteaux en hiver. En été, ils verraient le ciel qu'ils priaent.
 
 Le conseil maugrea. Le bailleur de fonds initial menacha de retirer son soutien.
 
-L'Abbe accueillit ses menaces avec le meme calme qu'il accueillit la pluie. Le temple resta ouvert.
+L'Abbé accueillit ses menaces avec le même calme qu'il accueillit la pluie. Le temple resta ouvert.
 
-Aujourd'hui, le temple de Fyndor est le plus frequente de Haldria. Pas parce que ses pretres sont les meilleurs. Parce que prier sous le ciel a quelque chose que prier sous un toit ne peut pas reproduire.
+Aujourd'hui, le temple de Fyndor est le plus fréquenté de Haldria. Pas parce que ses prêtres sont les meilleurs. Parce que prier sous le ciel à quelque chose que prier sous un toit ne peut pas reproduire.
 
-Les pretres des autres temples sont jaloux. Certains ont retire une tuile de leur toit, symboliquement, pour avoir "un coin de ciel".
+Les prêtres des autres temples sont jaloux. Certains ont retiré une tuile de leur toit, symboliquement, pour avoir "un coin de ciel".
 
-L'Abbe de Fyndor, quand il l'apprit, dit simplement : "Ce n'est pas le trou qui compte. C'est l'intention."
+L'Abbé de Fyndor, quand il l'apprit, dit simplement : "Ce n'est pas le trou qui compte. C'est l'intention."
 
 ---
 
-## Valdren --- "Le Cartographe des Etoiles Oubliees"
+## Valdren --- "Le Cartographe des Étoiles Oubliées"
 
-Le probleme avec les cartes stellaires de Haldria etait que les plus anciennes et les plus nouvelles ne correspondaient pas.
+Le problème avec les cartes stellaires de Haldria était que les plus anciennes et les plus nouvelles ne correspondaient pas.
 
-Meld Voss, cartographe de metier, identifia d'abord le probleme comme une erreur de methode dans les archives anciennes. Les instruments etaient moins precis. Les observateurs moins formes.
+Meld Voss, cartographe de métier, identifia d'abord le problème comme une erreur de méthode dans les archives anciennes. Les instruments étaient moins précis. Les observateurs moins formes.
 
-Puis il remarqua que les erreurs n'etaient pas aleatoires. Elles etaient systematiques. Les etoiles des vieilles cartes n'etaient pas mal positionnees par rapport aux etoiles actuelles --- elles etaient des etoiles differentes.
+Puis il remarqua que les erreurs n'étaient pas aléatoires. Elles étaient systématiques. Les étoiles des vieilles cartes n'étaient pas mal positionnées par rapport aux étoiles actuelles --- elles étaient des étoiles différentes.
 
-Il passa cinq ans a creer une carte de reconciliation --- une carte superposant les positions anciennes et actuelles, marquant en rouge les etoiles qui avaient "disparu" entre les deux periodes.
+Il passa cinq ans à créer une carte de réconciliation --- une carte superposant les positions anciennes et actuelles, marquant en rouge les étoiles qui avaient "disparu" entre les deux périodes.
 
 Il y en avait quarante-sept.
 
-La communaute astronomique de Haldria le rejeta. On n'admettait pas facilement que des etoiles pouvaient disparaitre. Ou, pire, que quarante-sept avaient disparu sans que personne le remarque.
+La communauté astronomique de Haldria le rejeta. On n'admettait pas facilement que des étoiles pouvaient disparaître. Où, pire, que quarante-sept avaient disparu sans que personne le remarque.
 
-Meld publia sa carte dans un petit journal academique et mourut a quarante-cinq ans d'une fievre.
+Meld publia sa carte dans un petit journal académique et mourut à quarante-cinq ans d'une fièvre.
 
-Cinquante ans plus tard, son travail fut redecouvert et verifie par de nouveaux instruments. Il avait raison sur quarante-trois des quarante-sept etoiles.
+Cinquante ans plus tard, son travail fut redécouvert et vérifié par de nouveaux instruments. Il avait raison sur quarante-trois des quarante-sept étoiles.
 
-Les quatre etoiles restantes sont encore debattues.
+Les quatre étoiles restantes sont encore débattues.
 
-Sa carte est maintenant exposee dans la Grande Bibliotheque de Hekorinth. On l'appelle "la carte des disparitions". Les astronomes la regardent avec un malaise qu'ils ne savent pas exactement nommer.
+Sa carte est maintenant exposée dans la Grande Bibliothèque de Hekorinth. On l'appelle "la carte des disparitions". Les astronomes la regardent avec un malaise qu'ils ne savent pas exactement nommer.
 
 ---
 

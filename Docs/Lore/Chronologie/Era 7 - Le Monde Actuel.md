@@ -101,17 +101,17 @@ Sans cadre supranational, les violences sont moins **contenues**. L'absence de g
 - **Délié** : sevré volontaire — mortel qui choisit *activement* de couper son Lien (héritiers des doctrines Verithanes, recrues actives des Catena Fracta). Catégorie distincte et minoritaire, antagoniste assumé. Confondre les deux est une **erreur politique** que le présent document refuse — même quand les nations elles-mêmes l'entretiennent.
 
 **Histoire du clivage**
-- Pendant la Grande Nuit et l'Eveil des Royaumes, les Liés étaient des ressources rares et précieuses — healers, prévisions météorologiques, communication à distance
+- Pendant la Grande Nuit et l'Éveil des Royaumes, les Liés étaient des ressources rares et précieuses — healers, prévisions météorologiques, communication à distance
 - A mesure que la population croissait, les Liés devinrent une caste privilegiée dans de nombreuses nations
 - La Cristallisation (~8 500-9 500) codifie le clivage : à mesure que les nations actuelles se fondent, elles institutionnalisent des registres officiels, guildes réservées, droits spécifiques selon leur culture propre
 - **Aucun cadre commun** n'a jamais régi le statut des Liés et des non-Liés au niveau international ; chaque nation légifère seule, et les tentatives de coordination ont toujours échoué — ce qui rend chaque dossier de réfugiés ou d'extradition strictement bilatéral
 
 **Situation actuelle par région**
 
-| Nation/Region | Statut des non-Liés | Loi principale |
+| Nation/Région | Statut des non-Liés | Loi principale |
 |---------------|-------------------|----------------|
-| **Lumasar** | Égalité formelle — seul etat avec pleine égalité codifiée | Charte des Plumes (~7 495) |
-| **Caeloria** | Discrimination légale douce — emplois publics réservés aux Liés | Edit de Celestia (~9 350) |
+| **Lumasar** | Égalité formelle — seul état avec pleine égalité codifiée | Charte des Plumes (~7 495) |
+| **Caeloria** | Discrimination légale douce — emplois publics réservés aux Liés | Édit de Celestia (~9 350) |
 | **Kharazir** | Discrimination sévère — les non-Liés (officiellement *« Déliés »* selon la Loi du Sol) ne peuvent pas posséder de terres | Loi du Sol (~9 100, renforcée ~9 800) |
 | **Gryndor** | Discrimination religieuse — les non-Liés exclus des rites de Vael'Kurash | Décrets du Concile (~9 250) |
 | **Pyrtara** | Mérite pur — les non-Liés peuvent être généraux si compétents | Constitution militaire (~9 650) |
@@ -123,13 +123,13 @@ Sans cadre supranational, les violences sont moins **contenues**. L'absence de g
 **Formes de discrimination quotidienne**
 - Dans Kharazir : les non-Liés portent une marque de tissu jaune (volontaire à l'origine lors de la fondation de Kharazir ~9 100, devenue obligatoire par décret royal ~9 800). La loi les nomme officiellement *« Déliés »* — confusion politique délibérée avec les sevrés volontaires des Catena Fracta, pour justifier la stigmatisation
 - Dans Gryndor : les non-Liés sont enterrés dans des cimetières séparés, sans rites Vael'Kurash
-- Dans Caeloria : les écoles d'elite n'admettent que les enfants Liés ; les non-Liés ont accès aux écoles publiques inférieures
+- Dans Caeloria : les écoles d'élite n'admettent que les enfants Liés ; les non-Liés ont accès aux écoles publiques inférieures
 - Dans Mosrack : un non-Lié ne peut pas témoigner en justice contre un Lié dans les affaires commerciales
 
 **Mouvements de resistance des non-Liés**
 - **La Fraternité des Mains Vides** (Lumasar, ~9 700) — organisation légale de défense juridique ; finance les procès des non-Liés discriminés dans d'autres nations ; dirigée par la juriste Sera Ovath (descendante de Scholar Ovath). Refuse explicitement toute association avec les Catena Fracta
 - **Les Enfants du Vide** (Kharazir, clandestins, ~9 900) — refusent le tissu jaune ; sabotages symboliques (effacement des registres) ; aucune violence revendiquée. Le gouvernement de Kharazir prétend qu'il s'agit d'une cellule Catena Fracta — accusation contestée par Lumasar
-- **Mouvement du Silence Egal** (Gryndor, ~10 000) — prêtres Vael'Kurash réformistes argumentant que le Lien et son absence sont également la volonté de Spiritus
+- **Mouvement du Silence Égal** (Gryndor, ~10 000) — prêtres Vael'Kurash réformistes argumentant que le Lien et son absence sont également la volonté de Spiritus
 - **Brigade de Pyrtara** — Pyrtara accueille des non-Liés réfugiés de Kharazir et Gryndor, créant une friction diplomatique permanente
 
 **Le débat démographique**
@@ -142,7 +142,7 @@ Sans cadre supranational, les violences sont moins **contenues**. L'absence de g
 
 La question démographique ne peut être comprise sans considérer ce que les académiciens de Caeloria appellent la "remutation du Lien" : le processus par lequel le trait du Lien, devenu massivement récessif après l'Arrachement (An 0), s'est progressivement réactivé au fil des générations.
 
-Au moment de l'Arrachement, la quasi-totalité des Liés perdent leur connexion active — mais la structure génétique du Noeud ne disparaît pas, elle devient silencieuse. Ces "porteurs silencieux" ne manifestent aucun Lien, mais transmettent le trait à leur descendance. À mesure que les conditions magiques se stabilisaient (la Trame résiduelle se reconstituant lentement à partir des fragments épargnés par l'Arrachement), les unions entre porteurs silencieux ont commencé à produire des Liés actifs.
+Au moment de l'Arrachement, la quasi-totalité des Liés perdent leur connexion active — mais la structure génétique du Nœud ne disparaît pas, elle devient silencieuse. Ces "porteurs silencieux" ne manifestent aucun Lien, mais transmettent le trait à leur descendance. À mesure que les conditions magiques se stabilisaient (la Trame résiduelle se reconstituant lentement à partir des fragments épargnés par l'Arrachement), les unions entre porteurs silencieux ont commencé à produire des Liés actifs.
 
 Estimations intermédiaires des académiciens de Lumasar (~10 150 ap.A) :
 - **~500 ap. Fléau** : premiers Liés renaissants signalés — phénomène rare, localisé près des anciens nœuds d'ancrage (Mont Cendra, sommets d'Ilthara) ; populations les traitent de malédictions ou de miracles selon les régions
@@ -154,24 +154,24 @@ Ce mécanisme de remutation explique pourquoi les Liés sont inégalement répar
 
 ---
 
-### Les Catena Fracta — Briseurs de Chaines
+### Les Catena Fracta — Briseurs de Chaînes
 
 **Nom et origine**
-- *Catena Fracta* : "chaine brisee" en langue d'Endora ancienne
-- Revendiquent l'heritage spirituel de Verithan (Ere III) mais interpretent ses ecrits de facon radicale
-- Premiere mention documentee : ~9 750 ap.A, archives de la police de Kharazir — "un groupe de fauteurs de troubles se reclamant des Verithani"
+- *Catena Fracta* : "chaîne brisée" en langue d'Endora ancienne
+- Revendiquent l'héritage spirituel de Verithan (Ère III) mais interprètent ses écrits de façon radicale
+- Première mention documentée : ~9 750 ap.A, archives de la police de Kharazir — "un groupe de fauteurs de troublés se réclamant des Verithani"
 
 **Note sur Thyara et les branches du Verithanisme (L-06)**
 - Thyara, compagne de Verithan durant ses années fondatrices à Lumasar, est vénérée comme sainte dans certaines branches du Verithanisme — bien que les détails de sa vie restent remarquablement absents des textes canoniques, comme si son effacement avait été délibéré.
 - Les branches modérées des Verithani (celles qui n'ont pas basculé vers les Catena Fracta) maintiennent un culte discret de Thyara comme "voix qui n'a pas été entendue" — figure symbolique de la sagesse ignorée
 - Son absence des archives officielles est notée par les érudits de Lumasar : le *Traité du Vide* de Verithan ne la mentionne pas par son nom, bien que plusieurs passages rédigés à la première personne du pluriel suggèrent une réflexion à deux
 
-**Ideologie**
-- Le Lien cosmique est une domination : les Eternels et Cosmiques ont cree les mortels comme canaux, pas comme individus libres
+**Idéologie**
+- Le Lien cosmique est une domination : les Éternels et Cosmiques ont créé les mortels comme canaux, pas comme individus libres
 - Selon les doctrines Verithanes, l'Arrachement aurait révélé une rupture du Lien, et la Catena Fracta interprète cet événement comme une libération inachevée qu'il faudrait mener à son terme
-- Les Lies perpetuent cette domination en maintenant vivants les cultes aux entites cosmiques
-- La vraie liberte = couper totalement le Lien dans le monde entier, Lies compris, volontairement ou de force
-- La position sur les Lies varie selon les factions : certains veulent les convertir, d'autres les eliminer
+- Les Liés perpétuent cette domination en maintenant vivants les cultes aux entités cosmiques
+- La vraie liberté = couper totalement le Lien dans le monde entier, Liés compris, volontairement ou de force
+- La position sur les Liés varie selon les factions : certains veulent les convertir, d'autres les éliminer
 
 **Origine et fondation (L-07)**
 - Fondée vers le milieu de l'Ère VI (~5 800 ap.A), dans les décennies suivant les premiers grands conflits Liés/Déliés, par des Verithani radicaux ayant conclu que la voie philosophique ne suffirait pas
@@ -182,25 +182,25 @@ Ce mécanisme de remutation explique pourquoi les Liés sont inégalement répar
 **Structure organisationnelle**
 - Hiérarchie cellulaire stricte : pas de chef unique connu ou revendiqué — décision délibérée pour empêcher toute décapitation de l'organisation
 - **Fracta de base** : cellules de 5 a 9 membres autonomes ; les cellules ne se connaissent pas entre elles
-- **Les Noeuds** : coordonnent plusieurs Fracta dans une region — communication par codes changeants (5 a 12 personnes)
-- **Le Conseil des Fils** : structure superieure, composition inconnue ; semble etre compose de 7 membres, dont certains infiltres dans des positions gouvernementales
+- **Les Nœuds** : coordonnent plusieurs Fracta dans une région — communication par codes changeants (5 à 12 personnes)
+- **Le Conseil des Fils** : structure supérieure, composition inconnue ; semble être composé de 7 membres, dont certains infiltrés dans des positions gouvernementales
 - Les membres ne prononcent jamais le nom complet a voix haute ; ils disent "les Fils" ou "les Libres"
 
-**Methodes**
-- Phase 1 — persuasion : recrutement de Delies mecontents ; philosophie Verithanienne comme "vraie liberte"
-- Phase 2 — sabotage : destruction de temples, artefacts du Lien, registres de Lies
+**Méthodes**
+- Phase 1 — persuasion : recrutement de Déliés mécontents ; philosophie Verithanienne comme "vraie liberté"
+- Phase 2 — sabotage : destruction de temples, artefacts du Lien, registres de Liés
 - Phase 3 — violence ciblee : assassinats de figures religieuses ou politiques pro-Lien
-- La Guerre de l'Ombre est attribuee a leur Phase 3 par certains analystes
+- La Guerre de l'Ombre est attribuée à leur Phase 3 par certains analystes
 
 **Leaders connus**
-- **"La Main Gauche"** — pseudonyme du coordinateur principal suppose ; aucun visage associe ; certains pensent que c'est plusieurs personnes partageant le titre
-- **Petra Solvan** (Gryndor, ~9 950-present) — arretee pour appartenance aux Catena Fracta, nie tout, relachee faute de preuves ; son avocat est le frere du Chef de la Garde de Gryndor
-- **Scholar Arvan de Lumasar** (~9 920-~10 050) — professeur de l'Academie, excommunié apres publication d'un texte pro-Verithanien radical ; disparu, possiblement fondateur du Conseil des Fils
+- **"La Main Gauche"** — pseudonyme du coordinateur principal suppose ; aucun visage associé ; certains pensent que c'est plusieurs personnes partageant le titre
+- **Petra Solvan** (Gryndor, ~9 950-présent) — arrêtée pour appartenance aux Catena Fracta, nie tout, relâchée faute de preuves ; son avocat est le frère du Chef de la Garde de Gryndor
+- **Scholar Arvan de Lumasar** (~9 920-~10 050) — professeur de l'Académie, excommunié après publication d'un texte pro-Verithanien radical ; disparu, possiblement fondateur du Conseil des Fils
 
-**Presence par nation (estimee)**
-- *Forte* : Kharazir (terreau des Delies opprimes), Haldria (fractures religieuses ancrees), Endrath (marginalise depuis sa creation)
+**Présence par nation (estimée)**
+- *Forte* : Kharazir (terreau des Déliés opprimés), Haldria (fractures religieuses ancrées), Endrath (marginalise depuis sa création)
 - *Moyenne* : Altram, Drakora, Solena, Elarath
-- *Faible mais active* : Lumasar (recrute parmi les Delies qui trouvent la Republique trop lente), Pyrtara (quelques veterans desillusions)
+- *Faible mais active* : Lumasar (recrute parmi les Déliés qui trouvent la République trop lente), Pyrtara (quelques vétérans desillusions)
 - *Quasiment absente* : Baelor-Prime, Vytharia, Skaldoria (ideologies incompatibles)
 
 **Les factions internes des Catena Fracta**
@@ -218,76 +218,76 @@ Ce mécanisme de remutation explique pourquoi les Liés sont inégalement répar
 - Aucune nation ne s'est déclarée en guerre ; l'identité de la source des assassinats reste débattue
 - **Statut actuel : la guerre est active, pas latente.** Les rythmes d'incidents s'accélèrent depuis ~10 150 — quatre tentatives confirmées sur les douze derniers mois, dont deux réussies, et plusieurs autres déjouées que les chancelleries n'ont pas rendues publiques. Les cours d'Endora et de Galenor opèrent désormais sous protocoles renforcés ; à Lumasar, l'Assemblée des Guildes a doublé la garde du Consul depuis le printemps 10 200, et plusieurs Hauts-Prêtres de Vael'Kurash ont annulé leurs déplacements transcontinentaux pour la première fois depuis trois générations. La Guerre de l'Ombre n'est plus un phénomène que les chroniqueurs racontent au passé : elle est **en cours**, et chaque chancellerie en fait sa propre lecture sans qu'aucune coordination ne soit possible — aucune instance internationale ne peut qualifier ces actes ni organiser une réponse commune
 
-**Liste des victimes confirmees**
+**Liste des victimes confirmées**
 
 | Victime | Nation | Statut | Date | Circonstance | Suspect principal |
 |---------|--------|--------|------|--------------|-------------------|
-| **Haut-Pretre Ovaris** | Gryndor | Intransigeant anti-Delies | ~9 852 | Empoisonne lors d'un repas prive | Catena Fracta |
-| **Consul-Adjoint Mira II** | Lumasar | Fille de la fondatrice, reformiste | ~9 871 | Chute "accidentelle" d'un pont inspecte 2h avant | Kharazir (rumeur) ou Catena Fracta |
-| **General Pyrak de Pyrtara** | Pyrtara | Commandant pro-dialogue Delies | ~9 889 | Fleche lors d'une revue militaire | Gryndor (officieux) |
-| **Reine Solva de Tyndara** | Tyndara | Pro-Traite, reformiste maritime | ~9 901 | Naufrage sabote, survit mais invalide | Mosrack (rumeur) ou Catena Fracta |
-| **Archiviste Davan** | Vytharia | Gardien du dernier exemplaire du "Veritable Traite d'Orivane" | ~9 944 | Disparition sans trace | Inconnu — le plus mysterieux |
-| **Cardinal-Elu Serathis** | Seraphia | Pro-unification de l'Ordo Caelum | ~9 978 | Assassine dans sa propre chapelle | Noctari (revendication douteux) |
-| **Ambassadeur Harkal** | Altram | Negociait un accord Altram-Ferrath | ~10 023 | Empoisonne lors d'une reception a Ferrath | Ferrath nie, Altram accuse, Catena Fracta possible |
-| **Prophete Uveth** | Arkhen | Predisait "le retour de Flamara" | ~10 081 | Tue dans le Mont Cendra lors d'une montee rituelle | Inconnu — aucun meurtrier n'aurait pu fuir |
+| **Haut-Prêtre Ovaris** | Gryndor | Intransigeant anti-Déliés | ~9 852 | Empoisonné lors d'un repas privé | Catena Fracta |
+| **Consul-Adjoint Mira II** | Lumasar | Fille de la fondatrice, réformiste | ~9 871 | Chute "accidentelle" d'un pont inspecte 2h avant | Kharazir (rumeur) où Catena Fracta |
+| **Général Pyrak de Pyrtara** | Pyrtara | Commandant pro-dialogue Déliés | ~9 889 | Flèche lors d'une revue militaire | Gryndor (officieux) |
+| **Reine Solva de Tyndara** | Tyndara | Pro-Traité, réformiste maritime | ~9 901 | Naufrage saboté, survit mais invalide | Mosrack (rumeur) où Catena Fracta |
+| **Archiviste Davan** | Vytharia | Gardien du dernier exemplaire du "Véritable Traité d'Orivane" | ~9 944 | Disparition sans trace | Inconnu — le plus mystérieux |
+| **Cardinal-Élu Serathis** | Seraphia | Pro-unification de l'Ordo Caelum | ~9 978 | Assassiné dans sa propre chapelle | Noctari (revendication douteux) |
+| **Ambassadeur Harkal** | Altram | Négociait un accord Altram-Ferrath | ~10 023 | Empoisonné lors d'une réception à Ferrath | Ferrath nie, Altram accuse, Catena Fracta possible |
+| **Prophète Uveth** | Arkhen | Predisait "le retour de Flamara" | ~10 081 | Tué dans le Mont Cendra lors d'une montée rituelle | Inconnu — aucun meurtrier n'aurait pu fuir |
 
-**Theories officielles des nations**
-- **Gryndor** : les Catena Fracta sont responsables de tout — utilise pour justifier la repression des Delies
-- **Lumasar** : une puissance etrangere (Kharazir ou Mosrack) manipule les Catena Fracta comme outil
+**Théories officielles des nations**
+- **Gryndor** : les Catena Fracta sont responsables de tout — utilisé pour justifier la répression des Déliés
+- **Lumasar** : une puissance étrangère (Kharazir ou Mosrack) manipule les Catena Fracta comme outil
 - **Pyrtara** : les assassinats selectionnent des figures de dialogue ou de paix — quelqu'un veut la guerre
-- **Caeloria** : theorie du "double aveuglement" — deux acteurs differents agissent pour des raisons differentes, les enqueteurs confondent les series
-- **Vytharia** : la disparition de l'Archiviste Davan est separee des autres — liee au Message de Mirathi
+- **Caeloria** : théorie du "double aveuglement" — deux acteurs différents agissent pour des raisons différentes, les enquêteurs confondent les séries
+- **Vytharia** : la disparition de l'Archiviste Davan est séparée des autres — liée au Message de Mirathi
 
 ---
 
-### Le Silence des Phenix
+### Le Silence des Phénix
 
-**Ce que sont les Phenix dans ce monde**
-- Creatures ni animales ni divines : manifestations physiques du Lien cosmique dans la matiere
-- Apparus peu apres l'Age du Lien (~19 000 av.A) : "cicatrices lumineuses" laissees par les contacts entre mortels et Cosmiques
-- Caracteristiques : corps de volatile ardent, regeneration permanente, chaque Phenix est unique et ne peut etre cree
-- Leur presence renforce le Lien residuel dans une zone ; les guerisseurs Lies travaillent plus facilement pres d'eux ; les chamanes les consultent comme oracles
+**Ce que sont les Phénix dans ce monde**
+- Créatures ni animales ni divines : manifestations physiques du Lien cosmique dans la matière
+- Apparus peu après l'Âge du Lien (~19 000 av.A) : "cicatrices lumineuses" laissées par les contacts entre mortels et Cosmiques
+- Caractéristiques : corps de volatile ardent, régénération permanente, chaque Phénix est unique et ne peut être créé
+- Leur présence renforce le Lien résiduel dans une zone ; les guérisseurs Liés travaillent plus facilement près d'eux ; les chamanes les consultent comme oracles
 
-**Les Phenix avant l'Arrachement**
-- ~6 000 individus recenses a l'apogee, selon les archives de Navoris (engloutie)
-- Vivaient principalement pres des lieux d'ancrage du Lien : Mont Cendra, sommets d'Ilthara, cotes d'Evertia, forets de Celethor
+**Les Phénix avant l'Arrachement**
+- ~6 000 individus recensés à l'apogée, selon les archives de Navoris (engloutie)
+- Vivaient principalement près des lieux d'ancrage du Lien : Mont Cendra, sommets d'Ilthara, côtes d'Evertia, forêts de Celethor
 
-**Apres l'Arrachement et la Grande Nuit**
-- L'Arrachement tue directement ~3 000 Phenix — leur connexion au Lien se coupe, ce qui est fatal pour eux
-- Survivants : ~1 500 Phenix au debut de l'Ere V ; se regenerent plus lentement, semblent "moins intenses"
+**Après l'Arrachement et la Grande Nuit**
+- L'Arrachement tue directement ~3 000 Phénix — leur connexion au Lien se coupe, ce qui est fatal pour eux
+- Survivants : ~1 500 Phénix au début de l'Ère V ; se regenerent plus lentement, semblent "moins intenses"
 
 **Le Silence actuel**
-- Recensement non-officiel de Caeloria (~10 100 ap.A) : moins de 40 Phenix certifies dans le monde entier
-- Depuis ~9 800 : aucune observation fiable d'un Phenix regenere apres mort — soit ils meurent definitivement, soit ils disparaissent ailleurs
+- Recensement non-officiel de Caeloria (~10 100 ap.A) : moins de 40 Phénix certifiés dans le monde entier
+- Depuis ~9 800 : aucune observation fiable d'un Phénix régénère après mort — soit ils meurent définitivement, soit ils disparaissent ailleurs
 
-**Theories sur le Silence**
-- *Theorie de l'Epuisement* (Academie de Lumasar) : le Lien residuel n'est plus suffisant pour les maintenir ; a mesure que les Lies meurent sans transmettre, le "carburant" disparait
-- *Theorie du Retrait* (clerge de Caeloria) : les Phenix sentent quelque chose venir et se retirent dans un plan inaccessible — signe de catastrophe imminente
-- *Theorie des Catena Fracta* : les Phenix sont des "prisons de Lien" ; les voir disparaitre est une victoire — la liberte arrive
-- *Theorie de Mirathi* (chamanes de Vytharia) : les Phenix se sont regroupes quelque part sur l'ile brumeuse de Nysaria, au large de Celethor, attendant quelque chose — liee au Message de Mirathi
+**Théories sur le Silence**
+- *Théorie de l'Épuisement* (Académie de Lumasar) : le Lien résiduel n'est plus suffisant pour les maintenir ; à mesure que les Liés meurent sans transmettre, le "carburant" disparaît
+- *Théorie du Retrait* (clergé de Caeloria) : les Phénix sentent quelque chose venir et se retirent dans un plan inaccessible — signe de catastrophe imminente
+- *Théorie des Catena Fracta* : les Phénix sont des "prisons de Lien" ; les voir disparaître est une victoire — la liberté arrive
+- *Théorie de Mirathi* (chamanes de Vytharia) : les Phénix se sont regroupes quelque part sur l'île brumeuse de Nysaria, au large de Celethor, attendant quelque chose — liée au Message de Mirathi
 
 ---
 
-### Les Mysteres Actuels — Detail
+### Les Mystères Actuels — Détail
 
-#### Le Coeur de Cendra
+#### Le Cœur de Cendra
 
-**Signes observes**
-- Depuis ~9 900 : le Mont Cendra emet des pulsations de chaleur rythmees — ni eruption ni activite tectonique normale
-- Frequence croissante : une pulsation par saison en 9 900, une par mois en 10 100, maintenant une par semaine
-- Perimetre d'effet : dans un rayon de 50 lieues, les Lies signalent des visions — flammes anciennes, silhouettes de l'Ere de la Genese, une voix sans mots
+**Signes observés**
+- Depuis ~9 900 : le Mont Cendra émet des pulsations de chaleur rythmées — ni éruption ni activité tectonique normale
+- Fréquence croissante : une pulsation par saison en 9 900, une par mois en 10 100, maintenant une par semaine
+- Périmètre d'effet : dans un rayon de 50 lieues, les Liés signalent des visions — flammes anciennes, silhouettes de l'Ère de la Genèse, une voix sans mots
 - Animaux : les troupeaux fuient la zone depuis ~10 050 ; les oiseaux migrateurs alterent leurs routes
-- A chaque pulsation, les cendres du sol forment brievement des spirales symetriques (temoignages de pelerins d'Arkhen)
+- À chaque pulsation, les cendres du sol forment brièvement des spirales symétriques (témoignages de pèlerins d'Arkhen)
 
 **Origine géologique et lien à l'Ère I (IM-13)**
 
 Le Mont Cendra n'est pas seulement le site de l'Arrachement — il est l'un des plus anciens ancrages du monde. Les théologiens d'Arkhen et les géologues de Lumasar s'accordent sur un fait : le Cœur de Cendra est directement lié au **Mont Jumeau**, l'une des deux montagnes sacrées de l'Ère I. Le Mont Jumeau, autrefois pic volcanique jumeau du Mont Cendra à l'aube du monde, fut absorbé sous les glaces de Cestra par l'Éthéré Glacien lors de la Grande Glaciation de l'Ère I — un événement qui scella dans la glace une quantité considérable d'énergie tellurique primordiale. Ce que Cendra pulse aujourd'hui pourrait être l'écho de cette énergie ancienne, longtemps comprimée sous Cestra, qui cherche à remonter par son point d'ancrage survivant. La connexion entre le Cœur de Cendra et le Mont Jumeau englacé reste une hypothèse académique, mais elle expliquerait pourquoi les anomalies de Cestra et les pulsations de Cendra semblent s'intensifier simultanément depuis ~9 900 ap.A.
 
-**Reactions des nations**
-- **Arkhen** : declare la zone "site de pelerinage sacre" ; controle l'acces, peur qu'une autre nation s'en empare
-- **Pyrevane** : rivalise avec Arkhen — Arkhen dit "Flamara revient", Pyrevane dit "Eldoria se reveille"
-- **Lumasar** : envoie une equipe scientifique en ~10 080 ; instruments de mesure du Lien erratiques ; rapport classe confidentiel
-- **Gryndor** : les theologiens de Lex Petra considerent cela comme une "corruption de Terranu" par Flamara ; demandent un "scellement" du site — rejetee meme par leurs allies
+**Réactions des nations**
+- **Arkhen** : déclaré la zone "site de pèlerinage sacré" ; contrôle l'accès, peur qu'une autre nation s'en emparé
+- **Pyrevane** : rivalise avec Arkhen — Arkhen dit "Flamara revient", Pyrevane dit "Eldoria se réveille"
+- **Lumasar** : envoie une équipe scientifique en ~10 080 ; instruments de mesure du Lien erratiques ; rapport classe confidentiel
+- **Gryndor** : les théologiens de Lex Petra considèrent cela comme une "corruption de Terranu" par Flamara ; demandent un "scellement" du site — rejetée même par leurs alliés
 - **Catena Fracta** : interpretent les pulsations comme les "échos d'une rupture" — rupture persistante de la Trame qui résonne avant, selon eux, de se rouvrir
 
 ---
@@ -295,46 +295,46 @@ Le Mont Cendra n'est pas seulement le site de l'Arrachement — il est l'un des 
 #### Esprits d'Evertia — Le Silence des Lieux
 
 **Ce que sont les esprits-lieux**
-- "Residus de conscience" des interactions entre Arborius et des lieux specifiques d'Evertia sur des milliers d'annees
-- Invisibles sauf a ceux qui savent ecouter ; s'expriment par signes (mouvements de vegetation, variations de temperature, visions symboliques). Chaque nation les ecoute a sa maniere : les Archidruides d'Evertia en transe, les Cantori de Thalmaris dans les frequences, les gardiennes de Sylvara au chevet de l'Arbre-Mere et dans la seve.
-- Evertia en comptait ~300 identifies au fil des generations ; le decompte le plus recent, restreint a la foret primordiale de l'ile d'Evertia, porte sur 217 esprits-lieux
+- "Résidus de conscience" des interactions entre Arborius et des lieux spécifiques d'Evertia sur des milliers d'années
+- Invisibles sauf à ceux qui savent écouter ; s'expriment par signes (mouvements de végétation, variations de température, visions symboliques). Chaque nation les écoute à sa manière : les Archidruides d'Evertia en transe, les Cantori de Thalmaris dans les fréquences, les gardiennes de Sylvara au chevet de l'Arbre-Mère et dans la sève.
+- Evertia en comptait ~300 identifiés au fil des générations ; le décompte le plus récent, restreint à la forêt primordiale de l'île d'Evertia, porté sur 217 esprits-lieux
 
 **Historique du silence**
-- Premiers silences signales ~9 950 : 3 esprits-lieux du nord de Sylvara ne repondent plus
-- Progression lente et cloisonnee : sur les generations suivantes, les extinctions gagnent du nord vers le sud sans qu'aucune nation ne partage ses observations avec les autres
-- La phase recente s'accelere : dans les trois annees precedant l'arrivee de Sorin Valthen, 189 des 217 esprits-lieux de la foret primordiale se sont tus ; le silence reste partiel (28 repondent encore)
-- Le dernier esprit-lieu a avoir repondu clairement au nord aurait, selon ce que consigne une gardienne de Sylvara, dit "ils arrivent par le dessous"
+- Premiers silences signalés ~9 950 : 3 esprits-lieux du nord de Sylvara ne répondent plus
+- Progression lente et cloisonnee : sur les générations suivantes, les extinctions gagnent du nord vers le sud sans qu'aucune nation ne partage ses observations avec les autres
+- La phase récente s'accélère : dans les trois années précédant l'arrivée de Sorin Valthen, 189 des 217 esprits-lieux de la forêt primordiale se sont tus ; le silence reste partiel (28 répondent encore)
+- Le dernier esprit-lieu à avoir répondu clairement au nord aurait, selon ce que consigne une gardienne de Sylvara, dit "ils arrivent par le dessous"
 
-**Lectures (aucune partagee a l'echelle continentale)**
-- *Thalmaris* (Cantori, a mots couverts) : Arborius rappelle ses derniers fils avant de sombrer completement
-- *Sylvara* (gardiennes, gardee entre elles) : "ils arrivent par le dessous" est un avertissement — quelque chose sous Evertia (reste du Panghor) s'eveille
-- *Orvalis* (academique, etrangere) : les esprits-lieux se sont retires dans le Lien residuel ; un evenement exterieur les a effrayes
+**Lectures (aucune partagée à l'échelle continentale)**
+- *Thalmaris* (Cantori, à mots couverts) : Arborius rappelle ses derniers fils avant de sombrer complètement
+- *Sylvara* (gardiennes, gardée entre elles) : "ils arrivent par le dessous" est un avertissement — quelque chose sous Evertia (reste du Panghor) s'éveille
+- *Orvalis* (académique, étrangère) : les esprits-lieux se sont retirés dans le Lien résiduel ; un événement extérieur les a effrayés
 - Chaque nation garde son constat pour elle (Archidruides d'Evertia, Cantori de Thalmaris, gardiennes de Sylvara) : aucune doctrine commune, aucune annonce publique — marqueur de la fragmentation du continent
 
 ---
 
 #### Message de Mirathi
 
-**Les faits etablis**
-- Date de reception : ~10 064 ap.A, Mirathi (port-sanctuaire des Oracles de Vytharia, sur la cote d'Ilthara)
-- Vecteur : une sphere de lumiere condensee projete un message lumineux sur le mur de la salle du Conseil pendant 3 minutes, puis disparait
-- Texte : en trois langues superposees — ancienne langue de Navoris (partiellement dechiffrable), vytharien ancien du 4eme millenaire (langue des civilisations oniriques disparues d'Ilthara dont Mirathi a herite), et une troisieme langue ne correspondant a rien de connu
-- Temoins directs : 9 membres du Conseil + 3 gardes
+**Les faits établis**
+- Date de réception : ~10 064 ap.A, Mirathi (port-sanctuaire des Oracles de Vytharia, sur la côte d'Ilthara)
+- Vecteur : une sphère de lumière condensée projeté un message lumineux sur le mur de la salle du Conseil pendant 3 minutes, puis disparaît
+- Texte : en trois langues superposées — ancienne langue de Navoris (partiellement dechiffrable), vytharien ancien du 4eme millénaire (langue des civilisations oniriques disparues d'Ilthara dont Mirathi a hérité), et une troisième langue ne correspondant à rien de connu
+- Témoins directs : 9 membres du Conseil + 3 gardes
 
-**Ce qui a ete dechiffre**
+**Ce qui a été déchiffré**
 - Fragment en vytharien ancien : "...les routes rouvrent... ne pas attendre... le guide revient par les marges..."
-- Fragment Navoris (partiel) : "...au-dela du rideau... passage prepare..."
-- Fragment inconnu : non dechiffre malgre 20 ans de travail par des linguistes de Lumasar, Astravia et Vytharia
+- Fragment Navoris (partiel) : "...au-delà du rideau... passage prépare..."
+- Fragment inconnu : non déchiffre malgré 20 ans de travail par des linguistes de Lumasar, Astravia et Vytharia
 
-**Tentatives de dechiffrement**
-- Academie de Lumasar (~10 070) : identifie le fragment Navoris ; echoue sur le troisieme
-- Temple de Vytharia (~10 080) : les prietresses Noctari "entendent" le troisieme comme un "chuchotement entre les dimensions"
-- Expedition sous-marine de Mosrack (~10 100) : inscriptions identiques trouvees sur des colonnes de Navoria engloutie — toujours sans traduction
+**Tentatives de déchiffrement**
+- Académie de Lumasar (~10 070) : identifié le fragment Navoris ; échoué sur le troisième
+- Temple de Vytharia (~10 080) : les prietresses Noctari "entendent" le troisième comme un "chuchotement entre les dimensions"
+- Expédition sous-marine de Mosrack (~10 100) : inscriptions identiques trouvées sur des colonnes de Navoria engloutie — toujours sans traduction
 
 **Lectures concurrentes**
-- Vytharia, Mirathi, certains theologiens de Baelor-Prime : interprètent le "guide qui revient" comme Navigor ; "les routes rouvrent" seraient les dimensions refermees depuis l'Arrachement
+- Vytharia, Mirathi, certains théologiens de Baelor-Prime : interprètent le "guide qui revient" comme Navigor ; "les routes rouvrent" seraient les dimensions refermees depuis l'Arrachement
 - Position alternative de Lumasar : interprète le message comme pouvant provenir d'une civilisation survivante isolée plutôt que d'un Éternel. Les deux lectures restent indécidables avec les indices actuels.
-- Position officielle de Mirathi : classifie "phenomene inexplique d'interet national" ; acces restreint depuis ~10 100 suite a des tentatives de vol
+- Position officielle de Mirathi : classifié "phénomène inexpliqué d'intérêt national" ; accès restreint depuis ~10 100 suite à des tentatives de vol
 
 **Note de lore — l'entité qui a aidé Navigor (DAR-07)**
 
@@ -348,26 +348,26 @@ Dans les archives fragmentées de Navoria (récupérées par Mosrack) et dans un
 
 #### Faille de Gryndor
 
-**Les faits etablis**
+**Les faits établis**
 - Date : ~10 142 ap.A, village d'Ordavan, 200 habitants, territoire de Gryndor (Ilthara centrale)
-- En 3 minutes, le village entier disparait — maisons, champs, puits, habitants
-- Ce qui reste : un cercle de 400m de sol nu et parfaitement lisse, comme vitrifies
-- Temoins : 4 paysans a 2 km, qui voient "le village se plier" avant de disparaitre
+- En 3 minutes, le village entier disparaît — maisons, champs, puits, habitants
+- Ce qui reste : un cercle de 400m de sol nu et parfaitement lisse, comme vitrifiés
+- Témoins : 4 paysans à 2 km, qui voient "le village se plier" avant de disparaître
 
-**L'enquete**
-- Pyrtara envoie une equipe militaire (frontiere commune) — Gryndor l'expulse et interdit tout acces etranger
-- Information filtrant malgre la censure : l'equipe Gryndor a trouve des traces de Faille de Tempora, mais la Faille est fermee — comme si le village avait ete aspire et la Faille s'etait refermee derriere
+**L'enquête**
+- Pyrtara envoie une équipe militaire (frontière commune) — Gryndor l'expulse et interdit tout accès étranger
+- Information filtrant malgré la censure : l'équipe Gryndor a trouvé des traces de Faille de Tempora, mais la Faille est fermée — comme si le village avait été aspiré et la Faille s'était refermée derrière
 
 **Peur populaire**
-- "Syndrome d'Ordavan" : abandons de villages de nuit dans toute la region, achats massifs de "talismans Lex Petra"
+- "Syndrome d'Ordavan" : abandons de villages de nuit dans toute la région, achats massifs de "talismans Lex Petra"
 - Gryndor presse Altram pour des "pierres d'ancrage" (artefacts Lex Petra) — Altram fait monter les prix
-- Theorie populaire : "les villageois sont dans un autre temps" et reviendront
+- Théorie populaire : "les villageois sont dans un autre temps" et reviendront
 
-**Theories**
-- *Officielle de Gryndor* : Faille de Tempora naturelle, "aucun risque supplementaire" (peu credible vu les mesures prises)
-- *Academie de Lumasar* : la Faille etait soit provoquee, soit une manifestation extreme de l'instabilité résiduelle de Tempora qui s'amplifie
-- *Catena Fracta* : revendiquent en interne d'avoir "ouvert un passage vers la liberation"
-- *Theorie "connexion"* : le Message de Mirathi a ete recu 78 ans avant ; les Esprits d'Evertia ont dit "ils arrivent par le dessous" — les trois mysteres sont lies
+**Théories**
+- *Officielle de Gryndor* : Faille de Tempora naturelle, "aucun risque supplémentaire" (peu crédible vu les mesures prises)
+- *Académie de Lumasar* : la Faille était soit provoquée, soit une manifestation extreme de l'instabilité résiduelle de Tempora qui s'amplifie
+- *Catena Fracta* : revendiquent en interne d'avoir "ouvert un passage vers la libération"
+- *Théorie "connexion"* : le Message de Mirathi a été reçu 78 ans avant ; les Esprits d'Evertia ont dit "ils arrivent par le dessous" — les trois mystères sont liés
 
 ---
 
@@ -557,7 +557,7 @@ Hybelior en 10 200 ap.A est un monde de savoirs fragmentés. Chaque nation poss�
 
 **Innovations récentes (~9 500 → 10 200 ap.A)**
 - **Horlogerie mécanique** (~9 700, Altram) : premières horloges à engrenages ; standardisation des heures de marché dans les nations commerçantes
-- **Chirurgie sans Lien** (~9 800, Sylvara) : techniques d'opération réussies sans Liés guerisseurs ; considérées comme une hérésie par les praticiens du Lien de Caeloria
+- **Chirurgie sans Lien** (~9 800, Sylvara) : techniques d'opération réussies sans Liés guérisseurs ; considérées comme une hérésie par les praticiens du Lien de Caeloria
 - **Systèmes de drainage urbain** (~9 600, Haldria) : égouts couverts dans les grandes cités ; réduction des épidémies dans les centres commerciaux
 - **Code chiffré de Lumasar** (~10 000, Lumasar) : système de chiffrement des communications commerciales ; adopté progressivement par les diplomates
 
@@ -613,7 +613,7 @@ Les pièces standards sont frappées en trois dénominations :
 
 **Les monnaies locales**
 
-Chaque nation frappe également ses propres pièces pour usage interne. Le taux de change avec le Standard est publié chaque trimestre par la Chambre des Changes de Lumasar — institution municipale lumasarienne dont la cote est suivie volontairement par la plupart des grandes places marchandes, faute de mieux ; chaque port important publie cependant ses propres ajustements quand l'humeur diplomatique se durcit. Les spéculations sur ces taux de change ont créé une classe de "changeurs" qui s'enrichissent des fluctuations.
+Chaque nation frappe également ses propres pièces pour usage interne. Le taux de change avec le Standard est publié chaque trimestre par la Chambre des Changes de Lumasar — institution municipale lumasarienne dont la côte est suivie volontairement par la plupart des grandes places marchandes, faute de mieux ; chaque port important publie cependant ses propres ajustements quand l'humeur diplomatique se durcit. Les spéculations sur ces taux de change ont créé une classe de "changeurs" qui s'enrichissent des fluctuations.
 
 **Flux commerciaux majeurs au 10 200 ap.A**
 
@@ -917,50 +917,50 @@ Les diplomates de Kharazir s'intéressent de façon inhabituelle aux expédition
 
 ---
 
-### Alliances et Rivalites Actuelles (~10 200 ap.A)
+### Alliances et Rivalités Actuelles (~10 200 ap.A)
 
 **Blocs de puissance principaux**
 
-**Bloc de la Mer** (economique, informel)
+**Bloc de la Mer** (économique, informel)
 - Mosrack + Azoral + Kethvar + Tyndara
-- Lien : controle des routes maritimes et des droits de peche
-- Tension interne : Mosrack veut dominer, les autres veulent l'egalite
-- Rivalite externe : contre Lumasar pour les standards commerciaux
+- Lien : contrôle des routes maritimes et des droits de pêche
+- Tension interne : Mosrack veut dominer, les autres veulent l'égalité
+- Rivalité externe : contre Lumasar pour les standards commerciaux
 
 **Bloc du Lien** (ideologique, formalise)
 - Caeloria + Seraphia + Altram + Astravia
-- Lien : pro-Lies, defense active du Lien residuel, opposition aux Catena Fracta
-- Tension interne : Caeloria veut diriger, Astravia est plus modere
-- Relations avec Gryndor : allies de surface malgre les desaccords sur les Delies
+- Lien : pro-Liés, défense active du Lien résiduel, opposition aux Catena Fracta
+- Tension interne : Caeloria veut diriger, Astravia est plus modéré
+- Relations avec Gryndor : alliés de surface malgré les désaccords sur les Déliés
 
 **Bloc Galenthien** (historique, continental)
 - Kharazir + Ventera + Lumasar (tension) + Seraphia (tension)
-- Lien : partage l'heritage de Galenthis ; accords economiques communs
+- Lien : partage l'héritage de Galenthis ; accords économiques communs
 - Tension interne : Lumasar republicaine irrite les monarchies de Kharazir et Ventera
 
-**Alliance Ilthara-Endora** (geopolitique, defensif)
+**Alliance Ilthara-Endora** (géopolitique, défensif)
 - Pyrtara + Haldria + Avalor
 - Lien : contrepoids a Drakora/Gryndor
 - Tension interne : Haldria marchande ne partage pas les valeurs laiques militaires de Pyrtara
 
 **Isolationnistes**
-- Baelor-Prime (philosophie de non-interference), Skaldoria (culture nomade), Noravia/Cestra (fragilite recente) : refusent tous les blocs
+- Baelor-Prime (philosophie de non-interference), Skaldoria (culture nomade), Noravia/Cestra (fragilité récente) : refusent tous les blocs
 
-**Rivalites critiques**
+**Rivalités critiques**
 
-| Paire | Nature | Intensite | Point de rupture possible |
+| Paire | Nature | Intensité | Point de rupture possible |
 |-------|--------|-----------|--------------------------|
-| Drakora / Gryndor | Heritage Drahk'Nor, frontieres | Tres haute | Toute election / succession |
-| Altram / Ferrath | Controle des mines d'Alkaran | Haute | Exploitation d'un nouveau filon |
-| Mosrack / Lumasar | Standards commerciaux mondiaux | Haute | Reforme du Code de Lumasar |
-| Kharazir / Pyrtara | Refugies Delies de Kharazir | Haute | Prochain incident frontalier |
-| Arkhen / Pyrevane | Interpretation du Coeur de Cendra | Moyenne-haute | Prochaine pulsation majeure |
-| Caeloria / Vytharia | Theologie Lien vs Noctari | Moyenne | Toute crise spirituelle |
+| Drakora / Gryndor | Héritage Drahk'Nor, frontières | Très haute | Toute élection / succession |
+| Altram / Ferrath | Contrôle des mines d'Alkaran | Haute | Exploitation d'un nouveau filon |
+| Mosrack / Lumasar | Standards commerciaux mondiaux | Haute | Réforme du Code de Lumasar |
+| Kharazir / Pyrtara | Réfugiés Déliés de Kharazir | Haute | Prochain incident frontalier |
+| Arkhen / Pyrevane | Interprétation du Cœur de Cendra | Moyenne-haute | Prochaine pulsation majeure |
+| Caeloria / Vytharia | Théologie Lien vs Noctari | Moyenne | Toute crise spirituelle |
 
-**Diplomatie secrete**
-- Drakora negocie separement avec Mosrack pour un acces maritime — Gryndor le sait et le considere comme une trahison
-- Kharazir finance discretement des expeditions vers les ruines de Navoria (que cherchait l'Archiviste Davan ?) — Mosrack a intercepte un courier mais n'a rien publie
-- Lumasar et Pyrtara ont un accord militaire non-divulgue : si Kharazir attaque les refugies Delies, Pyrtara intervient et Lumasar bloque les routes commerciales Kharazir
+**Diplomatie secrète**
+- Drakora négocie séparément avec Mosrack pour un accès maritime — Gryndor le sait et le considère comme une trahison
+- Kharazir finance discrètement des expéditions vers les ruines de Navoria (que cherchait l'Archiviste Davan ?) — Mosrack a intercepté un courier mais n'a rien publié
+- Lumasar et Pyrtara ont un accord militaire non-divulgué : si Kharazir attaque les réfugiés Déliés, Pyrtara intervient et Lumasar bloque les routes commerciales Kharazir
 
 ---
 

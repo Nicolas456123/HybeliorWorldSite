@@ -21,121 +21,121 @@ Les sceptiques rappellent qu'Ashgrim était aussi un alchimiste brillant : le C�
 
 ---
 
-## Brumaris — « Le Coeur qui Fond »
+## Brumaris — « Le Cœur qui Fond »
 
-Le roi Pyranthus IV avait l'habitude de descendre seul dans la Chambre du Coeur. Chaque nuit, sans gardes, sans flammarques, sans temoins. Il posait sa main sur la porte scellee, murmurait les mots anciens, et entrait.
+Le roi Pyranthus IV avait l'habitude de descendre seul dans la Chambre du Cœur. Chaque nuit, sans gardes, sans flammarques, sans témoins. Il posait sa main sur la porte scellée, murmurait les mots anciens, et entrait.
 
-Le Coeur de Cendra l'attendait. Toujours au centre de la piece, sur son socle de basalte, pulsant d'une lumiere orangee qui faisait danser les ombres sur les murs. Pyranthus s'asseyait devant et le regardait. Comme on regarde un vieil ami. Ou un ennemi.
+Le Cœur de Cendra l'attendait. Toujours au centre de la pièce, sur son socle de basalte, pulsant d'une lumière orangée qui faisait danser les ombres sur les murs. Pyranthus s'asseyait devant et le regardait. Comme on regarde un vieil ami. Ou un ennemi.
 
-Depuis un an, les pulsations s'etaient accelerees. Pyranthus les comptait --- cinquante par minute, la ou il y en avait autrefois trente. La chaleur avait augmente aussi. Les murs de la chambre, autrefois tiedes, suintaient maintenant. Le basalte fondait. Goutte a goutte. Lentement. Mais inexorablement.
+Depuis un an, les pulsations s'étaient accélérées. Pyranthus les comptait --- cinquante par minute, là où il y en avait autrefois trente. La chaleur avait augmenté aussi. Les murs de la chambre, autrefois tièdes, suintaient maintenant. Le basalte fondait. Goutte à goutte. Lentement. Mais inexorablement.
 
-Il en parla a son conseiller, le vieux Flammarque Draevin. Draevin palît. *Quand les murs auront fondu, Majeste... le Coeur ne sera plus contenu.*
+Il en parla à son conseiller, le vieux Flammarque Draevin. Draevin palît. *Quand les murs auront fondu, Majeste... le Cœur ne sera plus contenu.*
 
 *Et alors ?*
 
-*Alors nous saurons si c'est un miracle ou un desastre.*
+*Alors nous saurons si c'est un miracle ou un désastre.*
 
-Pyranthus redescendit cette nuit-la. Il posa sa main directement sur le Coeur de Cendra. La brulure fut immediate --- sa paume gresilla, la peau noircit, l'os blanchit. Il ne retira pas sa main.
+Pyranthus redescendit cette nuit-là. Il posa sa main directement sur le Cœur de Cendra. La brûlure fut immédiate --- sa paume grésilla, la peau noircit, l'os blanchit. Il ne retira pas sa main.
 
-Car dans la douleur, il entendit quelque chose. Pas un son. Une pensee. Un mot. Un seul mot, dans une langue qu'aucun alchimiste n'avait jamais parlee, mais que Pyranthus comprit comme on comprend sa propre langue maternelle.
+Car dans la douleur, il entendit quelque chose. Pas un son. Une pensée. Un mot. Un seul mot, dans une langue qu'aucun alchimiste n'avait jamais parlée, mais que Pyranthus comprit comme on comprend sa propre langue maternelle.
 
-*Bientot.*
+*Bientôt.*
 
-Il remonta dans ses appartements, la main enveloppee dans un linge, le visage blanc comme la cendre. Il s'assit a son bureau et ecrivit une lettre. Pas au Conseil. Pas aux pretres. A ses enfants. Trois mots :
+Il remonta dans ses appartements, la main enveloppée dans un linge, le visage blanc comme la cendre. Il s'assit à son bureau et écrivit une lettre. Pas au Conseil. Pas aux prêtres. À ses enfants. Trois mots :
 
-*Quittez l'ile.*
+*Quittez l'île.*
 
-Il n'envoya jamais la lettre. A l'aube, le Conseil des Cendres le convoqua pour discuter du commerce avec Diamoris. Pyranthus rangea la lettre dans un tiroir, enfila ses gants pour cacher sa brulure, et reprit son role de roi mystique et serein.
+Il n'envoya jamais la lettre. À l'aube, le Conseil des Cendres le convoqua pour discuter du commerce avec Diamoris. Pyranthus rangea la lettre dans un tiroir, enfila ses gants pour cacher sa brûlure, et reprit son rôle de roi mystique et serein.
 
 Mais chaque nuit, il redescend. Et chaque nuit, les murs fondent un peu plus.
 
 ---
 
-## Fyndoris — « L'Explosion du Septieme Jour »
+## Fyndoris — « L'Explosion du Septième Jour »
 
-L'alchimiste Syreth avait fait exploser son laboratoire six fois en trois ans. A Fyndoris, c'etait presque banal --- les toits de basalte existaient pour cette raison precise. Mais la septieme explosion fut differente.
+L'alchimiste Syreth avait fait exploser son laboratoire six fois en trois ans. À Fyndoris, c'était presque banal --- les toits de basalte existaient pour cette raison précise. Mais la septième explosion fut différente.
 
-Syreth travaillait sur un elixir de metamorphose --- une potion capable de transformer temporairement un metal en un autre. Du plomb en argent. Du fer en or. Le saint graal de l'alchimie cendarienne.
+Syreth travaillait sur un élixir de métamorphose --- une potion capable de transformer temporairement un métal en un autre. Du plomb en argent. Du fer en or. Le saint graal de l'alchimie cendarienne.
 
-La formule exigeait un ingredient qu'il n'avait pas : de l'eau des sources sulfureuses de Fyndoris, prelevee pendant une eruption du Mont Cendra. Le soufre volcanique, disait la theorie, catalysait la transformation moleculaire.
+La formule exigeait un ingrédient qu'il n'avait pas : de l'eau des sources sulfureuses de Fyndoris, prélevée pendant une éruption du Mont Cendra. Le soufre volcanique, disait la théorie, catalysait la transformation moleculaire.
 
-Il attendit l'eruption. Elle vint un mardi, comme toujours imprevue. Syreth courut aux sources, remplit ses flacons de l'eau bouillonnante chargee de particules volcaniques, et se precipita dans son laboratoire.
+Il attendit l'éruption. Elle vint un mardi, comme toujours imprévue. Syreth courut aux sources, remplit ses flacons de l'eau bouillonnante chargée de particules volcaniques, et se precipita dans son laboratoire.
 
-Il melangea. Il chauffa. Il recita les formules.
+Il mélangea. Il chauffa. Il récita les formules.
 
-L'explosion ne fit aucun bruit. C'etait le detail qui marqua les temoins. D'habitude, les explosions alchimiques de Fyndoris faisaient trembler les murs. Celle-ci fut silencieuse. Une lumiere blanche, aveuglante, qui dura une fraction de seconde. Puis rien.
+L'explosion ne fit aucun bruit. C'était le détail qui marqua les témoins. D'habitude, les explosions alchimiques de Fyndoris faisaient trembler les murs. Celle-ci fut silencieuse. Une lumière blanche, aveuglante, qui dura une fraction de seconde. Puis rien.
 
-Les voisins se precipiterent. Le laboratoire etait intact. Pas une vitre cassee. Pas un mur fissure. Mais a l'interieur, tout avait change.
+Les voisins se précipitèrent. Le laboratoire était intact. Pas une vitre cassée. Pas un mur fissure. Mais à l'intérieur, tout avait changé.
 
-Le plomb sur l'etabli etait devenu or. Pas un alliage. Pas un placage. De l'or pur, solide, verifiable. Les outils de fer etaient devenus argent. Les clous de cuivre etaient devenus platine. Chaque metal dans la piece avait ete transmute.
+Le plomb sur l'établi était devenu or. Pas un alliage. Pas un placage. De l'or pur, solide, vérifiable. Les outils de fer étaient devenus argent. Les clous de cuivre étaient devenus platine. Chaque métal dans la pièce avait été transmute.
 
 Et Syreth avait disparu.
 
-A sa place, au centre du laboratoire, une statue. Parfaite dans ses details --- les rides de ses mains, la courbe de son nez, le pli de sa chemise. Une statue de Syreth, grandeur nature.
+À sa place, au centre du laboratoire, une statue. Parfaite dans ses détails --- les rides de ses mains, la courbe de son nez, le pli de sa chemise. Une statue de Syreth, grandeur nature.
 
 En or pur.
 
-La Guilde des Potionnistes scella le laboratoire. On declara Syreth mort, victime d'une experience ayant mal tourne. La statue fut couverte d'un drap noir.
+La Guilde des Potionnistes scella le laboratoire. On déclara Syreth mort, victime d'une expérience ayant mal tourné. La statue fut couverte d'un drap noir.
 
-Mais les alchimistes de Fyndoris, ceux qui avaient les oreilles assez fines, juraient que la statue murmurait. Pas des mots. Des formules. Des equations. Comme si Syreth, prisonnier dans l'or, continuait ses calculs pour l'eternite.
+Mais les alchimistes de Fyndoris, ceux qui avaient les oreilles assez fines, juraient que la statue murmurait. Pas des mots. Des formules. Des équations. Comme si Syreth, prisonnier dans l'or, continuait ses calculs pour l'éternité.
 
 ---
 
-## Mylaris — « La Bergere et le Volcan »
+## Mylaris — « La Bergère et le Volcan »
 
-Les chevres volcaniques de Mylaris etaient les premieres a savoir. Avant les pretres, avant les alchimistes, avant les sismographes artisanaux --- les chevres. Elles s'agitaient des heures avant chaque eruption, belant, courant en cercles, refusant de manger.
+Les chèvres volcaniques de Mylaris étaient les premières à savoir. Avant les prêtres, avant les alchimistes, avant les sismographes artisanaux --- les chèvres. Elles s'agitaient des heures avant chaque éruption, belant, courant en cercles, refusant de manger.
 
-La bergere Tessa les ecoutait mieux que personne. A quatorze ans, elle avait deja predit trois eruptions mineures. Les villageois la trouvaient amusante --- une gamine qui parlait aux chevres. Les pretres la trouvaient derrangeante --- une paysanne qui rivalisait avec la Lecture des Cendres.
+La bergère Tessa les écoutait mieux que personne. À quatorze ans, elle avait déjà prédit trois éruptions mineures. Les villageois la trouvaient amusante --- une gamine qui parlait aux chèvres. Les prêtres la trouvaient derrangeante --- une paysanne qui rivalisait avec la Lecture des Cendres.
 
-Puis vint la grande eruption.
+Puis vint la grande éruption.
 
-Les chevres s'agiterent un matin de printemps. Pas l'agitation habituelle --- une panique. Les betes se jetaient contre les barrieres. Certaines se blessaient. Les chevreaux hurlaient.
+Les chèvres s'agiterent un matin de printemps. Pas l'agitation habituelle --- une panique. Les bêtes se jetaient contre les barrières. Certaines se blessaient. Les chevreaux hurlaient.
 
-Tessa leva les yeux vers le Mont Cendra. Rien. Le volcan fumait doucement, comme toujours. Les pretres consultés confirmerent : aucun signe d'eruption imminente.
+Tessa leva les yeux vers le Mont Cendra. Rien. Le volcan fumait doucement, comme toujours. Les prêtres consultés confirmerent : aucun signe d'eruption imminente.
 
-Tessa n'ecouta pas les pretres. Elle ecouta les chevres.
+Tessa n'écouta pas les prêtres. Elle écouta les chèvres.
 
-Elle descendit au village et frappa a chaque porte. *Partez. Maintenant. Prenez vos affaires et montez sur les collines. Le volcan va exploser.*
+Elle descendit au village et frappa à chaque porte. *Partez. Maintenant. Prenez vos affaires et montez sur les collines. Le volcan va exploser.*
 
-On la prit pour une folle. Quelques familles, celles qui avaient appris a se fier a ses predictions, partirent. Les autres resterent.
+On la prit pour une folle. Quelques familles, celles qui avaient appris à se fier à ses prédictions, partirent. Les autres restèrent.
 
-L'eruption frappa a minuit. Pas par le sommet --- par le flanc. Une fissure s'ouvrit a trois cents metres du village, crachant une coulee de lave qui devala la pente comme un fleuve de feu. Mylaris fut englouti en vingt minutes.
+L'éruption frappa à minuit. Pas par le sommet --- par le flanc. Une fissure s'ouvrit à trois cents mètres du village, crachant une coulée de lave qui dévala la pente comme un fleuve de feu. Mylaris fut englouti en vingt minutes.
 
-Trente-sept morts. Les familles qui n'avaient pas ecoute Tessa.
+Trente-sept morts. Les familles qui n'avaient pas écouté Tessa.
 
-Sur la colline, la bergere regardait le feu consumer les maisons ou elle avait grandi. Ses chevres etaient autour d'elle, calmes maintenant, comme si elles savaient que leur travail etait fait.
+Sur la colline, la bergère regardait le feu consumer les maisons où elle avait grandi. Ses chèvres étaient autour d'elle, calmes maintenant, comme si elles savaient que leur travail était fait.
 
-On reconstruisit Mylaris. Tessa devint la personne la plus respectee du village. Les pretres, humilies, lui proposerent un poste dans le temple. Elle refusa.
+On reconstruisit Mylaris. Tessa devint la personne la plus respectée du village. Les prêtres, humiliés, lui proposèrent un poste dans le temple. Elle refusa.
 
-*Je ne lis pas les cendres*, dit-elle. *J'ecoute les chevres. C'est tout.*
+*Je ne lis pas les cendres*, dit-elle. *J'écoute les chèvres. C'est tout.*
 
-Mais certaines nuits, quand elle etait seule avec son troupeau sur les flancs du Mont Cendra, elle posait sa main sur la terre chaude et sentait ce que les chevres sentaient --- le pouls du volcan, lent, regulier, patient. Et elle savait que la grande eruption n'etait pas celle qu'elles avaient prevue.
+Mais certaines nuits, quand elle était seule avec son troupeau sur les flancs du Mont Cendra, elle posait sa main sur la terre chaude et sentait ce que les chèvres sentaient --- le pouls du volcan, lent, régulier, patient. Et elle savait que la grande éruption n'était pas celle qu'elles avaient prévue.
 
-La grande eruption, la vraie, n'etait pas encore venue.
+La grande éruption, la vraie, n'était pas encore venue.
 
 ---
 
 ## Uthorin — « Le Dernier Quart d'Heure »
 
-Dans les mines de lave d'Uthorin, chaque descente etait une course contre la montre. Le baume ignifuge qui protegeait les combinaisons des mineurs durait quatre heures. Pas une minute de plus. Apres quatre heures, le cuir commencait a bruler. Apres quatre heures et quart, la peau suivait.
+Dans les mines de lave d'Uthorin, chaque descente était une course contre la montre. Le baume ignifuge qui protégeait les combinaisons des mineurs durait quatre heures. Pas une minute de plus. Après quatre heures, le cuir commençait à brûler. Après quatre heures et quart, la peau suivait.
 
-Le mineur Korvain descendait depuis dix-huit ans. Il connaissait les galeries comme ses propres veines. Il savait ou la temperature depassait le seuil critique, ou les poches de gaz se formaient, ou le magma coulait trop pres des parois.
+Le mineur Korvain descendait depuis dix-huit ans. Il connaissait les galeries comme ses propres veines. Il savait où la température dépassait le seuil critique, où les poches de gaz se formaient, où le magma coulait trop près des parois.
 
 Mais il ne connaissait pas la Galerie du Fond.
 
-On lui en avait parle. Les anciens mineurs en murmurant autour du feu, apres leur troisieme verre de vin noir. Une galerie plus profonde que toutes les autres, ou la temperature etait si elevee que le baume s'evaporait en une heure. Personne n'y descendait. Personne n'avait de raison d'y descendre.
+On lui en avait parlé. Les anciens mineurs en murmurant autour du feu, après leur troisième verre de vin noir. Une galerie plus profonde que toutes les autres, où la température était si élevée que le baume s'évaporait en une heure. Personne n'y descendait. Personne n'avait de raison d'y descendre.
 
-Jusqu'au jour ou Korvain trouva le cristal.
+Jusqu'au jour où Korvain trouva le cristal.
 
-Un cristal rouge, gros comme son poing, enchasse dans une paroi qu'il avait frappee mille fois sans rien trouver. Le cristal brillait d'une lumiere interieure, chaude, pulsante. Korvain le toucha. Il etait tiede --- pas brulant comme tout le reste dans ces galeries. Tiede, comme la peau d'un etre vivant.
+Un cristal rouge, gros comme son poing, enchasse dans une paroi qu'il avait frappée mille fois sans rien trouver. Le cristal brillait d'une lumière intérieure, chaude, pulsante. Korvain le toucha. Il était tiède --- pas brûlant comme tout le reste dans ces galeries. Tiède, comme la peau d'un être vivant.
 
-Il le preleva. Il le remonta. Les alchimistes de la Guilde des Mineurs l'examinerent et blanchirent. Le cristal n'etait pas un minerai connu. Sa structure moleculaire ne correspondait a rien dans leurs registres. Et il pulsait. A un rythme identique a celui du Coeur de Cendra.
+Il le preleva. Il le remonta. Les alchimistes de la Guilde des Mineurs l'examinèrent et blanchirent. Le cristal n'était pas un minerai connu. Sa structure moleculaire ne correspondait à rien dans leurs registres. Et il pulsait. À un rythme identique à celui du Cœur de Cendra.
 
-On ordonna a Korvain de retrouver la veine d'ou provenait le cristal. Il redescendit. Seul. Avec un double dose de baume --- huit heures de protection.
+On ordonna à Korvain de retrouver la veine d'où provenait le cristal. Il redescendit. Seul. Avec un double dose de baume --- huit heures de protection.
 
-Il trouva la veine. Elle menait plus profond. Beaucoup plus profond. Il suivit le cristal, qui brillait de plus en plus fort a mesure qu'il descendait. La chaleur augmentait. Le baume s'amincissait.
+Il trouva la veine. Elle menait plus profond. Beaucoup plus profond. Il suivit le cristal, qui brillait de plus en plus fort à mesure qu'il descendait. La chaleur augmentait. Le baume s'amincissait.
 
-A la septieme heure, il atteignit une caverne. Immense. Rouge. Pulsante. Les murs etaient couverts de cristaux identiques, des milliers, formant un reseau lumineux qui convergeait vers le centre.
+À la septième heure, il atteignit une caverne. Immense. Rouge. Pulsante. Les murs étaient couverts de cristaux identiques, des milliers, formant un réseau lumineux qui convergeait vers le centre.
 
 Au centre, un lac de magma. Pas du magma ordinaire --- un magma noir, dense, qui ne coulait pas mais respirait. Qui montait et descendait comme la poitrine d'un dormeur.
 
@@ -143,7 +143,7 @@ Korvain regarda le baume sur ses bras. Une demi-heure de protection restante. Il
 
 Il ne remonta pas.
 
-On ne retrouva jamais son corps. Mais les mineurs d'Uthorin qui descendent dans les galeries profondes jurent que, parfois, ils entendent des coups --- reguliers, rythmes, comme un mineur qui frappe la roche. Toujours plus profond. Toujours plus bas.
+On ne retrouva jamais son corps. Mais les mineurs d'Uthorin qui descendent dans les galeries profondes jurent que, parfois, ils entendent des coups --- réguliers, rythmes, comme un mineur qui frappe la roche. Toujours plus profond. Toujours plus bas.
 
 Comme si Korvain cherchait encore.
 
@@ -151,145 +151,145 @@ Comme si Korvain cherchait encore.
 
 ## Thaldor — « La Colonne qui Parle »
 
-A Thaldor, les Colonnes de Memoire racontaient la vie des morts. Chaque rune gravee dans le basalte relatait un moment --- une naissance, un mariage, une victoire, une mort. Les sculpteurs de Thaldor taillaient ces colonnes avec une devotion qui tenait autant de l'art que de la priere.
+À Thaldor, les Colonnes de Mémoire racontaient la vie des morts. Chaque rune gravée dans le basalte relatait un moment --- une naissance, un mariage, une victoire, une mort. Les sculpteurs de Thaldor taillaient ces colonnes avec une dévotion qui tenait autant de l'art que de la prière.
 
-Le sculpteur Maeven etait le meilleur de sa generation. Ses runes etaient si precises qu'on disait qu'elles vibraient sous les doigts, comme si le mort lui-meme avait guide son ciseau.
+Le sculpteur Maeven était le meilleur de sa génération. Ses runes étaient si précises qu'on disait qu'elles vibraient sous les doigts, comme si le mort lui-même avait guidé son ciseau.
 
-On lui commanda la colonne du Grand Pyromancien Ashavar --- le plus celebre pyromancien de l'histoire de Brumaria, mort trois siecles auparavant, dont l'ancienne colonne s'etait fissuree. Un honneur immense. Maeven s'enferma dans son atelier et travailla pendant six mois.
+On lui commanda la colonne du Grand Pyromancien Ashavar --- le plus célèbre pyromancien de l'histoire de Brumaria, mort trois siècles auparavant, dont l'ancienne colonne s'était fissurée. Un honneur immense. Maeven s'enferma dans son atelier et travailla pendant six mois.
 
-Le probleme commenca a la troisieme rune. Maeven gravait les exploits d'Ashavar tels que les chroniques les relataient. Mais son ciseau refusait de suivre le tracé prevu. Ses mains deviaient, traçant des runes differentes --- des runes qui n'etaient pas dans les chroniques.
+Le problème commença à la troisième rune. Maeven gravait les exploits d'Ashavar tels que les chroniques les relataient. Mais son ciseau refusait de suivre le tracé prévu. Ses mains déviaient, traçant des runes différentes --- des runes qui n'étaient pas dans les chroniques.
 
 Des runes qui racontaient une autre histoire.
 
-Pas l'histoire d'un pyromancien glorieux. L'histoire d'un homme hante par le doute. D'un roi qui avait monte dans le cratere du Mont Cendra non pas par foi, mais par desespoir. D'un Coeur de Cendra qui n'etait pas un miracle mais un pacte --- un echange entre un homme brise et quelque chose qui vivait dans le magma.
+Pas l'histoire d'un pyromancien glorieux. L'histoire d'un homme hanté par le doute. D'un roi qui avait monté dans le cratère du Mont Cendra non pas par foi, mais par désespoir. D'un Cœur de Cendra qui n'était pas un miracle mais un pacte --- un échange entre un homme brisé et quelque chose qui vivait dans le magma.
 
-Maeven tenta de corriger. Ses mains refuserent. Il brisa son ciseau, en prit un autre. Le meme resultat. Quel que soit l'outil, la pierre racontait sa propre version de l'histoire.
+Maeven tenta de corriger. Ses mains refusèrent. Il brisa son ciseau, en prit un autre. Le même résultat. Quel que soit l'outil, la pierre racontait sa propre version de l'histoire.
 
-Il prevint les pretres. Ils lui ordonnerent de detruire la colonne et de recommencer. Il obeit. La nouvelle colonne raconta la meme histoire.
+Il prevint les prêtres. Ils lui ordonnèrent de détruire la colonne et de recommencer. Il obéit. La nouvelle colonne raconta la même histoire.
 
-Trois fois, il recommenca. Trois fois, la pierre imposa sa verite.
+Trois fois, il recommença. Trois fois, la pierre imposa sa vérité.
 
-A la quatrieme tentative, Maeven cessa de lutter. Il laissa ses mains graver ce qu'elles voulaient graver. La colonne achevee etait la plus belle qu'il ait jamais creee --- et la plus terrifiante.
+À la quatrième tentative, Maeven cessa de lutter. Il laissa ses mains graver ce qu'elles voulaient graver. La colonne achevée était la plus belle qu'il ait jamais créée --- et la plus terrifiante.
 
-Les pretres la scellèrent dans une cave sous le temple de Thaldor. Maeven fut interdit d'exercer. Il quitta le village et disparut dans les montagnes d'Utophora.
+Les prêtres la scellèrent dans une cave sous le temple de Thaldor. Maeven fut interdit d'exercer. Il quitta le village et disparut dans les montagnes d'Utophora.
 
-Mais les sculpteurs qui lui succederent rapporterent le meme phenomene. Pas sur chaque colonne. Juste de temps en temps. Une rune qui devie. Un mot qui s'impose. Comme si les morts, ou quelque chose qui parlait a travers eux, essayaient de corriger l'histoire.
+Mais les sculpteurs qui lui succédèrent rapportèrent le même phénomène. Pas sur chaque colonne. Juste de temps en temps. Une rune qui dévie. Un mot qui s'impose. Comme si les morts, ou quelque chose qui parlait à travers eux, essayaient de corriger l'histoire.
 
 ---
 
 ## Galron — « Le Prospecteur Silencieux »
 
-Les prospecteurs de Galron ne revenaient pas toujours. C'etait un fait. Accepte. Ordinaire. Les cavernes d'Utophora etaient dangereuses --- effondrements, gaz toxiques, fissures de magma. Quand un prospecteur ne revenait pas, on ajoutait son nom au mur du memorial et on buvait un verre de vin noir a sa memoire.
+Les prospecteurs de Galron ne revenaient pas toujours. C'était un fait. Accepté. Ordinaire. Les cavernes d'Utophora étaient dangereuses --- effondrements, gaz toxiques, fissures de magma. Quand un prospecteur ne revenait pas, on ajoutait son nom au mur du memorial et on buvait un verre de vin noir à sa mémoire.
 
-Mais quand Aldren Voss revint apres dix-sept jours d'absence, le silence qui l'accompagnait etait different.
+Mais quand Aldren Voss revint après dix-sept jours d'absence, le silence qui l'accompagnait était différent.
 
-Voss etait parti explorer un reseau de cavernes au nord de la vallee, signale par des vibrations inhabituelles dans la roche. Une expedition de routine. Trois jours, quatre au maximum.
+Voss était parti explorer un réseau de cavernes au nord de la vallée, signalé par des vibrations inhabituelles dans la roche. Une expédition de routine. Trois jours, quatre au maximum.
 
-Au cinquieme jour, ses collegues commencerent a s'inquieter. Au dixieme, on le declara perdu. Au dix-septieme, il reapparut a l'entree de la vallee, marchant d'un pas regulier, couvert de poussiere noire, les yeux grands ouverts et parfaitement calmes.
+Au cinquième jour, ses collègues commencèrent à s'inquiéter. Au dixième, on le déclara perdu. Au dix-septième, il reapparut à l'entrée de la vallée, marchant d'un pas régulier, couvert de poussière noire, les yeux grands ouverts et parfaitement calmes.
 
 On le bombarda de questions. Il ne repondit pas. Pas un mot. Pas un geste. Il traversa le village, entra dans sa maison, s'assit sur sa chaise, et fixa le mur.
 
-Les jours passerent. Voss ne parlait pas. Ne mangeait pas, sauf quand on lui mettait la nourriture dans les mains. Ne dormait pas --- ses yeux ne se fermaient jamais. Il respirait. Son coeur battait. Mais tout le reste avait cesse.
+Les jours passèrent. Voss ne parlait pas. Ne mangeait pas, sauf quand on lui mettait la nourriture dans les mains. Ne dormait pas --- ses yeux ne se fermaient jamais. Il respirait. Son cœur battait. Mais tout le reste avait cessé.
 
-Les guerisseurs l'examinerent. Aucune blessure. Aucune maladie. Aucun signe de folie. Simplement... une absence. Comme si Voss etait la, mais que ce qui faisait de Voss un homme etait reste dans les cavernes.
+Les guérisseurs l'examinèrent. Aucune blessure. Aucune maladie. Aucun signe de folie. Simplement... une absence. Comme si Voss était là, mais que ce qui faisait de Voss un homme était resté dans les cavernes.
 
-Au bout d'un mois, un detail troubla les villageois. Les mains de Voss bougeaient. Pas ses bras --- juste ses doigts. Ils tracaient des motifs dans l'air, repetitivement, inlassablement. Un prospecteur observateur reconnut les gestes : Voss cartographiait. Il tracait des tunnels, des salles, des passages, avec la precision d'un homme qui a passe des annees a memoriser un reseau souterrain.
+Au bout d'un mois, un détail troubla les villageois. Les mains de Voss bougeaient. Pas ses bras --- juste ses doigts. Ils tracaient des motifs dans l'air, repetitivement, inlassablement. Un prospecteur observateur reconnut les gestes : Voss cartographiait. Il traçait des tunnels, des salles, des passages, avec la précision d'un homme qui a passé des années à mémoriser un réseau souterrain.
 
-Les prospecteurs recopierent les gestes sur du papier. Ce qu'ils obtinrent etait une carte. Une carte de cavernes qui n'existaient sur aucun registre --- des galeries immenses, des salles colossales, un reseau qui s'etendait sous tout Cendara et convergeait vers un point central.
+Les prospecteurs recopierent les gestes sur du papier. Ce qu'ils obtinrent était une carte. Une carte de cavernes qui n'existaient sur aucun registre --- des galeries immenses, des salles colossales, un réseau qui s'étendait sous tout Cendara et convergeait vers un point central.
 
-Le point central correspondait exactement a l'emplacement de la Chambre du Coeur de Cendra, sous le palais de Brumaris.
+Le point central correspondait exactement à l'emplacement de la Chambre du Cœur de Cendra, sous le palais de Brumaris.
 
-Personne ne descendit verifier. Les prospecteurs de Galron etaient audacieux, pas suicidaires.
+Personne ne descendit vérifier. Les prospecteurs de Galron étaient audacieux, pas suicidaires.
 
-Voss mourut un an plus tard, toujours assis sur sa chaise, les doigts toujours en mouvement. On le brula sur un bucher de bois noir, selon la coutume. Mais les flammes de son bucher etaient bleues --- pas oranges, pas jaunes. Bleues, comme le coeur le plus chaud d'une forge.
+Voss mourut un an plus tard, toujours assis sur sa chaise, les doigts toujours en mouvement. On le brûla sur un bûcher de bois noir, selon la coutume. Mais les flammes de son bûcher étaient bleues --- pas oranges, pas jaunes. Bleues, comme le cœur le plus chaud d'une forge.
 
 ---
 
-## Virondis — « L'Arbre qui ne Brulait Pas »
+## Virondis — « L'Arbre qui ne Brûlait Pas »
 
-Tout brulait a Cendara. Tout. Sauf les arbres de Virendor. Cette anomalie, vieille de plusieurs siecles, n'avait jamais ete expliquee. L'ecorce des arbres ignifuges resistait aux flammes comme si elle n'etait pas faite de bois mais de pierre. Les alchimistes avaient analyse, dissèque, teste. Rien. L'ecorce etait du bois. Du simple bois. Qui refusait de bruler.
+Tout brulait a Cendara. Tout. Sauf les arbres de Virendor. Cette anomalie, vieille de plusieurs siècles, n'avait jamais été expliquée. L'écorce des arbres ignifuges resistait aux flammes comme si elle n'était pas faite de bois mais de pierre. Les alchimistes avaient analysé, dissèque, teste. Rien. L'écorce était du bois. Du simple bois. Qui refusait de brûler.
 
-La forestiere Ilseth trouva la raison par accident.
+La forestière Ilseth trouva la raison par accident.
 
-Elle abattait un arbre centenaire --- un geant dont le tronc mesurait quatre metres de diametre --- quand sa hache toucha quelque chose de dur au centre. Pas du bois. De la pierre. Un noyau de basalte, parfaitement spherique, de la taille d'une tete d'enfant, enchasse au coeur de l'arbre.
+Elle abattait un arbre centenaire --- un géant dont le tronc mesurait quatre mètres de diamètre --- quand sa hache toucha quelque chose de dur au centre. Pas du bois. De la pierre. Un noyau de basalte, parfaitement sphérique, de la taille d'une tête d'enfant, enchasse au cœur de l'arbre.
 
-Ilseth degagea le noyau. Il etait chaud. Pas brulant --- tiede. Comme un oeuf couve par un feu souterrain. Et a sa surface, des runes. Des runes identiques a celles des Colonnes de Memoire de Thaldor, mais plus anciennes. Beaucoup plus anciennes.
+Ilseth dégagea le noyau. Il était chaud. Pas brûlant --- tiède. Comme un œuf couve par un feu souterrain. Et à sa surface, des runes. Des runes identiques à celles des Colonnes de Mémoire de Thaldor, mais plus anciennes. Beaucoup plus anciennes.
 
-Elle prevint les autorites. On envoya un alchimiste qui examina le noyau et palît. Les runes etaient dans une langue pre-cendarienne --- anterieure a Ashgrim, anterieure aux naufragés fondateurs. Quelqu'un avait plante ces noyaux dans les arbres avant que les humains n'arrivent a Cendara.
+Elle prévint les autorités. On envoya un alchimiste qui examina le noyau et palît. Les runes étaient dans une langue pré-cendarienne --- antérieure à Ashgrim, antérieure aux naufragés fondateurs. Quelqu'un avait planté ces noyaux dans les arbres avant que les humains n'arrivent à Cendara.
 
-On abattit un deuxieme arbre. Meme noyau. Meme runes. Un troisieme. Identique. Chaque arbre ignifuge de Virendor contenait un noyau de basalte rune.
+On abattit un deuxième arbre. Même noyau. Même runes. Un troisième. Identique. Chaque arbre ignifuge de Virendor contenait un noyau de basalte rune.
 
-L'alchimiste redigea un rapport. Le rapport fut classe secret par le Conseil des Cendres. On interdit a Ilseth d'en parler. On lui offrit une promotion. Elle accepta.
+L'alchimiste rédigea un rapport. Le rapport fut classé secret par le Conseil des Cendres. On interdit à Ilseth d'en parler. On lui offrit une promotion. Elle accepta.
 
-Mais la nuit, seule dans sa cabane au milieu de la foret silencieuse, elle pensait aux runes. Et a la question qu'elles posaient : si quelqu'un avait protege ces arbres du feu bien avant l'arrivee des humains... contre quel feu les protegeait-on ?
+Mais la nuit, seule dans sa cabane au milieu de la forêt silencieuse, elle pensait aux runes. Et à la question qu'elles posaient : si quelqu'un avait protégé ces arbres du feu bien avant l'arrivée des humains... contre quel feu les protégeait-on ?
 
 ---
 
 ## Diamoris — « Le Port des Disparus »
 
-Diamoris etait le port le plus anime de Brumaria. Des navires de tout Hybelior y accostaient pour acheter les merveilles de l'ile --- metaux volcaniques, cristaux de lave, potions alchimiques. Le marche aux cristaux attirait des marchands de continents lointains.
+Diamoris était le port le plus anime de Brumaria. Des navires de tout Hybelior y accostaient pour acheter les merveilles de l'île --- métaux volcaniques, cristaux de lave, potions alchimiques. Le marche aux cristaux attirait des marchands de continents lointains.
 
-Le maitre-portuaire Grendel tenait un registre. Pas le registre officiel des cargaisons et des taxes. Un registre personnel. Celui des disparus.
+Le maître-portuaire Grendel tenait un registre. Pas le registre officiel des cargaisons et des taxes. Un registre personnel. Celui des disparus.
 
-En vingt ans de service, Grendel avait note quatre-vingt-trois disparitions. Des marins qui descendaient a terre et ne remontaient jamais a bord. Des marchands qui s'aventuraient au-dela du port et ne revenaient pas. Des curieux qui posaient trop de questions sur l'interieur de l'ile.
+En vingt ans de service, Grendel avait noté quatre-vingt-trois disparitions. Des marins qui descendaient à terre et ne remontaient jamais à bord. Des marchands qui s'aventuraient au-delà du port et ne revenaient pas. Des curieux qui posaient trop de questions sur l'intérieur de l'île.
 
-Officiellement, ces gens avaient deserte. Se noyer. Se perdre. Un port dangereux, une cote inhospitaliere, des accidents.
+Officiellement, ces gens avaient déserté. Se noyer. Se perdre. Un port dangereux, une côte inhospitalière, des accidents.
 
-Grendel n'y croyait pas. Car quatre-vingt-trois disparitions en vingt ans formaient un schema. Toujours pendant les eruptions mineures, quand le Mont Cendra crachait ses cendres et que le ciel s'obscurcissait. Toujours des etrangers. Et toujours --- detail que Grendel etait le seul a avoir remarque --- des gens qui avaient achete un cristal particulier au marche. Pas n'importe quel cristal. Un cristal rouge, profond, qui pulsait faiblement.
+Grendel n'y croyait pas. Car quatre-vingt-trois disparitions en vingt ans formaient un schéma. Toujours pendant les éruptions mineures, quand le Mont Cendra crachait ses cendres et que le ciel s'obscurcissait. Toujours des étrangers. Et toujours --- détail que Grendel était le seul à avoir remarqué --- des gens qui avaient acheté un cristal particulier au marche. Pas n'importe quel cristal. Un cristal rouge, profond, qui pulsait faiblement.
 
-Le meme type de cristal que celui du Coeur de Cendra.
+Le même type de cristal que celui du Cœur de Cendra.
 
-Grendel ne partagea jamais ses observations. Il tenait son registre, nuit apres nuit, ajoutant des noms et des details avec la meticulosite d'un comptable de la mort. Il savait que quelque chose sur cette ile prenait des gens. Il ne savait pas quoi. Il ne savait pas pourquoi.
+Grendel ne partagea jamais ses observations. Il tenait son registre, nuit après nuit, ajoutant des noms et des détails avec la meticulosite d'un comptable de la mort. Il savait que quelque chose sur cette île prenait des gens. Il ne savait pas quoi. Il ne savait pas pourquoi.
 
-Mais il remarqua une derniere chose, la veille de sa propre retraite. Les cristaux rouges au marche --- ceux que les disparus avaient achetes --- personne ne se souvenait de les avoir vendus. Aucun marchand. Aucun cristallier. Les cristaux apparaissaient sur les etals le matin et disparaissaient le soir avec leur acheteur.
+Mais il remarqua une dernière chose, la veille de sa propre retraite. Les cristaux rouges au marche --- ceux que les disparus avaient achetés --- personne ne se souvenait de les avoir vendus. Aucun marchand. Aucun cristallier. Les cristaux apparaissaient sur les étals le matin et disparaissaient le soir avec leur acheteur.
 
-Comme des appats dans un piege.
+Comme des appats dans un piège.
 
 ---
 
-## Kaldris — « La Maree qui ne Revint Pas »
+## Kaldris — « La Marée qui ne Revint Pas »
 
-Les plongeurs de Kaldris vivaient au rythme de la maree. Descendre a maree basse. Recolter les cristaux. Remonter avant que l'eau ne remonte. Six heures de fenetre. Pas une minute de plus.
+Les plongeurs de Kaldris vivaient au rythme de la marée. Descendre a marée basse. Récolter les cristaux. Remonter avant que l'eau ne remonte. Six heures de fenêtre. Pas une minute de plus.
 
-La plongeuse Eyra avait le meilleur chronometre biologique de Kaldris. Trois generations de plongeurs dans ses veines. Elle sentait la maree dans ses os, dans ses poumons, dans le gout du sel sur ses levres. Elle n'avait jamais ete prise par l'eau montante. Pas une seule fois en quinze ans.
+La plongeuse Eyra avait le meilleur chronomètre biologique de Kaldris. Trois générations de plongeurs dans ses veines. Elle sentait la marée dans ses os, dans ses poumons, dans le goût du sel sur ses lèvres. Elle n'avait jamais été prisé par l'eau montante. Pas une seule fois en quinze ans.
 
-Le jour ou la maree ne remonta pas, Eyra fut la premiere a le remarquer.
+Le jour où la marée ne remonta pas, Eyra fut la première à le remarquer.
 
-Elle etait dans les grottes, les mains pleines de cristaux dores, quand elle sentit que quelque chose manquait. Le tiraillement habituel dans sa poitrine --- celui qui la prevenait que l'eau allait remonter --- n'etait pas la. Elle attendit. Rien. L'eau restait basse. Les grottes restaient seches.
+Elle était dans les grottes, les mains pleines de cristaux dorés, quand elle sentit que quelque chose manquait. Le tiraillement habituel dans sa poitrine --- celui qui la prévenait que l'eau allait remonter --- n'était pas là. Elle attendit. Rien. L'eau restait basse. Les grottes restaient sèches.
 
-Six heures passerent. Sept. Huit. La maree ne revint pas.
+Six heures passèrent. Sept. Huit. La marée ne revint pas.
 
-Les plongeurs remonterent, perplexes. Sur la plage, les pecheurs fixaient la mer avec des yeux ronds. L'ocean s'etait retire. Pas violemment, comme avant un raz-de-maree. Doucement, comme un animal qui recule devant un predateur. Les recifs qui etaient normalement sous l'eau emergaient comme des squelettes blancs. Des creatures des profondeurs --- poissons aveugles, crustaces lumineux --- gisaient sur le sable, echouees par un retrait qu'elles n'avaient pas prevu.
+Les plongeurs remontèrent, perplexes. Sur la plage, les pêcheurs fixaient la mer avec des yeux ronds. L'océan s'était retiré. Pas violemment, comme avant un raz-de-marée. Doucement, comme un animal qui recule devant un predateur. Les récifs qui étaient normalement sous l'eau emergaient comme des squelettes blancs. Des créatures des profondeurs --- poissons aveugles, crustacés lumineux --- gisaient sur le sable, échouées par un retrait qu'elles n'avaient pas prévu.
 
-Et dans le lointain, la ou l'ocean aurait du etre, une lueur. Rouge. Pulsante.
+Et dans le lointain, là où l'océan aurait dû être, une lueur. Rouge. Pulsante.
 
-Les pretres de l'Ignis Aeternum furent appeles. Ils consulterent les cendres. Ils lurent les signes. Ils annoncerent que la mer reviendrait. Elle revint, en effet, douze heures plus tard, d'un coup, en un mur d'eau qui faillit emporter les maisons les plus basses de Kaldris.
+Les prêtres de l'Ignis Aeternum furent appelés. Ils consultèrent les cendres. Ils lurent les signes. Ils annoncerent que la mer reviendrait. Elle revint, en effet, douze heures plus tard, d'un coup, en un mur d'eau qui faillit emporter les maisons les plus basses de Kaldris.
 
-Mais Eyra avait vu la lueur. Elle savait ce qu'elle avait vu. Sous l'ocean, la ou le magma souterrain rencontrait les eaux profondes, quelque chose avait bouge. Quelque chose d'assez grand pour repousser la mer.
+Mais Eyra avait vu la lueur. Elle savait ce qu'elle avait vu. Sous l'océan, là où le magma souterrain rencontrait les eaux profondes, quelque chose avait bougé. Quelque chose d'assez grand pour repousser la mer.
 
-Elle n'en parla pas. A Kaldris, on ne parle pas des choses qui repoussent la mer. On plonge, on recolte, on remonte.
+Elle n'en parla pas. À Kaldris, on ne parle pas des choses qui repoussent la mer. On plonge, on récolte, on remonte.
 
 Mais Eyra ne plongea plus jamais aussi profond.
 
 ---
 
-## Malthoris — « Le Poisson Prophetique »
+## Malthoris — « Le Poisson Prophétique »
 
-Les pecheurs de Malthoris avaient l'habitude de l'etrange. Leurs prises, venues des eaux sulfureuses rechauffees par les sources hydrothermales, n'etaient jamais ordinaires. Des poissons aux ecailles iridescentes, des crustaces dont la carapace brillait dans le noir, des creatures sans nom qu'on rejetait en detournant le regard.
+Les pêcheurs de Malthoris avaient l'habitude de l'étrange. Leurs prises, venues des eaux sulfureuses réchauffées par les sources hydrothermales, n'étaient jamais ordinaires. Des poissons aux écailles iridescentes, des crustacés dont la carapace brillait dans le noir, des créatures sans nom qu'on rejetait en détournant le regard.
 
-Mais le poisson que le vieux Morven remonta ce matin-la etait different.
+Mais le poisson que le vieux Morven remonta ce matin-là était différent.
 
-Il etait gros comme un thon. Noir, luisant, avec des ecailles qui n'etaient pas des ecailles --- elles ressemblaient a des runes. De petites inscriptions, gravees dans la peau meme du poisson, disposees en spirales regulieres autour de son corps.
+Il était gros comme un thon. Noir, luisant, avec des écailles qui n'étaient pas des écailles --- elles ressemblaient à des runes. De petites inscriptions, gravées dans la peau même du poisson, disposées en spirales régulières autour de son corps.
 
-Morven le posa sur le quai. Il etait mort. Mais ses yeux --- de grands yeux jaunes, sans pupille --- etaient fixes sur lui avec une intention qui fit frissonner le pecheur.
+Morven le posa sur le quai. Il était mort. Mais ses yeux --- de grands yeux jaunes, sans pupille --- étaient fixés sur lui avec une intention qui fit frissonner le pêcheur.
 
-On appela un pretre. Le pretre examina les runes sur le corps du poisson et perdit la couleur de son visage. Il connaissait ces runes. Elles appartenaient au meme alphabet que les inscriptions dans les galeries anciennes sous le Temple des Flammes Eternelles sur Ilnara.
+On appela un prêtre. Le prêtre examina les runes sur le corps du poisson et perdit la couleur de son visage. Il connaissait ces runes. Elles appartenaient au même alphabet que les inscriptions dans les galeries anciennes sous le Temple des Flammes Éternelles sur Ilnara.
 
-Il traduisit ce qu'il put : *Le feu monte. L'eau recule. Le reveil est en cours. Ceci est le dernier avertissement.*
+Il traduisit ce qu'il put : *Le feu monte. L'eau reculé. Le réveil est en cours. Ceci est le dernier avertissement.*
 
-On brula le poisson sur un bucher de bois noir, selon le rite funeraire des pretres. Les cendres furent jetees a la mer. Le pretre redigea un rapport au Temple Central de Brumaris.
+On brûla le poisson sur un bûcher de bois noir, selon le rite funéraire des prêtres. Les cendres furent jetées à la mer. Le prêtre rédigea un rapport au Temple Central de Brumaris.
 
-Le rapport disparut. Comme beaucoup de rapports inquietants, il fut classe, archive, oublie.
+Le rapport disparut. Comme beaucoup de rapports inquiétants, il fut classé, archive, oublié.
 
 Morven, lui, n'oublia pas. Chaque matin, quand il sortait en mer, il regardait ses prises avec une attention nouvelle. Il ne retrouva jamais un poisson pareil. Mais parfois, dans les eaux profondes, il apercevait des lueurs. Rouges. Regulieres. Comme des yeux ouverts dans l'abîme.
 
@@ -297,25 +297,25 @@ Morven, lui, n'oublia pas. Chaque matin, quand il sortait en mer, il regardait s
 
 ## Galrith — « Le Verre qui Saigne »
 
-Les souffleurs de verre de Galrith travaillaient l'obsidienne fondue avec une maitrise que des siecles de pratique avaient perfectionnee. Leurs creations --- vases translucides, lentilles, instruments --- etaient connues dans tout Hybelior.
+Les souffleurs de verre de Galrith travaillaient l'obsidienne fondue avec une maîtrise que des siècles de pratique avaient perfectionnée. Leurs créations --- vases translucides, lentilles, instruments --- étaient connues dans tout Hybelior.
 
-L'artisan Calwen etait reputee pour ses vases. D'une finesse extreme, ils captaient la lumiere et la diffusaient en motifs changeants. Les collectionneurs du monde entier se les arrachaient.
+L'artisan Calwen était réputée pour ses vases. D'une finesse extrême, ils captaient la lumière et la diffusaient en motifs changeants. Les collectionneurs du monde entier se les arrachaient.
 
-Un soir, en soufflant une piece particulierement delicate, Calwen vit quelque chose dans le verre en fusion. Pas son reflet. Une silhouette. Vague, sombre, qui se mouvait dans l'obsidienne liquide comme un poisson dans un bassin de lave.
+Un soir, en soufflant une pièce particulièrement délicate, Calwen vit quelque chose dans le verre en fusion. Pas son reflet. Une silhouette. Vague, sombre, qui se mouvait dans l'obsidienne liquide comme un poisson dans un bassin de lave.
 
 Elle souffla. Le vase se forma, parfait, translucide. La silhouette disparut.
 
-Mais le lendemain, quand un apprenti toucha le vase, il se coupa. Le verre, poli et lisse, avait pourtant entaille sa main. Et du vase --- pas de la main, du vase --- coula un liquide rouge. Pas de l'eau teintee. Du sang. Chaud. Vivant.
+Mais le lendemain, quand un apprenti toucha le vase, il se coupa. Le verre, poli et lisse, avait pourtant entaille sa main. Et du vase --- pas de la main, du vase --- coula un liquide rouge. Pas de l'eau teintée. Du sang. Chaud. Vivant.
 
-Calwen brisa le vase. Le sang cessa de couler. Elle fondit les morceaux et recommenca.
+Calwen brisa le vase. Le sang cessa de couler. Elle fondit les morceaux et recommença.
 
 Le nouveau vase saigna aussi.
 
-Elle changea d'obsidienne. Meme resultat. Elle changea de four. Meme resultat. Chaque piece qu'elle creait, quelle que soit la matiere, contenait une goutte de sang.
+Elle changea d'obsidienne. Même résultat. Elle changea de four. Même résultat. Chaque pièce qu'elle créait, quelle que soit la matière, contenait une goutte de sang.
 
-Un alchimiste analysa le liquide. Ce n'etait pas du sang humain. Ce n'etait pas du sang animal. C'etait quelque chose de plus ancien --- une substance organique sans equivalent connu, qui contenait des traces de mineraux volcaniques identiques a ceux du magma du Mont Cendra.
+Un alchimiste analysa le liquide. Ce n'était pas du sang humain. Ce n'était pas du sang animal. C'était quelque chose de plus ancien --- une substance organique sans équivalent connu, qui contenait des traces de minéraux volcaniques identiques à ceux du magma du Mont Cendra.
 
-Calwen cessa de souffler le verre. Mais ses mains, formees par trente ans de metier, refuserent de rester immobiles. Chaque nuit, dans son sommeil, elles se tendaient vers le four eteint, mimant les gestes du soufflage, faconnant un vase invisible dans l'air.
+Calwen cessa de souffler le verre. Mais ses mains, formées par trente ans de métier, refusèrent de rester immobiles. Chaque nuit, dans son sommeil, elles se tendaient vers le four éteint, mimant les gestes du soufflage, façonnant un vase invisible dans l'air.
 
 Et chaque matin, sur ses draps, des gouttes de sang. Pas le sien.
 
@@ -323,226 +323,226 @@ Et chaque matin, sur ses draps, des gouttes de sang. Pas le sien.
 
 ## Solarith — « Les Vendanges de Cendre »
 
-Le vin noir de Solarith avait un gout de fumee et de fruits brules. C'etait le breuvage le plus celebre de Brumaria --- sombre comme l'obsidienne, riche, complexe. Les vignerons de Solarith le produisaient depuis des siecles, nourrissant leurs vignes de cendres millenaires.
+Le vin noir de Solarith avait un goût de fumée et de fruits brûlés. C'était le breuvage le plus célèbre de Brumaria --- sombre comme l'obsidienne, riche, complexe. Les vignerons de Solarith le produisaient depuis des siècles, nourrissant leurs vignes de cendres millénaires.
 
-Le vigneron Aldric avait le meilleur palais de la region. Il goutait chaque baril avant la mise en cave, identifiant les subtilites que d'autres ne percevaient pas. Fume. Mineral. Soufre. Miel de lave. Chaque millesime avait sa signature.
+Le vigneron Aldric avait le meilleur palais de la région. Il goûtait chaque baril avant la mise en cave, identifiant les subtilités que d'autres ne percevaient pas. Fume. Minéral. Soufre. Miel de lave. Chaque millésime avait sa signature.
 
-Le millesime de cette annee avait quelque chose de plus.
+Le millésime de cette année avait quelque chose de plus.
 
-Aldric porta le verre a ses levres. Fume --- oui. Mineral --- evidemment. Soufre --- toujours. Mais derriere ces notes familieres, quelque chose d'autre. Un gout metallique, ancien, qui ne ressemblait a rien de ce qu'il avait goute en quarante ans de metier.
+Aldric porta le verre à ses lèvres. Fume --- oui. Minéral --- évidemment. Soufre --- toujours. Mais derrière ces notes familières, quelque chose d'autre. Un goût métallique, ancien, qui ne ressemblait à rien de ce qu'il avait gouté en quarante ans de métier.
 
-Il recracha. Il regouta. Le gout etait la, indeniable. Pas desagreable. Pas mauvais. Simplement... etranger.
+Il recracha. Il regouta. Le goût était là, indeniable. Pas désagréable. Pas mauvais. Simplement... étranger.
 
-Il fit gouter a d'autres vignerons. Personne ne percut rien d'anormal. Aldric insista. On le regarda avec l'air poli qu'on reserve aux vieux vignerons un peu trop sensibles.
+Il fit goûter à d'autres vignerons. Personne ne perçut rien d'anormal. Aldric insista. On le regarda avec l'air poli qu'on réserve aux vieux vignerons un peu trop sensibles.
 
-Il ne lacha pas l'affaire. Il analysa le sol. Les cendres qui nourrissaient les vignes contenaient quelque chose de nouveau --- un mineral que les geologues ne connaissaient pas. Infime en quantite, invisible a l'oeil nu. Mais present. Et ce mineral avait change le gout du vin.
+Il ne lâcha pas l'affaire. Il analysa le sol. Les cendres qui nourrissaient les vignes contenaient quelque chose de nouveau --- un minéral que les géologues ne connaissaient pas. Infime en quantité, invisible à l'œil nu. Mais présent. Et ce minéral avait changé le goût du vin.
 
-Aldric remonta la trace des cendres. Elles provenaient de la derniere eruption du Mont Cendra, six mois plus tot. Une eruption comme les autres, pensait-on. Sauf que les cendres n'etaient pas comme les autres.
+Aldric remonta la trace des cendres. Elles provenaient de la dernière éruption du Mont Cendra, six mois plus tôt. Une éruption comme les autres, pensait-on. Sauf que les cendres n'étaient pas comme les autres.
 
-Il envoya des echantillons aux alchimistes de Brumaris. La reponse qu'il recut le fit s'asseoir :
+Il envoya des échantillons aux alchimistes de Brumaris. La réponse qu'il recut le fit s'asseoir :
 
-*Le mineral que vous avez identifie n'est pas naturel. Sa structure cristalline est trop reguliere pour etre le produit d'un processus volcanique. Il a ete fabrique --- ou secrète.*
+*Le minéral que vous avez identifié n'est pas naturel. Sa structure cristalline est trop régulière pour être le produit d'un processus volcanique. Il a été fabriqué --- ou secrète.*
 
-Le vin noir de cette annee fut vendu normalement. Personne ne remarqua le gout. Personne sauf Aldric.
+Le vin noir de cette année fut vendu normalement. Personne ne remarqua le goût. Personne sauf Aldric.
 
 Et Aldric, qui buvait un verre de son propre vin chaque soir depuis quarante ans, cessa de boire.
 
 ---
 
-## Vyndria — « Le Pain Sacre »
+## Vyndria — « Le Pain Sacré »
 
-A Vyndria, le pain etait saint. Chaque fournee commencait par une priere a Eldoria. Les fours geothermiques, alimentes par la chaleur des entrailles de la terre, ne s'eteignaient jamais. Le pain noir de Vyndria --- dense, nourrissant, au gout de cendre et de cereale --- etait l'aliment de base de tout Cendara.
+À Vyndria, le pain était saint. Chaque fournée commençait par une prière à Eldoria. Les fours géothermiques, alimentés par la chaleur des entrailles de la terre, ne s'éteignaient jamais. Le pain noir de Vyndria --- dense, nourrissant, au goût de cendre et de cereale --- était l'aliment de base de tout Cendara.
 
-La boulangere Maelys connaissait chaque four par son temperament. Le Four du Matin etait stable et genereux. Le Four du Soir etait capricieux mais produisait la meilleure croute. Le Four Profond --- celui qui descendait le plus pres de la source geothermique --- etait reserve aux fournees ceremoniales, celles du Jour de Cendre.
+La boulangère Maelys connaissait chaque four par son tempérament. Le Four du Matin était stable et généreux. Le Four du Soir était capricieux mais produisait la meilleure croûte. Le Four Profond --- celui qui descendait le plus près de la source géothermique --- était réservé aux fournées cérémoniales, celles du Jour de Cendre.
 
-Un matin, le Four Profond se reveilla seul.
+Un matin, le Four Profond se réveilla seul.
 
-Pas un incident technique. Les fours geothermiques ne s'allument pas et ne s'eteignent pas --- ils sont toujours chauds. Mais le Four Profond devint brulant. Sa temperature doubla en une heure. L'air autour tremblait. Le mur de brique noircit.
+Pas un incident technique. Les fours géothermiques ne s'allument pas et ne s'éteignent pas --- ils sont toujours chauds. Mais le Four Profond devint brûlant. Sa température doubla en une heure. L'air autour tremblait. Le mur de brique noircit.
 
-Maelys s'approcha. La chaleur etait insupportable a trois metres. A deux metres, elle sentait ses cils roussir. Mais a l'interieur du four, elle vit quelque chose.
+Maelys s'approcha. La chaleur était insupportable à trois mètres. À deux mètres, elle sentait ses cils roussir. Mais à l'intérieur du four, elle vit quelque chose.
 
-Du pain. Un pain parfait, dore, qui cuisait sans que personne ne l'ait enfourne. Qui cuisait dans une chaleur qui aurait du reduire la farine en cendres instantanement. Et pourtant --- la --- intact, dore, fumant.
+Du pain. Un pain parfait, doré, qui cuisait sans que personne ne l'ait enfourne. Qui cuisait dans une chaleur qui aurait dû réduire la farine en cendres instantanément. Et pourtant --- là --- intact, doré, fumant.
 
-Elle attendit. Le pain cuisit pendant trois heures. Puis la temperature redescendit a la normale. Le pain resta la, immobile, parfait.
+Elle attendit. Le pain cuisit pendant trois heures. Puis la température redescendit à la normale. Le pain resta là, immobile, parfait.
 
-Maelys le sortit avec une pelle. Il etait tiede. Il sentait le ble et la cendre. Il pesait plus lourd qu'un pain ordinaire --- beaucoup plus lourd.
+Maelys le sortit avec une pelle. Il était tiède. Il sentait le blé et la cendre. Il pesait plus lourd qu'un pain ordinaire --- beaucoup plus lourd.
 
-Elle le coupa. L'interieur etait noir. Pas brule --- noir comme la nuit, avec des veines rouges qui couraient dans la mie comme des vaisseaux sanguins. Et au centre, un noyau dur. Un cristal. Minuscule, rouge, pulsant.
+Elle le coupa. L'intérieur était noir. Pas brûlé --- noir comme la nuit, avec des veines rouges qui couraient dans la mie comme des vaisseaux sanguins. Et au centre, un noyau dur. Un cristal. Minuscule, rouge, pulsant.
 
-Maelys referma le pain. Elle le rangea dans l'arriere-boutique. Elle ne le montra a personne. Pas parce qu'elle avait peur --- mais parce qu'elle savait, avec la certitude d'une boulangere qui connait ses fours, que ce pain n'etait pas un accident. C'etait un message. Envoye par quelque chose qui vivait dans la chaleur sous ses pieds.
+Maelys referma le pain. Elle le rangea dans l'arrière-boutique. Elle ne le montra à personne. Pas parce qu'elle avait peur --- mais parce qu'elle savait, avec la certitude d'une boulangère qui connaît ses fours, que ce pain n'était pas un accident. C'était un message. Envoyé par quelque chose qui vivait dans la chaleur sous ses pieds.
 
-Et Maelys, qui priait Eldoria chaque matin depuis cinquante ans, se demanda pour la premiere fois si c'etait bien Eldoria qui l'ecoutait.
+Et Maelys, qui priait Eldoria chaque matin depuis cinquante ans, se demanda pour la première fois si c'était bien Eldoria qui l'écoutait.
 
 ---
 
 ## Thyroth — « Le Troupeau qui Monta »
 
-Les bergers de Thyroth suivaient leurs betes. C'etait la regle, simple et ancienne. Les chevres connaissaient les paturages. Les bergers connaissaient les chevres. Et quand les betes s'agitaient, on ne discutait pas --- on partait.
+Les bergers de Thyroth suivaient leurs bêtes. C'était la règle, simple et ancienne. Les chèvres connaissaient les pâturages. Les bergers connaissaient les chèvres. Et quand les bêtes s'agitaient, on ne discutait pas --- on partait.
 
-Le berger Faldren suivait son troupeau depuis trente ans. Il lisait les signes dans le comportement de ses betes avec une precision qui faisait rougir les pretres. Les chevres s'agitent ? Eruption dans six heures. Les chevres refusent de manger ? Tremblement de terre avant minuit. Les chevres montent ? Le gaz souterrain se repand.
+Le berger Faldren suivait son troupeau depuis trente ans. Il lisait les signes dans le comportement de ses bêtes avec une précision qui faisait rougir les prêtres. Les chèvres s'agitent ? Éruption dans six heures. Les chèvres refusent de manger ? Tremblement de terre avant minuit. Les chèvres montent ? Le gaz souterrain se répand.
 
-Mais le jour ou le troupeau monta vers le sommet du Mont Cendra, Faldren hesita.
+Mais le jour où le troupeau monta vers le sommet du Mont Cendra, Faldren hésita.
 
-Les chevres, habituellement, fuyaient le volcan. C'etait le sens meme de leur instinct --- s'eloigner du danger. Monter vers le cratere, c'etait le contraire. C'etait de la folie.
+Les chèvres, habituellement, fuyaient le volcan. C'était le sens même de leur instinct --- s'éloigner du danger. Monter vers le cratère, c'était le contraire. C'était de la folie.
 
-Et pourtant, cent trente chevres, d'un seul mouvement, commencerent a gravir les flancs du Mont Cendra. Pas en paniquant. Pas en courant. En marchant, calmement, resolument, comme un pelerinage.
+Et pourtant, cent trente chèvres, d'un seul mouvement, commencèrent à gravir les flancs du Mont Cendra. Pas en paniquant. Pas en courant. En marchant, calmement, résolument, comme un pèlerinage.
 
-Faldren les suivit. Bien sur qu'il les suivit. Trente ans de regle.
+Faldren les suivit. Bien sûr qu'il les suivit. Trente ans de règle.
 
-Il monta pendant des heures. L'air se rechauffait. Le soufre piquait les yeux. Les chevres continuaient, imperturbables, leurs sabots surs sur la roche noire.
+Il monta pendant des heures. L'air se réchauffait. Le soufre piquait les yeux. Les chèvres continuaient, imperturbables, leurs sabots sûrs sur la roche noire.
 
-Elles s'arreterent au bord du cratere. Cent trente chevres, en demi-cercle, fixant le gouffre fumant avec des yeux que Faldren n'avait jamais vus chez un animal --- des yeux intelligents, attentifs, presque reverencieux.
+Elles s'arrêtèrent au bord du cratère. Cent trente chèvres, en demi-cercle, fixant le gouffre fumant avec des yeux que Faldren n'avait jamais vus chez un animal --- des yeux intelligents, attentifs, presque reverencieux.
 
-Faldren s'approcha du bord. Il regarda dans le cratere.
+Faldren s'approcha du bord. Il regarda dans le cratère.
 
-Il ne dit jamais ce qu'il vit. Quand il redescendit, seul --- les chevres restèrent la-haut, et aucune ne revint --- il avait les cheveux blancs. Ses cheveux, noirs le matin, etaient devenus blancs comme la cendre.
+Il ne dit jamais ce qu'il vit. Quand il redescendit, seul --- les chèvres restèrent là-haut, et aucune ne revint --- il avait les cheveux blancs. Ses cheveux, noirs le matin, étaient devenus blancs comme la cendre.
 
-On l'interrogea. Il secoua la tete. On insista. Il repeta un seul mot, encore et encore :
+On l'interrogea. Il secoua la tête. On insista. Il répéta un seul mot, encore et encore :
 
 *Vivant. Vivant. Vivant.*
 
-Il ne reprit jamais son troupeau. Il passa le reste de ses jours assis sur une pierre face au Mont Cendra, regardant le sommet avec les memes yeux que ses chevres avaient eus --- reverencieux, terrifies, incapables de se detourner.
+Il ne reprit jamais son troupeau. Il passa le reste de ses jours assis sur une pierre face au Mont Cendra, regardant le sommet avec les mêmes yeux que ses chèvres avaient eus --- reverencieux, terrifiés, incapables de se détourner.
 
 ---
 
 ## Drystar — « La Lame Noire »
 
-Les forges militaires de Drystar produisaient les meilleures armes de Brumaria. Lames noires veinees de rouge, si tranchantes qu'elles coupaient l'air lui-meme. Les Maitres de Forge de Drystar etaient respectes autant que les pretres --- et craints davantage.
+Les forges militaires de Drystar produisaient les meilleures armes de Brumaria. Lames noires veinées de rouge, si tranchantes qu'elles coupaient l'air lui-même. Les Maîtres de Forge de Drystar étaient respectés autant que les prêtres --- et craints davantage.
 
-Le Maitre Thyren forgeait depuis quarante ans. Ses lames equippaient les Calcines, les pretres-guerriers d'elite. Chaque arme qu'il creait etait un chef-d'oeuvre --- et chaque arme lui coutait un peu de lui-meme.
+Le Maître Thyren forgeait depuis quarante ans. Ses lames equippaient les Calcinés, les prêtres-guerriers d'élite. Chaque arme qu'il créait était un chef-d'œuvre --- et chaque arme lui coûtait un peu de lui-même.
 
 Car les lames de Drystar exigeaient du sang.
 
-Pas du sang verse dans le metal --- ce n'etait pas de la barbarie. Du sang verse dans le processus. La chaleur des veines de magma etait si intense que le forgeron saignait du nez, des yeux, des oreilles pendant le travail. Une heure de forge equivalait a une heure de combat. Les mains de Thyren etaient couvertes de cicatrices de brulures. Ses poumons etaient noircis par la fumee volcanique. Son coeur battait trop vite, trop fort, comme s'il essayait de quitter sa poitrine.
+Pas du sang verse dans le métal --- ce n'était pas de la barbarie. Du sang verse dans le processus. La chaleur des veines de magma était si intense que le forgeron saignait du nez, des yeux, des oreilles pendant le travail. Une heure de forge équivalait à une heure de combat. Les mains de Thyren étaient couvertes de cicatrices de brûlures. Ses poumons étaient noircis par la fumée volcanique. Son cœur battait trop vite, trop fort, comme s'il essayait de quitter sa poitrine.
 
-Mais la derniere lame qu'il forgea fut differente.
+Mais la dernière lame qu'il forgea fut différente.
 
-Le commandant des Calcines avait commande une epee ceremonielle pour le roi. Thyren descendit dans la forge la plus profonde --- celle qui touchait presque la veine de magma, ou la chaleur etait si extreme que les murs fondaient et se reformaient en permanence.
+Le commandant des Calcinés avait commandé une épée cérémonielle pour le roi. Thyren descendit dans la forge la plus profonde --- celle qui touchait presque la veine de magma, où la chaleur était si extrême que les murs fondaient et se reformaient en permanence.
 
-Il travaillait le metal quand il sentit quelque chose. Pas la chaleur. Pas la douleur. Une presence. Quelque chose dans le magma qui le regardait travailler.
+Il travaillait le métal quand il sentit quelque chose. Pas la chaleur. Pas la douleur. Une présence. Quelque chose dans le magma qui le regardait travailler.
 
-Ses mains bougerent seules. Le metal se plia d'une maniere qu'il n'avait pas prevue. La lame prit une forme qu'il ne reconnaissait pas --- plus longue, plus fine, avec des courbes qui n'appartenaient a aucun style de forge connu.
+Ses mains bougèrent seules. Le métal se plia d'une manière qu'il n'avait pas prévue. La lame prit une forme qu'il ne reconnaissait pas --- plus longue, plus fine, avec des courbes qui n'appartenaient à aucun style de forge connu.
 
-Quand il remonta la lame achevee, les Calcines reculèrent. L'epee etait noire --- pas le noir habituel des lames de Drystar. Un noir absolu, qui absorbait la lumiere. Et quand on la tenait, on entendait un son. Grave. Continu. Comme un battement de coeur.
+Quand il remonta la lame achevée, les Calcinés reculèrent. L'épée était noire --- pas le noir habituel des lames de Drystar. Un noir absolu, qui absorbait la lumière. Et quand on la tenait, on entendait un son. Grave. Continu. Comme un battement de coeur.
 
 Thyren posa la lame sur l'enclume et recula.
 
-*Je n'ai pas forge cette lame*, dit-il. *Quelque chose l'a forgee a travers moi.*
+*Je n'ai pas forgé cette lame*, dit-il. *Quelque chose l'a forgée à travers moi.*
 
-Le commandant prit l'epee quand meme. Il la porta au roi. Ce qui se passa ensuite, Thyren ne le sut jamais. On ne le rappela plus aux forges royales.
+Le commandant prit l'épée quand même. Il la porta au roi. Ce qui se passa ensuite, Thyren ne le sut jamais. On ne le rappela plus aux forges royales.
 
-Mais les nuits ou il ne dormait pas, hante par la douleur de ses brulures, il fermait les yeux et sentait encore les mains sur les siennes --- des mains qui n'etaient pas faites de chair, mais de magma refroidi, qui avaient guide ses coups avec la certitude d'un forgeron bien plus ancien que lui.
+Mais les nuits où il ne dormait pas, hanté par la douleur de ses brûlures, il fermait les yeux et sentait encore les mains sur les siennes --- des mains qui n'étaient pas faites de chair, mais de magma refroidi, qui avaient guidé ses coups avec la certitude d'un forgeron bien plus ancien que lui.
 
 ---
 
-## Vylora — « Le Signal qui ne S'Eteignit Pas »
+## Vylora — « Le Signal qui ne S'Éteignit Pas »
 
-Les guetteurs de Vylora communiquaient par le feu. Des torches codees, des signaux de flamme, un langage lumineux qui traversait l'archipel en moins d'une heure. Trois eclats pour un navire ami. Sept pour une menace. Un feu continu pour un desastre.
+Les guetteurs de Vylora communiquaient par le feu. Des torches codées, des signaux de flamme, un langage lumineux qui traversait l'archipel en moins d'une heure. Trois éclats pour un navire ami. Sept pour une menace. Un feu continu pour un désastre.
 
-La guetteuse Fynn etait en poste la nuit ou le dernier signal arriva.
+La guetteuse Fynn était en poste la nuit où le dernier signal arriva.
 
-Il venait de la mer. Pas d'une tour de guet. Pas d'un navire. De la mer elle-meme. Un point de lumiere rouge, juste sous la surface, qui pulsait au rythme du code de Vylora. Trois eclats. Pause. Sept eclats. Pause. Feu continu.
+Il venait de la mer. Pas d'une tour de guet. Pas d'un navire. De la mer elle-même. Un point de lumière rouge, juste sous la surface, qui pulsait au rythme du code de Vylora. Trois éclats. Pause. Sept éclats. Pause. Feu continu.
 
-Le message etait clair : un ami signalait un desastre.
+Le message était clair : un ami signalait un désastre.
 
-Fynn transmit le signal. Les tours repondirent. L'archipel s'eveilla. Les garnisons de Drystar furent alertees. Le roi fut informe.
+Fynn transmit le signal. Les tours répondirent. L'archipel s'éveilla. Les garnisons de Drystar furent alertees. Le roi fut informé.
 
-Mais quand on chercha la source du signal, il n'y avait rien. Pas de navire. Pas de naufrage. Juste l'ocean noir et le point rouge, pulsant sous les vagues, inlassable.
+Mais quand on chercha la source du signal, il n'y avait rien. Pas de navire. Pas de naufrage. Juste l'océan noir et le point rouge, pulsant sous les vagues, inlassable.
 
-Le signal dura trois jours. Puis il s'eteignit.
+Le signal dura trois jours. Puis il s'éteignit.
 
-Les pretres lurent les cendres. Ils declarerent que c'etait un presage --- favorable ou defavorable, ils ne s'accordaient pas. Le Conseil des Cendres classa l'incident comme anomalie naturelle.
+Les prêtres lurent les cendres. Ils déclarèrent que c'était un présage --- favorable ou défavorable, ils ne s'accordaient pas. Le Conseil des Cendres classa l'incident comme anomalie naturelle.
 
-Fynn ne fut pas convaincue. Elle avait lu le signal. Trois. Sept. Continu. Un ami qui signale un desastre. Quelqu'un ou quelque chose, sous la mer, qui connaissait le code de Vylora et l'utilisait pour avertir.
+Fynn ne fut pas convaincue. Elle avait lu le signal. Trois. Sept. Continu. Un ami qui signale un désastre. Quelqu'un ou quelque chose, sous la mer, qui connaissait le code de Vylora et l'utilisait pour avertir.
 
 Mais avertir de quoi ?
 
-Elle retourna a son poste. Elle surveilla l'horizon. Et chaque nuit, elle scrutait la mer a la recherche du point rouge.
+Elle retourna à son poste. Elle surveilla l'horizon. Et chaque nuit, elle scrutait la mer à la recherche du point rouge.
 
-Il ne revint pas. Mais Fynn jura que, certaines nuits, quand la lune etait cachee et que l'ocean etait noir comme l'obsidienne, elle voyait des lueurs. Pas un signal. Des centaines. Des milliers. Disperses sous la surface, formant un motif --- le meme motif que les runes sur les Colonnes de Memoire.
+Il ne revint pas. Mais Fynn jura que, certaines nuits, quand la lune était cachée et que l'océan était noir comme l'obsidienne, elle voyait des lueurs. Pas un signal. Des centaines. Des milliers. Dispersés sous la surface, formant un motif --- le même motif que les runes sur les Colonnes de Mémoire.
 
-Un message, ecrit en feu sous l'ocean. Trop vaste pour etre lu d'une seule tour.
+Un message, écrit en feu sous l'océan. Trop vaste pour être lu d'une seule tour.
 
 ---
 
 ## Thyronis — « Le Navire qui Refusa de Naviguer »
 
-Les chantiers navals de Thyronis construisaient les meilleurs navires de Brumaria. Coques de bois ignifuge, plaques de fer volcanique, voiles tissees de fibres resistantes au soufre. Des vaisseaux capables de traverser les eaux brulantes de l'archipel sans une egratignure.
+Les chantiers navals de Thyronis construisaient les meilleurs navires de Brumaria. Coques de bois ignifuge, plaques de fer volcanique, voiles tissées de fibres résistantes au soufre. Des vaisseaux capables de traverser les eaux brûlantes de l'archipel sans une égratignure.
 
-Le charpentier Valden mettait la derniere main au plus grand navire jamais construit a Thyronis --- un trois-mats commande par le roi pour des expeditions commerciales lointaines. Deux ans de travail. Trois cents ouvriers. Un chef-d'oeuvre.
+Le charpentier Valden mettait la dernière main au plus grand navire jamais construit à Thyronis --- un trois-mâts commandé par le roi pour des expéditions commerciales lointaines. Deux ans de travail. Trois cents ouvriers. Un chef-d'œuvre.
 
 Le jour du lancement, le navire ne bougea pas.
 
-La coque glissa le long de la rampe, toucha l'eau --- et s'arreta. Pas echoue. Pas coince. Arrete, comme si l'ocean refusait de le porter. L'eau autour de la coque bouillonnait faiblement, formant des bulles de soufre. Mais le navire restait la, immobile, entre la terre et la mer.
+La coque glissa le long de la rampe, toucha l'eau --- et s'arrêta. Pas échoué. Pas coincé. Arrête, comme si l'océan refusait de le porter. L'eau autour de la coque bouillonnait faiblement, formant des bulles de soufre. Mais le navire restait là, immobile, entre la terre et la mer.
 
-On tira. On poussa. On utilisa des chevaux, des cordes, des leviers. Rien. Le navire etait plante dans l'eau comme un clou dans le bois.
+On tira. On poussa. On utilisa des chevaux, des cordes, des leviers. Rien. Le navire était planté dans l'eau comme un clou dans le bois.
 
-Valden descendit sous la coque. Ce qu'il vit le fit remonter en toute hate. Les plaques de fer volcanique de la quille etaient rouges. Pas rouillees --- rouges de chaleur. Quelque chose, sous le navire, chauffait le metal a des temperatures impossibles.
+Valden descendit sous la coque. Ce qu'il vit le fit remonter en toute hâte. Les plaques de fer volcanique de la quille étaient rouges. Pas rouillées --- rouges de chaleur. Quelque chose, sous le navire, chauffait le métal à des températures impossibles.
 
-Un alchimiste plongea. Il remonta avec les cheveux brules et un seul mot : *Main.*
+Un alchimiste plongea. Il remonta avec les cheveux brûlés et un seul mot : *Main.*
 
-Sous le navire, dans l'eau peu profonde, une main. Enorme. Faite de basalte et de magma refroidi, agrippant la quille avec une force que rien de connu ne pouvait exercer. Une main qui sortait du fond marin, du substrat volcanique, comme si la terre elle-meme retenait le navire.
+Sous le navire, dans l'eau peu profonde, une main. Énorme. Faite de basalte et de magma refroidi, agrippant la quille avec une force que rien de connu ne pouvait exercer. Une main qui sortait du fond marin, du substrat volcanique, comme si la terre elle-même retenait le navire.
 
-On ne lança jamais le navire. On le demonta sur place, planche par planche. La main resta visible pendant trois jours, puis se retira lentement dans le fond marin, laissant une marque brulee dans la roche.
+On ne lança jamais le navire. On le demonta sur place, planche par planche. La main resta visible pendant trois jours, puis se retira lentement dans le fond marin, laissant une marque brûlée dans la roche.
 
-Valden quitta les chantiers navals. Il devint pretre de l'Ignis Aeternum.
+Valden quitta les chantiers navals. Il devint prêtre de l'Ignis Aeternum.
 
-Quand on lui demandait pourquoi, il repondait : *J'ai passe ma vie a construire des navires pour quitter cette ile. Maintenant je sais que l'ile ne veut pas qu'on parte.*
+Quand on lui demandait pourquoi, il répondait : *J'ai passé ma vie à construire des navires pour quitter cette île. Maintenant je sais que l'île ne veut pas qu'on parte.*
 
 ---
 
 ## Mylarin — « L'Ermite et la Flamme »
 
-Les feux eternels de Mylarin brulaient depuis des temps immemoraux. De petites flammes naturelles, alimentees par des poches de gaz souterrain, qui dansaient dans les grottes de la cote sans jamais s'eteindre. Les ermites et les mystiques venaient y mediter, hypnotises par des flammes plus vieilles que la memoire.
+Les feux éternels de Mylarin brûlaient depuis des temps immemoraux. De petites flammes naturelles, alimentées par des poches de gaz souterrain, qui dansaient dans les grottes de la côte sans jamais s'éteindre. Les ermites et les mystiques venaient y méditer, hypnotises par des flammes plus vieilles que la mémoire.
 
-L'ermite Solvan s'etait installe dans la grotte la plus profonde, celle ou la flamme etait la plus grande et la plus ancienne. Il n'avait besoin de rien --- la chaleur de la flamme le rechauffait, la lumiere l'eclairait, et la solitude le nourrissait mieux que n'importe quel repas.
+L'ermite Solvan s'était installé dans la grotte la plus profonde, celle où la flamme était la plus grande et la plus ancienne. Il n'avait besoin de rien --- la chaleur de la flamme le réchauffait, la lumière l'éclairait, et la solitude le nourrissait mieux que n'importe quel repas.
 
-Pendant cinq ans, il medita face a la flamme. Cinq ans de silence, d'immobilite, de contemplation. Les pretres qui venaient verifier son etat le trouvaient en bonne sante, serein, les yeux brillants d'une lumiere interieure qu'ils attribuaient a la grace d'Eldoria.
+Pendant cinq ans, il médita face à la flamme. Cinq ans de silence, d'immobilité, de contemplation. Les prêtres qui venaient vérifier son état le trouvaient en bonne santé, serein, les yeux brillants d'une lumière intérieure qu'ils attribuaient à la grâce d'Eldoria.
 
-Au debut de la sixieme annee, la flamme lui parla.
+Au début de la sixième année, la flamme lui parla.
 
-Pas avec des mots. Avec des images. Des visions qui s'imprimaient dans ses yeux comme des fers sur la peau. Il vit le Mont Cendra d'en dessous --- pas les galeries, pas les mines, mais le coeur meme du volcan, la ou le magma etait si dense qu'il n'etait plus liquide mais vivant. Il vit des formes dans le magma --- des silhouettes immenses, immobiles, endormies depuis des eternites.
+Pas avec des mots. Avec des images. Des visions qui s'imprimaient dans ses yeux comme des fers sur la peau. Il vit le Mont Cendra d'en dessous --- pas les galeries, pas les mines, mais le cœur même du volcan, là où le magma était si dense qu'il n'était plus liquide mais vivant. Il vit des formes dans le magma --- des silhouettes immenses, immobiles, endormies depuis des éternités.
 
-Et il les vit se reveiller.
+Et il les vit se réveiller.
 
-Un par un. Lentement. Leurs yeux --- si on pouvait appeler yeux ces fournaises encadrees dans la roche fondue --- s'ouvrirent. Ils le regarderent. Ils le virent. Un ermite dans une grotte, a des kilometres de la, les regardant a travers une flamme.
+Un par un. Lentement. Leurs yeux --- si on pouvait appeler yeux ces fournaises encadrées dans la roche fondue --- s'ouvrirent. Ils le regardèrent. Ils le virent. Un ermite dans une grotte, à des kilomètres de là, les regardant à travers une flamme.
 
 Solvan ferma les yeux. Les visions persisterent.
 
-Il quitta la grotte. Pour la premiere fois en cinq ans, il marcha sous le ciel. Il monta a Brumaris. Il demanda audience au roi. On le refusa --- un ermite fou, un de plus.
+Il quitta la grotte. Pour la première fois en cinq ans, il marcha sous le ciel. Il monta à Brumaris. Il demanda audience au roi. On le refusa --- un ermite fou, un de plus.
 
-Il s'assit devant le palais et attendit. Trois jours. Quatre. Au cinquieme jour, un flammarque vint le chasser. Solvan le regarda dans les yeux et dit une seule phrase :
+Il s'assit devant le palais et attendit. Trois jours. Quatre. Au cinquième jour, un flammarque vint le chasser. Solvan le regarda dans les yeux et dit une seule phrase :
 
-*Sous le Mont Cendra, ils se reveillent. Et quand ils ouvriront les yeux pour de bon, les flammes eternelles s'eteindront. Toutes. En un instant.*
+*Sous le Mont Cendra, ils se réveillent. Et quand ils ouvriront les yeux pour de bon, les flammes éternelles s'eteindront. Toutes. En un instant.*
 
-Le flammarque le fit enfermer. Solvan mourut dans sa cellule un mois plus tard, les yeux grands ouverts, fixes sur un point au-dela du plafond.
+Le flammarque le fit enfermer. Solvan mourut dans sa cellule un mois plus tard, les yeux grands ouverts, fixes sur un point au-delà du plafond.
 
-La veille de sa mort, trois feux eternels de Mylarin s'eteignirent pour la premiere fois en mille ans.
+La veille de sa mort, trois feux éternels de Mylarin s'éteignirent pour la première fois en mille ans.
 
 ---
 
-## Lorenthia — « Le Pretre des Deux Feux »
+## Lorenthia — « Le Prêtre des Deux Feux »
 
-Pretre Ashael servait le Temple des Flammes Eternelles depuis quarante ans. Il etait l'un des rares a pratiquer le syncrétisme entre l'Ignis Aeternum et le Vael'Kurash --- la veneration du feu et le respect des esprits de la foret. Les puristes de Brumaris le consideraient comme un heretique. Les druides d'Evertia le consideraient comme un allie. Ashael ne se souciait ni des uns ni des autres.
+Prêtre Ashael servait le Temple des Flammes Éternelles depuis quarante ans. Il était l'un des rares à pratiquer le syncrétisme entre l'Ignis Aeternum et le Vael'Kurash --- la vénération du feu et le respect des esprits de la forêt. Les puristes de Brumaris le considéraient comme un hérétique. Les druides d'Evertia le considéraient comme un allié. Ashael ne se souciait ni des uns ni des autres.
 
-Il se souciait des Phenix. Et les Phenix mouraient.
+Il se souciait des Phénix. Et les Phénix mouraient.
 
-Ashael les avait vus naitre. Il les avait vus bruler et renaitre de leurs cendres, cycle apres cycle, depuis quatre decennies. Il connaissait chaque oiseau, chaque nid, chaque trajectoire de vol au-dessus de la canopee. Et il voyait ce que les autres pretres refusaient de voir : la fin.
+Ashael les avait vus naître. Il les avait vus brûler et renaître de leurs cendres, cycle après cycle, depuis quatre décennies. Il connaissait chaque oiseau, chaque nid, chaque trajectoire de vol au-dessus de la canopée. Et il voyait ce que les autres prêtres refusaient de voir : la fin.
 
-Les Phenix ne se regeneraient plus. Leurs feux interieurs, autrefois eclatants, etaient devenus ternes. Leurs plumes tombaient et ne repoussaient pas. Les anciens Phenix, ceux qui avaient vecu des siecles de renaissances, se posaient sur les branches les plus hautes et ne redecollaient pas.
+Les Phénix ne se regeneraient plus. Leurs feux intérieurs, autrefois eclatants, étaient devenus ternes. Leurs plumes tombaient et ne repoussaient pas. Les anciens Phénix, ceux qui avaient vécu des siècles de renaissances, se posaient sur les branches les plus hautes et ne redecollaient pas.
 
-Ashael descendit sous le temple. Dans les galeries anciennes, celles que les pretres etudiaient en secret, il chercha des reponses. Les inscriptions sur les murs, dans une langue inconnue, montraient les Phenix volant autour d'une forme endormie. Les pretres avaient toujours interpreté ces images comme une scene de veneration.
+Ashael descendit sous le temple. Dans les galeries anciennes, celles que les prêtres etudiaient en secret, il chercha des réponses. Les inscriptions sur les murs, dans une langue inconnue, montraient les Phénix volant autour d'une forme endormie. Les prêtres avaient toujours interpreté ces images comme une scène de vénération.
 
-Ashael vit autre chose. Les Phenix ne veneraient pas la forme endormie. Ils la gardaient. Ils brulaient pour la maintenir endormie. Leur feu n'etait pas un don --- c'etait une chaine. Une prison de flammes vivantes pour quelque chose qui ne devait pas se reveiller.
+Ashael vit autre chose. Les Phénix ne vénéraient pas la forme endormie. Ils la gardaient. Ils brûlaient pour la maintenir endormie. Leur feu n'était pas un don --- c'était une chaîne. Une prison de flammes vivantes pour quelque chose qui ne devait pas se réveiller.
 
-Et maintenant que les Phenix faiblissaient, la prison s'ouvrait.
+Et maintenant que les Phénix faiblissaient, la prison s'ouvrait.
 
-Ashael remonta. Il regarda la flamme eternelle du temple --- la flamme qui, disait-on, brulait depuis la creation du monde. Elle etait plus basse qu'hier. Un rien. Un souffle. Mais Ashael, qui la regardait chaque jour depuis quarante ans, le vit.
+Ashael remonta. Il regarda la flamme éternelle du temple --- la flamme qui, disait-on, brûlait depuis la création du monde. Elle était plus basse qu'hier. Un rien. Un souffle. Mais Ashael, qui la regardait chaque jour depuis quarante ans, le vit.
 
-Il s'agenouilla. Pour la premiere fois de sa vie, il pria non pas avec devotion, mais avec terreur.
+Il s'agenouilla. Pour la première fois de sa vie, il pria non pas avec dévotion, mais avec terreur.
 
-*Que les flammes tiennent encore un peu*, murmura-t-il. *Juste un peu. Le temps que nous comprenions ce que nous avons libere.*
+*Que les flammes tiennent encore un peu*, murmura-t-il. *Juste un peu. Le temps que nous comprenions ce que nous avons libéré.*
 
-Au-dessus de lui, le dernier Phenix de la generation vola en cercle au-dessus du temple. Son feu etait faible. Ses ailes tremblaient. Mais il volait encore.
+Au-dessus de lui, le dernier Phénix de la génération vola en cercle au-dessus du temple. Son feu était faible. Ses ailes tremblaient. Mais il volait encore.
 
 Pour combien de temps, Ashael ne voulait pas y penser.

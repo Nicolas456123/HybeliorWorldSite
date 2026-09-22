@@ -9,131 +9,131 @@ needs_review_for: []
 
 ## Lythana --- "La Grande Migration"
 
-Lythar ne fut jamais fonde. Avant que les autres peuples d'Ilthara ne tracent des frontieres, les tribus nomades parcouraient deja les steppes et les plaines qui forment aujourd'hui son territoire. Elles ne possedaient pas la terre ; elles se deplacaient avec elle, suivant les troupeaux, les saisons et les vents. Chaque tribu etait independante, guidee par un chef choisi pour sa sagesse et son habilete a cheval. Les conflits entre tribus etaient frequents mais rarement mortels --- des courses, des joutes equestres et des concours de tir a l'arc remplacaient les batailles rangees.
+Lythar ne fut jamais fondé. Avant que les autres peuples d'Ilthara ne tracent des frontières, les tribus nomades parcouraient déjà les steppes et les plaines qui forment aujourd'hui son territoire. Elles ne possédaient pas la terre ; elles se déplaçaient avec elle, suivant les troupeaux, les saisons et les vents. Chaque tribu était indépendante, guidée par un chef choisi pour sa sagesse et son habileté à cheval. Les conflits entre tribus étaient fréquents mais rarement mortels --- des courses, des joutes équestres et des concours de tir à l'arc remplacaient les batailles rangées.
 
-L'harmonie nomade se brisa quand les nations sedentaires voisines revendiquerent les plaines : Gryndor a l'ouest, Pyrtara au sud-ouest, Drakora au nord-est, tous grignotant les terres de paturage. Divisees, les tribus perdaient du terrain saison apres saison. Certains chefs proposerent de se sedentariser, de batir des villes et de defendre des frontieres. L'idee provoqua une guerre civile entre partisans de la sedentarisation et traditionalistes nomades : les villes naissantes furent attaquees, les troupeaux disperses, les tribus dechirees.
+L'harmonie nomade se brisa quand les nations sédentaires voisines revendiquèrent les plaines : Gryndor à l'ouest, Pyrtara au sud-ouest, Drakora au nord-est, tous grignotant les terres de pâturage. Divisées, les tribus perdaient du terrain saison après saison. Certains chefs proposèrent de se sédentariser, de bâtir des villes et de défendre des frontières. L'idée provoqua une guerre civile entre partisans de la sédentarisation et traditionalistes nomades : les villes naissantes furent attaquées, les troupeaux dispersés, les tribus déchirées.
 
-C'est dans ce chaos que **Lythana**, cheffe de la tribu du Vent-Blanc, accomplit l'impossible. En une seule saison, elle chevaucha d'un bout a l'autre du territoire, visitant chaque tribu, defiant chaque chef en duel equestre et les battant tous --- non pour les soumettre, mais pour prouver que l'unite dans le mouvement etait possible. Elle proposa un compromis : les tribus resteraient nomades, mais se confedereraient. Un Grand Conseil se reunirait a chaque solstice d'ete dans un lieu different, et les decisions communes seraient prises collectivement. Les quelques villes existantes seraient maintenues comme points de ravitaillement et de commerce, mais aucun Lytharien ne serait jamais force de s'y installer.
+C'est dans ce chaos que **Lythana**, cheffe de la tribu du Vent-Blanc, accomplit l'impossible. En une seule saison, elle chevaucha d'un bout à l'autre du territoire, visitant chaque tribu, défiant chaque chef en duel équestre et les battant tous --- non pour les soumettre, mais pour prouver que l'unité dans le mouvement était possible. Elle proposa un compromis : les tribus resteraient nomades, mais se confedereraient. Un Grand Conseil se réunirait à chaque solstice d'été dans un lieu différent, et les décisions communes seraient prisés collectivement. Les quelques villes existantes seraient maintenues comme points de ravitaillement et de commerce, mais aucun Lytharien ne serait jamais forcé de s'y installer.
 
-La Grande Migration --- le rassemblement de toutes les tribus en une seule cavalcade traversant le territoire d'est en ouest --- fut le symbole fondateur de cette confederation. Elle est rejouee chaque annee, et reste le plus grand evenement culturel de Lythar.
+La Grande Migration --- le rassemblement de toutes les tribus en une seule cavalcade traversant le territoire d'est en ouest --- fut le symbole fondateur de cette confédération. Elle est rejouee chaque année, et reste le plus grand événement culturel de Lythar.
 
 ---
 
 ## Raenoris --- "Le Premier Campement"
 
-La tradition de Lythar veut qu'une fois par generation, chaque famille fasse le Grand Parcours --- le tour complet des territoires que leurs ancetres nomades traversaient avant la sedentarisation. Trois mois. A pied ou a cheval. Sans maison.
+La tradition de Lythar veut qu'une fois par génération, chaque famille fasse le Grand Parcours --- le tour complet des territoires que leurs ancêtres nomades traversaient avant la sédentarisation. Trois mois. À pied où à cheval. Sans maison.
 
-Bren avait quarante ans quand il fit le Grand Parcours avec ses trois enfants. Il avait grandi a Raenoris et n'avait jamais dormi sous les etoiles.
+Bren avait quarante ans quand il fit le Grand Parcours avec ses trois enfants. Il avait grandi à Raenoris et n'avait jamais dormi sous les étoiles.
 
-La premiere nuit, il ne dormit pas. Le froid, le sol, l'absence de murs.
+La première nuit, il ne dormit pas. Le froid, le sol, l'absence de murs.
 
-La deuxieme nuit, ses enfants s'endormirent avant lui. Il les regarda dormir sur la terre nue, enroules dans leurs manteaux, et realisa quelque chose.
+La deuxième nuit, ses enfants s'endormirent avant lui. Il les regarda dormir sur la terre nue, enroulés dans leurs manteaux, et réalisa quelque chose.
 
-Ses ancetres avaient fait ca tous les soirs. Pas une fois par generation --- toutes les nuits. Non par pauvrete mais par choix, parce que la mobilite etait leur force et leur identite.
+Ses ancêtres avaient fait ça tous les soirs. Pas une fois par génération --- toutes les nuits. Non par pauvreté mais par choix, parce que la mobilité était leur force et leur identité.
 
-La sedentarisation n'avait pas ete un progres. C'avait ete un compromis. Ils avaient echange la liberte contre la securite.
+La sédentarisation n'avait pas été un progrès. C'avait été un compromis. Ils avaient échangé la liberté contre la sécurité.
 
-Il n'etait pas sure que le compromis fut mauvais. Mais il n'etait plus sure qu'il fut bon non plus.
+Il n'était pas sûre que le compromis fut mauvais. Mais il n'était plus sûre qu'il fut bon non plus.
 
-Il rentra de son Grand Parcours different. Pas comme quelqu'un qui avait appris une lecon. Comme quelqu'un qui avait pose une question a laquelle il n'avait pas encore de reponse.
+Il rentra de son Grand Parcours différent. Pas comme quelqu'un qui avait appris une leçon. Comme quelqu'un qui avait posé une question à laquelle il n'avait pas encore de réponse.
 
-Son fils aine fit le Grand Parcours a son tour, vingt ans plus tard. Il eut la meme insomnie la premiere nuit. La meme revelation la deuxieme.
+Son fils aîné fit le Grand Parcours à son tour, vingt ans plus tard. Il eut la même insomnie la première nuit. La même révélation la deuxième.
 
-C'est peut-etre le vrai but du Parcours.
+C'est peut-être le vrai but du Parcours.
 
 ---
 
-## Valryndor --- "La Route qui Disparait"
+## Valryndor --- "La Route qui Disparaît"
 
-Entre Valryndor et la cite voisine de Raenoris, il y avait une route commerciale qui existait depuis deux siecles. Elle traversait un plateau ventu et quelques cols.
+Entre Valryndor et la cité voisine de Raenoris, il y avait une route commerciale qui existait depuis deux siècles. Elle traversait un plateau ventu et quelques cols.
 
 Un printemps, elle disparut.
 
-Pas physiquement. Les pierres et la terre etaient la. Mais les caravanes qui l'empruntaient se trouvaient, regulierement, a des endroits qu'elles n'avaient pas prevu. Pas perdues --- juste ailleurs. Comme si la route les avait redirigees.
+Pas physiquement. Les pierres et la terre étaient là. Mais les caravanes qui l'empruntaient se trouvaient, régulièrement, à des endroits qu'elles n'avaient pas prévu. Pas perdues --- juste ailleurs. Comme si la route les avait redirigées.
 
-Les chamans du Foedus Animae de Lythar etudierent la question. Selon leur lecture, la route traversait une ancienne zone de migration --- un couloir que les ancetres nomades empruntaient il y a cinq cents ans pour suivre les troupeaux. Le souvenir de ces migrations, disaient-ils, etait grave dans la terre par des generations de passages, et interagissait avec ceux qui voyageaient au point de creer une derive vers les anciennes routes.
+Les chamans du Foedus Animae de Lythar étudièrent la question. Selon leur lecture, la route traversait une ancienne zone de migration --- un couloir que les ancêtres nomades empruntaient il y a cinq cents ans pour suivre les troupeaux. Le souvenir de ces migrations, disaient-ils, était gravé dans la terre par des générations de passages, et interagissait avec ceux qui voyageaient au point de créer une dérive vers les anciennes routes.
 
-"La terre se souvient," dit le chaman en chef. C'etait sa formulation, fidele a leur tradition ; les caravaniers, eux, parlaient simplement d'une route capricieuse.
+"La terre se souvient," dit le chaman en chef. C'était sa formulation, fidèle à leur tradition ; les caravaniers, eux, parlaient simplement d'une route capricieuse.
 
-La solution fut de baliser la route avec des pierres de memoire --- des pierres portant des signes anchrant la route actuelle dans le present. Cela fonctionna.
+La solution fut de baliser la route avec des pierres de mémoire --- des pierres portant des signes anchrant la route actuelle dans le présent. Cela fonctionna.
 
-Mais les anciens de Lythar firent observer que les caravanes detournees arrivaient toujours a destination, juste par un chemin plus long. Comme si la terre voulait montrer quelque chose aux voyageurs avant de les laisser continuer.
+Mais les anciens de Lythar firent observer que les caravanes détournées arrivaient toujours à destination, juste par un chemin plus long. Comme si la terre voulait montrer quelque chose aux voyageurs avant de les laisser continuer.
 
-Depuis lors, certains caravaniers refusent les pierres de memoire. Ils veulent voir ce que la terre leur montre.
+Depuis lors, certains caravaniers refusent les pierres de mémoire. Ils veulent voir ce que la terre leur montre.
 
 ---
 
-## Lytharil --- "La Negociatrice des Vents"
+## Lytharil --- "La Négociatrice des Vents"
 
-Il y avait a Lytharil une femme qu'on appelait la Negociatrice des Vents. Son vrai nom etait Sera. Sa fonction etait d'aller voir les tribus nomades qui traversaient le territoire de Lythar deux fois par an --- une migration au nord au printemps, une au sud en automne.
+Il y avait à Lytharil une femme qu'on appelait la Négociatrice des Vents. Son vrai nom était Sera. Sa fonction était d'aller voir les tribus nomades qui traversaient le territoire de Lythar deux fois par an --- une migration au nord au printemps, une au sud en automne.
 
-Ces tribus n'avaient aucune obligation d'obeir a Lythar. Elles ne payaient pas de taxes. Elles traversaient et s'en allaient. Mais elles pouvaient causer des dommages --- aux recoltes, aux paturages, aux puits.
+Ces tribus n'avaient aucune obligation d'obéir à Lythar. Elles ne payaient pas de taxes. Elles traversaient et s'en allaient. Mais elles pouvaient causer des dommages --- aux récoltes, aux pâturages, aux puits.
 
-Sera negociait. Pas avec de l'argent. Les tribus n'en voulaient pas. Avec de l'information.
+Sera négociait. Pas avec de l'argent. Les tribus n'en voulaient pas. Avec de l'information.
 
-Elle leur donnait ce que les sedentaires savaient : ou les paturages etaient bons cette annee, ou les sources etaient propres, ou les routes etaient sure. En echange, elles lui donnaient ce que les nomades savaient : ou les tempetes venaient, ou les troupeaux se concentraient, ou des bandits avaient ete vus.
+Elle leur donnait ce que les sédentaires savaient : où les pâturages étaient bons cette année, où les sources étaient propres, où les routes étaient sûre. En échange, elles lui donnaient ce que les nomades savaient : où les tempêtes venaient, où les troupeaux se concentraient, où des bandits avaient été vus.
 
-Cet echange de connaissances dura trente ans et n'eut jamais de statut officiel. Ce n'etait pas un traite. C'etait une conversation reguliere.
+Cet échange de connaissances dura trente ans et n'eut jamais de statut officiel. Ce n'était pas un traité. C'était une conversation régulière.
 
-Quand Sera mourut, les tribus s'arreterent a Lytharil lors de leur passage suivant. Elles n'avaient jamais fait ca avant.
+Quand Sera mourut, les tribus s'arrêtèrent à Lytharil lors de leur passage suivant. Elles n'avaient jamais fait ça avant.
 
-Elles resterent trois jours. Elles ne dirent pas pourquoi.
+Elles restèrent trois jours. Elles ne dirent pas pourquoi.
 
-Elles repartirent sans laisser de message. Mais depuis lors, les tribus nomades demandent toujours, en arrivant a Lytharil, s'il y a quelqu'un pour parler.
+Elles repartirent sans laisser de message. Mais depuis lors, les tribus nomades demandent toujours, en arrivant à Lytharil, s'il y a quelqu'un pour parler.
 
 ---
 
 ## Talmaris --- "Ce que le Vent Emporte"
 
-Les habitants de Talmaris pratiquaient une tradition unique dans Lythar : le Lacher du Vent. A la mort de quelqu'un, on ecrivait son nom sur un morceau de tissu leger et on le lachait dans le vent depuis la colline qui surplombe la ville.
+Les habitants de Talmaris pratiquaient une tradition unique dans Lythar : le Lâcher du Vent. À la mort de quelqu'un, on écrivait son nom sur un morceau de tissu léger et on le lâchait dans le vent depuis la colline qui surplombe la ville.
 
-Pas comme une priere. Comme une restitution. Le vent l'avait donne au monde --- le vent le reprenait.
+Pas comme une prière. Comme une restitution. Le vent l'avait donné au monde --- le vent le reprenait.
 
-Aldren avait perdu sa femme l'hiver precedent. Il ne vint pas au Lacher du Vent. Les voisins vinrent a sa place, ecrivirent le nom de sa femme, et lacherent le tissu.
+Aldren avait perdu sa femme l'hiver précédent. Il ne vint pas au Lâcher du Vent. Les voisins vinrent à sa place, ecrivirent le nom de sa femme, et lâchèrent le tissu.
 
-Le lendemain, Aldren monta seul a la colline. Il n'avait pas de tissu. Il n'avait pas de nom.
+Le lendemain, Aldren monta seul à la colline. Il n'avait pas de tissu. Il n'avait pas de nom.
 
-Il resta la trois heures, les bras le long du corps, le vent dans le visage.
+Il resta là trois heures, les bras le long du corps, le vent dans le visage.
 
-Quand il redescendit, ses voisins lui demanderent ce qu'il avait fait.
+Quand il redescendit, ses voisins lui demandèrent ce qu'il avait fait.
 
-"Rien," dit-il. "Je l'ai laissee partir."
+"Rien," dit-il. "Je l'ai laissée partir."
 
-La tradition du Lacher du Vent a Talmaris prevoit maintenant une deuxieme montee possible --- non pas pour un tissu, mais pour ceux qui ont besoin de plus de temps. Il n'y a pas de rituel. Juste la colline, le vent, et le temps qu'il faut.
+La tradition du Lâcher du Vent à Talmaris prévoit maintenant une deuxième montée possible --- non pas pour un tissu, mais pour ceux qui ont besoin de plus de temps. Il n'y a pas de rituel. Juste la colline, le vent, et le temps qu'il faut.
 
-Les habitants appellent ca le Lacher Personnel. C'est souvent plus difficile que le Lacher Officiel.
+Les habitants appellent ça le Lâcher Personnel. C'est souvent plus difficile que le Lâcher Officiel.
 
 ---
 
 ## Vyrnith --- "Les Sept Nuits du Voyageur"
 
-Le voyageur arriva par un soir d'automne, seul, sans monture. C'etait inhabituel a Vyrnith --- les rares etrangers qui passaient par la tribu du Vent-Vert venaient toujours avec une caravane, jamais a pied. L'homme marchait d'un pas regulier, n'etait charge que d'un sac mince, et ne se presenta sous aucun nom.
+Le voyageur arriva par un soir d'automne, seul, sans monture. C'était inhabituel à Vyrnith --- les rares étrangers qui passaient par la tribu du Vent-Vert venaient toujours avec une caravane, jamais à pied. L'homme marchait d'un pas régulier, n'était chargé que d'un sac mince, et ne se présenta sous aucun nom.
 
-L'aubergiste de Vyrnith, Kelya, lui offrit une place pres du feu. Il accepta. Elle lui demanda d'ou il venait. Il ne repondit pas vraiment --- il dit qu'il avait marche longtemps, et que les sources chaudes lui faisaient du bien.
+L'aubergiste de Vyrnith, Kelya, lui offrit une place près du feu. Il accepta. Elle lui demanda d'où il venait. Il ne repondit pas vraiment --- il dit qu'il avait marche longtemps, et que les sources chaudes lui faisaient du bien.
 
-Il resta sept nuits. Il payait en herbes seches d'une espece que personne a Vyrnith ne reconnaissait, mais qui calmait les douleurs des vieux. Il ecoutait plus qu'il ne parlait. Quand on lui demandait son metier, il disait simplement : "Je passe."
+Il resta sept nuits. Il payait en herbes sèches d'une espèce que personne à Vyrnith ne reconnaissait, mais qui calmait les douleurs des vieux. Il écoutait plus qu'il ne parlait. Quand on lui demandait son métier, il disait simplement : "Je passe."
 
-La sixieme nuit, un Cavalier du Vent en mission le reconnut. Pas le visage --- le silence. "Tu es du Foedus Animae," dit le Cavalier. "Tu marches au lieu de chevaucher. Pourquoi ?"
+La sixième nuit, un Cavalier du Vent en mission le reconnut. Pas le visage --- le silence. "Tu es du Foedus Animae," dit le Cavalier. "Tu marches au lieu de chevaucher. Pourquoi ?"
 
 Le voyageur ne nia pas. "Parce que ce que je porte ne se transmet pas par cheval."
 
-Le Cavalier voulut en savoir davantage. L'homme refusa de prêcher. "Vos ancetres chevauchent avec vous. Les miens marchent avec moi. Ce sont les memes ancetres. C'est juste que la terre se souvient differement de chacun."
+Le Cavalier voulut en savoir davantage. L'homme refusa de prêcher. "Vos ancêtres chevauchent avec vous. Les miens marchent avec moi. Ce sont les memes ancêtres. C'est juste que la terre se souvient differement de chacun."
 
-La septieme nuit, il partit avant l'aube. Kelya trouva sur sa table une seule herbe seche, posee precisement, et un mot ecrit dans une langue qu'elle ne savait pas lire mais dont elle reconnaissait l'intention --- merci.
+La septième nuit, il partit avant l'aube. Kelya trouva sur sa table une seule herbe sèche, posée précisément, et un mot écrit dans une langue qu'elle ne savait pas lire mais dont elle reconnaissait l'intention --- merci.
 
-Elle conserva l'herbe et le mot. Trente ans plus tard, ses petits-enfants demandent encore qui etait l'homme du Foedus Animae qui marchait au lieu de chevaucher. Personne a Vyrnith ne le sait. Le Cavalier qui l'avait reconnu mourut sans avoir transcrit la rencontre. La trace est diffuse, comme les autres traces de Lythar --- une herbe seche, un mot, une nuit ou rien d'important n'a semble se passer.
+Elle conserva l'herbe et le mot. Trente ans plus tard, ses petits-enfants demandent encore qui était l'homme du Foedus Animae qui marchait au lieu de chevaucher. Personne à Vyrnith ne le sait. Le Cavalier qui l'avait reconnu mourut sans avoir transcrit la rencontre. La trace est diffusé, comme les autres traces de Lythar --- une herbe sèche, un mot, une nuit où rien d'important n'a semble se passer.
 
 ---
 
 ## Aetharis --- "La Course Perdue qu'On Ne Raconte Pas"
 
-A Aetharis, on dit que tout le monde sait qu'il y a eu une premiere course --- celle que Lythana perdit. On dit que tout le monde sait. Personne ne la raconte.
+À Aetharis, on dit que tout le monde sait qu'il y a eu une première course --- celle que Lythana perdit. On dit que tout le monde sait. Personne ne la raconte.
 
-C'est une regle non ecrite, intransmise, parfaitement respectee depuis cinq siecles. On ne parle pas des defaites a Aetharis. Pas pour les nier --- on les sait. Pas pour les surmonter --- elles n'ont pas a l'etre. Pour autre chose, qu'aucun habitant n'arrive a formuler clairement.
+C'est une règle non écrite, intransmise, parfaitement respectée depuis cinq siècles. On ne parle pas des défaites à Aetharis. Pas pour les nier --- on les sait. Pas pour les surmonter --- elles n'ont pas à l'être. Pour autre chose, qu'aucun habitant n'arrive à formuler clairement.
 
-Aldric, jeune cavalier de la tribu du Vent-Noir, ne supportait pas cette regle. Il etait orphelin de pere --- son pere etait mort lors d'une course aux confins d'Aetharia, jete bas par un coup de vent imprevu. Personne n'avait jamais raconte la course a Aldric. Pas la chute, pas l'enterrement, pas le nom du cheval. Rien.
+Aldric, jeune cavalier de la tribu du Vent-Noir, ne supportait pas cette règle. Il était orphelin de père --- son père était mort lors d'une course aux confins d'Aetharia, jeté bas par un coup de vent imprévu. Personne n'avait jamais raconté la course à Aldric. Pas la chute, pas l'enterrement, pas le nom du cheval. Rien.
 
-Il alla voir le doyen, Vorek, et lui demanda. Vorek le regarda longtemps. Puis il dit : "Tu veux que je te raconte la chute ou la course ?"
+Il alla voir le doyen, Vorek, et lui demanda. Vorek le regarda longtemps. Puis il dit : "Tu veux que je te raconte la chute où la course ?"
 
 "Les deux."
 
@@ -141,55 +141,55 @@ Il alla voir le doyen, Vorek, et lui demanda. Vorek le regarda longtemps. Puis i
 
 "Pourquoi ?"
 
-Vorek hesita, ce qui n'etait pas dans ses habitudes. Il finit par dire : "Parce qu'a Aetharis, raconter une defaite, c'est la rejouer. Et chaque fois qu'on la rejoue, on apprend a perdre une fois de plus."
+Vorek hésita, ce qui n'était pas dans ses habitudes. Il finit par dire : "Parce qu'à Aetharis, raconter une défaite, c'est la rejouer. Et chaque fois qu'on la rejoue, on apprend à perdre une fois de plus."
 
 "Vous oubliez ?"
 
-"Non. On ne parle pas. C'est different."
+"Non. On ne parle pas. C'est différent."
 
-Aldric n'accepta pas la reponse cette nuit-la. Il fouilla les archives --- inexistantes. Il interrogea les vieux --- silencieux. Il chercha la sepulture de son pere --- non marquee, comme toutes les sepultures d'Aetharis. La regle se tenait, parfaite et impenetrable.
+Aldric n'accepta pas la réponse cette nuit-là. Il fouilla les archives --- inexistantes. Il interrogea les vieux --- silencieux. Il chercha la sépulture de son père --- non marquée, comme toutes les sépultures d'Aetharis. La règle se tenait, parfaite et impénétrable.
 
-Vingt ans plus tard, Aldric devint doyen a son tour. On lui amena un orphelin qui voulait savoir comment sa mere etait morte. Aldric ouvrit la bouche pour repondre.
+Vingt ans plus tard, Aldric devint doyen à son tour. On lui amena un orphelin qui voulait savoir comment sa mère était morte. Aldric ouvrit la bouche pour répondre.
 
-Il ne raconta pas. Il n'avait pas appris a raconter --- ses aines ne lui avaient rien transmis sur ce point. Il dit seulement : "Elle a couru. C'est tout ce qu'on dit a Aetharis. Et c'est plus que tu ne crois."
+Il ne raconta pas. Il n'avait pas appris à raconter --- ses aînés ne lui avaient rien transmis sur ce point. Il dit seulement : "Elle a couru. C'est tout ce qu'on dit à Aetharis. Et c'est plus que tu ne crois."
 
-L'enfant ne comprit pas. Il comprendrait peut-etre, dans vingt ans, en lui amenant un autre enfant.
+L'enfant ne comprit pas. Il comprendrait peut-être, dans vingt ans, en lui amenant un autre enfant.
 
 ---
 
 ## Sylorin --- "Le Poulain qui Refusa la Course"
 
-La race du Destrier d'Aetharia se reproduit selon un protocole strict. Chaque eleveur de Sylorin connait par coeur les croisements autorises sur sept generations. Un poulain ne du protocole est elu ; un poulain hors protocole est ecarte des reproductions futures, sans cruaute mais sans exception.
+La race du Destrier d'Aetharia se reproduit selon un protocole strict. Chaque éleveur de Sylorin connaît par cœur les croisements autorisés sur sept générations. Un poulain ne du protocole est élu ; un poulain hors protocole est écarté des reproductions futures, sans cruauté mais sans exception.
 
-Le poulain qu'on appela plus tard "Celui-qui-Refusa" naquit du protocole. Sa mere etait Veyla des Crêtes ; son pere, Krell de la Faille. Tout etait dans l'ordre. Il aurait du devenir l'un des destriers les plus prises de sa generation.
+Le poulain qu'on appela plus tard "Celui-qui-Refusa" naquit du protocole. Sa mère était Veyla des Crêtes ; son père, Krell de la Faille. Tout était dans l'ordre. Il aurait dû devenir l'un des destriers les plus prises de sa génération.
 
-A trois ans, on le mit a la course --- l'epreuve d'aptitude qui decide si un destrier sera reproduction ou monture. Il etait rapide, oui. Endurant, oui. Mais il refusait de gagner. A chaque course, il restait de la deuxieme ou troisieme position et ne forcait jamais l'allure. Pas par fatigue. Par decision.
+À trois ans, on le mit à la course --- l'épreuve d'aptitude qui décide si un destrier sera reproduction ou monture. Il était rapide, oui. Endurant, oui. Mais il refusait de gagner. À chaque course, il restait de la deuxième ou troisième position et ne forçait jamais l'allure. Pas par fatigue. Par décision.
 
-Les eleveurs etaient perplexes. Un destrier qui refuse de gagner brise le protocole d'une autre maniere : il refuse sa propre nature. Le doyen Maelek demanda si on devait l'ecarter.
+Les éleveurs étaient perplexes. Un destrier qui refuse de gagner brise le protocole d'une autre manière : il refuse sa propre nature. Le doyen Maelek demanda si on devait l'écarter.
 
-C'est Bryssa, palefreniere de quatre-vingts ans, qui posa la main sur le museau du poulain. Elle le regarda dans les yeux longtemps. Puis elle dit : "Ce n'est pas un coureur. C'est un ouvreur."
+C'est Bryssa, palefrenière de quatre-vingts ans, qui posa la main sur le museau du poulain. Elle le regarda dans les yeux longtemps. Puis elle dit : "Ce n'est pas un coureur. C'est un ouvreur."
 
-Personne ne comprit. Bryssa expliqua --- pas tout, parce qu'elle disait elle-meme qu'elle ne savait pas tout. Mais elle avait observe que les chevaux qui galopaient derriere ce poulain finissaient toujours plus tot --- comme si sa cadence stable, jamais maximale, fixait pour les autres une trajectoire propre. Il ne gagnait pas ; il faisait gagner. Sa fonction n'etait pas le titre --- c'etait la course.
+Personne ne comprit. Bryssa expliqua --- pas tout, parce qu'elle disait elle-même qu'elle ne savait pas tout. Mais elle avait observé que les chevaux qui galopaient derrière ce poulain finissaient toujours plus tôt --- comme si sa cadence stable, jamais maximale, fixait pour les autres une trajectoire propre. Il ne gagnait pas ; il faisait gagner. Sa fonction n'était pas le titre --- c'était la course.
 
-On le retira des epreuves d'aptitude. On le mit en tete des entrainements collectifs des autres destriers. La generation suivante de Sylorin produisit les meilleures montures depuis deux siecles. Le poulain ne courut jamais une course officielle.
+On le retira des épreuves d'aptitude. On le mit en tête des entraînements collectifs des autres destriers. La génération suivante de Sylorin produisit les meilleures montures depuis deux siècles. Le poulain ne courut jamais une course officielle.
 
-Bryssa mourut sans avoir transmis sa methode. Le poulain mourut vieux, dans un pre. On ne refit pas exactement l'experience. On la *raconte*, parfois, aux jeunes eleveurs qui demandent pourquoi tel cheval mediocre est garde au troupeau. Personne ne sait si la regle est generalisable. Personne n'ose trancher.
+Bryssa mourut sans avoir transmis sa méthode. Le poulain mourut vieux, dans un pré. On ne refit pas exactement l'expérience. On la *raconte*, parfois, aux jeunes éleveurs qui demandent pourquoi tel cheval médiocre est gardé au troupeau. Personne ne sait si la règle est generalisable. Personne n'ose trancher.
 
 ---
 
 ## Faldris --- "Les Quarante-Trois Cercles"
 
-La pierre se trouve a l'entree du batiment central de Faldris. Elle est large, polie, gravee de noms en colonnes serrees. Chaque colonne represente une expedition. Chaque ligne, un nom d'eclaireur. Chaque date de retour est inscrite a cote du nom.
+La pierre se trouve à l'entrée du bâtiment central de Faldris. Elle est large, polie, gravée de noms en colonnes serrées. Chaque colonne représente une expédition. Chaque ligne, un nom d'éclaireur. Chaque date de retour est inscrite à côté du nom.
 
-Quarante-trois noms n'ont pas de date de retour. Ils sont entoures d'un cercle simple, propre, sans ornement.
+Quarante-trois noms n'ont pas de date de retour. Ils sont entourés d'un cercle simple, propre, sans ornement.
 
-On ne sait pas quel doyen instaura la regle des cercles. On sait qu'elle existe depuis plus de cent ans. On sait que les nouveaux eclaireurs viennent toucher la pierre avant chaque depart. Ils suivent la liste du doigt. Ils s'arretent souvent a un cercle. Parfois plus longtemps.
+On ne sait pas quel doyen instaura la règle des cercles. On sait qu'elle existe depuis plus de cent ans. On sait que les nouveaux éclaireurs viennent toucher la pierre avant chaque départ. Ils suivent la liste du doigt. Ils s'arrêtent souvent à un cercle. Parfois plus longtemps.
 
-Ervin etait le quarante-quatrieme candidat a l'expedition orientale de l'an 247. Il avait vingt-deux ans. Son frere aine, Tovan, etait mort cinq ans plus tot dans les steppes de Myralis --- son nom etait gravé dans la deuxieme colonne, treizieme ligne, entoure d'un cercle frais.
+Ervin était le quarante-quatrième candidat à l'expédition orientale de l'an 247. Il avait vingt-deux ans. Son frère aîné, Tovan, était mort cinq ans plus tôt dans les steppes de Myralis --- son nom était gravé dans la deuxième colonne, treizième ligne, entouré d'un cercle frais.
 
-Le matin du depart, Ervin posa son doigt sur le cercle de son frere. Il resta la une demi-heure. Il ne pleura pas. Il ne pria pas. Il *regarda*.
+Le matin du départ, Ervin posa son doigt sur le cercle de son frère. Il resta là une demi-heure. Il ne pleura pas. Il ne pria pas. Il *regarda*.
 
-Le doyen de Faldris, Velka, vint se placer a cote de lui. "Tu peux encore renoncer."
+Le doyen de Faldris, Velka, vint se placer à côté de lui. "Tu peux encore renoncer."
 
 "Je sais."
 
@@ -199,10 +199,10 @@ Le doyen de Faldris, Velka, vint se placer a cote de lui. "Tu peux encore renonc
 
 "Pourquoi ?"
 
-Ervin ne sut pas repondre tout de suite. Il finit par dire : "Parce que si je renonce, le cercle de Tovan devient un avertissement. Si je pars, il reste un nom."
+Ervin ne sut pas répondre tout de suite. Il finit par dire : "Parce que si je renonce, le cercle de Tovan devient un avertissement. Si je pars, il reste un nom."
 
-Velka hocha la tete. C'etait peut-etre la phrase la plus juste qu'elle ait entendue de toute sa carriere --- ou la plus dangereuse. Elle ne sut pas choisir. Elle n'avait pas a choisir : Ervin etait deja parti.
+Velka hocha la tête. C'était peut-être la phrase la plus juste qu'elle ait entendue de toute sa carrière --- où la plus dangereuse. Elle ne sut pas choisir. Elle n'avait pas à choisir : Ervin était déjà parti.
 
-Il revint. Quatre mois plus tard, amaigri, brule de soleil, sans un mot sur ce qu'il avait vu. Sa date de retour fut gravee. Le cercle de Tovan resta inchange. Il fixe encore Ervin chaque fois qu'il entre dans le batiment.
+Il revint. Quatre mois plus tard, amaigri, brûlé de soleil, sans un mot sur ce qu'il avait vu. Sa date de retour fut gravée. Le cercle de Tovan resta inchangé. Il fixe encore Ervin chaque fois qu'il entre dans le bâtiment.
 
-Le doyen Velka dit parfois aux jeunes eclaireurs : "On ne grave pas les cercles pour effrayer. On les grave pour se rappeler qu'on choisit." Elle ne dit jamais ce qu'on choisit. Les eclaireurs comprennent ou ils ne comprennent pas. Ceux qui comprennent partent quand meme. Ceux qui ne comprennent pas partent aussi. La pierre les attend.
+Le doyen Velka dit parfois aux jeunes éclaireurs : "On ne grave pas les cercles pour effrayer. On les grave pour se rappeler qu'on choisit." Elle ne dit jamais ce qu'on choisit. Les éclaireurs comprennent où ils ne comprennent pas. Ceux qui comprennent partent quand même. Ceux qui ne comprennent pas partent aussi. La pierre les attend.

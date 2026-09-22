@@ -15,7 +15,7 @@ needs_review_for: [validation-narrative-V4]
 
 ---
 
-## ERE I — LA GENESE (Avant-Mémoire — temps mythique)
+## ÈRE I — LA GENESE (Avant-Mémoire — temps mythique)
 
 ### Les douze Cosmiques (roster GDD)
 
@@ -36,7 +36,7 @@ Ils sont **douze**. Non parce qu'un nombre rond l'exigerait, mais parce que douz
 11. **Resonia** — la résonance : la musique, l'harmonie, la manière dont deux choses peuvent vibrer à l'unisson sans se confondre.
 12. **Vermis** — la décomposition : celle qui défait pour que d'autre chose puisse se faire ; sans elle, le monde s'engorgerait de ses propres œuvres.
 
-> [!important] D1 — La Chronologie adopte le roster du GDD
+> [!important] D1 — La Chronologie adopté le roster du GDD
 > Les versions antérieures de cette Ère bâtissaient la liste des Cosmiques sur une **liste héritée de la Chronologie** — où **Climata, Gravitas, Vortex, Judicar, Stellaris, Aetheron et Etherius** figuraient comme Cosmiques — et affirmaient à tort que cette liste était « identique au GDD ». Elle ne l'était pas. Par décision d'auteur **D1**, c'est désormais le **roster du GDD** ([[Cosmologie]]) qui fait foi, ici comme partout.
 >
 > Conséquences : les **sept** entités ci-dessus jadis comptées comme Cosmiques sont **reclassées au rang Astral** — un cran sous les Cosmiques, mais bien réelles (voir §"Reclassement des entités héritées"). Réciproquement, **sept** voix absentes de l'ancienne liste — **Aurion, Umbra, Somnix, Ignara, Sanguis, Resonia, Vermis** — sont **confirmées Cosmiques** par le roster GDD. Le riche contenu généalogique de cette page est conservé : il décrit toujours la naissance de ces dix-neuf voix, mais présente désormais les sept reversées comme des **Astraux nés dans les Phases**, non comme des Cosmiques.

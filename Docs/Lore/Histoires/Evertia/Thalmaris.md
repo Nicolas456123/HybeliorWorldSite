@@ -43,144 +43,144 @@ Après son abdication, Elyndra III vit retirée à Galdaris, dans une cellule de
 
 ## Ostarith --- "Le Barde qui ne pouvait pas chanter"
 
-Oryn Vael avait tout pour etre un grand barde. L'oreille parfaite. La memoire des textes. La comprehension des formes et des harmoniques que les maitres enseignaient pendant des decennies. Quand il jouait du luth, les autres etudiants s'arretaient de travailler pour l'ecouter.
+Oryn Vael avait tout pour être un grand barde. L'oreille parfaite. La mémoire des textes. La compréhension des formes et des harmoniques que les maîtres enseignaient pendant des décennies. Quand il jouait du luth, les autres étudiants s'arrêtaient de travailler pour l'écouter.
 
 Mais quand il chantait, les chiens hurlaient.
 
-Ce n'etait pas une exageration. Sa voix --- desaccordee, gutturale, d'une laideur musicale authentiquement rare --- provoquait une souffrance physique chez quiconque l'entendait. Les maitres du Palais du Chant lui demanderent avec delicatesse de ne plus chanter. Oryn accepta en silence.
+Ce n'était pas une exagération. Sa voix --- désaccordée, gutturale, d'une laideur musicale authentiquement rare --- provoquait une souffrance physique chez quiconque l'entendait. Les maîtres du Palais du Chant lui demandèrent avec délicatesse de ne plus chanter. Oryn accepta en silence.
 
-Il continua d'etudier. Mais au lieu d'apprendre les chansons, il apprit a les ecrire. Au lieu de performer, il transmit. Ses compositions pour d'autres, ses arrangements pour les grands choeurs, ses partitions pour les orchestres de chambre --- tout ce qu'il ne pouvait pas realiser lui-meme, il le donnait a ceux qui pouvaient.
+Il continua d'étudier. Mais au lieu d'apprendre les chansons, il apprit à les écrire. Au lieu de performer, il transmit. Ses compositions pour d'autres, ses arrangements pour les grands chœurs, ses partitions pour les orchestres de chambre --- tout ce qu'il ne pouvait pas realiser lui-même, il le donnait à ceux qui pouvaient.
 
-Pendant quarante ans, il ecrivit. Jamais il ne revendiqua la gloire des interpretes qui portaient ses oeuvres sur scene. Quand on lui demandait pourquoi, il disait : "Un compositeur n'est pas un musicien. Il est le silence entre les notes."
+Pendant quarante ans, il écrivit. Jamais il ne revendiqua la gloire des interprètes qui portaient ses œuvres sur scène. Quand on lui demandait pourquoi, il disait : "Un compositeur n'est pas un musicien. Il est le silence entre les notes."
 
-Il mourut dans sa cellule du Palais du Chant, entour de papiers couverts d'encre, avec un sourire que ses eleves n'avaient jamais vu sur son visage de son vivant.
+Il mourut dans sa cellule du Palais du Chant, entour de papiers couverts d'encre, avec un sourire que ses élèves n'avaient jamais vu sur son visage de son vivant.
 
-On retrouva dans ses affaires un carnet portant un titre : "Chansons que j'aurais voulu chanter." Il etait vide.
+On retrouva dans ses affaires un carnet portant un titre : "Chansons que j'aurais voulu chanter." Il était vidé.
 
-Mais au Palais du Chant, quand une partition d'Oryn Vael est executee pour la premiere fois, les Cantori pretendent qu'ils entendent une voix qu'ils ne peuvent pas situer dans le choeur. Juste pour les premieres mesures. Puis elle se tait.
+Mais au Palais du Chant, quand une partition d'Oryn Vael est exécutée pour la première fois, les Cantori prétendent qu'ils entendent une voix qu'ils ne peuvent pas situer dans le chœur. Juste pour les premières mesures. Puis elle se tait.
 
 ---
 
 ## Galdaris --- "La Marchande et le contrat parfait"
 
-Selna Mors etait marchande a Galdaris depuis trente ans. Elle n'avait rien de particulier --- ni la beaute ni l'elegance ni le charme que l'on attribue aux grands negociants de Thalmaris. Ce qu'elle avait, c'etait une memoire absolue des mots.
+Selna Mors était marchande à Galdaris depuis trente ans. Elle n'avait rien de particulier --- ni la beauté ni l'élégance ni le charme que l'on attribue aux grands négociants de Thalmaris. Ce qu'elle avait, c'était une mémoire absolue des mots.
 
-Elle n'oubliait jamais ce qu'on lui avait dit. Pas une promesse. Pas une clause. Pas une nuance de ton qui trahissait une intention cachee.
+Elle n'oubliait jamais ce qu'on lui avait dit. Pas une promesse. Pas une clause. Pas une nuance de ton qui trahissait une intention cachée.
 
-Cette reputation la precedait. Negocier avec Selna Mors, c'etait signer pour toujours. Les marchands qui esperaient glisser une exception dans un contrat verbal se retrouvaient rappeles a leurs mots avec une precision effrayante, des annees plus tard.
+Cette réputation la précédait. Négocier avec Selna Mors, c'était signer pour toujours. Les marchands qui espéraient glisser une exception dans un contrat verbal se retrouvaient rappelés à leurs mots avec une précision effrayante, des années plus tard.
 
-Un jour, le fils cadet d'un seigneur de Thalmaris vint la voir avec une proposition qui lui aurait fait doubler sa fortune. Elle l'ecouta jusqu'au bout, puis secoua la tete. "Votre pere a dit a mon pere, il y a vingt ans, que les terres du nord etaient interdites au commerce prive." Le jeune homme pala. "Il n'a jamais signe de document."
+Un jour, le fils cadet d'un seigneur de Thalmaris vint la voir avec une proposition qui lui aurait fait doubler sa fortune. Elle l'écouta jusqu'au bout, puis secoua la tête. "Votre père a dit à mon père, il y a vingt ans, que les terres du nord étaient interdites au commerce privé." Le jeune homme pala. "Il n'a jamais signé de document."
 
-"Non," dit Selna. "Il a donne sa parole. C'est mieux."
+"Non," dit Selna. "Il a donné sa parole. C'est mieux."
 
-Elle refusa le contrat. Le jeune homme repartit furieux. Dix ans plus tard, quand on decouvrit que les terres en question abritaient un gisement de minerais rare que le seigneur voulait garder pour sa famille, le refus de Selna evita a Galdaris une guerre de succession.
+Elle refusa le contrat. Le jeune homme repartit furieux. Dix ans plus tard, quand on découvrit que les terres en question abritaient un gisement de minerais rare que le seigneur voulait garder pour sa famille, le refus de Selna évita à Galdaris une guerre de succession.
 
-Les marchands de Thalmaris ont une expression depuis lors. Quand on refuse une affaire douteuse, on dit qu'on "fait une Selna". Selna elle-meme detestait cette expression. Mais elle ne la corrigea jamais.
+Les marchands de Thalmaris ont une expression depuis lors. Quand on refuse une affaire douteuse, on dit qu'on "fait une Selna". Selna elle-même détestait cette expression. Mais elle ne la corrigea jamais.
 
 ---
 
-## Galrinor --- "L'Accordeur de tempetes"
+## Galrinor --- "L'Accordeur de tempêtes"
 
-Galrinor etait un village de peche et de sel. Ses habitants connaissaient le vent mieux que n'importe quel barde --- non pas ses noms poetiques et ses metaphores, mais ses cycles, ses humeurs, les nuances de son odeur qui predisaient la pluie ou le calme.
+Galrinor était un village de pêche et de sel. Ses habitants connaissaient le vent mieux que n'importe quel barde --- non pas ses noms poétiques et ses métaphores, mais ses cycles, ses humeurs, les nuances de son odeur qui predisaient la pluie où le calme.
 
-Dort etait l'accordeur de Galrinor. Son metier n'avait pas de nom officiel : il tendait les cordes et les cables des navires au mouillage de facon que le vent en jouant produise une harmonie specifique plutot qu'un sifflement cacophonique. Les marins dormaient mieux quand les cables chantaient juste.
+Dort était l'accordeur de Galrinor. Son métier n'avait pas de nom officiel : il tendait les cordes et les câbles des navires au mouillage de façon que le vent en jouant produise une harmonie spécifique plutôt qu'un sifflement cacophonique. Les marins dormaient mieux quand les câbles chantaient juste.
 
-Un printemps, une tempete arriva qui ne ressemblait a aucune autre. Elle venait de l'est, la ou les tempetes ne venaient jamais. Les cables hurlerent une dissonance que Dort reconnut : ce n'etait pas du vent. C'etait un avertissement.
+Un printemps, une tempête arriva qui ne ressemblait à aucune autre. Elle venait de l'est, là où les tempêtes ne venaient jamais. Les câbles hurlerent une dissonance que Dort reconnut : ce n'était pas du vent. C'était un avertissement.
 
-Il courut au port et ordonna a tous les navires de rentrer. Les capitaines rirent. "Une tempete de printemps ? Rien de plus ordinaire." Dort tint bon. Il argumenta, insista, supplia. Finalement, un capitaine accepta par lassitude. Puis un autre, pour ne pas etre le seul a s'obstiner.
+Il courut au port et ordonna à tous les navires de rentrer. Les capitaines rirent. "Une tempête de printemps ? Rien de plus ordinaire." Dort tint bon. Il argumenta, insista, supplia. Finalement, un capitaine accepta par lassitude. Puis un autre, pour ne pas être le seul à s'obstiner.
 
-La tempete fut catastrophique. Elle depassa tout ce que les anciens avaient vu. Les navires qui etaient restes au port furent disloques contre les quais. Ceux qui avaient repondu a l'ordre de Dort survenquirent en pleine mer, a l'abri de la fureur cotieres.
+La tempête fut catastrophique. Elle dépassa tout ce que les anciens avaient vu. Les navires qui étaient restés au port furent disloqués contre les quais. Ceux qui avaient répondu à l'ordre de Dort survenquirent en pleine mer, à l'abri de la fureur côtières.
 
-Dort ne fut jamais demande comment il avait su. Il ne l'aurait pas pu expliquer. "Les cables m'ont dit," aurait-il repondu.
+Dort ne fut jamais demandé comment il avait su. Il ne l'aurait pas pu expliquer. "Les câbles m'ont dit," aurait-il répondu.
 
-A Galrinor, les accordeurs de cables sont aujourd'hui consideres comme aussi importants que les pilotes. Et avant chaque depart, le capitaine ecoute toujours les cables chanter.
+À Galrinor, les accordeurs de câbles sont aujourd'hui considérés comme aussi importants que les pilotes. Et avant chaque départ, le capitaine écoute toujours les câbles chanter.
 
 ---
 
 ## Myrdoris --- "Le Barde du Camp Ennemi"
 
-La guerre entre Thalmaris et un comte voisin dura sept ans. Elle finit d'une facon que les chroniques ne rapportent pas : par une chanson.
+La guerre entre Thalmaris et un comté voisin dura sept ans. Elle finit d'une façon que les chroniques ne rapportent pas : par une chanson.
 
-Elvar etait barde dans l'armee de Thalmaris. Un soir de siege, il se retrouva a moins de cent metres des feux ennemis. Il aurait du se retirer. A la place, il sortit son luth et commenca a jouer.
+Elvar était barde dans l'armée de Thalmaris. Un soir de siège, il se retrouva à moins de cent mètres des feux ennemis. Il aurait dû se retirer. À la place, il sortit son luth et commença à jouer.
 
-Les soldats ennemis, epuises, l'entendirent. Ils ne tirerent pas. Peut-etre par surprise. Peut-etre parce que la musique, dans le silence de la nuit, avait quelque chose d'inimaginable --- un barde jouant entre deux armees comme si la guerre n'existait pas.
+Les soldats ennemis, épuisés, l'entendirent. Ils ne tirerent pas. Peut-être par surprise. Peut-être parce que la musique, dans le silence de la nuit, avait quelque chose d'inimaginable --- un barde jouant entre deux armées comme si la guerre n'existait pas.
 
-Elvar joua jusqu'a l'aube. Il joua des chansons que tout le monde connaissait --- des airs de maison, des berceuses, des chansons a boire. Des airs que les soldats des deux camps avaient entendus dans leur enfance.
+Elvar joua jusqu'à l'aube. Il joua des chansons que tout le monde connaissait --- des airs de maison, des berceuses, des chansons à boire. Des airs que les soldats des deux camps avaient entendus dans leur enfance.
 
-Au matin, un officier ennemi s'avanca seul, les mains vides, et demanda une treve pour parlementer. Les negociations commencerent ce jour-la.
+Au matin, un officier ennemi s'avança seul, les mains vides, et demanda une trêve pour parlementer. Les négociations commencèrent ce jour-là.
 
-La paix fut signee trois semaines plus tard. Elvar ne recut aucun honneur officiel. Les traites ne mentionnent pas les bardes.
+La paix fut signée trois semaines plus tard. Elvar ne recut aucun honneur officiel. Les traités ne mentionnent pas les bardes.
 
-Mais dans les deux armee demobilisees, les soldats qui avaient entendu jouer Elvar cette nuit-la porterent quelque chose avec eux pour le reste de leur vie. Certains devinrent des musiciens. D'autres des enseignants. Aucun ne retourna a la guerre.
+Mais dans les deux armée demobilisees, les soldats qui avaient entendu jouer Elvar cette nuit-là portèrent quelque chose avec eux pour le reste de leur vie. Certains devinrent des musiciens. D'autres des enseignants. Aucun ne retourna à la guerre.
 
-Elvar lui-meme ne comprit jamais ce qu'il avait fait. "J'avais froid et j'avais peur," dit-il a son apprenti, des annees plus tard. "La musique m'empechait de trembler."
+Elvar lui-même ne comprit jamais ce qu'il avait fait. "J'avais froid et j'avais peur," dit-il a son apprenti, des années plus tard. "La musique m'empêchait de trembler."
 
 ---
 
-## Velrith --- "Ce que Velrith a oublie"
+## Velrith --- "Ce que Velrith a oublié"
 
-Velrith etait une ville de scribes. Ses archives conservaient des copies des grands textes de Thalmaris --- partitions, contrats, genealogies, chroniques. Pendant des siecles, quiconque voulait une copie d'un document perdu venait a Velrith.
+Velrith était une ville de scribes. Ses archives conservaient des copies des grands textes de Thalmaris --- partitions, contrats, généalogies, chroniques. Pendant des siècles, quiconque voulait une copie d'un document perdu venait à Velrith.
 
-Un incendie detruisit les archives en une nuit.
+Un incendie détruisit les archives en une nuit.
 
-Ce qui brula n'etait pas remplacable. Des partitions de compositeurs morts depuis des generations. Des contrats fondateurs de familles marchandes. Des registres de naissances et de mariages remontant a l'ere de Valdren le Trouvere.
+Ce qui brûla n'était pas remplaçable. Des partitions de compositeurs morts depuis des générations. Des contrats fondateurs de familles marchandes. Des registres de naissances et de mariages remontant à l'ère de Valdren le Trouvère.
 
-Le grand archiviste, Theron Cass, survit a l'incendie en sautant par une fenetre. Il avait soixante-dix ans et se cassa les deux jambes dans la chute. Couche dans l'infirmerie, il entendit les pleurs de ses colleguess et ne pleura pas.
+Le grand archiviste, Theron Cass, survit à l'incendie en sautant par une fenêtre. Il avait soixante-dix ans et se cassa les deux jambes dans la chute. Couché dans l'infirmerie, il entendit les pleurs de ses collèguess et ne pleura pas.
 
-"Qu'est-ce que vous sauvez ?" demanda une infirmiere.
+"Qu'est-ce que vous sauvez ?" demanda une infirmière.
 
-"Ma memoire," dit-il.
+"Ma mémoire," dit-il.
 
-Cass passa les trois annees suivantes a dicter. Tout ce qu'il avait lu en soixante ans d'archivage. Les partitions qu'il connaissait par coeur. Les generalogies qu'il avait copiees tant de fois qu'elles etaient gravees dans ses neurones. Ses assistants ecrivaient jour et nuit.
+Cass passa les trois années suivantes a dicter. Tout ce qu'il avait lu en soixante ans d'archivage. Les partitions qu'il connaissait par cœur. Les generalogies qu'il avait copiées tant de fois qu'elles étaient gravées dans ses neurones. Ses assistants écrivaient jour et nuit.
 
-Il mourut avant d'avoir tout dit. Il restait, disent ses collaborateurs, environ un tiers de sa memoire non transcrit.
+Il mourut avant d'avoir tout dit. Il restait, disent ses collaborateurs, environ un tiers de sa mémoire non transcrit.
 
-Les Archives Nouvelles de Velrith existent aujourd'hui. Elles sont plus completes que ce qu'on pensait sauver. Mais dans les couloirs, les archivistes gardent un espace vide --- une etagere intentionnellement non remplie, pour tout ce qu'on n'a pas eu le temps d'ecrire.
+Les Archives Nouvelles de Velrith existent aujourd'hui. Elles sont plus complètes que ce qu'on pensait sauver. Mais dans les couloirs, les archivistes gardent un espace vide --- une étagère intentionnellement non remplie, pour tout ce qu'on n'a pas eu le temps d'écrire.
 
 ---
 
 ## Elarinor --- "La Voix qui restait"
 
-Mira avait perdu sa voix a seize ans apres une maladie des cordes. Plus un son ne sortait de sa gorge. Pour une enfant de Thalmaris --- ou le chant est une priere, une monnaie, un identite --- c'etait une mort douce.
+Mira avait perdu sa voix à seize ans après une maladie des cordes. Plus un son ne sortait de sa gorge. Pour une enfant de Thalmaris --- ou le chant est une prière, une monnaie, un identité --- c'était une mort douce.
 
-Elle apprit le langage des signes. Elle apprit a ecrire avec une vitesse qui substituait partiellement a la parole. Elle devint copiste, puis enlumineuse, puis maitresse de copie au Palais du Chant. Son travail etait impeccable. Ses collegues l'appreciaient. Sa vie n'etait pas malheureuse.
+Elle apprit le langage des signes. Elle apprit à écrire avec une vitesse qui substituait partiellement à la parole. Elle devint copiste, puis enlumineuse, puis maîtresse de copie au Palais du Chant. Son travail était impeccable. Ses collègues l'appreciaient. Sa vie n'était pas malheureuse.
 
-Mais une nuit par annee, lors de la grande fete du Cantus Mundi, quand les Cantori chantaient les grandes oeuvres, Mira se glissait dans les coulisses et restait debout dans l'obscurte, les mains posees a plat sur la paroi vibrante.
+Mais une nuit par année, lors de la grande fête du Cantus Mundi, quand les Cantori chantaient les grandes œuvres, Mira se glissait dans les coulisses et restait debout dans l'obscurte, les mains posées à plat sur la paroi vibrante.
 
-Elle n'entendait pas la musique comme les autres. Elle la sentait. Chaque note traversait la pierre et entrait dans ses paumes, remontait dans ses bras, vibrait dans sa cage thoracique. C'etait une autre facon d'ecouter.
+Elle n'entendait pas la musique comme les autres. Elle la sentait. Chaque note traversait la pierre et entrait dans ses paumes, remontait dans ses bras, vibrait dans sa cage thoracique. C'était une autre façon d'écouter.
 
-Un soir, un apprenti barde la decouvrit dans les coulisses, les yeux fermes, les mains sur le mur, et comprit ce qu'elle faisait. Il ne dit rien. Il s'approcha et posa ses propres mains sur le mur.
+Un soir, un apprenti barde la découvrit dans les coulisses, les yeux fermés, les mains sur le mur, et comprit ce qu'elle faisait. Il ne dit rien. Il s'approcha et posa ses propres mains sur le mur.
 
-Ils resterent ainsi jusqu'a la fin du concert. Puis ils se lacherent les mains et rentrerent chacun chez soi sans un mot.
+Ils restèrent ainsi jusqu'à la fin du concert. Puis ils se lâchèrent les mains et rentrèrent chacun chez soi sans un mot.
 
-Cet apprenti devint l'un des plus grands compositeurs de sa generation. Il dit un jour a ses etudiants que sa revelation avait ete de comprendre que la musique n'est pas du son. C'est de la vibration. Et la vibration appartient a tout le monde, avec ou sans voix.
+Cet apprenti devint l'un des plus grands compositeurs de sa génération. Il dit un jour à ses étudiants que sa révélation avait été de comprendre que la musique n'est pas du son. C'est de la vibration. Et la vibration appartient à tout le monde, avec ou sans voix.
 
-Ses etudiants ne saurent jamais d'ou venait cette pensee.
+Ses étudiants ne saurent jamais d'où venait cette pensée.
 
 ---
 
 ## Faloria --- "Le Dernier Concert"
 
-Aldren Mys etait trop vieux pour jouer. Ses doigts ne repondaient plus. L'arthrite les courbait dans des directions que son luth ne pardonnait pas. A soixante-quinze ans, le plus grand luthiste de Faloria avait range son instrument depuis cinq ans.
+Aldren Mys était trop vieux pour jouer. Ses doigts ne répondaient plus. L'arthrite les courbait dans des directions que son luth ne pardonnait pas. À soixante-quinze ans, le plus grand luthiste de Faloria avait rangé son instrument depuis cinq ans.
 
-Il vivait de ses souvenirs, de la bonne grace de ses anciens eleves, et de sa fierete.
+Il vivait de ses souvenirs, de la bonne grâce de ses anciens élèves, et de sa fierete.
 
-Un jour, un message arriva de Ostarith : le Grand Concert du Cantus Mundi cherchait un executant pour un morceau oublie de Valdren le Trouvere. Le seul musicien qui en connaissait la partition etait Aldren Mys.
+Un jour, un message arriva de Ostarith : le Grand Concert du Cantus Mundi cherchait un exécutant pour un morceau oublié de Valdren le Trouvère. Le seul musicien qui en connaissait la partition était Aldren Mys.
 
-Les medecins dirent non. Le morceau durait quarante minutes. Ses doigts ne tiendraient pas. La douleur serait insupportable.
+Les médecins dirent non. Le morceau durait quarante minutes. Ses doigts ne tiendraient pas. La douleur serait insupportable.
 
-Aldren demanda combien de concerts lui restaient si les medecins decidaient. Ils ne repondirent pas.
+Aldren demanda combien de concerts lui restaient si les médecins décidaient. Ils ne répondirent pas.
 
-Il monta sur scene. Ses mains tremblaient a l'accord initial. Le premier accord sonna faux. Le public ne bougea pas. Aldren ferma les yeux.
+Il monta sur scène. Ses mains tremblaient à l'accord initial. Le premier accord sonna faux. Le public ne bougea pas. Aldren ferma les yeux.
 
-Et quelque chose se passa que personne ne sut expliquer. La douleur ne disparut pas. Mais elle cessa de compter. Ses doigts trouverent les positions par memoire musculaire, par une connaissance plus ancienne que son corps vieilli.
+Et quelque chose se passa que personne ne sut expliquer. La douleur ne disparut pas. Mais elle cessa de compter. Ses doigts trouvèrent les positions par mémoire musculaire, par une connaissance plus ancienne que son corps vieilli.
 
-Il joua les quarante minutes. Pas parfaitement. Certaines notes furent manquees, certains ornements simplifies. Mais la structure etait la, et l'ame avec elle.
+Il joua les quarante minutes. Pas parfaitement. Certaines notes furent manquées, certains ornements simplifiés. Mais la structure était là, et l'âme avec elle.
 
-A la derniere note, le silence dura sept secondes avant que le public ne bouge.
+À la dernière note, le silence dura sept secondes avant que le public ne bouge.
 
-Aldren rentra a Faloria et ne rejoua plus jamais. "Une fois suffit," dit-il. "Le morceau a ete rejoue. C'est tout ce qui importait."
+Aldren rentra à Faloria et ne rejoua plus jamais. "Une fois suffit," dit-il. "Le morceau a été rejoué. C'est tout ce qui importait."
 
-Il mourut deux ans plus tard. Dans sa chambre, il y avait un luth sur le mur. Ses eleves avaient voulu le retirer pour lui epargner la tentation. Il avait refuse.
+Il mourut deux ans plus tard. Dans sa chambre, il y avait un luth sur le mur. Ses élèves avaient voulu le retirer pour lui épargner la tentation. Il avait refusé.
 
 "Je ne le regarde pas avec envie," avait-il dit. "Je le regarde avec gratitude."

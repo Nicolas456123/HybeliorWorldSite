@@ -63,82 +63,82 @@ La stratigraphie du Mont Cendra est documentée par les forages, les éruptions 
 
 ---
 
-### Les 45 Etheres
+### Les 45 Éthérés
 
-Naissent des interactions entre Cosmiques. 45 entites de 3eme rang, specialisees dans des forces tres precises (le gel, le tonnerre, le corail, la lave, les marees, les vents du nord, etc.)
+Naissent des interactions entre Cosmiques. 45 entités de 3eme rang, spécialisées dans des forces très précises (le gel, le tonnerre, le corail, la lave, les marées, les vents du nord, etc.)
 
-Ils s'installent dans des lieux specifiques du Panghor, creant des **zones d'influence** qui deviendront les particularites geographiques des futurs continents.
+Ils s'installent dans des lieux spécifiques du Panghor, créant des **zones d'influence** qui deviendront les particularités géographiques des futurs continents.
 
-*Exemples deja etablis : Glacien (Climata x Aquor), Embrasur (Flamara x Terranu), Tempestal (Aerion x Climata), Lumiveil (Celestia x Aerion)...*
+*Exemples déjà établis : Glacien (Climata x Aquor), Embrasur (Flamara x Terranu), Tempestal (Aerion x Climata), Lumiveil (Celestia x Aerion)...*
 
-#### La nature des Etheres — Ce qui les distingue des Cosmiques
+#### La nature des Éthérés — Ce qui les distingue des Cosmiques
 
-Les Etheres sont souvent decrits comme des "dieux mineurs" dans les traditions religieuses mortelles, mais cette description est inexacte. Ils sont fondamentalement differents des Cosmiques de plusieurs facons :
+Les Éthérés sont souvent décrits comme des "dieux mineurs" dans les traditions religieuses mortelles, mais cette description est inexacte. Ils sont fondamentalement différents des Cosmiques de plusieurs façons :
 
-**Specialisation extreme :** Un Cosmique comme Aquor domine *toutes les eaux du monde*. Un Ethere comme Glacien domine *les glaces permanentes et les glaciers* — rien d'autre. Cette specialisation les rend plus puissants que les Cosmiques *dans leur domaine precis*, mais completement impuissants hors de lui.
+**Spécialisation extrême :** Un Cosmique comme Aquor domine *toutes les eaux du monde*. Un Éthéré comme Glacien domine *les glaces permanentes et les glaciers* — rien d'autre. Cette spécialisation les rend plus puissants que les Cosmiques *dans leur domaine précis*, mais complètement impuissants hors de lui.
 
-**Presence physique plus marquee :** Les Cosmiques sont des forces diffuses qui impregnent tout le monde. Les Etheres sont souvent *localises* — Thalossa est dans les abysses, pas partout dans l'ocean. Cette localisation est leur force (ils sont tres intenses dans leur zone) et leur faiblesse (les isoler de leur zone les affaiblit).
+**Présence physique plus marquée :** Les Cosmiques sont des forces diffuses qui impregnent tout le monde. Les Éthérés sont souvent *localisés* — Thalossa est dans les abysses, pas partout dans l'océan. Cette localisation est leur force (ils sont très intenses dans leur zone) et leur faiblesse (les isoler de leur zone les affaiblit).
 
-**Capacite de communication plus directe :** Les mortels ont generalement plus de facilite a "contacter" un Ethere qu'un Cosmique. Non pas parce que les Etheres sont plus faibles (au contraire), mais parce qu'ils sont plus *precis*. Un chamane qui cherche a parler aux eaux peut contacter Aquor — mais Aquor est le tout des eaux, il est difficile de le distinguer. En appelant Silthor specifiquement (l'Ethere des deltas et boues), on contacte quelque chose de plus concentre, plus repondant.
+**Capacité de communication plus directe :** Les mortels ont généralement plus de facilité à "contacter" un Éthéré qu'un Cosmique. Non pas parce que les Éthérés sont plus faibles (au contraire), mais parce qu'ils sont plus *précis*. Un chamane qui cherche à parler aux eaux peut contacter Aquor — mais Aquor est le tout des eaux, il est difficile de le distinguer. En appelant Silthor spécifiquement (l'Éthéré des deltas et boues), on contacte quelque chose de plus concentre, plus répondant.
 
-**Vulnérabilite geographique :** Contrairement aux Cosmiques qui persistent meme si leur domaine est perturbe, un Ethere peut etre *affaibli* si son territoire est detruit. Coralix (les coraux) est un exemple recent : le rechauffement des eaux depuis l'Arrachement a endommage les recifs equatoriaux, et les cultistes de Coralix notent une reactivite diminuee depuis quelques siecles.
+**Vulnérabilite geographique :** Contrairement aux Cosmiques qui persistent même si leur domaine est perturbé, un Ethere peut être *affaibli* si son territoire est detruit. Coralix (les coraux) est un exemple recent : le rechauffement des eaux depuis l'Arrachement a endommage les récifs equatoriaux, et les cultistes de Coralix notent une reactivite diminuee depuis quelques siècles.
 
-**Memoire plus courte :** Les Cosmiques ont une memoire qui remonte a leur naissance. Les Etheres ont une memoire qui commence a leur installation — ils ne se souviennent pas clairement de leur naissance ni du Vide. Ils sont des entites du *monde*, pas du cosmos.
+**Mémoire plus courte :** Les Cosmiques ont une mémoire qui remonte à leur naissance. Les Éthérés ont une mémoire qui commence à leur installation — ils ne se souviennent pas clairement de leur naissance ni du Vide. Ils sont des entités du *monde*, pas du cosmos.
 
 ---
 
-#### Liste des 45 Etheres (25 detailles)
+#### Liste des 45 Éthérés (25 détaillés)
 
-| # | Nom | Parents | Domaine precis | Lieu d'installation sur le Panghor |
+| # | Nom | Parents | Domaine précis | Lieu d'installation sur le Panghor |
 |---|-----|---------|----------------|-------------------------------------|
-| 1 | **Glacien** | Climata x Aquor | Glaces permanentes, glaciers | Region polaire nord du Panghor (futur Cestra) |
-| 2 | **Embrasur** | Flamara x Terranu | Lave, coulees volcaniques, roche en fusion | Ceinture volcanique sud (futur Cendara) |
-| 3 | **Tempestal** | Aerion x Climata | Tempetes, ouragans, tornades | Mer centrale du Panghor (futur Ocean Primordial) |
-| 4 | **Lumiveil** | Celestia x Aerion | Aurores boreales, lumieres atmosferiques | Ciel des latitudes extremes, Nord et Sud |
-| 5 | **Marevane** | Aquor x Gravitas | Marees, flux et reflux, forces lunaires | Cotes ouest du Panghor (futur Alkaran) |
-| 6 | **Aridan** | Terranu x Climata | Deserts, aridite, dunes | Coeur sec du Panghor (futur Galenor central) |
+| 1 | **Glacien** | Climata x Aquor | Glaces permanentes, glaciers | Région polaire nord du Panghor (futur Cestra) |
+| 2 | **Embrasur** | Flamara x Terranu | Lave, coulées volcaniques, roche en fusion | Ceinture volcanique sud (futur Cendara) |
+| 3 | **Tempestal** | Aerion x Climata | Tempêtes, ouragans, tornades | Mer centrale du Panghor (futur Océan Primordial) |
+| 4 | **Lumiveil** | Celestia x Aerion | Aurores boréales, lumières atmosferiques | Ciel des latitudes extrêmes, Nord et Sud |
+| 5 | **Marevane** | Aquor x Gravitas | Marées, flux et reflux, forces lunaires | Côtes ouest du Panghor (futur Alkaran) |
+| 6 | **Aridan** | Terranu x Climata | Déserts, aridite, dunes | Cœur sec du Panghor (futur Galenor central) |
 | 7 | **Silthor** | Aquor x Terranu | Boues, deltas, sediments | Embouchures des grands fleuves (futur Onara) |
-| 8 | **Foudrin** | Aerion x Flamara | Eclair, tonnerre, foudre | Plaines elevees (futur Ilthara nord) |
-| 9 | **Coralix** | Aquor x Arborius | Coraux, recifs, biodiversite marine | Eaux chaudes equatoriales (futur archipel Azoria) |
-| 10 | **Nebulair** | Aerion x Aquor | Brumes, brouillards, nuages bas | Forets cotieres humides (futur Celethor) |
-| 11 | **Permafrost** | Glacien x Terranu | Sol gele en permanence, pergelsol | Sous-sol du grand nord (futur Cestra et Alkaran nord) |
-| 12 | **Arborveil** | Arborius x Climata | Forets denses saisonnieres, feuillage cyclique | Bandes temperees du Panghor (futur Celethor, Ilthara) |
+| 8 | **Foudrin** | Aerion x Flamara | Éclair, tonnerre, foudre | Plaines élevées (futur Ilthara nord) |
+| 9 | **Coralix** | Aquor x Arborius | Coraux, récifs, biodiversite marine | Eaux chaudes équatoriales (futur archipel Azoria) |
+| 10 | **Nebulair** | Aerion x Aquor | Brumes, brouillards, nuages bas | Forêts côtières humides (futur Celethor) |
+| 11 | **Permafrost** | Glacien x Terranu | Sol gelé en permanence, pergelsol | Sous-sol du grand nord (futur Cestra et Alkaran nord) |
+| 12 | **Arborveil** | Arborius x Climata | Forêts denses saisonnières, feuillage cyclique | Bandes tempérées du Panghor (futur Celethor, Ilthara) |
 | 13 | **Geysar** | Flamara x Aquor | Geysers, sources thermales, eaux bouillantes | Zones de friction volcanique (futur Evertia) |
-| 14 | **Thalossa** | Aquor x Gravitas | Grandes profondeurs oceaniques, abysses | Fosse la plus profonde sous l'Ocean Primordial |
-| 15 | **Sporalis** | Arborius x Aerion | Pollens, spores, propagation vegetale | Partout sur le Panghor — entite nomade, sans lieu fixe |
-| 16 | **Abyssus** | Noctis x Aquor | Obscurite des fonds marins, zones sans lumiere | Abysses oceanique (futur Ocean Primordial, fond) |
+| 14 | **Thalossa** | Aquor x Gravitas | Grandes profondeurs océaniques, abysses | Fosse la plus profonde sous l'Océan Primordial |
+| 15 | **Sporalis** | Arborius x Aerion | Pollens, spores, propagation végétale | Partout sur le Panghor — entité nomade, sans lieu fixe |
+| 16 | **Abyssus** | Noctis x Aquor | Obscurité des fonds marins, zones sans lumière | Abysses océanique (futur Océan Primordial, fond) |
 | 17 | **Cendrix** | Flamara x Aerion | Cendres volcaniques en suspension, nuages de cendre | Environ des volcans (futur Cendara, Evertia) |
-| 18 | **Petral** | Terranu x Gravitas | Seismes, tremblements de terre | Lignes de faille du Panghor (predispose la Fracture) |
-| 19 | **Mireille** | Aquor x Somnix | Eaux stagnantes, marecages, reflets trompeurs | Zones marecageuses interieures (futur Endora nord) |
+| 18 | **Petral** | Terranu x Gravitas | Séismes, tremblements de terre | Lignes de faille du Panghor (predispose la Fracture) |
+| 19 | **Mireille** | Aquor x Somnix | Eaux stagnantes, marécages, reflets trompeurs | Zones marécageuses intérieures (futur Endora nord) |
 | 20 | **Ventorus** | Aerion x Gravitas | Vents constants, courants atmospheriques majeurs | Couloirs de vent circumpolaires |
-| 21 | **Luminarc** | Celestia x Terranu | Cristaux lumineux, mineraux phosphorescents | Cavernes profondes (futur Alkaran, sous-sol) |
-| 22 | **Sablune** | Aridan x Aquor | Tempetes de sable, erosion eolienne | Franges des deserts (futur Galenor, Azoria) |
-| 23 | **Selvara** | Arborius x Spiritus | Forets conscientes, esprit des lieux naturels | Forets primordiales les plus anciennes (futur Ulinor) |
-| 24 | **Mortivel** | Transitum x Terranu | Terres mortes, sols steriles, friches eternelles | Zones post-volcaniques (futur Endora sud) |
+| 21 | **Luminarc** | Celestia x Terranu | Cristaux lumineux, minéraux phosphorescents | Cavernes profondes (futur Alkaran, sous-sol) |
+| 22 | **Sablune** | Aridan x Aquor | Tempêtes de sable, érosion éolienne | Franges des déserts (futur Galenor, Azoria) |
+| 23 | **Selvara** | Arborius x Spiritus | Forêts conscientes, esprit des lieux naturels | Forêts primordiales les plus anciennes (futur Ulinor) |
+| 24 | **Mortivel** | Transitum x Terranu | Terres mortes, sols stériles, friches éternelles | Zones post-volcaniques (futur Endora sud) |
 | 25 | **Harmonex** | Cantor x Aerion | Sons du vent, musiques naturelles, resonances | Gorges et grottes acoustiques (future île de Nysaria, au large de Celethor) |
 
 ---
 
 ---
 
-#### Notes sur les Etheres
+#### Notes sur les Éthérés
 
-- Les 20 Etheres restants (non encore nommes dans le lore) correspondent a des domaines comme : le sel marin, la neige, le verglas, la foudre sous-marine, les sources d'eau douce, les cavernes calcaires, les landes, les plaines de lave solidifiee, les forets de sel, les marecages acides, etc.
-- Certains Etheres ont un **lieu fixe** (Glacien sur Cestra, Thalossa dans les abysses) — leurs zones d'influence deviennent des constantes geographiques.
+- Les 20 Éthérés restants (non encore nommés dans le lore) correspondent à des domaines comme : le sel marin, la neige, le verglas, la foudre sous-marine, les sources d'eau douce, les cavernes calcaires, les landes, les plaines de lave solidifiée, les forêts de sel, les marécages acides, etc.
+- Certains Éthérés ont un **lieu fixe** (Glacien sur Cestra, Thalossa dans les abysses) — leurs zones d'influence deviennent des constantes géographiques.
 - D'autres sont **nomades** (Sporalis, Cendrix) — leur trace sur la carte est diffuse, sous forme de tendances climatiques.
 - Quand le Panghor se fracture, les Ethérés à lieu fixe sont les plus affectés : Petral (séismes) et Embrasur (volcans) sont directement impliqués dans la Fracture — certains chroniqueurs cendariens interprètent cela comme une coopération involontaire avec *Flamara* (cf. note en tête de chapitre sur le statut rumoral de cette figure).
-- **Selvara** est particulier : fils d'Arborius et de Spiritus, il est le premier Ethere a posseder une forme de conscience *relationnelle*. Les forets de l'actuel Ulinor sont celles qui "parlent" aux mortels des l'Ere II — heritage direct de Selvara.
-- **Mireille** inquiete les autres Etheres des leur naissance : fille d'Aquor et Somnix, elle melange le reel et l'onirique. Les marecages qu'elle habite sont des lieux ou la frontiere entre les mondes est mince — ce que les mortels de l'Ere III decouvriront a leurs depens.
+- **Selvara** est particulier : fils d'Arborius et de Spiritus, il est le premier Éthéré à posséder une forme de conscience *relationnelle*. Les forêts de l'actuel Ulinor sont celles qui "parlent" aux mortels des l'Ère II — héritage direct de Selvara.
+- **Mireille** inquiète les autres Éthérés des leur naissance : fille d'Aquor et Somnix, elle mélange le réel et l'onirique. Les marécages qu'elle habite sont des lieux où la frontière entre les mondes est mince — ce que les mortels de l'Ère III découvriront à leurs dépens.
 
 ---
 
-#### Portraits approfondis — Les Etheres les plus importants pour le lore
+#### Portraits approfondis — Les Éthérés les plus importants pour le lore
 
 **Glacien** *(Climata x Aquor)*
-- *Territoire :* Cestra, region polaire nord. Glacien est l'un des rares Etheres dont le territoire a activement augmente — sous son influence, les glaces de Cestra s'etendent chaque millenaire un peu plus vers le sud.
-- *Personnalite :* Lent, inevitable, absolument patient. Il ne s'oppose pas aux autres Etheres — il les *absorbe*. Les regions qu'il envahit deviennent les siennes, et les Etheres qui s'y trouvaient retreatent ou se fondent dans son domaine.
-- *Impact sur les mortels :* Les Marcheurs de Cendre (Ere II) ont une relation particuliere avec Glacien — les plus anciens rituels de leur culture decrivent un "dieu blanc qui dort debout dans les glaces". Ces rituels sont parmi les seuls cas documentes ou un Ethere est veneré avant meme l'Ere III. Les populations de Cestra en Ere VII ont une esperance de vie plus courte mais une resistance physique au froid surnaturelle — certains biologistes proposent que Glacien *modifie* activement les etres vivants sur son territoire.
-- *Le Mont Jumeau et Glacien :* Le recouvement progressif du Mont Jumeau par les glaces de Glacien est vu a rebours comme un acte d'*appropriation* — Glacien a absorbe le second pole energetique du monde. Cela lui donne-t-il acces aux energies que le Mont Jumeau concentrait ? Si oui, Glacien est peut-etre le Ethere le plus puissant du monde actuel, sans que personne ne s'en soit rendu compte.
+- *Territoire :* Cestra, région polaire nord. Glacien est l'un des rares Éthérés dont le territoire à activement augmenté — sous son influence, les glaces de Cestra s'étendent chaque millénaire un peu plus vers le sud.
+- *Personnalité :* Lent, inévitable, absolument patient. Il ne s'oppose pas aux autres Éthérés — il les *absorbe*. Les régions qu'il envahit deviennent les siennes, et les Etheres qui s'y trouvaient retreatent où se fondent dans son domaine.
+- *Impact sur les mortels :* Les Marcheurs de Cendre (Ère II) ont une relation particulière avec Glacien — les plus anciens rituels de leur culture decrivent un "dieu blanc qui dort debout dans les glaces". Ces rituels sont parmi les seuls cas documentes ou un Ethere est veneré avant même l'Ère III. Les populations de Cestra en Ère VII ont une esperance de vie plus courte mais une resistance physique au froid surnaturelle — certains biologistes proposent que Glacien *modifie* activement les etres vivants sur son territoire.
+- *Le Mont Jumeau et Glacien :* Le recouvement progressif du Mont Jumeau par les glaces de Glacien est vu à rebours comme un acte d'*appropriation* — Glacien a absorbé le second pôle énergétique du monde. Cela lui donne-t-il accès aux énergies que le Mont Jumeau concentrait ? Si oui, Glacien est peut-être le Ethere le plus puissant du monde actuel, sans que personne ne s'en soit rendu compte.
 
 **Embrasur** *(filiation traditionnelle : Flamara x Terranu — voir note sur Flamara)*
 - *Territoire :* Cendara et ceinture volcanique du sud. Selon les traditions cendariennes, Embrasur est l'architecte des archipels volcaniques — chaque île de Cendara serait une œuvre de sa main.
@@ -147,58 +147,58 @@ Les Etheres sont souvent decrits comme des "dieux mineurs" dans les traditions r
 - *La ceinture volcanique en Ère VII :* L'agitation observée au Mont Cendra (que les Cendariens lisent comme l'éveil de *Flamara*) se répercute sur les volcans alentour. Depuis ~9 800 ap.A, plusieurs volcans "dormants" de l'archipel de Cendara montrent des signes d'activité. Les géologues de Cendara suivent cela avec inquiétude. Si la ceinture entière entrait en résonance, les conséquences seraient catastrophiques — peu importe qu'on attribue ce phénomène à un Éthéré, à un Cosmique, ou à une simple dynamique géologique.
 
 **Selvara** *(Arborius x Spiritus)*
-- *Territoire :* Forets primordiales d'Ulinor. C'est le continent le moins peuple et le plus sacre du monde mortel — en partie parce qu'Ulinor est petit et isolé, en partie parce que Selvara l'a rendu... *inhabitable* pour ceux qui ne sont pas en paix.
-- *Personnalite :* Selvara est unique parmi les Etheres en ce qu'il est *conscient de lui-meme* d'une facon que les autres ne sont pas. Il pense. Il se souvient. Il *prefere* certains etres a d'autres — les mortels en paix avec eux-memes sont les bienvenus, les autres repartent avec des hallucinations et une desorientation qui dure des semaines.
-- *Les Memoires des Racines :* Les visions que les mortels recoivent en contact prolonge avec les forets de Selvara (mentionnees en Era0) ne sont pas des hallucinations — ce sont des transmissions deliberees. Selvara *choisit* ce qu'il transmet. Ses choix sont cryptiques meme pour les theoriciens du Lien de l'Ere VII.
-- *Sa relation avec Spiritus :* Spiritus (son parent cosmique) est affaibli depuis l'Arrachement. Selvara le ressent. Les forets d'Ulinor perdent lentement leur "conscience" — non pas rapidement, mais une generation apres l'autre. Selvara cherche une solution, mais les solutions d'un Ethere sont lentes comme les racines.
-- *Ulinor en Ere VII :* Une expedition de l'Ere VII (financee par l'Academie de Lumasar) a tente de cartographier l'interieur d'Ulinor. Deux des cinq membres sont revenus. Les trois autres sont restes — volontairement, selon les deux rescapes, qui eux-memes montrent des signes de ce que les medecins de l'Ere VII appellent "absorption par le vegetal" : leur peau presente des motifs ramifies, ils communiquent de moins en moins avec les mots et de plus en plus par des gestes lents. L'expedition est declaree perdue.
+- *Territoire :* Forêts primordiales d'Ulinor. C'est le continent le moins peuple et le plus sacré du monde mortel — en partie parce qu'Ulinor est petit et isolé, en partie parce que Selvara l'a rendu... *inhabitable* pour ceux qui ne sont pas en paix.
+- *Personnalité :* Selvara est unique parmi les Éthérés en ce qu'il est *conscient de lui-même* d'une façon que les autres ne sont pas. Il pense. Il se souvient. Il *préfère* certains êtres à d'autres — les mortels en paix avec eux-mêmes sont les bienvenus, les autres repartent avec des hallucinations et une désorientation qui dure des semaines.
+- *Les Mémoires des Racines :* Les visions que les mortels reçoivent en contact prolongé avec les forêts de Selvara (mentionnées en Era0) ne sont pas des hallucinations — ce sont des transmissions délibérées. Selvara *choisit* ce qu'il transmet. Ses choix sont cryptiques même pour les théoriciens du Lien de l'Ère VII.
+- *Sa relation avec Spiritus :* Spiritus (son parent cosmique) est affaibli depuis l'Arrachement. Selvara le ressent. Les forêts d'Ulinor perdent lentement leur "conscience" — non pas rapidement, mais une génération après l'autre. Selvara cherche une solution, mais les solutions d'un Éthéré sont lentes comme les racines.
+- *Ulinor en Ère VII :* Une expédition de l'Ère VII (financée par l'Académie de Lumasar) a tenté de cartographier l'intérieur d'Ulinor. Deux des cinq membres sont revenus. Les trois autres sont restés — volontairement, selon les deux rescapés, qui eux-mêmes montrent des signes de ce que les médecins de l'Ère VII appellent "absorption par le végétal" : leur peau présente des motifs ramifiés, ils communiquent de moins en moins avec les mots et de plus en plus par des gestes lents. L'expédition est déclarée perdue.
 
 **Mireille** *(Aquor x Somnix)*
-- *Territoire :* Marecages d'Endora nord. Ces marecages sont les plus dangereux du monde — non pas a cause des predateurs (il y en a peu), mais a cause de la realite.
-- *Personnalite :* Mireille est l'Ethere le plus difficile a definir. Elle ne "veut" pas nuire. Elle ne "veut" pas non plus aider. Elle *est* la limite floue entre ce qui est et ce qui n'est pas encore, et quiconque entre dans son territoire entre dans cet espace frontiere.
-- *Les zones de frontiere :* Dans les marecages de Mireille, les mortels voient des choses. Pas systematiquement les memes — chaque personne voit quelque chose de different, une chose qui lui est personnelle. Les theologiens debattent si ces visions sont des souvenirs, des prophéties, ou des fragments de la conscience de Somnix. Les pragmatiques disent : peu importe ce que c'est, n'y allez pas sans guide.
-- *Les Guides des Marecages :* Une guilde de guides locaux, active en Ere VI-VII en Endora, propose d'accompagner les voyageurs a travers les marecages de Mireille. Ces guides ont developpe sur des generations des techniques pour "rester ancres" dans la realite (repetition de mantras, contact physique constant avec des objets de l'exterieur du marecage). Ils sont les seuls experts pratiques de Mireille que les mortels aient produit.
+- *Territoire :* Marécages d'Endora nord. Ces marécages sont les plus dangereux du monde — non pas à cause des prédateurs (il y en a peu), mais à cause de la réalité.
+- *Personnalité :* Mireille est l'Éthéré le plus difficile à définir. Elle ne "veut" pas nuire. Elle ne "veut" pas non plus aider. Elle *est* la limite floue entre ce qui est et ce qui n'est pas encore, et quiconque entre dans son territoire entre dans cet espace frontière.
+- *Les zones de frontière :* Dans les marécages de Mireille, les mortels voient des choses. Pas systématiquement les mêmes — chaque personne voit quelque chose de différent, une chose qui lui est personnelle. Les théologiens debattent si ces visions sont des souvenirs, des prophéties, où des fragments de la conscience de Somnix. Les pragmatiques disent : peu importe ce que c'est, n'y allez pas sans guide.
+- *Les Guides des Marécages :* Une guilde de guides locaux, active en Ère VI-VII en Endora, propose d'accompagner les voyageurs à travers les marécages de Mireille. Ces guides ont développé sur des générations des techniques pour "rester ancrés" dans la réalité (répétition de mantras, contact physique constant avec des objets de l'extérieur du marécage). Ils sont les seuls experts pratiques de Mireille que les mortels aient produit.
 
 **Petral** *(Terranu x Gravitas)*
-- *Territoire :* Les lignes de faille du monde entier. Petral n'a pas de territoire fixe — il est present partout ou la croute terrestre est sous tension.
-- *Personnalite :* Petral est peut-etre le Ethere qui souffre le plus silencieusement. Sa nature est de *sentir* les tensions et de les *liberer* sous forme de seismes. Il ne choisit pas quand les seismes surviennent — c'est reflexe, comme un muscle qui se contracte quand il est trop tendu. Chaque tremblement de terre dans l'histoire du monde est un Petral qui a atteint son seuil de tolerance.
-- *Petral et la Fracture du Panghor :* Petral est, avec Embrasur, le principal agent geologique de la Fracture. Il a senti les lignes de faille des millions d'annees avant qu'elles ne cedent. Les plus vieux chamanes des traditions geologiques d'Alkaran (Ere II-III) avaient des rituels pour "parler a Petral" et lui demander de retarder les seismes — des rituels qui, selon les inscriptions, "fonctionnaient parfois".
-- *Les zones de Faille de Tempora :* La blessure de Tempora (Arrachement) a cree des Failles du Temps qui co-incident souvent avec les lignes de faille de Petral. Ce n'est peut-etre pas une coincidence — si le temps se brise plus facilement aux points de faiblesse de la matiere, alors Petral et Tempora partagent une logique : les lignes de moindre resistance. Les Failles de Gryndor (Ere VII) se trouvent sur une ancienne ligne de faille de Petral.
+- *Territoire :* Les lignes de faille du monde entier. Petral n'a pas de territoire fixe — il est présent partout où la croûte terrestre est sous tension.
+- *Personnalité :* Petral est peut-être le Éthéré qui souffre le plus silencieusement. Sa nature est de *sentir* les tensions et de les *libérer* sous forme de séismes. Il ne choisit pas quand les séismes surviennent — c'est réflexe, comme un muscle qui se contracte quand il est trop tendu. Chaque tremblement de terre dans l'histoire du monde est un Petral qui a atteint son seuil de tolérance.
+- *Petral et la Fracture du Panghor :* Petral est, avec Embrasur, le principal agent géologique de la Fracture. Il a senti les lignes de faille des millions d'années avant qu'elles ne cèdent. Les plus vieux chamanes des traditions géologiques d'Alkaran (Ère II-III) avaient des rituels pour "parler à Petral" et lui demander de retarder les séismes — des rituels qui, selon les inscriptions, "fonctionnaient parfois".
+- *Les zones de Faille de Tempora :* La blessure de Tempora (Arrachement) a créé des Failles du Temps qui co-incident souvent avec les lignes de faille de Petral. Ce n'est peut-être pas une coïncidence — si le temps se brise plus facilement aux points de faiblesse de la matière, alors Petral et Tempora partagent une logique : les lignes de moindre résistance. Les Failles de Gryndor (Ère VII) se trouvent sur une ancienne ligne de faille de Petral.
 
 **Thalossa** *(Aquor x Gravitas)*
-- *Territoire :* Les abysses de l'Ocean Primordial. Thalossa gouverne les profondeurs que personne — ni mortel ni Ethere — n'a jamais explorees completement.
-- *Personnalite :* Thalossa est loin. Tres loin. Sa distance n'est pas emotionnelle — elle est physique et conceptuelle. Les abysses sont hors de portee des Cosmiques comme des mortels. Elle n'est pas solitaire (la notion ne s'applique pas), elle est *au-dela*.
-- *Ce que personne ne sait sur Thalossa :* Les textes de l'Ere III les plus speculatifs suggerent que Thalossa a peut-etre trouve quelque chose dans les abysses que personne d'autre ne sait. Quelque chose que les oceans recouvrent depuis la Fracture du Panghor — des ruines du Panghor primordial, peut-etre, ou quelque chose de plus vieux encore. Ces textes sont notes comme "speculatifs" et "non verifiables" mais ils persistent.
-- *Abyssus vs Thalossa :* La relation entre Thalossa (Aquor x Gravitas — les grandes profondeurs) et Abyssus (Noctis x Aquor — l'obscurite des fonds) est l'une des plus complexes du monde Ethere. Ils partagent le meme territoire mais des natures differentes. Thalossa est la profondeur physique, Abyssus est l'absence de lumiere. Dans les endroits les plus profonds, les deux coexistent — et les mortels qui y descendent (au moyen du Lien, dans de rares cas en Ere III) rapportent une sensation d'etre dans "deux endroits a la fois".
+- *Territoire :* Les abysses de l'Océan Primordial. Thalossa gouverne les profondeurs que personne — ni mortel ni Éthéré — n'a jamais explorées complètement.
+- *Personnalité :* Thalossa est loin. Très loin. Sa distance n'est pas émotionnelle — elle est physique et conceptuelle. Les abysses sont hors de portée des Cosmiques comme des mortels. Elle n'est pas solitaire (la notion ne s'applique pas), elle est *au-delà*.
+- *Ce que personne ne sait sur Thalossa :* Les textes de l'Ère III les plus spéculatifs suggèrent que Thalossa a peut-être trouvé quelque chose dans les abysses que personne d'autre ne sait. Quelque chose que les océans recouvrent depuis la Fracture du Panghor — des ruines du Panghor primordial, peut-être, ou quelque chose de plus vieux encore. Ces textes sont notés comme "spéculatifs" et "non vérifiables" mais ils persistent.
+- *Abyssus vs Thalossa :* La relation entre Thalossa (Aquor x Gravitas — les grandes profondeurs) et Abyssus (Noctis x Aquor — l'obscurité des fonds) est l'une des plus complexes du monde Éthéré. Ils partagent le même territoire mais des natures différentes. Thalossa est la profondeur physique, Abyssus est l'absence de lumière. Dans les endroits les plus profonds, les deux coexistent — et les mortels qui y descendent (au moyen du Lien, dans de rares cas en Ère III) rapportent une sensation d'être dans "deux endroits à la fois".
 
 **Harmonex** *(Cantor x Aerion)*
-- *Territoire :* Les gorges et grottes acoustiques de l'île de Nysaria, petite île au large de la côte est de Celethor. Ce territoire est choisi a cause de son acoustique naturelle unique — creee par les fractures qui ont detache et faconne l'île lors de l'eclatement du Panghor.
-- *Personnalite :* Harmonex est le Ethere le plus "accessible" artistiquement. Il repond aux sons que les mortels produisent — pas toujours de la facon attendue, mais toujours en accord. Les musiciens qui abordent l'île de Nysaria jouent dans ses gorges et Harmonex *joue en retour*, ajoutant des harmoniques, des contre-melodies, des echos qui n'existent pas sans lui.
-- *Son lien avec Cantor silencieux :* Depuis le silence de Cantor (~500 ap.A), Harmonex continue de repondre aux mortels — mais les musicologues de l'Ere VII notent que ses reponses sont plus *tristes*, plus *basses*, moins inventives. Comme s'il esperait encore que Cantor revienne et que cette attente ait change son jeu.
-- *Les festivals de Nysaria :* Le Grand Festival du Son (tenu tous les ans sur l'île de Nysaria depuis l'Ere VI) est une celebration de Harmonex. Des musiciens des douze continents viennent y jouer, malgre l'acces difficile a cette île souvent prise dans les brumes. La tradition dit que si un jour un musicien parvient a jouer une melodie assez belle, Harmonex la transmettra a Cantor — et Cantor reprendra son chant. Personne n'a reussi encore.
+- *Territoire :* Les gorges et grottes acoustiques de l'île de Nysaria, petite île au large de la côte est de Celethor. Ce territoire est choisi a cause de son acoustique naturelle unique — creee par les fractures qui ont détaché et faconne l'île lors de l'eclatement du Panghor.
+- *Personnalité :* Harmonex est le Ethere le plus "accessible" artistiquement. Il répond aux sons que les mortels produisent — pas toujours de la façon attendue, mais toujours en accord. Les musiciens qui abordent l'île de Nysaria jouent dans ses gorges et Harmonex *joue en retour*, ajoutant des harmoniques, des contre-melodies, des echos qui n'existent pas sans lui.
+- *Son lien avec Cantor silencieux :* Depuis le silence de Cantor (~500 ap.A), Harmonex continue de répondre aux mortels — mais les musicologues de l'Ère VII notent que ses réponses sont plus *tristes*, plus *basses*, moins inventives. Comme s'il espérait encore que Cantor revienne et que cette attente ait change son jeu.
+- *Les festivals de Nysaria :* Le Grand Festival du Son (tenu tous les ans sur l'île de Nysaria depuis l'Ère VI) est une celebration de Harmonex. Des musiciens des douze continents viennent y jouer, malgré l'accès difficile à cette île souvent prise dans les brumes. La tradition dit que si un jour un musicien parvient a jouer une melodie assez belle, Harmonex la transmettra a Cantor — et Cantor reprendra son chant. Personne n'a réussi encore.
 
 ---
 
 ### Le Panghor — Supercontinent unique
 
-A cette epoque, **un seul continent** : le **Panghor** — masse terrestre gigantesque entouree d'un ocean sans nom.
+À cette époque, **un seul continent** : le **Panghor** — masse terrestre gigantesque entourée d'un océan sans nom.
 
 #### L'Aspect du Panghor avant la Fracture
 
-Imaginer le Panghor est un exercice de reconstruction : aucun mortel ne l'a vu entier, car la Fracture a commence avant l'Ere des Mortels. Les reconstitutions des theologiens et geologues de l'Ere III et VI, basees sur les structures geologiques des 12 continents, donnent une image approximative :
+Imaginer le Panghor est un exercice de reconstruction : aucun mortel ne l'a vu entier, car la Fracture a commencé avant l'Ère des Mortels. Les reconstitutions des théologiens et géologues de l'Ère III et VI, basées sur les structures géologiques des 12 continents, donnent une image approximative :
 
-**Dimensions :** Le Panghor couvrait environ 70% de la surface du globe. L'ocean qui l'entourait etait unique (l'"Ocean Sans Nom" dans les textes anciens, parfois appele l'"Ocean Premier"). Cet ocean etait moins profond que les oceans actuels — la croute oceanique n'avait pas encore subi l'erosion de millions d'annees.
+**Dimensions :** Le Panghor couvrait environ 70% de la surface du globe. L'océan qui l'entourait était unique (l'"Océan Sans Nom" dans les textes anciens, parfois appelé l'"Océan Premier"). Cet océan était moins profond que les océans actuels — la croûte océanique n'avait pas encore subi l'érosion de millions d'années.
 
-**Climat :** Un continent de cette taille avait un gradient climatique extreme. Les zones equatoriales centrales etaient desertiques (dominance d'Aridan). Les bandes temperees accueillaient les forets primordiales d'Arborius. Les extremites nord et sud etaient glaciales (Glacien).
+**Climat :** Un continent de cette taille avait un gradient climatique extrême. Les zones équatoriales centrales étaient désertiques (dominance d'Aridan). Les bandes tempérées accueillaient les forêts primordiales d'Arborius. Les extrémités nord et sud étaient glaciales (Glacien).
 
-**Geographie interne :**
-- *La Chaine Centrale* : Un ensemble de volcans actifs traversant le Panghor du nord au sud — la ligne de future Fracture 1. Le Mont Originel etait le plus meridional et le plus puissant de cette chaine.
-- *Les Plaines de l'Est* : Vastes etendues plates, couvertes des premieres forets de l'Ere I. Ces plaines correspondraient aujourd'hui a la moitie est de Galenor, l'ouest d'Onara et le nord d'Endora.
-- *Les Mers Interieures* : Avant la Fracture, plusieurs grandes depressions du Panghor etaient remplies d'eau douce ou d'eau peu salee — des mers interieures qui disparurent lors des fractures suivantes, s'ouvrant sur les oceans. Le fond de l'actuel Ocean Primordial garde des traces de ces anciennes rives.
-- *Les Forets Primordiales du Sud* : Les zones proches du Mont Originel etaient les plus fertiles du Panghor — la lave ancienne d'Embrasur avait enrichi les sols. C'est ici que les premieres forets primordiales d'Arborius atteignirent leur pleine maturite.
+**Géographie interne :**
+- *La Chaîne Centrale* : Un ensemble de volcans actifs traversant le Panghor du nord au sud — la ligne de future Fracture 1. Le Mont Originel était le plus méridional et le plus puissant de cette chaîne.
+- *Les Plaines de l'Est* : Vastes etendues plates, couvertes des premières forêts de l'Ère I. Ces plaines correspondraient aujourd'hui à la moitié est de Galenor, l'ouest d'Onara et le nord d'Endora.
+- *Les Mers Intérieures* : Avant la Fracture, plusieurs grandes dépressions du Panghor étaient remplies d'eau douce où d'eau peu salée — des mers intérieures qui disparurent lors des fractures suivantes, s'ouvrant sur les océans. Le fond de l'actuel Océan Primordial garde des traces de ces anciennes rives.
+- *Les Forêts Primordiales du Sud* : Les zones proches du Mont Originel étaient les plus fertiles du Panghor — la lave ancienne d'Embrasur avait enrichi les sols. C'est ici que les premières forêts primordiales d'Arborius atteignirent leur pleine maturité.
 
-**L'atmosphere du Panghor :**
-Un seul continent aussi vaste generait des systemes meteorologiques d'une echelle que le monde actuel ne connait pas. Tempestal (Aerion x Climata) se nourrissait de la chaleur des zones equatoriales et de la friction entre l'air marin de l'Ocean Premier et l'air continental — les tempetes du Panghor etaient parmi les plus violentes de l'histoire du monde. Les mortels de l'Ere II, nes apres la Fracture, trouvaient les tempetes de leur monde "impressionnantes" ; les quelques descriptions retrouvees dans des vestiges de l'Ere I (mediums qui avaient des visions du Panghor) parlent de "le ciel qui se retourne contre la terre" — des systemes meteorologiques de la taille de futurs continents entiers.
+**L'atmosphère du Panghor :**
+Un seul continent aussi vaste gênerait des systèmes météorologiques d'une échelle que le monde actuel ne connaît pas. Tempestal (Aerion x Climata) se nourrissait de la chaleur des zones équatoriales et de la friction entre l'air marin de l'Océan Premier et l'air continental — les tempêtes du Panghor étaient parmi les plus violentes de l'histoire du monde. Les mortels de l'Ère II, nés après la Fracture, trouvaient les tempêtes de leur monde "impressionnantes" ; les quelques descriptions retrouvées dans des vestiges de l'Ère I (médiums qui avaient des visions du Panghor) parlent de "le ciel qui se retourne contre la terre" — des systèmes météorologiques de la taille de futurs continents entiers.
 
 ---
 
@@ -207,144 +207,144 @@ Un seul continent aussi vaste generait des systemes meteorologiques d'une echell
 Les 45 Éthérés, en s'installant chacun dans leur zone, créent des tensions géologiques. Selon la lecture cosmologique cendarienne (cf. note sur *Flamara* en tête de chapitre), **Flamara** entrerait en résonance avec **Terranu** ; les chroniques d'autres traditions parlent plus simplement d'une accumulation de tensions tectoniques entre les domaines des Cosmiques du feu et de la terre. Le Panghor commence à se fissurer sur des centaines de milliers d'années.
 
 **Fracture 1 — Le Grand Schisme**
-- Le Panghor se separe en 2 masses : **Panghor Nord** et **Panghor Sud**
-- L'**Ocean Primordial** les separe
+- Le Panghor se sépare en 2 masses : **Panghor Nord** et **Panghor Sud**
+- L'**Océan Primordial** les sépare
 - Mont Originel reste au Sud, Mont Jumeau au Nord
 
 **Fracture 2 — L'Eclatement**
 - Panghor Nord → 5 masses : futurs Alkaran, Celethor, Galenor, Ilthara, Cestra
 - Panghor Sud → 4 masses : futurs Onara, Endora, Azoria, bloc Cendara+Evertia
-- 2 grands fragments isoles entre les deux : futurs Baelor et Ulinor
-- Un eclat mineur se detache de la cote est de Celethor : la future petite île de Nysaria, restee dans les eaux celethoriennes
+- 2 grands fragments isolés entre les deux : futurs Baelor et Ulinor
+- Un eclat mineur se detache de la côte est de Celethor : la future petite île de Nysaria, restée dans les eaux celethoriennes
 
-**Fracture 3 — Les Details**
-- Cendara se separe d'Evertia (eruptions volcaniques brisent le pont terrestre, fragmentant Cendara en archipel volcanique)
-- Cestra s'eloigne vers le nord, s'isole dans les glaces
-- Les iles de l'Archipel d'Azoria se fragmentent
+**Fracture 3 — Les Détails**
+- Cendara se sépare d'Evertia (éruptions volcaniques brisent le pont terrestre, fragmentant Cendara en archipel volcanique)
+- Cestra s'éloigne vers le nord, s'isolé dans les glaces
+- Les îles de l'Archipel d'Azoria se fragmentent
 
 **Implications pour le lore :**
-- Les ruines les plus anciennes de la carte = vestiges de l'epoque du Panghor
-- Deux nations separees par un ocean peuvent avoir des ruines identiques
-- Le fond de certains oceans cache des routes terrestres englouties, cites noyees
+- Les ruines les plus anciennes de la carte = vestiges de l'époque du Panghor
+- Deux nations séparées par un océan peuvent avoir des ruines identiques
+- Le fond de certains océans cache des routes terrestres englouties, cités noyées
 
 ---
 
-#### Detail des phases : evenements, durees, consequences sur les Etheres
+#### Détail des phases : événements, durées, conséquences sur les Éthérés
 
-**Phase 0 — La Tension Silencieuse** *(plusieurs millions d'annees avant la Fracture 1)*
+**Phase 0 — La Tension Silencieuse** *(plusieurs millions d'années avant la Fracture 1)*
 
-- Cause primaire : les 45 Etheres s'installent sur le Panghor et concentrent chacun une force dans leur zone. Ces forces ne sont pas neutres — elles *compriment* ou *dilatent* la croute terrestre.
-- **Petral** (Terranu x Gravitas) ressent en premier les lignes de faiblesse. Il ne cherche pas a les declencher — mais chaque tremblement qu'il genere, aussi mineur soit-il, creuse un peu plus ces lignes.
+- Cause primaire : les 45 Éthérés s'installent sur le Panghor et concentrent chacun une force dans leur zone. Ces forces ne sont pas neutres — elles *compriment* ou *dilatent* la croûte terrestre.
+- **Petral** (Terranu x Gravitas) ressent en premier les lignes de faiblesse. Il ne cherche pas à les déclencher — mais chaque tremblement qu'il génère, aussi mineur soit-il, creusé un peu plus ces lignes.
 - **Embrasur** (filiation traditionnelle Flamara x Terranu) est le deuxième facteur : il injecte de la lave sous la croûte le long de la future fissure principale.
 - Selon la mythologie cendarienne, *Flamara* et *Terranu* entreraient à cette époque dans leur "Grand Conflit" — *Flamara* voulant transformer la roche, *Terranu* la maintenir — et cette tension serait la batterie de la Fracture. Les traditions non-cendariennes lisent les mêmes faits comme une opposition impersonnelle entre les forces du feu (Cosmiques attestés) et celles de la terre.
-- **Duree estimee :** 5 a 10 millions d'annees de tension croissante.
-- **Signe avant-coureur :** une chaine de volcans de petite taille commence a emerger en plein centre du Panghor — ligne droite du nord au sud, suivant exactement la future fissure du Grand Schisme.
-- **Ce que les Etheres des zones tranquilles ressentent :** Arborius s'inquiete — les tremblements tuent des arbres anciens. Harmonex enregistre la signature sonore des fractures en profondeur, des rumbles que rien n'explique. Nebulair (brumes) observe que les brouillards se forment plus difficilement pres de la ligne centrale — la tension geologique modifie les patterns d'humidite.
+- **Durée estimée :** 5 à 10 millions d'années de tension croissante.
+- **Signe avant-coureur :** une chaîne de volcans de petite taille commence à émerger en plein centre du Panghor — ligne droite du nord au sud, suivant exactement la future fissure du Grand Schisme.
+- **Ce que les Éthérés des zones tranquilles ressentent :** Arborius s'inquiète — les tremblements tuent des arbres anciens. Harmonex enregistre la signature sonore des fractures en profondeur, des rumbles que rien n'explique. Nebulair (brumes) observé que les brouillards se forment plus difficilement près de la ligne centrale — la tension géologique modifié les patterns d'humidité.
 
 ---
 
-**Fracture 1 — Le Grand Schisme** *(~plusieurs millions d'annees avant -45 000 av.A)*
+**Fracture 1 — Le Grand Schisme** *(~plusieurs millions d'années avant -45 000 av.A)*
 
-- **Evenement declencheur :** Embrasur, apres des millenaires de pression, perce la croute sur toute la longueur de la fissure principale. En moins de 50 000 ans (un eclair a l'echelle geologique), le Panghor se fend en deux.
-- **Ce que les Etheres vivent :**
-  - Glacien (nord) et Embrasur (sud) se retrouvent de part et d'autre de la fissure naissante. Ils ne *perdent* pas leur pouvoir, mais leur influence commune sur les zones centrales est coupee — cela cree une zone d'instabilite climatique persistante (futur Ocean Primordial : ocean turbulent, tempetes frequentes).
-  - **Marevane** est devastee : les marees qu'elle controlait dependaient de la forme unique du Panghor. La separation cree deux nouveaux bassins oceaniques avec des dynamiques de marees completement differentes. Elle met des centaines de millenaires a recalibrer.
-  - **Thalossa** au contraire prospere : l'Ocean Primordial qui se cree entre les deux masses est son nouveau territoire. Elle s'y installe immediatement.
-  - **Tempestal** trouve dans l'Ocean Primordial un nouveau theatre d'operation — les tempetes entre les deux masses deviennent les plus violentes du monde.
-- **Duree de la separation active :** ~500 000 ans pour que l'ocean soit pleinement forme et les deux masses clairement separees.
-- **Consequences geologiques :** La chaine de volcans centrale devient un fond marin. Plusieurs volcans emergent comme iles (futurs Baelor et Ulinor — grands fragments isoles entre les deux masses ; la petite Nysaria, elle, restera accrochee aux eaux de Celethor).
+- **Événement déclencheur :** Embrasur, après des millénaires de pression, percé la croûte sur toute la longueur de la fissure principale. En moins de 50 000 ans (un éclair à l'échelle géologique), le Panghor se fend en deux.
+- **Ce que les Éthérés vivent :**
+  - Glacien (nord) et Embrasur (sud) se retrouvent de part et d'autre de la fissure naissante. Ils ne *perdent* pas leur pouvoir, mais leur influence commune sur les zones centrales est coupée — cela créé une zone d'instabilité climatique persistante (futur Océan Primordial : océan turbulent, tempêtes fréquentes).
+  - **Marevane** est devastee : les marées qu'elle controlait dépendaient de la forme unique du Panghor. La séparation créé deux nouveaux bassins océaniques avec des dynamiques de marées complètement différentes. Elle met des centaines de millénaires à recalibrer.
+  - **Thalossa** au contraire prospère : l'Océan Primordial qui se créé entre les deux masses est son nouveau territoire. Elle s'y installe immédiatement.
+  - **Tempestal** trouve dans l'Océan Primordial un nouveau théâtre d'opération — les tempêtes entre les deux masses deviennent les plus violentes du monde.
+- **Durée de la séparation active :** ~500 000 ans pour que l'océan soit pleinement forme et les deux masses clairement séparées.
+- **Conséquences géologiques :** La chaîne de volcans centrale devient un fond marin. Plusieurs volcans émergent comme îles (futurs Baelor et Ulinor — grands fragments isolés entre les deux masses ; la petite Nysaria, elle, restera accrochée aux eaux de Celethor).
 - **Ce que les traditions disent des Cosmiques à ce moment :** les chroniques cendariennes rapportent que Terranu aurait perçu cette fracture comme une plaie, *Flamara* (figure rumorale, cf. note) comme une libération. Les Vael'Kurash et les Lex Petra disent qu'Arborius perd des forêts entières englouties dans la mer naissante. Cantor noterait la disparition de centaines d'espèces dans les zones fracturées — ses premières grandes pertes. *Ces propositions reflètent les lectures théologiques propres à chaque tradition ; elles ne décrivent pas un état émotionnel directement observé.*
 
 ---
 
-**Fracture 2 — L'Eclatement** *(se deroule sur ~3 millions d'annees)*
+**Fracture 2 — L'Éclatement** *(se déroule sur ~3 millions d'années)*
 
 *Fracture 2A — Le Bris du Nord*
-- Avec la disparition de la cohesion centrale, Panghor Nord est soumis a des forces centrifuges. **Petral** multiplie les points de seisme dans tout le nord.
-- La fissure principale du Nord suit les zones de moindre resistance entre les futurs continents.
-- **Evenement majeur : La Separation d'Alkaran**
-  - Alkaran (futur) se detache en premier — a l'ouest. Sa separation est *lente et propre* : pas de catastrophe soudaine, mais un ecartement progressif. L'ecoute des profondeurs que manifesteront plus tard les Enfants de la Roche vient peut-etre de Petral, qui a longtemps resonance sous ces terres.
-  - **Luminarc** (Celestia x Terranu), l'Ethere des cristaux souterrains, s'y retrouve concentre — la separation cree de nouvelles cavernes. Alkaran devient le continent aux mines les plus riches du monde.
-- **Evenement majeur : La Dechirure de Cestra**
-  - Cestra (futur) est ejecte vers le nord par la force de la separation. Glacien le suit — c'est son territoire naturel, le froid extreme.
-  - La dechirure est plus violente qu'ailleurs : une chaine de volcans sous-marins marque l'ancien lien entre Cestra et le reste du Nord.
-- **L'heritage de la Fracture 2A pour les futurs mortels :**
-  - Galenor (futur) garde les cicatrices des anciennes fissures — des falaises abruptes sur ses cotes est et ouest, des gorges interieures qui suivent exactement les anciennes lignes de faille de Petral.
-  - Celethor beneficie des nouvelles cotes humides creees par la separation — Nebulair (brumes) s'y installe definitvement, les forets humides qu'il nourrit deviendront les plus denses du monde habite.
-  - Ilthara (futur) garde une activite sismique residuelle de Petral — les plaines du nord d'Ilthara tremblent encore periodiquement, ce que les habitants considerent comme un "signe de vivant" et non comme un danger.
+- Avec la disparition de la cohésion centrale, Panghor Nord est soumis à des forces centrifuges. **Petral** multiplie les points de séisme dans tout le nord.
+- La fissure principale du Nord suit les zones de moindre résistance entre les futurs continents.
+- **Événement majeur : La Séparation d'Alkaran**
+  - Alkaran (futur) se detache en premier — à l'ouest. Sa séparation est *lente et propre* : pas de catastrophe soudaine, mais un écartement progressif. L'écoute des profondeurs que manifesteront plus tard les Enfants de la Roche vient peut-être de Petral, qui a longtemps résonance sous ces terres.
+  - **Luminarc** (Celestia x Terranu), l'Éthéré des cristaux souterrains, s'y retrouve concentre — la séparation créé de nouvelles cavernes. Alkaran devient le continent aux mines les plus riches du monde.
+- **Événement majeur : La Déchirure de Cestra**
+  - Cestra (futur) est ejecte vers le nord par la force de la séparation. Glacien le suit — c'est son territoire naturel, le froid extrême.
+  - La déchirure est plus violente qu'ailleurs : une chaîne de volcans sous-marins marque l'ancien lien entre Cestra et le reste du Nord.
+- **L'héritage de la Fracture 2A pour les futurs mortels :**
+  - Galenor (futur) garde les cicatrices des anciennes fissures — des falaises abruptes sur ses côtes est et ouest, des gorges intérieures qui suivent exactement les anciennes lignes de faille de Petral.
+  - Celethor bénéficie des nouvelles côtes humides créées par la séparation — Nebulair (brumes) s'y installe definitvement, les forêts humides qu'il nourrit deviendront les plus denses du monde habité.
+  - Ilthara (futur) garde une activité sismique résiduelle de Petral — les plaines du nord d'Ilthara tremblent encore périodiquement, ce que les habitants considèrent comme un "signe de vivant" et non comme un danger.
 
 *Fracture 2B — Le Bris du Sud*
-- Panghor Sud se divise differemment : pas d'eclatement simultane, mais une serie de *glissements*.
-- **Evenement majeur : La Naissance d'Azoria**
-  - Azoria (futur) commence comme une extremite du Panghor Sud qui glisse vers l'est. Les iles de l'archipel sont les premiers fragments — certaines parties s'etirent, se cassent, se fragmentent avant meme que la masse principale se soit detachee. Coralix (l'Ethere des coraux) colonise immediatement ces hauts-fonds nouveaux.
-  - **Silthor** (Aquor x Terranu) marque les embouchures fluviales qui se creent — la future Onara, zone de deltas, est son oeuvre directe.
-- **Evenement majeur : L'Isolement de Cendara/Evertia**
+- Panghor Sud se divise différemment : pas d'éclatement simultane, mais une série de *glissements*.
+- **Événement majeur : La Naissance d'Azoria**
+  - Azoria (futur) commence comme une extrémité du Panghor Sud qui glisse vers l'est. Les îles de l'archipel sont les premiers fragments — certaines parties s'étirent, se cassent, se fragmentent avant même que la masse principale se soit détachée. Coralix (l'Éthéré des coraux) colonisé immédiatement ces hauts-fonds nouveaux.
+  - **Silthor** (Aquor x Terranu) marque les embouchures fluviales qui se créent — la future Onara, zone de deltas, est son œuvre directe.
+- **Événement majeur : L'Isolement de Cendara/Evertia**
   - Cendara et Evertia restent momentanément unies (bloc Cendara+Evertia), mais leur position adjacente au Mont Originel les soumet aux forces volcaniques (que les théologies cendariennes attribuent à *Flamara* et Embrasur) — une isolation progressive par éruptions.
-- **Fragments isoles (Baelor, Ulinor) et l'eclat de Nysaria :**
-  - Baelor et Ulinor sont les restes des grands tronçons de la chaine volcanique centrale qui existait au moment du Grand Schisme. Ces deux masses ne "bougent" pas beaucoup — elles sont deja au milieu de l'Ocean Primordial.
-  - Un eclat bien plus modeste se detache de la cote est de Celethor : la future île de Nysaria. Restee dans les eaux celethoriennes, souvent enveloppee de brumes, elle conserve les gorges et grottes faconnees par les fractures.
+- **Fragments isolés (Baelor, Ulinor) et l'éclat de Nysaria :**
+  - Baelor et Ulinor sont les restes des grands tronçons de la chaîne volcanique centrale qui existait au moment du Grand Schisme. Ces deux masses ne "bougent" pas beaucoup — elles sont déjà au milieu de l'Océan Primordial.
+  - Un eclat bien plus modeste se detache de la côte est de Celethor : la future île de Nysaria. Restée dans les eaux celethoriennes, souvent enveloppee de brumes, elle conserve les gorges et grottes faconnees par les fractures.
   - Harmonex (Cantor x Aerion) s'installe dans ces gorges acoustiques de l'île de Nysaria — les failles creees par les fractures y creent une acoustique unique.
-  - Selvara (Arborius x Spiritus) choisit Ulinor — la foret primordiale qui pousse sur ce fragment isole est la plus dense, la plus consciente du monde.
-  - Baelor, le second grand fragment, reste sans Ethere dominant — une anomalie qui explique peut-etre pourquoi le peuple de Baelor (Ere II-III) developpe une culture de l'independance vis-a-vis des forces cosmiques, une tradition d'autosuffisance spirituelle unique dans le monde.
+  - Selvara (Arborius x Spiritus) choisit Ulinor — la forêt primordiale qui pousse sur ce fragment isolé est la plus dense, la plus consciente du monde.
+  - Baelor, le second grand fragment, resté sans Éthéré dominant — une anomalie qui explique peut-être pourquoi le peuple de Baelor (Ère II-III) développe une culture de l'indépendance vis-à-vis des forces cosmiques, une tradition d'autosuffisance spirituelle unique dans le monde.
 
 ---
 
-**Fracture 3 — Les Details** *(la plus recente, ~quelques centaines de milliers d'annees avant -45 000 av.A)*
+**Fracture 3 — Les Détails** *(la plus récente, ~quelques centaines de milliers d'années avant -45 000 av.A)*
 
-*3A — La Separation Cendara/Evertia*
+*3A — La Séparation Cendara/Evertia*
 - **Déclencheur :** Une accélération éruptive du Mont Originel, lue par les Cendariens comme l'agitation de *Flamara* (qui aurait investi le mont depuis la Phase 0). La croûte entre Cendara et Evertia — déjà amincie — cède.
-- **Evenement precis :** En moins de 20 000 ans, une serie d'eruptions cataclysmiques cree un detroit de lave solidifiee puis d'eau chaude entre les deux masses. Le "pont terrestre" entre elles brule, s'effondre, est noye.
-- Cendara se fragmente en archipel volcanique autour du Mont Originel. Chaque ile est un ancien pic volcanique — des dizaines d'Embrasurs miniatures.
-- Evertia, privee du lien volcanique, se refroidit. **Geysar** (Flamara x Aquor) y reste — les sources thermales d'Evertia sont les echos d'une activite volcanique qui s'est calmee.
-- **Consequences pour les Etheres :** Embrasur se scinde de facto en une presence forte sur Cendara et une presence residuelle sur Evertia (geysers). Geysar herite du controle d'Evertia.
-- **L'heritage pour les mortels :** Les sources thermales d'Evertia deviennent des centres de soins et de rituels des l'Ere II. La culture d'Evertia (Ere III-VII) est profondement liee a Geysar — les bains thermaux publics sont des actes de piete autant que d'hygiene.
+- **Événement précis :** En moins de 20 000 ans, une série d'éruptions cataclysmiques créé un détroit de lave solidifiée puis d'eau chaude entre les deux masses. Le "pont terrestre" entre elles brûle, s'effondre, est noyé.
+- Cendara se fragmente en archipel volcanique autour du Mont Originel. Chaque île est un ancien pic volcanique — des dizaines d'Embrasurs miniatures.
+- Evertia, privée du lien volcanique, se refroidit. **Geysar** (Flamara x Aquor) y reste — les sources thermales d'Evertia sont les échos d'une activité volcanique qui s'est calmée.
+- **Conséquences pour les Éthérés :** Embrasur se scinde de facto en une présence forte sur Cendara et une présence résiduelle sur Evertia (geysers). Geysar hérité du contrôle d'Evertia.
+- **L'héritage pour les mortels :** Les sources thermales d'Evertia deviennent des centres de soins et de rituels des l'Ère II. La culture d'Evertia (Ère III-VII) est profondément liée à Geysar — les bains thermaux publics sont des actes de piété autant que d'hygiène.
 
 *3B — L'Exil de Cestra*
-- Glacien, installe sur Cestra depuis la Fracture 1, accelere le depart : il refroidit activement la liaison entre Cestra et le reste du Nord, creant une mer glacee qui isole la masse.
-- Cestra derive vers le pole nord. Sa population d'Etheres se reduit : seuls Glacien, Permafrost et Lumiveil (aurores boreales) y restent. Les autres Etheres abandonnent progressivement ce territoire en voie de glaciation.
-- **Evenement cle :** Le Mont Jumeau est progressivement recouvert par les glaces que Glacien etend. C'est la disparition du second pole energetique mondial — un affaiblissement discret mais crucial de la Trame cosmique.
-- **Les aurores boreales de Lumiveil :** Avec Glacien et Permafrost comme seuls compagnons, Lumiveil gagne en liberte d'expression. Les aurores de Cestra deviennent les plus spectaculaires du monde — des voiles de lumiere verte, bleue et violette qui couvrent le ciel plusieurs nuits par semaine. Les mortels qui s'installent eventuellement sur Cestra (Ere II, tres tard, dans des conditions extremes) voient ces aurores comme le sourire de leurs dieux.
+- Glacien, installé sur Cestra depuis la Fracture 1, accélère le départ : il refroidit activement la liaison entre Cestra et le reste du Nord, créant une mer glacée qui isole la masse.
+- Cestra dérive vers le pôle nord. Sa population d'Éthérés se réduit : seuls Glacien, Permafrost et Lumiveil (aurores boréales) y restent. Les autres Éthérés abandonnent progressivement ce territoire en voie de glaciation.
+- **Événement clé :** Le Mont Jumeau est progressivement recouvert par les glaces que Glacien étend. C'est la disparition du second pôle énergétique mondial — un affaiblissement discret mais crucial de la Trame cosmique.
+- **Les aurores boréales de Lumiveil :** Avec Glacien et Permafrost comme seuls compagnons, Lumiveil gagné en liberté d'expression. Les aurores de Cestra deviennent les plus spectaculaires du monde — des voiles de lumière verte, bleue et violette qui couvrent le ciel plusieurs nuits par semaine. Les mortels qui s'installent eventuellement sur Cestra (Ère II, très tard, dans des conditions extrêmes) voient ces aurores comme le sourire de leurs dieux.
 
 *3C — La Fragmentation d'Azoria*
-- Azoria (futur archipel) se fragmente en centaines d'iles sous l'action combinee de Coralix (croissance des recifs, elevation du fond marin) et de Marevane (marees qui rongent les cotes).
-- Les Gens de l'Eau (futurs premiers mortels, Ere II) naitront precisement ici — pousses a nager, naviguer, s'adapter a cet archipel impraticable a pied.
-- **Consequence tardive :** Certaines iles d'Azoria reposent sur des hauts-fonds qui etaient des plaines du Panghor Sud. Les ruines de l'epoque panghorienne sont immergees sous quelques metres d'eau — accessibles aux plongeurs, pas aux fouilleurs terrestres.
-- **Coralix et la biodiversite marine :** La fragmentation d'Azoria est la plus grande opportunite que Coralix ait jamais eue. Des milliers de kilometres de cotes nouvelles, des hauts-fonds parfaitement ensoleilles, des temperatures optimales — il cree les recifs les plus complexes du monde. La biodiversite marine d'Azoria en Ere VII est encore la plus elevee des douze continents, heritiage direct de cet episode de la Fracture.
+- Azoria (futur archipel) se fragmente en centaines d'îles sous l'action combinée de Coralix (croissance des récifs, élévation du fond marin) et de Marevane (marées qui rongent les côtes).
+- Les Gens de l'Eau (futurs premiers mortels, Ère II) naîtront précisément ici — poussés à nager, naviguer, s'adapter à cet archipel impraticable à pied.
+- **Conséquence tardive :** Certaines îles d'Azoria reposent sur des hauts-fonds qui étaient des plaines du Panghor Sud. Les ruines de l'époque panghorienne sont immergées sous quelques mètres d'eau — accessibles aux plongeurs, pas aux fouilleurs terrestres.
+- **Coralix et la biodiversite marine :** La fragmentation d'Azoria est la plus grande opportunité que Coralix ait jamais eue. Des milliers de kilomètres de côtes nouvelles, des hauts-fonds parfaitement ensoleillés, des températures optimales — il créé les récifs les plus complexes du monde. La biodiversite marine d'Azoria en Ère VII est encore la plus élevée des douze continents, heritiage direct de cet épisode de la Fracture.
 
 ---
 
 **Bilan de la Fracture : ce que ca change pour le monde des mortels**
 
-| Element | Avant la Fracture | Apres la Fracture |
+| Élément | Avant la Fracture | Après la Fracture |
 |---------|------------------|------------------|
 | Topographie | 1 supercontinent + 1 ocean | 12 continents/archipels (+ îles notables dont Nysaria) + plusieurs oceans |
-| Energie cosmique | Axe Mont Originel ↔ Mont Jumeau | Axe brise, Trame moins tendue |
-| Etheres | Domaines fluides, influences qui se chevauchent | Territoires definis par les coupures geologiques |
-| Climat | Uniformement chaud au centre | Zones climatiques distinctes (polaire, tempere, tropical) |
-| Isolation | Aucune — le Panghor est traversable a pied | Oceans = barrieres ; les peuples primitifs ne se connaissent pas |
-| Geologie | Stable, tensions accumulees | Active — volcans, seismes, sources thermales en heritages |
+| Énergie cosmique | Axe Mont Originel ↔ Mont Jumeau | Axe brise, Trame moins tendue |
+| Éthérés | Domaines fluides, influences qui se chevauchent | Territoires définis par les coupures géologiques |
+| Climat | Uniformément chaud au centre | Zones climatiques distinctes (polaire, tempéré, tropical) |
+| Isolation | Aucune — le Panghor est traversable à pied | Océans = barrières ; les peuples primitifs ne se connaissent pas |
+| Géologie | Stable, tensions accumulées | Active — volcans, séismes, sources thermales en héritages |
 
 ---
 
-#### Ce que les mortels croient sur la Fracture — Mythes et recits fondateurs
+#### Ce que les mortels croient sur la Fracture — Mythes et récits fondateurs
 
-**La Legende du Bris (tradition orale des Marcheurs de Cendre, Ere II, reconstituee Ere V)**
+**La Légende du Bris (tradition orale des Marcheurs de Cendre, Ère II, reconstituée Ère V)**
 
-**La Theorie des Ponts (texte academique de Lumasar, Ere III)**
+**La Théorie des Ponts (texte académique de Lumasar, Ère III)**
 
-**Les Ruines Panghoriques (enjeu actif en Ere VII)**
+**Les Ruines Panghoriques (enjeu actif en Ère VII)**
 
 ---
 
 #### Chronologie de la Fracture
 
-| Phase | Duree approximative | Resultat |
+| Phase | Durée approximative | Résultat |
 |-------|--------------------|----|
-| Tension Silencieuse | 5-10 millions d'annees | Lignes de faille se creusent, volcans centraux emergent |
-| Fracture 1 (Grand Schisme) | ~500 000 ans | Panghor Nord / Sud separes par l'Ocean Primordial |
-| Fracture 2A (Bris du Nord) | ~3 millions d'annees | Alkaran, Celethor, Galenor, Ilthara, Cestra separes |
-| Fracture 2B (Bris du Sud) | ~3 millions d'annees | Onara, Endora, Azoria, Cendara+Evertia separes ; Baelor et Ulinor isoles ; Nysaria detachee en petite île de Celethor |
-| Fracture 3A (Cendara/Evertia) | ~20 000 ans | Cendara fragmentee en archipel ; Evertia isolee |
-| Fracture 3B (Exil de Cestra) | ~500 000 ans | Cestra derive vers le pole nord, Mont Jumeau recouvert |
-| Fracture 3C (Azoria) | ~1 million d'annees | Archipel d'Azoria completement fragmente |
-| Stabilisation | jusqu'a ~45 000 av.A | 12 continents stables (+ îles notables dont Nysaria) — l'Ere des Mortels peut commencer |
+| Tension Silencieuse | 5-10 millions d'années | Lignes de faille se creusent, volcans centraux émergent |
+| Fracture 1 (Grand Schisme) | ~500 000 ans | Panghor Nord / Sud séparés par l'Océan Primordial |
+| Fracture 2A (Bris du Nord) | ~3 millions d'années | Alkaran, Celethor, Galenor, Ilthara, Cestra séparés |
+| Fracture 2B (Bris du Sud) | ~3 millions d'années | Onara, Endora, Azoria, Cendara+Evertia separes ; Baelor et Ulinor isoles ; Nysaria detachee en petite île de Celethor |
+| Fracture 3A (Cendara/Evertia) | ~20 000 ans | Cendara fragmentée en archipel ; Evertia isolée |
+| Fracture 3B (Exil de Cestra) | ~500 000 ans | Cestra dérive vers le pôle nord, Mont Jumeau recouvert |
+| Fracture 3C (Azoria) | ~1 million d'années | Archipel d'Azoria complètement fragmenté |
+| Stabilisation | jusqu'a ~45 000 av.A | 12 continents stables (+ îles notables dont Nysaria) — l'Ère des Mortels peut commencer |

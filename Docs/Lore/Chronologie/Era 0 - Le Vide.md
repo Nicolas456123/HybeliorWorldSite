@@ -8,7 +8,7 @@ needs_review_for: [validation-narrative-V4]
 
 # Ère 0 — Le Vide
 
-## ERE 0 — LE VIDE
+## ÈRE 0 — LE VIDE
 
 > *Tout ce qui suit relève des lectures que les mortels font de cette Ère depuis les fragments qui leur en sont parvenus. Aucune affirmation ne devrait être prise comme fait cosmologique absolu — seulement comme la trame que les théologiens, les médiums et les chroniqueurs ont tissée pour rendre l'Avant-Mémoire pensable.*
 
@@ -150,12 +150,12 @@ Sa disparition après l'Arrachement (Ère IV) est lue par beaucoup comme la cons
 
 ---
 
-### Ce que les mortels croient sur l'Ere 0 — Mythes et traditions
+### Ce que les mortels croient sur l'Ère 0 — Mythes et traditions
 
-Les mortels de l'Ere II ignoraient presque tout de l'Ere 0. Leur compréhension du Vide, des Eternels et de la Resonance s'est construite en lambeaux — des fragments transmis par les Etheres qui eux-memes ne sont que des petits-enfants de cette ere, et des intuitions du Lien que les premiers utilisateurs (Ere III) ont tenté d'interpreter.
+Les mortels de l'Ère II ignoraient presque tout de l'Ère 0. Leur compréhension du Vide, des Éternels et de la Résonance s'est construite en lambeaux — des fragments transmis par les Etheres qui eux-mêmes ne sont que des petits-enfants de cette ère, et des intuitions du Lien que les premiers utilisateurs (Ère III) ont tenté d'interpreter.
 
-**Le Mythe de l'Oeuf Brise (tradition orale des peuples de Celethor, collecté Ere VI)**
-> Au commencement etait un oeuf si grand qu'il n'avait pas d'exterieur. A l'interieur : rien. Mais le rien s'ennuyait. Alors il se fissura. De la fissure jaillit la lumiere (Celestia), et l'ombre que la lumiere fit en jaillissant (Noctis). La chaleur de la fissure mit du temps a se propager (Tempora). Le contenu de l'oeuf se solidifia en etoiles (Eldoria). Et les morceaux de la coquille restaient encore eparpilles quand quelqu'un — ni l'oeuf, ni la lumiere, ni l'ombre — ramassa tous les fragments et les relia par un fil (Navigor). Ce fil, c'est le Lien. L'Arrachement, c'est quand quelqu'un coupa ce fil.
+**Le Mythe de l'Oeuf Brise (tradition orale des peuples de Celethor, collecté Ère VI)**
+> Au commencement était un œuf si grand qu'il n'avait pas d'extérieur. À l'intérieur : rien. Mais le rien s'ennuyait. Alors il se fissura. De la fissure jaillit la lumière (Celestia), et l'ombre que la lumière fit en jaillissant (Noctis). La chaleur de la fissure mit du temps à se propager (Tempora). Le contenu de l'oeuf se solidifia en étoiles (Eldoria). Et les morceaux de la coquille restaient encore éparpillés quand quelqu'un — ni l'oeuf, ni la lumière, ni l'ombre — ramassa tous les fragments et les relia par un fil (Navigor). Ce fil, c'est le Lien. L'Arrachement, c'est quand quelqu'un coupa ce fil.
 
 **Le Mythe du Chant Involontaire (tradition mystique des Voix-sous-Bois, Ère II, reconstituée Ère VI)**
 > Les cinq Premiers ne furent pas créés. Ils entendirent quelque chose — un son que le Vide émettait sans le savoir. Et en l'entendant, ils devinrent ce son. Celestia entendit la note haute. Noctis entendit la note basse. Tempora entendit le rythme. Eldoria entendit le corps de la mélodie. Navigor entendit la résonance entre les notes. Ce qui avait été un son de Vide devint un chant. Ce chant, c'est le monde.
@@ -202,21 +202,21 @@ L'Ère 0 est la plus lointaine et la moins connue — et pourtant les théologie
 
 ---
 
-### Le Vide comme concept persistant — Philosophie et consequences
+### Le Vide comme concept persistant — Philosophie et conséquences
 
-Le Vide n'a pas disparu quand les Eternels sont nes. Il *recule* — pousse aux marges par la matiere et l'energie que les Eternels et les Cosmiques genèrent. Mais il est encore là. Les philosophes de l'Ere III appelaient cela le "Vide Residuel" : les espaces entre les etoiles, les profondeurs des oceans au-dela des zones ou la vie peut vivre, le silence entre deux battements de coeur. Ce n'est pas le meme Vide qu'avant la Resonance — celui-ci est un Vide *avec de l'histoire*, marque par ce qui l'a traverse.
+Le Vide n'a pas disparu quand les Éternels sont nés. Il *recule* — pousse aux marges par la matière et l'energie que les Éternels et les Cosmiques genèrent. Mais il est encore là. Les philosophes de l'Ère III appelaient cela le "Vide Residuel" : les espaces entre les étoiles, les profondeurs des oceans au-delà des zones où la vie peut vivre, le silence entre deux battements de cœur. Ce n'est pas le même Vide qu'avant la Résonance — celui-ci est un Vide *avec de l'histoire*, marqué par ce qui l'a traverse.
 
 **Les Vides Secondaires — Lieux ou le Substrat affleure**
 
-Dans les textes des mediums du Lien les plus avances (Ere III, redécouverts en Ere VII), plusieurs lieux du monde sont decrits comme des "Vides Secondaires" — des endroits ou le Substrat primordial n'a pas ete completement transforme en matiere ou en energie. Ces lieux ont des proprietes etranges :
+Dans les textes des médiums du Lien les plus avances (Ère III, redécouverts en Ère VII), plusieurs lieux du monde sont décrits comme des "Vides Secondaires" — des endroits où le Substrat primordial n'a pas été complètement transformé en matière ou en energie. Ces lieux ont des propriétés etranges :
 
-- *Les Fosses des Abysses (domaine de Thalossa et Abyssus) :* Dans les points les plus profonds de l'Ocean Primordial, la pression est si extreme que la matiere normale se comporte differemment. Certains mediums affirment que sous suffisamment de pression, la matiere "se souvient" d'etre du Substrat.
+- *Les Fosses des Abysses (domaine de Thalossa et Abyssus) :* Dans les points les plus profonds de l'Océan Primordial, la pression est si extrême que la matière normale se comporte différemment. Certains médiums affirment que sous suffisamment de pression, la matière "se souvient" d'être du Substrat.
 
-- *Le Coeur du Mont Cendra (inaccessible) :* Mentionne precedemment — un espace de pure energie cosmique ou le Substrat n'a jamais ete pleinement transforme. Les Delies de l'Ere VII qui tentent d'y acceder ne cherchent pas la chaleur ou la lave — ils cherchent le Substrat lui-meme, que certains theories affirment etre la source ultime du pouvoir cosmique.
+- *Le Cœur du Mont Cendra (inaccessible) :* Mentionne precedemment — un espace de pure énergie cosmique où le Substrat n'a jamais été pleinement transforme. Les Déliés de l'Ère VII qui tentent d'y accéder ne cherchent pas la chaleur où la lave — ils cherchent le Substrat lui-même, que certains théories affirment être la source ultime du pouvoir cosmique.
 
-- *Les Failles de Tempora :* Les zones ou le temps se plie ou s'arrete sont peut-etre aussi des zones ou le Vide Residuel affleure. Si Tempora est le createur du temps, et si le temps est brise a ces endroits, alors ces zones retombent partiellement dans l'etat d'avant-Tempora : un Present sans sequence, un Vide temporel. C'est pourquoi les mortels qui entrent dans une Faille et en reviennent vivent des experiences non-lineaires — ils ont brievement touche l'Ere 0.
+- *Les Failles de Tempora :* Les zones où le temps se plie où s'arrête sont peut-être aussi des zones où le Vide Résiduel affleure. Si Tempora est le créateur du temps, et si le temps est brisé à ces endroits, alors ces zones retombent partiellement dans l'état d'avant-Tempora : un Présent sans séquence, un Vide temporel. C'est pourquoi les mortels qui entrent dans une Faille et en reviennent vivent des expériences non-linéaires — ils ont brièvement touche l'Ère 0.
 
-- *Les Marecages de Mireille :* La frontiere entre reel et onirique dans le territoire de Mireille est peut-etre une frontiere entre la matiere (le monde) et le Substrat (le Vide). Les visions que les mortels y ont ne seraient pas des projections de leur psyche — elles seraient des lectures directes du Substrat, qui "enregistre" tout ce qui s'est passe dans le cosmos depuis la Resonance.
+- *Les Marécages de Mireille :* La frontière entre réel et onirique dans le territoire de Mireille est peut-être une frontière entre la matière (le monde) et le Substrat (le Vide). Les visions que les mortels y ont ne seraient pas des projections de leur psyché — elles seraient des lectures directes du Substrat, qui "enregistre" tout ce qui s'est passé dans le cosmos depuis la Résonance.
 
 **La Résonance et le Lien — Une lecture verithane**
 
@@ -244,18 +244,18 @@ Chaque école théologique attribue à son Éternel une relation différente ave
 
 ---
 
-### Glossaire de l'Ere 0
+### Glossaire de l'Ère 0
 
-| Terme | Definition |
+| Terme | Définition |
 |-------|-----------|
-| **Le Vide** | L'etat d'avant les Eternels : pas de temps, pas d'espace, pas de matiere |
-| **Le Substrat** | La "substance" du Vide — ni matiere ni energie, mais ce depuis quoi les deux peuvent etre crees |
-| **La Resonance** | La premiere vibration du Substrat ; cause inconnue ; produit les 5 Eternels en cascade |
-| **Le Present Eternel** | L'etat de Celestia et Noctis avant la naissance de Tempora : existence sans sequence, sans avant ni apres |
-| **Le Vide Residuel** | Le Vide qui persiste aux marges du monde cree ; les espaces entre etoiles, les fosses des abysses |
-| **Les Vides Secondaires** | Lieux specifiques du monde ou le Substrat affleure encore : Coeur de Cendra, Failles de Tempora, etc. |
-| **Les Eternels** | Les 5 entites primordiales issues de la Resonance : Celestia, Noctis, Tempora, Eldoria, Navigor |
-| **La Trame du Lien** | Le residu de la Resonance organise par Navigor en un reseau de connexions ; accessible aux mortels (Ere III) |
+| **Le Vide** | L'état d'avant les Éternels : pas de temps, pas d'espace, pas de matière |
+| **Le Substrat** | La "substance" du Vide — ni matière ni énergie, mais ce depuis quoi les deux peuvent être créés |
+| **La Résonance** | La première vibration du Substrat ; cause inconnue ; produit les 5 Éternels en cascade |
+| **Le Présent Éternel** | L'état de Celestia et Noctis avant la naissance de Tempora : existence sans séquence, sans avant ni après |
+| **Le Vide Résiduel** | Le Vide qui persiste aux marges du monde créé ; les espaces entre étoiles, les fosses des abysses |
+| **Les Vides Secondaires** | Lieux spécifiques du monde où le Substrat affleure encore : Cœur de Cendra, Failles de Tempora, etc. |
+| **Les Éternels** | Les 5 entités primordiales issues de la Résonance : Celestia, Noctis, Tempora, Eldoria, Navigor |
+| **La Trame du Lien** | Le résidu de la Résonance organise par Navigor en un réseau de connexions ; accessible aux mortels (Ère III) |
 
 ---
 
@@ -274,17 +274,17 @@ La tradition établie dit que Tempora serait le troisième Éternel. Mais si Tem
 
 ---
 
-### Les Eternels et leurs cultes mortels — Resume rapide
+### Les Éternels et leurs cultes mortels — Résumé rapide
 
-> Les cultes complets sont documentes dans [00_Systeme_Religieux.md](../Religions/00_Systeme_Religieux.md). Ce tableau donne un apercu rapide des relations entre chaque Eternel et la facon dont les mortels les ont veneres au fil des eres.
+> Les cultes complets sont documentés dans [00_Systeme_Religieux.md](../Religions/00_Systeme_Religieux.md). Ce tableau donne un aperçu rapide des relations entre chaque Éternel et la façon dont les mortels les ont vénérés au fil des ères.
 
-| Eternel | Culte principal | Periode d'apogee | Ce que les fideles lui demandent | Rites caracteristiques |
+| Éternel | Culte principal | Période d'apogée | Ce que les fidèles lui demandent | Rites caractéristiques |
 |---------|----------------|-----------------|----------------------------------|------------------------|
-| **Celestia** | L'Eglise de la Lumiere Vraie | Ere III, encore actif Ere VII | Ordre, protection, direction | Offices a l'aube ; ports de blanc ; interdiction de souterrain |
-| **Noctis** | Les Voiles Nocturnes | Ere II (traditions orales) → Ere V-VI (formalise) | Comprehension des mysteres, acceptation de l'inconnu | Rituels nocturnes ; meditation dans l'obscurite ; pas d'images |
-| **Tempora** | Les Temporistes | Ere III (academique) → tres rare Ere VII | Comprehension du temps, acces aux Failles | Cycles de jeune calques sur les saisons ; aucun calendrier fixe |
-| **Eldoria** | Culte de la Tisserande | Ere II (diffus) → Ere III (structure) | Fertilite, creation, resistance de la matiere | Offrandes au sol ; sculptures en pierre ; ceremonies des etoiles |
-| **Navigor** | Navigoriens (presque disparus) | Ere III → declin apres Arrachement | Guide pour les ames, ouverture des passages | Bateaux brules ; fils tisses rituellement ; ceremonies aux carrefours |
+| **Celestia** | L'Église de la Lumière Vraie | Ère III, encore actif Ère VII | Ordre, protection, direction | Offices à l'aube ; ports de blanc ; interdiction de souterrain |
+| **Noctis** | Les Voiles Nocturnes | Ère II (traditions orales) → Ère V-VI (formalisé) | Compréhension des mystères, acceptation de l'inconnu | Rituels nocturnes ; méditation dans l'obscurité ; pas d'images |
+| **Tempora** | Les Temporistes | Ère III (académique) → très rare Ère VII | Compréhension du temps, accès aux Failles | Cycles de jeune calques sur les saisons ; aucun calendrier fixe |
+| **Eldoria** | Culte de la Tisserande | Ère II (diffus) → Ère III (structure) | Fertilité, création, résistance de la matière | Offrandes au sol ; sculptures en pierre ; cérémonies des étoiles |
+| **Navigor** | Navigoriens (presque disparus) | Ère III → déclin après Arrachement | Guide pour les âmes, ouverture des passages | Bateaux brûlés ; fils tisses rituellement ; cérémonies aux carrefours |
 
 **Notes sur ces cultes :**
 

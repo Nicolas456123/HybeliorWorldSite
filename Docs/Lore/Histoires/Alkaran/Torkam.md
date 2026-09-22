@@ -65,99 +65,99 @@ needs_review_for: []
 
 ---
 
-## Olkanor — « Le Rassemblement des Fantomes »
+## Olkanor — « Le Rassemblement des Fantômes »
 
-La cuvette d'Olkanor etait vide. Ce n'etait pas la saison du Grand Conseil — les tribus ne se rassembleraient pas avant trois lunes. Et pourtant, des tentes se dressaient.
+La cuvette d'Olkanor était vidé. Ce n'était pas la saison du Grand Conseil — les tribus ne se rassembleraient pas avant trois lunes. Et pourtant, des tentes se dressaient.
 
 Quarante-sept tentes. Exactement.
 
-Davan, le gardien d'Olkanor, les compta chaque matin pendant une semaine. Elles apparaissaient la nuit, sans bruit, sans cavaliers, sans traces de pas dans le sable. Des tentes de toile usee, decolorees par des decennies de soleil, portant des motifs qu'aucun tisserand vivant ne reconnaissait.
+Davan, le gardien d'Olkanor, les compta chaque matin pendant une semaine. Elles apparaissaient la nuit, sans bruit, sans cavaliers, sans traces de pas dans le sable. Des tentes de toile usée, décolorées par des décennies de soleil, portant des motifs qu'aucun tisserand vivant ne reconnaissait.
 
 "Les morts dressent le camp," murmura sa femme, Ysabel, en serrant leur fille contre elle.
 
-Davan ne croyait pas aux fantomes. Il croyait aux raids, aux voleurs, aux deserteurs. Il envoya un message a Olkanoris pour demander des renforts. La reponse de la Grande Chamane Nareth arriva trois jours plus tard : "Ne touche a rien. J'arrive."
+Davan ne croyait pas aux fantômes. Il croyait aux raids, aux voleurs, aux déserteurs. Il envoya un message à Olkanoris pour demander des renforts. La réponse de la Grande Chamane Nareth arriva trois jours plus tard : "Ne touche à rien. J'arrive."
 
-Nareth arriva avec cinq chamans de la tribu des Murmures. Ils entrerent dans la cuvette au crepuscule et resterent toute la nuit. Davan les observa depuis les falaises — il vit les chamans s'asseoir en cercle, les yeux fermes, les levres remuant sans son. Les tentes autour d'eux semblaient respirer, leur toile gonflant et se degonflant comme des poumons.
+Nareth arriva avec cinq chamans de la tribu des Murmures. Ils entrèrent dans la cuvette au crépuscule et restèrent toute la nuit. Davan les observa depuis les falaises — il vit les chamans s'asseoir en cercle, les yeux fermés, les lèvres remuant sans son. Les tentes autour d'eux semblaient respirer, leur toile gonflant et se degonflant comme des poumons.
 
-A l'aube, Nareth remonta. Son visage, d'ordinaire impassible, etait bleme.
+À l'aube, Nareth remonta. Son visage, d'ordinaire impassible, était blême.
 
 "Qu'est-ce que c'est ?" demanda Davan.
 
-"Le Treizieme Rassemblement." Nareth s'assit sur une pierre et regarda la cuvette. "Les registres oraux parlent de douze tribus. Mais avant l'unification de Zarek, il y en avait treize. La treizieme tribu a ete effacee — non pas detruite, mais oubliee. Leur nom a ete retire des recitations. Leurs morts n'ont plus ete nommes au Feu des Noms."
+"Le Treizième Rassemblement." Nareth s'assit sur une pierre et regarda la cuvette. "Les registres oraux parlent de douze tribus. Mais avant l'unification de Zarek, il y en avait treize. La treizième tribu a été effacée — non pas détruite, mais oubliée. Leur nom a été retiré des récitations. Leurs morts n'ont plus été nommés au Feu des Noms."
 
 Davan sentit un froid l'envahir. "L'Interdit de l'Oubli..."
 
-"Exactement. Oublier le nom d'un ancetre est le pire peche. Et nous n'avons pas oublie un ancetre — nous avons oublie une tribu entiere. Des centaines d'ames, condamnees a errer depuis des generations."
+"Exactement. Oublier le nom d'un ancêtre est le pire péché. Et nous n'avons pas oublié un ancêtre — nous avons oublié une tribu entière. Des centaines d'âmes, condamnées à errer depuis des générations."
 
-Les tentes disparurent au lever du soleil. Mais chaque annee, a la meme periode, elles reviennent. Quarante-sept tentes, toujours quarante-sept, dans la cuvette vide d'Olkanor. Et personne — pas meme Nareth — ne connait le nom de la tribu qu'il faudrait prononcer pour les liberer.
+Les tentes disparurent au lever du soleil. Mais chaque année, à la même période, elles reviennent. Quarante-sept tentes, toujours quarante-sept, dans la cuvette vide d'Olkanor. Et personne — pas même Nareth — ne connaît le nom de la tribu qu'il faudrait prononcer pour les libérer.
 
-Davan garde toujours Olkanor. Et chaque nuit, quand les tentes apparaissent, il murmure tous les noms qu'il connait, en esperant qu'un jour il tombera sur le bon.
+Davan garde toujours Olkanor. Et chaque nuit, quand les tentes apparaissent, il murmure tous les noms qu'il connaît, en espérant qu'un jour il tombera sur le bon.
 
 ---
 
 ## Olkanoris — « Le Chaman qui Oublia »
 
-Mirhan etait le plus ancien chaman d'Olkanoris. A quatre-vingt-sept ans, sa memoire contenait les noms de quatre mille ancetres, recites chaque soir dans l'ordre exact de leur mort, remontant sur quinze generations. C'etait le gardien de la memoire de la tribu des Murmures — et par extension, de tout Torkam.
+Mirhan était le plus ancien chaman d'Olkanoris. À quatre-vingt-sept ans, sa mémoire contenait les noms de quatre mille ancêtres, récités chaque soir dans l'ordre exact de leur mort, remontant sur quinze générations. C'était le gardien de la mémoire de la tribu des Murmures — et par extension, de tout Torkam.
 
-Le jour ou il oublia un nom, il le sut immediatement.
+Le jour où il oublia un nom, il le sut immédiatement.
 
-C'etait au milieu de la recitation du soir, devant le Feu des Noms. Les jeunes chamans l'ecoutaient, memorisant les sequences, quand Mirhan s'arreta. Sa bouche s'ouvrit, mais aucun son n'en sortit. Un vide — comme un trou dans le tissu du monde — s'etait ouvert entre deux noms.
+C'était au milieu de la récitation du soir, devant le Feu des Noms. Les jeunes chamans l'écoutaient, memorisant les séquences, quand Mirhan s'arrêta. Sa bouche s'ouvrit, mais aucun son n'en sortit. Un vide — comme un trou dans le tissu du monde — s'était ouvert entre deux noms.
 
-"Maitre ?" murmura sa jeune apprentie, Seyda.
+"Maître ?" murmura sa jeune apprentie, Seyda.
 
-Mirhan ferma les yeux. Il chercha. Le nom avait ete la un instant plus tot — il en sentait la forme, le poids, comme un objet qu'on a lache dans le noir. Mais il ne pouvait plus le saisir.
+Mirhan ferma les yeux. Il chercha. Le nom avait été là un instant plus tôt — il en sentait la forme, le poids, comme un objet qu'on a lâché dans le noir. Mais il ne pouvait plus le saisir.
 
-L'assemblee se tut. Oublier un nom etait un peche — mais pour Mirhan, c'etait une catastrophe. Si le gardien de la memoire perdait un nom, l'ame de cet ancetre etait condamnee a l'errance. Et si un nom pouvait etre oublie, combien d'autres suivraient ?
+L'assemblée se tut. Oublier un nom était un péché — mais pour Mirhan, c'était une catastrophe. Si le gardien de la mémoire perdait un nom, l'âme de cet ancêtre était condamnée à l'errance. Et si un nom pouvait être oublié, combien d'autres suivraient ?
 
-Mirhan ne mangea plus pendant trois jours. Il resta assis dans la chambre des archives orales — une piece souterraine ou les sons resonnaient et ou les chamans recitaient en boucle — et repeta les quatre mille noms, encore et encore, cherchant le vide.
+Mirhan ne mangea plus pendant trois jours. Il resta assis dans la chambre des archives orales — une pièce souterraine où les sons résonnaient et où les chamans récitaient en boucle — et répéta les quatre mille noms, encore et encore, cherchant le vide.
 
-Ce fut Seyda qui trouva la reponse. Elle fouilla les rares ecrits que les chamans conservaient — des aide-memoire, pas des registres officiels — et decouvrit une anomalie. Le nom manquant n'etait pas celui d'un ancetre ordinaire. C'etait celui de Zarek lui-meme.
+Ce fut Seyda qui trouva la réponse. Elle fouilla les rares écrits que les chamans conservaient — des aide-mémoire, pas des registres officiels — et découvrit une anomalie. Le nom manquant n'était pas celui d'un ancêtre ordinaire. C'était celui de Zarek lui-même.
 
 Le Grand Cham originel. L'unificateur. Le nom le plus important de tous.
 
 "Impossible," souffla Mirhan quand elle le lui dit. "Comment peut-on oublier Zarek ?"
 
-"Parce que tout le monde connait le titre," repondit Seyda. "Zarek le Grand Cham. Zarek l'Unificateur. Mais son vrai nom — son nom d'avant le titre — personne ne le recite plus. Il a ete remplace par la legende."
+"Parce que tout le monde connaît le titre," repondit Seyda. "Zarek le Grand Cham. Zarek l'Unificateur. Mais son vrai nom — son nom d'avant le titre — personne ne le récite plus. Il a été remplacé par la légende."
 
-Mirhan comprit alors que l'oubli ne vient pas du silence. Il vient du bruit. A force de repeter les titres, les exploits, les legendes, on avait noye le nom sous la gloire.
+Mirhan comprit alors que l'oubli ne vient pas du silence. Il vient du bruit. À force de répéter les titres, les exploits, les légendes, on avait noyé le nom sous la gloire.
 
-Il passa ses dernieres annees a chercher le vrai nom de Zarek. Il ne le trouva jamais. Mais il enseigna a Seyda une lecon qu'elle transmit a chaque chaman apres elle : "Recite les noms, pas les histoires. Les histoires changent. Les noms, non."
+Il passa ses dernières années à chercher le vrai nom de Zarek. Il ne le trouva jamais. Mais il enseigna à Seyda une leçon qu'elle transmit à chaque chaman après elle : "Récite les noms, pas les histoires. Les histoires changent. Les noms, non."
 
-Mirhan mourut dans la chambre des archives, en pleine recitation. Son dernier mot fut un nom — mais personne ne sut lequel.
+Mirhan mourut dans la chambre des archives, en pleine récitation. Son dernier mot fut un nom — mais personne ne sut lequel.
 
 ---
 
 ## Faldor — « L'Oasis qui Ne Pardonne Pas »
 
-Faldor etait la seule ville de Torkam ou l'on pouvait mourir de richesse.
+Faldor était la seule ville de Torkam où l'on pouvait mourir de richesse.
 
-Les caravanes y affluaient de toutes les tribus, chargees de cuir, d'herbes, de betail, d'encens sacre. Les marchandises etrangeres — fer d'Altram, epices d'Endora — s'entassaient dans les entrepots de pierre seche. L'eau de l'oasis coulait en abondance, nourrissant les palmiers-dattiers et les jardins irrigues.
+Les caravanes y affluaient de toutes les tribus, chargées de cuir, d'herbes, de bétail, d'encens sacré. Les marchandises étrangères — fer d'Altram, épices d'Endora — s'entassaient dans les entrepôts de pierre sèche. L'eau de l'oasis coulait en abondance, nourrissant les palmiers-dattiers et les jardins irrigués.
 
-Rahim etait le maitre caravanier le plus prospere de Faldor. Ses convois traversaient le desert de Qythros jusqu'aux cotes de Zolkanor, rapportant des marchandises que personne d'autre n'osait aller chercher. Il avait trente chameaux, cinq epouses, et un sourire qui ne s'eteignait jamais.
+Rahim était le maître caravanier le plus prospère de Faldor. Ses convois traversaient le désert de Qythros jusqu'aux côtés de Zolkanor, rapportant des marchandises que personne d'autre n'osait aller chercher. Il avait trente chameaux, cinq épouses, et un sourire qui ne s'éteignait jamais.
 
-Puis l'oasis commenca a diminuer.
+Puis l'oasis commença à diminuer.
 
-Ce fut imperceptible au debut — un centimetre d'eau en moins par lune. Les jardiniers le remarquerent les premiers, mais Rahim les ignora. L'eau avait toujours coule. Elle coulerait toujours.
+Ce fut imperceptible au début — un centimetre d'eau en moins par lune. Les jardiniers le remarquèrent les premiers, mais Rahim les ignora. L'eau avait toujours coulé. Elle coulerait toujours.
 
-En deux ans, le niveau baissa d'un tiers. Les palmiers jaunirent. Les jardins se firent poussiereux. Et les caravanes, voyant l'oasis faiblir, commencerent a devier vers d'autres routes.
+En deux ans, le niveau baissa d'un tiers. Les palmiers jaunirent. Les jardins se firent poussiereux. Et les caravanes, voyant l'oasis faiblir, commencèrent à dévier vers d'autres routes.
 
-Rahim, refuse d'accepter la realite, investit tout ce qu'il avait dans un projet dementiel : creuser un canal souterrain depuis une source lointaine pour alimenter l'oasis. Il embaucha des dizaines d'ouvriers, vendit ses chameaux un par un, hypothequa ses entrepots.
+Rahim, refuse d'accepter la réalité, investit tout ce qu'il avait dans un projet dementiel : creuser un canal souterrain depuis une source lointaine pour alimenter l'oasis. Il embaucha des dizaines d'ouvriers, vendit ses chameaux un par un, hypothequa ses entrepôts.
 
-Le canal fut un echec. La source etait trop loin, le terrain trop dur, et les ouvriers, mal payes, deserterent. Rahim se retrouva ruine dans une oasis mourante.
+Le canal fut un échec. La source était trop loin, le terrain trop dur, et les ouvriers, mal payés, désertèrent. Rahim se retrouva ruine dans une oasis mourante.
 
-Sa cinquieme epouse, Zahra — la seule qui n'etait pas partie — le trouva un soir au bord de l'eau restante, les pieds dans la boue.
+Sa cinquième épouse, Zahra — la seule qui n'était pas partie — le trouva un soir au bord de l'eau restante, les pieds dans la boue.
 
 "L'eau revient," dit-il sans conviction.
 
-Zahra s'accroupit a cote de lui. "L'eau va ou elle veut, Rahim. Comme les caravanes. Comme les gens. Tu ne peux pas forcer l'eau a rester plus que tu ne peux forcer la fortune."
+Zahra s'accroupit à côté de lui. "L'eau va où elle veut, Rahim. Comme les caravanes. Comme les gens. Tu ne peux pas forcer l'eau à rester plus que tu ne peux forcer la fortune."
 
 "Alors qu'est-ce qu'on fait ?"
 
 "On part. On suit l'eau."
 
-Rahim refusa. Zahra partit seule, vers Zolkoris, ou la mer ne s'assechait jamais.
+Rahim refusa. Zahra partit seule, vers Zolkoris, où la mer ne s'assechait jamais.
 
-L'oasis de Faldor ne mourut pas — elle se stabilisa, diminuee mais vivante. Rahim vecut le reste de ses jours dans un entrepot vide, maitre caravanier sans caravane, riche en souvenirs et pauvre en tout le reste. On dit qu'il parlait a l'eau chaque soir, la suppliant de revenir.
+L'oasis de Faldor ne mourut pas — elle se stabilisa, diminuée mais vivante. Rahim vécut le reste de ses jours dans un entrepôt vide, maître caravanier sans caravane, riche en souvenirs et pauvre en tout le reste. On dit qu'il parlait à l'eau chaque soir, la suppliant de revenir.
 
 L'eau, elle, ne repondit jamais.
 
@@ -165,109 +165,109 @@ L'eau, elle, ne repondit jamais.
 
 ## Zyldris — « Le Jardin Interdit »
 
-Nayara avait passe toute sa vie a l'entree du jardin sacre de Zyldris. En tant qu'apprentie de la tribu des Eaux, elle nourrissait les plantes, preparait les decoctions, nettoyait les outils des chamans — mais n'avait jamais le droit d'entrer dans le coeur du jardin, la ou poussaient les plantes les plus puissantes.
+Nayara avait passé toute sa vie à l'entrée du jardin sacré de Zyldris. En tant qu'apprentie de la tribu des Eaux, elle nourrissait les plantes, préparait les décoctions, nettoyait les outils des chamans — mais n'avait jamais le droit d'entrer dans le cœur du jardin, là où poussaient les plantes les plus puissantes.
 
-"Quand tu seras prete," repetait sa maitresse, la chamane Solya. "Pas avant."
+"Quand tu seras prête," répétait sa maîtresse, la chamane Solya. "Pas avant."
 
-Nayara avait vingt-cinq ans quand la fievre noire frappa Zyldris. Une maladie venue du desert, apportee par une caravane de passage, qui vidait les corps de leur eau en quelques jours. Les malades se deshydrataient de l'interieur, la peau craquelant comme le sable sec.
+Nayara avait vingt-cinq ans quand la fièvre noire frappa Zyldris. Une maladie venue du désert, apportée par une caravane de passage, qui vidait les corps de leur eau en quelques jours. Les malades se deshydrataient de l'intérieur, la peau craquelant comme le sable sec.
 
-Solya tomba malade la premiere. Puis les guerisseurs. Puis les gardes du jardin. En trois jours, Nayara etait la seule chamane encore debout — et elle n'avait pas acces aux plantes qui pouvaient sauver le village.
+Solya tomba malade la première. Puis les guérisseurs. Puis les gardes du jardin. En trois jours, Nayara était la seule chamane encore debout — et elle n'avait pas accès aux plantes qui pouvaient sauver le village.
 
-Elle entra dans le jardin interdit a l'aube du quatrieme jour.
+Elle entra dans le jardin interdit à l'aube du quatrième jour.
 
-Ce qu'elle trouva la terrifia. Les plantes du coeur du jardin n'etaient pas comme les autres. Elles bougeaient. Pas sous le vent — d'elles-memes. Leurs racines pulsaient dans la terre comme des veines. Leurs feuilles se tournaient vers elle, suivant ses mouvements. Et au centre, une fleur unique — bleue, lumineuse, grande comme les deux mains — exhalait un parfum qui donnait le vertige.
+Ce qu'elle trouva la terrifia. Les plantes du cœur du jardin n'étaient pas comme les autres. Elles bougeaient. Pas sous le vent — d'elles-mêmes. Leurs racines pulsaient dans la terre comme des veines. Leurs feuilles se tournaient vers elle, suivant ses mouvements. Et au centre, une fleur unique — bleue, lumineuse, grande comme les deux mains — exhalait un parfum qui donnait le vertige.
 
-Nayara ne savait pas quoi cueillir. Solya ne lui avait jamais enseigne les plantes interdites. Mais les malades mouraient. Alors elle fit ce que toute guerisseuse fait face a l'inconnu : elle gouta.
+Nayara ne savait pas quoi cueillir. Solya ne lui avait jamais enseigné les plantes interdites. Mais les malades mouraient. Alors elle fit ce que toute guérisseuse fait face à l'inconnu : elle goûta.
 
-La premiere plante la rendit aveugle pendant une heure. La deuxieme lui fit vomir du sang. La troisieme la plongea dans un sommeil dont elle faillit ne pas se reveiller. Chaque plante, testee sur elle-meme, parce qu'elle refusait de risquer la vie d'un malade avant la sienne.
+La première plante la rendit aveugle pendant une heure. La deuxième lui fit vomir du sang. La troisième la plongea dans un sommeil dont elle faillit ne pas se réveiller. Chaque plante, testée sur elle-même, parce qu'elle refusait de risquer la vie d'un malade avant la sienne.
 
-La septieme plante — une racine noire aux reflets violets — arreta la fievre. Nayara prepara assez de decoction pour le village entier, administrant les doses une par une, les mains tremblantes de sa propre intoxication.
+La septième plante — une racine noire aux reflets violets — arrêta la fièvre. Nayara prépara assez de décoction pour le village entier, administrant les doses une par une, les mains tremblantes de sa propre intoxication.
 
-Zyldris survecut. Nayara aussi — mais pas intacte. Les poisons qu'elle avait ingeres lui laisserent une cicatrice invisible : elle ne sentait plus les odeurs. Pour une guerisseuse herboriste, c'etait comme perdre les yeux.
+Zyldris survécut. Nayara aussi — mais pas intacte. Les poisons qu'elle avait ingeres lui laissèrent une cicatrice invisible : elle ne sentait plus les odeurs. Pour une guérisseuse herboriste, c'était comme perdre les yeux.
 
-Solya, guerie, la trouva assise dans le jardin interdit, entouree de plantes dont elle ne pouvait plus sentir le parfum.
+Solya, guérie, la trouva assise dans le jardin interdit, entourée de plantes dont elle ne pouvait plus sentir le parfum.
 
 "Tu as fait ce qu'il fallait," dit la chamane.
 
-"J'ai fait ce que j'ai pu," corrigea Nayara. "Et ca m'a coute quelque chose que je ne recupererai jamais."
+"J'ai fait ce que j'ai pu," corrigea Nayara. "Et ça m'a coûté quelque chose que je ne récupèrerai jamais."
 
-Solya s'assit a cote d'elle. "Bienvenue dans le jardin, Nayara. Maintenant tu comprends pourquoi il est interdit — non pas pour proteger les plantes de nous, mais pour nous proteger des plantes."
+Solya s'assit à côté d'elle. "Bienvenue dans le jardin, Nayara. Maintenant tu comprends pourquoi il est interdit — non pas pour protéger les plantes de nous, mais pour nous protéger des plantes."
 
 ---
 
 ## Jalkoris — « Le Guerrier qui Refusa de Mourir »
 
-Khorel de la tribu des Lames avait ete tue trois fois.
+Khorel de la tribu des Lames avait été tué trois fois.
 
-La premiere, a dix-sept ans, lors d'un raid contre une caravane altramite. Une lance lui traversa le poumon gauche. Les guerisseurs le declarerent mort. Il se reveilla le lendemain, la plaie a moitie refermee, crachotant du sang mais bien vivant.
+La première, à dix-sept ans, lors d'un raid contre une caravane altramite. Une lance lui traversa le poumon gauche. Les guérisseurs le déclarèrent mort. Il se réveilla le lendemain, la plaie à moitié refermée, crachotant du sang mais bien vivant.
 
-La deuxieme, a vingt-quatre ans, lors du Holmgang contre un guerrier du clan de l'Ours. Son adversaire lui fendit le crane d'un coup de hache. Khorel tomba. Les temoins virent ses yeux se vider. Puis, trois respirations plus tard, il se releva, le sang coulant sur son visage comme un masque rouge, et acheva son adversaire.
+La deuxième, à vingt-quatre ans, lors du Holmgang contre un guerrier du clan de l'Ours. Son adversaire lui fendit le crâne d'un coup de hache. Khorel tomba. Les témoins virent ses yeux se vider. Puis, trois respirations plus tard, il se releva, le sang coulant sur son visage comme un masque rouge, et acheva son adversaire.
 
-La troisieme, a trente et un ans, dans les sables de Qythros. Une tempete de sable l'ensevelit. On retrouva son corps deux jours plus tard, sous un metre de sable, sans eau, sans air. Mort. On le deposa sur le bucher funeraire. Quand les flammes le toucherent, il hurla.
+La troisième, à trente et un ans, dans les sables de Qythros. Une tempête de sable l'ensevelit. On retrouva son corps deux jours plus tard, sous un mètre de sable, sans eau, sans air. Mort. On le déposa sur le bûcher funéraire. Quand les flammes le touchèrent, il hurla.
 
-Apres ca, personne a Jalkoris ne voulut plus se battre a ses cotes.
+Après ça, personne à Jalkoris ne voulut plus se battre à ses côtes.
 
 "Tu es maudit," disait son capitaine. "Les esprits ne veulent pas de toi."
 
-"Ou beni," repondait Khorel. Mais son sourire etait vide.
+"Ou béni," répondait Khorel. Mais son sourire était vidé.
 
-Car Khorel comprenait ce que les autres ne voyaient pas : il ne refusait pas de mourir. Quelque chose le ramenait. A chaque mort, il sentait une force le tirer — non vers la lumiere des ancetres, mais vers le bas, vers les profondeurs, vers un endroit froid et sombre ou une voix sans nom repetait un seul mot qu'il ne comprenait pas.
+Car Khorel comprenait ce que les autres ne voyaient pas : il ne refusait pas de mourir. Quelque chose le ramenait. À chaque mort, il sentait une force le tirer — non vers la lumière des ancêtres, mais vers le bas, vers les profondeurs, vers un endroit froid et sombre où une voix sans nom répétait un seul mot qu'il ne comprenait pas.
 
-Il alla voir les chamans de la tribu des Ossements a Valdarin. Ils l'examinerent pendant trois jours. Le diagnostic tomba comme une sentence : l'ame de Khorel etait "liee" — attachee a un pacte que quelqu'un, quelque part, avait conclu en son nom avant sa naissance. Quelqu'un avait negocie avec les forces au-dela de la mort, et le prix etait que Khorel ne pourrait jamais mourir — pas de mort naturelle, pas de mort violente, pas de mort du tout.
+Il alla voir les chamans de la tribu des Ossements à Valdarin. Ils l'examinèrent pendant trois jours. Le diagnostic tomba comme une sentence : l'âme de Khorel était "liée" — attachée à un pacte que quelqu'un, quelque part, avait conclu en son nom avant sa naissance. Quelqu'un avait négocié avec les forces au-delà de la mort, et le prix était que Khorel ne pourrait jamais mourir — pas de mort naturelle, pas de mort violente, pas de mort du tout.
 
 "Qui ?" demanda Khorel.
 
-"Ta mere," repondit le chaman. "Elle t'a porte pendant une grossesse qui aurait du la tuer. Elle a negocie avec les esprits : sa vie contre ton immortalite."
+"Ta mère," repondit le chaman. "Elle t'a porté pendant une grossesse qui aurait dû la tuer. Elle a négocié avec les esprits : sa vie contre ton immortalité."
 
-Khorel retourna a Jalkoris. Il ne combattit plus. Il s'assit aux portes du campement et regarda les guerriers partir et revenir, generation apres generation, vieillir et mourir pendant que lui restait le meme — trente et un ans, les memes cicatrices, le meme sang qui coulait et se tarissait toujours.
+Khorel retourna à Jalkoris. Il ne combattit plus. Il s'assit aux portes du campement et regarda les guerriers partir et revenir, génération après génération, vieillir et mourir pendant que lui restait le même — trente et un ans, les mêmes cicatrices, le même sang qui coulait et se tarissait toujours.
 
-On dit qu'il est toujours la. Assis aux portes de Jalkoris, attendant de comprendre le mot que la voix repete dans le noir.
+On dit qu'il est toujours là. Assis aux portes de Jalkoris, attendant de comprendre le mot que la voix répète dans le noir.
 
 ---
 
-## Thyron — « L'Etoile Menteuse »
+## Thyron — « L'Étoile Menteuse »
 
-Selene navigua aux etoiles depuis qu'elle avait cinq ans. Fille de la tribu des Etoiles, nee sur le plateau de Thyron ou le ciel etait si clair qu'on voyait les constellations en plein jour, elle avait appris a lire le firmament avant de lire le sable.
+Selene navigua aux étoiles depuis qu'elle avait cinq ans. Fille de la tribu des Étoiles, née sur le plateau de Thyron où le ciel était si clair qu'on voyait les constellations en plein jour, elle avait appris à lire le firmament avant de lire le sable.
 
-A vingt ans, elle etait la meilleure navigatrice stellaire de sa generation. Les caravanes se battaient pour l'engager. Selene ne se trompait jamais — chaque etoile etait un repere, chaque constellation un chemin, chaque mouvement celeste une carte.
+À vingt ans, elle était la meilleure navigatrice stellaire de sa génération. Les caravanes se battaient pour l'engager. Selene ne se trompait jamais — chaque étoile était un repère, chaque constellation un chemin, chaque mouvement céleste une carte.
 
-Jusqu'au soir ou une etoile bougea.
+Jusqu'au soir où une étoile bougea.
 
-Ce n'etait pas une etoile filante. C'etait Veylar, l'etoile du nord, le point fixe autour duquel toute la navigation torkamite etait construite. Veylar, qui n'avait pas bouge depuis que les ancetres avaient leve les yeux pour la premiere fois — Veylar se decala.
+Ce n'était pas une étoile filante. C'était Veylar, l'étoile du nord, le point fixe autour duquel toute la navigation torkamite était construite. Veylar, qui n'avait pas bougé depuis que les ancêtres avaient levé les yeux pour la première fois — Veylar se décala.
 
-Un infime mouvement. Imperceptible pour quiconque n'etait pas ne a Thyron. Mais Selene le vit, et son sang se glaca.
+Un infime mouvement. Imperceptible pour quiconque n'était pas ne à Thyron. Mais Selene le vit, et son sang se glaça.
 
-Si Veylar bougeait, toutes les routes etaient fausses. Chaque caravane qui suivait l'etoile du nord se decalerait — un degre, puis deux, puis dix. Dans le desert, un degre de deviation pouvait signifier la mort.
+Si Veylar bougeait, toutes les routes étaient fausses. Chaque caravane qui suivait l'étoile du nord se décalerait — un degré, puis deux, puis dix. Dans le désert, un degré de déviation pouvait signifier la mort.
 
-Selene alerta ses maitres. Ils observerent le ciel pendant sept nuits. Rien. Veylar etait exactement ou elle devait etre.
+Selene alerta ses maîtres. Ils observèrent le ciel pendant sept nuits. Rien. Veylar était exactement où elle devait être.
 
-"Tu as reve," dit le maitre navigateur Yemrin.
+"Tu as rêvé," dit le maître navigateur Yemrin.
 
-"Je n'ai pas reve. L'etoile a bouge."
+"Je n'ai pas rêvé. L'étoile a bougé."
 
 "Veylar ne bouge pas. C'est la seule certitude que nous ayons."
 
-Selene insista. On la traita de folle, puis de menteuse. Ses contrats se tarirent. Les caravanes ne voulaient plus d'une navigatrice qui remettait en question l'etoile fixe — car si Veylar pouvait bouger, alors rien n'etait sur, et rien n'est plus effrayant pour un voyageur du desert que l'incertitude.
+Selene insista. On la traita de folle, puis de menteuse. Ses contrats se tarirent. Les caravanes ne voulaient plus d'une navigatrice qui remettait en question l'étoile fixe — car si Veylar pouvait bouger, alors rien n'était sur, et rien n'est plus effrayant pour un voyageur du désert que l'incertitude.
 
-Trois mois plus tard, une caravane de quarante personnes se perdit dans le desert de Qythros. Ils suivaient Veylar. Ils moururent a vingt kilometres de l'oasis de Caelorn — decales, desorientes, dans une direction que Selene avait exactement predite.
+Trois mois plus tard, une caravane de quarante personnes se perdit dans le désert de Qythros. Ils suivaient Veylar. Ils moururent à vingt kilomètres de l'oasis de Caelorn — décalés, désorientés, dans une direction que Selene avait exactement prédite.
 
-On ne s'excusa jamais aupres de Selene. Mais les navigateurs de Thyron ajouterent discretement une deuxieme etoile de reference a leurs cartes. Et Selene, reinstallee comme navigatrice, ne regarda plus jamais Veylar sans un soupcon de terreur.
+On ne s'excusa jamais auprès de Selene. Mais les navigateurs de Thyron ajoutèrent discrètement une deuxième étoile de référence à leurs cartes. Et Selene, reinstallee comme navigatrice, ne regarda plus jamais Veylar sans un soupçon de terreur.
 
-L'etoile n'a plus bouge depuis. Mais Selene sait qu'elle bougera encore. Et la prochaine fois, elle sera prete.
+L'étoile n'a plus bougé depuis. Mais Selene sait qu'elle bougera encore. Et la prochaine fois, elle sera prêté.
 
 ---
 
 ## Haldrin — « Le Conteur qui Perdit sa Voix »
 
-Orath pouvait reciter l'histoire complete de Torkam sans interruption pendant trois jours. C'etait son don, sa fierte, sa raison d'etre. A Haldrin, le village des Chants ou les sons resonnaient dans la vallee comme dans un amphitheatre, la voix d'Orath portait jusqu'aux falaises.
+Orath pouvait réciter l'histoire complète de Torkam sans interruption pendant trois jours. C'était son don, sa fierté, sa raison d'être. À Haldrin, le village des Chants où les sons résonnaient dans la vallée comme dans un amphithéâtre, la voix d'Orath portait jusqu'aux falaises.
 
-Le jour ou il perdit sa voix, ce fut le silence qui porta le plus loin.
+Le jour où il perdit sa voix, ce fut le silence qui porta le plus loin.
 
-La maladie vint sans prevenir — une inflammation de la gorge, banale au debut, qui devint une cicatrice permanente. Les guerisseurs de Zyldris firent ce qu'ils purent. Le verdict fut sans appel : Orath ne parlerait plus jamais.
+La maladie vint sans prévenir — une inflammation de la gorge, banale au début, qui devint une cicatrice permanente. Les guérisseurs de Zyldris firent ce qu'ils purent. Le verdict fut sans appel : Orath ne parlerait plus jamais.
 
-Un conteur sans voix. A Torkam, ou rien n'est ecrit, ou chaque histoire, chaque loi, chaque nom d'ancetre existe uniquement dans le souffle des vivants, c'etait pire que la mort. C'etait l'effacement.
+Un conteur sans voix. À Torkam, où rien n'est écrit, où chaque histoire, chaque loi, chaque nom d'ancêtre existe uniquement dans le souffle des vivants, c'était pire que la mort. C'était l'effacement.
 
-Orath s'enferma dans sa tente pendant des semaines. Les autres conteurs de Haldrin reprirent ses recitations. Ils connaissaient les histoires — pas aussi bien que lui, pas avec les memes inflexions, les memes silences, les memes respirations qui donnaient vie aux mots — mais suffisamment pour que la memoire survive.
+Orath s'enferma dans sa tente pendant des semaines. Les autres conteurs de Haldrin reprirent ses récitations. Ils connaissaient les histoires — pas aussi bien que lui, pas avec les mêmes inflexions, les mêmes silences, les mêmes respirations qui donnaient vie aux mots — mais suffisamment pour que la mémoire survive.
 
 Ce fut sa fille, Lysha, douze ans, qui le tira de son silence.
 
@@ -275,163 +275,163 @@ Ce fut sa fille, Lysha, douze ans, qui le tira de son silence.
 
 "Je ne peux plus la dire."
 
-"Alors montre-la."
+"Alors montre-là."
 
-Orath la regarda sans comprendre. Puis Lysha prit un baton et dessina dans le sable un symbole — un cercle avec une ligne, le signe torkamite pour "soleil". "Comme ca, dit-elle. Mais en plus grand."
+Orath la regarda sans comprendre. Puis Lysha prit un bâton et dessina dans le sable un symbole — un cercle avec une ligne, le signe torkamite pour "soleil". "Comme ça, dit-elle. Mais en plus grand."
 
-Orath comprit. Si la voix ne portait plus, les gestes pouvaient prendre le relais. Il passa des mois a developper un langage de mouvements — des gestes amples, theatraux, visibles de loin dans la vallee qui amplifiait tout. Chaque bataille avait sa danse. Chaque mort, sa posture. Chaque naissance, son eclat.
+Orath comprit. Si la voix ne portait plus, les gestes pouvaient prendre le relais. Il passa des mois à développer un langage de mouvements — des gestes amples, théâtraux, visibles de loin dans la vallée qui amplifiait tout. Chaque bataille avait sa danse. Chaque mort, sa posture. Chaque naissance, son éclat.
 
-Le soir ou il "raconta" pour la premiere fois sans un mot l'histoire de Zarek l'Unificateur, la vallee entiere regardait. Les mains d'Orath, les mouvements de son corps, les expressions de son visage disaient ce que sa voix ne pouvait plus dire. Et certains jurerent que c'etait plus beau que les mots.
+Le soir où il "raconta" pour la première fois sans un mot l'histoire de Zarek l'Unificateur, la vallée entière regardait. Les mains d'Orath, les mouvements de son corps, les expressions de son visage disaient ce que sa voix ne pouvait plus dire. Et certains jurerent que c'était plus beau que les mots.
 
-Orath ne retrouva jamais sa voix. Mais il crea quelque chose qui n'existait pas a Torkam : un art muet qui racontait aussi fort que les chants. Les conteurs de Haldrin enseignent desormais deux langages — celui des mots et celui du silence. Et chaque recitation commence par un geste d'Orath : les deux mains posees sur la gorge, puis ouvertes vers le ciel. Ca signifie : "Ce que la voix ne peut pas dire, le corps le criera."
+Orath ne retrouva jamais sa voix. Mais il créa quelque chose qui n'existait pas à Torkam : un art muet qui racontait aussi fort que les chants. Les conteurs de Haldrin enseignent désormais deux langages — celui des mots et celui du silence. Et chaque récitation commence par un geste d'Orath : les deux mains posées sur la gorge, puis ouvertes vers le ciel. Ça signifie : "Ce que la voix ne peut pas dire, le corps le criera."
 
 ---
 
 ## Valdarin — « La Fille des Ossements »
 
-Personne ne venait a Valdarin par choix. Le campement de la tribu des Ossements, isole dans le desert profond de Qythros, etait un lieu que les voyageurs contournaient et que les caravanes evitaient. Les rituels necromantiques qui s'y pratiquaient etaient legaux — mais le legal et le confortable sont deux choses differentes.
+Personne ne venait à Valdarin par choix. Le campement de la tribu des Ossements, isolé dans le désert profond de Qythros, était un lieu que les voyageurs contournaient et que les caravanes évitaient. Les rituels nécromantiques qui s'y pratiquaient étaient légaux — mais le légal et le confortable sont deux choses différentes.
 
-Ileth avait grandi a Valdarin. Fille d'un necromancien rituel et d'une tisseuse de linceuls, elle avait appris a parler aux morts avant d'apprendre a parler aux vivants.
+Ileth avait grandi à Valdarin. Fille d'un nécromancien rituel et d'une tisseuse de linceuls, elle avait appris à parler aux morts avant d'apprendre à parler aux vivants.
 
-Le probleme, c'est que les morts lui repondaient.
+Le problème, c'est que les morts lui répondaient.
 
-Pas en mots — en sensations. Quand Ileth touchait un os, elle ressentait les derniers instants de celui a qui il avait appartenu. La douleur, la peur, parfois la paix. C'etait un don. C'etait aussi une malediction.
+Pas en mots — en sensations. Quand Ileth touchait un os, elle ressentait les derniers instants de celui à qui il avait appartenu. La douleur, la peur, parfois la paix. C'était un don. C'était aussi une malédiction.
 
-A seize ans, lors de son rite de passage dans le desert, Ileth trouva un os. Pas un os animal — un os humain, ancien, a moitie enfoui dans le sable. Quand elle le toucha, la sensation fut si violente qu'elle s'evanouit.
+À seize ans, lors de son rite de passage dans le désert, Ileth trouva un os. Pas un os animal — un os humain, ancien, à moitié enfoui dans le sable. Quand elle le toucha, la sensation fut si violente qu'elle s'evanouit.
 
-Elle vit — non, elle vecut — les derniers instants d'un homme qui mourait de soif. Mais ce n'etait pas un homme ordinaire. C'etait Zarek. L'Unificateur. Le Premier Grand Cham. Et ce qu'elle vit dans ses derniers instants n'etait pas la mort paisible d'un sage — c'etait le meurtre. Quelqu'un avait empoisonne l'eau de Zarek. Quelqu'un de sa propre tribu.
+Elle vit — non, elle vécut — les derniers instants d'un homme qui mourait de soif. Mais ce n'était pas un homme ordinaire. C'était Zarek. L'Unificateur. Le Premier Grand Cham. Et ce qu'elle vit dans ses derniers instants n'était pas la mort paisible d'un sage — c'était le meurtre. Quelqu'un avait empoisonné l'eau de Zarek. Quelqu'un de sa propre tribu.
 
-Ileth se reveilla avec un secret capable de detruire les fondations de Torkam. L'Unificateur n'etait pas mort de vieillesse comme le disaient les chants. Il avait ete assassine. Et l'os qu'elle tenait etait la preuve.
+Ileth se réveilla avec un secret capable de détruire les fondations de Torkam. L'Unificateur n'était pas mort de vieillesse comme le disaient les chants. Il avait été assassiné. Et l'os qu'elle tenait était la preuve.
 
-Elle rapporta l'os a Valdarin. Son pere, le necromancien Horath, l'examina en silence. Puis il prit l'os, le brisa en deux et le jeta dans le feu.
+Elle rapporta l'os à Valdarin. Son père, le nécromancien Horath, l'examina en silence. Puis il prit l'os, le brisa en deux et le jeta dans le feu.
 
-"Pere !"
+"Père !"
 
-"Certaines verites sont des armes, Ileth. Et certaines armes ne doivent jamais etre utilisees." Horath la regarda avec une tristesse infinie. "Si les tribus apprennent que Zarek a ete trahi, le Grand Pacte s'effondre. Les guerres tribales reprennent. Des milliers meurent."
+"Certaines vérités sont des armes, Ileth. Et certaines armes ne doivent jamais être utilisées." Horath la regarda avec une tristesse infinie. "Si les tribus apprennent que Zarek a été trahi, le Grand Pacte s'effondre. Les guerres tribales reprennent. Des milliers meurent."
 
-"Mais la verite..."
+"Mais la vérité..."
 
-"La verite, c'est que Zarek a uni les tribus. Que son assassin n'a pas reussi a defaire ce qu'il avait bati. Que le Pacte tient encore, sept generations plus tard." Horath posa les mains sur les epaules de sa fille. "Voila la verite qui compte."
+"La vérité, c'est que Zarek à uni les tribus. Que son assassin n'a pas réussi à défaire ce qu'il avait bâti. Que le Pacte tient encore, sept générations plus tard." Horath posa les mains sur les épaules de sa fille. "Voilà la vérité qui compte."
 
-Ileth garda le silence. Elle ne quitta jamais Valdarin. Elle devint la plus grande necromancienne de sa generation — et la plus silencieuse. Quand on lui demandait pourquoi elle refusait de parler des morts qu'elle touchait, elle repondait toujours la meme chose : "Les morts ont leurs secrets. Et certains secrets meritent de mourir avec eux."
+Ileth garda le silence. Elle ne quitta jamais Valdarin. Elle devint la plus grande nécromancienne de sa génération — et la plus silencieuse. Quand on lui demandait pourquoi elle refusait de parler des morts qu'elle touchait, elle répondait toujours la même chose : "Les morts ont leurs secrets. Et certains secrets méritent de mourir avec eux."
 
 ---
 
 ## Caelorn — « L'Oasis des Menteurs »
 
-Tariq connaissait l'emplacement de Caelorn depuis l'age de dix ans. Son pere, espion de la tribu des Ombres, le lui avait revele lors d'une lecon qu'il n'oublierait jamais.
+Tariq connaissait l'emplacement de Caelorn depuis l'âge de dix ans. Son père, espion de la tribu des Ombres, le lui avait révélé lors d'une leçon qu'il n'oublierait jamais.
 
-"Souviens-toi de ce lieu," avait dit son pere en ecartant les buissons seches qui masquaient l'entree de l'oasis cachee. "Et souviens-toi que tout ce qui s'y dit est un mensonge."
+"Souviens-toi de ce lieu," avait dit son père en écartant les buissons sèches qui masquaient l'entrée de l'oasis cachée. "Et souviens-toi que tout ce qui s'y dit est un mensonge."
 
-Caelorn etait le point de rendez-vous secret des diplomates et des espions du Grand Cham. Les negociations les plus sensibles de Torkam s'y deroulaient — cessez-le-feu entre tribus, echanges de prisonniers, accords commerciaux que personne ne voulait reconnaitre. Et chaque mot prononce a Caelorn etait calcule, pese, manipule.
+Caelorn était le point de rendez-vous secret des diplomates et des espions du Grand Cham. Les négociations les plus sensibles de Torkam s'y deroulaient — cessez-le-feu entre tribus, échanges de prisonniers, accords commerciaux que personne ne voulait reconnaître. Et chaque mot prononcé à Caelorn était calculé, pèse, manipulé.
 
-Tariq devint espion a son tour. A vingt ans, il etait le meilleur agent de la tribu des Ombres — discret, patient, capable de traverser le territoire d'une tribu hostile sans etre detecte. Mais sa veritable specialite etait le mensonge. Il mentait si bien que meme les chamans ne pouvaient pas distinguer ses fictions de la verite.
+Tariq devint espion à son tour. À vingt ans, il était le meilleur agent de la tribu des Ombres — discret, patient, capable de traverser le territoire d'une tribu hostile sans être détecté. Mais sa véritable spécialité était le mensonge. Il mentait si bien que même les chamans ne pouvaient pas distinguer ses fictions de la vérité.
 
-Le probleme vint quand il tomba amoureux.
+Le problème vint quand il tomba amoureux.
 
-Sahra etait de la tribu des Pierres — une tribu que les Ombres espionnaient activement. Tariq la rencontra a Caelorn, lors d'une negociation de frontiere. Elle etait la gardienne du site sacre de Myrthoris, les menhirs petrifies. Serieuse, directe, incapable de mentir.
+Sahra était de la tribu des Pierres — une tribu que les Ombres espionnaient activement. Tariq la rencontra à Caelorn, lors d'une négociation de frontière. Elle était la gardienne du site sacré de Myrthoris, les menhirs pétrifiés. Sérieuse, directe, incapable de mentir.
 
-Tout ce que Tariq n'etait pas.
+Tout ce que Tariq n'était pas.
 
-Ils se revirent. Secretement. A Caelorn, bien sur — le seul endroit ou personne ne posait de questions. Tariq lui dit qu'il etait marchand. Elle le crut. Il lui dit qu'il voyageait pour le commerce. Elle le crut. Il lui dit qu'il l'aimait.
+Ils se revirent. Secrètement. À Caelorn, bien sûr — le seul endroit où personne ne posait de questions. Tariq lui dit qu'il était marchand. Elle le crut. Il lui dit qu'il voyageait pour le commerce. Elle le crut. Il lui dit qu'il l'aimait.
 
-C'etait le seul mensonge qu'il n'avait pas besoin de dire. Mais elle ne le crut pas.
+C'était le seul mensonge qu'il n'avait pas besoin de dire. Mais elle ne le crut pas.
 
 "Tu mens trop bien," dit-elle un soir, assise au bord de l'eau. "Les marchands ne mentent pas comme toi. Les marchands exagerent. Toi, tu construis des mondes."
 
-Tariq ne nia pas. Il ne pouvait pas — c'etait la seule personne devant qui son talent de menteur devenait un handicap.
+Tariq ne nia pas. Il ne pouvait pas — c'était la seule personne devant qui son talent de menteur devenait un handicap.
 
 "Dis-moi une chose vraie," demanda Sahra. "Une seule. Et je reste."
 
-Tariq ouvrit la bouche. Et pour la premiere fois de sa vie, il ne trouva rien a dire. Pas parce qu'il n'avait pas de verite — mais parce qu'il avait passe si longtemps a mentir qu'il ne savait plus ou finissait le personnage et ou commencait l'homme.
+Tariq ouvrit la bouche. Et pour la première fois de sa vie, il ne trouva rien à dire. Pas parce qu'il n'avait pas de vérité — mais parce qu'il avait passé si longtemps à mentir qu'il ne savait plus où finissait le personnage et où commençait l'homme.
 
 Sahra attendit. Puis elle se leva et partit.
 
-Tariq continue de servir a Caelorn. Il est toujours le meilleur menteur de Torkam. Mais chaque fois qu'il passe devant l'endroit ou Sahra etait assise, il essaie de se rappeler une verite — n'importe laquelle — et n'en trouve aucune.
+Tariq continue de servir à Caelorn. Il est toujours le meilleur menteur de Torkam. Mais chaque fois qu'il passe devant l'endroit où Sahra était assise, il essaie de se rappeler une vérité — n'importe laquelle — et n'en trouve aucune.
 
 ---
 
-## Zolkoris — « Le Pecheur de Sable »
+## Zolkoris — « Le Pêcheur de Sable »
 
-Les Torkamites de Zolkoris etaient des excentriques. Dans un pays de nomades du desert, ils pechaient. Dans un monde de sable et de vent, ils regardaient la mer. Les autres tribus les moquaient — "les Torkamites mouilles", "les noyes du desert" — mais les habitants de Zolkoris s'en fichaient. Leur poisson seche etait delicieux, et ceux qui riaient finissaient toujours par en acheter.
+Les Torkamites de Zolkoris étaient des excentriques. Dans un pays de nomades du désert, ils pechaient. Dans un monde de sable et de vent, ils regardaient la mer. Les autres tribus les moquaient — "les Torkamites mouillés", "les noyés du désert" — mais les habitants de Zolkoris s'en fichaient. Leur poisson séché était delicieux, et ceux qui riaient finissaient toujours par en acheter.
 
-Kemil etait le meilleur pecheur de Zolkoris. Il avait appris la mer aupres de marchands etrangers qui faisaient escale sur la cote, et il avait developpe des techniques que personne d'autre ne maitrisait. Ses filets, tisses avec du crin de cheval du desert, etaient plus resistants que ceux des marins d'Altram. Ses bateaux, faits de bois flotte et de cuir torkamite, etaient legers et rapides.
+Kemil était le meilleur pêcheur de Zolkoris. Il avait appris la mer auprès de marchands étrangers qui faisaient escale sur la côte, et il avait développé des techniques que personne d'autre ne maîtrisait. Ses filets, tisses avec du crin de cheval du désert, étaient plus résistants que ceux des marins d'Altram. Ses bateaux, faits de bois flotte et de cuir torkamite, étaient légers et rapides.
 
-Mais Kemil avait un probleme : son fils, Amir, douze ans, refusait de toucher l'eau.
+Mais Kemil avait un problème : son fils, Amir, douze ans, refusait de toucher l'eau.
 
-"La mer n'est pas pour nous," repetait Amir. "Nous sommes des enfants du sable."
+"La mer n'est pas pour nous," répétait Amir. "Nous sommes des enfants du sable."
 
 Kemil essayait de raisonner. "Le sable et la mer se touchent ici, Amir. Nous sommes le point de rencontre."
 
 "Non. Nous sommes la honte de notre tribu."
 
-L'enfant parlait avec les mots des autres — des cousins des tribus interieures qui lui avaient crache que les pecheurs n'etaient pas de vrais Torkamites. Kemil avait beau protester, le poison etait entre.
+L'enfant parlait avec les mots des autres — des cousins des tribus intérieures qui lui avaient craché que les pêcheurs n'étaient pas de vrais Torkamites. Kemil avait beau protester, le poison était entré.
 
-Quand vint le rite de passage d'Amir — trois jours seul dans le desert — le garcon partit vers l'interieur des terres. Pas vers la mer. Vers le sable. Il voulait prouver qu'il etait un vrai fils du desert.
+Quand vint le rite de passage d'Amir — trois jours seul dans le désert — le garçon partit vers l'intérieur des terres. Pas vers la mer. Vers le sable. Il voulait prouver qu'il était un vrai fils du désert.
 
-Au deuxieme jour, Kemil sentit que quelque chose n'allait pas. Un instinct de pere, aussi puissant que l'instinct du pecheur qui sent la tempete. Il lanca son bateau et longea la cote vers le sud, suivant les dunes du rivage.
+Au deuxième jour, Kemil sentit que quelque chose n'allait pas. Un instinct de père, aussi puissant que l'instinct du pêcheur qui sent la tempête. Il lança son bateau et longea la côte vers le sud, suivant les dunes du rivage.
 
-Il trouva Amir au troisieme jour. Le garcon etait effondre au bord d'une falaise, deshydrate, brulant de fievre, tenant dans sa main crispee une poignee de sable. Son "objet offert par les esprits" — une poignee de sable ordinaire.
+Il trouva Amir au troisième jour. Le garçon était effondré au bord d'une falaise, deshydrate, brûlant de fièvre, tenant dans sa main crispée une poignée de sable. Son "objet offert par les esprits" — une poignée de sable ordinaire.
 
-Kemil le ramena sur son bateau. Il lui donna de l'eau. Il le ramena a Zolkoris. Et quand Amir se reveilla, il vit son pere assis a la proue, la poignee de sable dans les mains, en train de la melanger avec de l'eau de mer.
+Kemil le ramena sur son bateau. Il lui donna de l'eau. Il le ramena à Zolkoris. Et quand Amir se réveilla, il vit son père assis à la proue, la poignée de sable dans les mains, en train de la melanger avec de l'eau de mer.
 
 "Qu'est-ce que tu fais ?" murmura Amir.
 
-"Le sable et l'eau de mer, ensemble, ca fait du sel. Et le sel, c'est ce qui conserve le poisson." Kemil sourit. "Tu vois, Amir ? Tu n'as pas a choisir entre le sable et la mer. Les deux ensembles, c'est ce qui nous garde en vie."
+"Le sable et l'eau de mer, ensemble, ça fait du sel. Et le sel, c'est ce qui conserve le poisson." Kemil sourit. "Tu vois, Amir ? Tu n'as pas à choisir entre le sable et la mer. Les deux ensembles, c'est ce qui nous garde en vie."
 
-Amir ne devint jamais pecheur. Il devint saunier — le premier fabricant de sel de Torkam. Et le sel de Zolkoris, fait de sable du desert et d'eau de mer, devint la denree la plus precieuse des caravanes.
+Amir ne devint jamais pêcheur. Il devint saunier — le premier fabricant de sel de Torkam. Et le sel de Zolkoris, fait de sable du désert et d'eau de mer, devint la denree la plus précieuse des caravanes.
 
 ---
 
 ## Frosthar — « Le Vent qui Coupe »
 
-Le col de Frosthar etait la porte d'entree vers Altram, et c'etait aussi l'endroit le plus deteste de Torkam. Le vent qui s'engouffrait entre les montagnes etait si violent qu'il coupait la peau nue comme une lame. Les voyageurs l'appelaient "le vent qui coupe" — le meme mot qui avait donne son nom au village.
+Le col de Frosthar était la porte d'entrée vers Altram, et c'était aussi l'endroit le plus déteste de Torkam. Le vent qui s'engouffrait entre les montagnes était si violent qu'il coupait la peau nue comme une lame. Les voyageurs l'appelaient "le vent qui coupe" — le même mot qui avait donné son nom au village.
 
-Sarya gardait le col depuis trente ans. Pas comme soldat — comme guide. Elle escortait les caravanes a travers le passage, connaissant chaque rafale, chaque accalmie, chaque recoin ou le vent faiblissait assez pour reprendre son souffle.
+Sarya gardait le col depuis trente ans. Pas comme soldat — comme guide. Elle escortait les caravanes à travers le passage, connaissant chaque rafale, chaque accalmie, chaque recoin où le vent faiblissait assez pour reprendre son souffle.
 
-Personne ne traversait Frosthar sans Sarya. C'etait une regle non ecrite.
+Personne ne traversait Frosthar sans Sarya. C'était une règle non écrite.
 
-Le jour ou elle refusa de guider une caravane, tout le village retint son souffle.
+Le jour où elle refusa de guider une caravane, tout le village retint son souffle.
 
-La caravane etait celle de Dremon, un marchand altramite connu pour son arrogance. Il transportait du fer — des tonnes de fer — vers une tribu de Torkam dont il refusait de donner le nom.
+La caravane était celle de Dremon, un marchand altramite connu pour son arrogance. Il transportait du fer — des tonnes de fer — vers une tribu de Torkam dont il refusait de donner le nom.
 
 "Laisse-moi passer, vieille femme," dit-il. "Je paierai le double."
 
-Sarya secoua la tete. "Le vent souffle du nord-ouest. C'est un vent de mort. Demain sera meilleur."
+Sarya secoua la tête. "Le vent souffle du nord-ouest. C'est un vent de mort. Demain sera meilleur."
 
 "Je n'ai pas le temps d'attendre."
 
 "Alors tu n'as pas le temps de vivre."
 
-Dremon la contourna. Il engagea un villageois — un jeune homme nomme Rolen, avide d'argent — pour guider la caravane a la place de Sarya. Rolen connaissait le col. Pas aussi bien que Sarya, mais assez. Du moins le croyait-il.
+Dremon la contourna. Il engagea un villageois — un jeune homme nommé Rolen, avide d'argent — pour guider la caravane à la place de Sarya. Rolen connaissait le col. Pas aussi bien que Sarya, mais assez. Du moins le croyait-il.
 
-La caravane s'engagea dans le col a midi. Le vent du nord-ouest frappa a quatorze heures. Les chameaux furent jetes a terre. Les caisses de fer se reverserent. Rolen, pris de panique, guida les hommes vers un recoin qu'il croyait abrite — mais qui etait en realite un entonnoir ou le vent se concentrait.
+La caravane s'engagea dans le col à midi. Le vent du nord-ouest frappa à quatorze heures. Les chameaux furent jetés à terre. Les caisses de fer se reverserent. Rolen, pris de panique, guida les hommes vers un recoin qu'il croyait abrite — mais qui était en réalité un entonnoir où le vent se concentrait.
 
-Sarya les retrouva le lendemain. Dremon etait mort de froid, les mains crispees sur un lingot de fer. Rolen etait vivant mais ampute de trois doigts par les gelures. Le fer etait eparpille dans tout le col.
+Sarya les retrouva le lendemain. Dremon était mort de froid, les mains crispées sur un lingot de fer. Rolen était vivant mais amputé de trois doigts par les gelures. Le fer était éparpillé dans tout le col.
 
 Sarya ramena Rolen au village. Elle ne dit pas un mot. Rolen non plus.
 
-Le col de Frosthar est toujours la. Sarya aussi. Et quand un voyageur impatient lui demande pourquoi elle refuse de guider par vent de nord-ouest, elle montre les lingots de fer qui gisent encore dans les rochers du col — trop lourds pour etre recuperes, trop rouilles pour etre utiles.
+Le col de Frosthar est toujours là. Sarya aussi. Et quand un voyageur impatient lui demande pourquoi elle refuse de guider par vent de nord-ouest, elle montre les lingots de fer qui gisent encore dans les rochers du col — trop lourds pour être récupérés, trop rouilles pour être utiles.
 
 "Le fer attend," dit-elle. "Pas les morts."
 
 ---
 
-## Galdrin — « La Derniere Chevauchee de Noria »
+## Galdrin — « La Dernière Chevauchée de Noria »
 
-A Galdrin, les chevaux etaient plus precieux que les enfants — c'est ce que disaient les etrangers, et les eleveurs de Galdrin ne les corrigeaient pas. Leurs chevaux du desert, sobres en eau, endurants sous le soleil, capables de galoper pendant des heures, etaient les meilleures montures d'Alkaran.
+À Galdrin, les chevaux étaient plus précieux que les enfants — c'est ce que disaient les étrangers, et les éleveurs de Galdrin ne les corrigeaient pas. Leurs chevaux du désert, sobres en eau, endurants sous le soleil, capables de galoper pendant des heures, étaient les meilleures montures d'Alkaran.
 
-Noria etait la meilleure dresseuse de Galdrin. Ses mains pouvaient calmer un etalon furieux en dix secondes. Sa voix — un murmure grave, presque un chant — faisait obeir les betes les plus retives. On disait que les esprits du vent lui avaient donne le langage des chevaux.
+Noria était la meilleure dresseuse de Galdrin. Ses mains pouvaient calmer un étalon furieux en dix secondes. Sa voix — un murmure grave, presque un chant — faisait obéir les bêtes les plus retives. On disait que les esprits du vent lui avaient donné le langage des chevaux.
 
-Son cheval prefere s'appelait Ashkar — un etalon noir aux yeux dores, le plus rapide que Galdrin ait produit. Noria l'avait dresse depuis sa naissance, dormant a cote de lui, partageant son eau, courant avec lui dans les dunes a l'aube.
+Son cheval préféré s'appelait Ashkar — un étalon noir aux yeux dorés, le plus rapide que Galdrin ait produit. Noria l'avait dressé depuis sa naissance, dormant à côté de lui, partageant son eau, courant avec lui dans les dunes à l'aube.
 
-Quand le Grand Cham Nareth demanda le meilleur cheval de Galdrin pour son garde personnel, le choix tomba sur Ashkar. Noria le savait depuis le debut — le meilleur allait toujours au Grand Cham. C'etait un honneur. C'etait aussi un arrachement.
+Quand le Grand Cham Nareth demanda le meilleur cheval de Galdrin pour son garde personnel, le choix tomba sur Ashkar. Noria le savait depuis le début — le meilleur allait toujours au Grand Cham. C'était un honneur. C'était aussi un arrachement.
 
-Le matin du depart, Noria sella Ashkar une derniere fois. Elle le brossa pendant une heure, lui murmura des mots que personne d'autre n'entendit, et le conduisit jusqu'au cavalier du Grand Cham qui l'attendait a l'entree du village.
+Le matin du départ, Noria sella Ashkar une dernière fois. Elle le brossa pendant une heure, lui murmura des mots que personne d'autre n'entendit, et le conduisit jusqu'au cavalier du Grand Cham qui l'attendait à l'entrée du village.
 
 Ashkar refusa d'avancer.
 
-Le cavalier tira. Le cheval s'arc-bouta. Le cavalier frappa. Le cheval rua. Noria, a dix pas, ne dit rien. Ashkar ne la regardait pas — il regardait le desert, les dunes ou ils avaient couru ensemble, la direction qu'il connaissait par coeur.
+Le cavalier tira. Le cheval s'arc-bouta. Le cavalier frappa. Le cheval rua. Noria, à dix pas, ne dit rien. Ashkar ne la regardait pas — il regardait le désert, les dunes où ils avaient couru ensemble, la direction qu'il connaissait par cœur.
 
 "Laissez-le," dit finalement Noria.
 
@@ -439,104 +439,104 @@ Le cavalier tira. Le cheval s'arc-bouta. Le cavalier frappa. Le cheval rua. Nori
 
 "Aura un autre cheval. Celui-ci ne partira pas."
 
-Le cavalier repartit sans Ashkar. Noria sut qu'il y aurait des consequences — on ne refuse pas le Grand Cham. Mais quand elle caressa le museau d'Ashkar et qu'il posa sa tete sur son epaule, elle sut qu'elle avait fait le seul choix possible.
+Le cavalier repartit sans Ashkar. Noria sut qu'il y aurait des conséquences — on ne refuse pas le Grand Cham. Mais quand elle caressa le museau d'Ashkar et qu'il posa sa tête sur son épaule, elle sut qu'elle avait fait le seul choix possible.
 
-Les consequences vinrent : Galdrin perdit le privilege de fournir les montures du Grand Cham. Une humiliation pour tout le village. Les eleveurs maudirent Noria. Certains exigerent son exil.
+Les conséquences vinrent : Galdrin perdit le privilège de fournir les montures du Grand Cham. Une humiliation pour tout le village. Les éleveurs maudirent Noria. Certains exigerent son exil.
 
-Noria ne se defendit pas. Elle prit Ashkar et partit dans le desert. Seule. Elle parcourut les routes que les caravanes n'osaient plus prendre et devint une legende errante — la dresseuse et son cheval noir, apparaissant aux voyageurs perdus pour les guider vers l'oasis la plus proche, puis disparaissant dans les dunes.
+Noria ne se défendit pas. Elle prit Ashkar et partit dans le désert. Seule. Elle parcourut les routes que les caravanes n'osaient plus prendre et devint une légende errante — la dresseuse et son cheval noir, apparaissant aux voyageurs perdus pour les guider vers l'oasis la plus proche, puis disparaissant dans les dunes.
 
-Ashkar mourut de vieillesse quinze ans plus tard. Noria l'enterra dans le sable — la seule Torkamite a enterrer plutot que bruler — et resta assise sur sa tombe pendant trois jours, le temps du rite de passage, comme si c'etait elle qui devait renaitre.
+Ashkar mourut de vieillesse quinze ans plus tard. Noria l'enterra dans le sable — la seule Torkamite à enterrer plutôt que brûler — et resta assise sur sa tombe pendant trois jours, le temps du rite de passage, comme si c'était elle qui devait renaître.
 
 ---
 
 ## Myrthoris — « Les Doigts de l'Esprit »
 
-Le cercle de menhirs de Myrthoris etait l'un des sites les plus sacres de Torkam. Six pierres dressees, hautes comme trois hommes, disposees en cercle parfait au sommet d'une colline battue par les vents. Les chamans de la tribu des Pierres affirmaient que c'etaient les doigts petrifies d'un ancien esprit, fige dans la roche au moment de sa mort.
+Le cercle de menhirs de Myrthoris était l'un des sites les plus sacrés de Torkam. Six pierres dressées, hautes comme trois hommes, disposées en cercle parfait au sommet d'une colline battue par les vents. Les chamans de la tribu des Pierres affirmaient que c'étaient les doigts pétrifiés d'un ancien esprit, figé dans la roche au moment de sa mort.
 
-Seul le Grand Cham pouvait y penetrer.
+Seul le Grand Cham pouvait y pénétrer.
 
-Daran, gardien de Myrthoris depuis vingt ans, avait passe sa vie a l'exterieur du cercle. Il connaissait chaque fissure de chaque menhir, chaque lichen, chaque mouvement du soleil entre les pierres. Mais il n'avait jamais franchi la limite.
+Daran, gardien de Myrthoris depuis vingt ans, avait passé sa vie à l'extérieur du cercle. Il connaissait chaque fissure de chaque menhir, chaque lichen, chaque mouvement du soleil entre les pierres. Mais il n'avait jamais franchi la limite.
 
-Jusqu'au jour ou sa fille, Essa, sept ans, courut entre les menhirs pour attraper un lezard.
+Jusqu'au jour où sa fille, Essa, sept ans, courut entre les menhirs pour attraper un lézard.
 
-Daran sentit son coeur s'arreter. L'enfant traversa le cercle en riant, insouciante, et attrapa le lezard de l'autre cote. Rien ne se passa. Pas d'eclair, pas de tremblement de terre, pas de courroux des esprits.
+Daran sentit son cœur s'arrêter. L'enfant traversa le cercle en riant, insouciante, et attrapa le lézard de l'autre côté. Rien ne se passa. Pas d'éclair, pas de tremblement de terre, pas de courroux des esprits.
 
 Mais la nuit suivante, Essa ne dormit pas. Elle regardait le mur de la tente avec des yeux vides, murmurant des mots dans une langue que Daran ne reconnaissait pas. Pas du torkamite. Pas de l'altramite. Une langue ancienne, gutturale, qui faisait vibrer l'air.
 
-Les chamans de la tribu des Pierres vinrent immediatement. Ils ecouterent Essa pendant une heure, le visage de plus en plus sombre. Puis le chef chaman prit Daran a part.
+Les chamans de la tribu des Pierres vinrent immédiatement. Ils écoutèrent Essa pendant une heure, le visage de plus en plus sombre. Puis le chef chaman prit Daran à part.
 
-"Ta fille parle la langue des esprits anciens. La langue d'avant les tribus. D'avant Zarek. D'avant les hommes, peut-etre." Il marqua une pause. "Le cercle l'a touchee. Les doigts de l'esprit se sont refermes sur elle."
+"Ta fille parle la langue des esprits anciens. La langue d'avant les tribus. D'avant Zarek. D'avant les hommes, peut-être." Il marqua une pause. "Le cercle l'a touchée. Les doigts de l'esprit se sont refermés sur elle."
 
-"Qu'est-ce que ca veut dire ?"
+"Qu'est-ce que ça veut dire ?"
 
-"Ca veut dire qu'elle entend ce que le Grand Cham entend quand il entre dans le cercle. Les voix d'avant."
+"Ça veut dire qu'elle entend ce que le Grand Cham entend quand il entre dans le cercle. Les voix d'avant."
 
 "Est-ce qu'elle ira bien ?"
 
-Le chaman ne repondit pas. C'etait une reponse en soi.
+Le chaman ne repondit pas. C'était une réponse en soi.
 
-Essa ne redevint jamais tout a fait normale. Elle grandissait, apprenait, riait parfois — mais ses yeux gardaient cette distance, comme si une partie d'elle ecoutait toujours les voix du cercle. La nuit, elle murmurait dans la langue ancienne. Daran apprit a dormir malgre les mots qu'il ne comprenait pas.
+Essa ne redevint jamais tout à fait normale. Elle grandissait, apprenait, riait parfois — mais ses yeux gardaient cette distance, comme si une partie d'elle écoutait toujours les voix du cercle. La nuit, elle murmurait dans la langue ancienne. Daran apprit à dormir malgré les mots qu'il ne comprenait pas.
 
-Quand Essa eut treize ans et fit son rite de passage dans le desert, elle revint avec un menhir miniature — une pierre dressee naturellement, pas plus grande qu'un doigt. Les chamans la regarderent avec un melange de respect et de peur.
+Quand Essa eut treize ans et fit son rite de passage dans le désert, elle revint avec un menhir miniature — une pierre dressée naturellement, pas plus grande qu'un doigt. Les chamans la regardèrent avec un mélange de respect et de peur.
 
-"Elle est la septieme pierre," murmura le chef chaman. "L'esprit avait six doigts. Il lui manquait le septieme."
+"Elle est la septième pierre," murmura le chef chaman. "L'esprit avait six doigts. Il lui manquait le septième."
 
-Essa vit toujours a Myrthoris. Elle ne garde pas le cercle — elle y entre chaque jour, s'assoit au centre, et ecoute. Daran la regarde depuis l'exterieur, comme il l'a toujours fait, incapable de la suivre la ou elle va.
+Essa vit toujours à Myrthoris. Elle ne garde pas le cercle — elle y entre chaque jour, s'assoit au centre, et écoute. Daran la regarde depuis l'extérieur, comme il l'a toujours fait, incapable de la suivre là où elle va.
 
 ---
 
-## Valoris — « Le Forgeron du Desert »
+## Valoris — « Le Forgeron du Désert »
 
-A Valoris, entre Torkam et Myrtam, deux mondes se rencontraient et aucun des deux n'aimait ce qu'il voyait.
+À Valoris, entre Torkam et Myrtam, deux mondes se rencontraient et aucun des deux n'aimait ce qu'il voyait.
 
-Tarik etait ne torkamite, fils de la tribu des Pierres, mais il avait grandi a la frontiere ou les nomades croisaient les forgerons. A dix ans, il avait regarde un artisan myrtamite transformer un lingot brut en lame, et quelque chose s'etait allume en lui qu'aucun rite torkamite n'avait jamais eveille.
+Tarik était né torkamite, fils de la tribu des Pierres, mais il avait grandi à la frontière où les nomades croisaient les forgerons. À dix ans, il avait regardé un artisan myrtamite transformer un lingot brut en lame, et quelque chose s'était allumé en lui qu'aucun rite torkamite n'avait jamais éveillé.
 
 Il voulait forger.
 
-Pour un Torkamite, c'etait presque une heresie. La tribu des Flammes travaillait le metal, certes, mais de facon rudimentaire — des outils simples, des pointes de lance. La forge sophistiquee etait un art de sedentaires, un art d'Altram et de Myrtam. Un art d'esclaves des montagnes, disaient les anciens.
+Pour un Torkamite, c'était presque une hérésie. La tribu des Flammes travaillait le métal, certes, mais de façon rudimentaire — des outils simples, des pointes de lance. La forge sophistiquée était un art de sédentaires, un art d'Altram et de Myrtam. Un art d'esclaves des montagnes, disaient les anciens.
 
-Tarik s'en fichait. A quinze ans, il traversa la frontiere et s'engagea comme apprenti chez un forgeron de Myrtam. Il apprit vite — trop vite. Ses mains de nomade, habituees au cuir et a la corde, s'adapterent au marteau et a l'enclume comme si elles avaient attendu ca toute leur vie.
+Tarik s'en fichait. À quinze ans, il traversa la frontière et s'engagea comme apprenti chez un forgeron de Myrtam. Il apprit vite — trop vite. Ses mains de nomade, habituées au cuir et à la corde, s'adapterent au marteau et à l'enclume comme si elles avaient attendu ça toute leur vie.
 
-Mais les Myrtamites ne l'accepterent jamais. "Le nomade", l'appelaient-ils. "Le sauvage." Il avait beau produire des lames impeccables, son accent torkamite et sa peau brulee par le desert le marquaient comme etranger.
+Mais les Myrtamites ne l'acceptèrent jamais. "Le nomade", l'appelaient-ils. "Le sauvage." Il avait beau produire des lames impeccables, son accent torkamite et sa peau brûlée par le désert le marquaient comme étranger.
 
-Apres cinq ans, Tarik revint a Valoris. Et la, les siens le rejetterent aussi. "Le forgeron", crachaient-ils. "Le traitre." Il avait touche au metal, adopte les manieres des sedentaires, trahi la vie nomade.
+Après cinq ans, Tarik revint à Valoris. Et là, les siens le rejetterent aussi. "Le forgeron", crachaient-ils. "Le traître." Il avait touché au métal, adopté les manières des sédentaires, trahi la vie nomade.
 
-Tarik se retrouva seul. Ni torkamite ni myrtamite. Un homme sans tribu dans un pays ou la tribu est tout.
+Tarik se retrouva seul. Ni torkamite ni myrtamite. Un homme sans tribu dans un pays où la tribu est tout.
 
-Il construisit sa forge a Valoris, exactement sur la frontiere. Une forge torkamite — en plein air, demontable, portable. Mais avec des techniques myrtamites — la precision, la trempe, le savoir-faire. Il forgea des lames pour les nomades et des outils pour les sedentaires, et refusa de choisir un camp.
+Il construisit sa forge à Valoris, exactement sur la frontière. Une forge torkamite — en plein air, demontable, portable. Mais avec des techniques myrtamites — la précision, la trempe, le savoir-faire. Il forgea des lames pour les nomades et des outils pour les sédentaires, et refusa de choisir un camp.
 
-Ca prit des annees. Mais lentement, les deux cotes commencerent a venir. Les guerriers torkamites voulaient des lames meilleures que celles de la tribu des Flammes. Les fermiers myrtamites voulaient des outils plus legers que ceux de leurs propres forges. Tarik fournissait les deux.
+Ça prit des années. Mais lentement, les deux côtés commencèrent à venir. Les guerriers torkamites voulaient des lames meilleures que celles de la tribu des Flammes. Les fermiers myrtamites voulaient des outils plus légers que ceux de leurs propres forges. Tarik fournissait les deux.
 
-Quand on lui demandait d'ou il venait, Tarik montrait sa forge — un foyer de pierres du desert alimente par du charbon de Myrtam, avec une enclume altramite et des outils torkamites.
+Quand on lui demandait d'où il venait, Tarik montrait sa forge — un foyer de pierres du désert alimenté par du charbon de Myrtam, avec une enclume altramite et des outils torkamites.
 
 "Je viens d'ici," disait-il. "D'entre les deux."
 
-Valoris n'est plus un village tampon. C'est un pont. Et la forge de Tarik, cent ans plus tard, est toujours la — entretenue par des apprentis qui ne sont ni d'un monde ni de l'autre, mais des deux a la fois.
+Valoris n'est plus un village tampon. C'est un pont. Et la forge de Tarik, cent ans plus tard, est toujours là — entretenue par des apprentis qui ne sont ni d'un monde ni de l'autre, mais des deux à la fois.
 
 ---
 
 ## Kelosar — « Les Peintures qui Parlent »
 
-La grotte de Kelosar etait la plus vieille memoire de Torkam. Ses parois, couvertes de peintures rupestres datant d'avant les tribus, d'avant les chamans, d'avant meme le desert peut-etre, racontaient une histoire que personne ne savait lire.
+La grotte de Kelosar était la plus vieille mémoire de Torkam. Ses parois, couvertes de peintures rupestres datant d'avant les tribus, d'avant les chamans, d'avant même le désert peut-être, racontaient une histoire que personne ne savait lire.
 
-Alya, chamane de la tribu des Murmures, etait venue a Kelosar pour ses visions. Le rituel etait simple : s'asseoir dans la grotte, macher la racine amere que les anciens fournissaient, et attendre.
+Alya, chamane de la tribu des Murmures, était venue à Kelosar pour ses visions. Le rituel était simple : s'asseoir dans la grotte, mâcher la racine amère que les anciens fournissaient, et attendre.
 
-La racine fit son effet au bout d'une heure. Les peintures sur les murs se mirent a bouger.
+La racine fit son effet au bout d'une heure. Les peintures sur les murs se mirent à bouger.
 
-Alya avait entendu parler de ce phenomene — les chamans qui venaient a Kelosar revenaient avec des visions si puissantes qu'elles les changeaient pour toujours. Mais rien ne l'avait preparee a ca.
+Alya avait entendu parler de ce phénomène — les chamans qui venaient à Kelosar revenaient avec des visions si puissantes qu'elles les changeaient pour toujours. Mais rien ne l'avait préparée à ça.
 
-Les figures sur les murs — des silhouettes humaines, des animaux, des formes geometriques — commencerent a se deplacer. Lentement, comme des ombres portees par un feu invisible. Elles rejouerent des scenes : une chasse, une guerre, une ceremonie. Des centaines de personnes peintes il y a des millenaires, reprenant vie sous les yeux d'Alya.
+Les figures sur les murs — des silhouettes humaines, des animaux, des formes géométriques — commencèrent à se déplacer. Lentement, comme des ombres portées par un feu invisible. Elles rejouerent des scènes : une chasse, une guerre, une cérémonie. Des centaines de personnes peintes il y a des millénaires, reprenant vie sous les yeux d'Alya.
 
-Puis les figures la regarderent.
+Puis les figures la regardèrent.
 
-Alya sentit un froid absolu l'envahir. Les silhouettes peintes se tournerent vers elle — toutes, en meme temps — et l'une d'elles, la plus grande, tendit une main vers son visage.
+Alya sentit un froid absolu l'envahir. Les silhouettes peintes se tournèrent vers elle — toutes, en même temps — et l'une d'elles, la plus grande, tendit une main vers son visage.
 
 Quand la main peinte toucha sa joue, Alya vit.
 
-Elle vit Torkam avant le desert. Une terre verte, couverte de forets et de rivieres. Elle vit les premiers hommes — pas des nomades, mais des batisseurs. Des villes de pierre, des tours, des routes. Un peuple qui avait bati un empire dans un jardin. Et puis elle vit la fin : une catastrophe si terrible que la terre elle-meme avait muri de chagrin, se transformant en desert pour oublier ce qui s'etait passe.
+Elle vit Torkam avant le désert. Une terre verte, couverte de forêts et de rivières. Elle vit les premiers hommes — pas des nomades, mais des bâtisseurs. Des villes de pierre, des tours, des routes. Un peuple qui avait bâti un empire dans un jardin. Et puis elle vit la fin : une catastrophe si terrible que la terre elle-même avait mûri de chagrin, se transformant en désert pour oublier ce qui s'était passé.
 
-Alya se reveilla a l'aube, allongee sur le sol de la grotte, des larmes sechees sur ses joues. Les peintures etaient immobiles. Les figures regardaient a nouveau le vide.
+Alya se réveilla à l'aube, allongée sur le sol de la grotte, des larmes séchées sur ses joues. Les peintures étaient immobiles. Les figures regardaient à nouveau le vide.
 
-Elle ne raconta a personne ce qu'elle avait vu. Pas parce que c'etait un secret — mais parce qu'aucun mot ne pouvait decrire le chagrin d'une terre qui avait choisi de devenir desert plutot que de se souvenir.
+Elle ne raconta à personne ce qu'elle avait vu. Pas parce que c'était un secret — mais parce qu'aucun mot ne pouvait décrire le chagrin d'une terre qui avait choisi de devenir désert plutôt que de se souvenir.
 
-Alya retourna a la tribu des Murmures. Elle devint la chamane la plus silencieuse de sa generation — et la plus respectee. Et chaque annee, elle revenait a Kelosar, seule, s'asseoir devant les peintures sans macher la racine. Juste pour regarder. Juste pour se souvenir de ce que la terre avait oublie.
+Alya retourna à la tribu des Murmures. Elle devint la chamane la plus silencieuse de sa génération — et la plus respectée. Et chaque année, elle revenait à Kelosar, seule, s'asseoir devant les peintures sans mâcher la racine. Juste pour regarder. Juste pour se souvenir de ce que la terre avait oublié.

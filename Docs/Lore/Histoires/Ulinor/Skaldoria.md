@@ -45,17 +45,17 @@ L'actuelle Jarl suprême est **Sigrid Brise-Tempête**, du Clan de l'Ours. Elle 
 
 ## Skaldris --- "Les Mains qui Tremblent"
 
-Trois expeditions sont parties de Skaldris vers le nord. Deux ne sont jamais revenues. La troisieme est revenue avec des marins dont les mains tremblaient et ne s'arretaient plus.
+Trois expéditions sont parties de Skaldris vers le nord. Deux ne sont jamais revenues. La troisième est revenue avec des marins dont les mains tremblaient et ne s'arrêtaient plus.
 
-Le capitaine Halvard etait le plus endurci des marins de Skaldris. Trente ans de mer, des bras epais comme des mats, une voix qui portait par-dessus n'importe quelle tempete. Quand il revint, il ne parlait plus qu'en murmurant.
+Le capitaine Halvard était le plus endurci des marins de Skaldris. Trente ans de mer, des bras épais comme des mâts, une voix qui portait par-dessus n'importe quelle tempête. Quand il revint, il ne parlait plus qu'en murmurant.
 
-Son equipage refusa de raconter ce qu'ils avaient vu. Pas par serment --- par incapacite. Les mots, disaient-ils, ne marchaient pas pour decrire ca. Certains essayerent quand meme. Ils parlaient d'une lumiere verte sur un horizon plat. D'un silence si total que le bruit de leur propre sang dans leurs veines devenait assourdissant. Et d'une impression, sous la glace --- pas exactement celle d'une creature, pas non plus celle d'un batiment. L'impression, disaient-ils, d'etre regardes. Ils n'allaient pas plus loin.
+Son équipage refusa de raconter ce qu'ils avaient vu. Pas par serment --- par incapacité. Les mots, disaient-ils, ne marchaient pas pour décrire ça. Certains essayerent quand même. Ils parlaient d'une lumière verte sur un horizon plat. D'un silence si total que le bruit de leur propre sang dans leurs veines devenait assourdissant. Et d'une impression, sous la glace --- pas exactement celle d'une créature, pas non plus celle d'un bâtiment. L'impression, disaient-ils, d'être regardés. Ils n'allaient pas plus loin.
 
-Halvard resta a Skaldris jusqu'a sa mort. Il ne remonta jamais sur un navire. Chaque matin, il allait au bout du quai et regardait le nord. Ses mains tremblaient. Quand on lui demandait s'il voulait y retourner, il disait toujours la meme chose :
+Halvard resta à Skaldris jusqu'à sa mort. Il ne remonta jamais sur un navire. Chaque matin, il allait au bout du quai et regardait le nord. Ses mains tremblaient. Quand on lui demandait s'il voulait y retourner, il disait toujours la même chose :
 
-"Ca ne servirait a rien. La-bas, j'ai eu le sentiment d'avoir ete vu. Il n'y a pas de revanche a prendre sur un sentiment."
+"Ça ne servirait à rien. Là-bas, j'ai eu le sentiment d'avoir été vu. Il n'y a pas de revanche à prendre sur un sentiment."
 
-Les jeunes marins de Skaldris partent encore vers le nord. Halvard ne les empechait pas. Il disait seulement : "Si tu reviens, viens me voir. On tremblera ensemble."
+Les jeunes marins de Skaldris partent encore vers le nord. Halvard ne les empêchait pas. Il disait seulement : "Si tu reviens, viens me voir. On tremblera ensemble."
 
 Personne ne l'a jamais pris au mot. Parce que personne d'autre n'est revenu.
 
@@ -63,47 +63,47 @@ Personne ne l'a jamais pris au mot. Parce que personne d'autre n'est revenu.
 
 ## Vyndar --- "Le Cuir qui ne Mourrait Pas"
 
-La vieille Thyra tannait les peaux depuis soixante ans. Ses mains etaient plus dures que le cuir qu'elle travaillait. A Vyndar, on disait que Thyra connaissait la source de montagne mieux que n'importe qui --- cette source mysterieuse dont l'eau rendait le cuir impermeable sans qu'on comprenne pourquoi.
+La vieille Thyra tannait les peaux depuis soixante ans. Ses mains étaient plus dures que le cuir qu'elle travaillait. À Vyndar, on disait que Thyra connaissait la source de montagne mieux que n'importe qui --- cette source mystérieuse dont l'eau rendait le cuir imperméable sans qu'on comprenne pourquoi.
 
-Un jour, un marchand d'Altram arriva avec une proposition : il paierait dix fois le prix habituel pour connaitre le secret de la source. Thyra refusa. Le marchand revint avec vingt fois le prix. Thyra refusa encore.
+Un jour, un marchand d'Altram arriva avec une proposition : il paierait dix fois le prix habituel pour connaître le secret de la source. Thyra refusa. Le marchand revint avec vingt fois le prix. Thyra refusa encore.
 
-La troisieme fois, le marchand ne vint pas avec de l'or. Il vint avec une menace. Si Vyndar ne partageait pas son secret, Altram cesserait d'acheter les fourrures du village.
+La troisième fois, le marchand ne vint pas avec de l'or. Il vint avec une menace. Si Vyndar ne partageait pas son secret, Altram cesserait d'acheter les fourrures du village.
 
-Thyra prit une peau fraiche, la trempa dans la source devant le marchand, et la lui tendit. "Emporte-la. Etudie-la. Trempe-la dans toutes les eaux que tu trouveras. Tu ne reproduiras pas ce que cette montagne fait."
+Thyra prit une peau fraîche, la trempa dans la source devant le marchand, et la lui tendit. "Emporte-là. Étudié-là. Trempe-là dans toutes les eaux que tu trouveras. Tu ne reproduiras pas ce que cette montagne fait."
 
-Le marchand emporta la peau. Ses meilleurs artisans l'analyserent pendant un an. Ils ne trouverent rien --- l'eau de la source, transportee ailleurs, perdait ses proprietes. Le secret n'etait pas dans la technique. Il etait dans le lieu.
+Le marchand emporta la peau. Ses meilleurs artisans l'analyserent pendant un an. Ils ne trouvèrent rien --- l'eau de la source, transportée ailleurs, perdait ses propriétés. Le secret n'était pas dans la technique. Il était dans le lieu.
 
 Le marchand revint acheter des fourrures au prix habituel. Thyra ne dit rien. Elle n'avait pas besoin de le faire.
 
-A sa mort, ses petits-enfants trouverent une note dans son atelier : "La montagne donne. On ne prend pas a la montagne. On accepte ce qu'elle offre."
+À sa mort, ses petits-enfants trouvèrent une note dans son atelier : "La montagne donne. On ne prend pas à la montagne. On accepte ce qu'elle offre."
 
 Les tanneurs de Vyndar ne comprennent toujours pas pourquoi la source fonctionne. Ils ont cesse de se poser la question.
 
 ---
 
-## Sylthor --- "Celui qui Etait Attendu"
+## Sylthor --- "Celui qui Était Attendu"
 
-Le chaman Eyrik avait cent deux ans quand il monta a Sylthor pour mourir. C'etait la tradition du clan du Givre --- les plus anciens chamans se retiraient dans l'ermitage ou le sol vibre et les oiseaux ne se posent jamais, et ils attendaient la fin.
+Le chaman Eyrik avait cent deux ans quand il monta à Sylthor pour mourir. C'était la tradition du clan du Givre --- les plus anciens chamans se retiraient dans l'ermitage où le sol vibre et les oiseaux ne se posent jamais, et ils attendaient la fin.
 
 Eyrik ne mourut pas tout de suite.
 
-Trois jours passerent. Une semaine. Un mois. Les villageois de Sylthor lui apportaient de la nourriture qu'il ne touchait presque pas. Il restait assis sur la pierre centrale, les yeux fermes, les mains posees a plat sur le sol qui vibrait sous ses paumes.
+Trois jours passèrent. Une semaine. Un mois. Les villageois de Sylthor lui apportaient de la nourriture qu'il ne touchait presque pas. Il restait assis sur la pierre centrale, les yeux fermés, les mains posées à plat sur le sol qui vibrait sous ses paumes.
 
-"Je ne crois pas qu'ils soient prets," dit-il un jour a un villageois qui lui demandait comment il allait.
+"Je ne crois pas qu'ils soient prêts," dit-il un jour à un villageois qui lui demandait comment il allait.
 
-"Qui n'est pas pret ?"
+"Qui n'est pas prêt ?"
 
-"Ceux dont je crois entendre la memoire."
+"Ceux dont je crois entendre la mémoire."
 
-Personne ne comprit. Eyrik ne developpa pas. Il continua a attendre, immobile, patient, comme un homme qui ecoute une voix qu'il est seul a percevoir.
+Personne ne comprit. Eyrik ne développa pas. Il continua à attendre, immobile, patient, comme un homme qui écoute une voix qu'il est seul à percevoir.
 
-Au bout de trois mois, par une nuit sans lune, le sol de Sylthor cessa de vibrer pour la premiere fois de memoire vivante. Le silence fut si soudain et si total que tout le village se reveilla.
+Au bout de trois mois, par une nuit sans lune, le sol de Sylthor cessa de vibrer pour la première fois de mémoire vivante. Le silence fut si soudain et si total que tout le village se réveilla.
 
-Eyrik souriait. Ses yeux etaient ouverts. Et il etait mort.
+Eyrik souriait. Ses yeux étaient ouverts. Et il était mort.
 
-Le sol recommenca a vibrer le lendemain matin. Plusieurs villageois trouverent que le ton avait change --- plus doux, plus regulier. D'autres dirent qu'ils n'entendaient aucune difference et que la rumeur du changement etait nee du bouleversement de la nuit. Aucun chaman n'a tranche.
+Le sol recommença à vibrer le lendemain matin. Plusieurs villageois trouvèrent que le ton avait changé --- plus doux, plus régulier. D'autres dirent qu'ils n'entendaient aucune différence et que la rumeur du changement était née du bouleversement de la nuit. Aucun chaman n'a tranché.
 
-Les chamans du Givre refusent d'expliquer ce qui s'est passe a Eyrik cette nuit-la. Selon eux, certaines morts s'inscrivent dans la memoire des lieux, et certains lieux se souviennent. Quelle part vient de la pierre, quelle part de ceux qui l'ecoutent --- ils ne disent pas. Les Foedus Animae qui visitent Sylthor lisent la veille d'Eyrik comme une de ces transmissions silencieuses que leur tradition appelle, depuis toujours, le Pacte des Ames.
+Les chamans du Givre refusent d'expliquer ce qui s'est passé à Eyrik cette nuit-là. Selon eux, certaines morts s'inscrivent dans la mémoire des lieux, et certains lieux se souviennent. Quelle part vient de la pierre, quelle part de ceux qui l'écoutent --- ils ne disent pas. Les Foedus Animae qui visitent Sylthor lisent la veille d'Eyrik comme une de ces transmissions silencieuses que leur tradition appelle, depuis toujours, le Pacte des Âmes.
 
 ---
 
