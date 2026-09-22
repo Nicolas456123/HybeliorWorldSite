@@ -26555,59 +26555,59 @@
       "type": "personne",
       "name": "Bren de Raenoris",
       "slug": null,
-      "summary": "Habitant de Raenoris (Lythar), 40 ans, ne d'un peuple sedentarise ; son Grand Parcours de trois mois lui fait mesurer ce que la sedentarisation a coute a ses ancetres nomades.",
+      "summary": "Habitant de Raenoris (Lythar), 40 ans, né d'un peuple sédentarisé ; son Grand Parcours de trois mois lui fait mesurer ce que la sédentarisation a coûté à ses ancêtres nomades.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0628",
       "type": "personne",
-      "name": "Sera la Negociatrice des Vents",
+      "name": "Sera la Négociatrice des Vents",
       "slug": null,
-      "summary": "Femme de Lytharil dont la fonction etait de negocier avec les tribus nomades traversant Lythar, echangeant des informations pendant trente ans sans statut officiel.",
+      "summary": "Femme de Lytharil dont la fonction était de négocier avec les tribus nomades traversant Lythar, échangeant des informations pendant trente ans sans statut officiel.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0629",
       "type": "personne",
       "name": "Aldren de Talmaris",
       "slug": null,
-      "summary": "Habitant de Talmaris (Lythar) qui, apres la mort de sa femme, ne vint pas au Lacher du Vent officiel mais monta seul a la colline ; sa demarche donna naissance au Lacher Personnel.",
+      "summary": "Habitant de Talmaris (Lythar) qui, après la mort de sa femme, ne vint pas au Lâcher du Vent officiel mais monta seul à la colline ; sa démarche donna naissance au Lâcher Personnel.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0630",
       "type": "personne",
       "name": "Kelya (aubergiste de Vyrnith)",
       "slug": null,
-      "summary": "Aubergiste de Vyrnith (tribu du Vent-Vert, Lythar) qui hebergea sept nuits un voyageur silencieux du Foedus Animae marchant au lieu de chevaucher.",
+      "summary": "Aubergiste de Vyrnith (tribu du Vent-Vert, Lythar) qui hébergea sept nuits un voyageur silencieux du Foedus Animae marchant au lieu de chevaucher.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0631",
       "type": "personne",
       "name": "Aldric d'Aetharis",
       "slug": null,
-      "summary": "Jeune cavalier de la tribu du Vent-Noir (Aetharis, Lythar), orphelin de pere, qui contesta la regle du silence sur les defaites ; devenu doyen, il la perpetua a son tour.",
+      "summary": "Jeune cavalier de la tribu du Vent-Noir (Aetharis, Lythar), orphelin de père, qui contesta la règle du silence sur les défaites ; devenu doyen, il la perpétua à son tour.",
       "body": null,
       "data": {
         "periode": {
@@ -26621,53 +26621,53 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0632",
       "type": "personne",
       "name": "Vorek (doyen d'Aetharis)",
       "slug": null,
-      "summary": "Doyen d'Aetharis (Lythar) qui refusa de raconter a Aldric la course perdue de son pere, disant qu'a Aetharis raconter une defaite c'est la rejouer.",
+      "summary": "Doyen d'Aetharis (Lythar) qui refusa de raconter à Aldric la course perdue de son père, disant qu'à Aetharis raconter une défaite c'est la rejouer.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0633",
       "type": "personne",
       "name": "Maelek (doyen de Sylorin)",
       "slug": null,
-      "summary": "Doyen eleveur de Sylorin (Lythar) qui envisagea d'ecarter le poulain 'Celui-qui-Refusa'.",
+      "summary": "Doyen éleveur de Sylorin (Lythar) qui envisagea d'écarter le poulain 'Celui-qui-Refusa'.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0634",
       "type": "personne",
-      "name": "Bryssa (palefreniere de Sylorin)",
+      "name": "Bryssa (palefrenière de Sylorin)",
       "slug": null,
-      "summary": "Palefreniere de quatre-vingts ans a Sylorin (Lythar) qui comprit que le poulain refusant de gagner etait 'un ouvreur' faisant gagner les autres ; morte sans transmettre sa methode.",
+      "summary": "Palefrenière de quatre-vingts ans à Sylorin (Lythar) qui comprit que le poulain refusant de gagner était 'un ouvreur' faisant gagner les autres ; morte sans transmettre sa méthode.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0635",
       "type": "personne",
-      "name": "Ervin (eclaireur de Faldris)",
+      "name": "Ervin (éclaireur de Faldris)",
       "slug": null,
-      "summary": "Eclaireur de Faldris (Lythar), candidat a l'expedition orientale de l'an 247 ; partit malgre le cercle de son frere mort grave sur la pierre, et revint quatre mois plus tard.",
+      "summary": "Éclaireur de Faldris (Lythar), candidat à l'expédition orientale de l'an 247 ; partit malgré le cercle de son frère mort gravé sur la pierre, et revint quatre mois plus tard.",
       "body": null,
       "data": {
         "periode": {
@@ -26681,14 +26681,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0636",
       "type": "personne",
-      "name": "Tovan (eclaireur de Faldris)",
+      "name": "Tovan (éclaireur de Faldris)",
       "slug": null,
-      "summary": "Frere aine d'Ervin, eclaireur de Faldris (Lythar) mort dans les steppes de Myralis, son nom grave et entoure d'un cercle sur la pierre des expeditions.",
+      "summary": "Frère aîné d'Ervin, éclaireur de Faldris (Lythar) mort dans les steppes de Myralis, son nom gravé et entouré d'un cercle sur la pierre des expéditions.",
       "body": null,
       "data": {
         "periode": {
@@ -26701,27 +26701,27 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0637",
       "type": "personne",
       "name": "Velka (doyenne de Faldris)",
       "slug": null,
-      "summary": "Doyenne de Faldris (Lythar) qui dit aux jeunes eclaireurs que les cercles graves servent a se rappeler qu'on choisit.",
+      "summary": "Doyenne de Faldris (Lythar) qui dit aux jeunes éclaireurs que les cercles gravés servent à se rappeler qu'on choisit.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0638",
       "type": "personne",
       "name": "Naelis",
       "slug": null,
-      "summary": "Enfant d'AckernaVille dont l'arbre-jumeau refusa sept fois de pousser ; l'Archidruide Sylvenna le declara 'plein' et non 'vide', et la foret reagissait a sa presence.",
+      "summary": "Enfant d'AckernaVille dont l'arbre-jumeau refusa sept fois de pousser ; l'Archidruide Sylvenna le déclara 'plein' et non 'vide', et la forêt réagissait à sa présence.",
       "body": null,
       "data": {
         "periode": {
@@ -26735,14 +26735,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0639",
       "type": "personne",
       "name": "Ilyana (herboriste d'AckernaVille)",
       "slug": null,
-      "summary": "Herboriste du quartier des Mousses a AckernaVille, mere de Naelis, refusant de voir en son fils un presage.",
+      "summary": "Herboriste du quartier des Mousses à AckernaVille, mère de Naelis, refusant de voir en son fils un présage.",
       "body": null,
       "data": {
         "periode": {
@@ -26756,33 +26756,33 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0640",
       "type": "personne",
       "name": "Thyra (druide d'AckernaVille)",
       "slug": null,
-      "summary": "Jeune druide du Cercle de l'Automne qui emit l'hypothese que Naelis etait l'arbre lui-meme et que les esprits cherchaient un nouveau vaisseau ; elle brula son journal.",
+      "summary": "Jeune druide du Cercle de l'Automne qui émit l'hypothèse que Naelis était l'arbre lui-même et que les esprits cherchaient un nouveau vaisseau ; elle brûla son journal.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0641",
       "type": "personne",
       "name": "Corelys",
       "slug": null,
-      "summary": "Observatrice du ciel a Ylisfar (Ackerna) qui, quand les oiseaux disparurent, les trouva rassembles en cercles autour d'un point d'ou montait le Chant des Profondeurs ; depuis, elle regarde le sol.",
+      "summary": "Observatrice du ciel à Ylisfar (Ackerna) qui, quand les oiseaux disparurent, les trouva rassemblés en cercles autour d'un point d'où montait le Chant des Profondeurs ; depuis, elle regarde le sol.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0642",
@@ -26802,33 +26802,33 @@
       "type": "personne",
       "name": "Selyne (tisseuse de Myrisora)",
       "slug": null,
-      "summary": "Meilleure tisseuse d'etoffes de mousse de Myrisora (Ackerna) qui perdit la vue en tissant, dit-on, avec son ame ; sa robe pour l'Archidruide Sylvenna brilla d'une lumiere vivante.",
+      "summary": "Meilleure tisseuse d'étoffes de mousse de Myrisora (Ackerna) qui perdit la vue en tissant, dit-on, avec son âme ; sa robe pour l'Archidruide Sylvenna brilla d'une lumière vivante.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0644",
       "type": "personne",
       "name": "Orvyn (sculpteur de Thyrana)",
       "slug": null,
-      "summary": "Vieux sculpteur de Thyrana (Ackerna) qui grava trois mille histoires dans l'ecorce et decouvrit un arbre dont les inscriptions changeaient, annoncant des morts a venir.",
+      "summary": "Vieux sculpteur de Thyrana (Ackerna) qui grava trois mille histoires dans l'écorce et découvrit un arbre dont les inscriptions changeaient, annonçant des morts à venir.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0645",
       "type": "personne",
       "name": "Therra Valdren",
       "slug": null,
-      "summary": "Habitante de Thyrana (Ackerna) de la famille Valdren, dont le nom grave sur l'ecorce passa de 'nee' a 'morte' avant qu'elle ne meure en tombant d'une passerelle.",
+      "summary": "Habitante de Thyrana (Ackerna) de la famille Valdren, dont le nom gravé sur l'écorce passa de 'née' à 'morte' avant qu'elle ne meure en tombant d'une passerelle.",
       "body": null,
       "data": {
         "periode": {
@@ -26841,14 +26841,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0646",
       "type": "personne",
       "name": "Alendra (herboriste de Vesperis)",
       "slug": null,
-      "summary": "Plus jeune maitresse-herboriste de l'histoire de Reckia, a Vesperis (Ackerna) ; atteinte de la Mousse Noire, elle but un remede qui ne sauvait que l'arbre-jumeau et mourut, laissant les 'Larmes d'Alendra'.",
+      "summary": "Plus jeune maîtresse-herboriste de l'histoire de Reckia, à Vesperis (Ackerna) ; atteinte de la Mousse Noire, elle but un remède qui ne sauvait que l'arbre-jumeau et mourut, laissant les 'Larmes d'Alendra'.",
       "body": null,
       "data": {
         "periode": {
@@ -26861,53 +26861,53 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0647",
       "type": "personne",
       "name": "Erdwin (druide d'Ostram)",
       "slug": null,
-      "summary": "Druide ordinaire d'Ostram (Ackerna) qui, apres une retraite de sept semaines dans les grottes, rapporta avoir entendu une presence dormant sous Ilthara ; ses yeux virerent au vert et les champignons poussaient en spirales autour de lui.",
+      "summary": "Druide ordinaire d'Ostram (Ackerna) qui, après une retraite de sept semaines dans les grottes, rapporta avoir entendu une présence dormant sous Ilthara ; ses yeux virèrent au vert et les champignons poussaient en spirales autour de lui.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0648",
       "type": "personne",
       "name": "Aldara (de Gnosias)",
       "slug": null,
-      "summary": "Habitante de Gnosias (Ackerna) muette par voeu depuis vingt ans, premiere a entendre le chant souterrain ; elle prononca un mot d'une langue inconnue et parle desormais la langue du chant des profondeurs.",
+      "summary": "Habitante de Gnosias (Ackerna) muette par vœu depuis vingt ans, première à entendre le chant souterrain ; elle prononça un mot d'une langue inconnue et parle désormais la langue du chant des profondeurs.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0649",
       "type": "personne",
       "name": "Fenrik (marchand de Bybias)",
       "slug": null,
-      "summary": "Marchand etranger originaire de Gryndor, seul autorise a resider a Bybias (Ackerna) ; accuse a tort d'abattage d'arbres sacres, banni, il disparut dans les Marecages de Noyrath avant d'etre disculpe.",
+      "summary": "Marchand étranger originaire de Gryndor, seul autorisé à résider à Bybias (Ackerna) ; accusé à tort d'abattage d'arbres sacrés, banni, il disparut dans les Marécages de Noyrath avant d'être disculpé.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0650",
       "type": "personne",
       "name": "Kaelan (luthier de Merias)",
       "slug": null,
-      "summary": "Fabricant de flutes de sureau a Merias (Ackerna) dont la musique faisait pleurer les esprits ; il joua sept jours pour guerir sa fille Lyra et en perdit a jamais l'usage musical.",
+      "summary": "Fabricant de flûtes de sureau à Merias (Ackerna) dont la musique faisait pleurer les esprits ; il joua sept jours pour guérir sa fille Lyra et en perdit à jamais l'usage musical.",
       "body": null,
       "data": {
         "periode": {
@@ -26921,14 +26921,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0651",
       "type": "personne",
       "name": "Lyra (fille de Kaelan)",
       "slug": null,
-      "summary": "Fille de Kaelan, guerie a Merias (Ackerna) par sept jours de flute ; devenue la meilleure flutiste du village, on entend parfois dans son jeu une note qui n'est pas de sa flute.",
+      "summary": "Fille de Kaelan, guérie à Merias (Ackerna) par sept jours de flûte ; devenue la meilleure flûtiste du village, on entend parfois dans son jeu une note qui n'est pas de sa flûte.",
       "body": null,
       "data": {
         "periode": {
@@ -26942,40 +26942,40 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0652",
       "type": "personne",
       "name": "Maelor le sourd",
       "slug": null,
-      "summary": "Luthier de Merias (Ackerna) repute pour son genie, mentionne comme superieur a Kaelan par la technique.",
+      "summary": "Luthier de Merias (Ackerna) réputé pour son génie, mentionné comme supérieur à Kaelan par la technique.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0653",
       "type": "personne",
       "name": "Therra aux doigts d'argent",
       "slug": null,
-      "summary": "Luthiere de Merias (Ackerna) reputee pour sa precision ; a ne pas confondre avec Therra Valdren de Thyrana.",
+      "summary": "Luthière de Merias (Ackerna) réputée pour sa précision ; à ne pas confondre avec Therra Valdren de Thyrana.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0654",
       "type": "personne",
       "name": "Paeryn (vigneron d'Ebrios)",
       "slug": null,
-      "summary": "Vieux vigneron d'Ebrios (Ackerna) qui gouta un vin de seve tres ancien et revit la fondatrice sans nom du premier Chene-Mere prononcant 'Le prix sera paye. Par ceux qui viendront apres.'",
+      "summary": "Vieux vigneron d'Ebrios (Ackerna) qui goûta un vin de sève très ancien et revit la fondatrice sans nom du premier Chêne-Mère prononçant 'Le prix sera payé. Par ceux qui viendront après.'",
       "body": null,
       "data": {
         "periode": {
@@ -26988,53 +26988,53 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0655",
       "type": "personne",
-      "name": "Lyanna (bergere de Drellesis)",
+      "name": "Lyanna (bergère de Drellesis)",
       "slug": null,
-      "summary": "Bergere de cerfs de Drellesis (Ackerna) qui veilla le grand cerf mourant Veylan ; elle voit desormais la foret a travers les yeux des cerfs et apercoit les ombres venant des Marecages de Noyrath.",
+      "summary": "Bergère de cerfs de Drellesis (Ackerna) qui veilla le grand cerf mourant Veylan ; elle voit désormais la forêt à travers les yeux des cerfs et aperçoit les ombres venant des Marécages de Noyrath.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0656",
       "type": "personne",
-      "name": "l'Areniere",
+      "name": "l'Arénière",
       "slug": null,
-      "summary": "Combattante de vrai nom inconnu qui domina le tournoi de l'Arene des Cendres a Ilyndar (Pyrtara) pour reveler le detournement des rations ayant tue son fils et celui du general Tharvon ; son intervention entraina une enquete.",
+      "summary": "Combattante de vrai nom inconnu qui domina le tournoi de l'Arène des Cendres à Ilyndar (Pyrtara) pour révéler le détournement des rations ayant tué son fils et celui du général Tharvon ; son intervention entraîna une enquête.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0657",
       "type": "personne",
-      "name": "Tharvon (general de Pyrtara)",
+      "name": "Tharvon (général de Pyrtara)",
       "slug": null,
-      "summary": "General colosse de Pyrtara, survivant de deux eruptions, vaincu dans l'arene d'Ilyndar par l'Areniere ; son fils etait mort de faim a Keldros.",
+      "summary": "Général colosse de Pyrtara, survivant de deux éruptions, vaincu dans l'arène d'Ilyndar par l'Arénière ; son fils était mort de faim à Keldros.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0658",
       "type": "personne",
       "name": "Korvan (forgeron de Thyndor)",
       "slug": null,
-      "summary": "Meilleur Forgeron de Guerre de Thyndor (Pyrtara) ; charge par la generale Sylthra de forger cinq cents lames secretes, il y integra des defauts invisibles et fut assassine, sa denonciation gravee sur une plaque d'obsidienne cachee.",
+      "summary": "Meilleur Forgeron de Guerre de Thyndor (Pyrtara) ; chargé par la générale Sylthra de forger cinq cents lames secrètes, il y intégra des défauts invisibles et fut assassiné, sa dénonciation gravée sur une plaque d'obsidienne cachée.",
       "body": null,
       "data": {
         "periode": {
@@ -27047,66 +27047,66 @@
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0659",
       "type": "personne",
       "name": "Selva (mineuse de Rydelith)",
       "slug": null,
-      "summary": "Mineuse de quinze ans a Rydelith (Pyrtara) qui, piegee par un eboulement, chanta la chanson de la mine pendant dix-huit heures et sauva quatre camarades ; elle ajouta le deux cent troisieme couplet.",
+      "summary": "Mineuse de quinze ans à Rydelith (Pyrtara) qui, piégée par un éboulement, chanta la chanson de la mine pendant dix-huit heures et sauva quatre camarades ; elle ajouta le deux cent troisième couplet.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0660",
       "type": "personne",
       "name": "Dreg (mineur de Rydelith)",
       "slug": null,
-      "summary": "Vieux mineur de Rydelith (Pyrtara) piege avec Selva lors de l'effondrement du tunnel sept.",
+      "summary": "Vieux mineur de Rydelith (Pyrtara) piégé avec Selva lors de l'effondrement du tunnel sept.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0661",
       "type": "personne",
       "name": "Melris (mineuse de Rydelith)",
       "slug": null,
-      "summary": "Jeune mineuse de Rydelith (Pyrtara) piegee avec Selva lors de l'effondrement du tunnel sept.",
+      "summary": "Jeune mineuse de Rydelith (Pyrtara) piégée avec Selva lors de l'effondrement du tunnel sept.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0662",
       "type": "personne",
       "name": "Vyren (caporal de Taldorn)",
       "slug": null,
-      "summary": "Caporal de Pyrtara qui servit six rotations a Taldorn pour observer une lumiere bleue pulsante au nord ; il calcula qu'elle accelerait et atteindrait Taldorn dans deux ans, non onze.",
+      "summary": "Caporal de Pyrtara qui servit six rotations à Taldorn pour observer une lumière bleue pulsante au nord ; il calcula qu'elle accélérait et atteindrait Taldorn dans deux ans, non onze.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0663",
       "type": "personne",
       "name": "Thelan (docteur de Valdyn)",
       "slug": null,
-      "summary": "Chirurgien militaire de Valdyn (Pyrtara) ayant sauve des milliers de vies comptees en cailloux de lave ; atteint de la maladie des mineurs, il forma son assistante Meryth et se retira.",
+      "summary": "Chirurgien militaire de Valdyn (Pyrtara) ayant sauvé des milliers de vies comptées en cailloux de lave ; atteint de la maladie des mineurs, il forma son assistante Meryth et se retira.",
       "body": null,
       "data": {
         "periode": {
@@ -27119,27 +27119,27 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0664",
       "type": "personne",
       "name": "Meryth (assistante de Thelan)",
       "slug": null,
-      "summary": "Assistante du docteur Thelan a Valdyn (Pyrtara) ; elle herita du bocal de cailloux et continua le decompte des vies sauvees.",
+      "summary": "Assistante du docteur Thelan à Valdyn (Pyrtara) ; elle hérita du bocal de cailloux et continua le décompte des vies sauvées.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0665",
       "type": "personne",
-      "name": "Darvin (veteran de Theralor)",
+      "name": "Darvin (vétéran de Theralor)",
       "slug": null,
-      "summary": "Veteran de Pyrtara ayant perdu ses deux jambes a l'eruption du Mont Kethar ; il cultiva a Theralor un jardin de fleurs venues d'ailleurs, defendu par les veterans mutiles.",
+      "summary": "Vétéran de Pyrtara ayant perdu ses deux jambes à l'éruption du Mont Kethar ; il cultiva à Theralor un jardin de fleurs venues d'ailleurs, défendu par les vétérans mutilés.",
       "body": null,
       "data": {
         "periode": {
@@ -27152,20 +27152,20 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0666",
       "type": "personne",
       "name": "Maelys (centurion de Keldros)",
       "slug": null,
-      "summary": "Recrue de Keldros (Pyrtara) qui refusa d'isoler un camarade faible et fut mise a l'isolement trois fois ; son peloton la rejoignit et l'instructeur Dreyvar reconnut la lecon. Devenue Centurion a vingt-cinq ans.",
+      "summary": "Recrue de Keldros (Pyrtara) qui refusa d'isoler un camarade faible et fut mise à l'isolement trois fois ; son peloton la rejoignit et l'instructeur Dreyvar reconnut la leçon. Devenue Centurion à vingt-cinq ans.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0667",
@@ -27185,59 +27185,59 @@
       "type": "personne",
       "name": "Ilven (recrue de Keldros)",
       "slug": null,
-      "summary": "Garcon maigre et asthmatique, recrue de Keldros (Pyrtara), que Maelys refusa d'isoler.",
+      "summary": "Garçon maigre et asthmatique, recrue de Keldros (Pyrtara), que Maelys refusa d'isoler.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0669",
       "type": "personne",
       "name": "Veyth (instructeur de Mendris)",
       "slug": null,
-      "summary": "Ancien Guetteur de Feu civil de Vyldor defigure par un feu apres avoir predit une eruption que le Haut Commandant refusa d'evacuer ; devenu instructeur a Mendris (Pyrtara), il apprenait a ses eleves a douter des ordres.",
+      "summary": "Ancien Guetteur de Feu civil de Vyldor défiguré par un feu après avoir prédit une éruption que le Haut Commandant refusa d'évacuer ; devenu instructeur à Mendris (Pyrtara), il apprenait à ses élèves à douter des ordres.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0670",
       "type": "personne",
       "name": "Naeris (Guetteuse de Feu de Vyldor)",
       "slug": null,
-      "summary": "Plus jeune Guetteuse de Feu de Vyldor (Pyrtara), qui detecta une pulsation reguliere toutes les quatre-vingt-sept secondes au coeur du Mont Pyralis, secret transmis de generation en generation.",
+      "summary": "Plus jeune Guetteuse de Feu de Vyldor (Pyrtara), qui détecta une pulsation régulière toutes les quatre-vingt-sept secondes au cœur du Mont Pyralis, secret transmis de génération en génération.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0671",
       "type": "personne",
-      "name": "Aldran (maitre-guetteur de Vyldor)",
+      "name": "Aldran (maître-guetteur de Vyldor)",
       "slug": null,
-      "summary": "Maitre-guetteur de Vyldor (Pyrtara) qui revela a Naeris la salle scellee ou chaque generation garde le secret de la pulsation du Mont Pyralis.",
+      "summary": "Maître-guetteur de Vyldor (Pyrtara) qui révéla à Naeris la salle scellée où chaque génération garde le secret de la pulsation du Mont Pyralis.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0672",
       "type": "personne",
       "name": "Renna de Velorn",
       "slug": null,
-      "summary": "Fille de Velorn (Pyrtara) commencant l'entrainement a six ans apres la mort de son pere ; sa mere Thyssa lui chantait une berceuse venue de Lythar. Devenue sergent, elle la chanta a sa propre fille.",
+      "summary": "Fille de Velorn (Pyrtara) commençant l'entraînement à six ans après la mort de son père ; sa mère Thyssa lui chantait une berceuse venue de Lythar. Devenue sergent, elle la chanta à sa propre fille.",
       "body": null,
       "data": {
         "periode": {
@@ -27251,14 +27251,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0673",
       "type": "personne",
       "name": "Thyssa (sergent de Velorn)",
       "slug": null,
-      "summary": "Sergent de la garnison de Velorn (Pyrtara), 'femme de fer', mere de Renna ; elle chantait en secret une berceuse de Lythar, pays de la mere de son mari.",
+      "summary": "Sergent de la garnison de Velorn (Pyrtara), 'femme de fer', mère de Renna ; elle chantait en secret une berceuse de Lythar, pays de la mère de son mari.",
       "body": null,
       "data": {
         "periode": {
@@ -27272,27 +27272,27 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0674",
       "type": "personne",
       "name": "Galdrin (agronome de Hetholin)",
       "slug": null,
-      "summary": "Agronome de Hetholin (Pyrtara) qui, temoin du pouvoir des Enfants des Cendres sur la terre volcanique de Kethorin, les cacha dans ses granges pour les proteger.",
+      "summary": "Agronome de Hetholin (Pyrtara) qui, témoin du pouvoir des Enfants des Cendres sur la terre volcanique de Kethorin, les cacha dans ses granges pour les protéger.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0675",
       "type": "personne",
       "name": "Thyssa (cultivatrice de Kyldar)",
       "slug": null,
-      "summary": "Vieille cultivatrice de poivre de cendre a Kyldar (Pyrtara) pendant soixante ans ; perdant la memoire mais jamais le geste du poivre, sa derniere recolte condensait toute sa vie en saveur.",
+      "summary": "Vieille cultivatrice de poivre de cendre à Kyldar (Pyrtara) pendant soixante ans ; perdant la mémoire mais jamais le geste du poivre, sa dernière récolte condensait toute sa vie en saveur.",
       "body": null,
       "data": {
         "periode": {
@@ -27305,27 +27305,27 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0676",
       "type": "personne",
       "name": "Galden (de Kyldar)",
       "slug": null,
-      "summary": "Voisin qui veillait sur la vieille Thyssa a Kyldar (Pyrtara) et gouta le grain de sa derniere recolte.",
+      "summary": "Voisin qui veillait sur la vieille Thyssa à Kyldar (Pyrtara) et goûta le grain de sa dernière récolte.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0677",
       "type": "personne",
       "name": "Aldren de Nymiris",
       "slug": null,
-      "summary": "Jeune soldat-colon de Pyrtara qui planta la premiere graine dans la coulee de Nymiris et y fit pousser la vie apres quarante-trois jours ; mort a cinquante ans, use par le soufre.",
+      "summary": "Jeune soldat-colon de Pyrtara qui planta la première graine dans la coulée de Nymiris et y fit pousser la vie après quarante-trois jours ; mort à cinquante ans, usé par le soufre.",
       "body": null,
       "data": {
         "periode": {
@@ -27338,14 +27338,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0678",
       "type": "personne",
       "name": "Kalia (de Nymiris)",
       "slug": null,
-      "summary": "Archere devenue fermiere, compagne d'Aldren a Nymiris (Pyrtara) ; elle grava sa tombe au milieu du premier champ.",
+      "summary": "Archère devenue fermière, compagne d'Aldren à Nymiris (Pyrtara) ; elle grava sa tombe au milieu du premier champ.",
       "body": null,
       "data": {
         "periode": {
@@ -27359,92 +27359,92 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0679",
       "type": "personne",
       "name": "Theyra (de Brystalis)",
       "slug": null,
-      "summary": "Habitante de Brystalis (Vytharia) reveillee avec une vraie cicatrice a la gorge et le souvenir d'etre morte ; l'une de sept personnes portant des blessures correspondant a des morts dont elles se souviennent.",
+      "summary": "Habitante de Brystalis (Vytharia) réveillée avec une vraie cicatrice à la gorge et le souvenir d'être morte ; l'une de sept personnes portant des blessures correspondant à des morts dont elles se souviennent.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0680",
       "type": "personne",
       "name": "Aldris (Veilleur de Brystalis)",
       "slug": null,
-      "summary": "Veilleur de Brystalis (Vytharia) qui confirma que la cicatrice de Theyra etait un vrai tissu cicatriciel et non une illusion.",
+      "summary": "Veilleur de Brystalis (Vytharia) qui confirma que la cicatrice de Theyra était un vrai tissu cicatriciel et non une illusion.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0681",
       "type": "personne",
       "name": "Nyveris (Tisseur de Voile)",
       "slug": null,
-      "summary": "Tisseur de Voile de tradition Noctari qui, a Brystalis, proposa que le Voile use laisse passer des vies venues d'autres versions du monde ; les ecoles Somnium Vigil offrent une lecture differente.",
+      "summary": "Tisseur de Voile de tradition Noctari qui, à Brystalis, proposa que le Voile usé laisse passer des vies venues d'autres versions du monde ; les écoles Somnium Vigil offrent une lecture différente.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0682",
       "type": "personne",
       "name": "Fenril (jardinier de Nectoria)",
       "slug": null,
-      "summary": "Meilleur jardinier de Nectoria (Vytharia), gardien terrestre de jardins d'illusion poussant sur une terre reellement morte ; il deposait chaque matin une goutte d'eau la ou une vraie marguerite avait pousse.",
+      "summary": "Meilleur jardinier de Nectoria (Vytharia), gardien terrestre de jardins d'illusion poussant sur une terre réellement morte ; il déposait chaque matin une goutte d'eau là où une vraie marguerite avait poussé.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0683",
       "type": "personne",
       "name": "Lyssa (botaniste de Gryndor)",
       "slug": null,
-      "summary": "Botaniste de Gryndor en echange academique a Nectoria (Vytharia) ; elle mesura que le sol y etait mort et fit pousser une unique vraie fleur avant de repartir.",
+      "summary": "Botaniste de Gryndor en échange académique à Nectoria (Vytharia) ; elle mesura que le sol y était mort et fit pousser une unique vraie fleur avant de repartir.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0684",
       "type": "personne",
       "name": "Maevin (cartographe de Haldria)",
       "slug": null,
-      "summary": "Cartographe de Haldria envoye par le roi Vaeldros III cartographier Vytharia ; il ignora l'avertissement des trois jours a Zylor, perdit memoire et volonte, et fut sauve par un Veilleur.",
+      "summary": "Cartographe de Haldria envoyé par le roi Vaeldros III cartographier Vytharia ; il ignora l'avertissement des trois jours à Zylor, perdit mémoire et volonté, et fut sauvé par un Veilleur.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0685",
       "type": "personne",
       "name": "Aldris (Veilleur de Velthorin)",
       "slug": null,
-      "summary": "Meilleur Veilleur de sa generation, forme a Velthorin (Vytharia) ; les demi-verites dites pour proteger sa compagne Nyssa emousserent sa vision jusqu'a la cecite, et il partit vivre dans les illusions.",
+      "summary": "Meilleur Veilleur de sa génération, formé à Velthorin (Vytharia) ; les demi-vérités dites pour protéger sa compagne Nyssa émoussèrent sa vision jusqu'à la cécité, et il partit vivre dans les illusions.",
       "body": null,
       "data": {
         "periode": {
@@ -27458,14 +27458,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0686",
       "type": "personne",
-      "name": "Nyssa (Reveuse Lucide)",
+      "name": "Nyssa (Rêveuse Lucide)",
       "slug": null,
-      "summary": "Reveuse Lucide de Velthorin (Vytharia), compagne du Veilleur Aldris, vivant dans un monde de beaute fabriquee.",
+      "summary": "Rêveuse Lucide de Velthorin (Vytharia), compagne du Veilleur Aldris, vivant dans un monde de beauté fabriquée.",
       "body": null,
       "data": {
         "periode": {
@@ -27479,105 +27479,105 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0687",
       "type": "personne",
       "name": "l'Artisan de Zaralith",
       "slug": null,
-      "summary": "Fabricant de cauchemars sur mesure vivant dans les grottes de Zaralith (Vytharia) ; il pretend fabriquer ses cauchemars pour prevenir un futur ou le Voile se dechire, lecture qu'aucun Veilleur n'a pu trancher.",
+      "summary": "Fabricant de cauchemars sur mesure vivant dans les grottes de Zaralith (Vytharia) ; il prétend fabriquer ses cauchemars pour prévenir un futur où le Voile se déchire, lecture qu'aucun Veilleur n'a pu trancher.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0688",
       "type": "personne",
       "name": "Thyria (Veilleuse de Zaralith)",
       "slug": null,
-      "summary": "Veilleuse qui traqua l'Artisan de Zaralith (Vytharia) a travers les couches oniriques ; ebranlee par son cauchemar, elle repartit sans l'arreter et ne fit jamais son rapport.",
+      "summary": "Veilleuse qui traqua l'Artisan de Zaralith (Vytharia) à travers les couches oniriques ; ébranlée par son cauchemar, elle repartit sans l'arrêter et ne fit jamais son rapport.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0689",
       "type": "personne",
       "name": "Kyrellis (artisane de Mythoria)",
       "slug": null,
-      "summary": "Artisane de miroirs oniriques a Mythoria (Vytharia) qui fabriqua par accident un miroir de verite indestructible ; elle n'en revela jamais ce qu'elle y vit.",
+      "summary": "Artisane de miroirs oniriques à Mythoria (Vytharia) qui fabriqua par accident un miroir de vérité indestructible ; elle n'en révéla jamais ce qu'elle y vit.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0690",
       "type": "personne",
-      "name": "Yselle (recolteuse de brume de Kaloria)",
+      "name": "Yselle (récolteuse de brume de Kaloria)",
       "slug": null,
-      "summary": "Recolteuse de brume du Voile a Kaloria (Vytharia) tentee par la Soif de Brume qui a emporte l'esprit de sa mere ; elle renonca a la recolte et devint tisseuse.",
+      "summary": "Récolteuse de brume du Voile à Kaloria (Vytharia) tentée par la Soif de Brume qui a emporté l'esprit de sa mère ; elle renonça à la récolte et devint tisseuse.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0691",
       "type": "personne",
-      "name": "Veldra (mere d'Yselle)",
+      "name": "Veldra (mère d'Yselle)",
       "slug": null,
-      "summary": "Mere d'Yselle a Kaloria (Vytharia), emportee par la Soif de Brume vingt ans plus tot ; son corps vit encore, vide, l'esprit parti de l'autre cote du Voile.",
+      "summary": "Mère d'Yselle à Kaloria (Vytharia), emportée par la Soif de Brume vingt ans plus tôt ; son corps vit encore, vide, l'esprit parti de l'autre côté du Voile.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0692",
       "type": "personne",
       "name": "Reld (de Wyndor)",
       "slug": null,
-      "summary": "Habitant de Wyndor (Warenthor) parti commercer au nord pendant quinze ans ; revenu enterrer son pere, il reapprit la jungle et resta, avec sa femme et ses enfants.",
+      "summary": "Habitant de Wyndor (Warenthor) parti commercer au nord pendant quinze ans ; revenu enterrer son père, il réapprit la jungle et resta, avec sa femme et ses enfants.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0693",
       "type": "personne",
-      "name": "Lyra (guerisseuse de Canavel)",
+      "name": "Lyra (guérisseuse de Canavel)",
       "slug": null,
-      "summary": "Guerisseuse de Canavel (Warenthor) qui comptait ses prelevements de plantes et instaura des zones en rotation ; sa methode est enseignee comme 'la comptabilite verte'.",
+      "summary": "Guérisseuse de Canavel (Warenthor) qui comptait ses prélèvements de plantes et instaura des zones en rotation ; sa méthode est enseignée comme 'la comptabilité verte'.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0694",
       "type": "personne",
       "name": "Yeryn (de Fylorin)",
       "slug": null,
-      "summary": "Enfant de douze ans de Fylorin (Warenthor) qui obtint de son grand-pere Veld le recit de la Chasse Maudite ; devenu chasseur, il comprit pourquoi on ne raconte pas.",
+      "summary": "Enfant de douze ans de Fylorin (Warenthor) qui obtint de son grand-père Veld le récit de la Chasse Maudite ; devenu chasseur, il comprit pourquoi on ne raconte pas.",
       "body": null,
       "data": {
         "periode": {
@@ -27591,14 +27591,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0695",
       "type": "personne",
       "name": "Veld (chasseur de Fylorin)",
       "slug": null,
-      "summary": "Chasseur survivant de la Chasse Maudite de Fylorin (Warenthor), 74 ans ; il rompit un silence de cinquante ans pour raconter a son petit-fils Yeryn le massacre de cerfs qui vida la vallee cinq ans durant.",
+      "summary": "Chasseur survivant de la Chasse Maudite de Fylorin (Warenthor), 74 ans ; il rompit un silence de cinquante ans pour raconter à son petit-fils Yeryn le massacre de cerfs qui vida la vallée cinq ans durant.",
       "body": null,
       "data": {
         "periode": {
@@ -27612,118 +27612,118 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0696",
       "type": "personne",
       "name": "Maela (doyenne de Galdris)",
       "slug": null,
-      "summary": "Doyenne guerisseuse de Galdris (Warenthor) enseignant que l'apprentissage de vingt ans sert surtout a apprendre a douter et a reconnaitre qu'on s'est trompe.",
+      "summary": "Doyenne guérisseuse de Galdris (Warenthor) enseignant que l'apprentissage de vingt ans sert surtout à apprendre à douter et à reconnaître qu'on s'est trompé.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0697",
       "type": "personne",
       "name": "Therin (chaman de Sorothar)",
       "slug": null,
-      "summary": "Jeune chamane de Sorothar (Warenthor) qui decouvrit le registre secret comptant le declin de la floraison du Premier Ancetre ; devenu chaman en chef, il y inscrivit la question 'Et si l'Arbre voulait reposer ?'",
+      "summary": "Jeune chamane de Sorothar (Warenthor) qui découvrit le registre secret comptant le déclin de la floraison du Premier Ancêtre ; devenu chaman en chef, il y inscrivit la question 'Et si l'Arbre voulait reposer ?'",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0698",
       "type": "personne",
       "name": "Veldon (chaman de Sorothar)",
       "slug": null,
-      "summary": "Chaman en chef de Sorothar (Warenthor) qui savait le Premier Ancetre mourant mais refusait de le dire ou de couper un ancetre, faute de savoir comment.",
+      "summary": "Chaman en chef de Sorothar (Warenthor) qui savait le Premier Ancêtre mourant mais refusait de le dire ou de couper un ancêtre, faute de savoir comment.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0699",
       "type": "personne",
       "name": "Aldra (tatoueuse de Thyrath)",
       "slug": null,
-      "summary": "Meilleure tatoueuse-chamane de Thyrath (Warenthor) ; un tatouage reste immobile chez un pelerin lytharien lui fit soupconner que la grammaire emotionnelle des porteurs s'amincit avec l'age.",
+      "summary": "Meilleure tatoueuse-chamane de Thyrath (Warenthor) ; un tatouage resté immobile chez un pèlerin lytharien lui fit soupçonner que la grammaire émotionnelle des porteurs s'amincit avec l'âge.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0700",
       "type": "personne",
       "name": "Mylene (apprentie de Thyrath)",
       "slug": null,
-      "summary": "Apprentie d'Aldra a Thyrath (Warenthor) qui herita de son carnet sans savoir quoi en faire.",
+      "summary": "Apprentie d'Aldra à Thyrath (Warenthor) qui hérita de son carnet sans savoir quoi en faire.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0701",
       "type": "personne",
       "name": "Mercy (d'Obryalis)",
       "slug": null,
-      "summary": "Enfant de onze ans d'Obryalis (Drakora) qui rechauffa de son corps un oeuf de dragon abandonne et gele ; elle fut Liee a un dragonnet blanc, inedit dans les memoires de Drakora.",
+      "summary": "Enfant de onze ans d'Obryalis (Drakora) qui réchauffa de son corps un œuf de dragon abandonné et gelé ; elle fut Liée à un dragonnet blanc, inédit dans les mémoires de Drakora.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0702",
       "type": "personne",
       "name": "Thalvor (forgeron de Sylvora)",
       "slug": null,
-      "summary": "Forgeron draconique de Sylvora (Drakora) dont le dragon allie Brenvax cessa de cracher par deuil ; decouvrant le nid vole du dragon, il abandonna sa forge pour traquer les voleurs d'oeufs.",
+      "summary": "Forgeron draconique de Sylvora (Drakora) dont le dragon allié Brenvax cessa de cracher par deuil ; découvrant le nid volé du dragon, il abandonna sa forge pour traquer les voleurs d'œufs.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0703",
       "type": "personne",
       "name": "Nella (d'Elyndor)",
       "slug": null,
-      "summary": "Native de la foret ignifuge d'Elyndor (Drakora) ; quand des flammes blanc-bleu venues de la terre brulerent les arbres, elle trouva au coeur un arbre battant comme un coeur de dragon et le veilla.",
+      "summary": "Native de la forêt ignifuge d'Elyndor (Drakora) ; quand des flammes blanc-bleu venues de la terre brûlèrent les arbres, elle trouva au cœur un arbre battant comme un cœur de dragon et le veilla.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0704",
       "type": "personne",
       "name": "Revyn (aspirant de Xelthor)",
       "slug": null,
-      "summary": "Aspirant de Xelthor (Drakora) ayant echoue trois fois a l'Epreuve du Souffle ; il tint debout sous les flammes d'une dragonne sauvage en deuil, brule au troisieme degre, et refusa le titre de Brule.",
+      "summary": "Aspirant de Xelthor (Drakora) ayant échoué trois fois à l'Épreuve du Souffle ; il tint debout sous les flammes d'une dragonne sauvage en deuil, brûlé au troisième degré, et refusa le titre de Brûlé.",
       "body": null,
       "data": {
         "periode": {
@@ -27737,14 +27737,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0705",
       "type": "personne",
-      "name": "Valdren (Brule de Xelthor)",
+      "name": "Valdren (Brûlé de Xelthor)",
       "slug": null,
-      "summary": "Frere aine de Revyn, Brule celebre de Xelthor (Drakora) mort au combat.",
+      "summary": "Frère aîné de Revyn, Brûlé célèbre de Xelthor (Drakora) mort au combat.",
       "body": null,
       "data": {
         "periode": {
@@ -27758,40 +27758,40 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0706",
       "type": "personne",
       "name": "Aldrak (instructeur de Xelthor)",
       "slug": null,
-      "summary": "Vieux Brule couvert de cicatrices, instructeur en chef de Xelthor (Drakora), qui accorda a Revyn une quatrieme chance face a un dragon sauvage.",
+      "summary": "Vieux Brûlé couvert de cicatrices, instructeur en chef de Xelthor (Drakora), qui accorda à Revyn une quatrième chance face à un dragon sauvage.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0707",
       "type": "personne",
       "name": "Thyra (chasseuse de Felvoria)",
       "slug": null,
-      "summary": "Chasseuse de Felvoria (Drakora) ayant tue soixante-dix-sept wyvernes ; devant la soixante-dix-huitieme, mourante et protegeant ses petits, elle baissa son arc, recueillit les wyvernons et ne chassa plus.",
+      "summary": "Chasseuse de Felvoria (Drakora) ayant tué soixante-dix-sept wyvernes ; devant la soixante-dix-huitième, mourante et protégeant ses petits, elle baissa son arc, recueillit les wyvernons et ne chassa plus.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0708",
       "type": "personne",
-      "name": "Aldren (Brule de Lunaris)",
+      "name": "Aldren (Brûlé de Lunaris)",
       "slug": null,
-      "summary": "Vieux Brule venu mourir en paix dans le canyon de Lunaris (Drakora) ; ses reves de l'oeil de Vey'thar le Dragon Dormant, cherchant a etre pardonne, lui oterent le desir de la paix.",
+      "summary": "Vieux Brûlé venu mourir en paix dans le canyon de Lunaris (Drakora) ; ses rêves de l'œil de Vey'thar le Dragon Dormant, cherchant à être pardonné, lui ôtèrent le désir de la paix.",
       "body": null,
       "data": {
         "periode": {
@@ -27805,53 +27805,53 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0709",
       "type": "personne",
       "name": "Bern (fermier de Feylorn)",
       "slug": null,
-      "summary": "Fermier de Feylorn (Sylthara) dont un champ ne dormait jamais ; il apprit a cultiver selon les cycles naturels du champ plutot qu'a les combattre.",
+      "summary": "Fermier de Feylorn (Sylthara) dont un champ ne dormait jamais ; il apprit à cultiver selon les cycles naturels du champ plutôt qu'à les combattre.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0710",
       "type": "personne",
-      "name": "Kela (medecin des recoltes d'Eldrys)",
+      "name": "Kela (médecin des récoltes d'Eldrys)",
       "slug": null,
-      "summary": "Femme d'Eldrys (Sylthara) qui soignait les champs en ecoutant la terre ; ses trois apprentis fonderent trois traditions rivales de 'medecine des champs'.",
+      "summary": "Femme d'Eldrys (Sylthara) qui soignait les champs en écoutant la terre ; ses trois apprentis fondèrent trois traditions rivales de 'médecine des champs'.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0711",
       "type": "personne",
       "name": "Maela (de Fenoria)",
       "slug": null,
-      "summary": "Vieille de Fenoria (Sylthara) morte a 93 ans ; elle disait qu'une des Trois Tombes d'Eldarion contenait un enfant mort parce qu'on avait garde le grain a planter plutot que le manger.",
+      "summary": "Vieille de Fenoria (Sylthara) morte à 93 ans ; elle disait qu'une des Trois Tombes d'Eldarion contenait un enfant mort parce qu'on avait gardé le grain à planter plutôt que le manger.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0712",
       "type": "personne",
       "name": "Shaela (vigneronne d'Ydralis)",
       "slug": null,
-      "summary": "Vigneronne d'Ydralis (Sylthara) qui, il y a soixante ans, laissa murir les pommes ternes d'un rameau unique et pleura en retrouvant le gout de l'ancien verger disparu.",
+      "summary": "Vigneronne d'Ydralis (Sylthara) qui, il y a soixante ans, laissa mûrir les pommes ternes d'un rameau unique et pleura en retrouvant le goût de l'ancien verger disparu.",
       "body": null,
       "data": {
         "periode": {
@@ -27865,14 +27865,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0713",
       "type": "personne",
       "name": "Brenya (vigneronne d'Ydralis)",
       "slug": null,
-      "summary": "Fille de Shaela a Ydralis (Sylthara) qui ne coupa pas le rameau aux pommes ternes et en goute une chaque annee.",
+      "summary": "Fille de Shaela à Ydralis (Sylthara) qui ne coupa pas le rameau aux pommes ternes et en goûte une chaque année.",
       "body": null,
       "data": {
         "periode": {
@@ -27886,14 +27886,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0714",
       "type": "personne",
       "name": "Velden (forestier de Drylia)",
       "slug": null,
-      "summary": "Forestier-doyen de Drylia (Sylthara) qui tenait un registre prive des arbres qu'il aurait pu couper et n'avait pas coupes -- 'la dette de la foret'.",
+      "summary": "Forestier-doyen de Drylia (Sylthara) qui tenait un registre privé des arbres qu'il aurait pu couper et n'avait pas coupés -- 'la dette de la forêt'.",
       "body": null,
       "data": {
         "periode": {
@@ -27907,14 +27907,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0715",
       "type": "personne",
-      "name": "Tarya (forestiere de Drylia)",
+      "name": "Tarya (forestière de Drylia)",
       "slug": null,
-      "summary": "Fille de Velden a Drylia (Sylthara) qui herita du coffret mais ne sut plus lire la dette de la foret : 'On peut transmettre une methode, pas un regard.'",
+      "summary": "Fille de Velden à Drylia (Sylthara) qui hérita du coffret mais ne sut plus lire la dette de la forêt : 'On peut transmettre une méthode, pas un regard.'",
       "body": null,
       "data": {
         "periode": {
@@ -27928,14 +27928,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0716",
       "type": "personne",
       "name": "Karyn (forestier de Drylia)",
       "slug": null,
-      "summary": "Fils de Tarya a Drylia (Sylthara), 46 ans, qui tente sans y parvenir de continuer le registre prive de son grand-pere Velden.",
+      "summary": "Fils de Tarya à Drylia (Sylthara), 46 ans, qui tente sans y parvenir de continuer le registre privé de son grand-père Velden.",
       "body": null,
       "data": {
         "periode": {
@@ -27949,27 +27949,27 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0717",
       "type": "personne",
       "name": "Meylara (archiviste de Holvendar)",
       "slug": null,
-      "summary": "Archiviste discrete de la Grande Bibliotheque de Holvendar (Gryndor) qui trouva un livre s'ecrivant en temps reel et predisant l'avenir ; il la mena a la salle scellee par Theldryn III, dont elle ne revela rien au roi Vaelorn V.",
+      "summary": "Archiviste discrète de la Grande Bibliothèque de Holvendar (Gryndor) qui trouva un livre s'écrivant en temps réel et prédisant l'avenir ; il la mena à la salle scellée par Theldryn III, dont elle ne révéla rien au roi Vaelorn V.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0718",
       "type": "personne",
       "name": "Taldric (mineur de Veylorn)",
       "slug": null,
-      "summary": "Mineur de Veylorn (Gryndor) qui decouvrit le Cristal Pensant et sa voix ; prive de la voix apres l'avoir remis aux savants, il redescendit chercher dans la mine et ne fut jamais retrouve.",
+      "summary": "Mineur de Veylorn (Gryndor) qui découvrit le Cristal Pensant et sa voix ; privé de la voix après l'avoir remis aux savants, il redescendit chercher dans la mine et ne fut jamais retrouvé.",
       "body": null,
       "data": {
         "periode": {
@@ -27982,14 +27982,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0719",
       "type": "personne",
       "name": "Maethra (alchimiste de Zyrthar)",
       "slug": null,
-      "summary": "Alchimiste de Zyrthar (Gryndor) travaillant a transmuter les cristaux ; son atelier disparut sans bruit dans un trou spherique parfait, laissant un cristal parfait et aucune trace d'elle.",
+      "summary": "Alchimiste de Zyrthar (Gryndor) travaillant à transmuter les cristaux ; son atelier disparut sans bruit dans un trou sphérique parfait, laissant un cristal parfait et aucune trace d'elle.",
       "body": null,
       "data": {
         "periode": {
@@ -28002,14 +28002,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0720",
       "type": "personne",
       "name": "Isylrin (tailleur de Nelthoris)",
       "slug": null,
-      "summary": "Tailleur de cristaux de Nelthoris (Gryndor) voyant l'infiniment petit au prix du monde humain ; il renonca a ses loupes pour voir le visage de sa fille Elyn et perdit sa precision nanometrique.",
+      "summary": "Tailleur de cristaux de Nelthoris (Gryndor) voyant l'infiniment petit au prix du monde humain ; il renonça à ses loupes pour voir le visage de sa fille Elyn et perdit sa précision nanométrique.",
       "body": null,
       "data": {
         "periode": {
@@ -28023,14 +28023,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0721",
       "type": "personne",
       "name": "Elyn (fille d'Isylrin)",
       "slug": null,
-      "summary": "Fille du tailleur Isylrin a Nelthoris (Gryndor), dont le visage lui fit abandonner ses loupes enchantees.",
+      "summary": "Fille du tailleur Isylrin à Nelthoris (Gryndor), dont le visage lui fit abandonner ses loupes enchantées.",
       "body": null,
       "data": {
         "periode": {
@@ -28044,53 +28044,53 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0722",
       "type": "personne",
       "name": "Velthor (archiviste de Holvendar)",
       "slug": null,
-      "summary": "Archiviste-Senior de Holvendar (Gryndor) qui classa le rapport de Sorin Valthen sous 'Hypotheses cartographiques marginales' ; il y laissa une note de marge 'A relire. Possible point de convergence.'",
+      "summary": "Archiviste-Senior de Holvendar (Gryndor) qui classa le rapport de Sorin Valthen sous 'Hypothèses cartographiques marginales' ; il y laissa une note de marge 'À relire. Possible point de convergence.'",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0723",
       "type": "personne",
       "name": "Bryla (mineuse de Veylorn)",
       "slug": null,
-      "summary": "Cheffe d'equipe miniere qui redecouvrit la galerie sept de Veylorn (Gryndor) et l'inscription de Taldric en langue inconnue ; elle scella la galerie et ne rapporta rien au Conseil des Sages.",
+      "summary": "Cheffe d'équipe minière qui redécouvrit la galerie sept de Veylorn (Gryndor) et l'inscription de Taldric en langue inconnue ; elle scella la galerie et ne rapporta rien au Conseil des Sages.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0724",
       "type": "personne",
       "name": "Thelvar (alchimiste de Zyrthar)",
       "slug": null,
-      "summary": "Voisin de Maethra a Zyrthar (Gryndor) qui recupera son outil a sept branches et l'utilisa pour calibrer son intuition, devenant le meilleur alchimiste de la ville.",
+      "summary": "Voisin de Maethra à Zyrthar (Gryndor) qui récupéra son outil à sept branches et l'utilisa pour calibrer son intuition, devenant le meilleur alchimiste de la ville.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0725",
       "type": "personne",
       "name": "Velken (doyen de Nelthoris)",
       "slug": null,
-      "summary": "Doyen successeur d'Isylrin a Nelthoris (Gryndor) qui refusa de hierarchiser la 'taille a la main blessee' et son refus, gardant des chiffres non publies sur les deux methodes.",
+      "summary": "Doyen successeur d'Isylrin à Nelthoris (Gryndor) qui refusa de hiérarchiser la 'taille à la main blessée' et son refus, gardant des chiffres non publiés sur les deux méthodes.",
       "body": null,
       "data": {
         "periode": {
@@ -28104,14 +28104,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0726",
       "type": "personne",
       "name": "Olmar Resvani",
       "slug": null,
-      "summary": "Maitre saleur de Sondaris (Lunasar) pendant quarante-deux ans, mort en l'an 250 ; il refusa de vendre ses recettes a des marchands tyndariens, arguant que son savoir etait sa main, non transmissible par vente.",
+      "summary": "Maître saleur de Sondaris (Lunasar) pendant quarante-deux ans, mort en l'an 250 ; il refusa de vendre ses recettes à des marchands tyndariens, arguant que son savoir était sa main, non transmissible par vente.",
       "body": null,
       "data": {
         "periode": {
@@ -28124,14 +28124,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0727",
       "type": "personne",
       "name": "Leyra Resvani",
       "slug": null,
-      "summary": "Fille d'Olmar Resvani, qui reprit l'atelier de salaison de Sondaris (Lunasar) et fait, dit-on, exactement ce que faisait son pere.",
+      "summary": "Fille d'Olmar Resvani, qui reprit l'atelier de salaison de Sondaris (Lunasar) et fait, dit-on, exactement ce que faisait son père.",
       "body": null,
       "data": {
         "periode": {
@@ -28146,14 +28146,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0728",
       "type": "personne",
       "name": "Velda Mirhanen",
       "slug": null,
-      "summary": "Pecheuse des Hauts-Estuaires (Lunasar), enregistree comme 'Visiteur permanent', ne tenant pas de journal de reves ; en l'an 248 son filet remonta un corps inconnu a l'amulette de pierre noire. Morte noyee en l'an 254.",
+      "summary": "Pêcheuse des Hauts-Estuaires (Lunasar), enregistrée comme 'Visiteur permanent', ne tenant pas de journal de rêves ; en l'an 248 son filet remonta un corps inconnu à l'amulette de pierre noire. Morte noyée en l'an 254.",
       "body": null,
       "data": {
         "periode": {
@@ -28166,14 +28166,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0729",
       "type": "personne",
       "name": "Tarn (Veilleur de lune)",
       "slug": null,
-      "summary": "Veilleur de lune local des Hauts-Estuaires (Lunasar) a qui l'on remet sans recu les vestiges remontes des flots ; il transmit l'amulette du corps inconnu aux erudits de Thalmaris.",
+      "summary": "Veilleur de lune local des Hauts-Estuaires (Lunasar) à qui l'on remet sans reçu les vestiges remontés des flots ; il transmit l'amulette du corps inconnu aux érudits de Thalmaris.",
       "body": null,
       "data": {
         "periode": {
@@ -28187,14 +28187,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0730",
       "type": "personne",
       "name": "Falven d'Onara",
       "slug": null,
-      "summary": "Voyageur qui resta cinq mois a l'auberge des Trois Lunes de Mirhand-Bourg (Lunasar) l'hiver de l'an 245, payant en pieces de Thalmaris, sans rien attendre ni demander ; il repartit vers le nord et ne fut plus identifie.",
+      "summary": "Voyageur qui resta cinq mois à l'auberge des Trois Lunes de Mirhand-Bourg (Lunasar) l'hiver de l'an 245, payant en pièces de Thalmaris, sans rien attendre ni demander ; il repartit vers le nord et ne fut plus identifié.",
       "body": null,
       "data": {
         "periode": {
@@ -28207,14 +28207,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0731",
       "type": "personne",
       "name": "Tessen (aubergiste de Mirhand)",
       "slug": null,
-      "summary": "Aubergiste des Trois Lunes a Mirhand-Bourg (Lunasar) qui servit Falven d'Onara cinq mois sans le comprendre ni le juger ; morte il y a deux ans.",
+      "summary": "Aubergiste des Trois Lunes à Mirhand-Bourg (Lunasar) qui servit Falven d'Onara cinq mois sans le comprendre ni le juger ; morte il y a deux ans.",
       "body": null,
       "data": {
         "periode": {
@@ -28227,14 +28227,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0732",
       "type": "personne",
       "name": "Vena Drelhar (Oracle de Mirathi)",
       "slug": null,
-      "summary": "Oracle de Mirathi portant la Voix de la Lacune dix-sept ans ; a cinquante et un ans elle cessa de rever et le dit sans pretendre, vivant huit ans en cellule avant de mourir. La fonction resta vacante et honoree.",
+      "summary": "Oracle de Mirathi portant la Voix de la Lacune dix-sept ans ; à cinquante et un ans elle cessa de rêver et le dit sans prétendre, vivant huit ans en cellule avant de mourir. La fonction resta vacante et honorée.",
       "body": null,
       "data": {
         "periode": {
@@ -28247,14 +28247,14 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0733",
       "type": "personne",
       "name": "Halvor (berger de Vrenith)",
       "slug": null,
-      "summary": "Vieux berger du plateau de Vrenith (Mirathi) possedant la quatrieme copie du Message ; il refusa sans hostilite qu'Orneth la collationne, et organisa sa mort pour que la copie disparaisse avec lui.",
+      "summary": "Vieux berger du plateau de Vrenith (Mirathi) possédant la quatrième copie du Message ; il refusa sans hostilité qu'Orneth la collationne, et organisa sa mort pour que la copie disparaisse avec lui.",
       "body": null,
       "data": {
         "periode": {
@@ -28267,33 +28267,33 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0734",
       "type": "personne",
-      "name": "Le Frere du Seuil (Tholme-en-haut)",
+      "name": "Le Frère du Seuil (Tholmë-en-haut)",
       "slug": null,
-      "summary": "Frere silencieux charge des depouilles a Tholme-en-haut (Mirathi) ; devant un dernier mot ecrit en troisieme langue qu'il ne pouvait lire, il ne brula pas la feuille mais la glissa dans une fente du mur.",
+      "summary": "Frère silencieux chargé des dépouilles à Tholmë-en-haut (Mirathi) ; devant un dernier mot écrit en troisième langue qu'il ne pouvait lire, il ne brûla pas la feuille mais la glissa dans une fente du mur.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "per-0735",
       "type": "personne",
-      "name": "La cuisiniere du Sanctuaire de Mirathi",
+      "name": "La cuisinière du Sanctuaire de Mirathi",
       "slug": null,
-      "summary": "Vieille femme muette par choix, cuisiniere du Sanctuaire de Mirathi, dont la soupe aux sels et herbes du plateau ne se laisse ni ecrire ni reproduire hors de Vrenith.",
+      "summary": "Vieille femme muette par choix, cuisinière du Sanctuaire de Mirathi, dont la soupe aux sels et herbes du plateau ne se laisse ni écrire ni reproduire hors de Vrenith.",
       "body": null,
       "data": {},
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-22T18:57:02.047Z"
     },
     {
       "id": "lig-0064",
