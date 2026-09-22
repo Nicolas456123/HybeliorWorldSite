@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-vaenor-sorne, inspectrice-de-purete, drahk-nor, journal-de-thessan, cahier-de-copie, fragment-3, phrase-canon, purge-necessaire, blessure-qui-suppure, la-traque]
-titre: deux — L’interrogatoire
+titre: L’interrogatoire
 type: roman-chapitre
 partie: III
 pov: Vaenor Sorne (présent) — Inspectrice de Pureté de Drahk'Nor
@@ -157,7 +157,7 @@ Elle ne cilla pas. Mais il avait vu. Bien sûr qu’il avait vu : c’était so
 
 Vaenor ne bougeait pas.
 
-Il y avait un garçon de dix-neuf ans qu’elle n’avait jamais interrogé. Vingt ans qu’elle le laissait de l’autre côté d’une table sans lui poser une seule question, parce qu’il n’y en avait qu’une à poser et qu’elle n’en voulait pas la réponse. Ce soir, un copiste doux venait de la poser à sa place. Elle ne saurait jamais si Tavel aurait tenu sous la lame. Cette nuit-là, à vingt-deux ans, elle ignorait qu’une main pût couper ; ou elle le savait et n’y croyait pas ; elle n’avait jamais pu décider lequel des deux.
+Il y avait un garçon de vingt-deux ans qu’elle n’avait jamais interrogé. Vingt ans qu’elle le laissait de l’autre côté d’une table sans lui poser une seule question, parce qu’il n’y en avait qu’une à poser et qu’elle n’en voulait pas la réponse. Ce soir, un copiste doux venait de la poser à sa place. Elle ne saurait jamais si Tavel aurait tenu sous la lame. Cette nuit-là, à vingt-cinq ans, elle ignorait qu’une main pût couper ; ou elle le savait et n’y croyait pas ; elle n’avait jamais pu décider lequel des deux.
 
 Elle referma le carnet gris qu’elle n’avait pas rouvert.
 

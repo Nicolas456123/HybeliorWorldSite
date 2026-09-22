@@ -41,7 +41,7 @@ Karsel se posa, sur le tabouret bas qui servait aux visiteurs, ceux qu’on fais
 
 Le jeune leva la tête.
 
-« Trois morts, » reprit Vaskar sans hausser la voix. Un chiffre faux lui faisait l’effet d’un feuillet glissé dans le mauvais rang, et il le remettait à sa place. « Quatre tentatives. Vous comptez les corps. On ne compte pas les corps. La Reine Ysendre a survécu, en Astremer, au printemps ; on l’a manquée de peu, la lame a pris le chambellan à sa place. Une main qui manque vous apprend la même chose qu’une main qui réussit : qui l’on veut mort, et combien on le veut. Vous ôtez Ysendre de votre compte parce qu’elle respire, et vous jetez la moitié de ce que nous savons. » Il tira à lui la liasse, la parcourut, retourna deux feuillets. « Trois et un. Quatre. Portez quatre. »
+« Trois morts, » reprit Vaskar sans hausser la voix. Un chiffre faux lui faisait l’effet d’un feuillet glissé dans le mauvais rang, et il le remettait à sa place. « Quatre tentatives. Vous comptez les corps. On ne compte pas les corps. La Reine Ysendre a survécu, en Astravia, au printemps ; on l’a manquée de peu, la lame a pris le chambellan à sa place. Une main qui manque vous apprend la même chose qu’une main qui réussit : qui l’on veut mort, et combien on le veut. Vous ôtez Ysendre de votre compte parce qu’elle respire, et vous jetez la moitié de ce que nous savons. » Il tira à lui la liasse, la parcourut, retourna deux feuillets. « Trois et un. Quatre. Portez quatre. »
 
 « Quatre, » répéta Karsel, et il le nota, et sa manière de le noter disait qu’il avait compris plus que le chiffre.
 
@@ -57,7 +57,7 @@ Le jeune eut le petit tressaillement de celui à qui l’on ôte sa question de 
 
 Karsel hésita, puis obéit.
 
-« Le Consul-Adjoint Selvir, qui voulait un traité de libre passage entre Kharazir et Mosrack. Le Général Ostrek, qui avait refusé de marcher et prêchait la table plutôt que le champ. L’Archiviste Nevran. La Reine Ysendre, qui recevait les envoyés non-Liés à sa cour. Le Prophète Vharok, qu’on a trouvé dans le Mont. Vyntaris, qui parlait de concile. » Il s’arrêta. « Des gens qui voulaient… se parler. »
+« La Consule Selvir, qui voulait un traité de libre passage entre Kharazir et Mosrack. Le Général Ostrek, qui avait refusé de marcher et prêchait la table plutôt que le champ. L’Archiviste Nevran. La Reine Ysendre, qui recevait les envoyés non-Liés à sa cour. Le Prophète Vharok, qu’on a trouvé dans le Mont. Vyntaris, qui parlait de concile. » Il s’arrêta. « Des gens qui voulaient… se parler. »
 
 « Continuez. Vous y êtes. »
 

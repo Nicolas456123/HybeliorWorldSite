@@ -25,9 +25,9 @@ Au centre exact, à mi-chemin de l’arc et du vide, il y avait la Dalle.
 
 On l’appelait ainsi, avec la majuscule qui s’entend dans la voix des gens quand ils prononcent un mot plus grand qu’eux. Une seule pierre, pâle, plate, de la taille d’une chambre, affleurant le pavé bleu sans le dépasser, cerclée d’un jonc de fer scellé au plomb. Le plomb travaillait. Il se retirait de son logement d’un cheveu par an, et la Loi le faisait recouler tous les neuf ans ; Vhail en était à sa troisième coulée, et il avait pris l’habitude de compter sa vie de cette façon-là.
 
-Tout Kharazir était de pierre. Les terrasses, les rampes, les seuils, les toits, la place elle-même : de la roche posée sur de la roche. De la terre nue, il y en avait peu, et la Loi du Sol en réglait chaque pied. Nul n’avait droit à la terre s’il n’était inscrit au rôle, et le rôle disait qui appartenait au sol et qui n’y appartenait pas. Dans tout ce pavage, la Dalle était le seul endroit de la haute-ville où la terre du monde restait à nu.
+Tout Rukhsar était de pierre. Les terrasses, les rampes, les seuils, les toits, la place elle-même : de la roche posée sur de la roche. De la terre nue, il y en avait peu, et la Loi du Sol en réglait chaque pied. Nul n’avait droit à la terre s’il n’était inscrit au rôle, et le rôle disait qui appartenait au sol et qui n’y appartenait pas. Dans tout ce pavage, la Dalle était le seul endroit de la haute-ville où la terre du monde restait à nu.
 
-Scellée, pour qu’on ne la touche pas, qu’on n’y pose pas le pied et qu’on ne creuse pas dessous. Le premier article et le dernier disaient la même chose : la bouche de terre reste fermée.
+Scellée de toute mémoire, pour qu’on ne la touche pas, qu’on n’y pose pas le pied et qu’on ne creuse pas dessous. Le premier article et le dernier disaient la même chose : la bouche de terre reste fermée.
 
 Vhail s’arrêta au bord du fer, comme chaque nuit, et regarda la pierre pâle du regard qu’on pose sur une chose qu’on a trop vue.
 

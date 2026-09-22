@@ -35,11 +35,11 @@ Il aligna les quatre par date, comme il alignait toujours, et laissa venir le ci
 
 *
 
-Le pas de Tovan avait changé depuis l’automne. Il tenait désormais la même mesure du haut en bas de l’escalier, comme un homme qui sait ce qui l’attend et qui a cessé de croire que se presser y changerait quelque chose. Vaskar l’entendit venir sans lever les yeux, et en éprouva un contentement qu’il n’aurait dit à personne : le garçon avait mis un an à apprendre à descendre un escalier.
+Le pas de Karsel avait changé depuis l’automne. Il tenait désormais la même mesure du haut en bas de l’escalier, comme un homme qui sait ce qui l’attend et qui a cessé de croire que se presser y changerait quelque chose. Vaskar l’entendit venir sans lever les yeux, et en éprouva un contentement qu’il n’aurait dit à personne : le garçon avait mis un an à apprendre à descendre un escalier.
 
 « Vous les avez, dit-il quand la porte s’ouvrit.
 
-— Referme, répondit Tovan, et il referma lui-même, du talon, avant que le courant d’air eût fini de coucher la flamme. Le cinquième. Astravia. Un cahier saisi sur une passeuse à la Porte des Fondeurs, recopié, rendu. La même phrase. »
+— Referme, répondit Karsel, et il referma lui-même, du talon, avant que le courant d’air eût fini de coucher la flamme. Le cinquième. Astravia. Un cahier saisi sur une passeuse à la Porte des Fondeurs, recopié, rendu. La même phrase. »
 
 Il posa le feuillet au bord de la table, à la place où les autres attendaient, et garda un instant la main dessus, comme s’il hésitait à mêler ce qu’il tenait au reste.
 
@@ -57,7 +57,7 @@ Il sépara les cinq feuillets sous sa main, quatre d’un côté, Astravia de l�
 
 — La personne qui porte cela. » Il n’appuya pas sur le pronom. « À ces portes-là, on saisit des cahiers sur des passeuses ; vous l’avez lu vous-même, à Astravia. Le neuf passe par les mêmes mains que le vieux, les mêmes métiers, les mêmes portes. Une femme, donc, qui descend vers le bas pays. On ne saisit pas un cahier sur une passeuse sans la voir. »
 
-Tovan tira le tabouret bas, celui des visiteurs, et s’assit sans qu’on l’y invitât, ce qui ne se remarquait plus. Il avait ce soir, sous la gravité ordinaire, une hâte qu’il retenait mal, et Vaskar la vit monter comme il voyait tout monter, et attendit qu’elle sortît.
+Karsel tira le tabouret bas, celui des visiteurs, et s’assit sans qu’on l’y invitât, ce qui ne se remarquait plus. Il avait ce soir, sous la gravité ordinaire, une hâte qu’il retenait mal, et Vaskar la vit monter comme il voyait tout monter, et attendit qu’elle sortît.
 
 « J’ai porté les cinq à la salle du jour, dit le jeune homme. Pour la mise en fiches. Et le commis de garde, avant même que j’aie posé la liasse, m’a demandé si c’était pour le dossier des Catena Fracta.
 
@@ -69,13 +69,13 @@ Vaskar garda la main sur les feuillets plus longtemps qu’il n’avait à le fa
 
 « Montrez-moi le quatrième. Celui des fondeurs. La provenance entière, pas la vôtre. Lisez-la-moi. »
 
-Tovan chercha, trouva, lut.
+Karsel chercha, trouva, lut.
 
 « *Versé par un affilié de la Fraternité des Mains Vides, chapitre d’Onara basse.*
 
 — La Fraternité des Mains Vides, répéta Vaskar, du même ton plat qu’il prenait pour les chiffres faux, parce qu’un mot mal posé était, pour lui, une petite douleur physique. Et le commis, en haut, a écrit Catena Fracta. Dites-moi la différence. Vous la connaissez. Je veux vous l’entendre dire.
 
-— La Fraternité est légale, dit Tovan, lentement, comme on récite une leçon dont on découvre le sens en la disant. Déclarée. Elle défend les non-Liés devant les conseils, elle tient des rôles, elle paie ses écritures. Et elle refuse. Publiquement. Toute association avec les Catena Fracta. C’est même dans sa charte : la Fraternité désavoue la Chaîne Brisée et tout ce qui s’en réclame.
+— La Fraternité est légale, dit Karsel, lentement, comme on récite une leçon dont on découvre le sens en la disant. Déclarée. Elle défend les non-Liés devant les conseils, elle tient des rôles, elle paie ses écritures. Et elle refuse. Publiquement. Toute association avec les Catena Fracta. C’est même dans sa charte : la Fraternité désavoue la Chaîne Brisée et tout ce qui s’en réclame.
 
 — Donc.
 
@@ -83,11 +83,11 @@ Tovan chercha, trouva, lut.
 
 — Ce ne sont pas les mêmes gens. » Vaskar retourna le feuillet des fondeurs vers le garçon, la marge en haut, pour qu’il l’eût sous les yeux pendant qu’on en parlerait. « Le commis d’en haut est un homme pressé, pas un méchant homme. Il a cinq pièces, il a un dossier ouvert qui s’appelle Catena Fracta, et un dossier ouvert est une bouche qui a faim. Il a jeté les cinq pièces dedans parce que la bouche était là et qu’il n’aimait pas les tenir dans sa main. Voilà tout le crime : de la fatigue, pas de la malice. Mais retenez ceci, et retenez-le mieux que tout ce que je vous ai appris cette année. » Il posa un doigt sur le feuillet. « Le jour où l’on écrit *Catena Fracta* sur un affilié des Mains Vides parce que c’est le dossier qui était ouvert, on croit ranger une pièce et l’on fabrique un fait. Un fait fabriqué ne se défabrique pas. Il monte. De ce registre à un rapport, du rapport à une chancellerie, et un matin une chancellerie décrétera que la Fraternité des Mains Vides est une couverture des Fils de l’Abîme, sur la foi d’une ligne qu’un commis fatigué a écrite un soir pour s’épargner de réfléchir. Alors on fermera la Fraternité. On fermera la seule maison légale où un non-Lié pouvait porter sa doléance sans casser une vitre. Et les hommes qui n’ont plus de maison légale, dites-moi où ils vont.
 
-— Vers ceux qui cassent les vitres, dit Tovan.
+— Vers ceux qui cassent les vitres, dit Karsel.
 
 — Vers ceux qui cassent les vitres. Nous n’aurons pas démasqué les Catena Fracta. Nous les aurons recrutés. » Il retira son doigt. « Rayez la ligne du commis. La vôtre. Vous portez : *cinq pièces, texte non identifié en circulation dans les marches d’Onara ; quatre récentes vers l’aval, une ancienne, plus au nord.* Pas de nom. Un texte n’a pas de faction tant qu’on ne l’a pas lu, et je ne l’ai pas lu. »
 
-Tovan raya, réécrivit. Sa main était sûre. Mais il s’arrêta au bout de la ligne, la plume en l’air.
+Karsel raya, réécrivit. Sa main était sûre. Mais il s’arrêta au bout de la ligne, la plume en l’air.
 
 « Vous refusez de le mettre chez les Catena Fracta. Bon. Je vous suis. Mais vous refusez la seule case où il rentrait. Il est où, maintenant, ce texte ? Sous quel nom je le range ?
 
@@ -119,7 +119,7 @@ Il ne poussa pas la pensée plus loin. Il la mit de côté avec le reste, et la 
 
 *
 
-Le second pas de la nuit dans l’escalier n’était pas celui de Tovan.
+Le second pas de la nuit dans l’escalier n’était pas celui de Karsel.
 
 Il descendait lentement, d’une lenteur de poids et de rang, de quelqu’un qui n’avait jamais eu à se presser parce que le monde, autour de lui, s’était toujours pressé à sa place. Vaskar connaissait ce pas pour l’avoir entendu une fois l’an, à la cérémonie des comptes, et pas davantage. Il se leva. On se lève, aux Fonds, pour deux choses seulement : les morts qu’on porte et le Prime qui descend.
 
@@ -159,7 +159,7 @@ Il n’y avait pas de trouble, et c’était cela, le trouble. La recommandation
 
 « Bien. » Le Prime se tourna vers l’escalier. Il s’arrêta avant la première marche, sans se retourner. « Le cahier qui circule, là-haut, dans les marches. Vous le cherchez. »
 
-Vaskar ne l’avait dit à personne qu’à Tovan, une heure plus tôt, à douze toises sous la ville.
+Vaskar ne l’avait dit à personne qu’à Karsel, une heure plus tôt, à douze toises sous la ville.
 
 « Je range ce qui bouge, dit-il.
 
@@ -171,7 +171,7 @@ Et il remonta, de son pas de poids, laissant derrière lui un froid qui, pour un
 
 Longtemps, Vaskar ne bougea pas.
 
-La recommandation était propre. Chaque mot en était défendable, il aurait pu la réciter à Tovan comme une leçon : veiller à ce qu’un fonds reste au calme, tenir une digue, empêcher qu’un texte qu’on ne peut pas porter monte vers la peur. Vrai. Vrai. Vrai. Il aurait pu la graver. Et pourtant elle avait laissé, en se retirant, la trace qu’une main laisse sur un registre dont elle a ôté une ligne : ce qu’elle n’avait pas dit y tenait sa place. Pourquoi ce fonds. Pourquoi ce mois. Pourquoi le Prime en personne, hors cérémonie, pour une recommandation qu’une estafette aurait portée. Un Prime qui descend une deuxième fois dans l’année était, dans le calendrier des Fonds, ce qu’était une ronde de minuit manquante dans le registre d’un veilleur : une absence à sa place, une présence hors de la sienne, le vide en forme de main.
+La recommandation était propre. Chaque mot en était défendable, il aurait pu la réciter à Karsel comme une leçon : veiller à ce qu’un fonds reste au calme, tenir une digue, empêcher qu’un texte qu’on ne peut pas porter monte vers la peur. Vrai. Vrai. Vrai. Il aurait pu la graver. Et pourtant elle avait laissé, en se retirant, la trace qu’une main laisse sur un registre dont elle a ôté une ligne : ce qu’elle n’avait pas dit y tenait sa place. Pourquoi ce fonds. Pourquoi ce mois. Pourquoi le Prime en personne, hors cérémonie, pour une recommandation qu’une estafette aurait portée. Un Prime qui descend une deuxième fois dans l’année était, dans le calendrier des Fonds, ce qu’était une ronde de minuit manquante dans le registre d’un veilleur : une absence à sa place, une présence hors de la sienne, le vide en forme de main.
 
 Dans cette concordance-là, il n’alla pas plus loin. Il en avait le droit, il le prit, il rangea le fil sans le nouer, parce que le nouer, c’était supposer que l’appareil qu’il servait avait, dans les morts qu’il classait, une part de la main ; et cette supposition-là, il ne pouvait pas la porter, parce qu’elle se tenait, qu’elle ne se prouvait pas plus qu’elle ne se réfutait, et qu’il n’avait pas de quoi vivre sous un soupçon pareil. Il pouvait être un instrument. Il pouvait être un gardien sincère. Il pouvait être un homme qu’on employait à faire le bien pour qu’il fît, sans le voir, autre chose. Les trois hommes avaient le même visage, les mêmes gestes, la même clef au cou, et rien, jamais, ne lui dirait lequel des trois il était.
 

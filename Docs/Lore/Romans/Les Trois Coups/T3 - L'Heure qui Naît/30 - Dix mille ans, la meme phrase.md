@@ -15,7 +15,7 @@ L’Académie ne dormait jamais tout à fait. En un jour et demi de murs, c’é
 
 Sanne portait cette peur sur le dos depuis le nord, sanglée deux fois sur la poitrine. En montant la rue des Copies, elle s’était dit que si le monde gardait quelque part un endroit fait exprès pour elle, ce serait ici ou nulle part.
 
-La salle des fonds sentait le froid, la colle de peau et la vieille encre. Une bonne odeur, franche, et qui, par les temps qui couraient, valait mieux que le confort. Wenna dormait deux pièces plus loin, dans le réduit des apprenties, sur une paillasse enfin propre, et propre pour de bon celle-là, propre de vie et non de guet, ce qu’il avait fallu du temps à Sanne pour accepter. On avait pris la petite sans questions, comme on prend ici tout ce qui arrive écrit ou vivant : on le range, on le nourrit, on ne demande pas d’où ça vient. Sanne avait laissé la porte du réduit entrebâillée. Vieille manie.
+La salle des fonds sentait le froid, la colle de peau et la vieille encre. Une bonne odeur, franche, et qui, par les temps qui couraient, valait mieux que le confort. Wenna, qui l’avait rattrapée sur la route du sud et n’avait jamais dit comment, dormait deux pièces plus loin, dans le réduit des apprenties, sur une paillasse enfin propre, et propre pour de bon celle-là, propre de vie et non de guet, ce qu’il avait fallu du temps à Sanne pour accepter. On avait pris la petite sans questions, comme on prend ici tout ce qui arrive écrit ou vivant : on le range, on le nourrit, on ne demande pas d’où ça vient. Sanne avait laissé la porte du réduit entrebâillée. Vieille manie.
 
 « Vous ne dormez pas non plus.
 
@@ -23,7 +23,7 @@ La salle des fonds sentait le froid, la colle de peau et la vieille encre. Une b
 
 — Rien n’est jamais fini, dans une salle de fonds. C’est le vice de l’endroit. »
 
-Elle avait la main droite tachée jusqu’au poignet d’une encre qui ne partait plus, et le calme trop plein des gens qui travaillent seuls la nuit depuis des années. Sa lampe posée au bout de la longue table, un tabouret tiré sans façon, Ysolde s’assit en face de Sanne du geste dont on s’assoit à côté d’un feu qu’un autre a monté.
+Trente-cinq ans peut-être. Elle avait la main droite tachée jusqu’au poignet d’une encre qui ne partait plus, et le calme trop plein des gens qui travaillent seuls la nuit depuis des années. Sa lampe posée au bout de la longue table, un tabouret tiré sans façon, Ysolde s’assit en face de Sanne du geste dont on s’assoit à côté d’un feu qu’un autre a monté.
 
 « On m’a dit de vous chercher, dit Sanne. Une femme, loin d’ici, au nord, m’a dit : à Prismalith, une jeune, qui recopie tout ce qu’on lui porte sans juger d’où ça vient. Elle avait un nom. Le vôtre.
 
@@ -57,7 +57,7 @@ Alors seulement Ysolde approcha sa propre lampe, et se pencha de côté, très b
 
 « Il a voyagé contre des corps, dit-elle. Le cuir est mangé aux deux tiers hauts et intact en bas. Ça, c’est une chose qu’on porte à la poitrine et qu’on sort peu.
 
-— Quarante ans sur le mien. Et avant moi, je ne sais pas.
+— Vingt ans sur le mien. Et avant moi, je ne sais pas.
 
 — Ouvrez au hasard. Pas au milieu. N’importe où. »
 
@@ -103,7 +103,7 @@ Sanne regarda les trois choses, et le cahier ouvert au milieu, et le froid de la
 
 — Je ne sais rien faire d’autre, dit Sanne. Porter sans trancher. On dirait que c’est votre métier aussi.
 
-— C’est le même métier. » Ysolde ouvrit le cahier neuf et le fit glisser près du vieux. « Voici la copie que nous avons tirée des dix-sept cahiers du voyageur. Je l’ai établie de ma main, page pour page, blanc pour blanc. Il y a, dans la marge du premier, une ligne qui n’est pas de lui. Le copiste qui a établi la source l’a signalée, et je l’ai gardée telle quelle, avec sa note. Lisez la note d’abord. Elle importe autant que la ligne. »
+— C’est le même métier. » Ysolde ouvrit le cahier neuf et le fit glisser près du vieux. « Voici la copie que nous avons tirée des dix-sept cahiers du voyageur. Je l’ai établie de ma main, page pour page, blanc pour blanc. Il y a, dans la marge de l’avant-dernier, une ligne qui n’est pas de lui. Le copiste qui a établi la source l’a signalée, et je l’ai gardée telle quelle, avec sa note. Lisez la note d’abord. Elle importe autant que la ligne. »
 
 Sanne se pencha. L’écriture était nette, la même main tachée que celle d’en face. La note du copiste disait, en petites lettres droites : *Trouvé écrit dans la marge de la source, d’une autre main que la sienne, et plus ancienne. Je le rends tel quel, n’en connaissant ni l’auteur, ni la date, ni le sens. Tout le reste de la ligne était effacé. Ceci est resté.*
 
@@ -123,7 +123,7 @@ Le mot fit tressaillir Sanne. C’était un mot de forge autant que de squelette
 
 — C’est le mot que j’emploie, à part moi. Pardon s’il est laid. Quand une chose s’use, elle part par le dehors. L’ornement d’abord, puis la façon, puis le sens, puis les mots un à un, du bord vers le centre. Il reste chaque fois une arête que l’usure n’atteint pas, la dernière, celle sans quoi ce serait une autre chose qui descendrait jusqu’à nous. Je vois passer beaucoup de copies, ici. J’ai fini par croire que chaque texte a son os, et que le travail du temps consiste à décharner les textes jusque-là. »
 
-Sanne l’écouta jusqu’au bout, parce que ce qu’on venait de lui décrire, elle l’avait dans les mains depuis quarante ans sans avoir jamais eu à le mettre en phrases.
+Sanne l’écouta jusqu’au bout, parce que ce qu’on venait de lui décrire, elle l’avait dans les mains depuis vingt ans sans avoir jamais eu à le mettre en phrases.
 
 À l’atelier, on ne connaît pas un métal en le regardant. Un fer inconnu arrive au tas, on ne sait ni d’où il sort ni ce qu’il vaut ; alors on lui coupe un bout, et ce bout-là est perdu d’avance. On le chauffe pour voir à quelle couleur il consent. On passe la lime : si elle mord, c’est mou ; si elle glisse, la trempe a pris. On le casse au tranchet et on couche la cassure sous une lumière rasante pour en lire le grain, fin ou gros. Le grain ne ment pas, parce que c’est la seule face que le métal se soit donnée tout seul, sans qu’un ouvrier l’ait voulue. Quatre épreuves, quatre bouts perdus ; et la barre, elle, n’a pas été touchée. Un métal se sait par ce qu’on détruit à sa place, jamais par la pièce.
 
@@ -201,7 +201,7 @@ Ysolde la regarda un moment sans rien dire.
 
 Sanne se tut longtemps. Le battement était là, comme chaque nuit, monté cette nuit jusque dans le pied de la table et dans le bois du tabouret ; et cette fois elle le laissa faire sans le compter.
 
-« J’ai passé quarante ans à croire que je portais une réponse », dit-elle.
+« J’ai passé vingt ans à croire que je portais une réponse », dit-elle.
 
 Ysolde ne bougea pas. C’était sa manière d’écouter : elle laissait de la place à ce qui venait.
 

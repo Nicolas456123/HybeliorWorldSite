@@ -51,7 +51,7 @@ Le hameau donnait ses derniers bruits du jour, une charrette, un chien, une port
 
 — Depuis longtemps, à la façon dont vous portez l’épaule. Un poids qu’on a sanglé longtemps déforme l’os. Le mien est à droite, le vôtre est à gauche, au travers, deux fois. » Elle attendit. « Vous me le montrez, ou vous attendez que je le devine tout à fait ? »
 
-Sanne défit la lanière. Elle avait fait ce geste devant témoin deux fois en quarante ans, une nuit chez une teinturière de Taldre qui entendait le Mont, une autre nuit à Prismalith devant une jeune à la main tachée, et les deux fois ses doigts avaient mis plus de temps qu’il n’en fallait. Le cahier vint nu dans la lumière basse. Halka le regarda sans tendre la main, et quelque chose passa sur son visage tanné, une reconnaissance ancienne, de celles qu’on tient d’une autre bouche et qui se réveillent d’un coup.
+Sanne défit la lanière. Elle avait fait ce geste devant témoin trois fois en vingt ans, une nuit chez une teinturière de Taldre qui entendait le Mont, une autre au relais de la Roue-Basse devant une fille qui portait le grain, une autre à Prismalith devant une jeune à la main tachée, et les trois fois ses doigts avaient mis plus de temps qu’il n’en fallait. Le cahier vint nu dans la lumière basse. Halka le regarda sans tendre la main, et quelque chose passa sur son visage tanné, une reconnaissance ancienne, de celles qu’on tient d’une autre bouche et qui se réveillent d’un coup.
 
 « Ah, dit-elle seulement. Celui-là. »
 
@@ -213,7 +213,7 @@ La vieille s’était tenue à l’écart, du côté de l’enclume, à ne pas �
 
 Sanne vint près du foyer et tendit les mains vers la braise, ce vieux réflexe des gens de forge qui vont au feu comme d’autres vont à la fenêtre. Elle regarda longtemps le charbon respirer.
 
-« Ma maîtresse à moi, celle qui m’a passé le cahier, m’a dit une chose, une seule, le jour du passage. Elle m’a dit : ce cahier était là avant toi, il sera là après toi, tu n’es pas la chaîne, tu es un anneau. » Elle eut ce demi-sourire, mince comme une lame revenue au bleu. « J’ai mis quarante ans à comprendre ce que ça pesait. Tout ce temps-là, j’ai cru que je portais une chose, et que si je tombais la chose tombait. Que j’étais le fil, et que couper le fil coupait tout. C’est la peur qui fait croire ça. On se croit toujours le dernier maillon, le seul, l’indispensable. » La braise donna d’un côté, la terre poussa faiblement, se reprit. « Et puis un soir on voit clair. Le cahier a survécu à chaque femme qui l’a cru sien, à toutes, sans exception, depuis dix mille ans. Il les a enterrées une à une, ses porteuses, et il a continué. Il vous survivra. Il survivra à la gamine. Il n’attend que ça, au fond, que je m’ôte de son chemin. »
+« Ma maîtresse à moi, celle qui m’a passé le cahier, m’a dit une chose, une seule, le jour du passage. Elle m’a dit : ce cahier était là avant toi, il sera là après toi, tu n’es pas la chaîne, tu es un anneau. » Elle eut ce demi-sourire, mince comme une lame revenue au bleu. « J’ai mis vingt ans à comprendre ce que ça pesait. Tout ce temps-là, j’ai cru que je portais une chose, et que si je tombais la chose tombait. Que j’étais le fil, et que couper le fil coupait tout. C’est la peur qui fait croire ça. On se croit toujours le dernier maillon, le seul, l’indispensable. » La braise donna d’un côté, la terre poussa faiblement, se reprit. « Et puis un soir on voit clair. Le cahier a survécu à chaque femme qui l’a cru sien, à toutes, sans exception, depuis dix mille ans. Il les a enterrées une à une, ses porteuses, et il a continué. Il vous survivra. Il survivra à la gamine. Il n’attend que ça, au fond, que je m’ôte de son chemin. »
 
 « C’est une drôle de paix », dit Halka.
 
@@ -233,7 +233,7 @@ Wenna ne pleura pas. Elle avait trop appris à ne pas pleurer, cette petite, et 
 
 Elle les regarda descendre le chemin, deux silhouettes qui s’amenuisaient vers le levant, vers le jour qui se levait pâle de l’autre côté du monde, là où rien ne battait. À un tournant, l’enfant se retourna, une fois, et Sanne leva la main, une fois, la main vide, et ne la baissa que lorsque le talus les eut prises.
 
-Puis il n’y eut plus rien à faire. Elle avait porté quarante ans, elle en avait l’os déformé, et ce matin le dos était libre, et cette légèreté-là n’avait rien de doux. Sanne se tint longtemps sur le seuil de la forge, l’épaule gauche étrangement haute, à chercher le poids qui n’y était plus, comme la langue cherche la dent tombée.
+Puis il n’y eut plus rien à faire. Elle avait porté vingt ans, elle en avait l’os déformé, et ce matin le dos était libre, et cette légèreté-là n’avait rien de doux. Sanne se tint longtemps sur le seuil de la forge, l’épaule gauche étrangement haute, à chercher le poids qui n’y était plus, comme la langue cherche la dent tombée.
 
 *
 

@@ -31,7 +31,7 @@ Ils étaient trois, assis à l’ombre du porche de la Porte d’Azur, cet arc d
 
 Deux femmes et un homme, d’âges différents. Ils m’ont regardé passer avec le regard des gens habitués à être regardés. Je les ai salués d’un signe de tête ; ils me l’ont rendu. L’homme a suivi un instant mon manteau, mon sac, la façon dont je portais mon poids sur la jambe droite, comme quelqu’un qui lit une silhouette avant de lire un visage.
 
-Mon sac portait les dix-sept cahiers et la synthèse, dans la copie qu’Ysolde m’avait rendue. Dans la poche intérieure du manteau, contre la poitrine, il y avait aussi la feuille de papier bruni de mon père et le parchemin du moine de Baelor. Deux phrases pour neuf cent dix jours. *Tu es prêt.* *Dessous.*
+Mon sac portait les dix-sept cahiers et la synthèse ; la copie d’Ysolde était restée aux archives. Dans la poche intérieure du manteau, contre la poitrine, il y avait aussi la feuille de papier bruni de mon père et le parchemin du moine de Baelor. Deux phrases pour neuf cent dix jours. *Tu es prêt.* *Dessous.*
 
 ---
 
@@ -117,7 +117,7 @@ Je l’ai regardé.
 
 Ses yeux sont revenus sur moi.
 
-« Ce que tu as trouvé à Cestra. Ce que tu as trouvé ici, sous Kharazir. » Du menton, il a désigné le bas, ce qui se tenait sous nos pieds à cet instant. « Ça, et le huitième pilier. Ça, et ce que Naïm a lu avant de disparaître. C’est le même texte.
+« Ce que tu as trouvé à Cestra. Ce que tu as trouvé ici, sous Rukhsar. » Du menton, il a désigné le bas, ce qui se tenait sous nos pieds à cet instant. « Ça, et le huitième pilier. Ça, et ce que Naïm a lu avant de disparaître. C’est le même texte.
 — La même famille d’écriture. Pour ce que je peux en juger.
 — La même phrase. » Il a posé un doigt sur la synthèse. « Selon ce que j’en lis : nous étions huit. Le huitième peuple se souvient. Et il remonte. »
 
@@ -228,7 +228,7 @@ Ce que je tenais était plus grand que moi. Cela n’avait plus besoin que je le
 
 J’ai ouvert le dix-septième cahier à la dernière page utilisée. Il restait une quinzaine de pages blanches.
 
-J’ai écrit la date. Jour 910. Kharazir.
+J’ai écrit la date. Jour 910. Rukhsar.
 
 J’ai écrit quelques lignes sur la pulsation sous la dalle, les données, les observations, sans astérisque cette fois, parce que ce que j’avais senti dans les os sous la dalle était de même nature que ce que j’avais senti sur le surplomb de Cestra et sur les flancs de Cendra, et que cette cohérence à travers dix-sept cahiers et neuf cent dix jours était elle-même une donnée.
 
@@ -262,7 +262,7 @@ J’ai laissé les pages blanches.
 
 Le septième matin après mon retour, je suis sorti avant l’ouverture complète du bazar.
 
-Kharazir, à cette heure, ne ressemblait pas encore à Kharazir. Les marchands levaient les auvents, les apprentis balayaient devant les échoppes, les gardes aux portes buvaient leur premier thé en faisant semblant de surveiller déjà. La ville avait le visage des lieux qui ne sont pas encore en représentation.
+Rukhsar, à cette heure, ne ressemblait pas encore à Rukhsar. Les marchands levaient les auvents, les apprentis balayaient devant les échoppes, les gardes aux portes buvaient leur premier thé en faisant semblant de surveiller déjà. La ville avait le visage des lieux qui ne sont pas encore en représentation.
 
 Mes pas m’ont porté jusqu’à la Porte d’Azur.
 

@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-5, pov-kessane, gryndor, refermeture, heure-qui-se-referme, beat-1, voix-deportees, coincidence-jamais-causalite, lirenn, cahier, air-en-retard]
-titre: quatre — L’Heure
+titre: L’Heure
 type: roman-chapitre
 partie: V
 pov: Kessane de la Forge-Basse

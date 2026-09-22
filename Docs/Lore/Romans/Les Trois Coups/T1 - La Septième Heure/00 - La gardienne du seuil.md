@@ -8,7 +8,7 @@ lieu: Aethranor (Galenor)
 status: draft
 ---
 
-# Prologue, I — La gardienne du seuil
+# Prologue — La gardienne du seuil
 
 Nera aimait l’arche à l’heure où personne ne la traversait.
 

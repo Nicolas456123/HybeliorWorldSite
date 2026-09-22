@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-5, pov-vaenor, inspecteurs-de-purete, gryndor, failles-mobiles, duel-a-distance, sans-capture, temoin-exterieur, tavel, kessane, lirenn]
-titre: deux — À distance, entre deux Failles
+titre: À distance, entre deux Failles
 type: roman-chapitre
 partie: V
 pov: Vaenor Sorne
@@ -97,7 +97,7 @@ Neuf ans, avait-on dit. Celle qui parlait à personne. *La fille peut attendre d
 
 Et si c’avait été l’inverse ? Si, ce jour-là, sans savoir le formuler, elle avait laissé pour une fois une main qui savait couper arriver avant elle ? Si la petite du moulin travaillait aujourd’hui quelque part, sourde et vivante, parce qu’une Inspectrice avait dit *demain* et n’était pas revenue ? Elle ne le saurait pas. C’était le mot exact, le même que pour Tavel : elle ne le saurait pas. Elle n’était jamais retournée au moulin. Elle avait pris soin, ensuite, de ne plus passer par ce bourg-là, en croyant que c’était par honte ; et peut-être, elle le voyait maintenant, avec cette clarté d’après-coup qui ne sert à rien, était-ce pour n’avoir pas à savoir.
 
-Son métier, c’était ce geste-là : mettre deux faits en regard et attendre que le troisième se lève. Et il y avait dans sa tête des faits qu’elle ne mettait jamais en regard d’un autre. Un garçon de dix-neuf ans. Depuis ce jour-là, une petite de neuf ans qui travaillait peut-être quelque part. Elle les gardait chacun à part, sans rien contre quoi les tenir, parce qu’il n’existait pas un seul fait qu’on pût leur donner pour voisin sans qu’il en sortît aussitôt un troisième.
+Son métier, c’était ce geste-là : mettre deux faits en regard et attendre que le troisième se lève. Et il y avait dans sa tête des faits qu’elle ne mettait jamais en regard d’un autre. Un garçon de vingt-deux ans. Depuis ce jour-là, une petite de neuf ans qui travaillait peut-être quelque part. Elle les gardait chacun à part, sans rien contre quoi les tenir, parce qu’il n’existait pas un seul fait qu’on pût leur donner pour voisin sans qu’il en sortît aussitôt un troisième.
 
 L’enfant, sur la crête, se détourna. La femme la reprit par l’épaule, à plat, et elles descendirent un fil d’herbe qui plongeait vers le cœur de la Plaine, entre deux nappes de givre qui montaient à leur rencontre. Vaenor les regarda rapetisser dans la lumière fausse.
 
@@ -123,7 +123,7 @@ Trois jours sur la Plaine, comme elle l’avait annoncé à Rœfel, mais ces tro
 
 Elle croisa une fois un des Mangeurs de Temps. Un homme jeune, maigre, dans une tunique taillée d’après quelque gravure de l’Âge du Lien, qui allait vers une Faille avec dans le regard la faim tranquille de celui qui rentre chez lui. Elle aurait pu l’arrêter : il était Tisse, sûrement, comme ils l’étaient presque tous, ces désespérés qui préféraient la porte du temps à sa fiole. Elle ne l’arrêta pas. Sans un mot, elle le regarda avancer vers le tremblement de l’air, poser le pied, se plier avec l’air autour de lui, deux hommes une seconde, un debout et un déjà parti, et puis plus personne. Cela aussi, elle le nota. *Un homme est entré dans la Faille de son propre chef. Il n’en est pas ressorti dans le champ de mon regard.* Il n’y avait rien de plus honnête à écrire. Où il était allé, personne ne le savait. Elle regardait des gens partir sans savoir où, et elle tenait un registre de départs sans arrivées.
 
-Tavel lui revint. Elle en tenait un aussi, de registre pareil, et elle l’appelait *apaisement* ; et entre sa fiole et cette Faille, la seule différence était qu’elle savait, elle, où allaient les siens. Ils allaient sous la terre. C’était affreux, mais c’était su. Ici, on ne savait même pas cela. Elle ne parvint pas à décider si le su valait mieux que l’ignoré, ni si son besoin de savoir où allaient les gens n’avait pas été, depuis le garçon de dix-neuf ans, la vraie raison de la fiole.
+Tavel lui revint. Elle en tenait un aussi, de registre pareil, et elle l’appelait *apaisement* ; et entre sa fiole et cette Faille, la seule différence était qu’elle savait, elle, où allaient les siens. Ils allaient sous la terre. C’était affreux, mais c’était su. Ici, on ne savait même pas cela. Elle ne parvint pas à décider si le su valait mieux que l’ignoré, ni si son besoin de savoir où allaient les gens n’avait pas été, depuis le garçon de vingt-deux ans, la vraie raison de la fiole.
 
 *
 

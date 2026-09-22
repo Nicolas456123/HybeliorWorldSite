@@ -50,11 +50,11 @@ Elle n’en dit rien à leur mère. Ni cette fois ni les suivantes. Elle n’aur
 
 Elle continua de le regarder, les années d’après. C’était sa façon d’aimer, et elle n’en avait pas d’autre.
 
-Et pendant dix ans, cela ne servit à rien, parce que Tavel n’empira pas.
+Et pendant treize ans, cela ne servit à rien, parce que Tavel n’empira pas.
 
-C’est ce que personne ne comprenait, plus tard, quand elle essayait de se raconter l’histoire dans l’ordre. Dix ans. Elle tenait ce chiffre ferme. Dix ans entre le petit garçon qui parlait au grand-père et le jeune homme de la fin, et pendant ces dix ans il ne fut qu’un peu bizarre, un peu ailleurs, un garçon qui entendait des choses et n’en faisait pas un drame, qui haussait les épaules quand on lui demandait à qui il parlait. Il grandit, forcit, rit, tomba amoureux d’une fille du bourg d’à côté, se fit embaucher à la scierie. Il vivait. Vaenor avait fini par ranger sa peur au fond, et elle avait oublié jusqu’à l’endroit où elle l’avait rangée.
+C’est ce que personne ne comprenait, plus tard, quand elle essayait de se raconter l’histoire dans l’ordre. Treize ans. Elle tenait ce chiffre ferme. Treize ans entre le petit garçon qui parlait au grand-père et le jeune homme de la fin, et pendant ces treize ans il ne fut qu’un peu bizarre, un peu ailleurs, un garçon qui entendait des choses et n’en faisait pas un drame, qui haussait les épaules quand on lui demandait à qui il parlait. Il grandit, forcit, rit, tomba amoureux d’une fille du bourg d’à côté, se fit embaucher à la scierie. Il vivait. Vaenor avait fini par ranger sa peur au fond, et elle avait oublié jusqu’à l’endroit où elle l’avait rangée.
 
-Puis les neiges de sa dix-neuvième année fondirent, et le grand-père se remit à l’appeler, autrement.
+Puis les neiges de sa vingt-deuxième année fondirent, et le grand-père se remit à l’appeler, autrement.
 
 *
 
@@ -76,7 +76,7 @@ C’était plus tard dans la saison, quand les choses au coin de l’œil ne le 
 
 — La maison craque. » Il haussa une épaule. « Ce ne sont que les poutres, Vaenor, ce ne sont que les poutres qui travaillent. »
 
-Il le dit deux fois. Elle le nota sans savoir qu’elle le notait : cette manière de répéter une chose pour se convaincre de ce qu’on a cessé de croire. Des années plus tard, sous l’auvent d’un marché, un corroyeur dirait *les maisons craquent* deux fois de la même façon, et elle saurait d’où lui venait cette oreille-là. De sa propre cuisine, à vingt-deux ans, en face d’un frère qui appelait poutres ce qui n’était pas des poutres.
+Il le dit deux fois. Elle le nota sans savoir qu’elle le notait : cette manière de répéter une chose pour se convaincre de ce qu’on a cessé de croire. Des années plus tard, sous l’auvent d’un marché, un corroyeur dirait *les maisons craquent* deux fois de la même façon, et elle saurait d’où lui venait cette oreille-là. De sa propre cuisine, à vingt-cinq ans, en face d’un frère qui appelait poutres ce qui n’était pas des poutres.
 
 « Oui, dit-elle. Ce ne sont que les poutres. »
 
@@ -92,7 +92,7 @@ Elle n’avait pas encore de mot pour ce qu’il faudrait faire. Le mot vint plu
 
 Il y avait la rumeur, aussi. Pour être juste, il fallait le dire : la rumeur existait déjà.
 
-On disait dans les bourgs, aux puits, qu’il y avait des gens qui coupaient. Qu’on pouvait ôter la chose en soi, quand c’était tôt, et vivre après. Non-Lié, mais vivre. Sourd, mais vivre. Vaenor l’avait entendue comme tout le monde, et elle l’avait pesée, à vingt-deux ans, avec la balance dont elle se servirait toute sa vie.
+On disait dans les bourgs, aux puits, qu’il y avait des gens qui coupaient. Qu’on pouvait ôter la chose en soi, quand c’était tôt, et vivre après. Non-Lié, mais vivre. Sourd, mais vivre. Vaenor l’avait entendue comme tout le monde, et elle l’avait pesée, à vingt-cinq ans, avec la balance dont elle se servirait toute sa vie.
 
 Personne qu’elle connût n’avait coupé. Elle avait cherché, car elle voulait être juste ; elle n’était pas de celles qui décident d’abord et cherchent après. Prudemment, elle avait demandé à des gens de passage, à une vieille qui vendait des simples, à un colporteur qui faisait la tournée des vallées : *on dit qu’il y a des gens qui coupent ; vous en connaissez ?* Le colporteur avait ri et lui avait demandé si elle cherchait cela pour elle. La réponse ne varia jamais, et c’était celle qu’elle donnerait plus tard aux condamnés parce qu’elle l’avait d’abord reçue pour elle-même : *on le dit. Je connais personne. Mais on le dit.*
 
@@ -102,7 +102,7 @@ De l’autre côté, ce qu’elle savait faire de ses mains. Ce qui ne demandait
 
 Elle pesa. La rumeur pesait un *peut-être*. Sa main pesait un *certainement*. Elle choisit le certain, parce qu’elle aimait Tavel trop pour lui offrir un peut-être.
 
-C’était la phrase. C’était la phrase exacte qu’elle s’était dite, et elle se la répéterait toute sa vie ; longtemps, elle l’entendit comme une phrase d’amour. *Je l’aime trop pour lui offrir un peut-être.* Il lui fallut vingt ans pour entendre l’autre chose qui dormait dedans. Ce peut-être, elle le lui avait pris. À vingt-deux ans, elle ne l’entendait pas. Elle l’entendait cette nuit, à Vronne, devant deux traits et un doigt de blanc entre eux, et c’était pour cela qu’elle ne dormait pas.
+C’était la phrase. C’était la phrase exacte qu’elle s’était dite, et elle se la répéterait toute sa vie ; longtemps, elle l’entendit comme une phrase d’amour. *Je l’aime trop pour lui offrir un peut-être.* Il lui fallut vingt ans pour entendre l’autre chose qui dormait dedans. Ce peut-être, elle le lui avait pris. À vingt-cinq ans, elle ne l’entendait pas. Elle l’entendait cette nuit, à Vronne, devant deux traits et un doigt de blanc entre eux, et c’était pour cela qu’elle ne dormait pas.
 
 *
 
@@ -130,7 +130,7 @@ Il porta le bol à sa bouche, fit la grimace de l’amertume sous l’eau-de-vie
 
 C’était le ton de leur mère, l’ordre posé par-dessus la tendresse, *tais-toi et mange, tais-toi et dors, tais-toi et laisse-moi t’aimer sans que tu répondes* ; et Tavel, qui connaissait ce ton de maison, le reçut comme il l’avait toujours reçu. Il but jusqu’au fond.
 
-Elle lui tenait la nuque. Il n’en avait pas besoin : il buvait bien, il buvait comme un garçon en bonne santé. C’était elle qui avait besoin de tenir quelque chose, et il n’y avait, dans toute la maison, dans toute la nuit, que cette nuque-là. Sous ses doigts, les petits muscles travaillaient à avaler. La peau était chaude. La vie passait là, tranquille, ordinaire, la vie d’un garçon de dix-neuf ans qui ne savait pas.
+Elle lui tenait la nuque. Il n’en avait pas besoin : il buvait bien, il buvait comme un garçon en bonne santé. C’était elle qui avait besoin de tenir quelque chose, et il n’y avait, dans toute la maison, dans toute la nuit, que cette nuque-là. Sous ses doigts, les petits muscles travaillaient à avaler. La peau était chaude. La vie passait là, tranquille, ordinaire, la vie d’un garçon de vingt-deux ans qui ne savait pas.
 
 Le quart d’heure fut long. Dans la pièce, il n’y avait que le feu qui finissait, et le raclement du bol sur la table chaque fois qu’il le reposait pour parler. Il parla, la voix s’épaississant peu à peu. Il parla de la fille du bourg d’à côté, qu’il épouserait au printemps, disait-il, quand il irait mieux ; il était sûr d’aller mieux, maintenant qu’on le soignait. Il fit des projets de scierie, de mariage, d’enfants, la tête de plus en plus lourde contre l’épaule de sa sœur. *Je l’appellerai comme grand-père, le premier, si c’est un garçon.* Vaenor tint la nuque. Elle ne trouva rien à répondre à un garçon qui fait des projets d’enfants sur l’épaule de celle qui le tue.
 
@@ -142,15 +142,15 @@ Le grand-père l’appelait *rentre, Tavel, il se fait tard.* C’était cela qu
 
 Et cette nuit, à Vronne, sur le dessus des couvertures, dans le noir, Vaenor buta contre ce qu’elle ne s’était jamais permis de regarder : la question dessous, celle qu’un homme aux mains de tanneur lui poserait le lendemain, dans une grange, sans savoir qu’elle la portait depuis vingt ans. *Est-ce que c’était le grand-père, ou la chose ?* Est-ce que ce qui appelait Tavel voulait son bien ou sa mort ? Est-ce que le vieux mort l’appelait à la maison parce qu’il était déjà là où Tavel allait ? Ou est-ce que c’était seulement la chose qui le mangeait, et qui avait pris la voix du grand-père pour le tenir tranquille et doux et rieur pendant qu’elle le mangeait ?
 
-Elle ne savait pas. À vingt-deux ans, elle n’avait pas su. Elle ne saurait jamais. *Jamais* était le mot exact, et elle l’avait employé toute sa vie pour les autres, avec sa précision d’Inspectrice ; appliqué à Tavel, il n’avait pas de fond. Elle ne saurait jamais si le grand-père appelait ou si la chose imitait le grand-père. Elle ne saurait jamais s’il aurait été de ceux qui coupent et qui vivent : s’il y avait eu, quelque part sur une route qu’elle n’avait pas faite, une main qui savait, et une nuit à passer à le tenir *pour couper* et non pour endormir, une nuit où il aurait crié comme un veau sous une lame courte au lieu de rire de la mauvaise gnôle, et au bout de cette nuit un Tavel diminué, sourd, vivant, qui aurait épousé sa fille au printemps et appelé son premier fils comme le grand-père.
+Elle ne savait pas. À vingt-cinq ans, elle n’avait pas su. Elle ne saurait jamais. *Jamais* était le mot exact, et elle l’avait employé toute sa vie pour les autres, avec sa précision d’Inspectrice ; appliqué à Tavel, il n’avait pas de fond. Elle ne saurait jamais si le grand-père appelait ou si la chose imitait le grand-père. Elle ne saurait jamais s’il aurait été de ceux qui coupent et qui vivent : s’il y avait eu, quelque part sur une route qu’elle n’avait pas faite, une main qui savait, et une nuit à passer à le tenir *pour couper* et non pour endormir, une nuit où il aurait crié comme un veau sous une lame courte au lieu de rire de la mauvaise gnôle, et au bout de cette nuit un Tavel diminué, sourd, vivant, qui aurait épousé sa fille au printemps et appelé son premier fils comme le grand-père.
 
-Elle avait choisi le certain contre le peut-être. À vingt-deux ans, sur une rumeur qui ne menait à personne, de ses mains, elle avait fermé la porte du peut-être. Et le peut-être ne se rouvrait pas. C’était là toute l’horreur du certain qu’elle avait choisi : il avait fermé la mort, et il avait fermé la question avec, et à la place où le peut-être aurait vécu il ne restait qu’un *jamais* sans fond.
+Elle avait choisi le certain contre le peut-être. À vingt-cinq ans, sur une rumeur qui ne menait à personne, de ses mains, elle avait fermé la porte du peut-être. Et le peut-être ne se rouvrait pas. C’était là toute l’horreur du certain qu’elle avait choisi : il avait fermé la mort, et il avait fermé la question avec, et à la place où le peut-être aurait vécu il ne restait qu’un *jamais* sans fond.
 
 *
 
 Elle resta droite sur le bord du lit, dans le noir.
 
-Voilà pourquoi chaque fiole, depuis, pesait ce qu’elle pesait. Elle le comprit sans mots, avec cette clarté d’os qui lui venait parfois au fond des nuits. Chaque Tisse apaisé était une pierre de plus posée sur la question, pour la tenir au fond du puits. Si le protocole était une miséricorde, si la fiole, sous les tilleuls, sous les auvents, dans les granges, était bien un soin, alors Tavel avait reçu un soin, la porte fermée était bien fermée, et le *jamais* était une clémence. Mais s’il ne l’était pas, ne fût-ce qu’une seule fois, pour un seul, pour lui, alors elle avait tué son frère à vingt-deux ans, sur une rumeur, en lui refusant une chance qu’il avait le droit de courir. Alors il fallait qu’elle eût eu raison. Et pour avoir eu raison à propos de Tavel, il fallait avoir raison à propos de tous ; il fallait donc continuer, poser la pierre suivante, et la suivante, jusqu’à ce que le poids des raisons écrasât le doute assez profond pour qu’on n’entendît plus, la nuit, dans les relais, le rire d’un garçon qui trouvait la gnôle mauvaise.
+Voilà pourquoi chaque fiole, depuis, pesait ce qu’elle pesait. Elle le comprit sans mots, avec cette clarté d’os qui lui venait parfois au fond des nuits. Chaque Tisse apaisé était une pierre de plus posée sur la question, pour la tenir au fond du puits. Si le protocole était une miséricorde, si la fiole, sous les tilleuls, sous les auvents, dans les granges, était bien un soin, alors Tavel avait reçu un soin, la porte fermée était bien fermée, et le *jamais* était une clémence. Mais s’il ne l’était pas, ne fût-ce qu’une seule fois, pour un seul, pour lui, alors elle avait tué son frère à vingt-cinq ans, sur une rumeur, en lui refusant une chance qu’il avait le droit de courir. Alors il fallait qu’elle eût eu raison. Et pour avoir eu raison à propos de Tavel, il fallait avoir raison à propos de tous ; il fallait donc continuer, poser la pierre suivante, et la suivante, jusqu’à ce que le poids des raisons écrasât le doute assez profond pour qu’on n’entendît plus, la nuit, dans les relais, le rire d’un garçon qui trouvait la gnôle mauvaise.
 
 Elle corrigeait tous les chiffres. Corriger les chiffres des autres avait toujours été sa façon de tenir le monde debout : deux deniers huit, et non trois, et non deux et demi ; la chose à sa place exacte. Un seul chiffre échappait à cela, et elle ne le compterait jamais : combien, parmi ceux qu’elle avait apaisés, auraient trouvé la main qui savait. Combien auraient bêché un champ, diminués et vivants, si elle ne les avait pas devancés avec sa fiole et sa certitude. C’était le registre qu’elle tenait fermé, le seul qui n’eût pas de total ; et elle savait, cette nuit, avec le tanneur remis au lendemain sous son crâne, qu’elle le tenait fermé parce qu’elle n’osait pas l’ouvrir pour compter.
 
@@ -160,7 +160,7 @@ Le jour se leva sur Vronne, gris, la cendre fine dessus comme partout. Vaenor n�
 
 « Le tanneur du bourg d’en bas, Prime ? » Prime-Inspectrice était son grade ; l’usage n’en gardait que le premier mot. « C’est sur la route. On le prend au passage ? »
 
-Par la porte ouverte, elle regarda la route descendre entre les haies grises vers le fond de la vallée. Au bout, dans une grange qu’elle ne voyait pas encore, un homme aux mains de tanneur regardait les coins et entendait une morte lui dire de rentrer. Un homme, cette fois, et non un garçon de dix-neuf ans ; mais le mot dessous était le même, le mort qui appelle et qu’on trouve presque doux. C’était de cette manière-là qu’un enfant s’était arrêté un jour au milieu d’un jeu pour tendre l’oreille vers un coin vide et répondre, tranquillement, à un vieux qui l’appelait à la maison.
+Par la porte ouverte, elle regarda la route descendre entre les haies grises vers le fond de la vallée. Au bout, dans une grange qu’elle ne voyait pas encore, un homme aux mains de tanneur regardait les coins et entendait une morte lui dire de rentrer. Un homme, cette fois, et non un garçon de vingt-deux ans ; mais le mot dessous était le même, le mort qui appelle et qu’on trouve presque doux. C’était de cette manière-là qu’un enfant s’était arrêté un jour au milieu d’un jeu pour tendre l’oreille vers un coin vide et répondre, tranquillement, à un vieux qui l’appelait à la maison.
 
 Elle avait, pour ce matin, une réponse qui était le protocole et une réponse qui était autre chose, et les deux se ressemblaient à s’y méprendre.
 

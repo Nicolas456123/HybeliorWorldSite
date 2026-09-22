@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-nael, mangeurs-de-temps, culte-des-failles, troisieme-voie, phase-3, seuil-de-la-faille, gryndor, doute, mangeur-de-temps]
-titre: cinq — Le recruteur au bord
+titre: Le recruteur au bord
 type: roman-chapitre
 partie: IV
 pov: Nael, recruteur du culte des Mangeurs de Temps (ancien Tisse coupé, sourd aux morts)

@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-5, pov-kessane, gryndor, failles-mobiles, acceleration, contraction-du-temps, lirenn, air-en-retard, ecoute-neuve, doute-de-kessane, cahier, coincidence-jamais-causalite]
-titre: trois — Le fil qui se rétrécit
+titre: Le fil qui se rétrécit
 type: roman-chapitre
 partie: V
 pov: Kessane de la Forge-Basse

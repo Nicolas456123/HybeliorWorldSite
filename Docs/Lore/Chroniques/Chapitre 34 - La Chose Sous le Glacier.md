@@ -219,3 +219,11 @@ Je notai, pour finir, en homme qui croit aux listes plus qu’aux intuitions, et
 *Deux lignes, d’une main qui aurait pu être la mienne : le réseau est réel, le portail est sous Jumeau. Je les consigne comme un témoignage, pas comme une preuve. L’homme qui les a écrites n’est revenu confirmer aucune des deux.*
 
 *Et une dernière ligne, que je n’écris pas dans le cahier mais ici, dans la marge : je suis prêt. Il l’avait écrit vingt ans avant moi, et il ne s’était pas trompé.*
+
+---
+
+> *En marge de cette page, une ligne d’une autre main que celle de l’auteur, et plus ancienne ; le reste en était effacé. Rendue telle quelle, sans que le copiste en connaisse l’auteur, la date ni le sens.*
+>
+> *Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable.*
+>
+> *À côté, de la main de l’auteur : entendu ailleurs. Déjà.*

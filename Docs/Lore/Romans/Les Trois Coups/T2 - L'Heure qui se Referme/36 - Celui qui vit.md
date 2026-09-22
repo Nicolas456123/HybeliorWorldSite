@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-vaenor, inspecteurs-de-purete, coupure, survivant, fissure, tavel, temoin-exterieur]
-titre: sept — Celui qui vit
+titre: Celui qui vit
 type: roman-chapitre
 partie: IV
 pov: Vaenor Sorne
@@ -198,13 +198,13 @@ Combien d’hommes avait-elle privés d’une nuit atroce et d’un matin sourd,
 
 Tavel remonta, et cette fois il ne redescendit pas.
 
-Il y avait en elle un endroit où elle ne descendait pas. Ni porte ni verrou : l’habitude de ne pas y aller, prise à vingt-deux ans, tenue vingt ans. L’habitude venait de lâcher.
+Il y avait en elle un endroit où elle ne descendait pas. Ni porte ni verrou : l’habitude de ne pas y aller, prise à vingt-cinq ans, tenue vingt ans. L’habitude venait de lâcher.
 
-Dix-neuf ans. La nuque tenue pendant qu’il buvait, le rire sur la mauvaise gnôle, les prénoms d’enfants à venir. Il ne savait pas qu’elle savait faire un geste et pas un sort. Il ne le savait pas parce qu’elle-même l’ignorait, ou refusait de l’apprendre : il y avait, quelque part sur les routes de ce monde, une femme avec un cahier usé, une nuit à passer, et, au terme de cette nuit-là, peut-être un garçon debout dans un champ, deux ans après, cinq ans après, trente ans après.
+Vingt-deux ans. La nuque tenue pendant qu’il buvait, le rire sur la mauvaise gnôle, les prénoms d’enfants à venir. Il ne savait pas qu’elle savait faire un geste et pas un sort. Il ne le savait pas parce qu’elle-même l’ignorait, ou refusait de l’apprendre : il y avait, quelque part sur les routes de ce monde, une femme avec un cahier usé, une nuit à passer, et, au terme de cette nuit-là, peut-être un garçon debout dans un champ, deux ans après, cinq ans après, trente ans après.
 
 *Je l’aime trop pour lui offrir un peut-être.*
 
-Elle se l’était dite à vingt-deux ans, et elle avait vécu dessus vingt ans.
+Elle se l’était dite à vingt-cinq ans, et elle avait vécu dessus vingt ans.
 
 Et le peut-être bêchait à dix pas d’elle, il s’appelait Ferrec, et il aurait pu s’appeler Tavel.
 

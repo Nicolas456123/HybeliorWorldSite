@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-3, pov-vaenor-sorne, inspectrice-de-purete, drahk-nor, journal-de-thessan, cahier-de-copie, copie-d-olven, fragment-3, phrase-canon, coffre-des-preuves, scelle, ordre-de-bruler, archive-d-etat, la-traque, germe-t3]
-titre: trois — La clef du coffre
+titre: La clef du coffre
 type: roman-chapitre
 partie: III
 pov: Vaenor Sorne (présent) — Inspectrice de Pureté de Drahk'Nor

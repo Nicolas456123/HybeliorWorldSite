@@ -138,7 +138,7 @@ Sarve pleurait sans bruit, les mâchoires serrées, parce qu’il lui restait qu
 
 Personne ne répondit à l’enfant. Rien, là, ne pouvait se répondre. La dame dans le coin avait froid ; c’était un Errant, une morte sans porte, qui poussait contre le monde par la seule oreille encore neuve qui l’entendait, et cette oreille, dans un an, saignerait, et dans dix-huit mois se tairait pour toujours, avec le reste de l’enfant.
 
-Vaenor regarda le garçon lever les yeux vers son père, et elle vit, sans pouvoir s’en défendre, un autre visage se lever, très loin. Tavel avait dix-neuf ans. Il avait levé les yeux vers elle en buvant, il l’avait crue, parce qu’elle avait cette voix calme qu’on croit ; elle lui avait tenu la nuque pendant qu’il avalait ; et elle ignorait encore, ce matin comme à vingt-deux ans, ce qu’une main au cahier aurait fait de lui.
+Vaenor regarda le garçon lever les yeux vers son père, et elle vit, sans pouvoir s’en défendre, un autre visage se lever, très loin. Tavel avait vingt-deux ans. Il avait levé les yeux vers elle en buvant, il l’avait crue, parce qu’elle avait cette voix calme qu’on croit ; elle lui avait tenu la nuque pendant qu’il avalait ; et elle ignorait encore, ce matin comme à vingt-cinq ans, ce qu’une main au cahier aurait fait de lui.
 
 Elle reprit la fiole sur la table.
 

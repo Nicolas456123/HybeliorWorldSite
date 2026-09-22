@@ -23,7 +23,7 @@ Un pas dans l’escalier étroit, qui montait deux marches par appui.
 
 « Vous ne dormez pas, capitaine.
 
-— Vous non plus, et vous n’avez pas d’excuse. Moi, on me paye pour la nuit. » Vharel resta au bord du tapis, comme toujours ; il ne le franchissait que prié. « J’ai fait relever la garde de minuit. Les hommes du soir voyaient double, ils ne servaient plus qu’à faire nombre. J’ai mis Dennet à la poterne, Osrik sur le chemin de ronde, et j’ai fait clouer les deux volets du bas que vous aimez tenir ouverts.
+— Vous non plus, et vous n’avez pas d’excuse. Moi, on me paye pour la nuit. » Dorvel resta au bord du tapis, comme toujours ; il ne le franchissait que prié. « J’ai fait relever la garde de minuit. Les hommes du soir voyaient double, ils ne servaient plus qu’à faire nombre. J’ai mis Dennet à la poterne, Osrik sur le chemin de ronde, et j’ai fait clouer les deux volets du bas que vous aimez tenir ouverts.
 
 — Vous avez cloué mes volets.
 
@@ -31,7 +31,7 @@ Un pas dans l’escalier étroit, qui montait deux marches par appui.
 
 — C’est ça, ou c’est moi. Personne n’a jamais tranché, et je crois qu’en haut lieu on l’ignore aussi. »
 
-Vharel ne discuta pas. Il ne discutait que des accès et des angles. « Il y a mieux gardé que vous cette année, et ça n’a pas suffi. Je le sais. Je préfère le dire tout haut, comme ça vous ne me croirez pas plus fort que je ne suis. »
+Dorvel ne discuta pas. Il ne discutait que des accès et des angles. « Il y a mieux gardé que vous cette année, et ça n’a pas suffi. Je le sais. Je préfère le dire tout haut, comme ça vous ne me croirez pas plus fort que je ne suis. »
 
 C’était honnête, et cela lui plut, et cela lui fit froid. « Dites-moi ce que vous savez, alors. Les autres. Comment on les gardait.
 
@@ -39,21 +39,21 @@ C’était honnête, et cela lui plut, et cela lui fit froid. « Dites-moi ce q
 
 — Je passe mes journées sur des reliefs qui font peur vus d’en haut. Dites. »
 
-Il eut le mouvement d’épaule des gens qui cèdent parce qu’on a nommé leur métier avec respect. « Le premier, il y a trois ans, on ne le gardait pas du tout. On l’a trouvé à sa fenêtre et on a cru à une attaque. Le deuxième avait quatre hommes. Le sixième, l’archiviste des trois portes de fer, il en avait quarante et un donjon, et on l’a trouvé derrière ses portes closes de l’intérieur, sans une serrure forcée. Puis ça s’est resserré. Le prêtre du Mont, l’automne dernier. La reine du sud, cet hiver, dans sa litière, au milieu de sa propre armée. Et depuis le printemps, on ne compte plus par saisons. »
+Il eut le mouvement d’épaule des gens qui cèdent parce qu’on a nommé leur métier avec respect. « Le premier, il y a trois ans, on ne le gardait pas du tout. On l’a trouvé à sa fenêtre et on a cru à une attaque. Le deuxième avait quatre hommes. Le sixième, l’archiviste des trois portes de fer, il en avait quarante et un donjon, et on l’a trouvé derrière ses portes closes de l’intérieur, sans une serrure forcée. Puis ça s’est resserré. Le prêtre du Mont, qu’on a mis longtemps à compter avec les autres. La reine du sud, cet hiver, dans sa litière, au milieu de sa propre armée. Et depuis le printemps, on ne compte plus par saisons. »
 
 Pour cela, elle avait sa feuille à elle, dans le tiroir du haut. Elle ne la lui montra pas. « Vous comptez par quoi, depuis le printemps.
 
-— Par semaines », dit Vharel, à voix basse, comme un chiffre qu’on n’a pas envie de prononcer devant ce qu’il désigne. « Quatre en douze mois, disait-on cet été. Ce n’est déjà plus vrai. Deux depuis la dernière lune. Le second n’était pas encore enterré qu’on m’affectait ici. »
+— Par semaines », dit Dorvel, à voix basse, comme un chiffre qu’on n’a pas envie de prononcer devant ce qu’il désigne. « Quatre en douze mois, disait-on cet été. Ce n’est déjà plus vrai. Deux depuis la dernière lune. Le second n’était pas encore enterré qu’on m’affectait ici. »
 
 Elvire vint jusqu’à la fenêtre clouée et appuya la main sur la planche neuve, qui sentait encore la résine. Deux depuis la dernière lune. « Quand un géographe voit une côte avancer sur la mer d’un relevé à l’autre, capitaine, il ne se demande pas si elles se toucheront. Il prend l’écart qui reste et il le reporte. »
 
-Vharel la regarda un long temps, et ce fut lui, l’homme des accès et des angles, qui trouva à répondre contre son propre métier. « Alors ne me facilitez pas le calcul. Fermez cette lampe tôt. Ne descendez pas ouvrir vous-même. Et cette feuille, si elle vaut tant, faites-en un double et envoyez-le loin d’ici cette nuit, pendant que dix-huit hommes tiennent la rue. Je sais garder une maison. Une feuille qui n’existe qu’ici, c’est au-dessus de moi. »
+Dorvel la regarda un long temps, et ce fut lui, l’homme des accès et des angles, qui trouva à répondre contre son propre métier. « Alors ne me facilitez pas le calcul. Fermez cette lampe tôt. Ne descendez pas ouvrir vous-même. Et cette feuille, si elle vaut tant, faites-en un double et envoyez-le loin d’ici cette nuit, pendant que dix-huit hommes tiennent la rue. Je sais garder une maison. Une feuille qui n’existe qu’ici, c’est au-dessus de moi. »
 
 « C’est fait, dit Elvire. Le double est parti hier, dans un rouleau de plans d’égouts que personne ne songera à voler. Je ne suis pas si sûre de moi qu’il faille l’être aussi de la feuille.
 
 — Alors la feuille peut brûler.
 
-— La feuille peut brûler. Moi aussi, du coup. C’est presque un soulagement. » Un demi-sourire lui vint, pour qu’il pût s’en aller. « Allez tenir votre couloir, Vharel. Vous le tenez bien. Ce qui vient ne passera pas par votre couloir, et ce ne sera pas votre faute. »
+— La feuille peut brûler. Moi aussi, du coup. C’est presque un soulagement. » Un demi-sourire lui vint, pour qu’il pût s’en aller. « Allez tenir votre couloir, Dorvel. Vous le tenez bien. Ce qui vient ne passera pas par votre couloir, et ce ne sera pas votre faute. »
 
 Il partit du même pas prudent et elle l’entendit redescendre l’escalier étroit, appui par appui, jusqu’à la rue devenue couloir.
 
@@ -69,7 +69,7 @@ Et entre les deux, du blanc.
 
 C’était là qu’un moins bon cartographe eût tracé un trait. Une flèche, une accolade, un pointillé de cause à effet, n’importe quel signe pour dire : ceci explique cela, le monde s’affole donc on tue, ou l’on tue donc le monde s’affole. Elle avait combattu ce trait-là quarante ans durant, chez les autres et chez elle. Elle savait par où une carte ment : par ce qu’on y ajoute pour rassurer, les côtes qu’on ferme faute d’avoir navigué au fond de la baie, les fleuves qu’on fait se rejoindre parce qu’il serait plus beau qu’ils se rejoignissent. Elle regarda longtemps les deux montées. La feuille donnait deux pentes, et s’arrêtait là. Peut-être partaient-elles d’une même source cachée sous la page. Peut-être montaient-elles côte à côte par pur hasard, comme deux rivières nées de deux versants. Elle ouvrit le compas sur le blanc, entre la ligne rouge et l’autre, par acquit de conscience, et le referma aussitôt. Il n’existait pas d’échelle, au bas de cette feuille, pour un écart de cette espèce. Elle laissa l’ouverture telle quelle. Sa main tremblait un peu en refermant le tiroir.
 
-En bas, on frappa. Deux coups, un temps, deux coups. La cadence que Vharel avait fixée le soir même.
+En bas, on frappa. Deux coups, un temps, deux coups. La cadence que Dorvel avait fixée le soir même.
 
 Il avait donc laissé passer quelqu’un, ce qu’il ne faisait pas sans une raison qu’elle trouverait bonne. Lampe haute, elle descendit et trouva dans le vestibule un homme qu’elle connaissait de trop longtemps, dégouttant de la pluie fine, un tube de cuir à l’épaule, l’air d’un voyageur qui s’excuse d’exister.
 
@@ -131,13 +131,13 @@ Elle prit les calques et les tint à la chandelle. Six feuilles, et les points d
 
 Revenue à la grande table, elle retrouva le delta manquant, en bas à gauche, avec son vide de marais qu’elle ne comblerait pas. Plume trempée, elle se pencha pour tirer la seule ligne dont elle fût sûre, le trait de côte que nul ne contestait, ce contour d’eau et de terre sur quoi les deux couronnes s’accordaient sans le savoir. Sa main était sûre. La côte vint sous la plume, propre, régulière, un fil noir posé le long du vide.
 
-Les torches de Vharel tenaient leurs places dehors, à intervalles égaux. Par habitude de qui compte tout, elle les compta : la poterne, le chemin de ronde, les deux bouts du couloir. Une manquait au nord, là où il avait mis Osrik. La flamme montait droite, immobile, et personne ne passait devant. Osrik avait dû faire trois pas pour souffler dans ses paumes, et elle apprenait, comme les six et les huit et tous ceux d’avant, à faire une falaise du moindre creux.
+Les torches de Dorvel tenaient leurs places dehors, à intervalles égaux. Par habitude de qui compte tout, elle les compta : la poterne, le chemin de ronde, les deux bouts du couloir. Une manquait au nord, là où il avait mis Osrik. La flamme montait droite, immobile, et personne ne passait devant. Osrik avait dû faire trois pas pour souffler dans ses paumes, et elle apprenait, comme les six et les huit et tous ceux d’avant, à faire une falaise du moindre creux.
 
 Elle resta là le temps de compter jusqu’à cent. Personne ne passa devant la flamme du nord.
 
-Un creux de plus, relevé en passant, qu’on ne retourne pas voir. Elle faillit descendre le dire à Vharel, puis se dit qu’un capitaine sans deux nuits de sommeil méritait mieux qu’un lever de lit pour une torche. On ne ferme pas une côte qu’on n’a pas longée, même quand la fermer arrangerait tout le monde : elle avait tenu là-dessus contre des commanditaires pressés et contre elle-même, les soirs de fatigue. Sa plume retrouva le trait de côte, et elle laissa cette baie-là ouverte comme les autres.
+Un creux de plus, relevé en passant, qu’on ne retourne pas voir. Elle faillit descendre le dire à Dorvel, puis se dit qu’un capitaine sans deux nuits de sommeil méritait mieux qu’un lever de lit pour une torche. On ne ferme pas une côte qu’on n’a pas longée, même quand la fermer arrangerait tout le monde : elle avait tenu là-dessus contre des commanditaires pressés et contre elle-même, les soirs de fatigue. Sa plume retrouva le trait de côte, et elle laissa cette baie-là ouverte comme les autres.
 
-Sa plume allait encore quand la chose fut là. Aucun des bruits que Vharel faisait guetter depuis minuit ne se produisit : le grattement de la plume sur le vélin, et tout de suite après, sans le moindre intervalle, une chaleur derrière elle, au creux du col, posée là comme on pose une pointe sur un point déjà marqué. Cela ne demandait rien. Cela tenait la ligne de son cou immobile, du soin qu’elle mettait, elle, à garder une ouverture. Aucune voix, aucun nom, aucun grief. La chose la tenait comme on tient un point, et n’avait rien à lui dire.
+Sa plume allait encore quand la chose fut là. Aucun des bruits que Dorvel faisait guetter depuis minuit ne se produisit : le grattement de la plume sur le vélin, et tout de suite après, sans le moindre intervalle, une chaleur derrière elle, au creux du col, posée là comme on pose une pointe sur un point déjà marqué. Cela ne demandait rien. Cela tenait la ligne de son cou immobile, du soin qu’elle mettait, elle, à garder une ouverture. Aucune voix, aucun nom, aucun grief. La chose la tenait comme on tient un point, et n’avait rien à lui dire.
 
 Il lui resta de quoi penser une chose, et elle la pensa en entier. Elle mourait dans le blanc, dans l’espace qu’elle avait refusé de combler, entre la ligne des morts et la ligne du monde qui s’affole. Elle en emportait les deux bords et le vide au travers. La question partait avec elle, à la place de la réponse, et c’était encore la façon la plus propre de s’en aller quand on a fait ce métier : un écart qu’aucune échelle ne reçoit, on le laisse ouvert, le sien compris.
 

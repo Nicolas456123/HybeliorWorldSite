@@ -92,7 +92,7 @@ Je n’ai rien répondu. Si j’avais dit ce que sa phrase venait de recouper da
 
 Sarandel ne se voit pas d’abord. Elle s’entend.
 
-J’ai traversé assez de villes pour les lire de loin à leur fond sonore : Kharazir et son grondement de bazar, les quais d’Alkaran, les docks de fer de Mosrack. Depuis la crête, Sarandel produisait un son que je n’avais rencontré nulle part. Des voix, des instruments, des chœurs épars, des bruits de métier, et rien de tout cela ne devenait vacarme. Pas une mélodie concertée. Un accord. La ville avait trouvé sa tonalité, et chaque geste y tombait juste.
+J’ai traversé assez de villes pour les lire de loin à leur fond sonore : Rukhsar et son grondement de bazar, les quais d’Alkaran, les docks de fer de Mosrack. Depuis la crête, Sarandel produisait un son que je n’avais rencontré nulle part. Des voix, des instruments, des chœurs épars, des bruits de métier, et rien de tout cela ne devenait vacarme. Pas une mélodie concertée. Un accord. La ville avait trouvé sa tonalité, et chaque geste y tombait juste.
 
 « L’Heure du Chant vient de commencer », dit Brennan.
 

@@ -148,7 +148,7 @@ Il l’avait dit. Ils le disaient rarement aussi net. Ce tanneur aux mains brune
 
 La nuit d’avant, au relais de Vronne, elle avait regardé une poutre jusqu’au jour en tenant cette question-là à distance de bras. Elle la tenait ainsi depuis vingt ans. Et voilà qu’un homme qu’elle n’avait jamais vu la lui disait tout haut, dans ses mots à lui, sans se douter qu’il rendait à quelqu’un une chose perdue.
 
-Tavel avait dix-neuf ans, elle en avait vingt-deux. À la fin, le grand-père l’appelait pour qu’il rentre, et Tavel, qui le lui avait raconté, trouvait cela doux. Cette nuit-là, elle avait choisi entre une rumeur sans adresse et ce que ses mains savaient faire, et elle avait pris ses mains. Après, elle n’avait plus jamais eu à choisir : il y avait eu un corps d’Inspecteurs, un grade, un protocole et un mot pour le dire, et le mot avait fait le reste.
+Tavel avait vingt-deux ans, elle en avait vingt-cinq. À la fin, le grand-père l’appelait pour qu’il rentre, et Tavel, qui le lui avait raconté, trouvait cela doux. Cette nuit-là, elle avait choisi entre une rumeur sans adresse et ce que ses mains savaient faire, et elle avait pris ses mains. Après, elle n’avait plus jamais eu à choisir : il y avait eu un corps d’Inspecteurs, un grade, un protocole et un mot pour le dire, et le mot avait fait le reste.
 
 Ce que Marek venait de poser sur la table, c’était ce qui ne s’était pas décidé cette nuit-là et ne se déciderait plus. Elle avait fermé la question en même temps que la vie. Derrière la porte, il n’y avait pas seulement un frère mort ; il y avait un frère dont personne ne saurait jamais.
 

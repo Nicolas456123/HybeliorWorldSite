@@ -1,6 +1,6 @@
 ---
 tags: [roman, trois-coups, tome-2, fleau-des-failles, partie-4, pov-vaenor, inspecteurs-de-purete, drahvel, edit-de-purete, marquage, doctrine, purge, germe-loi-du-sol]
-titre: neuf — L’Édit de Pureté
+titre: L’Édit de Pureté
 type: roman-chapitre
 partie: IV
 pov: Vaenor Sorne
@@ -118,7 +118,7 @@ Drahvel l’avait lu sur elle. Il lisait, lui aussi ; ils portaient la même ve
 
 « J’objecte », dit-elle.
 
-Sa voix resta basse, comme toujours ; ce matin, la tenir basse lui coûta, parce qu’il y avait dessous un champ, un homme qui bêchait, et un frère de dix-neuf ans dont elle avait soutenu la tête.
+Sa voix resta basse, comme toujours ; ce matin, la tenir basse lui coûta, parce qu’il y avait dessous un champ, un homme qui bêchait, et un frère de vingt-deux ans dont elle avait soutenu la tête.
 
 « L’article trois. L’apaisement préventif. » Elle posa ses mots un par un, avec la lenteur qu’elle avait vue à Ferrec et qui, ce matin, lui venait toute seule. « Tout notre fondement, préfet, celui qui fait de l’apaisement un soin et non un meurtre, c’est que le sujet est un mort en sursis. Qu’il va souffrir. Qu’on lui épargne. Retirez cela, retirez le fait qu’il est *déjà* condamné, et il ne reste que le geste. Un enfant qui ne montre aucun signe n’est pas un mort en sursis. Il est un enfant. Peut-être un Tisse un jour. Peut-être jamais. Le prendre, ce n’est pas l’épargner d’une agonie ; il n’a pas d’agonie ; c’est— »
 

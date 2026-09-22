@@ -375,15 +375,15 @@ Le roman **incarne la lecture verithane de l’intérieur** (les Huit croient ag
 
 ## ANNEXE — Concordance des numérotations
 
-Deux systèmes coexistent volontairement : les **noms de fichiers** (00-36, ordre de lecture,
+Deux systèmes coexistent volontairement : les **noms de fichiers** (00-54, ordre de lecture,
 seuils et fenêtres inclus) et le champ frontmatter **`chapitre:`** (numérotation du plan §3,
-chapitres POV uniquement). Exemples : fichier `19` = chapitre 16 ; fichier `21` = chapitre 18 ;
-fichier `22` = chapitre 19. Chaque système est continu et sans trou ; l’ordre de lecture de
+chapitres POV uniquement). Exemples : fichier `19` = chapitre 18 ; fichier `21` = chapitre 19 ;
+fichier `22` = chapitre 20. Chaque système est continu et sans trou ; l’ordre de lecture de
 référence est celui de `roman-index.json`. POV Sera en continuité
-sur H-2 → H0 (fichiers 27-28) : le geste vu par elle seule sert l’ambiguïté ; titres-heures
+sur H-2 → H0 (fichiers 41-42) : le geste vu par elle seule sert l’ambiguïté ; titres-heures
 ponctuels des fenêtres (H4, H6) assumés, le texte respecte les plages de la bible §2.
 
-**Numérotation officielle des chapitres** : les 31 chapitres POV sont numérotés 1 à 31 dans l’ordre de lecture (coda comprise) ;
+**Numérotation officielle des chapitres** : les 49 chapitres POV sont numérotés 1 à 49 dans l’ordre de lecture (coda comprise) ;
 le prologue et les seuils de la voix du Lien restent HORS numérotation. Les H1 portent
 « Chapitre X — Titre » sauf les chapitres-heures (H-7 → H7), dont le titre reste l’heure ;
 leur numéro vit sur la carte du sommaire (« Chapitre N — POV ») et en frontmatter.

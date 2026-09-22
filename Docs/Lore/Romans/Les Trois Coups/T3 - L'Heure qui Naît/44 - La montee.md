@@ -8,7 +8,7 @@ status: draft
 
 # La montée
 
-Le répit d’avant avait duré le temps d’une respiration. Celui-là ne dura pas ce temps-là.
+Le répit d’avant n’avait pas tenu ce qu’on attendait de lui. Celui-là tint moins encore.
 
 Renna savait ce qu’un creux pareil valait dans une côte. Sa mère l’avait mise au sentier dès qu’elle avait su porter, un seau dans chaque main, avec la seule règle du chemin : on monte au pas qu’on tiendra jusqu’en haut, jamais à celui qu’on a dans les jambes en bas ; celle qui part trop vite s’assied au tiers, et celle qui s’assied au tiers monte deux fois. Elle avait monté ce sentier vingt-cinq ans sans s’asseoir une seule fois. Elle avait un pas de côte comme d’autres ont une écriture, et ce pas-là se réglait sur le souffle, un souffle par appui, jamais deux. Depuis le matin, le sol reprenait sa poussée avant qu’elle eût fini la sienne.
 
