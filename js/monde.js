@@ -286,8 +286,10 @@ async function vueSeuil() {
   vue.append(h('div', { class: 'seuil' },
     h('h1', { class: 'titre-monde', text: 'Hybelior' }),
     h('div', { class: 'ornement', text: '◆ ◇ ◆' }),
+    h('p', { class: 'nom-savoir', title: 'Le savoir d’Hybelior : la salle où toutes les sources tombent et se gardent. Il sait tout, et il tranche quand deux textes se contredisent.' },
+      h('span', { class: 'art', text: 'l’' }), 'Atrium'),
+    h('p', { class: 'sous-savoir', text: 'L’accès à tout ce que le monde sait' }),
     h('p', { class: 'devise', text: 'Treize continents. Dix mille ans. Une trame qui respire — et qui se souvient.' }),
-    h('p', { class: 'nom-savoir', title: 'Le savoir d’Hybelior : la salle où toutes les sources tombent et se gardent. Elle sait tout, et elle tranche quand deux textes se contredisent.' }, 'l’', h('strong', { text: 'Atrium' })),
     h('p', { class: 'compte', text: total + ' portes déjà ouvertes' })));
 
   // Grande quête (recherche)
