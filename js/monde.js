@@ -24,6 +24,22 @@ function h(tag, attrs, ...kids) {
   for (const k of kids.flat()) if (k != null) e.append(k);
   return e;
 }
+/* Le texte d'un fait part dans du HTML : on l'échappe. */
+const esc = (t) => String(t == null ? '' : t)
+  .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+  .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+
+/* Un fait porte son texte tantôt dans `label` (les faits anciens), tantôt dans
+ * `detail` (ceux versés depuis les livres). L'Atrium montre tout : aucun fait
+ * ne s'affiche vide parce qu'il a rempli l'autre champ. */
+function texteFait(f, max) {
+  const t = (f.label || f.detail || f.dateLabel || '').trim();
+  if (!max || t.length <= max) return t;
+  const coupe = t.slice(0, max);
+  const i = Math.max(coupe.lastIndexOf(' '), coupe.lastIndexOf(','), coupe.lastIndexOf(';'));
+  return (i > max * 0.6 ? coupe.slice(0, i) : coupe).replace(/[ ,;]$/, '') + '…';
+}
+
 const debounce = (fn, ms) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; };
 
 /* Gestes tactiles (iPhone/Android) : glisser = pan, pincer = zoom, taper = tap.
@@ -526,7 +542,7 @@ async function vueFiche(id) {
       ul.append(h('li', {},
         h('span', { class: 'an', text: anStr(f.start_year, f.start_circa) || '· · ·' }),
         h('span', { class: 'puce' }),
-        h('span', { class: 'quoi', html: '<b>' + f.fact_type + '</b> — ' + (f.label || f.dateLabel || '') })));
+        h('span', { class: 'quoi', html: '<b>' + f.fact_type + '</b> — ' + esc(texteFait(f)) })));
     }
     droite.append(h('div', { class: 'panneau' }, h('div', { class: 'etiquette groupe-rel', text: 'La trame des faits' }), ul));
   }
@@ -645,7 +661,7 @@ async function vueEres() {
     const echos = (parEre[ere.id] || []).slice(0, 3);
     if (echos.length) {
       const ul = h('div', { class: 'echos' });
-      for (const f of echos) ul.append(h('span', { class: 'quoi', html: '<b>' + anStr(f.start_year, f.start_circa) + '</b> — ' + (f.subjectName || '') + (f.label ? ' · ' + f.label : '') }));
+      for (const f of echos) ul.append(h('span', { class: 'quoi', html: '<b>' + anStr(f.start_year, f.start_circa) + '</b> — ' + esc(f.subjectName || '') + (texteFait(f) ? ' · ' + esc(texteFait(f, 140)) : '') }));
       bloc.append(ul);
     }
     flux.append(bloc);
@@ -1709,7 +1725,7 @@ async function vueFresque() {
       const quand = estFourchette(survole)
         ? 'entre ' + anStr(survole.start_year, 1) + ' et ' + anStr(survole.end_year, 1) + " · fenêtre d'incertitude"
         : anStr(survole.start_year, survole.start_circa) + (prov ? ' · ' + prov : '');
-      const txt = (survole.subjectName || '') + ' — ' + (survole.label || survole.fact_type)
+      const txt = (survole.subjectName || '') + ' — ' + (texteFait(survole, 110) || survole.fact_type)
         + ' (' + quand + ')';
       ctx.font = `${12 * dpr}px Raleway, sans-serif`;
       const wTxt = ctx.measureText(txt).width;

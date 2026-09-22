@@ -17,7 +17,7 @@ ouvrent. Trois règles, qui valent partout dans ce dépôt :
 2. **L'Atrium tranche.** Quand un chapitre, une fiche ou une bible le
    contredit, c'est lui qui a raison. Si c'est lui qui a tort, on le corrige
    **là** — dans `data/kg-base.json` — et le reste suit.
-3. **Les livres, eux, gardent leurs mystères.** Les 34 entités de type
+3. **Les livres, eux, gardent leurs mystères.** Les 33 entités de type
    `question`, dont treize portent `data.protege`, ne sont jamais résolues :
    l'Atrium enregistre **que** la question se pose, ses lectures concurrentes
    et qui les porte — jamais la réponse.
