@@ -206,6 +206,67 @@ dans une quarantaine de cas — des `cite` pour un « Population : Village », d
 *(Réparation en cours au 2026-09-22 ; chaque correction doit citer la phrase de
 la fiche qui la prouve.)*
 
+### 7 ter. Les surfaces de pays ne sont pas bonnes — liste de travail
+
+**Confirmé par l'auteur le 2026-09-22.** Chaque surface de `data/monde-contours.json`
+(jeu 0, niveau `pays`) a été confrontée aux lieux positionnés qu'elle contient,
+et à la nation que leur **fiche** leur donne. Deux mesures :
+- **intrus** : lieux dans la surface, mais d'une autre nation selon leur fiche ;
+- **échappés** : lieux de cette nation, mais hors de sa surface.
+
+Sur 30 surfaces, **deux seulement** sont propres (Evertia, Baelor-Prime — les deux
+plus petites). **224 lieux** positionnés ne tombent dans aucun pays.
+
+| Pays | Aire (u²) | Justes | Intrus | Échappés | Intrus principaux |
+|---|---:|---:|---:|---:|---|
+| Lumasar | 5045 | 14 | 5 | 18 | Kharazir 3, Trinoria 2 |
+| Seraphia | 3825 | 14 | 1 | 19 | Lumasar 1 |
+| Trinoria | 5701 | 8 | 8 | 10 | Lumasar 7, Kharazir 1 |
+| Altram | 3197 | 6 | 4 | 11 | Torkam 4 |
+| Kharazir | 7418 | 13 | 4 | 11 | Lumasar 2, Valoria 2 |
+| Avalor | 3114 | 10 | 0 | 15 | — |
+| Ryldor | 15295 | 2 | 11 | 3 | Astravia 6, No Man's Land Celethor 5 |
+| Warenthor | 3805 | 0 | 9 | 3 | Haldria 7, Ackerna 2 |
+| Astravia | 2054 | 5 | 0 | 12 | — |
+| Ventera | 2537 | 11 | 2 | 9 | Solena 2 |
+| Torkam | 1112 | 3 | 0 | 11 | — |
+| Sylthara | 2337 | 5 | 0 | 10 | — |
+| Elarian | 4367 | 9 | 0 | 10 | — |
+| Iskara | 5071 | 13 | 1 | 8 | Avalor 1 |
+| Tyndara | 2497 | 9 | 0 | 8 | — |
+| Solena | 1323 | 8 | 0 | 8 | — |
+| Thalmaris | 4055 | 10 | 1 | 7 | Iskara 1 |
+| Brumaria | 1665 | 8 | 0 | 8 | — |
+| Ackerna | 5360 | 8 | 4 | 3 | Sylthara 4 |
+| Mosrack | 4058 | 1 | 0 | 7 | — |
+| Myrtam | 2070 | 6 | 1 | 6 | Torkam 1 |
+| Drakora | 2767 | 5 | 4 | 2 | Lythar 3, Vytharia 1 |
+| Pyrtara | 3425 | 8 | 0 | 5 | — |
+| Lythar | 2924 | 8 | 0 | 5 | — |
+| Valoria | 2784 | 11 | 2 | 3 | Lumasar 2 |
+| Gryndor | 1115 | 1 | 1 | 3 | Pyrtara 1 |
+| Vytharia | 1266 | 3 | 0 | 4 | — |
+| Skaldoria | 0 | 0 | 0 | 3 | — |
+
+**Ce qui vient de l'Atrium, et ce qui vient de la carte.** `scripts/extract-pays.js`
+tire la graine de chaque pays de l'Atrium : sa capitale (`capitale-de`), sinon ses
+villes (`situe-dans`). Ces liens étaient faux pour sept nations au moins. Ré-extraction
+testée en bac à sable après la correction des liens du 2026-09-22 :
+- **Ryldor** passe de 15 295 à 2 451 u² — l'aspiration de la moitié de Celethor
+  venait des graines, et elle disparaît. Warenthor et Ackerna s'améliorent aussi.
+- **22 des 30 pays ressortent identiques à l'octet près** (Lumasar, Seraphia,
+  Trinoria, Kharazir, Avalor, Altram…). Leurs graines étaient déjà bonnes : leurs
+  erreurs viennent des **aplats de couleur de « Hybelior Pays.png »**, pas de
+  l'Atrium. C'est la carte qui est à reprendre là.
+- **Piège** : la ré-extraction donne désormais une surface à **Haldria** (Hekorinth
+  a reçu son lien `capitale-de`), prise sur celle que l'arbitrage du 2026-09-14
+  attribuait à Warenthor. **Rien n'a été appliqué** : relancer l'extraction exige
+  de trancher d'abord ce point.
+
+Le bloc Galenor (Lumasar 23 erreurs, Seraphia 20, Trinoria 18, Kharazir 15) est le
+plus atteint : les lieux de Lumasar tombent dans Trinoria, ceux de Kharazir dans
+Lumasar. C'est par là que la reprise de la carte rapporterait le plus.
+
 ### 8. `npm run lint` est rouge — deux erreurs
 
 `scripts/wf-corpus-sweep.js` et `scripts/wf-histoires-exhaustif.js` sont des modules

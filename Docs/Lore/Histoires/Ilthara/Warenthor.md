@@ -213,4 +213,4 @@ Aldra eut alors un soupçon plus grave. Elle commença à observer ses propres t
 
 Elle écrivit dans ses notes : *Ce n'est pas l'encre qui ment. C'est nous qui apprenons à parler moins.* Elle ne montra ses notes à personne.
 
-À sa mort, son apprentie Mylene héritage du carnet. Elle lut. Elle ne sut pas quoi faire. Elle continua à tatouer, comme avant. Les nouveaux tatouages bougent encore. Personne ne demande pourquoi les anciens bougent moins. Aldra à peut-être vu juste. On ne tranche pas.
+À sa mort, son apprentie Mylene hérita du carnet. Elle lut. Elle ne sut pas quoi faire. Elle continua à tatouer, comme avant. Les nouveaux tatouages bougent encore. Personne ne demande pourquoi les anciens bougent moins. Aldra à peut-être vu juste. On ne tranche pas.

@@ -72,13 +72,32 @@ du monde.
 - Le registre des incohérences du lore :
   `Docs/Lore/Incohérences et chantiers — à résoudre.md`.
 
-## Calage de la carte — CLOS (2026-09-10)
+## Calage de la carte — CLOS (2026-09-10) · Surfaces de pays — NON VALIDÉES
 
-Les côtes/pays de `data/monde-contours.json` (refaits depuis le tracé de
-l'auteur) sont validés : indirectement (631/633 villes cohérentes,
+Les **côtes** de `data/monde-contours.json` (refaites depuis le tracé de
+l'auteur) sont validées : indirectement (631/633 villes cohérentes,
 Velmaris à 1,2 unité de la côte) ET visuellement par l'auteur sur le vrai
 fond (la carte s'affiche correctement dans son navigateur, contours
-alignés). Le 403 sur `hybelior-tiles.nicolas-vollard.workers.dev` ne
+alignés).
+
+⚠ **Les surfaces de PAYS ne le sont pas** — l'auteur l'a confirmé le
+2026-09-22 (« les polygones ne sont pas encore bons »). Mesure du jour :
+sur 30 surfaces, 2 seulement ne contiennent aucun lieu d'une autre nation,
+et 224 lieux positionnés ne tombent dans aucun pays. Conséquences :
+- **Ne JAMAIS dériver un rattachement (`situe-dans`, `capitale-de`) d'un
+  point-dans-polygone.** C'est ce qui avait rangé 160 lieux sous la
+  mauvaise bannière. Rattachement = fiches, toujours.
+- **`scripts/extract-pays.js` tire ses graines de l'Atrium** (capitale via
+  `capitale-de`, sinon villes via `situe-dans`). Des liens faux y
+  produisent des surfaces fausses : c'est ce qui faisait avaler la moitié
+  de Celethor par Ryldor (15 295 u² → 2 451 après correction des liens,
+  testé en bac à sable). Mais 22 des 30 pays ressortent identiques : leurs
+  erreurs viennent des aplats de « Hybelior Pays.png », pas des graines.
+- **Relancer l'extraction rouvrirait l'arbitrage Haldria du 2026-09-14** :
+  Hekorinth ayant désormais son lien `capitale-de`, Haldria reçoit une
+  surface prise sur celle attribuée à Warenthor. Ne pas relancer sans
+  trancher d'abord ce point avec l'auteur.
+Le détail pays par pays est au registre des incohérences, §7 ter. Le 403 sur `hybelior-tiles.nicolas-vollard.workers.dev` ne
 concernait que la politique réseau de l'environnement Claude Code, jamais
 le site — **ne plus retenter le curl à chaque session**. Si une
 vérification au pixel devient un jour utile : ouvrir le domaine dans la
