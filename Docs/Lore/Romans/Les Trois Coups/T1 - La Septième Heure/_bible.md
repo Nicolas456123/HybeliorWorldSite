@@ -214,10 +214,20 @@ Le ciel ne change pas. Le soleil se lève. Les arbres sont là. **Rien de visibl
 
 Structure temporelle : le **présent** du livre couvre les ~90 derniers jours avant l’An 0 (préparatifs + voyage au Mont) ; le **passé** remonte par les dispositifs propres à chaque POV majeur (§1). La Partie V bascule dans le temps minuté.
 
-### PROLOGUE — « Ce que je tiens »
-- **Voix du Lien**, irruption 1 (pleine puissance). Énumération somptueuse de tout ce qu’elle tient : 120 millions d’âmes, 7 cités volantes, 200 portails, 9 religions. Elle se croit éternelle. Dernière ligne : une fêlure infime, qu’elle ne remarque pas.
+### PROLOGUE — en deux mouvements *(révisé 2026-09-22)*
+
+**I — « La gardienne du seuil »** *(POV Nera, hors numérotation)*
+- Une femme, son arche, quarante ans de métier dont dix-huit à ce seuil. Les ingénieurs de la Charte montent une fois l’an mesurer la résonance ; elle sait de son arche des choses que leurs chiffres ne disent pas. Le lecteur apprend ce qu’est le Lien **en regardant quelqu’un s’en servir**, pas en lisant l’inventaire d’un dieu.
+- Dernière ligne : l’arche grince pour personne, « sous le poids d’un pas que nul n’avait fait ». Le Lien lâche une première fois, vu d’en bas, sans un mot d’explication. Nera revient au ch. 41, pendant les heures.
+
+**II — « Ce que je tiens »** *(voix du Lien, irruption 1, pleine puissance)*
+- Elle jure n’avoir jamais laissé tomber personne — **deux pages après que le lecteur a entendu l’arche grincer.** C’est là, et nulle part ailleurs, que le prologue gagne son ironie.
+- Elle **compte** ce qu’elle tient sans le **nommer** : sept cités et aucune ne manque, neuf grands noms, six empires, cent vingt millions un par un. Le compte est ce que les huit irruptions effaceront ; la nomenclature, elle, ne servait qu’à la relecture et coûtait mille mots au premier lecteur. **Elle est retirée.**
+- **Ne désigne plus rien** : ni le mont au sud, ni l’homme penché sur son livre à Aethranor. La découverte appartient aux chapitres.
+- Le portail répond à Nera au mot près : elle dit du porteur qu’il ne saura jamais « qu’entre ces deux pas il n’avait, un instant, existé nulle part » ; la voix achève la phrase — « **sinon en moi** ».
+- Dernière ligne : une fêlure infime, qu’elle ne remarque pas.
 - **Fragment du journal de Thessan #1** (voir droite).
-- *Fonction* : poser l’ampleur (« et au-delà ») et le compte à rebours implicite. Le lecteur sait déjà que cette voix va mourir.
+- *Fonction* : un visage avant un dieu, puis l’ampleur. Le lecteur sait déjà que cette voix va mourir — et il l’a déjà entendue se tromper.
 
 ### PARTIE I — « Les lecteurs » *(le monde d’avant, le Cercle se forme dans la mémoire)*
 Seuil : **voix du Lien irruption 2** + **Fragment #2**.

@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-3, pov-iveth, alkaran, ildaran, morts, cendara, expansion-v2]
 type: roman-chapitre
 partie: III
-chapitre: 28
+chapitre: 27
 titre: Les morts qui poussent
 pov: Iveth le Silencieux (présent, un mois avant la veille ; la lecture du Mont, la descente, ce qu'il dit à Sera et ce qu'il tait)
 lieu: flanc du Mont Cendra, puis Cendral bas
 status: draft
 ---
 
-# Chapitre vingt-huit — Les morts qui poussent
+# Chapitre vingt-sept — Les morts qui poussent
 
 Aelindra le tenait par le bras gauche, la fille du forgeron par le droit, et entre elles deux Iveth montait la pente noire sans y être pour grand-chose. Ses jambes posaient un pied, puis l’autre, par politesse ; c’étaient les deux femmes qui décidaient où, et quand, et de combien. Se faire porter à dos de montagne lui faisait honte comme d’une chose sale, et il n’avait plus le souffle qu’il aurait fallu pour s’en défendre.
 

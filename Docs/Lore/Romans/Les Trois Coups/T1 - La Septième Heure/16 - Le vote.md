@@ -4,12 +4,12 @@ titre: Le vote
 type: roman-chapitre
 partie: II
 pov: Vorath le Tacite (présent — Baelor, l'assemblée qui pose les pierres, le consentement de la communauté)
-chapitre: 15
+chapitre: 14
 lieu: Baelor (Salle du Silence de Tholmë, puis la grève des Cailloux)
 status: draft
 ---
 
-# Chapitre quinze — Le vote
+# Chapitre quatorze — Le vote
 
 Au pied de Tholmë, sur la grève noire, une dalle de basalte affleure le sable. Les frères l’appellent la table des Cailloux. La mer haute vient en toucher les bords et n’en couvre jamais le centre. Depuis quatre siècles, quand une chose est trop lourde pour qu’un seul homme la tienne, la communauté descend là. On ne parle pas. On pose une pierre.
 

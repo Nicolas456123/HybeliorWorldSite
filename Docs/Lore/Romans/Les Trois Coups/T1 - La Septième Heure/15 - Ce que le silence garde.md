@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-2, chapitre-9, pov-vorath, baelor, taciti, silence]
 type: roman-chapitre
 partie: II
-chapitre: 14
+chapitre: 13
 titre: Ce que le silence garde
 pov: Vorath le Tacite (présent — Baelor, la communauté qui vote, la préparation à l'après)
 lieu: Baelor (cloître de Tholmë)
 status: draft
 ---
 
-# Chapitre quatorze — Ce que le silence garde
+# Chapitre treize — Ce que le silence garde
 
 Vorath n’avait jamais prié pour que le monde finisse. Pendant quarante ans, il avait écouté, rien d’autre. Puis l’écoute lui avait rendu une chose qu’il n’avait pas demandée.
 

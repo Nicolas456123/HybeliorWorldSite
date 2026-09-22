@@ -4,12 +4,12 @@ titre: Le feu encore chaud
 type: roman-chapitre
 partie: IV
 pov: Verkan Sorne, Prime-Inquisiteur du Bureau des Concordances de Pyrion (présent, la veille)
-chapitre: 32
+chapitre: 31
 lieu: les hautes terres de Sulvane, au-dessus du port — un campement abandonné
 status: draft
 ---
 
-# Chapitre trente-deux — Le feu encore chaud
+# Chapitre trente et un — Le feu encore chaud
 
 Le sentier des hautes terres était une hésitation dans la caillasse, que les chèvres et les contrebandiers entretenaient à parts égales, et que personne d’honnête n’avait de raison de prendre.
 

@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-3, chapitre-11, pov-kayara, azoria, gens-de-l-eau, voyage]
 type: roman-chapitre
 partie: III
-chapitre: 21
+chapitre: 20
 titre: Ceux de l'eau
 pov: Kayara-du-Large (présent : la traversée, l'art de vivre sans Lien, le transport du Cercle)
 lieu: Mer des Azories / route vers le continent
 status: draft
 ---
 
-# Chapitre vingt et un — Ceux de l’eau
+# Chapitre vingt — Ceux de l’eau
 
 Le sel avait changé de goût, et Kayara sut qu’il y aurait du gros temps avant le soir.
 

@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-3, chapitre-13, fenetre-monde, pov-ilvar, navoria, azoria]
 type: roman-chapitre
 partie: III
-chapitre: 24
+chapitre: 23
 titre: La ville qui respire
 pov: Ílvar (présent) — fenêtre-monde
 lieu: Navoria (Thalassocratie de Navoris, Azoria)
 status: draft
 ---
 
-# Chapitre vingt-quatre — La ville qui respire
+# Chapitre vingt-trois — La ville qui respire
 
 Ílvar relevait ses nasses avant le jour. Les autres sortaient à l’aube, avec le vent de terre ; lui partait une heure plus tôt, dans le noir, et cette heure-là était à lui.
 

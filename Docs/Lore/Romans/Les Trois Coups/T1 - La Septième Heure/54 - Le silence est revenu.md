@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, coda, pov-vorath, baelor, taciti, silence, saint-malgre-lui, graine-t2]
 type: roman-chapitre
 partie: coda
-chapitre: 49
+chapitre: 48
 titre: Le silence est revenu
 pov: Vorath le Tacite (An 0, les jours d'après — le retour à Baelor)
 lieu: la mer, puis Baelor (cloître de Tholmë)
 status: draft
 ---
 
-# Chapitre quarante-neuf — Le silence est revenu
+# Chapitre quarante-huit — Le silence est revenu
 
 Les genoux dans la cendre, à trois pas du bord, Vorath faisait l’Heure Vide quand l’homme sans nom se leva.
 

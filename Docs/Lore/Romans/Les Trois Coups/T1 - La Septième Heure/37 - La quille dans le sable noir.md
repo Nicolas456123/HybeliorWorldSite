@@ -4,12 +4,12 @@ type: roman-chapitre
 partie: IV
 titre: La quille dans le sable noir
 pov: Verkan Sorne (présent, ~J-3) — l'Arc du Chasseur
-chapitre: 34
+chapitre: 33
 lieu: Crique de la Dent, côte sud de Cendara
 status: draft
 ---
 
-# Chapitre trente-quatre — La quille dans le sable noir
+# Chapitre trente-trois — La quille dans le sable noir
 
 Le sable de la crique était noir, et froid, et il gardait tout.
 

@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-2, chapitre-7, pov-sera, celethor]
 type: roman-chapitre
 partie: II
-chapitre: 12
+chapitre: 11
 titre: La part des Vides
 pov: Sera (présent)
 lieu: Celethor
 status: draft
 ---
 
-# Chapitre douze — La part des Vides
+# Chapitre onze — La part des Vides
 
 Depuis des semaines, Sera vivait avec la question. Cette nuit-là, elle lui trouva un fond plus froid.
 

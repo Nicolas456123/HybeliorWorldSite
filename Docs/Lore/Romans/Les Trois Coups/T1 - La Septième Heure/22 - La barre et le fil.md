@@ -4,12 +4,12 @@ titre: La barre et le fil
 type: roman-chapitre
 partie: III
 pov: Kayara-du-Large (passé — la vie de mer avant le Cercle, un sauvetage, la Ligue Marchande d'Everthor)
-chapitre: 20
+chapitre: 19
 lieu: Mer des Azories / passe du Corail-Mort / Everthor
 status: draft
 ---
 
-# Chapitre vingt — La barre et le fil
+# Chapitre dix-neuf — La barre et le fil
 
 Le naufragé jurait dans une langue que Kayara ne connaissait pas, et elle sut qu’il vivrait.
 

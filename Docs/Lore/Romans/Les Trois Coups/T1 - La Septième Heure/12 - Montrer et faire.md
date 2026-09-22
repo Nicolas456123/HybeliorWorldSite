@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-2, chapitre-6, pov-thessan, aethranor]
 type: roman-chapitre
 partie: II
-chapitre: 11
+chapitre: 10
 titre: Montrer et faire
 pov: Thessan (présent)
 lieu: Aethranor (Galenor)
 status: draft
 ---
 
-# Chapitre onze — Montrer et faire
+# Chapitre dix — Montrer et faire
 
 La même ligne, quatre fois, et quatre fois fausse.
 

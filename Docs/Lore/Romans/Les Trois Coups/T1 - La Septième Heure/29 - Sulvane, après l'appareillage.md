@@ -4,12 +4,12 @@ titre: Sulvane, après l’appareillage
 type: roman-chapitre
 partie: III
 pov: Verkan Sorne (présent) — l'Arc du Chasseur
-chapitre: 27
+chapitre: 26
 lieu: Port de Sulvane
 status: draft
 ---
 
-# Chapitre vingt-sept — Sulvane, après l’appareillage
+# Chapitre vingt-six — Sulvane, après l’appareillage
 
 Le bureau du manifeste sentait le goudron chaud et l’encre bon marché. Verkan Sorne connaissait cette odeur depuis Pyrion : celle des pièces où l’on écrit vite et où personne ne relit. Il était venu pour cela. Dans un port, un nom se change pour le prix d’un repas, et il n’en attendait pas un seul de vrai.
 

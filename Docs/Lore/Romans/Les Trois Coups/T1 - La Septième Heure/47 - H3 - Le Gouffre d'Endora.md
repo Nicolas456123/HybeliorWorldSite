@@ -2,7 +2,7 @@
 tags: [roman, trois-coups, tome-1, partie-5, fenetre-monde, pov-tarreck, endora, varandar, gouffre, sept-heures, H3, germe-failles]
 type: roman-chapitre
 partie: V
-chapitre: 42
+chapitre: 41
 titre: Le Gouffre d'Endora
 pov: Tarreck, passeur du Gouffre (présent — An 0) — fenêtre-monde
 lieu: Le Gouffre, au-dessus de Varandar (Endora)

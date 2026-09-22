@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-1, chapitre-4, pov-drakhan, cendara]
 type: roman-chapitre
 partie: I
-chapitre: 6
+chapitre: 5
 titre: Ce qui ne plie pas
 pov: Drakhan l'Aîné (passé — Cendara)
 lieu: Cendara
 status: draft
 ---
 
-# Chapitre six — Ce qui ne plie pas
+# Chapitre cinq — Ce qui ne plie pas
 
 La barre tenait au rouge sombre dans la tenaille, et Drakhan la regardait respirer.
 

@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-4, chapitre-19, pov-thessan, cercle, cendral, derniere-reunion]
 type: roman-chapitre
 partie: IV
-chapitre: 33
+chapitre: 32
 titre: La phrase qui attendait
 pov: Thessan (présent, ~J-1, dernière nuit au pied du Mont)
 lieu: Cendral bas, au pied du Mont Cendra (Cendara)
 status: draft
 ---
 
-# Chapitre trente-trois — La phrase qui attendait
+# Chapitre trente-deux — La phrase qui attendait
 
 Ils étaient sept, et ils ne seraient jamais huit.
 

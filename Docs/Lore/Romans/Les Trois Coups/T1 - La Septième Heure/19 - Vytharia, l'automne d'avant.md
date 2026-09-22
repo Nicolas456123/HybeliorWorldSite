@@ -4,12 +4,12 @@ titre: Vytharia, l’automne d’avant
 type: roman-chapitre
 partie: II
 pov: Mirathis (passé récent, automne, l'an trois avant ; Gelinar → Aethranor)
-chapitre: 18
+chapitre: 17
 lieu: Gelinar puis les routes d'Ilthara (Vytharia, Gryndor, marches de Haldria)
 status: draft
 ---
 
-# Chapitre dix-huit — Vytharia, l’automne d’avant
+# Chapitre dix-sept — Vytharia, l’automne d’avant
 
 La brume avait pris sa teinte de fin de saison, plus jaune, presque terreuse, celle qui venait quand l’année basculait vers le froid. Mirathis fit sa besace dans cette lumière-là, un matin, sur le seuil de la maison où iel était né·e, et serra la courroie deux fois pour s’occuper les mains.
 

@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-4, chapitre-17, pov-sera, etudiant, lettre, cendra]
 type: roman-chapitre
 partie: IV
-chapitre: 30
+chapitre: 29
 titre: Ce qu'on ne dit pas à une sœur
 pov: Sera (présent, la veille, J-1)
 lieu: au pied du Mont Cendra (Cendral bas)
 status: draft
 ---
 
-# Chapitre trente — Ce qu’on ne dit pas à une sœur
+# Chapitre vingt-neuf — Ce qu’on ne dit pas à une sœur
 
 La montagne était au-dessus d’eux, maintenant, et cela changeait tout.
 

@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-4, chapitre-16, pov-iveth, alkaran, ildaran, morts, cendara]
 type: roman-chapitre
 partie: IV
-chapitre: 29
+chapitre: 28
 titre: Ce que les morts ne disent pas
 pov: Iveth le Silencieux (présent — au pied du Mont Cendra, la veille ; le lecteur des morts, mourant, qui ne montera pas)
 lieu: Cendral bas, au pied du Mont Cendra
 status: draft
 ---
 
-# Chapitre vingt-neuf — Ce que les morts ne disent pas
+# Chapitre vingt-huit — Ce que les morts ne disent pas
 
 La lampe brûlait comme la veille, haute et droite ; c’était l’huile qui baissait. Iveth s’éteignait de cette façon-là. Sans douleur : voilà ce qui trompait tout le monde, et d’abord la fille du forgeron, qui lui montait chaque soir un bol de bouillon et cherchait sur son visage la fièvre, la grimace, un mal qui aurait eu un nom et qu’on aurait pu combattre. Elle trouvait chaque matin un peu moins d’huile que la veille, et rien d’autre.
 

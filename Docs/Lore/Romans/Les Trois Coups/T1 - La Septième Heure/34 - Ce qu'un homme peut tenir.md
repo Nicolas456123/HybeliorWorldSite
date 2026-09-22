@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-4, chapitre-18, fenetre-monde, pov-pontife, navoria, navoris, azoria]
 type: roman-chapitre
 partie: IV
-chapitre: 31
+chapitre: 30
 titre: Ce qu'un homme peut tenir
 pov: Théon Ossarin, Grand Pontife de Navigor (présent, la veille) — fenêtre-monde
 lieu: Navoria (Thalassocratie de Navoris, Azoria) — le Sanctuaire de Navigor
 status: draft
 ---
 
-# Chapitre trente et un — Ce qu’un homme peut tenir
+# Chapitre trente — Ce qu’un homme peut tenir
 
 Le Grand Pontife de Navigor s’appelait Théon Ossarin, et il avait cessé, depuis longtemps, de croire que Navigor l’entendait.
 

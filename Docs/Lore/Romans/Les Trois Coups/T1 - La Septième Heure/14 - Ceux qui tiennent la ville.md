@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-2, chapitre-8, fenetre-monde, pov-kelib, cendara]
 type: roman-chapitre
 partie: II
-chapitre: 13
+chapitre: 12
 titre: Ceux qui tiennent la ville
 pov: Kelib (présent) — fenêtre-monde
 lieu: Cendal'Horun (cité volante au-dessus de Cendara)
 status: draft
 ---
 
-# Chapitre treize — Ceux qui tiennent la ville
+# Chapitre douze — Ceux qui tiennent la ville
 
 On ne devait pas s’approcher du bord. Kelib s’en approchait.
 

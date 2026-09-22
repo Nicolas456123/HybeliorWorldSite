@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, coda, pov-verkan, pyrion, chasseur, rapport-falsifie, six-lectures, artefact-faux, graine-t3]
 type: roman-chapitre
 partie: coda
-chapitre: 48
+chapitre: 47
 titre: Le rapport que personne ne lira
 pov: Verkan Sorne (les jours d'après — Pyrion, le Bureau des Concordances ; il falsifie son propre rapport)
 lieu: Dominat de Pyrion — le Bureau des Concordances
 status: draft
 ---
 
-# Chapitre quarante-huit — Le rapport que personne ne lira
+# Chapitre quarante-sept — Le rapport que personne ne lira
 
 Le brasero du cabinet brûlait, comme tous les jours depuis vingt ans. Verkan Sorne le vérifia avant d’ôter son manteau, et ne se demanda pas pourquoi il commençait par là.
 

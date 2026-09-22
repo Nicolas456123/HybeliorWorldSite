@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-5, chasseur, pov-verkan, cendral, mont-cendra, temoin-exterieur, six-lectures, route-des-cendres]
 type: roman-chapitre
 partie: V
-chapitre: 39
+chapitre: 38
 titre: Au pied de la montagne
 pov: Verkan Sorne (présent, Cendral basse, au pied du Mont Cendra ; témoin extérieur de H0)
 lieu: Cendral basse, faubourg haut, au pied du Mont Cendra (Cendara)
 status: draft
 ---
 
-# Chapitre trente-neuf — Au pied de la montagne
+# Chapitre trente-huit — Au pied de la montagne
 
 Une lanterne brûlait encore au bas de la rampe, la dernière du faubourg.
 

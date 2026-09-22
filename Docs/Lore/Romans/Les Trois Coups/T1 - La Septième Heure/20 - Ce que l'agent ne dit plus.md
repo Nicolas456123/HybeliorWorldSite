@@ -4,12 +4,12 @@ type: roman-chapitre
 partie: II
 titre: Ce que l'agent ne dit plus
 pov: Verkan (présent — Pyrion, le Bureau des Concordances)
-chapitre: 19
+chapitre: 18
 lieu: Dominat de Pyrion — la ville haute, puis le Bureau des Concordances
 status: draft
 ---
 
-# Chapitre dix-neuf — Ce que l’agent ne dit plus
+# Chapitre dix-huit — Ce que l’agent ne dit plus
 
 Sa fille avait mis trois couverts. Ils n’étaient que deux.
 

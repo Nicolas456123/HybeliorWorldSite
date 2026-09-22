@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, coda, pov-kessa, cendara, forgerons, grande-nuit, graine-t2]
 type: roman-chapitre
 partie: coda
-chapitre: 47
+chapitre: 46
 titre: La marque qui reste
 pov: Kessa (An 0, le lendemain — Cendara, hors de Cendral)
 lieu: Cendara — un relais de la Route des Cendres, au nord de Cendral
 status: draft
 ---
 
-# Chapitre quarante-sept — La marque qui reste
+# Chapitre quarante-six — La marque qui reste
 
 Kessa l’apprit par la couleur du fer.
 

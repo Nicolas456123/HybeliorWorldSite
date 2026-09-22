@@ -4,12 +4,12 @@ titre: La concordance manquante
 type: roman-chapitre
 partie: I
 pov: Verkan (présent — le Bureau des Concordances ; le rapport à brûler, qu'il lit d'abord)
-chapitre: 10
+chapitre: 9
 lieu: Dominat de Pyrion — Bureau des Concordances
 status: draft
 ---
 
-# Chapitre dix — La concordance manquante
+# Chapitre neuf — La concordance manquante
 
 Au Bureau des Concordances, on classait les silences comme le reste : un cordon, un numéro d’ordre, un casier. Verkan Sorne en avait trois sur sa table ce matin-là, et ils venaient tous de la même femme.
 

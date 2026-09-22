@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-3, chapitre-12, pov-drakhan, cendral, cendara]
 type: roman-chapitre
 partie: III
-chapitre: 22
+chapitre: 21
 titre: La forge qu'on laisse
 pov: Drakhan l'Aîné (présent — Cendral, au pied du Mont)
 lieu: Cendral, Cendara
 status: draft
 ---
 
-# Chapitre vingt-deux — La forge qu’on laisse
+# Chapitre vingt et un — La forge qu’on laisse
 
 Enfant, on montait au Mont chercher la pierre à feu, le soufre pour la trempe, l’obsidienne que son grand-père appelait le verre du Cœur. On prenait les sentiers noirs entre les coulées froides, on rentrait le sac plein, et pendant trois jours on retrouvait la cendre du sommet sous ses ongles, dans sa gorge, jusque dans le pain du soir. C’était cela, être de Cendral : avoir le Mont dans le corps. Les étrangers qui arrivaient par la Route des Cendres toussaient et se plaignaient de l’air ; en bas, on en riait. *Ils toussent notre air,* disait-on. *Nous, on le respire.*
 

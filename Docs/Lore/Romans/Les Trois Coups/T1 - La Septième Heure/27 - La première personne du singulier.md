@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-3, chapitre-14, pov-thessan, voyage, cendara]
 type: roman-chapitre
 partie: III
-chapitre: 25
+chapitre: 24
 titre: La première personne du singulier
 pov: Thessan (présent, en route vers Cendara, ~J-33)
 lieu: Route de Sulvane à Cendara (Cendara)
 status: draft
 ---
 
-# Chapitre vingt-cinq — La première personne du singulier
+# Chapitre vingt-quatre — La première personne du singulier
 
 Ils voyageaient par petits groupes, jamais tous ensemble, jamais tout à fait séparés. Aelindra l’avait voulu ainsi, et Thessan avait mis du temps à comprendre son calcul. Elle le lui avait exposé une fois, à Sulvane, la veille du départ, en pliant des cartes qu’elle ne regardait pas : elle connaissait déjà chaque col par cœur.
 

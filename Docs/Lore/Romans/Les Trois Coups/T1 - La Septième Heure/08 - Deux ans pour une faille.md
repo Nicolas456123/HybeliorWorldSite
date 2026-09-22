@@ -4,12 +4,12 @@ titre: Deux ans pour une faille
 type: roman-chapitre
 partie: I
 pov: Aelindra (passé — la dernière rencontre de l'infiltration, la conversion par la raison)
-chapitre: 8
+chapitre: 7
 lieu: Celethor
 status: draft
 ---
 
-# Chapitre huit — Deux ans pour une faille
+# Chapitre sept — Deux ans pour une faille
 
 Deux ans qu’Aelindra guettait le même signe, et deux ans qu’il ne venait pas. Chez tous les hommes qu’elle avait fait parler, et elle en avait fait parler une centaine, l’écart finissait par apparaître : la distance entre ce qu’ils disaient et ce qu’ils tenaient sous la table. Elle posait toujours une autre question que celle qui l’intéressait, une question qui obligeait l’homme à choisir entre trois mensonges, et elle regardait lequel il prenait. On l’avait payée toute sa vie pour ce regard-là.
 

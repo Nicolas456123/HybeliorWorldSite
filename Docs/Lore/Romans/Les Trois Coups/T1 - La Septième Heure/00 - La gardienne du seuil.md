@@ -1,15 +1,14 @@
 ---
-tags: [roman, trois-coups, tome-1, partie-1, chapitre-3, fenetre-monde, pov-nera, aethranor]
+tags: [roman, trois-coups, tome-1, prologue, fenetre-monde, pov-nera, aethranor]
 type: roman-chapitre
-partie: I
-chapitre: 5
+partie: prologue
 titre: La gardienne du seuil
 pov: Nera (présent, J-24) — fenêtre-monde
 lieu: Aethranor (Galenor)
 status: draft
 ---
 
-# Chapitre cinq — La gardienne du seuil
+# Prologue, I — La gardienne du seuil
 
 Nera aimait l’arche à l’heure où personne ne la traversait.
 

@@ -4,7 +4,7 @@ titre: Ce que les rêves montrent d'autre
 type: roman-chapitre
 partie: II
 pov: Mirathis (présent, Aethranor)
-chapitre: 17
+chapitre: 16
 lieu: Aethranor (Galenor), auberge des Voyageurs Lents
 status: draft
 ---

@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-3, chapitre-12b, pov-verkan, chasseur, route-de-terre, sulvane]
 type: roman-chapitre
 partie: III
-chapitre: 23
+chapitre: 22
 titre: Le gîte trop propre
 pov: Verkan Sorne (présent — un gîte de la route de terre, hautes terres vers Sulvane)
 lieu: Auberge du Corbeau-Gris, route de terre vers le sud
 status: draft
 ---
 
-# Chapitre vingt-trois — Le gîte trop propre
+# Chapitre vingt-deux — Le gîte trop propre
 
 La cour de l’Auberge du Corbeau-Gris avait été lavée.
 

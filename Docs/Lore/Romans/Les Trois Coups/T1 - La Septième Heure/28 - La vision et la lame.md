@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-3, chapitre-15, pov-sera, etudiant, voyage]
 type: roman-chapitre
 partie: III
-chapitre: 26
+chapitre: 25
 titre: La vision et la lame
 pov: Sera (présent)
 lieu: en route vers Cendara — hautes terres de Sulvane
 status: draft
 ---
 
-# Chapitre vingt-six — La vision et la lame
+# Chapitre vingt-cinq — La vision et la lame
 
 Sur l’eau, Sera avait dormi. La raison lui était venue peu à peu : Kayara lisait le ciel et le sel, la côte s’en allait derrière, rien devant ne portait de nom, et l’esprit, faute de repères, se laissait bercer. À terre, c’était fini. Devant eux, une route, et la route menait au Mont Cendra.
 

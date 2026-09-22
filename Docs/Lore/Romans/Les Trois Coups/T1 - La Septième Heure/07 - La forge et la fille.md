@@ -4,12 +4,12 @@ titre: La forge et la fille
 type: roman-chapitre
 partie: I
 pov: Drakhan l'Aîné (passé — Cendral, recrutement)
-chapitre: 7
+chapitre: 6
 lieu: Cendral, Cendara
 status: draft
 ---
 
-# Chapitre sept — La forge et la fille
+# Chapitre six — La forge et la fille
 
 Le fer sortit du feu presque mûr. Drakhan le posa sur l’enclume, le marteau levé, attendant la seconde où le métal cesse de durcir et se met à céder. Le foyer soufflait dans son dos. Par la porte, la ruelle en pente poussait un filet d’air froid qui lui prenait les reins. Le bras avait trouvé sa cadence ; il ne pensait à rien. Le marteau tomba, et le coup sonna clair.
 

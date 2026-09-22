@@ -2,14 +2,14 @@
 tags: [roman, trois-coups, tome-1, partie-2, chapitre-10, pov-mirathis, vytharia, somnium-vigil]
 type: roman-chapitre
 partie: II
-chapitre: 16
+chapitre: 15
 titre: Ce que les rêves savaient
 pov: Mirathis (passé/présent, Vytharia → Aethranor)
 lieu: Gelinar (Vytharia, Ilthara), puis Aethranor (Galenor)
 status: draft
 ---
 
-# Chapitre seize — Ce que les rêves savaient
+# Chapitre quinze — Ce que les rêves savaient
 
 À Gelinar, on savait l’heure sans voir le ciel. La brume ne s’ouvrait jamais assez pour montrer le soleil, mais elle changeait de densité au fil du jour : épaisse et laiteuse le matin, plus fine et grise à midi, presque bleue le soir. Un enfant de Gelinar apprenait à lire ces épaisseurs comme un enfant d’ailleurs apprend à lire une horloge. Mirathis avait grandi là, dans cette lumière qui n’en était pas une, à trois maisons du dernier champ d’encens avant que la brume ne devînt trop lourde pour qu’on y cultivât quoi que ce fût.
 

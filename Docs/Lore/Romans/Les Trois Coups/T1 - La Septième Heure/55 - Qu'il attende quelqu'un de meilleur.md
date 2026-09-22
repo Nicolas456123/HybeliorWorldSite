@@ -2,7 +2,7 @@
 tags: [roman, trois-coups, tome-1, coda, pov-thessan, journal, fragment-zero, fragment-7, artefact-cache, clausule-d-echappee, cloture, beat-final, coeur-de-cendra, battement, contrepoint-verkan, etudiant-vu-de-loin]
 type: roman-chapitre
 partie: coda
-chapitre: 50
+chapitre: 49
 titre: Qu'il attende quelqu'un de meilleur
 pov: Thessan l'Érudit (An 0, le soir — dernière image du livre) ; ultime demi-page en contrepoint muet (le Chasseur voit l'homme qui s'arrête, vers l'est) avant le beat final — le premier battement du Cœur de Cendra
 beat_final: le premier battement du Mont Cendra (V-bis) — dernière image non-verbale du tome ; ordre : geste (livre muré) → Fragment #7 (dernière parole humaine) → l'homme qui s'arrête (POV Verkan, avant-dernier souffle) → le battement (dernier souffle)
@@ -10,7 +10,7 @@ lieu: le flanc du Mont Cendra, sous la cendre — un abri de roche
 status: draft
 ---
 
-# Chapitre cinquante — Qu’il attende quelqu’un de meilleur
+# Chapitre quarante-neuf — Qu’il attende quelqu’un de meilleur
 
 Il était vivant, et rien ne l’expliquait.
 

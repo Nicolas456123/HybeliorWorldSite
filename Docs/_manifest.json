@@ -1173,59 +1173,59 @@
   ],
   "Lore/Romans/Les Trois Coups/T1 - La Septième Heure": [
     {
-      "name": "00 - Ce que je tiens",
-      "file": "00 - Ce que je tiens.md",
-      "title": "Prologue — Ce que je tiens"
+      "name": "00 - La gardienne du seuil",
+      "file": "00 - La gardienne du seuil.md",
+      "title": "Prologue, I — La gardienne du seuil"
     },
     {
-      "name": "01 - Les lecteurs",
-      "file": "01 - Les lecteurs.md",
+      "name": "01 - Ce que je tiens",
+      "file": "01 - Ce que je tiens.md",
+      "title": "Prologue, II — Ce que je tiens"
+    },
+    {
+      "name": "02 - Les lecteurs",
+      "file": "02 - Les lecteurs.md",
       "title": "Chapitre premier — Les lecteurs"
     },
     {
-      "name": "02 - La dernière question de l'Académie",
-      "file": "02 - La dernière question de l'Académie.md",
+      "name": "03 - La dernière question de l'Académie",
+      "file": "03 - La dernière question de l'Académie.md",
       "title": "Chapitre deux — La dernière question de l’Académie"
     },
     {
-      "name": "03 - Le fil et le vide",
-      "file": "03 - Le fil et le vide.md",
+      "name": "04 - Le fil et le vide",
+      "file": "04 - Le fil et le vide.md",
       "title": "Chapitre trois — Le fil et le vide"
     },
     {
-      "name": "04 - La lettre non écrite",
-      "file": "04 - La lettre non écrite.md",
+      "name": "05 - La lettre non écrite",
+      "file": "05 - La lettre non écrite.md",
       "title": "Chapitre quatre — La lettre non écrite"
-    },
-    {
-      "name": "05 - La gardienne du seuil",
-      "file": "05 - La gardienne du seuil.md",
-      "title": "Chapitre cinq — La gardienne du seuil"
     },
     {
       "name": "06 - Ce qui ne plie pas",
       "file": "06 - Ce qui ne plie pas.md",
-      "title": "Chapitre six — Ce qui ne plie pas"
+      "title": "Chapitre cinq — Ce qui ne plie pas"
     },
     {
       "name": "07 - La forge et la fille",
       "file": "07 - La forge et la fille.md",
-      "title": "Chapitre sept — La forge et la fille"
+      "title": "Chapitre six — La forge et la fille"
     },
     {
       "name": "08 - Deux ans pour une faille",
       "file": "08 - Deux ans pour une faille.md",
-      "title": "Chapitre huit — Deux ans pour une faille"
+      "title": "Chapitre sept — Deux ans pour une faille"
     },
     {
       "name": "09 - Le rapport",
       "file": "09 - Le rapport.md",
-      "title": "Chapitre neuf — Le rapport"
+      "title": "Chapitre huit — Le rapport"
     },
     {
       "name": "10 - La concordance manquante",
       "file": "10 - La concordance manquante.md",
-      "title": "Chapitre dix — La concordance manquante"
+      "title": "Chapitre neuf — La concordance manquante"
     },
     {
       "name": "11 - Seuil de la Partie I - La voix du Lien",
@@ -1235,32 +1235,32 @@
     {
       "name": "12 - Montrer et faire",
       "file": "12 - Montrer et faire.md",
-      "title": "Chapitre onze — Montrer et faire"
+      "title": "Chapitre dix — Montrer et faire"
     },
     {
       "name": "13 - La part des Vides",
       "file": "13 - La part des Vides.md",
-      "title": "Chapitre douze — La part des Vides"
+      "title": "Chapitre onze — La part des Vides"
     },
     {
       "name": "14 - Ceux qui tiennent la ville",
       "file": "14 - Ceux qui tiennent la ville.md",
-      "title": "Chapitre treize — Ceux qui tiennent la ville"
+      "title": "Chapitre douze — Ceux qui tiennent la ville"
     },
     {
       "name": "15 - Ce que le silence garde",
       "file": "15 - Ce que le silence garde.md",
-      "title": "Chapitre quatorze — Ce que le silence garde"
+      "title": "Chapitre treize — Ce que le silence garde"
     },
     {
       "name": "16 - Le vote",
       "file": "16 - Le vote.md",
-      "title": "Chapitre quinze — Le vote"
+      "title": "Chapitre quatorze — Le vote"
     },
     {
       "name": "17 - Ce que les rêves savaient",
       "file": "17 - Ce que les rêves savaient.md",
-      "title": "Chapitre seize — Ce que les rêves savaient"
+      "title": "Chapitre quinze — Ce que les rêves savaient"
     },
     {
       "name": "18 - Ce que les rêves montrent d'autre",
@@ -1270,12 +1270,12 @@
     {
       "name": "19 - Vytharia, l'automne d'avant",
       "file": "19 - Vytharia, l'automne d'avant.md",
-      "title": "Chapitre dix-huit — Vytharia, l’automne d’avant"
+      "title": "Chapitre dix-sept — Vytharia, l’automne d’avant"
     },
     {
       "name": "20 - Ce que l'agent ne dit plus",
       "file": "20 - Ce que l'agent ne dit plus.md",
-      "title": "Chapitre dix-neuf — Ce que l’agent ne dit plus"
+      "title": "Chapitre dix-huit — Ce que l’agent ne dit plus"
     },
     {
       "name": "21 - Seuil de la Partie II - La voix du Lien",
@@ -1285,47 +1285,47 @@
     {
       "name": "22 - La barre et le fil",
       "file": "22 - La barre et le fil.md",
-      "title": "Chapitre vingt — La barre et le fil"
+      "title": "Chapitre dix-neuf — La barre et le fil"
     },
     {
       "name": "23 - Ceux de l'eau",
       "file": "23 - Ceux de l'eau.md",
-      "title": "Chapitre vingt et un — Ceux de l’eau"
+      "title": "Chapitre vingt — Ceux de l’eau"
     },
     {
       "name": "24 - La forge qu'on laisse",
       "file": "24 - La forge qu'on laisse.md",
-      "title": "Chapitre vingt-deux — La forge qu’on laisse"
+      "title": "Chapitre vingt et un — La forge qu’on laisse"
     },
     {
       "name": "25 - Le gîte trop propre",
       "file": "25 - Le gîte trop propre.md",
-      "title": "Chapitre vingt-trois — Le gîte trop propre"
+      "title": "Chapitre vingt-deux — Le gîte trop propre"
     },
     {
       "name": "26 - La ville qui respire",
       "file": "26 - La ville qui respire.md",
-      "title": "Chapitre vingt-quatre — La ville qui respire"
+      "title": "Chapitre vingt-trois — La ville qui respire"
     },
     {
       "name": "27 - La première personne du singulier",
       "file": "27 - La première personne du singulier.md",
-      "title": "Chapitre vingt-cinq — La première personne du singulier"
+      "title": "Chapitre vingt-quatre — La première personne du singulier"
     },
     {
       "name": "28 - La vision et la lame",
       "file": "28 - La vision et la lame.md",
-      "title": "Chapitre vingt-six — La vision et la lame"
+      "title": "Chapitre vingt-cinq — La vision et la lame"
     },
     {
       "name": "29 - Sulvane, après l'appareillage",
       "file": "29 - Sulvane, après l'appareillage.md",
-      "title": "Chapitre vingt-sept — Sulvane, après l’appareillage"
+      "title": "Chapitre vingt-six — Sulvane, après l’appareillage"
     },
     {
       "name": "30 - Les morts qui poussent",
       "file": "30 - Les morts qui poussent.md",
-      "title": "Chapitre vingt-huit — Les morts qui poussent"
+      "title": "Chapitre vingt-sept — Les morts qui poussent"
     },
     {
       "name": "31 - Seuil de la Partie III - La voix du Lien",
@@ -1335,32 +1335,32 @@
     {
       "name": "32 - Ce que les morts ne disent pas",
       "file": "32 - Ce que les morts ne disent pas.md",
-      "title": "Chapitre vingt-neuf — Ce que les morts ne disent pas"
+      "title": "Chapitre vingt-huit — Ce que les morts ne disent pas"
     },
     {
       "name": "33 - Ce qu'on ne dit pas à une sœur",
       "file": "33 - Ce qu'on ne dit pas à une sœur.md",
-      "title": "Chapitre trente — Ce qu’on ne dit pas à une sœur"
+      "title": "Chapitre vingt-neuf — Ce qu’on ne dit pas à une sœur"
     },
     {
       "name": "34 - Ce qu'un homme peut tenir",
       "file": "34 - Ce qu'un homme peut tenir.md",
-      "title": "Chapitre trente et un — Ce qu’un homme peut tenir"
+      "title": "Chapitre trente — Ce qu’un homme peut tenir"
     },
     {
       "name": "35 - Le feu encore chaud",
       "file": "35 - Le feu encore chaud.md",
-      "title": "Chapitre trente-deux — Le feu encore chaud"
+      "title": "Chapitre trente et un — Le feu encore chaud"
     },
     {
       "name": "36 - La phrase qui attendait",
       "file": "36 - La phrase qui attendait.md",
-      "title": "Chapitre trente-trois — La phrase qui attendait"
+      "title": "Chapitre trente-deux — La phrase qui attendait"
     },
     {
       "name": "37 - La quille dans le sable noir",
       "file": "37 - La quille dans le sable noir.md",
-      "title": "Chapitre trente-quatre — La quille dans le sable noir"
+      "title": "Chapitre trente-trois — La quille dans le sable noir"
     },
     {
       "name": "38 - Seuil de la Partie IV - La voix du Lien",
@@ -1395,7 +1395,7 @@
     {
       "name": "44 - Au pied de la montagne",
       "file": "44 - Au pied de la montagne.md",
-      "title": "Chapitre trente-neuf — Au pied de la montagne"
+      "title": "Chapitre trente-huit — Au pied de la montagne"
     },
     {
       "name": "45 - H1",
@@ -1435,22 +1435,22 @@
     {
       "name": "52 - La marque qui reste",
       "file": "52 - La marque qui reste.md",
-      "title": "Chapitre quarante-sept — La marque qui reste"
+      "title": "Chapitre quarante-six — La marque qui reste"
     },
     {
       "name": "53 - Le rapport que personne ne lira",
       "file": "53 - Le rapport que personne ne lira.md",
-      "title": "Chapitre quarante-huit — Le rapport que personne ne lira"
+      "title": "Chapitre quarante-sept — Le rapport que personne ne lira"
     },
     {
       "name": "54 - Le silence est revenu",
       "file": "54 - Le silence est revenu.md",
-      "title": "Chapitre quarante-neuf — Le silence est revenu"
+      "title": "Chapitre quarante-huit — Le silence est revenu"
     },
     {
       "name": "55 - Qu'il attende quelqu'un de meilleur",
       "file": "55 - Qu'il attende quelqu'un de meilleur.md",
-      "title": "Chapitre cinquante — Qu’il attende quelqu’un de meilleur"
+      "title": "Chapitre quarante-neuf — Qu’il attende quelqu’un de meilleur"
     },
     {
       "name": "_bible",
