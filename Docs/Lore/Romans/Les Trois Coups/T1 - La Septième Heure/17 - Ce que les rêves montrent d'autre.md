@@ -9,7 +9,7 @@ lieu: Aethranor (Galenor), auberge des Voyageurs Lents
 status: draft
 ---
 
-# Chapitre dix-sept. Ce que les rêves montrent d’autre
+# Chapitre seize — Ce que les rêves montrent d’autre
 
 Dans la cour de l’auberge des Voyageurs Lents, un banc de pierre prenait le soleil de l’après-midi et le gardait jusqu’au soir. Mirathis s’y asseyait aux heures où les autres croyaient qu’iel dormait. Tout le reste d’Aethranor était froid : la pierre bleue des murs, qui ne se réchauffait jamais, les braseros de la galerie qui chauffaient par bouffées avares et laissaient le dos glacé. Ce banc-là rendait le jour lentement, longtemps après que le jour était passé. Iel posait les paumes à plat de chaque côté des cuisses et attendait que le froid de ses mains descende dans la pierre et que la tiédeur de la pierre remonte dans ses mains.
 

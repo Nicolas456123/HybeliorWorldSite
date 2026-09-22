@@ -85726,11 +85726,11 @@
       "era_id": "era5_grande_nuit",
       "seq": 0,
       "label": "Le fil qui tire — la dernière nuit ordinaire du Lien",
-      "detail": "À la veille de l'Arrachement, le Lien « tient tout » : cent vingt millions d'âmes, les sept cités flottantes, les deux cents portails et leurs seuils, les neuf grands noms, les six empires de l'Âge d'Or — jusqu'au silence de Baelor, qui prie encore par lui en croyant lui échapper. Et pourtant, quelque part dans son étoffe, un fil tire « très légèrement, dans une direction où il n'y a rien à atteindre ». Il choisit de ne pas le regarder : « J'ai un monde à tenir. » [T1 — La Septième Heure, ch. 0 — an 0 ap.A]",
+      "detail": "À la veille de l'Arrachement, le Lien « tient tout » : cent vingt millions d'âmes, les sept cités flottantes, les deux cents portails et leurs seuils, les neuf grands noms, les six empires de l'Âge d'Or — jusqu'au silence de Baelor, qui prie encore par lui en croyant lui échapper. Et pourtant, quelque part dans son étoffe, un fil tire « très légèrement, dans une direction où il n'y a rien à atteindre ». Il choisit de ne pas le regarder : « J'ai un monde à tenir. » [T1 — La Septième Heure, ch. 0 — an 0 ap.A] [2026-09-22 : le prologue de la voix qui portait cette scène a été retiré du livre. Le fait reste canon, sans chapitre porteur ; le premier signe est désormais raconté au prologue par l'arche de Nera.]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:0:le-fil-qui-tire-la-derniere-nuit-ordinaire-du-lien",
+        "recit_uid": "t1:null:le-fil-qui-tire-la-derniere-nuit-ordinaire-du-lien",
         "chapitre": 0,
         "jour": null,
         "confiance": "moyenne"
@@ -85904,7 +85904,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:5:l-arche-qui-grince-a-vide-le-premier-signe-de-nera",
+        "recit_uid": "t1:0:l-arche-qui-grince-a-vide-le-premier-signe-de-nera",
         "chapitre": 5,
         "jour": null,
         "confiance": "moyenne"
@@ -85933,7 +85933,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:6:la-spoliation-de-la-forge-des-cendriers",
+        "recit_uid": "t1:5:la-spoliation-de-la-forge-des-cendriers",
         "chapitre": 6,
         "jour": null,
         "confiance": "moyenne"
@@ -85962,7 +85962,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:6:la-marque-regravee-l-heritage-de-kessa",
+        "recit_uid": "t1:5:la-marque-regravee-l-heritage-de-kessa",
         "chapitre": 6,
         "jour": null,
         "confiance": "moyenne"
@@ -85991,7 +85991,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:7:ta-colere-le-recrutement-de-drakhan-a-cendral",
+        "recit_uid": "t1:6:ta-colere-le-recrutement-de-drakhan-a-cendral",
         "chapitre": 7,
         "jour": null,
         "confiance": "moyenne"
@@ -86020,7 +86020,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:8:vrai-pas-bien-la-conversion-d-aelindra",
+        "recit_uid": "t1:7:vrai-pas-bien-la-conversion-d-aelindra",
         "chapitre": 8,
         "jour": null,
         "confiance": "moyenne"
@@ -86049,7 +86049,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:9:le-rapport-brule-aelindra-declaree-traitre",
+        "recit_uid": "t1:8:le-rapport-brule-aelindra-declaree-traitre",
         "chapitre": 9,
         "jour": null,
         "confiance": "moyenne"
@@ -86078,7 +86078,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:9:la-derniere-campagne-aelindra-efface-les-traces-du-cercle",
+        "recit_uid": "t1:8:la-derniere-campagne-aelindra-efface-les-traces-du-cercle",
         "chapitre": 9,
         "jour": null,
         "confiance": "moyenne"
@@ -86107,7 +86107,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:10:l-homme-qui-lut-avant-de-bruler-verkan-sorne-ouvre-la-chasse",
+        "recit_uid": "t1:9:l-homme-qui-lut-avant-de-bruler-verkan-sorne-ouvre-la-chasse",
         "chapitre": 10,
         "jour": null,
         "confiance": "moyenne"
@@ -86136,7 +86136,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:12:mort-de-vael-le-guerisseur-qui-tenait-la-porte-ouverte",
+        "recit_uid": "t1:11:mort-de-vael-le-guerisseur-qui-tenait-la-porte-ouverte",
         "chapitre": 12,
         "jour": null,
         "confiance": "moyenne"
@@ -86165,7 +86165,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:12:le-protocole-devoile-ecris-que-nous-savions",
+        "recit_uid": "t1:11:le-protocole-devoile-ecris-que-nous-savions",
         "chapitre": 12,
         "jour": null,
         "confiance": "moyenne"
@@ -86194,7 +86194,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:13:la-part-des-vides-le-sablier-retourne",
+        "recit_uid": "t1:12:la-part-des-vides-le-sablier-retourne",
         "chapitre": 13,
         "jour": null,
         "confiance": "moyenne"
@@ -86223,7 +86223,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:14:la-rotation-trop-longue-cendal-horun-tire-vers-le-bas",
+        "recit_uid": "t1:13:la-rotation-trop-longue-cendal-horun-tire-vers-le-bas",
         "chapitre": 14,
         "jour": null,
         "confiance": "moyenne"
@@ -86252,7 +86252,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:15:le-livre-pose-sur-la-natte-verithan-parle-la-langue-de-baelo",
+        "recit_uid": "t1:14:le-livre-pose-sur-la-natte-verithan-parle-la-langue-de-baelo",
         "chapitre": 15,
         "jour": null,
         "confiance": "moyenne"
@@ -86281,7 +86281,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:15:trois-jours-de-silence-baelor-s-offre-au-cercle",
+        "recit_uid": "t1:14:trois-jours-de-silence-baelor-s-offre-au-cercle",
         "chapitre": 15,
         "jour": null,
         "confiance": "moyenne"
@@ -86310,7 +86310,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:15:la-vision-du-passeur-pousse-quelqu-un-que-nous-n-avons-pas-v",
+        "recit_uid": "t1:14:la-vision-du-passeur-pousse-quelqu-un-que-nous-n-avons-pas-v",
         "chapitre": 15,
         "jour": null,
         "confiance": "moyenne"
@@ -86339,7 +86339,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:16:la-table-des-cailloux-toute-l-ile-moins-onze",
+        "recit_uid": "t1:15:la-table-des-cailloux-toute-l-ile-moins-onze",
         "chapitre": 16,
         "jour": null,
         "confiance": "moyenne"
@@ -86368,7 +86368,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:17:les-reves-de-l-arrachement-commencent",
+        "recit_uid": "t1:16:les-reves-de-l-arrachement-commencent",
         "chapitre": 17,
         "jour": null,
         "confiance": "moyenne"
@@ -86397,7 +86397,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:17:le-depart-de-gelinar-l-an-trois-avant",
+        "recit_uid": "t1:16:le-depart-de-gelinar-l-an-trois-avant",
         "chapitre": 17,
         "jour": null,
         "confiance": "moyenne"
@@ -86426,7 +86426,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:17:l-etoffe-cede-d-elle-meme-la-confidence-de-mirathis",
+        "recit_uid": "t1:16:l-etoffe-cede-d-elle-meme-la-confidence-de-mirathis",
         "chapitre": 17,
         "jour": null,
         "confiance": "moyenne"
@@ -86455,7 +86455,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:18:le-delta-des-fins-trois-reves-du-meme-instant",
+        "recit_uid": "t1:17:le-delta-des-fins-trois-reves-du-meme-instant",
         "chapitre": 18,
         "jour": null,
         "confiance": "moyenne"
@@ -86484,7 +86484,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:19:l-automne-d-avant-la-traversee-d-ilthara",
+        "recit_uid": "t1:18:l-automne-d-avant-la-traversee-d-ilthara",
         "chapitre": 19,
         "jour": null,
         "confiance": "moyenne"
@@ -86513,7 +86513,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:20:les-huit-silences-la-fleche-vers-le-sud",
+        "recit_uid": "t1:19:les-huit-silences-la-fleche-vers-le-sud",
         "chapitre": 20,
         "jour": null,
         "confiance": "moyenne"
@@ -86542,7 +86542,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:20:la-copie-de-l-inquisiteur-la-tombe-creusee-deux-fois",
+        "recit_uid": "t1:19:la-copie-de-l-inquisiteur-la-tombe-creusee-deux-fois",
         "chapitre": 20,
         "jour": null,
         "confiance": "moyenne"
@@ -86571,7 +86571,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:22:le-sauvetage-du-corail-mort-la-ligue-vient-regarder-kayara",
+        "recit_uid": "t1:21:le-sauvetage-du-corail-mort-la-ligue-vient-regarder-kayara",
         "chapitre": 22,
         "jour": null,
         "confiance": "moyenne"
@@ -86600,7 +86600,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:23:on-ne-peut-manquer-que-de-ce-qu-on-a-eu-la-nuit-du-large",
+        "recit_uid": "t1:22:on-ne-peut-manquer-que-de-ce-qu-on-a-eu-la-nuit-du-large",
         "chapitre": 23,
         "jour": null,
         "confiance": "moyenne"
@@ -86629,7 +86629,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:23:le-debarquement-a-la-crique-de-la-dent",
+        "recit_uid": "t1:22:le-debarquement-a-la-crique-de-la-dent",
         "chapitre": 23,
         "jour": null,
         "confiance": "moyenne"
@@ -86658,7 +86658,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:24:le-jour-de-tomas-le-soc-et-le-poincon",
+        "recit_uid": "t1:23:le-jour-de-tomas-le-soc-et-le-poincon",
         "chapitre": 24,
         "jour": null,
         "confiance": "moyenne"
@@ -86687,7 +86687,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:25:le-gite-trop-propre-la-fleche-en-creux",
+        "recit_uid": "t1:24:le-gite-trop-propre-la-fleche-en-creux",
         "chapitre": 25,
         "jour": null,
         "confiance": "moyenne"
@@ -86716,7 +86716,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:26:l-eau-qui-monte-sans-maree-navoria-respire-mal",
+        "recit_uid": "t1:25:l-eau-qui-monte-sans-maree-navoria-respire-mal",
         "chapitre": 26,
         "jour": null,
         "confiance": "moyenne"
@@ -86745,7 +86745,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:27:la-premiere-personne-du-singulier-j-33-la-route-du-mont",
+        "recit_uid": "t1:26:la-premiere-personne-du-singulier-j-33-la-route-du-mont",
         "chapitre": 27,
         "jour": null,
         "confiance": "moyenne"
@@ -86774,7 +86774,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:28:la-vision-et-la-lame-la-confession-du-col",
+        "recit_uid": "t1:27:la-vision-et-la-lame-la-confession-du-col",
         "chapitre": 28,
         "jour": null,
         "confiance": "moyenne"
@@ -86803,7 +86803,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:29:sulvane-l-homme-qui-lit-des-departs",
+        "recit_uid": "t1:28:sulvane-l-homme-qui-lit-des-departs",
         "chapitre": 29,
         "jour": null,
         "confiance": "moyenne"
@@ -86832,7 +86832,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:30:la-porte-des-morts-se-retrecit",
+        "recit_uid": "t1:29:la-porte-des-morts-se-retrecit",
         "chapitre": 30,
         "jour": null,
         "confiance": "moyenne"
@@ -86861,7 +86861,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:30:la-lecture-d-iveth-la-piece-a-deux-faces",
+        "recit_uid": "t1:29:la-lecture-d-iveth-la-piece-a-deux-faces",
         "chapitre": 30,
         "jour": null,
         "confiance": "moyenne"
@@ -86890,7 +86890,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:32:la-main-ou-son-propre-poids-la-phrase-laissee-au-journal",
+        "recit_uid": "t1:31:la-main-ou-son-propre-poids-la-phrase-laissee-au-journal",
         "chapitre": 32,
         "jour": null,
         "confiance": "moyenne"
@@ -86919,7 +86919,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:33:la-lettre-enterree-sous-la-bruyere-j-1",
+        "recit_uid": "t1:32:la-lettre-enterree-sous-la-bruyere-j-1",
         "chapitre": 33,
         "jour": null,
         "confiance": "moyenne"
@@ -86948,7 +86948,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:34:le-mensonge-du-pontife-les-chants-plutot-que-le-tocsin",
+        "recit_uid": "t1:33:le-mensonge-du-pontife-les-chants-plutot-que-le-tocsin",
         "chapitre": 34,
         "jour": null,
         "confiance": "moyenne"
@@ -86977,7 +86977,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:35:le-feu-encore-chaud-parce-qu-il-etait-juste",
+        "recit_uid": "t1:34:le-feu-encore-chaud-parce-qu-il-etait-juste",
         "chapitre": 35,
         "jour": null,
         "confiance": "moyenne"
@@ -87006,7 +87006,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:36:la-phrase-qui-attendait-nous-croyons-que-c-est-inevitable",
+        "recit_uid": "t1:35:la-phrase-qui-attendait-nous-croyons-que-c-est-inevitable",
         "chapitre": 36,
         "jour": null,
         "confiance": "moyenne"
@@ -87035,7 +87035,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:37:la-quille-dans-le-sable-noir-verkan-lit-la-crique-de-la-dent",
+        "recit_uid": "t1:36:la-quille-dans-le-sable-noir-verkan-lit-la-crique-de-la-dent",
         "chapitre": 37,
         "jour": null,
         "confiance": "moyenne"
@@ -87064,7 +87064,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:40:h-7-l-ascension-du-mont-cendra-le-dernier-arrive-ouvre-la-ma",
+        "recit_uid": "t1:39:h-7-l-ascension-du-mont-cendra-le-dernier-arrive-ouvre-la-ma",
         "chapitre": 40,
         "jour": null,
         "confiance": "moyenne"
@@ -87093,7 +87093,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:41:h-5-rien-ne-nous-retient-et-nous-ne-redescendons-pas",
+        "recit_uid": "t1:40:h-5-rien-ne-nous-retient-et-nous-ne-redescendons-pas",
         "chapitre": 41,
         "jour": null,
         "confiance": "moyenne"
@@ -87122,7 +87122,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:42:h-2-le-protocole-au-premier-ancrage-le-fil-trop-tendu",
+        "recit_uid": "t1:41:h-2-le-protocole-au-premier-ancrage-le-fil-trop-tendu",
         "chapitre": 42,
         "jour": null,
         "confiance": "moyenne"
@@ -87151,7 +87151,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:43:h0-le-geste-l-arrachement-vecu-du-sommet",
+        "recit_uid": "t1:42:h0-le-geste-l-arrachement-vecu-du-sommet",
         "chapitre": 43,
         "jour": null,
         "confiance": "moyenne"
@@ -87180,7 +87180,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:44:le-temoin-du-pied-de-la-montagne-la-silhouette-de-plus",
+        "recit_uid": "t1:43:le-temoin-du-pied-de-la-montagne-la-silhouette-de-plus",
         "chapitre": 44,
         "jour": null,
         "confiance": "moyenne"
@@ -87209,7 +87209,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:44:la-chute-de-cendral-la-ville-sous-la-neige-qui-brule",
+        "recit_uid": "t1:43:la-chute-de-cendral-la-ville-sous-la-neige-qui-brule",
         "chapitre": 44,
         "jour": null,
         "confiance": "moyenne"
@@ -87238,7 +87238,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:45:h1-la-mort-de-drakhan-le-feu-leve-en-paix",
+        "recit_uid": "t1:44:h1-la-mort-de-drakhan-le-feu-leve-en-paix",
         "chapitre": 45,
         "jour": null,
         "confiance": "moyenne"
@@ -87267,7 +87267,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:46:h2-la-chute-de-cendal-horun-on-ne-les-a-pas-laches",
+        "recit_uid": "t1:45:h2-la-chute-de-cendal-horun-on-ne-les-a-pas-laches",
         "chapitre": 46,
         "jour": null,
         "confiance": "moyenne"
@@ -87296,7 +87296,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:46:h2-nera-ferme-le-seuil-de-son-corps",
+        "recit_uid": "t1:45:h2-nera-ferme-le-seuil-de-son-corps",
         "chapitre": 46,
         "jour": null,
         "confiance": "moyenne"
@@ -87325,7 +87325,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:47:h3-le-gouffre-d-endora-s-ouvre-le-germe-des-failles",
+        "recit_uid": "t1:46:h3-le-gouffre-d-endora-s-ouvre-le-germe-des-failles",
         "chapitre": 47,
         "jour": null,
         "confiance": "moyenne"
@@ -87354,7 +87354,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:48:h4-celethor-figee-j-ai-une-vie-d-avance-sur-vous-tous",
+        "recit_uid": "t1:47:h4-celethor-figee-j-ai-une-vie-d-avance-sur-vous-tous",
         "chapitre": 48,
         "jour": null,
         "confiance": "moyenne"
@@ -87383,7 +87383,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:49:h5-orivane-haute-la-cite-qui-prie-en-tombant",
+        "recit_uid": "t1:48:h5-orivane-haute-la-cite-qui-prie-en-tombant",
         "chapitre": 49,
         "jour": null,
         "confiance": "moyenne"
@@ -87412,7 +87412,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:50:h6-l-engloutissement-de-navoria-la-ville-qui-respire-en-se-n",
+        "recit_uid": "t1:49:h6-l-engloutissement-de-navoria-la-ville-qui-respire-en-se-n",
         "chapitre": 50,
         "jour": null,
         "confiance": "moyenne"
@@ -87441,7 +87441,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:51:h7-azoria-la-derniere-touchee-le-jour-ordinaire-de-kayara",
+        "recit_uid": "t1:50:h7-azoria-la-derniere-touchee-le-jour-ordinaire-de-kayara",
         "chapitre": 51,
         "jour": null,
         "confiance": "moyenne"
@@ -87470,7 +87470,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:52:la-marque-qui-reste-kessa-au-premier-soir-de-la-grande-nuit",
+        "recit_uid": "t1:51:la-marque-qui-reste-kessa-au-premier-soir-de-la-grande-nuit",
         "chapitre": 52,
         "jour": null,
         "confiance": "moyenne"
@@ -87499,7 +87499,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:53:le-rapport-que-personne-ne-lira-aucun-corps-confirme",
+        "recit_uid": "t1:52:le-rapport-que-personne-ne-lira-aucun-corps-confirme",
         "chapitre": 53,
         "jour": null,
         "confiance": "moyenne"
@@ -87528,7 +87528,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:54:le-retour-de-vorath-baelor-accueille-la-grande-nuit",
+        "recit_uid": "t1:53:le-retour-de-vorath-baelor-accueille-la-grande-nuit",
         "chapitre": 54,
         "jour": null,
         "confiance": "moyenne"
@@ -87557,7 +87557,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:55:le-journal-mure-qu-il-attende-quelqu-un-de-meilleur",
+        "recit_uid": "t1:54:le-journal-mure-qu-il-attende-quelqu-un-de-meilleur",
         "chapitre": 55,
         "jour": null,
         "confiance": "moyenne"
@@ -87586,7 +87586,7 @@
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
-        "recit_uid": "t1:39:la-voix-du-lien-cinq-seuils-du-je-tiens-tout-au-je-ne-sais-p",
+        "recit_uid": "t1:38:la-voix-du-lien-cinq-seuils-du-je-tiens-tout-au-je-ne-sais-p",
         "chapitre": 39,
         "jour": null,
         "confiance": "moyenne"
