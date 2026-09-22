@@ -880,6 +880,132 @@ Les chapitres de fragment qui n'en ont pas sont donc **huit**, pas neuf.
 
 ---
 
+## Écriture du tome 3 et passe éditoriale finale (2026-09-16 → 2026-09-22)
+
+Versés depuis les registres de session, qui ne survivent pas à la session. Couvre
+l'écriture des 55 chapitres du tome 3 et les seize lots de la passe finale sur les
+162 chapitres. **Discipline tenue de bout en bout : aucune contradiction tranchée,
+aucun chiffre ni aucune date inventés.** Quand un chiffre gênait, il a été
+**neutralisé** — retiré sans remplacement — jamais corrigé d'autorité.
+
+### A. Contradictions qui demandent un arbitrage d'ensemble
+
+| Point | Le conflit | Ce qui a été fait |
+|---|---|---|
+| **La durée de présence d'Ilex chez Renna** | T3 ch. 02 « deux ans qu'il est chez toi » · ch. 06 « après six ans » · ch. 22 « depuis six ans ». Le ch. 27 n'en dit rien. | Neutralisée aux ch. 06 et 22. **Quatre chapitres concernés ; l'arbitrage ne peut pas être chapitre par chapitre.** |
+| **L'âge de Renna** | T3 ch. 10 date Sarre à « sept ans, huit peut-être » et « trente ans plus tôt » → ~37-38 ans ; le ch. 02 dit « vingt-cinq ans qu'elle y jouait ». | Les deux chiffres du flash-back laissés intacts. **C'est le ch. 02 ou le flash-back du ch. 10 qui devra bouger.** |
+| **L'âge d'Ysolde — trois valeurs dont une contre le canon** | *Chroniques* ch. 37 (canon, Jour 895) : « trente-cinq ans à peu près ». T3 ch. 26 avant passe : « cinquante-trois ans ». T3 ch. 30 : « vingt-cinq ans peut-être », « la jeune », « ce jeune visage ». Les trois scènes sont contemporaines. | Neutralisé des deux côtés (26 et 30), jamais remplacé. Un « une jeune » subsiste **dans la rumeur rapportée**, verbatim des ch. 04, 25 et 36. |
+| **Wenna** | T3 ch. 25 : Sanne « l'avait menée aux gens sûrs quatre jours plus tôt […] et elle était repartie seule ». Ch. 30, postérieur : « Wenna dormait deux pièces plus loin ». Ch. 36 : elle y est 13 fois. | Rien neutralisé. La solitude de Sanne est la prémisse du ch. 25 ; la retirer serait scénaristique. **Arbitrage d'ensemble 25 + 30 + 36.** |
+| **Drakhan et sa forge (T2)** | Ch. 36 : il forge une nuit de plus à Cendral et arrive le dernier, l'odeur de forge sur lui. Ch. 38, même veille : « sa forge est éteinte depuis des semaines », « les mains froides pour la première fois depuis quarante ans ». Le registre de continuité tranchait « il rejoint la remise la même nuit que le ch. 24 », ce qui contredit le jour de retard sur quoi le ch. 36 tient entier. | Rien touché. |
+
+### B. Noms, homonymes et quasi-homophones
+
+- ⚠ **« Corvane » sert quatre personnages.** T2 ch. 07 : Corvane, **corroyeur**. T3 ch. 06
+  et 17 : **la Corvane**, femme au registre de la halle à Cendara. T3 ch. 22 : le
+  **greffier** Corvane. T3 ch. 26 : **maître Corvane**, Compilateur premier de Prismalith.
+  Aucun agent n'a renommé. *(S'ajoute aux deux Corvane du T1 déjà au registre.)*
+- ⚠ **Cinq à six quasi-homophones** dans le tome 3 : **Vhail · Vahel · Vharel · Vharok ·
+  Vael · Nève**. Aucun renommage.
+- **Karsel / Tovan** : le subalterne s'appelle Karsel aux T3 ch. 03 et 28, **Tovan** aux
+  ch. 07 et 15.
+- **Le genre de Selvir** : « **Le** Consul-Adjoint Selvir » (T3 ch. 03) contre « **La**
+  Consule Selvir » (ch. 09). Le ch. 39 dit désormais « Selvir », sans titre ni accord.
+- **Le genre de l'Arbre-Mère** : masculin selon le lore d'Evertia, féminin dans l'accord
+  que portait le T3 ch. 16. L'accord a été **contourné**, pas tranché. **Convention à poser
+  une fois pour toutes.**
+- **Herec / Herrec** (T2 ch. 18 et 37) — déjà au registre, rappelé ici pour la famille.
+
+### C. Chronologie, géographie et comptages
+
+- **Kharazir, nation ou ville ?** Le T3 ch. 46 en fait une cité, `Pays/Galenor/Kharazir.md`
+  un pays, et les *Chroniques* ch. 38 placent la Porte d'Azur à **Rukhsar**. Rien touché.
+- **T3 ch. 51, point de vue** : « comme on avait appris à le faire à Kharazir, **disparu des
+  registres avant d'y être entré** ». Si « disparu » vise la cité, Vaskar ne peut pas le
+  savoir — Kharazir tombe la même nuit, au ch. 46, à des semaines de route. Si « disparu »
+  vise le huitième peuple, la phrase est juste. **Les deux lectures fonctionnent.**
+- **Le lieu de la mort de la femme des marches** : le T3 ch. 38 la fait tomber **à Taldre**,
+  au pied du Mont, en Cendara ; le rapport du ch. 39 la place « entre **Vireuil** et le haut
+  pays », dans les marches d'Onara. Ne tient que si ce chemin est une longue transhumance.
+- **Le compte des dépôts** : T3 ch. 36 « à cinq endroits, bientôt dix » ; ch. 38, trois
+  jours plus tard, « dix » ×3, sans que Sanne ait rien déposé entre-temps. Le ch. 41 répète.
+- **L'ancienneté de Vaskar** : trente ans au T3 ch. 51 contre vingt aux ch. 28, 39, 42, 45.
+  Neutralisé au 51, pas remplacé.
+- **« Six morts, quatre tentatives »** (T3 ch. 32) : gardé au mot près, ne se raccorde ni au
+  ch. 03 ni au ch. 07.
+- **Le compte des jours d'Ísae (T2)** : « quatre-vingt-dix, un peu plus » au ch. 03 (≈ J-90)
+  contre « quarante, un peu moins » au ch. 33 (J-1).
+- **T2 ch. 29 / ch. 30** : le ch. 29 fait déjà fuir Kessane et Lirenn quand le ch. 30,
+  postérieur, montre Vaenor **découvrant** la forge et la notant « à surveiller ».
+- **T2 ch. 26 / ch. 03** : l'aiguille courbe sort d'un paquet plat au 26, là où le 03 la
+  fait forger.
+- **T3 ch. 09 / ch. 29** : contradiction de comptage, relevée, aucun chiffre inventé.
+- **Le rythme de la poussée entre les T3 ch. 22 et 27** s'accélère très vite : « presque
+  quotidienne » au 22 ; au 27 « deux par jour la semaine d'avant », « cinq fois avant midi »,
+  puis « presque d'heure en heure ». Tient si quelques semaines séparent les deux chapitres.
+- **Le répit régresse entre les T3 ch. 33 et 35**, qui sont consécutifs.
+- **Vellan (T3 ch. 24)** dit « Le commis, l'an dernier » ; le ch. 15 met le même épisode dans
+  la bouche de Tovan et dans l'année en cours.
+- **La date de la disparition de Vael** : le T3 ch. 11 la met « l'an dernier », le ch. 04 ne
+  la date pas. Les deux tiennent si la Sainte-Braise est annuelle.
+- **Les feuillets** : le T3 ch. 52 les dit **blanchis**, les ch. 08, 19, 30 et 36 **noircis
+  d'encre déteinte**.
+
+### D. Deux points qui touchent au dispositif lui-même
+
+1. ⚠ **La phrase du Cercle, et l'invariance qui n'est peut-être pas vraie.** Le T3 ch. 12
+   affirme que les quatre copies donnent la phrase « au même mot près » et la donne au
+   canon ; le **Fragment du ch. 01 la donne altérée** — « Ils croyaient que c'était **déjà
+   fait** » au lieu d'« inévitable ». Soit la copie du ch. 01 a dérivé et l'archiviste du
+   ch. 12 se trompe, **soit l'affirmation du ch. 12 est elle-même la faute de copiste** — et
+   c'est alors la plus belle du livre, puisqu'elle porte sur l'invariance même. Rien touché :
+   c'est un texte de fragment.
+2. **La litanie fait dire « Sous les monts, sous les villes » à une voix dont la prose dit
+   qu'elle ignore qu'il y a des monts.** Les T3 ch. 01 et 12 portent la même tension.
+   **À traiter en une fois sur les six irruptions si l'auteur le veut** — jamais chapitre
+   par chapitre.
+3. **La litanie du T3 ch. 01 diverge des autres** : « ça le fait mieux **qu'hier** » là où
+   les ch. 12, 23, 34 et 47 disent « chaque fois un peu mieux, et le mieux est l'horloge ».
+   « Hier » donne à la voix un calendrier que le chapitre lui refuse partout ailleurs.
+
+### E. Points de style laissés à l'auteur par la passe finale
+
+- **T2 ch. 46 et 51, et les huit irruptions du T3** : 18 + 35 pivots restent **en voix**.
+  Les chapitres de chœur n'ont pas une ligne de narration tierce, et au ch. 46
+  l'identification par la négative *est* la thèse. Listes de lignes disponibles si l'auteur
+  en veut moins.
+- **T3 ch. 28** : trois « première fois » si l'on compte la forme nue. Ramener à une
+  casserait soit l'ouverture, soit le rappel du titre (*Deux fers, une seule fois*).
+- **T2 ch. 09** : forme pleine de « Toute ma vie » à la première personne, **en bouche**.
+  À trancher si la règle doit couvrir le dialogue.
+- **T1 ch. 08** : la clausule porte « sans hâte », l'un des mots morts en clausule. Toucher
+  une dernière phrase sans pivot est un geste à part.
+- **T3 ch. 45 / 50 / 51 — le triplet de Karsel** : la même image d'addition refaite chez le
+  même personnage. Aucun scan ne le lève (c'est une retombée d'image, pas de séquence). Si
+  l'auteur n'en veut qu'une, le 45 garde et les deux autres varient.
+- **« Main / paume à plat »** court sur une trentaine de chapitres des trois tomes : tic de
+  trilogie, à traiter d'un bloc ou à assumer.
+- **T3 ch. 50 contre ch. 51** : au 51 Vaskar enseigne qu'on n'invente pas ce qui n'a pas eu
+  lieu ; au 50, **la nuit d'avant**, il dicte exactement cela. La lecture qui les sauve
+  existe — l'homme ment sur sa façon de mentir — mais elle appartient à l'auteur.
+- **T3 ch. 13** : « Il pesait de moins en moins » se lit d'abord comme un dépérissement. Si
+  l'auteur veut lever l'ambiguïté, la place est « il **lui** pesait de moins en moins ».
+
+### F. Arbitrages rendus par l'auteur
+
+| Date | Point | Décision |
+|---|---|---|
+| 2026-09-22 | **L'homme gris du T3 ch. 20** — son lexique est celui des Fonds, aucune fiche ne le rangeait | **Il est des Ombres Souterraines.** Une occurrence du tell de la voix lui a été rendue — la première, le fait observé dans la scène. La seconde, qui était l'inférence et le doublement, ne revient pas. Le tell est à 8 occurrences / 7 chapitres, tous de l'ordre ou de la lignée. |
+| 2026-09-22 | **L'ouverture du tome 1** | Le prologue de la voix (« Ce que je tiens ») est **retiré**. Le prologue est « La gardienne du seuil » (POV Nera) suivi du Fragment #1. Les sept irruptions reculent d'un cran ; la voix n'est plus jamais entendue intacte. Renumérotation : 49 chapitres, corpus à 162. |
+
+### G. Conséquence de la renumérotation du tome 1 — à reprendre
+
+Les trois bibles renvoyaient déjà à des numéros de chapitre qui ne correspondaient plus
+(≈ 30 renvois vers des chapitres des *Chroniques* au-delà du ch. 38, qui n'existent pas).
+**La renumérotation du 2026-09-22 décale en plus tous les renvois au tome 1 d'un cran.**
+À reprendre en même temps que le versement de la trilogie au graphe.
+
+---
+
 ## Annexe — d'où viennent ces constats
 
 - Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
