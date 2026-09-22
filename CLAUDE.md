@@ -4,11 +4,32 @@ Projet de worldbuilding dark-fantasy de Nicolas (français). Le site EST la
 source de vérité (les Docs/ sont voués à disparaître). Lecture libre, mot de
 passe uniquement pour l'édition.
 
+## Le nom du savoir : **la Concordance**
+
+Le savoir du site porte un nom, et c'est par ce nom qu'on s'y réfère :
+**la Concordance**. Trois règles, qui valent partout dans ce dépôt :
+
+1. **La Concordance sait tout et montre tout.** Aucune restriction, aucun
+   mystère caché. Le champ `disclosure` ne gouverne QUE ce qu'un narrateur de
+   roman a le droit d'énoncer — jamais ce que le site affiche.
+2. **La Concordance tranche.** Quand un chapitre, une fiche ou une bible la
+   contredit, c'est elle qui a raison. Si c'est elle qui a tort, on la corrige
+   **là** — dans `data/kg-base.json` — et le reste suit.
+3. **Les livres, eux, gardent leurs mystères.** Les 34 entités de type
+   `question`, dont treize portent `data.protege`, ne sont jamais résolues : la
+   Concordance enregistre **que** la question se pose, ses lectures concurrentes
+   et qui les porte — jamais la réponse.
+
+Le nom fait écho, à dessein, au **Bureau des Concordances** des romans (tomes 1
+et 3) : là-bas on classe les silences, ici on accorde les sources. Et le
+tome 1 s'ouvrait sur « La concordance manquante » — il est juste que ce qui
+accorde enfin toutes les sources porte ce nom.
+
 ## Architecture (l'essentiel)
 
-- **Graphe de connaissances** : `data/kg-base.json` (2734 entités, committé,
-  source de vérité) ⊕ overlay Turso (éditions post-hoc). Moteur :
-  `lib/kg-core.js`. Base SQLite locale `data/hybelior.db` (gitignorée,
+- **La Concordance** (graphe de connaissances) : `data/kg-base.json` (2734
+  entités, committé, source de vérité) ⊕ overlay Turso (éditions post-hoc).
+  Moteur : `lib/kg-core.js`. Base SQLite locale `data/hybelior.db` (gitignorée,
   reconstruite par `npm run kg:db`), recherche FTS5 `lib/kg-store-sqlite.js`.
 - **Le Monde** (`monde.html` + `js/monde.js`) : portail d'exploration —
   portes, fiches, carte vivante, Visions croisées (graphes de force en

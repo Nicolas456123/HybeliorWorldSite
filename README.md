@@ -2,6 +2,18 @@
 
 Site web interactif dédié à l'univers d'Hybélior : carte du monde, chronologie, lore et romans.
 
+## La Concordance
+
+Le savoir du site porte un nom : **la Concordance**. C'est le graphe canonique
+(`data/kg-base.json`, moteur `lib/kg-core.js`, portail `monde.html`), et c'est
+la source de vérité du monde. Elle **sait tout et montre tout** — aucune
+restriction, aucun mystère caché. Quand un texte la contredit, c'est elle qui
+tranche ; si c'est elle qui a tort, on la corrige là et le reste suit.
+
+Les romans, eux, gardent leurs mystères : les entités de type `question`
+enregistrent **que** la question se pose et quelles lectures s'affrontent,
+jamais la réponse.
+
 ## Architecture
 
 Le site est une **Single Page Application** (SPA) avec routage par hash (`#accueil`, `#lore`, `#implementation`, `#carte`, `#frise`). Les pages sont chargées dynamiquement dans `index.html` depuis le dossier `pages/`.
