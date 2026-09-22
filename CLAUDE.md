@@ -29,8 +29,9 @@ du monde.
 
 ## Architecture (l'essentiel)
 
-- **L'Atrium** (graphe de connaissances) : `data/kg-base.json` (2734
-  entités, committé, source de vérité) ⊕ overlay Turso (éditions post-hoc).
+- **L'Atrium** (graphe de connaissances) : `data/kg-base.json` (2953
+  entités, 1473 faits, 3670 liens ; committé, source de vérité) ⊕ overlay
+  Turso (éditions post-hoc).
   Moteur : `lib/kg-core.js`. Base SQLite locale `data/hybelior.db` (gitignorée,
   reconstruite par `npm run kg:db`), recherche FTS5 `lib/kg-store-sqlite.js`.
 - **Le Monde** (`monde.html` + `js/monde.js`) : portail d'exploration —
