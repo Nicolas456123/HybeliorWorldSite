@@ -11655,13 +11655,16 @@
       "summary": "Archiviste de Prismalith qui reconnaît la nature de l'œuvre de Sorin et en commence la copie, faisant du journal un vaisseau qui se réplique.",
       "body": null,
       "data": {
-        "periode": {
-          "debut": 945,
-          "fin": 972,
-          "confiance": "moyenne",
-          "methode": "corpus:phrase",
-          "indice": "Descendante directe de la famille fondatrice Navar, Ysolde Navar est la seule femme a avoir tenu le siege de Senateur-Capitaine en Chef pendant une pe",
-          "fiche": "Docs/Lore/Chronologie/Era 5 - La Grande Nuit.md"
+        "periode_retiree_2026_09_22": {
+          "valeur_fautive": {
+            "debut": 945,
+            "fin": 972,
+            "confiance": "moyenne",
+            "methode": "corpus:phrase",
+            "indice": "Descendante directe de la famille fondatrice Navar, Ysolde Navar est la seule femme a avoir tenu le siege de Senateur-Capitaine en Chef pendant une pe",
+            "fiche": "Docs/Lore/Chronologie/Era 5 - La Grande Nuit.md"
+          },
+          "pourquoi": "Moissonnée par `corpus:phrase` sur une phrase qui parle d'Ysolde NAVAR, Sénateur-Capitaine de l'Ère V (fiche « Era 5 - La Grande Nuit.md ») — une homonyme, à neuf mille ans de distance. L'archiviste de Prismalith est contemporaine du présent du Sillage (Chroniques ch. 37, Jour 895 ; T3 ch. 26 et 30). Retirée sans remplacement : son âge est lui-même une contradiction ouverte au registre (35 ans au canon, 53 puis 25 dans le T3 avant neutralisation)."
         }
       },
       "status": "canon",
