@@ -93,10 +93,23 @@ et 224 lieux positionnés ne tombent dans aucun pays. Conséquences :
   de Celethor par Ryldor (15 295 u² → 2 451 après correction des liens,
   testé en bac à sable). Mais 22 des 30 pays ressortent identiques : leurs
   erreurs viennent des aplats de « Hybelior Pays.png », pas des graines.
-- **Relancer l'extraction rouvrirait l'arbitrage Haldria du 2026-09-14** :
-  Hekorinth ayant désormais son lien `capitale-de`, Haldria reçoit une
-  surface prise sur celle attribuée à Warenthor. Ne pas relancer sans
-  trancher d'abord ce point avec l'auteur.
+- **Arbitrage Haldria/Warenthor maintenu (tranché le 2026-09-22, délégation
+  de l'auteur) et désormais ÉCRIT dans l'Atrium** au lieu de dépendre d'un
+  marqueur vide : Haldria porte `data.carte.sans_territoire` (d'Endora selon
+  sa fiche, ses lieux restent posés en Ilthara sur la carte) ; Warenthor
+  porte `data.carte.surface_figee` (le lobe lui a été réattribué à la main,
+  aucune extraction ne le refait). `extract-pays.js` respecte les deux.
+- **Procédure de ré-extraction** — ne JAMAIS enchaîner extract + snap seuls,
+  ils écrasent tout et font régresser Astravia/Elarian :
+  `cp data/monde-contours.json /tmp/pays-en-place.json` →
+  `node scripts/extract-pays.js && node scripts/snap-pays-cotes.js` →
+  `node scripts/assembler-pays.js /tmp/pays-en-place.json` (ne garde une
+  surface neuve que si elle est meilleure sur tous les plans) →
+  `node scripts/generer-cartes-eres.js`. Mesure : `node scripts/diagnostic-pays.js`.
+- **État au 2026-09-22** : 5 surfaces remplacées (Ryldor, Ackerna, Sylthara,
+  Pyrtara, No Man's Land Celethor) — justes 200 → 207, intrus 58 → 45.
+  Les 22 autres pays sont inchangés : leurs erreurs sont dans les aplats de
+  « Hybelior Pays.png », à reprendre par l'auteur.
 Le détail pays par pays est au registre des incohérences, §7 ter. Le 403 sur `hybelior-tiles.nicolas-vollard.workers.dev` ne
 concernait que la politique réseau de l'environnement Claude Code, jamais
 le site — **ne plus retenter le curl à chaque session**. Si une

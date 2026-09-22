@@ -258,10 +258,25 @@ testée en bac à sable après la correction des liens du 2026-09-22 :
   Trinoria, Kharazir, Avalor, Altram…). Leurs graines étaient déjà bonnes : leurs
   erreurs viennent des **aplats de couleur de « Hybelior Pays.png »**, pas de
   l'Atrium. C'est la carte qui est à reprendre là.
-- **Piège** : la ré-extraction donne désormais une surface à **Haldria** (Hekorinth
-  a reçu son lien `capitale-de`), prise sur celle que l'arbitrage du 2026-09-14
-  attribuait à Warenthor. **Rien n'a été appliqué** : relancer l'extraction exige
-  de trancher d'abord ce point.
+- **Haldria — TRANCHÉ le 2026-09-22 (délégation de l'auteur) : l'arbitrage du
+  2026-09-14 est maintenu.** La fiche et l'Atrium placent Haldria en Endora ; sa
+  capitale Hekorinth est pourtant posée à (−265, 149), en Ilthara — vestige de son
+  ancienne implantation, que la carte n'a jamais suivie. La décision est désormais
+  écrite dans l'Atrium (`data.carte.sans_territoire` sur Haldria,
+  `data.carte.surface_figee` sur Warenthor) et `extract-pays.js` la respecte.
+
+**Appliqué le 2026-09-22, sous une règle stricte : une surface neuve ne remplace
+l'ancienne que si elle est meilleure sur tous les plans.** Cinq passent — Ryldor
+(intrus 11 → 2, 15 295 → 2 451 u²), Ackerna (intrus 4 → 0), Sylthara, Pyrtara, et
+No Man's Land Celethor, qui reçoit sa surface. Astravia et Elarian gardent la leur :
+la ré-extraction faisait avaler cinq villages d'Astravia par Elarian. Total : justes
+200 → 207, intrus 58 → 45. Aucun chevauchement introduit, cartes par ère régénérées.
+La procédure est reproductible (`scripts/assembler-pays.js`, vérifié de bout en bout).
+
+Au passage, la génération des cartes par ère avait perdu deux héritiers de
+l'Hégémonie d'Aethran — Kharazir et Ventera, 9 800 u² — parce que sa table citait le
+nom en dur, sans l'accent que l'Atrium venait de lui rendre. La recherche y est
+désormais insensible aux accents.
 
 Le bloc Galenor (Lumasar 23 erreurs, Seraphia 20, Trinoria 18, Kharazir 15) est le
 plus atteint : les lieux de Lumasar tombent dans Trinoria, ceux de Kharazir dans

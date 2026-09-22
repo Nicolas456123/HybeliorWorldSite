@@ -1003,7 +1003,9 @@
         "carte": {
           "surface": "lobe sud-ouest d'Ilthara, extraite depuis l'ancien marqueur « Haldria »",
           "date": "2026-09-14",
-          "qui": "délégation de l'auteur (« tranche tout ce qui doit être tranché »), 2026-09-14"
+          "qui": "délégation de l'auteur (« tranche tout ce qui doit être tranché »), 2026-09-14",
+          "surface_figee": true,
+          "surface_figee_motif": "Arbitrage du 2026-09-14 : Warenthor n'a pas d'aplat propre sur « Hybelior Pays.png ». Il a reçu le lobe sud-ouest d'Ilthara — l'ancienne zone d'Haldria, extraite puis réattribuée à la main. Une ré-extraction ne peut pas reproduire ce geste : elle reprend donc cette surface telle quelle."
         }
       },
       "status": "canon",
@@ -1084,7 +1086,9 @@
           "marqueur": null,
           "motif": "la fiche Pays, la bible et les Chroniques (ch. 13) placent Haldria sur Endora ; le marqueur d'origine (sud-ouest d'Ilthara) n'était soutenu par aucune ville positionnée et sa surface est celle de Warenthor. La carte de l'auteur ne dessine pas Haldria sur Endora : sans marqueur, comme treize autres nations.",
           "date": "2026-09-14",
-          "qui": "délégation de l'auteur (« tranche tout ce qui doit être tranché »), 2026-09-14"
+          "qui": "délégation de l'auteur (« tranche tout ce qui doit être tranché »), 2026-09-14",
+          "sans_territoire": true,
+          "sans_territoire_motif": "Arbitrage du 2026-09-14, confirmé le 2026-09-22 : Haldria est d'Endora selon sa fiche et l'Atrium, mais la carte de l'auteur garde ses anciens lieux — dont sa capitale Hekorinth — dans le lobe sud-ouest d'Ilthara, qui est la surface de Warenthor. Haldria n'a donc pas de surface sur la carte des pays, même si sa capitale est connue."
         }
       },
       "status": "canon",

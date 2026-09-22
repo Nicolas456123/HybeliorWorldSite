@@ -40,7 +40,13 @@ const jeuActuel = doc.jeux.find((j) => j.era_id === null);
 if (!jeuActuel) { console.error('✗ jeu era_id:null introuvable'); process.exit(1); }
 
 const byId = new Map(kg.entities.map((e) => [e.id, e]));
-const byName = new Map(kg.entities.filter((e) => e.type === 'entite-politique').map((e) => [e.name, e]));
+// Recherche par nom insensible aux accents et à la casse : la table des
+// compléments cite des noms en dur, et une réparation d'accents dans l'Atrium
+// (« Hegemonie » → « Hégémonie d'Aethran », 2026-09-22) ne doit pas les
+// débrancher en silence — Kharazir et Ventera avaient cessé d'en hériter.
+const cleNom = (s) => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+const parCle = new Map(kg.entities.filter((e) => e.type === 'entite-politique').map((e) => [cleNom(e.name), e]));
+const byName = { get: (nom) => parCle.get(cleNom(nom)) };
 
 /* ── 1. généalogie : succede-a du graphe + héritages territoriaux attestés ── */
 const parents = new Map(); // id → [ids des prédécesseurs]

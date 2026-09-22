@@ -51,6 +51,10 @@ const S = 2653, SCL = 2.64937, TX = 1347.6, TY = 1342.4;
   const nations = base.entities
     .filter((e) => e.type === 'entite-politique' && ((e.data && e.data.coord_x != null) || capDe[e.id]))
     .filter((e) => !(e.data && SANS_TERRITOIRE.has(e.data.genre)))
+    // une nation privée de surface par arbitrage (data.carte.sans_territoire)
+    // n'en reçoit pas, même quand l'Atrium connaît sa capitale : c'est le cas
+    // d'Haldria, dont les lieux restent posés en Ilthara sur la carte.
+    .filter((e) => !(e.data && e.data.carte && e.data.carte.sans_territoire))
     .map((e) => {
       const g = capDe[e.id] || e;
       // candidats de graine, du plus sûr au moins sûr : capitale, marqueur
@@ -312,6 +316,18 @@ const S = 2653, SCL = 2.64937, TX = 1347.6, TY = 1342.4;
     prises.add(ile);
     masses.push({ nom: n.nom, niveau: 'pays', aire: ile.aire, source: 'cote-ile', points: ile.points.map((p) => p.slice()) });
     console.log(`  île : ${n.nom} reprend la côte de son île (aire ${ile.aire})`);
+  }
+
+  // Surfaces figées par arbitrage (data.carte.surface_figee) : reprises telles
+  // quelles depuis le fichier en place — c'est le cas de Warenthor, dont le lobe
+  // a été réattribué à la main le 2026-09-14 et qu'aucune extraction ne refait.
+  for (const e of base.entities) {
+    if (e.type !== 'entite-politique' || !(e.data && e.data.carte && e.data.carte.surface_figee)) continue;
+    const garde = jeu.masses.find((m) => m.niveau === 'pays' && m.nom === e.name);
+    if (!garde) { console.log(`  ⚠ surface figée introuvable : ${e.name}`); continue; }
+    for (let i = masses.length - 1; i >= 0; i--) if (masses[i].nom === e.name) masses.splice(i, 1);
+    masses.push(garde);
+    console.log(`  figée : ${e.name} reprend sa surface d'arbitrage (aire ${garde.aire})`);
   }
 
   jeu.masses = jeu.masses.filter((m) => m.niveau !== 'pays').concat(masses);
