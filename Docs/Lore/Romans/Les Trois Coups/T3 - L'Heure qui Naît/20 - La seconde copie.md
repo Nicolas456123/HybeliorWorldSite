@@ -167,7 +167,7 @@ Dehors, très loin, un âne cria dans une ruelle basse, et l’écho monta les d
 
 « Je vends des plantes, dit-il. Pas des cartes. Vous vous êtes trompé de rue. Les faiseurs de cartes sont au quartier des Passeurs, près du fleuve. Ils vous vendront le canyon, les cols, les routes de haute mer qu’on rouvre, tout ce que vous voudrez. Beau papier. »
 
-« Je ne parle pas d’un faiseur de cartes. » Sa voix posait les mots un par un, des jetons qu’on aligne sur une table, en attendant de voir ce que l’autre couvrait. « Je parle d’un homme qui est parti longtemps, et qui est revenu, et qui a rapporté un travail. Un travail qui circule. On m’a dit qu’à Rukhsar quelqu’un en gardait une part. »
+« Je ne parle pas d’un faiseur de cartes. » L’homme n’avait pas haussé la voix d’un souffle. Il posait les mots un par un, des jetons qu’on aligne sur une table, en attendant de voir ce que l’autre couvrait. « Je parle d’un homme qui est parti longtemps, et qui est revenu, et qui a rapporté un travail. Un travail qui circule. On m’a dit qu’à Rukhsar quelqu’un en gardait une part. »
 
 « On vous a dit beaucoup, pour un homme qui vient de si loin. »
 
