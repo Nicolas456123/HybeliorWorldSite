@@ -3,7 +3,7 @@ tags: [roman, trois-coups, tome-1, partie-4, seuil, voix-du-lien]
 type: roman-chapitre
 partie: IV
 titre: Seuil de la Partie IV — La voix du Lien
-pov: La voix du Lien (irruption 5 — dénouement de la langue)
+pov: La voix du Lien (irruption 4 — dénouement de la langue)
 status: draft
 ---
 

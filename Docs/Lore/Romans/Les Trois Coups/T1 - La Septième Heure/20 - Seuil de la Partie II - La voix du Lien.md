@@ -3,7 +3,7 @@ tags: [roman, trois-coups, tome-1, partie-2, seuil, voix-du-lien]
 type: roman-chapitre
 partie: II
 titre: Seuil de la Partie II — La voix du Lien
-pov: La voix du Lien (irruption 3 — érosion syntaxique)
+pov: La voix du Lien (irruption 2 — érosion syntaxique)
 status: draft
 ---
 

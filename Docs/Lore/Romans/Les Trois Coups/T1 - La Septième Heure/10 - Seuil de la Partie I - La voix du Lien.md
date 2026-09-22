@@ -3,7 +3,7 @@ tags: [roman, trois-coups, tome-1, partie-1, seuil, voix-du-lien]
 type: roman-interlude
 partie: I
 titre: Seuil de la Partie I — La voix du Lien
-pov: La voix du Lien (irruption 2 — pleine puissance, première fêlure infime)
+pov: La voix du Lien (irruption 1 — pleine puissance, première fêlure infime)
 status: draft
 ---
 

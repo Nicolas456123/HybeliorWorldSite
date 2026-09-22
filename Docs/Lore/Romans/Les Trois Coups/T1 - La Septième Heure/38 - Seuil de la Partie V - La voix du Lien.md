@@ -3,7 +3,7 @@ tags: [roman, trois-coups, tome-1, partie-5, seuil, voix-du-lien]
 type: roman-chapitre
 partie: V
 titre: Seuil de la Partie V — La voix du Lien
-pov: La voix du Lien (irruption 6 — presque muette)
+pov: La voix du Lien (irruption 5 — presque muette)
 status: draft
 ---
 

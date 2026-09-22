@@ -143,13 +143,13 @@ Ils élargissent l’échelle et **vivent les sept heures en direct** dans le fi
 
 **Dégradation de la langue — barème par phases.** La voix s’invite ~7 à 9 fois dans le livre ; à chaque irruption elle est plus abîmée. Barème indicatif (les rédacteurs calibrent) :
 
-- **Irruption 1 (Prologue)** — *pleine puissance*. Phrases longues, amples, subordonnées maîtrisées ; vocabulaire riche ; temps parfaits. Elle nomme tout : les 200 portails, les 7 cités, les noms des Éternels. Ton : celui d’un dieu qui se croit éternel. *Elle ne sait pas encore qu’elle va mourir.*
-- **Irruption 2 (seuil de FIN de Partie I)** — *pleine puissance, première fêlure infime*. Toujours ample, mais une phrase se casse, un nom hésite (« la cité de… — sa forme m’échappe un instant »). Le présent commence à remplacer les temps composés.
-- **Irruption 3-4 (seuils de fin des Parties II et III)** — *érosion syntaxique*. Les subordonnées lâchent. Phrases plus courtes, parataxe. Certains noms propres s’effacent et sont remplacés par des périphrases (« la ville aux ponts », « l’homme sans nom »). Les temps verbaux flottent : passé et présent se mélangent dans la même phrase.
-- **Irruption 5-6 (seuils de fin des Parties IV et V)** — *dénouement de la langue*, puis *presque muette*. Plus de ponctuation forte ; propositions juxtaposées par virgules ou par blancs. Les noms tombent presque tous ; il ne reste que des fonctions (« celui qui coupe », « celle qui écrit », « le feu »). Répétitions, boucles, comme une mémoire qui bégaie.
-- **Irruption 7-8 (H0 → H7, dans le final)** — *quasi-silence*. Fragments. Mots isolés. Un verbe sans sujet, un sujet sans verbe. Des blancs typographiques qui *sont* le texte. Elle perd jusqu’à sa propre première personne : « je » devient « … » ou « qui parle encore ». La dernière irruption : peut-être un seul mot, ou un blanc nommé.
+> ~~Irruption d’ouverture (Prologue)~~ — **RETIRÉE le 2026-09-22** (voir PROLOGUE). La voix n’ouvre plus le livre, et **elle n’est jamais entendue intacte** : le lecteur la rencontre déjà fêlée.
+- **Irruption 1 (seuil de FIN de Partie I)** — *pleine puissance, première fêlure infime*. Toujours ample, mais une phrase se casse, un nom hésite (« la cité de… — sa forme m’échappe un instant »). Le présent commence à remplacer les temps composés. **C’est désormais la première apparition de la voix dans la trilogie.**
+- **Irruptions 2-3 (seuils de fin des Parties II et III)** — *érosion syntaxique*. Les subordonnées lâchent. Phrases plus courtes, parataxe. Certains noms propres s’effacent et sont remplacés par des périphrases (« la ville aux ponts », « l’homme sans nom »). Les temps verbaux flottent : passé et présent se mélangent dans la même phrase.
+- **Irruptions 4-5 (seuils de fin des Parties IV et V)** — *dénouement de la langue*, puis *presque muette*. Plus de ponctuation forte ; propositions juxtaposées par virgules ou par blancs. Les noms tombent presque tous ; il ne reste que des fonctions (« celui qui coupe », « celle qui écrit », « le feu »). Répétitions, boucles, comme une mémoire qui bégaie.
+- **Irruptions 6-7 (H0 → H7, dans le final)** — *quasi-silence*. Fragments. Mots isolés. Un verbe sans sujet, un sujet sans verbe. Des blancs typographiques qui *sont* le texte. Elle perd jusqu’à sa propre première personne : « je » devient « … » ou « qui parle encore ». La dernière irruption : peut-être un seul mot, ou un blanc nommé.
 
-**Numérotation des seuils** — les seuils FERMENT les parties (le Lien parle *entre* les parties, après coup). Séquence ferme : 1 = Prologue · 2 = fin de Partie I · 3 = fin de Partie II · 4 = fin de Partie III · 5 = fin de Partie IV · 6 = seuil de la Partie V (juste avant les heures) · 7 = H0 · 8 = H7 · coda = ABSENCE (le silence est le texte). Le fichier « 06 - Seuil de la Partie I » est bien à sa place en fin de Partie I ; les fragments du journal progressent chronologiquement de seuil en seuil.
+**Numérotation des seuils** — les seuils FERMENT les parties (le Lien parle *entre* les parties, après coup). Séquence ferme (la voix n'ouvre plus le livre) : 1 = fin de Partie I · 2 = fin de Partie II · 3 = fin de Partie III · 4 = fin de Partie IV · 5 = seuil de la Partie V (juste avant les heures) · 6 = H0 · 7 = H7 · coda = ABSENCE (le silence est le texte). Le fichier « 06 - Seuil de la Partie I » est bien à sa place en fin de Partie I ; les fragments du journal progressent chronologiquement de seuil en seuil.
 
 **La clausule d’échappée** — dans les chapitres POV de la montée, UNE seule phrase de toute fin de chapitre a le droit de glisser hors de la focalisation limitée (vers le mont au sud, vers ce qui tient le monde par en dessous et n’est jamais nommé). Jamais plus d’une, toujours en clausule, jamais le « je » du Lien (réservé aux seuils). C’est la signature du livre : l’ombre du Lien clôt les chapitres bien avant que le lecteur comprenne pourquoi. **Chaque clausule écrit sa propre descente** : elle naît de l’organe du chapitre qu’elle ferme — ce que ce personnage-là perçoit, son métier, la matière qu’il a dans les mains — et elle dit à l’affirmatif ce qu’une négation dirait. Figures interdites, parce qu’usées ailleurs dans la trilogie : l’anaphore en « sans », le tricolon « ni… ni », l’énumération négative, l’escalier « plus bas que X, plus bas que Y », l’anaphore « sous X, sous Y », l’ouverture sur « Loin », « Ailleurs » ou « Au-delà ».
 - **Coda** — *silence total*, sauf peut-être une trace : les ~0,3 % de Tisses. La voix ne parle plus ; on la mentionne comme absente. Un dernier souffle possible : une demi-phrase depuis un Tisse, comme un écho dans une pièce vide.
@@ -214,23 +214,16 @@ Le ciel ne change pas. Le soleil se lève. Les arbres sont là. **Rien de visibl
 
 Structure temporelle : le **présent** du livre couvre les ~90 derniers jours avant l’An 0 (préparatifs + voyage au Mont) ; le **passé** remonte par les dispositifs propres à chaque POV majeur (§1). La Partie V bascule dans le temps minuté.
 
-### PROLOGUE — en deux mouvements *(révisé 2026-09-22)*
+### PROLOGUE — « La gardienne du seuil » *(révisé 2026-09-22 — la voix n'ouvre plus le livre)*
+- **POV Nera**, hors numérotation. Une femme, son arche, quarante ans de métier dont dix-huit à ce seuil. Les ingénieurs de la Charte montent une fois l'an mesurer la résonance et repartent avec des chiffres ; elle sait de son arche des choses que leurs chiffres ne disent pas. **Le lecteur apprend ce qu'est le Lien en regardant quelqu'un s'en servir**, pas en lisant l'inventaire d'un dieu. Nera revient au ch. 40, pendant les heures.
+- Dernière ligne : l'arche grince pour personne, « sous le poids d'un pas que nul n'avait fait ». Le Lien lâche une première fois, vu d'en bas, **sans un mot d'explication et sans que personne l'entende**.
+- **Fragment du journal de Thessan #1**, qui ferme le prologue. Il est la source d'un dispositif à l'échelle des trois tomes : chaque tome s'ouvre sur ce fragment, un peu plus dégradé et d'une provenance un peu plus douteuse (T2 : « la plus vieille copie qui circule, sans date et sans nom de copiste » ; T3 : « trouvé écrit dans la marge de la source, d'une autre main »).
+- *Fonction* : un visage et un document. Une femme qui aime son travail, puis huit personnes qui annoncent une catastrophe. Aucune ampleur récitée, aucun nom propre de cité, de dieu ou d'empire — **le monde se donne par l'usage qu'on en fait**.
 
-**I — « La gardienne du seuil »** *(POV Nera, hors numérotation)*
-- Une femme, son arche, quarante ans de métier dont dix-huit à ce seuil. Les ingénieurs de la Charte montent une fois l’an mesurer la résonance ; elle sait de son arche des choses que leurs chiffres ne disent pas. Le lecteur apprend ce qu’est le Lien **en regardant quelqu’un s’en servir**, pas en lisant l’inventaire d’un dieu.
-- Dernière ligne : l’arche grince pour personne, « sous le poids d’un pas que nul n’avait fait ». Le Lien lâche une première fois, vu d’en bas, sans un mot d’explication. Nera revient au ch. 41, pendant les heures.
-
-**II — « Ce que je tiens »** *(voix du Lien, irruption 1, pleine puissance)*
-- Elle jure n’avoir jamais laissé tomber personne — **deux pages après que le lecteur a entendu l’arche grincer.** C’est là, et nulle part ailleurs, que le prologue gagne son ironie.
-- Elle **compte** ce qu’elle tient sans le **nommer** : sept cités et aucune ne manque, neuf grands noms, six empires, cent vingt millions un par un. Le compte est ce que les huit irruptions effaceront ; la nomenclature, elle, ne servait qu’à la relecture et coûtait mille mots au premier lecteur. **Elle est retirée.**
-- **Ne désigne plus rien** : ni le mont au sud, ni l’homme penché sur son livre à Aethranor. La découverte appartient aux chapitres.
-- Le portail répond à Nera au mot près : elle dit du porteur qu’il ne saura jamais « qu’entre ces deux pas il n’avait, un instant, existé nulle part » ; la voix achève la phrase — « **sinon en moi** ».
-- Dernière ligne : une fêlure infime, qu’elle ne remarque pas.
-- **Fragment du journal de Thessan #1** (voir droite).
-- *Fonction* : un visage avant un dieu, puis l’ampleur. Le lecteur sait déjà que cette voix va mourir — et il l’a déjà entendue se tromper.
+> **Retiré le 2026-09-22 — l'irruption d'ouverture de la voix (« Ce que je tiens »).** Elle récitait ses possessions sur mille quatre cent quarante-deux mots avant qu'aucun visage n'existe, elle désignait le mont au sud et l'homme penché sur son livre, et sa répétition ne travaillait pas : vingt et un « je tiens », pas un seul fêlé. Décision de l'auteur. **Conséquence heureuse : la voix n'est jamais entendue intacte.** Le lecteur la rencontre pour la première fois au seuil de la Partie I, déjà fêlée, et ne saura jamais de quoi elle avait l'air entière. Le texte reste dans l'historique git.
 
 ### PARTIE I — « Les lecteurs » *(le monde d’avant, le Cercle se forme dans la mémoire)*
-Seuil : **voix du Lien irruption 2** + **Fragment #2**.
+Seuil : **voix du Lien irruption 1** + **Fragment #2**.
 1. **Thessan** (présent, J-90) — Aethranor. Thessan rejoint le point de ralliement ; on découvre le Cercle par ses yeux, et l’Étudiant *de dos*. *Fonction* : ancrer le POV-porte, poser le doute.
 2. **Sera** (passé) — Celethor, le test de résonance à 13 ans qui a séparé les jumelles. *Fonction* : blessure fondatrice de Sera ; introduire Ísae.
 3. **Fenêtre : Nera** (présent) — Aethranor, une journée ordinaire de gardienne de portail. *Fonction* : montrer l’Âge d’Or fonctionnel, aimable, pour qu’on le pleure.
@@ -238,7 +231,7 @@ Seuil : **voix du Lien irruption 2** + **Fragment #2**.
 5. **Aelindra** (passé, POV secondaire) — son infiltration, les 2 ans, la conversion logique, le rapport brûlé. *Fonction* : montrer que le Cercle convainc par la raison, pas la foi.
 
 ### PARTIE II — « Ce que le Lien a coûté » *(les blessures s’approfondissent, le plan se précise)*
-Seuil : **voix du Lien irruption 3** (érosion) + **Fragment #3** (contient la phrase-canon).
+Seuil : **voix du Lien irruption 1** (érosion) + **Fragment #3** (contient la phrase-canon).
 6. **Thessan** (présent) — nuit où l’Étudiant lui montre pour la première fois le protocole final de Sera. Thessan mesure que « montrer » = « faire » (Fragment Zéro en germe). *Fonction* : nœud du doute intellectuel.
 7. **Sera** (présent) — Sera rédige/relit le protocole ; commence la lettre à Ísae. La question qu’elle n’a pas posée affleure. *Fonction* : fissurer la certitude de l’architecte.
 8. **Fenêtre : Kelib** (présent) — vie dans la cité volante, l’enfant et les Liés en rotation qui la maintiennent. *Fonction* : rendre concrète la mécanique qui tuera des milliers à H1-H2.
@@ -246,7 +239,7 @@ Seuil : **voix du Lien irruption 3** (érosion) + **Fragment #3** (contient la 
 10. **Mirathis** (passé/présent) — les Rêves-Gris, le voyage depuis Vytharia. *Fonction* : introduire la lecture onirique/noctarie et l’inévitabilité.
 
 ### PARTIE III — « Le voyage » *(la convergence physique commence)*
-Seuil : **voix du Lien irruption 4** + **Fragment #4**.
+Seuil : **voix du Lien irruption 1** + **Fragment #4**.
 11. **Kayara** (présent, POV secondaire) — la traversée, l’art de vivre sans Lien, transport du Cercle. *Fonction* : la compétence sereine ; ouvrir Azoria.
 12. **Drakhan** (présent) — la dispute finale avec sa fille avant le départ. *Fonction* : sommet émotionnel de Drakhan ; graine T2.
 13. **Fenêtre : Ílvar** (présent) — Navoria vue d’en bas, un pêcheur non-Lié dans la plus grande cité du monde. *Fonction* : aimer Navoria avant de la noyer.
@@ -254,24 +247,24 @@ Seuil : **voix du Lien irruption 4** + **Fragment #4**.
 15. **Sera** (présent) — Sera et l’Étudiant, une conversation où elle comprend qu’elle a la vision et lui la technique — et que ni l’un ni l’autre n’a la certitude. *Fonction* : cœur thématique du livre (chacun a raison ET tort).
 
 ### PARTIE IV — « La veille » *(rassemblement au pied du Mont, dernière nuit)*
-Seuil : **voix du Lien irruption 5** (dénouement) + **Fragment #5**.
+Seuil : **voix du Lien irruption 1** (dénouement) + **Fragment #5**.
 16. **Iveth / lecteur des morts** (présent, POV secondaire — si retenu) — la « pression croissante » des morts autour du Mont ; il « confirme » que c’est faisable, sans savoir si c’est juste. *Fonction* : semer « la Trame aurait cédé seule ».
 17. **Sera** (présent) — Sera finit la lettre à Ísae, ne l’envoie pas. *Fonction* : le prix humain, intime.
 18. **Fenêtre : le Grand Pontife de Navoris** (présent) — le pouvoir qui, la veille, ne sait rien encore ; portrait de l’homme qui, demain, choisira le mensonge par calcul. *Fonction* : élargir au politique.
 19. **Thessan** (présent) — la dernière réunion **[canon]** : « est-ce que l’un de nous croit vraiment que c’est bien ? » → phrase de Mirathis. **Reprise SOLENNELLE, devant tout le Cercle assemblé, de l’échange PRIVÉ de J-51 (Fragment #3, où Thessan avait posé la question un soir en petit comité) : jouer la reconnaissance, pas la surprise. Mirathis répond avec une phrase « prête » parce qu’elle a déjà été prononcée une fois — les deux qui l’ont vécue à voix basse la réentendent monter dans la bouche du groupe.** Thessan écrit ce qu’il croit être sa dernière entrée. *Fonction* : porte du final ; poser le doute une dernière fois avant l’acte.
 
 ### PARTIE V — « La septième heure » *(compte à rebours minuté, H-7 → H7)*
-Seuil : **voix du Lien irruption 6** (presque muette) + **Fragment #6**.
+Seuil : **voix du Lien irruption 1** (presque muette) + **Fragment #6**.
 Chapitres courts, **titrés par l’heure**, alternant sommet et fenêtres-monde en montage serré :
 20. **H-7 → H-1** (Drakhan, guide de la montée) — la gravée nocturne du Mont.
 21. **H-1 → H0** (Thessan) — le sommet, la dernière réunion rejouée, l’Étudiant s’avance.
-22. **H0** (Sera) — le geste, vu par Sera ; le silence de trois secondes ; **voix du Lien irruption 7** (fragments). *Coïncidence, jamais causalité.*
+22. **H0** (Sera) — le geste, vu par Sera ; le silence de trois secondes ; **voix du Lien irruption 1** (fragments). *Coïncidence, jamais causalité.*
 23. **H0 → H1** (Drakhan) — l’éruption ; **Drakhan meurt**. Dernier POV majeur qui s’éteint sur scène.
 24. **H1 → H2** (fenêtre : Kelib) — la cité volante tombe.
 25. **H2 → H3** (fenêtre : Nera) — les portails ; le voyageur qui se dissout.
 26. **H3 → H5** (fenêtre : Ísae) — Celethor ; la non-Liée qui ne sent rien, puis voit tout se figer ; elle ne saura jamais que sa sœur était au sommet.
 27. **H5 → H7** (fenêtre : Ílvar) — Navoria coule ; « les bâtiments qui respiraient ».
-28. **H7** (Kayara, Azoria) — le silence ; les 7 heures qu’elle a eues ; **voix du Lien irruption 8** (quasi-silence, dernier mot / blanc).
+28. **H7** (Kayara, Azoria) — le silence ; les 7 heures qu’elle a eues ; **voix du Lien irruption 1** (quasi-silence, dernier mot / blanc).
 
 ### CODA — « Le premier jour de la Grande Nuit »
 - Chapitres très courts, le lendemain. Le ciel ne change pas **[canon]**.

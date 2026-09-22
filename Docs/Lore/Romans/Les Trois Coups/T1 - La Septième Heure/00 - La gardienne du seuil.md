@@ -159,3 +159,9 @@ Demain elle remonterait les quarante-trois marches. Demain l’arche serait just
 Il lui restait vingt-quatre jours.
 
 Elle dormit bien, cette nuit-là. C’est ce qu’elle se rappellerait plus tard, avec une incrédulité qui lui ferait mal : que la première nuit où son arche l’avait appelée pour rien, elle avait dormi comme un enfant. En haut, sur la terrasse déserte, le drap de veille pendait droit dans l’air sans vent, et l’arche de pierre bleue attendait le matin. Vers le milieu de la nuit, quand il n’y avait plus personne pour l’entendre ni pour porter le trait au registre, elle grinça de nouveau, très bas, très doucement, sous le poids d’un pas que nul n’avait fait.
+
+---
+
+> **Fragment #1 — Journal de Thessan. J-90.**
+>
+> *« Je commence ce livre en sachant qu’il ne sera peut-être lu par personne, ou qu’il sera lu par tout le monde, et je ne sais pas laquelle des deux perspectives me terrifie davantage. Nous sommes huit. On nous appellera plus tard le Cercle, si l’on nous appelle. Je note ceci le premier : nous ne sommes pas des fous. J’ai lu le Traité en entier. Nous l’avons tous lu. C’est peut-être notre seule faute — d’avoir lu jusqu’au bout. »*
