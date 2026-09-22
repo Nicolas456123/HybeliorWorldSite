@@ -128,22 +128,30 @@ Les Chroniques y sont versées sous **`oeu-0013`** (ch. 1-23, 105 événements) 
 **`chroniques`** (ch. 24-38, 84 événements). Aucun titre dupliqué : c'est une coupure
 de clé au chapitre 24, pas un doublon. À unifier.
 
-### 5. 103 des 117 faits versés le 2026-09-22 n'ont pas de libellé
+### 5. ~~103 des 117 faits versés n'ont pas de libellé~~ — RÉGLÉ le 2026-09-22
 
-Leur contenu est dans `detail` ; `label` est `null`. Or `js/monde.js` (l. 529)
-affiche `f.label || f.dateLabel`, et **ne lit jamais `detail`**. Ces faits s'affichent
-donc sur les fiches comme `evenement — ` suivi d'une date, ou de rien : **36 d'entre
-eux n'ont pas d'année non plus** (`fac-1454` et suivants). C'est du canon des trois
-tomes qui est dans l'Atrium sans y être visible — contraire à la règle « l'Atrium
-montre tout ». Deux sorties : remplir les `label` au versement, ou faire tomber la
-frise sur `detail`.
+Leur contenu était dans `detail`, `label` à `null`, et les trois affichages de
+`js/monde.js` lisaient `label` sans jamais lire `detail` : 36 d'entre eux
+s'affichaient entièrement vides. Un helper `texteFait()` prend désormais le
+premier des deux champs qui porte du texte. Vérifié au navigateur sur la fiche
+de Vaskar Sorne : zéro ligne muette, alors que six de ses sept faits en étaient.
 
-### 6. 322 entités sans résumé
+### 6. ~~322 entités sans résumé~~ — EN COURS, 275 écrits le 2026-09-22
 
-**314 lieux et 8 polités** n'ont ni `summary` ni `body` — héritage de l'import de la
-sauvegarde carte (Lithanel, Drahk, Haldria, Avalor, Sanvara, Endrath…). Leur fiche
-s'ouvre vide. Beaucoup portent pourtant une `data.periode` avec sa citation et sa
-fiche d'origine : de quoi écrire deux lignes par script.
+314 lieux et 8 nations s'ouvraient sur du vide. Le constat de départ était faux
+sur un point : **287 d'entre elles portaient déjà leur fiche de lore recopiée en
+entier dans leur champ `body`** — le texte dormait dans l'Atrium sans jamais
+s'afficher. Le travail était donc de compresser, pas d'écrire. 275 résumés sont
+posés ; les 47 derniers (Ulinor, Alkaran) suivent.
+
+Trois noms ont été rendus à leur orthographe au passage : **Myrthéria** et
+**Obélia** (un `é` perdu à l'encodage, que les fiches `Drakora.md` et
+`Ackerna.md` écrivent correctement), et **Le Lié draconique**.
+
+**Reste ouvert et grave : 162 entités ont perdu TOUS leurs accents**, dont les
+huit Ères — « l'Ocean Premier », « les Eternels », « les 45 Etheres », « Clivage
+Lies/Delies ». C'est la colonne vertébrale chronologique du monde qui s'affiche
+ainsi. Réparation en cours.
 
 ### 7. `LIEU_SCALES` est une ontologie fermée que la base viole
 
@@ -154,7 +162,49 @@ valeurs qui n'y figurent pas — **`hameau`** et **`quartier souterrain`** — e
 Korvaria, Kethmaria, Solniria) et des salles (le Sanctuaire de la Première Enclume,
 la Porte de Fer du défilé d'Iskara). Deux sorties : ouvrir l'ontologie aux deux
 valeurs employées, ou les ramener à `bourg` et `lieu-dit` ; puis échelonner les 64.
-*(En cours au 2026-09-22.)*
+
+**RÉGLÉ le 2026-09-22** : `hameau` et `quartier` entrent dans l'ontologie
+(`quartier souterrain` y est ramené), les 65 échelles manquantes sont posées, et
+521 fiches qui n'avaient pas d'objet `data` du tout en ont un. Contrôle : zéro
+valeur hors ontologie, zéro lieu sans échelle.
+
+### 7 bis. Les rattachements de lieux sont faux en masse, et on en connaît la cause
+
+Les six lots de résumés ont buté sur le même défaut : **le graphe range des
+lieux sous le mauvais pays**, ou sous le continent au lieu de la nation. Le
+site affiche donc des villages sous la mauvaise bannière.
+
+Les cas les plus graves : **Holvendar** et **Amarendis**, deux capitales, sont
+accrochées au mauvais pays ; **Navoria**, capitale de la Thalassocratie de
+Navoris engloutie à l'An 0, est donnée pour capitale de **Mosrack**, qui n'en
+est que l'héritier politique neuf mille ans plus tard ; **Everthor-Prime**
+donne à Thalmaris une seconde capitale, alors qu'Ostarith la tient déjà ;
+**treize villages et régions d'Haldria** sont rangés en Ilthara, quand Haldria
+est une nation d'Endora ; **quatorze lieux d'Avalor** et **dix-neuf d'Onara**
+pendent au continent au lieu de leur nation.
+
+**La cause est dans la carte, pas dans le graphe.** Ces liens ont été dérivés
+par point-dans-polygone depuis `data/monde-contours.json`. Or sur Celethor, le
+polygone étiqueté **« Ryldor » fait 15 295 unités² sur les 35 839 du continent
+et en couvre toute la largeur** (x de −155 à 153, quand Celethor va de −155 à
+158) — contre 2 054 pour Astravia et 4 367 pour Elarian. Tout point de ce
+continent tombe donc dans Ryldor. Et `Docs/Lore/Pays/Celethor/Ryldor.md` dit
+l'inverse à sa ligne 97 : « Unique région du pays : vallée abritée entre les
+montagnes de Celethor. »
+
+L'arbitrage du 2026-09-14 tranche déjà ce genre de conflit et s'applique ici :
+**position = carte de l'auteur, rattachement = fiches.** Les liens sont donc à
+refaire d'après le lore, surface inchangée. Mais **l'étiquetage des surfaces de
+pays mérite d'être revu par l'auteur** : sa carte peint Ryldor sur la moitié de
+Celethor, ce que sa propre fiche contredit.
+
+Second volet du même chantier : **`data.echelle` contredit la prose du lore**
+dans une quarantaine de cas — des `cite` pour un « Population : Village », des
+`ville` pour des hameaux, et une fiche qui se contredit elle-même (`Vyndris`,
+« Hameau de cartographes… — Population : Ville »).
+
+*(Réparation en cours au 2026-09-22 ; chaque correction doit citer la phrase de
+la fiche qui la prouve.)*
 
 ### 8. `npm run lint` est rouge — deux erreurs
 
