@@ -2,13 +2,14 @@
 
 Site web interactif dédié à l'univers d'Hybélior : carte du monde, chronologie, lore et romans.
 
-## La Concordance
+## L'Atrium
 
-Le savoir du site porte un nom : **la Concordance**. C'est le graphe canonique
+Le savoir du site porte un nom : **l'Atrium**. C'est le graphe canonique
 (`data/kg-base.json`, moteur `lib/kg-core.js`, portail `monde.html`), et c'est
-la source de vérité du monde. Elle **sait tout et montre tout** — aucune
-restriction, aucun mystère caché. Quand un texte la contredit, c'est elle qui
-tranche ; si c'est elle qui a tort, on la corrige là et le reste suit.
+la source de vérité du monde — la salle où toutes les sources tombent et se
+gardent. Il **sait tout et montre tout** : aucune restriction, aucun mystère
+caché. Quand un texte le contredit, c'est lui qui tranche ; si c'est lui qui a
+tort, on le corrige là et le reste suit.
 
 Les romans, eux, gardent leurs mystères : les entités de type `question`
 enregistrent **que** la question se pose et quelles lectures s'affrontent,

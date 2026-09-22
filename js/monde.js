@@ -1,10 +1,10 @@
 'use strict';
 /*
- * js/monde.js — Le Monde : le portail de la Concordance.
+ * js/monde.js — Le Monde : le portail de l'Atrium.
  *
- * La Concordance est le nom du savoir d'Hybelior : le graphe accordé, celui
- * qu'on interroge quand deux sources se contredisent, et qui tranche. Le
- * portail en est la porte d'entrée. Voûte céleste animée,
+ * L'Atrium est le nom du savoir d'Hybelior : la salle où tout converge,
+ * celle qu'on interroge quand deux sources se contredisent, et qui tranche.
+ * Le portail en est l'entrée. Voûte céleste animée,
  * grande recherche, portes thématiques, fiches immersives (prose complète,
  * constellation de liens interactive, frise des faits), chronologie des Ères,
  * porte au hasard. Vanilla JS, hash-routing, lit /api/kg (lecture seule).
@@ -287,7 +287,7 @@ async function vueSeuil() {
     h('h1', { class: 'titre-monde', text: 'Hybelior' }),
     h('div', { class: 'ornement', text: '◆ ◇ ◆' }),
     h('p', { class: 'devise', text: 'Treize continents. Dix mille ans. Une trame qui respire — et qui se souvient.' }),
-    h('p', { class: 'nom-savoir', title: 'Le savoir accordé d’Hybelior : ce que le monde tient pour vrai, et qui tranche quand les sources se contredisent.' }, 'la ', h('strong', { text: 'Concordance' })),
+    h('p', { class: 'nom-savoir', title: 'Le savoir d’Hybelior : la salle où toutes les sources tombent et se gardent. Elle sait tout, et elle tranche quand deux textes se contredisent.' }, 'l’', h('strong', { text: 'Atrium' })),
     h('p', { class: 'compte', text: total + ' portes déjà ouvertes' })));
 
   // Grande quête (recherche)
@@ -336,7 +336,7 @@ async function vueSeuil() {
   vue.append(sv); saviezVous(sv);
 
   vue.append(h('div', { class: 'pied' },
-    h('span', { text: stats.entities.toLocaleString('fr-FR') + ' entités · ' + stats.relations.toLocaleString('fr-FR') + ' liens · ' + stats.facts.toLocaleString('fr-FR') + ' faits — la Concordance, un seul monde. ' }),
+    h('span', { text: stats.entities.toLocaleString('fr-FR') + ' entités · ' + stats.relations.toLocaleString('fr-FR') + ' liens · ' + stats.facts.toLocaleString('fr-FR') + ' faits — l’Atrium, un seul monde. ' }),
     h('a', { href: '/atelier.html', text: '🛠 Atelier (édition)' }),
     h('span', { text: ' · ' }),
     h('a', { href: '/', text: '← le site' })));

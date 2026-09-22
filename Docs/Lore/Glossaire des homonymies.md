@@ -95,23 +95,10 @@ needs_review_for: []
 
 | Sens | Emploi | Où |
 |---|---|---|
-| **la Concordance** | **le nom du savoir du site** — le graphe canonique, celui qu'on interroge et qui tranche | hors fiction ; `data/kg-base.json`, `lib/kg-core.js`, le portail |
 | **Bureau des Concordances** | institution des romans | tomes 1 et 3 |
 | **Concordant** | statut du mortel accordé à l'Ère présente (vs Étranger) | GDD ; [[L'Accord]] |
-| **« La concordance manquante »** | titre du seuil de partie, tome 1 | tome 1, seuil 10 |
 
-**Statut : écho VOULU, tranché le 2026-09-22.** Le savoir du site porte
-désormais le nom de **la Concordance**, et l'écho avec le Bureau des
-Concordances des romans est délibéré : là-bas on classe les silences, ici on
-accorde les sources. Le tome 1 s'ouvrait sur « La concordance manquante » ; ce
-qui accorde enfin toutes les sources porte ce nom.
-
-Les deux plans restent distincts et ne se confondent jamais : **la Concordance
-est hors fiction** (c'est l'appareil, la référence, ce qu'on interroge), le
-**Bureau** est une institution *en monde*. Aucun personnage ne consulte « la
-Concordance » ; aucune fiche ne prétend que le Bureau est le site. La
-proximité avec le **Concordant** du GDD reste ce qu'elle était : probable,
-jamais établie comme lien de sens, et on ne la tranche pas.
+**Statut : écho non tranché.** La proximité entre l'institution romanesque et le statut GDD est **probable** mais n'a jamais été établie comme un lien de sens. On la signale sans la trancher.
 
 ---
 
