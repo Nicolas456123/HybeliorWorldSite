@@ -1006,6 +1006,121 @@ Les trois bibles renvoyaient déjà à des numéros de chapitre qui ne correspon
 
 ---
 
+## Réconciliation des deux œuvres (2026-09-22)
+
+Les *Chroniques de l'Exilé* (38 ch.) et *Les Trois Coups* (162 ch.) ont été bâtis en
+parallèle, sans se relire. Audit croisé complet. Convention : **C/38** = Chroniques
+ch. 38 · **T3/46** = tome 3 ch. 46.
+
+### 1. Les renvois « canon ch. 39-40 » — RÉSOLU
+
+**Ces chapitres existent : ce sont les ch. 37 et 38 actuels.** Vérifié sur pièce —
+`Chapitre 37 - Le Cartographe Sans Carte.md` et `Chapitre 38 - Les Murs Tombent.md`
+portent exactement les titres que les bibles attribuent aux 39 et 40. Les Chroniques
+entrent dans git en **un seul commit** (`c75adae`, 2026-07-17), déjà numérotées 01→38 :
+le passage de 40 à 38 **précède le dépôt** et appartient à la refonte v2. Trois titres
+sans fichier (« Les Cathédrales », « Les Comptoirs », « Les Étoiles ») ont été absorbés
+dans C/04, C/11 et l'acte II. C'est une **compression**, pas une amputation.
+
+**Les renvois ne sont donc ni faux ni prospectifs : ils sont périmés.** Volume réel :
+≈ 57 renvois numérotés, dont **26 dans la seule bible du tome 3**.
+
+⚠ **Le décalage n'est pas uniforme.** Deux renvois `[canon ch. 39]` de la bible des
+Chroniques pointent en réalité sur **C/04, C/35 et C/36** : l'ancien ch. 39 a été déplié
+sur trois chapitres. Une correction en « −2 » serait fausse.
+
+⚠ Dans la bible du T1, **« T3 » désigne trois fois *Les Chroniques*** et une quatrième
+fois le tome 1 lui-même. Et plusieurs verbatims cités « [canon] » **n'existent plus**
+après la réécriture (« Cela suffisait » est devenu « Et pour une fois, cela suffit »).
+
+### 2. Contradictions entre les deux œuvres — aucune tranchée
+
+| Point | Les Chroniques | La trilogie |
+|---|---|---|
+| ⚠ **Où sont les dix-sept cahiers** | Laissés **sur la table à Rukhsar** au jour 910 (C/38) | Dans un coffre de cèdre **à Prismalith** (T3/26, T3/30) |
+| ⚠ **Les quatorze pages blanches** | N'existent qu'**après** la note du jour 910, écrite à Kharazir | La copie de Prismalith (jour 895) les contient, et le T3 bâtit deux chapitres dessus |
+| ⚠ **Date de la copie** | Coda datée « **l'année qui suivit le dépôt** » = an 252 | Copie achevée et consultée **dans l'an 251** ; le tome s'interdit toute date au-delà |
+| ⚠ **Qui commande la copie** | Le Tribunal l'ordonne et la fait conserver (C/37 + coda) | Le Tribunal est un **réclamant extérieur**, venu avec « un mandat d'extrait d'une pièce que nous n'avons jamais établie » (T3/26) |
+| ⚠ **Kharazir** | Porte d'Azur **générique**, « de chaque ville de Kharazir », **à l'entrée** (C/38) | Monument **unique**, au centre de la haute-ville (T3/46). Et nation (T3/03-07-22) contre cité (T3/46) |
+| ⚠ **Trois pierres scellées concurrentes** | La dalle des tunnels, posée il y a **sept ans** ; le huitième pilier remonté il y a **six ans** (C/38) | La Dalle **immémoriale**, scellée « à la fondation de la haute-ville », plomb recoulé tous les neuf ans (T3/46) |
+| ⚠ **La chute de la ville** | Finit sur « les murs jaunes étaient toujours debout… c'est peut-être ainsi que les murs **commencent** à tomber » | T3/46 la détruit — fleuve, muraille, effondrement. **Même ville, même automne si l'on suit le texte ; sens inverses.** Omarin et la seconde copie sont dans la ville qui tombe |
+| **Le tissu jaune** | Institution de « plus de quatre cents ans » (C/01) | Escalade neuve et scandaleuse (T3/11) |
+| **Cestra / le Jumeau** | Sous le Glacier Central d'un continent à 95 % non administré | T3/50 y fait entendre le battement par « un pèlerin de Cestra… au Mont Jumeau ». Le battement est senti en **trois** lieux dans le texte, pas quatre : bible et graphe dédoublent Cestra et le Jumeau, **qui sont le même site** |
+
+**Contradiction interne aux Chroniques, trouvée au passage** : C/01 dit de Rukhsar que
+« personne n'a eu besoin de bâtir des remparts », mais le titre du C/01 et l'ouverture du
+C/38 tiennent sur « les murs jaunes » vus « depuis la route, à l'endroit où la plaine
+s'ouvre ».
+
+**Sur Ysolde** : aucun autre personnage ne porte deux âges contradictoires, pour une
+raison nette — **les deux œuvres ne partagent que deux personnages nommés**, Ysolde et
+Omarin. Sorin, Valthen, Selendris, Thalendris, Mira Dasthen, Orath Dovan, Velestrin
+**n'apparaissent pas une seule fois dans les 162 chapitres**. Omarin, lui, est cohérent.
+
+### 3. Homonymes transversaux — le compte monte à sept Corvane
+
+Le registre en comptait quatre (six avec le tome 1). Le **septième** est le **Corvane de
+C/23**, vieux lettré de **Cendara** qui **tient un registre des enfants aux yeux blancs** :
+exactement le nom, le lieu et la fonction de « la Corvane » du T3/06-17. Également
+non recensés : **Kessa** (An 0 / C/21 an 251, toutes deux dans la forge et la cendre) ·
+**Vessine** (navire en C/31, passage de rivière en T3/37-45) · **Corven** (C/07 / T3/11).
+
+### 4. Ce que l'une établit et que l'autre ignore
+
+**Les Chroniques posent, la trilogie ignore** : que le cartographe est **un Délié** — alors
+que T3/46 est tout entier sur la Loi du Sol et le jaune · **le geste de la Porte d'Azur**,
+et **Vhail est le Maître du Seuil de cette porte même** et n'en sait rien (le plus beau pont
+manqué du corpus) · l'audience du Tribunal · le huitième pilier et le séisme · l'amulette de
+pierre noire · le réseau de dépôts dispersés · qu'un Délié sent la pulsation.
+
+⚠ **La trilogie pose, les Chroniques ignorent — et c'est le plus grave : le Fragment #3
+n'est dans aucun des 38 chapitres.** Ni sous sa forme du T1, ni altéré. Or T3/26 et T3/30
+bâtissent toute leur convergence sur « une ligne d'une main plus ancienne, annotée
+*entendu ailleurs. Déjà.* » dans l'avant-dernier cahier de Sorin. **La colonne vertébrale
+documentaire du tome 3 repose sur une ligne que les Chroniques n'ont jamais plantée.**
+Vérifié : « entendu ailleurs » ne figure dans aucun chapitre des Chroniques.
+Également ignorés : la Guerre de l'Ombre, jamais nommée, et aucune de ses six victimes
+croisée · les Ombres Souterraines et les Fonds de Drakora (C/16 n'y voit qu'une théocratie
+du feu) · l'effacement des enfants aux yeux blancs des registres de Kharazir.
+
+### 5. Fuites de mystère — aucune consommée, deux endroits minces
+
+Tiennent : la question de la main du journal (C/10 verrouille : « ce n'est pas la même
+main… **je ne mélange pas les deux** ») · les trois cartes d'Aldric Valthen · la lignée de
+Renna · la cause du Troisième Coup, que T3/46 ne donne pas.
+
+**Deux minceurs, à doser par l'auteur :**
+
+1. ⚠ **Une lecture devenue texte.** Dans C/38, « nous étions huit… » est **la lecture
+   d'Omarin**, et Sorin le dit : « *Selon ce que j'en lis* », « J'ai noté la formule telle
+   qu'il la faisait. **Elle lui appartenait** […] Rien à confirmer, rien à contredire de mon
+   côté. » Dans **T3/46**, les trois lignes montent **dans la Dalle** et Vhail les lit :
+   *nous étions huit / le huitième peuple se souvient / et il remonte*. La pierre confirme
+   le **libellé**. Le chapitre referme aussitôt sur le **sens** — « il ne les comprit pas…
+   jamais il ne sut s'il avait devant lui une plainte, une menace ou une promesse, ni si le
+   huit parlait des peuples de Sohane ou d'autre chose » — et la tradition orale y est
+   rapportée, attribuée à une grand-mère, dans des mots différents. **Le référent reste
+   ouvert ; le libellé, non.**
+2. **Asymétrie de lucidité sur la Guerre de l'Ombre.** Le tome 3 en fait sa grande question
+   et son antagoniste n'y répond pas en 55 chapitres ; les Chroniques donnent à Sorin **le
+   profil exact des victimes et le motif**. Un lecteur des deux livres sort avec une réponse
+   que Vaskar n'a pas. Le garde-fou tient sur **une seule réplique**, celle du C/10.
+
+### 6. Défauts de données relevés
+
+- `data/evenements-recit.json` verse les Chroniques sous **deux clés `oeuvre`** —
+  `oeu-0013` (ch. 1-23) et `chroniques` (ch. 24-38). Aucun titre dupliqué : c'est une
+  coupure de clé au chapitre 24, pas un doublon. À unifier.
+- Dans le graphe : `per-0161` Ysolde porte une période **945-972** venue d'un homonyme
+  (Ysolde Navar) · `per-0160` Omarin est daté **10203 = an 254** · `lie-0640` le Jumeau
+  compte quatre lieux au lieu de trois · `per-0755` « Le cartographe de Kharazir » est un
+  probable doublon de Sorin, mal daté · `lie-0523` Rukhsar a une période qui s'achève en
+  **10194**, six ans avant les scènes qui s'y jouent · **neuf faits de Sorin encore datés
+  an 252**, et des fiches `Pays/` et `Histoires/` qui écrivent « an 252 » et « en 254 »
+  pour son voyage, au-delà de la borne absolue du tome 3.
+
+---
+
 ## Annexe — d'où viennent ces constats
 
 - Notes brutes du balayage : **`data/lore-notes.json`** (380 entrées `{ source, note }`, versionné).
