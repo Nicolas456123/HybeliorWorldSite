@@ -136,24 +136,26 @@ s'affichaient entièrement vides. Un helper `texteFait()` prend désormais le
 premier des deux champs qui porte du texte. Vérifié au navigateur sur la fiche
 de Vaskar Sorne : zéro ligne muette, alors que six de ses sept faits en étaient.
 
-### 6. ~~322 entités sans résumé~~ — EN COURS, 275 écrits le 2026-09-22
+### 6. ~~322 entités sans résumé~~ — RÉGLÉ le 2026-09-22
 
 314 lieux et 8 nations s'ouvraient sur du vide. Le constat de départ était faux
 sur un point : **287 d'entre elles portaient déjà leur fiche de lore recopiée en
 entier dans leur champ `body`** — le texte dormait dans l'Atrium sans jamais
-s'afficher. Le travail était donc de compresser, pas d'écrire. 275 résumés sont
-posés ; les 47 derniers (Ulinor, Alkaran) suivent.
+s'afficher. Le travail était donc de compresser, pas d'écrire. **Les 322 sont
+écrits** : plus aucune fiche de l'Atrium ne s'ouvre sur du vide.
 
 Trois noms ont été rendus à leur orthographe au passage : **Myrthéria** et
 **Obélia** (un `é` perdu à l'encodage, que les fiches `Drakora.md` et
 `Ackerna.md` écrivent correctement), et **Le Lié draconique**.
 
-**Reste ouvert et grave : 162 entités ont perdu TOUS leurs accents**, dont les
+**Réparé le même jour : 162 entités avaient perdu TOUS leurs accents**, dont les
 huit Ères — « l'Ocean Premier », « les Eternels », « les 45 Etheres », « Clivage
 Lies/Delies ». C'est la colonne vertébrale chronologique du monde qui s'affiche
-ainsi. Réparation en cours.
+ainsi. Réparé — graphe et fiches de lore sources, sous un invariant qui
+n'autorise que des diacritiques ; 806 mots restent nus sous le seuil de
+confiance (ambiguïtés participe/présent), laissés à une relecture humaine.
 
-### 7. `LIEU_SCALES` est une ontologie fermée que la base viole
+### 7. ~~`LIEU_SCALES` est une ontologie fermée que la base viole~~ — RÉGLÉ le 2026-09-22
 
 `lib/kg-core.js` déclare `LIEU_SCALES = ['monde', 'continent', 'region', 'nation',
 'cite', 'ville', 'bourg', 'ruine', 'lieu-dit']`. Or `data.echelle` emploie deux
@@ -168,7 +170,7 @@ valeurs employées, ou les ramener à `bourg` et `lieu-dit` ; puis échelonner l
 521 fiches qui n'avaient pas d'objet `data` du tout en ont un. Contrôle : zéro
 valeur hors ontologie, zéro lieu sans échelle.
 
-### 7 bis. Les rattachements de lieux sont faux en masse, et on en connaît la cause
+### 7 bis. ~~Les rattachements de lieux sont faux en masse~~ — RÉGLÉ le 2026-09-22
 
 Les six lots de résumés ont buté sur le même défaut : **le graphe range des
 lieux sous le mauvais pays**, ou sous le continent au lieu de la nation. Le
@@ -203,8 +205,11 @@ dans une quarantaine de cas — des `cite` pour un « Population : Village », d
 `ville` pour des hameaux, et une fiche qui se contredit elle-même (`Vyndris`,
 « Hameau de cartographes… — Population : Ville »).
 
-*(Réparation en cours au 2026-09-22 ; chaque correction doit citer la phrase de
-la fiche qui la prouve.)*
+**Réglé le 2026-09-22** : 173 corrections, chacune appuyée sur une phrase citée de la
+fiche — 160 `situe-dans` et 13 `capitale-de`. Cinq capitales d'empires disparus
+(`lie-0014` à `lie-0018`) étaient accrochées à leur héritier moderne, sept nations
+retrouvent leur capitale. Les 168 échelles décalées d'un cran sont corrigées d'après
+la ligne « Population » de chaque fiche.
 
 ### 7 ter. Les surfaces de pays ne sont pas bonnes — liste de travail
 
