@@ -29,8 +29,8 @@ du monde.
 
 ## Architecture (l'essentiel)
 
-- **L'Atrium** (graphe de connaissances) : `data/kg-base.json` (2953
-  entités, 1473 faits, 3670 liens ; committé, source de vérité) ⊕ overlay
+- **L'Atrium** (graphe de connaissances) : `data/kg-base.json` (3121
+  entités, 1473 faits, 3963 liens ; committé, source de vérité) ⊕ overlay
   Turso (éditions post-hoc).
   Moteur : `lib/kg-core.js`. Base SQLite locale `data/hybelior.db` (gitignorée,
   reconstruite par `npm run kg:db`), recherche FTS5 `lib/kg-store-sqlite.js`.
@@ -56,6 +56,12 @@ du monde.
   (executablePath `/opt/pw-browsers/chromium-*/chrome-linux/chrome`,
   `NODE_PATH=<repo>/node_modules`), envoyer les captures à l'utilisateur.
 - Jamais de reseed du graphe sans `KG_RESEED=1` (destructif).
+- **Raccord livres ↔ Atrium** : après toute retouche d'un livre,
+  `node scripts/verifier-raccord.js --detail`. Au 2026-09-23 : 1 815 citations
+  ancrées, 1 804 exactes, 11 légitimes (intitulés d'arbitrage, lore hors livres) ;
+  0 renvoi cassé. Une citation qui tombe désigne la fiche à reprendre. Les
+  contradictions ENTRE chapitres que l'Atrium ne peut pas trancher seul sont au
+  registre, §12 ; l'ancien lore que les romans démentent, §13.
 - Écriture des livres : charger le skill **`reecriture-livres`**, qui porte
   toute la manière (`SKILL.md`, `POETIQUE.md`, `VOIX.md`). Les cinq bibles ont
   été retirées du dépôt le 2026-09-22 : leur poétique est dans le skill, leurs

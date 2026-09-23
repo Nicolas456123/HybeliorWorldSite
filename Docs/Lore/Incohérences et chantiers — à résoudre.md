@@ -3,7 +3,7 @@ tags: [lore, méta, atrium, incohérences, chantiers, à-résoudre]
 type: lore
 status: living
 date: 2026-07-17
-last_review: 2026-09-22
+last_review: 2026-09-23
 needs_review_for: []
 ---
 
@@ -16,9 +16,9 @@ needs_review_for: []
 > **III. Ce qui ne sera jamais tranché** — les 33 `question`. Ce ne sont pas des
 > incohérences : c'est le sujet des livres.
 
-La source de vérité est **l'Atrium** — `data/kg-base.json`, au 2026-09-22 :
-**2 948 entités, 1 473 faits, 3 662 relations, 231 alias, 36 lectures**
-(divulgation : 2 862 `public`, 85 `restreint`, 1 `auteur`). Quand un chapitre ou
+La source de vérité est **l'Atrium** — `data/kg-base.json`, au 2026-09-23 :
+**3 121 entités, 1 473 faits, 3 963 relations, 238 alias, 36 lectures**
+(divulgation : 2 962 `public`, 158 `restreint`, 1 `auteur`). Quand un chapitre ou
 une fiche le contredit, c'est lui qui a raison ; s'il a tort, on le corrige **là**,
 et le reste suit.
 
@@ -45,8 +45,8 @@ l'Atrium par `ea456c2` (214 entités, 117 faits, 71 relations, 29 liens
 
 | Famille | n° | Ce qui a été décidé | Où ça vit |
 |---|---|---|---|
-| **Chronologie et faits du tome 3** | 1-13 | Ilex chez Renna : **deux ans**. Renna : **~38 ans**, sans contradiction. Ysolde : **trente-cinq ans** (le canon des Chroniques l'emporte). Wenna **rejoint Sanne**. Sanne et Vaskar : **vingt ans** de métier. Les dépôts passent de **cinq à dix** entre les ch. 36 et 38, le geste écrit. Le répit **se raccourcit**. Vharok meurt **sept ans** plus tôt. Le Fragment #3 est dans l'**avant-dernier** cahier. *Astremer* → **Astravia**, « Aînée de la Franche » → **des Mains Vides**. | Dans le texte du T3 |
-| **Noms, homonymes, genres** | 14-19 | **Corvane est un nom de famille courant de Galénor** : cinq porteurs, chacun avec son épithète. **Vahel → Solvec**, **Vharel → Dorvel** ; Vhail, Vael, Vharok, Nève restent. **Tovan → Karsel**. **La Consule Selvir**, féminin. **L'Arbre-Mère**, féminine (le lore d'Evertia corrigé, pas le chapitre). Les paires Orsenne, Vael, Forge-Basse, Kessa, Vessine, Corven sont **deux entités chacune**, reliées. | Texte + Atrium (`a-ne-pas-confondre-avec`) |
+| **Chronologie et faits du tome 3** | 1-13 | Ilex chez Renna : **depuis nourrisson, six ans** (*révisé le 2026-09-23* : le « deux ans » lu au ch. 02 était l'absence au registre de la Corvane ; le texte dit partout le lange, le nourrisson, six ans). Renna : **~38 ans**, sans contradiction. Ysolde : **trente-cinq ans** (le canon des Chroniques l'emporte). Wenna **rejoint Sanne**. Sanne et Vaskar : **vingt ans** de métier ; Sanne reçoit le cahier à **vingt ans passés** (*révisé le 2026-09-23* : « trente ans passés » la menait à plus de cinquante ans contre « la quarantaine » des ch. 17 et 39 — un mot changé au ch. 04). Les dépôts passent de **cinq à dix** entre les ch. 36 et 38, le geste écrit. Le répit **se raccourcit**. Vharok meurt **sept ans** plus tôt. Le Fragment #3 est dans l'**avant-dernier** cahier. *Astremer* → **Astravia**, « Aînée de la Franche » → **des Mains Vides**. | Dans le texte du T3 |
+| **Noms, homonymes, genres** | 14-19 | **Corvane est un nom de famille courant de Galénor** : six porteurs — cinq dans la trilogie, un dans les Chroniques —, chacun avec son épithète. **Vahel → Solvec**, **Vharel → Dorvel** ; Vhail, Vael, Vharok, Nève restent. **Tovan → Karsel**. **La Consule Selvir**, féminin. **L'Arbre-Mère**, féminine (le lore d'Evertia corrigé, pas le chapitre). Les paires Orsenne, Vael, Forge-Basse, Kessa, Vessine, Corven sont **deux entités chacune**, reliées. | Texte + Atrium (`a-ne-pas-confondre-avec`) |
 | **Les deux œuvres** | 20-30 | **Dix-sept cahiers, deux dépôts** (voir ci-dessous). Le colophon est de **252**, la copie de **251**. **Ysolde commence la copie de son chef** ; le Tribunal ordonne la conservation. **Kharazir est une nation**, sa capitale est **Rukhsar**. **Chaque ville de Kharazir a sa Porte d'Azur** ; celle de Rukhsar est la première. **Trois pierres scellées distinctes**. C/38 **précède** T3/46, et la prophétie des murs s'y accomplit. Le **Fragment #3 est planté** dans les Chroniques. Cestra et le Mont Jumeau sont **le même site**. Rukhsar **a des murs**. Le tissu jaune : institution vieille, **usage policier neuf** — aucune édition. | Texte + Atrium |
 | **Tomes 1 et 2** | 31-36 | Le T2 a **trois** cahiers. La blessure de Vaenor : **un frère, Tavel**, **vingt-deux ans**. C'est le **Préfet-du-Feu** qui ordonne de brûler, Verkan qui exécute *et* lit — et la légende publique est enregistrée **comme légende**. Le scribe est **Thevin**, le rapport est **d'Aelindra**. | Texte + Atrium |
 
@@ -69,6 +69,37 @@ Consule Selvir » ; T3/07 et T3/15 ne portent plus *Tovan* ; T3/11 dit « Aîné
 Mains Vides » ; T3/29 et T3/40 portent Dorvel et Solvec ; T3/38 porte la ligne des
 cinq derniers dépôts ; C/34 porte le Fragment #3 en marge ; C/38 l. 34 dit « la copie
 d'Ysolde était restée aux archives » ; C/01 ne dit plus « remparts ».
+
+### Le raccord livres ↔ Atrium du 2026-09-23
+
+À la question « les livres et l'Atrium sont-ils raccord ? », la réponse a été
+**mesurée, pas supposée**. Cinq relectures intégrales ont confronté les 200 chapitres
+à tout ce que l'Atrium affirme en les citant (979 affirmations), puis cinq autres ont
+recalé chaque citation sur le texte réécrit. Chaque correction a été vérifiée deux
+fois : la phrase du livre existe mot pour mot au chapitre, la sous-chaîne remplacée
+existe une fois et une seule dans le champ. Chaque champ touché garde sa trace dans
+`data.raccord` (date, ancien texte, motif).
+
+| Mesure | Avant | Après |
+|---|---|---|
+| Citations « … » de l'Atrium introuvables dans le chapitre cité | **787** sur 1 628 | **0** (11 restantes : intitulés d'arbitrage, lore hors livres, ou retour à la ligne) |
+| Citations exactes mais tirées d'un autre chapitre que celui cité | 37 | 0 (le chapitre est ajouté aux preuves) |
+| Chapitres dont l'Atrium ne dit rien | 11 | 4 (T1/30, T1/37, T3/1, T3/47) |
+| Renvois de l'Atrium vers un chapitre inexistant | 0 | 0 |
+| Renvois vers une bible retirée | 2 | 0 |
+| Réponses données à un mystère protégé | 4 | 0 |
+
+**Ce qui était faux dans l'Atrium, et que les livres ont corrigé** : ~130 erreurs de fond
+(Tavel et toute la chaîne de Vaenor ; Davor vivant à H2 ; Vharok et trente-neuf fidèles ;
+Vhail, trente ans de rondes ; Nève l'astronome confondue avec Neve la passeuse ; la liasse
+d'Omarin confondue avec la copie de Prismalith ; Ílvar, que la bible faisait mourir et que
+le T1/49 laisse vivant au large ; un voyage daté 9952 au lieu de −3 ; la mort d'une chamane
+de Velathor accrochée à Kessa la forgeronne…) et ~600 citations écrites d'après la version
+des livres d'avant la réécriture — une quinzaine changeaient le fait (un autre locuteur,
+un « oui » devenu « non »). **175 fiches** créées pour ce que les livres nomment et que
+l'Atrium ignorait (Pardine la mule, Ryvan, Rœfel, Terec, Lunaris capitale de Lunasar…),
+**2 doublons** fusionnés (`con-0151` dans `obj-0069`, le Fragment #3 ; `per-0843` dans
+`per-0168`, Talvhar). Commits `6885d96` et suivant.
 
 ### Le reste
 
@@ -335,6 +366,150 @@ disent « chaque fois un peu mieux » · le calendrier interne de l'autodafé (T
 près » quand le fragment du T3/01 la donne altérée — si c'est le ch. 12 qui se trompe,
 c'est la plus belle faute de copiste du livre. C'est un texte de fragment : on n'y
 touche pas sans l'auteur.
+
+### 12. Ce que le raccord du 2026-09-23 laisse à l'auteur
+
+Relevées en lisant chaque chapitre contre l'Atrium, **ce sont des contradictions entre
+chapitres** : l'Atrium ne peut pas les trancher sans réécrire un livre. Il suit
+aujourd'hui l'un des deux textes, indiqué entre parenthèses quand c'est le cas.
+
+**Chroniques.**
+- **C/3 contre C/4** — la route Kharazir → Ventera → Solena : C/3 inverse les points
+  cardinaux (sur la carte, Ventera et Solena sont à l'ouest).
+- **C/9** — l'en-tête (jour 190) ne tient pas avec les intervalles du chapitre
+  (Intendant = arrivée + 4, puis cinq jours de route) ; et « deux mois » depuis Kelanor
+  quand les numéros de jour en donnent six.
+- **C/10 contre C/11** — la fuite de Velithar : le soir même (C/10, suivi par l'Atrium)
+  ou deux nuits avant le départ (C/11).
+- **C/13 et C/19 contre C/4, 6, 10** — la traque « prend un visage » à Perivalis comme
+  une première rencontre, et Draye « ne s'était encore jamais laissé voir » au C/19.
+- **C/17 contre C/18** — vingt-cinq jours de Keldros à Ydralis donnent le jour ≈ 433,
+  pas 425.
+- **C/19** — Kael la veille du duel, les bêtes avant : l'Atrium met trois jours entre
+  Kael et le duel.
+- **C/1, C/2 contre C/14, C/27** — l'écriture des tunnels de Rukhsar : lisible au quart
+  (« Ancrages ») ou sans famille connue ? Double-fond voulu, ou non.
+- **C/21 contre C/22** — la montée au cratère annoncée à deux ou trois jours, faite
+  une vingtaine de jours plus tard (l'Atrium suit l'en-tête du C/22).
+- **C/24** — « J'étais en mer quand Ourven cessa d'entendre » alors que Sorin a passé
+  trois jours à Valmora. **C/24 contre C/25** — la dernière voix et le guide de Sylvara
+  ne portent pas le même nom ; Ourven (578) + 5 jours ne font pas 600.
+- **C/29 contre C/30** — dix-huit jours de traversée ne tiennent pas entre 722 et 736.
+- **C/33 contre C/34** — la perte des sept de l'expédition altram : version d'Yrsa
+  contre version de Torval ; et « Demain, l'intérieur » (825) contre le surplomb au 845.
+- **C/37** — le jour 895 est à la fois le premier jour à Prismalith et le soir de
+  l'audience. **C/38** — la note « Jour 910 » raconte la visite du lendemain.
+- **Les « il y a N ans » des C/32 à C/35** sont comptés depuis l'an 250 quand l'Atrium
+  date ces scènes de 251 : un an d'écart, toutes en estimation.
+
+**Tome 1.**
+- **T1/4** — « trente ans plus tard » est intenable (quinze ans de lettres, puis des mois
+  de protocole). **T1/5 contre T1/6** — la spoliation de la forge : −5 ou −6.
+- **T1/7** énonce comme un fait ce que le T1/8 donne comme rumeur (le Préfet et
+  l'autodafé, arbitrage 34). **T1/8 contre T1/9** — deux ans et trois mois, ou quatre
+  ans d'infiltration. **T1/19 contre T1/8** — qui dit « Vous la trouverez », qui signe
+  l'ordre de mission d'Aelindra.
+- **T1/14, 15, 53** — la Baelor de l'An 0 porte Thyldris, ses Veilleurs et « quatre
+  siècles », qui sont du Sillage ; **T1/16, 18** — la même transposition pour l'Ilthara
+  de Mirathis. **T1/14 contre T1/1** — Verithan meurt, ou naît, il y a mille ans.
+- **T1/14 contre T1/15** — deux récits du troisième soir de Baelor ; et Ollam, du
+  Premier Voile, vote alors que la règle du chapitre l'interdit.
+- **T1/16** — la conversation du seuil « à trois ans » de la montagne, quand Thessan
+  n'entre au Cercle qu'à J-90. **T1/20 contre T1/35** — le Fragment #3 daté J-51 et
+  écrit la dernière nuit.
+- **T1/21-22 contre T1/1, 8, 14, 35** — Kayara, membre du Cercle depuis J-90, ou
+  passeuse louée qui découvre le but en mer ? **T1/22, 26, 27** — trois itinéraires
+  incompatibles pour Sera. **T1/25 contre T1/33** — l'eau de Navoria monte depuis un
+  mois, ou depuis l'avant-veille.
+- **T1/34 contre T1/36** — le campement tiède de Verkan « la veille », à des jours de
+  route du Mont. **T1/37** — la forge de Drakhan éteinte depuis des semaines, contre un
+  dernier jour de forge. **T1/39 contre T1/43** — nuit sans lune, ou lune prise par la
+  fumée. **T1/43 contre T1/52** — il ne restera de Verkan « qu'une ligne, et elle
+  serait fausse », mais il garde une feuille vraie.
+- **Le titre « H1 »** met l'ouverture du Mont une heure après le geste ; trois chapitres
+  la font dans l'instant. **Les horloges du geste** (H2, H5, H6 « à midi » contre un geste
+  « avant l'aube ») touchent `que-0013` : à signaler, jamais à trancher.
+- **Géographie** : le T1 fait de **Celethor** une ville (d'écoles et de jardins), l'Atrium
+  un continent ; l'« **Empire de fer** » du T1/8 est sans doute Lithane. Aucune fiche
+  créée pour l'une ou l'autre.
+
+**Tome 2** (en plus des nœuds du §9).
+- **T2/0** — l'en-tête dit ~−30, la prose au moins quarante ans avant l'Arrachement.
+- **T2/2-3 contre T2/10** — la Forge-Basse : la maison de Kessane, ou un hameau de trente
+  feux ? **T2/7** — Corvane le corroyeur : un bourg des marges d'Onara (fiche) ou le marché
+  des grains de Drahk'Nor (chapitre).
+- **La chaîne de Vaenor après Tavel** : le T2/18 garde des traces de l'ancienne chaîne, les
+  années de service varient (10, 15, 16, 20 ans) ; et si Tavel meurt en 1480, les
+  Inspecteurs naissent vers 1480-1485 — l'Atrium les date encore de ~1460
+  (`ter-0133`, `fac-1071`).
+- **T2/9, 21 contre T2/16** — le cahier de Teor. **T2/16 contre T2/30** — quand la phrase
+  du Fragment #3 entre chez Vaenor. **T2/25, 31 contre T2/42** — quel cahier Kessane lit
+  sur la crête. **T2/23 contre T2/43** — Vaenor retourne-t-elle au moulin ?
+- **T2/4, 5 contre T2/29, 33** — l'apaisement de Sènn : ce même automne, ou deux ans
+  plus tôt. **T2/33 contre T2/49** — Ombreth meurt en Alkaran ou « sur la plaine ».
+  **T2/45** lui prête une intuition que ses propres chapitres lui refusent.
+- **La coda (T2/48, 51)** tient deux horloges pour l'enfant qui entend ; elle touche
+  `que-0010` — à signaler, jamais à trancher.
+
+**Tome 3** (en plus du §10).
+- **T3/3 contre T3/7** — le coffre de la copie d'Olven : tampon récent de Drakora, ou
+  mention d'un autre siècle sous cire noircie. **T3/32, 39** — la copie dort depuis
+  « trois siècles » ; elle a été scellée au T2, neuf mille ans plus tôt.
+- **T3/17 contre T3/19** — la même nuit de Taldre racontée deux fois : cahier fermé et
+  récité, ou ouvert et lu ; « tu » ou « vous ».
+- **T3/22** — la pulse « presque quotidienne » après les « deux fois par jour » des
+  ch. 13 et 17 : l'escalier recule, contre l'arbitrage 8.
+- **T3/26** — Maître Corvane, « de son âge à elle », connaît le prisme « depuis quarante
+  ans » : reste des cinquante-trois ans d'Ysolde. **T3/26 contre T3/30** — l'auteur et le
+  texte de la note qui accompagne la ligne marginale.
+- **T3/4 contre T3/36** — qui a remis le cahier à Sanne : sa mère, ou « ma maîtresse ».
+  **T3/30** — Sanne n'a défait le paquet devant témoin qu'une fois, mais la Roue-Basse
+  (T3/25) précède Prismalith.
+- **Les « deux mois »** : la traque et l'apprentissage de Karsel (T3/28, 37, 39, 42)
+  ne passent pas ; Karsel élève depuis deux mois (T3/39, 42) ou un an (T3/51).
+- **T3/33 contre T3/35** — deux jours, ou six, entre la rivière et le foyer.
+- **T3/43 contre T3/47** — les irruptions 6 et 7 de la voix découvrent deux fois la
+  même chose. **T3/32 contre T3/51** — le nom de Vaenor, prononcé devant Vaskar puis
+  « jamais entendu ». **T3/50 contre T3/51** — le rapport porte « trois mille », ou
+  aucun nombre.
+- **T3/39, 42, 50** — la même case de Vaskar porte deux noms.
+- **Coquilles** : T3/40, neuf moins trois font six pèlerins, pas sept ; T3/45, « nous »
+  (Renna et Ilex) appelle « rayés ».
+- **Géographie** : le T3 fait d'**Onara** une ville à marches, met **Astravia** à trois
+  jours de Vireuil (elle est sur Celethor, à ~580 unités), fait **monter au nord** vers
+  Cendara et **descendre au sud** vers Prismalith — la carte dit l'inverse.
+
+**Homonymes à connaître** (tous distincts, sauf mention) : trois **Nesse** (C/29, T2/12,
+T3/25) et **Neve / Nève** ; trois **Wenna** ; deux **Kessa** et une Kessa de Velathor ;
+**Terec / Térec** ; **Sorn / Sorne** ; **Varel / Vharel** (ancien nom de Dorvel) ;
+**Dorvel / Yorvel** ; **Osrik / Ostrik** ; **Vireuil / Mireuil** ; **Sarech / Marech** ;
+**Talvire / Elvire** ; **Herec / Herrec** (§9) ; **Torval** (deux) ; **Doran** (trois) ;
+**Aldran**, **Kael**, **Yrsa**, **Sera**, **Renna**, **Marek**, **Marenn**, **Thyren**,
+**Brennan** (chacun plusieurs) ; **Sarnac / Sarnak** et **Ossian** (deux moines de
+Baeloris) — **même personne ou non, incertain** ; **la Saint-Feu / la Sainte-Braise** —
+une fête sous deux noms, ou deux fêtes.
+
+### 13. Ce que l'Atrium hérite encore de l'ancien lore
+
+Ces fiches viennent des pages de pays et d'histoires écrites **avant** les romans, et les
+romans les démentent. L'Atrium doit trancher pour les livres ; c'est une réécriture de
+fiches, pas une retouche, d'où ce relevé.
+- **Verian Soth** (`per-0044`, `evt-0086`) daté 251-252, quand le C/2 le met au jour 14 de
+  l'an 248.
+- **La chemise de cuir marron** (`obj-0029`, `per-0170`, `lie-0297`) : dépôt d'Aldric chez
+  Sethiran en 220, remise à Sorin en 231, alors que les C/33-34 en font le journal
+  d'Aldris Vane (le C/37 penche pourtant vers la lecture de l'Atrium).
+- **Le parchemin de Lunasar** (`per-0194`) « conservé trente ans » et « la carte du
+  père » : le C/28 ne connaît ni parchemin ni recul d'Aldric devant Solvanes.
+- **Mylaris « an 252 »** (fiches de Brumaria) : l'an 252 est impossible, et Talvhar ouvre
+  à Sorin les tablettes du Temple au lieu de l'oublier.
+- **Naïm** : balayeur de Rukhsar dans l'histoire de la place (`evt-0073`, `lie-0523`),
+  lecteur d'archives de Prismalith au C/38 (`fac-1284`).
+- **`data.parcours` de Sorin** (`per-0153`) : huit étapes posées sur des capitales que
+  leurs chapitres ne visitent pas (Soltharis, Oranthor, Gyndor, Valtheria, Folgrad,
+  Fablioris, Ostarith, Duskoris).
+- **Myrtam** : les Chroniques et la carte le mettent en Alkaran (écart déjà assumé au
+  « Reste »).
 
 ---
 

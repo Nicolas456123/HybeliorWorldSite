@@ -201,7 +201,7 @@ Wenna se tut, à ruminer cela. Et Sanne, dans le silence, se rappela sa mère, s
 
 « Tiens, avait-elle dit. C’est à toi, maintenant. »
 
-Et Sanne, qui avait trente ans passés et qui croyait tout savoir de la vie, avait demandé ce que c’était, et sa mère avait répondu exactement ce que Sanne venait de répondre à Wenna, mot pour mot, la même marche de pierre usée sous un pied de plus. Puis elle avait ajouté une chose, une seule, que Sanne n’avait pas comprise sur le moment et qu’elle n’avait toujours pas comprise, et qui lui revenait à présent avec le poids du paquet sur les genoux.
+Et Sanne, qui avait vingt ans passés et qui croyait tout savoir de la vie, avait demandé ce que c’était, et sa mère avait répondu exactement ce que Sanne venait de répondre à Wenna, mot pour mot, la même marche de pierre usée sous un pied de plus. Puis elle avait ajouté une chose, une seule, que Sanne n’avait pas comprise sur le moment et qu’elle n’avait toujours pas comprise, et qui lui revenait à présent avec le poids du paquet sur les genoux.
 
 « Le jour où tu l’ouvriras, avait dit sa mère, ce ne sera pas pour toi que tu l’ouvriras. Souviens-toi de ça. On ne l’ouvre jamais pour soi. »
 
