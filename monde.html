@@ -321,6 +321,24 @@
       position: absolute; right: 12px; top: 12px; z-index: 5; display: flex; gap: 8px;
     }
     .carte-hud .chip { background: rgba(20,17,13,.88); backdrop-filter: blur(6px); }
+    /* ── Carnet de route (trajets des personnages) ───────── */
+    .carnet-route { max-width: 1180px; margin: 6px auto 30px; padding: 0 6px; }
+    .carnet-echelle { color: var(--faint); font-size: 12px; text-align: center; margin: 4px 0 10px; }
+    .carnet { border: 1px solid var(--line); border-radius: 10px; margin: 8px 0; background: rgba(20,17,13,.45); }
+    .carnet summary { cursor: pointer; padding: 10px 14px; color: var(--ink); font-size: 14px; }
+    .carnet summary strong { font-family: 'Cinzel', serif; letter-spacing: 1px; color: var(--gold-soft); }
+    .carnet-bilan { color: var(--dim); font-size: 12.5px; }
+    .carnet-defil { max-height: 460px; overflow: auto; padding: 0 10px 10px; }
+    .carnet table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+    .carnet th { position: sticky; top: 0; background: #16120e; color: var(--gold-soft); font-weight: 600; text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--line); }
+    .carnet td { padding: 4px 8px; border-bottom: 1px solid rgba(201,162,75,.08); color: var(--dim); vertical-align: top; }
+    .carnet td:nth-child(4) { color: var(--ink); }
+    .carnet tr.v-impossible td { background: rgba(229,83,75,.10); }
+    .carnet tr.v-impossible td:last-child { color: #e5534b; }
+    .carnet tr.v-serre td { background: rgba(232,161,60,.08); }
+    .carnet tr.v-serre td:last-child { color: #e8a13c; }
+    .carnet-estime { color: var(--faint); }
+    @media (max-width: 700px) { .carnet td:nth-child(3), .carnet th:nth-child(3) { display: none; } }
     .retour-carte {
       position: fixed; left: 22px; bottom: 22px; z-index: 25;
       box-shadow: 0 10px 30px rgba(0,0,0,.5);

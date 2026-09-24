@@ -833,7 +833,15 @@ const CARTE_MEM = {
   echelles: new Set(['region', 'cite', 'ville', 'bourg']),
   noms: new Set(['continents', 'nations', 'regions', 'villes', 'religions', 'epoque']),
   replie: matchMedia('(max-width: 700px)').matches,   // replié par défaut sur mobile
+  trajets: new Set(),            // personnages dont le trajet est tracé
 };
+let M_TRAJETS_INIT = false;
+const ORDRE_OEUVRES = ['T1', 'T2', 'T3', 'C'];
+const NOM_OEUVRE = { C: 'Chroniques de l’Exilé', T1: 'La Septième Heure', T2: 'L’Heure qui se Referme', T3: 'L’Heure qui Naît' };
+const PALETTE_TRAJETS = ['#f0d894', '#8fc1e3', '#e39a8f', '#9fd49a', '#c9a6e8', '#e8c06a', '#7fd1c4', '#e3a6c8', '#b8c97a', '#d9b48f'];
+const COUL_VERDICT = { impossible: '#e5534b', serre: '#e8a13c' };
+const MODES_EAU = new Set(['bateau', 'navire', 'barge', 'pirogue', 'bac', 'mer', 'fleuve']);
+const fmtNb = (n, d = 1) => (n == null ? '' : Number(n).toLocaleString('fr-FR', { maximumFractionDigits: d }));
 async function vueCarte(focusId) {
   const [lieuxTous, reseau, eresListe] = await Promise.all([
     getList('lieu'),
@@ -844,22 +852,22 @@ async function vueCarte(focusId) {
   const lieux = lieuxTous.filter((e) => e.data && e.data.coord_x != null);
   const parId = Object.fromEntries(lieux.map((l) => [l.id, l]));
 
-  // Sorin : parcours stocké sur son entité
-  let sorin = null;
+  // Trajets des personnages : l'Atrium place chaque étape (lieu posé par
+  // l'auteur, sinon position estimée d'après les livres) et porte l'échelle.
+  let trajets = [], echelleCarte = null;
   try {
-    const r = await kget({ action: 'entity', id: 'per-0153' });
-    if (r.entity && r.entity.data && Array.isArray(r.entity.data.parcours)) {
-      sorin = r.entity.data.parcours
-        .map((p) => {
-          const l = p.lieu_id && parId[p.lieu_id];
-          if (l) return { ...p, x: +l.data.coord_x, y: +l.data.coord_y };
-          if (p.x != null && p.y != null) return p;
-          return null;
-        })
-        .filter(Boolean);
-      if (sorin.length < 2) sorin = null;
-    }
-  } catch { /* pas de parcours */ }
+    const r = await kget({ action: 'parcours' });
+    echelleCarte = r.echelle || null;
+    trajets = (r.personnages || [])
+      .map((p, i) => ({ ...p, couleur: p.couleur || PALETTE_TRAJETS[i % PALETTE_TRAJETS.length],
+        etapes: p.etapes.filter((e) => e.x != null && e.y != null) }))
+      .filter((p) => p.etapes.length > 1)
+      .sort((a, b) => ORDRE_OEUVRES.indexOf(a.oeuvre) - ORDRE_OEUVRES.indexOf(b.oeuvre) || a.name.localeCompare(b.name, 'fr'));
+  } catch { /* pas de trajets */ }
+  if (!M_TRAJETS_INIT && trajets.length) {
+    const defaut = trajets.find((p) => p.id === 'per-0153') || trajets[0];
+    CARTE_MEM.trajets.add(defaut.id); M_TRAJETS_INIT = true;
+  }
 
   // Nations : centroïdes, religion, conflits, existence datée
   const nations = {};
@@ -932,7 +940,7 @@ async function vueCarte(focusId) {
     for (const [cle, lbl, note] of defs) {
       const c = h('span', { class: 'chip', text: lbl, title: note || '' });
       const maj = () => { c.style.borderColor = ensemble.has(cle) ? 'var(--gold)' : ''; c.style.color = ensemble.has(cle) ? 'var(--gold-soft)' : ''; };
-      c.addEventListener('click', () => { ensemble.has(cle) ? ensemble.delete(cle) : ensemble.add(cle); maj(); peindre(); majLegende(); });
+      c.addEventListener('click', () => { ensemble.has(cle) ? ensemble.delete(cle) : ensemble.add(cle); maj(); peindre(); majLegende(); majCarnet(); });
       maj(); rangee.append(c);
     }
     bloc.append(rangee);
@@ -942,8 +950,34 @@ async function vueCarte(focusId) {
     ['fond', '🗺 fond de carte', 'l’image réelle de la carte (tuiles du site)'],
     ['surfaces', '🏔 surfaces', 'contours des continents (extraits de la carte, par ère)'],
     ['spheres', '♛ nations'], ['religions', '⛧ religions'], ['conflits', '⚔ conflits'],
-    ['sorin', '🚶 Sorin', sorin ? '' : 'parcours indisponible'], ['lien', '☀ le Lien'],
+    ['trajets', '🚶 trajets', trajets.length ? 'les déplacements des personnages, étape par étape' : 'aucun trajet'], ['lien', '☀ le Lien'],
   ], M.couches));
+  // Trajets : un interrupteur par personnage, groupés par œuvre, pastille à sa couleur
+  if (trajets.length) {
+    const bloc = h('div');
+    bloc.append(h('div', { class: 'titre-bloc', text: 'Trajets' }));
+    for (const oe of [...ORDRE_OEUVRES, null]) {
+      const ps = trajets.filter((p) => (ORDRE_OEUVRES.includes(p.oeuvre) ? p.oeuvre : null) === oe);
+      if (!ps.length) continue;
+      bloc.append(h('div', { text: oe ? NOM_OEUVRE[oe] : 'Autres récits', style: 'color:var(--faint);font-size:11px;margin:6px 0 2px' }));
+      const rangee = h('div', { class: 'chips' });
+      for (const p of ps) {
+        const nb = p.etapes.filter((e) => e.verdict === 'impossible').length;
+        const c = h('span', { class: 'chip', title: `${p.etapes.length} étapes` + (nb ? ` · ${nb} impossible(s) dans le temps annoncé` : '') },
+          h('span', { text: '● ', style: `color:${p.couleur}` }), p.name.replace(/\s*\(.*\)$/, ''),
+          nb ? h('span', { text: ' ⚠' + nb, style: `color:${COUL_VERDICT.impossible}` }) : null);
+        const maj = () => { const on = M.trajets.has(p.id); c.style.borderColor = on ? p.couleur : ''; c.style.color = on ? 'var(--ink)' : ''; };
+        c.addEventListener('click', () => {
+          M.trajets.has(p.id) ? M.trajets.delete(p.id) : M.trajets.add(p.id);
+          if (M.trajets.size) M.couches.add('trajets');
+          maj(); majCarnet(); peindre();
+        });
+        maj(); rangee.append(c);
+      }
+      bloc.append(rangee);
+    }
+    corpsCtl.append(bloc);
+  }
   corpsCtl.append(groupeChips('Points', [
     ['region', 'régions'], ['cite', 'cités'], ['ville', 'villes'], ['bourg', 'bourgs'],
   ], M.echelles));
@@ -973,6 +1007,8 @@ async function vueCarte(focusId) {
   vue.append(barreTemps);
   const legendeEl = h('div', { class: 'legende', style: 'color:var(--faint);font-size:12px;text-align:center;margin:8px 0 4px;letter-spacing:1px' });
   vue.append(legendeEl);
+  const carnetEl = h('div', { class: 'carnet-route' });
+  vue.append(carnetEl);
   app.innerHTML = ''; app.append(vue);
 
   function majLegende() {
@@ -983,6 +1019,49 @@ async function vueCarte(focusId) {
     legendeEl.innerHTML += 'molette : zoom · glisser : déplacer · clic : ouvrir (↩ retour garde ta position) · le curseur remonte le temps';
   }
   majLegende();
+
+  // Carnet de route : chaque étape des trajets tracés, avec le rythme qu'elle
+  // suppose et son verdict (tient / serré / impossible dans le temps annoncé).
+  function majCarnet() {
+    carnetEl.innerHTML = '';
+    if (!M.couches.has('trajets')) return;
+    const choisis = trajets.filter((p) => M.trajets.has(p.id));
+    if (!choisis.length) return;
+    if (echelleCarte) {
+      carnetEl.append(h('p', { class: 'carnet-echelle', text: `Échelle : 1 lieue ≈ ${fmtNb(echelleCarte.lieue_km)} km ≈ ${fmtNb(echelleCarte.unites_par_lieue, 2)} unité de carte. ` + (echelleCarte.note || '') }));
+    }
+    for (const p of choisis) {
+      const et = p.etapes;
+      const lieues = et.reduce((s, e) => s + (+e.distance_lieues || 0), 0);
+      const nbImp = et.filter((e) => e.verdict === 'impossible').length, nbSer = et.filter((e) => e.verdict === 'serre').length;
+      const bloc = h('details', { class: 'carnet', open: choisis.length === 1 ? '' : null });
+      bloc.append(h('summary', {},
+        h('span', { text: '● ', style: `color:${p.couleur}` }),
+        h('strong', { text: p.name }), ' — ' + (NOM_OEUVRE[p.oeuvre] || ''),
+        h('span', { class: 'carnet-bilan', text: ` · ${et.length} étapes · ${fmtNb(lieues, 0)} lieues` +
+          (nbImp ? ` · ${nbImp} impossible${nbImp > 1 ? 's' : ''}` : '') + (nbSer ? ` · ${nbSer} serrée${nbSer > 1 ? 's' : ''}` : '') +
+          (nbImp + nbSer ? '' : ' · tout tient') })));
+      const tb = h('table');
+      tb.append(h('tr', {}, ...['', 'chapitre', 'quand', 'lieu', 'trajet annoncé', 'lieues', 'rythme', ''].map((t) => h('th', { text: t }))));
+      et.forEach((e, i) => {
+        const v = e.verdict;
+        const tr = h('tr', { class: v ? 'v-' + v : '' },
+          h('td', { text: String(e.etape || i + 1) }),
+          h('td', { text: e.chapitre || '' }),
+          h('td', { text: e.quand || (e.jour != null ? 'jour ' + e.jour : '') }),
+          h('td', {}, e.lieu_id ? h('a', { href: '#/fiche/' + e.lieu_id, text: e.lieu || '' }) : (e.lieu || ''),
+            e.estimee ? h('span', { class: 'carnet-estime', text: ' ◌', title: 'position estimée d’après les livres (l’auteur ne l’a pas posée sur la carte)' }) : null),
+          h('td', { text: i ? [e.mode, e.duree].filter(Boolean).join(' · ') : 'départ' }),
+          h('td', { text: e.distance_lieues != null ? fmtNb(e.distance_lieues, 0) : '' }),
+          h('td', { text: e.rythme != null ? fmtNb(e.rythme) + ' l./j' : '' }),
+          h('td', { text: v === 'impossible' ? '✗ ' + (e.note || '') : v === 'serre' ? '≈ ' + (e.note || '') : (e.note || '') }));
+        tb.append(tr);
+      });
+      bloc.append(h('div', { class: 'carnet-defil' }, tb));
+      carnetEl.append(bloc);
+    }
+  }
+  majCarnet();
 
   // ── moteur ──
   const dpr = devicePixelRatio || 1;
@@ -1016,7 +1095,20 @@ async function vueCarte(focusId) {
     ville: { r: 3, c: 'rgba(224,194,116,.75)', halo: 0, seuilNom: 3.2 },
     bourg: { r: 2.2, c: 'rgba(179,166,143,.65)', halo: 0, seuilNom: 5 },
   };
-  let survole = null, drag = null, tAnim = 0;
+  let survole = null, survoleEtape = null, drag = null, tAnim = 0;
+  function etapeSous(mx, my, rayon) {
+    if (!M.couches.has('trajets')) return null;
+    let best = null, d2min = rayon * rayon;
+    for (const p of trajets) {
+      if (!M.trajets.has(p.id)) continue;
+      p.etapes.forEach((e, i) => {
+        const [sx, sy] = E(e.x, e.y);
+        const d2 = (sx - mx) ** 2 + (sy - my) ** 2;
+        if (d2 < d2min) { d2min = d2; best = { p, e, i }; }
+      });
+    }
+    return best;
+  }
   function nationVisible(n, an) {
     if (n.debut != null && an < n.debut) return false;
     if (n.fin != null && an > n.fin) return false;
@@ -1134,23 +1226,79 @@ async function vueCarte(focusId) {
         else ctx.fillText(l.name, sx, sy - (st.r + 6) * dpr);
       }
     }
-    if (M.couches.has('sorin') && sorin && sorin.length > 1) {
-      ctx.strokeStyle = 'rgba(240,216,148,.7)'; ctx.lineWidth = 1.8 * dpr;
-      ctx.setLineDash([9 * dpr, 7 * dpr]); ctx.lineDashOffset = -tAnim / 22;
-      ctx.beginPath();
-      sorin.forEach((p, i) => { const [sx, sy] = E(p.x, p.y); i ? ctx.lineTo(sx, sy) : ctx.moveTo(sx, sy); });
-      ctx.stroke(); ctx.setLineDash([]);
-      sorin.forEach((p) => {
-        const [sx, sy] = E(p.x, p.y);
-        ctx.beginPath(); ctx.arc(sx, sy, 6 * dpr, 0, 7); ctx.fillStyle = 'rgba(13,11,9,.9)'; ctx.fill();
-        ctx.strokeStyle = '#f0d894'; ctx.lineWidth = dpr; ctx.stroke();
-        ctx.font = `${8.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center'; ctx.fillStyle = '#f0d894';
-        ctx.fillText(String(p.etape), sx, sy + 3 * dpr);
-      });
-      const [dx, dy] = E(sorin[0].x, sorin[0].y);
-      ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
-      ctx.fillStyle = 'rgba(240,216,148,.85)';
-      ctx.fillText('départ — jour 1', dx, dy - 12 * dpr);
+    if (M.couches.has('trajets')) {
+      for (const p of trajets) {
+        if (!M.trajets.has(p.id)) continue;
+        const pts = p.etapes.map((e) => E(e.x, e.y));
+        // tronçons : couleur du personnage, sauf verdict (serré / impossible) ;
+        // l'eau en pointillé serré, la terre en tirets
+        for (let i = 1; i < pts.length; i++) {
+          const e = p.etapes[i], v = e.verdict;
+          ctx.strokeStyle = COUL_VERDICT[v] || p.couleur;
+          ctx.globalAlpha = v ? .95 : .8;
+          ctx.lineWidth = (v === 'impossible' ? 2.8 : 2) * dpr;
+          ctx.setLineDash(MODES_EAU.has(e.mode) ? [2 * dpr, 5 * dpr] : [9 * dpr, 6 * dpr]);
+          ctx.lineDashOffset = -tAnim / 22;
+          ctx.beginPath(); ctx.moveTo(pts[i - 1][0], pts[i - 1][1]); ctx.lineTo(pts[i][0], pts[i][1]); ctx.stroke();
+        }
+        ctx.setLineDash([]); ctx.globalAlpha = 1;
+        p.etapes.forEach((e, i) => {
+          const [sx, sy] = pts[i];
+          if (e.passage) {
+            ctx.beginPath(); ctx.arc(sx, sy, 2.4 * dpr, 0, 7); ctx.fillStyle = p.couleur; ctx.fill();
+            return;
+          }
+          const r = (survoleEtape && survoleEtape.e === e ? 8 : 6.2) * dpr;
+          ctx.beginPath(); ctx.arc(sx, sy, r, 0, 7); ctx.fillStyle = 'rgba(13,11,9,.92)'; ctx.fill();
+          ctx.strokeStyle = COUL_VERDICT[e.verdict] || p.couleur; ctx.lineWidth = 1.3 * dpr;
+          if (e.estimee) ctx.setLineDash([2 * dpr, 2 * dpr]);
+          ctx.stroke(); ctx.setLineDash([]);
+          ctx.font = `${8.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center'; ctx.fillStyle = p.couleur;
+          ctx.fillText(String(e.etape || i + 1), sx, sy + 3 * dpr);
+        });
+        const [dx, dy] = pts[0];
+        ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center'; ctx.fillStyle = p.couleur;
+        ctx.fillText(p.name.replace(/\s*\(.*\)$/, '') + ' — départ', dx, dy - 12 * dpr);
+      }
+      // barre d'échelle en lieues
+      if (echelleCarte && echelleCarte.unites_par_lieue && M.trajets.size) {
+        const upl = +echelleCarte.unites_par_lieue;
+        const cible = 150 * dpr;
+        const lieuesCible = cible / (k * upl);
+        const pas = [1, 2, 5, 10, 20, 25, 50, 100, 200, 250, 500, 1000, 2000].find((n) => n >= lieuesCible * .6) || 2000;
+        const lg = pas * upl * k;
+        const bx = 16 * dpr, by = H - 34 * dpr;
+        ctx.strokeStyle = 'rgba(240,216,148,.85)'; ctx.lineWidth = 2 * dpr;
+        ctx.beginPath(); ctx.moveTo(bx, by); ctx.lineTo(bx + lg, by);
+        ctx.moveTo(bx, by - 5 * dpr); ctx.lineTo(bx, by + 5 * dpr); ctx.moveTo(bx + lg, by - 5 * dpr); ctx.lineTo(bx + lg, by + 5 * dpr); ctx.stroke();
+        ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'left'; ctx.fillStyle = 'rgba(240,216,148,.9)';
+        ctx.fillText(`${pas} lieues ≈ ${fmtNb(pas * echelleCarte.lieue_km, 0)} km`, bx, by - 9 * dpr);
+      }
+      // étiquette de l'étape survolée
+      if (survoleEtape) {
+        const { p, e, i } = survoleEtape;
+        const [sx, sy] = E(e.x, e.y);
+        const lignes = [
+          `${p.name.replace(/\s*\(.*\)$/, '')} · étape ${e.etape || i + 1}${e.chapitre ? ' · ' + e.chapitre : ''}${e.quand ? ' · ' + e.quand : ''}`,
+          (e.lieu || '') + (e.estimee ? ' (position estimée)' : ''),
+          i ? [e.depuis ? 'depuis ' + e.depuis : '', e.mode, e.duree].filter(Boolean).join(' · ') : 'départ',
+          e.distance_lieues != null ? `${fmtNb(e.distance_lieues, 0)} lieues` + (e.rythme != null ? ` · ${fmtNb(e.rythme)} lieues/jour` : '') : '',
+          e.note ? (e.verdict === 'impossible' ? '✗ ' : e.verdict === 'serre' ? '≈ ' : '') + e.note : '',
+        ].filter(Boolean);
+        ctx.font = `${11.5 * dpr}px Raleway, sans-serif`;
+        const lgMax = Math.min(W * .45, Math.max(...lignes.map((t) => ctx.measureText(t).width)) + 20 * dpr);
+        const hg = lignes.length * 16 * dpr + 12 * dpr;
+        let bx = sx + 14 * dpr, by = sy - hg / 2;
+        if (bx + lgMax > W) bx = sx - 14 * dpr - lgMax;
+        by = Math.max(6 * dpr, Math.min(H - hg - 6 * dpr, by));
+        ctx.fillStyle = 'rgba(16,13,10,.94)'; ctx.strokeStyle = COUL_VERDICT[e.verdict] || p.couleur; ctx.lineWidth = dpr;
+        ctx.beginPath(); ctx.roundRect(bx, by, lgMax, hg, 8 * dpr); ctx.fill(); ctx.stroke();
+        ctx.textAlign = 'left';
+        lignes.forEach((t, j) => {
+          ctx.fillStyle = j === 0 ? p.couleur : j === lignes.length - 1 && e.verdict ? COUL_VERDICT[e.verdict] : 'rgba(232,220,196,.92)';
+          ctx.fillText(t.length > 110 ? t.slice(0, 108) + '…' : t, bx + 10 * dpr, by + 20 * dpr + j * 16 * dpr);
+        });
+      }
     }
     if (survole) {
       const [sx, sy] = E(+survole.data.coord_x, +survole.data.coord_y);
@@ -1163,7 +1311,7 @@ async function vueCarte(focusId) {
   (function boucle(t) {
     if (!cv.isConnected) return;
     tAnim = t;
-    if (M.couches.has('lien') || M.couches.has('sorin')) peindre();
+    if (M.couches.has('lien') || M.couches.has('trajets')) peindre();
     requestAnimationFrame(boucle);
   })(0);
   peindre();
@@ -1180,6 +1328,9 @@ async function vueCarte(focusId) {
     const box = cv.getBoundingClientRect();
     if (ev.clientX < box.left || ev.clientX > box.right || ev.clientY < box.top || ev.clientY > box.bottom) return;
     const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
+    const et = etapeSous(mx, my, 12 * dpr);
+    if ((et && et.e) !== (survoleEtape && survoleEtape.e)) { survoleEtape = et; cv.style.cursor = et ? 'pointer' : 'grab'; peindre(); }
+    if (et) return;
     let best = null, d2min = (16 * dpr) ** 2;
     for (const l of lieux) {
       if (!M.echelles.has(l.data.echelle || 'ville')) continue;
@@ -1189,7 +1340,13 @@ async function vueCarte(focusId) {
     }
     if (best !== survole) { survole = best; cv.style.cursor = best ? 'pointer' : 'grab'; peindre(); }
   });
-  addEventListener('mouseup', () => { if (drag) { const b = drag.bouge; drag = null; cv.style.cursor = 'grab'; if (!b && survole) { memoriser(); aller('#/fiche/' + survole.id); } } });
+  addEventListener('mouseup', () => {
+    if (!drag) return;
+    const b = drag.bouge; drag = null; cv.style.cursor = 'grab';
+    if (b) return;
+    if (survoleEtape && survoleEtape.e.lieu_id) { memoriser(); aller('#/fiche/' + survoleEtape.e.lieu_id); return; }
+    if (survole) { memoriser(); aller('#/fiche/' + survole.id); }
+  });
   cv.addEventListener('wheel', (ev) => {
     ev.preventDefault();
     const box = cv.getBoundingClientRect();
@@ -1218,6 +1375,12 @@ async function vueCarte(focusId) {
     },
     surTap: (p) => {
       const mx = p.x * dpr, my = p.y * dpr;
+      const et = etapeSous(mx, my, 20 * dpr);
+      if (et) {
+        if (survoleEtape && survoleEtape.e === et.e && et.e.lieu_id) { memoriser(); aller('#/fiche/' + et.e.lieu_id); return; }
+        survoleEtape = et; peindre(); return;
+      }
+      survoleEtape = null;
       let best = null, d2min = (24 * dpr) ** 2;
       for (const l of lieux) {
         if (!M.echelles.has(l.data.echelle || 'ville')) continue;
