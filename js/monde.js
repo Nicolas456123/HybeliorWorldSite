@@ -1046,12 +1046,13 @@ async function vueCarte(focusId) {
       et.forEach((e, i) => {
         const v = e.verdict;
         const tr = h('tr', { class: v ? 'v-' + v : '' },
-          h('td', { text: String(e.etape || i + 1) }),
+          h('td', { text: e.sur_place ? '·' : String(e.etape || i + 1) }),
           h('td', { text: e.chapitre || '' }),
           h('td', { text: e.quand || (e.jour != null ? 'jour ' + e.jour : '') }),
           h('td', {}, e.lieu_id ? h('a', { href: '#/fiche/' + e.lieu_id, text: e.lieu || '' }) : (e.lieu || ''),
             e.estimee ? h('span', { class: 'carnet-estime', text: ' ◌', title: 'position estimée d’après les livres (l’auteur ne l’a pas posée sur la carte)' }) : null),
-          h('td', { text: i ? [e.mode, e.duree].filter(Boolean).join(' · ') : 'départ' }),
+          h('td', { text: !i ? 'départ' : e.sur_place ? 'séjour' + (e.duree ? ' · ' + e.duree : '')
+            : [e.traversee_implicite ? 'traversée (le texte dit : ' + (e.mode_texte || 'rien') + ')' : e.mode, e.duree].filter(Boolean).join(' · ') }),
           h('td', { text: e.distance_lieues != null ? fmtNb(e.distance_lieues, 0) : '' }),
           h('td', { text: e.rythme != null ? fmtNb(e.rythme) + ' l./j' : '' }),
           h('td', { text: (v === 'impossible' ? '✗ ' : v === 'serre' ? '≈ ' : '') + (e.fiabilite === 'basse' && v ? '(à vérifier : position estimée) ' : '') + (e.note || '') }));
@@ -1244,6 +1245,7 @@ async function vueCarte(focusId) {
         ctx.setLineDash([]); ctx.globalAlpha = 1;
         p.etapes.forEach((e, i) => {
           const [sx, sy] = pts[i];
+          if (e.sur_place) return;          // séjour au même lieu : pas de second rond
           if (e.passage) {
             ctx.beginPath(); ctx.arc(sx, sy, 2.4 * dpr, 0, 7); ctx.fillStyle = p.couleur; ctx.fill();
             return;
@@ -1257,8 +1259,9 @@ async function vueCarte(focusId) {
           ctx.fillText(String(e.etape || i + 1), sx, sy + 3 * dpr);
         });
         const [dx, dy] = pts[0];
+        const rang = [...M.trajets].indexOf(p.id);
         ctx.font = `${11 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center'; ctx.fillStyle = p.couleur;
-        ctx.fillText(p.name.replace(/\s*\(.*\)$/, '') + ' — départ', dx, dy - 12 * dpr);
+        ctx.fillText(p.name.replace(/\s*\(.*\)$/, '') + ' — départ', dx, dy - (12 + 13 * Math.max(0, rang)) * dpr);
       }
       // barre d'échelle en lieues
       if (echelleCarte && echelleCarte.unites_par_lieue && M.trajets.size) {

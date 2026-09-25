@@ -67,6 +67,9 @@ function juger(et, segs, jours, cpt, lg, ent, de, douteux) {
   const lieues = segs.reduce((s, x) => s + x.lieues, 0);
   if (lieues < 0.5) return;
   if (!(jours > 0)) { bilan.sans_temps++; return; }
+  // Sous la journée et la dizaine de lieues, la carte n'a pas la précision de juger
+  // (le pied et le sommet d'un mont, deux quartiers d'une ville).
+  if (lieues < 10 && jours < 1) return;
   const tNormal = segs.reduce((s, x) => s + x.lieues / vitesse(x.mode).normal, 0);
   const tForce = segs.reduce((s, x) => s + x.lieues / vitesse(x.mode).max, 0);
   et.rythme = arrondi(lieues / jours, 1);
