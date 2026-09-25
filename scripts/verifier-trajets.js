@@ -56,51 +56,63 @@ const arrondi = (n, d = 1) => Math.round(n * 10 ** d) / 10 ** d;
 let total = 0;
 const bilan = { tient: 0, serre: 0, impossible: 0, sans_temps: 0, sans_position: 0 };
 const lignes = [];
+// Un tronçon se juge d'un repère daté au suivant : la distance cumulée des étapes
+// intermédiaires (non datées) rapportée à l'écart des repères `t` ; ou, pour une
+// étape qui annonce sa propre durée (`jours`), sur ce seul tronçon.
+// Un segment (d'un repère daté au suivant) peut enchaîner la mer et la terre : on
+// additionne, sous-tronçon par sous-tronçon, le temps qu'il demande à l'allure normale
+// et à l'allure forcée de SON mode, et l'on compare au temps dont le récit dispose.
+const vitesse = (mode) => VITESSES[mode] || VITESSES.marche;
+function juger(et, segs, jours, cpt, lg, ent, de) {
+  const lieues = segs.reduce((s, x) => s + x.lieues, 0);
+  if (lieues < 0.5) return;
+  if (!(jours > 0)) { bilan.sans_temps++; return; }
+  const tNormal = segs.reduce((s, x) => s + x.lieues / vitesse(x.mode).normal, 0);
+  const tForce = segs.reduce((s, x) => s + x.lieues / vitesse(x.mode).max, 0);
+  et.rythme = arrondi(lieues / jours, 1);
+  const verdict = jours >= tNormal ? null : jours >= tForce ? 'serre' : 'impossible';
+  const modes = [...new Set(segs.map((x) => x.mode))].join(' + ');
+  if (verdict) {
+    et.verdict = verdict;
+    if (!et.note_verrouillee) {
+      et.note = `${arrondi(lieues, 0)} lieues (${modes}) en ${arrondi(jours, 1)} j : il en faudrait ${arrondi(tNormal, 1)} à l'allure normale, ${arrondi(tForce, 1)} à marche forcée`;
+    }
+  } else if (!et.note_verrouillee) delete et.note;
+  const cle = verdict || 'tient';
+  cpt[cle]++; bilan[cle]++; total++;
+  if (DETAIL || verdict === 'impossible') {
+    lg.push(`  ${verdict === 'impossible' ? '✗' : verdict === 'serre' ? '≈' : '✓'} ${ent.name} · ${et.chapitre || ''} · ${de} → ${et.lieu} : ${arrondi(lieues, 0)} lieues (${modes}) en ${arrondi(jours, 1)} j — normal ${arrondi(tNormal, 1)} j, forcé ${arrondi(tForce, 1)} j`);
+  }
+}
 for (const ent of kg.entities) {
   const P = ent.data && ent.data.parcours;
   if (!Array.isArray(P) || !P.length) continue;
   const cpt = { tient: 0, serre: 0, impossible: 0 };
   const lg = [];
-  let prec = null;
-  for (let i = 0; i < P.length; i++) {
-    const et = P[i];
-    delete et.distance_lieues; delete et.rythme; delete et.verdict; delete et.jours_dispo;
+  let prec = null;          // dernière étape placée
+  let repere = null;        // dernière étape datée : { t, lieu, segs }
+  for (const et of P) {
+    for (const k of ['distance_lieues', 'rythme', 'verdict', 'jours_dispo']) delete et[k];
+    if (!et.note_verrouillee) delete et.note;
     const pos = position(et);
     if (!pos) { bilan.sans_position++; continue; }
     if (et.souvenir) continue;
-    if (prec && prec.pos) {
-      total++;
-      const eau = MODES_EAU.has(et.mode);
+    if (prec) {
+      const mode = et.mode && et.mode !== 'inconnu' ? et.mode : 'marche';
+      const eau = MODES_EAU.has(mode);
       const units = Math.hypot(pos.x - prec.pos.x, pos.y - prec.pos.y);
       const lieues = (units * (eau ? DETOUR.eau : DETOUR.terre)) / UPL;
       et.distance_lieues = arrondi(lieues, 0);
-      let jours = et.jours != null ? +et.jours : null;
-      if (jours == null && et.t != null && prec.et.t != null) {
-        jours = +et.t - +prec.et.t;
+      const seg = { lieues, mode };
+      if (repere) repere.segs.push(seg);
+      if (et.jours != null) juger(et, [seg], +et.jours, cpt, lg, ent, prec.et.lieu);
+      else if (et.t != null && repere && repere.t != null) {
+        const jours = +et.t - repere.t;
         et.jours_dispo = arrondi(jours, 2);
-      }
-      const v = VITESSES[et.mode] || null;
-      if (lieues < 0.5) { /* sur place */ }
-      else if (jours == null || !(jours > 0)) bilan.sans_temps++;
-      else {
-        const rythme = lieues / jours;
-        et.rythme = arrondi(rythme, 1);
-        if (v) {
-          const verdict = rythme <= v.normal ? null : rythme <= v.max ? 'serre' : 'impossible';
-          if (verdict) {
-            et.verdict = verdict;
-            if (!et.note_verrouillee) {
-              et.note = `${arrondi(rythme, 1)} lieues/jour pour « ${et.mode} » (allure ${v.normal}, forcée ${v.max})`;
-            }
-          } else if (!et.note_verrouillee) delete et.note;
-          const cle = verdict === 'serre' ? 'serre' : verdict || 'tient';
-          cpt[cle]++; bilan[cle]++;
-          if (DETAIL || verdict === 'impossible') {
-            lg.push(`  ${verdict === 'impossible' ? '✗' : verdict === 'serre' ? '≈' : '✓'} ${ent.name} · ${et.chapitre || ''} · ${prec.et.lieu} → ${et.lieu} : ${arrondi(lieues, 0)} lieues en ${arrondi(jours, 1)} j (${arrondi(rythme, 1)}/j, ${et.mode})`);
-          }
-        }
+        juger(et, repere.segs, jours, cpt, lg, ent, repere.lieu);
       }
     }
+    if (et.t != null) repere = { t: +et.t, lieu: et.lieu, segs: [] };
     prec = { et, pos };
   }
   ent.data.parcours_bilan = cpt;
