@@ -588,12 +588,33 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "nation"
+        "genre": "nation",
+        "carte": {
+          "position_estimee": {
+            "x": 229,
+            "y": 17,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Aucune surface ni aucun lieu posé. Placée sur la seule terre libre qui touche Iskara : le plateau entre Myrilith (215.6,33.1), Feldoris (204.8,16.5) et les villes de la surface Thalmaris (Faloria, Nalmir), au fond du golfe qui s’ouvre au nord « à hauteur d’Iskara » (embouchure de la Vorne selon la fiche Alkaran). Nord-est d’Iskara comme dans C/8, frontalière d’Iskara comme dans la fiche Ferrath (frontière des Hautes-Pierres).",
+            "indices": [
+              "C/8 : « j’ai franchi la passe nord-est vers les hauts plateaux que les gens d’ici appellent Ferrath »",
+              "Fiche Alkaran : « Route de la Vorne (Trelios → Tanolies → fonds de Ferrath → Glintaris) » ; la Vorne « se jette dans la mer Cendrée à hauteur d’Iskara »",
+              "Atrium : Ferrath frontiere-avec Iskara et Altram"
+            ],
+            "conflits": [
+              "Rattachement Atrium = Alkaran, mais ce point est sur la terre qu’Iskara partage avec Endora (geo.js : « Endora »), comme Iskara elle-même. Sur la terre d’Alkaran proprement dite il n’y a aucune place libre : Altram, Torkam et Myrtam (y compris la pointe sud, où sont posés Thylaris, Zyndor, Lyraxoris) couvrent tout.",
+              "La fiche Ferrath partage le lac de Vyrn avec Altram : impossible ici, Altram est de l’autre côté de la mer.",
+              "Tombe dans la surface (non validée) de Thalmaris."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "pol-0004",
@@ -611,12 +632,27 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "nation"
+        "genre": "nation",
+        "carte": {
+          "position_estimee": {
+            "x": -214.7,
+            "y": -112.4,
+            "confiance": "haute",
+            "methode": "indices",
+            "terre": "Galenor",
+            "motif": "Marqueur de nation (comme Ventera, Lumasar… qui ne sont pas posés sur leur capitale) : barycentre des 31 localités de Kharazir posées par l’auteur ; tombe dans la surface « Kharazir » de la carte, 23 u à l’est de la capitale Rukhsar.",
+            "indices": [
+              "C/37 : « Il faut que j’aille quelque part […] Kharazir. »",
+              "31 lieux posés rattachés à Kharazir (Rukhsar, Velithis, Hiliara…)"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "pol-0005",
@@ -1157,12 +1193,32 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "nation"
+        "genre": "nation",
+        "carte": {
+          "position_estimee": {
+            "x": 243.5,
+            "y": 68.5,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Nation sans surface ni lieu posé. Marqueur mis à la lisière même où Sorin entre en terre sanvarene, juste à l’ouest de Sarandel, dans la seule poche libre du centre-est d’Endora (entre Thalmaris au nord et Avalor au sud). Cohérent avec la fiche (« terres centrales et orientales d’Endora », reliées à Avalor « via Perivalis ») et avec le traité Sanvara–Avalor du texte.",
+            "indices": [
+              "C/12 : « La frontière de Sanvara commence là où les chênes changent. »",
+              "C/12 : « quelque part au nord, plus profond, il y avait un centre » (le bosquet des Anciens)",
+              "Fiche Endora : « Axe de transit central et oriental (Sanvara) »",
+              "Fiche Sanvara : « Zone de transition reliant l’arrière-pays d’Avalor (sud-ouest, via Perivalis) aux plaines centrales »"
+            ],
+            "conflits": [
+              "Le « centre et l’est d’Endora » que la fiche donne à Sanvara est, sur la carte, la surface et les villes de Thalmaris (nation que l’Atrium range pourtant en Evertia) ; le cœur de la forêt « au nord » tombe sur Zylar/Galdaris. Sanvara est de fait « sans territoire », comme Haldria."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "pol-0020",
@@ -1472,12 +1528,31 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "nation"
+        "genre": "nation",
+        "carte": {
+          "position_estimee": {
+            "x": 362,
+            "y": 436,
+            "confiance": "basse",
+            "methode": "rattachement seul",
+            "terre": "Azoria",
+            "motif": "Confédération d’archipels d’Azoria ; la fiche continent la met dans l’« archipel sud-est », à l’est du No Man’s Land. Marqueur au milieu de la queue sud-est d’Azoria, entre les bourgs posés du No Man’s Land (Kelrith 39 u à l’ouest, Raventh 31 u à l’est). Le récit n’y passe pas (seulement « un capitaine, à Solmaris », C/33).",
+            "indices": [
+              "C/33 : « Un capitaine, à Solmaris »",
+              "Fiche Azoria : « Archipel sud-est (Solmaris, frange sud du No Man’s Land) »"
+            ],
+            "conflits": [
+              "La carte ne dessine pas d’archipel au sud-est : c’est une péninsule, peuplée de bourgs rangés au No Man’s Land.",
+              "La seule ville posée de Solmaris, Velmaris (lie-0214), porte les coordonnées (-357.8,-221.5) — sur la côte de Seraphia en Galenor, c’est-à-dire celles de l’homonyme Velmaris (Seraphia) lie-0969 détaché le 2026-09-09."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "pol-0031",
@@ -1564,12 +1639,32 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "nation"
+        "genre": "nation",
+        "carte": {
+          "position_estimee": {
+            "x": -450,
+            "y": 128.5,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Evertia",
+            "motif": "« Forêt-nation de l’ouest du continent Evertia » (Atrium ; fiche continent : « Sylvara à l’ouest ») : le lobe nord-ouest de l’île, la terre la plus occidentale, séparé de Valmora par le rentrant de la côte ouest (le « détroit » du texte). Centre du lobe, hors de toute surface de pays.",
+            "indices": [
+              "C/24 : Sylvara « de l’autre côté du détroit, quand la marée le permet »",
+              "C/26 : « praticable trois heures, pas une de plus » ; « Valmora reparut au bout du détroit »",
+              "Fiche Evertia : « Evertia au centre, Thalmaris au sud-ouest, Sylvara à l’ouest »"
+            ],
+            "conflits": [
+              "Cëpias (-456.6,132.2), posée dans ce lobe, porte data.capitale = true (capitale d’Evertia) : la fiche veut Evertia « au centre ». À trancher par l’auteur.",
+              "Pas de véritable détroit sur la carte : le lobe tient au reste de l’île par la terre."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "pol-0033",
@@ -1638,12 +1733,32 @@
           "methode": "fait-date"
         },
         "reparation": "§11.c-4 (2026-09-09) : continent Nysaria → Ilthara (fiches Pays/Ilthara/)",
-        "genre": "province"
+        "genre": "province",
+        "carte": {
+          "position_estimee": {
+            "x": -205,
+            "y": 213,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Ilthara",
+            "motif": "Replat d’altitude à « trois jours de col (deux sur la carte) » au-dessus de Nectoria (-190.3,204.1) : 17 u à l’ouest-sud-ouest, sur les hauteurs de Vytharia qui dominent la baie sud-ouest (≈12 u) — la mer en contrebas du bord du replat. Entre Brystal et Velthorin (8 u chacun).",
+            "indices": [
+              "C/27 : « De Nectoria, la route de Mirathi monte par un défilé calcaire […] Trois jours de marche pour un col que la carte donne à deux. »",
+              "C/27 : « au bord du replat, là où le village finit et où la montagne tombe dans le Voile »",
+              "Fiche Mirathi : plateau de Vrenith « dressé au-dessus de la mer », « le sanctuaire domine le détroit »"
+            ],
+            "conflits": [
+              "La direction depuis Nectoria n’est dite nulle part : je l’ai choisie pour avoir la mer en contrebas. Le « détroit » de la fiche n’existe pas sur la carte (baie ouverte au sud).",
+              "C/27 : Mirathi « n’existe sur aucune carte ordinaire » et « jamais du même côté » selon la main — une position unique est une convention."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "pol-0036",
@@ -11404,6 +11519,19 @@
             "etape": 1
           },
           {
+            "chapitre": "C/1",
+            "quand": "jour 1",
+            "t": 1,
+            "lieu_id": "lie-1010",
+            "lieu": "Le Passage des Quatre Vents",
+            "lieu_texte": "Le Passage des Quatre Vents (caravansérail, Rukhsar)",
+            "mode": "marche",
+            "citation": "Le caravansérail où j’ai dormi s’appelle le Passage des Quatre Vents. Le nom promet ; le bâtiment tient par habitude. Il occupe la terrasse des Caravaniers, à mi-hauteur de la paro",
+            "etape": 2,
+            "distance_lieues": 1,
+            "jours_dispo": 0
+          },
+          {
             "chapitre": "C/2",
             "quand": "jour 13",
             "t": 13,
@@ -11414,7 +11542,9 @@
             "duree": "« Treize jours de route dans la caravane de Berand Holtis »",
             "jours": 13,
             "citation": "Treize jours de route dans la caravane de Berand Holtis m’avaient déposé la veille au soir devant la première ville d’un pays qui se dit république.",
-            "etape": 2
+            "etape": 3,
+            "distance_lieues": 61,
+            "rythme": 4.7
           },
           {
             "chapitre": "C/2",
@@ -11425,7 +11555,33 @@
             "lieu_texte": "Kelanor (en Lumasar)",
             "mode": "inconnu",
             "citation": "Galenor — Kelanor, en Lumasar. Jour 14 du voyage.",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0,
+            "jours_dispo": 1
+          },
+          {
+            "chapitre": "C/3",
+            "quand": " Au matin du huitième jour  avec la caravane (≈ ",
+            "lieu_id": "lie-1011",
+            "lieu": "La piste des Neuf Cairns",
+            "lieu_texte": "bifurcation : la piste de la caravane tourne au sud (hauts plateaux), départ de la piste des Neuf Cairns vers l’est",
+            "mode": "caravane",
+            "duree": "huit jours avec la caravane",
+            "citation": "Au matin du huitième jour, j’ai quitté la caravane, à l’endroit où sa piste tournait vers le sud et où la mienne partait droit dans la grande herbe.",
+            "etape": 4,
+            "distance_lieues": 137
+          },
+          {
+            "chapitre": "C/3",
+            "quand": "soir du jour du départ de la caravane (≈ Jour 39",
+            "lieu_id": "lie-1011",
+            "lieu": "La piste des Neuf Cairns",
+            "lieu_texte": "piste des Neuf Cairns (premières lieues, premier bivouac)",
+            "mode": "caravane",
+            "duree": "« Douze jours si le vent te laisse, davantage s’il te reprend » (annoncé jusqu’à la côte)",
+            "citation": "Les Neuf Cairns portent bien leur nom : neuf monticules de pierre grise jalonnent les premières lieues, puis la piste se perd dans la grande herbe",
+            "sur_place": true,
+            "distance_lieues": 0
           },
           {
             "chapitre": "C/4",
@@ -11438,7 +11594,23 @@
             "duree": "« Vingt-trois jours depuis les steppes de Ventera » (J32 → J55)",
             "jours": 32,
             "citation": "Galenor — Solena, quais de Vyndralith — Jour 55",
-            "etape": 3
+            "etape": 5,
+            "distance_lieues": 61,
+            "rythme": 1.9,
+            "fiabilite": "basse"
+          },
+          {
+            "chapitre": "C/4",
+            "quand": "jour 55",
+            "t": 55,
+            "lieu_id": "lie-1014",
+            "lieu": "La Pointe des Explorateurs",
+            "lieu_texte": "phare de la Pointe des Explorateurs (Vyndralith)",
+            "mode": "marche",
+            "citation": "Au bout du bras de terre qu’on nomme la Pointe des Explorateurs, le phare balayait la mer toutes les trente secondes",
+            "etape": 6,
+            "distance_lieues": 4,
+            "jours_dispo": 0
           },
           {
             "chapitre": "C/5",
@@ -11450,7 +11622,11 @@
             "duree": "« Six jours de marche au sortir de Solena »",
             "jours": 6,
             "citation": "Six jours de marche au sortir de Solena, le sel encore pris dans la laine de mon manteau, la poussière des routes basses sur les jambes, et d’un pas à l’autre l’air a changé de poi",
-            "etape": 4
+            "etape": 7,
+            "distance_lieues": 327,
+            "rythme": 54.6,
+            "verdict": "impossible",
+            "note": "327 lieues (marche) en 6 j : il en faudrait 46.8 à l'allure normale, 32.7 à marche forcée"
           },
           {
             "chapitre": "C/5",
@@ -11461,7 +11637,8 @@
             "mode": "marche",
             "duree": "« Trouver quelqu’un qui accepte de parler à un étranger m’a pris quatre jours. »",
             "citation": "J’ai campé trois nuits à la lisière, à laisser brouter Pardine et à me laisser regarder.",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0
           },
           {
             "chapitre": "C/5",
@@ -11472,7 +11649,8 @@
             "mode": "marche",
             "duree": "« Nous avons marché deux heures sous un couvert de plus en plus épais »",
             "citation": "Velathor tient dans une clairière d’une trentaine de pas, et le mot clairière trompe : rien n’y est vide.",
-            "etape": 5
+            "etape": 8,
+            "distance_lieues": 18
           },
           {
             "chapitre": "C/5",
@@ -11483,7 +11661,12 @@
             "lieu_texte": "Trinoria, région de Nalithos (note datée)",
             "mode": "inconnu",
             "citation": "Galenor — Trinoria, région de Nalithos — Jour 82",
-            "etape": 6
+            "etape": 9,
+            "distance_lieues": 18,
+            "jours_dispo": 27,
+            "rythme": 13.4,
+            "verdict": "impossible",
+            "note": "363 lieues (marche) en 27 j : il en faudrait 51.8 à l'allure normale, 36.3 à marche forcée"
           },
           {
             "chapitre": "C/6",
@@ -11495,7 +11678,21 @@
             "mode": "marche",
             "duree": "« Le débat a duré trois jours de sentier de chèvre. »",
             "citation": "Pardine n’avait pas d’avis sur les blancs des cartes. Elle en avait un sur la montée, et c’était non. Le débat a duré trois jours de sentier de chèvre.",
-            "etape": 7
+            "etape": 10,
+            "distance_lieues": 214,
+            "jours_dispo": 33,
+            "rythme": 6.5
+          },
+          {
+            "chapitre": "C/6",
+            "quand": "le soir de l’arrivée à Astraneth ( monte au cerc",
+            "lieu_id": "lie-1017",
+            "lieu": "Le cercle de Kaeldrun",
+            "lieu_texte": "cercle de Kaeldrun (une lieue au-dessus d’Astraneth) — nuit avec Torhal",
+            "mode": "marche",
+            "citation": "Le cercle de Kaeldrun tient sur un replat de roche, une lieue au-dessus d’Astraneth, dans un vent qui ne tombe jamais tout à fait.",
+            "etape": 11,
+            "distance_lieues": 1
           },
           {
             "chapitre": "C/6",
@@ -11505,7 +11702,34 @@
             "lieu_texte": "Astraneth (retour, départ avant l’aube)",
             "mode": "marche",
             "citation": "La route de la côte, la sage, celle du sud, je ne l’ai pas prise. J’ai pris le nord. J’ai pris Voldenor.",
-            "sur_place": true
+            "etape": 12,
+            "distance_lieues": 1
+          },
+          {
+            "chapitre": "C/6",
+            "quand": " dès la première journée  dans le massif",
+            "lieu_id": "lie-0065",
+            "lieu": "Montagnes de Voldenor",
+            "lieu_texte": "massif de Voldenor — premier col, borne de partage marquée, couloir d’éboulis « passe haute, sans témoin » (rencontre de l’homme au gant noir)",
+            "mode": "marche",
+            "duree": "« Le massif m’a avalé dès la première journée. »",
+            "citation": "C’est en montant vers le premier col que j’ai vu la marque.",
+            "etape": 13,
+            "distance_lieues": 69
+          },
+          {
+            "chapitre": "C/6",
+            "quand": "jour 115",
+            "t": 115,
+            "lieu_id": "lie-0065",
+            "lieu": "Montagnes de Voldenor",
+            "lieu_texte": "crête de Voldenor franchie par la faille ; descente du versant nord",
+            "mode": "marche",
+            "duree": "« La descente du versant nord a été longue »",
+            "citation": "J’ai passé la crête par la faille, seul, à la nuit. La descente du versant nord a été longue et je ne la raconterai pas",
+            "sur_place": true,
+            "distance_lieues": 0,
+            "jours_dispo": 0
           },
           {
             "chapitre": "C/7",
@@ -11517,7 +11741,11 @@
             "mode": "navire",
             "duree": "« Yaltar, le port, m’a retenu une demi-journée »",
             "citation": "Yaltar, le port, m’a retenu une demi-journée, le temps de faire remplacer l’anneau de fer de ma sacoche, tordu dans la tempête.",
-            "etape": 8
+            "etape": 14,
+            "distance_lieues": 601,
+            "jours_dispo": 25,
+            "rythme": 24,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/7",
@@ -11529,7 +11757,9 @@
             "mode": "marche",
             "duree": "« Neuf jours durant, j’ai travaillé aux Archives. »",
             "citation": "J’ai remercié le forgeron. Mon nom ne débarquerait dans aucun registre de Yaltar. Je ferais la route de Trelios à pied, avec les rouliers, sous celui d’un autre.",
-            "etape": 9
+            "etape": 15,
+            "distance_lieues": 22,
+            "jours_dispo": 0
           },
           {
             "chapitre": "C/7",
@@ -11541,7 +11771,11 @@
             "duree": "« Roseltar, à trois jours de Trelios »",
             "jours": 3,
             "citation": "Roseltar, à trois jours de Trelios, est la ville la plus aérée du continent, fondée par des marchands qui fuyaient la chaleur des forges.",
-            "etape": 10
+            "etape": 16,
+            "distance_lieues": 50,
+            "rythme": 16.5,
+            "verdict": "impossible",
+            "note": "50 lieues (marche) en 3 j : il en faudrait 7.1 à l'allure normale, 5 à marche forcée"
           },
           {
             "chapitre": "C/8",
@@ -11552,7 +11786,25 @@
             "mode": "marche",
             "passage": true,
             "citation": "Au cinquième matin après Tanolies, dans une brume qui traînait au fond des cols, les montagnes cessèrent de mentir.",
-            "etape": 11
+            "etape": 17,
+            "distance_lieues": 47
+          },
+          {
+            "chapitre": "C/8",
+            "quand": "jour 165",
+            "t": 165,
+            "lieu_id": "lie-0072",
+            "lieu": "Porte de Fer (défilé d’Iskara)",
+            "lieu_texte": "défilé d’Iskara et Porte de Fer",
+            "mode": "marche",
+            "duree": "« Vingt-cinq jours de routes intérieures séparent les cols d’Iskara des Archives de Trelios » ; montagnes vues trois jours à l’horizon, « le quatrième matin, elles n’avaient pas avancé d’une ligne »",
+            "jours": 25,
+            "citation": "La Porte de Fer ferme le défilé en son point le plus étroit, une quarantaine de pas entre deux falaises de basalte noir.",
+            "etape": 18,
+            "distance_lieues": 349,
+            "rythme": 13.9,
+            "verdict": "impossible",
+            "note": "349 lieues (marche) en 25 j : il en faudrait 49.8 à l'allure normale, 34.9 à marche forcée"
           },
           {
             "chapitre": "C/8",
@@ -11562,7 +11814,8 @@
             "lieu_texte": "Glintar (bourg extérieur), auberge Le Charbonnier",
             "mode": "marche",
             "citation": "« Le commandant Reval vous recevra demain matin. Cette nuit, vous logez à Glintar. Pas à Glintaris. À Glintar, le bourg extérieur.",
-            "etape": 12
+            "etape": 19,
+            "distance_lieues": 43
           },
           {
             "chapitre": "C/8",
@@ -11572,7 +11825,20 @@
             "lieu_texte": "mines de Myrilith (niveaux 1 à 8 ; porte de métal au niveau 8)",
             "mode": "marche",
             "citation": "Les mines de Myrilith descendent. C’est la première chose à en dire.",
-            "etape": 13
+            "etape": 20,
+            "distance_lieues": 28
+          },
+          {
+            "chapitre": "C/8",
+            "quand": " Je me suis arrêté trois jours  ; départ  À l’au",
+            "lieu_id": "lie-1019",
+            "lieu": "Verthal",
+            "lieu_texte": "Verthal (hameau de Ferrath) ; maison de Dorsa au bord d’une faille",
+            "mode": "marche",
+            "duree": "« Je me suis arrêté trois jours dans un hameau nommé Verthal »",
+            "citation": "Je me suis arrêté trois jours dans un hameau nommé Verthal, une vingtaine de familles de forgerons et de mineurs de veine",
+            "etape": 21,
+            "distance_lieues": 13
           },
           {
             "chapitre": "C/9",
@@ -11585,7 +11851,12 @@
             "jours": 0.08333333333333333,
             "passage": true,
             "citation": "Deux jours avant Haliandris, sur les hauteurs pelées qui séparent le désert de Torkam des forges de Myrtam, l’air a changé de goût.",
-            "etape": 14
+            "etape": 22,
+            "distance_lieues": 205,
+            "rythme": 2459.3,
+            "fiabilite": "basse",
+            "verdict": "impossible",
+            "note": "205 lieues (marche) en 0.1 j : il en faudrait 29.3 à l'allure normale, 20.5 à marche forcée"
           },
           {
             "chapitre": "C/9",
@@ -11596,7 +11867,8 @@
             "mode": "marche",
             "duree": "« Apprendre Haliandris me prit quatre jours. »",
             "citation": "Au *Foyer de Rendal*, dans le quartier marchand, je pris une chambre assez loin de la Grande Forge pour que sa vibration devienne supportable",
-            "etape": 15
+            "etape": 23,
+            "distance_lieues": 8
           },
           {
             "chapitre": "C/9",
@@ -11609,7 +11881,20 @@
             "duree": "« Ardentris à cinq jours de route »",
             "jours": 5,
             "citation": "Ardentris est une ville-forge au sens strict : ses rues sont des couloirs entre les ateliers, la chaleur des failles canalisées monte des fondations",
-            "etape": 16
+            "etape": 24,
+            "distance_lieues": 23,
+            "rythme": 4.6
+          },
+          {
+            "chapitre": "C/9",
+            "quand": " avant-hier  (deux jours avant l’arrivée de Sori",
+            "lieu_id": "lie-1021",
+            "lieu": "Le Foyer de Rendal",
+            "lieu_texte": "Haliandris, Foyer de Rendal",
+            "mode": "cheval",
+            "citation": "« Un cavalier des plaines a demandé le Foyer, avant-hier. Il cherchait un cartographe de Kharazir. Il n’a pas laissé de nom. Seulement ceci. »",
+            "etape": 25,
+            "distance_lieues": 24
           },
           {
             "chapitre": "C/10",
@@ -11620,7 +11905,77 @@
             "mode": "navire",
             "duree": "« J’avais dix-sept jours dans les jambes depuis Myrtam, la traversée depuis les cendres rouges d’Alkaran »",
             "citation": "Velithar. Le port de guerre de Mosrack ouvre sur la mer une mâchoire de pierre noire, et les navires qui y mouillent ne transportent pas d’épices.",
-            "etape": 17
+            "etape": 26,
+            "distance_lieues": 362
+          },
+          {
+            "chapitre": "C/10",
+            "quand": "jour 207",
+            "t": 207,
+            "lieu_id": "lie-0060",
+            "lieu": "Grand Fleuve d'Onara",
+            "lieu_texte": "barge de fonte de l’Onar, en aval de Velithar, vers le delta / l’estuaire de l’Onar",
+            "mode": "barge",
+            "duree": "« La barge descendit vers le delta toute la nuit »",
+            "citation": "La barge descendit vers le delta toute la nuit, aux fanaux, dans une odeur de fonte et de vase.",
+            "etape": 27,
+            "distance_lieues": 46,
+            "jours_dispo": 17,
+            "rythme": 25.4,
+            "verdict": "serre",
+            "note": "431 lieues (cheval + navire + barge) en 17 j : il en faudrait 21.4 à l'allure normale, 13.4 à marche forcée"
+          },
+          {
+            "chapitre": "C/11",
+            "quand": " Deux jours plus bas  que Mosrack",
+            "lieu_id": "lie-0060",
+            "lieu": "Grand Fleuve d'Onara",
+            "lieu_texte": "Grand Fleuve d’Onar, deux jours en aval de Mosrack — première halte de batellerie (ponton), transfert sur une barge des Grainiers",
+            "mode": "barge",
+            "duree": "« Deux jours plus bas, il était devenu une route. »",
+            "citation": "À la première halte de batellerie, un ponton encombré de balles où des crieurs proposaient de l’embauche pour l’aval, je payai mon transfert, sans bruit, sur une barge de la guilde",
+            "sur_place": true,
+            "distance_lieues": 0
+          },
+          {
+            "chapitre": "C/11",
+            "quand": " La troisième nuit ",
+            "lieu_id": "lie-0060",
+            "lieu": "Grand Fleuve d'Onara",
+            "lieu_texte": "large méandre de l’Onar (« l’eau qui hésite »)",
+            "mode": "barge",
+            "passage": true,
+            "citation": "La troisième nuit, Halvern devint moins loquace. Nous passions un large méandre où l’eau, sans raison de vent ni de pente, se mit à contrarier l’étrave.",
+            "sur_place": true,
+            "distance_lieues": 0
+          },
+          {
+            "chapitre": "C/12",
+            "quand": "jour 250",
+            "t": 250,
+            "lieu_id": "lie-1022",
+            "lieu": "Malderis",
+            "lieu_texte": "Malderis (Endora), débarquement",
+            "mode": "navire",
+            "duree": "« Vingt-cinq jours de mer entre Onara et Endora »",
+            "jours": 25,
+            "citation": "Vingt-cinq jours de mer entre Onara et Endora, et pas une heure sans que la coque gémisse. […] À Malderis, j’ai débarqué avec Pardine, ma mule",
+            "etape": 28,
+            "distance_lieues": 156,
+            "rythme": 6.2,
+            "fiabilite": "basse"
+          },
+          {
+            "chapitre": "C/12",
+            "quand": "après  Deux jours durant, j’ai marché avec Brenn",
+            "lieu_id": "lie-0045",
+            "lieu": "Sarandel",
+            "lieu_texte": "Sarandel (chez la boulangère Sydra ; École d’Écoute « Galdaris »)",
+            "mode": "marche",
+            "duree": "« Deux jours durant, j’ai marché avec Brennan vers le cœur de Sarandel. »",
+            "citation": "Deux jours durant, j’ai marché avec Brennan vers le cœur de Sarandel. Un mulet gris le portait, qu’il appelait Sombre",
+            "etape": 29,
+            "distance_lieues": 26
           },
           {
             "chapitre": "C/13",
@@ -11632,7 +11987,11 @@
             "mode": "marche",
             "duree": "« Neuf jours dans le village-sas »",
             "citation": "L’autorisation vint le neuvième matin. Neuf jours dans le village-sas, à regarder la brume tenir la lisière comme un rideau qu’on ne tire pas",
-            "etape": 18
+            "etape": 30,
+            "distance_lieues": 69,
+            "jours_dispo": 26,
+            "rythme": 3.6,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/13",
@@ -11643,7 +12002,8 @@
             "mode": "marche",
             "passage": true,
             "citation": "« La Route Verte s’ouvre, dit-elle. La forêt vous a senti. Elle vous laisse monter jusqu’à Crestalis.",
-            "etape": 19
+            "etape": 31,
+            "distance_lieues": 166
           },
           {
             "chapitre": "C/13",
@@ -11653,7 +12013,8 @@
             "lieu_texte": "Crestalis (salle taillée dans le grand séquoia, audience de l’Archidruide Feylara)",
             "mode": "marche",
             "citation": "L’Archidruide me reçut le troisième jour, dans une salle circulaire taillée à même le grand séquoia.",
-            "etape": 20
+            "etape": 32,
+            "distance_lieues": 48
           },
           {
             "chapitre": "C/13",
@@ -11663,7 +12024,8 @@
             "lieu_texte": "étang de Mornath",
             "mode": "marche",
             "citation": "Le lendemain, Lyris me mena à l’étang de Mornath.",
-            "etape": 21
+            "etape": 33,
+            "distance_lieues": 19
           },
           {
             "chapitre": "C/13",
@@ -11673,7 +12035,8 @@
             "lieu_texte": "Perivalis (retour ; ponton de rondins des barges de bois enchanté)",
             "mode": "marche",
             "citation": "Le surlendemain, je remerciai Feylara et je descendis de Crestalis, vers la lisière, vers Perivalis, vers la mer qui me séparait encore d’Ilthara.",
-            "etape": 22
+            "etape": 34,
+            "distance_lieues": 134
           },
           {
             "chapitre": "C/13",
@@ -11684,7 +12047,8 @@
             "mode": "navire",
             "duree": "douze jours à Hekorinth (« Au douzième jour, je m’embarquai pour Ilthara »)",
             "citation": "Hekorinth, la capitale, se voit de loin sur son promontoire de calcaire.",
-            "etape": 23
+            "etape": 35,
+            "distance_lieues": 597
           },
           {
             "chapitre": "C/14",
@@ -11696,7 +12060,9 @@
             "duree": "« Trente jours de mer depuis Endora »",
             "jours": 30,
             "citation": "Trente jours de mer depuis Endora, depuis les coupoles des astronomes et un gant de cuir noir aperçu sur un quai que je n’ai pas envie de revoir.",
-            "etape": 24
+            "etape": 36,
+            "distance_lieues": 111,
+            "rythme": 3.7
           },
           {
             "chapitre": "C/14",
@@ -11708,7 +12074,12 @@
             "mode": "marche",
             "duree": "cinq jours dans la cité",
             "citation": "Ilthara — Gryndor, cité de Holvendar. Jour 330.",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0,
+            "jours_dispo": 54,
+            "rythme": 19.9,
+            "verdict": "impossible",
+            "note": "1075 lieues (marche + navire) en 54 j : il en faudrait 80.8 à l'allure normale, 54.4 à marche forcée"
           },
           {
             "chapitre": "C/14",
@@ -11719,7 +12090,9 @@
             "lieu_texte": "ville basse de Holvendar (reprise de Pardine)",
             "mode": "marche",
             "citation": "Je pars pour l’est demain, en fugitif. Le mot est laid. Le chemin est exactement celui que je voulais prendre.",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0,
+            "jours_dispo": 0
           },
           {
             "chapitre": "C/15",
@@ -11730,7 +12103,19 @@
             "mode": "marche",
             "duree": "« Zyrthar me garda deux nuits »",
             "citation": "Zyrthar me garda deux nuits avant les hauteurs.",
-            "etape": 25
+            "etape": 37,
+            "distance_lieues": 30
+          },
+          {
+            "chapitre": "C/15",
+            "quand": " un matin de premières neiges ",
+            "lieu_id": "lie-0046",
+            "lieu": "Ordavan",
+            "lieu_texte": "Ordavan (village vitrifié, plateaux de Tolvandor)",
+            "mode": "marche",
+            "citation": "Ce qui restait du village n’était pas posé sur le sol. C’était pris dedans, incorporé à la vitrification comme un insecte dans l’ambre, à l’endroit exact où il vivait.",
+            "etape": 38,
+            "distance_lieues": 13
           },
           {
             "chapitre": "C/15",
@@ -11742,7 +12127,10 @@
             "mode": "marche",
             "duree": "« L’escorte me ramena en deux jours vers le nord. »",
             "citation": "L’escorte me ramena en deux jours vers le nord. Deux Gardes, à distance polie, carnets dans les sacoches",
-            "etape": 26
+            "etape": 39,
+            "distance_lieues": 11,
+            "jours_dispo": 20,
+            "rythme": 2.7
           },
           {
             "chapitre": "C/15",
@@ -11754,7 +12142,24 @@
             "mode": "marche",
             "passage": true,
             "citation": "Puis cap au nord, vers Zyrthar, d’où je partirais vers l’est, vers les cols du Veltrak, vers Drakora.",
-            "etape": 27
+            "etape": 40,
+            "distance_lieues": 6,
+            "jours_dispo": 0
+          },
+          {
+            "chapitre": "C/16",
+            "quand": "jour 375",
+            "t": 375,
+            "lieu_id": "lie-1027",
+            "lieu": "Veldar",
+            "lieu_texte": "Veldar (premier village de Drakora, maison de Rethyn)",
+            "mode": "marche",
+            "duree": "« Dans deux jours, on viendra te chercher »",
+            "citation": "Le premier village s’appelle Veldar, et il ne figure sur aucune de mes cartes.",
+            "etape": 41,
+            "distance_lieues": 155,
+            "jours_dispo": 25,
+            "rythme": 6.2
           },
           {
             "chapitre": "C/16",
@@ -11766,7 +12171,11 @@
             "duree": "une journée de montée (départ le matin, « Myrthorin apparaît en fin d’après-midi »)",
             "jours": 1,
             "citation": "Myrthorin apparaît en fin d’après-midi, quand le soleil frappe le flanc de la montagne et change la pierre noire en ambre.",
-            "etape": 28
+            "etape": 42,
+            "distance_lieues": 12,
+            "rythme": 11.8,
+            "verdict": "serre",
+            "note": "12 lieues (cheval) en 1 j : il en faudrait 1.2 à l'allure normale, 0.7 à marche forcée"
           },
           {
             "chapitre": "C/16",
@@ -11777,7 +12186,8 @@
             "mode": "marche",
             "duree": "deux nuits (« Au canyon, je passe une seconde nuit »)",
             "citation": "Thareth me laisse partir pour Lunaris le huitième jour, avec Dhorvan pour escorte jusqu’à la frontière.",
-            "etape": 29
+            "etape": 43,
+            "distance_lieues": 33
           },
           {
             "chapitre": "C/17",
@@ -11788,7 +12198,8 @@
             "mode": "marche",
             "passage": true,
             "citation": "La route d’Ilyndor traverse Eleris, le terrain d’entraînement de Pyrtara.",
-            "etape": 30
+            "etape": 44,
+            "distance_lieues": 146
           },
           {
             "chapitre": "C/17",
@@ -11800,7 +12211,12 @@
             "mode": "marche",
             "duree": "« Sept jours à Keldros, en tout. »",
             "citation": "Keldros surgit au milieu du terrain le plus hostile d’Eleris, posé là comme une institution qui n’a jamais douté de son droit d’exister à cet endroit.",
-            "etape": 31
+            "etape": 45,
+            "distance_lieues": 15,
+            "jours_dispo": 25,
+            "rythme": 8.2,
+            "verdict": "serre",
+            "note": "206 lieues (cheval + marche) en 25 j : il en faudrait 28.9 à l'allure normale, 20.2 à marche forcée"
           },
           {
             "chapitre": "C/17",
@@ -11811,7 +12227,8 @@
             "mode": "marche",
             "passage": true,
             "citation": "Puis je range le carnet contre la lettre du Conseil, je cale la sacoche sur la hanche et je prends la route de Vyldor.",
-            "etape": 32
+            "etape": 46,
+            "distance_lieues": 31
           },
           {
             "chapitre": "C/18",
@@ -11823,7 +12240,10 @@
             "mode": "marche",
             "duree": "« Trois jours à Ydralis »",
             "citation": "Ilthara — Sylthara, région d’Amaroth — jour 425",
-            "etape": 33
+            "etape": 47,
+            "distance_lieues": 135,
+            "jours_dispo": 25,
+            "rythme": 6.6
           },
           {
             "chapitre": "C/19",
@@ -11834,7 +12254,8 @@
             "mode": "marche",
             "duree": "« Bybias m’a retenu une nuit. »",
             "citation": "Bybias m’a retenu une nuit. C’est la ville-marché où les druides ouvrent aux étrangers, trois fois la semaine, une bande de terrain",
-            "etape": 34
+            "etape": 48,
+            "distance_lieues": 62
           },
           {
             "chapitre": "C/19",
@@ -11846,7 +12267,10 @@
             "mode": "marche",
             "duree": "« Trente-cinq jours. C’est le carnet qui les a comptés »",
             "citation": "Wyndor ne se pose pas sur un relevé. Les marchands disent « des maisons dans les arbres », ce qui est trop petit et un peu méprisant.",
-            "etape": 35
+            "etape": 49,
+            "distance_lieues": 139,
+            "jours_dispo": 35,
+            "rythme": 5.7
           },
           {
             "chapitre": "C/20",
@@ -11857,7 +12281,24 @@
             "mode": "marche",
             "duree": "« Lytharil me retint quatre jours. »",
             "citation": "Lytharil me retint quatre jours.",
-            "etape": 36
+            "etape": 50,
+            "distance_lieues": 68
+          },
+          {
+            "chapitre": "C/20",
+            "quand": "jour 490",
+            "t": 490,
+            "lieu_id": "lie-1031",
+            "lieu": "Vaelmar",
+            "lieu_texte": "Vaelmar (port de pierre grise, côte ouest d’Ilthara)",
+            "mode": "marche",
+            "duree": "« dix jours de plaine plein ouest »",
+            "citation": "J’y arrivai au matin du dixième jour, le talisman de Ryvan encore rouge au poignet, mes cahiers au sec contre les reins.",
+            "etape": 51,
+            "distance_lieues": 55,
+            "jours_dispo": 30,
+            "rythme": 4.1,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/21",
@@ -11869,7 +12310,12 @@
             "duree": "« Douze jours de mer depuis la côte ouest d’Ilthara, dont trois au large, à attendre que le capitaine juge la passe assez calme pour entrer. »",
             "jours": 3,
             "citation": "Douze jours de mer depuis la côte ouest d’Ilthara, dont trois au large, à attendre que le capitaine juge la passe assez calme pour entrer. Nous avons débarqué à Diamoris au matin.",
-            "etape": 37
+            "etape": 52,
+            "distance_lieues": 172,
+            "rythme": 57.4,
+            "fiabilite": "basse",
+            "verdict": "impossible",
+            "note": "172 lieues (navire) en 3 j : il en faudrait 6.9 à l'allure normale, 4.3 à marche forcée"
           },
           {
             "chapitre": "C/21",
@@ -11880,7 +12326,8 @@
             "mode": "marche",
             "passage": true,
             "citation": "La route côtière de Diamora m’a mené vers Brumaris, la capitale.",
-            "etape": 38
+            "etape": 53,
+            "distance_lieues": 15
           },
           {
             "chapitre": "C/21",
@@ -11891,7 +12338,13 @@
             "lieu_texte": "Brumaris (capitale de Cendara) ; marché couvert ; terrasse basse sur le sable noir ; temple de l’Ignis Aeternum",
             "mode": "marche",
             "citation": "Ce soir, la fenêtre de ma chambre encadre les mêmes toits, la même lueur.",
-            "etape": 39
+            "etape": 54,
+            "distance_lieues": 60,
+            "jours_dispo": 12,
+            "rythme": 20.6,
+            "fiabilite": "basse",
+            "verdict": "serre",
+            "note": "248 lieues (navire + marche) en 12 j : il en faudrait 17.7 à l'allure normale, 11.9 à marche forcée"
           },
           {
             "chapitre": "C/22",
@@ -11903,7 +12356,10 @@
             "mode": "marche",
             "passage": true,
             "citation": "Aux terrasses de Solarith, Kessa chargeait ses coupes. Le mariage aurait son vin.",
-            "etape": 40
+            "etape": 55,
+            "distance_lieues": 87,
+            "jours_dispo": 23,
+            "rythme": 3.8
           },
           {
             "chapitre": "C/22",
@@ -11914,7 +12370,105 @@
             "lieu_texte": "Mylaris (temple de Talvhar ; chambre haute chez Dretha)",
             "mode": "marche",
             "citation": "Mylaris tient sur une terrasse du flanc : un village de maisons basses noircies, serré entre les vignobles de Solarith et la roche nue.",
-            "etape": 41
+            "etape": 56,
+            "distance_lieues": 73,
+            "jours_dispo": 0
+          },
+          {
+            "chapitre": "C/24",
+            "quand": " Deux soirs de suite  ; lettre lue  à l’aube du ",
+            "lieu_id": "lie-0049",
+            "lieu": "Valmora",
+            "lieu_texte": "Valmora (port de quarantaine d’Evertia ; auberge des Négociants ; pont sur le ravin)",
+            "mode": "navire",
+            "duree": "deux soirs à Valmora",
+            "citation": "Valmora ne cache rien de ce qu’elle est. Un port de quarantaine. Un comptoir toléré.",
+            "etape": 57,
+            "distance_lieues": 184
+          },
+          {
+            "chapitre": "C/24",
+            "quand": "jour 578",
+            "t": 578,
+            "lieu_id": "lie-0335",
+            "lieu": "Thalenvir",
+            "lieu_texte": "Thalenvir (académie aux murs vivants, forêt d’Evertia)",
+            "mode": "marche",
+            "citation": "À Thalenvir, personne n’a bâti les murs. On les a fait pousser.",
+            "etape": 58,
+            "distance_lieues": 6,
+            "jours_dispo": 53,
+            "rythme": 3.6,
+            "fiabilite": "basse"
+          },
+          {
+            "chapitre": "C/24",
+            "quand": " Nous montâmes le reste du jour  ; redescente  d",
+            "lieu_id": "lie-1033",
+            "lieu": "La source haute d’Ourthalle",
+            "lieu_texte": "source haute d’Ourthalle (hutte d’Ourven, cirque d’arbres)",
+            "mode": "marche",
+            "duree": "« Nous montâmes le reste du jour. »",
+            "citation": "La source haute d’Ourthalle sort de la roche au fond d’un cirque d’arbres, dans une clairière sans ombre où la lumière verte tombe droit.",
+            "etape": 59,
+            "distance_lieues": 8
+          },
+          {
+            "chapitre": "C/24",
+            "quand": "Aînée  le lendemain  ;  Je restai encore quatre ",
+            "lieu_id": "lie-0335",
+            "lieu": "Thalenvir",
+            "lieu_texte": "Thalenvir (retour ; quatre jours d’attente de la marée de Sylvara)",
+            "mode": "marche",
+            "duree": "« Je restai encore quatre jours à Thalenvir, à attendre la marée de Sylvara. »",
+            "citation": "Je restai encore quatre jours à Thalenvir, à attendre la marée de Sylvara.",
+            "etape": 60,
+            "distance_lieues": 8
+          },
+          {
+            "chapitre": "C/24",
+            "quand": " Le cinquième jour  à l’aube",
+            "lieu_id": "lie-0049",
+            "lieu": "Valmora",
+            "lieu_texte": "descente de la forêt vers le pont de Valmora et le détroit (vers Sylvara)",
+            "mode": "marche",
+            "passage": true,
+            "citation": "Sur le pont de Valmora, le plus vieux des Gardiens me regarda partir vers le détroit.",
+            "etape": 61,
+            "distance_lieues": 6
+          },
+          {
+            "chapitre": "C/25",
+            "quand": "une nuit ; retour  le lendemain, seul ",
+            "lieu_id": "lie-0381",
+            "lieu": "Arbre-Mère",
+            "lieu_texte": "Sylvara, l’Arbre-Mère (clairière ; nuit au pied de l’arbre) ; campement de saigneurs de la rive sud à mi-chemin",
+            "mode": "marche",
+            "duree": "« Sylvara est à deux heures de marche de la ville »",
+            "jours": 0.08333333333333333,
+            "citation": "Sylvara est à deux heures de marche de la ville, dans une forêt moins fermée que celle du ravin mais aussi dense",
+            "etape": 62,
+            "distance_lieues": 20,
+            "rythme": 237.2,
+            "fiabilite": "basse",
+            "verdict": "impossible",
+            "note": "20 lieues (marche) en 0.1 j : il en faudrait 2.8 à l'allure normale, 2 à marche forcée"
+          },
+          {
+            "chapitre": "C/26",
+            "quand": "jour 630",
+            "t": 630,
+            "lieu_id": "lie-0049",
+            "lieu": "Valmora",
+            "lieu_texte": "Valmora (quai marchand ; comptoir de Wenna Corth ; chambre à l’étage)",
+            "mode": "barque",
+            "duree": "douze jours à Valmora (« La marée de départ ne s’ouvrait que le douzième jour »)",
+            "citation": "Le port de quarantaine. Le comptoir toléré. La seule porte d’une terre qui n’en veut aucune. Une cinquantaine de jours plus tôt, j’y étais entré avec une lettre et une question",
+            "etape": 63,
+            "distance_lieues": 17,
+            "jours_dispo": 52,
+            "rythme": 1.2,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/27",
@@ -11927,7 +12481,10 @@
             "duree": "27 jours de mer",
             "jours": 27,
             "citation": "Le batelier qui me débarqua à la cale basse vit que j’écrivais.",
-            "etape": 42
+            "etape": 64,
+            "distance_lieues": 277,
+            "rythme": 10.3,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/27",
@@ -11939,7 +12496,46 @@
             "duree": "plus court qu’à la montée (note de bas de page)",
             "passage": true,
             "citation": "La nuit avant de redescendre vers Nectoria, je m’assis au bord du replat, là où le village finit et où la montagne tombe dans le Voile.",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0
+          },
+          {
+            "chapitre": "C/28",
+            "quand": "jour 690",
+            "t": 690,
+            "lieu_id": "lie-1034",
+            "lieu": "Lunaris (capitale de Lunasar)",
+            "lieu_texte": "Lunaris, capitale de Lunasar (sphère de Vytharia), ville de pierre blanche sur une échancrure de côte",
+            "mode": "charrette",
+            "duree": "« la poussière de quinze jours de route depuis les couvents de Mirathi »",
+            "jours": 15,
+            "citation": "En descendant du chariot, je ne le savais pas encore, avec sur moi la poussière de quinze jours de route depuis les couvents de Mirathi et leurs dormeuses.",
+            "etape": 65,
+            "distance_lieues": 63,
+            "rythme": 4.2,
+            "fiabilite": "basse"
+          },
+          {
+            "chapitre": "C/28",
+            "quand": " la lune réduite à un ongle ",
+            "lieu_id": "lie-1034",
+            "lieu": "Lunaris (capitale de Lunasar)",
+            "lieu_texte": "terrasse haute de Solvanes (vue sur le large ; « forme » au sud-ouest)",
+            "mode": "marche",
+            "citation": "Solvanes tendit la main vers le sud-ouest, là où la mer et le ciel se rejoignaient sans couture.",
+            "sur_place": true,
+            "distance_lieues": 0
+          },
+          {
+            "chapitre": "C/28",
+            "quand": "nouvelle lune (première nuit du Silence)",
+            "lieu_id": "lie-1034",
+            "lieu": "Lunaris (capitale de Lunasar)",
+            "lieu_texte": "port de Lunaris (troisième ponton) puis en mer vers Caeloria",
+            "mode": "barque",
+            "citation": "Le batelier mit le cap au sud-est, vers Caeloria et ses cardinaux, dernière escale avant l’île du silence absolu.",
+            "sur_place": true,
+            "distance_lieues": 0
           },
           {
             "chapitre": "C/29",
@@ -11950,7 +12546,8 @@
             "mode": "navire",
             "duree": "une nuit",
             "citation": "Le navire s’amarra à Frostlin, un village de pêcheurs accroché à une corniche de glace, au-dessus d’une mer que la saison laissait encore libre.",
-            "etape": 43
+            "etape": 66,
+            "distance_lieues": 411
           },
           {
             "chapitre": "C/29",
@@ -11962,7 +12559,11 @@
             "mode": "marche",
             "duree": "environ deux jours (départ le lendemain, neige « le surlendemain » « sur la dernière montée »)",
             "citation": "La neige arriva le surlendemain, comme annoncé. Elle me rattrapa sur la dernière montée, à l’heure où la corniche de Frostlin disparaissait derrière moi",
-            "etape": 44
+            "etape": 67,
+            "distance_lieues": 34,
+            "jours_dispo": 25,
+            "rythme": 17.8,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/29",
@@ -11973,7 +12574,8 @@
             "mode": "navire",
             "passage": true,
             "citation": "Dehors, le vent avait tourné au nord-est, et quelque part au bout de ce vent, sous un voile qui ne se lève qu’un jour sur trois, l’Île du Silence attendait qu’on veuille bien la vo",
-            "etape": 45
+            "etape": 68,
+            "distance_lieues": 167
           },
           {
             "chapitre": "C/30",
@@ -11983,7 +12585,23 @@
             "lieu_texte": "crique de Baeloris (entaille dans les falaises de basalte), escalier taillé",
             "mode": "navire",
             "citation": "La crique s’ouvrait dans la falaise comme une entaille de couteau, si étroite que Terec fit rentrer la voile et avancer le navire à l’aviron",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0
+          },
+          {
+            "chapitre": "C/30",
+            "quand": "jour 748",
+            "t": 748,
+            "lieu_id": "lie-0080",
+            "lieu": "Kethros",
+            "lieu_texte": "monastère de Kethros (Baeloris) : cellule d’hôte ; cellule d’Ossian ; salle ronde du cercle ; Salle du Silence",
+            "mode": "marche",
+            "duree": "douze jours d’attente du vent",
+            "citation": "Le vent tourna au nord-est le douzième matin.",
+            "etape": 69,
+            "distance_lieues": 2,
+            "jours_dispo": 33,
+            "rythme": 5.1
           },
           {
             "chapitre": "C/30",
@@ -11994,7 +12612,9 @@
             "lieu_texte": "quai de pierre de la crique de Baeloris (reste sur l’île)",
             "mode": "marche",
             "citation": "Depuis le quai de pierre, je l’ai regardée partir. Sa route rentrait ; la mienne, non. Devant moi restait le nord, le grand saut dont je n’avais pas encore trouvé le moyen",
-            "sur_place": true
+            "etape": 70,
+            "distance_lieues": 2,
+            "jours_dispo": 0
           },
           {
             "chapitre": "C/31",
@@ -12006,7 +12626,9 @@
             "mode": "marche",
             "duree": "« Quatre jours durant »",
             "citation": "Baeloris est la seule sortie de Baelor, et elle ne s’ouvre que lorsque le Voile veut bien se lever.",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0,
+            "jours_dispo": 4
           },
           {
             "chapitre": "C/32",
@@ -12019,7 +12641,9 @@
             "duree": "≈ 38 jours de mer depuis Baeloris (J752 → J790)",
             "jours": 38,
             "citation": "Le navire de Yorven m’a déposé à l’aube dans une rade que la glace ne rend que quatre mois par an, et j’ai levé la tête avant d’avoir posé le pied sur le quai.",
-            "etape": 46
+            "etape": 71,
+            "distance_lieues": 667,
+            "rythme": 17.5
           },
           {
             "chapitre": "C/32",
@@ -12029,7 +12653,8 @@
             "lieu_texte": "Invernis, ville basse (auberge ; pied de la dernière colonne, près de la halle au sel)",
             "mode": "marche",
             "citation": "Invernis, la ville basse, est coupée en deux, et aucun mur ne marque la coupure.",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0
           },
           {
             "chapitre": "C/32",
@@ -12041,7 +12666,11 @@
             "duree": "« Une demi-journée de marche sépare Galdryn d’Invernis » ; « Au bout de deux heures, la cavité »",
             "jours": 0.5,
             "citation": "Une demi-journée de marche sépare Galdryn d’Invernis, le long de la rivière qui descend des mines.",
-            "etape": 47
+            "etape": 72,
+            "distance_lieues": 40,
+            "rythme": 80.6,
+            "verdict": "impossible",
+            "note": "40 lieues (marche) en 0.5 j : il en faudrait 5.8 à l'allure normale, 4 à marche forcée"
           },
           {
             "chapitre": "C/32",
@@ -12053,7 +12682,79 @@
             "mode": "inconnu",
             "passage": true,
             "citation": "Au matin du jour huit centième, je partis vers le nord, vers la crique où l’on dit qu’aucune expédition intérieure n’est jamais revenue complète.",
-            "etape": 48
+            "etape": 73,
+            "distance_lieues": 40,
+            "jours_dispo": 10,
+            "rythme": 8.1,
+            "verdict": "serre",
+            "note": "81 lieues (marche) en 10 j : il en faudrait 11.5 à l'allure normale, 8.1 à marche forcée"
+          },
+          {
+            "chapitre": "C/33",
+            "quand": "jour 825",
+            "t": 825,
+            "lieu_id": "lie-0297",
+            "lieu": "Noravia",
+            "lieu_texte": "Noravia (Cestra), la crique sud-ouest : quai, atelier de Borela à mi-pente (chambre du fond), archives, maison sans fumée d’Yrsa au bout du quai est",
+            "mode": "navire",
+            "duree": "deux jours au moins",
+            "citation": "Noravia tient à une frange de roche entre la mer et les premières langues du glacier.",
+            "etape": 74,
+            "distance_lieues": 555,
+            "jours_dispo": 25,
+            "rythme": 22.2
+          },
+          {
+            "chapitre": "C/34",
+            "quand": " Depuis quatre jours que vous lisez les registre",
+            "lieu_id": "lie-0297",
+            "lieu": "Noravia",
+            "lieu_texte": "Noravia (atelier de Borela ; maison de Torval, dernière maison de la rue des Filets)",
+            "mode": "marche",
+            "duree": "au moins quatre jours à Noravia avant le départ",
+            "citation": "Allez voir Torval, à la dernière maison de la rue des Filets. Personne à Noravia ne connaît le glacier comme lui.",
+            "sur_place": true,
+            "distance_lieues": 0
+          },
+          {
+            "chapitre": "C/34",
+            "quand": " Nous sommes partis avant l’aube du troisième jo",
+            "lieu_id": "lie-0064",
+            "lieu": "Glacier Central (Cestra)",
+            "lieu_texte": "montée vers le glacier central : crête des Gardiens de Givre (2e jour) ; abri de pierre au creux d’un repli",
+            "mode": "marche",
+            "duree": "« Je vous mène à l’abri de pierre. Deux jours. »",
+            "citation": "« Je vous mène à l’abri de pierre. Deux jours. Là, je m’arrête et je redescends, et vous continuez seul si vous y tenez.",
+            "etape": 75,
+            "distance_lieues": 49
+          },
+          {
+            "chapitre": "C/34",
+            "quand": "jour 845",
+            "t": 845,
+            "lieu_id": "lie-0050",
+            "lieu": "Mont Jumeau",
+            "lieu_texte": "surplomb nord du Mont Jumeau (lèvre de basalte dominant le glacier central d’une quinzaine de mètres)",
+            "mode": "marche",
+            "duree": "« La montagne est à une demi-journée. »",
+            "citation": "Je suis monté au surplomb nord au matin du jour 845.",
+            "etape": 76,
+            "distance_lieues": 35,
+            "jours_dispo": 20,
+            "rythme": 4.2,
+            "fiabilite": "basse"
+          },
+          {
+            "chapitre": "C/34",
+            "quand": " Je suis rentré à Noravia le surlendemain soir  ",
+            "lieu_id": "lie-0297",
+            "lieu": "Noravia",
+            "lieu_texte": "Noravia (retour ; chez Borela)",
+            "mode": "marche",
+            "duree": "« le surlendemain soir »",
+            "citation": "Je repartirais au matin. Vers le sud, cette fois. Vers la mer, vers les routes que Reen disait rouvertes, vers les dépôts qui m’attendaient.",
+            "etape": 77,
+            "distance_lieues": 19
           },
           {
             "chapitre": "C/37",
@@ -12065,7 +12766,13 @@
             "mode": "marche",
             "duree": "environ cinq jours à Prismalith",
             "citation": "Huit cent quatre-vingt-quinze jours. J’ai refait le compte plusieurs fois au cours de la première journée, dans la chambre de l’auberge des Voiles où je logeais déjà des années plu",
-            "etape": 49
+            "etape": 78,
+            "distance_lieues": 400,
+            "jours_dispo": 50,
+            "rythme": 8.4,
+            "fiabilite": "basse",
+            "verdict": "serre",
+            "note": "419 lieues (marche) en 50 j : il en faudrait 59.8 à l'allure normale, 41.9 à marche forcée"
           },
           {
             "chapitre": "C/38",
@@ -12076,7 +12783,8 @@
             "mode": "marche",
             "passage": true,
             "citation": "Je les ai vus depuis la route, à l’endroit où la plaine s’ouvre après les derniers contreforts des collines de Hiliara.",
-            "etape": 50
+            "etape": 79,
+            "distance_lieues": 91
           },
           {
             "chapitre": "C/38",
@@ -12086,7 +12794,8 @@
             "lieu_texte": "Rukhsar : Porte d’Azur ; Grand Bazar (porte latérale des fournisseurs, quartier des herboristes, étal d’Omarin) ; cuisine d’Omarin",
             "mode": "marche",
             "citation": "Ils étaient trois, assis à l’ombre du porche de la Porte d’Azur, cet arc de pierre bleue qui marque l’entrée de chaque ville de Kharazir.",
-            "etape": 51
+            "etape": 80,
+            "distance_lieues": 24
           },
           {
             "chapitre": "C/38",
@@ -12096,7 +12805,36 @@
             "lieu_texte": "entrée scellée des tunnels sous Rukhsar (dalle gardée)",
             "mode": "marche",
             "citation": "Le lendemain, je suis retourné aux tunnels.\n\nL’entrée était toujours scellée.",
-            "sur_place": true
+            "sur_place": true,
+            "distance_lieues": 0
+          },
+          {
+            "chapitre": "C/38",
+            "quand": "jour 910",
+            "t": 910,
+            "lieu_id": "lie-1056",
+            "lieu": "Le quartier des Passeurs (Rukhsar)",
+            "lieu_texte": "chambre du quartier des Passeurs (Rukhsar), cour à puits central",
+            "mode": "marche",
+            "duree": "chambre « pour trois nuits » ; au moins sept jours à Rukhsar",
+            "citation": "J’avais loué pour trois nuits une chambre dans le quartier des Passeurs, un quartier que j’avais habité des années",
+            "etape": 81,
+            "distance_lieues": 1,
+            "jours_dispo": 15,
+            "rythme": 7.8,
+            "verdict": "serre",
+            "note": "117 lieues (marche) en 15 j : il en faudrait 16.6 à l'allure normale, 11.7 à marche forcée"
+          },
+          {
+            "chapitre": "C/38",
+            "quand": " Le septième matin après mon retour , avant l’ou",
+            "lieu_id": "lie-1009",
+            "lieu": "La Porte d’Azur de Rukhsar",
+            "lieu_texte": "Porte d’Azur de Rukhsar (tissu jaune déposé ; entrée dans la ville)",
+            "mode": "marche",
+            "citation": "Le septième matin après mon retour, je suis sorti avant l’ouverture complète du bazar.",
+            "etape": 82,
+            "distance_lieues": 1
           }
         ],
         "parcours_source": "relevé des chapitres, 2026-09-25",
@@ -12107,12 +12845,17 @@
           "methode": "fait-date"
         },
         "parcours_oeuvre": "C",
-        "parcours_couleur": "#f0d894"
+        "parcours_couleur": "#f0d894",
+        "parcours_bilan": {
+          "tient": 23,
+          "serre": 7,
+          "impossible": 9
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-25T21:46:52.436Z"
+      "updated_at": "2026-09-25T22:13:04.416Z"
     },
     {
       "id": "per-0154",
@@ -13054,12 +13797,31 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Chapitre 10 - Le Marteau et l'Ancre.md » — récit (an 251 du Sillage)",
           "fiche": "Docs/Lore/Chroniques/Chapitre 10 - Le Marteau et l'Ancre.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 249,
+            "y": 64.5,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Quatre jours à l’ouest de Malderis (deux de plaines + deux avec Brennan) ≈ 20 u : vallée de la lisière de Sanvara, dans le seul creux libre entre Zylar/Galdaris (Thalmaris) et Velthorn (Avalor), ~10 u de chacun. De là, ~55 u jusqu’à Perivalis (275.4,112.6), soit les ~9 jours que met Sorin du hameau de lisière au village-sas.",
+            "indices": [
+              "C/12 : « Deux jours durant, j’ai marché avec Brennan vers le cœur de Sarandel. »",
+              "C/12 : « un morceau de Thalmaris déposé en Endora » ; « Trop loin pour rentrer »",
+              "C/13 : Perivalis atteinte ~J267 depuis la lisière quittée J258"
+            ],
+            "conflits": [
+              "Sarandel se dit colonie lointaine de Thalmaris (« trop loin pour rentrer ») ; or la carte pose les villes de Thalmaris à 10-15 u de là, sur Endora (cf. remarques)."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0046",
@@ -13077,12 +13839,31 @@
           "methode": "corpus:phrase",
           "indice": ".A, village d'Ordavan, 200 habitants, territoire de Gryndor (Ilthara centrale) - En 3 minutes, le village entier disparait — maisons, champs, puits, h",
           "fiche": "Docs/Lore/Chronologie/Era 7 - Le Monde Actuel.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -190,
+            "y": 76.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Ilthara",
+            "motif": "Au SUD de Zyrthar (sortie sud), un jour et demi de montée + une lieue ≈ 10 u : 10,4 u au sud de Zyrthar (-191.1,66.2) et 8 u au sud du marqueur des plateaux de Tolvandor ; les deux jours d’escorte vers le nord jusqu’à la frontière de Tolvandor, puis Zyrthar, tiennent dans cette distance. Région de Gryndor comme le veut l’Atrium.",
+            "indices": [
+              "C/15 : « À la sortie sud, là où le quartier d’alchimie cède aux pentes »",
+              "C/15 : « La montée prit le reste du jour et le lendemain. »",
+              "C/15 : « L’escorte me ramena en deux jours vers le nord. »"
+            ],
+            "conflits": [
+              "Tombe sur la limite Gryndor/Pyrtara (Rydelith, Thyndor de Pyrtara à 11-13 u au sud) ; les surfaces de pays n’étant pas validées, je n’en tire rien."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0047",
@@ -13143,12 +13924,33 @@
           "fin": 9025,
           "confiance": "haute",
           "methode": "fait-date"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -434,
+            "y": 140,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Evertia",
+            "motif": "Seul port d’Evertia, « enclave de la côte ouest » (fiche) : placée dans le seul rentrant abrité de la côte ouest, l’angle entre le lobe nord-ouest et le corps de l’île — l’équivalent le plus proche du « détroit » du texte. Venant de Cendara, c’est le mouillage pour lequel on est tenté de longer la côte nord (Brumalis), ce que le texte déconseille. Rien de posé à moins de 20 u.",
+            "indices": [
+              "C/24 : « Pas d’autre mouillage que Valmora »",
+              "C/24 : « Ne pas longer la côte de Brumalis »",
+              "C/24 : « Au dixième jour de mer depuis Cendara »",
+              "Fiche : « Enclave de la côte ouest, autour du ravin de Valmora »"
+            ],
+            "conflits": [
+              "Evertia est d’un seul tenant sur la carte : pas de détroit ni de « Détroit de Thalmaris » séparant la « grande terre » de Sylvara/Thalmaris (C/24–26).",
+              "Thalmaris, dont Valmora est à une journée de canot (C/25) et au bout du détroit (C/26), est posée sur Endora à ~680 u (cf. remarques)."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0050",
@@ -13166,12 +13968,31 @@
           "methode": "corpus:phrase",
           "indice": ". La connexion entre le Cœur de Cendra et le Mont Jumeau englacé reste une hypothèse académique, mais elle expliquerait pourquoi les anomalies de Cest",
           "fiche": "Docs/Lore/Chronologie/Era 7 - Le Monde Actuel.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -466,
+            "y": -447,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Cestra",
+            "motif": "Deux jours de Noravia jusqu’à l’abri de pierre, plus une demi-journée : ≈ 15 u vers l’intérieur (nord-nord-est), sous la marge sud-ouest du glacier central.",
+            "indices": [
+              "C/33 : « Deux à l’aller. Peut-être trois. »",
+              "C/34 : « Je vous mène à l’abri de pierre. Deux jours. » ; « La montagne est à une demi-journée. »",
+              "C/33 : « un pic de basalte noir qu’on ne voit qu’en approchant par le nord-est »"
+            ],
+            "conflits": [
+              "C/37 : « Elles désignent un point dans le nord de Cestra » et C/34 « le point le plus au nord où la terre cesse » : le nord de Cestra est à ~70 u de Noravia (≈13 jours), incompatible avec les deux jours et demi répétés en C/33–34. J’ai suivi les durées."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "obj-0010",
@@ -13628,12 +14449,32 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Elarath.md », dont les dates se tiennent autour de 10079",
           "fiche": "Docs/Lore/Pays/Onara/Elarath.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 365,
+            "y": 168,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Onara",
+            "motif": "Point représentatif du cours descendu par Sorin (C/10–11) : l’isthme qui relie le lobe de Mosrack (Velithar 392.1,136.7) au lobe de Tyndara (304.2,198.3), seul passage terrestre entre les deux sur la carte — ce qui en fait bien la « frontière historique » Mosrack/Tyndara de la fiche. Cours total ≈ 110 u : Velithar → sud-ouest → isthme → ouest → Tyndara → delta.",
+            "indices": [
+              "C/10 : « La barge descendit vers le delta toute la nuit »",
+              "C/11 : « Deux jours plus bas, il était devenu une route. »",
+              "C/11 : « Soixante ports entre Mosrack et la mer »",
+              "Fiche : fleuve qui coupe Onara du nord-est au sud-ouest, frontière historique entre Mosrack et Tyndara"
+            ],
+            "conflits": [
+              "Descente Velithar (J207) → Tyndara (J225) = 18 jours pour ~110 u : lent pour une barge au fil de l’eau, mais le texte multiplie les haltes (transbordement, méandre)."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0061",
@@ -13696,12 +14537,30 @@
       "summary": "Glacier au cœur de Cestra dont aucun cartographe n'a rapporté la forme ; les expéditions n'en ont laissé que des fragments, et ceux qui l'entendent disent qu'il « respire toujours ».",
       "body": null,
       "data": {
-        "echelle": "lieu-dit"
+        "echelle": "lieu-dit",
+        "carte": {
+          "position_estimee": {
+            "x": -440,
+            "y": -457,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Cestra",
+            "motif": "Glacier « au cœur de Cestra » (Atrium ; la région lie-0299 le dit aussi « au centre » et « visible depuis la côte sud-ouest ») : marqueur au centre de la terre, à 39 u de toute côte. La formation du Mont Jumeau, à 2-3 jours de Noravia, est sous sa marge sud-ouest.",
+            "indices": [
+              "C/33 : glacier central à « deux (ou trois) jours de marche » de Noravia vers l’intérieur (distance jusqu’à la formation)",
+              "Atrium : « Glacier au cœur de Cestra dont aucun cartographe n’a rapporté la forme »"
+            ],
+            "conflits": [
+              "Si le trajet C/34 (« montée vers le glacier central… abri de pierre », 2 jours) est accroché à ce lieu, il partira au centre de Cestra (39 u) : pour la carte des trajets, l’abri est à ~2 u du Mont Jumeau, pas au marqueur du glacier."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0065",
@@ -13711,12 +14570,34 @@
       "summary": "Massifs anciens de l'ouest de Galenor, où s'accrochent des citadelles bâties par les premiers habitants pour canaliser la puissance de volcans endormis, dont l'art est aujourd'hui perdu.",
       "body": null,
       "data": {
-        "echelle": "region"
+        "echelle": "region",
+        "carte": {
+          "position_estimee": {
+            "x": -331,
+            "y": -123,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Galenor",
+            "motif": "Massif « de l’ouest de Galenor » (fiche), au-delà de la région valorienne de Mytzar « frontalière des montagnes de Voldenor », juste au nord de Ravynor (-325.7,-116.9), le village qui « surveille les passes de Voldenor » ; au nord d’Astraneth (55 u) et sur la frontière nord de Valoria comme le dit C/6. Le versant nord-ouest descend vers le bras de mer qui sépare Valoria de la Ventera (≈10 u), seule eau au nord-ouest du massif.",
+            "indices": [
+              "C/6 : « Au nord se dressait Voldenor. »",
+              "C/6 : « J’ai pris le nord. J’ai pris Voldenor. »",
+              "C/6 : « Note cartographique, jour 115, massif de Voldenor, frontière nord de Valoria »",
+              "Fiche Valoria : Ravynor, « village de guetteurs surveillant les passes de Voldenor »"
+            ],
+            "conflits": [
+              "C/6 fait tout tenir en un jour ou deux (Astraneth → col → faille → descente du versant nord → mer d’Alkaran « devant » au matin, embarquement le jour 115 puisque Yaltar est atteinte le jour 140 après 25 jours de mer) ; sur la carte le massif est à ~55 u d’Astraneth et il n’y a AUCUNE mer au nord de Valoria — la seule côte proche d’Astraneth est au sud (10 u), c’est la « route sage ». La « mer d’Alkaran » au nord n’a pas de place sur la carte.",
+              "Venant de Trinoria (nord sur la carte), Sorin aurait eu Voldenor au nord-ouest et non « au nord » à la frontière ; et Trinoria ne touche pas Valoria (Lumasar et Kharazir entre les deux).",
+              "Le massif ainsi placé déborde sur des bourgs de Lumasar (Ithriona 4 u, Faldenor 13 u)."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0066",
@@ -17255,12 +18136,33 @@
       "summary": "Défilé principal d’Iskara (Glintar), murs de 20 m et canaux de lave ; défendu par Yrelda (siège de l’an 35-38), gravure « Vous êtes libres de revenir. Nous serons là. ».",
       "body": null,
       "data": {
-        "echelle": "lieu-dit"
+        "echelle": "lieu-dit",
+        "carte": {
+          "position_estimee": {
+            "x": 191,
+            "y": 10,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Seul accès terrestre du bassin de Glintar « depuis le nord » (fiche Iskara), sur la route qui arrive de Tanolies (Altram, au nord) : 11 u au nord de Glintaris (191.3,21.4), entre la capitale et Galornis (187.3,-1.2). Le bourg extérieur « Glintar » où Sorin loge ensuite est entre la Porte et Glintaris.",
+            "indices": [
+              "C/8 : « Au cinquième matin après Tanolies […] La route s’enfonçait dans un défilé »",
+              "C/8 : « La Porte de Fer ferme le défilé en son point le plus étroit, une quarantaine de pas entre deux falaises de basalte noir. »",
+              "C/8 : « Cette nuit, vous logez à Glintar. Pas à Glintaris. À Glintar, le bourg extérieur. »",
+              "Fiche Iskara : Glintar, « la Porte de Fer y contrôle le seul accès terrestre depuis le nord »"
+            ],
+            "conflits": [
+              "Le marqueur de la région Glintar est posé à (196,43.7), AU SUD de Glintaris, alors que la fiche en fait la « région nord » et C/8 le bourg juste après la Porte venant du nord. J’ai suivi l’accès nord (lore + trajet) plutôt que le marqueur de région.",
+              "Sur la carte, Iskara est sur la même terre qu’Endora, séparée d’Alkaran (Altram) par 60 à 100 u de mer : les « vingt-cinq jours de routes intérieures » Trelios → Iskara (C/8) sont impossibles à pied ; et Tanolies (posée au NORD de Trelios) est à ~280 u du défilé pour « cinq matins »."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "que-0014",
@@ -19058,12 +19960,30 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "echelle": "lieu-dit"
+        "echelle": "lieu-dit",
+        "carte": {
+          "position_estimee": {
+            "x": 70.2,
+            "y": 253.3,
+            "confiance": "haute",
+            "methode": "sous-lieu",
+            "terre": "(île sans nom, aire 33)",
+            "motif": "Monastère creusé dans la falaise au-dessus de l’unique crique de Baelor, où se tient Baeloris (69.5,251.8) : on y monte par l’escalier taillé ; 1,7 u en retrait de la ville, sur l’île.",
+            "indices": [
+              "C/30 : « un escalier taillé dans le basalte, et deux hommes en robe sombre qui nous regardaient venir »",
+              "C/30 : « Baelor : falaises à pic, une seule crique. »"
+            ],
+            "conflits": [
+              "C/31 : Baelor est ceinte de « deux cents lieues de falaises noires » ; l’île de la carte n’est qu’un îlot de ~33 u²."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0081",
@@ -37423,12 +38343,27 @@
             "avant": "jamais revenu",
             "pourquoi": "que-0009 est protégée : le registre de Noravia ne consigne aucun retour, il ne dit pas qu'Aldric n'est jamais revenu (fac-0644)"
           }
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -471,
+            "y": -433,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Cestra",
+            "motif": "Crique de la côte SUD-OUEST de Cestra, « en bordure du No Man’s Land » : fond de la seule anse profonde du littoral sud-ouest (entrée à y≈-417, fond à -434), dont l’ouverture regarde le marqueur du No Man’s Land Cestra (-472.7,-398.4). Mouillage abrité, à 1 u du rivage.",
+            "indices": [
+              "C/33 : Noravia, « la crique sud-ouest », « la seule [côte] du continent où l’on puisse débarquer »",
+              "Fiche : « crique partiellement protégée par une falaise de basalte appelée la Paroi » ; « Côte sud-ouest, en bordure du No Man’s Land »"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0298",
@@ -38630,12 +39565,27 @@
           "fin": 10200,
           "confiance": "haute",
           "methode": "fait-date"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -429.5,
+            "y": 142,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Evertia",
+            "motif": "Académie « de la périphérie » de la forêt, atteinte à pied depuis le pont de Valmora par le sentier de la forêt : 4,9 u à l’est de Valmora, à l’orée de l’intérieur boisé.",
+            "indices": [
+              "C/24 : Thalenvir, académie aux murs vivants, atteinte depuis Valmora « par le pont puis le sentier de la forêt »",
+              "C/24 : « Sur le pont de Valmora, le plus vieux des Gardiens me regarda partir vers le détroit. »"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0336",
@@ -39508,12 +40458,31 @@
           "indice": "- **Eilwen aux Mains Vertes.** Plus âgée des 37 Mains Vertes en activité (estimée à 84 ans en 252). Vit dans une cabane non balisée près du Cœur. Voix",
           "fiche": "Docs/Lore/Pays/Evertia/Sylvara.md"
         },
-        "genre": "féminin"
+        "genre": "féminin",
+        "carte": {
+          "position_estimee": {
+            "x": -447,
+            "y": 131,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Evertia",
+            "motif": "Au cœur de Sylvara (région « Le Cœur ») et à deux heures de marche de Thalmaris, que le texte met sur la côte intérieure en face de Valmora : placé dans le lobe nord-ouest, 6 u de sa côte sud (le côté du « détroit »), 16 u de Valmora (une journée de canot + deux heures).",
+            "indices": [
+              "C/25 : « Sylvara est à deux heures de marche de la ville »",
+              "C/25 : campement de saigneurs « de la rive sud » à mi-chemin",
+              "Atrium : « au centre du Cœur de Sylvara »"
+            ],
+            "conflits": [
+              "La ville d’où l’on y marche en deux heures, Thalmaris, est posée à ~700 u de là, sur Endora (cf. remarques)."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0382",
@@ -46837,12 +47806,28 @@
       "summary": "Zone du sud d'Onara frappée par des Failles aquatiques (~20 villages) ; région d'origine de Kessane.",
       "body": null,
       "data": {
-        "echelle": "region"
+        "echelle": "region",
+        "carte": {
+          "position_estimee": {
+            "x": 303,
+            "y": 211,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Onara",
+            "motif": "Le delta commence en aval de Tyndara, « dernier grand port de l’Onar, fermant le delta » : tête de la baie qui s’ouvre au sud du lobe de Tyndara, 13 u au sud du marqueur de Tyndara, entre Celnaris et Zyndris ; les bras (cinq à dix) s’étalent de là vers la mer du sud. Sud d’Onara, comme le dit la fiche.",
+            "indices": [
+              "C/11 : « la bouche méridionale, celle par laquelle je comptais gagner la mer et, de là, Endora »",
+              "C/11 : « Les cinq autres descendaient chacun un bras du delta »",
+              "C/11 : au-delà de Tyndara « l’Onar se défait en une dizaine de bras jusqu’à la mer »"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-0653",
@@ -60126,12 +61111,30 @@
             "avant": "La Dalle de la haute-ville affleure à cent trente pas de l’arc.",
             "pourquoi": "Les cent trente pas vont de l'arc au parapet ; la Dalle est à mi-chemin, donc à une soixantaine de pas de l'arc."
           }
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -236.4,
+            "y": -119.9,
+            "confiance": "haute",
+            "methode": "sous-lieu",
+            "terre": "Galenor",
+            "motif": "Porte de Rukhsar (-236.6,-118.7) décalée de 1,2 unité vers le nord, côté de la plaine qui descend des collines de Hiliara (-232.4,-137.3), d’où arrive Sorin en C/38. Reste à 1 unité du centre, donc aussi compatible avec la fiche (« au centre de la haute-ville »).",
+            "indices": [
+              "C/38 : « la Porte d’Azur, cet arc de pierre bleue qui marque l’entrée de chaque ville de Kharazir »",
+              "C/38 : « Nous sommes passés sous la Porte d’Azur. »"
+            ],
+            "conflits": [
+              "La fiche de l’Atrium la met « au centre de la haute-ville, au bord de la grande place » ; C/38 en fait l’arc d’entrée de la ville sur la route de la plaine. À l’échelle de la carte (1 u = 4 km) les deux lectures tombent au même point."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "obj-0093",
@@ -60426,12 +61429,26 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -237.6,
+            "y": -118.9,
+            "confiance": "haute",
+            "methode": "sous-lieu",
+            "terre": "Galenor",
+            "motif": "Caravansérail de Rukhsar (-236.6,-118.7) sur la terrasse des Caravaniers, à mi-hauteur de la paroi OUEST du canyon : la ville décalée d’1 unité vers l’ouest.",
+            "indices": [
+              "C/1 : « Il occupe la terrasse des Caravaniers, à mi-hauteur de la paroi ouest, assez haut pour entendre les deux rivières sans les voir. »"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "obj-0096",
@@ -60513,12 +61530,32 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -384,
+            "y": -62,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Galenor",
+            "motif": "Point = le départ de la piste (les neuf cairns « des premières lieues »), à la bifurcation où le convoi de Nythor tourne vers les hauts plateaux du sud (Astralor, -401,-53). La piste file ensuite sur ~49 u vers l’OUEST-sud-ouest jusqu’à Vyndralith (-431.2,-49.9) : ≈ 9 jours de marche, contre 12 annoncés et ~15 réels (J40→J55).",
+            "indices": [
+              "C/3 : « La seconde coupe droit à travers la grande herbe. […] La piste des Neuf Cairns. […] Douze jours si le vent te laisse »",
+              "C/3 : « neuf monticules de pierre grise jalonnent les premières lieues »",
+              "C/3 : « Le convoi s’apprêtait à bifurquer vers les hauts plateaux du sud »",
+              "C/4 : « Vingt-trois jours depuis les steppes de Ventera » (J32→J55)"
+            ],
+            "conflits": [
+              "C/3 : Sorin part « vers l’est » pour gagner la côte (« Je marche vers l’est ») ; sur la carte la seule côte atteinte, Vyndralith (Solena), est à l’OUEST de toute la steppe de Ventera. J’ai suivi la carte : la piste court vers l’ouest-sud-ouest."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-1012",
@@ -60597,12 +61634,26 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -430,
+            "y": -46.8,
+            "confiance": "haute",
+            "methode": "sous-lieu",
+            "terre": "Galenor",
+            "motif": "Bras de terre de Vyndralith portant le phare : placé sur le point de côte le plus proche de la ville (-431.2,-49.9), à 3,3 u au nord-est — plus loin que les 0,5-2 u d’usage parce que la ville est posée à 3,9 u du rivage et que le phare doit être au bord de l’eau.",
+            "indices": [
+              "C/4 : « Au bout du bras de terre qu’on nomme la Pointe des Explorateurs, le phare balayait la mer toutes les trente secondes »"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-1015",
@@ -60725,12 +61776,30 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -303.5,
+            "y": -75.9,
+            "confiance": "haute",
+            "methode": "indices",
+            "terre": "Galenor",
+            "motif": "Une lieue (= 1 u) au-dessus d’Astraneth (-303.4,-74.8), du côté du massif, c’est-à-dire au nord (Voldenor est « au nord » dans tout C/6).",
+            "indices": [
+              "C/6 : « Le cercle de Kaeldrun tient sur un replat de roche, une lieue au-dessus d’Astraneth »",
+              "C/6 : « Tire un trait de Gorthorn à Velros : il passe sous Kaeldrun. »"
+            ],
+            "conflits": [
+              "Alignement Gorthorn–Kaeldrun–Velros : Gorthorn est posée à (-191.5,-203.5), en TRINORIE (Torhal en fait une « région de Valoria ») ; le prolongement de la droite au-delà de Kaeldrun vers le sud-ouest sort en mer à ~12 u. Velros (non posée, hors de ma liste) devra tenir sur la côte sud de Valoria, entre Astraneth et la mer."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-1018",
@@ -60923,12 +61992,31 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 221,
+            "y": 24,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Premier hameau des hauts plateaux de Ferrath après la passe nord-est : 10,6 u au nord-nord-est de Myrilith (215.6,33.1), soit la journée qui suit la passe, sur le plateau de Ferrath tel que placé ci-dessus.",
+            "indices": [
+              "C/8 : « Je me suis arrêté trois jours dans un hameau nommé Verthal, une vingtaine de familles de forgerons et de mineurs de veine »",
+              "C/8 : « je pris la route de l’est, vers Myrtam et ses cheminées »",
+              "C/9 : « Deux jours avant Haliandris » (crête au-dessus du plateau d’Haliandra)"
+            ],
+            "conflits": [
+              "De Verthal, C/8–C/9 vont à pied « vers l’est » jusqu’à Myrtam, dont la crête est à « deux jours » d’Haliandris ; sur la carte Haliandris (219.3,-144.2) est à 168 u plein NORD, dont ~95 u de mer (le détroit Alkaran–Iskara). Aucune position de Verthal ne supprime la traversée : placée sur la pointe sud d’Alkaran, elle la reporterait entre Myrilith et Verthal, et tomberait au milieu de bourgs de Myrtam."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "ter-0172",
@@ -61042,12 +62130,26 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 220.2,
+            "y": -143.6,
+            "confiance": "haute",
+            "methode": "sous-lieu",
+            "terre": "Alkaran",
+            "motif": "Auberge du quartier marchand d’Haliandris (219.3,-144.2), « assez loin de la Grande Forge » : la ville décalée d’1 unité.",
+            "indices": [
+              "C/9 : « Au Foyer de Rendal, dans le quartier marchand, je pris une chambre assez loin de la Grande Forge »"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "per-1040",
@@ -61329,12 +62431,31 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 269.5,
+            "y": 63.5,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Port de la côte EST d’Endora (face à Onara d’où arrive le navire), à « deux jours de plaines » à l’est de la lisière de Sanvara : dans l’étroite bande de côte libre entre les villes posées de Thalmaris (Ostaris 11 u au nord) et d’Avalor (Fandor 11 u au sud). Tyndara → Malderis ≈ 139 u de mer.",
+            "indices": [
+              "C/12 : « Vingt-cinq jours de mer entre Onara et Endora »",
+              "C/12 : « De Malderis, deux jours de plaines agricoles vers l’ouest, jusqu’à une bande de terre que les cartes nomment « territoire frontalier non administré » »"
+            ],
+            "conflits": [
+              "25 jours de mer pour ~139 u (≈ 5,6 u/j, contre ~25 u/j à l’échelle retenue).",
+              "Toute la côte est d’Endora est occupée par des villes posées (Thalmaris au nord, Avalor au sud) : Malderis n’a qu’une bande de ~20 u où se glisser."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "obj-0098",
@@ -61434,12 +62555,30 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -247,
+            "y": 168,
+            "confiance": "basse",
+            "methode": "rattachement seul",
+            "terre": "Ilthara",
+            "motif": "Ville d’Haldria : placée avec les autres lieux d’Haldria, que la carte pose tous dans le sud-ouest d’Ilthara (arbitrage « sans territoire » de l’Atrium), dans un creux libre entre Valdren (9 u), Raldir et Hekoria (14 u), à 26 u de la capitale Hekorinth — assez loin pour que Vessane y soit « à l’abri ». Aucun indice de distance ou de direction dans le texte.",
+            "indices": [
+              "C/13 : « Ils remontent à Perivalis, et de Perivalis au relais de Haltheria »",
+              "C/13 : Vessane se réfugie chez sa sœur à Haltheria sur le conseil de Sorin"
+            ],
+            "conflits": [
+              "Les Chroniques (C/13) et la fiche mettent Haldria en Endora ; relais académique « après Perivalis », Haltheria serait sur la côte occidentale d’Endora. Placée en Ilthara uniquement parce que la carte y pose Hekorinth et toute Haldria (cf. remarques) ; à déplacer avec elles si Haldria revient un jour sur Endora."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "pol-0127",
@@ -61726,12 +62865,31 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -166,
+            "y": 187.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Ilthara",
+            "motif": "Premier village de Drakora au pied du versant sud d’un col « au nord », une journée de cheval EN MONTÉE sous Myrthorin : 9,5 u au nord-nord-ouest de Myrthorin (-160.5,195.2), près de la limite Lythar/Drakora (Iliara, Lythar, à 11 u ; Elyndor, Drakora, à 9 u).",
+            "indices": [
+              "C/16 : « le vent du nord dans le dos » (au passage du col)",
+              "C/16 : « La route de la capitale monte sans répit » ; départ le matin, « Myrthorin apparaît en fin d’après-midi »",
+              "C/16 : Veldar, « premier village de Drakora après le col de pierre noire »"
+            ],
+            "conflits": [
+              "Le col de pierre noire relie directement Gryndor à Drakora (C/15–16 : « Drakora est à l’est », « par les cols du Veltrak ») ; sur la carte Drakora est à ~120 u au SUD de Gryndor, avec Pyrtara et Lythar entre les deux. Le col est donc côté Lythar, pas côté Gryndor."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-1028",
@@ -62218,12 +63376,34 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -214,
+            "y": 150.5,
+            "confiance": "basse",
+            "methode": "rattachement seul",
+            "terre": "Ilthara",
+            "motif": "Port de Lythar (rattachement Atrium) : la seule eau que touche le Lythar de la carte est le long golfe qui descend du nord jusqu’à Lytharil. Vaelmar est posée sur sa rive sud-ouest, 7 u à l’ouest de Valryndor (la ville la plus occidentale de Lythar), 44 u à l’ouest de Lytharil en contournant le fond du golfe ≈ 8 jours (texte : 10 jours « plein ouest »).",
+            "indices": [
+              "C/20 : « Vaelmar, sur la côte ouest, dix jours de plaine plein ouest »",
+              "C/20 : « Vaelmar recula, puis la steppe derrière le port, puis tout Lythar »",
+              "C/20 : « par-delà l’eau, le soufre lointain de Cendara » ; barques « renforcées pour les mers de feu du sud »",
+              "C/21 : « Douze jours de mer depuis la côte ouest d’Ilthara, dont trois au large »"
+            ],
+            "conflits": [
+              "Le golfe s’ouvre au NORD : pour gagner Cendara (sud-ouest) les barques doivent faire le tour de l’ouest d’Ilthara (~450 u), incompatible avec 9 jours de navigation, et on ne peut pas y sentir le soufre de Cendara (~170 u).",
+              "Le chemin plein ouest depuis Lytharil ne longe pas « la lisière de Vytharia » (40 u plus au sud).",
+              "Alternative qui satisferait le texte mais pas le rattachement : côte sud-ouest d’Ilthara vers Uldarin/Zaldrin (≈ -289,199), 55 u de Brumaris, sur la route qui longe le nord de Vytharia — mais c’est le cœur des lieux posés d’Haldria, pas Lythar."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "per-1066",
@@ -62472,12 +63652,27 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -424.5,
+            "y": 146.5,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Evertia",
+            "motif": "« Une marche vers l’intérieur », en montée, le reste d’un jour depuis Thalenvir : 6,7 u à l’est-sud-est de Thalenvir, vers le cœur de l’île (Cloche, Miralis à 12-14 u).",
+            "indices": [
+              "C/24 : « Nous montâmes le reste du jour. »",
+              "C/24 : « Une marche vers l’intérieur »"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "per-1072",
@@ -62620,12 +63815,34 @@
           "confiance": "basse",
           "methode": "relation:capitale-de",
           "indice": "capitale de Lunasar (5500)"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -168,
+            "y": 249.5,
+            "confiance": "basse",
+            "methode": "indices",
+            "terre": "Ilthara",
+            "motif": "Capitale côtière de Lunasar, « province côtière orientale de Vytharia » : placée sur la côte sud-ouest du lobe qui porte les lieux vytharians de l’est (Mythoria 10 u, Gelinar, Kaloria), avec le large au sud-ouest (l’île « qui aurait dû être » que montre Solvanes) et Caeloria au sud-est par la mer. Mirathi → Lunaris ≈ 52 u.",
+            "indices": [
+              "C/28 : « la poussière de quinze jours de route depuis les couvents de Mirathi »",
+              "C/28 : « une ville de pierre blanche repliée dans une échancrure de la côte, ouverte sur le large par un bras d’eau »",
+              "C/28 : « Solvanes tendit la main vers le sud-ouest » ; « Le batelier mit le cap au sud-est, vers Caeloria »",
+              "Fiche Lunasar : « côte orientale de Vytharia », « ~200 lieues de côtes basses »"
+            ],
+            "conflits": [
+              "Quinze jours de chariot pour ~52 u (≈3,5 u/j) : la sphère de Vytharia est bien plus petite sur la carte que dans le texte et la fiche (200 lieues de côtes).",
+              "Rattachement vide dans l’Atrium ; la capitale d’une « province de Vytharia » tombe ici dans la surface (non validée) de Drakora, comme Mythoria.",
+              "Homonyme : le canyon de Lunaris (Drakora, -167.9,220.5) est à 29 u au nord."
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "per-1076",
@@ -64507,12 +65724,26 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -235.9,
+            "y": -119.4,
+            "confiance": "haute",
+            "methode": "sous-lieu",
+            "terre": "Galenor",
+            "motif": "Quartier de Rukhsar (-236.6,-118.7), près du fleuve et à portée d’oreille du Grand Bazar : la ville décalée de 1 unité (côté est, vers le fond du canyon).",
+            "indices": [
+              "C/38 : « une chambre dans le quartier des Passeurs, un quartier que j’avais habité des années, dont les ruelles sentent le cumin »"
+            ],
+            "source": "estimée d’après les livres, 2026-09-25"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-25T22:13:04.192Z"
     },
     {
       "id": "lie-1057",

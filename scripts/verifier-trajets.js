@@ -47,14 +47,14 @@ function position(etape) {
   const d = e && e.data;
   if (d && d.coord_x != null && d.coord_y != null) return { x: +d.coord_x, y: +d.coord_y, estimee: false };
   const pe = d && d.carte && d.carte.position_estimee;
-  if (pe && pe.x != null) return { x: +pe.x, y: +pe.y, estimee: true };
+  if (pe && pe.x != null) return { x: +pe.x, y: +pe.y, estimee: true, confiance: pe.confiance || 'basse' };
   if (etape.x != null && etape.y != null) return { x: +etape.x, y: +etape.y, estimee: true };
   return null;
 }
 const arrondi = (n, d = 1) => Math.round(n * 10 ** d) / 10 ** d;
 
 let total = 0;
-const bilan = { tient: 0, serre: 0, impossible: 0, sans_temps: 0, sans_position: 0 };
+const bilan = { tient: 0, serre: 0, impossible: 0, sans_temps: 0, sans_position: 0, douteux: 0 };
 const lignes = [];
 // Un tronçon se juge d'un repère daté au suivant : la distance cumulée des étapes
 // intermédiaires (non datées) rapportée à l'écart des repères `t` ; ou, pour une
@@ -63,7 +63,7 @@ const lignes = [];
 // additionne, sous-tronçon par sous-tronçon, le temps qu'il demande à l'allure normale
 // et à l'allure forcée de SON mode, et l'on compare au temps dont le récit dispose.
 const vitesse = (mode) => VITESSES[mode] || VITESSES.marche;
-function juger(et, segs, jours, cpt, lg, ent, de) {
+function juger(et, segs, jours, cpt, lg, ent, de, douteux) {
   const lieues = segs.reduce((s, x) => s + x.lieues, 0);
   if (lieues < 0.5) return;
   if (!(jours > 0)) { bilan.sans_temps++; return; }
@@ -72,6 +72,7 @@ function juger(et, segs, jours, cpt, lg, ent, de) {
   et.rythme = arrondi(lieues / jours, 1);
   const verdict = jours >= tNormal ? null : jours >= tForce ? 'serre' : 'impossible';
   const modes = [...new Set(segs.map((x) => x.mode))].join(' + ');
+  if (douteux) et.fiabilite = 'basse'; else delete et.fiabilite;
   if (verdict) {
     et.verdict = verdict;
     if (!et.note_verrouillee) {
@@ -80,8 +81,9 @@ function juger(et, segs, jours, cpt, lg, ent, de) {
   } else if (!et.note_verrouillee) delete et.note;
   const cle = verdict || 'tient';
   cpt[cle]++; bilan[cle]++; total++;
+  if (douteux && verdict) bilan.douteux++;
   if (DETAIL || verdict === 'impossible') {
-    lg.push(`  ${verdict === 'impossible' ? '✗' : verdict === 'serre' ? '≈' : '✓'} ${ent.name} · ${et.chapitre || ''} · ${de} → ${et.lieu} : ${arrondi(lieues, 0)} lieues (${modes}) en ${arrondi(jours, 1)} j — normal ${arrondi(tNormal, 1)} j, forcé ${arrondi(tForce, 1)} j`);
+    lg.push(`  ${verdict === 'impossible' ? '✗' : verdict === 'serre' ? '≈' : '✓'}${douteux ? '?' : ' '}${ent.name} · ${et.chapitre || ''} · ${de} → ${et.lieu} : ${arrondi(lieues, 0)} lieues (${modes}) en ${arrondi(jours, 1)} j — normal ${arrondi(tNormal, 1)} j, forcé ${arrondi(tForce, 1)} j`);
   }
 }
 for (const ent of kg.entities) {
@@ -92,7 +94,7 @@ for (const ent of kg.entities) {
   let prec = null;          // dernière étape placée
   let repere = null;        // dernière étape datée : { t, lieu, segs }
   for (const et of P) {
-    for (const k of ['distance_lieues', 'rythme', 'verdict', 'jours_dispo']) delete et[k];
+    for (const k of ['distance_lieues', 'rythme', 'verdict', 'jours_dispo', 'fiabilite']) delete et[k];
     if (!et.note_verrouillee) delete et.note;
     const pos = position(et);
     if (!pos) { bilan.sans_position++; continue; }
@@ -103,13 +105,13 @@ for (const ent of kg.entities) {
       const units = Math.hypot(pos.x - prec.pos.x, pos.y - prec.pos.y);
       const lieues = (units * (eau ? DETOUR.eau : DETOUR.terre)) / UPL;
       et.distance_lieues = arrondi(lieues, 0);
-      const seg = { lieues, mode };
+      const seg = { lieues, mode, douteux: pos.confiance === 'basse' || prec.pos.confiance === 'basse' };
       if (repere) repere.segs.push(seg);
-      if (et.jours != null) juger(et, [seg], +et.jours, cpt, lg, ent, prec.et.lieu);
+      if (et.jours != null) juger(et, [seg], +et.jours, cpt, lg, ent, prec.et.lieu, seg.douteux);
       else if (et.t != null && repere && repere.t != null) {
         const jours = +et.t - repere.t;
         et.jours_dispo = arrondi(jours, 2);
-        juger(et, repere.segs, jours, cpt, lg, ent, repere.lieu);
+        juger(et, repere.segs, jours, cpt, lg, ent, repere.lieu, repere.segs.some((x) => x.douteux));
       }
     }
     if (et.t != null) repere = { t: +et.t, lieu: et.lieu, segs: [] };
@@ -121,7 +123,8 @@ for (const ent of kg.entities) {
 
 console.log(`Échelle : 1 lieue = ${ECH.lieue_km} km = ${UPL} unité de carte · détour terre ×${DETOUR.terre}, eau ×${DETOUR.eau}`);
 console.log(`Tronçons jugés : ${total} — tient ${bilan.tient} · serré ${bilan.serre} · impossible ${bilan.impossible}` +
-  ` · sans temps ${bilan.sans_temps} · étapes sans position ${bilan.sans_position}`);
+  ` · sans temps ${bilan.sans_temps} · étapes sans position ${bilan.sans_position}` +
+  ` · dont ${bilan.douteux} verdicts « ? » (une extrémité estimée en confiance basse)`);
 for (const l of lignes) console.log(l);
 if (ECRIRE) {
   fs.writeFileSync(FICHIER, JSON.stringify(kg, null, 2) + '\n');

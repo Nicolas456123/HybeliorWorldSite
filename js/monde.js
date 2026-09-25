@@ -1054,7 +1054,7 @@ async function vueCarte(focusId) {
           h('td', { text: i ? [e.mode, e.duree].filter(Boolean).join(' · ') : 'départ' }),
           h('td', { text: e.distance_lieues != null ? fmtNb(e.distance_lieues, 0) : '' }),
           h('td', { text: e.rythme != null ? fmtNb(e.rythme) + ' l./j' : '' }),
-          h('td', { text: v === 'impossible' ? '✗ ' + (e.note || '') : v === 'serre' ? '≈ ' + (e.note || '') : (e.note || '') }));
+          h('td', { text: (v === 'impossible' ? '✗ ' : v === 'serre' ? '≈ ' : '') + (e.fiabilite === 'basse' && v ? '(à vérifier : position estimée) ' : '') + (e.note || '') }));
         tb.append(tr);
       });
       bloc.append(h('div', { class: 'carnet-defil' }, tb));
@@ -1235,7 +1235,7 @@ async function vueCarte(focusId) {
         for (let i = 1; i < pts.length; i++) {
           const e = p.etapes[i], v = e.verdict;
           ctx.strokeStyle = COUL_VERDICT[v] || p.couleur;
-          ctx.globalAlpha = v ? .95 : .8;
+          ctx.globalAlpha = v ? (e.fiabilite === 'basse' ? .55 : .95) : .8;
           ctx.lineWidth = (v === 'impossible' ? 2.8 : 2) * dpr;
           ctx.setLineDash(MODES_EAU.has(e.mode) ? [2 * dpr, 5 * dpr] : [9 * dpr, 6 * dpr]);
           ctx.lineDashOffset = -tAnim / 22;
