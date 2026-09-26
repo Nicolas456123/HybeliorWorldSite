@@ -3,7 +3,7 @@ tags: [lore, canon, méta, décisions, mystères, référence, terminologie]
 type: lore
 status: canon
 date: 2026-07-16
-last_review: 2026-07-16
+last_review: 2026-09-26
 needs_review_for: []
 ---
 
@@ -51,6 +51,7 @@ Quand deux sources se contredisent, l'ordre de priorité par défaut est : **Chr
 - **Silence de Lunasar** : trois jours, masque **temporaire** — distinct du masque **permanent** de Nysaria.
 - **Mont Jumeau** : la Chronologie dit « aucune expédition **parvenue aux académies** avant le dépôt de Sorin » (nuance, plutôt que reflouer le texte).
 - **Renommages de romans** : inquisiteur du T1 **Velkar → Verkan Sorne** (patronyme Sorne conservé) ; caste du T2 normalisée en **Tisse** (invariable) ; victimes **récentes** de la Guerre de l'Ombre du T3 renommées (Serathis→Vyntaris, Davan→Nevran, Solva→Ysendre, Uveth→Vharok, Mira→Selvir, Pyrak→Ostrek), les noms **historiques** d'Era 7 conservés.
+- **Lac perché de Baelor, Ce-qui-rend-le-ciel (décision de l'auteur, 26 septembre 2026).** Un lac entre au canon à l'angle nord-ouest de Baelor, au-dessus de la muraille de basalte, à une quarantaine de mètres au-dessus de la mer ; il s'y jette par une cascade de même hauteur, près d'un promontoire d'environ 115 m percé d'une arche, d'une crique de galets noirs et d'une grotte marine. Il est **l'origine de la rumeur de la Source de l'Éternité**, les marins ayant fait de sa cascade, vue du large, un lac noir au cœur de l'île. **C'est un miroir du ciel, non un lac noir** ; l'écart entre la rumeur et le lieu est voulu, à exploiter sans rien trancher de ce qui reste mystérieux. Aucune vertu n'est attestée à son eau, les moines ne reçoivent ni ne démentent la rumeur, et rien ne relie le lac au « dessous » ni à la voix des falaises (Partie 2). Son nom traduit le geste baelorien qui le désigne ; l'auteur peut le changer. Graphe `lie-1060`, coordonnée monde (67,15 ; 251,36) ; fiches [[Baelor - Continent]] (*Géographie*, *Croyances*) et [[Baelor]] (*Villes, cloîtres et lieux*).
 
 ---
 

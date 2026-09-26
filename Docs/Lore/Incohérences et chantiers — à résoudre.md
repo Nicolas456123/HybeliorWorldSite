@@ -3,7 +3,7 @@ tags: [lore, méta, atrium, incohérences, chantiers, à-résoudre]
 type: lore
 status: living
 date: 2026-07-17
-last_review: 2026-09-23
+last_review: 2026-09-26
 needs_review_for: []
 ---
 
@@ -317,6 +317,19 @@ désormais insensible aux accents.
 Le bloc Galenor (Lumasar 23 erreurs, Seraphia 20, Trinoria 18, Kharazir 15) est le
 plus atteint : les lieux de Lumasar tombent dans Trinoria, ceux de Kharazir dans
 Lumasar. C'est par là que la reprise de la carte rapporterait le plus.
+
+**La côte de Baelor, révélée le 2026-09-26 par le lac perché.** Le lac inscrit ce
+jour (`lie-1060`, Ce-qui-rend-le-ciel, (67,15 ; 251,36)) tombe **hors** de l'île de
+Baelor dans `monde-contours.json`, qui n'en a qu'un hexagone provisoire de 33 u²
+(x de 67,70 à 73,73 ; Thyldris y tombe déjà en mer). Sur les tuiles de la carte
+peinte (niveau 17), le point est bien à terre, à ~0,27 u de la côte nord et ~0,67 u
+de la côte ouest ; l'île peinte couvre ~55 u² (x ≈ 66,2 à 74,6, y ≈ 250,6 à 261,0).
+À faire : reporter la côte peinte dans le tracé (`continents-trace.svg`, puis
+`extract-trace-contours` → `extract-pays` → `snap-pays-cotes`). Au passage, la
+surface **Baelor-Prime** (`source: cote-ile`) est dégénérée : six points alignés vers
+y ≈ 320, loin de l'île, d'aire nulle malgré son `aire: 33`. Si elle compte parmi les
+deux surfaces « propres » du tableau, c'est qu'elle ne contient rien ; elle sera
+refaite avec la côte.
 
 ### 8. `npm run lint` est rouge — deux erreurs
 

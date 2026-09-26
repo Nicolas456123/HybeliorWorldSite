@@ -2,7 +2,7 @@
 tags: [lore, pays, baelor]
 type: nation
 status: canon
-last_review: 2026-06-05
+last_review: 2026-09-26
 needs_review_for: []
 ---
 # Baelor — La Nation du Silence
@@ -176,6 +176,12 @@ Cloître le plus haut, le plus reculé et le plus discret de l'île ; dans un re
 - Population : ~50 (Silentii ~45, apprentis ~5)
 - Région : BaelorRegion
 - Particularités : Geste minimal · Aucun visiteur étranger jamais accepté · Bibliothèque inexistante (l'écriture y est tenue pour un geste différé)
+
+### Ce-qui-rend-le-ciel — Lac perché de l'angle nord-ouest
+Lac d'eau claire à une quarantaine de mètres au-dessus de la mer, là où la muraille nord rejoint la côte ouest ; il se jette dans l'océan par une cascade de même hauteur. Les moines ne le nomment pas : son nom traduit le geste qui le désigne (« ce qui rend le ciel », sa surface faisant miroir par temps calme). Origine de la rumeur de la **Source de l'Éternité** (cf. [[Baelor - Continent#Géographie]]).
+- Population : aucune (ni cloître ni hameau)
+- Région : BaelorRegion (lisière ouest du secteur de Baeloris-et-Falaise)
+- Particularités : Cascade tombant droit dans la mer · Promontoire d'environ 115 m percé d'une arche · Crique de galets noirs et grotte marine au sud de l'angle · Aucune vertu attestée à son eau
 
 ### Hameaux côtiers (10 à 12 hameaux non répertoriés au CSV)
 Le long des côtes ouest et sud : une douzaine de hameaux de pêcheurs et saliniers de 50 à 300 habitants chacun. Aucun cloître attaché ; tous suivent le silence atténué de la culture côtière. Aucun nom retenu par les chroniques externes (noms internes non transmis aux visiteurs).
