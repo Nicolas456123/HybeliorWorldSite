@@ -839,7 +839,8 @@ let M_TRAJETS_INIT = false;
 const ORDRE_OEUVRES = ['T1', 'T2', 'T3', 'C'];
 const NOM_OEUVRE = { C: 'Chroniques de l’Exilé', T1: 'La Septième Heure', T2: 'L’Heure qui se Referme', T3: 'L’Heure qui Naît' };
 const PALETTE_TRAJETS = ['#f0d894', '#8fc1e3', '#e39a8f', '#9fd49a', '#c9a6e8', '#e8c06a', '#7fd1c4', '#e3a6c8', '#b8c97a', '#d9b48f'];
-const COUL_VERDICT = { impossible: '#e5534b', serre: '#e8a13c' };
+const COUL_VERDICT = { impossible: '#e5534b', serre: '#e8a13c', lent: '#7fa7c9' };
+const SYMB_VERDICT = { impossible: '✗ ', serre: '≈ ', lent: '⋯ ' };
 const MODES_EAU = new Set(['bateau', 'navire', 'barge', 'pirogue', 'bac', 'mer', 'fleuve']);
 const fmtNb = (n, d = 1) => (n == null ? '' : Number(n).toLocaleString('fr-FR', { maximumFractionDigits: d }));
 async function vueCarte(focusId) {
@@ -1028,19 +1029,21 @@ async function vueCarte(focusId) {
     const choisis = trajets.filter((p) => M.trajets.has(p.id));
     if (!choisis.length) return;
     if (echelleCarte) {
-      carnetEl.append(h('p', { class: 'carnet-echelle', text: `Échelle : 1 lieue ≈ ${fmtNb(echelleCarte.lieue_km)} km ≈ ${fmtNb(echelleCarte.unites_par_lieue, 2)} unité de carte. ` + (echelleCarte.note || '') }));
+      carnetEl.append(h('p', { class: 'carnet-echelle', text: (echelleCarte.km_par_unite ? `Échelle : 1 unité de carte ≈ ${fmtNb(echelleCarte.km_par_unite, 3)} km ; ` : 'Échelle : ') +
+        `1 lieue ≈ ${fmtNb(echelleCarte.lieue_km)} km ≈ ${fmtNb(echelleCarte.unites_par_lieue, 2)} unités de carte. ` + (echelleCarte.note || '') }));
     }
     for (const p of choisis) {
       const et = p.etapes;
       const lieues = et.reduce((s, e) => s + (+e.distance_lieues || 0), 0);
       const nbImp = et.filter((e) => e.verdict === 'impossible').length, nbSer = et.filter((e) => e.verdict === 'serre').length;
+      const nbLent = et.filter((e) => e.verdict === 'lent').length;
       const bloc = h('details', { class: 'carnet', open: choisis.length === 1 ? '' : null });
       bloc.append(h('summary', {},
         h('span', { text: '● ', style: `color:${p.couleur}` }),
         h('strong', { text: p.name }), ' — ' + (NOM_OEUVRE[p.oeuvre] || ''),
         h('span', { class: 'carnet-bilan', text: ` · ${et.length} étapes · ${fmtNb(lieues, 0)} lieues` +
           (nbImp ? ` · ${nbImp} impossible${nbImp > 1 ? 's' : ''}` : '') + (nbSer ? ` · ${nbSer} serrée${nbSer > 1 ? 's' : ''}` : '') +
-          (nbImp + nbSer ? '' : ' · tout tient') })));
+          (nbLent ? ` · ${nbLent} trop lente${nbLent > 1 ? 's' : ''}` : '') + (nbImp + nbSer + nbLent ? '' : ' · tout tient') })));
       const tb = h('table');
       tb.append(h('tr', {}, ...['', 'chapitre', 'quand', 'lieu', 'trajet annoncé', 'lieues', 'rythme', ''].map((t) => h('th', { text: t }))));
       et.forEach((e, i) => {
@@ -1055,7 +1058,7 @@ async function vueCarte(focusId) {
             : [e.traversee_implicite ? 'traversée (le texte dit : ' + (e.mode_texte || 'rien') + ')' : e.mode, e.duree].filter(Boolean).join(' · ') }),
           h('td', { text: e.distance_lieues != null ? fmtNb(e.distance_lieues, 0) : '' }),
           h('td', { text: e.rythme != null ? fmtNb(e.rythme) + ' l./j' : '' }),
-          h('td', { text: (v === 'impossible' ? '✗ ' : v === 'serre' ? '≈ ' : '') + (e.fiabilite === 'basse' && v ? '(à vérifier : position estimée) ' : '') + (e.note || '') }));
+          h('td', { text: (SYMB_VERDICT[v] || '') + (e.fiabilite === 'basse' && v ? '(à vérifier : position estimée) ' : '') + (e.note || '') }));
         tb.append(tr);
       });
       bloc.append(h('div', { class: 'carnet-defil' }, tb));
@@ -1286,7 +1289,7 @@ async function vueCarte(focusId) {
           (e.lieu || '') + (e.estimee ? ' (position estimée)' : ''),
           i ? [e.depuis ? 'depuis ' + e.depuis : '', e.mode, e.duree].filter(Boolean).join(' · ') : 'départ',
           e.distance_lieues != null ? `${fmtNb(e.distance_lieues, 0)} lieues` + (e.rythme != null ? ` · ${fmtNb(e.rythme)} lieues/jour` : '') : '',
-          e.note ? (e.verdict === 'impossible' ? '✗ ' : e.verdict === 'serre' ? '≈ ' : '') + e.note : '',
+          e.note ? (SYMB_VERDICT[e.verdict] || '') + e.note : '',
         ].filter(Boolean);
         ctx.font = `${11.5 * dpr}px Raleway, sans-serif`;
         const lgMax = Math.min(W * .45, Math.max(...lignes.map((t) => ctx.measureText(t).width)) + 20 * dpr);

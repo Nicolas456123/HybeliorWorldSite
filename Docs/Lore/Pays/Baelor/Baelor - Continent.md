@@ -12,7 +12,7 @@ needs_review_for: []
 | | |
 |---|---|
 | **Type** | Île-continent unique, tempéré-océanique, ceinturée de falaises noires |
-| **Taille** | Petit continent (moins étendu qu'Onara, à peine plus que la partie habitable de Cestra) ; ~300 lieues nord-sud × ~150 lieues est-ouest |
+| **Taille** | Petite île : ~10 km nord-sud × ~8 km est-ouest (deux lieues et demie sur deux), une cinquantaine de km² |
 | **Climat** | Tempéré-océanique frais, brumeux ; soleil ~1 jour sur 3 |
 | **Nations habitées** | 1 ([[Baelor]]) — un seul peuple, une seule langue, une seule règle |
 | **Régime** | Théocratie monastique : les moines sont l'État, la culture et la quasi-totalité du peuple |
@@ -28,7 +28,7 @@ Faits notables :
 ## Géographie
 
 **Côtes (4) :**
-- **Côte nord** — muraille de **falaises noires de basalte** (50 à 120 m), sans plage praticable sur ~200 lieues. Unique crique abritée (défaut de la falaise large de ~200 pas) : site d'accostage des premiers moines et du port creusé de **Baeloris**. Reste de la côte inaccessible (défense naturelle de l'île).
+- **Côte nord** — muraille de **falaises noires de basalte** (50 à 120 m), sans plage praticable sur toute sa longueur (~8 km). Unique crique abritée (défaut de la falaise large de ~200 pas) : site d'accostage des premiers moines et du port creusé de **Baeloris**. Reste de la côte inaccessible (défense naturelle de l'île).
 - **Côte ouest** — falaises basses, criques étroites, grottes marines profondes, plages de galets noirs. Habitat des **rares pêcheurs** (~une douzaine de hameaux) ; **cloîtres minoritaires** dispersés. Lieu où **Hesvar de Tholmë** vécut 13 ans dans une grotte sans laisser de trace.
 - **Côte sud** — plages de galets gris, promontoires bas, marais salants (récolte du **sel**), herbes médicinales (cueillette monastique saisonnière). Établissement principal : **Tholmë**. Côte la plus ouverte au commerce limité (Tyndara ; plus rarement Caeloria).
 - **Côte est** — venteuse, quasi inhabitée ; récifs et courants traîtres (aucun navire étranger). Promontoire de **Thyldris** : poste de veille sur l'horizon d'où, selon les Veilleurs, *quelque chose viendra* (ni quand ni quoi).
@@ -40,6 +40,7 @@ Faits notables :
 **Hydrographie :**
 - 3 rivières courtes descendant de la dorsale de Velkadra vers la côte ouest ; **aucune navigable**.
 - Sources d'eau douce dans les falaises ; la **Source Sourde** (sous Baeloris) alimente tout le complexe monastique sans jamais avoir tari.
+- **Aucun lac à l'intérieur** : sur le plateau et dans la lande, seulement des mares de tourbière de 10 à 50 m. Le seul lac de l'île est perché sur la côte, à l'angle nord-ouest (ci-dessous).
 
 **Le lac perché de l'angle nord-ouest (Ce-qui-rend-le-ciel) :**
 - **Site** — là où la muraille nord rejoint la côte ouest, lac allongé d'est en ouest le long de la muraille (~1,2 km sur ~400 m), à une quarantaine de mètres au-dessus de la mer. Une étroite bande de lande le sépare du rebord, où la muraille fait 55 à 70 m.

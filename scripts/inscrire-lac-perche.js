@@ -11,8 +11,9 @@
  * Géographie). La part « continent » du corps de Baelor (lie-0003), copie
  * conforme de la fiche, est resynchronisée avec le fichier.
  *
- * Écrit : l'entité lie-1060 (lieu-dit, coordonnée monde (67,15 ; 251,36),
- * relevée sur les tuiles de la carte peinte), ses deux rattachements
+ * Écrit : l'entité lie-1060 (lieu-dit, centre du lac en coordonnée monde
+ * (67,35 ; 251,44) : relevé d'abord en (67,15 ; 251,36) sur les tuiles de la
+ * carte peinte, recentré pour l'échelle de 0,955 km/u), ses deux rattachements
  * situe-dans (Baelor, Baelor-Prime) et l'alias « Source de l'Éternité »
  * (variante : le nom de la rumeur). Validation par lib/kg-core.js.
  * Idempotent ; aucun reseed.
@@ -79,12 +80,12 @@ const { ops: opsE } = core.prepareWrite(g, 'save-entity', {
   body,
   data: {
     echelle: 'lieu-dit',
-    coord_x: 67.15,
-    coord_y: 251.36,
+    coord_x: 67.35,
+    coord_y: 251.44,
     altitude_m: 40,
     source: 'Baelor - Continent.md',
     arbitrage: 'Décision de l\'auteur (2026-09-26) : lac perché inscrit au canon, origine de la rumeur de la Source de l\'Éternité ; miroir du ciel, non lac noir. Nom révisable par l\'auteur.',
-    note: 'Coordonnée relevée sur les tuiles de la carte peinte (à terre, ~0,27 u de la côte nord) ; hors du contour provisoire de Baelor dans monde-contours.json (registre §10, 2026-09-26).',
+    note: 'Centre du lac. Premier relevé sur les tuiles de la carte peinte en (67,15 ; 251,36) ; recentré le 2026-09-26 en (67,35 ; 251,44) pour l\'échelle de 0,955 km/u (décision de l\'auteur) : un lac de ~1,2 × 0,4 km (≈ 1,26 × 0,42 u) centré au premier point mordait sur l\'angle nord-ouest. À terre sur la carte peinte, hors du contour provisoire de Baelor dans monde-contours.json (registre §7 ter).',
   },
   status: 'canon', disclosure: 'interne',
 }, NOW);
@@ -136,7 +137,7 @@ if (rapport.counts.erreur) {
   echec(`${rapport.counts.erreur} erreur(s) de cohérence`);
 }
 
-console.log(`✓ ${ID} « ${NOM} » : lieu-dit (67,15 ; 251,36), corps ${body.length} car.`);
+console.log(`✓ ${ID} « ${NOM} » : lieu-dit (67,35 ; 251,44), corps ${body.length} car.`);
 console.log(`✓ rattachements : ${recsR.map((r) => r.id + ' → ' + r.to_id).join(', ')}`);
 console.log(`✓ alias ${recA.id} « ${recA.value} » (${recA.alias_status})`);
 console.log(corpsChange ? '✓ lie-0003 : part « continent » du corps resynchronisée avec la fiche' : '· lie-0003 : corps déjà à jour');

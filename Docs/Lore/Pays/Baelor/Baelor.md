@@ -151,7 +151,7 @@ Complexe monastique sur tout le flanc d'une falaise, descendant en plusieurs niv
 Second monastère, sur un promontoire face à la mer ; bastion des Veilleurs (défense côtière). Postes d'observation répartis sur la falaise, communication par drapeaux et miroirs ; les moines-guerriers les plus talentueux y perfectionnent leur art. Bâti après la Défense du Monastère de Kethros, l'attaque de Draven le Sanguinaire ayant pu approcher faute de surveillance maritime systématique ; l'Abbé de l'époque érigea l'observation permanente en forme de méditation.
 - Population : ~600 (Veilleurs ~400, apprentis ~200, aucune famille civile)
 - Région : BaelorRegion
-- Particularités : Postes d'observation sur 7 lieues de côte · Bibliothèque des Veilleurs (séparée de Baeloris depuis trois siècles) · Cellule de Sœur Kael, conservée intacte depuis sa disparition
+- Particularités : Postes d'observation sur toute la côte est · Bibliothèque des Veilleurs (séparée de Baeloris depuis trois siècles) · Cellule de Sœur Kael, conservée intacte depuis sa disparition
 
 ### Tholmë — Ville côtière et cloître
 Seul établissement non strictement monastique ressemblant à une ville ; sur la côte sud, entre marais salants et cloître creusé dans la falaise basse. Ateliers d'enluminure les plus réputés de Baelor ; communauté civile (pêcheurs, saliniers, tailleurs) plus large qu'ailleurs. Fondée ~deux siècles après Baeloris pour servir de point de contact commercial avec Tyndara, moins strictement monastique que la crique nord ; pratique orientée vers l'écriture et l'enluminure. Foyer de l'**école du Premier Voile** aux IIe et IIIe siècles, et point de départ de la retraite de treize ans d'**Hesvar** (grotte de la côte ouest).
