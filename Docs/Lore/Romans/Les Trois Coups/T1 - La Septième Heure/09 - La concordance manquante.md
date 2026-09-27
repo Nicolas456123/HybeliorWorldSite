@@ -45,9 +45,9 @@ Le scribe sortit. La porte se referma sans un bruit ; au Bureau, on huilait les
 
 ---
 
-Son vrai nom, il le connaissait. On ne l’appelait Vessa que dans les papiers de couverture. Sur l’ordre de mission qu’il avait contresigné quatre ans plus tôt, d’une main qui ne s’agrafait pas en travers, elle s’appelait Aelindra de Pyrion, capitaine, quatre infiltrations réussies, aucun échec. Il se rappelait la note qu’il avait portée en marge, à l’usage du Préfet : *La meilleure que nous ayons pour ce genre de mission. Elle ne casse rien ; elle cherche la fente qui est déjà là.*
+Son vrai nom, il le connaissait. On ne l’appelait Vessa que dans les papiers de couverture. Sur l’ordre de mission qu’il avait contresigné deux ans et une saison plus tôt, d’une main qui ne s’agrafait pas en travers, elle s’appelait Aelindra de Pyrion, capitaine, quatre infiltrations réussies, aucun échec. Il se rappelait la note qu’il avait portée en marge, à l’usage du Préfet : *La meilleure que nous ayons pour ce genre de mission. Elle ne casse rien ; elle cherche la fente qui est déjà là.*
 
-Quatre ans. Deux ans de rapports réguliers, propres, sans une fioriture, l’écriture d’une femme qui rend compte comme on rembourse une dette, au grain près. Puis le mur, net, au milieu d’une page.
+Deux ans et une saison. Deux ans de rapports réguliers, propres, sans une fioriture, l’écriture d’une femme qui rend compte comme on rembourse une dette, au grain près. Puis le mur, net, au milieu d’une page.
 
 En haut, on lui avait donné l’explication toute prête. *Prise et exécutée.* Un procès, une chaise vide, une sentence par contumace, l’affaire close. Un rapport d’exécution existait même quelque part, avec un cachet et une date. Verkan l’avait demandé.
 
@@ -97,7 +97,7 @@ Puis, en dessous, plus petit, comme ajouté après coup, d’une plume qui pour 
 
 *Je n’écris pas ceci parce que je suis sûre. Je ne suis sûre de rien. Je l’écris parce qu’un rapport faux m’est devenu impossible à signer. On a fait de moi un espion pour cela. On me tuera pour cela. Que celui qui lira ces pages sache au moins qu’elles ont été écrites par quelqu’un qui n’avait plus rien à y gagner.*
 
-*Celui qui lira ces pages.* C’était lui. Elle ne pouvait pas savoir qui la lirait, et elle lui parlait pourtant, à travers deux ans et deux frontières, à lui précisément, l’homme qui avait signé son départ et qu’on chargeait maintenant de l’effacer.
+*Celui qui lira ces pages.* C’était lui. Elle ne pouvait pas savoir qui la lirait, et elle lui parlait pourtant, à travers deux ans et une mer, à lui précisément, l’homme qui avait signé son départ et qu’on chargeait maintenant de l’effacer.
 
 Longtemps, il resta sans bouger, les quarante pages à plat sous sa main.
 

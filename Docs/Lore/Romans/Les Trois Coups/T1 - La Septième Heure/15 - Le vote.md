@@ -11,7 +11,7 @@ status: draft
 
 # Chapitre quatorze — Le vote
 
-Au pied de Tholmë, sur la grève noire, une dalle de basalte affleure le sable. Les frères l’appellent la table des Cailloux. La mer haute vient en toucher les bords et n’en couvre jamais le centre. Depuis quatre siècles, quand une chose est trop lourde pour qu’un seul homme la tienne, la communauté descend là. On ne parle pas. On pose une pierre.
+Au pied de Tholmë, sur la grève noire, une dalle de basalte affleure le sable. Les frères l’appellent la table des Cailloux. La mer haute vient en toucher les bords et n’en couvre jamais le centre. Depuis cinquante siècles, quand une chose est trop lourde pour qu’un seul homme la tienne, la communauté descend là. On ne parle pas. On pose une pierre.
 
 Vorath en avait posé toute sa vie, pour d’autres. Pour la mort d’un Abbé. Pour l’ouverture d’un cloître. Pour un frère du Second Voile qui avait demandé à reprendre la parole, et dont il avait fallu décider, sans un mot, s’il redeviendrait un homme du dehors. Jamais il n’avait pensé qu’on en poserait pour lui.
 
@@ -35,7 +35,7 @@ Trois jours. Vorath les passa à ne rien savoir.
 
 ---
 
-Le premier soir, un frère vint s’asseoir avec lui. C’était Ollam, du Premier Voile encore, à peine son âge, qui avait pris le silence tard, à quarante ans, après une vie de pêche, et qui le portait avec la maladresse de ceux qui ont trop parlé avant. Il s’assit à trois pas, les mains à plat sur les cuisses, des mains larges, fendues au bout des doigts par quarante ans de lignes mouillées. Ollam ne dirait rien, n’en ayant plus le droit. Mais il pouvait être là.
+Le premier soir, un frère vint s’asseoir avec lui. C’était Ollam, du Second Voile depuis peu, à peine son âge, qui avait pris le silence tard, à quarante ans, après une vie de pêche, et qui le portait avec la maladresse de ceux qui ont trop parlé avant. Il s’assit à trois pas, les mains à plat sur les cuisses, des mains larges, fendues au bout des doigts par quarante ans de lignes mouillées. Ollam ne dirait rien, n’en ayant plus le droit. Mais il pouvait être là.
 
 Vorath ne le regarda pas. On ne regarde pas un frère qui vient s’asseoir dans votre silence. Au bout d’un long temps, Ollam leva la main gauche et fit un geste de cellule, l’intime, celui des frères d’un même cloître : deux doigts qui montent, se séparent, reviennent.
 
@@ -121,11 +121,11 @@ Cette nuit-là, la dernière à Tholmë, il fit l’Heure Vide dans sa cellule, 
 
 Jamais il ne saurait qui c’était. Onze visages, quelque part sur l’île, qui l’avaient voulu vivant, qui le sauraient parti quand même, et qui porteraient cela en secret. Il y avait dans ces onze pierres plus de vérité sur Baelor que dans toute la nappe blanche du levant. Poser le blanc était facile quand toute l’île le posait : c’était le geste juste, le geste haut, celui qu’on savait bon. Poser le noir, seul contre l’évidence, pour la seule raison qu’on ne voulait pas perdre un frère, demandait un courage plus obscur. Onze l’avaient eu. Il les emporterait aussi : pas seulement la bénédiction de l’île, sa réticence.
 
-Il savait déjà ce que les Annales diraient : *à l’unanimité*. De ce feuillet, il connaissait d’avance le vélin épais, l’encre broyée à Thyldris qui noircit en séchant, la ligne courte qu’un frère enlumineur mettrait un mois à tracer. Elles le diraient sans mentir. Le Silence ne compte pas ses pierres, et l’Abbé, quand il scelle un consentement, ne consigne que la couleur qui l’emporte : la dalle avait dit *va*, le registre dirait *va*, et les onze noires n’y auraient pas même un chiffre. Dans mille ans, on lirait le feuillet et l’on y verrait une île d’accord avec elle-même. Ce que la marée avait recouvert ce soir-là ne serait écrit nulle part, et c’était pourtant là que Baelor se tenait tout entier.
+Il savait déjà ce que les Annales diraient : *à l’unanimité*. De ce feuillet, il connaissait d’avance le vélin épais, l’encre broyée au cloître qui noircit en séchant, la ligne courte qu’un frère enlumineur mettrait un mois à tracer. Elles le diraient sans mentir. Le Silence ne compte pas ses pierres, et l’Abbé, quand il scelle un consentement, ne consigne que la couleur qui l’emporte : la dalle avait dit *va*, le registre dirait *va*, et les onze noires n’y auraient pas même un chiffre. Dans mille ans, on lirait le feuillet et l’on y verrait une île d’accord avec elle-même. Ce que la marée avait recouvert ce soir-là ne serait écrit nulle part, et c’était pourtant là que Baelor se tenait tout entier.
 
-C’était cela qu’il emporterait vers la montagne, et que personne là-haut ne recevrait tout à fait. Ils croyaient tous les Taciti sereins parce qu’ils ne s’attachaient pas. Le jeune homme au journal le croyait ; Sera le croyait, dans sa tendresse de justicière ; la navigatrice aux mains tannées le croyait aussi, elle qui vivait déjà l’après sans peur. Ils se trompaient. On pouvait aimer un frère de tout son cœur, poser une pierre noire pour le garder, le laisser partir quand même, et faire l’Heure Vide le soir sans que la perte devînt un cri. Voilà ce que valaient quatre cents ans de falaise : on y apprenait à tenir et à lâcher du même geste.
+C’était cela qu’il emporterait vers la montagne, et que personne là-haut ne recevrait tout à fait. Ils croyaient tous les Taciti sereins parce qu’ils ne s’attachaient pas. Le jeune homme au journal le croyait ; Sera le croyait, dans sa tendresse de justicière ; la navigatrice aux mains tannées le croyait aussi, elle qui vivait déjà l’après sans peur. Ils se trompaient. On pouvait aimer un frère de tout son cœur, poser une pierre noire pour le garder, le laisser partir quand même, et faire l’Heure Vide le soir sans que la perte devînt un cri. Voilà ce que valaient cinq mille ans de falaise : on y apprenait à tenir et à lâcher du même geste.
 
-Le monde aurait à l’apprendre en une nuit. Baelor y avait mis quatre siècles, une pierre à la fois.
+Le monde aurait à l’apprendre en une nuit. Baelor y avait mis cinquante siècles, une pierre à la fois.
 
 ---
 

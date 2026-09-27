@@ -5,7 +5,7 @@ type: roman-chapitre
 partie: II
 pov: Mirathis (passé récent, automne, l'an trois avant ; Gelinar → Aethranor)
 chapitre: 17
-lieu: Gelinar puis les routes d'Ilthara (Vytharia, Gryndor, marches de Haldria)
+lieu: Gelinar puis les routes d'Ilthara (Vytharia, plaines du nord, marche haute)
 status: draft
 ---
 
@@ -63,11 +63,11 @@ Elle repartit, à moitié rassurée. Mirathis garda ce visage longtemps. C’ét
 
 ---
 
-Quitter Vytharia se fit par les routes de l’ouest, là où le Voile s’amincit et où le pays cesse peu à peu de rêver pour redevenir de la terre ordinaire. Une borne de pierre grise, une auberge, un changement dans le goût de l’eau : Mirathis passa la marche sans cérémonie et se retrouva dans Ilthara nue, le plus grand continent du monde, huit nations pressées les unes contre les autres.
+Quitter Vytharia se fit par les routes de l’ouest, là où le Voile s’amincit et où le pays cesse peu à peu de rêver pour redevenir de la terre ordinaire. Une borne de pierre grise, une auberge, un changement dans le goût de l’eau : Mirathis passa la marche sans cérémonie et se retrouva dans Ilthara nue, le plus grand continent du monde, des pays pressés les uns contre les autres.
 
 En carriole quand iel put en payer une, à pied le reste du temps. Iel évitait les arches sans savoir dire pourquoi ; son corps refusait chaque fois qu’iel s’en approchait, et chaque fois iel remettait au portail suivant le moment de céder à la fatigue et de sauter.
 
-Ce fut un rouleur de Gryndor qui le prit un soir sur sa carriole d’étoffes. Un homme large et bavard, nommé Halvec, qui montait des draps de laine aux foires de la marche haute et qui n’aimait rien tant que trouver une oreille neuve sur une route déserte.
+Ce fut un rouleur des plaines du nord qui le prit un soir sur sa carriole d’étoffes. Un homme large et bavard, nommé Halvec, qui montait des draps de laine aux foires de la marche haute et qui n’aimait rien tant que trouver une oreille neuve sur une route déserte.
 
 « Tu évites les arches », remarqua-t-il au bout d’une heure, en désignant du fouet une arche de transit qui luisait à un carrefour, à main gauche. « Trois jours qu’on en double et tu ne regardes même pas de leur côté. Les gens fatigués, d’habitude, ils sautent. Toi tu marches. Pourquoi tu marches ?
 
@@ -79,7 +79,7 @@ Ce fut un rouleur de Gryndor qui le prit un soir sur sa carriole d’étoffes. U
 
 Halvec rit et claqua la langue à l’adresse du cheval.
 
-« Tu es un de ces mystiques de la brume, hein. On m’avait dit que vous parliez tous comme ça. À l’envers. » Il n’y mettait pas de méchanceté : il avait chargé pire, sur cette route. « Tiens, puisque tu aimes les choses invisibles. Tu connais l’histoire de la Fracture ? Chez nous, à Gryndor, les savants en parlent encore, et c’est vieux, vieux comme rien du tout, personne ne sait de quand.
+« Tu es un de ces mystiques de la brume, hein. On m’avait dit que vous parliez tous comme ça. À l’envers. » Il n’y mettait pas de méchanceté : il avait chargé pire, sur cette route. « Tiens, puisque tu aimes les choses invisibles. Tu connais l’histoire de la Fracture ? Chez nous, dans les plaines, les savants en parlent encore, et c’est vieux, vieux comme rien du tout, personne ne sait de quand.
 
 — Racontez. » Mirathis remonta son manteau. Le froid venait avec le soir, sur ces hauteurs sans brume. La carriole sentait la laine neuve et le suint ; sous la bâche, les draps pliés bougeaient à chaque ornière, avec un bruit doux de chose bien rangée.
 
@@ -103,7 +103,7 @@ C’était vrai : le monde avait toujours tenu. Mirathis pensa au fil d’Orenn
 
 ---
 
-Ils se séparèrent à la marche haute, où Gryndor donne la main à Haldria et où les toits changent de pente. Halvec laissa à Mirathis un coupon de laine grise, « pour les nuits d’en haut, il y fait un froid de traître » ; Mirathis lui laissa la seule chose qu’iel avait de trop, un petit cristal onirique de Gelinar, de ceux qu’on pose près de la tempe pour adoucir le premier sommeil. Le rouleur le fit rouler dans sa grosse paume, méfiant.
+Ils se séparèrent à la marche haute, où les plaines donnent la main aux montagnes et où les toits changent de pente. Halvec laissa à Mirathis un coupon de laine grise, « pour les nuits d’en haut, il y fait un froid de traître » ; Mirathis lui laissa la seule chose qu’iel avait de trop, un petit cristal onirique de Gelinar, de ceux qu’on pose près de la tempe pour adoucir le premier sommeil. Le rouleur le fit rouler dans sa grosse paume, méfiant.
 
 « Ça fait quoi ?
 
@@ -115,7 +115,7 @@ Ils se séparèrent à la marche haute, où Gryndor donne la main à Haldria et 
 
 Halvec le rangea dans sa ceinture. Il ne s’en servirait pas, Mirathis le savait ; il le retrouverait un jour au fond d’un coffre et se rappellerait que quelqu’un avait pensé à sa peur avant lui.
 
-Les nuits d’en haut furent les pires. Sans brume, sans la grise qu’iel rationnait maintenant à cause d’Orenn, Mirathis dormait à découvert sous un ciel que rien ne voilait, et le rêve montait sans rencontrer d’obstacle. Chaque nuit la même montagne noire, très loin au sud, un mont où rien ne bougeait et d’où pourtant tout partait. Chaque nuit l’homme de dos, les sept silhouettes, puis huit avec la sienne. Et chaque nuit, à mesure qu’iel s’en éloignait par l’ouest et par le nord, le rêve gagnait une marche.
+Les nuits d’en haut furent les pires. Sans brume, sans la grise qu’iel rationnait maintenant à cause d’Orenn, Mirathis dormait à découvert sous un ciel que rien ne voilait, et le rêve montait sans rencontrer d’obstacle. Chaque nuit la même montagne noire, très loin au sud, un mont où rien ne bougeait et d’où pourtant tout partait. Chaque nuit l’homme de dos, les sept silhouettes, puis huit avec la sienne. Et chaque nuit, à mesure qu’iel s’en éloignait vers le nord, le rêve gagnait une marche.
 
 Iel n’en parla à personne. Marcher ne mettait pas une lieue entre iel et le mont : le rêve voyageait dans ses os, et il arrivait toujours avant iel.
 
@@ -141,7 +141,7 @@ Mirathis reposa sa cuillère. Personne, en dix ans, ne lui avait dit cela. Le Ce
 
 « Et si l’œil se voit dans l’image ? » dit Mirathis, très bas. « Si l’œil est dedans ? »
 
-La Veilleuse le regarda longtemps. Dehors, l’arche luisait dans la nuit, tranquille, une bouche de pierre qui attendait. Demain elle poserait Mirathis à trois mille lieues d’ici, entier·ère, fidèlement, et plus près de la montagne noire.
+La Veilleuse le regarda longtemps. Dehors, l’arche luisait dans la nuit, tranquille, une bouche de pierre qui attendait. Demain elle poserait Mirathis à deux cents lieues d’ici, entier·ère, fidèlement, et plus loin encore de la montagne noire.
 
 « Alors », dit-elle enfin, et pour la première fois quelque chose vacilla dans son regard nu, « alors tu n’es plus seulement un œil. Et je ne connais pas de mot pour ce que tu es. On ne l’a pas cousu, celui-là, dans le Grand Tissu. » Elle se leva, reprit le bol vide. « Dors ici. Tu sauteras demain, à la lumière. Pas la nuit, pas avec le noir déjà plein la tête. »
 
@@ -155,4 +155,4 @@ Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire ; et dan
 
 Iel ressortit à Galenor, sur la pierre bleue d’Aethranor, dans une ville dure et claire, où le ciel tombait droit sur les toits.
 
-Et ce matin-là, la chose qui n’avait que des mains prit le seul voyageur qui lui eût jamais demandé pardon, le défit, le rendit entier trois mille lieues plus loin, et n’en garda rien.
+Et ce matin-là, la chose qui n’avait que des mains prit le seul voyageur qui lui eût jamais demandé pardon, le défit, le rendit entier deux cents lieues plus loin, et n’en garda rien.

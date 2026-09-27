@@ -13,7 +13,7 @@ status: draft
 
 Vorath n’avait jamais prié pour que le monde finisse. Pendant quarante ans, il avait écouté, rien d’autre. Puis l’écoute lui avait rendu une chose qu’il n’avait pas demandée.
 
-Assis dans sa cellule de Tholmë, à l’heure où la lumière n’avait pas encore atteint la troisième pierre du seuil, le dos contre la paroi et sa natte pliée en quatre sous lui contre le froid, il attendait l’aube. Le sommeil ne venait plus guère. Certains frères ont le feu des Veilleurs, celui qui les brûle et les couche jeunes dans la roche ; cet honneur-là n’était pas le sien. Sa raison à lui était plus simple : la chose qu’il portait ne le laissait pas dormir, et elle n’avait pas de nom parce qu’il refusait de lui en donner un.
+Assis dans sa cellule de Tholmë, à l’heure où la lumière n’avait pas encore atteint la troisième pierre du seuil, le dos contre la paroi et sa natte pliée en quatre sous lui contre le froid, il attendait l’aube. Le sommeil ne venait plus guère. Certains frères ont le feu des guetteurs de la côte, celui qui les brûle et les couche jeunes dans la roche ; cet honneur-là n’était pas le sien. Sa raison à lui était plus simple : la chose qu’il portait ne le laissait pas dormir, et elle n’avait pas de nom parce qu’il refusait de lui en donner un.
 
 À Baelor, on n’en donnait guère. On disait *cela*. On disait *ce qui*. Un apprenti qui nommait trop précisément se voyait reprendre d’un geste, deux doigts qui se referment : *tu serres trop fort.* Vorath avait mis des années à désapprendre les noms, et il n’en avait aucun, ce matin-là, pour ce qu’il portait.
 
@@ -31,7 +31,7 @@ Un Silentii du Second Voile est dit confirmé quand il n’a plus parlé depuis 
 
 Le dehors trouvait cela pittoresque quand il ne le trouvait pas fou. Le dehors ne savait pas qu’on entendait.
 
-Pas des voix. Vorath se méfiait des frères qui entendaient des voix ; il y en avait, à Thyldris surtout, chez les Veilleurs qui scrutent l’horizon si longtemps qu’ils finissent par y voir ce qu’ils portent. Certains attendaient un retour, guettaient sur la mer une chose qui reviendrait, et avaient cessé d’écouter. Ce que Vorath entendait était un fond, une texture, la rumeur très basse de tout ce qui est, quand on cesse de la couvrir avec le bruit qu’on fait pour ne pas l’entendre.
+Pas des voix. Vorath se méfiait des frères qui entendaient des voix ; il y en avait, sur la côte est surtout, chez les frères qui scrutent l’horizon si longtemps qu’ils finissent par y voir ce qu’ils portent. Certains attendaient un retour, guettaient sur la mer une chose qui reviendrait, et avaient cessé d’écouter. Ce que Vorath entendait était un fond, une texture, la rumeur très basse de tout ce qui est, quand on cesse de la couvrir avec le bruit qu’on fait pour ne pas l’entendre.
 
 Depuis quelques années, ce fond avait changé.
 
@@ -75,11 +75,11 @@ L’argument était fort. Il ne l’avait pas retourné pour autant, car Vorath 
 
 Un silence.
 
-Verithan, mort mille ans plus tôt à Endora, Vide traité de Vide toute sa vie, avait écrit *silence*. Au bout de toutes ses thèses, sa conclusion était un silence. Par la philosophie, il était arrivé là où les Silentii arrivent en se taisant, et il ne savait pas que l’endroit avait un nom.
+Verithan, né mille ans plus tôt à Endora, Vide traité de Vide toute sa vie, avait écrit *silence*. Au bout de toutes ses thèses, sa conclusion était un silence. Par la philosophie, il était arrivé là où les Silentii arrivent en se taisant, et il ne savait pas que l’endroit avait un nom.
 
 Vorath sut ce soir-là qu’il irait. Il ignorait si Verithan avait raison, et il se méfiait de ceux qui le savaient. Il irait parce que le monde tenait à un fil, qu’il l’entendait chanter depuis des années, et qu’un homme sans nom se proposait de le couper devant témoins plutôt que d’attendre qu’il cédât une nuit, tout seul, sans que personne sût pourquoi.
 
-Une autre raison le poussait, qu’il n’aurait avouée à personne. Si le fil cédait, il faudrait des gens qui sachent habiter un monde sans lien. Un seul peuple d’Hybelior s’y préparait depuis quatre siècles sans l’avoir cherché : celui qui avait refusé ce que les autres appelaient une bénédiction. Quand tout se tairait, les frères de Baelor ne remarqueraient peut-être même pas qu’une chose s’était tue.
+Une autre raison le poussait, qu’il n’aurait avouée à personne. Si le fil cédait, il faudrait des gens qui sachent habiter un monde sans lien. Un seul peuple d’Hybelior s’y préparait depuis cinquante siècles sans l’avoir cherché : celui qui avait refusé ce que les autres appelaient une bénédiction. Quand tout se tairait, les frères de Baelor ne remarqueraient peut-être même pas qu’une chose s’était tue.
 
 Vorath crut d’abord qu’il partait chercher un avertissement pour les siens. Le vote lui apprit le contraire.
 
@@ -93,7 +93,7 @@ Puis on fit silence. Trois jours.
 
 Trois jours pendant lesquels Vorath ne sut rien. Il balaya sa cellule, qui n’en avait pas besoin, et refit deux fois le trajet du puits avec la même cruche. Le deuxième matin, quelqu’un avait laissé devant sa porte un bol de riz couvert d’un linge ; il ne sut jamais qui, et il le mangea froid, assis sur le seuil, à regarder le sentier du quai. Les frères passaient devant sa porte sans le regarder et sans l’éviter ; ils vaquaient, ils méditaient, ils faisaient l’Heure Vide. Et toute l’île, ces trois jours-là, tenait la même question dans le même noir. Cela s’entendait à la lenteur des pas dans les couloirs, à la façon dont l’air était tenu.
 
-Le troisième soir, l’Abbé Suprême vint jusqu’à sa cellule. Cela ne s’était jamais vu. L’Abbé ne se déplace pas ; on monte vers lui, jusqu’à la Salle ouverte au ciel. Le vieil homme se tint sur le seuil, et fit un geste hors de tout registre, que Vorath n’avait vu qu’une fois dans sa vie, à la mort de son Maître, et qu’on ne peut pas apprendre parce qu’on ne l’enseigne pas : la main ouverte, paume vers le haut, qui se retourne lentement et s’ouvre vers le dehors, vers la mer.
+Le troisième soir, quand la grève eut rendu sa réponse, l’Abbé Suprême vint jusqu’à sa cellule. Cela ne s’était jamais vu. L’Abbé ne se déplace pas ; on monte vers lui, jusqu’à la Salle ouverte au ciel. Le vieil homme se tint sur le seuil, et fit un geste hors de tout registre, que Vorath n’avait vu qu’une fois dans sa vie, à la mort de son Maître, et qu’on ne peut pas apprendre parce qu’on ne l’enseigne pas : la main ouverte, paume vers le haut, qui se retourne lentement et s’ouvre vers le dehors, vers la mer.
 
 *Va,* disait la main. *Nous t’avons entendu. Va, et emporte-nous.*
 
@@ -101,7 +101,7 @@ Vorath appuya la paume ouverte sur sa poitrine et inclina la tête. *Je vous emp
 
 L’Abbé le regarda encore, longtemps, et il y avait dans ce regard une chose que Vorath ne s’attendait pas à y trouver et qui le tint éveillé cette nuit-là comme aucune peur ne l’avait fait. De la pitié. Le vieil homme savait ce qu’il l’envoyait faire, et il l’envoyait quand même. Puis il remonta vers le ciel, et le silence se referma derrière lui.
 
-Vorath comprit dans le même instant ce qu’on lui demandait, et que ce n’était pas ce qu’il avait cru. Les siens étaient prêts depuis quatre siècles ; ils n’avaient pas besoin d’être prévenus. On l’envoyait porter Baelor jusqu’au sommet, pour qu’il y ait là-haut, parmi ceux qui feraient le geste ou le regarderaient faire, un homme qui eût vécu sans le Lien toute sa vie ; et pour que, le jour où tout se tairait, cet homme pût s’asseoir auprès du premier venu, poser la main sur la pierre à côté de lui, et lui montrer sans un mot qu’on peut y vivre.
+Vorath comprit dans le même instant ce qu’on lui demandait, et que ce n’était pas ce qu’il avait cru. Les siens étaient prêts depuis cinquante siècles ; ils n’avaient pas besoin d’être prévenus. On l’envoyait porter Baelor jusqu’au sommet, pour qu’il y ait là-haut, parmi ceux qui feraient le geste ou le regarderaient faire, un homme qui eût vécu sans le Lien toute sa vie ; et pour que, le jour où tout se tairait, cet homme pût s’asseoir auprès du premier venu, poser la main sur la pierre à côté de lui, et lui montrer sans un mot qu’on peut y vivre.
 
 Il aurait dû être écrasé. Ce qu’il éprouva ressemblait à du soulagement. On lui confiait exactement le poids qu’il savait porter. Les frères s’offraient à travers lui. Ne pouvant monter tous la montagne, ils en envoyaient un, comme on scelle une lamelle et qu’on la confie à la mer.
 

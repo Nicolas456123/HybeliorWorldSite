@@ -177,7 +177,7 @@ Le prénom, elle l’écrivit. *Ísae.* Sous le prénom, la plume s’arrêta.
 
 Tout ce qu’elle avait dit ce soir à l’homme venu de la pluie, elle l’avait dit pour Ísae, et pas une de ces phrases ne pouvait aller jusqu’à elle. *Ma sœur, un homme est venu ce soir, et je lui ai donné mon accord pour défaire le monde, et je l’ai fait pour toi, et tu ne dois surtout pas le savoir.* On n’écrit pas cela.
 
-L’encre sécha sur la plume. Longtemps, elle resta devant le prénom seul en haut de la page. Puis elle reposa la plume, plia la feuille sans l’avoir noircie davantage et la glissa au fond d’un tiroir. Ce serait la première d’une longue suite ; elle ne le savait pas encore. La dernière viendrait trente ans plus tard, et elle la porterait contre son cœur sans jamais la remettre.
+L’encre sécha sur la plume. Longtemps, elle resta devant le prénom seul en haut de la page. Puis elle reposa la plume, plia la feuille sans l’avoir noircie davantage et la glissa au fond d’un tiroir. Ce serait la première d’une longue suite ; elle ne le savait pas encore. La dernière viendrait quelques années plus tard, et elle la porterait contre son cœur sans jamais la remettre.
 
 Elle souffla la lampe. Dans le noir, par vieux réflexe orvane, elle lança le fil vers la maison de sa sœur, de l’autre côté de la colline.
 

@@ -75,7 +75,7 @@ Sans demander qui, il souffla la chaleur d’entre ses dents et regarda le feu.
 
 *
 
-Vhaeran envoyait ; il ne descendait pas dans le quartier bas. Ses hommes étaient venus une première fois trois mois plus tôt. À cette remise, à ce feu, ils avaient trouvé Drakhan forgeant sans licence comme il forgeait depuis quatre ans. La première fois, ils avaient prévenu poliment. La deuxième, ils briseraient les outils. La troisième, on ne savait pas : il n’y en eut jamais, parce que les hommes de Vhaeran n’avaient pas prévu une chose.
+Vhaeran envoyait ; il ne descendait pas dans le quartier bas. Ses hommes étaient venus une première fois trois mois plus tôt. À cette remise, à ce feu, ils avaient trouvé Drakhan forgeant sans licence comme il forgeait depuis six ans. La première fois, ils avaient prévenu poliment. La deuxième, ils briseraient les outils. La troisième, on ne savait pas : il n’y en eut jamais, parce que les hommes de Vhaeran n’avaient pas prévu une chose.
 
 Il était Lié.
 
@@ -205,7 +205,7 @@ Mais Kessa était encore chaude.
 
 C’était ce qu’il voyait en regardant la barre reprendre couleur : sa fille était encore au feu, encore malléable, encore capable de devenir autre chose que la rage dont il l’avait remplie sans le vouloir. Elle ne demandait plus qu’il renonçât ; elle avait cessé de le demander, trop honnête pour mendier ce qu’elle savait ne pas pouvoir obtenir. Une seule chose, en fait : qu’il ne l’emportât pas avec lui. Qu’il laissât dans les cendres un feu de forge à la place de sa colère.
 
-La barre sortit du feu, mûre, et il la posa sur l’enclume. Avant de frapper, il fit une chose qu’il n’avait pas faite depuis quatre ans, depuis la place du Marteau : les yeux fermés, il chercha en lui la chaleur, la vraie, celle de la Voie de Khatun, et la fit monter en calme. Le foyer répondit par une seule flamme haute et droite, paisible, qui monta vers les poutres sans les roussir et redescendit, docile, à un souffle de son esprit.
+La barre sortit du feu, mûre, et il la posa sur l’enclume. Avant de frapper, il fit une chose qu’il n’avait pas faite depuis six ans, depuis la place du Marteau : les yeux fermés, il chercha en lui la chaleur, la vraie, celle de la Voie de Khatun, et la fit monter en calme. Le foyer répondit par une seule flamme haute et droite, paisible, qui monta vers les poutres sans les roussir et redescendit, docile, à un souffle de son esprit.
 
 Kessa la regarda monter. Jamais elle n’avait vu son père appeler le feu de cette façon-là.
 

@@ -14,7 +14,7 @@ Nera aimait l’arche à l’heure où personne ne la traversait.
 
 Avant l’aube, elle montait seule les quarante-trois marches du seuil oriental, sa lampe à la main, et s’asseyait sur le banc de garde pour attendre le jour. La pierre rendait au ciel le froid pris à la nuit. En contrebas, Aethranor n’était encore qu’un champ de braises couvées ; les toits descendaient en gradins vers le fleuve, le Grand Portail dressait au loin son arche pâle contre le premier gris, et la plaine s’en allait se perdre au sud. Il faisait froid. Ça sentait la pierre bleue et la fumée éteinte. Elle tenait ses mains autour de sa lampe et ne pensait à rien.
 
-À cette heure-là, l’arche était juste une arche : deux montants de pierre ancienne et un linteau, plantés au bord de la terrasse, ouverts sur la vue. Puis le jour montait pour de bon. La première caravane s’annonçait longtemps à l’avance par le grondement de ses roues sur la rampe, on entendait les bêtes souffler dans la montée et le charretier leur parler comme on parle à des gens, et l’arche redevenait ce qu’elle était : un trou dans le monde, poli par cinq siècles de passage, par lequel on entrait à Aethranor pour ressortir à trois cents lieues de là sans avoir marché.
+À cette heure-là, l’arche était juste une arche : deux montants de pierre ancienne et un linteau, plantés au bord de la terrasse, ouverts sur la vue. Puis le jour montait pour de bon. La première caravane s’annonçait longtemps à l’avance par le grondement de ses roues sur la rampe, on entendait les bêtes souffler dans la montée et le charretier leur parler comme on parle à des gens, et l’arche redevenait ce qu’elle était : un trou dans le monde, poli par cinq siècles de passage, par lequel on entrait à Aethranor pour ressortir à quatre cents lieues de là sans avoir marché.
 
 Quarante ans. Dix-huit à ce seuil. Les ingénieurs de la Charte montaient une fois l’an mesurer la résonance avec leurs instruments de cuivre et repartaient avec des chiffres ; elle savait de son arche des choses que leurs chiffres ne disaient pas. À quelle fraîcheur d’aube elle rendait le meilleur passage. Qu’elle boudait par grand vent d’est, et qu’il fallait alors laisser un battement de plus entre les voyageurs. Et le bruit qu’elle faisait, surtout, car l’arche grinçait.
 
@@ -26,7 +26,7 @@ Les voyageurs sursautaient, la première fois. Sa phrase était prête avant qu�
 
 Ils repartaient rassurés. Le grincement restait, du matin au soir, dix-huit ans de suite.
 
-Le premier voyageur du matin fut le porteur d’eau de Sulvane. Un habitué : il traversait deux fois par jour pour vendre à Aethranor l’eau de source de sa vallée, trois cents lieues abolies pour un tonneau qui valait ici dix fois son prix parce qu’il ne venait pas du fleuve. Il posa sa charge, souffla, s’essuya le front d’un revers.
+Le premier voyageur du matin fut le porteur d’eau de Sulvane. Un habitué : il traversait deux fois par jour pour vendre à Aethranor l’eau de source de sa vallée, quatre cents lieues abolies pour un tonneau qui valait ici dix fois son prix parce qu’il ne venait pas du fleuve. Il posa sa charge, souffla, s’essuya le front d’un revers.
 
 « Elle est de bonne humeur, ce matin ? demanda-t-il, comme chaque jour.
 
@@ -42,7 +42,7 @@ Un trait sur le registre. Il y en aurait quatre ou cinq cents avant le soir.
 
 On imaginait mal son métier quand on ne le faisait pas. Les gens croyaient qu’elle ouvrait le portail, qu’elle avait une clé, un mot. Le portail était toujours ouvert, il l’avait toujours été. Elle veillait, c’était tout. Régler le flux pour que deux corps ne s’engagent jamais ensemble, car deux corps ensemble dans le seuil, disaient les vieilles consignes, ne ressortent pas toujours deux. Refuser le passage aux mourants qu’on voulait faire traverser pour qu’ils rendent l’âme au pays : le règlement l’interdisait, et elle n’avait jamais eu envie d’essayer. Et écouter l’arche. Ça, surtout.
 
-Le soleil monta, la terrasse s’anima. En contrebas, Aethranor déployait sa matinée : les cloches de l’Académie sonnant les heures d’étude, les cris des marchands du bas quartier, l’odeur du pain montant des fours communaux et se mêlant à l’odeur froide de la pierre bleue. À un portail régional comme le sien, on voyait passer l’eau, le sel, les lettres, les gens qui vont voir leur fille, jamais les empires. Pour eux, l’arche était un pont. Cinq siècles plus tôt, un homme aurait mis un mois à faire ce que le porteur faisait deux fois par jour sans y penser. Maintenant : un pas, un grincement, et l’on était de l’autre côté. Elle en gardait une porte.
+Le soleil monta, la terrasse s’anima. En contrebas, Aethranor déployait sa matinée : les cloches de l’Académie sonnant les heures d’étude, les cris des marchands du bas quartier, l’odeur du pain montant des fours communaux et se mêlant à l’odeur froide de la pierre bleue. À un portail régional comme le sien, on voyait passer l’eau, le sel, les lettres, les gens qui vont voir leur fille, jamais les empires. Pour eux, l’arche était un pont. Cinq siècles plus tôt, un homme aurait mis deux mois et demi à faire ce que le porteur faisait deux fois par jour sans y penser. Maintenant : un pas, un grincement, et l’on était de l’autre côté. Elle en gardait une porte.
 
 La vieille Maldre arriva sur le coup de la troisième cloche, comme chaque semaine, essoufflée d’avoir monté les marches et déjà pleine de nouvelles.
 
@@ -80,7 +80,7 @@ Il se figea, agacé. « Il y a un problème ?
 
 — Le vent d’est s’est levé pendant que vous parliez. » C’était vrai : une brise venait de faire claquer le coin du drap plié sur le banc. « Elle boude, par vent d’est. Je vous laisse un battement de plus, sinon elle vous secoue. Deux jours de marche, ça ne fait pas ça. »
 
-Nera avait dit cela sans lever les yeux du registre, du ton dont elle annonçait les retards. Le garçon rougit et ne trouva rien à répondre. Elle attendit le temps qu’il fallait, le temps de l’arche, puis le laissa passer d’un signe. Grincement. La fille, en franchissant à son tour, croisa son regard, et il y eut quelque chose comme une excuse dans ses yeux. Sa gêne partit avec elle à trois cents lieues. Ce garçon n’avait jamais porté d’eau à personne.
+Nera avait dit cela sans lever les yeux du registre, du ton dont elle annonçait les retards. Le garçon rougit et ne trouva rien à répondre. Elle attendit le temps qu’il fallait, le temps de l’arche, puis le laissa passer d’un signe. Grincement. La fille, en franchissant à son tour, croisa son regard, et il y eut quelque chose comme une excuse dans ses yeux. Sa gêne partit avec elle à quatre cents lieues. Ce garçon n’avait jamais porté d’eau à personne.
 
 Trois soldats du Dominat se présentèrent ensuite, papiers en règle. Le règlement voulait qu’une réquisition passe en tête ; elle les fit avancer, et le vannier qui attendait depuis la deuxième cloche recula d’un pas sans qu’on ait à le lui dire.
 
@@ -132,7 +132,7 @@ Le soir tomba ; la file se tarit. Le porteur d’eau repassa en sens inverse, s
 
 « Elle t’a bien porté ? lui lança Nera.
 
-— Comme une mère. » Une main sur le montant, il la regarda d’un air que la fatigue rendait grave. « Tu sais ce que je me dis, des fois, en la passant ? Que si un matin elle n’était plus là, je ne saurais même pas rentrer chez moi. Trois cents lieues à pied. Je ne connais plus le chemin long. Personne ne le connaît plus. »
+— Comme une mère. » Une main sur le montant, il la regarda d’un air que la fatigue rendait grave. « Tu sais ce que je me dis, des fois, en la passant ? Que si un matin elle n’était plus là, je ne saurais même pas rentrer chez moi. Quatre cents lieues, et deux bras de mer au milieu. Je ne connais plus le chemin long. Personne ne le connaît plus. »
 
 Il avait dit cela du ton dont on donne le prix du grain, et il descendit les marches sans attendre de réponse.
 

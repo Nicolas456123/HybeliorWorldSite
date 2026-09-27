@@ -13,7 +13,7 @@ status: draft
 
 À Gelinar, on savait l’heure sans voir le ciel. La brume ne s’ouvrait jamais assez pour montrer le soleil, mais elle changeait de densité au fil du jour : épaisse et laiteuse le matin, plus fine et grise à midi, presque bleue le soir. Un enfant de Gelinar apprenait à lire ces épaisseurs comme un enfant d’ailleurs apprend à lire une horloge. Mirathis avait grandi là, dans cette lumière qui n’en était pas une, à trois maisons du dernier champ d’encens avant que la brume ne devînt trop lourde pour qu’on y cultivât quoi que ce fût.
 
-Ce soir-là, iel n’était pas à Gelinar. Assis·e sur le seuil de sa chambre, à l’auberge des Voyageurs Lents, à trois mille lieues de la brume, c’était cette pierre-là sous ses cuisses qu’iel s’efforçait de tenir. Aethranor sentait la pierre bleue et le charbon. Rien de l’encens, rien de la brume. Une ville dure, claire, qui montrait son ciel. Mirathis n’aimait pas les villes qui montraient leur ciel ; iel les trouvait menteuses, à leur manière, parce qu’elles laissaient croire qu’il n’y avait rien entre le regard et l’étoile.
+Ce soir-là, iel n’était pas à Gelinar. Assis·e sur le seuil de sa chambre, à l’auberge des Voyageurs Lents, à quatre cents lieues de la brume, c’était cette pierre-là sous ses cuisses qu’iel s’efforçait de tenir. Aethranor sentait la pierre bleue et le charbon. Rien de l’encens, rien de la brume. Une ville dure, claire, qui montrait son ciel. Mirathis n’aimait pas les villes qui montraient leur ciel ; iel les trouvait menteuses, à leur manière, parce qu’elles laissaient croire qu’il n’y avait rien entre le regard et l’étoile.
 
 Deux nuits sans sommeil, déjà. Ce soir non plus iel ne dormirait pas comme dorment les gens qui ont le droit de fermer les yeux sans savoir ce qu’ils vont trouver derrière.
 
@@ -107,7 +107,7 @@ Thessan resta un long moment sans répondre, les yeux sur ellui. Il avait une th
 
 — Posez-la.
 
-— Si tu savais, avec certitude, la certitude d’une chose déjà arrivée, pas l’espoir ni la crainte, la *certitude*, que ce que nous montons faire au sommet de ce mont arrivera de toute façon, avec nous ou sans nous, dans trois ans, quoi que nous décidions ici… est-ce que tu monterais quand même ? »
+— Si tu savais, avec certitude, la certitude d’une chose déjà arrivée, pas l’espoir ni la crainte, la *certitude*, que ce que nous montons faire au sommet de ce mont arrivera de toute façon, avec nous ou sans nous, dans trois mois, quoi que nous décidions ici… est-ce que tu monterais quand même ? »
 
 Thessan regardait ses mains. La chandelle de la cour tremblait dans un courant d’air, et l’ombre du jeune homme s’allongeait puis se raccourcissait sur les pavés.
 
@@ -153,6 +153,6 @@ Thessan leva les yeux, et Mirathis vit que le garçon retenait la phrase, qu’i
 
 — Un peu. C’est tout ce qu’on m’accorde. » Sur le seuil, iel eut un dernier sourire, fatigué et sans amertume. « C’est déjà plus que ce qu’on accorde au monde. »
 
-Iel rentra dans la chambre. À travers la porte mince, iel entendit la plume de Thessan reprendre dans la cour, régulière, obstinée, un petit bruit de vivant qui refuse de se taire. Iel s’allongea sans se dévêtir, dans un noir qui n’était pas la brume de Gelinar mais qui ferait l’affaire, et ferma les yeux sur une ville dure qui montrait son ciel, à trois mille lieues d’un champ d’encens, à trois ans d’une montagne noire, trois ans, deux ans, un an, les marches qui restaient ; et iel se laissa descendre, à contrecœur, vers ce que les rêves savaient déjà et qu’iel serait, encore une fois, seul·e à porter jusqu’au matin.
+Iel rentra dans la chambre. À travers la porte mince, iel entendit la plume de Thessan reprendre dans la cour, régulière, obstinée, un petit bruit de vivant qui refuse de se taire. Iel s’allongea sans se dévêtir, dans un noir qui n’était pas la brume de Gelinar mais qui ferait l’affaire, et ferma les yeux sur une ville dure qui montrait son ciel, à quatre cents lieues d’un champ d’encens, à trois mois d’une montagne noire, trois mois, deux mois, un mois, les marches qui restaient ; et iel se laissa descendre, à contrecœur, vers ce que les rêves savaient déjà et qu’iel serait, encore une fois, seul·e à porter jusqu’au matin.
 
 Sous une montagne que Mirathis n’avait jamais vue qu’en dormant, la chose qui allait mourir dormait elle aussi, sans un rêve pour l’avertir, et elle porta jusqu’au matin ce qu’elle portait la veille.

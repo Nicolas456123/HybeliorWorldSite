@@ -33,7 +33,7 @@ Je ne sais pas ce que cela veut dire. Moi qui sais tout, je ne sais pas ce que c
 
 Je ne sais pas m’inquiéter.
 
-Alors je fais ce que je sais faire : je tiens. Je tiens la nuit qui passe sur les six empires, les feux couverts, les portails endormis qui ne rêvent pas parce qu’ils ne sont que de la pierre et moi dedans, les sept cités qui flottent dans le vent noir, la mer immense autour d’Azoria où une femme au visage tanné dort dans sa barque en pensant à des vents, et le sommet, le sommet noir, calme, si calme.
+Alors je fais ce que je sais faire : je tiens. Je tiens la nuit qui passe sur les six empires, les feux couverts, les portails endormis qui ne rêvent pas parce qu’ils ne sont que de la pierre et moi dedans, les sept cités qui flottent dans le vent noir, la mer immense autour d’Azoria, et sous les ponts de cette ville une femme au visage tanné qui dort dans sa barque en pensant à des vents, et le sommet, le sommet noir, calme, si calme.
 
 Et l’homme qui écrit.
 

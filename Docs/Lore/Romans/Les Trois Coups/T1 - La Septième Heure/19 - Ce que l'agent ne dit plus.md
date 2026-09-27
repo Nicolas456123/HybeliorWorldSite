@@ -103,7 +103,7 @@ Thevin lut. Celethor : Vessa. Puis Baelor, un agent infiltré chez les Silencie
 
 — On l’envoie chez des gens qu’on lui a décrits comme dangereux, et il écrit *inoffensifs* avant de demander à partir. » Verkan laissa la phrase se poser. « Continuez. »
 
-Aethranor : un homme placé sur les cercles d’érudits de l’Académie, silencieux depuis dix-huit mois. Azoria : une agente sur les Ligues marchandes d’Everthor, les financements douteux, l’argent qui bouge sans marchandise. Puis Cendara.
+Aethranor : un homme placé sur les cercles d’érudits de l’Académie, silencieux depuis dix-huit mois. Evertia : une agente sur la Ligue marchande d’Everthor, les financements douteux, l’argent qui bouge sans marchandise. Puis Cendara.
 
 « Un agent aux forges. Il rapporte qu’un maître écrasé par le monopole d’un noble-Lié prêtait l’oreille à d’autres discours.
 
@@ -169,7 +169,7 @@ Il n’en était pas resté là. Voilà où était le mal.
 
 Les nuits suivantes, les pages brûlées avaient continué de se rouvrir en lui. Il se réveillait avec une phrase entière derrière les yeux, à la virgule près, et ne parvenait plus à la rendormir. Un soir, il avait pris une plume et recommencé le travail qu’il croyait avoir achevé : quarante pages recopiées de mémoire, dans son écriture serrée, chaque thèse, chaque objection, la ligne où elle avait tremblé. Pour l’enquête, se disait-il, pour tenir la pièce au dossier. Il ne voulait pas être le seul homme vivant à avoir lu cela et à l’avoir laissé mourir sans trace.
 
-Rouvrant sa copie à la première page, il retrouva sous sa propre encre l’autre écriture, telle qu’elle était restée dans sa mémoire : une main d’officier, droite, sans ornement, chaque lettre à sa place comme un soldat au garde-à-vous. Il l’avait connue, jadis. C’était lui qui avait signé son ordre de mission, des années plus tôt, dans une salle qui sentait la cire. *Vous la trouverez, capitaine. Il y en a toujours une, une faille.* Il le pensait sincèrement ce jour-là, et il le pensait encore : il avait défait beaucoup de mouvements sans une lame, rien qu’en trouvant la pourriture et en la posant sur la table.
+Rouvrant sa copie à la première page, il retrouva sous sa propre encre l’autre écriture, telle qu’elle était restée dans sa mémoire : une main d’officier, droite, sans ornement, chaque lettre à sa place comme un soldat au garde-à-vous. Il l’avait connue, jadis. C’était lui qui avait contresigné son ordre de mission, des années plus tôt, dans une salle qui sentait la cire, pendant que le Préfet disait devant la carte : *Vous la trouverez, capitaine. Il y en a toujours une, une faille.* Il le pensait sincèrement ce jour-là, et il le pensait encore : il avait défait beaucoup de mouvements sans une lame, rien qu’en trouvant la pourriture et en la posant sur la table.
 
 Aelindra n’avait pas trouvé de pourriture. Il avait recopié ses mots à la troisième page, dans les termes exacts où elle les avait écrits, du ton sec d’un rapport de terrain qui contredit l’ordre reçu.
 
