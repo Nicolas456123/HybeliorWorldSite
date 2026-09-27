@@ -3,7 +3,7 @@ tags: [lore, canon, méta, décisions, mystères, référence, terminologie]
 type: lore
 status: canon
 date: 2026-07-16
-last_review: 2026-07-16
+last_review: 2026-09-26
 needs_review_for: []
 ---
 
@@ -44,6 +44,14 @@ Quand deux sources se contredisent, l'ordre de priorité par défaut est : **Chr
 - **Ce qui reste unique et protégé, ce n'est jamais *le fait* de la déchirure** (récurrent par nature), **mais *sa cause* à chaque déchirure** — les lectures concurrentes (Partie 2) sont intactes.
 - La cyclicité est portée par les **images natives d'Hybelior** — la *respiration* du Souffle, la *marée* qui monte et se retire — et non par « la roue » (une lecture parmi les neuf, celle des Rota Mundi). Différenciateurs assumés : le Souffle **ne rejoue jamais deux fois la même Ère à l'identique**, la **mémoire est préservée**, et **chaque déchirure a une cause différente et inconnaissable**.
 
+### L'échelle du monde (décision de l'auteur, 26 septembre 2026)
+
+- **Mille kilomètres d'une mer à l'autre.** Les 1 047 unités de la carte font 1 000 km au plus : **1 unité ≈ 0,955 km**. La lieue reste l'unité du récit (≈ 4 km ≈ 4,19 unités) ; le monde compte donc environ deux cent cinquante lieues de bord à bord. Remplace le calage du 25 septembre (1 unité = 1 lieue). **L'échelle ne bouge pas : c'est le texte qui s'adapte**, au canon dominant. Atrium `lie-1059` (`data.echelle_carte`, ancien calage en historique) ; relevé des écarts au registre des incohérences, §14.
+- **Les chiffres de taille qui dépassent la carte sont nuls** : la carte de l'auteur fait foi, et la mesure à écrire est donnée au registre (Baelor « ~300 × 150 lieues », Ulinor « ~1 200 km », les « trois cents lieues » de côtes effondrées de Cendara, les « cinq cents lieues de mer » d'Arkhen…).
+- **Le calendrier des récits reste.** Quand l'écart entre deux dates dépasse de beaucoup le temps de route, le surplus est un séjour, tant que le texte ne dit pas que ce temps s'est passé sur la route. Seules les durées de trajet que le texte annonce sont à reprendre (liste au registre).
+- **« À mille lieues »** est une figure et le reste : le monde n'en compte que deux cent cinquante.
+- **Baelor, ~10 km sur 8**, une cinquantaine de km² : fiche du continent corrigée (taille, côte nord de ~8 km), postes de Thyldris « sur toute la côte est ». **Pas de lac à l'intérieur de l'île**, seulement des mares de tourbière de 10 à 50 m (canon dominant : « pas de lac noir au cœur de l'île ») ; le seul lac est Ce-qui-rend-le-ciel, perché sur la côte. Baeloris ramenée sur sa crique de la côte nord (`lie-0237`, (69,50 ; 251,05)) ; marqueur de l'île posé en son centre (`lie-0003`, (70,4 ; 255,8)). Trace dans `lie-0003` (`data.arbitrage`).
+
 ### Décisions locales
 
 - **Trio Cendara — noms distincts (L1).** Continent **Cendara** / nation **Brumaria** (ex-« nation Cendara » des Chroniques, capitale Brumaris) / bourg **Taldre** (au pied du Mont, où vit Renna — T3). **Cendral** est réservé à l'ancienne cité enfouie à l'An 0 ([[Era 4 - L'Arrachement]]). Carte politique du continent : **Brumaria · Pyrevane · Arkhen**. Compte des nations d'Hybelior : **47** (dont 3 zones « No Man's Land »). *Principe : les homonymies accidentelles se renomment ; les homonymies délibérées de la Partie 2 se conservent, glosées.*
@@ -51,6 +59,7 @@ Quand deux sources se contredisent, l'ordre de priorité par défaut est : **Chr
 - **Silence de Lunasar** : trois jours, masque **temporaire** — distinct du masque **permanent** de Nysaria.
 - **Mont Jumeau** : la Chronologie dit « aucune expédition **parvenue aux académies** avant le dépôt de Sorin » (nuance, plutôt que reflouer le texte).
 - **Renommages de romans** : inquisiteur du T1 **Velkar → Verkan Sorne** (patronyme Sorne conservé) ; caste du T2 normalisée en **Tisse** (invariable) ; victimes **récentes** de la Guerre de l'Ombre du T3 renommées (Serathis→Vyntaris, Davan→Nevran, Solva→Ysendre, Uveth→Vharok, Mira→Selvir, Pyrak→Ostrek), les noms **historiques** d'Era 7 conservés.
+- **Lac perché de Baelor, Ce-qui-rend-le-ciel (décision de l'auteur, 26 septembre 2026).** Un lac entre au canon à l'angle nord-ouest de Baelor, au-dessus de la muraille de basalte, à une quarantaine de mètres au-dessus de la mer ; il s'y jette par une cascade de même hauteur, près d'un promontoire d'environ 115 m percé d'une arche, d'une crique de galets noirs et d'une grotte marine. Il est **l'origine de la rumeur de la Source de l'Éternité**, les marins ayant fait de sa cascade, vue du large, un lac noir au cœur de l'île. **C'est un miroir du ciel, non un lac noir** ; l'écart entre la rumeur et le lieu est voulu, à exploiter sans rien trancher de ce qui reste mystérieux. Aucune vertu n'est attestée à son eau, les moines ne reçoivent ni ne démentent la rumeur, et rien ne relie le lac au « dessous » ni à la voix des falaises (Partie 2). Son nom traduit le geste baelorien qui le désigne ; l'auteur peut le changer. Graphe `lie-1060`, centre du lac en coordonnée monde (67,35 ; 251,44), recentré pour l'échelle du 26 septembre ; fiches [[Baelor - Continent]] (*Géographie*, *Croyances*) et [[Baelor]] (*Villes, cloîtres et lieux*).
 
 ---
 

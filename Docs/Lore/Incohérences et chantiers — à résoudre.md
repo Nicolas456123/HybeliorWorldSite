@@ -3,7 +3,7 @@ tags: [lore, méta, atrium, incohérences, chantiers, à-résoudre]
 type: lore
 status: living
 date: 2026-07-17
-last_review: 2026-09-23
+last_review: 2026-09-26
 needs_review_for: []
 ---
 
@@ -318,6 +318,21 @@ Le bloc Galenor (Lumasar 23 erreurs, Seraphia 20, Trinoria 18, Kharazir 15) est 
 plus atteint : les lieux de Lumasar tombent dans Trinoria, ceux de Kharazir dans
 Lumasar. C'est par là que la reprise de la carte rapporterait le plus.
 
+**La côte de Baelor, révélée le 2026-09-26 par le lac perché.** Le lac inscrit ce
+jour (`lie-1060`, Ce-qui-rend-le-ciel, centré en (67,35 ; 251,44) après le passage
+à la nouvelle échelle, §14) tombe **hors** de l'île de Baelor dans
+`monde-contours.json`, qui n'en a qu'un hexagone provisoire de 33 u² (x de 67,70 à
+73,73 ; Thyldris y tombe déjà en mer, et Baeloris, ramenée sur sa côte nord en
+y = 251,05, aussi). Sur les tuiles de la carte peinte (niveau 17), ces points sont
+bien à terre ; l'île peinte couvre ~55 u² (x ≈ 66,2 à 74,6, y ≈ 250,6 à 261,0), soit
+~8 × 10 km. À faire : reporter la côte peinte dans le tracé (`continents-trace.svg`,
+puis `extract-trace-contours` → `extract-pays` → `snap-pays-cotes`), ou reprendre la
+côte v3 du prototype (§14, B12). Au passage, la
+surface **Baelor-Prime** (`source: cote-ile`) est dégénérée : six points alignés vers
+y ≈ 320, loin de l'île, d'aire nulle malgré son `aire: 33`. Si elle compte parmi les
+deux surfaces « propres » du tableau, c'est qu'elle ne contient rien ; elle sera
+refaite avec la côte.
+
 ### 8. `npm run lint` est rouge — deux erreurs
 
 `scripts/wf-corpus-sweep.js` et `scripts/wf-histoires-exhaustif.js` sont des modules
@@ -510,6 +525,142 @@ fiches, pas une retouche, d'où ce relevé.
   Fablioris, Ostarith, Duskoris).
 - **Myrtam** : les Chroniques et la carte le mettent en Alkaran (écart déjà assumé au
   « Reste »).
+
+### 14. L'échelle du monde (1 000 km) et la géographie construite
+
+**Décision de l'auteur, 2026-09-26** : « au maximum du maximum, d'un bout de la carte
+dans la mer à gauche jusqu'à l'autre bout dans la mer à droite, ça fait 1 000 km ». Les
+1 047 unités de la carte font donc 1 000 km : **1 u ≈ 0,955 km**. La lieue reste
+l'unité du récit (≈ 4 km ≈ 4,19 u) ; le monde compte à peine deux cent cinquante lieues
+de bord à bord. Le calage du 25 septembre (1 u = 1 lieue, un monde quatre fois plus
+large) est remplacé. **L'échelle ne bouge pas : c'est le texte qui s'adapte**, au canon
+dominant. Elle vit dans `lie-1059` (`data.echelle_carte`, ancien calage en
+`historique`) ; la carte d'accueil mesurait déjà sur cette base (`js/map.js`,
+`worldWidthKm: 1000`).
+
+Ce que cela change. Les allures ne bougent pas (ce sont des vitesses du monde réel, en
+lieues par jour), mais toutes les distances de la carte sont ~4,2 fois plus courtes en
+kilomètres qu'on ne le croyait : Sorin, à ses quatre à sept lieues par jour, couvre
+désormais 17 à 29 u par jour. Galenor fait ~290 × 220 km, Cendara ~42 × 100, Ulinor
+~41 × 71, Baelor ~8 × 10 ; un navire à l'allure normale (25 lieues, 100 km par jour)
+traverse le monde en dix jours. Les durées des livres, calées sur un monde plus grand,
+deviennent trop longues ; quelques trajets jugés impossibles redeviennent possibles
+(Verkan, Mont → Sulvane en deux jours, T1/34 ; les traversées de Vorath, T1/22 et
+T1/53 ; Drakora → Mont en quatre jours à cheval, T3/42-45 ; Cendral → Sulvane « à
+40 km », Chronologie, Ère IV).
+
+La voie « monde » du prototype tient une **boîte d'arrivée** pour les écarts qu'elle
+découvrira en construisant la géographie
+(`HybeliorPrototype/Docs/monde/INCOHERENCES_A_CORRIGER.md`) ; ils sont reportés ici,
+qui fait foi. Statuts : **ouvert** · **tranché** (décision prise, texte à écrire) ·
+**corrigé** (avec l'endroit). Les chapitres des livres ne sont pas réécrits : leurs
+écarts restent ouverts pour l'auteur.
+
+**A et B. Le relevé de la voie « monde »**
+
+| # | Écart | Où | Correction proposée | Statut |
+|---|---|---|---|---|
+| A1 | `lie-1059` calait 1 u = 1 lieue (~4 000 km d'ouest en est). | Atrium | 0,955 km/u, 1 000 km de bord à bord ; la lieue reste une unité de récit. | **corrigé** : `lie-1059` (résumé, corps, `data.echelle_carte`) |
+| A2 | Les durées des Chroniques sont calées sur l'ancienne échelle. | Chroniques, T1 | Liste C ci-dessous, produite par `scripts/verifier-trajets.js`. | ouvert (texte) |
+| B1 | Baelor « ~300 lieues × ~150 », côte nord de « ~200 lieues ». | fiche Baelor - Continent, l. 15 et 31 | ~10 km sur 8, une cinquantaine de km² ; côte nord de ~8 km. | **corrigé** : fiche et sa copie dans `lie-0003` |
+| B2 | La cabane du berger est « à deux jours de marche de Baeloris ». | Histoires/Baelor, l. 208 ; corps de `lie-0003` | « À quelques heures de marche », ou « une longue journée par le Voile bas » si le brouillard doit peser. | tranché (deux jours sont impossibles) ; formule à choisir |
+| B3 | Les postes de Thyldris couvrent « 7 lieues de côte » ; la côte est fait ~10 km. | fiche Baelor, l. 154 | « Sur toute la côte est ». | **corrigé** : fiche et `lie-0238` |
+| B4 | Baeloris posée à 0,76 u (730 m) dans les terres ; c'est une crique de la côte nord. | Atrium | Ramener sur la côte nord. | **corrigé** : `lie-0237` en (69,50 ; 251,05), `data.correction` |
+| B5 | Le lac Ce-qui-rend-le-ciel, relevé en (67,15 ; 251,36), déborde sur l'angle nord-ouest à la nouvelle échelle. | Atrium | Recentrer en (67,35 ; 251,44). | **corrigé** : `lie-1060` (le relevé disait `lie-0970`, numéro pris en amont) |
+| B6 | Le marqueur de la région Baelor, (70,81 ; 240,35), est en mer à 10 u au nord de l'île. | Atrium | Le poser au centre de l'île. | **corrigé** : `lie-0003` en (70,4 ; 255,8), centre de l'île peinte |
+| B7 | « Lacs de lande », alors que la fiche dit « pas de lac noir au cœur de l'île ». | voie « monde » | Seulement des mares de tourbière de 10 à 50 m. | **corrigé** : aucune fiche du site n'en parlait ; la fiche du continent le dit (Hydrographie), `lie-0003.data.arbitrage` |
+| B8 | Tholmë : galets gris et « falaise basse » (fiche) contre « grève noire » et « falaises noires montant droit de la mer » (T1). | fiche Tholmë, T1 | Les terrasses marines portent les deux : falaise basse sur la terrasse, falaises noires en contrebas. | ouvert |
+| B9 | Kethros, monastère distinct dans l'Atrium, confondu avec Baeloris au C/30 ; où 40 navires ont-ils pu attaquer ? Sa position estimée (70,0 ; 253,0), « 1,7 u en retrait » de l'ancienne Baeloris, est à ~2 u de la nouvelle. | Atrium, C/30 | À trancher, puis reposer Kethros sur sa falaise. | ouvert |
+| B10 | « Une seule crique pour toute l'île » (C/31), mais Tholmë a un quai et commerce avec Tyndara. | C/31, fiche Tholmë | Une seule crique sur la côte nord ; un simple quai d'échouage à Tholmë. | ouvert |
+| B11 | Galets blancs « ramassés au nord de l'île » (T1/16), où la côte n'a pas de plage. | T1/16 | Ils viennent de la grève du fond de la crique de Baeloris. | ouvert |
+| B12 | La côte de Baelor n'est qu'un hexagone provisoire de 33 u² ; Thyldris, Baeloris et le lac tombent en mer. | `monde-contours.json` | Reprendre la côte v3 du prototype (49 km²). | ouvert (§7 ter) |
+
+**C. Les trajets à la nouvelle échelle.** `scripts/verifier-trajets.js` lit l'échelle
+dans `lie-1059` (unités → lieues : ÷ 4,19). Sur 59 tronçons jugés, l'ancienne échelle
+en faisait tenir 39, serrer 12, et 8 impossibles ; la nouvelle en fait tenir 8,
+serrer 1, et **20 incohérents** : 4 impossibles et 16 trop lents, où le texte annonce
+une durée plus de trois fois supérieure au temps de route. Trente autres tronçons ne
+sont lents qu'au calendrier : **tranché**, le surplus d'un écart de dates est un
+séjour tant que le texte ne dit pas que ce temps s'est passé sur la route ; ils
+portent `lenteur` et une note, sans verdict (carte vivante, calque Trajets).
+Corrigé au relevé (`per-0153`, `data.correction` sur chaque étape) : C/4, 32 jours
+→ 23 (« Vingt-trois jours », chiffres inversés) ; C/21, 3 → 12 (« Douze jours de mer,
+dont trois au large ») ; C/9, durée d'une heure retirée (c'était la descente de la
+crête) ; durées du texte inscrites pour C/2 (13), C/10 (17), C/12 (25), C/19 (35),
+C/20 (10), C/28 (15).
+
+| Chapitre | Trajet | Le texte | La carte | Correction proposée | Statut |
+|---|---|---|---|---|---|
+| T1/22 | Sarth → crique de la Dent (Sera, Kayara) | « Six jours d'eau » | 148 km par mer, 1,5 j | Les six jours tiennent pour le navire parti d'Aethranor (455 km) ou de Tholmë ; depuis Sarth, « deux jours d'eau », ou le détour par le Fleuve-sous-la-Mer et un calme. | ouvert |
+| T1/26-29 | Sulvane → Mont Cendra (Thessan 7 j, Aelindra 10 j) ; Sulvane → Cendral (Sera, 10 j) | « des jours et des jours de marche » | 60 km, 2 j | Cendara ne fait que ~42 × 100 km : dire la marche lente (cendre, colonne, détours), ou la raccourcir. | ouvert |
+| T1/43 | Sulvane → Cendral (Verkan) | un jour | 55 km : **impossible** (1,4 j à marche forcée) | Sulvane est estimée à 44 u de Cendral ; la Chronologie (Ère IV) la met « à 40 km » : à ~33 u, une marche forcée tient. | ouvert (position) |
+| T1/49 | Corail-le-Haut → île de Corail (Ílvar) | six heures de pirogue | 14 km : « impossible » | Artefact : les allures sont des journées de route ; 2,3 km/h à la rame tient. | sans objet |
+| T1/50 | la Dent → Sarn-du-Vent (Kayara) | « dix nuits » au plus | 645 km : **impossible** en pirogue (13 j forcés) | Une pirogue à voile de haute mer va à l'allure d'un navire (6,5 j), ou « quinze nuits ». | ouvert |
+| T1/52 | Mont Cendra → Baelor (Vorath) | deux heures | 414 km : **impossible** | Déjà impossible à l'ancienne échelle : passage ou ellipse du récit, pas l'échelle. | ouvert (relevé) |
+| C/2 | Rukhsar → Kelanor | « Treize jours de route dans la caravane » | 59 km, 2,5 j | « Trois jours de route » ; le calendrier (J1 → J13) garde un séjour à dire, ou les haltes de la caravane. | ouvert |
+| C/4 | steppes de Ventera → Vyndralith | « Vingt-trois jours » | 58 km depuis le départ estimé de la piste ; toute la traversée Kelanor → Vyndralith fait ~47 lieues, une semaine, où le texte met huit jours de caravane et vingt-trois de marche | « Sept jours », ou la grande herbe qui égare. | ouvert |
+| C/5 | Solena → lisière de Trinoria | « Six jours de marche au sortir de Solena » | Vyndralith → Nalithos 313 km, 11 j ; le calendrier (J55 → J82) tient | Poser l'étape à la lisière de la forêt, à moins de 60 lieues de Solena, plutôt qu'à Nalithos. | ouvert (relevé) |
+| C/7 | Trelios → Roseltar | « à trois jours de Trelios » | 42 km par mer (0,4 j), ~50 km par la route (1,8 j) | Par la route, trois jours tiennent ; le relevé suppose une traversée que le texte ne dit pas. | ouvert (relevé) |
+| C/8 | cols d'Iskara ↔ Archives de Trelios | « Vingt-cinq jours de routes intérieures » | ~68 lieues par la terre (10 j, tient) ; la carte met la mer entre Alkaran et Endora (3 j) | Écart de carte antérieur à l'échelle : le texte dit des routes, la carte un bras de mer. | ouvert (carte) |
+| C/9 | Haliandris → Ardentris | « Ardentris à cinq jours de route » | 22 km, 0,8 j | « À une journée de route ». | ouvert |
+| C/10 | Myrtam → Velithar | « dix-sept jours dans les jambes depuis Myrtam » | 345 km dont la mer, 3,5 j | « Sept jours », et dire l'attente d'un navire. | ouvert |
+| C/12 | Tyndara → Malderis | « Vingt-cinq jours de mer entre Onara et Endora » | 150 km, 1,5 j | « Deux jours de mer » ; le calendrier (43 j depuis Velithar) garde les séjours sur l'Onar. | ouvert |
+| C/14 | Endora → Holvendar | « Trente jours de mer depuis Endora » | Hekorinth est posée en Ilthara (§7 ter, Haldria) : 106 km ; depuis l'Endora des fiches, ~540 km, 5 j | « Six jours de mer ». | ouvert |
+| C/16 | Veldar → Myrthorin | une journée de montée à cheval | 11 km | Tient en montagne ; Veldar est à re-estimer (liste D). | sans objet |
+| C/19 | Bybias → Wyndor | « Trente-cinq jours » de Trace (deux fois dans le chapitre) | 133 km, 4,7 j | Une quinzaine de jours (la jungle, où « une monture avance moins vite qu'un homme »). | ouvert |
+| C/20 | Lytharil → Vaelmar | « dix jours de plaine plein ouest » | 53 km jusqu'à la Vaelmar estimée sur le golfe de Lythar ; la côte ouest d'Ilthara est à ~52 lieues (7 j) | Le texte tient si Vaelmar est « sur la côte ouest », comme il le dit : re-estimer Vaelmar (le rattachement à Lythar en souffre). | ouvert (position) |
+| C/21 | côte ouest d'Ilthara → Diamoris | « Douze jours de mer, dont trois au large, à attendre » | 164 km, 1,6 j | « Quatre jours de mer, dont trois au large. » | ouvert |
+| C/28 | couvents de Mirathi → Lunaris | « quinze jours de route » | ~60 km, 2,5 j | « Trois jours de route ». | ouvert |
+| C/32 | Baeloris → Invernis | ≈ 38 jours de mer (J752 → J790) | 636 km, 6,4 j | Garder les dates et dire l'escale ou l'attente (glaces du chenal nord, vents). | ouvert |
+| C/32 | Invernis → Galdryn | « Une demi-journée de marche » | 38 km : **impossible** (1 j forcé) | « Une journée de marche », ou Galdryn plus près (≤ 20 u) ; les deux sont posés par l'auteur. | ouvert |
+
+**D. Positions estimées à l'ancienne échelle.** Les 65 positions estimées du
+2026-09-25 (`data.carte.position_estimee`) ont converti des durées en unités à 1 u
+= 1 lieue ; vingt le disent dans leur motif (« quatre jours ≈ 20 u »). À la nouvelle
+échelle, la même durée vaut 4,2 fois plus de carte : chacune est à revoir. Soit la
+position tient par d'autres indices (relief, côte) et c'est la durée du texte qui
+s'adapte, soit elle recule. Liste : Mirathi `pol-0035`, Mont Cendra `lie-0019`,
+Sarandel `lie-0045`, Ordavan `lie-0046`, Mont Jumeau `lie-0050`, Glacier central
+`lie-0064`, Cendral `lie-0246`, Arbre-Mère `lie-0381`, Sulvane `lie-0636`, Route des
+Cendres `lie-0639`, passe du Corail-Mort `lie-0991`, Sarth `lie-0992`, piste des Neuf
+Cairns `lie-1011`, cercle de Kaeldrun `lie-1017`, Verthal `lie-1019`, Malderis
+`lie-1022`, Veldar `lie-1027`, Vaelmar `lie-1031`, source d'Ourthalle `lie-1033`,
+Corail-le-Haut `lie-1044` ; et Kethros `lie-0080` (B9). Pour le Mont Cendra, les
+« quinze, dix-huit lieues du Mont » de T3/31 valent désormais 63 à 75 u : Cendara n'en
+offre que ~65 du Mont à sa pointe nord.
+
+**E. Les distances chiffrées des Docs** (recherche des km et des lieues, 2026-09-26) :
+
+| Où | Le texte | La carte | Correction proposée | Statut |
+|---|---|---|---|---|
+| C/31 | « deux cents lieues de falaises noires » (Baelor) | côte nord de ~8 km | « deux lieues de falaises » | ouvert (chapitre) |
+| fiche Ulinor - Continent | « ~1200 km nord-sud » ; faille « sur plus de 400 km » | ~41 × 71 km | ~70 km nord-sud ; faille sur toute la longueur de l'île | tranché |
+| Chronologie, Ère IV | côtes méridionales de Cendara effondrées « sur trois cents lieues » (la Mer Cassée) | l'île fait ~100 km de long | « sur une dizaine de lieues » | tranché |
+| Chronologie, Ère IV | le Mont inhabitable « dans un rayon de 50 km », moines « sur le flanc sud, à 30 km » | l'île fait ~42 km de large | toute l'île ; « sur le flanc sud, près de la côte » | tranché |
+| Chronologie, Ère IV | Cendral → Sulvane « à 40 km au sud » | 46 u (44 km), mais Sulvane au nord-nord-est (T1 et carte) | la distance tient ; la direction est à corriger (« au nord ») | ouvert |
+| Histoire d'Arkhen | le Mont « à plus de cent lieues » ; « cinq cents lieues de mer » | Arkhen ↔ Mont ≈ 78 u, 19 lieues ; le monde en compte 250 | « à une vingtaine de lieues » ; « une mer » | tranché |
+| fiche Pyrevane | lueurs vues d'Aïkhar « à plus de soixante lieues » | Cendara et Arkhen tiennent en ~130 u, ~30 lieues | « à plus de vingt lieues » | tranché |
+| fiche Cendara - Continent | « > 30 lieues de plateau continental » | plus long que l'île | « plusieurs lieues » | tranché |
+| fiche Lunasar | « ~200 lieues de côtes basses » | 60 % du littoral d'Ilthara | à mesurer quand Lunasar aura sa surface | ouvert |
+| fiche Nysaria | sites « à 5–20 lieues de Nysoris » | l'île de la carte fait ~16 × 10 km | « à une ou deux lieues » ; lié à la question de Nysaria continent ou île | ouvert |
+| fiche Baelor | ~18 000 habitants | ~50 km², 360 hab./km² de lande | à revoir avec l'auteur | ouvert |
+| T1/00, T1/45 | « trois cents lieues » d'Aethranor à Sulvane (l'arche, le porteur d'eau) | ~370 u, ~90 lieues | « cent lieues » | ouvert (roman) |
+| T1/16, T1/18 | « trois mille lieues » (Gelinar, Vytharia ↔ Aethranor) | ~360 u, ~90 lieues ; déjà hyperbolique avant | « cent lieues », ou la figure « mille lieues » | ouvert (roman) |
+| T1/46 | le Gouffre, « trois lieues de long », coupe Endora en deux | Endora fait ~210 × 185 km | écart antérieur à l'échelle | ouvert |
+| T3/31 | « quinze », « dix-huit », « vingt lieues du Mont » | 63 à 84 u : au-delà de la pointe nord de Cendara pour les deux derniers | « douze à quinze lieues » ; « cent lieues et plus » jusqu'à Baelor tient (~93) | ouvert (roman) |
+| Ère VII, C/21, C/22, T3/40 | « cinquante lieues à la ronde » autour du Mont | ~210 u : toute Cendara et le sud d'Ilthara (Arkhen, Mirathi, Vytharia, Lunaris) | le chiffre reste ; vérifier que personne n'est dit hors du rayon | ouvert |
+| C/4, C/20, C/24, C/27, T1/06, T2/00, T2/19, T2/40, T3/15 | « mille lieues », « l'horizon est à cent lieues » | le monde fait 250 lieues | ce sont des figures : elles restent | tranché |
+
+Tiennent à la nouvelle échelle : la bande côtière de Noravia (200 km) et ses boussoles
+« à plus de 50 km des côtes » (Cestra ≈ 150 × 100 km), les distances locales de Mirathi,
+Solmaris et Baelor (le lac, ~1,2 km). Plausibles, lieux non posés : les « trente
+lieues » d'Ombreth (T2/20).
+
+**Tranché ce jour** (journal du canon, « L'échelle du monde ») : l'échelle ; la règle
+du calendrier ; les chiffres de taille qui dépassent la carte sont nuls, la carte fait
+foi (Baelor écrit, Ulinor, Cendara, Arkhen, Pyrevane à écrire) ; « mille lieues » reste
+une figure ; Baelor sans lac intérieur. Scripts : `scripts/verifier-trajets.js`,
+`scripts/baelor-echelle.js`, `scripts/inscrire-lac-perche.js`.
 
 ---
 

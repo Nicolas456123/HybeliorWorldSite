@@ -2,7 +2,7 @@
 tags: [lore, pays, baelor, continent]
 type: continent
 status: canon
-last_review: 2026-06-05
+last_review: 2026-09-26
 needs_review_for: []
 ---
 # Baelor — L'Île du Silence
@@ -12,7 +12,7 @@ needs_review_for: []
 | | |
 |---|---|
 | **Type** | Île-continent unique, tempéré-océanique, ceinturée de falaises noires |
-| **Taille** | Petit continent (moins étendu qu'Onara, à peine plus que la partie habitable de Cestra) ; ~300 lieues nord-sud × ~150 lieues est-ouest |
+| **Taille** | Petite île : ~10 km nord-sud × ~8 km est-ouest (deux lieues et demie sur deux), une cinquantaine de km² |
 | **Climat** | Tempéré-océanique frais, brumeux ; soleil ~1 jour sur 3 |
 | **Nations habitées** | 1 ([[Baelor]]) — un seul peuple, une seule langue, une seule règle |
 | **Régime** | Théocratie monastique : les moines sont l'État, la culture et la quasi-totalité du peuple |
@@ -28,7 +28,7 @@ Faits notables :
 ## Géographie
 
 **Côtes (4) :**
-- **Côte nord** — muraille de **falaises noires de basalte** (50 à 120 m), sans plage praticable sur ~200 lieues. Unique crique abritée (défaut de la falaise large de ~200 pas) : site d'accostage des premiers moines et du port creusé de **Baeloris**. Reste de la côte inaccessible (défense naturelle de l'île).
+- **Côte nord** — muraille de **falaises noires de basalte** (50 à 120 m), sans plage praticable sur toute sa longueur (~8 km). Unique crique abritée (défaut de la falaise large de ~200 pas) : site d'accostage des premiers moines et du port creusé de **Baeloris**. Reste de la côte inaccessible (défense naturelle de l'île).
 - **Côte ouest** — falaises basses, criques étroites, grottes marines profondes, plages de galets noirs. Habitat des **rares pêcheurs** (~une douzaine de hameaux) ; **cloîtres minoritaires** dispersés. Lieu où **Hesvar de Tholmë** vécut 13 ans dans une grotte sans laisser de trace.
 - **Côte sud** — plages de galets gris, promontoires bas, marais salants (récolte du **sel**), herbes médicinales (cueillette monastique saisonnière). Établissement principal : **Tholmë**. Côte la plus ouverte au commerce limité (Tyndara ; plus rarement Caeloria).
 - **Côte est** — venteuse, quasi inhabitée ; récifs et courants traîtres (aucun navire étranger). Promontoire de **Thyldris** : poste de veille sur l'horizon d'où, selon les Veilleurs, *quelque chose viendra* (ni quand ni quoi).
@@ -40,6 +40,15 @@ Faits notables :
 **Hydrographie :**
 - 3 rivières courtes descendant de la dorsale de Velkadra vers la côte ouest ; **aucune navigable**.
 - Sources d'eau douce dans les falaises ; la **Source Sourde** (sous Baeloris) alimente tout le complexe monastique sans jamais avoir tari.
+- **Aucun lac à l'intérieur** : sur le plateau et dans la lande, seulement des mares de tourbière de 10 à 50 m. Le seul lac de l'île est perché sur la côte, à l'angle nord-ouest (ci-dessous).
+
+**Le lac perché de l'angle nord-ouest (Ce-qui-rend-le-ciel) :**
+- **Site** — là où la muraille nord rejoint la côte ouest, lac allongé d'est en ouest le long de la muraille (~1,2 km sur ~400 m), à une quarantaine de mètres au-dessus de la mer. Une étroite bande de lande le sépare du rebord, où la muraille fait 55 à 70 m.
+- **Eau** — douce et claire ; par temps calme, sa surface rend le ciel comme un miroir (gris d'argent la plupart des jours, bleue ou dorée au vent du nord-est). À l'extrémité ouest, un court déversoir entaille le rebord et se jette dans la mer par une **cascade** de même hauteur, à l'angle même.
+- **Abords** — à l'est, un **promontoire** d'environ 115 m s'avance en mer, percé à sa pointe d'une **arche** sous laquelle passe la houle ; vu de là, le lac paraît suspendu au-dessus de la mer, illusion qui cesse quand on descend à sa rive. Au sud de l'angle, sur la côte ouest, une crique étroite à grève de galets noirs ; dans son flanc nord s'ouvre une **grotte marine** qui s'enfonce sous l'angle. Alentour, landes rases, sans un arbre.
+- **Rumeur** — vue du large au vent du nord-est, la cascade semble sortir de la muraille noire. C'est l'origine de la **Source de l'Éternité** des marins étrangers, qui en ont fait un lac noir au cœur de l'île (cf. *Croyances*). Aucune vertu n'est attestée à son eau.
+- **Ce qu'en savent les Baeloriens** — les pêcheurs de la côte ouest le connaissent sans lui prêter de vertu. Les moines ne le nomment pas (évitement du nom, cf. [[Baelor]]) ; ils le désignent par un geste que les traducteurs rendent par « ce qui rend le ciel », d'où son nom. Certains Maîtres y voient une image de l'écoute que demande la règle : recevoir sans rien ajouter. Quant à la rumeur, les moines s'en tiennent à leur usage et ne la reçoivent ni ne la démentent.
+- Ne pas confondre avec la **Source Sourde**, sous Baeloris.
 
 **Biomes :** landes basses (majorité du plateau central), bruyères, prairies maigres, taillis de pins maritimes côtiers, bosquets de chênes nains dans les vallées intérieures. **Aucune forêt** véritable. **Aucun grand prédateur.**
 
@@ -57,7 +66,7 @@ Aucune doctrine officielle ne raconte d'une seule voix l'arrivée des premiers m
 - **Lecture du Premier Voile** (cloîtres de la côte ouest, frange minoritaire) — la voix n'était pas un message mais **un bruit pris pour un message** ; le silence instauré est une **fuite devant ce qui aurait pu parler**, non une réponse. Jamais formulée à voix haute (paradoxe assumé) ; circule par lamelles scellées et correspondances entre cloîtres minoritaires. Demande non de devenir doctrine, mais qu'on doute.
 - **Lecture de Thyldris** (Veilleurs côtiers, fragmentaire) — la voix **n'a pas cessé** ; elle continue de sortir des falaises de basalte, lente, dans une langue incomprise dont les Veilleurs reconnaissent la cadence — la même que **ce qui vient depuis l'horizon**, observé depuis 4 siècles sans pouvoir le nommer. Ancre l'orthodoxie dans un présent inquiet ; ni commentée ni contredite par les Maîtres de Baeloris.
 - **Lecture du Cerf de Brume** (anecdote populaire, non doctrinale) — un animal des hautes terres centrales (décrit tantôt comme un cerf, tantôt comme une silhouette humaine de loin) aurait précédé les moines de plusieurs siècles et les aurait *attendus*. Tenue pour non sérieuse par les moines ; jamais publiquement contredite par les bergers des hauteurs.
-- **Lecture des marins étrangers** (rumeurs portuaires) — l'île serait habitée par les **Vaporae** (esprits de la brume jouant des mélodies pour égarer les voyageurs dans des forêts de cristal) ; au cœur de l'île, un lac noir comme l'obsidienne, la **Source de l'Éternité**, dont une goutte conférerait l'immortalité au prix de l'âme. Ni reçue ni démentie par les moines ; les chroniqueurs locaux notent qu'il n'y a pas de lac noir au cœur de l'île — seulement collines de bruyère et brouillard.
+- **Lecture des marins étrangers** (rumeurs portuaires) — l'île serait habitée par les **Vaporae** (esprits de la brume jouant des mélodies pour égarer les voyageurs dans des forêts de cristal) ; au cœur de l'île, un lac noir comme l'obsidienne, la **Source de l'Éternité**, dont une goutte conférerait l'immortalité au prix de l'âme. Ni reçue ni démentie par les moines ; les chroniqueurs locaux notent qu'il n'y a pas de lac noir au cœur de l'île — seulement collines de bruyère et brouillard. La rumeur a pourtant une origine : la cascade d'un lac clair, perché sur la côte à l'angle nord-ouest (**Ce-qui-rend-le-ciel**, cf. *Géographie*).
 
 Note : chaque lecture protège quelque chose (orthodoxe → légitimité de la règle ; Premier Voile → doute ; Thyldris → attente ; marins → imagination du dehors). Aucune n'admet officiellement une arrivée accidentelle ni une confusion fondatrice entre écho de la peur et voix divine.
 
