@@ -16,7 +16,7 @@ La semaine d’avant, trois ou quatre matins de répit tenaient encore. Puis deu
 
 Ilex se tournait.
 
-C’était la nouveauté de ces nuits, et elle serrait le ventre de Renna plus que la traite. Le soir, elle couchait l’enfant la tête au nord, contre le mur chaud de l’âtre ; chaque matin elle le retrouvait la tête au sud, le corps entier ployé de ce côté, une joue offerte à la paroi qui regardait la colline. Il ne s’éveillait jamais pour cela et n’en gardait rien au réveil. La nuit, quelque chose le prenait par l’échine et le faisait pivoter vers ce qu’il entendait, lentement, comme on retourne un dormeur pour qu’il respire mieux.
+C’était la nouveauté de ces nuits, et elle serrait le ventre de Renna plus que la traite. Le soir, elle couchait l’enfant la tête au sud, contre le mur chaud de l’âtre ; chaque matin elle le retrouvait la tête au nord, le corps entier ployé de ce côté, une joue offerte à la paroi qui regardait la colline. Il ne s’éveillait jamais pour cela et n’en gardait rien au réveil. La nuit, quelque chose le prenait par l’échine et le faisait pivoter vers ce qu’il entendait, lentement, comme on retourne un dormeur pour qu’il respire mieux.
 
 La troisième nuit, Renna resta éveillée pour le voir faire.
 
@@ -24,13 +24,13 @@ Elle avait passé sa vie à ne pas écouter. Elle n’avait jamais appris à reg
 
 Le dos contre le mur froid, l’enfant tiède contre son flanc, elle attendit les yeux ouverts. Le feu s’affaissa en braises. Les chèvres se turent. La maison craqua deux fois, à cause du gel qui prenait le torchis. Vers le milieu de la nuit, à l’heure creuse, la longue respiration monta sous le plancher, et au même instant, contre elle, le petit corps se mit à tourner.
 
-Cela se fit lentement. L’épaule d’abord, qui roula. La hanche qui suivit l’épaule. Puis la joue quitta la chaleur de Renna pour le froid du mur sud, et tout l’enfant se trouva rangé du côté du Mont, aussi proprement qu’un outil qu’on couche dans le sens où il va servir.
+Cela se fit lentement. L’épaule d’abord, qui roula. La hanche qui suivit l’épaule. Puis la joue quitta la chaleur de Renna pour le froid du mur nord, et tout l’enfant se trouva rangé du côté du Mont, aussi proprement qu’un outil qu’on couche dans le sens où il va servir.
 
 « Ilex », souffla-t-elle.
 
 Rien dans l’enfant n’était là pour répondre. Il dormait du sommeil épais des petits qui ont couru tout le jour, et pourtant ce qui en lui pouvait s’orienter s’était orienté. Un marchand de passage avait montré la chose un jour sur la place de Taldre, devant tout le village : une aiguille posée sur une paille, dans une écuelle d’eau, qui revenait toujours au même point de l’horizon. On la poussait du doigt, elle repartait. On tournait l’écuelle, elle repartait. Les gens avaient payé pour voir, puis ils étaient rentrés souper. C’était cela, cette nuit, que faisait le corps de l’enfant, et il n’y avait encore que Renna pour le voir.
 
-Renna prit la petite épaule et la fit rouler en sens inverse, la tête au nord, comme se couche un enfant. Il se laissa faire. À peine la main retirée, il recommença de tourner, la joue vers le sud, la bouche vers le mot.
+Renna prit la petite épaule et la fit rouler en sens inverse, la tête au sud, comme se couche un enfant. Il se laissa faire. À peine la main retirée, il recommença de tourner, la joue vers le nord, la bouche vers le mot.
 
 Trois fois elle le remit. Trois fois il revint. À la quatrième elle s’arrêta, parce qu’il n’y avait rien à gagner à pousser un enfant du doigt : on tient l’aiguille tant qu’on a le doigt dessus.
 
@@ -48,11 +48,11 @@ Au matin, Ilex mangea peu. Il regarda son écuelle de lait caillé comme une cho
 
 Renna posa la louche. Il lui vint une colère qui n’était pas contre l’enfant et qui n’avait que l’enfant sous la main ; elle la ravala, parce que l’enfant n’y était pour rien. Elle s’accroupit devant lui, à hauteur des yeux blancs, et prit les deux mains froides dans les siennes.
 
-« Écoute-moi bien, dit-elle. On va s’en aller d’ici quelques jours. Toi et moi. On ira vers le nord, loin, chez des gens que je connais, de l’autre côté du col des Genêts, là où l’on ne monte pas de la vallée du Mont. Là-bas, tu n’entendras plus rien. Ce sera calme. Tu pourras dormir la tête où tu voudras. »
+« Écoute-moi bien, dit-elle. On va s’en aller d’ici quelques jours. Toi et moi. On ira vers le sud, loin, chez des gens que je connais, de l’autre côté du col des Genêts, là où l’on ne monte pas de la vallée du Mont. Là-bas, tu n’entendras plus rien. Ce sera calme. Tu pourras dormir la tête où tu voudras. »
 
 L’enfant la regarda longtemps, et son visage ne bougea pas plus que pour une nouvelle ordinaire.
 
-« On peut pas aller loin du mot, dit-il enfin. Le mot, il est partout dessous. Le nord aussi, il a un dessous.
+« On peut pas aller loin du mot, dit-il enfin. Le mot, il est partout dessous. Le sud aussi, il a un dessous.
 
 — Il sera plus faible, là-bas. On sera loin du Mont.
 
@@ -64,9 +64,9 @@ Il retourna à son écuelle et ne la finit pas. Renna eut froid entre les côtes
 
 Ils partirent le surlendemain, avant l’aube, pour que personne à Taldre ne comptât leurs pas. En bas, la lanterne de Caeloria veillait encore au bord de la fontaine, et Renna passa par les hauts, le chemin des bergers, qui rejoint la route du col sans traverser la place. Sur son dos, le sac, la couverture roulée, du pain, du fromage sec, et par-dessus le tout une petite jarre de guède bien fermée, parce qu’on l’avait toujours nourrie contre du bleu. Ilex marchait devant, à sa main.
 
-La première heure, il marcha bien. La montée vers le col réveille les jambes, et l’enfant, tant qu’on grimpait, garda ses couleurs. Mais au col des Genêts, quand la route bascule et que le Mont disparaît d’un coup derrière l’épaule de la colline, quand il ne reste plus au sud qu’un ciel vide à la place de la masse qu’on avait toujours sue là, la main d’Ilex se refroidit dans la sienne.
+La première heure, il marcha bien. La montée vers le col réveille les jambes, et l’enfant, tant qu’on grimpait, garda ses couleurs. Mais au col des Genêts, quand la route bascule et que le Mont disparaît d’un coup derrière l’épaule de la colline, quand il ne reste plus au nord qu’un ciel vide à la place de la masse qu’on avait toujours sue là, la main d’Ilex se refroidit dans la sienne.
 
-L’enfant s’arrêta. Tourné vers le sud, vers l’endroit où le Mont n’était plus, il ne bougea plus.
+L’enfant s’arrêta. Tourné vers le nord, vers l’endroit où le Mont n’était plus, il ne bougea plus.
 
 « On l’a laissé, dit-il.
 
@@ -78,7 +78,7 @@ Il redescendit l’autre versant sans se faire tirer, la main dans la sienne, et
 
 Sur les deux lieues suivantes, ils croisèrent du monde, et tout ce monde allait dans leur sens. Une famille poussait une charrette à bras, le matelas roulé par-dessus les paniers. Une femme menait deux chèvres à la corde, sans autre bagage, comme si elle était partie entre deux gestes. Un vieux descendait seul, un coq sous le bras. Personne ne montait. Renna, qui s’était crue seule à s’en aller, mit un moment à comprendre ce qu’elle regardait : la vallée se vidait par le même chemin qu’elle, en plein jour, sans se cacher de personne.
 
-Le carrier vint à leur rencontre vers la mi-journée, à l’endroit où la route du nord longe le torrent. Un homme au chariot lourd, chargé de dalles grises tirées d’une carrière du haut, qui descendait au trot prudent des bêtes qui portent trop. Il s’arrêta pour eux, par courtoisie de route ou par ennui d’être seul, et proposa de les prendre jusqu’aux Basses-Ondes, puisque c’était leur chemin et le sien.
+Le carrier vint à leur rencontre vers la mi-journée, à l’endroit où la route du sud longe le torrent. Un homme au chariot lourd, chargé de dalles grises tirées d’une carrière du haut, qui descendait au trot prudent des bêtes qui portent trop. Il s’arrêta pour eux, par courtoisie de route ou par ennui d’être seul, et proposa de les prendre jusqu’aux Basses-Ondes, puisque c’était leur chemin et le sien.
 
 « La petite est fatiguée, dit-il en désignant Ilex du menton, une fois qu’ils furent montés sur les dalles.
 
@@ -92,7 +92,7 @@ Le carrier hocha la tête, de l’air d’un homme qui a appris à ne pas discut
 
 « J’ai eu un frère qui avait cette couleur, dit-il sans quitter la croupe des bêtes des yeux. Pas les yeux, non, les yeux il les avait comme moi. La couleur du reste. Cette peau-là, cette peau de suif. On disait qu’il était né en hiver et qu’il avait gardé l’hiver sous la peau. Il mangeait, pourtant. Il mangeait comme quatre. Et il fondait quand même. Le médecin de Basse-Vaugue disait qu’il avait un feu dedans qui brûlait sans se voir, un feu qui mangeait tout ce qu’on lui donnait et en redemandait. Il est mort à sept ans. Un feu, qu’il disait, le médecin. Moi j’ai jamais cru aux feux qu’on voit pas. Mais je me suis jamais expliqué autrement pourquoi un gamin qui mange fond. »
 
-Renna regarda Ilex comme le carrier venait de le regarder, du dehors, avec les yeux de n’importe qui. Couché contre les dalles, la joue sur la pierre froide, l’enfant s’était tourné une fois de plus vers le sud d’où l’on venait. Ce qu’un inconnu voyait tenait en peu de chose : une chemise qui ne touchait plus les épaules, des paupières qui remontaient trop lentement, et sur le visage une couleur qu’on ne trouve pas chez un enfant qui a couru. Il n’avait pas fallu d’oreille pour lire cela. Un regard avait suffi, et n’importe lequel.
+Renna regarda Ilex comme le carrier venait de le regarder, du dehors, avec les yeux de n’importe qui. Couché contre les dalles, la joue sur la pierre froide, l’enfant s’était tourné une fois de plus vers le nord d’où l’on venait. Ce qu’un inconnu voyait tenait en peu de chose : une chemise qui ne touchait plus les épaules, des paupières qui remontaient trop lentement, et sur le visage une couleur qu’on ne trouve pas chez un enfant qui a couru. Il n’avait pas fallu d’oreille pour lire cela. Un regard avait suffi, et n’importe lequel.
 
 « Le mien n’a pas de feu, dit-elle. Il dort mal, ces temps-ci, voilà tout. Le voyage le remettra.
 
@@ -130,7 +130,7 @@ Dans la salle du relais, on la prit pour ce qu’elle voulait être : une femme
 
 Ilex ne se leva pas le lendemain.
 
-Il était éveillé. Les yeux grands ouverts, sans iris, il tenait le plafond de la soupente, les poutres et les grappes d’oignons qui y pendaient, et il regardait au travers, à travers le toit et à travers le ciel, quelque part très loin au sud, du côté d’où l’on était venu. Renna lui porta du lait chaud. Il n’y toucha pas. Du pain trempé de miel, une gâterie qu’il aimait et qu’elle avait payée cher au relais, il n’en voulut pas davantage et détourna la tête.
+Il était éveillé. Les yeux grands ouverts, sans iris, il tenait le plafond de la soupente, les poutres et les grappes d’oignons qui y pendaient, et il regardait au travers, à travers le toit et à travers le ciel, quelque part très loin au nord, du côté d’où l’on était venu. Renna lui porta du lait chaud. Il n’y toucha pas. Du pain trempé de miel, une gâterie qu’il aimait et qu’elle avait payée cher au relais, il n’en voulut pas davantage et détourna la tête.
 
 « Mange, dit-elle. Regarde. Du miel. Tu aimes.
 
@@ -160,11 +160,11 @@ Restait à le laisser aller. Le ramener vers le Mont, vers ce qu’il entendait,
 
 « Ramène-moi, dit l’enfant tout bas, comme s’il avait suivi le fil de sa pensée jusqu’au même mur qu’elle. Ramène-moi vers lui. Pas pour aujourd’hui. Pas parce que j’ai peur de mourir, j’ai pas peur, j’ai juste froid. Ramène-moi parce que là-bas j’entends, et que quand j’entends, je peux te parler. Ici je peux presque plus. Tu veux me garder tout à toi et tu me gardes plus du tout. On est ensemble, là, et je suis déjà parti. Ramène-moi où je peux rester. »
 
-Renna releva la tête. Par la lucarne de la soupente, au sud, par-dessus la rivière lente et les toits bas des Basses-Ondes et le col des Genêts qu’on ne voyait pas, le ciel restait vide à l’endroit où, chez elle, il y aurait eu le Mont. Elle avait cru emmener l’enfant loin de ce qui le tuait. Elle l’avait emmené loin de ce qui le faisait vivre. Là-bas, sous la masse grise, ce qui le tuait et ce qui le nourrissait n’avaient jamais fait qu’un.
+Renna releva la tête. Par la lucarne de la soupente, au nord, par-dessus la rivière lente et les toits bas des Basses-Ondes et le col des Genêts qu’on ne voyait pas, le ciel restait vide à l’endroit où, chez elle, il y aurait eu le Mont. Elle avait cru emmener l’enfant loin de ce qui le tuait. Elle l’avait emmené loin de ce qui le faisait vivre. Là-bas, sous la masse grise, ce qui le tuait et ce qui le nourrissait n’avaient jamais fait qu’un.
 
 « Demain, dit-elle. Demain on remonte. Dors, cette nuit. Demain on remonte vers le Mont, et tu me parleras encore.
 
-— C’est pas vrai que tu me sauves, dit Ilex, mais il le dit doucement, sans reproche, en se retournant, la joue au sud, vers le mur de la soupente. C’est vrai que tu m’aimes. C’est pas le même mot. Mais c’est mieux que rien. »
+— C’est pas vrai que tu me sauves, dit Ilex, mais il le dit doucement, sans reproche, en se retournant, la joue au nord, vers le mur de la soupente. C’est vrai que tu m’aimes. C’est pas le même mot. Mais c’est mieux que rien. »
 
 Sa respiration s’allongea, se fit plus paisible, rien qu’à l’idée du retour, comme si de tourner la face du bon côté et d’avoir la promesse de se rapprocher lui rendait déjà de la chaleur à la main. Renna tint la petite main jusqu’à ce qu’elle tiédît. Cela prit longtemps. Elle ne lâcha pas.
 
@@ -172,7 +172,7 @@ Sa respiration s’allongea, se fit plus paisible, rien qu’à l’idée du ret
 
 Ils reprirent la route au petit jour, à pied cette fois, car aucun chariot ne remontait vers le Mont, personne ne remontait vers le Mont, et Renna dut porter l’enfant sur la moitié du chemin, deux jours durant. Il pesait de moins en moins. Il ne maigrissait plus : il se remplissait. À mesure que la rivière lente s’éloignait derrière eux et que la pente se redressait vers les Genêts, quelque chose rentrait dans le petit corps par le chemin même où c’était sorti.
 
-Au col, l’enfant demanda à descendre de ses bras. Là où, quatre jours plus tôt, il s’était arrêté le sang gelé, il s’arrêta de nouveau, et autrement. Le visage rendu au sud, la luisance revenue aux yeux, il se tendit de tout le corps vers la masse grise qui rentrait dans le ciel comme un mot qu’on retrouve. N’importe qui, sur cette route, aurait vu vers quoi.
+Au col, l’enfant demanda à descendre de ses bras. Là où, quatre jours plus tôt, il s’était arrêté le sang gelé, il s’arrêta de nouveau, et autrement. Le visage rendu au nord, la luisance revenue aux yeux, il se tendit de tout le corps vers la masse grise qui rentrait dans le ciel comme un mot qu’on retrouve. N’importe qui, sur cette route, aurait vu vers quoi.
 
 « Le voilà, dit-il, et il souriait, ce qu’il n’avait plus fait depuis les Basses-Ondes. Il m’a attendu. Il a pas bougé. Il savait bien que tu me ramènerais.
 
@@ -180,7 +180,7 @@ Au col, l’enfant demanda à descendre de ses bras. Là où, quatre jours plus 
 
 — Lui, il savait, dit Ilex. Il sait que tu peux pas faire autrement. Moi non plus je peux pas faire autrement. Toi non plus, à la fin. Y a que le chemin qui change. Le bout, il est pareil. »
 
-Renna rajusta le sac sur ses épaules, et ce qu’elle comprit là lui coupa le souffle mieux que la montée. Elle pouvait le cacher plus loin ou plus près, le porter au nord jusqu’à la mer et le rapporter au sud jusqu’à la pierre ; elle pouvait choisir la vitesse, le chemin et le prix. L’arrivée ne se choisissait pas. Elle avait passé trois jours à croire qu’elle décidait, et elle avait seulement appris dans quel sens penchait le sol.
+Renna rajusta le sac sur ses épaules, et ce qu’elle comprit là lui coupa le souffle mieux que la montée. Elle pouvait le cacher plus loin ou plus près, le porter au sud jusqu’à la mer et le rapporter au nord jusqu’à la pierre ; elle pouvait choisir la vitesse, le chemin et le prix. L’arrivée ne se choisissait pas. Elle avait passé trois jours à croire qu’elle décidait, et elle avait seulement appris dans quel sens penchait le sol.
 
 Ilex reprit sa main, et cette fois ce fut lui qui tira, doucement d’abord, puis du pas de quelqu’un qui rentre, vers le bas de la pente, vers Taldre et la maison au bout du sentier où l’on ne monte pas.
 

@@ -19,7 +19,7 @@ status: draft
 
 La route des Calcinés monte sans jamais montrer le sommet. Elle tourne, revient sur elle-même, contourne des coulées figées qui pendent au flanc du Mont Cendra comme des vagues surprises en train de tomber. À chaque lacet on croit voir le cratère ; à chaque lacet, c’est une autre épaule de basalte qui se dresse. Les prêtres-guerriers entretiennent les dalles depuis des générations et remplacent celles que les tremblements soulèvent. Le chemin est net, presque propre, sur une montagne qui ne l’est pas.
 
-Voilà vingt-trois jours que j’ai débarqué à Diamoris. J’ai passé les premiers à interroger des cristalliers et des plongeurs sur la chaleur qui monte des grottes de Kaldris. Les plongeurs ne redescendent plus aux cavernes aux cristaux rouges ; l’eau, disent-ils, s’est mise à pousser d’en bas. Les jours suivants sont allés à Brumaris, la ville du double veto, où la couronne et l’Ignis Aeternum ont chacun le droit de bloquer l’autre. Les derniers, à Kessa, la marchande de vin de cendre de Mylaris, qui m’a regardé un soir comme on regarde un homme dont on ne sait plus s’il ment ou s’il ignore.
+Voilà trente et un jours que j’ai débarqué à Diamoris. J’ai passé les premiers à interroger des cristalliers et des plongeurs sur la chaleur qui monte des grottes de Kaldris. Les plongeurs ne redescendent plus aux cavernes aux cristaux rouges ; l’eau, disent-ils, s’est mise à pousser d’en bas. Les jours suivants sont allés à Brumaris, la ville du double veto, où la couronne et l’Ignis Aeternum ont chacun le droit de bloquer l’autre. Les derniers, à Kessa, la marchande de vin de cendre de Mylaris, qui m’a regardé un soir comme on regarde un homme dont on ne sait plus s’il ment ou s’il ignore.
 
 Ce matin, elle monte avec moi.
 

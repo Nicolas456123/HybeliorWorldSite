@@ -10,7 +10,7 @@ status: draft
 
 Renna attela avant le jour, et le premier geste qu’elle fit en sortant fut de pousser la cendre du seuil vers la cour, comme tous les matins depuis vingt-cinq ans, alors qu’elle s’en allait et que plus personne n’entrerait par là. Elle s’arrêta le balai en l’air, le temps de s’en apercevoir. Puis elle finit le seuil. Il n’y avait aucune raison de le finir. Elle le finit proprement, jusqu’au coin.
 
-Le mulet loué au carrier ne valait pas ce qu’on en demandait, mais il tirait vers le nord sans qu’on eût à le battre, et cette nuit-là Renna n’exigeait rien de plus d’une bête : qu’elle allât où son propre corps n’allait pas.
+Le mulet loué au carrier ne valait pas ce qu’on en demandait, mais il tirait vers le sud sans qu’on eût à le battre, et cette nuit-là Renna n’exigeait rien de plus d’une bête : qu’elle allât où son propre corps n’allait pas.
 
 Elle chargea ce qu’on emporte quand on ne compte pas revenir et qu’on refuse de se le dire. Les cuves restaient, trop lourdes, et là où elle allait on ne teignait pas. Le mordant, l’alun, deux ballots de laine crue, le sel, du pain, la couverture d’Ilex. Ses mains nouèrent les cordes toutes seules pendant qu’elle pensait ailleurs ; elles avaient le bleu jusqu’au poignet, et sous les ongles le bleu était noir.
 
@@ -18,9 +18,9 @@ Il y avait dans la charrette une chose qu’elle n’y avait pas mise. La laine 
 
 Elle partait à cause de l’avant-veille.
 
-Cette nuit-là, à l’heure creuse, la chose sous le plancher avait fait son ouvrage habituel, le long, puis le court, et le bout qu’elle laissait tomber ; et puis elle avait tenu le bout. Tenu tout entier, une seconde, deux, un son plein qui n’était plus une mesure. Renna s’était retrouvée debout devant le mur du sud, pieds nus, dans le noir. Elle ne s’était pas vue se lever. Ce qui l’épouvanta fut la terre battue sous ses pieds, qui était tiède : elle était restée plantée là assez longtemps pour que le froid du sol eût passé dans elle. Au matin, elle était descendue louer le mulet.
+Cette nuit-là, à l’heure creuse, la chose sous le plancher avait fait son ouvrage habituel, le long, puis le court, et le bout qu’elle laissait tomber ; et puis elle avait tenu le bout. Tenu tout entier, une seconde, deux, un son plein qui n’était plus une mesure. Renna s’était retrouvée debout devant le mur du nord, pieds nus, dans le noir. Elle ne s’était pas vue se lever. Ce qui l’épouvanta fut la terre battue sous ses pieds, qui était tiède : elle était restée plantée là assez longtemps pour que le froid du sol eût passé dans elle. Au matin, elle était descendue louer le mulet.
 
-À l’arrière, dans le foin, Ilex dormait roulé sur le flanc, tourné au sud comme toujours, et Renna dut se retenir de le remettre droit, puisqu’on partait justement pour qu’il n’eût plus, jamais, de sud vers quoi rouler.
+À l’arrière, dans le foin, Ilex dormait roulé sur le flanc, tourné au nord comme toujours, et Renna dut se retenir de le remettre droit, puisqu’on partait justement pour qu’il n’eût plus, jamais, de nord vers quoi rouler.
 
 « On va où », dit l’enfant sans ouvrir les yeux.
 
@@ -38,7 +38,7 @@ Ilex mit du temps. Dans le noir elle ne voyait pas ses yeux, seulement leur pâl
 
 — On peut. Regarde. On part.
 
-— On peut partir. On peut pas être loin. » Il roula un peu plus vers le sud, dans ce sommeil qui n’en était pas un. « Y a pas de loin. Y en a plus. »
+— On peut partir. On peut pas être loin. » Il roula un peu plus vers le nord, dans ce sommeil qui n’en était pas un. « Y a pas de loin. Y en a plus. »
 
 Renna claqua la langue, le mulet s’ébranla, et la maison de guède, les cuves, l’odeur aigre de toute sa vie glissèrent derrière eux dans le petit jour. Au premier tournant, la cendre posée sur le bâchage pendant le chargement glissa d’un bloc et tomba sur la route. Ce fut tout ce qu’elle laissa de chez elle.
 
@@ -50,7 +50,7 @@ Le premier jour, la route descendit, et Renna crut que c’était gagné.
 
 C’était cela qu’elle était venue chercher : le silence sous les pieds, et la preuve qu’une vallée suffit.
 
-À la halte de midi, le lendemain, elle prit la couverture d’Ilex et la secoua au bord de la route pour en faire tomber le foin. Il n’en tomba pas que du foin. Une fumée grise partit dans le soleil, franche, épaisse, à onze ou douze lieues de chez elle, dans un pays où il n’était pas tombé une pincée de cendre depuis le matin. Renna secoua deux fois de plus. Il en sortait toujours.
+À la halte de midi, le lendemain, elle prit la couverture d’Ilex et la secoua au bord de la route pour en faire tomber le foin. Il n’en tomba pas que du foin. Une fumée grise partit dans le soleil, franche, épaisse, à neuf ou dix lieues de chez elle, dans un pays où il n’était pas tombé une pincée de cendre depuis le matin. Renna secoua deux fois de plus. Il en sortait toujours.
 
 Elle replia la couverture et remonta sur la charrette.
 
@@ -136,7 +136,7 @@ Elle regarda ses mains autour de l’écuelle. Le bleu y était entier, à quinz
 
 Ilex ne dormit pas, cette nuit-là, et Renna non plus.
 
-On leur avait donné la soupente au-dessus de l’étable, tiède de la chaleur des bêtes, et l’enfant y resta couché sur le dos, ce qui ne lui arrivait jamais, lui qui roulait toujours du côté du sud. Il n’avait plus la force de rouler. Il gisait où on l’avait posé, les mains ouvertes, le sud lui étant devenu trop lourd à chercher.
+On leur avait donné la soupente au-dessus de l’étable, tiède de la chaleur des bêtes, et l’enfant y resta couché sur le dos, ce qui ne lui arrivait jamais, lui qui roulait toujours du côté du nord. Il n’avait plus la force de rouler. Il gisait où on l’avait posé, les mains ouvertes, le nord lui étant devenu trop lourd à chercher.
 
 Dans le noir, en se couchant, elle tendit le bras à gauche pour trouver la planche du renfoncement. Il n’y avait pas de planche. Son pied, sur l’échelle, avait cherché tout à l’heure l’écart d’une marche qui n’était pas la sienne. Deux jours de route, et son corps continuait de faire le tour d’une maison qu’elle avait quittée.
 
@@ -216,25 +216,25 @@ D’abord si faible que Renna la prit pour son propre sang aux oreilles. Puis ne
 
 Deux choses se refermèrent sur elle en même temps.
 
-La première, c’est que l’aubergiste avait raison. Ça ne sortait pas que du Mont. Son puits qui chantait à quinze lieues était le premier. Se boucher, changer de vallée, filer vers le nord ou vers la mer : Renna avait passé sa vie à mettre de la distance entre elle et ça, et elle venait de voir, au bord d’une rivière, le fond de ce qu’on peut mettre. Le puits d’une aubergiste qui n’avait jamais rien entendu de sa vie s’était mis à répéter la chose dans le noir. Viendraient les chiens, puis les enfants ordinaires, puis chacun.
+La première, c’est que l’aubergiste avait raison. Ça ne sortait pas que du Mont. Son puits qui chantait à quinze lieues était le premier. Se boucher, changer de vallée, filer vers le sud ou vers la mer : Renna avait passé sa vie à mettre de la distance entre elle et ça, et elle venait de voir, au bord d’une rivière, le fond de ce qu’on peut mettre. Le puits d’une aubergiste qui n’avait jamais rien entendu de sa vie s’était mis à répéter la chose dans le noir. Viendraient les chiens, puis les enfants ordinaires, puis chacun.
 
 La seconde, c’est qu’elle avait emmené mourir l’enfant qui entendait le mieux, très exactement à l’heure où il aurait fallu l’écouter, lui, avant tous les autres.
 
 « On rentre », dit-elle.
 
-L’enfant, sur ses genoux, ouvrit à demi ses yeux de cire. Il ne demanda pas où. Il savait, comme il savait toutes les directions. Un souffle passa sur son visage ; il n’avait plus la force d’un sourire, mais quelque chose se dénoua dans ses traits, du côté du sud.
+L’enfant, sur ses genoux, ouvrit à demi ses yeux de cire. Il ne demanda pas où. Il savait, comme il savait toutes les directions. Un souffle passa sur son visage ; il n’avait plus la force d’un sourire, mais quelque chose se dénoua dans ses traits, du côté du nord.
 
 « Ourrène », dit-il tout bas, le premier son qu’il eût jamais donné à la chose, du temps où elle butait encore. « Il l’a presque. Faut se dépêcher, Renna. Faut que je sois là quand il l’aura. »
 
 \*
 
-Renna fit tourner le mulet dans le pré, à mains nues, sans reprendre les rênes, en poussant la tête de la bête vers le sud.
+Renna fit tourner le mulet dans le pré, à mains nues, sans reprendre les rênes, en poussant la tête de la bête vers le nord.
 
 La charrette reprit la route à l’envers. À chaque tour de roue le pays reperdait sa beauté et retrouvait sa cendre, ses arbres dont les branches s’en vont toutes du même bord ; et dans le foin, la main d’Ilex se réchauffa. Il demanda du pain avant le soir. Renna le lui donna et le regarda mordre dedans. Les deux morts marchaient toujours devant elle. Elle avait seulement cessé de choisir celle qui se déguisait en salut.
 
 Au milieu de l’après-midi, la première cendre neuve se posa sur le dos de sa main. Tiède. Une pincée de rien. Renna ne l’essuya pas. Elle attendit qu’il en vînt une deuxième. Il en vint une deuxième.
 
-Le lendemain, au troisième relais franchi vers le sud, l’enfant se redressa de lui-même dans le foin.
+Le lendemain, au troisième relais franchi vers le nord, l’enfant se redressa de lui-même dans le foin.
 
 « Il pousse plus loin qu’hier, dit-il.
 

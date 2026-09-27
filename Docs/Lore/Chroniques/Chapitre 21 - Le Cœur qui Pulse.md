@@ -21,7 +21,7 @@ L’odeur arrive depuis la mer, et ce n’est pas celle que j’attendais.
 
 Dans les ports d’Ilthara, à Hekorinth, le sel est net, presque animal ; il lave la gorge. Ici, le soufre vient d’abord. Il se pose au fond du palais avant que les poumons l’aient reçu, minéral, avec un goût de pierre chauffée trop longtemps. Dessous, une chaleur plus douce, terreuse, comme si le sol transpirait. Le sable des plages est noir. Il garde le soleil jusqu’au milieu de la nuit, puis le rend à l’obscurité, lentement, comme un poumon qui se vide.
 
-Douze jours de mer depuis la côte ouest d’Ilthara, dont trois au large, à attendre que le capitaine juge la passe assez calme pour entrer. Nous avons débarqué à Diamoris au matin. L’air de l’archipel m’a pris le visage comme une paume ouverte.
+Quatre jours de mer depuis la côte ouest d’Ilthara, dont trois au large, à attendre que le capitaine juge la passe assez calme pour entrer. Nous avons débarqué à Diamoris au matin. L’air de l’archipel m’a pris le visage comme une paume ouverte.
 
 Au bout de la passerelle, un officier du roi tenait un registre sous le bras. Il avait la mine de ceux qui ont mesuré leur journée d’avance. Il a demandé mes papiers, je les ai tendus, et il a lu la ligne qui suit mon nom depuis Rukhsar, celle de la notification, la remarque qui voyage plus vite que les caravanes. Ses yeux se sont levés une fraction de seconde de trop.
 
@@ -50,7 +50,7 @@ Brumaris ne cache pas ce qui a brûlé. Les pierres de la Salle du Conseil des C
 
 La ville marche à deux horloges. Le matin est aux prêtres : la procession des Feux de Veille monte la grande rue au lever du soleil, et nul ne traverse tant qu’elle passe. L’après-midi est au commerce et aux officiers du roi. Le soir n’est à personne, et c’est le soir que Brumaris se ressemble le plus : bruyante, querelleuse, occupée à se disputer des droits d’eau et des concessions de mine avec l’ardeur que d’autres villes mettent dans leurs fêtes. La couronne tient le temporel, le clergé tient la doctrine ; chacun a un veto sur l’autre, jamais brandi, jamais oublié. Personne, ici, n’appelle cela un accord.
 
-Le soir de mon deuxième jour, j’ai rencontré Kessa.
+Le soir de mon deuxième jour à Brumaris, j’ai rencontré Kessa.
 
 Elle vendait du vin de cendre à la sortie du marché couvert, depuis un chariot bas tiré par un âne des îles, à la robe gris poussière, aux yeux étonnamment calmes pour une bête cernée de bruits de forge. La quarantaine, ou plusieurs âges à la fois : des rides de plein air, des épaules de marcheuse, et des mains qui maniaient les coupes avec une précision d’artisane. Elle écoutait les gens. Pas par politesse : elle écoutait pour de bon, et cela se voyait aux clients, qui repartaient plus lentement qu’ils n’étaient venus.
 
@@ -176,7 +176,7 @@ Je me suis tourné vers elle.
 
 « Un menteur, au moins, il sait ce qu’il cache, dit-elle. Vous non. Vous ne savez pas encore ce que vous êtes en train de prouver. »
 
-La phrase est restée entre nous avec la fumée. Elle ne m’accusait pas. Elle me mettait devant une responsabilité que je n’avais pas demandée, ou que j’avais fait mine de ne pas demander. Je l’ai remerciée, ce qui était une sottise, et elle a eu la délicatesse de ne pas relever. Nous sommes remontés sans un mot par les degrés de basalte. À la porte de mon logement, elle m’a dit qu’elle repartait pour Mylaris dans trois jours : une famille de Solarith lui commandait du vin pour un mariage, et le chemin de la montagne passait devant les vignobles. Si je voulais voir la fumée de plus près, elle connaissait la route.
+La phrase est restée entre nous avec la fumée. Elle ne m’accusait pas. Elle me mettait devant une responsabilité que je n’avais pas demandée, ou que j’avais fait mine de ne pas demander. Je l’ai remerciée, ce qui était une sottise, et elle a eu la délicatesse de ne pas relever. Nous sommes remontés sans un mot par les degrés de basalte. À la porte de mon logement, elle m’a dit qu’elle repartait pour Mylaris dans trois semaines : une famille de Solarith lui commandait du vin pour un mariage, et le chemin de la montagne passait devant les vignobles. Si je voulais voir la fumée de plus près, elle connaissait la route.
 
 J’ai dit oui tout de suite. Trop vite, peut-être, pour un homme dont l’écriture, ce soir, ne tient pas la ligne. Kessa n’a pas paru le remarquer, ou n’a rien dit. Je l’ai laissée ne rien dire.
 
@@ -244,7 +244,7 @@ Le battement du Mont Cendra continue. Je le sens encore, diffus, atténué par l
 
 *Ancrages du monde. Ce que le monde tient.* Je recopie les mots de l’inscription, non parce que je les crois, mais parce qu’ils sont, cette nuit, la seule carte que j’aie d’un pays où je viens d’entrer sans m’en apercevoir. Une carte fausse vaut mieux que pas de carte, à condition de savoir qu’elle est fausse et de noter en marge tout ce qui ne colle pas.
 
-Demain, ou après-demain, je monte avec Kessa vers le feu, pour prendre le battement à sa source et le mesurer là où il naît. C’est ce que je sais faire, mesurer, et rien d’autre. Une fois par saison. Une fois par semaine. La direction du chiffre mène quelque part ; je crois deviner où, et je ne l’écrirai pas encore. Écrite, cette destination cesserait d’être une hypothèse pour devenir un aveu, et je ne suis pas prêt à confondre les deux.
+Dans trois semaines, je monte avec Kessa vers le feu, pour prendre le battement à sa source et le mesurer là où il naît. C’est ce que je sais faire, mesurer, et rien d’autre. Une fois par saison. Une fois par semaine. La direction du chiffre mène quelque part ; je crois deviner où, et je ne l’écrirai pas encore. Écrite, cette destination cesserait d’être une hypothèse pour devenir un aveu, et je ne suis pas prêt à confondre les deux.
 
 Kessa m’a dit que je ne sais pas encore ce que je suis en train de prouver.
 

@@ -43,7 +43,7 @@ C’était vrai, et Mielle le crut parce que c’était vrai, et Renna vit passe
 
 On frappa au milieu de l’après-midi, deux coups, puis un troisième après un temps, comme quelqu’un qui hésite entre frapper et s’en aller.
 
-Renna avait poussé le volet dès qu’elle les avait vues monter du chemin, la femme et la petite. Dans le renfoncement, Ilex s’était redressé sur les genoux et regardait la porte. Il avait lâché le sud, pour une fois, et il y avait sur son petit visage une attention qu’elle ne lui connaissait pas et qui la troubla plus qu’une frayeur.
+Renna avait poussé le volet dès qu’elle les avait vues monter du chemin, la femme et la petite. Dans le renfoncement, Ilex s’était redressé sur les genoux et regardait la porte. Il avait lâché le nord, pour une fois, et il y avait sur son petit visage une attention qu’elle ne lui connaissait pas et qui la troubla plus qu’une frayeur.
 
 « Ne dis rien, souffla-t-elle. Quoi qu’elle demande. Tu ne dis rien de l’eau qui monte. On se rappelle ?
 
@@ -83,7 +83,7 @@ Elles firent la soupe en parlant de laine, parce qu’il fallait bien parler de 
 
 Renna reposa l’écheveau sur le banc et laissa la phrase où elle était. Ce fut Ilex, à la fin, qui rompit le silence, parce qu’il n’avait jamais appris à le tenir.
 
-« Tu poses ton dos contre le mur qui donne au sud, dit-il à Sanne. Comme moi. Tu crois que c’est pour le chaud de l’âtre. C’est pas pour le chaud.
+« Tu poses ton dos contre le mur qui donne au nord, dit-il à Sanne. Comme moi. Tu crois que c’est pour le chaud de l’âtre. C’est pas pour le chaud.
 
 — Ilex.
 
@@ -109,7 +109,7 @@ Renna tenait sa cuiller sans manger. Elle s’était crue seule à porter cette 
 
 La chose vint cette nuit-là, comme chaque nuit désormais, à l’heure creuse.
 
-Renna la sentit monter dans son sommeil et s’éveilla avant qu’elle fût pleine, le dos raide, l’enfant chaud contre sa hanche et déjà tourné vers le sud, les lèvres remuant sur la syllabe. De l’autre côté de l’âtre, dans le rougeoiement des braises, Sanne s’était réveillée aussi. Elle s’était assise, les reins plaqués contre le montant de pierre, la tête inclinée sur l’épaule, les mains oubliées sur ses genoux, et rien sur le visage que l’attention lourde de qui écoute une chose trop grande pour la tenir.
+Renna la sentit monter dans son sommeil et s’éveilla avant qu’elle fût pleine, le dos raide, l’enfant chaud contre sa hanche et déjà tourné vers le nord, les lèvres remuant sur la syllabe. De l’autre côté de l’âtre, dans le rougeoiement des braises, Sanne s’était réveillée aussi. Elle s’était assise, les reins plaqués contre le montant de pierre, la tête inclinée sur l’épaule, les mains oubliées sur ses genoux, et rien sur le visage que l’attention lourde de qui écoute une chose trop grande pour la tenir.
 
 Elles ne parlèrent pas pendant que ça montait. On ne parle pas pendant. Renna fit ce qu’elle savait faire, et quand la poussée reflua, quand le sol reprit son souffle, elle s’aperçut que Sanne l’avait regardée faire, tout du long, avec une avidité tranquille.
 
@@ -125,7 +125,7 @@ Sous la lueur des braises, elle fit sauter la lanière et tira de sous sa chemis
 
 « Pourquoi vous me montrez ça, dit Renna. Vous ne me connaissez pas.
 
-— Parce qu’il y a un de ces endroits obscurs, dit Sanne, et sa voix se posa, dure au début et douce à la fin comme tout ce qu’elle disait, que je n’ai jamais compris de ma vie, et que j’ai compris cet après-midi, sur le pas de votre porte, en voyant votre petit. » Elle regarda le renfoncement, l’enfant tourné au sud. « Il y a une ligne, là-dedans, sur ceux qui entendent le fer avant qu’il chante. Je croyais que c’était une façon de dire, un tour de forgeron, une image pour parler des bons ouvriers. Ma mère parlait comme ça, en fer, tout le temps. Et puis votre petit m’a dit que mon dos entendait, et j’ai su qu’on ne parlait pas en images. Que quelqu’un, il y a très longtemps, a mis par écrit, en toutes lettres, qu’il existe des gens faits pour entendre ce qui monte, et qu’il l’a écrit du ton dont on écrit une chose qu’on a vue. » Elle appuya le plat des doigts sur la toile. « J’ai porté ça toute ma vie sans savoir que ça parlait de gens comme votre enfant. Comme vous. »
+— Parce qu’il y a un de ces endroits obscurs, dit Sanne, et sa voix se posa, dure au début et douce à la fin comme tout ce qu’elle disait, que je n’ai jamais compris de ma vie, et que j’ai compris cet après-midi, sur le pas de votre porte, en voyant votre petit. » Elle regarda le renfoncement, l’enfant tourné au nord. « Il y a une ligne, là-dedans, sur ceux qui entendent le fer avant qu’il chante. Je croyais que c’était une façon de dire, un tour de forgeron, une image pour parler des bons ouvriers. Ma mère parlait comme ça, en fer, tout le temps. Et puis votre petit m’a dit que mon dos entendait, et j’ai su qu’on ne parlait pas en images. Que quelqu’un, il y a très longtemps, a mis par écrit, en toutes lettres, qu’il existe des gens faits pour entendre ce qui monte, et qu’il l’a écrit du ton dont on écrit une chose qu’on a vue. » Elle appuya le plat des doigts sur la toile. « J’ai porté ça toute ma vie sans savoir que ça parlait de gens comme votre enfant. Comme vous. »
 
 Renna resta longtemps sans répondre. Dans le noir, l’idée se faisait en elle, lentement, énorme, à peine tenable. Ce qu’elle avait pris pour une tare de sa maison, une tache propre à trois ou quatre femmes d’un même sang de cendre, avait déteint ailleurs, sur d’autres, dans d’autres pays, avant elle et sans elle. Quelqu’un l’avait vue chez d’autres. Quelqu’un l’avait jugée assez vraie pour la coucher sur du papier et la faire courir jusqu’à cette nuit. Elle était un maillon.
 
@@ -161,11 +161,11 @@ Renna sentit à ce mot un froid qu’elle connaissait remonter le long de ses br
 
 — Peut-être. » Sanne ne trancha pas ; Renna remarqua qu’elle ne tranchait jamais, qu’elle posait les choses côte à côte sans les souder. « Ou deux mains qui ne se connaissent pas et qui font le même geste chacune de son côté, parce que le monde entier s’est mis, cette saison, à vouloir ranger ce qu’il ne comprend pas. Je ne sais pas laquelle des deux, et je ne l’apprendrai jamais. Alors je n’écris rien à cette ligne. Un creux qu’on bouche avec un nom reste un creux, et on a un faux nom en plus. »
 
-Derrière le volet, le gris prenait, sans soleil dedans. Wenna dormait encore. L’enfant s’était rendormi, la joue au sud, la main ouverte sur la terre. Sanne renfonça le paquet contre sa peau, sous la chemise, reprit la lanière, deux tours de poitrine, le nœud sous l’aisselle, sans regarder ses mains ; et Renna sut à ce geste qu’elle partait, que la guède n’aurait pas ses trois jours, et qu’on laissait retomber le mensonge de la teinture puisqu’il avait servi.
+Derrière le volet, le gris prenait, sans soleil dedans. Wenna dormait encore. L’enfant s’était rendormi, la joue au nord, la main ouverte sur la terre. Sanne renfonça le paquet contre sa peau, sous la chemise, reprit la lanière, deux tours de poitrine, le nœud sous l’aisselle, sans regarder ses mains ; et Renna sut à ce geste qu’elle partait, que la guède n’aurait pas ses trois jours, et qu’on laissait retomber le mensonge de la teinture puisqu’il avait servi.
 
 « Vous ne restez pas, dit-elle.
 
-— Deux qui portent sous le même toit, ça fait deux cibles au lieu d’une. Un vieux m’a dit ça de l’autre côté de la mer, et il avait raison, ce qui m’a fâchée. » Sanne se leva. « Je monte vers le nord. On m’a parlé d’une maison de papier, là-bas, où l’on recopie ce qu’on apporte et où l’on ne demande rien à personne. C’est là qu’on dépose, en ce moment, les choses trop grandes pour un seul dos. Je vais poser le mien où des mains le trouveront. Pas dans un trou. Sur une table, au milieu des autres. Personne ne me croit quand je le dis. »
+— Deux qui portent sous le même toit, ça fait deux cibles au lieu d’une. Un vieux m’a dit ça de l’autre côté de la mer, et il avait raison, ce qui m’a fâchée. » Sanne se leva. « Je descends à la mer, et de là au nord. On m’a parlé d’une maison de papier, là-bas, où l’on recopie ce qu’on apporte et où l’on ne demande rien à personne. C’est là qu’on dépose, en ce moment, les choses trop grandes pour un seul dos. Je vais poser le mien où des mains le trouveront. Pas dans un trou. Sur une table, au milieu des autres. Personne ne me croit quand je le dis. »
 
 « Et votre enfant à vous, dit Renna. La petite.
 
@@ -197,6 +197,6 @@ Et elle s’en alla, la charge haute sur le dos, la petite devant, du pas égal 
 
 — Non. Un mensonge vrai, ça ne prend pas. Ça reste posé dessus et ça se voit de loin. C’est le seul qu’on ne me croit jamais. »
 
-L’enfant regarda vers le nord d’abord, du côté où la femme s’en allait, puis, plus lentement, vers le sud, celui du Mont, comme si les deux directions, à la fin, n’en faisaient plus qu’une. Renna redescendit vers la maison, l’enfant contre elle. Dans la cour, la guède achevait ses trois jours, et la laine qu’elle devait prendre s’en allait vers le nord.
+L’enfant regarda vers le sud d’abord, du côté où la femme s’en allait, puis, plus lentement, vers le nord, celui du Mont, comme si les deux directions, à la fin, n’en faisaient plus qu’une. Renna redescendit vers la maison, l’enfant contre elle. Dans la cour, la guède achevait ses trois jours, et la laine qu’elle devait prendre s’en allait vers le sud.
 
 Une couleur encore verte travaillait dans l’épaisseur de la pierre, remontant vers l’air du mouvement dont le bleu vient au linge à la sortie de la cuve, quand il rencontre enfin de quoi prendre.

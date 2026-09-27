@@ -10,7 +10,7 @@ status: draft
 
 Renna descendit à Taldre pour du sel et une mesure d’alun, et elle prépara ses réponses en chemin, comme elle les préparait depuis toujours. Il est chez une voisine. Il dort. C’est le petit de ma cousine, qui est morte, et il est lent. Elle en tenait trois, les trois étaient en place avant le premier tournant du sentier, et de les avoir prêtes lui faisait les épaules plus légères.
 
-Ilex, elle l’avait laissé en haut, la porte tirée, la consigne dite trois fois : ne pas sortir, ne pas répondre, ne pas dire le mot. Il avait promis en regardant le mur du sud, ce qui ne valait pas une vraie promesse. Mais depuis quinze jours la vallée s’était mise à compter ceux qui avaient les yeux blancs, et elle n’allait pas en promener un sur la place du marché.
+Ilex, elle l’avait laissé en haut, la porte tirée, la consigne dite trois fois : ne pas sortir, ne pas répondre, ne pas dire le mot. Il avait promis en regardant le mur du nord, ce qui ne valait pas une vraie promesse. Mais depuis quinze jours la vallée s’était mise à compter ceux qui avaient les yeux blancs, et elle n’allait pas en promener un sur la place du marché.
 
 La vallée avait changé en quinze jours. À l’aller, sur le sentier, elle croisa deux familles qui montaient du bas avec des ballots sur le dos, un âne, une chèvre au bout d’une corde. Elles marchaient vite, les yeux devant, de ce pas qu’ont les gens qui déménagent une peur. Plus personne ne montait vers le Mont pour prier. On traversait la vallée pour en sortir par l’autre bout, et ceux qui restaient dormaient d’un œil, comme on dort dans une maison au toit fendu.
 
@@ -110,7 +110,7 @@ Le raisonnement était bon. Renna le sentit se refermer sur elle, propre, sans u
 
 — Nous ne repassons pas, dit Corvane. Nous descendons. Nous avons onze hameaux à faire avant que Vytharia n’en fasse un seul, et le temps que nous perdons ici, nous le perdons contre eux, pas contre vous. Réveillez-le. Un enfant simple qu’on réveille pleure et se rendort. Deux minutes, madame, et pas de cruauté là-dedans. »
 
-Derrière la cloison, entre les cuves, dans le noir de la resserre, il y eut un froissement : un petit corps s’était tourné, sans une toux, sans un mot, vers le sud, vers le Mont, parce qu’à l’heure du milieu de journée la longue poussée montait et que rien, pas même une planche tirée et l’ordre trois fois dit, ne tenait l’enfant du bon côté. Oréane l’entendit. Le greffier l’entendit. Renna vit les yeux du greffier bouger d’un cheveu vers la porte de la resserre, s’y poser, y rester.
+Derrière la cloison, entre les cuves, dans le noir de la resserre, il y eut un froissement : un petit corps s’était tourné, sans une toux, sans un mot, vers le nord, vers le Mont, parce qu’à l’heure du milieu de journée la longue poussée montait et que rien, pas même une planche tirée et l’ordre trois fois dit, ne tenait l’enfant du bon côté. Oréane l’entendit. Le greffier l’entendit. Renna vit les yeux du greffier bouger d’un cheveu vers la porte de la resserre, s’y poser, y rester.
 
 Depuis l’enfance, elle entendait à travers un mur ce que personne n’entendait. Deux étrangers venaient de le faire à travers le sien.
 
@@ -132,7 +132,7 @@ Un souffle sur l’encre, le registre refermé, rangé. Oréane n’avait rien d
 
 Renna ne montra pas l’enfant.
 
-Elle sut, en ne le montrant pas, ce que cela coûtait, du savoir même qui lui avait fait comprendre, la première fois, qu’en mentant à Oréane elle s’était désignée. Montrer Ilex, c’était le perdre à coup sûr : Ilex debout devant un greffier tiendrait une question, deux peut-être, et à la troisième il aurait tourné la tête vers le sud, dit le mot, et ce qu’il avait dans les yeux, et l’avance de sa voix, auraient livré en un souffle tout ce que Renna niait depuis le premier jour. Ne pas le montrer, c’était le perdre plus lentement : laisser la ligne ouverte, laisser la croix, laisser le registre descendre la vallée et remonter chez Vytharia, et faire de son bout de sentier le seul coin de la vallée où il faudrait monter. Les deux la perdaient. Elle choisit le plus lent, parce que le plus lent laissait encore des jours, et que dans les jours il reste toujours l’idée bête qu’il finira par s’ouvrir quelque chose.
+Elle sut, en ne le montrant pas, ce que cela coûtait, du savoir même qui lui avait fait comprendre, la première fois, qu’en mentant à Oréane elle s’était désignée. Montrer Ilex, c’était le perdre à coup sûr : Ilex debout devant un greffier tiendrait une question, deux peut-être, et à la troisième il aurait tourné la tête vers le nord, dit le mot, et ce qu’il avait dans les yeux, et l’avance de sa voix, auraient livré en un souffle tout ce que Renna niait depuis le premier jour. Ne pas le montrer, c’était le perdre plus lentement : laisser la ligne ouverte, laisser la croix, laisser le registre descendre la vallée et remonter chez Vytharia, et faire de son bout de sentier le seul coin de la vallée où il faudrait monter. Les deux la perdaient. Elle choisit le plus lent, parce que le plus lent laissait encore des jours, et que dans les jours il reste toujours l’idée bête qu’il finira par s’ouvrir quelque chose.
 
 « Descendez, dit-elle. Tous les deux. Il n’y a rien ici. Un chat, une femme, des cuves. Descendez. »
 
@@ -146,7 +146,7 @@ Ils descendirent, la robe claire et l’homme gris, le soleil et la plume. Au to
 
 L’homme à la lune ne monta pas jusqu’à la maison ce soir-là. Il s’arrêta à mi-pente, s’assit sur une pierre, regarda la maison longtemps, puis redescendit à la nuit. Renna le vit faire par la fente du volet. Il n’avait pas besoin de monter. Le greffier avait lu la maison, celui-ci lisait la pente, et l’un comme l’autre repartaient avec ce qu’ils étaient venus chercher.
 
-La nuit pleine, elle tira la planche de la resserre et sortit Ilex du noir. L’enfant avait chaud, sentait la guède, et ses yeux, dans la lueur des braises, avaient retrouvé le poli qu’ils avaient perdu au nord. Vivant. Trop vivant pour un enfant qu’il fallait faire passer pour éteint.
+La nuit pleine, elle tira la planche de la resserre et sortit Ilex du noir. L’enfant avait chaud, sentait la guède, et ses yeux, dans la lueur des braises, avaient retrouvé le poli qu’ils avaient perdu au sud. Vivant. Trop vivant pour un enfant qu’il fallait faire passer pour éteint.
 
 « Tu t’es tourné, dit Renna. Je t’avais dit de ne pas te tourner.
 
@@ -176,7 +176,7 @@ L’enfant écouta, mâcha, avala, et ne parut ni fier ni effrayé. Il pencha la
 
 Renna reprit le quignon et finit de le couper. Le sable, elle n’y comprenait rien. L’enfant avait raison, cela ne faisait pas de doute : on se disputait autour de lui une chose qui n’était pas lui, et aucun de ceux qui se pressaient vers ce point étroit ne voyait couler ce qui coulait. Elle non plus.
 
-Elle le coucha face à l’âtre. Au matin il serait retourné, la joue au mur du sud, et elle ne se lèverait pas pour le remettre.
+Elle le coucha face à l’âtre. Au matin il serait retourné, la joue au mur du nord, et elle ne se lèverait pas pour le remettre.
 
 « Dors, dit-elle.
 

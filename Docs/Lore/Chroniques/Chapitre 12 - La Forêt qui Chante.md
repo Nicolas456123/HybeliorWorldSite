@@ -17,7 +17,7 @@ status: draft
 
 ---
 
-Vingt-cinq jours de mer entre Onara et Endora, et pas une heure sans que la coque gémisse. Le capitaine parlait d’une traversée douce ; il en avait vu d’autres, je l’ai cru sur parole. À Malderis, j’ai débarqué avec Pardine, ma mule, un manteau raidi de sel et un cahier de moins qu’à Tyndara. Un douanier de l’Onar en avait décidé pour moi, deux semaines plus tôt, en glissant un de mes paquets scellés dans un coffre à serrure. Je n’ai pas protesté, et ce vol-là m’ôtait un poids.
+Deux jours de mer entre Onara et Endora, et pas une heure sans que la coque gémisse. Le capitaine parlait d’une traversée douce ; il en avait vu d’autres, je l’ai cru sur parole. À Malderis, j’ai débarqué avec Pardine, ma mule, un manteau raidi de sel et un cahier de moins qu’à Tyndara. Un douanier de l’Onar en avait décidé pour moi, deux jours plus tôt, en glissant un de mes paquets scellés dans un coffre à serrure. Je n’ai pas protesté, et ce vol-là m’ôtait un poids.
 
 De Malderis, deux jours de plaines agricoles vers l’ouest, jusqu’à une bande de terre que les cartes nomment « territoire frontalier non administré » et que les gens du cru appellent « entre les deux ». Entre les plaines endoraines et la forêt de Sanvara. Des deux noms, celui du cru est le plus exact ; j’ai porté les deux sur mon relevé.
 
@@ -70,7 +70,7 @@ Le second jour, il me demanda si je connaissais le Cantus Mundi.
 « Un batelier de l’Onar m’a parlé des chanteurs d’Endora, dis-je. Avec de la dévotion et de l’inquiétude dans la même phrase.
 — C’est un assez bon résumé. »
 
-Il expliqua sans solennité, au pas des bêtes. Le Cantus n’était pas né ici. Il venait de Thalmaris, en Evertia, d’où les gens de Sarandel descendaient. Des générations plus tôt, des bardes avaient quitté la mère-patrie, il ne dit pas pourquoi et je n’ai pas insisté, et s’étaient posés à la lisière de Sanvara. Trop loin pour rentrer, trop fidèles pour oublier : un morceau de Thalmaris déposé en Endora, qui chantait encore dans la vieille langue. Pas une religion au sens de Kharazir. Ni temple central, ni dogme écrit. Une manière d’entendre. Le monde, disaient-ils, est traversé par une résonance de fond ; la musique n’en est pas l’image, elle en est l’accès.
+Il expliqua sans solennité, au pas des bêtes. Le Cantus n’était pas né ici. Il venait de Thalmaris, derrière les collines du nord-est, d’où les gens de Sarandel descendaient. Des générations plus tôt, des bardes avaient quitté la mère-patrie, il ne dit pas pourquoi et je n’ai pas insisté, et s’étaient posés à la lisière de Sanvara. Ils vivaient à quelques jours de la mère-patrie et n’y retournaient pas : un morceau de Thalmaris déposé au bord de la forêt, qui chantait encore dans la vieille langue. Pas une religion au sens de Kharazir. Ni temple central, ni dogme écrit. Une manière d’entendre. Le monde, disaient-ils, est traversé par une résonance de fond ; la musique n’en est pas l’image, elle en est l’accès.
 
 « On y accède comment, concrètement ? demandai-je.
 — En apprenant à écouter ce qu’il y a sous les sons.
@@ -128,7 +128,7 @@ Le soir, il me conduisit à l’École d’Écoute, que ses fondateurs avaient n
 
 Ce que les élèves recueillaient dans cette note m’échappait pour l’essentiel ; je n’ai pas d’oreille formée. Mais à mesure que la note mourait, puis renaissait un peu différente sous l’archet, ma façon d’écouter a changé. Non plus écouter pour prendre une information : rester devant le son jusqu’à ce qu’il ait fini d’agir. C’était plus difficile que je ne l’aurais cru, et j’ai noté la difficulté avec le reste.
 
-Le troisième soir, Sydra me servit une soupe d’orge et, tout en essuyant ses mains à son tablier, me donna les nouvelles que rapportaient les rares bateaux de la mère-patrie.
+Le troisième soir, Sydra me servit une soupe d’orge et, tout en essuyant ses mains à son tablier, me donna les nouvelles que rapportaient les colporteurs de la mère-patrie.
 
 « La Reine-Barde ne dort plus, dit-elle. Elyndra, la troisième du nom. Trois ans qu’elle ne dort plus. Elle compose la nuit dans le Palais du Chant, et ses musiciens tombent de fatigue à jouer ce qu’elle leur donne. »
 
@@ -138,7 +138,7 @@ La note dormait dans mon carnet depuis la traversée : la Reine-Barde passait p
 
 Sydra haussa les épaules et ramassa mon bol.
 
-« Les bateaux ne le disent pas. Ils disent qu’elle chante des choses qui n’existent pas encore, et que trois fois cette année, la chose est arrivée ensuite. Un naufrage, une comète, un enfant né les yeux blancs à Ostarith. Là-bas, on ne dit plus des prophéties. On dit des avances. »
+« Les colporteurs ne le disent pas. Ils disent qu’elle chante des choses qui n’existent pas encore, et que trois fois cette année, la chose est arrivée ensuite. Un naufrage, une comète, un enfant né les yeux blancs à Ostarith. Là-bas, on ne dit plus des prophéties. On dit des avances. »
 
 Elle prononça le mot sans y penser, en femme qui répète ce que les quais lui ont rapporté. Je l’ai écrit le soir même. Une prophétie regarde loin devant ; une avance suppose que la chose est déjà en route, et qu’on l’entend seulement plus tôt. La nuance n’était pas mince, et ce n’était pas moi qui l’avais introduite.
 

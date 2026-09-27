@@ -154,18 +154,18 @@ La hutte du veilleur était de bois vivant, comme tout Thalenvir : une seule pi
 
 J’entrai.
 
-Ourven était sur sa couche, tourné vers la paroi, une couverture de fibre remontée à mi-corps comme s’il dormait. Il ne dormait pas. Deux doigts posés à son cou, par méthode. La peau était froide, d’un froid installé, un froid de plusieurs heures. Le foyer était éteint et ne fumait plus. Derrière la hutte, la source coulait toujours, mais elle coulait sur rien. Il n’y avait dans la clairière aucune des pressions que j’avais senties tout le long de la montée. Ni la présence d’un esprit vivant, ni la trace vide d’un esprit retiré. Un troisième état, que je n’avais rencontré nulle part. Le rien après le retrait. Comme si l’esprit d’Ourthalle, en partant, n’avait pas même laissé le creux que laissent les autres.
+Ourven était sur sa couche, tourné vers la paroi, une couverture de fibre remontée à mi-corps comme s’il dormait. Il ne dormait pas. Deux doigts posés à son cou, par méthode. La peau était froide, d’un froid installé, un froid de plusieurs jours. Le foyer était éteint et ne fumait plus. Derrière la hutte, la source coulait toujours, mais elle coulait sur rien. Il n’y avait dans la clairière aucune des pressions que j’avais senties tout le long de la montée. Ni la présence d’un esprit vivant, ni la trace vide d’un esprit retiré. Un troisième état, que je n’avais rencontré nulle part. Le rien après le retrait. Comme si l’esprit d’Ourthalle, en partant, n’avait pas même laissé le creux que laissent les autres.
 
-L’homme était mort. Je notai l’heure, puis le froid du corps, et j’en tirai qu’il était mort la veille au soir. La veille au soir, mon navire n’avait pas encore passé les récifs du détroit. J’étais en mer quand Ourven cessa d’entendre. Je consigne ce fait parce qu’il est vrai, et parce qu’il m’innocente d’une chose. De l’autre, il ne m’innocente pas.
+L’homme était mort. Je notai l’heure, puis le froid du corps, et j’en tirai qu’il était mort depuis trois soirs. Trois soirs plus tôt, mon navire n’avait pas encore passé les récifs du détroit. J’étais en mer quand Ourven cessa d’entendre. Je consigne ce fait parce qu’il est vrai, et parce qu’il m’innocente d’une chose. De l’autre, il ne m’innocente pas.
 
 Debout près de la couche, je restai un moment, le cahier ouvert à la page où la question attendait. *Depuis quand vous êtes-vous tu, et qu’avez-vous entendu en dernier.* Je l’avais portée en courant pour un homme qui ne l’entendrait pas. Elle ne fut posée à personne. Je la laissai sur la page, avec la date, et je passai à la suivante, parce que c’est ce que je fais, et que je le savais en montant.
 
 Un bruit à la porte. Un initié, pas Aerith : un autre, plus jeune encore, qui avait dû monter par un chemin parallèle. Sur le seuil, il se figea en me voyant penché sur le mort, le cahier à la main.
 
 « Vous, dit-il, le souffle court. Vous étiez là.
-— J’arrive. » Je lui montrai mes deux doigts, encore froids du cou d’Ourven. « Il est mort hier soir. J’étais en mer hier soir. »
+— J’arrive. » Je lui montrai mes deux doigts, encore froids du cou d’Ourven. « Il est mort il y a trois soirs. J’étais en mer, il y a trois soirs. »
 
-Le garçon regarda le corps, puis moi, puis le corps, et je vis sa colère chercher un visage sans en trouver. C’est cela qui me disculpa à ses yeux, pas ma parole. Un menteur peut jurer. Un menteur ne peut pas être en mer. La marée de la veille et les récifs témoignaient pour moi mieux que je n’aurais su le faire.
+Le garçon regarda le corps, puis moi, puis le corps, et je vis sa colère chercher un visage sans en trouver. C’est cela qui me disculpa à ses yeux, pas ma parole. Un menteur peut jurer. Un menteur ne peut pas être en mer. La marée de ce soir-là et les récifs témoignaient pour moi mieux que je n’aurais su le faire.
 
 « L’étranger, dit-il enfin. Celui de la semaine dernière. C’est lui.
 — Peut-être. Vous l’avez vu ?
@@ -195,7 +195,7 @@ Rien ne vint. Nous marchâmes un moment dans ce silence, et puis je posai la seu
 
 Aerith s’arrêta. La lanterne fit tourner nos deux ombres, les seules de toute la forêt.
 
-« À Sylvara, dit-il enfin. De l’autre côté du détroit, quand la marée le permet. Une gardienne veille la dernière voix qui répond encore. Thalmaris. C’est là que va l’Aînée quand elle veut entendre l’île respirer. Mais la marée ne s’ouvre que certains jours. Vous devrez attendre.
+« À Sylvara, dit-il enfin. De l’autre côté du détroit, quand la marée le permet. Une gardienne veille la dernière voix qui répond encore. Cëpias. C’est là que va l’Aînée quand elle veut entendre l’île respirer. Mais la marée ne s’ouvre que certains jours. Vous devrez attendre.
 — J’attendrai.
 — Vous attendrez », répéta-t-il, et il reprit la descente.
 
@@ -229,7 +229,7 @@ Un instant, elle ferma les yeux.
 
 « Le même que celui reçu par trois de nos Archidruides en communion, il y a deux ans et demi, avant que le Silence ne commence. Trois bouches, la même phrase, au même instant. *Ils arrivent par le dessous.* »
 
-Ma main s’arrêta, à plat sur le cahier. *Ils arrivent par le dessous.* Les mots d’un enfant aux yeux blancs, à Cendra, la main tendue vers ma poitrine. Les mots d’un vieux chamane des hautes plaines d’Alkaran, à mille lieues de là, dans une autre langue et le même sens. Les mots gravés au fronton d’une mine dont je n’avais pas retenu le nom. Dans la marge, je les alignai en colonne, les quatre, avec le lieu et la date de chacun, et je ne tirai pas de trait entre eux. Toute la nuit, j’ai tenu sans tirer ce trait. C’est la seule discipline qui me reste.
+Ma main s’arrêta, à plat sur le cahier. *Ils arrivent par le dessous.* Les mots d’un chamane de Warenthor, sous les arbres d’Ilthara, dans une autre langue et le même sens. Ceux d’un Cavalier du Vent, à un feu de Lythar, pour des chevaux qui se cabraient au bord des creux. Les mots gravés au fronton d’une mine dont je n’avais pas retenu le nom. Dans la marge, je les alignai en colonne, les quatre, avec le lieu et la date de chacun, et je ne tirai pas de trait entre eux. Toute la nuit, j’ai tenu sans tirer ce trait. C’est la seule discipline qui me reste.
 
 « *Ils*, dis-je enfin. Pas *il*. Le pluriel est dans la formule ?
 — Le pluriel est dans la formule, récita-t-elle. Nous ne l’expliquons pas. Nous le transmettons tel quel.
@@ -266,7 +266,7 @@ Je restai encore quatre jours à Thalenvir, à attendre la marée de Sylvara.
 
 La seconde femme du Cercle, celle qui écrivait en glyphes courbes sur une plaque de bois, me laissa lire aux archives ce que je pouvais en lire : les passages en galenorien classique, noyés dans un evertien qui me restait fermé. Cela suffit pour savoir que la théorie des Ancrages n’était pas une trouvaille du Cercle actuel. On la voit affleurer dans des textes que les druides datent d’avant la fondation de l’île. Plus vieille, donc, qu’Evertia elle-même. Cela seul valait le voyage, et ce n’est pourtant pas ce que je retiens de ces jours.
 
-Ce que je retiens, c’est la clairière d’Ourthalle. Le froid installé sous mes deux doigts. La source qui coulait sur rien. Et la question que j’avais portée en courant, restée ouverte sur une page, sous une date, pour un homme mort la veille au soir pendant que je passais les récifs. Sans y répondre et sans arracher la page, je l’ai laissée là. C’est la première page du voyage que je laisse ouverte. Si je la garde, c’est, je crois, pour ne pas oublier que j’arrive parfois après tout le monde. Cela ne change rien à ce que je fais ensuite. Cela change seulement ce que je pourrais penser de moi.
+Ce que je retiens, c’est la clairière d’Ourthalle. Le froid installé sous mes deux doigts. La source qui coulait sur rien. Et la question que j’avais portée en courant, restée ouverte sur une page, sous une date, pour un homme mort trois soirs plus tôt, pendant que j’attendais de passer les récifs. Sans y répondre et sans arracher la page, je l’ai laissée là. C’est la première page du voyage que je laisse ouverte. Si je la garde, c’est, je crois, pour ne pas oublier que j’arrive parfois après tout le monde. Cela ne change rien à ce que je fais ensuite. Cela change seulement ce que je pourrais penser de moi.
 
 Le garçon de la source avait raison sur un point et tort sur l’autre. Je ne suis pas celui qui a fermé la porte d’Ourven : j’étais en mer. Mais je serais reparti avec un cahier plein, et je suis reparti quand même, avec le peu que la clairière m’a laissé : la date, le froid, le rien après le retrait, et le mot Panghor, que je n’avais pas la veille.
 

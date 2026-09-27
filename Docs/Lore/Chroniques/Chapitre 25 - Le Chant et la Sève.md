@@ -3,7 +3,7 @@ chapitre: 25
 titre: Le Chant et la Sève
 acte: IV
 jour: 600
-lieux: [Evertia, Thalmaris, Sylvara]
+lieux: [Evertia, Cëpias, Sylvara]
 pov: Sorin Valthen
 status: draft
 ---
@@ -11,13 +11,13 @@ status: draft
 # Chapitre 25 — Le Chant et la Sève
 
 > *« Quand la note tombe, ne chante pas plus fort. Descends la chercher. »*
-> — Règle d’atelier de l’Académie du Cantus, Thalmaris
+> — Règle d’atelier de l’Académie du Cantus, Cëpias
 
-**Evertia — Thalmaris, puis Sylvara, l’Arbre-Mère — Jour 600**
+**Evertia — Cëpias, puis Sylvara, l’Arbre-Mère — Jour 600**
 
 ---
 
-On entend Thalmaris avant de la voir.
+On entend Cëpias avant de la voir.
 
 Depuis l’aube, le canot longeait la côte intérieure d’Evertia, là où les falaises noires s’abaissent en une baie plate que la forêt vient border jusqu’au sable. Le bois de la rame cognait contre le tolet, l’eau glissait le long de la coque, le rameur soufflait à chaque traction, et ces trois bruits s’étaient fondus depuis longtemps en un seul que je n’écoutais plus. Une note le traversa.
 
@@ -36,7 +36,7 @@ Deux mois plus tôt, j’aurais rangé la phrase parmi les croyances de rameur. 
 
 ---
 
-Thalmaris est une cour et une académie, et au bout d’une heure dans ses rues on cesse de chercher la limite entre les deux. Les théâtres y sont bâtis en pierre franche, aussi hauts que les palais. Sur les places, les musiciens travaillent comme d’autres tiennent boutique, sérieux, absorbés, sans rien de la gaieté forcée des bateleurs. On m’avait dit que la ville dépensait plus pour ses arts que pour ses soldats. Par habitude, je l’ai vérifié aux registres : c’était écrit noir sur blanc.
+Cëpias est une cour et une académie, et au bout d’une heure dans ses rues on cesse de chercher la limite entre les deux. Les théâtres y sont bâtis en pierre franche, aussi hauts que les palais. Sur les places, les musiciens travaillent comme d’autres tiennent boutique, sérieux, absorbés, sans rien de la gaieté forcée des bateleurs. On m’avait dit que la ville dépensait plus pour ses arts que pour ses soldats. Par habitude, je l’ai vérifié aux registres : c’était écrit noir sur blanc.
 
 La recommandation d’un marchand de Valmora m’ouvrit la porte de l’Académie du Cantus. On me mena, dans une salle aux murs tapissés de partitions enluminées, devant un vieil homme que ses pairs appelaient Voix-de-Pierre. Le titre revient, m’apprit-on, aux chanteurs dont la voix a tenu quarante ans de pratique. Quand il parlait, la sienne semblait monter du plancher plutôt que de sa gorge.
 
@@ -196,7 +196,7 @@ L’arbre se tut avant l’aube. Elwenn resta la paume contre l’écorce jusqu�
 
 ---
 
-La journée d’avant mon départ me valut une conversation de plus, que j’ajoutai à l’inventaire. Une compositrice, jeune, de celles qui pensent plus vite qu’elles ne parlent, une partition roulée serrée dans le poing, me parla de son art comme d’une résistance. Pas politique. Une résistance à l’effacement des choses. Depuis un an et demi, disait-elle, les œuvres de Thalmaris débordaient leurs formes. Les harmonies s’y faisaient plus denses, cherchaient des résolutions qu’elles ne trouvaient pas.
+La journée d’avant mon départ me valut une conversation de plus, que j’ajoutai à l’inventaire. Une compositrice, jeune, de celles qui pensent plus vite qu’elles ne parlent, une partition roulée serrée dans le poing, me parla de son art comme d’une résistance. Pas politique. Une résistance à l’effacement des choses. Depuis un an et demi, disait-elle, les œuvres du Cantus débordaient leurs formes. Les harmonies s’y faisaient plus denses, cherchaient des résolutions qu’elles ne trouvaient pas.
 
 « Nous créons pour nommer ce qui n’a pas encore de nom, dit-elle. C’est notre métier depuis toujours. Mais depuis un an et demi, ce que nous cherchons à nommer déborde nos noms. Nos voix ne portent pas assez loin. Nous descendons vers le grave, toujours plus bas.
 — D’en haut, demandai-je, ou d’en bas ? »
@@ -207,7 +207,7 @@ La compositrice me dévisagea, comme devant une question qu’on ne s’était j
 
 Sa phrase rejoignit celle d’Elwenn dans la marge. *Ils arrivent par le dessous. Toujours d’en bas.* Deux personnes qui ne se connaissaient pas, l’une au pied d’un arbre qui mourait, l’autre devant un pupitre, tendaient l’oreille du même côté. Sans conclure, je rangeai le relevé avec les autres.
 
-Le dernier soir à Thalmaris, j’assistai au Cantus du couchant, dans la grande salle ouverte de l’Académie. Une douzaine de chanteurs s’y tenaient, Voix-de-Pierre au centre. Les voix montèrent sous la voûte et s’emboîtèrent sans partition, chacune trouvant sa place à l’écoute des autres. La pierre chauffée par le jour rendait sa chaleur dans le dos. Pendant vingt minutes, je n’entendis rien d’autre qu’une belle chose, et je ne notai rien.
+Le dernier soir à Cëpias, j’assistai au Cantus du couchant, dans la grande salle ouverte de l’Académie. Une douzaine de chanteurs s’y tenaient, Voix-de-Pierre au centre. Les voix montèrent sous la voûte et s’emboîtèrent sans partition, chacune trouvant sa place à l’écoute des autres. La pierre chauffée par le jour rendait sa chaleur dans le dos. Pendant vingt minutes, je n’entendis rien d’autre qu’une belle chose, et je ne notai rien.
 
 Puis le vieux descendit d’un registre. Une note plus grave que tout ce qu’il avait tenu. Les autres eurent un temps de retard, puis le suivirent, et la pierre de la salle, taillée pour renvoyer le son, répondit à ce grave comme elle n’avait répondu à aucune note plus haute. Ce n’était pas seulement l’écho. La pierre rendait une fréquence qu’elle avait gardée pour elle, la sienne, et qu’il avait fallu descendre chercher aussi bas pour la réveiller.
 

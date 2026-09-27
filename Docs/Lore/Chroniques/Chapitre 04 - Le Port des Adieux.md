@@ -17,7 +17,7 @@ status: draft
 
 ---
 
-Le sel est arrivé avant la ville. À une demi-journée des quais, la route descend entre des collines pelées, et le vent qui la remonte porte déjà le goudron chaud des coques, les cordages mouillés qui fument au premier soleil, le poisson, la résine. Vingt-trois jours depuis les steppes de Ventera ; j’avais encore leur poussière dans les coutures de mes bottes quand j’ai senti la mer. Pendant quelques centaines de pas, je n’ai rien fait d’autre que respirer. L’odeur changeait à chaque lacet, plus grasse, plus riche, coupée de vinaigre et de fumée de bois, et en bas, entre deux toits, l’eau a jeté son premier éclat. Sur le dernier quart de route, on longe les ateliers de salaison, puis un four de quai qui sent le pain chaud, et le premier marin que j’ai croisé m’a souhaité bon voyage sans me connaître.
+Le sel est arrivé avant la ville. À une demi-journée des quais, la route descend entre des collines pelées, et le vent qui la remonte porte déjà le goudron chaud des coques, les cordages mouillés qui fument au premier soleil, le poisson, la résine. Vingt-trois jours depuis les steppes de Ventera, dont onze à tourner dans la grande herbe quand la piste des cairns s’y était perdue ; j’avais encore leur poussière dans les coutures de mes bottes quand j’ai senti la mer. Pendant quelques centaines de pas, je n’ai rien fait d’autre que respirer. L’odeur changeait à chaque lacet, plus grasse, plus riche, coupée de vinaigre et de fumée de bois, et en bas, entre deux toits, l’eau a jeté son premier éclat. Sur le dernier quart de route, on longe les ateliers de salaison, puis un four de quai qui sent le pain chaud, et le premier marin que j’ai croisé m’a souhaité bon voyage sans me connaître.
 
 Un exilé, à cette odeur, devrait avoir hâte d’embarquer. Elle promet un ailleurs à qui n’a plus de chez-soi. J’ai noté ce que je sentais, sans décider encore ce que j’en ferais.
 
@@ -234,4 +234,4 @@ Demain, la route du nord.
 
 *Ce qu’on achète ici, à trois pièces la nouvelle : le prix de ma propre tête, et le chemin que suit le papier qui me cherche. Le second renseignement vaut plus que le premier. Mon père l’avait écrit avant moi. Je commence à écrire en dessous.*
 
-*Aldemer Voss, Valoria, naturaliste, signalé. Sur ma route, au nord. Avant ou après, a demandé la courtière. Je noterai lequel.*
+*Aldemer Voss, Valoria, naturaliste, signalé. Sur ma route, dans les terres. Avant ou après, a demandé la courtière. Je noterai lequel.*

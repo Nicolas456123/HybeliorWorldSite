@@ -15,7 +15,7 @@ Aux Fonds, s’assurer d’une chose coûtait vingt pas et une lampe.
 
 C’était la première discipline de la maison, celle qu’on apprenait avant la cote et avant le scellé : ne rien porter sur une ligne qu’on ne pût rouvrir. Un chiffre qui boitait, une date en désaccord d’un jour avec le relevé du poste, une écriture qui changeait de pente au milieu d’une page, et Vaskar Sorne se levait, prenait la lampe, marchait jusqu’au rang, tirait la pièce et regardait. Vingt pas à l’aller, vingt au retour. Le prix était si bas qu’il ne l’avait jamais compté comme un prix.
 
-Il le comptait depuis quatre jours, dont deux de mer. Sur cette route, aller voir coûtait dix jours.
+Il le comptait depuis quatre jours. Sur cette route, aller voir coûtait dix jours, bras de mer compris.
 
 En vingt ans, on lui avait tout apporté, à une descente près. Le monde montait à sa table feuillet par feuillet, refroidi, mis au propre, déjà classé par d’autres mains avant d’arriver aux siennes ; le terrain appartenait à ceux qui couraient, et il attendait que la course fût finie pour recevoir ce qu’elle avait pris. Cette fois, ce qu’il fallait prendre marchait. Un cahier qu’on aurait dû tenir sous scellé était passé dans des mains qu’aucune clef ne fermait, et quelqu’un, à Cendara, l’avait vu circuler. On ne fait pas monter à soi une chose qui marche. Il était en selle, dans le haut pays, sur une route qui montait, et il touchait le monde à la température où il fait mal.
 
@@ -59,7 +59,7 @@ Restait ce qu’il en gardait. Il se le récita, comme il se récitait les cotes
 
 Puis il lui vint une demande dont il n’avait jamais eu l’usage de sa vie de métier. Aurait-il juré que le cahier d’Olven disait ce qu’il se rappelait qu’il disait ?
 
-Il l’avait lu une fois, à la lampe, une seule nuit, et il ne l’avait plus eu depuis qu’en tête. Ce qu’il en gardait dans la tête était une copie de plus. Elle perdait ses bords, elle se mettait au propre toute seule, elle prenait la pente de celui qui la portait, et rien ne dirait jamais à quelle nuit elle avait commencé de bouger. Il transportait, sous ses côtes, une copie dont l’original était à cinq jours de mer et de cheval. Pour savoir, il aurait fallu repartir.
+Il l’avait lu une fois, à la lampe, une seule nuit, et il ne l’avait plus eu depuis qu’en tête. Ce qu’il en gardait dans la tête était une copie de plus. Elle perdait ses bords, elle se mettait au propre toute seule, elle prenait la pente de celui qui la portait, et rien ne dirait jamais à quelle nuit elle avait commencé de bouger. Il transportait, sous ses côtes, une copie dont l’original était à cinq jours de cheval et un bras de mer. Pour savoir, il aurait fallu repartir.
 
 Une ligne tenait, qu’il n’avait pas besoin de vérifier, et de tout ce qu’il portait elle était la seule dont il pût dire cela.
 
@@ -89,7 +89,7 @@ Il remonta en selle. Les hommes dont il avait classé les rapports avaient vu ce
 
 Puis le battement.
 
-Il ne l’entendit pas ; il n’y avait rien à entendre. Le cheval le sentit avant lui, une hésitation du pas, une oreille qui se couche, la bête qui voulait se détourner du Mont sans savoir de quoi. Puis ce fut dans les hommes. Deux des six étaient Liés, il l’avait su au départ sans y penser, et à mesure qu’on montait les deux Liés parlaient moins et se tenaient plus droits, comme des gens qui écoutent derrière une porte. À une halte, l’un d’eux resta longtemps le regard pris au sud, vers la masse pâle qui grandissait de jour en jour au bout du haut pays, et quand Vaskar lui demanda ce qu’il voyait, l’homme mit du temps à revenir.
+Il ne l’entendit pas ; il n’y avait rien à entendre. Le cheval le sentit avant lui, une hésitation du pas, une oreille qui se couche, la bête qui voulait se détourner du Mont sans savoir de quoi. Puis ce fut dans les hommes. Deux des six étaient Liés, il l’avait su au départ sans y penser, et à mesure qu’on montait les deux Liés parlaient moins et se tenaient plus droits, comme des gens qui écoutent derrière une porte. À une halte, l’un d’eux resta longtemps le regard pris au couchant, vers la masse pâle qui grandissait de jour en jour au bout du haut pays, et quand Vaskar lui demanda ce qu’il voyait, l’homme mit du temps à revenir.
 
 « Pas voir, dit le Lié. Sentir. Comme un cœur, mais pas le mien. Il pousse plus vite qu’avant. Hier c’était l’heure, à peu près. Aujourd’hui c’est moins.
 
@@ -151,7 +151,7 @@ Il resta contre la pierre jusqu’au gris du matin, et il ne pria pas, ne connai
 
 *
 
-Ils levèrent le camp avant le jour, et la route, cette dernière matinée, cessa de monter vers le Mont : elle tomba dedans. Toutes les voies du haut pays finissaient par verser là, vers ce foyer où les fils du monde, cette année, se rassemblaient sans que nul l’eût décidé. Vellan menait, ses Fils au chaud sous le manteau. Les deux Liés ne parlaient plus du tout. Karsel tenait la mule court, le coffre attaché bas contre le flanc de la bête. La cendre tombait plus dru, tiède, dessinée.
+Ils levèrent le camp avant le jour, passèrent le bras de mer au bac du matin, et la route, sur l’autre rive, cessa de monter vers le Mont : elle tomba dedans. Toutes les voies du haut pays finissaient par verser là, vers ce foyer où les fils du monde, cette année, se rassemblaient sans que nul l’eût décidé. Vellan menait, ses Fils au chaud sous le manteau. Les deux Liés ne parlaient plus du tout. Karsel tenait la mule court, le coffre attaché bas contre le flanc de la bête. La cendre tombait plus dru, tiède, dessinée.
 
 Vaskar allait au milieu des six, et il regardait la pente devant lui comme il avait regardé la pierre plate de la veille, cherchant par habitude ce qu’il pourrait en emporter. Il n’y avait rien à prendre.
 

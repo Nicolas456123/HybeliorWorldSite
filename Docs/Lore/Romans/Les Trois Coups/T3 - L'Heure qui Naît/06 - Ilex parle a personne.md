@@ -118,7 +118,7 @@ Renna se retourna enfin. Ferane la regardait de ses vieux yeux troubles, et il n
 
 La Corvane était montée dire à peu près cela quelques jours plus tôt, un pot de sang au bras et le registre de la halle en tête. Renna n’avait rien su faire du premier avertissement, et elle ne voyait pas mieux quoi faire du second. Une chèvre bêla au fond de l’enclos, deux autres lui répondirent, nerveuses, et sans raison elles se mirent à tourner contre la clôture, encolure basse, comme lorsque l’orage vient sans nuages. Aucun orage ne venait. Renna sentit dans ses molaires la petite montée, brève, l’écrasement tiède de l’air, la chaleur qui poussait par en dessous et refluait. Une pulsation. Elles se rapprochaient, ces derniers temps, et elle s’en apercevait à sa bouche : des journées entières les lèvres serrées, comme on tient fermée une porte qui bat.
 
-Ferane l’avait sentie aussi, à sa manière, dans ses vieux os, et leva les yeux vers le sud, vers la masse du Mont qu’on ne voyait pas d’ici, cachée par l’épaule de la colline, mais qu’on savait là comme on sait une présence dans une pièce noire.
+Ferane l’avait sentie aussi, à sa manière, dans ses vieux os, et leva les yeux vers le nord, vers la masse du Mont qu’on ne voyait pas d’ici, cachée par l’épaule de la colline, mais qu’on savait là comme on sait une présence dans une pièce noire.
 
 « Il pousse, celui-là, dit la vieille. Il pousse plus qu’avant.
 
@@ -204,7 +204,7 @@ La dame ne le croyait pas. Renna le vit dans le soin même avec lequel elle le d
 
 Oréane tourna les talons et redescendit le sentier, claire dans la lumière qui tombait, secouant la cendre de ses épaules tous les dix pas. Renna la regarda disparaître au tournant, et elle comprit, avec une lenteur d’estomac, ce qu’elle venait de faire. En refusant, en mentant, elle s’était montrée. Il y avait maintenant, au bout de ce sentier, un enfant aux yeux blancs et la femme qui entendait avec lui, et c’était elle qui venait de le dire, de sa propre bouche. Oréane était montée chercher un enfant et redescendait avec deux noms.
 
-Derrière la porte, une petite voix récita quelque chose. Renna rentra vite. Ilex n’avait pas bougé de sa place près de l’âtre froid. Il s’était tourné vers le mur du sud, la joue presque contre le torchis, à l’endroit où la paroi était la plus mince. Ses lèvres remuaient. Le même mot. Toujours le même mot inachevé, roulé et perdu, roulé et perdu.
+Derrière la porte, une petite voix récita quelque chose. Renna rentra vite. Ilex n’avait pas bougé de sa place près de l’âtre froid. Il s’était tourné vers le mur du nord, la joue presque contre le torchis, à l’endroit où la paroi était la plus mince. Ses lèvres remuaient. Le même mot. Toujours le même mot inachevé, roulé et perdu, roulé et perdu.
 
 « Tu l’as entendue, la dame, dit Renna en s’agenouillant près de lui.
 
@@ -232,7 +232,7 @@ Puis il parla, la voix épaisse, tournée vers le feu et au-delà du feu.
 
 — Celui qui finit pas. Il finit pas parce qu’il est loin. Si on va près, il finira. »
 
-Renna garda les yeux sur le feu. Elle savait ce que voulait dire l’enfant, elle le savait dans son propre corps depuis toujours, cette traction, cette envie de marcher vers le sud, vers l’épaule de la colline et ce qu’il y avait derrière, le Mont, le battement, la source de la chose qui montait. Elle y avait résisté comme on résiste à une pente, en s’arc-boutant, en s’accrochant aux jours ordinaires, au linge, aux chèvres, à la guède. L’enfant, lui, désirait cette chose qu’elle avait fuie ; il se penchait vers elle, il tendait le corps vers le sud comme une plante vers ce qui l’éclaire.
+Renna garda les yeux sur le feu. Elle savait ce que voulait dire l’enfant, elle le savait dans son propre corps depuis toujours, cette traction, cette envie de marcher vers le nord, vers l’épaule de la colline et ce qu’il y avait derrière, le Mont, le battement, la source de la chose qui montait. Elle y avait résisté comme on résiste à une pente, en s’arc-boutant, en s’accrochant aux jours ordinaires, au linge, aux chèvres, à la guède. L’enfant, lui, désirait cette chose qu’elle avait fuie ; il se penchait vers elle, il tendait le corps vers le nord comme une plante vers ce qui l’éclaire.
 
 « On ne va nulle part, dit-elle. On reste ici. On est bien, ici.
 

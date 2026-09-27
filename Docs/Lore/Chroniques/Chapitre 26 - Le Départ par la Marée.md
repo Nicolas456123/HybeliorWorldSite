@@ -3,7 +3,7 @@ chapitre: 26
 titre: Le Départ par la Marée
 acte: IV
 jour: 630
-lieux: [Evertia, Thalmaris, Valmora]
+lieux: [Evertia, Sylvara, Valmora]
 pov: Sorin Valthen
 status: draft
 ---
@@ -13,13 +13,13 @@ status: draft
 > *« La marée d’Evertia ne s’ouvre pas pour qu’on parte. Elle s’ouvre pour voir si l’on revient. »*
 > — Dicton des passeurs de Valmora
 
-**Evertia — Détroit de Thalmaris, puis Valmora — Jour 630**
+**Evertia — Détroit de Sylvara, puis Valmora — Jour 630**
 
 ---
 
 On ne quitte pas Evertia. On attend qu’elle vous rende à la mer.
 
-Le détroit qui sépare Sylvara de la grande terre ne s’ouvre qu’à certaines marées. Les passeurs les connaissent par un almanach qu’ils n’écrivent nulle part ; ils le tiennent de mémoire, comme les Elariens tiennent leurs récits. Nous avions manqué la première : la gardienne de Thalmaris et moi étions restés une nuit de plus au chevet de sa dernière voix. Entre les deux, cinq jours à regarder le passeur regarder l’eau. Chaque matin, il descendait à la cale, s’accroupissait, trempait la main et remontait sans un mot. Le cinquième soir, il posa deux doigts sur la sangle de mes cahiers, et je compris qu’il fallait charger. La deuxième marée s’ouvrit à l’aube du sixième jour.
+Le détroit qui sépare Sylvara de la grande terre ne s’ouvre qu’à certaines marées. Les passeurs les connaissent par un almanach qu’ils n’écrivent nulle part ; ils le tiennent de mémoire, comme les Elariens tiennent leurs récits. Nous avions manqué la première : la gardienne de Sylvara et moi étions restés une nuit de plus au chevet de sa dernière voix. Entre les deux, cinq jours à regarder le passeur regarder l’eau. Chaque matin, il descendait à la cale, s’accroupissait, trempait la main et remontait sans un mot. Le cinquième soir, il posa deux doigts sur la sangle de mes cahiers, et je compris qu’il fallait charger. La deuxième marée s’ouvrit à l’aube du sixième jour.
 
 Une langue d’eau grise entre deux murs de basalte, praticable trois heures, pas une de plus. Le passeur ne dit pas un mot de toute la traversée. Les yeux sur l’eau qui se retirait des récifs, il corrigeait sa barre sur des signes que je notais sans les comprendre : la couleur d’un remous, une algue qui se couchait dans le courant. Le froid montait de l’eau. La brume collait aux cheveux, le basalte suintait des deux côtés, et le ressac frappait les parois de partout à la fois, si bien qu’on ne savait plus de quel côté était l’ouverture. Puis la lumière blanchit d’un coup, et Valmora reparut au bout du détroit, sèche sur son ravin, telle que je l’avais laissée. Sur le pont, deux Gardiens nous regardèrent passer sans bouger. Ils avaient regardé de la même façon quand j’étais entré.
 
@@ -130,7 +130,7 @@ Le second jour, au comptoir, il vint s’asseoir à ma table sans y être invit�
 — On vous dit vrai. Je suis cartographe. Je note.
 — Puis-je le voir ? »
 
-Devant lui, je posai le cahier en cours, celui de la traversée et d’Evertia, ouvert à la page des marées de Thalmaris et des relevés de la forêt. Il le prit et le feuilleta du pouce, sans le lire. Ses doigts couraient sur la tranche, comptaient les feuillets, pesaient l’objet. Ce qu’il évaluait, c’était l’épaisseur, la quantité de papier noirci que je transportais. Pas une fois il ne me regarda en face. À aucun moment, en deux entretiens, il ne me demanda si j’étais Sorin Valthen. Ce n’était pas un homme qu’il inventoriait, c’était un chargement.
+Devant lui, je posai le cahier en cours, celui de la traversée et d’Evertia, ouvert à la page des marées de Sylvara et des relevés de la forêt. Il le prit et le feuilleta du pouce, sans le lire. Ses doigts couraient sur la tranche, comptaient les feuillets, pesaient l’objet. Ce qu’il évaluait, c’était l’épaisseur, la quantité de papier noirci que je transportais. Pas une fois il ne me regarda en face. À aucun moment, en deux entretiens, il ne me demanda si j’étais Sorin Valthen. Ce n’était pas un homme qu’il inventoriait, c’était un chargement.
 
 « Vous vérifiez les cargaisons pour qui ? demandai-je.
 — Pour une académie qui paie les vérifications. Le nom ne vous dirait rien, et il ne me dit pas grand-chose non plus.
@@ -198,7 +198,7 @@ Cela aussi alla dans le cahier. Ces hommes vivaient d’attendre des marées, et
 
 Trancher ? Je n’en avais aucun moyen, ni aucun instrument pour le faire. L’histoire de l’oublié était une histoire, la manière qu’un peuple de mer avait trouvée de nommer une inquiétude que d’autres nommaient autrement : le Panghor des druides, le dessous des gardes de la forêt, ce qui répond des chamanes des plaines, les Profonds des vieux textes que je n’avais pas lus et dont on m’avait dit qu’ils existaient. Cinq noms pour une même chose. Ou cinq peurs sans objet commun, qu’un voyageur presse à tort les unes contre les autres parce qu’il a passé deux ans à ne rencontrer que des gens effrayés. Les deux lectures restèrent côte à côte dans le cahier.
 
-Ce que je notai, à plat, fut ceci : un homme de Thyronis qui n’avait jamais mis le pied à Evertia ni entendu le mot Panghor racontait, avec sa tente et ses piquets, la même forme que la gardienne de Thalmaris me chantait de l’autre côté du détroit. La ressemblance était réelle. L’origine, incertaine. La conclusion, différée. Je la consignai ; d’autres diront, plus tard et ailleurs, si elle mène quelque part.
+Ce que je notai, à plat, fut ceci : un homme de Thyronis qui n’avait jamais mis le pied à Evertia ni entendu le mot Panghor racontait, avec sa tente et ses piquets, la même forme que la gardienne de Sylvara me chantait de l’autre côté du détroit. La ressemblance était réelle. L’origine, incertaine. La conclusion, différée. Je la consignai ; d’autres diront, plus tard et ailleurs, si elle mène quelque part.
 
 ---
 

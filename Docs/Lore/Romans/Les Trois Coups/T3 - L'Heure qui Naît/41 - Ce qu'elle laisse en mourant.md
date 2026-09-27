@@ -163,7 +163,7 @@ Elle ne salua pas. Ceux de sa sorte ne saluaient jamais. Renna la regarda redesc
 
 — Elle a laissé une chose dans le noir. » L’enfant frotta ses billes de lait du dos de la main. « Je l’ai entendue à travers toi. Quand elle a dit sa phrase. Ça a fait comme quand deux jarres se touchent sur l’étagère. Y en a qu’une qui bouge, et les deux font le bruit. »
 
-Renna le prit contre elle, plus fort que d’habitude, et l’enfant se laissa faire, ce qu’il ne faisait plus guère depuis qu’on avait tourné le mulet vers le sud.
+Renna le prit contre elle, plus fort que d’habitude, et l’enfant se laissa faire, ce qu’il ne faisait plus guère depuis qu’on avait tourné le mulet vers le nord.
 
 « Elle est morte, Ilex. La dame dont je te parlais. Sanne. Celle qui cherchait ses mots comme moi.
 

@@ -67,7 +67,7 @@ Renna s’était levée, trop vite, d’un geste qui renversa un peu de lait. El
 
 *
 
-On les coucha tôt. Wenna d’abord, qui tombait de sommeil et faisait la fière, sur la paillasse près du feu ; puis Ilex, que Renna coucha tête au nord, le long de la cloison que l’âtre tenait tiède, et que Sanne vit, avant même que la chandelle fût soufflée, commencer à rouler l’épaule du côté du sud, doucement, sans se réveiller.
+On les coucha tôt. Wenna d’abord, qui tombait de sommeil et faisait la fière, sur la paillasse près du feu ; puis Ilex, que Renna coucha tête au sud, le long de la cloison que l’âtre tenait tiède, et que Sanne vit, avant même que la chandelle fût soufflée, commencer à rouler l’épaule du côté du nord, doucement, sans se réveiller.
 
 Renna le remit droit. L’enfant revint. Renna renonça, et Sanne apprit de ce renoncement-là plus de choses qu’à tout ce qui s’était dit à table.
 
@@ -81,7 +81,7 @@ Ce fut Renna qui rompit, et par en biais, comme elle faisait tout.
 
 Vingt ans de route avaient fait Sanne prudente jusque dans les os. Elle avait pris l’habitude de compter les gens qui savaient : chacun d’eux était un fil de plus par où l’on pouvait tirer le cahier, et elle avec. Elle en avait la preuve derrière elle : un buveur accroupi au bord d’un gué chaque fois qu’elle tournait la tête, un garçon pris dans un moulin sans qu’on lui vole seulement son ballot, deux passeuses parties et jamais arrivées nulle part. Sa mère lui avait donné une règle avec le cahier, une seule, et cette règle disait à quel moment l’ouvrir. Elle ne disait pas devant qui.
 
-Sanne regarda Renna. Les mains bleues, l’oreille ailleurs, l’enfant qui revenait au sud en dormant, la maison qui pesait sur ses pieds. Cette femme-là portait déjà, par l’oreille, et depuis plus longtemps sans doute, toute seule, sans personne avant elle pour lui dire comment on porte ça. Poser le cahier devant elle, c’était le poser à côté d’une chose de la même famille, pour voir si les deux se reconnaissaient.
+Sanne regarda Renna. Les mains bleues, l’oreille ailleurs, l’enfant qui revenait au nord en dormant, la maison qui pesait sur ses pieds. Cette femme-là portait déjà, par l’oreille, et depuis plus longtemps sans doute, toute seule, sans personne avant elle pour lui dire comment on porte ça. Poser le cahier devant elle, c’était le poser à côté d’une chose de la même famille, pour voir si les deux se reconnaissaient.
 
 « Je vais vous montrer, dit Sanne. Pas parce que vous m’avez donné le feu et l’eau, ça se paie en travail, je vous referai votre foyer demain, il tire mal, je l’ai vu à la fumée. Je vais vous montrer parce que le petit a raison, et que quand un enfant a raison sur une chose que deux grandes personnes se cachent, autant arrêter de se la cacher. Mais vous n’en parlerez à personne. Pas par serment. Les serments, ça se casse. Vous n’en parlerez à personne parce que vous savez déjà, vous, ce qu’il en coûte de parler d’une chose que personne ne veut entendre. »
 
@@ -123,7 +123,7 @@ Renna ne bougea pas.
 
 Elle avait fermé les paupières au premier mot et les garda fermées après le dernier, la tête un peu inclinée, dans la posture exacte qu’elle avait eue à table pour écouter le garçon écouter le sol. Sanne se tut et la laissa.
 
-Le feu craqua. Sur la paillasse, Wenna soupira dans son sommeil, se tourna. Ilex, contre la cloison, revint d’un pouce du côté du sud. Et dessous, à son heure de la nuit, la longue poussée monta d’un cran, par le plancher, par le billot où Sanne était assise, dans ses reins, cette chose sans nom qui la suivait de relais en relais, et elle la prit ce soir plus franche qu’aux autres nuits, comme si, sous cette maison-là, le dessous fût moins loin qu’ailleurs.
+Le feu craqua. Sur la paillasse, Wenna soupira dans son sommeil, se tourna. Ilex, contre la cloison, revint d’un pouce du côté du nord. Et dessous, à son heure de la nuit, la longue poussée monta d’un cran, par le plancher, par le billot où Sanne était assise, dans ses reins, cette chose sans nom qui la suivait de relais en relais, et elle la prit ce soir plus franche qu’aux autres nuits, comme si, sous cette maison-là, le dessous fût moins loin qu’ailleurs.
 
 « Relisez, dit Renna, sans ouvrir les yeux. Doucement. Coupez où c’est coupé. »
 
@@ -181,7 +181,7 @@ La question était juste, et Renna l’avait posée à plat, sans la charger, du
 
 — Regardez-le. » Sanne tapota du doigt le paquet, contre sa poitrine. « Celle qui a écrit cette phrase est morte avant qu’il y ait des routes pour venir jusqu’ici. Il ne reste pas une pierre pour dire son nom. Et la phrase est là, entière, dans mes mains, ce soir, dans votre maison. Comment. Pas parce qu’une seule personne l’a portée tout ce temps, aucune main ne dure aussi longtemps. Parce qu’à chaque fois qu’une main allait lâcher, elle a passé la chose à une autre. Ma mère à moi, la sienne à elle, en remontant, en remontant, chacune la tenant le temps d’une vie et pas plus, chacune sûre qu’elle n’était qu’un anneau. » Elle regarda le feu. « Le geste ne tient pas à celle qui le fait. Il tient à ce qu’il y ait toujours une main de plus au bout. »
 
-Renna se tut longtemps. Sur la paillasse, Wenna dormait, la bouche ouverte, une gamine comme les autres, qui ne savait pas encore qu’on la dressait depuis un an à être cette main-là. Ilex, contre la cloison, la joue au sud, remuait les lèvres sur une syllabe qu’aucune des deux femmes n’entendait.
+Renna se tut longtemps. Sur la paillasse, Wenna dormait, la bouche ouverte, une gamine comme les autres, qui ne savait pas encore qu’on la dressait depuis un an à être cette main-là. Ilex, contre la cloison, la joue au nord, remuait les lèvres sur une syllabe qu’aucune des deux femmes n’entendait.
 
 « C’est une belle idée, dit Renna enfin, et vous la dites bien. Vous ne l’avez pas retournée. » Elle tourna vers Sanne son regard à demi-temps, revenu, cette fois, tout entier. « Si le geste peut se passer de vous, alors vous, on peut vous perdre. Vous venez de me dire tranquillement que vous êtes remplaçable. Que le monde a besoin que vous le soyez. » Un temps. « Vous entendez ce que vous venez de vous dire à vous-même, forgeronne ? »
 
@@ -197,7 +197,7 @@ Elle mentait sans effort sur une route, sur un nom, sur ce qu’il y avait dans 
 
 *
 
-Cette nuit-là, elles ne dirent plus grand-chose. Renna posa deux couvertures de plus, une pour la forgeronne, une pour la petite, et se coucha près de son garçon, la main posée sur l’épaule qui repartait vers le sud. Sanne resta sur son billot, le dos au mur tiède, le cahier contre sa poitrine, à écouter la maison peser large sur ses pieds.
+Cette nuit-là, elles ne dirent plus grand-chose. Renna posa deux couvertures de plus, une pour la forgeronne, une pour la petite, et se coucha près de son garçon, la main posée sur l’épaule qui repartait vers le nord. Sanne resta sur son billot, le dos au mur tiède, le cahier contre sa poitrine, à écouter la maison peser large sur ses pieds.
 
 Ce qu’elle emporterait de là se disait en trois mots, et valait mieux qu’une preuve. Une autre personne au monde savait qu’elle n’était pas folle. Cette personne-là portait la même chose par une autre porte du corps, et ce soir elles s’étaient assises côte à côte et avaient reconnu, sans se le prouver, qu’elles tenaient peut-être le même bout d’une même corde tendue sous le monde. Sanne connaissait au gramme près le poids que ça ôtait, pour avoir porté seule assez d’années.
 

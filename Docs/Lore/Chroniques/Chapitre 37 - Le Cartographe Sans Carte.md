@@ -300,7 +300,7 @@ J’ai noté la date, l’heure, la couleur du manteau. Je n’ai pas ajouté d�
 
 J’ai passé ma dernière nuit à Prismalith dans la chambre de l’auberge des Voiles. La fenêtre donnait sur les tours de l’Académie, dont les cristaux ne reflétaient plus rien dans le noir mais gardaient une lueur interne, froide, tenace.
 
-J’ai mangé seul. Du pain aux cristaux que l’aubergiste servait avec une confiture de fruits de haute saison, et un morceau de fromage de Kharazir qu’un marchand avait cédé aux cuisines, reconnaissable à sa croûte safranée. Le goût de chez moi, que je n’avais pas retrouvé depuis huit cent quatre-vingt-quinze jours : dense, un peu piquant, avec la note terreuse des herbes des plaines de Solandra. J’ai mangé lentement. Le fromage m’a fait plus d’effet que le Tribunal, et je l’écris parce que c’est vrai.
+J’ai mangé seul. Du pain aux cristaux que l’aubergiste servait avec une confiture de fruits de haute saison, et un morceau de fromage de Kharazir qu’un marchand avait cédé aux cuisines, reconnaissable à sa croûte safranée. Le goût de chez moi, que je n’avais pas retrouvé depuis près de neuf cents jours : dense, un peu piquant, avec la note terreuse des herbes des plaines de Solandra. J’ai mangé lentement. Le fromage m’a fait plus d’effet que le Tribunal, et je l’écris parce que c’est vrai.
 
 Puis j’ai consigné dans le cahier dix-sept les dernières choses qui me venaient sur Lumasar, sur Selendris, sur le Tribunal, sur ce que j’avais déposé là.
 

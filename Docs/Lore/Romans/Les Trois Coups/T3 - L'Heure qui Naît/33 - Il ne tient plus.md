@@ -12,7 +12,7 @@ La laine mouillée pèse trois fois la laine sèche, et c’est la corde du séc
 
 Le répit se mesurait maintenant à un quart d’heure, et le quart d’heure fondait.
 
-Renna le lut au corps de l’enfant. La maison de guède avait toujours eu ses horloges à elle, la chèvre qui réclamait, le mordant qui virait, la chandelle dont elle ne comptait plus les doigts brûlés, l’ombre du Mont qui basculait d’un mur sur l’autre selon l’heure. Depuis le retour, une seule marchait, et c’était Ilex. Quand la poussée venait sous le plancher, tout le petit corps se tendait d’un coup vers le sud, la nuque, les épaules, jusqu’aux orteils nus qui pointaient dans le foin ; puis elle refluait, et le corps retombait, mou, une seconde, deux, dix, avant de se retendre. Renna n’avait qu’à poser la main sur l’omoplate de l’enfant pour savoir l’heure du dessous. Et l’heure du dessous revenait chaque fois de plus près, comme revient une bête qui sait où est la porte et qui toque plus vite.
+Renna le lut au corps de l’enfant. La maison de guède avait toujours eu ses horloges à elle, la chèvre qui réclamait, le mordant qui virait, la chandelle dont elle ne comptait plus les doigts brûlés, l’ombre du Mont qui basculait d’un mur sur l’autre selon l’heure. Depuis le retour, une seule marchait, et c’était Ilex. Quand la poussée venait sous le plancher, tout le petit corps se tendait d’un coup vers le nord, la nuque, les épaules, jusqu’aux orteils nus qui pointaient dans le foin ; puis elle refluait, et le corps retombait, mou, une seconde, deux, dix, avant de se retendre. Renna n’avait qu’à poser la main sur l’omoplate de l’enfant pour savoir l’heure du dessous. Et l’heure du dessous revenait chaque fois de plus près, comme revient une bête qui sait où est la porte et qui toque plus vite.
 
 On était rentrés depuis quatre jours. Quatre jours qu’ils avaient remonté la même route à l’envers, du vert vers la cendre, de l’eau claire vers l’air sans vent, et à chaque lieue regagnée vers le Mont l’enfant avait repris un gramme, une lueur, un souffle. Renna aurait voulu s’en réjouir. Mais le lait revenait dans les yeux d’Ilex à mesure exacte qu’on le rapprochait de la chose, et rien, dans cette guérison-là, ne ressemblait à une bonne nouvelle.
 
@@ -138,7 +138,7 @@ Renna le prit contre elle, sur le sentier, dans les pierres tièdes, et regarda 
 
 Quelque chose lâcha, en elle, qui tenait depuis vingt-cinq ans.
 
-Elle avait mis des fourches partout. La barre, la cuve, le sud interdit, la parole retenue, chaque refus calé sous la charge pour qu’elle ne descende pas plus bas. Une fourche tient la corde où elle est ; elle ne reprend pas ce qui a filé. Il n’y avait plus à choisir entre protéger et exposer, ce choix-là était mort au bord de la rivière. Restait de monter en tenant la main de l’enfant, ou de le regarder monter sans elle, une nuit, doucement, pour qu’elle ne l’apprît qu’au matin.
+Elle avait mis des fourches partout. La barre, la cuve, le nord interdit, la parole retenue, chaque refus calé sous la charge pour qu’elle ne descende pas plus bas. Une fourche tient la corde où elle est ; elle ne reprend pas ce qui a filé. Il n’y avait plus à choisir entre protéger et exposer, ce choix-là était mort au bord de la rivière. Restait de monter en tenant la main de l’enfant, ou de le regarder monter sans elle, une nuit, doucement, pour qu’elle ne l’apprît qu’au matin.
 
 « On montera, » dit-elle. Sa voix la surprit elle-même, calme, dénouée, la voix d’une femme qui vient de décrocher quelque chose. « Pas cette nuit. Pas en cachette. On montera comme il faut. Avec le pain, la couverture, ce qu’il te faut là-haut. Je ne te laisserai pas partir seul dans le noir. Si tu montes, je te porte. »
 
@@ -160,7 +160,7 @@ Les écheveaux du dernier bain pendaient encore aux cordes du séchoir, lourds d
 
 La charrette dormait sous l’auvent, chargée depuis le retour. Elle n’avait pas défait les ballots ; le mordant et l’alun étaient restés dessus, et ils y restèrent. Elle ajouta la miche, le sel, la couverture du petit. Ses mains bleues nouèrent les cordes de ridelle, et pour une fois elle les regarda faire, ces mains, parce qu’elles nouaient pour une route dont elles ne rapporteraient rien.
 
-Ilex, assis sur le seuil, la regardait de ses yeux redevenus vifs, et il ne tournait plus la tête vers le sud. Il n’avait plus à le chercher, le sud. On y allait.
+Ilex, assis sur le seuil, la regardait de ses yeux redevenus vifs, et il ne tournait plus la tête vers le nord. Il n’avait plus à le chercher, le nord. On y allait.
 
 La nuit tomba sur la vallée que tout le monde quittait, sur les sentiers où montait encore, à la lueur des lanternes, la longue coulée de ceux qui cédaient à la pente. Renna se coucha contre l’enfant, la porte non barrée, le ballot prêt au pied de la paillasse. Cette nuit-là, Ilex ne se leva pas pour marcher vers la porte. Il n’en avait plus besoin. La porte était ouverte, le départ dit, le oui donné.
 

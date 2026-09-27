@@ -229,12 +229,12 @@ Il m’avait déposé, il ne m’attendait pas : c’était notre marché, et i
 
 Le carnet de mon père porte, vers son milieu, une côte de falaises noires qu’il n’a pas nommée, mais un cartographe la reconnaît à la seule façon dont la main a tremblé en la traçant. Mon père est passé par ici, ou par un lieu qui lui ressemblait, une génération avant moi. Lui aussi a longé, l’une après l’autre, les marges du monde, celles qu’on classe parmi les curiosités et qu’on regarde de loin. Puis, à un seuil que je n’ai pas su situer, il a reculé. Le carnet s’arrête sans dire où ni pourquoi. Je ne cherche pas à le savoir. Ce n’est pas lui que je suis venu chercher au bout de cette route ; c’est ce qu’il portait, et qu’il n’a pas pu déposer avant de disparaître.
 
-Sept cent quarante-huit jours depuis Rukhsar. Le carnet sorti, les pages tenues contre le vent, j’ai relu la marge de Caeloria, la liste des noms. Sous celui d’Ossian, j’ai tiré un trait. Pas une croix : les croix sont pour ceux que je n’ai pas atteints. Un trait, c’est un homme que j’ai relevé, à temps ou trop tard. Sa paroi était dans mon carnet.
+Sept cent cinquante-deux jours depuis Rukhsar. Le carnet sorti, les pages tenues contre le vent, j’ai relu la marge de Caeloria, la liste des noms. Sous celui d’Ossian, j’ai tiré un trait. Pas une croix : les croix sont pour ceux que je n’ai pas atteints. Un trait, c’est un homme que j’ai relevé, à temps ou trop tard. Sa paroi était dans mon carnet.
 
 Le parchemin de l’Abbé pesait contre ma poitrine. Il y est resté. Je ne l’ai pas relu. Un seul mot, choisi dans une vie qui n’en dépensait plus, et donné à un cartographe qui traçait sa route vers le seul point de la carte où ce mot pointe.
 
 Dans le journal, pour la forme, pour la mémoire, par cette habitude qui pose les coordonnées avant d’en tenir le sens, j’ai écrit :
 
-*Jour 748. Baelor. Reçu un mot. Posé un nom.*
+*Jour 752. Baelor. Reçu un mot. Posé un nom.*
 
 Relue, la note m’a paru courte. Je n’y ai rien ajouté.

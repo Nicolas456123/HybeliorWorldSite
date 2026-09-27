@@ -19,11 +19,11 @@ status: draft
 
 Les montagnes mentent sur leur distance. Trois jours durant, je les avais vues posées sur l’horizon, immuables, et je croyais tenir leur position ; le quatrième matin, elles n’avaient pas avancé d’une ligne. La faute n’est pas dans le relevé. Une montagne trop haute pour l’œil écrase l’espace qui la sépare de vous. J’ai passé ma vie à corriger cette erreur sur le parchemin. À pied, la correction prend des jours.
 
-Vingt-cinq jours de routes intérieures séparent les cols d’Iskara des Archives de Trelios, où j’avais tenu le Fragment Zéro sous ma paume, dans une salle plus froide qu’elle n’aurait dû l’être. Les routes d’Alkaran sont larges, basses, bordées de bornes de fer qui donnent le prochain village et la distance en heures de marche. Elles ne prétendent à rien d’autre qu’à l’utilité. Pour un cartographe, on ne fait pas mieux.
+Vingt-cinq jours séparent les cols d’Iskara des Archives de Trelios, où j’avais tenu le Fragment Zéro sous ma paume, dans une salle plus froide qu’elle n’aurait dû l’être : la route de Roseltar, trois jours de mer pour passer le bras qui sépare Alkaran d’Iskara, puis les routes du pays. Les routes d’Iskara sont larges, basses, bordées de bornes de fer qui donnent le prochain village et la distance en heures de marche. Elles ne prétendent à rien d’autre qu’à l’utilité. Pour un cartographe, on ne fait pas mieux.
 
 Pardine allait bien. L’appétit lui était revenu depuis la traversée, et elle regardait grossir les montagnes avec l’indifférence qu’elle réserve à tout ce qui n’est pas de l’herbe. Je lui dois beaucoup. Elle s’en moque, ce qui simplifie nos rapports.
 
-Au cinquième matin après Tanolies, dans une brume qui traînait au fond des cols, les montagnes cessèrent de mentir. Elles n’étaient plus à l’horizon : elles étaient devant, au-dessus, de chaque côté. La route s’enfonçait dans un défilé taillé dans la roche comme une saignée, si encaissé que la lumière n’y descendait qu’au zénith, deux heures par jour, sous la forme d’un rectangle étroit qui glissait sur le sol à la lenteur d’un cadran de pierre. En le remontant, je compris pourquoi Iskara n’a jamais eu besoin de conquérir qui que ce soit. Derrière un seuil pareil, il suffit d’attendre.
+Au cinquième matin après Roseltar, dans une brume qui traînait au fond des cols, les montagnes cessèrent de mentir. Elles n’étaient plus à l’horizon : elles étaient devant, au-dessus, de chaque côté. La route s’enfonçait dans un défilé taillé dans la roche comme une saignée, si encaissé que la lumière n’y descendait qu’au zénith, deux heures par jour, sous la forme d’un rectangle étroit qui glissait sur le sol à la lenteur d’un cadran de pierre. En le remontant, je compris pourquoi Iskara n’a jamais eu besoin de conquérir qui que ce soit. Derrière un seuil pareil, il suffit d’attendre.
 
 La Porte de Fer ferme le défilé en son point le plus étroit, une quarantaine de pas entre deux falaises de basalte noir. Des murs ont été bâtis par-dessus la falaise, siècle après siècle, même pierre, même mortier, au point qu’on ne voit plus où la géologie s’arrête et où l’ouvrage commence. L’œil reçoit l’ensemble comme un accident du terrain, et je doute que ce soit un hasard. Sur le vantail principal, dans le métal noir, des mots gravés que trois siècles de rouille n’ont pas entamés promettent un retour à qui saura revenir.
 
@@ -243,7 +243,7 @@ J’ai tracé les lignes entre les points. Relier des faits non vérifiés donne
 — Qu’est-ce qui vous le fait dire ?
 — Rien. Je le dis. »
 
-Elle retourna vers sa forge, et je pris la route de l’est, vers Myrtam et ses cheminées, où m’attendaient des dettes contractées trois relais plus tôt, dont je devinais qu’elles arrivaient à échéance.
+Elle retourna vers sa forge, et je pris la route de la côte, où l’on s’embarque pour Myrtam et ses cheminées ; là-bas m’attendaient des dettes contractées trois relais plus tôt, dont je devinais qu’elles arrivaient à échéance.
 
 La brume se referma derrière nous, sur Verthal, sur les mines silencieuses de Myrilith et leur porte de métal, sur les sons dans les parois, sur les battements plus forts depuis vingt ans. Mon carnet portait quarante pages de relevés : mesures, azimuts, points cotés. Baret y figurait aussi, et l’ancien de Glintar, et Dorsa, chacun à sa ligne, entre deux relevés. Aucun d’eux n’avait demandé à entrer dans le carnet d’un étranger. Je les y ai mis, et j’ai continué.
 

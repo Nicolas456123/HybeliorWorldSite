@@ -228,7 +228,7 @@ Ce que je tenais était plus grand que moi. Cela n’avait plus besoin que je le
 
 J’ai ouvert le dix-septième cahier à la dernière page utilisée. Il restait une quinzaine de pages blanches.
 
-J’ai écrit la date. Jour 910. Rukhsar.
+J’ai écrit la date. Jour 911. Rukhsar.
 
 J’ai écrit quelques lignes sur la pulsation sous la dalle, les données, les observations, sans astérisque cette fois, parce que ce que j’avais senti dans les os sous la dalle était de même nature que ce que j’avais senti sur le surplomb de Cestra et sur les flancs de Cendra, et que cette cohérence à travers dix-sept cahiers et neuf cent dix jours était elle-même une donnée.
 

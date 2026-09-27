@@ -64,7 +64,7 @@ L’enfant leva le visage vers elle.
 
 Le reste de la matinée fut du travail, et le travail était bon, parce qu’il occupait les mains et laissait les oreilles tranquilles.
 
-Renna balaya la cendre du seuil, celle qui tombait la nuit sans qu’on la vît tomber et qu’il fallait pousser chaque matin, sinon elle prenait en croûte. Elle tira de l’eau du puits, mit les fèves à tremper. Taldre vivait au ralenti de la fin d’été, les hommes en haut aux estives, les femmes en bas au lavoir et aux jardins, et sur tout ce petit monde le Mont montait au sud, énorme et gris, si familier qu’on ne le regardait plus, une présence qu’on portait sur la nuque comme on porte le ciel.
+Renna balaya la cendre du seuil, celle qui tombait la nuit sans qu’on la vît tomber et qu’il fallait pousser chaque matin, sinon elle prenait en croûte. Elle tira de l’eau du puits, mit les fèves à tremper. Taldre vivait au ralenti de la fin d’été, les hommes en haut aux estives, les femmes en bas au lavoir et aux jardins, et sur tout ce petit monde le Mont montait au nord, énorme et gris, si familier qu’on ne le regardait plus, une présence qu’on portait sur la nuque comme on porte le ciel.
 
 Renna avait grandi ainsi, à ne pas le regarder. Sa mère avait grandi ainsi, et la mère de sa mère, dont on disait dans le village, à mi-voix, du temps où Renna était petite, qu’elle avait un jour prédit un éboulement trois jours avant qu’il tombe et qu’on l’en avait moins aimée. À Taldre, on saluait les femmes de cette maison d’un peu plus loin que les autres.
 

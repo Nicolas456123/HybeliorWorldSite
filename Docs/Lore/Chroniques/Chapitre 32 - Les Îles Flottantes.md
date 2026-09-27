@@ -150,7 +150,7 @@ Pas dans ma tête. Dans mes cahiers, le soir, je la recopiai avec la date, le li
 
 ---
 
-Une demi-journée de marche sépare Galdryn d’Invernis, le long de la rivière qui descend des mines. Au matin, l’eau charrie des particules d’aethérite si fines qu’on ne les voit que dans la lumière directe : une poussière bleue suspendue dans le courant, qui file vers la mer et n’y arrive sans doute jamais entière.
+Un jour et demi de marche sépare Galdryn d’Invernis, le long de la rivière qui descend des mines. Au matin, l’eau charrie des particules d’aethérite si fines qu’on ne les voit que dans la lumière directe : une poussière bleue suspendue dans le courant, qui file vers la mer et n’y arrive sans doute jamais entière.
 
 Personne ne m’accompagna. De lui, j’avais un mot de passe et un nom à citer, rien de plus ; là-haut, on ne l’accueillait plus. À la troisième salle, un contremaître aux sourcils bleuis de poussière m’écouta prononcer le nom, regarda ma lanterne, regarda mes bottes.
 

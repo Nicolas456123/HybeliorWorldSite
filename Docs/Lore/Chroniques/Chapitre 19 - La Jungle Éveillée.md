@@ -17,7 +17,7 @@ status: draft
 
 ---
 
-On ne descend pas vers Warenthor à cheval. La Trace Verte quitte les moissons de Sylthara comme un chemin ordinaire, puis elle se resserre, s’enfonce, se noue de racines ; dès la première lieue, une monture y avance moins vite qu’un homme. J’ai rendu ma bête au dernier relais du plateau, contre une place sur le registre d’un convoi qui remontait, et j’ai continué à pied. Trente-cinq jours. C’est le carnet qui les a comptés ; la fatigue avait perdu le compte avant la fin de la première semaine.
+On ne descend pas vers Warenthor à cheval. La Trace Verte quitte les moissons de Sylthara comme un chemin ordinaire, puis elle se resserre, s’enfonce, se noue de racines ; dès la première lieue, une monture y avance moins vite qu’un homme. J’ai rendu ma bête au dernier relais du plateau, contre une place sur le registre d’un convoi qui remontait, et j’ai continué à pied. Quinze jours. C’est le carnet qui les a comptés ; la fatigue avait perdu le compte avant la fin de la première semaine.
 
 L’air change bien avant les arbres. Je croyais savoir ce qu’une frontière fait au corps : un paysage qui bascule, une langue qui glisse vers d’autres voyelles. Warenthor ne s’annonce pas ainsi. Ici, l’air lui-même change d’état, une vapeur tiède, chargée, sortie du vivant et qui y retourne, comme si la jungle commençait cinq lieues avant ses propres troncs. L’odeur suit. La pourriture douce de l’humus, l’âcreté verte des résines, le sucre lourd de fleurs dont je ne saurai sans doute jamais le nom.
 
@@ -45,7 +45,7 @@ Derrière moi, sur la Trace, il y avait quelqu’un.
 
 ---
 
-Je ne l’avais pas vu. Vels Draye ne s’était encore jamais laissé voir ; on constatait son passage après coup, comme une crue à sa ligne de limon. Mais le carnet de mon père enseigne des choses qu’on n’apprend pas à l’Académie : où l’appareil poste ses guetteurs le long d’une route unique, toujours aux resserrements, jamais au milieu d’une clairière ; comment un relais se signale au suivant, par des marques qu’un voyageur prend pour des repères de bûcherons ; comment un homme lancé sur une piste sans embranchement finit par se montrer, parce que le terrain lui vole ses choix. La Trace Verte n’a pas d’embranchement. Elle est sûre pour le marcheur, et lisible pour qui le suit.
+Je ne l’avais pas vu. Sur une route, Vels Draye ne se laissait jamais voir ; on constatait son passage après coup, comme une crue à sa ligne de limon. Mais le carnet de mon père enseigne des choses qu’on n’apprend pas à l’Académie : où l’appareil poste ses guetteurs le long d’une route unique, toujours aux resserrements, jamais au milieu d’une clairière ; comment un relais se signale au suivant, par des marques qu’un voyageur prend pour des repères de bûcherons ; comment un homme lancé sur une piste sans embranchement finit par se montrer, parce que le terrain lui vole ses choix. La Trace Verte n’a pas d’embranchement. Elle est sûre pour le marcheur, et lisible pour qui le suit.
 
 Un oiseau s’est tu deux fois au même intervalle ; un oiseau qui a peur d’un serpent ne compte pas ses silences. Une empreinte fraîche marquait la boue d’un gué que j’avais passé la veille au soir, posée exactement dans mon pas ; un chasseur du cru n’a que faire du pas d’un autre. Et au troisième jour, à la fourche morte, trois pierres empilées au pied d’un tronc. Le voyageur y voit un jalon de bûcheron. Mon père a relevé cette marque vingt ans avant moi, sur une autre route, dans un carnet qu’il croyait tenir pour lui seul : c’est celle dont l’appareil se sert pour dire au relais suivant que la piste est bonne, qu’il est passé. Je l’ai reconnue sans chercher. Je lis l’appareil dans une langue qu’un autre m’a apprise avant de disparaître.
 
@@ -158,7 +158,7 @@ Il monta sans un bruit. Les esprits du sol le sentirent avant moi : en bas, les
 
 Je parlai donc le premier.
 
-« Trente-cinq jours de Trace pour une lampe posée sur une planche. » Je ne me levai pas. « C’est beaucoup de marche, pour un homme qui laisse tuer à distance. »
+« Quinze jours de Trace pour une lampe posée sur une planche. » Je ne me levai pas. « C’est beaucoup de marche, pour un homme qui laisse tuer à distance. »
 
 Il avança d’un pas. La lame, dans sa main nue, accrocha la lumière. Rien en lui ne se pressait ; il n’avait pas peur, il avait un ordre.
 

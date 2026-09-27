@@ -214,8 +214,8 @@ Le jour où quelque chose franchirait ce seuil, ce qui fuit d’Ordavan ne tiend
 
 Au matin, on me rendit mes papiers avec le tampon brun de la patrouille : *escorte volontaire*, pas *arrestation*. Le plus jeune des Gardes, celui du thé, me parla en bouclant son sac, sans lever les yeux.
 
-« Drakora est à l’est. Par les cols du Veltrak, c’est plus court que par la côte.
-— Je sais que Drakora est à l’est.
+« Drakora est au sud. Par les cols du Veltrak, c’est plus court que par la côte.
+— Je sais que Drakora est au sud.
 — Il y a là-bas des archivistes qui s’intéressent aux anomalies du temps. Ils ne relèvent pas du Conseil de Gryndor. » Il serra une sangle. « Ils ne relèvent pas de grand-monde, à vrai dire. »
 
 L’autre Garde, qui n’avait rien dit de toute l’escorte, ajouta, du ton dont on récite une chose sue de tous :
@@ -226,7 +226,7 @@ Une adresse, un avertissement, sans doute les deux. À ce point du chemin, la di
 
 La frontière de la région était marquée d’une rangée de bornes de cristal gravé. D’un côté, le nom de la région ; de l’autre, une maxime en vieux gryndorien, sa traduction dessous. Celle que je passai disait : *Ce que l’on ne nomme pas n’est pas inexistant. Il attend.*
 
-Devant la borne, je restai un instant. Puis cap au nord, vers Zyrthar, d’où je partirais vers l’est, vers les cols du Veltrak, vers Drakora.
+Devant la borne, je restai un instant. Puis cap au nord, vers Zyrthar, d’où je partirais vers le sud, vers les cols du Veltrak, vers Drakora.
 
 ---
 

@@ -196,7 +196,7 @@ Le caravansérail où j’ai dormi s’appelle le Passage des Quatre Vents. Le n
 
 Avant de monter, je suis resté près du feu de la cour, où l’on servait une soupe claire à ceux qui payaient et un quignon aux autres. Un vieux caravanier au visage tanné m’observait sans en avoir l’air, à la manière des gens qui ont passé leur vie à surveiller des bêtes.
 
-« Tu vas vers le nord ? finit-il par demander.
+« Tu vas vers l’ouest ? finit-il par demander.
 — Oui.
 — Avec Holtis ?
 — On me l’a dit.

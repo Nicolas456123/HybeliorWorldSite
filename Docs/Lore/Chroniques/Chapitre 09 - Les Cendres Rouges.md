@@ -23,7 +23,7 @@ Deux jours avant Haliandris, sur les hauteurs pelées qui séparent le désert d
 
 Depuis la crête, le plateau d’Haliandra tremblait sous une nappe de chaleur qui faussait les distances ; il me fallut une heure de descente pour cesser de me tromper sur elles. Quand le vent faiblissait, les tours de fer forgé du Palais du Roi-Fondeur se découpaient, nettes, sur leur promontoire de basalte. Dessous s’étendait la ville, creusée dans la roche volcanique autant que bâtie dessus, comme si la montagne et les hommes poursuivaient depuis toujours le même ouvrage. Au-dessus montaient les fumées. Pas la fumée grise des foyers : des colonnes lourdes, une dizaine de teintes entre le jaune de soufre et le noir de bitume, tirées des cheminées de la Grande Forge et des puits d’aération jusqu’à une couche de nuages uniformément cendreuse. Haliandris se fabrique son propre ciel.
 
-Aux portes, pourtant, ce n’est pas la vue qui m’a pris. C’est le bruit. Un mois plus tôt, Valoria m’avait accueilli d’un seul coup de marteau ; Haliandris m’accueillit de centaines, venus de partout à la fois, de la Grande Forge, des ateliers de surface, des puits, des galeries d’en dessous. La ville entière vibrait de ce martèlement, moins un tremblement qu’une respiration de fond. Pardine tournait les oreilles sans trouver de source et refusait de baisser la tête. Par habitude de métier, je cherchai d’où le bruit venait, puis j’y renonçai avant la première porte : il venait de partout, et il ne s’arrêtait jamais.
+Aux portes, pourtant, ce n’est pas la vue qui m’a pris. C’est le bruit. Deux mois plus tôt, Valoria m’avait accueilli d’un seul coup de marteau ; Haliandris m’accueillit de centaines, venus de partout à la fois, de la Grande Forge, des ateliers de surface, des puits, des galeries d’en dessous. La ville entière vibrait de ce martèlement, moins un tremblement qu’une respiration de fond. Pardine tournait les oreilles sans trouver de source et refusait de baisser la tête. Par habitude de métier, je cherchai d’où le bruit venait, puis j’y renonçai avant la première porte : il venait de partout, et il ne s’arrêtait jamais.
 
 Le soir de mon départ d’Iskara, j’avais réglé dans mon carnet une page en quatre colonnes. Trois portaient un nom : Trinoria, Trelios, Iskara. En tête de la quatrième, j’avais écrit Ardentris, et rien dessous. Le blanc attendait. Le carnet rangé dans la sacoche, je repris la descente vers les portes.
 
@@ -91,14 +91,14 @@ Il m’écouta comme Thyrald avait examiné ma carte, en cherchant le défaut, e
 
 « Reconnais-tu cette écriture ? demanda-t-il, du ton qu’il avait pris pour l’échelle. »
 
-C’était la mienne. Un fragment de mes notes de Lumasar, celles qu’un copiste de scriptorium avait recopiées sans registre, deux mois plus tôt, en croyant sauver une parole persécutée. La copie de la copie m’avait devancé, par un canal qui ne doit rien à la poste, et quelqu’un avait souligné trois mots d’un trait d’ongle : *inscriptions*, *antérieures*, *réseau*.
+C’était la mienne. Un fragment de mes notes de Lumasar, celles qu’un copiste de scriptorium avait recopiées sans registre, près de six mois plus tôt, en croyant sauver une parole persécutée. La copie de la copie m’avait devancé, par un canal qui ne doit rien à la poste, et quelqu’un avait souligné trois mots d’un trait d’ongle : *inscriptions*, *antérieures*, *réseau*.
 
 « C’est une main qui ressemble à la mienne, dis-je.
 — C’est ce que j’ai écrit dans mon registre. » Il replia la feuille. « Je n’ai rien contre un homme qui dessine des routes. J’ai des instructions sur tout ce qui touche aux Déliés d’avant la Charte, et ces instructions voyagent plus vite que les caravanes. Elles étaient là avant toi. » Il me rendit mes papiers. « Cartographie la surface. Les quartiers, les marchés, le plateau. Pour le dessous, dépose une demande auprès du Conseil des Flammes. Le délai d’examen est de six semaines.
 — Je n’ai pas six semaines.
 — Je sais. » Il nota une ligne. « Bon voyage. »
 
-Dehors, l’air chargé me parut presque léger. Ma copie de Lumasar circulait donc, marquée, dans des mains qui savaient quels mots souligner. Mon courrier vers l’ouest était lu avant mon propre relais. Les deux fils partaient de villes que séparaient des mois de route, et ils revenaient se nouer au même endroit : autour de mon nom. Un homme prudent serait redescendu vers la côte prendre le premier navire. Restait une colonne vide dans mon carnet, et Ardentris à cinq jours de route. Je n’ai jamais eu le tempérament prudent qu’on me prête.
+Dehors, l’air chargé me parut presque léger. Ma copie de Lumasar circulait donc, marquée, dans des mains qui savaient quels mots souligner. Mon courrier vers l’ouest était lu avant mon propre relais. Les deux fils partaient de villes que séparaient des mois de route, et ils revenaient se nouer au même endroit : autour de mon nom. Un homme prudent serait redescendu vers la côte prendre le premier navire. Restait une colonne vide dans mon carnet, et Ardentris à une journée de route. Je n’ai jamais eu le tempérament prudent qu’on me prête.
 
 ---
 
@@ -117,7 +117,7 @@ Le bol s’immobilisa entre ses mains, pour la première fois de la soirée.
 
 « Comme quelqu’un qui frappe à une porte depuis l’autre côté, dit-il enfin. »
 
-Il n’ajouta rien. J’avais entendu la même image un mois plus tôt, dans la bouche d’un mineur, sous une autre montagne. L’image rejoignit les autres dans le carnet, et je la relus jusqu’à ce que la bougie baisse. Deux hommes qui ne s’étaient jamais vus, séparés par un mois de route et par un métier, avaient choisi la même porte pour dire la même chose. Trois relèvements qui se croisent donnent un point. Celui-là se formait sous nos pieds.
+Il n’ajouta rien. J’avais entendu la même image quinze jours plus tôt, dans la bouche d’un mineur, sous une autre montagne. L’image rejoignit les autres dans le carnet, et je la relus jusqu’à ce que la bougie baisse. Deux hommes qui ne s’étaient jamais vus, séparés par un bras de mer et par un métier, avaient choisi la même porte pour dire la même chose. Trois relèvements qui se croisent donnent un point. Celui-là se formait sous nos pieds.
 
 Le quatrième soir, Ferrath me parla du Syndicat.
 
@@ -125,7 +125,7 @@ Le quatrième soir, Ferrath me parla du Syndicat.
 — Pourquoi ?
 — Parce qu’ils partaient. » Il me regarda en face pour la première fois. « Un rapport sur ce qui bouge sous Ardentris n’intéresse pas un Intendant. Ça intéresse des gens qu’on ne voit pas venir, qui posent des questions polies et qui repartent. Après quoi le Compagnon qui a rédigé le rapport se découvre un défaut de trempe. » Il baissa les yeux sur son bol. « Le mien était réel. Deux des autres ne l’étaient pas. »
 
-Mon bol retrouva la table. Je connaissais mieux que lui la chose qu’il décrivait : une main lente, procédurière, qui ne tue pas la vérité mais l’homme qui la note. Elle s’était abattue un mois plus tôt sur un savant de Valoria, et sur d’autres avant lui. La même main voyageait par des canaux absents de tout registre, et ici elle m’avait précédé. L’Intendant me l’avait presque dit.
+Mon bol retrouva la table. Je connaissais mieux que lui la chose qu’il décrivait : une main lente, procédurière, qui ne tue pas la vérité mais l’homme qui la note. Elle s’était abattue deux mois plus tôt sur un savant de Valoria, et sur d’autres avant lui. La même main voyageait par des canaux absents de tout registre, et ici elle m’avait précédé. L’Intendant me l’avait presque dit.
 
 « À quoi tu les reconnais, ces gens-là, quand ils viennent ? demandai-je.
 — Ils ne demandent jamais le chemin. » Il ramassa une miette sur la table, la considéra. « Ils l’ont déjà. Ils demandent des noms. » Il releva les yeux. « Toi, tu demandes ton chemin comme tout le monde. C’est pour ça que je te parle. »

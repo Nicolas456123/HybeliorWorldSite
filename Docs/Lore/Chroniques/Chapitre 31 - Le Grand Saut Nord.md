@@ -19,7 +19,7 @@ status: draft
 
 Baeloris est la seule sortie de Baelor, et elle ne s’ouvre que lorsque le Voile veut bien se lever.
 
-Une seule crique pour toute l’île : une entaille dans deux cents lieues de falaises noires, où aucune barque ne se poserait ailleurs sans se briser. Tout ce qui arrive à Baelor passe par là, et tout ce qui en repart aussi. Un enfant l’aurait compris. L’appareil l’avait compris avant moi. Son homme était posté sur le môle, du côté d’où l’on voit appareiller les rares coques sans être vu, comme à Basalis, comme partout où la géographie ne laisse qu’une porte. Mon père avait couvert des pages de cette mécanique. Une consigne qui voyage sans nom se poste aux endroits où l’on doit forcément passer, et une île à une seule crique n’en offre qu’un.
+Une seule crique pour toute l’île : une entaille dans deux lieues de falaises noires, où aucune barque ne se poserait ailleurs sans se briser. Tout ce qui arrive à Baelor passe par là, et tout ce qui en repart aussi. Un enfant l’aurait compris. L’appareil l’avait compris avant moi. Son homme était posté sur le môle, du côté d’où l’on voit appareiller les rares coques sans être vu, comme à Basalis, comme partout où la géographie ne laisse qu’une porte. Mon père avait couvert des pages de cette mécanique. Une consigne qui voyage sans nom se poste aux endroits où l’on doit forcément passer, et une île à une seule crique n’en offre qu’un.
 
 Aussi je le savais en posant le pied sur le môle. Ce que je cherchais, ce n’était pas s’il était là. C’était l’heure à laquelle il cesserait de l’être.
 

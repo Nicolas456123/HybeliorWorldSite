@@ -223,6 +223,6 @@ De retour dans la chambre du fond, où un homme avait dormi trois nuits vingt an
 
 Par la fenêtre, le glacier renvoyait le peu de lumière que le ciel voulait bien lâcher. Sous cette glace, à deux jours de marche, il y avait des angles droits qu’aucune main connue n’avait taillés, un rythme lent qu’on sentait dans les dents, une chaleur qui montait d’une profondeur sans nom. Aldris Vane l’avait vu et n’avait plus rien écrit. Sept de ses compagnons n’étaient pas redescendus. Un homme aux mains pareilles aux miennes y était monté seul, avant eux tous, avec un carnet dans chaque poche.
 
-Sur une page neuve du mien, j’écrivis : *Jour 825. Noravia. Demain, l’intérieur.* Une phrase voulut suivre, sur l’homme de Galenor, sur les trois nuits, sur la chambre. Avant de l’écrire, je posai la plume. Ce qu’elle disait se vérifierait là-haut, ou ne se vérifierait pas. Il n’y avait pas besoin de l’écrire d’avance.
+Sur une page neuve du mien, j’écrivis : *Jour 825. Noravia. Bientôt, l’intérieur.* Une phrase voulut suivre, sur l’homme de Galenor, sur les trois nuits, sur la chambre. Avant de l’écrire, je posai la plume. Ce qu’elle disait se vérifierait là-haut, ou ne se vérifierait pas. Il n’y avait pas besoin de l’écrire d’avance.
 
 Puis je soufflai la lampe. Dehors, le vent tournait, comme le coureur l’avait dit. Il ne soufflait pas sur la ville. Il tournait autour.

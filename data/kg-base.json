@@ -43346,25 +43346,17 @@
             "x": -447,
             "y": 131,
             "confiance": "basse",
-            "methode": "indices",
             "terre": "Evertia",
-            "motif": "Au cœur de Sylvara (région « Le Cœur ») et à deux heures de marche de Thalmaris, que le texte met sur la côte intérieure en face de Valmora : placé dans le lobe nord-ouest, 6 u de sa côte sud (le côté du « détroit »), 16 u de Valmora (une journée de canot + deux heures).",
-            "indices": [
-              "C/25 : « Sylvara est à deux heures de marche de la ville »",
-              "C/25 : campement de saigneurs « de la rive sud » à mi-chemin",
-              "Atrium : « au centre du Cœur de Sylvara »"
-            ],
-            "conflits": [
-              "La ville d’où l’on y marche en deux heures, Thalmaris, est posée à ~700 u de là, sur Endora (cf. remarques)."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "motif": "Position estimée conservée : 9,6 u (2,3 lieues, « deux heures de marche ») de Cëpias (−456,6 ; 132,2), la ville du Cantus du C/25 ; le motif actuel dit « à deux heures de marche de Thalmaris » : lire Cëpias.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-25T22:13:04.192Z"
+      "updated_at": "2026-09-27T23:55:50.172Z"
     },
     {
       "id": "lie-0382",
@@ -43582,7 +43574,7 @@
       "type": "personne",
       "name": "Voix-de-Pierre",
       "slug": null,
-      "summary": "Doyen des Cantori de Thalmaris ; relie les variations de fréquences du Cantus à une note grave perçue à l'Arbre-Mère de Sylvara, y voyant la fréquence propre de la terre.",
+      "summary": "Doyen des Cantori de l’Académie du Cantus de Cëpias (Evertia) ; relie les variations de fréquences du Cantus à une note grave perçue à l'Arbre-Mère de Sylvara, y voyant la fréquence propre de la terre.",
       "body": null,
       "data": {
         "nation": "Thalmaris",
@@ -43592,12 +43584,20 @@
           "confiance": "moyenne",
           "methode": "corpus:corpus-deduit",
           "indice": "« Le titre s'accorde […] aux chanteurs dont la voix a traversé quarante ans de pratique » → début ~212 ; doyen actif lors du passage de Sorin en 252."
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Doyen des Cantori de Thalmaris",
+            "pourquoi": "C/25."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-27T23:55:49.983Z"
     },
     {
       "id": "per-0859",
@@ -52058,18 +52058,26 @@
       "type": "lieu",
       "name": "Cëpias",
       "slug": null,
-      "summary": "Cité du continent d’Evertia, portée au rang de capitale ; seuls son nom, son rang et sa position sur la carte du monde sont attestés.",
+      "summary": "Cité du continent d’Evertia, portée au rang de capitale ; cour et académie du Cantus sur la côte intérieure d’Evertia, à deux heures de l’Arbre-Mère de Sylvara (Chroniques, C/24–26 : Voix-de-Pierre, la compositrice, le Cantus du couchant).",
       "body": null,
       "data": {
         "echelle": "cite",
         "coord_x": -456.616141738044,
         "coord_y": 132.233292600981,
-        "capitale": true
+        "capitale": true,
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "seuls son nom, son rang et sa position sur la carte du monde sont attestés.",
+            "pourquoi": "C/25 : la ville du Cantus d’Evertia est Cëpias."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-09-27T23:55:49.983Z"
     },
     {
       "id": "lie-0670",
@@ -66990,31 +66998,20 @@
         ],
         "carte": {
           "position_estimee": {
-            "x": -214,
-            "y": 150.5,
-            "confiance": "basse",
-            "methode": "rattachement seul",
+            "x": -300,
+            "y": 185,
+            "confiance": "moyenne",
             "terre": "Ilthara",
-            "motif": "Port de Lythar (rattachement Atrium) : la seule eau que touche le Lythar de la carte est le long golfe qui descend du nord jusqu’à Lytharil. Vaelmar est posée sur sa rive sud-ouest, 7 u à l’ouest de Valryndor (la ville la plus occidentale de Lythar), 44 u à l’ouest de Lytharil en contournant le fond du golfe ≈ 8 jours (texte : 10 jours « plein ouest »).",
-            "indices": [
-              "C/20 : « Vaelmar, sur la côte ouest, dix jours de plaine plein ouest »",
-              "C/20 : « Vaelmar recula, puis la steppe derrière le port, puis tout Lythar »",
-              "C/20 : « par-delà l’eau, le soufre lointain de Cendara » ; barques « renforcées pour les mers de feu du sud »",
-              "C/21 : « Douze jours de mer depuis la côte ouest d’Ilthara, dont trois au large »"
-            ],
-            "conflits": [
-              "Le golfe s’ouvre au NORD : pour gagner Cendara (sud-ouest) les barques doivent faire le tour de l’ouest d’Ilthara (~450 u), incompatible avec 9 jours de navigation, et on ne peut pas y sentir le soufre de Cendara (~170 u).",
-              "Le chemin plein ouest depuis Lytharil ne longe pas « la lisière de Vytharia » (40 u plus au sud).",
-              "Alternative qui satisferait le texte mais pas le rattachement : côte sud-ouest d’Ilthara vers Uldarin/Zaldrin (≈ -289,199), 55 u de Brumaris, sur la route qui longe le nord de Vytharia — mais c’est le cœur des lieux posés d’Haldria, pas Lythar."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "motif": "C/20 : « Vaelmar, sur la côte ouest, dix jours de plaine plein ouest » depuis Lytharil ; C/21 : « la côte ouest d’Ilthara », d’où l’on passe à Diamoris. Posée sur la côte ouest d’Ilthara (1,4 u de la mer), entre Sylthros et Uldarin : Lytharil → Vaelmar 136 u (41 lieues, six jours de marche, dix avec le détour par la lisière de Vytharia) ; Vaelmar → Diamoris 91 u de mer (24 lieues, un jour, plus les trois au large). L’ancienne position (−214 ; 150,5, sur le golfe de Lythar) était à 13 lieues de Lytharil et fermée au sud. Le rattachement « Lythar » ne tient plus : la côte est dans la zone d’Haldria/Warenthor (surfaces non validées).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-25T22:13:04.192Z"
+      "updated_at": "2026-09-27T23:55:50.172Z"
     },
     {
       "id": "per-1066",
@@ -100528,7 +100525,7 @@
       "era_id": "era7_actuelle",
       "seq": 24,
       "label": "Mort d'Ourven, dernier veilleur de Thalenvir",
-      "detail": "Ourven, dernier veilleur capable d'entendre les esprits profonds d'Evertia, est trouvé mort sur sa couche, dans sa hutte de la source haute d'Ourthalle, la veille au soir de l'arrivée de Sorin Valthen — qui était encore en mer. Un étranger sans porte était entré au sanctuaire une semaine plus tôt : « l'autre main » a précédé l'Exilé. [Chroniques, ch. 24, jour 577 — an 250 du Sillage]",
+      "detail": "Ourven, dernier veilleur capable d'entendre les esprits profonds d'Evertia, meurt sur sa couche, dans sa hutte de la source haute d'Ourthalle, la veille au soir de l'arrivée de Sorin Valthen à Valmora — qui était encore en mer — ; Sorin le trouve trois soirs plus tard. Un étranger sans porte était entré au sanctuaire une semaine plus tôt : « l'autre main » a précédé l'Exilé. [Chroniques, ch. 24, jour 577 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -100542,6 +100539,12 @@
             "champ": "detail",
             "avant": "est trouvé mort au pied de son arbre-siège",
             "pourquoi": "Lieu du corps : la couche de la hutte, pas le pied d’un arbre-siège (même correction à faire dans per-0899 : « trouvé mort au pied de son arbre-siège » → « trouvé mort sur sa couche, dans sa hutte de la source haute d'Ourthalle »)."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "est trouvé mort sur sa couche, dans sa hutte de la source haute d'Ourthalle, la veille au soir de l'arrivée de Sorin Valthen — qui était encore en mer.",
+            "pourquoi": "C/24 retouché (registre §12)."
           }
         ],
         "preuve": [
@@ -100563,7 +100566,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:29:34.719Z"
+      "updated_at": "2026-09-27T23:55:49.983Z"
     },
     {
       "id": "fac-1206",
@@ -100843,7 +100846,7 @@
       "era_id": "era7_actuelle",
       "seq": 25,
       "label": "Le Cantus du couchant éveille la voix de la terre",
-      "detail": "À l'Académie de Thalmaris, Voix-de-Pierre descend le chœur dans un registre plus grave que tout ce qu'il a tenu : la pierre de la salle répond à la fréquence même de Sylvara. Son diagnostic : « C'est la même. Elle vient de la terre, pas de l'arbre. […] Quelque chose, en dessous, s'est mis à la frapper. » Depuis un an et demi, les œuvres de Thalmaris débordent leurs formes et creusent vers le grave. [Chroniques, ch. 25, jour 603 — an 250 du Sillage]",
+      "detail": "À l'Académie du Cantus de Cëpias, Voix-de-Pierre descend le chœur dans un registre plus grave que tout ce qu'il a tenu : la pierre de la salle répond à la fréquence même de Sylvara. Son diagnostic : « C'est la même. Elle vient de la terre, pas de l'arbre. […] Quelque chose, en dessous, s'est mis à la frapper. » Depuis un an et demi, les œuvres de Thalmaris débordent leurs formes et creusent vers le grave. [Chroniques, ch. 25, jour 603 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -100857,6 +100860,12 @@
             "champ": "detail",
             "avant": "« Ce n'est pas la voix de l'arbre. C'est la voix de la terre… Quelque chose, en dessous, s'est mis à la frapper. »",
             "pourquoi": "C/25 (Voix-de-Pierre) : « C’est la même. Elle vient de la terre, pas de l’arbre. La terre l’a toujours eue […]. Quelque chose, en dessous, s’est mis à la frapper. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "À l'Académie de Thalmaris",
+            "pourquoi": "C/25 : Thalmaris → Cëpias."
           }
         ]
       },
@@ -100864,7 +100873,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:29:05.059Z"
+      "updated_at": "2026-09-27T23:55:49.983Z"
     },
     {
       "id": "fac-1215",
@@ -101911,21 +101920,35 @@
       "end_circa": 0,
       "era_id": "era7_actuelle",
       "seq": 30,
-      "label": "Le moine du quai rompt son silence — jour 748 depuis Rukhsar",
-      "detail": "À mi-pente du chemin du port, le vieux moine dépense des décennies de silence en trois phrases : « Vous n'êtes pas venu apprendre le silence. Vous êtes venu voir s'il tiendrait. Ce que vous portez, vous ne le portez pas pour le comprendre. Vous le portez pour qu'il ne meure pas le jour où vous mourrez. » Le carnet d'Aldric porte une côte de falaises noires tracée d'une main qui tremble : le père a longé ces marges une génération plus tôt, puis reculé à un seuil. Au journal : « Jour 748. Baelor. Reçu un mot. Posé un nom. » [Chroniques, ch. 30, jour 748 — an 250 du Sillage]",
+      "label": "Le moine du quai rompt son silence — jour 752 depuis Rukhsar",
+      "detail": "À mi-pente du chemin du port, le vieux moine dépense des décennies de silence en trois phrases : « Vous n'êtes pas venu apprendre le silence. Vous êtes venu voir s'il tiendrait. Ce que vous portez, vous ne le portez pas pour le comprendre. Vous le portez pour qu'il ne meure pas le jour où vous mourrez. » Le carnet d'Aldric porte une côte de falaises noires tracée d'une main qui tremble : le père a longé ces marges une génération plus tôt, puis reculé à un seuil. Au journal : « Jour 752. Baelor. Reçu un mot. Posé un nom. » [Chroniques, ch. 30, jour 752 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "chroniques:30:le-moine-du-quai-rompt-son-silence-jour-748-depuis-rukhsar",
         "chapitre": 30,
         "jour": 748,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "label",
+            "avant": "jour 748 depuis Rukhsar",
+            "pourquoi": "C/30 : le moine parle le douzième matin (J752), et la note du journal est datée J752."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "« Jour 748. Baelor. Reçu un mot. Posé un nom. » [Chroniques, ch. 30, jour 748",
+            "pourquoi": "Même raison ; data.jour 748 → 752."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-08-26T00:00:00.000Z"
+      "updated_at": "2026-09-27T23:55:49.983Z"
     },
     {
       "id": "fac-1246",

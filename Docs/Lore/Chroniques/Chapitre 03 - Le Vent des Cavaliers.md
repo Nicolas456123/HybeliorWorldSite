@@ -84,7 +84,7 @@ Renk mangeait sans un mot, à ma gauche. Quand j’ai reposé mon couteau, c’e
 
 Pas une question davantage. J’avais posé plus de questions sur les porteurs que sur les chevaux ou le sel ; je m’étais trahi.
 
-« J’ai des lettres à faire porter, dis-je. Loin. Vers Rukhsar, vers l’ouest. Il y en aura d’autres, tout au long de ma route.
+« J’ai des lettres à faire porter, dis-je. Loin. Vers Rukhsar, vers l’est. Il y en aura d’autres, tout au long de ma route.
 — Tout le monde a des lettres », dit Renk.
 
 Et il retourna à sa viande.
@@ -189,9 +189,9 @@ Il arracha un brin d’herbe et le fit tourner entre les doigts qui lui restaien
 
 J’ai reçu la chose sans la commenter. Je savais déjà qu’on me suivrait. Ce que je ne savais pas, c’était la vitesse à laquelle une notification voyage ; Renk venait de me l’apprendre sans le vouloir.
 
-« La seconde coupe droit à travers la grande herbe. » Du menton, il montra l’est, où le jour finissait. « La piste des Neuf Cairns. Peu la prennent. Pas de villages, pas de relais ; l’eau se mérite. Douze jours si le vent te laisse, davantage s’il te reprend. »
+« La seconde coupe droit à travers la grande herbe. » Du menton, il montra l’ouest, où le jour finissait. « La piste des Neuf Cairns. Peu la prennent. Pas de villages, pas de relais ; l’eau se mérite. Quatre jours si le vent te laisse, davantage s’il te reprend. »
 
-Le nom ne m’était pas tout à fait inconnu. Je l’avais relevé jadis, sans doute, sur quelque carte ancienne, de celles qu’on recopie sans y penser et dont les noms vous restent en mémoire comme des cailloux au fond d’une poche. Vers l’est, l’herbe s’enfonçait dans le soir sans un repère.
+Le nom ne m’était pas tout à fait inconnu. Je l’avais relevé jadis, sans doute, sur quelque carte ancienne, de celles qu’on recopie sans y penser et dont les noms vous restent en mémoire comme des cailloux au fond d’une poche. Vers l’ouest, l’herbe s’enfonçait dans le soir sans un repère.
 
 « Je prendrai les Neuf Cairns. »
 
@@ -204,8 +204,8 @@ Ce n’était pas faux. C’était plus court. L’autre raison, je n’aurais p
 
 Puis nous en sommes venus aux lettres. Trois, écrites dans la nuit, à l’encre de sépia, sur le bon papier acheté à Lumasar. Une pour Mira Dasthen, à Rukhsar, qui m’avait averti la nuit d’avant la saisie et qui n’avait pas voulu franchir mon seuil pour ne pas se compromettre. Une pour un certain Omarin, à Velithis, à qui je n’avais encore rien dit d’important et à qui j’écrivais comme on entrouvre une porte pour plus tard. La troisième n’était adressée à personne ; je la garderais.
 
-« Celle-ci vers l’ouest, dis-je en lui tendant la lettre pour Mira. Celle-là plus loin, vers Velithis, si votre chaîne va jusque-là.
-— La chaîne va où il faut, dit Renk. Elle ne va pas vite. Un mois pour l’ouest. Deux, si l’hiver ferme les gués. »
+« Celle-ci vers l’est, dis-je en lui tendant la lettre pour Mira. Celle-là plus loin, vers Velithis, si votre chaîne va jusque-là.
+— La chaîne va où il faut, dit Renk. Elle ne va pas vite. Un mois pour l’est. Deux, si l’hiver ferme les gués. »
 
 Il rangea les plis dans une besace, contre sa poitrine, sans les regarder.
 
@@ -216,7 +216,7 @@ J’ai remercié, et j’aurais dû m’en tenir là. Mais je pense en lignes. U
 
 ---
 
-La veille du départ, un maquignon du convoi, un vieux Ventérien qui menait les bêtes de bât en queue de colonne, me céda pour quelques pièces une mule au regard lent, une bête qui avait renoncé à juger les hommes et se contentait de les porter. Douze jours de grande herbe sans un puits valaient bien ce prix. Je l’ai appelée Pardine.
+La veille du départ, un maquignon du convoi, un vieux Ventérien qui menait les bêtes de bât en queue de colonne, me céda pour quelques pièces une mule au regard lent, une bête qui avait renoncé à juger les hommes et se contentait de les porter. Quatre jours de grande herbe sans un puits valaient bien ce prix. Je l’ai appelée Pardine.
 
 Au matin du huitième jour, j’ai quitté la caravane, à l’endroit où sa piste tournait vers le sud et où la mienne partait droit dans la grande herbe. Dava m’avait fait remettre du vantal et du pain plat noués dans un carré de toile, sans m’avoir demandé si j’en avais besoin.
 
@@ -254,4 +254,4 @@ J’ai noté aussi, comme une donnée de terrain, qu’il existe un réseau qu�
 
 La route reprend demain. Il y aura d’autres postes, d’autres fonctionnaires, d’autres questions posées de cette voix neutre qui connaît la réponse qu’elle veut. Mais le sel de Dava est dans ma poche, mes lettres sont sur la chaîne, et le vent est dans mon dos.
 
-Je marche vers l’est, sur une piste que j’ai choisie sans raison que je puisse dire.
+Je marche vers l’ouest, sur une piste que j’ai choisie sans raison que je puisse dire.

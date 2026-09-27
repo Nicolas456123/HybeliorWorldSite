@@ -92,7 +92,7 @@ Je n’avais pas menti : je porte un carnet. La seule à comprendre ce qu’il 
 
 L’homme au gant noir m’attendait à Perivalis, au bout du ponton de rondins où l’on charge les barges de bois enchanté.
 
-Je le reconnus avant de reconnaître son visage. Le courtier de Solena me l’avait vendu avec le reste, le prix de ma tête et la façon dont l’appareil poste ses guetteurs : une main gauche gantée de cuir noir en toute saison, et un silence, un homme qui ne parle jamais le premier. J’avais rangé la description en marge, à vérifier. Elle se vérifiait : appuyé contre un pilier, le gant posé bien en vue sur la rambarde, il me regardait descendre, et son regard enregistrait sans s’arrêter nulle part.
+Je le reconnus avant de reconnaître son visage. Je l’avais vu à Voldenor, puis sur les môles de Velithar, sans qu’il ouvre la bouche : une main gauche gantée de cuir noir en toute saison, et un silence, un homme qui ne parle jamais le premier. Il n’avait pas changé : appuyé contre un pilier, le gant posé bien en vue sur la rambarde, il me regardait descendre, et son regard enregistrait sans s’arrêter nulle part.
 
 Il ne dit rien. Alors je parlai le premier, ce qui était exactement ce qu’il voulait, et nous le savions tous les deux.
 
@@ -117,7 +117,7 @@ Pour la première fois, il cessa d’être tout à fait immobile. Pas le visage�
 
 Quand je passai, si près que j’aurais pu toucher le cuir noir, il ne bougea pas. Cela aussi était voulu : il pouvait m’atteindre, et il choisissait, ce jour-là, de ne pas le faire.
 
-Jusque-là, la traque avait eu la forme d’une notification qui voyage plus vite que les caravanes, d’une porte fermée d’avance, d’un guetteur au bout d’un quai. Elle avait désormais un gant, un silence et une patience. Le soir même, je m’embarquai pour la côte d’Haldria, et cette patience m’occupa toute la traversée.
+Jusque-là, la traque avait eu la forme d’une notification qui voyage plus vite que les caravanes, d’une porte fermée d’avance, d’un guetteur au bout d’un quai. Elle avait désormais une voix, et une patience. Le soir même, je m’embarquai pour la côte d’Haldria, et cette patience m’occupa toute la traversée.
 
 ---
 
@@ -277,15 +277,15 @@ Je pliai la feuille sans l’avoir remplie, et je la gardai. Je l’ai encore qu
 
 ---
 
-Au douzième jour, je m’embarquai pour Ilthara dans le vent du nord-est, les fanaux s’éteignant un à un derrière moi, et le réflecteur de Vessane resté sur une balustrade pour tromper un homme qui n’était déjà plus là.
+Au douzième jour, je m’embarquai pour Gryndor dans le vent du nord-est, les fanaux s’éteignant un à un derrière moi, et le réflecteur de Vessane resté sur une balustrade pour tromper un homme qui n’était déjà plus là.
 
-Endora se refermait comme une figure qu’on quitte sans l’avoir résolue : Sarandel, qui écoute le monde en chanson ; Avalor, qui le lit dans les racines et dans des yeux qui changent avec les saisons ; Haldria, qui le mesure au ciel et le voit glisser sans oser conclure. Trois écoutes du même bruit de fond. Et sur chacune, maintenant, un guetteur, un gant, une date de courrier. L’étau ne s’était pas resserré d’un coup : il s’était donné un visage, et je savais que je le reverrais.
+Endora se refermait comme une figure qu’on quitte sans l’avoir résolue : Sarandel, qui écoute le monde en chanson ; Avalor, qui le lit dans les racines et dans des yeux qui changent avec les saisons ; Haldria, qui le mesure au ciel et le voit glisser sans oser conclure. Trois écoutes du même bruit de fond. Et sur chacune, maintenant, un guetteur, un gant, une date de courrier. L’étau ne s’était pas resserré d’un coup : il s’était mis à parler, et je savais que je le reverrais.
 
 Je repense aux yeux. Ceux de Feylara, qui prennent la couleur de la saison et voient ce qu’on porte avant qu’on l’ait posé. Ceux de Vessane, qui savent lire un déplacement d’un degré dans un ciel qu’on croyait fixe, et qui ont eu la sagesse, une fois, de se déplacer eux-mêmes. Ceux de l’homme au gant noir, qui enregistrent sans s’arrêter et ne concluent jamais ; il attend, comme il me l’a dit, que la ligne se ferme. Trois façons de regarder. Je les ai regardées toutes les trois.
 
 ---
 
-*Note cartographique, jour 300 — au large d’Endora, cap sur Ilthara :*
+*Note cartographique, jour 300 — au large d’Haldria, cap sur Gryndor :*
 
 *Je ferme ici la deuxième partie de mon voyage. Trois cents jours, de la poussière de Kharazir à ce pont battu par le vent d’est. Hier soir, j’ai relu mes notes d’une traite, comme on relit une carte levée trop lentement pour qu’on en ait vu d’abord l’ensemble : les sons d’Alkaran, les vibrations de Trinoria, le demi-ton d’Avalor, les vingt-trois étoiles d’Haldria. Séparément, des anomalies à vérifier. Ensemble, une même chose, entendue dans plusieurs langues qui ne se connaissent pas. Une résonance de fond qui se modifie depuis un automne dont tous les témoins, chacun avec ses propres instruments, donnent la même date.*
 
@@ -293,4 +293,4 @@ Je repense aux yeux. Ceux de Feylara, qui prennent la couleur de la saison et vo
 
 *Je note aussi, plus bas, plus petit, pour que la ligne suivante n’oublie pas la précédente : j’ai laissé un homme mort sur un quai pour garder une femme en vie, et j’ai appris que je ne sais pas faire ce commerce-là.*
 
-*Ilthara demain. Un continent, m’a-t-on dit, de dragons et de généraux. Pardine traversera une mer de plus. Elle ne sera pas contente. Moi non plus, mais pour d’autres raisons, que je ne mets pas sur cette page, par prudence, et par une habitude que je commence à ne plus savoir distinguer de la prudence.*
+*Gryndor après-demain. Ilthara, m’a-t-on dit, est un continent de dragons et de généraux. Pardine traversera une mer de plus. Elle ne sera pas contente. Moi non plus, mais pour d’autres raisons, que je ne mets pas sur cette page, par prudence, et par une habitude que je commence à ne plus savoir distinguer de la prudence.*

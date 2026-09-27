@@ -12,7 +12,7 @@ Les deux ballots de laine crue étaient partis de Taldre sans avoir vu l’alun.
 
 Renna y avait repensé à chaque halte, et chaque fois elle avait laissé tomber. Mordancer demande une demi-journée d’un seul tenant : on monte le bain, on le tient clair, on y noie la laine et on ne la sort qu’à l’heure dite. Un bain qu’on laisse retomber se rallume, remonte, reprend sa couleur d’eau ; la laine qui en sort est tachée, et les taches ne se déclarent qu’au bleu, trois jours plus tard, quand il n’y a plus rien à faire. Il lui aurait fallu une demi-journée entière. Depuis des semaines il n’était plus rien venu d’aussi long.
 
-La dernière lieue ne se fit pas en charrette. À l’entrée du val qui montait vers le foyer, la route disparut sous les gens, et le mulet, qui jusque-là avait tiré vers le sud sans qu’on eût à lui dire deux fois, planta ses quatre fers dans la cendre et refusa d’entrer dans cette marée d’épaules. Renna ne le força pas. Ce que la bête flairait devant elle, elle le flairait aussi, et une part d’elle aurait voulu, comme lui, planter les talons et ne plus avancer d’un pas.
+La dernière lieue ne se fit pas en charrette. À l’entrée du val qui montait vers le foyer, la route disparut sous les gens, et le mulet, qui jusque-là avait tiré vers le nord sans qu’on eût à lui dire deux fois, planta ses quatre fers dans la cendre et refusa d’entrer dans cette marée d’épaules. Renna ne le força pas. Ce que la bête flairait devant elle, elle le flairait aussi, et une part d’elle aurait voulu, comme lui, planter les talons et ne plus avancer d’un pas.
 
 Elle détela, poussa la charrette contre le talus avec la laine qui ne serait jamais mordancée, mit dans sa poche une croûte de la miche, et prit l’enfant contre sa hanche.
 
@@ -130,7 +130,7 @@ Manteau sombre, pas de suie sur la face, pas de mèches peintes, rien qui le don
 
 « Je suis d’ici, dit Renna. Je suis de Taldre. Teinturière. Je rentre chez moi.
 
-— Chez vous, c’est au nord du foyer, et le foyer est fermé. » Il désigna d’un mouvement de menton la fente, la margelle, la foule. « Tout ceci sera dispersé avant l’aube. On ne laisse pas quinze mille personnes camper sur une bouche de feu qui cogne sous le quart d’heure. Il y aura une bousculade, un feu qui prend une tente, une centaine de morts pour rien, et ce sera de notre faute à nous qui aurons laissé faire. Alors nous ne laissons pas faire. »
+— Chez vous, c’est au sud du foyer, et le foyer est fermé. » Il désigna d’un mouvement de menton la fente, la margelle, la foule. « Tout ceci sera dispersé avant l’aube. On ne laisse pas quinze mille personnes camper sur une bouche de feu qui cogne sous le quart d’heure. Il y aura une bousculade, un feu qui prend une tente, une centaine de morts pour rien, et ce sera de notre faute à nous qui aurons laissé faire. Alors nous ne laissons pas faire. »
 
 « Dispersez, dit Renna. Je ne vous retiens pas.
 
@@ -146,7 +146,7 @@ Il parlait de sûreté du ton dont la femme en cendre avait parlé de flamme.
 
 L’homme retira sa main sans se fâcher. Il nota, quelque part derrière son front froid, qu’une teinturière de Taldre avait dit non et qu’il faudrait y revenir, et Renna le vit noter comme on voit tomber une pierre dans un puits.
 
-« Comme vous voudrez, dit-il. Restez donc au bord de la fente. Priez avec les autres. Quand la bousculade viendra, tenez-le bien. » Il se détourna, puis, par-dessus l’épaule, sans méchanceté, avec ce qui ressemblait presque à de la pitié : « Une taie ne se retourne pas vers le sud, la mère. La vôtre le fait depuis tout à l’heure. Un jour, quelqu’un de moins commode que moi le remarquera. »
+« Comme vous voudrez, dit-il. Restez donc au bord de la fente. Priez avec les autres. Quand la bousculade viendra, tenez-le bien. » Il se détourna, puis, par-dessus l’épaule, sans méchanceté, avec ce qui ressemblait presque à de la pitié : « Une taie ne se retourne pas vers le nord, la mère. La vôtre le fait depuis tout à l’heure. Un jour, quelqu’un de moins commode que moi le remarquera. »
 
 Et il s’en fut, avalé par la marée, ses compteurs de têtes derrière lui, laissant Renna avec l’enfant qui, en effet, sans qu’elle s’en fût aperçue, avait tourné le visage vers le foyer et le tenait là, aimanté, les deux billes de lait grandes ouvertes sur l’arbre de cendre.
 
@@ -172,7 +172,7 @@ Entre la margelle et la fente, il y avait la femme en cendre qui le voulait pour
 
 Elle essaya de reprendre le raisonnement depuis le commencement, comme on remonte un bain qu’on a laissé retomber. La poussée revint avant qu’elle fût arrivée au bout. Elle recommença. Elle n’arriva pas au bout non plus. Depuis le matin, cela se passait ainsi de tout : une phrase, un pas, une pensée, une croûte de pain tendue à un enfant, chaque chose entamée se faisait couper par le milieu, et elle le reprenait chaque fois au-dessous de l’endroit où on l’avait coupé.
 
-Restait, au fond, la troisième chose qu’elle n’avait jamais osé se dire et qui, ce soir, se laissait enfin voir : elle aurait voulu un enfant qui n’eût entendu que sa mère de teinture, qui eût roulé vers le nord dans son sommeil comme les autres petits, qui eût grandi malingre et sourd et heureux au bord des cuves bleues. Cet enfant-là n’avait jamais existé. Le sien était né tourné vers le Mont, la bouche déjà pleine d’un mot qui n’était pas d’elle, et le garder pour soi avait été le mensonge de toutes leurs années ensemble, un mensonge que le foyer, à coups de pulses, achevait de démolir sous ses talons.
+Restait, au fond, la troisième chose qu’elle n’avait jamais osé se dire et qui, ce soir, se laissait enfin voir : elle aurait voulu un enfant qui n’eût entendu que sa mère de teinture, qui eût roulé vers le sud dans son sommeil comme les autres petits, qui eût grandi malingre et sourd et heureux au bord des cuves bleues. Cet enfant-là n’avait jamais existé. Le sien était né tourné vers le Mont, la bouche déjà pleine d’un mot qui n’était pas d’elle, et le garder pour soi avait été le mensonge de toutes leurs années ensemble, un mensonge que le foyer, à coups de pulses, achevait de démolir sous ses talons.
 
 « Renna. » L’enfant chercha la main bleue, la serra. « Pourquoi tu pleures.
 

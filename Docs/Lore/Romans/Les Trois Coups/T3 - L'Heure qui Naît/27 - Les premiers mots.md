@@ -14,7 +14,7 @@ La première la prit à la traite, les doigts au pis de la chèvre grise, et le 
 
 La semaine d’avant, il en venait deux par jour, une au matin, une au soir, et l’on pouvait les attendre comme on attend l’angélus. La saison, puis le mois, puis la semaine, puis le jour, et voilà que le jour à son tour se coupait en morceaux, et qu’entre deux venues il ne restait plus qu’un répit maigre, bon à ranger sa peur et à la ressortir aussitôt.
 
-Renna descendit tout de même à Taldre, parce qu’une jarre de guède ne se vend pas au bout de son sentier, et parce qu’un enfant qui mange, ces temps-ci, mange pour deux. Elle ne redit pas la consigne à Ilex avant de sortir. Il l’avait entendue cent fois, il ne la tiendrait pas mieux que les autres fois, et depuis quelques jours il avait cessé de tourner la tête vers la porte quand elle partait. Il la tournait vers le sud. Cela au moins ne bougerait pas de la journée.
+Renna descendit tout de même à Taldre, parce qu’une jarre de guède ne se vend pas au bout de son sentier, et parce qu’un enfant qui mange, ces temps-ci, mange pour deux. Elle ne redit pas la consigne à Ilex avant de sortir. Il l’avait entendue cent fois, il ne la tiendrait pas mieux que les autres fois, et depuis quelques jours il avait cessé de tourner la tête vers la porte quand elle partait. Il la tournait vers le nord. Cela au moins ne bougerait pas de la journée.
 
 La place, en bas, n’était plus la place. Entre la fontaine et l’auvent du forgeron, on avait dressé une manière d’estrade avec des planches de coffrage, et sur les planches un homme en bure rousse haranguait une trentaine de gens serrés, plus qu’il n’en venait un jour de marché. Renna reconnut Arkhen à la ceinture de corde et au signe peint sur le torse, une flamme droite, en pointe, couleur de fer chauffé. L’homme parlait fort, d’une voix rauque d’avoir déjà parlé dans dix hameaux.
 
@@ -90,7 +90,7 @@ Mentir à Ilex ne servait à rien ; il entendait le mensonge comme il entendait
 
 — Depuis toujours, dit-elle. Mais pas comme ça. Avant c’était un bruit. Un fond. Quelque chose qui était là, sous tout, comme le vent est sous les feuilles. On ne l’écoutait pas, on vivait dedans. Là, ça veut dire. Et je ne peux plus m’en boucher, parce qu’on ne se bouche pas contre une chose qui veut dire. On peut seulement refuser de comprendre, et refuser de comprendre, cette nuit, ça ne marche plus non plus. »
 
-L’enfant se tourna vers elle, la joue quittant sa chaleur pour chercher le sud, et dans la lueur rouge des braises ses yeux blancs, sans iris, la regardèrent sans la voir, tournés qu’ils étaient vers le dessous.
+L’enfant se tourna vers elle, la joue quittant sa chaleur pour chercher le nord, et dans la lueur rouge des braises ses yeux blancs, sans iris, la regardèrent sans la voir, tournés qu’ils étaient vers le dessous.
 
 « Écoute avec moi, dit-il. Pas contre. Avec. On va aller le chercher ensemble. Tu vas au premier, moi au deuxième, et le troisième on essaie tous les deux, parce que le troisième il vient pas. »
 

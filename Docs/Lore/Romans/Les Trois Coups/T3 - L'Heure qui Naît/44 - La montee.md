@@ -102,13 +102,13 @@ Elle s’assit dans la cendre, l’enfant sur les genoux, parce que ses jambes n
 
 Renna appuya le front contre le petit crâne tiède.
 
-Elle avait fait une seule chose de sa vie, et elle l’avait bien faite : ne pas entendre. Enfant, on l’avait crue folle parce qu’elle entendait ce que nul n’entendait autour d’elle, et elle avait appris, à force de gifles et de rires, à river son attention au bruit d’en haut, le battoir sur la pierre, la chèvre, les femmes qui s’appellent par-dessus les murs, et à laisser l’autre passer dessous. C’était devenu un métier, presque une peau. Personne au monde ne savait mieux qu’elle ne pas écouter. Elle avait cru que cela suffirait pour deux. Qu’elle roulerait l’enfant dans ce bruit du dessus, qu’elle l’emmènerait au nord, vers l’eau, vers les cuves bleues, et qu’elle l’y garderait sourd et vivant.
+Elle avait fait une seule chose de sa vie, et elle l’avait bien faite : ne pas entendre. Enfant, on l’avait crue folle parce qu’elle entendait ce que nul n’entendait autour d’elle, et elle avait appris, à force de gifles et de rires, à river son attention au bruit d’en haut, le battoir sur la pierre, la chèvre, les femmes qui s’appellent par-dessus les murs, et à laisser l’autre passer dessous. C’était devenu un métier, presque une peau. Personne au monde ne savait mieux qu’elle ne pas écouter. Elle avait cru que cela suffirait pour deux. Qu’elle roulerait l’enfant dans ce bruit du dessus, qu’elle l’emmènerait au sud, vers l’eau, vers les cuves bleues, et qu’elle l’y garderait sourd et vivant.
 
 Elle regarda la fente battre, la suie ouvrir ses branches dans un ciel sans souffle, les dos qui montaient, et le métier de sa vie ne valut plus rien.
 
 Le dessous avait cogné pour elle seule, pour les Enfants aux Yeux Blancs, pour les trois ou quatre malades du pays qu’on cachait des registres. Cette nuit, il cognait pour tous. La femme d’Arkhen l’entendait à sa façon, le safran à la sienne, la vieille au huitième, le marcheur des vents dans son étoile qui glisse, l’homme de l’ordre jusque dans le rapport froid où il le nierait. Ils l’entendaient tous, mal, chacun dans sa langue, chacun le tordant vers son dieu ou vers son rien. Il lui restait une place, une seule : celle de l’entendre nu.
 
-Elle n’eut pas à trancher, on lui avait retiré de quoi. Plus de nord où fuir, plus de bruit de surface assez large pour couvrir ce qui poussait sous tous ces pieds. Il restait une chose à faire, celle qu’elle n’avait pas faite en vingt-cinq ans, et elle la fit comme on pose un seau qu’on n’a plus la main pour tenir.
+Elle n’eut pas à trancher, on lui avait retiré de quoi. Plus de sud où fuir, plus de bruit de surface assez large pour couvrir ce qui poussait sous tous ces pieds. Il restait une chose à faire, celle qu’elle n’avait pas faite en vingt-cinq ans, et elle la fit comme on pose un seau qu’on n’a plus la main pour tenir.
 
 Elle écouta.
 

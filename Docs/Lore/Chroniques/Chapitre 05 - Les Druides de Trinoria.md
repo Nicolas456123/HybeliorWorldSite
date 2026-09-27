@@ -19,9 +19,9 @@ status: draft
 
 L’odeur arrive avant la forêt.
 
-Six jours de marche au sortir de Solena, le sel encore pris dans la laine de mon manteau, la poussière des routes basses sur les jambes, et d’un pas à l’autre l’air a changé de poids. Résine, mousse retournée, feuilles noircies par des siècles de pluie. Une odeur froide et pleine, l’odeur d’un lieu qui n’a jamais eu besoin de personne pour exister. Pardine a levé les naseaux et ralenti. Je l’appelle Pardine depuis Ventera, parce qu’elle a le regard lent d’une bête qui a cessé de me juger. Ce changement d’air ne lui plaisait pas non plus. Elle a continué quand même, ce qui est sa manière d’être brave.
+Douze jours de marche au sortir de Solena, le sel encore pris dans la laine de mon manteau, la poussière des routes basses sur les jambes, et d’un pas à l’autre l’air a changé de poids. Résine, mousse retournée, feuilles noircies par des siècles de pluie. Une odeur froide et pleine, l’odeur d’un lieu qui n’a jamais eu besoin de personne pour exister. Pardine a levé les naseaux et ralenti. Je l’appelle Pardine depuis Ventera, parce qu’elle a le regard lent d’une bête qui a cessé de me juger. Ce changement d’air ne lui plaisait pas non plus. Elle a continué quand même, ce qui est sa manière d’être brave.
 
-Trinoria. Les forêts du centre de Galenor. Dans mes sacoches, trois cartes du secteur, dessinées par trois mains différentes, et pas un accord entre elles : ni les cours d’eau, ni les sentiers, ni les noms des hameaux. Mauvais signe pour le voyageur. Bon signe pour moi : là où les cartes se contredisent, mon métier commence.
+Trinoria. Les forêts du nord de Galenor. Dans mes sacoches, trois cartes du secteur, dessinées par trois mains différentes, et pas un accord entre elles : ni les cours d’eau, ni les sentiers, ni les noms des hameaux. Mauvais signe pour le voyageur. Bon signe pour moi : là où les cartes se contredisent, mon métier commence.
 
 Trouver quelqu’un qui accepte de parler à un étranger m’a pris quatre jours. Les Trinoriens de Nalithos vous regardent depuis les branches. Je l’ai compris trop tard, le jour où mes yeux ont enfin séparé leurs silhouettes du bois : peau et vêtements de la teinte exacte de l’écorce, immobiles dans les hauteurs, patients. Ils ne descendent pas. Ils observent, et quand la réponse est non, c’est une plume de flèche qui la donne.
 
