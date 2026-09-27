@@ -21,7 +21,7 @@ Le vieux devant. Celui du feu. Monté le dernier, il marche le premier, c’est 
 
 Il fait froid sur moi, cette nuit. Leur souffle fait de la buée devant leur bouche. Aucun ne parle.
 
-Derrière le vieux, celui qui coupe. La marque sous sa poitrine chauffe. Elle chauffe depuis des jours et il ne la touche pas. Il ne regarde plus vers le sud. Il est dedans. Il monte dans moi.
+Derrière le vieux, celui qui coupe. La marque sous sa poitrine chauffe. Elle chauffe depuis des jours et il ne la touche pas. Il ne regarde plus vers le nord. Il est dedans. Il monte dans moi.
 
 Derrière, celle qui écrit le sens. La femme de l’arbre. Elle a réglé chacun des gestes de cette nuit. Elle monte sans rien relire. Loin, dans un autre pays, une petite lumière basse : sa sœur, qui ferme sa porte pour la nuit et ne sait rien, et ne saura rien.
 

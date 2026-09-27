@@ -11985,33 +11985,20 @@
         },
         "carte": {
           "position_estimee": {
-            "x": -322.5,
-            "y": 290.5,
+            "x": -317,
+            "y": 249,
             "confiance": "moyenne",
-            "methode": "indices",
             "terre": "Cendara",
-            "motif": "Sommet posé dans la bande de relief « désolation » (grise) qui barre la Grande Île d'est en ouest (y≈267–296 sur biomes-trace.svg, calé à 98,6 % sur les côtes), au creux de teinte distincte (−327…−317, 285…296) où l'ancien Atlas-Lore met aussi son icône « Volcan / Mont Cendra » (≈ −323, 292–296 après ancrage local sur Brumaris, Kaldris, Diamoris, Solarith, Uthorin, Virondis, Drystar, résidu ≤ 1 u). C'est la seule position qui tient à la fois T1 (la Dent tout près au sud, Sulvane à des jours au nord), T3 (15–20 lieues de pays au nord de Taldre) et l'Atrium (« une éruption majeure du Mont Cendra coupe la grande île en deux moitiés reliées seulement par des cols »).",
-            "indices": [
-              "T1/36 : « Vers l'intérieur des terres, au nord, là où le sentier de chèvre se perdait dans les collines grises ; et derrière les collines, très proche à présent, le Mont »",
-              "T1/26 : « Cendara était vaste, et le Mont, disait Sera, tenait tout au fond, au bout de la longue plaine qui montait vers lui »",
-              "T1/27 : « à des jours et des jours de marche au bout de ce noir il y avait un sommet »",
-              "T3/2 (Taldre) : « le Mont montait au sud, énorme et gris » ; T3/31 : « Quinze lieues du Mont. — Dix-huit »"
-            ],
-            "conflits": [
-              "Atrium : Brumaris « sur un plateau de basalte au pied du Mont Cendra » (ici 50 u) et Mylaris « sur les flancs fertiles du Mont Cendra » (ici 41 u) ; Brumancia « dominée par le Mont » et Solara « la moins touchée par les éruptions » plaident pour un Mont au nord (vers −316, 251). Retenu : la carte (relief + Atlas) et T1/T3 ; l'alternative nord est donnée en remarque.",
-              "C/22 : Brumaris → premier plateau en « trois heures », cratère dans la matinée, Mylaris le jour même : impossible à 50 u (déjà impossible sur la carte de l'auteur, Brumaris–Mylaris = 18 u).",
-              "C/23 : Basalis « au pied du dernier contrefort du Mont » et « le froid du cône » sur le Détroit : Basalis (côte nord) est ici à 61 u du sommet.",
-              "T1/22 : à la Dent l'Étudiant se tourne « vers le sud et les hauteurs » alors que T1/36 met le Mont au nord de la crique (contradiction interne au T1).",
-              "T3/42–45 : Drakora → Mont « quatre jours » à cheval « par le haut pays » : Drakora est en Ilthara, 200 u et un bras de mer plus loin."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "motif": "Consigne de l'auteur : le Mont est près des lieux qu'il a posés « au pied du Mont », au nord de la Grande Île — Brumaris (−323,6 ; 240,3) à 11 u, Mylaris (−309,6 ; 252) à 8 u, Basalis (est. −319,5 ; 230) à 19 u. Tient aussi T3/31 (« quinze, dix-huit lieues du Mont » : 63–75 u, la pointe sud de l'île est à ~80 u) et la Chronologie (Ère IV).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-25T22:24:04.983Z"
+      "updated_at": "2026-09-27T23:49:40.003Z"
     },
     {
       "id": "lie-0020",
@@ -39614,30 +39601,20 @@
         },
         "carte": {
           "position_estimee": {
-            "x": -321.5,
-            "y": 286.3,
+            "x": -318,
+            "y": 254,
             "confiance": "moyenne",
-            "methode": "indices",
             "terre": "Cendara",
-            "motif": "Au pied nord immédiat du sommet (4,2 u), au rebord du creux qui monte vers le cône : T1 fait partir « pour le Sud » vers le Mont, fait monter le sommet en 5 à 7 heures de nuit et fait descendre la route de Sulvane au nord « dans des gorges » (bande montagneuse). Dent → Cendral = 18 u, les « trois jours » de Verkan tiennent.",
-            "indices": [
-              "T1/23 : « Il était là, sur eux, penché sur la ville comme un forgeron sur son enclume »",
-              "T1/35 : « Demain à la tombée du jour, on monte. Cinq heures dans le noir. On atteint le sommet avant l'aube. »",
-              "T1/29 : « Sous eux, très bas, Cendral fumait … plus loin la plaine ; au bout de la plaine une pâleur qui devait être la mer. »",
-              "T1/43 : « la ville haute était sous le flanc » ; au nord la route de Sulvane descend dans des gorges"
-            ],
-            "conflits": [
-              "Era 3a/3b : « Cendral (futur Cendara-ville) » — c'est le brouillon de Taldre, que la fiche Taldre met « au pied sud du Mont » alors que T3 le met au nord (« le Mont montait au sud »). Cendral et Taldre devraient partager ce site nord.",
-              "Era 4 : 340 000 habitants ensevelis ; la fiche Cendara parle de ~90 000 habitants pour tout l'archipel (Sillage)."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "motif": "Au pied sud du Mont (5 u ≈ 5 km : « cinq heures dans le noir » jusqu'au sommet, T1/35 ; le Mont « penché sur la ville », T1/23). Route de Sulvane vers le sud-ouest, par des gorges (T1/43) ; de la corniche, Cendral puis la plaine puis la mer du sud (T1/29).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-25T22:24:04.983Z"
+      "updated_at": "2026-09-27T23:49:40.003Z"
     },
     {
       "id": "lie-0247",
@@ -50376,7 +50353,7 @@
       "type": "lieu",
       "name": "Sulvane",
       "slug": null,
-      "summary": "Port et hautes terres au nord du Mont Cendra ; point d'arrivée de Thessan (fil de terre) et refuge des ~200 000 fuyards de Cendral par la Route des Cendres.",
+      "summary": "Port de la côte ouest de Cendara et hautes terres, au sud-ouest du Mont Cendra ; point d'arrivée de Thessan (fil de terre) et refuge des ~200 000 fuyards de Cendral par la Route des Cendres.",
       "body": null,
       "data": {
         "echelle": "ville",
@@ -50390,68 +50367,62 @@
         },
         "carte": {
           "position_estimee": {
-            "x": -311,
-            "y": 241.5,
+            "x": -340,
+            "y": 287,
             "confiance": "moyenne",
-            "methode": "indices",
             "terre": "Cendara",
-            "motif": "Port sur la côte nord-est de la moitié nord de l'île (côte à 1,2 u, vert sombre sur la carte, pays humide), au nord des hautes terres (collines) qui précèdent la bande montagneuse : 44 u de Cendral, soit les 7 à 10 jours de marche que T1 décrit (« des jours et des jours »). Côte tournée vers le bras de mer qu'on franchit depuis Ilthara (passeur de Verkan).",
-            "indices": [
-              "Atrium : « Port et hautes terres au nord du Mont Cendra »",
-              "T1/37 : « il a marché depuis le port du nord »",
-              "T1/26 : « les toits bas, les canaux, l'eau verte d'où montait la fièvre » ; trois jours de route au sud avant la plaine",
-              "T1/34 : Verkan, du port aux hautes terres de Sulvane : « deux jours »"
-            ],
-            "conflits": [
-              "Atrium (Route des Cendres) : trois jours pour 200 000 fuyards ; Era 4 : « à 40 km au sud » de Cendral. Ici 44 u au nord.",
-              "Aethranor est ici à 369 u (« trois cents lieues »).",
-              "T1/11 range la fièvre des marais de Sulvane dans les réquisitions « dans l'Hégémonie » (Galenor), contre l'Atrium (Brumaria).",
-              "T1/24–28 : trois semaines Pyrion → Corbeau-Gris, puis « Trois semaines plus tôt, au Corbeau-Gris » à l'arrivée à Sulvane, contre T1/52 « Trois semaines pour rentrer »."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "motif": "Port de la côte ouest (côte à 0,2 u), à 40 u ≈ 38 km au sud-ouest de Cendral : la Chronologie (Ère IV) dit Sulvane « à 40 km au sud » de Cendral ; ses hautes terres (col vers −327,272) sont à deux ou trois jours de marche lente (T1/28, T1/34). À 414 u d'Aethranor ≈ « cent lieues » (T1/0 corrigé).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Port et hautes terres au nord du Mont Cendra",
+            "pourquoi": "Le Mont est posé au nord de l'île, près de Brumaris, Mylaris et Basalis ; Sulvane (−340,287) à ~40 km de Cendral (Chronologie Ère IV) ; T1/26-28, 34, 43, 51 corrigés en conséquence."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-25T22:24:04.983Z"
+      "updated_at": "2026-09-27T23:49:40.003Z"
     },
     {
       "id": "lie-0637",
       "type": "lieu",
       "name": "La crique de la Dent",
       "slug": null,
-      "summary": "Crique au sud de Cendara où l'Amère (Kayara) débarque de nuit quatre passagers du Cercle avant de repartir au large.",
+      "summary": "Crique de la côte ouest de Cendara où l'Amère (Kayara) débarque de nuit quatre passagers du Cercle avant de repartir au large.",
       "body": null,
       "data": {
         "echelle": "lieu-dit",
         "carte": {
           "position_estimee": {
-            "x": -324.3,
-            "y": 304,
+            "x": -337.5,
+            "y": 264,
             "confiance": "moyenne",
-            "methode": "indices",
             "terre": "Cendara",
-            "motif": "Sur la rive ouest de la baie qui s'ouvre au sud-est sous le Mont (côte à 0,9 u), à la sortie du vallon de collines grises qui remonte au cône : Mont à 13,6 u plein nord, Cendral à 18 u. La baie s'ouvre vers le sud-est, d'où arrive et où repart l'Amère.",
-            "indices": [
-              "T1/22 : « une échancrure étroite entre deux dents de roche noire, d'où la terre montait aussitôt en pente raide vers l'intérieur »",
-              "T1/22 : « La côte au pied des monts de feu, là où la terre elle-même n'est pas sûre »",
-              "T1/36 : « La crique s'ouvrait en demi-lune sous une dent de basalte »",
-              "T1/35 : Kayara repart « quelque part au sud-est » ; T1/22 : cap « vers le nord et l'est » à l'arrivée"
-            ],
-            "conflits": [
-              "Atrium : « Crique au sud de Cendara » — elle est ici au sud du Mont et dans la moitié sud de l'île, mais pas sur la pointe méridionale (y≈328), à 38 u du sommet, ce qui ruinerait le « très proche » de T1/36 et les trois jours de Verkan.",
-              "T1/53 : Vorath rame « vers le nord » jusqu'à Baelor, qui est à l'est (≈ 400 u) ; 10 à 12 jours à la rame pour cette distance."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "motif": "Crique de la côte ouest (côte à 0,1 u), au sud-ouest du Mont (25 u, « très proche », T1/36), à 22 u ≈ 5 lieues de Cendral (Verkan la quitte à J-3 et est à Cendral à l'An 0), à 23 u de Sulvane (Sera y va prendre Thessan). L'Amère y arrive du sud-ouest (« vers le nord et l'est », T1/22).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Crique au sud de Cendara",
+            "pourquoi": "Dent posée sur la côte ouest (−337,5 ; 264) ; T1/22 et T1/36 corrigés."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-25T22:24:04.983Z"
+      "updated_at": "2026-09-27T23:49:40.003Z"
     },
     {
       "id": "lie-0638",
@@ -50616,30 +50587,20 @@
         },
         "carte": {
           "position_estimee": {
-            "x": -318,
+            "x": -322,
             "y": 266,
             "confiance": "basse",
-            "methode": "indices",
             "terre": "Cendara",
-            "motif": "Au-dessus des champs et des « basses terres » au nord du Mont, au bord nord de la bande montagneuse : 26 u du sommet et 21 u de Cendral, d'où « très loin en bas » les forges de Cendral et la lueur « au ras du ciel » vue du flanc. La distance est choisie ; la direction est sûre.",
-            "indices": [
-              "T1/13 : « Pour se donner un repère, il chercha le Mont Cendra, au sud, dont le sommet tronqué crachait sa fumée droite »",
-              "T1/13 : « Il n'y a rien. Des champs. Des paysans. »",
-              "T1/44 : « Au nord, au-dessus des basses terres, il y avait une cité qui flottait »",
-              "T1/54 : « Plus loin encore, au ras du ciel, la lueur qu'une cité de l'air tenait chaque nuit au-dessus de l'horizon »"
-            ],
-            "conflits": [
-              "T1/20 : « Celle au-dessus du feu … dont la quille boit la chaleur du volcan » la mettrait au-dessus du cône, contre T1/13/44/54 qui la voient au nord, loin.",
-              "T1/45 : « À trois cents lieues » d'Aethranor ; ici 391 u."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "motif": "Au-dessus de la plaine qui s'étend au sud de Cendral (12 u de Cendral, 18 du Mont) : de la cité, le Mont est au nord (T1/13 corrigé), la cité est « au sud, au-dessus des basses terres » vue du sommet (T1/41, T1/44 corrigés), au-delà de Cendral vue du flanc (T1/54).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-25T22:24:04.983Z"
+      "updated_at": "2026-09-27T23:49:40.003Z"
     },
     {
       "id": "lie-0644",
@@ -61878,7 +61839,7 @@
       "name": "Sarth",
       "slug": null,
       "summary": "Port d'où Kayara-du-Large embarque quatre passagers du Cercle pour la crique de la Dent ; ville d'origine de Corran.",
-      "body": "« Tu les prends à Sarth, tu les débarques au sud de Cendara, à la crique qu'on appelle la Dent, et tu ne les as jamais vus. »",
+      "body": "« Tu les prends à Sarth, tu les débarques sur la côte ouest de Cendara, à la crique qu'on appelle la Dent, et tu ne les as jamais vus. »",
       "data": {
         "preuve": [
           "T1/21",
@@ -61891,29 +61852,28 @@
         "echelle": "ville",
         "carte": {
           "position_estimee": {
-            "x": -432.5,
-            "y": 213.5,
+            "x": -444,
+            "y": -53,
             "confiance": "basse",
-            "methode": "indices",
-            "terre": "Evertia",
-            "motif": "Port à la pointe sud d'Evertia (côte à 0,8 u), à ~40 u d'Everthor : Kayara y va depuis Everthor, puis file « plein sud » vers le Fleuve-sous-la-Mer et remonte « vers le nord et l'est » jusqu'à la Dent en six jours (~215 u avec le courant).",
-            "indices": [
-              "T1/22 : « Tu les prends à Sarth, tu les débarques au sud de Cendara »",
-              "T1/22 : « Partis de Sarth par temps couvert, ils avaient filé plein sud pour prendre le courant profond »",
-              "T1/21 : Corran « était de Sarth », naufragé d'un caboteur"
-            ],
-            "conflits": [
-              "Aucun rattachement Atrium ; « Du continent vers le continent » ne dit pas lequel.",
-              "T1/14–15 : Vorath embarque au quai de Tholmë sur le bateau de la navigatrice, alors que T1/22 fait embarquer les quatre à Sarth."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "terre": "Galenor",
+            "motif": "Déplacé de la pointe sud d'Evertia à la côte sud-ouest de Galenor (côte à 1,9 u) : de là, « plein sud » le long de la côte ouest d'Evertia pour prendre le Fleuve-sous-la-Mer, puis « vers le nord et l'est » jusqu'à la Dent — ~446 u ≈ 117 lieues d'eau, « six jours d'eau » tiennent (4,7 j à l'allure d'un navire) ; depuis la pointe d'Evertia, il n'y avait que 1,5 jour (registre §14 C, T1/22). Corran de Sarth fait naufrage au large d'Everthor, voisin ; les passagers viennent d'Aethranor (Galenor).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "body",
+            "avant": "« Tu les prends à Sarth, tu les débarques au sud de Cendara, à la crique qu'on appelle la Dent, et tu ne les as jamais vus. »",
+            "pourquoi": "Citation du T1/22 corrigée (la Dent est sur la côte ouest). Et la position estimée de Sarth passe à la côte sud-ouest de Galenor (−444,−53) : voir « positions »."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-25T22:24:04.983Z"
+      "updated_at": "2026-09-27T23:49:40.003Z"
     },
     {
       "id": "ter-0156",
@@ -61974,26 +61934,20 @@
         ],
         "carte": {
           "position_estimee": {
-            "x": -317.6,
+            "x": -321.6,
             "y": 266.7,
             "confiance": "basse",
-            "methode": "sous-lieu",
             "terre": "Cendara",
-            "motif": "Salles basses des Porteurs au ventre de la cité : Cendal'Horun décalé de 0,8 u.",
-            "indices": [
-              "T1/45 : Kelib court de la ruelle des Puits aux Chambres des Porteurs (H2)"
-            ],
-            "conflits": [
-              "Hérite de l'incertitude de Cendal'Horun."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "motif": "Sous-lieu de Cendal'Horun, décalé comme avant (0,8 u).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
           }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-25T22:24:04.983Z"
+      "updated_at": "2026-09-27T23:49:40.003Z"
     },
     {
       "id": "per-0983",
@@ -104651,7 +104605,7 @@
       "era_id": "era3_lien_empires",
       "seq": 19,
       "label": "L'automne d'avant — la traversée d'Ilthara",
-      "detail": "De mémoire de Tisseur, « personne du champ d'encens n'avait jamais bouclé un sac pour aller ailleurs ». Mirathis remonte la brume marche après marche, traverse Ilthara en évitant les arches. Sur la carriole d'un rouleur de Gryndor, la vieille histoire de la Fracture — l'endroit où le temps s'est cassé « comme un pot qu'on lâche » — prend sa forme : « Si c'est arrivé à ce qui tient le temps, qu'est-ce qui empêche que cela arrive, une fois, à ce qui tient le reste ? » Au dernier relais, une Veilleuse de Velthorin : « Tu n'es pas le fil. Tu es l'œil. » « Et si l'œil se voit dans l'image ? » « Alors tu n'es plus seulement un œil. Et je ne connais pas de mot pour ce que tu es. » Puis le saut vers Galenor, avec l'excuse que Mirathis pense devant l'arche sans jamais la dire : « Pardon. Tu ne sais pas encore. […] Porte-moi une fois de plus. Ce ne sera pas moi. » [T1 — La Septième Heure, ch. 18 — an 3 av.A]",
+      "detail": "De mémoire de Tisseur, « personne du champ d'encens n'avait jamais bouclé un sac pour aller ailleurs ». Mirathis remonte la brume marche après marche, traverse Ilthara en évitant les arches. Sur la carriole d'un rouleur des plaines du nord, la vieille histoire de la Fracture — l'endroit où le temps s'est cassé « comme un pot qu'on lâche » — prend sa forme : « Si c'est arrivé à ce qui tient le temps, qu'est-ce qui empêche que cela arrive, une fois, à ce qui tient le reste ? » Au dernier relais, une Veilleuse de Velthorin : « Tu n'es pas le fil. Tu es l'œil. » « Et si l'œil se voit dans l'image ? » « Alors tu n'es plus seulement un œil. Et je ne connais pas de mot pour ce que tu es. » Puis le saut vers Galenor, avec l'excuse que Mirathis pense devant l'arche sans jamais la dire : « Pardon. Tu ne sais pas encore. […] Porte-moi une fois de plus. Ce ne sera pas moi. » [T1 — La Septième Heure, ch. 18 — an 3 av.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -104683,6 +104637,12 @@
             "champ": "detail",
             "avant": "avec l'excuse murmurée au portail : « Porte-moi une fois de plus. Je te promets que ce n'est pas moi. »",
             "pourquoi": "T1/18 : « *Pardon. Tu ne sais pas encore. Moi je sais […] Porte-moi une fois de plus. Ce ne sera pas moi.* » (pensée, « ne dirait jamais à personne »)"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Sur la carriole d'un rouleur de Gryndor,",
+            "pourquoi": "Registre §12 (T1/18) : Gryndor n'existe qu'à partir de l'an 200 (pol-0011) ; T1/18 corrigé."
           }
         ]
       },
@@ -104690,7 +104650,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1314",
@@ -104931,7 +104891,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 23,
       "label": "Le débarquement à la crique de la Dent",
-      "detail": "Payée « trop » par la Ligue pour quatre passagers sans questions (« un portail sait toujours qui passe. » […] « Toi, la mer ne le dira à personne. »), Kayara traverse le grain de la quatrième nuit et amène l'Amère à l'aviron, sans un bruit, dans la crique de la Dent, côte sud de Cendara. Une préceptrice, un moine, un rêveur, l'homme sans nom débarquent poignet à poignet — à l'ancienne, « pour qu'il leur restât dans le poignet la trace de la main qui les avait posés sur la terre ferme » — et montent dans le noir en lisant les balises du croquis de Drakhan. Kayara, seule des cinq à rentrer chez elle, note en repartant une amertume neuve au fond du sel — « comme si l'eau elle-même, très bas sous la quille, avait commencé à changer ». [T1 — La Septième Heure, ch. 22 — an 0 ap.A]",
+      "detail": "Payée « trop » par la Ligue pour quatre passagers — du Cercle depuis la voûte d'Aethranor, elle sait ce qu'ils vont faire et apprend en mer pourquoi (« un portail sait toujours qui passe. » […] « Toi, la mer ne le dira à personne. »), Kayara traverse le grain de la quatrième nuit et amène l'Amère à l'aviron, sans un bruit, dans la crique de la Dent, côte ouest de Cendara. Une préceptrice, un moine, un rêveur, l'homme sans nom débarquent poignet à poignet — à l'ancienne, « pour qu'il leur restât dans le poignet la trace de la main qui les avait posés sur la terre ferme » — et montent dans le noir en lisant les balises du croquis de Drakhan. Kayara, seule des cinq à rentrer chez elle, note en repartant une amertume neuve au fond du sel — « comme si l'eau elle-même, très bas sous la quille, avait commencé à changer ». [T1 — La Septième Heure, ch. 22 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -104957,6 +104917,18 @@
             "champ": "detail",
             "avant": "« comme si l'eau elle-même, très loin dessous, avait commencé à changer »",
             "pourquoi": "T1/22 : « Comme si l’eau elle-même, très bas sous la quille, avait commencé à changer sans qu’elle sût dire vers quoi. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Payée « trop » par la Ligue pour quatre passagers sans questions",
+            "pourquoi": "T1/22 corrigé (registre §12, Kayara du Cercle ou passeuse) : Kayara a entendu le « quoi » à J-90 (T1/1) ; Sera lui donne le « pourquoi » la quatrième nuit."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "dans la crique de la Dent, côte sud de Cendara",
+            "pourquoi": "Dent posée sur la côte ouest (−337,5 ; 264), au sud-ouest du Mont placé au nord de l'île ; T1/22 et T1/36 corrigés."
           }
         ]
       },
@@ -104964,7 +104936,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1319",
@@ -105114,8 +105086,8 @@
       "end_circa": 0,
       "era_id": "era5_grande_nuit",
       "seq": 27,
-      "label": "La première personne du singulier — J-33, la route du Mont",
-      "detail": "Dispersés par Aelindra (« Ne vous rendez pas invisible, Thessan. Rendez-vous ennuyeux. »), Thessan et Sera remontent de Sulvane vers Cendara — on respire le Mont avant de le voir. Dans le journal, le « nous » s'amincit : Thessan écrit de moins en moins « nous » et de plus en plus « je », « comme si la première personne du pluriel était une chaleur que je perds à mesure que nous approchons du froid ». Au feu, Sera confesse pour le journal le trou de sa raison (« C'est pour les Vides que je fais ça. Et ce sont les Vides que je tue. ») ; l'homme sans nom tremble peut-être, de dos, à la question « et toi, tu le perds aussi, le nous ? » — « Il faudra bien que l'un de nous ait peur pour tous les autres. Ce sera toi. » Au sortir d'une hêtraie, la plaine s'ouvre : le Mont, noir, tranquille, son filet de brume qui est un souffle. « Le voilà. » [T1 — La Septième Heure, ch. 26 — an 0 ap.A]",
+      "label": "La première personne du singulier — J-7, la route du Mont",
+      "detail": "Dispersés par Aelindra (« Ne vous rendez pas invisible, Thessan. Rendez-vous ennuyeux. »), Thessan et Sera — débarquée à la Dent, venue le prendre au port — remontent de Sulvane vers le Mont — on respire le Mont avant de le voir. Dans le journal, le « nous » s'amincit : Thessan écrit de moins en moins « nous » et de plus en plus « je », « comme si la première personne du pluriel était une chaleur que je perds à mesure que nous approchons du froid ». Au feu, Sera confesse pour le journal le trou de sa raison (« C'est pour les Vides que je fais ça. Et ce sont les Vides que je tue. ») ; l'homme sans nom tremble peut-être, de dos, à la question « et toi, tu le perds aussi, le nous ? » — « Il faudra bien que l'un de nous ait peur pour tous les autres. Ce sera toi. » Au sortir d'une hêtraie, la plaine s'ouvre : le Mont, noir, tranquille, son filet de brume qui est un souffle. « Le voilà. » [T1 — La Septième Heure, ch. 26 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -105141,6 +105113,18 @@
             "champ": "detail",
             "avant": "(« je rends justice aux Vides en tuant les Vides »)",
             "pourquoi": "T1/26 : « C’est pour les Vides que je fais ça. Et ce sont les Vides que je tue. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "label",
+            "avant": "La première personne du singulier — J-33, la route du Mont",
+            "pourquoi": "T1/26 re-daté : Sera débarque à la Dent à J-11, rejoint Thessan à Sulvane ; départ J-9, jonction avec l'homme sans nom au deuxième ou troisième jour."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Thessan et Sera remontent de Sulvane vers Cendara",
+            "pourquoi": "Registre §12 (trois itinéraires de Sera), lecture où les trois textes sont vrais."
           }
         ]
       },
@@ -105148,7 +105132,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1323",
@@ -105213,7 +105197,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 29,
       "label": "Sulvane — l'homme qui lit des départs",
-      "detail": "Au bureau du manifeste, Verkan démonte le passage du douzième passager du Diamant de Corr — « Harun Delonce », ajouté à Everthor d'une encre brune, trois précautions, dosées « par quelqu'un qui savait de combien de mensonge un homme a besoin pour traverser un port » — et l'huile de lampe portée au registre pour banaliser une nuit : « Rien n'a été effacé. On a posé du banal par-dessus. Six livres d'huile, personne ne remonte une piste là-dessus. » […] « Personne, sauf moi. » Devant la marée qui monte, « effaçant sous l'eau grise la ligne de vase où, l'avant-veille, une passerelle avait touché terre », la concordance se referme sur lui-même : « Je n'y suis jamais. C'est mon défaut. J'arrive toujours dans la pièce que quelqu'un vient de quitter. » Trois stations, trois fois un jour de retard — un homme manqué d'une seule montée d'eau. « Et ces silences penchaient tous du même côté » : le gîte, le passeur, le quai, « mis bout à bout, montaient vers les hautes terres et, au-delà, vers le sud ». [T1 — La Septième Heure, ch. 28 — an 0 ap.A]",
+      "detail": "Au bureau du manifeste, Verkan démonte le passage du douzième passager du Diamant de Corr — « Harun Delonce », ajouté à Everthor d'une encre brune, trois précautions, dosées « par quelqu'un qui savait de combien de mensonge un homme a besoin pour traverser un port » — et l'huile de lampe portée au registre pour banaliser une nuit : « Rien n'a été effacé. On a posé du banal par-dessus. Six livres d'huile, personne ne remonte une piste là-dessus. » […] « Personne, sauf moi. » Devant la marée qui monte, « effaçant sous l'eau grise la ligne de vase où, l'avant-veille, une passerelle avait touché terre », la concordance se referme sur lui-même : « Je n'y suis jamais. C'est mon défaut. J'arrive toujours dans la pièce que quelqu'un vient de quitter. » Trois stations, trois fois un jour de retard — un homme manqué d'une seule montée d'eau. « Et ces silences penchaient tous du même côté » : le gîte, le passeur, le quai, « mis bout à bout, montaient vers les hautes terres et, au-delà, vers le nord-est ». [T1 — La Septième Heure, ch. 28 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -105245,6 +105229,12 @@
             "champ": "detail",
             "avant": "« Le vide qu'elle creuse n'est pas un désordre. C'est une flèche. Et la flèche montre le sud. »",
             "pourquoi": "T1/28 : « Et ces silences penchaient tous du même côté. C’était tout ce que le vide lui disait de sûr […] : le gîte, le passeur, ce quai, mis bout à bout, montaient vers les hautes terres et, au-delà, vers le sud. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "mis bout à bout, montaient vers les hautes terres et, au-delà, vers le sud",
+            "pourquoi": "Citation du T1/28 corrigée : de Sulvane (côte ouest), les hautes terres et le Mont sont au nord-est."
           }
         ]
       },
@@ -105252,7 +105242,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1325",
@@ -105510,7 +105500,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 35,
       "label": "Le feu encore chaud — « parce qu'il était juste »",
-      "detail": "La veille de l'Arrachement, dans les hautes terres au-dessus du port de Sulvane, Verkan Sorne trouve le campement abandonné du Cercle : cinq places autour d'un foyer tiède — « Cinq. Pas huit. » —, quatre couches et une veille tournée vers le sud, un feu qu'on a laissé mourir seul (« On piétine un feu qu'on quitte en courant. On laisse mourir un feu qu'on quitte selon un plan. »). Sur les cendres, il s'avoue pour la première fois qu'il n'a pas brûlé le rapport d’Aelindra parce qu'il était faux : « Parce qu'il était juste » — et laisse entrer la question qu'on ne lui a jamais posée : et si tu te trompais de camp ? Il repart vers la côte, décidé moins à les prendre qu'à les comprendre, station après station, trop tard jusqu'à la dernière. [T1 — La Septième Heure, ch. 34 — an 0 ap.A]",
+      "detail": "Six jours avant l'Arrachement, dans les hautes terres au-dessus du port de Sulvane, Verkan Sorne trouve le campement abandonné du Cercle : cinq places autour d'un foyer tiède — « Cinq. Pas huit. » —, quatre couches et une veille tournée vers le nord, un feu qu'on a laissé mourir seul (« On piétine un feu qu'on quitte en courant. On laisse mourir un feu qu'on quitte selon un plan. »). Sur les cendres, il s'avoue pour la première fois qu'il n'a pas brûlé le rapport d’Aelindra parce qu'il était faux : « Parce qu'il était juste » — et laisse entrer la question qu'on ne lui a jamais posée : et si tu te trompais de camp ? Il repart vers la côte, décidé moins à les prendre qu'à les comprendre, station après station, trop tard jusqu'à la dernière. [T1 — La Septième Heure, ch. 34 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -105530,6 +105520,18 @@
             "champ": "detail",
             "avant": "(« départ de gens qui ne fuyaient pas mais s'en allaient »)",
             "pourquoi": "T1/34 : « On piétine un feu qu’on quitte en courant. On laisse mourir un feu qu’on quitte selon un plan. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "La veille de l'Arrachement, dans les hautes terres",
+            "pourquoi": "Registre §12 (T1/34 contre T1/36) : le foyer tiède est celui que le Cercle quitte à J-6 ; Verkan est à la Dent à J-3."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "quatre couches et une veille tournée vers le sud",
+            "pourquoi": "Le Mont (−317,249) est au nord-nord-est des hautes terres de Sulvane (T1/34 corrigé)."
           }
         ]
       },
@@ -105537,7 +105539,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1331",
@@ -105599,7 +105601,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 37,
       "label": "La quille dans le sable noir — Verkan lit la crique de la Dent",
-      "detail": "Trois jours derrière le Cercle, Verkan Sorne descend à l'aube sur la crique de la Dent (côte sud de Cendara) : une entaille de quille de douze pas, quatre paires de pieds montées vers l'intérieur, aucune redescendue, la quille repartie seule — « elle les coupe en morceaux ». Un vieux pêcheur qui « n'a rien vu » lui offre les mots justes : le sentier « mène qu'à un endroit », la montagne et les gens ont « un arrangement », « Le sable, ça garde. La montagne, non ». Verkan avoue s'être dit du Traité, lu avant de le faire brûler : « c'est juste, et c'est pour cela que c'est un poison » — et monte quand même vers la fumée, sachant qu'il arrivera après le point. [T1 — La Septième Heure, ch. 36 — an 0 ap.A]",
+      "detail": "Trois jours derrière le Cercle, Verkan Sorne descend à l'aube sur la crique de la Dent (côte ouest de Cendara) : une entaille de quille de douze pas, quatre paires de pieds montées vers l'intérieur, aucune redescendue, la quille repartie seule — « elle les coupe en morceaux ». Un vieux pêcheur qui « n'a rien vu » lui offre les mots justes : le sentier « mène qu'à un endroit », la montagne et les gens ont « un arrangement », « Le sable, ça garde. La montagne, non ». Verkan avoue s'être dit du Traité, lu avant de le faire brûler : « c'est juste, et c'est pour cela que c'est un poison » — et monte quand même vers la fumée, sachant qu'il arrivera après le point. [T1 — La Septième Heure, ch. 36 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -105613,6 +105615,12 @@
             "champ": "detail",
             "avant": "« le sable, ça garde ; la montagne, non »",
             "pourquoi": "T1/36 : « Le sable, ça garde. La montagne, non. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "(côte sud de Cendara)",
+            "pourquoi": "Dent posée sur la côte ouest ; T1/36 corrigé (en-tête « côte ouest »)."
           }
         ],
         "preuve": [
@@ -105625,7 +105633,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:29:34.719Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1333",
@@ -105908,7 +105916,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 44,
       "label": "La chute de Cendral — la ville sous la neige qui brûle",
-      "detail": "À l'instant de l'Arrachement, le Mont Cendra s'ouvre : le flanc se fend d'une plaie de lumière qui coule vers la ville haute, la cendre tombe plus dense et plus chaude, et Cendral s'éteint quartier par quartier « sous une neige qui brûlait », dans un bruit très doux, « comme une chose qui respire enfin après s'être retenue très longtemps ». Verkan estime les morts — trois cent mille, peut-être plus — puis se reprend : « On ne comptera pas. C'est la première chose au monde qu'on ne pourra pas compter. » Environ deux cent mille habitants des faubourgs fuient vers Sulvane sous un ciel sans lune, la fumée ayant pris la lune. [T1 — La Septième Heure, ch. 43 — an 0 ap.A]",
+      "detail": "À l'instant de l'Arrachement, le Mont Cendra s'ouvre : le flanc se fend d'une plaie de lumière qui coule vers la ville haute, la cendre tombe plus dense et plus chaude, et Cendral s'éteint quartier par quartier « sous une neige qui brûlait », dans un bruit très doux, « comme une chose qui respire enfin après s'être retenue très longtemps ». Verkan estime les morts — trois cent mille, peut-être plus — puis se reprend : « On ne comptera pas. C'est la première chose au monde qu'on ne pourra pas compter. » Environ deux cent mille habitants des faubourgs fuient vers Sulvane sous un ciel sans lune que la fumée achève de fermer. [T1 — La Septième Heure, ch. 43 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -105928,6 +105936,12 @@
             "champ": "detail",
             "avant": "« comme une chose qui, après un très long temps de retenue, respirait enfin »",
             "pourquoi": "T1/43 : « un long souffle patient, comme une chose qui respire enfin après s’être retenue très longtemps. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "sous un ciel sans lune, la fumée ayant pris la lune",
+            "pourquoi": "Registre §12 (T1/39 contre T1/43) : nuit choisie sans lune ; T1/43 corrigé."
           }
         ]
       },
@@ -105935,7 +105949,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1339",
@@ -105951,7 +105965,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 45,
       "label": "H1 — la mort de Drakhan : le feu levé en paix",
-      "detail": "Une heure après le geste, le Cœur du Mont Cendra cède — « quelque chose céda dans la pierre. Un consentement. » — et Drakhan, la paume sur la roche, regarde la ville qu'il aime et qu'il tue (« Alors il regarda. Pas une paupière. »), le petit marteau de son père dans la main, la marque de Kessa dans la poitrine. Il n'appelle rien — nul ne soulève un cœur de mont — mais meurt dissous dans la chaleur, sans douleur, sa peau cédant « comme la roche avait cédé, du même consentement » : une flamme haute et droite levée en paix, qui ne redescend pas. Dans la pierre où il n'est plus, un battement neuf s'installe — la cadence de sa frappe de forgeron, sans main pour la mener ni l'arrêter. Au même instant, loin au nord de Cendara, une cité flottante commence à perdre le ciel. [T1 — La Septième Heure, ch. 44 — an 0 ap.A]",
+      "detail": "Une heure après le geste, le Cœur du Mont Cendra cède — « quelque chose céda dans la pierre. Un consentement. » — et Drakhan, la paume sur la roche, regarde la ville qu'il aime et qu'il tue (« Alors il regarda. Pas une paupière. »), le petit marteau de son père dans la main, la marque de Kessa dans la poitrine. Il n'appelle rien — nul ne soulève un cœur de mont — mais meurt dissous dans la chaleur, sans douleur, sa peau cédant « comme la roche avait cédé, du même consentement » : une flamme haute et droite levée en paix, qui ne redescend pas. Dans la pierre où il n'est plus, un battement neuf s'installe — la cadence de sa frappe de forgeron, sans main pour la mener ni l'arrêter. Au même instant, au sud, au-dessus des basses terres de Cendara, une cité flottante commence à perdre le ciel. [T1 — La Septième Heure, ch. 44 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -105977,6 +105991,12 @@
             "champ": "detail",
             "avant": "sa peau cédant « avec le même consentement que la roche »",
             "pourquoi": "T1/44 : « Elle céda comme la roche avait cédé, du même consentement, et il cessa d’être à part. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Au même instant, loin au nord de Cendara, une cité flottante commence à perdre le ciel.",
+            "pourquoi": "Cendal'Horun posée au-dessus de la plaine au sud de Cendral (−322,266) ; T1/44 corrigé (« Au sud, au-dessus des basses terres »)."
           }
         ]
       },
@@ -105984,7 +106004,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1340",
@@ -106319,7 +106339,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 52,
       "label": "La marque qui reste — Kessa au premier soir de la Grande Nuit",
-      "detail": "Le lendemain, à un relais de la Route des Cendres au nord de Cendral, Kessa voit le rouge du fer bouger d'un rien — le métal « quitta sa couleur le temps d'un souffle, puis la reprit » — à l'instant où le Lien passe, puis la colonne noire monter du Mont Cendra. Elle ne pleure pas : elle apprend au vieux forgeron du relais à lire le fer aux yeux, à la couleur (« Vous avez perdu l'oreille qui écoutait à votre place, voilà tout ») — le premier Lié à la regarder comme celle qui y voit clair depuis toujours. « C'est la fin d'un monde. Ça n'en fait pas moins deux enfants à nourrir demain. » Le soir, elle rallume la forge au briquet, chauffe une chute de bon fer et frappe la marque de son père — les trois traits et le cercle — d'un seul coup franc : tannk. Une fille debout, au feu, dans le premier soir de la Grande Nuit. Graine de la lignée de la Forge-Basse. [T1 — La Septième Heure, ch. 51 — an 0 ap.A]",
+      "detail": "Le lendemain, à un relais de la Route des Cendres au sud de Cendral, Kessa voit le rouge du fer bouger d'un rien — le métal « quitta sa couleur le temps d'un souffle, puis la reprit » — à l'instant où le Lien passe, puis la colonne noire monter du Mont Cendra. Elle ne pleure pas : elle apprend au vieux forgeron du relais à lire le fer aux yeux, à la couleur (« Vous avez perdu l'oreille qui écoutait à votre place, voilà tout ») — le premier Lié à la regarder comme celle qui y voit clair depuis toujours. « C'est la fin d'un monde. Ça n'en fait pas moins deux enfants à nourrir demain. » Le soir, elle rallume la forge au briquet, chauffe une chute de bon fer et frappe la marque de son père — les trois traits et le cercle — d'un seul coup franc : tannk. Une fille debout, au feu, dans le premier soir de la Grande Nuit. Graine de la lignée de la Forge-Basse. [T1 — La Septième Heure, ch. 51 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -106339,6 +106359,12 @@
             "champ": "detail",
             "avant": "« vous n'avez plus l'oreille qui écoutait à votre place, voilà tout »",
             "pourquoi": "T1/51 : « Vous avez perdu l'oreille qui écoutait à votre place, voilà tout. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "à un relais de la Route des Cendres au nord de Cendral",
+            "pourquoi": "Sulvane est au sud-ouest de Cendral (Chronologie Ère IV, « à 40 km au sud ») ; T1/51 corrigé."
           }
         ]
       },
@@ -106346,7 +106372,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1348",
@@ -106417,7 +106443,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 54,
       "label": "Le retour de Vorath — Baelor accueille la Grande Nuit",
-      "detail": "Épargné par la fumée sans jamais savoir pourquoi, Vorath redescend seul, prend une barque abandonnée à la crique et rame vers Baelor. Sur les falaises de Tholmë, les Silencieux savent déjà : eux qui ont fait quatre siècles plus tôt le deuil de la voix ne remarquent presque rien. Les naufragés de la Grande Nuit affluent bientôt vers l'île — le bruit court qu'y vit un peuple qui n'a jamais eu le Lien et n'en est pas mort, et un homme redescendu vivant de la montagne. À chacun Vorath apprend l'Heure Vide : « Ce qui ne répond plus s'appelle le silence. On peut y vivre. Nous le faisons depuis quatre cents ans. Entre. » On fait de lui un saint malgré lui ; la légende tordra son écho creux sur Navigor en prophétie limpide de l'Étranger. Lui garde son vrai savoir : il n'a rien vu de clair — la main qui pousse et la porte qu'ouvre le vent tiennent ensemble, sans se résoudre. [T1 — La Septième Heure, ch. 53 — an 0 ap.A]",
+      "detail": "Épargné par la fumée sans jamais savoir pourquoi, Vorath redescend seul, prend une barque abandonnée à la crique et rame vers Baelor. Sur les falaises de Tholmë, les Silencieux savent déjà : eux qui ont fait cinquante siècles plus tôt le deuil de la voix ne remarquent presque rien. Les naufragés de la Grande Nuit affluent bientôt vers l'île — le bruit court qu'y vit un peuple qui n'a jamais eu le Lien et n'en est pas mort, et un homme redescendu vivant de la montagne. À chacun Vorath apprend l'Heure Vide : « Ce qui ne répond plus s'appelle le silence. On peut y vivre. Nous le faisons depuis cinq mille ans. Entre. » On fait de lui un saint malgré lui ; la légende tordra son écho creux sur Navigor en prophétie limpide de l'Étranger. Lui garde son vrai savoir : il n'a rien vu de clair — la main qui pousse et la porte qu'ouvre le vent tiennent ensemble, sans se résoudre. [T1 — La Septième Heure, ch. 53 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -106431,6 +106457,18 @@
             "champ": "detail",
             "avant": "« ce n'est pas la mort. C'est le silence. Nous savons y vivre. Venez. »",
             "pourquoi": "T1/53 : ce qu'il dirait « à chaque naufragé de Tholmë : Ce qui ne répond plus s'appelle le silence. […] Entre. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "eux qui ont fait quatre siècles plus tôt le deuil de la voix",
+            "pourquoi": "Registre §12 (T1/14, 15, 53) : « quatre siècles » est l'âge de Baelor au Sillage ; à l'An 0 les Taciti ont ~5 000 ans (fac-0258, fac-0527)."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Nous le faisons depuis quatre cents ans. Entre.",
+            "pourquoi": "Citation du T1/53 corrigée (même raison)."
           }
         ]
       },
@@ -106438,7 +106476,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:49:39.777Z"
     },
     {
       "id": "fac-1350",
