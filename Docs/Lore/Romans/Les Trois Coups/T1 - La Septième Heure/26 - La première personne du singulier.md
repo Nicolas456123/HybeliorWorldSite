@@ -4,7 +4,7 @@ type: roman-chapitre
 partie: III
 chapitre: 24
 titre: La première personne du singulier
-pov: Thessan (présent, en route vers Cendara, ~J-33)
+pov: Thessan (présent, en route vers le Mont, ~J-7)
 lieu: Route de Sulvane à Cendara (Cendara)
 status: draft
 ---
@@ -23,7 +23,7 @@ Il n’avait rien trouvé à répondre. Deux jours plus tard, commis d’ambre s
 
 Ces jours-ci, on l’avait mis avec Sera. Une part de lui savait qu’on l’avait voulu ainsi : on l’avait logé chez elle comme on met l’enfant qui a peur du noir dans la chambre du plus calme des adultes. Il ne s’en offusquait pas, faute de force. La peur ne le lâchait plus assez longtemps pour lui laisser le loisir d’avoir de l’orgueil.
 
-Trois jours plus tôt, ils avaient quitté la route des grandes caravanes, à Sulvane. Sulvane où Vael était mort. Cela, il ne l’avait pas dit à Sera. Il avait regardé les toits bas, les canaux, l’eau verte d’où montait la fièvre, en se demandant lequel de ces murs avait vu tomber son frère, et ce soir-là il n’avait rien écrit du tout. Depuis, une route de terre battue remontait vers le sud à travers Cendara, entre des champs de blé mûr que personne n’avait moissonnés et des villages où l’on brûlait le soir des herbes contre les moustiques. Le pays devenait sec. La terre avait la couleur du fer qu’on laisse rouiller. Et quand le vent tournait, l’air apportait par bouffées une odeur qu’il ne connaissait pas : minérale, chaude, un peu soufrée.
+Deux jours plus tôt, ils avaient quitté la route des grandes caravanes, à Sulvane. Sulvane où Vael était mort. Cela, il ne l’avait pas dit à Sera. Il avait regardé les toits bas, les canaux, l’eau verte d’où montait la fièvre, en se demandant lequel de ces murs avait vu tomber son frère, et ce soir-là il n’avait rien écrit du tout. Depuis, une route de terre battue remontait vers le nord-est à travers Cendara, entre des champs de blé mûr que personne n’avait moissonnés et des villages où l’on brûlait le soir des herbes contre les moustiques. Le pays devenait sec. La terre avait la couleur du fer qu’on laisse rouiller. Et quand le vent tournait, l’air apportait par bouffées une odeur qu’il ne connaissait pas : minérale, chaude, un peu soufrée.
 
 « Tu sens ? » avait demandé Sera, un matin, sans ralentir.
 
@@ -101,7 +101,7 @@ Puis sa main glissa, comme toujours, et sous la ligne sur Sera elle écrivit ce 
 
 ---
 
-L’homme sans nom les rejoignit à la nuit tombée, au sixième ou septième jour. Thessan ne savait plus très bien : le décompte en marge n’obéissait plus tout à fait aux jours réels, il flottait comme flottaient tous les chiffres à mesure qu’on approchait. L’homme montait de la côte, du sud, de cette crique sans nom où l’autre moitié du Cercle avait débarqué de la mer et remontait maintenant vers eux par les hauteurs. Personne ne le dit à Thessan ; il le devina au sel resté dans ses vêtements, et à sa façon de regarder le nord en homme qui en revenait.
+L’homme sans nom les rejoignit à la nuit tombée, au deuxième ou troisième jour. Thessan ne savait plus très bien : le décompte en marge n’obéissait plus tout à fait aux jours réels, il flottait comme flottaient tous les chiffres à mesure qu’on approchait. L’homme montait de la côte, de l’ouest, de cette crique sans nom où l’autre moitié du Cercle avait débarqué de la mer et remontait maintenant vers eux par les hauteurs. Personne ne le dit à Thessan ; il le devina au sel resté dans ses vêtements, et à sa façon de regarder vers la mer en homme qui en revenait.
 
 Il arrivait toujours ainsi, sans qu’on l’entendît venir, surgi du bord de la nuit comme s’il avait été là depuis le début et qu’on ne l’eût pas remarqué. D’un fil du Cercle à l’autre, il se glissait selon une logique que lui seul tenait : le chef de l’entreprise devait rester introuvable en étant partout.
 
@@ -171,7 +171,7 @@ Puis il s’en fut, et la route le reprit.
 
 Ils repartirent avant l’aube, comme toujours. Sera marchait devant, de son pas égal, et Thessan la suivait, le journal contre sa poitrine, du même côté que le carnet de Vael, les deux cuirs se cognant à chaque pas comme deux paumes qui hésitent encore à se joindre.
 
-Le pays montait vers le sud, imperceptiblement. La terre était rouge. L’air s’épaississait de cette odeur chaude et soufrée qui venait de plus loin qu’eux, de plus loin qu’aucun d’eux ne voulait vraiment regarder. Ils traversaient des villages où l’on ne savait rien, où des femmes battaient le linge au lavoir, où des enfants couraient derrière la carriole en riant. Devant l’un des lavoirs, une vieille salua Sera d’un signe de tête, entre femmes du même âge, et Sera rendit le salut sans ralentir.
+Le pays montait vers le nord, imperceptiblement. La terre était rouge. L’air s’épaississait de cette odeur chaude et soufrée qui venait de plus loin qu’eux, de plus loin qu’aucun d’eux ne voulait vraiment regarder. Ils traversaient des villages où l’on ne savait rien, où des femmes battaient le linge au lavoir, où des enfants couraient derrière la carriole en riant. Devant l’un des lavoirs, une vieille salua Sera d’un signe de tête, entre femmes du même âge, et Sera rendit le salut sans ralentir.
 
 « Elle m’a prise pour une des siennes, dit Sera quand ils eurent dépassé le village. Une vieille qui descend au sud pour ses articulations. »
 

@@ -174,7 +174,7 @@ Une petite. Aux marges d’Onara. Dont la mère était de la forge, et qui ne vo
 
 Il ne se demanda pas comment une voix de l’autre côté des heures pouvait savoir une chose d’aujourd’hui. Pour lui c’étaient des morts, et les morts voyaient ce que les vivants se cachent les uns aux autres. Que celle-ci parlât peut-être depuis un temps qui n’était pas le sien, qu’elle décrivît un présent où elle n’avait plus de corps, ou pas encore, cela lui échappait, et cela ne changeait rien à ce qui venait de s’allumer dans sa chambre vide comme une braise sous la cendre.
 
-Il se leva d’un coup. Trop vite ; le noir dansa, la maison pencha, il dut poser la main au mur. Quand cela se calma, il était debout, et il regardait par-dessus les toits d’ardoise et les cheminées qui fumaient, du côté où la vallée s’ouvre vers les basses terres, vers l’eau, vers ces marges d’Onara qu’il n’avait pas vues depuis trente ans et qu’il n’avait plus, croyait-il, la moindre raison de revoir.
+Il se leva d’un coup. Trop vite ; le noir dansa, la maison pencha, il dut poser la main au mur. Quand cela se calma, il était debout, et il regardait par-dessus les toits d’ardoise et les cheminées qui fumaient, du côté où la vallée s’ouvre vers les basses terres, vers la mer, et par-delà la mer vers ces marges d’Onara qu’il n’avait pas vues depuis trente ans et qu’il n’avait plus, croyait-il, la moindre raison de revoir.
 
 Il regardait vers la seule oreille du monde capable de recevoir la sienne, et vers la femme qui avait déjà sorti de quoi la fermer. Il ne pouvait pas le savoir. Il n’aurait pas fait un pas de moins.
 
@@ -182,7 +182,7 @@ Il regardait vers la seule oreille du monde capable de recevoir la sienne, et ve
 
 Rentré, il resta debout au milieu de la pièce, à peser.
 
-C’était fou, il le savait. Un homme en Phase 2, voilà ce qu’il était. Il n’employait pas le mot, mais il connaissait la chose : le sang à chaque note, la fatigue qui gagne, la fenêtre de la coupure refermée depuis deux ans. Il lui restait des mois. Peut-être moins. Et il envisageait de descendre trente lieues par les cols, à pied, à son âge, dans son état, sur la foi d’une phrase attrapée dans un chœur de morts que personne d’autre au monde n’entendait, et dont il n’était même pas certain, il ne fallait pas se mentir, d’avoir bien compris le nom du bourg.
+C’était fou, il le savait. Un homme en Phase 2, voilà ce qu’il était. Il n’employait pas le mot, mais il connaissait la chose : le sang à chaque note, la fatigue qui gagne, la fenêtre de la coupure refermée depuis deux ans. Il lui restait des mois. Peut-être moins. Et il envisageait de descendre les cols à pied jusqu’à la côte, de passer la mer et de faire cent lieues, à son âge, dans son état, sur la foi d’une phrase attrapée dans un chœur de morts que personne d’autre au monde n’entendait, et dont il n’était même pas certain, il ne fallait pas se mentir, d’avoir bien compris le nom du bourg.
 
 Un homme raisonnable serait resté. Il serait mort chez lui, dans sa vallée, en tenant les Errants d’Alkaran jusqu’à sa dernière note.
 
@@ -192,7 +192,7 @@ Si elle entendait, elle était seule. Comme lui, et pire que lui : une enfant, 
 
 Il ne connaissait cette solitude-là que de nom. Une mère qui savait lui en avait fait grâce, à sept ans, la main posée au bon endroit. Et l’idée qu’une petite l’endurât quelque part vers l’eau, sans personne, le mettait debout mieux que n’importe quel espoir d’héritier.
 
-Car il ne se mentait pas jusqu’au bout. Un héritier, oui : une chambre à qui passer la sienne, une porte tenue après lui pour les morts d’Alkaran. Tout cela était vrai et le tirait vers l’ouest. Mais dessous, plus nu, il y avait ceci, qui n’espérait rien pour lui-même : une enfant poussait toute seule contre un mur, et il savait à peu près où. Il irait. Trente lieues, mourant, et pour rien peut-être ; il irait quand même.
+Car il ne se mentait pas jusqu’au bout. Un héritier, oui : une chambre à qui passer la sienne, une porte tenue après lui pour les morts d’Alkaran. Tout cela était vrai et le tirait vers le sud. Mais dessous, plus nu, il y avait ceci, qui n’espérait rien pour lui-même : une enfant poussait toute seule contre un mur, et il savait à peu près où. Il irait. Cent lieues, mourant, et pour rien peut-être ; il irait quand même.
 
 Il ralluma le feu et mangea, ce qu’il ne faisait plus guère le soir : le pain de la femme et son fromage, assis devant les flammes, en se forçant un peu, parce qu’il faudrait des forces et qu’il valait mieux commencer tout de suite. Le pain était encore frais. Il avait la mie serrée et le goût de fumée des fournils de haute vallée, et il en mangea la moitié sans penser à rien.
 

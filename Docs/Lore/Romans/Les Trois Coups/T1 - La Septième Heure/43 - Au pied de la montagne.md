@@ -109,7 +109,7 @@ La chaleur le remit debout. Un souffle brûlant descendit le flanc, chargé de s
 
 En bas, Cendral dormait encore. Une seconde, deux. Les toits fumaient doucement sous leur couche grise, comme toutes les nuits ; personne n’avait levé la tête. Puis une cloche sonna quelque part dans la ville haute, seule, désordonnée, tirée par une main qui ne savait pas encore quoi annoncer ; une autre lui répondit ; et Verkan, immobile un dernier instant sur son replat, vit la ville s’éveiller à sa propre fin, les lucarnes s’allumant une à une, chaque petite lumière un homme qui se dressait dans le noir sans comprendre.
 
-Rien ne l’empêchait de descendre en courant, de hurler dans les ruelles, de tirer les gens de leur lit. *Fuyez vers Sulvane. Vers le bas. Vers le nord.* Il ne le fit pas. Une seconde de trop à calculer, et le calcul ne lui apprit rien qu’il ignorât : la ville haute était sous le flanc, elle serait prise en un quart d’heure, et ce qu’un homme criant dans les ruelles gagnerait de vies, il le perdrait en minutes, et les minutes étaient tout ce qui séparait ce replat de la mort. Il compta, comme il comptait tout : les vies qu’il sauverait en criant, les minutes qu’il y perdrait. Le résultat fut net, il n’y avait rien à lui reprocher, et cette nuit-là il détesta d’être un homme qui compte juste.
+Rien ne l’empêchait de descendre en courant, de hurler dans les ruelles, de tirer les gens de leur lit. *Fuyez vers Sulvane. Vers le bas. Vers le sud.* Il ne le fit pas. Une seconde de trop à calculer, et le calcul ne lui apprit rien qu’il ignorât : la ville haute était sous le flanc, elle serait prise en un quart d’heure, et ce qu’un homme criant dans les ruelles gagnerait de vies, il le perdrait en minutes, et les minutes étaient tout ce qui séparait ce replat de la mort. Il compta, comme il comptait tout : les vies qu’il sauverait en criant, les minutes qu’il y perdrait. Le résultat fut net, il n’y avait rien à lui reprocher, et cette nuit-là il détesta d’être un homme qui compte juste.
 
 Il pensa à sa fille.
 
@@ -133,7 +133,7 @@ Une seule fois il se retourna, au premier tournant de la route, là où l’on v
 
 *Combien*, pensa-t-il, parce que cette part de lui comptait tout et ne savait pas s’en empêcher, même là. *Trois cent mille. Peut-être davantage.* Puis il se reprit, comme il reprenait toujours les chiffres, les siens comme ceux des autres, parce que le monde méritait qu’on le comptât juste. *Non. On ne comptera pas. C’est la première chose au monde qu’on ne pourra pas compter.*
 
-Il se détourna, et il marcha vers le nord avec les autres, dans la cendre chaude, sous un ciel qui n’avait plus de lune parce que la fumée avait pris la lune.
+Il se détourna, et il marcha vers le sud avec les autres, dans la cendre chaude, sous un ciel sans lune que la fumée achevait de fermer.
 
 Vers le matin, un homme se mit à sa hauteur. Un Lié : il marchait l’oreille tournée de côté, comme on marche près de quelqu’un qui parle bas. Il trébuchait, une main tendue devant lui dans le vide.
 
@@ -147,4 +147,4 @@ L’homme ne comprit pas, ne pouvait pas comprendre, et prit pourtant la main qu
 
 Et Verkan Sorne, qui n’avait pris personne, qui n’avait rien empêché, qui n’avait rien compris et le savait, composa pas après pas la première ligne du rapport qu’il n’écrirait pas de sitôt, et qu’il faudrait bien, un jour, écrire faux, faute de mots vrais pour dire qu’on a regardé le monde finir de loin, sans le toucher, et qu’on en est revenu.
 
-Il ne le savait pas encore : de celle qu’il avait poursuivie un mois sans jamais l’apercevoir, des huit qu’il n’avait jamais comptés, de cette nuit entière, il ne resterait au monde qu’une ligne de sa main, et elle serait fausse.
+Il ne le savait pas encore : de celle qu’il avait poursuivie un mois sans jamais l’apercevoir, des huit qu’il n’avait jamais comptés, de cette nuit entière, il ne resterait aux archives du monde qu’une ligne de sa main, et elle serait fausse.

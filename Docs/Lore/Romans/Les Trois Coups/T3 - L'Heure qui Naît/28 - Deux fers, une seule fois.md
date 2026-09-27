@@ -11,7 +11,7 @@ status: draft
 
 # Deux fers, une seule fois
 
-Depuis deux mois, Vaskar Sorne chassait un cahier qu’il n’avait jamais vu.
+Depuis six semaines, Vaskar Sorne chassait un cahier qu’il n’avait jamais vu.
 
 Il en avait des copies, prises à des portes que rien ne reliait, toutes fautives et toutes différentes, et au milieu de chacune la même phrase intacte. Il avait les routes de l’objet. Il n’en avait pas une page. La femme qui le portait et le cahier qu’elle portait ne faisaient plus qu’une seule affaire dans son travail, parce qu’on ne lui signalait jamais l’un sans l’autre : aux portes, on se rappelait mal son visage et très bien ses mains, des mains de travail, disait-on, qui posaient le cahier à plat et ne le tenaient jamais contre elles. Vaskar avait noté cela le premier jour sans rien en tirer, et l’avait gardé.
 
@@ -19,7 +19,7 @@ Cette nuit-là, pour la première fois, la traque rapporta du papier.
 
 Karsel posa la chemise sur la table sans rien dire, ce qui ne lui ressemblait pas, et Vaskar sut avant d’y avoir touché que le jeune homme lui apportait autre chose qu’un relevé. Une chemise mince, montée du soir même, deux attaches de fer au dos, et dedans quelques feuillets d’une écriture qui appartenait à un agent et non à la femme traquée. Une main de service : plate, honnête, appliquée à recopier vite ce qu’elle n’avait pas le temps de prendre en entier.
 
-« Une chambre, à l’Étape Basse, sous Cendara, » dit Karsel. « Elle y a dormi trois nuits. Elle est repartie avant-hier, vers le nord, vers Prismalith, on croit. L’homme est entré pendant qu’elle mangeait en bas. Il avait un quart d’heure. Il a copié ce qu’il a pu. »
+« Une chambre, à l’Étape Basse, sur la côte de Cendara, » dit Karsel. « Elle y a dormi trois nuits. Elle a pris la mer avant-hier, vers le nord, vers Prismalith, on croit. L’homme est entré pendant qu’elle mangeait en bas. Il avait un quart d’heure. Il a copié ce qu’il a pu. »
 
 « Il a copié quoi. »
 
@@ -87,7 +87,7 @@ Et il remonta ses cent onze marches sans avoir rien regardé, ce qui était son 
 
 Le cahier d’Olven attendait sous sa toile, dans le froid, tel que les siècles l’avaient laissé. Vaskar le sortit à deux mains, avec le soin qu’on met aux choses qui peuvent partir en poussière sous la prise, et le posa dans le rond de la lampe à côté de la chemise que la traque avait rapportée. Il les regarda un moment sans les ouvrir, et quelque chose dans ce voisinage lui déplut avant qu’il sût quoi.
 
-Deux objets. À gauche, la chemise montée du soir, l’écriture d’un agent de Drakora qui avait recopié le matin même, sous Cendara, quelques lignes d’un cahier porté par une femme qu’il n’avait pas vue, et ce cahier-là s’était fait dans une forge, de mère en fille, du côté des non-Liés, dans un monde qui n’avait jamais eu un mot à dire à l’appareil qui le traquait. À droite, la toile grossière, saisie il y avait des siècles par un poste de confins, versée aux coffres d’un État qui n’existait plus, gardée par un État qui n’existait pas encore le jour où on l’y avait enfermée, écrite par un nommé Olven dont on ne savait plus rien.
+Deux objets. À gauche, la chemise montée du soir, l’écriture d’un agent de Drakora qui avait recopié trois jours plus tôt, sur la côte de Cendara, quelques lignes d’un cahier porté par une femme qu’il n’avait pas vue, et ce cahier-là s’était fait dans une forge, de mère en fille, du côté des non-Liés, dans un monde qui n’avait jamais eu un mot à dire à l’appareil qui le traquait. À droite, la toile grossière, saisie il y avait des siècles par un poste de confins, versée aux coffres d’un État qui n’existait plus, gardée par un État qui n’existait pas encore le jour où on l’y avait enfermée, écrite par un nommé Olven dont on ne savait plus rien.
 
 Deux fers qui n’étaient pas sortis du même feu. Ils s’étaient ignorés d’un bout à l’autre de leur existence, et si on les avait mis face à face, ils n’auraient pas eu de quoi se reconnaître. Cette nuit, sur une table de fer, avec douze toises de pierre par-dessus, ils se touchaient presque, pour la première fois et pour la seule. Vaskar le sut sans avoir eu besoin de le raisonner : l’un repartirait au nord dans un sac, l’autre au froid dans sa caisse, et ce voisinage tenait du croisement de deux routes, où les marcheurs passent au même point sans se voir.
 

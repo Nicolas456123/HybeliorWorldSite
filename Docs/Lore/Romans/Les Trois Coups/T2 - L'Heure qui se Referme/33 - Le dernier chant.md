@@ -144,7 +144,7 @@ Il aurait voulu répondre : *pour tout le monde. Pour ceux qui n’ont plus d�
 
 Il parlait à quelqu’un d’autre.
 
-C’était à une enfant qu’il n’avait vue qu’une fois, loin vers l’ouest, dans une forge à demi enterrée où l’on refusait les métaphores. Une petite qui parlait à personne parce qu’elle entendait quelqu’un, la seule, en toute sa quête, en tout Alkaran et au-delà, qu’il eût trouvée avec la chambre au bon endroit. Lirenn. Il n’avait pas oublié son nom.
+C’était à une enfant qu’il n’avait vue qu’une fois, loin au sud, de l’autre côté de la mer, dans une forge à demi enterrée où l’on refusait les métaphores. Une petite qui parlait à personne parce qu’elle entendait quelqu’un, la seule, en toute sa quête, en tout Alkaran et au-delà, qu’il eût trouvée avec la chambre au bon endroit. Lirenn. Il n’avait pas oublié son nom.
 
 Il lui parla comme on parle aux morts qu’on aime : de loin, sans espoir qu’ils entendent.
 

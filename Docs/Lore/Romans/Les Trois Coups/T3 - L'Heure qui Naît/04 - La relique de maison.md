@@ -11,7 +11,7 @@ status: draft
 
 Sanne avait sanglé son paquet à la corne du jour, au feutre gris de l’aube, la lanière prise deux fois en croix sur la poitrine et passée une fois sous le bras, tirée jusqu’au point où la charge cesse de danser sans commencer à mordre. Trop serré, ça marque le papier et ça marque l’épaule, et au bout d’une journée de route on déteste ce qu’on porte. Trop lâche, ça cogne la hanche à chaque pas jusqu’à ce qu’on ait envie de le jeter au fossé. Ses mains trouvaient ce point toutes seules depuis des années, comme elles avaient trouvé autrefois l’instant où un métal cesse de résister et se laisse corroyer. Depuis, la charge dormait contre son dos comme un enfant qui a fini de pleurer.
 
-La route descendait vers Onara par le dos des collines, en évitant les portes. Toutes les bonnes routes évitaient les portes, ces temps-ci. Aux portes on comptait les gens, on inscrivait les noms, on demandait le Lien et l’absence de Lien, et un paquet de copies sur le dos d’une femme sans marque valait toujours mieux là où personne ne comptait rien.
+La route descendait vers Onara-basse par le dos des collines, en évitant les portes. Toutes les bonnes routes évitaient les portes, ces temps-ci. Aux portes on comptait les gens, on inscrivait les noms, on demandait le Lien et l’absence de Lien, et un paquet de copies sur le dos d’une femme sans marque valait toujours mieux là où personne ne comptait rien.
 
 « Tu marches trop vite, dit la petite, derrière.
 
@@ -77,7 +77,7 @@ Sanne posa la croûte de pain qu’elle mâchait. Elle la posa doucement, comme 
 
 La vieille referma le cahier sans relever, le tapota deux fois du bout des doigts comme on rassure un animal, et poussa vers Sanne, sur le bois usé, une bourse plate et un autre paquet, plus mince, ficelé de neuf.
 
-« Pour le sud, dit-elle. Des copies pour Prismalith. Il y a là-bas une archiviste, une jeune, qui recopie tout ce qu’on lui apporte sans demander d’où ça vient. Une nommée Ysolde. On dit qu’elle a reçu il y a peu les cahiers d’un homme qui a fait tout le tour du monde et qui a déposé chez elle une carte trop grande pour un seul homme. » Elle regarda Sanne bien en face. « Tu passeras par là. Tu regarderas si c’est vrai. »
+« Pour l’ouest, dit-elle. Des copies pour Prismalith. Il y a là-bas une archiviste, une jeune, qui recopie tout ce qu’on lui apporte sans demander d’où ça vient. Une nommée Ysolde. On dit qu’elle a reçu il y a peu les cahiers d’un homme qui a fait tout le tour du monde et qui a déposé chez elle une carte trop grande pour un seul homme. » Elle regarda Sanne bien en face. « Tu passeras par là. Tu regarderas si c’est vrai. »
 
 Sanne prit le paquet mince et le soupesa par habitude, bien qu’elle sût d’avance ce qu’il pesait.
 

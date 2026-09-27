@@ -117,7 +117,7 @@ Nissa avait pâli sous le hâle.
 
 « Le huitième se souvient de quoi. »
 
-« Je ne sais pas, petite. » Il le dit sans dureté, presque doucement. « Et celui qui te dira qu’il sait, méfie-toi de lui plus que de la pierre. La pierre, elle, se tait. Il en viendra, tu verras. Des gens pour te dire que c’est un dieu qui revient. D’autres pour te dire que c’est le feu sous la montagne du nord qui s’éveille. D’autres encore pour te dire que ce n’est rien, une vieille superstition, une fissure et une moisissure lumineuse, et qu’il faut remettre des dalles et cesser d’en parler. »
+« Je ne sais pas, petite. » Il le dit sans dureté, presque doucement. « Et celui qui te dira qu’il sait, méfie-toi de lui plus que de la pierre. La pierre, elle, se tait. Il en viendra, tu verras. Des gens pour te dire que c’est un dieu qui revient. D’autres pour te dire que c’est le feu sous la montagne du sud qui s’éveille. D’autres encore pour te dire que ce n’est rien, une vieille superstition, une fissure et une moisissure lumineuse, et qu’il faut remettre des dalles et cesser d’en parler. »
 
 « Et toi tu crois quoi. »
 

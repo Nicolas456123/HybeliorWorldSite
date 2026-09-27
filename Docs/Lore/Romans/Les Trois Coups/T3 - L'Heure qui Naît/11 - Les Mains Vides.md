@@ -57,7 +57,7 @@ Doreth ne bougea pas.
 
 « Marqué comment.
 
-— Comment tu crois. Le jaune. » Corven avala, et sa gorge eut du mal. « Le tissu jaune cousu à l’épaule, la Loi du Sol, tout le paquet. Il descendait par là pour la foire aux cuirs, comme chaque année, comme son père avant lui. Cette fois ils l’ont arrêté à la porte, ils lui ont demandé son Lien, il a dit qu’il en avait pas, et ils lui ont dit : alors tu es un Délié. Et ils lui ont cousu le jaune. » Ses deux poings s’abattirent sur la table. « Un Délié. Loren. Qui n’a rien délié de sa vie, qui n’a rien coupé, qui est né sans comme toi et moi et la moitié du monde. »
+— Comment tu crois. Le jaune. » Corven avala, et sa gorge eut du mal. « Le tissu jaune cousu à l’épaule, la Loi du Sol, tout le paquet. Il passait la mer pour la foire aux cuirs, comme chaque année, comme son père avant lui. Cette fois ils l’ont arrêté à la porte, ils lui ont demandé son Lien, il a dit qu’il en avait pas, et ils lui ont dit : alors tu es un Délié. Et ils lui ont cousu le jaune. » Ses deux poings s’abattirent sur la table. « Un Délié. Loren. Qui n’a rien délié de sa vie, qui n’a rien coupé, qui est né sans comme toi et moi et la moitié du monde. »
 
 La vieille colère remonta, par-dessous, celle que Sanne avait appris à tremper et qui revenait quand même aux mauvaises nouvelles.
 
@@ -103,7 +103,7 @@ Restait ce que Corven avait rapporté sans le savoir, une petite nouvelle lâch�
 
 — Il en parle depuis la côte. » La vieille rassemblait des braises au centre du foyer, pour la nuit, du bout d’un tisonnier. « Tout le monde en parle, sur les routes du sud. Un homme qui aurait fait le tour du monde, qui serait revenu, et qui aurait déposé ses cahiers à Prismalith, chez une archiviste, avant de repartir on ne sait où. Ils disent qu’il a laissé là une carte trop grande pour un seul homme. »
 
-Sanne avait entendu ces mots-là déjà, exactement ces mots-là, dans la bouche de Roshel, au relais, quelques semaines plus tôt. Les réentendre ici, à cent lieues, dans une autre bouche, lui fit l’effet d’une phrase intacte trouvée au milieu d’un cahier pourri : quelque chose voyageait seul, plus vite que les gens, par des routes qu’elle ne connaissait pas.
+Sanne avait entendu ces mots-là déjà, exactement ces mots-là, dans la bouche de Roshel, au relais, quelques semaines plus tôt. Les réentendre ici, à quarante lieues, dans une autre bouche, lui fit l’effet d’une phrase intacte trouvée au milieu d’un cahier pourri : quelque chose voyageait seul, plus vite que les gens, par des routes qu’elle ne connaissait pas.
 
 « Une carte trop grande pour un seul homme, répéta-t-elle, à mi-voix.
 

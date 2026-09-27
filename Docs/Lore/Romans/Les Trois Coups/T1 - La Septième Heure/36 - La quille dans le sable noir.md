@@ -23,7 +23,7 @@ Une entaille droite courait de la ligne des varechs jusqu’à l’eau, longue, 
 
 Douze pas de quille. Un bateau de cette taille vient déposer, ou prendre, et il repart. Le maquereau se pêche à deux barques.
 
-Il remonta la trace à l’envers, vers la terre, là où le sable sec gardait mieux les pieds. Au-dessus des varechs, les empreintes s’ouvraient en éventail, brouillées, à demi effacées par vingt nuits de vent. Quinze ans à rouvrir ce que les gens croyaient avoir effacé lui avaient appris à les lire quand même. Accroupi de nouveau, il compta.
+Il remonta la trace à l’envers, vers la terre, là où le sable sec gardait mieux les pieds. Au-dessus des varechs, les empreintes s’ouvraient en éventail, brouillées, à demi effacées par une nuit de vent. Quinze ans à rouvrir ce que les gens croyaient avoir effacé lui avaient appris à les lire quand même. Accroupi de nouveau, il compta.
 
 ---
 
@@ -43,7 +43,7 @@ Aelindra. Il ne l’avait jamais vue et ne la verrait pas. Il la connaissait par
 
 « Je vous lis quand même », dit-il au sable noir, sans emphase.
 
-C’était vrai et cela ne servait à rien. Le sable avait vingt nuits ; l’entaille était une chose morte, et le bateau qui l’avait faite courait une autre mer. Ce qu’il tenait vraiment, c’était l’autre piste, celle des hautes terres, et celle-là n’avait que trois jours, quatre peut-être. Voilà à quelle distance il lisait. Les quatre marcheurs étaient moins loin que la quille, et cela ne suffisait pas.
+C’était vrai et cela ne servait à rien. Le sable avait huit nuits ; l’entaille était une chose morte, et le bateau qui l’avait faite courait une autre mer. Ce qu’il tenait vraiment, c’était l’autre piste, celle des hautes terres, et celle-là n’avait que trois jours, quatre peut-être. Voilà à quelle distance il lisait. Les quatre marcheurs étaient moins loin que la quille, et cela ne suffisait pas.
 
 ---
 
@@ -61,7 +61,7 @@ Un homme se tenait à mi-pente, un filet roulé sur l’épaule, le visage tann�
 
 Verkan laissa le silence durer : sa politesse à lui, laisser à l’autre le loisir d’ajouter une phrase de trop. Le vieux n’ajouta rien. Ou il n’avait rien à cacher, ou il avait appris à se taire ; cela se verrait.
 
-« Je cherche un bateau, dit enfin Verkan. Un long. Douze pas de quille. Passé il y a une vingtaine de nuits. »
+« Je cherche un bateau, dit enfin Verkan. Un long. Douze pas de quille. Passé cette semaine, la nuit. »
 
 Le pêcheur haussa une épaule sous le filet.
 
@@ -79,7 +79,7 @@ Et Verkan, pour la première fois depuis des jours, faillit sourire. Le vieux ve
 
 ---
 
-« Vous dites que vous n’avez rien vu », reprit Verkan du même ton posé. Il ne haussait jamais la voix ; il n’en avait jamais eu l’usage. « Vous descendez ce sentier chaque matin depuis cinquante ans. Un bateau de douze pas est entré dans votre crique ce mois-ci et l’a marquée d’une entaille qu’un aveugle sentirait sous la main. »
+« Vous dites que vous n’avez rien vu », reprit Verkan du même ton posé. Il ne haussait jamais la voix ; il n’en avait jamais eu l’usage. « Vous descendez ce sentier chaque matin depuis cinquante ans. Un bateau de douze pas est entré dans votre crique cette semaine et l’a marquée d’une entaille qu’un aveugle sentirait sous la main. »
 
 Il n’ajouta rien d’autre. Deux faits posés côte à côte, et le troisième se lèverait tout seul.
 
@@ -99,7 +99,7 @@ Le vieux parut surpris, le temps d’un battement. Il avait dû s’attendre à 
 
 — Une dernière chose. » Verkan s’était déjà à demi détourné vers la mer ; il ne revint qu’à moitié. « Ces gens qui ne sont pas passés, sur ce bateau que vous n’avez pas vu. Vous croyez qu’ils allaient où ? »
 
-Le pêcheur suivit son regard. Vers l’intérieur des terres, au nord-est, là où le sentier de chèvre se perdait dans les collines grises ; et derrière les collines, très proche à présent, le Mont, dont le flanc tenait encore la nuit que le reste du ciel avait déjà lâchée, coiffé d’une lente écharpe de fumée qui montait droite dans l’air sans vent.
+Le pêcheur suivit son regard. Vers l’intérieur des terres, au nord-est, là où le sentier de chèvre se perdait dans les collines grises ; et derrière les collines, très proche à présent, le Mont, dont le flanc tenait encore la nuit que le reste du ciel avait déjà lâchée, coiffé d’une lente écharpe de fumée qui montait droite dans l’air sans vent.
 
 « Où veux-tu qu’on aille, par ce sentier-là ? » Le vieux ne montrait rien du doigt ; il n’en avait pas besoin. « Y mène qu’à un endroit. »
 

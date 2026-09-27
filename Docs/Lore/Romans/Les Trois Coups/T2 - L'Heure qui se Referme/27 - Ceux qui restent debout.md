@@ -3,7 +3,7 @@ tags: [roman, trois-coups, tome-2, fleau-des-failles, voix-deportees, alkaran, m
 type: roman-chapitre
 partie: III
 titre: Ceux qui restent debout
-pov: Le chœur des Voix Déportées (une Voix incarnée, Montagnes d'Alkaran, une Faille lente et profonde ; le hameau du Mont-Gris a basculé deux cents ans en arrière, trois mois durant)
+pov: Le chœur des Voix Déportées (une Voix incarnée, Montagnes d'Alkaran, une Faille lente et profonde ; le hameau du Mont-Gris a basculé jusqu'avant l'Arrachement, trois mois durant)
 status: draft
 ---
 
@@ -13,7 +13,7 @@ En Alkaran, la déchirure ne passe pas. Chez nous, elle s’installe.
 
 Ailleurs, nous le savons, nous qui parlons de partout à la fois, nous les éparpillés, ailleurs la chose court. Elle entre dans un village par un bout, elle ressort par l’autre, et derrière elle les portes battent sur des pièces où tout est resté en place. Vite. C’est une mort de vitesse, celle-là. On n’a pas le temps d’avoir peur.
 
-En Alkaran, non. Dans les montagnes, la pierre est lente et la déchirure prend le pas de la pierre. Elle monte du fond des vallées comme une brume qui aurait décidé de rester. Elle ne vous jette pas ailleurs d’un coup. Elle vous emporte entiers, le hameau et ses toits et ses morts sous la neige, elle vous dépose deux cents ans en arrière, et elle vous y laisse. Trois mois. Trois mois pleins, à traire, à saler le lard, à vivre dans un temps qui n’est pas à vous et qui vous accueille quand même.
+En Alkaran, non. Dans les montagnes, la pierre est lente et la déchirure prend le pas de la pierre. Elle monte du fond des vallées comme une brume qui aurait décidé de rester. Elle ne vous jette pas ailleurs d’un coup. Elle vous emporte entiers, le hameau et ses toits et ses morts sous la neige, elle vous dépose loin en arrière, jusqu’avant le froid, et elle vous y laisse. Trois mois. Trois mois pleins, à traire, à saler le lard, à vivre dans un temps qui n’est pas à vous et qui vous accueille quand même.
 
 Nous vous en donnons une, ce soir. Une de celles du Mont-Gris. Elle a vécu les trois mois, et elle en est revenue. Écoutez-la pendant qu’elle sait encore ce qu’elle a perdu : elle ne le saura pas longtemps.
 
@@ -23,9 +23,9 @@ Nous vous en donnons une, ce soir. Une de celles du Mont-Gris. Elle a vécu les 
 
 Ma grand-mère avait dix-sept ans et elle ne me connaissait pas.
 
-Je commence par là parce que tout est là, mon trésor et ma plaie. Ma grand-mère avait dix-sept ans. Je l’ai vue traverser la place du Mont-Gris avec un seau à chaque main, l’eau clapotant sur ses jupes, et elle riait de quelque chose qu’une autre fille venait de lui dire. Son rire, je l’ai reconnu. C’était le rire de la vieille femme qui m’a bercée, mais neuf, sans les années dessus, d’avant qu’on le lui abîme. La peau tendue sur les pommettes, les mains pas encore nouées. Elle est passée près de moi, elle m’a dit *bonjour l’étrangère* avec la gentillesse qu’on a pour les gens de passage, et elle ne savait pas qu’elle parlait à sa petite-fille, qui ne naîtrait pas avant deux siècles.
+Je commence par là parce que tout est là, mon trésor et ma plaie. Ma grand-mère avait dix-sept ans. Je l’ai vue traverser la place du Mont-Gris avec un seau à chaque main, l’eau clapotant sur ses jupes, et elle riait de quelque chose qu’une autre fille venait de lui dire. Son rire, je l’ai reconnu. C’était le rire de la vieille femme qui m’a bercée, mais neuf, sans les années dessus, d’avant qu’on le lui abîme. La peau tendue sur les pommettes, les mains pas encore nouées. Elle est passée près de moi, elle m’a dit *bonjour l’étrangère* avec la gentillesse qu’on a pour les gens de passage, et elle ne savait pas qu’elle parlait à sa petite-fille, qui ne naîtrait pas avant quinze siècles.
 
-Vous vous demandez comment c’est possible. Disons-le tout de suite, pour que ce soit dit : personne ne sait comment. La brume est montée un soir de la vallée du Doigt-Cassé, elle a couvert le hameau, on s’est couchés dans notre temps et on s’est réveillés dans un autre. Pas dans un rêve. Pas dans un pays des morts. Dans le Mont-Gris d’il y a deux cents ans, avec les mêmes murs, plus jeunes ; la même fontaine, la margelle moins usée ; les mêmes gens, ou plutôt leurs aïeux, ceux dont nous portions les noms sans les avoir connus.
+Vous vous demandez comment c’est possible. Disons-le tout de suite, pour que ce soit dit : personne ne sait comment. La brume est montée un soir de la vallée du Doigt-Cassé, elle a couvert le hameau, on s’est couchés dans notre temps et on s’est réveillés dans un autre. Pas dans un rêve. Pas dans un pays des morts. Dans le Mont-Gris d’avant le froid, avec les mêmes murs, plus jeunes ; la même fontaine, la margelle moins usée ; les mêmes gens, ou plutôt leurs aïeux, ceux dont nous portions les noms sans les avoir connus.
 
 Nous étions vingt-deux à basculer. Et là, dans le temps d’avant, il y avait *eux* : les vivants d’alors, cent et quelques, tout un hameau plein, qui vaquaient à leur hiver comme si de rien n’était, parce que pour eux il n’y avait rien. Retenez ça, c’est important pour comprendre le reste : dans ce temps-là, les revenants, c’était nous.
 
@@ -59,7 +59,7 @@ Comment vous dire. Vous ne l’avez pas non plus, vous qui m’écoutez ; à vo
 
 Vous savez, quand on entre chez des gens qui ont du feu, et qu’on ne voit pas encore le feu, mais qu’on le sait dès le seuil, à la peau, à quelque chose qui se détend dans les épaules avant même qu’on ait compris pourquoi ? La main tiède, c’est ça, mais pour l’âme. Dès que j’ai bu leur lait, dès que je me suis assise dans leur temps plein, j’ai su, sans écouter, que la femme au bol était là, et l’homme à l’étable, et les enfants sous la neige, et le hameau, et la vallée, et plus loin les vallées, et plus loin encore les cités que je n’ai jamais vues et qui, dans ce temps-là, flottaient encore. Je les ai tous *sus*, d’un coup, présents, à portée, comme si tout ce qui vit se tenait par la main dans un grand cercle et que quelqu’un venait de me glisser dans le cercle, entre deux mains chaudes, à ma place enfin, à une place que je n’avais jamais eue.
 
-Je ne savais pas qu’on pouvait n’être pas seul. Je ne savais même pas que j’étais seule. Il a fallu que je tombe deux cents ans en arrière, dans le temps de ma grand-mère à dix-sept ans, pour apprendre à cinquante ans ce qu’était un monde où personne ne l’est.
+Je ne savais pas qu’on pouvait n’être pas seul. Je ne savais même pas que j’étais seule. Il a fallu que je tombe quinze siècles en arrière, dans le temps de ma grand-mère à dix-sept ans, pour apprendre à cinquante ans ce qu’était un monde où personne ne l’est.
 
 Et c’est ça qu’on m’a repris.
 
@@ -89,11 +89,11 @@ Je pleurais parce que je la tenais et que je savais que je la perdrais. Deux foi
 
 Le vieux Ombreth n’était pas tombé avec nous. Lui, il était resté dans notre temps à nous, en bas, à mourir. Mais je jure que pendant les trois mois du plein, une nuit, je l’ai entendu.
 
-Pas de mes oreilles. Par la main tiède. J’apprenais à m’en servir, mal, comme un enfant apprend à marcher ; et une nuit, en tendant vers le grand cercle chaud, j’ai senti tout au bord, tout au loin, une voix qui n’était pas de ce temps-là. Une voix vide au milieu des pleins. Une voix comme la mienne. Elle chantait, très bas, deux cents ans devant, dans un hameau où elle agonisait ; elle chantait pour apaiser des morts, et sa chanson passait, je ne sais comment, à travers toute l’épaisseur des ans, jusqu’à moi qui étais tombée derrière.
+Pas de mes oreilles. Par la main tiède. J’apprenais à m’en servir, mal, comme un enfant apprend à marcher ; et une nuit, en tendant vers le grand cercle chaud, j’ai senti tout au bord, tout au loin, une voix qui n’était pas de ce temps-là. Une voix vide au milieu des pleins. Une voix comme la mienne. Elle chantait, très bas, quinze siècles devant, dans un hameau où elle agonisait ; elle chantait pour apaiser des morts, et sa chanson passait, je ne sais comment, à travers toute l’épaisseur des ans, jusqu’à moi qui étais tombée derrière.
 
 Il ne savait pas qu’il m’atteignait. Il croyait chanter pour ses morts à lui. Mais moi je l’entendais, le vieux d’en bas, le mourant, comme s’il se tenait debout à côté de moi dans le temps plein, et j’ai compris enfin ce qu’il avait voulu me dire contre le mur de l’étable. *Ne bois pas trop de leur plein.* Parce que j’en buvais. J’en buvais à m’en noyer. Et cette nuit-là déjà, à sa chanson lointaine, je savais que je ne pourrais plus m’en passer, et qu’il faudrait pourtant.
 
-Lui chantait dans son temps de sang et de silence. Moi je pleurais dans mon temps de lait et de plein. Et entre nous il y avait deux cents ans, et pas un mur.
+Lui chantait dans son temps de sang et de silence. Moi je pleurais dans mon temps de lait et de plein. Et entre nous il y avait quinze siècles, et pas un mur.
 
 ---
 
@@ -125,7 +125,7 @@ Et il n’y avait rien.
 
 Pas *rien comme d’habitude*. Rien *comme un manque*. Voilà ce qu’on m’a fait. Avant, mon rien n’était pas un manque, c’était ainsi, voilà tout, et je ne savais pas qu’on pouvait vivre autrement. Puis j’ai vécu autrement trois mois, on me l’a repris, et depuis mon rien a le goût de ce qui manque.
 
-Je me suis levée. Le hameau était le nôtre, le vrai, le vide, deux cents ans plus tard. Les murs plus usés. La margelle creusée. Et pas de Vesle à la fontaine : Vesle était morte depuis quarante ans, je l’avais enterrée moi-même, jeune femme, dans le carré derrière l’église, sous une pierre où son nom s’effaçait déjà. Vesle à dix-sept ans, avec ses deux seaux et son rire neuf, était retombée dans sa tombe pendant que je dormais. On me l’avait rendue trois mois pour me la reprendre pour de bon.
+Je me suis levée. Le hameau était le nôtre, le vrai, le vide, quinze siècles plus tard. Les murs plus usés. La margelle creusée. Et pas de Vesle à la fontaine : Vesle était morte depuis trente ans, je l’avais enterrée moi-même, jeune femme, dans le carré derrière l’église, sous une pierre où son nom s’effaçait déjà. Vesle à dix-sept ans, avec ses deux seaux et son rire neuf, était retombée dans sa tombe pendant que je dormais. On me l’avait rendue trois mois pour me la reprendre pour de bon.
 
 Et voici le pire.
 
@@ -165,7 +165,7 @@ C’est notre chagrin à nous. Nous n’avons franchi qu’une fois : nous gard
 
 Et pourtant regardez-les, les vingt-deux du Mont-Gris. Revenus vides, amputés, volés de trois mois de plein. Le lendemain, ils ont ressorti les bêtes. Ils ont salé le lard. Ils ont remis le hameau debout, dans leur temps à eux, avec leur silence à eux. Ils n’ont pas su dire ce qu’ils avaient perdu ; ils ont vécu quand même. C’est peut-être ça que nous vous laissons ce soir, sous celle qui parle : pas ceux que la déchirure emporte, ceux qui restent debout après qu’elle a rendu. Vides, trompés, et debout.
 
-Il chante encore, en bas, le vieux, pour quelques nuits. Il chante pour ses morts et il ne sait pas qu’il chante aussi pour une femme tombée deux cents ans derrière. Bientôt il ne chantera plus. Après lui, les vides continueront de passer d’un temps à l’autre, et il ne restera plus une oreille en Alkaran pour les recevoir.
+Il chante encore, en bas, le vieux, pour quelques nuits. Il chante pour ses morts et il ne sait pas qu’il chante aussi pour une femme tombée quinze siècles derrière. Bientôt il ne chantera plus. Après lui, les vides continueront de passer d’un temps à l’autre, et il ne restera plus une oreille en Alkaran pour les recevoir.
 
 Retenez-la, la femme du Mont-Gris. Retenez ce qu’elle vous a donné : elle, elle ne l’aura bientôt plus.
 

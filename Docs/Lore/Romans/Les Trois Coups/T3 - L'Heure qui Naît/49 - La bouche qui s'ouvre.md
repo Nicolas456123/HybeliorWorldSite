@@ -96,7 +96,7 @@ Cela arrivait à la fois dans la pierre, dans la chaleur et dans la gorge de l�
 
 Un mot vint.
 
-Renna le reçut en plein. Aucun homme n’aurait su l’épeler ; il avait pourtant une forme, et la forme était celle d’une approche, dite par ce qui s’approchait. Sa main se referma sur le petit poignet. Le mot pesait. Au bord de la rivière, des semaines plus tôt, elle avait cueilli un bout arraché, un phonème qui choyait sitôt lâché. Celui-ci tenait debout tout seul, et il appelait un autre mot derrière lui.
+Renna le reçut en plein. Aucun homme n’aurait su l’épeler ; il avait pourtant une forme, et la forme était celle d’une approche, dite par ce qui s’approchait. Sa main se referma sur le petit poignet. Le mot pesait. Au bord de la rivière, dix jours plus tôt, elle avait cueilli un bout arraché, un phonème qui choyait sitôt lâché. Celui-ci tenait debout tout seul, et il appelait un autre mot derrière lui.
 
 L’autre mot vint.
 

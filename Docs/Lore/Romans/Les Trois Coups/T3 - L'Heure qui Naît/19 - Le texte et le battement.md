@@ -11,7 +11,7 @@ status: draft
 
 Sanne défit la lanière, posa la charge contre le mur, et le repos ne vint pas.
 
-Il venait toujours. Depuis vingt ans, le dos rendait son poids à la seconde où le paquet quittait les épaules, les reins se dépliaient, et il fallait une minute pour redevenir droite. Ce soir, les reins restèrent pleins. La charge était par terre, avec la boue de la route encore dessus, et le poids continuait d’arriver. Il montait du plancher.
+Il venait toujours. Depuis vingt ans, le dos rendait son poids à la seconde où le paquet quittait les épaules, les reins se dépliaient, et il fallait une minute pour redevenir droite. Ce soir, les reins restèrent pleins. La charge était par terre, avec le sel d’une semaine de mer et la boue de la route encore dessus, et le poids continuait d’arriver. Il montait du plancher.
 
 Sanne avait dormi dans des étables, sous des charrettes, dans des relais où l’on paie sa paille et des fossés où l’on ne paie rien. Aucun de ces endroits ne l’avait prise par là.
 

@@ -249,9 +249,9 @@ Elle écrivit longtemps. À chaque ligne, le même matin revenait : la même sa
 
 Un plein de vide.
 
-À des centaines de lieues de là, vers le sud, un mont noir dormait dans une nuit ordinaire, l’endroit le plus dense du monde, et il était calme, il avait toujours été calme.
+À plus de cent lieues de là, vers le sud, un mont noir dormait dans une nuit ordinaire, l’endroit le plus dense du monde, et il était calme, il avait toujours été calme.
 
-Sera ne le sentait pas. Personne à Celethor ne le sentait. Elle écrivait à la lueur d’une seule chandelle, comme, très loin d’elle, un jeune homme écrivait à la lueur d’une seule chandelle des pages qu’elle ne lirait pas ; elle écrivait le chemin par lequel le monde tenu depuis toujours cesserait un matin d’être tenu. Et quelque part entre les pages du protocole dormait une lettre pliée qui commençait par un prénom, et ce prénom était le sien, et le sien, et le sien, car elles avaient été une âme coupée en deux, et pendant treize ans on ne les avait pas distinguées.
+Sera ne le sentait pas. Personne à Celethor ne le sentait. Elle écrivait à la lueur d’une seule chandelle, comme, très loin d’elle, un jeune homme écrivait à la lueur d’une seule chandelle des pages qu’elle ne lirait pas ; elle écrivait le chemin par lequel le monde tenu depuis toujours cesserait un matin d’être tenu. Et quelque part entre les pages du protocole dormait une lettre pliée qui commençait par un prénom, et ce prénom était le sien, et le sien, et le sien, car elles avaient été une âme coupée en deux, et pendant treize ans on ne les avait pas distinguées.
 
 Bien après que la ville se fut endormie, elle souffla la chandelle. Dans le noir, un instant, avant le sommeil, elle chercha par vieille habitude la présence de sa sœur à travers la trame, ce fil ténu qu’elle avait appris, adolescente, à tendre vers Ísae, et qui n’avait jamais rien rapporté, parce qu’on ne résonne pas avec un vide, parce qu’il faut être deux pleins pour se toucher du dedans. Le fil partit dans le noir, comme chaque soir depuis trente ans, vers la maison de l’autre côté de la colline où sa sœur dormait.
 

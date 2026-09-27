@@ -19,9 +19,9 @@ Du dos de la main elle essuya ses lèvres, goûta encore, confirma. Métal. Avan
 
 Un doigt sur la drisse suffit à reprendre la tension. Elle connaissait *l’Amère* comme sa propre main, et le bateau prit le vent qui restait. Vers le nord et l’est. Vers le continent où tout tenait par le Lien, disait-on, et où ces quatre-là allaient défaire ce qui tenait tout.
 
-Ce n’était pas son affaire. On l’avait payée pour la traversée, pas pour comprendre.
+Ce qu’ils allaient faire, elle l’avait entendu sous la voûte d’Aethranor, penchée sur ses cartes. Le reste n’était pas son affaire. On l’avait payée pour la traversée, pas pour comprendre.
 
-Seulement, quarante ans de mer lui avaient appris à se méfier de cette phrase. Six jours d’eau, des nuits entières à deux sur un pont de dix pas, des silences qu’il faut bien remplir : elle finirait par savoir d’eux ce qu’elle n’avait pas demandé.
+Seulement, quarante ans de mer lui avaient appris à se méfier de cette phrase. Six jours d’eau, des nuits entières à deux sur un pont de dix pas, des silences qu’il faut bien remplir : elle finirait par savoir d’eux le pourquoi qu’elle n’avait pas demandé.
 
 ---
 
@@ -41,9 +41,9 @@ Kayara avait fait tourner son gobelet entre deux doigts, sans le lever.
 
 Un sourire était passé sur le visage de l’homme, et une bourse sur la table. Elle ne l’avait pas ouverte. Elle en avait seulement pesé le poids d’un doigt, comme elle pesait une drisse, et su qu’il y avait là de quoi refaire le pont de *l’Amère* et vivre deux ans sans charger. Trop. Et le trop l’avertissait mieux qu’un contrat : dans cette affaire-là, ce n’était pas la coque qui risquait quelque chose.
 
-« Quatre passagers. Du continent vers le continent, mais par la mer. Un grand détour. Tu les prends à Sarth, tu les débarques au sud de Cendara, à la crique qu’on appelle la Dent, et tu ne les as jamais vus.
+« Quatre passagers. Du continent vers le continent, mais par la mer. Un grand détour. Tu les prends à Sarth, tu les débarques sur la côte ouest de Cendara, à la crique qu’on appelle la Dent, et tu ne les as jamais vus.
 
-— Le sud de Cendara. »
+— La côte ouest de Cendara. »
 
 Elle avait laissé le nom traîner dans sa bouche, comme on goûte une eau qu’on ne connaît pas. La côte au pied des monts de feu, là où la terre elle-même n’est pas sûre, où le sol tremble, où l’air sent le soufre certains jours jusqu’au large. Fonds traîtres, vents contraires : les capitaines de la Ligue l’évitaient. On ne débarque pas quatre personnes en secret sur une côte pareille, à moins qu’elles n’aient de bonnes raisons de ne pas prendre les portails.
 
@@ -57,7 +57,7 @@ L’homme l’avait regardée longtemps, jusqu’à ce que le tripot autour d’
 
 *La mer ne le dira à personne.* Elle avait pris la bourse pour cette phrase autant que pour l’argent. C’était vrai, et c’était la chose qu’elle savait le mieux au monde : le Lien voyait tout, tenait tout, reliait tout, sauf le large. Au large, on est seul comme on ne peut l’être nulle part sur la terre des Liés. Et il y avait des gens, apparemment, qui avaient besoin de cette solitude-là pour faire ce qu’ils avaient à faire.
 
-Ce que c’était, elle ne l’avait pas demandé.
+Pourquoi, elle ne l’avait pas demandé.
 
 ---
 
@@ -99,7 +99,7 @@ Le silence de Sera avait duré, et Kayara, qui n’aimait pas les silences qui d
 
 « Vas-y. Dis-le, ton affaire. On a la nuit, et la nuit avance. »
 
-Alors Sera avait parlé. Pour donner, avec la patience d’une préceptrice, comme si expliquer était une manière de se rendre supportable à elle-même. Ils allaient au sud de Cendara pour tuer le Lien. Pas le blesser. Pas le réformer. Le tuer, le trancher au seul endroit du monde où on pouvait le trancher, un sommet noir dont Sera parlait comme d’un cœur, le point le plus dense de toute la Trame. Et rendre par là le monde à ce qu’il était avant.
+Alors Sera avait parlé. Pour donner, avec la patience d’une préceptrice, comme si expliquer était une manière de se rendre supportable à elle-même. Kayara connaissait le but depuis la voûte d’Aethranor ; elle l’entendit cette fois dans la bouche d’une femme qui en portait le poids. Ils allaient à Cendara pour tuer le Lien. Pas le blesser. Pas le réformer. Le tuer, le trancher au seul endroit du monde où on pouvait le trancher, un sommet noir dont Sera parlait comme d’un cœur, le point le plus dense de toute la Trame. Et rendre par là le monde à ce qu’il était avant.
 
 « On ne peut pas donner le Lien à tous, dit Sera. C’est le drame. On a essayé, sur mille ans, de toutes les manières. Il naît avec vous ou il ne naît pas, et rien n’y fait. Alors il y a ceux qui l’ont et ceux qui ne l’ont pas, et ceux qui ne l’ont pas ne sont rien. On les appelle Vides. Ma sœur en est une. »
 
@@ -181,9 +181,9 @@ Sera la regarda longtemps.
 
 « Apprenez-le-nous. » Elle avait baissé la voix, et Kayara comprit qu’elle ne parlait plus du grain. « Apprenez-nous à ne pas lâcher la barre. Nous montons vers une nuit bien pire que celle-ci, et aucun de nous ne sait naviguer sans le Lien. Aucun. Sauf vous. Vous êtes la seule d’entre nous qui rentre chez elle. »
 
-La phrase resta un moment suspendue entre elles, dans l’air lavé. C’était vrai, et Kayara s’en avisa seulement à cet instant : de ces quatre qu’elle portait vers le sud, elle serait la seule à redescendre. Les autres allaient vers une chose dont ils ne reviendraient pas ; elle le lisait à leur façon d’avoir déjà, chacun, fait le deuil de soi. La préceptrice le portait à découvert. Le rêveur le portait dans ses nuits mauvaises. Le silencieux de Baelor ne disait rien, mais il ne disait jamais rien. Quant à l’homme sans nom, celui qu’ils suivaient tous, celui dont on ne prononçait pas le nom, Kayara l’avait surpris une fois, à l’aube, seul à la proue, tourné vers le nord où montait la terre, si longtemps et si immobile qu’elle s’était demandé s’il priait, ou s’il avait peur.
+La phrase resta un moment suspendue entre elles, dans l’air lavé. C’était vrai, et Kayara s’en avisa seulement à cet instant : de ces quatre qu’elle portait vers le sud, elle serait la seule à redescendre. Les autres allaient vers une chose dont ils ne reviendraient pas ; elle le lisait à leur façon d’avoir déjà, chacun, fait le deuil de soi. La préceptrice le portait à découvert. Le rêveur le portait dans ses nuits mauvaises. Le silencieux de Baelor ne disait rien, mais il ne disait jamais rien. Quant à l’homme sans nom, celui qu’ils suivaient tous, celui dont on ne prononçait pas le nom, Kayara l’avait surpris une fois, à l’aube, seul à la proue, tourné vers l’est où montait la terre, si longtemps et si immobile qu’elle s’était demandé s’il priait, ou s’il avait peur.
 
-« Je peux t’apprendre à tenir une barre, dit enfin Kayara. Je ne peux pas t’apprendre à n’avoir rien à perdre. » Elle regarda le nord, elle aussi. « Ou alors ça s’apprend en perdant tout une première fois et en découvrant qu’on est encore là. C’est peut-être ce que vous allez faire. »
+« Je peux t’apprendre à tenir une barre, dit enfin Kayara. Je ne peux pas t’apprendre à n’avoir rien à perdre. » Elle regarda l’est, elle aussi. « Ou alors ça s’apprend en perdant tout une première fois et en découvrant qu’on est encore là. C’est peut-être ce que vous allez faire. »
 
 ---
 
@@ -199,7 +199,7 @@ Le moine de Baelor descendit sans un mot, plié sur son silence, et lui rendit s
 
 « La mer l’a prise. » Kayara resserra sa poigne autour du poignet maigre. « Elle prend ce qu’on arrime mal. Ce n’est pas contre toi. »
 
-Elle le lâcha. L’homme sans nom descendit à son tour, et elle ne vit pas son visage dans le noir, seulement une silhouette qui, une fois à terre, se tourna vers l’intérieur des terres, vers le sud et les hauteurs, comme aimantée. Il posa son poignet dans sa main sans qu’elle eût à le prendre. Personne, de toute la traversée, n’avait devancé son geste, et elle n’aurait pas su dire si c’était de la courtoisie ou autre chose.
+Elle le lâcha. L’homme sans nom descendit à son tour, et elle ne vit pas son visage dans le noir, seulement une silhouette qui, une fois à terre, se tourna vers l’intérieur des terres, vers l’est et les hauteurs, comme aimantée. Il posa son poignet dans sa main sans qu’elle eût à le prendre. Personne, de toute la traversée, n’avait devancé son geste, et elle n’aurait pas su dire si c’était de la courtoisie ou autre chose.
 
 Sera descendit la dernière. Sur la roche, elle se retourna, chercha Kayara dans l’obscurité.
 

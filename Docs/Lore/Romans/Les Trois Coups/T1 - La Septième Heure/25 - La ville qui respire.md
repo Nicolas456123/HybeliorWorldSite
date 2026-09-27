@@ -85,7 +85,7 @@ La matinée passa et tout fut vendu. Avec Méryl, à l’ombre de l’auvent, il
 
 Quelque chose lui vint aux lèvres ; il le ravala. Toute la matinée, il avait espéré s’être trompé. Que Méryl eût vu la même chose lui ôtait cet espoir-là.
 
-Sur le coup de midi, comme le marché se vidait, un homme du Sanctuaire passa sur le quai en criant la nouvelle du jour : le Grand Pontife annonçait pour la lune prochaine les grandes Fêtes de Navigor, plus belles que jamais, et l’on préparait déjà les barques de procession. La foule accueillit cela avec joie. On aimait les Fêtes. Ílvar aussi, pour les lampes du soir, ces milliers de lumières qu’on lâchait sur les canaux et qui descendaient vers la mer.
+Sur le coup de midi, comme le marché se vidait, un homme du Sanctuaire passa sur le quai en criant la nouvelle du jour : le Grand Pontife rappelait que les grandes Fêtes de Navigor s’ouvriraient dans trois jours, plus belles que jamais, et l’on préparait déjà les barques de procession. La foule accueillit cela avec joie. On aimait les Fêtes. Ílvar aussi, pour les lampes du soir, ces milliers de lumières qu’on lâchait sur les canaux et qui descendaient vers la mer.
 
 L’eau haute lui sortit de la tête. À la sieste, il rentra chez lui et dormit une heure au ras de l’eau, bercé par le clapot sous le plancher, ce bruit qu’il entendait depuis l’enfance et qui était pour lui le bruit même du repos.
 

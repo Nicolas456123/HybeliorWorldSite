@@ -46,7 +46,7 @@ Brévin rangea deux lacets sur sa planche avant de répondre.
 
 La fontaine coulait. Une chèvre bêla du côté des enclos. La femme du meunier ramena son gamin plus près de sa jupe, et ce fut toute la réponse que Brévin obtint.
 
-C’est là que la longue poussée monta, à son heure de midi, plus rapprochée qu’aux dernières lunes, presque quotidienne à présent. Renna la sentit venir de loin, comme toujours, et la sentit aller plus loin qu’elle. Vingt-cinq ans que cette chaleur montait jusqu’à ses talons et s’y arrêtait, comme au bout d’un chemin. Ce midi-là elle prit la place en biais et continua du côté du haut, vers une porte tirée et un enfant à qui l’on avait fait promettre de ne pas répondre. Deux ou trois personnes changèrent de pied sans savoir pourquoi. Le berger regarda du côté du Mont. La chose reflua.
+C’est là que la longue poussée monta, à midi, hors de ses deux heures du matin et du soir, plus rapprochée qu’aux dernières lunes. Renna la sentit venir de loin, comme toujours, et la sentit aller plus loin qu’elle. Vingt-cinq ans que cette chaleur montait jusqu’à ses talons et s’y arrêtait, comme au bout d’un chemin. Ce midi-là elle prit la place en biais et continua du côté du haut, vers une porte tirée et un enfant à qui l’on avait fait promettre de ne pas répondre. Deux ou trois personnes changèrent de pied sans savoir pourquoi. Le berger regarda du côté du Mont. La chose reflua.
 
 C’est en relevant la tête qu’elle vit les deux hommes.
 

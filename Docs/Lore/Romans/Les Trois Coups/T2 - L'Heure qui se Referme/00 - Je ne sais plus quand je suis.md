@@ -3,7 +3,7 @@ tags: [roman, trois-coups, tome-2, fleau-des-failles, prologue, voix-deportees, 
 type: roman-chapitre
 partie: prologue
 titre: Je ne sais plus quand je suis
-pov: Le chœur des Voix Déportées (irruption 1 — une Voix jetée avant l'Arrachement, ~an -30)
+pov: Le chœur des Voix Déportées (irruption 1 — une Voix jetée avant l'Arrachement, ~an -40)
 status: draft
 ---
 

@@ -19,7 +19,7 @@ Il avait monté quatre jours avec ce compte dans la tête, et une place prête p
 
 Le flanc du Mont Cendra montait sans une marche. Vaskar s’en aperçut au premier quart de lieue, et par le mollet : rien, sous la botte, ne lui disait où il en était. Ses jambes avaient appris les distances de sa vie sur des degrés que d’autres avaient taillés, comptés, bornés. Cent onze pour descendre aux Fonds. Les trois marches où se tenait le porteur de consignes du Prime. L’escalier d’une halle de Mardanne, au bas duquel on avait couché un conciliateur d’eau. Ici, la pente montait par une cendre que mille pieds avaient tassée sans jamais la régler, et le pied enfonçait d’un demi-pouce dans une matière molle et tiède qu’aucun feu proche n’expliquait.
 
-Le calcul, lui, avait été juste ; il l’avait refait trois fois sur la selle. Partir de Drakora la nuit du versement, prendre les relais du haut pays, couper par le vieux chemin des toucheurs de bêtes là où une femme sans papiers était morte sans une marque, et déboucher sur Cendara avant que la chose qu’il venait clore eût pris sa forme. Le calcul portait sur les routes. Vaskar savait tout des routes. De ce qui ne prend pas les routes, il n’avait rien su.
+Le calcul, lui, avait été juste ; il l’avait refait trois fois sur la selle. Partir de Drakora la nuit du versement, passer la mer, prendre les relais du haut pays et déboucher sur le Mont avant que la chose qu’il venait clore eût pris sa forme. Le calcul portait sur les routes. Vaskar savait tout des routes. De ce qui ne prend pas les routes, il n’avait rien su.
 
 Ils étaient là avant lui. Une foule, trop nombreuse pour la pique et le registre d’un guet. Elle tenait le flanc devant lui, autour de lui, au-dessus de lui, une pente noire piquetée de gens sans raison commune de s’y trouver et qui s’y trouvaient tous. Sur eux descendait la cendre, lente, d’un ciel sans vent.
 
@@ -105,7 +105,7 @@ La femme leva sur lui un regard qui ne se pressa pas. Elle répondit de biais, �
 
 « On vous a cherchés », dit Vaskar. Il n’avait rien demandé ; elle répondit tout de même.
 
-« Deux fois. Des gens du sud, avec de l’argent, qui voulaient l’emmener où l’on s’occupe de ceux-là. Et dans une ville en amont, on nous a rayées du rôle de la halle pendant que je dormais, pour que personne n’ait eu à nous loger. » Elle haussa une épaule. « On nous prend ou on nous efface. Il n’y a pas de troisième manière. »
+« Deux fois. Des gens des îles, avec de l’argent, qui voulaient l’emmener où l’on s’occupe de ceux-là. Et dans une ville en amont, on nous a rayés du rôle de la halle pendant que je dormais, pour que personne n’ait eu à nous loger. » Elle haussa une épaule. « On nous prend ou on nous efface. Il n’y a pas de troisième manière. »
 
 Vaskar la regarda et ne trouva rien. Un visage se lit ; il en avait lu mille, la peur qui plisse l’œil, le mensonge qui retarde la lèvre, la fatigue, la ruse, la douleur. Celui-ci ne portait aucune de ces écritures. Elle ne mentait pas, il l’aurait vu ; elle ne rêvait pas, il l’aurait vu tout autant ; elle n’était pas folle, une folle laisse des traces qu’un archiviste reconnaît, des trous, des sauts, un fil qui casse. Elle disait une chose calme et pleine, avec les mots de quelqu’un qui les a longtemps cherchés. Et elle n’avait rien sur elle : pas de papiers, pas de charge, pas de confrérie. Rien qu’on pût prendre, coter, joindre.
 
@@ -167,10 +167,10 @@ Le jeune homme posa le coffre à terre, avec précaution, et resta debout à cô
 
 Vaskar ne monta pas au sommet cette nuit-là. Il n’en eut pas besoin.
 
-Il resta à mi-flanc, contre le rocher, non loin de la femme qui tenait l’enfant, et regarda la pente monter vers le point où tous les visages étaient tournés, et la cendre tomber sans vent, plus dense d’heure en heure. Dans sa poche dormait la clef d’un petit fer noir où reposait, à douze toises sous une ville, à des semaines de route, la copie qu’un mort avait faite d’un mort ; elle pesait cette nuit le poids d’un outil qu’on porte sans emploi.
+Il resta à mi-flanc, contre le rocher, non loin de la femme qui tenait l’enfant, et regarda la pente monter vers le point où tous les visages étaient tournés, et la cendre tomber sans vent, plus dense d’heure en heure. Dans sa poche dormait la clef d’un petit fer noir où reposait, à douze toises sous une ville, à des jours de route, la copie qu’un mort avait faite d’un mort ; elle pesait cette nuit le poids d’un outil qu’on porte sans emploi.
 
 Une nuit, à sa table, il avait posé côte à côte trois pièces que rien, en vingt ans, n’avait fait se toucher, et il en était sorti avec une certitude qu’il avait prise pour un défaut de classement : que son métier entier regardait derrière lui. Sur ce flanc, il n’y avait rien derrière à regarder. Ce qui arrivait n’avait pas encore eu lieu.
 
-Et cela arriverait. Il le sentait sans pouvoir l’écrire, comme la femme l’entendait sans pouvoir le nommer, et leurs deux ignorances se ressemblaient plus qu’il n’aurait toléré de l’admettre. Alors il fit, debout dans la cendre, le geste qu’il faisait à sa table devant une pièce qui n’entre nulle part : il chercha à quel dossier la joindre. Il en avait une maison pleine, sous une ville, à des semaines de là. Il les passa en revue, et il les passa vite, parce qu’aucun n’était de cette affaire-là.
+Et cela arriverait. Il le sentait sans pouvoir l’écrire, comme la femme l’entendait sans pouvoir le nommer, et leurs deux ignorances se ressemblaient plus qu’il n’aurait toléré de l’admettre. Alors il fit, debout dans la cendre, le geste qu’il faisait à sa table devant une pièce qui n’entre nulle part : il chercha à quel dossier la joindre. Il en avait une maison pleine, sous une ville, à des jours de là. Il les passa en revue, et il les passa vite, parce qu’aucun n’était de cette affaire-là.
 
 Dans la pierre sous la pente, une chose montait qui arriverait la dernière et prendrait le premier numéro, et tout le classement au-dessus d’elle en deviendrait la suite.

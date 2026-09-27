@@ -101,7 +101,7 @@ Elle se détacha de la chaise vide qu’elle n’avait pas prise et fit un pas l
 
 « Il est scellé.
 
-— Il est scellé. Il faut le sceller mieux. » Elle s’arrêta à l’entrée de la travée sans y entrer, comme on s’arrête au seuil d’une chambre où dort un malade. « Vous tenez là-dedans un petit coffre noir marqué de trois mots. Une copie ancienne, versée à l’Ère V, classée à ne pas ouvrir. Il faut deux clefs pour le lever ; vous en avez une. » Un temps. « Il y a deux mois, une réquisition est montée de chez vous. Aux fins de confrontation. Elle était en règle, chaque mot en était vrai, et elle porte votre nom au bas et rien au-dessus. Je l’ai lue trois fois. »
+— Il est scellé. Il faut le sceller mieux. » Elle s’arrêta à l’entrée de la travée sans y entrer, comme on s’arrête au seuil d’une chambre où dort un malade. « Vous tenez là-dedans un petit coffre noir marqué de trois mots. Une copie ancienne, versée à l’Ère V, classée à ne pas ouvrir. Il faut deux clefs pour le lever ; vous en avez une. » Un temps. « Il y a dix jours, une réquisition est montée de chez vous. Aux fins de confrontation. Elle était en règle, chaque mot en était vrai, et elle porte votre nom au bas et rien au-dessus. Je l’ai lue trois fois. »
 
 Vaskar l’avait écrite lui-même, à la troisième heure, en sachant très bien quel motif elle recouvrait et qu’aucune de ses lignes ne le portait. On avait fermé ce coffre contre deux hommes ; une chemise en règle passait par-dessus les deux. Il l’avait compris cette nuit-là. Il apprenait ce soir que la chemise avait continué de monter sans lui.
 
@@ -191,7 +191,7 @@ Il resta là-dessus un moment, puis il se leva.
 
 Il prit la lampe et descendit jusqu’à la travée du fond.
 
-Le petit fer noir était à sa cote, à sa place, avec ses trois mots tracés dans une écriture que plus aucune bouche vivante ne savait dire. Il posa la lampe sur le casier voisin, sortit sa clef, la tint un instant dans le froid. Il ne l’ouvrit pas. Il l’avait ouvert une fois, deux mois plus tôt, avec une réquisition en règle et la clef d’un autre ; cette nuit, il n’avait aucun motif à porter sur une ligne, et rien ne se tournait ici sans une ligne pour le dire.
+Le petit fer noir était à sa cote, à sa place, avec ses trois mots tracés dans une écriture que plus aucune bouche vivante ne savait dire. Il posa la lampe sur le casier voisin, sortit sa clef, la tint un instant dans le froid. Il ne l’ouvrit pas. Il l’avait ouvert une fois, dix jours plus tôt, avec une réquisition en règle et la clef d’un autre ; cette nuit, il n’avait aucun motif à porter sur une ligne, et rien ne se tournait ici sans une ligne pour le dire.
 
 Il resta pourtant, la clef contre le fer, plus longtemps qu’il n’en fallait, à écouter, sans se l’avouer, s’il ne venait pas du dedans quelque chose, une chaleur, un mot, une cadence. Rien n’en vint. Le fer était froid, muet, un fer parmi les fers. Il rangea sa clef.
 

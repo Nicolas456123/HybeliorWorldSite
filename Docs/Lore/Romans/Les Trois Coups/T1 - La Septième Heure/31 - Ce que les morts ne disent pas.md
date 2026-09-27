@@ -53,7 +53,7 @@ Peut-être. Il ne savait pas, et il tenait à ne pas savoir : c’était la seu
 
 Il avait lu la montagne, pourtant. C’était sa part, et on l’avait amené jusqu’ici pour cela, avant que l’huile ne baissât tout à fait.
 
-Un mois plus tôt, Aelindra et la fille du forgeron l’avaient hissé sur le flanc du Mont aussi haut que ses jambes le permettaient, puis plus haut encore en le portant, jusqu’à une corniche de roche noire d’où l’on dominait Cendral. Là, dans le froid, le souffle court, il avait ouvert son écoute.
+Trois jours plus tôt, Aelindra et la fille du forgeron l’avaient hissé sur le flanc du Mont aussi haut que ses jambes le permettaient, puis plus haut encore en le portant, jusqu’à une corniche de roche noire d’où l’on dominait Cendral. Là, dans le froid, le souffle court, il avait ouvert son écoute.
 
 Il y avait des morts anciens, comme partout où les hommes vivent depuis longtemps, et l’on vivait au flanc de ce mont depuis avant les chroniques. Ce qu’il était venu lire se tenait plus haut. Sera appelait ce lieu le Premier Ancrage, l’endroit où le fil de tout se noue au plus serré ; ces mots-là non plus n’étaient pas les siens. Ce qu’il toucha, sur la corniche, dans l’air trop mince pour ses poumons, était une foule. Tous les morts mal partis du monde semblaient refluer vers ce point, s’y entasser, s’y gêner, dans un malaise qui approchait de la souffrance. Le seuil des morts et le seuil de la Trame étaient le même seuil. Il l’avait pressenti toute sa vie ; ce jour-là, il le toucha du doigt.
 

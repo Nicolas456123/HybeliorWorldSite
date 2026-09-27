@@ -203,7 +203,7 @@ Depuis douze jours sur la Plaine, et sans le savoir depuis bien plus longtemps, 
 
 Les jours où elle l’avait presque perçu, elle avait cru que c’était le vent dans une combe. Ou son propre sang, la nuit, quand elle veillait. Ou les morts. Le chanteur d’Alkaran lui avait dit un jour que les morts n’étaient jamais tout à fait silencieux, qu’il y avait sous le silence des vivants le grand chuchotis patient de ceux qui poussaient contre la porte.
 
-Mais le chanteur aurait fait la différence. Il l’avait presque dite, une fois, à la Forge-Basse, avant de mourir : qu’aux abords des Failles il entendait des voix d’un autre genre, des gens *ailleurs*, et que ça le déroutait plus que tous les morts du monde, parce qu’un mort, au moins, on sait où il est. Ces voix-là, il ne savait pas où elles étaient, ni quand. Elles parlaient toutes en même temps de temps différents, disait-il, et ça faisait, tout au fond, une rumeur : une foule qui ne s’accorde jamais sur l’heure qu’il est.
+Mais le chanteur aurait fait la différence. Il l’avait presque dite, une fois, à la Forge-Basse, avant de mourir : qu’il entendait depuis un an des morts d’un autre genre, des morts *ailleurs*, et que ça le déroutait plus que tous les autres, parce qu’un mort, d’ordinaire, on sait où il est. Ces voix-là, il ne savait pas où elles étaient, ni quand. Elles parlaient toutes en même temps de temps différents, disait-il, et ça faisait, tout au fond, une rumeur : une foule qui ne s’accorde jamais sur l’heure qu’il est.
 
 Cette rumeur-là venait de cesser.
 

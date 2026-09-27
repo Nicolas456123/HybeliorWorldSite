@@ -12,11 +12,11 @@ status: draft
 
 La petite, il l’entendit avant de voir le bourg.
 
-Trente lieues de cols et de basses terres l’avaient mené là, le bâton de sa mère usé d’un pouce à force de le planter dans la caillasse. Sur les derniers milles, il s’était guidé sur la chambre. Deux jours qu’il la tenait entrouverte, au prix d’un peu de sang chaque soir, roulé dans la manche ; en pays où personne ne le connaissait, on pouvait saigner sans qu’un garçon aux yeux francs vînt vous le reprocher. Depuis l’aube, dans la vallée mouillée où les rivières faisaient les villages, quelque chose le tirait vers l’ouest par le fond du sternum, tout doux, sans jamais lâcher. Un Errant tirait autrement. C’était plus clair, plus vif : une chambre à peine ouverte, toute neuve, qui laissait entrer et sortir sans savoir qu’on pouvait fermer.
+Cent lieues de cols, de mer et de basses terres l’avaient mené là, le bâton de sa mère usé d’un pouce à force de le planter dans la caillasse. Sur les derniers milles, il s’était guidé sur la chambre. Deux jours qu’il la tenait entrouverte, au prix d’un peu de sang chaque soir, roulé dans la manche ; en pays où personne ne le connaissait, on pouvait saigner sans qu’un garçon aux yeux francs vînt vous le reprocher. Depuis l’aube, dans la vallée mouillée où les rivières faisaient les villages, quelque chose le tirait vers l’ouest par le fond du sternum, tout doux, sans jamais lâcher. Un Errant tirait autrement. C’était plus clair, plus vif : une chambre à peine ouverte, toute neuve, qui laissait entrer et sortir sans savoir qu’on pouvait fermer.
 
 Un enfant. Un enfant qui entendait, et que les morts avaient déjà trouvé.
 
-À l’entrée du bourg, contre un muret bas où quelqu’un avait mis des pommes à sécher, Ombreth ferma les yeux pour être sûr. À son âge, dans son état, on ne descend pas trente lieues pour se tromper de porte.
+À l’entrée du bourg, contre un muret bas où quelqu’un avait mis des pommes à sécher, Ombreth ferma les yeux pour être sûr. À son âge, dans son état, on ne passe pas la mer pour se tromper de porte.
 
 Oui, elle était là. Quelque part devant, un peu à droite, vers un toit d’où montait une fumée trop noire pour une cuisine, trop grasse : la fumée d’un feu qu’on entretient pour le fer et non pour la soupe. Autour de cette chambre neuve, tout autour, l’air était plein. Ils étaient plusieurs, une file de présences qui se pressaient contre la petite oreille comme des gens contre un puits, chacune voulant boire avant les autres, chacune poussant.
 
@@ -50,7 +50,7 @@ D’un pas, il descendit une marche. Le marteau revint sur l’établi, pas loin
 
 *
 
-Ombreth avait préparé cette phrase pendant trente lieues, et pendant trente lieues il n’avait pas trouvé la bonne. Aucune n’était bonne. On ne dit pas à une mère *votre fille entend les morts* sans faire d’elle, dans la seconde, une ennemie ou une désespérée. Il était venu quand même ; et là, sur la dernière marche, dans la chaleur du feu, il prit celle qui était vraie.
+Ombreth avait préparé cette phrase pendant cent lieues, et pendant cent lieues il n’avait pas trouvé la bonne. Aucune n’était bonne. On ne dit pas à une mère *votre fille entend les morts* sans faire d’elle, dans la seconde, une ennemie ou une désespérée. Il était venu quand même ; et là, sur la dernière marche, dans la chaleur du feu, il prit celle qui était vraie.
 
 « Je viens pour l’enfant. »
 
@@ -110,7 +110,7 @@ Ombreth s’assit sur la marche, parce que ses jambes ne le portaient plus debou
 
 « Demander quoi. »
 
-Ombreth releva la tête, la regarda dans les yeux, et dit la chose pour laquelle il avait marché trente lieues.
+Ombreth releva la tête, la regarda dans les yeux, et dit la chose pour laquelle il avait fait cent lieues.
 
 « De ne pas la couper. »
 
@@ -136,7 +136,7 @@ Et Ombreth le dit, sachant très bien ce que ça allait lui coûter :
 
 Ça sortit nu, plus laid qu’il ne l’aurait voulu, et il le sut avant même d’avoir fini. Il le laissa entre eux, sur la terre battue, comme on pose une pièce sur un comptoir.
 
-« Vous voudriez qu’elle vous hérite, dit la femme, très lentement, comme si elle soupesait chaque mot avant de le lâcher. Vous. Un mort en sursis. Vous descendez trente lieues pour demander à une mère de garder à sa fille la chose même qui la tue : pour que *vous*, vous ne mouriez pas seul de votre espèce. »
+« Vous voudriez qu’elle vous hérite, dit la femme, très lentement, comme si elle soupesait chaque mot avant de le lâcher. Vous. Un mort en sursis. Vous passez la mer pour demander à une mère de garder à sa fille la chose même qui la tue : pour que *vous*, vous ne mouriez pas seul de votre espèce. »
 
 « Oui. »
 

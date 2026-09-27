@@ -169,7 +169,7 @@ Elle relut, hésita. Puis, en dessous, plus petit, elle ajouta une ligne qu’un
 
 *Il n’avait jamais parlé. Aucun d’eux n’a jamais parlé. Celui-là a trouvé des mots pour s’en aller, et je ne sais pas qui les lui a appris.*
 
-Le Cantor Vireth partit à la marée du matin, l’étui de cuivre fermé sous le bras. Il ne dit pas ce qu’il rapporterait à Thalmaris. Orwenne ne le lui demanda pas : il n’en savait rien, cela se voyait, et c’était peut-être tout ce qu’il avait de juste à rapporter.
+Le Cantor Vireth partit au matin pour la côte, l’étui de cuivre fermé sous le bras. Il ne dit pas ce qu’il rapporterait à Thalmaris. Orwenne ne le lui demanda pas : il n’en savait rien, cela se voyait, et c’était peut-être tout ce qu’il avait de juste à rapporter.
 
 Orwenne resta seule au pied de l’Arbre-Mère, avec la petite endormie de fatigue contre une racine, et l’écorce des noms serrée dans son poing. Le jour montait. Les oiseaux, qui depuis trois ans ne chantaient plus tout à fait comme avant dans cette forêt, se turent un instant tous ensemble, sans raison, comme ils faisaient de plus en plus souvent, puis reprirent. Sa vieille nuque trouva l’écorce du plus vieil arbre du monde. Il n’y avait plus rien à écouter. Elle ferma les yeux pour se reposer un peu de tout ce silence.
 

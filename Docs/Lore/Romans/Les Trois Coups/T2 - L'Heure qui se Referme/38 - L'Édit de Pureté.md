@@ -106,7 +106,7 @@ Article deux. Que fussent recensés, marqués et suivis les parents, la fratrie,
 
 Article trois. Que, sur ce fondement, l’apaisement pût être *préventif* : qu’on n’attendît plus le signe, la Phase 1, l’homme qui détourne les yeux d’une lampe ; qu’on prît le foyer entier, le mourant et ceux qui ne mouraient pas encore et ceux qui peut-être ne mourraient jamais, parce qu’attendre le signe, c’était laisser le canal ouvert, et un canal ouvert était, à l’échelle du district, un coût.
 
-Article quatre. Le marquage. Un signe à la porte des foyers recensés ; l’Édit ne disait pas lequel, cela viendrait par circulaire ; un signe pour que le prochain Inspecteur, un plus jeune, un plus sûr, sût d’un coup d’œil quelle maison portait le sang, sans monter, sans voir, sans champ sous les bottes.
+Article quatre. Le marquage. Un signe à la porte des foyers recensés, celui de la circulaire du printemps, étendu de quelques vallées au district entier ; un signe pour que le prochain Inspecteur, un plus jeune, un plus sûr, sût d’un coup d’œil quelle maison portait le sang, sans monter, sans voir, sans champ sous les bottes.
 
 Arrivée au bas, elle revint à l’article trois et le relut. Puis elle reposa le feuillet sur la table, bien à plat, bien parallèle au bord, comme Drahvel posait sa plume.
 
@@ -244,7 +244,7 @@ Il montait. Il était l’article trois fait homme.
 
 Dehors, la cour était grise, la plaine grise, le ciel bas et sourd. Loin à l’est, où l’on ne montait plus, l’horizon tremblait faiblement, comme au-dessus d’une pierre chauffée, à l’endroit des Failles.
 
-Dans la cour, elle détacha son cheval et se mit en selle. La fiole d’un côté du cœur, l’édit de l’autre, le carnet contre l’un des deux. Elle reprit la route du sud, celle qui descendait vers le delta, vers les marges d’Onara, vers une forge où une femme cachait une enfant. Elle allait chercher davantage qu’une enfant, désormais : un foyer, un sang, une porte à marquer d’un signe que la circulaire n’avait pas encore nommé.
+Dans la cour, elle détacha son cheval et se mit en selle. La fiole d’un côté du cœur, l’édit de l’autre, le carnet contre l’un des deux. Elle reprit la route du sud, celle qui descendait vers le delta, vers les marges d’Onara, vers une forge où une femme cachait une enfant. Elle allait chercher davantage qu’une enfant, désormais : un foyer, un sang, une porte à marquer du rond barré qu’elle avait tracé la première, au brai, sur une porte de Vellemont.
 
 Elle avait objecté. Elle savait maintenant ce que valait une objection. Le préfet l’avait vue sur son visage, l’avait pesée, y avait donné raison, et avait signé quand même ; un district a besoin qu’on signe, et rien de ce qu’elle avait à offrir ne se signait. Son doute n’avait pas arrêté l’Édit d’une ligne. Il n’avait servi qu’à une chose : lui montrer, dans un dos droit contre une fenêtre, le visage exact de la femme qu’elle deviendrait le jour où le champ de Ferrec cesserait de la creuser. Une femme sûre, ferme, propre, la dernière main entre les vivants et le gouffre, et qui aurait oublié d’avoir eu mal.
 
@@ -254,4 +254,4 @@ Vers le sud, la phrase l’accompagna, au coin de tout ce qu’elle regardait, e
 
 Elle talonna son cheval et descendit vers les portes qu’elle allait devoir marquer.
 
-Elle avait vu la signature du préfet, nette, au bas du dernier article. À l’est de Tavelpast, sur une plaine d’où aucun Inspecteur ne rapportait plus de chiffre, la terre descendit encore cette nuit-là d’une ligne, et son compte tomba juste, comme toutes les nuits.
+Elle avait vu la signature du préfet, nette, au bas du dernier article. À l’ouest de Tavelpast, par-delà la mer, sur une plaine d’où aucun Inspecteur ne rapportait plus de chiffre, la terre descendit encore cette nuit-là d’une ligne, et son compte tomba juste, comme toutes les nuits.

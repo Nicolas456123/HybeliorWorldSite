@@ -164,7 +164,7 @@ Elle sortit dans la cour. L’air du dehors lui fit du bien, l’air qui ne sent
 
 Article deux. Recensement, marque, suivi. Une marque sur le bois, pour que celui qui viendrait après elle n’eût plus qu’à passer devant : il verrait la maison depuis la route et saurait ce qu’elle contenait sans avoir parlé à personne.
 
-Quelle marque, l’Édit ne le disait pas ; la circulaire suivrait, un jour. En attendant, chaque Inspecteur de terrain faisait la sienne : une croix à la craie, une entaille au couteau dans le montant, ce qu’on voulait, pourvu que le suivant sût la lire.
+La marque, la circulaire des foyers l’avait donnée au printemps : le rond barré, au brai. Le brai manquait dans la moitié des postes, et chaque Inspecteur de terrain faisait avec ce qu’il avait : une croix à la craie, une entaille au couteau dans le montant, ce qu’on voulait, pourvu que le suivant sût la lire.
 
 Vaenor tira son couteau, la lame courte des Inspecteurs, celle qui servait à mille petites besognes et à aucune belle. Elle l’approcha du montant de la porte bleue, à hauteur d’œil, à l’endroit où un homme pressé passe la main sans même regarder.
 
@@ -210,4 +210,4 @@ Elle ne se cachait pas la contradiction. Un carnet lui avait appris, depuis un c
 
 Elle chevaucha vers la forge avec la certitude que non : cela ne lui passerait plus. Elle avait franchi quelque chose devant un montant de bois bleu, et cela ne se défranchissait pas. On lui avait pris son frère, une fois, par ses propres mains. On lui prenait ce matin la dernière chose qu’un Inspecteur garde en appliquant : de n’avoir pas à choisir. Elle avait choisi. Une porte oui, une porte non. Devant chaque porte, désormais, la question se poserait de nouveau, et il n’y aurait personne d’autre qu’elle pour y répondre.
 
-Derrière elle, dans le bourg de Mireuil, un montant de porte restait bleu et intact, à hauteur d’œil, à l’endroit exact où une entaille aurait dû se lire. Elle chevaucha longtemps sans se retourner. La nuit suivante, au sud, une des trois déchirures de la Plaine de Gryndor traversa un chemin de berger à l’allure d’un homme qui marche, et elle emporta les deux maisons qui le bordaient, avec leurs portes et ce qui était marqué dessus.
+Derrière elle, dans le bourg de Mireuil, un montant de porte restait bleu et intact, à hauteur d’œil, à l’endroit exact où une entaille aurait dû se lire. Elle chevaucha longtemps sans se retourner. La nuit suivante, loin à l’ouest, une des trois déchirures de la Plaine de Gryndor traversa un chemin de berger à l’allure d’un homme qui marche, et elle emporta les deux maisons qui le bordaient, avec leurs portes et ce qui était marqué dessus.

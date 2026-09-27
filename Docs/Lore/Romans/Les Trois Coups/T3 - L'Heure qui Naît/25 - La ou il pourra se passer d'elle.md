@@ -13,7 +13,7 @@ status: draft
 
 On disait, dans le sud, qu’une femme recopiait tout ce qu’on lui portait sans jamais demander d’où ça venait.
 
-C’était le genre de chose qu’on entend trois fois avant d’y croire, et Sanne l’avait entendue quatre. Roshel la première, au relais, en poussant vers elle sur la table le paquet de copies pour Prismalith. Doreth ensuite, à Onara, le soir du jaune cousu à Loren, avec l’avertissement d’usage sur les colporteurs qui enjolivent. Merik au moulin mort de Vèdre, entre deux morts qu’on ne s’expliquait pas, et Merik lui avait dit descends. La quatrième fois, c’était la veille au soir, une vieille assise au bord d’un feu de chemin, qui tenait le détail que les trois autres n’avaient pas : la maison de papier avait reçu cet automne les cahiers d’un cartographe. Dix-sept. Un homme qui avait fait le tour du monde et qui était revenu déposer sa carte parce qu’elle était devenue trop grande pour lui.
+C’était le genre de chose qu’on entend trois fois avant d’y croire, et Sanne l’avait entendue quatre. Roshel la première, au relais, en poussant vers elle sur la table le paquet de copies pour Prismalith. Doreth ensuite, à Onara, le soir du jaune cousu à Loren, avec l’avertissement d’usage sur les colporteurs qui enjolivent. Merik au moulin mort de Vèdre, entre deux morts qu’on ne s’expliquait pas, et Merik lui avait dit prends la mer. La quatrième fois, c’était la veille au soir, une vieille assise au bord d’un feu de chemin, qui tenait le détail que les trois autres n’avaient pas : la maison de papier avait reçu cet automne les cahiers d’un cartographe. Dix-sept. Un homme qui avait fait le tour du monde et qui était revenu déposer sa carte parce qu’elle était devenue trop grande pour lui.
 
 Trop grande pour lui. Sanne avait roulé ces mots toute la nuit comme on roule une bille de plomb dans la paume, à froid, pour le poids. Elle ne connaissait pas ce cartographe et ne le connaîtrait pas ; les hommes qui reviennent de partout ne s’arrêtent pas aux feux où s’arrêtent les femmes qui portent. Mais un homme qui rapporte une chose trop grande pour un seul et qui, au lieu de la garder pour en tirer gloire, la pose dans une maison où d’autres mains la reprendront, cet homme-là travaillait comme sa maison à elle travaillait depuis toujours, sans le savoir, à l’autre bout du monde. Elle était restée devant les braises longtemps après que la vieille se fut couchée.
 
@@ -25,7 +25,7 @@ Trois jours qu’il n’y avait personne. Pas un colporteur, pas un rémouleur, 
 
 Elle avait mené Wenna aux gens sûrs quatre jours plus tôt, une ferme de Roche-Longue où une tante prenait les enfants de la route sans poser de question, et elle était repartie seule, comme elle l’avait dit, plus légère d’un souci et plus lourde d’un autre.
 
-Le souci lourd avait son nom depuis un talus, une nuit, après les Trois Auges : il fallait que le cahier pût se passer d’elle. Trois semaines qu’elle marchait avec cette phrase et elle n’en avait pas tiré un geste. Prismalith était loin pour une femme qui ne prenait plus les routes droites. Elle pouvait très bien ne jamais monter l’escalier de la maison de papier. Tout ce qu’elle avait décidé se tenait au bout de ce voyage-là, et si le voyage s’arrêtait avant, il ne resterait rien : une femme prise proprement sur un chemin vide, un paquet mince qu’on emporterait ou qu’on jetterait au feu, et personne au monde pour savoir qu’il avait existé.
+Le souci lourd avait son nom depuis un talus, une nuit, après les Trois Auges : il fallait que le cahier pût se passer d’elle. Dix jours qu’elle marchait avec cette phrase et elle n’en avait pas tiré un geste. Prismalith était loin pour une femme qui ne prenait plus les routes droites. Elle pouvait très bien ne jamais monter l’escalier de la maison de papier. Tout ce qu’elle avait décidé se tenait au bout de ce voyage-là, et si le voyage s’arrêtait avant, il ne resterait rien : une femme prise proprement sur un chemin vide, un paquet mince qu’on emporterait ou qu’on jetterait au feu, et personne au monde pour savoir qu’il avait existé.
 
 Il fallait donc poser quelque chose avant. Tout de suite, sur cette route-ci. Quelque chose qui tienne sans ballot, à l’abri du feu et de la main.
 
@@ -45,9 +45,9 @@ Une fille battait du grain dans la cour quand elle poussa la barrière, et cette
 
 « Tu montes ou tu descends ? » dit la fille, ce qui était la manière du sud de demander qui l’on était sans le demander.
 
-« Je descends. Vers Prismalith.
+« Je monte. Vers Prismalith.
 
-— Tout le monde descend vers Prismalith, cet automne. » La fille planta son fléau dans la gerbe et vint à elle, s’essuyant les mains à son tablier. Dix-sept ans, dix-huit, l’os fin, l’œil noir et rapide, avec aux poignets ces marbrures d’encre qui ne partent pas, la marque de celles qui manient plus de papier que de grain. « On dirait que le monde entier a une chose à y déposer. Tu portes quoi ?
+— Tout le monde monte à Prismalith, cet automne. » La fille planta son fléau dans la gerbe et vint à elle, s’essuyant les mains à son tablier. Dix-sept ans, dix-huit, l’os fin, l’œil noir et rapide, avec aux poignets ces marbrures d’encre qui ne partent pas, la marque de celles qui manient plus de papier que de grain. « On dirait que le monde entier a une chose à y déposer. Tu portes quoi ?
 
 — De la laine à teindre.
 
@@ -61,7 +61,7 @@ Deux ans. Sanne la regarda mieux. Deux ans, ça fait une passeuse qui a pris le 
 
 — On t’a dit vrai pour la fatigue. » Sanne posa son propre ballot contre le mur de la cour, avec lenteur, sans le lâcher tout à fait des yeux, du geste dont on couche un enfant. « Un jour tu apprendras l’autre manière, bas et de côté, tassé, comme si tu n’avais rien. Le jour où tu auras compris de quoi tu te gardes vraiment. »
 
-Nesse la regarda, et dans son œil noir passa cette chose que Sanne avait vue passer dans l’œil de Wenna, l’automne d’avant, au-dessus d’un chemin balayé : le premier soupçon qu’il y a, sous le métier qu’on croyait connaître, un autre métier, plus vieux, qu’on ne vous a pas encore nommé.
+Nesse la regarda, et dans son œil noir passa cette chose que Sanne avait vue passer dans l’œil de Wenna, au début de l’automne, au-dessus d’un chemin balayé : le premier soupçon qu’il y a, sous le métier qu’on croyait connaître, un autre métier, plus vieux, qu’on ne vous a pas encore nommé.
 
 « Tu parles comme la vieille Corrèze, dit la fille, pour reprendre pied. Elle voit des preneurs partout.
 
@@ -73,7 +73,7 @@ Elles mangèrent le soir dans la salle basse, une soupe d’orge, du fromage dur
 
 « On m’a donné une charge pour Prismalith, justement, dit la fille, fière. Des copies. La maîtresse dit que c’est important, en ce moment, tout ce qui va là-bas. Elle dit que la femme de la maison de papier reçoit tout et jette rien.
 
-— Ysolde. » Roshel avait donné le nom au relais, des semaines plus tôt, avec la bourse et le paquet, et Sanne le portait depuis sans en avoir eu l’usage. « On me l’a nommée aussi.
+— Ysolde. » Roshel avait donné le nom au relais, des mois plus tôt, avec la bourse et le paquet, et Sanne le portait depuis sans en avoir eu l’usage. « On me l’a nommée aussi.
 
 — Tu la connais ?
 
@@ -133,7 +133,7 @@ La fille fit non de la tête.
 
 — Et moi je suis quoi, là-dedans ?
 
-— Tu es le morceau qui s’en va. » Sanne referma la toile et renoua le cordon. « Moi j’emporte l’autre vers le sud, et je ne sais pas si je le pose. Toi tu pars vers le haut pays avec ta demi-éraflure dans la tête et tu ne sais pas non plus. Personne n’a besoin de savoir. C’est tout l’intérêt de la chose. »
+— Tu es le morceau qui s’en va. » Sanne referma la toile et renoua le cordon. « Moi j’emporte l’autre vers le nord, et je ne sais pas si je le pose. Toi tu pars vers le haut pays avec ta demi-éraflure dans la tête et tu ne sais pas non plus. Personne n’a besoin de savoir. C’est tout l’intérêt de la chose. »
 
 *
 
@@ -169,6 +169,6 @@ Elle se leva, rangea le cahier sous sa chemise, cala la dernière sangle sous le
 
 « Si un jour on te demande, dit Sanne en bouclant la sangle, où tu tiens cette phrase, tu diras que tu ne sais plus. Que tu l’as entendue quelque part, sur une route, tu ne sais plus de qui. C’est le mieux que tu puisses faire pour elle, et pour toi. Un trait de repère ne porte pas de nom d’ouvrier. C’est même à ça qu’il sert. »
 
-Elle chargea son dos, tassa la charge bas et de côté, comme elle avait dit qu’on apprend à le faire, et sortit dans la cour grise, vers le sud, du même pas que la veille, ni plus vite ni plus lent. Nesse la suivit jusqu’à la barrière et lui dit à la revoyure, qui est ce qu’on se dit dans le métier même quand on sait. Sanne ne se retourna pas. Derrière elle, la fille reprit son fléau et resta un temps sans frapper.
+Elle chargea son dos, tassa la charge bas et de côté, comme elle avait dit qu’on apprend à le faire, et sortit dans la cour grise, vers le nord, du même pas que la veille, ni plus vite ni plus lent. Nesse la suivit jusqu’à la barrière et lui dit à la revoyure, qui est ce qu’on se dit dans le métier même quand on sait. Sanne ne se retourna pas. Derrière elle, la fille reprit son fléau et resta un temps sans frapper.
 
 Sanne ôta ses bottes au ruisseau et prit le gué. Dans la pierre du lit, contre la plante crue de ses pieds, un trait courait, qui s’arrêtait au bord de sa pierre ; et très bas, dans le noir, l’autre moitié du même trait remontait se mettre en face.

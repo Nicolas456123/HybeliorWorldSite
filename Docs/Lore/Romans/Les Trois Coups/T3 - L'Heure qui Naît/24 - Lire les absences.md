@@ -31,7 +31,7 @@ Vaskar finit sa ligne avant de lever les yeux. Il n’y avait que Vellan pour de
 
 Vellan posa sur la table une chemise de cuir mince, dénoua le lacet, et en tira un feuillet couvert d’une écriture serrée, puis une carte des marches où une ligne rouge montait du sud au nord en touchant des points marqués d’une croix.
 
-« La route. Toute la route, du péage bas d’Onara jusqu’à Astravia. Six semaines de trous, et les trous font une ligne.
+« La route. Toute la route, du péage bas d’Onara jusqu’à Corlhaven. Six semaines de trous, et les trous font une ligne.
 
 — Asseyez-vous.
 
@@ -51,7 +51,7 @@ Vellan s’assit, avec un rien de contrariété qu’il maîtrisa vite, et retou
 
 — Et la troisième.
 
-— La troisième, personne ne l’a écrite. » Vellan laissa filer son doigt sur la ligne rouge, entre Vireuil et Astravia, sur un espace nu. « De Vireuil à Astravia, il y a trois jours de marche par la route des postes. On la retrouve à la Porte des Fondeurs d’Astravia le quatrième jour. Compte tenu de Vireuil, cela laisse une nuit sans rien. Pas de gîte, pas de péage, pas de relais. Une nuit qui n’est nulle part. »
+— La troisième, personne ne l’a écrite. » Vellan laissa filer son doigt sur la ligne rouge, entre Vireuil et Corlhaven, sur un espace nu. « De Vireuil à Corlhaven, il y a trois jours de marche par la route des postes. On la retrouve à la porte des Forges de Corlhaven le quatrième jour. Compte tenu de Vireuil, cela laisse une nuit sans rien. Pas de gîte, pas de péage, pas de relais. Une nuit qui n’est nulle part. »
 
 Il se redressa et ouvrit les mains au-dessus de sa carte, comme un homme qui a fini de bâtir et invite à regarder l’édifice.
 
@@ -91,7 +91,7 @@ Vellan ne dit rien. Sa main était restée sur le bord de la carte.
 
 Il posa enfin le doigt sur la troisième portion de la ligne rouge, l’espace nu entre les deux villes.
 
-« Et votre nuit qui manque le dit une troisième fois. Vous y voyez une maison sûre, hors des livres, qui la reçoit dans le noir. Une maison est un lieu, Vellan. Un lieu a un nom, un tenancier, un voisin, une lampe qu’on voit de la route. Un lieu se retrouve ; c’est tout notre métier. Ce que vous appelez la nuit escamotée tient dans ses jambes. Elle a quitté les postes pour le chemin des toucheurs de bêtes, qui prend à flanc, hors de toute barrière, elle a dormi dans un fossé ou marché jusqu’au jour, et elle est ressortie à Astravia par une autre porte que celle où on l’attendait. Cette nuit-là est pleine d’un bout à l’autre. Elle est pleine de marche. »
+« Et votre nuit qui manque le dit une troisième fois. Vous y voyez une maison sûre, hors des livres, qui la reçoit dans le noir. Une maison est un lieu, Vellan. Un lieu a un nom, un tenancier, un voisin, une lampe qu’on voit de la route. Un lieu se retrouve ; c’est tout notre métier. Ce que vous appelez la nuit escamotée tient dans ses jambes. Elle a quitté les postes pour le chemin des toucheurs de bêtes, qui prend à flanc, hors de toute barrière, elle a dormi dans un fossé ou marché jusqu’au jour, et elle est ressortie à Corlhaven par une autre porte que celle où on l’attendait. Cette nuit-là est pleine d’un bout à l’autre. Elle est pleine de marche. »
 
 Il ramena la carte au milieu de la table, entre eux deux, et l’aplatit du tranchant de la main.
 
@@ -123,7 +123,7 @@ Vellan resta longtemps sur sa carte. Vaskar le laissa faire et reprit son propre
 
 Vellan roula sa carte, lentement, et le rouge disparut dans le cuir.
 
-« Vous corrigez tout le monde, dit-il, sans aigreur, presque avec curiosité. Le commis, l’an dernier. Moi, ce soir. Vous ne laissez jamais un chiffre de travers.
+« Vous corrigez tout le monde, dit-il, sans aigreur, presque avec curiosité. Le commis, cet été. Moi, ce soir. Vous ne laissez jamais un chiffre de travers.
 
 — Une pièce mal rangée ne se retrouve pas. Elle est là, elle a sa cote, et elle est perdue quand même. Le faux tient mieux que le vrai : il arrange, et l’on ne revient jamais défaire ce qui arrange. » Il le regarda, et il y avait, sous la platitude, quelque chose qui ne s’expliquait pas. « Il y a longtemps, j’ai laissé une série tranquille. Chaque pièce à sa case, chaque case à sa ville, le rang bien droit. J’ignore ce que ce rang-là a coûté, et je l’ignorerai jusqu’au bout. Alors je corrige ce qui est devant moi, tant que c’est devant moi. C’est peu. Je n’ai pas trouvé mieux. »
 
@@ -139,7 +139,7 @@ Il aurait pu dire, sans l’avoir vue, ce qu’elle ne faisait jamais. Elle n’
 
 Il déplia sa propre carte, celle qu’il n’avait pas montrée. Des croix à l’encre ordinaire, une par manque relevé, avec sa date en dessous et son rang, numérotées dans l’ordre où il les avait trouvées, comme il aurait coté des pièces d’un même versement. Il prolongea la ligne par les deux bouts.
 
-Vers le haut, elle montait au nord, vers Cendara et le Mont qui battait. Cela, il l’avait su. Tout montait au nord cette année, les pèlerins, les enfants aux yeux blancs, les rumeurs, comme si le monde s’était incliné d’un côté.
+Vers le haut, elle montait au nord, vers les collines où ses croix s’arrêtaient. Au-delà, il ne savait rien, sinon que tout bougeait cette année, les pèlerins, les enfants aux yeux blancs, les rumeurs, comme si le monde s’était incliné d’un côté.
 
 Vers le bas, elle descendait. Et en la descendant, croix après croix, poste après poste, jusqu’au premier manque, le plus ancien, le plus au sud, Vaskar arrêta son doigt et cessa de respirer un instant.
 

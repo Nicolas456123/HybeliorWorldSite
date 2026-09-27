@@ -151,7 +151,7 @@ Elle sortit dans le vent du port, et ne se retourna plus.
 
 ---
 
-Elle rentra aux îles ce soir-là, sur la marée qu’elle avait failli manquer. Trois jours durant, elle laissa l’affaire au mouillage au fond d’elle, ni larguée ni relevée. Elle ne l’oublia pas un seul de ces trois jours.
+Elle reprit la route des îles ce soir-là, sur la marée qu’elle avait failli manquer. Huit jours de mer durant, elle laissa l’affaire au mouillage au fond d’elle, ni larguée ni relevée. Elle ne l’oublia pas un seul de ces huit jours.
 
 Les gens à taches d’encre revinrent. D’autres qu’eux, plus tard, une autre saison. Un homme de la Ligue dans un tripot, une bourse trop lourde, quatre passagers à porter du continent vers le continent par un grand détour, et un mot, un seul, à cause duquel elle prendrait la bourse : *la mer ne le dira à personne.* Mais cela, c’était encore devant elle.
 

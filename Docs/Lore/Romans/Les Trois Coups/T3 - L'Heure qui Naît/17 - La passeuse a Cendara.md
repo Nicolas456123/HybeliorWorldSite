@@ -57,13 +57,13 @@ Renna n’eut pas le temps d’en demander plus. Elle souleva le loquet.
 
 La femme était grande, bâtie dur, la quarantaine peut-être, avec des mains qu’on remarquait avant le visage, larges, brûlées par places, les ongles fendus, des mains qui avaient tenu du chaud toute une vie. Une lanière lui croisait deux fois la poitrine, la charge tassée haut sur le dos. À son côté se tenait une gamine de dix ou douze ans, maigre, l’œil vif, qui regardait l’intérieur de la maison par la fente de la porte comme on lit un endroit avant d’y entrer.
 
-« Le vieux, en bas, m’a dit qu’on teignait à la guède, ici, dit la femme, sans préambule et sans bonjour. J’ai de la laine à teindre et pas de teinturière depuis trois villages. Je paie en sel ou en fil, comme tu veux. »
+« Le vieux, en bas, m’a dit qu’on teignait à la guède, ici, dit la femme, sans préambule et sans bonjour. J’ai de la laine à teindre et pas de teinturière depuis trois villages. Je paie en sel ou en fil, comme vous voulez. »
 
 C’était un mensonge, et un bon, et Renna le reconnut pour tel à ceci qu’il était vérifiable : la femme avait bel et bien de la laine, la montrait, la tendait, un écheveau grège sorti du ballot. On ne monte pas un mensonge qui se prouve, à moins de savoir que c’est le seul genre qui tienne. Renna teignait, c’était su au village, et en demandant de la teinture l’étrangère demandait la seule chose qu’on ne pouvait pas lui refuser sans étrangeté.
 
 « On teint quand la guède est prête, dit Renna. Elle ne l’est pas. Il faut trois jours de cuve.
 
-— Alors je reste trois jours. » La femme ne cilla pas. « Si tu loges. Sinon je loge en bas et je remonte. »
+— Alors je reste trois jours. » La femme ne cilla pas. « Si vous logez. Sinon je loge en bas et je remonte. »
 
 Derrière Renna, dans l’ombre, l’enfant remua. La femme le vit. Renna sentit l’instant où elle le vit, à un arrêt : la femme ne bougea pas, et ce fut une seconde de trop où son regard, qui avait couru partout, revint au renfoncement et y demeura. Renna connaissait l’œil de ceux de Caeloria, qui évalue et qui range. Celui-ci se posa sur Ilex comme sur un visage rencontré très loin en arrière, dans une vie ou dans un récit, et qu’on n’espérait plus voir en chair.
 
@@ -79,7 +79,7 @@ Elles firent la soupe en parlant de laine, parce qu’il fallait bien parler de 
 
 « Celui-là ne prendra pas, dit-elle. Trop gras. Il faudrait le dégraisser deux fois avant de le mettre au bain. Sinon la couleur reste posée dessus et s’en va au premier lavage.
 
-— Chez nous c’est pareil, dit Sanne. Un fer qu’on n’a pas assez chauffé, la trempe ne mord pas dedans, elle glisse. Tu crois que c’est fait et ça casse la première fois que tu t’en sers. » Elle tourna la louche. « Prendre. On dit prendre, nous aussi. C’est drôle, les métiers. Ils ne se parlent jamais et ils ont les mêmes mots. »
+— Chez nous c’est pareil, dit Sanne. Un fer qu’on n’a pas assez chauffé, la trempe ne mord pas dedans, elle glisse. On croit que c’est fait et ça casse la première fois qu’on s’en sert. » Elle tourna la louche. « Prendre. On dit prendre, nous aussi. C’est drôle, les métiers. Ils ne se parlent jamais et ils ont les mêmes mots. »
 
 Renna reposa l’écheveau sur le banc et laissa la phrase où elle était. Ce fut Ilex, à la fin, qui rompit le silence, parce qu’il n’avait jamais appris à le tenir.
 
@@ -93,7 +93,7 @@ Renna reposa l’écheveau sur le banc et laissa la phrase où elle était. Ce f
 
 Sanne mit longtemps à répondre, et Renna la regarda chercher. La femme cherchait ses mots à tâtons, dans le noir, comme un objet dont on connaît la forme et pas la place. Elle posait un mot, le retirait, en essayait un autre, s’arrêtait au bord d’une phrase et la reprenait par un autre bout. Renna connaissait cette manière-là mieux qu’aucune autre au monde, parce que c’était la sienne les rares fois où il avait fallu dire ce qu’elle entendait, et parce que c’était aussi, exactement, celle de l’enfant quand le mot d’en bas essayait de passer par sa bouche. Deux femmes faites et un petit de six ans, et les trois butaient au même endroit de la phrase.
 
-« Depuis quand tu l’entends, toi, dit enfin Sanne, à Renna, sans détour cette fois.
+« Depuis quand vous l’entendez, vous, dit enfin Sanne, à Renna, sans détour cette fois.
 
 — Je n’entends rien.
 
@@ -101,9 +101,9 @@ Sanne mit longtemps à répondre, et Renna la regarda chercher. La femme chercha
 
 Renna tenait sa cuiller sans manger. Elle s’était crue seule à porter cette folie, seule de sa lignée, seule de son espèce, la femme qu’on tolère mal parce qu’elle sait ; et voilà qu’une inconnue montée d’on ne savait où la disait à sa table, avec les mêmes trébuchements, et un tisonnier dans le poing pour tenir la main tranquille.
 
-« Tu es de ma sorte », dit-elle. Le mot sortit avant qu’elle l’eût pesé, et elle resta la cuiller en l’air, à l’entendre dans la pièce.
+« Vous êtes de ma sorte », dit-elle. Le mot sortit avant qu’elle l’eût pesé, et elle resta la cuiller en l’air, à l’entendre dans la pièce.
 
-« Non, dit Sanne. Pas tout à fait. Tu entends, toi. Ça, je le vois. Moi je ne fais que sentir, par le dos, du gros bout, comme on sent qu’un fer va casser avant qu’il casse, sans savoir pourquoi ni où. C’est plus bête que ce que tu as, plus sourd. Mais je porte, en revanche. Et toi aussi tu portes. Autre chose. On finit par se reconnaître, ceux qui portent. À la façon de tenir le dos. »
+« Non, dit Sanne. Pas tout à fait. Vous entendez, vous. Ça, je le vois. Moi je ne fais que sentir, par le dos, du gros bout, comme on sent qu’un fer va casser avant qu’il casse, sans savoir pourquoi ni où. C’est plus bête que ce que vous avez, plus sourd. Mais je porte, en revanche. Et vous aussi vous portez. Autre chose. On finit par se reconnaître, ceux qui portent. À la façon de tenir le dos. »
 
 *
 
@@ -113,25 +113,25 @@ Renna la sentit monter dans son sommeil et s’éveilla avant qu’elle fût ple
 
 Elles ne parlèrent pas pendant que ça montait. On ne parle pas pendant. Renna fit ce qu’elle savait faire, et quand la poussée reflua, quand le sol reprit son souffle, elle s’aperçut que Sanne l’avait regardée faire, tout du long, avec une avidité tranquille.
 
-« Tu sais t’en défaire, dit la femme dans le noir. Tu te décroches. Je t’ai vue. Comment on fait ?
+« Vous savez vous en défaire, dit la femme dans le noir. Vous vous décrochez. Je vous ai vue. Comment on fait ?
 
 — On pense à des choses plates. Le sel. Les fèves. On tient les yeux baissés sur du travail.
 
-— Le sel et les fèves. » Sanne regarda les braises un moment. « Toute une vie à te faire des remparts avec du sel et des fèves. » Puis, plus bas, avec ce trébuchement que Renna guettait maintenant comme un signe de vérité : « Le mien, je ne peux pas m’en défaire pareil, parce que le mien, je le porte. Il est là. »
+— Le sel et les fèves. » Sanne regarda les braises un moment. « Toute une vie à vous faire des remparts avec du sel et des fèves. » Puis, plus bas, avec ce trébuchement que Renna guettait maintenant comme un signe de vérité : « Le mien, je ne peux pas m’en défaire pareil, parce que le mien, je le porte. Il est là. »
 
-Sous la lueur des braises, elle fit sauter la lanière et tira de sous sa chemise un paquet mince, toile cirée et laine, ficelé d’un cordon sans couleur. Elle ne l’ouvrit pas, elle le mit sur ses genoux et laissa la main dessus, et ce fut tout ; et Renna comprit, à ce seul geste, qu’elle venait de voir ce que cette femme avait de plus caché au monde, et qu’elle n’en verrait pas une page.
+Sous la lueur des braises, elle fit sauter la lanière et tira de sous sa chemise un paquet mince, toile cirée et laine, ficelé d’un cordon sans couleur. Elle le mit sur ses genoux et laissa la main dessus un temps avant de défaire le cordon ; et Renna comprit, à ce seul geste, qu’elle allait voir ce que cette femme avait de plus caché au monde.
 
 « C’est un cahier, dit Sanne. De ma maison. Il vient de ma mère, et d’avant ma mère, et d’encore avant, jusque-là où le compte s’arrête : mille ans, dix mille, on ne compte plus. Je l’ai ouvert une fois, cette saison, parce que le monde s’est mis à me le demander. » Elle chercha. « Dedans, c’est presque tout perdu. Les pages sont mangées, l’encre a passé, on n’en lit plus que des bouts. Sauf une phrase, qui n’a pas bougé, qui tient droite au milieu du reste comme un poteau dans une grange effondrée. Et deux ou trois autres endroits, obscurs, dont je n’ai jamais rien tiré. »
 
-« Pourquoi tu me montres ça, dit Renna. Tu ne me connais pas.
+« Pourquoi vous me montrez ça, dit Renna. Vous ne me connaissez pas.
 
-— Parce qu’il y a un de ces endroits obscurs, dit Sanne, et sa voix se posa, dure au début et douce à la fin comme tout ce qu’elle disait, que je n’ai jamais compris de ma vie, et que j’ai compris cet après-midi, sur le pas de ta porte, en voyant ton petit. » Elle regarda le renfoncement, l’enfant tourné au sud. « Il y a une ligne, là-dedans, sur ceux qui entendent le fer avant qu’il chante. Je croyais que c’était une façon de dire, un tour de forgeron, une image pour parler des bons ouvriers. Ma mère parlait comme ça, en fer, tout le temps. Et puis ton petit m’a dit que mon dos entendait, et j’ai su qu’on ne parlait pas en images. Que quelqu’un, il y a très longtemps, a mis par écrit, en toutes lettres, qu’il existe des gens faits pour entendre ce qui monte, et qu’il l’a écrit du ton dont on écrit une chose qu’on a vue. » Elle appuya le plat des doigts sur la toile. « J’ai porté ça toute ma vie sans savoir que ça parlait de gens comme ton enfant. Comme toi. »
+— Parce qu’il y a un de ces endroits obscurs, dit Sanne, et sa voix se posa, dure au début et douce à la fin comme tout ce qu’elle disait, que je n’ai jamais compris de ma vie, et que j’ai compris cet après-midi, sur le pas de votre porte, en voyant votre petit. » Elle regarda le renfoncement, l’enfant tourné au sud. « Il y a une ligne, là-dedans, sur ceux qui entendent le fer avant qu’il chante. Je croyais que c’était une façon de dire, un tour de forgeron, une image pour parler des bons ouvriers. Ma mère parlait comme ça, en fer, tout le temps. Et puis votre petit m’a dit que mon dos entendait, et j’ai su qu’on ne parlait pas en images. Que quelqu’un, il y a très longtemps, a mis par écrit, en toutes lettres, qu’il existe des gens faits pour entendre ce qui monte, et qu’il l’a écrit du ton dont on écrit une chose qu’on a vue. » Elle appuya le plat des doigts sur la toile. « J’ai porté ça toute ma vie sans savoir que ça parlait de gens comme votre enfant. Comme vous. »
 
 Renna resta longtemps sans répondre. Dans le noir, l’idée se faisait en elle, lentement, énorme, à peine tenable. Ce qu’elle avait pris pour une tare de sa maison, une tache propre à trois ou quatre femmes d’un même sang de cendre, avait déteint ailleurs, sur d’autres, dans d’autres pays, avant elle et sans elle. Quelqu’un l’avait vue chez d’autres. Quelqu’un l’avait jugée assez vraie pour la coucher sur du papier et la faire courir jusqu’à cette nuit. Elle était un maillon.
 
 « Qu’est-ce qu’elle dit, demanda-t-elle enfin, la phrase qui n’a pas bougé. Celle du poteau. »
 
-Sanne n’ouvrit rien. Elle prit son souffle comme on le prend avant une chose apprise très jeune et rarement redite.
+Sanne ouvrit le cahier au pli et pencha la page vers la braise. Elle lut lentement, sans rien mettre dedans.
 
 « Aucun de nous ne le croit vraiment, dit-elle. Nous croyons que c’est inévitable. »
 
@@ -139,7 +139,7 @@ Dans le renfoncement, l’enfant remua. Ses lèvres, qui roulaient depuis un mom
 
 Elle regarda Sanne. Sanne avait entendu, elle aussi, à sa façon sourde, dans le dos ; elle s’était figée, la main sur le cahier, le visage blanc.
 
-« Il l’a dite, souffla la femme. Ta bête sous la terre. Elle a dit ma phrase. »
+« Il l’a dite, souffla la femme. Votre bête sous la terre. Elle a dit ma phrase. »
 
 « Il ne sait pas parler, dit Renna, très vite, trop vite. C’était des bruits. Le Mont, la nuit, ça fait des bruits.
 
@@ -149,27 +149,27 @@ Elle regarda Sanne. Sanne avait entendu, elle aussi, à sa façon sourde, dans l
 
 Elles ne dormirent plus. On ne dort pas après cela. Assises de part et d’autre des braises, elles parlèrent bas pour ne pas réveiller la petite, et ce fut cette heure sans nom, entre la nuit et le gris, qui leur apprit qu’on les chassait toutes les deux.
 
-« On te cherche, dit Sanne. Je l’ai vu en montant. Une femme, en bas, m’a demandé si je venais de Caeloria, avec cette peur particulière qu’ont les gens quand ceux de Caeloria sont déjà venus. Ils tournent autour de ton petit.
+« On vous cherche, dit Sanne. Je l’ai vu en montant. Une femme, en bas, m’a demandé si je venais de Caeloria, avec cette peur particulière qu’ont les gens quand ceux de Caeloria sont déjà venus. Ils tournent autour de votre petit.
 
-— Ils tournent autour de tous les enfants qui ne sont pas comme les autres. Ils paient. Ils disent qu’on en prend soin. » Renna serra les bras autour de ses genoux. « Toi aussi on te cherche.
+— Ils tournent autour de tous les enfants qui ne sont pas comme les autres. Ils paient. Ils disent qu’on en prend soin. » Renna serra les bras autour de ses genoux. « Vous aussi on vous cherche.
 
-— Moi aussi. » Sanne regarda le feu. « Pas les mêmes, ou bien les mêmes, je ne sais pas. Les miens ne paient personne et ne parlent de prendre soin de rien. Ils ne demandent rien non plus, et c’est ça qui les rend pires. Ils rangent. Ils prennent celui qui porte, ils laissent le papier, ils vident la route derrière eux et ils la laissent propre, si propre que tu crois d’abord qu’il n’y a rien. Le rien, c’est leur ouvrage. »
+— Moi aussi. » Sanne regarda le feu. « Pas les mêmes, ou bien les mêmes, je ne sais pas. Les miens ne paient personne et ne parlent de prendre soin de rien. Ils ne demandent rien non plus, et c’est ça qui les rend pires. Ils rangent. Ils prennent celui qui porte, ils laissent le papier, ils vident la route derrière eux et ils la laissent propre, si propre qu’on croit d’abord qu’il n’y a rien. Le rien, c’est leur ouvrage. »
 
 Renna sentit à ce mot un froid qu’elle connaissait remonter le long de ses bras. Ils rangent. La Corvane était venue poser un pot de sang tiède sur cette table et lui dire que ce qui n’est au registre de personne est à qui met la main dessus le premier. Renna avait cru que cette manie de mettre les êtres en ordre comme des chiffres appartenait à la Corvane, à Caeloria, à sa petite peur de vallée. Cette nuit-là, elle apprit que la même voix parlait plus loin et plus grand, et qu’elle rangeait des femmes comme Sanne dans des routes vides du sud, du geste calme dont on rangeait Renna dans un registre de halle.
 
-« C’est une seule main, dit-elle lentement. Celle qui te range et celle qui me compte. Je le sens. C’est le même froid.
+« C’est une seule main, dit-elle lentement. Celle qui vous range et celle qui me compte. Je le sens. C’est le même froid.
 
 — Peut-être. » Sanne ne trancha pas ; Renna remarqua qu’elle ne tranchait jamais, qu’elle posait les choses côte à côte sans les souder. « Ou deux mains qui ne se connaissent pas et qui font le même geste chacune de son côté, parce que le monde entier s’est mis, cette saison, à vouloir ranger ce qu’il ne comprend pas. Je ne sais pas laquelle des deux, et je ne l’apprendrai jamais. Alors je n’écris rien à cette ligne. Un creux qu’on bouche avec un nom reste un creux, et on a un faux nom en plus. »
 
 Derrière le volet, le gris prenait, sans soleil dedans. Wenna dormait encore. L’enfant s’était rendormi, la joue au sud, la main ouverte sur la terre. Sanne renfonça le paquet contre sa peau, sous la chemise, reprit la lanière, deux tours de poitrine, le nœud sous l’aisselle, sans regarder ses mains ; et Renna sut à ce geste qu’elle partait, que la guède n’aurait pas ses trois jours, et qu’on laissait retomber le mensonge de la teinture puisqu’il avait servi.
 
-« Tu ne restes pas, dit-elle.
+« Vous ne restez pas, dit-elle.
 
-— Deux qui portent sous le même toit, ça fait deux cibles au lieu d’une. Un vieux m’a dit ça il n’y a pas longtemps, et il avait raison, ce qui m’a fâchée. » Sanne se leva. « Je descends vers le sud. On m’a parlé d’une maison de papier, là-bas, où l’on recopie ce qu’on apporte et où l’on ne demande rien à personne. C’est là qu’on dépose, en ce moment, les choses trop grandes pour un seul dos. Je vais poser le mien où des mains le trouveront. Pas dans un trou. Sur une table, au milieu des autres. Personne ne me croit quand je le dis. »
+— Deux qui portent sous le même toit, ça fait deux cibles au lieu d’une. Un vieux m’a dit ça de l’autre côté de la mer, et il avait raison, ce qui m’a fâchée. » Sanne se leva. « Je monte vers le nord. On m’a parlé d’une maison de papier, là-bas, où l’on recopie ce qu’on apporte et où l’on ne demande rien à personne. C’est là qu’on dépose, en ce moment, les choses trop grandes pour un seul dos. Je vais poser le mien où des mains le trouveront. Pas dans un trou. Sur une table, au milieu des autres. Personne ne me croit quand je le dis. »
 
-« Et ton enfant à toi, dit Renna. La petite.
+« Et votre enfant à vous, dit Renna. La petite.
 
-— Ce n’est pas mon enfant. Je la mène chez des gens sûrs, et je repars seule, avec un souci de moins et un autre à sa place. » La femme la regarda, et son regard, dur d’ordinaire, s’était fait presque doux. « Le tien, tu ne peux pas le mener à des gens sûrs. Il n’y a pas de gens sûrs pour un enfant qui entend le fer avant qu’il chante. Je le sais maintenant, à cause de toi. Il n’y a que toi, et le Mont, et le froid qui vous cherche tous les deux. »
+— Ce n’est pas mon enfant. Je la mène chez des gens sûrs, et je repars seule, avec un souci de moins et un autre à sa place. » La femme la regarda, et son regard, dur d’ordinaire, s’était fait presque doux. « Le vôtre, vous ne pouvez pas le mener à des gens sûrs. Il n’y a pas de gens sûrs pour un enfant qui entend le fer avant qu’il chante. Je le sais maintenant, à cause de vous. Il n’y a que vous, et le Mont, et le froid qui vous cherche tous les deux. »
 
 *
 
@@ -185,18 +185,18 @@ Au tournant, Ilex se pencha depuis le bras de Renna vers Sanne, et posa la main,
 
 Sanne regarda longtemps ce petit visage transparent qui savait des choses qu’aucun visage de six ans ne devrait savoir, puis elle regarda Renna ; et entre les deux femmes passa, sans rien ajouter, tout ce qu’elles n’avaient pas eu besoin de se dire : l’une qui entendait, l’autre qui portait, la même chose entrée dans les deux par deux portes différentes ; et qu’elles ne se reverraient sans doute pas, et que cela aussi était dans l’ordre.
 
-« Si un jour tu descends dans le sud, dit Sanne, cherche une archiviste, à Prismalith, qui recopie sans juger. Dis-lui que la femme au cahier t’a menée. Elle gardera ton petit dans ses papiers, au moins. Un enfant qu’on a couché sur du papier, on ne peut plus le faire disparaître tout à fait. C’est peu. C’est mon ouvrage, à moi : coucher les choses sur du papier pour qu’elles survivent à la main qui les tenait. »
+« Si un jour vous montez vers le nord, dit Sanne, cherchez une archiviste, à Prismalith, qui recopie sans juger. Dites-lui que la femme au cahier vous a menée. Elle gardera votre petit dans ses papiers, au moins. Un enfant qu’on a couché sur du papier, on ne peut plus le faire disparaître tout à fait. C’est peu. C’est mon ouvrage, à moi : coucher les choses sur du papier pour qu’elles survivent à la main qui les tenait. »
 
-« Je n’irai pas dans le sud, dit Renna. Je ne descends jamais de la vallée. »
+« Je n’irai pas dans le nord, dit Renna. Je ne descends jamais de la vallée. »
 
 « Non, dit Sanne, sans la contredire. Bien sûr que non. »
 
 Et elle s’en alla, la charge haute sur le dos, la petite devant, du pas égal de tout à l’heure, avalée peu à peu par la brume du torrent et par la courbe du sentier ; et Renna resta au tournant du frêne mort, l’enfant sur la hanche, à la regarder décroître, avec dans la bouche le goût tout neuf d’avoir été comprise une fois dans sa vie et de savoir déjà que c’était fini.
 
-« Elle t’a cru, pour le sud, dit Ilex.
+« Elle t’a cru, pour le nord, dit Ilex.
 
 — Non. Un mensonge vrai, ça ne prend pas. Ça reste posé dessus et ça se voit de loin. C’est le seul qu’on ne me croit jamais. »
 
-L’enfant regarda vers le sud d’abord, du côté où la femme s’en allait, puis, plus lentement, vers l’autre sud, celui du Mont, comme si les deux directions, à la fin, n’en faisaient plus qu’une. Renna redescendit vers la maison, l’enfant contre elle. Dans la cour, la guède achevait ses trois jours, et la laine qu’elle devait prendre s’en allait vers le sud.
+L’enfant regarda vers le nord d’abord, du côté où la femme s’en allait, puis, plus lentement, vers le sud, celui du Mont, comme si les deux directions, à la fin, n’en faisaient plus qu’une. Renna redescendit vers la maison, l’enfant contre elle. Dans la cour, la guède achevait ses trois jours, et la laine qu’elle devait prendre s’en allait vers le nord.
 
 Une couleur encore verte travaillait dans l’épaisseur de la pierre, remontant vers l’air du mouvement dont le bleu vient au linge à la sortie de la cuve, quand il rencontre enfin de quoi prendre.

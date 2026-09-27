@@ -50,7 +50,7 @@ Elle traversa le champ seule. Ses hommes restèrent au bord, comme toujours. Tro
 
 Au bruit des mottes sous ses bottes, il se redressa sans hâte, une main au creux des reins, l’autre sur le manche. Quarante ans, peut-être moins ; le visage cuit par le dehors, les mains larges.
 
-Elle cherchait le signe avant même de saluer. C’était l’ordre de ses gestes depuis quinze ans.
+Elle cherchait le signe avant même de saluer. C’était l’ordre de ses gestes depuis vingt ans.
 
 Le signe ne vint pas.
 

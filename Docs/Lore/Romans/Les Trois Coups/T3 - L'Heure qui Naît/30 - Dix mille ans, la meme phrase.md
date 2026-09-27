@@ -13,7 +13,7 @@ status: draft
 
 L’Académie ne dormait jamais tout à fait. En un jour et demi de murs, c’était la première chose que Prismalith avait apprise à Sanne : à n’importe quelle heure creuse, dans cette ville d’écoles et de fonds, une fenêtre jaune tenait tête à la nuit quelque part au-dessus des cours, une bougie qui refusait de laisser mourir une page avant l’aube. C’était la lumière des gens qui ont peur d’oublier.
 
-Sanne portait cette peur sur le dos depuis le nord, sanglée deux fois sur la poitrine. En montant la rue des Copies, elle s’était dit que si le monde gardait quelque part un endroit fait exprès pour elle, ce serait ici ou nulle part.
+Sanne portait cette peur sur le dos depuis le sud, sanglée deux fois sur la poitrine. En montant la rue des Copies, elle s’était dit que si le monde gardait quelque part un endroit fait exprès pour elle, ce serait ici ou nulle part.
 
 La salle des fonds sentait le froid, la colle de peau et la vieille encre. Une bonne odeur, franche, et qui, par les temps qui couraient, valait mieux que le confort. Wenna, qui l’avait rattrapée sur la route du sud et n’avait jamais dit comment, dormait deux pièces plus loin, dans le réduit des apprenties, sur une paillasse enfin propre, et propre pour de bon celle-là, propre de vie et non de guet, ce qu’il avait fallu du temps à Sanne pour accepter. On avait pris la petite sans questions, comme on prend ici tout ce qui arrive écrit ou vivant : on le range, on le nourrit, on ne demande pas d’où ça vient. Sanne avait laissé la porte du réduit entrebâillée. Vieille manie.
 
@@ -25,7 +25,7 @@ La salle des fonds sentait le froid, la colle de peau et la vieille encre. Une b
 
 Trente-cinq ans peut-être. Elle avait la main droite tachée jusqu’au poignet d’une encre qui ne partait plus, et le calme trop plein des gens qui travaillent seuls la nuit depuis des années. Sa lampe posée au bout de la longue table, un tabouret tiré sans façon, Ysolde s’assit en face de Sanne du geste dont on s’assoit à côté d’un feu qu’un autre a monté.
 
-« On m’a dit de vous chercher, dit Sanne. Une femme, loin d’ici, au nord, m’a dit : à Prismalith, une jeune, qui recopie tout ce qu’on lui porte sans juger d’où ça vient. Elle avait un nom. Le vôtre.
+« On m’a dit de vous chercher, dit Sanne. Une femme, loin d’ici, par-delà la mer, m’a dit : à Prismalith, une jeune, qui recopie tout ce qu’on lui porte sans juger d’où ça vient. Elle avait un nom. Le vôtre.
 
 — On dit ça de moi. » Ysolde ne parut ni flattée ni gênée. Elle rangeait un fait. « Ce n’est pas tout à fait vrai. Je juge. Tout le monde juge. Seulement je juge la copie, pas la chose. Je regarde si l’encre tient, si le fil de couture est bon, si la main qui a écrit tremblait ou non. De ce que ça dit, je ne juge rien. Mon métier, c’est que la chose arrive au suivant dans l’état où elle m’est venue, ni plus belle ni moins.
 
@@ -37,7 +37,7 @@ Sanne prit la lampe par le pied et la fit glisser de deux doigts sur la table, s
 
 « Vous avez reçu, cette saison, dit Sanne. Des cahiers. D’un homme qui a fait le tour du monde.
 
-— On en parle jusqu’au nord, à ce que je vois. » De la fatigue passa dans la voix d’Ysolde. « Ils sont ici. Dix-sept. Il les a portés lui-même, il a demandé qu’on les recopie et qu’on les garde, il est reparti. C’est tout ce que je dirai de lui, parce que c’est tout ce que je sais, et le reste que les gens racontent, la carte trop grande, le père sur trois pays, la voix qu’il entendait à ses os, ce sont eux qui le racontent, pas lui. Lui n’a réclamé qu’une chose. Qu’on ne l’arrange pas.
+— On en parle jusque par-delà la mer, à ce que je vois. » De la fatigue passa dans la voix d’Ysolde. « Ils sont ici. Dix-sept. Il les a portés lui-même, il a demandé qu’on les recopie et qu’on les garde, il est reparti. C’est tout ce que je dirai de lui, parce que c’est tout ce que je sais, et le reste que les gens racontent, la carte trop grande, le père sur trois pays, la voix qu’il entendait à ses os, ce sont eux qui le racontent, pas lui. Lui n’a réclamé qu’une chose. Qu’on ne l’arrange pas.
 
 — Qu’on ne l’arrange pas.
 
@@ -49,7 +49,7 @@ Dehors, très loin, une cloche de collège sonna une heure que personne n’éco
 
 *
 
-La lanière se défit dans le silence, ce geste que Sanne n’avait fait devant témoin qu’une seule fois, une nuit, chez une femme qui écoutait le Mont battre. La toile cirée, puis la laine d’aucune couleur, puis le cordon. Le nœud plat, deux tours. Ysolde regardait faire sans tendre la main, sans se pencher, avec la retenue de qui sait qu’un dépôt n’est pas une prise, et que la première politesse, envers une chose portée si longtemps, c’est de ne pas la vouloir trop vite.
+La lanière se défit dans le silence, ce geste que Sanne n’avait fait devant témoin que deux fois, une nuit chez une femme qui écoutait le Mont battre, un soir au relais de la Roue-Basse. La toile cirée, puis la laine d’aucune couleur, puis le cordon. Le nœud plat, deux tours. Ysolde regardait faire sans tendre la main, sans se pencher, avec la retenue de qui sait qu’un dépôt n’est pas une prise, et que la première politesse, envers une chose portée si longtemps, c’est de ne pas la vouloir trop vite.
 
 Le cahier vint nu sur la table, fermé, au plein de la lumière.
 
@@ -115,7 +115,7 @@ Sanne ne dit rien. Les deux pages ensemble, sous ses yeux : le vieux cahier de 
 
 « Ce n’est pas la même main, dit-elle enfin, parce qu’il fallait bien dire quelque chose et qu’elle ne dirait rien de plus grand que ce qu’elle voyait.
 
-— Non. Ni la langue de départ, ni le chemin. Le vôtre vient du nord, par les femmes. Celui-là vient de partout, par un homme qui a marché neuf cents jours. Ils ne se connaissent pas. Ils ne se sont jamais frôlés. Et regardez. » Ysolde posa un doigt à distance de chaque ligne, sans les toucher. « Le même os. »
+— Non. Ni la langue de départ, ni le chemin. Le vôtre vient d’Onara, par les femmes. Celui-là vient de partout, par un homme qui a marché neuf cents jours. Ils ne se connaissent pas. Ils ne se sont jamais frôlés. Et regardez. » Ysolde posa un doigt à distance de chaque ligne, sans les toucher. « Le même os. »
 
 Le mot fit tressaillir Sanne. C’était un mot de forge autant que de squelette. On appelait ainsi, à l’atelier, le cœur d’une pièce, la part que rien n’entame, où la trempe a pris pour de bon.
 
@@ -213,7 +213,7 @@ Ysolde ne bougea pas. C’était sa manière d’écouter : elle laissait de la
 
 — Le voyageur a dit quelque chose d’approchant, murmura Ysolde. Dans ses cahiers. Il a écrit qu’il avait relevé ce qu’il pouvait voir, qu’il avait laissé le reste en blanc, et que ce n’était pas son travail de cartographier ce qu’il ne pouvait pas voir. C’est la phrase que j’ai recopiée le plus lentement. Je la sentais vraie et je ne voulais pas qu’elle le fût. »
 
-Sanne hocha la tête. Un homme parti à l’autre bout du monde, une forgeronne du nord, chacun de son côté, sans se connaître, arrivés à la même obstination : ne pas remplir le blanc. Elle ne le dit pas.
+Sanne hocha la tête. Un homme parti à l’autre bout du monde, une forgeronne d’Onara, chacun de son côté, sans se connaître, arrivés à la même obstination : ne pas remplir le blanc. Elle ne le dit pas.
 
 « Recopiez-la, dit-elle.
 

@@ -50,7 +50,7 @@ Le premier jour, la route descendit, et Renna crut que c’était gagné.
 
 C’était cela qu’elle était venue chercher : le silence sous les pieds, et la preuve qu’une vallée suffit.
 
-À la halte de midi, elle prit la couverture d’Ilex et la secoua au bord de la route pour en faire tomber le foin. Il n’en tomba pas que du foin. Une fumée grise partit dans le soleil, franche, épaisse, à sept ou huit lieues de chez elle, dans un pays où il n’était pas tombé une pincée de cendre depuis le matin. Renna secoua deux fois de plus. Il en sortait toujours.
+À la halte de midi, le lendemain, elle prit la couverture d’Ilex et la secoua au bord de la route pour en faire tomber le foin. Il n’en tomba pas que du foin. Une fumée grise partit dans le soleil, franche, épaisse, à onze ou douze lieues de chez elle, dans un pays où il n’était pas tombé une pincée de cendre depuis le matin. Renna secoua deux fois de plus. Il en sortait toujours.
 
 Elle replia la couverture et remonta sur la charrette.
 
@@ -114,11 +114,11 @@ Quelque chose dans le ton fit lever les yeux à Renna. La femme regardait la fen
 
 Renna avait cessé de souffler sur la soupe.
 
-« Quinze lieues du Mont, dit-elle. Vous êtes à quinze lieues du Mont.
+« Quatorze lieues du Mont, dit-elle. Vous êtes à quatorze lieues du Mont.
 
-— Dix-huit, dit la femme. Et alors ? Vous croyez que ça compte, les lieues, pour une chose pareille ? » Elle se pencha, et sous la graisse et la fatigue il y avait, dans ses petits yeux, une peur ancienne et nue. « Je vous dis ce que je crois, moi, puisque vous descendez et que je remonterai jamais rien à personne. Je crois que ça sort. J’ai pas les mots des prêtres. Ça sort de partout à la fois. Le Mont, c’est l’endroit où c’est sorti en premier. Ça veut pas dire que c’est le seul trou. On tient un relais, ma fille, on apprend à lire ce qui passe. Depuis la mi-lune, ce qui passe passe dans un seul sens. »
+— Quinze, dit la femme. Et alors ? Vous croyez que ça compte, les lieues, pour une chose pareille ? » Elle se pencha, et sous la graisse et la fatigue il y avait, dans ses petits yeux, une peur ancienne et nue. « Je vous dis ce que je crois, moi, puisque vous descendez et que je remonterai jamais rien à personne. Je crois que ça sort. J’ai pas les mots des prêtres. Ça sort de partout à la fois. Le Mont, c’est l’endroit où c’est sorti en premier. Ça veut pas dire que c’est le seul trou. On tient un relais, ma fille, on apprend à lire ce qui passe. Depuis la mi-lune, ce qui passe passe dans un seul sens. »
 
-Renna serra l’écuelle entre ses mains bleues. Voilà ce qu’elle était venue ne pas entendre, et une aubergiste qui n’avait de sa vie approché le Mont le lui servait avec la soupe, à dix-huit lieues, comme une évidence de bonne femme.
+Renna serra l’écuelle entre ses mains bleues. Voilà ce qu’elle était venue ne pas entendre, et une aubergiste qui n’avait de sa vie approché le Mont le lui servait avec la soupe, à quinze lieues, comme une évidence de bonne femme.
 
 « Vous vous trompez, dit-elle, et c’était à elle-même qu’elle le disait. Un puits qui chante, ça se cure. Une bête qui a peur, ça se change de pré. Il y a des pays où ça n’arrive pas.
 
@@ -130,7 +130,7 @@ Renna serra l’écuelle entre ses mains bleues. Voilà ce qu’elle était venu
 
 Ce mot rendit Renna muette, parce que l’enfant lui avait dit cela au seuil de la maison, dans le noir, avant le jour, à la virgule près. *Y a pas de loin. Y en a plus.* Une grosse aubergiste et un petit aux yeux blancs, qui ne se connaîtraient jamais, venaient de poser côte à côte la même phrase dans sa bouche.
 
-Elle regarda ses mains autour de l’écuelle. Le bleu y était entier, à dix-huit lieues, du même bleu qu’au bord de la cuve.
+Elle regarda ses mains autour de l’écuelle. Le bleu y était entier, à quinze lieues, du même bleu qu’au bord de la cuve.
 
 \*
 
@@ -176,7 +176,7 @@ Renna reprit la route. Elle portait depuis la veille, dans le ventre, ce que la 
 
 \*
 
-Le deuxième jour, le pays devint magnifique, et l’enfant s’éteignit à mesure.
+Le troisième jour, le pays devint magnifique, et l’enfant s’éteignit à mesure.
 
 Des prairies grasses, des haies pleines d’oiseaux qui ne fuyaient pas, une rivière large et calme où le ciel se posait. Un pays où l’on aurait voulu élever un enfant. Et dans le foin, celui-là ne parlait plus, ne mangeait plus, tenait les yeux mi-clos sur un plafond de feuilles, et le blanc en avait viré au gris de la vieille cire.
 
@@ -194,7 +194,7 @@ L’enfant tourna vers elle, avec un effort qui lui coûta tout, ses yeux presqu
 
 « C’est ça le mal, dit-il. Le calme. »
 
-Trois mots, d’un trait, sans manquer le bout, et Renna comprit qu’il venait de dépenser l’un de ses derniers efforts à lui dire l’exacte chose qu’elle avait passé deux jours à refuser.
+Trois mots, d’un trait, sans manquer le bout, et Renna comprit qu’il venait de dépenser l’un de ses derniers efforts à lui dire l’exacte chose qu’elle avait passé trois jours à refuser.
 
 « Le calme, répéta-t-elle, bêtement.
 
@@ -208,7 +208,7 @@ Longtemps, au bord de l’eau, l’enfant contre elle, Renna chercha comme lui l
 
 Deux morts l’attendaient. Ramener Ilex au Mont, c’était le rendre à ce que tout le monde fuyait, à ce dont la maîtresse du relais disait que ça sortait de partout. Le garder loin, c’était le regarder se vider comme une outre percée, au milieu des poissons. Elle avait cru choisir entre le danger et le salut. Elle choisissait entre deux façons de le perdre, et de ces deux-là, une seule le rendait à ce qui le remplissait.
 
-Et tandis qu’elle pesait cela, immobile, la chose sous ses pieds fit ce qu’elle n’aurait pas cru possible à dix-huit, à vingt lieues du Mont.
+Et tandis qu’elle pesait cela, immobile, la chose sous ses pieds fit ce qu’elle n’aurait pas cru possible à quinze, à seize lieues du Mont.
 
 Elle monta.
 
@@ -216,7 +216,7 @@ D’abord si faible que Renna la prit pour son propre sang aux oreilles. Puis ne
 
 Deux choses se refermèrent sur elle en même temps.
 
-La première, c’est que l’aubergiste avait raison. Ça ne sortait pas que du Mont. Son puits qui chantait à dix-huit lieues était le premier. Se boucher, changer de vallée, filer vers le nord ou vers la mer : Renna avait passé sa vie à mettre de la distance entre elle et ça, et elle venait de voir, au bord d’une rivière, le fond de ce qu’on peut mettre. Le puits d’une aubergiste qui n’avait jamais rien entendu de sa vie s’était mis à répéter la chose dans le noir. Viendraient les chiens, puis les enfants ordinaires, puis chacun.
+La première, c’est que l’aubergiste avait raison. Ça ne sortait pas que du Mont. Son puits qui chantait à quinze lieues était le premier. Se boucher, changer de vallée, filer vers le nord ou vers la mer : Renna avait passé sa vie à mettre de la distance entre elle et ça, et elle venait de voir, au bord d’une rivière, le fond de ce qu’on peut mettre. Le puits d’une aubergiste qui n’avait jamais rien entendu de sa vie s’était mis à répéter la chose dans le noir. Viendraient les chiens, puis les enfants ordinaires, puis chacun.
 
 La seconde, c’est qu’elle avait emmené mourir l’enfant qui entendait le mieux, très exactement à l’heure où il aurait fallu l’écouter, lui, avant tous les autres.
 
@@ -234,7 +234,7 @@ La charrette reprit la route à l’envers. À chaque tour de roue le pays reper
 
 Au milieu de l’après-midi, la première cendre neuve se posa sur le dos de sa main. Tiède. Une pincée de rien. Renna ne l’essuya pas. Elle attendit qu’il en vînt une deuxième. Il en vint une deuxième.
 
-Au troisième relais franchi vers le sud, l’enfant se redressa de lui-même dans le foin.
+Le lendemain, au troisième relais franchi vers le sud, l’enfant se redressa de lui-même dans le foin.
 
 « Il pousse plus loin qu’hier, dit-il.
 
@@ -246,4 +246,4 @@ Renna prit la couverture et la secoua par-dessus la ridelle, pour rien, parce qu
 
 Devant eux, au bout de la route, le Mont tenait sa colonne de cendre toute droite, l’air n’ayant pas de quoi la coucher.
 
-Cette nuit-là, à dix-huit lieues, la maîtresse du relais retourna la paille de la soupente où l’enfant avait dormi, et la cendre de Taldre lui sortit dans les mains ; et dans la roche pleine, dessous, quelque chose se remit au travail à la même heure que sous la maison de guède, et de la même force.
+Cette nuit-là, à quinze lieues, la maîtresse du relais retourna la paille de la soupente où l’enfant avait dormi, et la cendre de Taldre lui sortit dans les mains ; et dans la roche pleine, dessous, quelque chose se remit au travail à la même heure que sous la maison de guède, et de la même force.

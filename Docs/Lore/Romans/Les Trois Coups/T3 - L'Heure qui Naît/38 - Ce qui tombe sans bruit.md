@@ -21,11 +21,11 @@ Le tas qu’elle avait tiré de la forge de Halka tenait dans un panier à clair
 
 « Vous partez », dit Halka.
 
-La vieille avait rechargé le foyer d’une chaude dont elle n’avait pas l’usage, et elle ne releva pas la tête. Trois nuits que Sanne couchait dans la réserve à charbon, derrière la forge, à sentir la terre battre sous la paillasse un peu plus serré à chaque fois ; trois jours qu’aucune des deux n’avait reparlé de la brique rescellée, ni des entailles au ras de l’assise, ni de l’enfant qu’une grande femme sèche avait menée vers le levant au premier matin. Les cinq autres endroits s’étaient faits dans ces trois jours-là, le soir, sur le coin de l’établi : cinq fois la ligne recopiée de mémoire, cinq mains qui descendaient vers les vallées sourdes, et aucune qui sût les quatre autres.
+La vieille avait rechargé le foyer d’une chaude dont elle n’avait pas l’usage, et elle ne releva pas la tête. Trois nuits que Sanne couchait dans la réserve à charbon, derrière la forge, à sentir la terre battre sous la paillasse un peu plus serré à chaque fois ; trois jours qu’aucune des deux n’avait reparlé de la brique rescellée, ni des entailles au ras de l’assise, ni de l’enfant qu’une grande femme sèche avait menée vers le levant au premier matin. Les cinq autres endroits s’étaient faits dans ces trois jours-là, le soir, sur le coin de l’établi : cinq fois la ligne recopiée de mémoire, cinq mains qui descendaient vers les vallées sourdes, et aucune qui sût les quatre autres.
 
 « Je pars, dit Sanne.
 
-— Par où vous êtes venue ? Le sud ?
+— Par où ? Le nord, comme vous êtes venue ?
 
 — Vers le haut. »
 

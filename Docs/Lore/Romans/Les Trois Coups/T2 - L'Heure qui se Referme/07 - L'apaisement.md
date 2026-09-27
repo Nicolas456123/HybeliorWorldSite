@@ -18,7 +18,7 @@ Drahk’Nor, ce matin-là, faisait semblant d’être une ville vivante. C’ét
 
 Elle s’arrêta devant l’étal d’une marchande de fils et regarda la place par-dessus les écheveaux.
 
-C’était sa méthode, et elle n’en avait pas d’autre : regarder longtemps un endroit où il ne se passe rien, jusqu’à ce que le rien se déchire. Devant elle, la place était pleine de gestes accordés à leur objet : la main qui pesait, l’œil qui comparait, le corps qui se penchait vers ce qu’il voulait et reculait devant ce qu’il refusait. Il lui fallait un geste qui ne fût pas accordé au sien. Depuis quinze ans, Vaenor Sorne ne cherchait rien d’autre sur les marchés du Dominat.
+C’était sa méthode, et elle n’en avait pas d’autre : regarder longtemps un endroit où il ne se passe rien, jusqu’à ce que le rien se déchire. Devant elle, la place était pleine de gestes accordés à leur objet : la main qui pesait, l’œil qui comparait, le corps qui se penchait vers ce qu’il voulait et reculait devant ce qu’il refusait. Il lui fallait un geste qui ne fût pas accordé au sien. Depuis vingt ans, Vaenor Sorne ne cherchait rien d’autre sur les marchés du Dominat.
 
 Elle prit son temps, parce qu’elle avait tout le temps.
 

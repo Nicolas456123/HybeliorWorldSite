@@ -50827,7 +50827,7 @@
       "type": "terme",
       "name": "Les Inspecteurs de Pureté",
       "slug": null,
-      "summary": "Corps créé par Drahk'Nor vers 1460 ap.A, pendant la Tyrannie des Cendres, pour traquer les Tisses et les euthanasier « pour le bien commun ». Appareil d'État antagoniste du tome : Vaenor Sorne en est une inspectrice de terrain, Drahvel un préfet-inquisiteur.",
+      "summary": "Corps créé par Drahk'Nor vers 1474 ap.A, pendant la Tyrannie des Cendres, pour traquer les Tisses et les euthanasier « pour le bien commun ». Appareil d'État antagoniste du tome : Vaenor Sorne en est une inspectrice de terrain, Drahvel un préfet-inquisiteur.",
       "body": null,
       "data": {
         "periode": {
@@ -50835,12 +50835,20 @@
           "fin": 1460,
           "confiance": "haute",
           "methode": "fait-date"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "vers 1460 ap.A",
+            "pourquoi": "Chaîne de Vaenor : le corps a six ans quand Vaenor, à vingt-six ans, va à Herrec (T2/18) ; vingt ans de service jusqu’à 1500 ; data.periode 1460 → 1474."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "ter-0134",
@@ -51086,7 +51094,7 @@
       "type": "lieu",
       "name": "La Forge-Basse",
       "slug": null,
-      "summary": "Forge d’un bourg des marges d’Onara où vit et travaille la forgeronne Kessane ; siège local de la guilde des forgerons non-Liés. Écho voulu : neuf mille ans plus tard, le même toponyme désigne un quartier non-Lié de fonderies des mêmes marches (T3/18) — même nom, même marche, même peuple, et deux lieux distincts.",
+      "summary": "Hameau d’une trentaine de feux des marges d’Onara (lobe de Tyndara, au-dessus du delta d’Onara-sud), et la plus vieille forge qui lui donne son nom, celle où vit et travaille la forgeronne Kessane ; siège local de la guilde des forgerons non-Liés. Écho voulu : neuf mille ans plus tard, le même toponyme désigne un quartier non-Lié de fonderies des mêmes marches (T3/18) — même nom, même marche, même peuple, et deux lieux distincts.",
       "body": null,
       "data": {
         "echelle": "lieu-dit",
@@ -51097,12 +51105,31 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « 02 - La Forge-Basse.md » — récit (an 251 du Sillage)",
           "fiche": "Docs/Lore/Romans/Les Trois Coups/T2 - L'Heure qui se Referme/02 - La Forge-Basse.md"
+        },
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Forge d’un bourg des marges d’Onara où vit et travaille la forgeronne Kessane",
+            "pourquoi": "T2/10 (trente feux) et T2/02, 20, 49 (la forge) : le T2/10 dit désormais que le hameau tient son nom de la forge de Kessane."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 292,
+            "y": 200,
+            "confiance": "moyenne",
+            "terre": "Onara",
+            "motif": "Marges d'Onara = lobe sud-ouest d'Onara (Tyndara), « aux marges, vers le delta » (T2/39) : 15,6 u (~5 lieues) au nord-ouest du delta d'Onara-sud estimé (lie-0652, 303 ; 211), dans une vallée à 13,5 u de la côte. Deux jours de cheval de Mireuil (T2/39), une dizaine de jours d'Alkaran par la mer (T2/15, 20).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-27T23:48:31.125Z"
     },
     {
       "id": "lie-0651",
@@ -51118,12 +51145,23 @@
           "fin": 1500,
           "confiance": "haute",
           "methode": "fait-date"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -190,
+            "y": 86,
+            "confiance": "moyenne",
+            "terre": "Ilthara",
+            "motif": "Plaine d'Ilthara (fiche), à la limite Gryndor/Pyrtara ; bord ouest sur le bras de mer qui entaille Ilthara (bac de Merric, T2/37 ; grève où débarquent Kessane et Lirenn, T2/35), ce qui fait entrer les deux femmes par l'ouest (T2/42-43) ; ~42 lieues au nord-nord-ouest de Drahk'Nor (Drakora), deux jours de relais (T2/50). ⚠ Ordavan (lie-0046, estimée en −190 ; 76,5) est à 10 u : la Plaine avale ~40 villages en 1500, les deux époques ne se gênent pas.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-27T23:48:31.125Z"
     },
     {
       "id": "lie-0652",
@@ -51212,15 +51250,23 @@
       "type": "lieu",
       "name": "Le Mont-Gris",
       "slug": null,
-      "summary": "Sommet des montagnes d'Alkaran qui, sous une Faille lente, a basculé 200 ans en arrière pendant 3 mois.",
+      "summary": "Sommet des montagnes d'Alkaran qui, sous une Faille lente, a basculé jusqu’avant l’Arrachement, dans le monde « plein » de la main tiède, pendant 3 mois.",
       "body": null,
       "data": {
-        "echelle": "lieu-dit"
+        "echelle": "lieu-dit",
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "a basculé 200 ans en arrière pendant 3 mois",
+            "pourquoi": "T2/27 retouché (registre §9) : « quinze siècles », « jusqu’avant le froid »."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "obj-0068",
@@ -58797,7 +58843,7 @@
       "name": "La Corvane",
       "slug": null,
       "summary": "Veuve de Taldre, grande femme sèche, veuve depuis trois hivers ; son défunt tenait les comptes de la halle et elle tient ceux du village sans qu'on le lui ait demandé. Elle avertit Renna que l'enfant Ilex n'a jamais été porté au registre de la halle et que ce qui n'est au registre de personne est à qui met la main dessus le premier.",
-      "body": "Corvane est un nom de famille courant de Galénor : six personnes le portent dans le corpus — cinq dans la trilogie et le Corvane de Cendara des Chroniques —, chacune avec son épithète — le vieux Corvane, préposé aux annales de Tempora (T1/11) ; Corvane le corroyeur, d’un bourg des marges d’Onara (T2/07) ; la Corvane, au registre de la halle de Taldre (T3) ; Corvane le greffier, de Caeloria (T3/22) ; maître Corvane, Compilateur premier de Prismalith (T3/26).\n\nDEUX CORVANE DE CENDARA, ET CE NE SONT PAS LA MÊME (arbitrage 14, retranché le 2026-09-22). Le Corvane de Cendara des Chroniques — vieux lettré, ancien mire des flottes, retiré sur l’île d’Arkhen — meurt à sa table en l’an 250, la nuit qui suit la visite de Sorin (C/23). La Corvane du tome 3 est vivante et parle en 251. La date interdit l’identité ; le nom, l’île et le métier de registre font l’écho, et c’est exactement ce que cet arbitrage prévoit — Corvane est un nom de famille courant de Galénor, et un monde a des homonymes. Les deux fiches sont tenues ensemble par un lien d’homonymie.",
+      "body": "Corvane est un nom de famille courant de Galénor : six personnes le portent dans le corpus — cinq dans la trilogie et le Corvane de Cendara des Chroniques —, chacune avec son épithète — le vieux Corvane, préposé aux annales de Tempora (T1/11) ; Corvane le corroyeur, de Drahk’Nor (T2/07) ; la Corvane, au registre de la halle de Taldre (T3) ; Corvane le greffier, de Caeloria (T3/22) ; maître Corvane, Compilateur premier de Prismalith (T3/26).\n\nDEUX CORVANE DE CENDARA, ET CE NE SONT PAS LA MÊME (arbitrage 14, retranché le 2026-09-22). Le Corvane de Cendara des Chroniques — vieux lettré, ancien mire des flottes, retiré sur l’île d’Arkhen — meurt à sa table en l’an 250, la nuit qui suit la visite de Sorin (C/23). La Corvane du tome 3 est vivante et parle en 251. La date interdit l’identité ; le nom, l’île et le métier de registre font l’écho, et c’est exactement ce que cet arbitrage prévoit — Corvane est un nom de famille courant de Galénor, et un monde a des homonymes. Les deux fiches sont tenues ensemble par un lien d’homonymie.",
       "data": {
         "preuve": [
           "T3/02",
@@ -58819,13 +58865,19 @@
             "champ": "body",
             "avant": "cinq personnes le portent dans le corpus, chacune avec son épithète",
             "pourquoi": "per-1023 : « cinq autres le portent » ; six fiches Corvane"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "body",
+            "avant": "Corvane le corroyeur, d’un bourg des marges d’Onara (T2/07)",
+            "pourquoi": "Même correction."
           }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:29:05.059Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "per-0924",
@@ -62709,12 +62761,12 @@
     {
       "id": "obj-0088",
       "type": "objet",
-      "name": "Le cahier de toile cirée (la copie de Teor)",
+      "name": "Le cahier de toile cirée (saisi à l’est)",
       "slug": null,
-      "summary": "Copie du journal de Thessan qu'Olven donne à Teor, retrouvée contre la poitrine du Tisse mort sur la route de l'est, portée au registre des Inspecteurs comme détruite, et lue par Vaenor Sorne une nuit entière.",
+      "summary": "Copie du journal de Thessan retrouvée contre la poitrine d’un Tisse mort sur une route de l’est — l’Atrium la tenait pour celle qu’Olven donne à Teor, mais son fragment porte une autre leçon —, portée au registre des Inspecteurs comme détruite, et lue par Vaenor Sorne une nuit entière.",
       "body": "Couverture de toile cirée mangée aux angles ; une copie de copie, main appliquée et pauvre, encre trop épaisse. Les noms de villes y sont déformés au point de n'être plus des noms — « Athrenor », avec en marge, d'une autre main, la glose « lire Aethranor » —, les dates se contredisent d'un feuillet à l'autre, une glose prévient « ici le copiste a compté faux » sur le nombre des Huit. Vaenor y raye « détruit » et écrit « en cours de lecture ». C'est ce cahier-là, et non celui d'Olven, qui entame sa doctrine : « casser » et « délivrer » dans la même phrase, et le fragment que quinze siècles n'ont pas osé tordre. Troisième cahier du tome, distinct du cahier des mille mains et de la copie d'Olven.",
       "data": {
-        "chaine": "Olven → Teor → saisie → bureau de Vaenor Sorne",
+        "chaine": "saisie sur un Tisse mort à l’est → bureau de Vaenor Sorne",
         "preuve": [
           "T2/09",
           "T2/16"
@@ -62722,20 +62774,40 @@
         "lot": "T12",
         "origine": [
           "T12#42"
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Copie du journal de Thessan qu'Olven donne à Teor, retrouvée contre la poitrine du Tisse mort sur la route de l'est,",
+            "pourquoi": "Même nœud."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "name",
+            "avant": "Le cahier de toile cirée (la copie de Teor)",
+            "pourquoi": "§12 cahier de Teor"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "data.chaine",
+            "avant": "Olven → Teor → saisie → bureau de Vaenor Sorne",
+            "pourquoi": "§12"
+          }
         ]
       },
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "per-0993",
       "type": "personne",
       "name": "Teor",
       "slug": null,
-      "summary": "Tisse en Phase 2 (saignements du nez, une fois des yeux) qui vient demander à Frère Olven le livre « qui protège » ; Olven lui donne une copie, que Teor emportera jusqu'à sa mort sur la route de l'est.",
-      "body": "Il donne son nom « entre deux gorgées, à mi-voix, le nom d'abord, comme on rend les armes ». « J'ai passé le moment où on peut couper. » Il croit que celui qui porte le livre est protégé, « que l'homme qui l'a écrit a vu la fin du monde et qu'il en est ressorti vivant ». Il mourra les mains prises sur le paquet, alors qu'il aurait pu les avoir libres — détail que le bordereau consigne et que Vaenor relit deux fois.",
+      "summary": "Tisse en Phase 2 (saignements du nez, une fois des yeux) qui vient demander à Frère Olven le livre « qui protège » ; Olven lui donne une copie, que Teor emporte vers une Faille lente de l’est ; le texte ne dit pas sa fin.",
+      "body": "Il donne son nom « entre deux gorgées, à mi-voix, le nom d'abord, comme on rend les armes ». « J'ai passé le moment où on peut couper. » Il croit que celui qui porte le livre est protégé, « que l'homme qui l'a écrit a vu la fin du monde et qu'il en est ressorti vivant ». Le cahier que Vaenor lit au T2/16, saisi sur un Tisse mort à l’est, n’est pas le sien : son fragment n’a pas la leçon qu’Olven lui a recopiée.",
       "data": {
         "preuve": [
           "T2/09",
@@ -62744,12 +62816,26 @@
         "lot": "T12",
         "origine": [
           "T12#43"
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "que Teor emportera jusqu'à sa mort sur la route de l'est.",
+            "pourquoi": "Même nœud."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "body",
+            "avant": "Il mourra les mains prises sur le paquet, alors qu'il aurait pu les avoir libres — détail que le bordereau consigne et que Vaenor relit deux fois.",
+            "pourquoi": "Même nœud."
+          }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "per-0994",
@@ -62967,7 +63053,7 @@
       "name": "Le registre des foyers et le rond barré",
       "slug": null,
       "summary": "Circulaire de la Préfecture qui fait passer la traque du nom à la maison : on n'enregistre plus des Tisses, on marque des foyers. Le signe joint est « un rond barré d'un trait », tracé au brai puis au couteau.",
-      "body": "Deux paragraphes, sceau de la Préfecture. Vaenor trace elle-même le premier rond de la vallée, au brai, et le note dans son second carnet. Le marquage est étendu aux familles par l'Édit de Pureté (article quatre). ⚠ Point de fait déjà au registre (§ Tome 2 — le marquage des portes) : l'ordre d'institution et le nommage du signe divergent entre T2/24 d'une part, T2/38 et T2/39 de l'autre. Non tranché ici.",
+      "body": "Deux paragraphes, sceau de la Préfecture. Vaenor trace elle-même le premier rond de la vallée, au brai, et le note dans son second carnet. Le marquage est étendu aux familles par l'Édit de Pureté (article quatre). Tranché le 2026-09-27 (registre §9) : l’article quatre de l’Édit étend au district le rond barré de la circulaire du printemps (T2/38) ; faute de brai dans les postes, on marque aussi à la craie ou au couteau (T2/39).",
       "data": {
         "signe": "un rond barré d'un trait",
         "preuve": [
@@ -62978,12 +63064,20 @@
         "lot": "T12",
         "origine": [
           "T12#50"
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "body",
+            "avant": "⚠ Point de fait déjà au registre (§ Tome 2 — le marquage des portes) : l'ordre d'institution et le nommage du signe divergent entre T2/24 d'une part, T2/38 et T2/39 de l'autre. Non tranché ici.",
+            "pourquoi": "T2/38 et T2/39 retouchés."
+          }
         ]
       },
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "pol-0125",
@@ -63091,7 +63185,7 @@
       "name": "Tarn (le tisseur de lin)",
       "slug": null,
       "summary": "Tisseur de lin devenu Tisse, porté sur un brancard de deux perches jusqu'au bord d'une Faille ; le plus avancé du convoi de Nael, et celui à qui la forgeronne a refermé le cahier sans un mot, trop tard de trois semaines.",
-      "body": "« On m'a fait répéter le mot toute ma vie à cause de l'autre, tisseur, pas Tisse, et me voilà les deux à la fin. » Ses mains ne se ferment plus. Il renverse Nael : « Vous m'offrez un doute où je peux tenir debout… assez de place pour que ce soit moi qui choisisse, au lieu qu'on ait raison à ma place. » ⚠ Point de fait déjà au registre (2026-09-20) : l'arithmétique des sept du T2/40, et l'absence de Nael au T2/40 alors que T2/34 le met en tête du même convoi.",
+      "body": "« On m'a fait répéter le mot toute ma vie à cause de l'autre, tisseur, pas Tisse, et me voilà les deux à la fin. » Ses mains ne se ferment plus. Il renverse Nael : « Vous m'offrez un doute où je peux tenir debout… assez de place pour que ce soit moi qui choisisse, au lieu qu'on ait raison à ma place. » Au T2/40 (retouché le 2026-09-27), Nael est l’un des sept autour de Tarn, le passeur sans robe ni jeton ; il reste au bord avec le garçon, et la déchirure prend six personnes. Sa route chez la forgeronne, l’hiver d’avant, a passé la mer.",
       "data": {
         "homonymie": "à ne pas confondre avec per-0310 Tarn, mineur de fond d’Ulthral",
         "preuve": [
@@ -63108,13 +63202,19 @@
             "champ": "body",
             "avant": "« On m'a fait répéter le mot toute ma vie à cause de l'autre. »",
             "pourquoi": "T2/34 : « on m'a fait répéter le mot toute ma vie à cause de l'autre, tisseur, pas Tisse, et me voilà les deux à la fin. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "body",
+            "avant": "⚠ Point de fait déjà au registre (2026-09-20) : l'arithmétique des sept du T2/40, et l'absence de Nael au T2/40 alors que T2/34 le met en tête du même convoi.",
+            "pourquoi": "Registre §9, ch. 40."
           }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "per-1000",
@@ -63587,7 +63687,7 @@
       "type": "lieu",
       "name": "Vannecize",
       "slug": null,
-      "summary": "Bourg de terres basses où Vaenor Sorne trouve Ferrec vivant deux ans après son signalement ; « un nom de terres basses, mouillé, que les gens du cru avalaient avant d'en avoir fini ».",
+      "summary": "Bourg des vallées hautes du nord d’Onara, au nom de terres basses, où Vaenor Sorne trouve Ferrec vivant deux ans après son signalement ; « un nom de terres basses, mouillé, que les gens du cru avalaient avant d'en avoir fini ».",
       "body": null,
       "data": {
         "preuve": [
@@ -63604,13 +63704,30 @@
             "champ": "summary",
             "avant": "« un nom que les gens du cru avalaient avant d'en avoir fini »",
             "pourquoi": "T2/36 : « un nom de terres basses, mouillé, que les gens du cru avalaient avant d'en avoir fini »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Bourg de terres basses où",
+            "pourquoi": "T2/38 (« un champ des vallées hautes ») et T2/36 (« un nom de terres basses ») : les deux tiennent ; position estimée donnée dans « positions »."
           }
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 408,
+            "y": 22,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "« Un champ des vallées hautes » à trois jours de cheval de Tavelpast (92 u, ~27 lieues, T2/38) ; Vaenor en redescend « au sud, vers les vallées basses, vers le delta, vers les marges d'Onara » (T2/36). Le nom « de terres basses » est un nom, pas un relief.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:31.125Z"
     },
     {
       "id": "lie-1003",
@@ -63635,12 +63752,23 @@
             "avant": "« Nous sommes deux à savoir qu'une porte n'est pas marquée à Mireuil, et le jour où l'un de nous deux le dira, l'autre le paiera. »",
             "pourquoi": "T2/39 : « …l'autre le paiera, et le foyer avec. Donc aucun ne le dira. »"
           }
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 350,
+            "y": 172,
+            "confiance": "moyenne",
+            "terre": "Onara",
+            "motif": "Deux jours de cheval de la forge (64 u, ~19 lieues) et deux de Tavelpast (69 u, ~20 lieues), « sur sa route du sud, avant les marges d'Onara, avant la forge » (T2/39) ; au pied du col qui joint le lobe de Tyndara au reste d'Onara.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:31.125Z"
     },
     {
       "id": "lie-1004",
@@ -63657,12 +63785,23 @@
         "origine": [
           "T12#73"
         ],
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": 300,
+            "y": 190,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Bourg en amont dans la vallée de la Forge-Basse : « Au sud, il y avait une forge à trouver » (T2/24) ; 12,8 u au nord-nord-est de la forge.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-27T23:48:31.125Z"
     },
     {
       "id": "lie-1005",
@@ -63688,12 +63827,23 @@
             "avant": "deux jours de descente jusqu'aux marges d'Onara.",
             "pourquoi": "Les deux jours mènent de Tavelpast à Mireuil, qui est « avant les marges d'Onara » ; la forge est à deux jours de plus. Priorité basse."
           }
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 380,
+            "y": 110,
+            "confiance": "moyenne",
+            "terre": "Onara",
+            "motif": "Siège de la Préfecture des Cendres : deux jours de descente jusqu'à Mireuil, deux encore jusqu'à la forge (T2/39) ; trois jours de cheval de Vannecize (T2/38). Au nord du col, dans Onara même.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:48:31.125Z"
     },
     {
       "id": "lie-1006",
@@ -63711,12 +63861,23 @@
         "origine": [
           "T12#75"
         ],
-        "echelle": "lieu-dit"
+        "echelle": "lieu-dit",
+        "carte": {
+          "position_estimee": {
+            "x": 318,
+            "y": 188,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Relais de route des marges, près du bourg du tanneur et du moulin de la vallée (T2/14, 17, 23) ; sur la route de Mireuil à la forge.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T18:23:41.165Z"
+      "updated_at": "2026-09-27T23:48:31.125Z"
     },
     {
       "id": "lie-1007",
@@ -63776,7 +63937,7 @@
       "name": "Herec",
       "slug": null,
       "summary": "Prêtre errant du culte de la Colère, « sans temple », qui va de Faille en Faille et s'arrête pour écouter les hommes qui gardent les seuils ; c'est à lui que Merric dit avoir été regardé.",
-      "body": "« D'abord j'écoute. On m'a dit d'écouter les hommes qui gardent les seuils, avant. Qu'ils savent des choses que les livres… » Il écoute « de cette manière qui laisse la place ». ⚠ Quasi-homonymie avec le bourg d'Herrec (T2/18), déjà portée au registre, non tranchée.",
+      "body": "« D'abord j'écoute. On m'a dit d'écouter les hommes qui gardent les seuils, avant. Qu'ils savent des choses que les livres… » Il écoute « de cette manière qui laisse la place ». Quasi-homonymie avec le bourg d’Herrec (T2/18) : tranchée le 2026-09-27, homonymie voulue, un homme et un lieu.",
       "data": {
         "culte": "le culte de la Colère",
         "preuve": [
@@ -63785,19 +63946,27 @@
         "lot": "T12",
         "origine": [
           "T12#78"
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "body",
+            "avant": "⚠ Quasi-homonymie avec le bourg d'Herrec (T2/18), déjà portée au registre, non tranchée.",
+            "pourquoi": "Registre §9, Herec/Herrec."
+          }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "ter-0167",
       "type": "terme",
       "name": "La Sainte-Braise",
       "slug": null,
-      "summary": "Fête annuelle qui scande le calendrier ordinaire du T2 — on y fête les anniversaires, on y règle les commandes de forge, on y date les morts.",
+      "summary": "Fête annuelle du cœur de l’hiver qui scande le calendrier ordinaire du T2 — on y fête les anniversaires, on y règle les commandes de forge, on y date les morts.",
       "body": "« Elle avait dix ans depuis la Sainte-Braise. » « Le grand couteau de tonte que le vieux Derrec réclamait depuis la Sainte-Braise sans jamais avoir de quoi le payer. » « Heravel est mort à la Sainte-Braise. » « La forge est fermée aux commandes […]. Revenez à la Sainte-Braise. » Une fête du même nom sert de repère dans les Chroniques et au T3 (registre § C).",
       "data": {
         "periodicite": "annuelle",
@@ -63819,13 +63988,19 @@
             "champ": "body",
             "avant": "« La forge est fermée aux commandes. Revenez à la Sainte-Braise. »",
             "pourquoi": "T2/20 : « La forge est fermée aux commandes, dit-elle. Revenez à la Sainte-Braise. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Fête annuelle qui scande",
+            "pourquoi": "Calendrier du T2 : « Revenez à la Sainte-Braise » à l’automne (T2/20), dix ans « depuis la Sainte-Braise » à la coupure d’hiver (T2/26), Doale morte « depuis la Sainte-Braise » (T2/29)."
           }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "ter-0168",
@@ -64151,10 +64326,10 @@
       "name": "Vesle",
       "slug": null,
       "summary": "Grand-mère de la narratrice du Mont-Gris, retrouvée jeune femme à la fontaine dans le hameau que la Faille lente a fait basculer en arrière ; une main anonyme a glosé « pour Vesle » en marge d'un fragment du journal recueilli dans un coffre de Chamane de Mémoire.",
-      "body": "« Quand j’étais fille on m’appelait Vesle », lui disait-elle le soir. ⚠ Point de chronologie déjà au registre (T2 ch. 27) et non tranché : la narratrice a cinquante ans, voit sa grand-mère à dix-sept, revient « deux cents ans plus tard », et Vesle est morte depuis quarante ans — les trois nombres ne s’additionnent pas. Fiche à créer sans figer les âges.",
+      "body": "« Quand j’étais fille on m’appelait Vesle », lui disait-elle le soir. Tranché le 2026-09-27 (registre §9, ch. 27) : la chute va jusqu’au monde d’avant l’Arrachement ; la narratrice a cinquante ans, revient « quinze siècles plus tard », et Vesle est morte depuis trente ans. Que la jeune fille de la fontaine soit sa grand-mère à quinze siècles de distance est le paradoxe de la Voix, qui a perdu le quand : l’Atrium l’enregistre sans le résoudre.",
       "data": {
         "lieu": "Le Mont-Gris",
-        "note": "âges non tranchés — voir registre",
+        "note": "profondeur tranchée (avant l’Arrachement) ; parenté laissée au paradoxe de la Voix",
         "preuve": [
           "T2/27"
         ],
@@ -64168,13 +64343,25 @@
             "champ": "body",
             "avant": "« Quand j’étais fille on m’appelait Vesle. »",
             "pourquoi": "T2/27 : « quand j'étais fille on m'appelait Vesle, elle me le disait le soir »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "body",
+            "avant": "⚠ Point de chronologie déjà au registre (T2 ch. 27) et non tranché : la narratrice a cinquante ans, voit sa grand-mère à dix-sept, revient « deux cents ans plus tard », et Vesle est morte depuis quarante ans — les trois nombres ne s’additionnent pas. Fiche à créer sans figer les âges.",
+            "pourquoi": "T2/27 : « quinze siècles », « morte depuis trente ans »."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "data.note",
+            "avant": "âges non tranchés — voir registre",
+            "pourquoi": "T2/27 tranché"
           }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "per-1022",
@@ -64480,7 +64667,7 @@
       "type": "personne",
       "name": "Corvane le corroyeur",
       "slug": null,
-      "summary": "Corroyeur d’un bourg des marges d’Onara, Tisse entrant en saison de sang, à qui Vaenor Sorne vient proposer « l’apaisement » sur un banc, du ton dont on vend des œufs. Il hésite à donner son nom « depuis qu’un nom pouvait finir sur un registre ».",
+      "summary": "Corroyeur de Drahk’Nor, repéré au marché des grains, Tisse entrant en saison de sang, à qui Vaenor Sorne vient proposer « l’apaisement » sur un banc, du ton dont on vend des œufs. Il hésite à donner son nom « depuis qu’un nom pouvait finir sur un registre ».",
       "body": "Elle lui décrit la suite — le sang du nez et des yeux, les doigts qui ne répondent plus, « un corroyeur sans ses doigts », et le corps qui crie seul des semaines après le départ — puis pose entre eux une fiole de verre sombre sans la lui tendre. Il demande : « Comment ça se passe ». Deuxième porteur du nom Corvane dans le corpus.",
       "data": {
         "preuve": [
@@ -64496,13 +64683,19 @@
             "champ": "body",
             "avant": "« Comment ça se passe. »",
             "pourquoi": "T2/7 : « Comment ça se passe, dit Corvane. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Corroyeur d’un bourg des marges d’Onara",
+            "pourquoi": "Registre §12, T2/7 : le chapitre le place au marché des grains de Drahk’Nor ; c’est l’Atrium qui avait tort."
           }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "lie-1008",
@@ -68947,12 +69140,23 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -203,
+            "y": 90,
+            "confiance": "basse",
+            "terre": "Ilthara",
+            "motif": "Village au bord de la Plaine (fiche), posé sur son bord ouest, près du bras d'eau et du bac de Merric (T2/37).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:48:31.125Z"
     },
     {
       "id": "per-1110",
@@ -71960,14 +72164,23 @@
       "end_circa": 0,
       "era_id": null,
       "seq": 0,
-      "label": "âge ~40 ans vers 1500 ap.A",
+      "label": "âge ~46 ans vers 1500 ap.A (vingt ans de service depuis Herrec, à vingt-six ans)",
       "detail": null,
-      "data": null,
+      "data": {
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "label",
+            "avant": "âge ~40 ans vers 1500 ap.A",
+            "pourquoi": "Chaîne de Vaenor ; start_year 1460 → 1454, et per-0015 data.periode.debut 1460 → 1454."
+          }
+        ]
+      },
       "source_id": "src-0001",
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-0121",
@@ -95891,14 +96104,23 @@
       "end_circa": 0,
       "era_id": null,
       "seq": 0,
-      "label": "Création des Inspecteurs de Pureté par Drahk'Nor (~1460 ap.A).",
+      "label": "Création des Inspecteurs de Pureté par Drahk'Nor (~1474 ap.A).",
       "detail": null,
-      "data": null,
+      "data": {
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "label",
+            "avant": "(~1460 ap.A)",
+            "pourquoi": "Même chaîne ; start_year 1460 → 1474."
+          }
+        ]
+      },
       "source_id": "src-0001",
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1072",
@@ -96087,7 +96309,7 @@
       "fact_type": "autre",
       "subject_id": "evt-0160",
       "object_id": null,
-      "start_year": 1460,
+      "start_year": 1500,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": 1560,
@@ -96103,7 +96325,15 @@
         "methode": "corpus-deduit",
         "confiance": "moyenne",
         "indice_date": "Durcissement du protocole des Inspecteurs de Pureté (créés ~1 460) ; chronologie interne du T2 : ~1 440 → ~1 560 ap.A — bible T2 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
-        "fiche": null
+        "fiche": null,
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "start_year",
+            "avant": 1460,
+            "pourquoi": "calendrier du T2 refait"
+          }
+        ]
       },
       "source_id": "src-0001",
       "status": "canon",
@@ -106488,7 +106718,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 4,
       "label": "Celui qui entend les morts — Ombreth capte le chœur des heures",
-      "detail": "Dans les montagnes d'Alkaran, Ombreth apaise l'Errant de la remise de Sènn — un vieil homme mort de fatigue que personne n'a tenu — en lui chantant sa note jusqu'à ce que « ça sonne creux quelque part », et essuie en cachette le sang qui monte : son don le tue (le fil qui les reliait aux morts « s'était retourné contre eux. Chaque usage était une morsure »), sa fenêtre de coupure est passée depuis deux ans — il n'a pas pu choisir de ne plus entendre. Les Errants se multiplient et il est le dernier à entendre ; il cherche en vain un enfant « avec la chambre au bon endroit ». Au retour, il capte pour la première fois le chœur des Voix Déportées — des voix qui ne s'accordent pas sur l'heure — et les prend pour des morts d'une espèce nouvelle : « Sa seule chambre était une chambre faite pour les morts, et il n'avait, pour entendre, que cette chambre-là ». Il ne sait pas encore que l'enfant qu'il cherche existe, à trente lieues, dans une forge des marges d'Onara. [T2 — L’Heure qui se Referme, ch. 4 — an 1500 ap.A]",
+      "detail": "Dans les montagnes d'Alkaran, Ombreth apaise l'Errant de la remise de Sènn — un vieil homme mort de fatigue que personne n'a tenu — en lui chantant sa note jusqu'à ce que « ça sonne creux quelque part », et essuie en cachette le sang qui monte : son don le tue (le fil qui les reliait aux morts « s'était retourné contre eux. Chaque usage était une morsure »), sa fenêtre de coupure est passée depuis deux ans — il n'a pas pu choisir de ne plus entendre. Les Errants se multiplient et il est le dernier à entendre ; il cherche en vain un enfant « avec la chambre au bon endroit ». Au retour, il capte pour la première fois le chœur des Voix Déportées — des voix qui ne s'accordent pas sur l'heure — et les prend pour des morts d'une espèce nouvelle : « Sa seule chambre était une chambre faite pour les morts, et il n'avait, pour entendre, que cette chambre-là ». Il ne sait pas encore que l'enfant qu'il cherche existe, à cent lieues, par-delà la mer, dans une forge des marges d'Onara. [T2 — L’Heure qui se Referme, ch. 4 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -106514,6 +106744,12 @@
             "champ": "detail",
             "avant": "Il ne saura jamais que l'enfant qu'il cherche existe, à mille lieues, dans une forge des marges d'Onara.",
             "pourquoi": "Double erreur : Ombreth apprend l'existence de Lirenn (T2/15) et la trouve (T2/20) ; et la forge est à trente lieues d'Alkaran, non à mille."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "à trente lieues, dans une forge des marges d'Onara",
+            "pourquoi": "Trajet Alkaran → Forge-Basse à la carte (~110 lieues dont ~90 de mer)."
           }
         ]
       },
@@ -106521,7 +106757,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1356",
@@ -106893,7 +107129,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 14,
       "label": "Tavel, vingt-deux ans — la nuit d'où vient l'Inspectrice",
-      "detail": "Nuit blanche au relais de Vronne : le souvenir enfermé à verrou remonte. Vingt ans plus tôt, le frère de Vaenor, Tavel — vingt-deux ans, un garçon qui riait de tout et parlait au grand-père mort (« rentre, Tavel, il se fait tard ») — disait « ce ne sont que les poutres » en cessant d'y croire. Vaenor pesa : la rumeur de la coupure (« on le dit. Je connais personne. Mais on le dit ») contre le certain de ses mains ; « je l'aime trop pour lui offrir un peut-être ». Elle lui mentit (« tu me soignes ? »), lui versa l'amer dans la mauvaise gnôle, lui tint la nuque pendant qu'il s'endormait en faisant des projets de mariage et de prénoms. Vingt ans après, elle bute sur la question sans fond : le grand-père appelait-il, ou la chose imitait-elle sa voix ? — et comprend pourquoi chaque fiole pèse : « pour avoir eu raison à propos de Tavel, il fallait avoir raison à propos de tous ; il fallait donc continuer ». Le seul registre qu'elle tient fermé : combien de ses apaisés auraient trouvé la main qui sait. [T2 — L’Heure qui se Referme, ch. 14 — an 1480 ap.A]",
+      "detail": "Nuit blanche au relais de Vronne : le souvenir enfermé à verrou remonte. Vingt ans plus tôt, le frère de Vaenor, Tavel — vingt-deux ans, un garçon qui riait de tout et parlait au grand-père mort (« rentre, Tavel, il se fait tard ») — disait « ce ne sont que les poutres » en cessant d'y croire. Vaenor pesa : la rumeur de la coupure (« on le dit. Je connais personne. Mais on le dit ») contre le certain de ses mains ; « je l'aime trop pour lui offrir un peut-être ». Elle lui mentit (« tu me soignes ? »), lui versa l'amer dans la mauvaise gnôle, lui tint la nuque pendant qu'il s'endormait en faisant des projets de mariage et de prénoms. Vingt ans après, elle bute sur la question sans fond : le grand-père appelait-il, ou la chose imitait-elle sa voix ? — et comprend pourquoi chaque fiole pèse : « pour avoir eu raison à propos de Tavel, il fallait avoir raison à propos de tous ; il fallait donc continuer ». Le seul registre qu'elle tient fermé : combien de ses apaisés auraient trouvé la main qui sait. [T2 — L’Heure qui se Referme, ch. 14 — an 1479 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -106913,6 +107149,12 @@
             "champ": "detail",
             "avant": "« pour avoir raison à propos de Tavel il fallait avoir raison à propos de tous, et donc il fallait continuer »",
             "pourquoi": "T2/14 : « Et pour avoir eu raison à propos de Tavel, il fallait avoir raison à propos de tous ; il fallait donc continuer »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "ch. 14 — an 1480 ap.A",
+            "pourquoi": "Tavel meurt quand Vaenor a vingt-cinq ans (née ~1454) ; start_year 1480 → 1479."
           }
         ]
       },
@@ -106920,7 +107162,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1365",
@@ -106936,7 +107178,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 15,
       "label": "Donner l'oreille — le neuvième enfant sourd, puis le nom dans le chœur",
-      "detail": "Ombreth essaie Torvi, quatorze ans, que sa mère croit doué : chambre vide, comme les huit enfants d'avant lui — il chante la note de la vieille du lavoir jusqu'au sang pour rien. La vérité se dénude : « Chaque année, il y avait davantage de morts à faire passer et moins d'oreilles pour les trouver » — les lignées coupées deviennent sourdes, celles que le Fléau prend s'éteignent, et le dernier maître n'a plus d'apprentis. Le soir, dans le chœur des Voix Déportées, une voix pleurante lâche un nom de bourg aux syllabes mouillées des marges d'Onara : « chez nous, il y a une petite qui parle à personne. On dit que c'est le mal. Sa mère est de la forge. Elle ne veut pas qu'on le sache. » Ombreth, Phase 2, décide de descendre trente lieues à pied — moins pour l'héritière que par refus nu : « une enfant poussait toute seule contre un mur, et il savait à peu près où. Il irait. Trente lieues, mourant, et pour rien peut-être ; il irait quand même. » Il ignore qu'il part vers le seul enfant qui l'aurait entendu — et vers la seule femme décidée à faire taire, de sa main, l'oreille qu'il traverse le pays pour éveiller. [T2 — L’Heure qui se Referme, ch. 15 — an 1500 ap.A]",
+      "detail": "Ombreth essaie Torvi, quatorze ans, que sa mère croit doué : chambre vide, comme les huit enfants d'avant lui — il chante la note de la vieille du lavoir jusqu'au sang pour rien. La vérité se dénude : « Chaque année, il y avait davantage de morts à faire passer et moins d'oreilles pour les trouver » — les lignées coupées deviennent sourdes, celles que le Fléau prend s'éteignent, et le dernier maître n'a plus d'apprentis. Le soir, dans le chœur des Voix Déportées, une voix pleurante lâche un nom de bourg aux syllabes mouillées des marges d'Onara : « chez nous, il y a une petite qui parle à personne. On dit que c'est le mal. Sa mère est de la forge. Elle ne veut pas qu'on le sache. » Ombreth, Phase 2, décide de descendre les cols, de passer la mer et de faire cent lieues — moins pour l'héritière que par refus nu : « une enfant poussait toute seule contre un mur, et il savait à peu près où. Il irait. Cent lieues, mourant, et pour rien peut-être ; il irait quand même. » Il ignore qu'il part vers le seul enfant qui l'aurait entendu — et vers la seule femme décidée à faire taire, de sa main, l'oreille qu'il traverse le pays pour éveiller. [T2 — L’Heure qui se Referme, ch. 15 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -106962,6 +107204,18 @@
             "champ": "detail",
             "avant": "« il y a une petite qui parle à personne. Sa mère est de la forge. Elle ne veut pas qu'on le sache. »",
             "pourquoi": "T2/15 : « chez nous, il y a une petite qui parle à personne. On dit que c'est le mal. Sa mère est de la forge. Elle ne veut pas qu'on le sache. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "décide de descendre trente lieues à pied",
+            "pourquoi": "T2/15 retouché."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Il irait. Trente lieues, mourant, et pour rien peut-être ; il irait quand même. »",
+            "pourquoi": "Citation qui n’est plus au texte (T2/15)."
           }
         ]
       },
@@ -106969,7 +107223,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1366",
@@ -106985,7 +107239,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 16,
       "label": "Le journal d'un homme qui doutait — Vaenor lit au lieu de brûler",
-      "detail": "Une copie du journal de Thessan, saisie « contre la poitrine » d'un Tisse mort sur la route de l'est (Teor), arrive sur le bureau de Vaenor Sorne, portée au registre comme détruite. Elle raye « détruit », écrit « en cours de lecture » — « On n'écrit pas détruit sur une chose qui existe encore » — et lit toute la nuit. Elle y cherche la ligne droite du crime originel et trouve un homme qui doutait : « casser » et « délivrer » dans la même phrase, et le fragment que quinze siècles n'ont pas osé tordre. Sa défense — « Lui allait vers l'inconnu ; moi, je sais où je vais » — cède par le côté : Thessan aussi connaissait le mal qu'il tranchait, et doutait quand même. « connaître le mal qu'on tranche ne dit pas qu'on a raison de trancher. » Elle ne brûle pas le cahier : ce serait brûler la seule voix qui lui ait dit qu'« un homme avait coupé sans être sûr, et qu'il ne s'était pas menti là-dessus ». Le verrou de la pièce de Tavel se desserre, ligne à ligne. [T2 — L’Heure qui se Referme, ch. 16 — an 1500 ap.A]",
+      "detail": "Une copie du journal de Thessan, saisie « contre la poitrine » d’un Tisse mort sur une route de l’est, arrive sur le bureau de Vaenor Sorne, portée au registre comme détruite. Elle raye « détruit », écrit « en cours de lecture » — « On n'écrit pas détruit sur une chose qui existe encore » — et lit toute la nuit. Elle y cherche la ligne droite du crime originel et trouve un homme qui doutait : « casser » et « délivrer » dans la même phrase, et le fragment que quinze siècles n'ont pas osé tordre. Sa défense — « Lui allait vers l'inconnu ; moi, je sais où je vais » — cède par le côté : Thessan aussi connaissait le mal qu'il tranchait, et doutait quand même. « connaître le mal qu'on tranche ne dit pas qu'on a raison de trancher. » Elle ne brûle pas le cahier : ce serait brûler la seule voix qui lui ait dit qu'« un homme avait coupé sans être sûr, et qu'il ne s'était pas menti là-dessus ». Le verrou de la pièce de Tavel se desserre, ligne à ligne. [T2 — L’Heure qui se Referme, ch. 16 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -107017,6 +107271,12 @@
             "champ": "detail",
             "avant": "« je coupe vers le connu, lui vers l'inconnu »",
             "pourquoi": "Citation reformulée (grep « je coupe vers le connu » : zéro) ; priorité basse, le sens est conservé."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "d'un Tisse mort sur la route de l'est (Teor)",
+            "pourquoi": "Même nœud."
           }
         ],
         "preuve": [
@@ -107037,7 +107297,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:29:34.719Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1367",
@@ -107120,7 +107380,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 18,
       "label": "Le village qui criait — Herrec, la naissance de la doctrine",
-      "detail": "À vingt-six ans, insigne neuf, Vaenor est envoyée « faire un état » à Herrec, bourg de vanniers : dix-neuf Tisses sur trente feux, dont onze en Phase 3 — « ce n'est pas elle qui crie... C'est son corps qui crie » — le puits gardé aux fourches, le grain volé, un enfant qui se bouche les oreilles et cesse de parler. Un père chuchote « faites quelque chose » ; elle n'a qu'un carnet. Et le maître-vannier Sarn, Phase 2, lucide, lui oppose le seul argument qu'elle ne saura jamais réfuter : « Il y a un homme, entre les deux. […] Le mourant signera toujours pour qu'on ait tué le vivant qu'il était. Vous n'avez qu'à attendre le bon moi pour demander. Vous aurez toujours un moi qui dit oui. […] Mais celui qui est là ce soir vous dit non. » Sur le chemin du retour naît la doctrine : pas d'instant sur la pente, alors elle trace le trait au plus haut — Phase 1 — le trait « restait arbitraire » et appela cela l'apaisement. Des années après, dans Herrec vide, elle comprend qu'elle a choisi le mourant contre le vivant parce qu'elle avait besoin qu'il eût raison. [T2 — L’Heure qui se Referme, ch. 18 — an 1485 ap.A]",
+      "detail": "À vingt-six ans, insigne neuf, Vaenor est envoyée « faire un état » à Herrec, bourg de vanniers : dix-neuf Tisses sur trente feux, dont onze en Phase 3 — « ce n'est pas elle qui crie... C'est son corps qui crie » — le puits gardé aux fourches, le grain volé, un enfant qui se bouche les oreilles et cesse de parler. Un père chuchote « faites quelque chose » ; elle n'a qu'un carnet. Et le maître-vannier Sarn, Phase 2, lucide, lui oppose le seul argument qu'elle ne saura jamais réfuter : « Il y a un homme, entre les deux. […] Le mourant signera toujours pour qu'on ait tué le vivant qu'il était. Vous n'avez qu'à attendre le bon moi pour demander. Vous aurez toujours un moi qui dit oui. […] Mais celui qui est là ce soir vous dit non. » Sur le chemin du retour naît la doctrine : pas d'instant sur la pente, alors elle trace le trait au plus haut — Phase 1 — le trait « restait arbitraire » et appela cela l'apaisement. Des années après, dans Herrec vide, elle comprend qu'elle a choisi le mourant contre le vivant parce qu'elle avait besoin qu'il eût raison. [T2 — L’Heure qui se Referme, ch. 18 — an 1480 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -107146,6 +107406,12 @@
             "champ": "detail",
             "avant": "« Il y a un homme, entre les deux... Le mourant signera toujours pour qu'on ait tué le vivant qu'il était. Vous aurez toujours un moi qui dit oui. Mais celui de ce soir vous dit non. »",
             "pourquoi": "T2/18 : « Vous aurez toujours un moi qui dit oui. » D'un geste dur, il essuya enfin son œil. « Mais celui qui est là ce soir vous dit non. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "ch. 18 — an 1485 ap.A",
+            "pourquoi": "Herrec à vingt-six ans (née ~1454) ; start_year 1481 → 1480."
           }
         ]
       },
@@ -107153,7 +107419,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1369",
@@ -107218,7 +107484,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 20,
       "label": "Le vieux, la forgeronne et l'enfant — la rencontre des trois routes",
-      "detail": "Ombreth arrive à la Forge-Basse, guidé par la chambre neuve de Lirenn (« Ils sont trop nombreux pour elle […] Personne pour les lui faire tenir. Ils vont l'écraser »). L'enfant le lit au premier regard : « Il est comme moi... Il en a trop. Ça lui fait mal d'en avoir tant. » À Kessane il demande la chose pour laquelle il a marché trente lieues — « de ne pas la couper » — et donne sa raison nue : « parce que je voudrais qu'elle m'hérite ». Kessane répond avec deux fers : la chute froide (coupée, vivante) et la barre chaude devant la flamme (entière, morte dans dix-huit mois). Lirenn pose la question qui coince : « Comment ça se fait, que deux personnes qui m'aiment veulent pas la même chose pour moi ? » — « Parce qu'on ne peut pas, petite... personne ne l'a voulu ainsi. » Ombreth part sans répondre à l'appel de la petite chambre — le silence le plus dur de sa vie, « De tous les silences que son métier lui avait demandés, celui-là était le plus lourd » — et s'installe au bourg voisin : « demandez le vieux qui chante ». Son dernier mot : « Prenez soin de vos mains, forgeronne. Ce sont elles qui sauront. » [T2 — L’Heure qui se Referme, ch. 20 — an 1500 ap.A]",
+      "detail": "Ombreth arrive à la Forge-Basse, guidé par la chambre neuve de Lirenn (« Ils sont trop nombreux pour elle […] Personne pour les lui faire tenir. Ils vont l'écraser »). L'enfant le lit au premier regard : « Il est comme moi... Il en a trop. Ça lui fait mal d'en avoir tant. » À Kessane il demande la chose pour laquelle il a fait cent lieues — « de ne pas la couper » — et donne sa raison nue : « parce que je voudrais qu'elle m'hérite ». Kessane répond avec deux fers : la chute froide (coupée, vivante) et la barre chaude devant la flamme (entière, morte dans dix-huit mois). Lirenn pose la question qui coince : « Comment ça se fait, que deux personnes qui m'aiment veulent pas la même chose pour moi ? » — « Parce qu'on ne peut pas, petite... personne ne l'a voulu ainsi. » Ombreth part sans répondre à l'appel de la petite chambre — le silence le plus dur de sa vie, « De tous les silences que son métier lui avait demandés, celui-là était le plus lourd » — et s'installe au bourg voisin : « demandez le vieux qui chante ». Son dernier mot : « Prenez soin de vos mains, forgeronne. Ce sont elles qui sauront. » [T2 — L’Heure qui se Referme, ch. 20 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -107244,6 +107510,12 @@
             "champ": "detail",
             "avant": "(« ils sont trop nombreux pour elle. Ils vont l'écraser »)",
             "pourquoi": "T2/20 : « Ils sont trop nombreux pour elle, pensa-t-il […]. Personne pour les lui faire tenir. Ils vont l'écraser. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "pour laquelle il a marché trente lieues",
+            "pourquoi": "T2/20 : « la chose pour laquelle il avait fait cent lieues »."
           }
         ]
       },
@@ -107251,7 +107523,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1371",
@@ -107541,8 +107813,8 @@
       "end_circa": 0,
       "era_id": "era5_grande_nuit",
       "seq": 27,
-      "label": "Ceux qui restent debout — le Mont-Gris bascule deux cents ans en arrière",
-      "detail": "En Alkaran, la Faille lente « s'installe » : la brume du Doigt-Cassé emporte le hameau du Mont-Gris et dépose ses vingt-deux habitants deux cents ans en arrière, trois mois durant, chez « les pleins ». Une femme y rencontre sa grand-mère Vesle à dix-sept ans (« bonjour l'étrangère »), boit le lait qu'une voisine apporte avant qu'elle ait montré sa faim, et découvre la main tiède — « quand on entre chez des gens qui ont du feu […] La main tiède, c'est ça, mais pour l'âme ». Une nuit, elle entend le chant d'Ombreth traverser l'épaisseur des ans : « entre nous il y avait deux cents ans, et pas un mur ». Puis la Faille rend, et prend son péage : le souvenir du milieu se retire « comme la neige qui fond par en dessous et ne laisse que la croûte ». Le conseil d'Ombreth mourant : « Il n'y a pas de geste pour garder. […] Il y a le geste pour dire. Dis-le tant que tu l'as. […] Ce qu'on donne, il en reste toujours un peu quelque part. […] Donne vite. » Les vingt-deux ressortent les bêtes le lendemain : vides, trompés, et debout. [T2 — L’Heure qui se Referme, ch. 27 — an 1500 ap.A]",
+      "label": "Ceux qui restent debout — le Mont-Gris bascule jusqu’avant l’Arrachement",
+      "detail": "En Alkaran, la Faille lente « s'installe » : la brume du Doigt-Cassé emporte le hameau du Mont-Gris et dépose ses vingt-deux habitants loin en arrière, jusqu’avant le froid, trois mois durant, chez « les pleins ». Une femme y rencontre sa grand-mère Vesle à dix-sept ans (« bonjour l'étrangère »), boit le lait qu'une voisine apporte avant qu'elle ait montré sa faim, et découvre la main tiède — « quand on entre chez des gens qui ont du feu […] La main tiède, c'est ça, mais pour l'âme ». Une nuit, elle entend le chant d'Ombreth traverser l'épaisseur des ans : « entre nous il y avait quinze siècles, et pas un mur ». Puis la Faille rend, et prend son péage : le souvenir du milieu se retire « comme la neige qui fond par en dessous et ne laisse que la croûte ». Le conseil d'Ombreth mourant : « Il n'y a pas de geste pour garder. […] Il y a le geste pour dire. Dis-le tant que tu l'as. […] Ce qu'on donne, il en reste toujours un peu quelque part. […] Donne vite. » Les vingt-deux ressortent les bêtes le lendemain : vides, trompés, et debout. [T2 — L’Heure qui se Referme, ch. 27 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -107574,6 +107846,24 @@
             "champ": "detail",
             "avant": "« il n'y a pas de geste pour garder. Il n'y a que le geste pour dire... Ce qu'on donne, il en reste toujours un peu quelque part... Donne vite. »",
             "pourquoi": "T2/27 : « Il n'y a pas de geste pour garder. » […] « Il y a le geste pour dire. Dis-le tant que tu l'as. À quelqu'un. […] Ce qu'on donne, il en reste toujours un peu quelque part. » […] « Donne vite. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "label",
+            "avant": "le Mont-Gris bascule deux cents ans en arrière",
+            "pourquoi": "T2/27 retouché."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "dépose ses vingt-deux habitants deux cents ans en arrière, trois mois durant",
+            "pourquoi": "T2/27 : « elle vous dépose loin en arrière, jusqu’avant le froid »."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "« entre nous il y avait deux cents ans, et pas un mur »",
+            "pourquoi": "Citation qui n’est plus au texte (verifier-raccord la signale)."
           }
         ]
       },
@@ -107581,7 +107871,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1377",
@@ -107597,7 +107887,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 28,
       "label": "Trois Failles sur la Plaine — celle qui revient et le péage du milieu",
-      "detail": "Le chœur donne « celle qui revient » : partie voir la Plaine de Gryndor — trois Failles fixes tournant « comme trois bêtes attachées au même piquet » depuis douze ans, le clocher qu'on voit deux fois, le pommier qui fleurit et fructifie dans la même heure —, elle est rendue à sa margelle trois hivers plus tard, amputée du milieu, comme le vieux du bout du hameau l'en avait prévenue : « Ce n'est pas de l'oubli. L'oubli, ça remonte un matin sans qu'on l'appelle. Ça, c'est pris. » La loi énoncée : c'est toujours la seconde traversée qui efface — « Franchir, c'est oublier » — « C'est la seconde traversée qui efface. Toujours la seconde » ; les Voix Déportées, jetées une seule fois, sont « les entiers du malheur... le nom sans la pierre ». Et l'avertissement au lecteur : à la fin, sur cette même Plaine, une chose qui n'est pas une femme franchira et oubliera aussi — « vous ne la verrez pas. Vous verrez le trou. Apprenez le trou maintenant, sur une femme, tant que c'est encore une femme. » Toutes les routes du tome se penchent déjà vers le levant. [T2 — L’Heure qui se Referme, ch. 28 — an 1500 ap.A]",
+      "detail": "Le chœur donne « celle qui revient » : partie voir la Plaine de Gryndor — trois Failles fixes tournant « comme trois bêtes attachées au même piquet » depuis douze ans, le clocher qu'on voit deux fois, le pommier qui fleurit et fructifie dans la même heure —, elle est rendue à sa margelle trois hivers plus tard, amputée du milieu, comme le vieux du bout du hameau l'en avait prévenue : « Ce n'est pas de l'oubli. L'oubli, ça remonte un matin sans qu'on l'appelle. Ça, c'est pris. » La loi énoncée : c'est toujours la seconde traversée qui efface — « Franchir, c'est oublier » — « C'est la seconde traversée qui efface. Toujours la seconde » ; les Voix Déportées, jetées une seule fois, sont « les entiers du malheur... le nom sans la pierre ». Et l'avertissement au lecteur : à la fin, sur cette même Plaine, une chose qui n'est pas une femme franchira et oubliera aussi — « vous ne la verrez pas. Vous verrez le trou. Apprenez le trou maintenant, sur une femme, tant que c'est encore une femme. » Toutes les routes du tome se penchent déjà vers Gryndor. [T2 — L’Heure qui se Referme, ch. 28 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -107617,6 +107907,12 @@
             "champ": "detail",
             "avant": "amputée du milieu : « ce n'est pas oublié. Oublié, ça revient. Ça, c'est pris. »",
             "pourquoi": "T2/28 : le vieux, avant son départ : « Ce n'est pas de l'oubli. L'oubli, ça remonte un matin sans qu'on l'appelle. Ça, c'est pris. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Toutes les routes du tome se penchent déjà vers le levant.",
+            "pourquoi": "T2/28 retouché : pour Kessane et Vaenor, venues d’Onara, la Plaine est au couchant."
           }
         ]
       },
@@ -107624,7 +107920,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1378",
@@ -107639,8 +107935,8 @@
       "end_circa": 0,
       "era_id": "era5_grande_nuit",
       "seq": 29,
-      "label": "Les mains qui ne répondent plus — Ombreth entre en Phase 3 et marche vers la Plaine",
-      "detail": "Le retrait de la main commence par un bouton d'os qui ne passe plus le trou. Ombreth apaise la vieille Doale sans les mains — découvrant qu'elles n'avaient jamais servi (les mains « n'avaient fait que suivre, comme un homme qui remue les lèvres en lisant croit lire avec sa bouche ») — devant le Guideur Marech, qui ne sent rien : « on soigne les vivants en leur faisant croire qu'on soigne les morts. La différence entre toi et moi, c'est qu'en plus je fais passer le mort. Et cette différence-là ne se voit pas. » Le chœur des Voix se fait plus net — non qu'elles poussent : la paroi entre les heures s'amincit autour du corps d'un vieux Tisse qui meurt, il marche à travers des Failles sans le savoir. La Forge-Basse s'est vidée en une nuit, la mère et la fille ont fui vers l'ouest, vers « un endroit troué. Une plaine ». Le briquet tombe des doigts morts ; plus de feu. Il part pour trente lieues avec le bâton de sa mère, le linge à sang, et « une note gardée pour une enfant » — le peu qui s'apprend, à déposer « pour plus tard, pour une porte qu'il ne rouvrirait pas lui-même ». [T2 — L’Heure qui se Referme, ch. 29 — an 1500 ap.A]",
+      "label": "Les mains qui ne répondent plus — Ombreth entre en Phase 3 et se prépare pour la Plaine",
+      "detail": "Le retrait de la main commence par un bouton d'os qui ne passe plus le trou. Ombreth apaise la vieille Doale sans les mains — découvrant qu'elles n'avaient jamais servi (les mains « n'avaient fait que suivre, comme un homme qui remue les lèvres en lisant croit lire avec sa bouche ») — devant le Guideur Marech, qui ne sent rien : « on soigne les vivants en leur faisant croire qu'on soigne les morts. La différence entre toi et moi, c'est qu'en plus je fais passer le mort. Et cette différence-là ne se voit pas. » Le chœur des Voix se fait plus net — non qu'elles poussent : la paroi entre les heures s'amincit autour du corps d'un vieux Tisse qui meurt, il marche à travers des Failles sans le savoir. Rentré en Alkaran avant l’hiver, il ne sait ni la coupure ni la fuite ; il sait seulement ce que la forgeronne lui a dit à l’automne : qu’au besoin elle partirait vers l’ouest, par la mer, vers « un endroit troué. Une plaine ». Le briquet tombe des doigts morts ; plus de feu. Il rassemble, pour une route qui passe la mer, le bâton de sa mère, le linge à sang, et « une note gardée pour une enfant » — le peu qui s'apprend, à déposer « pour plus tard, pour une porte qu'il ne rouvrirait pas lui-même ». [T2 — L’Heure qui se Referme, ch. 29 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -107672,6 +107968,24 @@
             "champ": "detail",
             "avant": "« une note qu'il gardait pour une enfant »",
             "pourquoi": "T2/29 : « Et dans la poitrine une note gardée pour une enfant »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "La Forge-Basse s'est vidée en une nuit, la mère et la fille ont fui vers l'ouest, vers « un endroit troué. Une plaine ».",
+            "pourquoi": "T2/29 retouché : Ombreth n’a vu la forge qu’une fois (T2/33) et ignore si la coupure a eu lieu."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Il part pour trente lieues avec le bâton de sa mère",
+            "pourquoi": "T2/29 : il rassemble ses affaires ; il meurt avant de partir (T2/33)."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "label",
+            "avant": "Ombreth entre en Phase 3 et marche vers la Plaine",
+            "pourquoi": "Même raison."
           }
         ]
       },
@@ -107679,7 +107993,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1379",
@@ -108265,7 +108579,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 43,
       "label": "À distance, entre deux Failles — le duel s'achève sur un vallon de givre",
-      "detail": "Vaenor entre seule dans la Plaine (« Si je ne ressors pas dans trois jours, vous ne venez pas me chercher ») — l'escorte tient l'entrée, un Inspecteur sur trois en est ressorti sans savoir son propre nom. Elle a lu la forgeronne quatre mois au négatif : « D'autres fuyardes semaient des morts derrière elles […]. Celle-ci semait des survivants. […] Personne ne la voyait, et ce qui restait derrière elle avait pris une autre trempe. » Le deuxième jour, elle les voit : la femme et l'enfant sur une crête, séparées d'elle par une nappe de givre — « une épaisseur de temps couchée en travers du monde, que les jambes ne mesuraient pas ». Lirenn tourne la tête vers elle ; Vaenor comprend peut-être pourquoi elle n'est jamais revenue au moulin (peut-être pour qu'une main qui savait couper arrive avant elle, peut-être « pour n'avoir pas à savoir »). La traque finit sans capture ni cri (« Pas sur une capture. Sur un vallon. ») ; entre leurs deux coupes, « il n'en sortait pas de troisième ». Et elle sent la lenteur immense qui compte sous la Plaine — « ça clôture » — sachant déjà que son rapport sera « propre, écrit dans les formes, et qu'il n'y aurait rien de vrai dedans ». Un deuxième doigt se referme. [T2 — L’Heure qui se Referme, ch. 43 — an 1500 ap.A]",
+      "detail": "Vaenor entre seule dans la Plaine (« Si je ne ressors pas dans trois jours, vous ne venez pas me chercher ») — l'escorte tient l'entrée, un Inspecteur sur trois en est ressorti sans savoir son propre nom. Elle a lu la forgeronne quatre mois au négatif : « D'autres fuyardes semaient des morts derrière elles […]. Celle-ci semait des survivants. […] Personne ne la voyait, et ce qui restait derrière elle avait pris une autre trempe. » Le deuxième jour, elle les voit : la femme et l'enfant sur une crête, séparées d'elle par une nappe de givre — « une épaisseur de temps couchée en travers du monde, que les jambes ne mesuraient pas ». Lirenn tourne la tête vers elle ; Vaenor comprend peut-être pourquoi elle n’est pas revenue au moulin le lendemain (peut-être pour qu'une main qui savait couper arrive avant elle, peut-être « pour n'avoir pas à savoir »). La traque finit sans capture ni cri (« Pas sur une capture. Sur un vallon. ») ; entre leurs deux coupes, « il n'en sortait pas de troisième ». Et elle sent la lenteur immense qui compte sous la Plaine — « ça clôture » — sachant déjà que son rapport sera « propre, écrit dans les formes, et qu'il n'y aurait rien de vrai dedans ». Un deuxième doigt se referme. [T2 — L’Heure qui se Referme, ch. 43 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -108309,6 +108623,12 @@
             "champ": "detail",
             "avant": "ni cri : « il n'y avait pas de tiers » entre leurs deux coupes.",
             "pourquoi": "T2/43 : « Voilà où finit la traque. Pas sur une capture. Sur un vallon. » ; « Les deux tenaient debout, et il n'en sortait pas de troisième. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "pourquoi elle n'est jamais revenue au moulin",
+            "pourquoi": "T2/43 retouché (registre §12, T2/23 contre T2/43)."
           }
         ]
       },
@@ -108316,7 +108636,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1391",
@@ -108613,7 +108933,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0013",
       "object_id": null,
-      "start_year": 1502,
+      "start_year": 1501,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -108622,7 +108942,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 49,
       "label": "Là où d'autres pourront le ramasser — Kessane mure le cahier",
-      "detail": "Deux ans après la fuite, aux marges de la plaine recousue, Kessane répond sans mentir à Lirenn (« T'es pas sûre. » — « Je suis pas sûre. […] Ce que je sais, c'est que t'es là. Ça, je le tiens. Le reste, je le porte. ») et fait du cahier ce qu'on fait des choses qu'on ne peut ni tuer ni garder : elle le dépose. Dans un cuir huilé, derrière une pierre descellée du mur de la grange — reprenant sciemment, à quinze siècles de distance, le geste de l'homme qui mura l'original dans la roche : « on les pose. On les laisse attendre. […] Quelqu'un de mieux que nous. […] Quelqu'un qui saura le lire sans avoir besoin qu'il tranche. » Le bilan des écritures : quatre papiers mêlés de faux et d'un seul mot resté vrai — l'original perdu dans la montagne, le cahier du geste muré dans la grange, la copie du récit scellée au coffre des Inspecteurs, et le rapport qu'une Inspectrice a falsifié deux ans plus tôt , déposés dans le temps par des mains qui ne se connaissent pas. Germe du tome 3. [T2 — L’Heure qui se Referme, ch. 49 — an 1502 ap.A]",
+      "detail": "Un an après la fuite, aux marges de la plaine recousue, Kessane répond sans mentir à Lirenn (« T'es pas sûre. » — « Je suis pas sûre. […] Ce que je sais, c'est que t'es là. Ça, je le tiens. Le reste, je le porte. ») et fait du cahier ce qu'on fait des choses qu'on ne peut ni tuer ni garder : elle le dépose. Dans un cuir huilé, derrière une pierre descellée du mur de la grange — reprenant sciemment, à quinze siècles de distance, le geste de l'homme qui mura l'original dans la roche : « on les pose. On les laisse attendre. […] Quelqu'un de mieux que nous. […] Quelqu'un qui saura le lire sans avoir besoin qu'il tranche. » Le bilan des écritures : quatre papiers mêlés de faux et d'un seul mot resté vrai — l'original perdu dans la montagne, le cahier du geste muré dans la grange, la copie du récit scellée au coffre des Inspecteurs, et le rapport qu'une Inspectrice a falsifié un an plus tôt , déposés dans le temps par des mains qui ne se connaissent pas. Germe du tome 3. [T2 — L’Heure qui se Referme, ch. 49 — an 1501 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -108660,6 +108980,30 @@
             "champ": "detail",
             "avant": "« on les pose. On les laisse attendre... Quelqu'un de mieux que nous. Quelqu'un qui saura le lire sans avoir besoin qu'il tranche. »",
             "pourquoi": "T2/49 : « Alors on les pose. On les laisse attendre. / — Attendre quoi ? / — Quelqu’un de mieux que nous. » Kessane regarda la pierre […] « Quelqu’un qui saura le lire sans avoir besoin qu’il tranche. » — coupes marquées […]"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Deux ans après la fuite",
+            "pourquoi": "T2/49 retouché : Lirenn a onze ans passés, un an après la fuite."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "falsifié deux ans plus tôt",
+            "pourquoi": "Même calendrier."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "ch. 49 — an 1502 ap.A",
+            "pourquoi": "Même calendrier ; start_year 1502 → 1501."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "start_year",
+            "avant": 1502,
+            "pourquoi": "calendrier du T2 refait"
           }
         ]
       },
@@ -108667,7 +109011,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1397",
@@ -115129,7 +115473,7 @@
       "era_id": null,
       "seq": 0,
       "label": null,
-      "detail": "Olven donne au Tisse en Phase 2 une copie du journal, sachant qu'elle ne le protégera pas. Teor meurt sur la route de l'est, le paquet contre la poitrine, les mains prises quand il aurait pu les avoir libres.",
+      "detail": "Olven donne au Tisse en Phase 2 une copie du journal, sachant qu'elle ne le protégera pas. Teor part vers la Faille lente de l’est, le paquet contre la poitrine ; le texte ne dit pas sa fin.",
       "data": {
         "verbe_recit": "transmet",
         "preuve": [
@@ -115142,13 +115486,21 @@
         "source_date": "inference",
         "methode": "fait-date",
         "confiance": "haute",
-        "indice_date": "période du sujet (1500→1500)"
+        "indice_date": "période du sujet (1500→1500)",
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Teor meurt sur la route de l'est, le paquet contre la poitrine, les mains prises quand il aurait pu les avoir libres.",
+            "pourquoi": "Même nœud."
+          }
+        ]
       },
       "source_id": "oeu-0003",
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1537",
@@ -115164,7 +115516,7 @@
       "era_id": null,
       "seq": 0,
       "label": null,
-      "detail": "Le cahier saisi sur le corps de Teor arrive sur le bureau de Vaenor porté au registre comme détruit. Elle raye « détruit » et écrit « en cours de lecture » — « On n'écrit pas détruit sur une chose qui existe encore » — et lit toute la nuit. C'est là, et non à l'interrogatoire d'Olven, que le raisonnement de Thessan la mord.",
+      "detail": "Un cahier saisi sur le corps d’un Tisse mort à l’est arrive sur le bureau de Vaenor porté au registre comme détruit. Elle raye « détruit » et écrit « en cours de lecture » — « On n'écrit pas détruit sur une chose qui existe encore » — et lit toute la nuit. C'est là, et non à l'interrogatoire d'Olven, que le raisonnement de Thessan la mord.",
       "data": {
         "verbe_recit": "evenement",
         "preuve": [
@@ -115180,6 +115532,12 @@
             "champ": "detail",
             "avant": "« une chose est détruite quand elle a cessé d'être, pas quand on a décidé qu'elle cesserait »",
             "pourquoi": "Même fausse citation que fac-1366."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Le cahier saisi sur le corps de Teor arrive",
+            "pourquoi": "Même nœud ; start_year 1460 → 1500 (T2/16 est l’hiver de la Refermeture)."
           }
         ],
         "source_date": "inference",
@@ -115191,7 +115549,7 @@
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:48:30.872Z"
     },
     {
       "id": "fac-1538",

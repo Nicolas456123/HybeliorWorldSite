@@ -55,7 +55,7 @@ Vellan baissa les yeux dessus comme sur une chose qu’il découvrait, et c’é
 
 — Elle ne vient pas de chez moi. »
 
-Le jeune n’avait rien à mettre là-dessus, et Vaskar ne l’y aida pas. Il connaissait ce petit froid dans la nuque, le même qui l’avait pris deux mois plus tôt devant une ligne recopiée : la reconnaissance qui parle avant la tête. La note disait la femme mieux que ses propres agents, un jour plus tôt qu’eux, dans une écriture qui n’était d’aucune de ses plumes. Quelqu’un d’autre suivait la même femme. Quelqu’un qui n’avait pas eu besoin de mesurer un retard, faute d’en avoir un.
+Le jeune n’avait rien à mettre là-dessus, et Vaskar ne l’y aida pas. Il connaissait ce petit froid dans la nuque, le même qui l’avait pris trois semaines plus tôt devant une ligne recopiée : la reconnaissance qui parle avant la tête. La note disait la femme mieux que ses propres agents, un jour plus tôt qu’eux, dans une écriture qui n’était d’aucune de ses plumes. Quelqu’un d’autre suivait la même femme. Quelqu’un qui n’avait pas eu besoin de mesurer un retard, faute d’en avoir un.
 
 « Laissez-moi le dossier. Remontez. » Il tint la chemise sous sa main, comme il faisait des choses qu’il n’avait pas fini de lire. « Et Vellan. Vous n’avez tenu personne cette nuit. Arrêter, c’est prendre un corps : des mains, un mur, une heure qu’on porte au registre. Vous avez fermé une distance. C’est un autre ouvrage.
 

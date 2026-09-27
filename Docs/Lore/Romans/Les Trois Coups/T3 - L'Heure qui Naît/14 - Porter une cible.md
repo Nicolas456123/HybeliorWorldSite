@@ -31,7 +31,7 @@ Elle s’arrêta au milieu du chemin.
 
 Elles reprirent la descente. Sanne garda le pas qu’elle avait, parce qu’un pas qui change se voit de plus loin qu’un visage, et parce qu’elle voulait qu’on la crût tranquille. Car il y avait l’homme.
 
-Elle l’avait pris deux fois depuis l’aube, sans le chercher. La première au sortir du bois de Roshel : une silhouette sur la ligne d’une crête, derrière elles, immobile le temps qu’elle tourne la tête, absente quand elle la retourna. La seconde au gué de la Vèdre haute, en contrebas : un homme seul, sans bête, sans ballot, qui s’était accroupi au bord de l’eau pour boire à l’instant précis où le regard de Sanne passait sur lui. Un homme qui boit au gué, on en croise dix par jour. Un homme qui se met à boire juste quand on le regarde, et qui n’a ni bête à abreuver ni gourde à remplir, se conduit comme un fer qui fait le froid sous le marteau : il joue le mort, et c’est là qu’il faut le tenir à l’œil.
+Elle l’avait pris deux fois depuis l’aube, sans le chercher. La première au sortir du bois : une silhouette sur la ligne d’une crête, derrière elles, immobile le temps qu’elle tourne la tête, absente quand elle la retourna. La seconde au gué de la Vèdre haute, en contrebas : un homme seul, sans bête, sans ballot, qui s’était accroupi au bord de l’eau pour boire à l’instant précis où le regard de Sanne passait sur lui. Un homme qui boit au gué, on en croise dix par jour. Un homme qui se met à boire juste quand on le regarde, et qui n’a ni bête à abreuver ni gourde à remplir, se conduit comme un fer qui fait le froid sous le marteau : il joue le mort, et c’est là qu’il faut le tenir à l’œil.
 
 « Wenna. Tu as vu quelqu’un derrière nous ce matin ?
 
@@ -127,7 +127,7 @@ Sanne y avait pensé. Elle y pensait chaque nuit depuis que la route s’était 
 
 Merik remit son chapeau sur ses genoux et le tourna encore une fois.
 
-« Alors descends, dit-il. Puisque tu n’en démordras pas, descends. Il court une histoire, sur les routes du sud. Une maison de papier qui aurait pris en dépôt, cet automne, les cahiers d’un voyageur revenu de partout. Une copiste qui prend tout ce qu’on lui met sous la main et n’interroge personne. On répète qu’il y a là-bas une carte trop grande pour un seul homme. » Il balaya de la main la moitié de ce qu’il venait de dire. « Les colporteurs enjolivent, je sais. Mais s’il existe un endroit au monde où l’on pose ce qu’on ne peut plus tenir, c’est peut-être celui-là.
+« Alors prends la mer, dit-il. Puisque tu n’en démordras pas, prends la mer. Il court une histoire, sur les routes du sud. Une maison de papier qui aurait pris en dépôt, cet automne, les cahiers d’un voyageur revenu de partout. Une copiste qui prend tout ce qu’on lui met sous la main et n’interroge personne. On répète qu’il y a là-bas une carte trop grande pour un seul homme. » Il balaya de la main la moitié de ce qu’il venait de dire. « Les colporteurs enjolivent, je sais. Mais s’il existe un endroit au monde où l’on pose ce qu’on ne peut plus tenir, c’est peut-être celui-là.
 
 — Prismalith, dit Sanne.
 

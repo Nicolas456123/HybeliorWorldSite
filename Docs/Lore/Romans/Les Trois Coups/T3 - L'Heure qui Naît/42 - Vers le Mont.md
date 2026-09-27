@@ -15,15 +15,15 @@ Aux Fonds, s’assurer d’une chose coûtait vingt pas et une lampe.
 
 C’était la première discipline de la maison, celle qu’on apprenait avant la cote et avant le scellé : ne rien porter sur une ligne qu’on ne pût rouvrir. Un chiffre qui boitait, une date en désaccord d’un jour avec le relevé du poste, une écriture qui changeait de pente au milieu d’une page, et Vaskar Sorne se levait, prenait la lampe, marchait jusqu’au rang, tirait la pièce et regardait. Vingt pas à l’aller, vingt au retour. Le prix était si bas qu’il ne l’avait jamais compté comme un prix.
 
-Il le comptait depuis quatre jours. Sur cette route, aller voir coûtait trois semaines.
+Il le comptait depuis quatre jours, dont deux de mer. Sur cette route, aller voir coûtait dix jours.
 
-En vingt ans, on lui avait tout apporté. Le monde montait à sa table feuillet par feuillet, refroidi, mis au propre, déjà classé par d’autres mains avant d’arriver aux siennes ; le terrain appartenait à ceux qui couraient, et il attendait que la course fût finie pour recevoir ce qu’elle avait pris. Cette fois, ce qu’il fallait prendre marchait. Un cahier qu’on aurait dû tenir sous scellé était passé dans des mains qu’aucune clef ne fermait, et quelqu’un, à Cendara, l’avait vu circuler. On ne fait pas monter à soi une chose qui marche. Il était en selle, dans le haut pays, sur une route qui montait, et il touchait le monde à la température où il fait mal.
+En vingt ans, on lui avait tout apporté, à une descente près. Le monde montait à sa table feuillet par feuillet, refroidi, mis au propre, déjà classé par d’autres mains avant d’arriver aux siennes ; le terrain appartenait à ceux qui couraient, et il attendait que la course fût finie pour recevoir ce qu’elle avait pris. Cette fois, ce qu’il fallait prendre marchait. Un cahier qu’on aurait dû tenir sous scellé était passé dans des mains qu’aucune clef ne fermait, et quelqu’un, à Cendara, l’avait vu circuler. On ne fait pas monter à soi une chose qui marche. Il était en selle, dans le haut pays, sur une route qui montait, et il touchait le monde à la température où il fait mal.
 
 *
 
 La route prit de la pente au troisième jour, et l’air changea de goût.
 
-Ils étaient huit, ce qui pour les Ombres faisait une expédition et pour une armée n’aurait pas fait un poste. Six hommes de terrain, son élève et lui. Les six montaient comme on respire ; lui montait mal, en homme dont le corps n’avait jamais eu d’autre emploi que de porter sa tête jusqu’au bon rang et de l’en ramener. Personne ne le lui disait. On l’aidait aux gués sans le nommer, on ralentissait aux côtes sans l’avouer, et il prenait cette prévenance pour ce qu’elle était : on le portait comme on porte un dossier, avec soin et sans tendresse, parce qu’il servait. Karsel allait à sa hauteur, mal lui aussi, en homme des rayons, une main toujours à la corde de la mule ; et la mule portait le coffre bas où dormaient le fer, la clef et la cire, tout l’attirail de qui ferme une chose, que l’élève de deux mois surveillait comme une leçon qu’il n’avait pas fini d’apprendre.
+Ils étaient huit, ce qui pour les Ombres faisait une expédition et pour une armée n’aurait pas fait un poste. Six hommes de terrain, son élève et lui. Les six montaient comme on respire ; lui montait mal, en homme dont le corps n’avait jamais eu d’autre emploi que de porter sa tête jusqu’au bon rang et de l’en ramener. Personne ne le lui disait. On l’aidait aux gués sans le nommer, on ralentissait aux côtes sans l’avouer, et il prenait cette prévenance pour ce qu’elle était : on le portait comme on porte un dossier, avec soin et sans tendresse, parce qu’il servait. Karsel allait à sa hauteur, mal lui aussi, en homme des rayons, une main toujours à la corde de la mule ; et la mule portait le coffre bas où dormaient le fer, la clef et la cire, tout l’attirail de qui ferme une chose, que l’élève surveillait comme une leçon qu’il n’avait pas fini d’apprendre.
 
 Vellan menait le détail. Vaskar l’avait choisi pour cela deux semaines plus tôt, à la table de fer, la nuit où la nouvelle était montée du haut pays : quelqu’un, à Cendara, avait vu circuler ce qui aurait dû rester scellé. Vellan lisait une route de terre et de relais mieux que personne, là où Vaskar ne savait lire que celles qu’on trace en croix noires sur du papier. Vellan voulait aussi un nom au bout du fil avant de l’avoir remonté, et il le voulut ce soir-là, au premier relais du haut pays.
 
@@ -59,7 +59,7 @@ Restait ce qu’il en gardait. Il se le récita, comme il se récitait les cotes
 
 Puis il lui vint une demande dont il n’avait jamais eu l’usage de sa vie de métier. Aurait-il juré que le cahier d’Olven disait ce qu’il se rappelait qu’il disait ?
 
-Il l’avait lu une fois, à la lampe, une seule nuit, et il ne l’avait plus eu depuis qu’en tête. Ce qu’il en gardait dans la tête était une copie de plus. Elle perdait ses bords, elle se mettait au propre toute seule, elle prenait la pente de celui qui la portait, et rien ne dirait jamais à quelle nuit elle avait commencé de bouger. Il transportait, sous ses côtes, une copie dont l’original était à trois semaines de cheval. Pour savoir, il aurait fallu repartir.
+Il l’avait lu une fois, à la lampe, une seule nuit, et il ne l’avait plus eu depuis qu’en tête. Ce qu’il en gardait dans la tête était une copie de plus. Elle perdait ses bords, elle se mettait au propre toute seule, elle prenait la pente de celui qui la portait, et rien ne dirait jamais à quelle nuit elle avait commencé de bouger. Il transportait, sous ses côtes, une copie dont l’original était à cinq jours de mer et de cheval. Pour savoir, il aurait fallu repartir.
 
 Une ligne tenait, qu’il n’avait pas besoin de vérifier, et de tout ce qu’il portait elle était la seule dont il pût dire cela.
 
@@ -113,7 +113,7 @@ C’était pourtant tout ce qu’un homme, en quatre jours, pouvait rapporter d�
 
 Vellan vint le trouver plus tard, dans cette même nuit d’où l’on voyait le Mont barrer un tiers du ciel, et il vint sans nom au bout du fil, ce qui était nouveau chez lui.
 
-« On arrivera demain avant le soir, dit-il. Le relais du bas donne des nouvelles fraîches. Il y a eu du monde à Cendara, ces jours-ci, plus qu’il n’en faut pour une bourgade de bergers. Des gens de Caeloria pour les enfants. Des pèlerins des deux cultes, ceux du feu et ceux du retour, qui se disputent la montée. Et une femme, disent-ils, avec un petit dont les yeux sont blancs, que le Mont attire, ou qui attire le Mont, ils ne savent plus dire dans quel sens. » Il s’accroupit près du feu mort. « On monte pour prendre un cahier et le sceller. C’est l’ordre. Mais je vous demande, à vous qui lisez : quand on l’aura, ce cahier, quand il sera sous scellé et rentré au froid, ce qui monte là-dessous, ça s’arrêtera ?
+« On arrivera demain avant le soir, dit-il. Le relais du bas donne des nouvelles fraîches. Il y a eu du monde à Taldre, ces jours-ci, plus qu’il n’en faut pour une bourgade de bergers. Des gens de Caeloria pour les enfants. Des pèlerins des deux cultes, ceux du feu et ceux du retour, qui se disputent la montée. Et une femme, disent-ils, avec un petit dont les yeux sont blancs, que le Mont attire, ou qui attire le Mont, ils ne savent plus dire dans quel sens. » Il s’accroupit près du feu mort. « On monte pour prendre un cahier et le sceller. C’est l’ordre. Mais je vous demande, à vous qui lisez : quand on l’aura, ce cahier, quand il sera sous scellé et rentré au froid, ce qui monte là-dessous, ça s’arrêtera ?
 
 — Non, dit Vaskar.
 
@@ -145,7 +145,7 @@ Vingt ans qu’il refusait des rapports bâtis de cette façon.
 
 Il avait mis un nom là-dessus, la nuit où il avait signé la demi-page de la femme des marches. Il l’avait pensé sans l’écrire nulle part : ce qu’on tient pour vrai faute d’avoir tenu le vrai. La page qu’il rentrerait du Mont serait de cette espèce. Elle survivrait à cette nuit, à ce Mont, à lui.
 
-Entre l’ordre qu’il portait et la page qu’il rendrait, il restait un temps que l’ordre ne prévoyait pas, et ce serait là sa part véritable. Il ne scellerait rien, et il serait là pour voir ce que six hommes de terrain et un élève de deux mois verraient avec lui, et il en ferait une page propre, parce qu’il n’y avait pas d’autre forme où le faire tenir.
+Entre l’ordre qu’il portait et la page qu’il rendrait, il restait un temps que l’ordre ne prévoyait pas, et ce serait là sa part véritable. Il ne scellerait rien, et il serait là pour voir ce que six hommes de terrain et un élève d’un an verraient avec lui, et il en ferait une page propre, parce qu’il n’y avait pas d’autre forme où le faire tenir.
 
 Il resta contre la pierre jusqu’au gris du matin, et il ne pria pas, ne connaissant d’autre prière que de mettre deux choses côte à côte. Il n’avait rien à poser à côté, et personne à qui faire contresigner la nuit.
 

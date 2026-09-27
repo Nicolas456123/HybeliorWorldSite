@@ -171,7 +171,7 @@ Elle attendit. L’enfant ne cilla pas.
 
 Lirenn ne dit rien. Mais ses yeux, très noirs dans la lumière fausse de la Plaine, ne lâchaient pas ceux de sa mère.
 
-« Un Tisse, sur cette plaine, il entend les déchirures venir. Et un Tisse, sur cette plaine, il crache le sang au bout de six mois et il meurt en criant sans savoir qu’il crie. Toi, tu entends rien venir. Et toi, tu vas vivre. » Kessane prit le visage de sa fille dans ses deux mains, ses mains de forge, dures, calleuses, tièdes. « J’ai échangé ton oreille contre ta vie. C’est un marché de voleur. Je l’ai fait sans te demander, parce que t’avais dix ans et qu’on demande pas à un enfant s’il préfère mourir en entendant ou vivre en sourd. Un jour tu m’en voudras. Tu auras raison de m’en vouloir. Et le même jour tu seras vivante pour m’en vouloir, et ça. » Sa voix se cassa, une fois, se reprit, dure à nouveau. « Ça, personne me l’enlèvera. Tu m’en voudras vivante. C’est tout ce que je voulais. Une fille vivante qui m’en veut. Pas une fille entière dans un trou. »
+« Un Tisse, sur cette plaine, il entend les déchirures venir. Et un Tisse, sur cette plaine, il crache le sang, et au bout de dix-huit mois il meurt en criant sans savoir qu’il crie. Toi, tu entends rien venir. Et toi, tu vas vivre. » Kessane prit le visage de sa fille dans ses deux mains, ses mains de forge, dures, calleuses, tièdes. « J’ai échangé ton oreille contre ta vie. C’est un marché de voleur. Je l’ai fait sans te demander, parce que t’avais dix ans et qu’on demande pas à un enfant s’il préfère mourir en entendant ou vivre en sourd. Un jour tu m’en voudras. Tu auras raison de m’en vouloir. Et le même jour tu seras vivante pour m’en vouloir, et ça. » Sa voix se cassa, une fois, se reprit, dure à nouveau. « Ça, personne me l’enlèvera. Tu m’en voudras vivante. C’est tout ce que je voulais. Une fille vivante qui m’en veut. Pas une fille entière dans un trou. »
 
 Sous les genoux de Kessane, l’herbe était chaude de soleil d’un côté et raide de givre de l’autre, à deux doigts d’écart.
 
@@ -207,7 +207,7 @@ Depuis la cave, depuis la nuit d’avant la fuite, elle ne l’avait pas rouvert
 
 Mais cette nuit, sur la crête douteuse, entre deux Failles qui se hâtaient dans le noir, avec sa fille sourde qui dormait à sa hanche et un vieux passé le matin sans un cri, elle l’ouvrit. Et ce fut à une autre page.
 
-À la lumière fausse, elle chercha. Même la nuit, sur Gryndor, n’était pas tout à fait la nuit ; il y avait, entre les tremblements, des restes de jour qui ne se décidaient pas à partir, des flaques de crépuscule accrochées à l’herbe comme de la brume. Elle chercha le troisième feuillet, celui que le copiste avait recopié entier, vérifié trois fois, de sa main à lui. Le noyau. La chose que quinze siècles n’avaient pas usée.
+À la lumière fausse, elle chercha. Même la nuit, sur Gryndor, n’était pas tout à fait la nuit ; il y avait, entre les tremblements, des restes de jour qui ne se décidaient pas à partir, des flaques de crépuscule accrochées à l’herbe comme de la brume. Elle chercha le troisième feuillet, celui que le copiste avait posé contre le sien, sur l’établi, pour voir si la phrase y était pareille. Le noyau. La chose que quinze siècles n’avaient pas usée.
 
 Elle le trouva.
 
@@ -223,7 +223,7 @@ Sa voix, dans le noir, ne fit pas plus de bruit que la gamelle de fer-blanc cont
 
 Elle ne referma pas le cahier, et resta longtemps sans bouger.
 
-Elle ignorait qui avait écrit ces lignes. Le copiste le lui avait dit à mots couverts, quand elle avait pris le cahier : un homme, un très vieil homme mort depuis toujours, qui avait vu quelque chose de terrible et l’avait noté pour qu’on sache. Elle ignorait son nom. Le nom s’était usé en route, comme s’use un nom de ville dans l’encre recopiée, et il ne lui restait de cet homme qu’un manque sans nom, de la sorte que sa fille lui avait décrite un soir au bord d’un feu : on sait qu’on a tenu quelque chose, on ne sait plus quoi.
+Elle ignorait qui avait écrit ces lignes. Le copiste le lui avait dit à mots couverts, la nuit des deux cahiers : un homme, un très vieil homme mort depuis toujours, qui avait vu quelque chose de terrible et l’avait noté pour qu’on sache. Elle ignorait son nom. Le nom s’était usé en route, comme s’use un nom de ville dans l’encre recopiée, et il ne lui restait de cet homme qu’un manque sans nom, de la sorte que sa fille lui avait décrite un soir au bord d’un feu : on sait qu’on a tenu quelque chose, on ne sait plus quoi.
 
 Mais elle savait ceci, qui suffisait : l’homme qui avait écrit cela l’avait écrit au bord d’un geste qu’il ne croyait pas bien et qu’il faisait quand même, parce qu’il le croyait forcé. Et elle, cette nuit, sur cette crête, entre deux trous du monde, elle était au même bord exact. Sa fille, elle l’avait coupée. Elle l’avait fait sans y croire, et elle le referait sans y croire davantage. L’homme mort avait posé quinze siècles entre eux pour qu’elle pût, cette nuit, mettre sa main de forge sur la sienne à travers le temps et savoir qu’elle n’était pas la première à faire une chose terrible sans y croire.
 

@@ -170,9 +170,9 @@ Sa respiration s’allongea, se fit plus paisible, rien qu’à l’idée du ret
 
 ---
 
-Ils reprirent la route au petit jour, à pied cette fois, car aucun chariot ne remontait vers le Mont, personne ne remontait vers le Mont, et Renna dut porter l’enfant sur la moitié du chemin. Il pesait de moins en moins. Il ne maigrissait plus : il se remplissait. À mesure que la rivière lente s’éloignait derrière eux et que la pente se redressait vers les Genêts, quelque chose rentrait dans le petit corps par le chemin même où c’était sorti.
+Ils reprirent la route au petit jour, à pied cette fois, car aucun chariot ne remontait vers le Mont, personne ne remontait vers le Mont, et Renna dut porter l’enfant sur la moitié du chemin, deux jours durant. Il pesait de moins en moins. Il ne maigrissait plus : il se remplissait. À mesure que la rivière lente s’éloignait derrière eux et que la pente se redressait vers les Genêts, quelque chose rentrait dans le petit corps par le chemin même où c’était sorti.
 
-Au col, l’enfant demanda à descendre de ses bras. Là où, trois jours plus tôt, il s’était arrêté le sang gelé, il s’arrêta de nouveau, et autrement. Le visage rendu au sud, la luisance revenue aux yeux, il se tendit de tout le corps vers la masse grise qui rentrait dans le ciel comme un mot qu’on retrouve. N’importe qui, sur cette route, aurait vu vers quoi.
+Au col, l’enfant demanda à descendre de ses bras. Là où, quatre jours plus tôt, il s’était arrêté le sang gelé, il s’arrêta de nouveau, et autrement. Le visage rendu au sud, la luisance revenue aux yeux, il se tendit de tout le corps vers la masse grise qui rentrait dans le ciel comme un mot qu’on retrouve. N’importe qui, sur cette route, aurait vu vers quoi.
 
 « Le voilà, dit-il, et il souriait, ce qu’il n’avait plus fait depuis les Basses-Ondes. Il m’a attendu. Il a pas bougé. Il savait bien que tu me ramènerais.
 

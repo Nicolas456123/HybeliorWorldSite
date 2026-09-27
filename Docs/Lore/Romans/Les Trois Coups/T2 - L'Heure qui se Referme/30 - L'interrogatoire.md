@@ -53,7 +53,7 @@ Il regarda les deux doigts sur la toile cirée. Elle le vit peser le mensonge et
 
 Elle ouvrit son carnet, mince, relié de gris, et le posa à plat, la page tournée vers elle. Elle n’y écrivit rien. De toute la nuit, Olven regarderait cette page blanche plus souvent qu’il ne la regarderait, elle.
 
-« Un homme est passé chez vous, dit-elle. Il y a douze jours. La nuit. Il est reparti au matin avec un paquet sous sa tunique, enveloppé de toile. »
+« Un homme est passé chez vous, dit-elle. Il y a douze semaines. La nuit. Il est reparti au matin avec un paquet sous sa tunique, enveloppé de toile. »
 
 « Beaucoup d’hommes passent.
 
@@ -101,7 +101,7 @@ Elle attendait la question. C’était la bonne, celle qu’un homme dur n’aur
 
 — Vous les tuez.
 
-— Je les tue. » Sans hésiter, du même ton. « C’est un mot que je n’évite pas quand on me le tend franchement. Devant mes supérieurs je dis *apaisée*, parce que le registre veut ce mot. À cette table, non. » Elle le regarda enfin de face, une seconde, ce qu’elle ne faisait presque jamais. « La femme qui criait dans ce bourg-là, je l’ai laissée crier. La suivante, ailleurs, je ne l’ai pas laissée. Douze mois de ce cri devant elle, aucun espoir, la coupure passée depuis longtemps : dites-moi que la laisser aller jusqu’au bout, c’est la bonté, et l’arrêter, c’est le crime. Dites-le vraiment, pas pour la forme. J’écoute depuis seize ans. Personne ne m’a encore répondu. »
+— Je les tue. » Sans hésiter, du même ton. « C’est un mot que je n’évite pas quand on me le tend franchement. Devant mes supérieurs je dis *apaisée*, parce que le registre veut ce mot. À cette table, non. » Elle le regarda enfin de face, une seconde, ce qu’elle ne faisait presque jamais. « La femme qui criait dans ce bourg-là, je l’ai laissée crier. La suivante, ailleurs, je ne l’ai pas laissée. Douze mois de ce cri devant elle, aucun espoir, la coupure passée depuis longtemps : dites-moi que la laisser aller jusqu’au bout, c’est la bonté, et l’arrêter, c’est le crime. Dites-le vraiment, pas pour la forme. J’écoute depuis vingt ans. Personne ne m’a encore répondu. »
 
 Olven ouvrit les yeux. À son tour il la regardait de biais, comme si elle-même était une lampe qui lui montrait des choses dans les coins.
 
@@ -231,7 +231,7 @@ Vaenor attendit la suite. Il n’y en avait pas.
 
 Elle ne dit rien. Son regard restait sur la lampe.
 
-La veille, à la chandelle, elle y avait vu une phrase de fous. Des gens qui défont le monde, qui l’avouent, et qui trouvent le moyen de se donner raison dans l’aveu même : *nous n’y croyions pas, mais c’était inévitable, donc ce n’est pas notre faute.* Elle avait refermé le cahier avec mépris.
+La veille, à la chandelle, elle l’avait retrouvée dans ce cahier-ci, la phrase du cahier de l’est, et elle s’était appliquée à n’y voir qu’une phrase de fous. Des gens qui défont le monde, qui l’avouent, et qui trouvent le moyen de se donner raison dans l’aveu même : *nous n’y croyions pas, mais c’était inévitable, donc ce n’est pas notre faute.* Elle avait refermé le cahier avec mépris.
 
 Dans la bouche du copiste, à voix basse, ce n’était plus du tout ce qu’elle avait lu. *Aucun de nous ne le croit vraiment.* Ces gens-là n’étaient pas sûrs d’eux. Ils ne croyaient pas à ce qu’ils faisaient et ils l’avaient fait quand même, parce qu’ils tenaient la chose pour écrite d’avance : *ça arrivera de toute façon, alors autant que ce soit nous, autant que ce soit maintenant, autant que ce soit fait proprement.*
 
@@ -239,7 +239,7 @@ Elle connaissait cette conviction. Elle la connaissait du dedans. C’était la 
 
 *
 
-Jamais, avant cette nuit, elle ne l’avait nommée ainsi. Devoir, nécessité, bien commun, apaisement : voilà les noms qu’elle lui donnait. Mais sous tous ces mots, quand elle descendait jusqu’au fond, il y avait exactement cela, la phrase d’un homme mort quinze siècles plus tôt. Croyait-elle, du fond du ventre, que ce qu’elle versait dans les bols était bien ? Non. Elle croyait que c’était inévitable. Avait-elle cru, vraiment, que son frère devait mourir de sa main ? Non. Elle avait cru que le cri viendrait de toute façon, qu’il valait mieux maintenant, proprement, par quelqu’un qui l’aimait. La même phrase, à quinze siècles de distance, dans deux bouches qui ne s’étaient jamais parlé.
+Depuis le cahier de l’est, le mot rôdait autour d’elle ; jamais, avant cette nuit, elle ne l’avait laissé s’asseoir. Devoir, nécessité, bien commun, apaisement : voilà les noms qu’elle lui donnait. Mais sous tous ces mots, quand elle descendait jusqu’au fond, il y avait exactement cela, la phrase d’un homme mort quinze siècles plus tôt. Croyait-elle, du fond du ventre, que ce qu’elle versait dans les bols était bien ? Non. Elle croyait que c’était inévitable. Avait-elle cru, vraiment, que son frère devait mourir de sa main ? Non. Elle avait cru que le cri viendrait de toute façon, qu’il valait mieux maintenant, proprement, par quelqu’un qui l’aimait. La même phrase, à quinze siècles de distance, dans deux bouches qui ne s’étaient jamais parlé.
 
 Elle comprit, à cet instant, pourquoi la phrase ne s’usait pas.
 
@@ -263,4 +263,4 @@ Elle la porta dehors. Elle traversa la cour sans remettre ses gants, et le froid
 
 Elle comprit qu’elle ne s’en débarrasserait pas. Qu’elle l’avait fait entrer elle-même, en demandant à l’entendre, de sa propre voix, comme on ouvre à un froid dont on croit se protéger et qui, une fois dedans, ne ressort plus. Elle avait mené l’interrogatoire, et elle l’avait bien mené : elle tenait la forgeronne, elle avait resserré son fil, elle avait fait son métier mieux que personne. Et pendant qu’elle prenait au copiste ce qu’elle était venue lui prendre, le copiste, sans un geste, sans rien pousser, lui avait mis dans la tête treize mots de rien du tout qui allaient y travailler à leur rythme, nuit après nuit, apaisement après apaisement, chaque fois qu’elle lèverait la main sur un mort en sursis et se dirait, pour tenir, que c’était inévitable.
 
-Et tandis qu’elle les retournait dans le noir, loin vers le sud, sous la Plaine de Gryndor, trois déchirures élargissaient un trou qui avançait tout seul, et qui se passait de phrase.
+Et tandis qu’elle les retournait dans le noir, loin vers l’ouest, sous la Plaine de Gryndor, trois déchirures élargissaient un trou qui avançait tout seul, et qui se passait de phrase.

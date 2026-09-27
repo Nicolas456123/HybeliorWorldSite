@@ -37,7 +37,7 @@ Elle le rouvrit.
 
 Elle l’avait déjà lu deux fois, la veille. Elle le rouvrait pour voir comment il se comporterait maintenant qu’elle croyait le connaître.
 
-Elle avait saisi assez de copies en dix ans pour les ranger d’un coup d’œil : les pressées, pleines de mots sautés ; les dévotes, où la glose d’un copiste pieux noie le texte qu’elle prétend servir ; les fautives, recopiées par des mains qui ne lisaient pas ce qu’elles écrivaient.
+Elle avait saisi assez de copies en vingt ans pour les ranger d’un coup d’œil : les pressées, pleines de mots sautés ; les dévotes, où la glose d’un copiste pieux noie le texte qu’elle prétend servir ; les fautives, recopiées par des mains qui ne lisaient pas ce qu’elles écrivaient.
 
 Celle-ci était une copie neuve. Papier de bonne facture, à peine jauni ; encre noire, régulière ; une main patiente et droite, qui aimait sa tâche. Olven avait recopié en homme qui fabrique une chose faite pour durer.
 
@@ -123,7 +123,7 @@ Elle passait ses jours à couper. C’était son métier : placer sa ligne à l
 
 Le mot l’arrêta comme une marche qu’on rate.
 
-C’était le mot du cahier. Le mot des hommes de la montagne, celui qu’Olven avait récité trois heures plus tôt à cette place, celui qu’elle glissait, elle, sous son travail depuis dix ans sans jamais le sortir à la lumière. Brûler le cahier avec ce mot-là dans la bouche, c’était lui donner raison une fois de plus. C’était couper encore, et prendre le doute pour une raison de couper.
+C’était le mot du cahier. Le mot des hommes de la montagne, celui qu’Olven avait récité trois heures plus tôt à cette place, celui qu’elle glissait, elle, sous son travail depuis vingt ans sans jamais le sortir à la lumière. Brûler le cahier avec ce mot-là dans la bouche, c’était lui donner raison une fois de plus. C’était couper encore, et prendre le doute pour une raison de couper.
 
 Et pour une fois, pour une seule fois, elle pouvait ne pas couper. Il n’y avait pas de cri à épargner, pas de village qui ne dormait plus, rien qu’un cahier sur une table, un brasero froid, un ordre, et personne pour voir.
 
@@ -135,7 +135,7 @@ Elle rabattit la couverture du bout des doigts, sans hâte.
 
 Et elle ne le brûla pas.
 
-Elle s’en donna la raison avec les mots plats de Mern : c’était une chose qui ne reviendrait pas, et elle n’était pas sûre. Voilà tout. Elle coupait depuis dix ans. Ce soir, elle se laissa n’être pas sûre ; et au lieu de trancher, comme elle tranchait toujours quand le doute montait, comme le doute lui-même *ordonnait* de trancher pour qu’on n’ait plus à douter, elle garda le doute.
+Elle s’en donna la raison avec les mots plats de Mern : c’était une chose qui ne reviendrait pas, et elle n’était pas sûre. Voilà tout. Elle coupait depuis vingt ans. Ce soir, elle se laissa n’être pas sûre ; et au lieu de trancher, comme elle tranchait toujours quand le doute montait, comme le doute lui-même *ordonnait* de trancher pour qu’on n’ait plus à douter, elle garda le doute.
 
 Dans une salle vide, pour un cahier de rien du tout, elle désobéissait pour la première fois. À sa propre doctrine. À la chose en elle qui disait : *dans le doute, coupe.* Un ordre, elle aurait su le contourner par les voies du service ; celle-là, elle avait bâti tout son métier dessus, elle en vivait, elle avait tué son frère dessus. Et ce soir elle la prenait en défaut.
 
@@ -147,7 +147,7 @@ Elle porta le cahier jusqu’au coffre.
 
 Le coffre des preuves était dans l’angle, contre le mur porteur, une caisse de fer noir dont elle seule, au poste, avait la clef ; elle la portait au cou, sous l’uniforme, contre la peau, tiède de sa chaleur. Elle l’ouvrit. À l’intérieur, l’ordre habituel : des lames confisquées, un sachet de plantes de Sanavir scellé et étiqueté, des registres de foyers marqués, deux ou trois objets d’Âge du Lien pris à des Mangeurs de Temps, un pendentif, un fragment d’inscription, les reliques d’un culte qui rêvait de remonter le temps. Le rebut de la traque. Ce qu’on garde parce qu’on pourrait en avoir besoin, ou parce qu’un tribunal voudra le voir un jour, ou parce qu’on n’ose pas le détruire.
 
-Le sceau, la cire, la petite lampe à sceller. Elle enveloppa le cahier dans une toile propre, la même toile grossière, songea-t-elle, que celle du paquet emporté douze jours plus tôt par l’homme aux mains tremblantes. Un nœud. La cire qu’on fait couler. Le sceau qu’on presse : l’écusson de Drahk’Nor mordit la cire rouge, le poing fermé sur la flamme, l’emblème de ceux qui tiennent le feu pour qu’il ne prenne pas partout. Elle garda le doigt dessus le temps que la cire prenne, froide et dure sous la pulpe. Ce fut le seul moment de la nuit où elle ne pensa à rien.
+Le sceau, la cire, la petite lampe à sceller. Elle enveloppa le cahier dans une toile propre, la même toile grossière, songea-t-elle, que celle du paquet emporté douze semaines plus tôt par l’homme aux mains tremblantes. Un nœud. La cire qu’on fait couler. Le sceau qu’on presse : l’écusson de Drahk’Nor mordit la cire rouge, le poing fermé sur la flamme, l’emblème de ceux qui tiennent le feu pour qu’il ne prenne pas partout. Elle garda le doigt dessus le temps que la cire prenne, froide et dure sous la pulpe. Ce fut le seul moment de la nuit où elle ne pensa à rien.
 
 Puis elle écrivit l’étiquette. La chose se jouait là, dans le mot qu’on met dessus plus que dans le geste de garder, et elle le pesa comme elle pesait chaque mot devant un interrogé.
 

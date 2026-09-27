@@ -106,7 +106,7 @@ C’était la phrase. C’était la phrase exacte qu’elle s’était dite, et 
 
 *
 
-La chandelle avait mangé la moitié de sa longueur. Vaenor la moucha entre deux doigts mouillés, revint dans le noir, se rassit sur le dessus du lit. Le noir valait mieux pour ce genre de souvenir. Elle laissa la chose passer de côté, au bord de l’œil, comme un Tisse regarde ce qui bouge dans l’angle. Elle eut un vertige bref en s’apercevant qu’elle traquait chez les autres, depuis quinze ans, le regard exact qu’elle avait, elle, pour ses propres morts.
+La chandelle avait mangé la moitié de sa longueur. Vaenor la moucha entre deux doigts mouillés, revint dans le noir, se rassit sur le dessus du lit. Le noir valait mieux pour ce genre de souvenir. Elle laissa la chose passer de côté, au bord de l’œil, comme un Tisse regarde ce qui bouge dans l’angle. Elle eut un vertige bref en s’apercevant qu’elle traquait chez les autres, depuis vingt ans, le regard exact qu’elle avait, elle, pour ses propres morts.
 
 Elle avait choisi la nuit. Cela aussi devait être dit dans l’ordre, jusqu’au bout. Leur mère était partie veiller une cousine à deux vallées de là ; ils étaient seuls dans la maison, elle et lui, le frère et la sœur, comme quand ils étaient petits et que Vaenor faisait la loi. La cousine agonisait depuis trois semaines ; leur mère serait absente quatre jours au moins. Vaenor avait compté les jours comme elle comptait tout, et elle avait pris le deuxième, parce que le premier était trop près du départ et le dernier trop près du retour. Elle avait attendu cette nuit-là comme on attend le seul moment où une chose est possible : personne pour voir, personne à qui expliquer, de quoi faire et refermer et porter seule.
 

@@ -87,7 +87,7 @@ Ysolde le laissa finir. Puis elle se leva, alla jusqu’à l’étagère basse, 
 
 « Non. Elles engagent celle qui l’a recopié. » Elle laissa la feuille pliée sur la table, entre eux. « Vous connaissez le prisme, dans la salle. »
 
-« Depuis quarante ans. Il ne sert à rien. »
+« Depuis vingt ans. Il ne sert à rien. »
 
 « Il sert à une chose. Faites-y porter une feuille, à la troisième heure, et jugez du noir de votre encre pendant que la bande passe dessus. Vous n’y arriverez pas. Les copistes posent la plume et attendent que ce soit fini. » Elle alla jusqu’à la fenêtre étroite et regarda la cour des citernes. « Ce que vous me demandez, c’est de choisir une des couleurs de la bande et d’écrire dedans. Laquelle ? Le rouge du feu qui s’éveillerait sous la montagne ? Le bleu de ceux qui disent qu’un guide revient par les marges ? Le gris de ceux qui disent qu’il n’y a rien, que des hommes et des peurs, et qu’il faut se taire ? Prenez-en une. Vous aurez votre phrase droite. Et toute l’Académie écrira sous une lumière qui bouge. »
 

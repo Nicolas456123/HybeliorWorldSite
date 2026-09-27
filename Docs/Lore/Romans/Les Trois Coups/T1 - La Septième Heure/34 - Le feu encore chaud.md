@@ -3,7 +3,7 @@ tags: [roman, trois-coups, tome-1, partie-4, pov-verkan, chasseur, sulvane, haut
 titre: Le feu encore chaud
 type: roman-chapitre
 partie: IV
-pov: Verkan Sorne, Prime-Inquisiteur du Bureau des Concordances de Pyrion (présent, la veille)
+pov: Verkan Sorne, Prime-Inquisiteur du Bureau des Concordances de Pyrion (présent, J-6)
 chapitre: 31
 lieu: les hautes terres de Sulvane, au-dessus du port — un campement abandonné
 status: draft
@@ -17,7 +17,7 @@ Voilà pourquoi elle l’avait choisi. Verkan Sorne montait là-dedans depuis le
 
 Verkan arriverait trop tard. Cela aussi, il le savait, et il l’avait dit lui-même deux jours plus bas, au bureau du manifeste, à un préposé de quai qui n’avait pas su quoi répondre : *j’y arriverai quand le feu sera froid*. Sur ce point-là, il ne s’était jamais trompé de sa vie.
 
-Un peu plus haut, il s’arrêta pour souffler. Cinquante ans dans les jambes et deux nuits sans sommeil, cela finit par se dire. En bas, très loin, Sulvane dormait au bord de sa rade, une poignée de lampes jaunes couchées sur l’eau noire, et au-delà la mer sans une lumière. L’avant-veille, un paquebot en était parti avec, à son bord, un homme dont le nom de couverture ne concordait pas avec sa cabine. *Je lis des départs*, avait-il pensé sur le quai, et la phrase ne l’avait plus quitté. Il traquait un monde qui n’était déjà plus là où il posait la main.
+Un peu plus haut, il s’arrêta pour souffler. Cinquante ans dans les jambes et deux nuits sans sommeil, cela finit par se dire. En bas, très loin, Sulvane dormait au bord de sa rade, une poignée de lampes jaunes couchées sur l’eau noire, et au-delà la mer sans une lumière. Trois jours plus tôt, un paquebot en était parti avec, à son bord, un homme dont le nom de couverture ne concordait pas avec sa cabine. *Je lis des départs*, avait-il pensé sur le quai, et la phrase ne l’avait plus quitté. Il traquait un monde qui n’était déjà plus là où il posait la main.
 
 Plus haut, là où la caillasse cédait à une herbe rase, un berger descendait, sa dizaine de chèvres devant lui. Un vieux, un bâton, le regard des gens de montagne qui vous jaugent avant de vous saluer. Verkan n’était pas là pour les bergers, et il ralentit tout de même le pas.
 
@@ -73,7 +73,7 @@ Il retira sa main et l’essuya contre sa cuisse. La tiédeur ne datait rien. El
 
 Le jour pâlissait à l’orient, loin de la montagne. Le givre avait pris pendant la nuit sur l’herbe rase du repli et fondait maintenant par plaques ; le creux sentait la terre mouillée et la fumée froide. Quelque part au-dessus de la crête, une alouette monta droit en chantant, puis redescendit sans se poser. Le souffle de Verkan fumait devant lui. Il faisait bon, à cet endroit-là, après deux nuits de froid.
 
-Car il y avait une montagne. Du fond du creux on ne la voyait pas, mais Verkan la savait au sud, et toutes les absences qu’il lisait depuis Pyrion se rangeaient vers elle comme la limaille vers l’aimant. Un point unique, au sud, où l’on déplaçait des gens sans qu’ils se croisent. Ce qu’il y avait au bout, il l’ignorait, et il commençait à se douter qu’il ne l’apprendrait jamais. Le contenu lui échappait ; la forme, il la tenait : quelqu’un tirait des fils épars vers un seul nœud, et le faisait avec un art qui lui arrachait, à lui, l’inquisiteur, un respect voisin de la tendresse.
+Car il y avait une montagne. Du fond du creux on ne la voyait pas, mais Verkan la savait au nord, et toutes les absences qu’il lisait depuis Pyrion se rangeaient vers elle comme la limaille vers l’aimant. Un point unique, au nord, où l’on déplaçait des gens sans qu’ils se croisent. Ce qu’il y avait au bout, il l’ignorait, et il commençait à se douter qu’il ne l’apprendrait jamais. Le contenu lui échappait ; la forme, il la tenait : quelqu’un tirait des fils épars vers un seul nœud, et le faisait avec un art qui lui arrachait, à lui, l’inquisiteur, un respect voisin de la tendresse.
 
 Cette fois il ne le dit pas tout haut. Il l’avait dit une fois, quelques semaines plus tôt, à une chambre vide, et une fois suffisait.
 
@@ -87,7 +87,7 @@ La pensée n’était pas neuve. Elle l’accompagnait depuis le quai de Sulvane
 
 Il resta un moment sans bouger, accroupi près du foyer mort, à laisser le lieu lui dire ce qu’il pouvait encore.
 
-Quatre couches, une veille. Un des creux portait une marque plus étroite et plus légère que les autres, celle d’un homme resté assis toute la nuit sur une pierre. L’usure du sol devant lui donnait la direction : il était tourné vers le sud. Vers la montagne qu’on ne voyait pas.
+Quatre couches, une veille. Un des creux portait une marque plus étroite et plus légère que les autres, celle d’un homme resté assis toute la nuit sur une pierre. L’usure du sol devant lui donnait la direction : il était tourné vers le nord. Vers la montagne qu’on ne voyait pas.
 
 Verkan considéra cette place-là longtemps. De l’homme qui l’avait tenue, il ne saurait rien : ni le nom, ni le visage, ni pourquoi on veille assis une nuit entière face à une chose qu’on ne distingue même pas dans le noir. Il sut seulement qu’il reconnaissait quelque chose dans cette veille immobile, sans pouvoir le nommer, et que ce n’était pas de la peur, et pas non plus le contraire.
 
@@ -113,14 +113,14 @@ Sa fille lui vint à l’esprit sans qu’il l’eût voulu. Puis il pensa qu’
 
 « On n’attrape pas les gens qu’on plaint », dit-il tout bas, et il se remit debout.
 
-*Cinq. Pas huit. Où sont les trois autres ?* Le chiffre était plus sûr que le reste. Verkan l’ignorait, et ne l’apprendrait pas d’ici. Un fil de mer, un fil de terre : il devinait qu’il y en avait plusieurs, et qu’ils ne se noueraient qu’au bout, au sud. Compter cinq creux dans un campement, c’était encore ne compter que ce qu’on lui laissait voir. Jamais elle ne lui laisserait voir les huit ensemble. C’était le fond de son art : disperser jusqu’au dernier pas, pour qu’aucune bouche au monde ne pût dire *j’en ai vu passer huit qui allaient ensemble.* Il en compterait des morceaux jusqu’à la fin de sa vie.
+*Cinq. Pas huit. Où sont les trois autres ?* Le chiffre était plus sûr que le reste. Verkan l’ignorait, et ne l’apprendrait pas d’ici. Un fil de mer, un fil de terre : il devinait qu’il y en avait plusieurs, et qu’ils ne se noueraient qu’au bout, au nord. Compter cinq creux dans un campement, c’était encore ne compter que ce qu’on lui laissait voir. Jamais elle ne lui laisserait voir les huit ensemble. C’était le fond de son art : disperser jusqu’au dernier pas, pour qu’aucune bouche au monde ne pût dire *j’en ai vu passer huit qui allaient ensemble.* Il en compterait des morceaux jusqu’à la fin de sa vie.
 
 ---
 
-Le jour était levé, franc, sans pitié pour la fatigue. Verkan remonta au bord du creux et regarda vers le sud, où l’on ne voyait rien qu’une brume basse mangeant les crêtes.
+Le jour était levé, franc, sans pitié pour la fatigue. Verkan remonta au bord du creux et regarda vers le nord, où l’on ne voyait rien qu’une brume basse mangeant les crêtes.
 
 Descendre, maintenant. Reprendre le peu de fil qui restait : la côte, une crique peut-être, une quille dans du sable, tout ce qu’elle aurait laissé mourir proprement avant lui. Il irait. Il n’avait jamais rien su faire d’autre, et, ce matin-là, sur des cendres tièdes, il s’accorda une fois de savoir pourquoi : il voulait moins les prendre désormais que les comprendre, et pour cela il n’y avait pas d’autre chemin que d’arriver trop tard, station après station, jusqu’à la dernière.
 
 Un dernier regard au campement. Cinq places, un feu mort, l’herbe qui se relevait déjà dans les creux tassés et effaçait d’elle-même ce que personne n’avait eu besoin d’effacer. Dans une heure, un berger passerait sans rien voir. Dans un jour, la pluie prendrait le reste.
 
-À des jours de route au sud, sous la même aube, il existait une autre tiédeur, plus vieille que tous les feux du monde, et dont aucune horloge n’avait jamais marqué l’heure ; elle en avait une désormais, et celui qui viendrait la lire arriverait après, comme il arrivait partout.
+À une journée de marche au nord, sous la même aube, il existait une autre tiédeur, plus vieille que tous les feux du monde, et dont aucune horloge n’avait jamais marqué l’heure ; elle en avait une désormais, et celui qui viendrait la lire arriverait après, comme il arrivait partout.

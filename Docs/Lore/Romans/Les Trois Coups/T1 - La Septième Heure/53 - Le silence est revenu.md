@@ -25,7 +25,7 @@ La fumée monta, le prit avec les autres et ne le garda pas ; il ne sut jamais 
 
 ---
 
-La navigatrice était repartie au large avant l’aube, la seule à n’avoir pas monté. Vorath sut qu’elle vivrait, sans savoir comment il le savait. À la crique, une barque de pêche traînait au bout de son filin, laissée par des gens qui avaient couru vers l’intérieur pour fuir ce qui ne se fuyait pas. Vorath la prit et rama vers le nord, vers les siens. L’eau n’avait pas changé de goût. Rien n’avait changé pour lui : il n’avait jamais rien tenu du Lien.
+La navigatrice était repartie au large avant l’aube, la seule à n’avoir pas monté. Vorath sut qu’elle vivrait, sans savoir comment il le savait. À la crique, une barque de pêche traînait au bout de son filin, laissée par des gens qui avaient couru vers l’intérieur pour fuir ce qui ne se fuyait pas. Vorath la prit et rama vers le nord, puis vers le levant, vers les siens. L’eau n’avait pas changé de goût. Rien n’avait changé pour lui : il n’avait jamais rien tenu du Lien.
 
 Au troisième port, il descendit remplir sa gourde et trouva le quai plein. On faisait la queue devant une porte basse, avec des enfants dans les bras, et la porte restait fermée. Un vieux marin sortit de la file et lui prit le poignet. Ses yeux avaient la peur des bêtes qui sentent le feu.
 

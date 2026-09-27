@@ -136,7 +136,7 @@ Alors elle chercha l’instant. Elle le chercha cette nuit-là et toutes les nui
 
 Elle défit la lanière du carnet et écrivit une ligne, la seule de la nuit. *Il n’y a pas d’instant. Il y a une pente.* Un homme la descend, du premier coin de l’œil au dernier cri, et nulle part on ne peut poser le doigt et dire : ici finit le soin.
 
-Elle la relut au matin et ne la reporta pas dans son état. Elle ne la reporta dans aucun état, jamais, en seize ans de service.
+Elle la relut au matin et ne la reporta pas dans son état. Elle ne la reporta dans aucun état, jamais, en vingt ans de service.
 
 Ce qu’elle reporta, ce fut un trait. Elle le traça au plus haut de la pente, au premier signe, en Phase 1, parce que c’était là, et là seulement, qu’une main qui sait couper pouvait encore sauver quelqu’un. Prendre tôt, c’était laisser sa chance à la coupure, et, à défaut de coupure, épargner toute la pente. Le trait restait arbitraire. Il tombait au moins sur la seule fenêtre où il y eût autre chose à gagner que du temps.
 

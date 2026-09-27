@@ -92,7 +92,7 @@ La dernière pierre posée, il laissa sa main dessus, à plat, tiède contre le 
 
 ---
 
-Il sortit. La nuit était totale, sans une étoile, la fumée haute par-dessus tout. Vers le nord, là où la plaine aurait dû porter les feux de Cendral, il n’y avait rien. Plus loin encore, au ras du ciel, la lueur qu’une cité de l’air tenait chaque nuit au-dessus de l’horizon ne s’était pas rallumée. Il regarda longtemps cet endroit vide. En lui non plus, rien ne répondait. Plusieurs fois dans la journée il avait cherché, du dedans, comme on éprouve du bout de la langue la place d’une dent tombée, et chaque fois il n’avait trouvé que de la place.
+Il sortit. La nuit était totale, sans une étoile, la fumée haute par-dessus tout. Vers le sud, là où la plaine aurait dû porter les feux de Cendral, il n’y avait rien. Plus loin encore, au ras du ciel, la lueur qu’une cité de l’air tenait chaque nuit au-dessus de l’horizon ne s’était pas rallumée. Il regarda longtemps cet endroit vide. En lui non plus, rien ne répondait. Plusieurs fois dans la journée il avait cherché, du dedans, comme on éprouve du bout de la langue la place d’une dent tombée, et chaque fois il n’avait trouvé que de la place.
 
 Il rentra, et sa main revint une dernière fois sur la roche murée. Le livre attendrait là ; il ne savait pas combien de temps, et il n’avait plus besoin de le savoir.
 
@@ -108,7 +108,7 @@ De tout ce qui s’était dit et fait en quatre-vingt-dix jours, il ne resterait
 
 Très loin de là, à l’est, un homme marchait.
 
-Il ne s’était retourné qu’une fois, à la première heure, quand la montagne s’était ouverte dans son dos et que le ciel du sud avait pris cette couleur de forge ; plus jamais ensuite. Du haut d’une crête, au-dessus de la route grise où fuyaient les vivants, un autre homme le suivait des yeux : un homme d’ordre et de feu qui remontait du sud les mains vides, avec pour tout butin un compte qui ne tombait pas juste. Il ne connaissait pas ce visage. Il ne le connaîtrait jamais. Il ne voyait qu’un dos qui s’éloignait vers le levant, d’un pas régulier, sans hâte.
+Il ne s’était retourné qu’une fois, à la première heure, quand la montagne s’était ouverte dans son dos et que le ciel derrière lui avait pris cette couleur de forge ; plus jamais ensuite. Du haut d’une crête, au-dessus de la route grise où fuyaient les vivants, un autre homme le suivait des yeux : un homme d’ordre et de feu qui remontait du sud les mains vides, avec pour tout butin un compte qui ne tombait pas juste. Il ne connaissait pas ce visage. Il ne le connaîtrait jamais. Il ne voyait qu’un dos qui s’éloignait vers le levant, d’un pas régulier, sans hâte.
 
 Et l’homme, là-bas, s’arrêta.
 

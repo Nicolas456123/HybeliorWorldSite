@@ -20,11 +20,11 @@ Tout le temps qu’avait duré le Fléau, elle avait cru qu’il finirait comme 
 
 *
 
-Lirenn s’était assise au seuil de la ferme qu’on leur avait prêtée, aux marges de la plaine, là où la terre redevenait de la terre. Elle tenait un seau entre ses genoux et lui refaisait son anse ; le fil de fer tournait sous ses pouces sans qu’elle eût besoin de regarder. Onze ans, maintenant, ou presque. Deux ans qu’on avait fui la Forge-Basse ; deux ans que Kessane la regardait grandir et guettait, dans chacun de ses gestes, la chose qu’elle avait coupée.
+Lirenn s’était assise au seuil de la ferme qu’on leur avait prêtée, aux marges de la plaine, là où la terre redevenait de la terre. Elle tenait un seau entre ses genoux et lui refaisait son anse ; le fil de fer tournait sous ses pouces sans qu’elle eût besoin de regarder. Onze ans passés, maintenant. Un an qu’on avait fui la Forge-Basse ; un an que Kessane la regardait grandir et guettait, dans chacun de ses gestes, la chose qu’elle avait coupée.
 
 Car elle l’avait coupée. Le cahier ouvert sur la table basse, l’eau froide, les gestes appris feuillet après feuillet dans une cave, sa fille étendue et blanche et si petite sous ses mains : elle avait fait ce que le savoir de la maison prescrivait, elle avait fermé la porte par où le froid entrait, elle avait rendu Lirenn non-Liée pour de bon, comme l’étaient toutes les femmes de sa maison depuis mille ans. Lirenn avait vécu. C’était le fait, et sur le fait on ne discutait pas : la petite respirait, mangeait, redressait des clous, et le Fléau, s’il l’avait mordue, n’avait plus rien en elle à quoi mordre.
 
-Mais depuis deux ans, les coins de la maison étaient des coins ordinaires.
+Mais depuis la cave, les coins de la maison étaient des coins ordinaires.
 
 « La dame », avait demandé Kessane, une fois, longtemps après, quand elle avait cru le moment venu où l’on peut demander. « Celle qui restait près de la trempe. Tu l’entends encore ? »
 
@@ -32,7 +32,7 @@ Lirenn avait secoué la tête. Le hochement d’un enfant à qui l’on parle d�
 
 « Non. » Un temps. « Des fois je me demande si elle est toujours là, la dame. Si elle me parle et que moi j’entends plus. » Elle avait regardé le coin de la pièce, un coin ordinaire, un coin de mur. « Ça serait pas gentil pour elle. De parler à quelqu’un qui répond plus. »
 
-Kessane s’était tue. Toutes les réponses qu’elle avait en réserve faisaient mal. Elle avait sauvé un corps ; ce qu’elle avait éteint du même geste, elle n’en connaîtrait jamais le prix. Le vieux Chamane le lui aurait dit, peut-être, lui qui était mort sur la plaine en chantant à des voix qu’il était seul à entendre. Il aurait su, lui, si ce que Lirenn n’entendait plus valait d’être gardé. Il avait voulu la garder, l’oreille de sa fille ; il l’avait suppliée, presque, de ne pas couper : *tu vas éteindre la seule qui entendait encore*, avait-il dit, la voix pleine de sang, quand ses mains ne lui répondaient déjà plus. Elle avait coupé quand même. Elle avait choisi le corps de sa fille contre l’oreille du vieil homme, et le vieil homme était mort, et son oreille avec lui, et il ne restait personne au monde pour dire à Kessane laquelle des deux choses elle avait faite : sauver, ou mutiler.
+Kessane s’était tue. Toutes les réponses qu’elle avait en réserve faisaient mal. Elle avait sauvé un corps ; ce qu’elle avait éteint du même geste, elle n’en connaîtrait jamais le prix. Le vieux Chamane le lui aurait dit, peut-être, lui qui était mort loin d’elles, en chantant à des voix qu’il était seul à entendre. Il aurait su, lui, si ce que Lirenn n’entendait plus valait d’être gardé. Il avait voulu la garder, l’oreille de sa fille ; il l’avait suppliée, presque, de ne pas couper : *tu vas éteindre la seule qui entendait encore*, avait-il dit, la voix pleine de sang, les mains ouvertes sur les genoux. Elle avait coupé quand même. Elle avait choisi le corps de sa fille contre l’oreille du vieil homme, et le vieil homme était mort, et son oreille avec lui, et il ne restait personne au monde pour dire à Kessane laquelle des deux choses elle avait faite : sauver, ou mutiler.
 
 Deux amours qui ne tenaient pas ensemble. Elle avait pris le sien, et vite. C’était ce qu’elle gardait de cette nuit-là : le peu de temps qu’il lui avait fallu pour choisir.
 
@@ -74,7 +74,7 @@ Kessane quitta la page des yeux.
 
 — Et il est mort avec. » Lirenn tira sur un fil de son tablier, sans le regarder. « Il aurait pas pu la donner à quelqu’un ? Avant. Comme toi tu m’apprends le fer. »
 
-« Il a essayé. » Kessane revit le vieil homme sur la plaine, penché vers un apprenti qui n’entendait rien, chantant dans le vide pour une oreille qui ne s’ouvrait pas. « Le fer, tu peux le montrer. Tu prends la main de quelqu’un, tu la mets sur le marteau, tu lui fais sentir le coup juste, et un jour sa main sait. L’autre chose, y a pas de manche où poser la main. On l’a ou on l’a pas. Lui il l’avait, et personne autour. C’est ça qui le rongeait, plus que le sang. Mourir, il s’en moquait. C’est d’être le dernier à entendre.
+« Il a essayé. » Kessane se figura le vieil homme dans ses montagnes, penché vers un apprenti qui n’entendait rien, chantant dans le vide pour une oreille qui ne s’ouvrait pas. « Le fer, tu peux le montrer. Tu prends la main de quelqu’un, tu la mets sur le marteau, tu lui fais sentir le coup juste, et un jour sa main sait. L’autre chose, y a pas de manche où poser la main. On l’a ou on l’a pas. Lui il l’avait, et personne autour. C’est ça qui le rongeait, plus que le sang. Mourir, il s’en moquait. C’est d’être le dernier à entendre.
 
 — Moi je l’avais.
 

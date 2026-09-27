@@ -15,13 +15,13 @@ Sur l’eau, Sera avait dormi. La raison lui était venue peu à peu : Kayara l
 
 Trois jours qu’ils montaient vers les hautes terres de Sulvane, à pied maintenant, les mules chargées derrière eux, dans un pays qui se redressait un peu plus à chaque lieue. Aelindra avait choisi ce chemin sans le prendre avec eux : pistes de bergers, cols que les caravanes avaient abandonnés, gîtes tenus par des gens qu’on payait pour ne pas poser de questions. Sera avait cessé de lui demander comment elle savait ces choses. Une répartition s’était faite dans le Cercle que personne n’avait décrétée et que tous respectaient : Kayara les avait menés sur l’eau ; Aelindra les menait sur la terre, d’avance, par une route qu’elle avait dessinée puis quittée ; Drakhan les mènerait sur le feu. La fin, c’était sa part à elle. Le protocole plié dans sa sacoche contre son flanc, et le savoir de ce qui se ferait quand tous ces chemins auraient convergé.
 
-Le soir tombait tôt dans ces montagnes. On s’arrêtait dès que la lumière baissait, parce qu’il devenait dangereux de marcher, et parce que le Cercle avait pris goût à ces longues heures où il n’y avait plus rien à faire qu’attendre le sommeil. Ils n’étaient que quelques-uns sur ce tronçon : ceux que la mer avait déposés à la côte et qui remontaient à pied vers le sud, et Thessan, monté du port de Sulvane par la route de terre. Autour d’un feu maigre, ils trouvaient parfois à se dire des choses simples, le pain, une histoire, un souvenir sans conséquence. Sera ne l’avait dit à personne : c’étaient les heures qu’elle aimait le mieux du voyage. Puis le silence retombait, et il n’était plus simple du tout.
+Le soir tombait tôt dans ces montagnes. On s’arrêtait dès que la lumière baissait, parce qu’il devenait dangereux de marcher, et parce que le Cercle avait pris goût à ces longues heures où il n’y avait plus rien à faire qu’attendre le sommeil. Ils n’étaient que quelques-uns sur ce tronçon : ceux que la mer avait déposés à la côte et qui remontaient à pied vers le nord, et Thessan, monté du port de Sulvane par la route de terre avec Sera, qui était allée l’y prendre au sortir de la crique. Autour d’un feu maigre, ils trouvaient parfois à se dire des choses simples, le pain, une histoire, un souvenir sans conséquence. Sera ne l’avait dit à personne : c’étaient les heures qu’elle aimait le mieux du voyage. Puis le silence retombait, et il n’était plus simple du tout.
 
-Ce soir-là, le campement s’était dressé dans le repli d’un col, à l’abri du vent. Le feu était petit et mal tenu. Aucun d’eux ne savait le veiller comme l’aurait veillé le forgeron, resté loin derrière, à Cendral, au pied de sa montagne ; on lui jetait une branche quand il baissait, en profanes, et Sera sentait ce qui manquait : l’homme à qui le feu appartenait comme la fin lui appartenait à elle. Roulé dans sa couverture, Mirathis s’était couché tôt et dormait mal ; ses paupières remuaient, et deux fois dans la soirée iel avait dit quelques mots que personne n’avait compris. Les Rêves-Gris ne lui laissaient plus de nuits pleines. Vorath se taisait, ce qui ne prouvait rien, puisque Vorath se taisait toujours ; mais Sera avait appris à distinguer ses silences, et celui-ci était tourné vers le dedans, occupé, presque une prière. Un peu à l’écart, Thessan écrivait avec cette application têtue qu’il avait ; notait-il la journée ou glissait-il vers un souvenir, elle ne le lui demandait pas.
+Ce soir-là, le campement s’était dressé dans le repli d’un col, à l’abri du vent. Le feu était petit et mal tenu. Aucun d’eux ne savait le veiller comme l’aurait veillé le forgeron, resté là-bas, à Cendral, au pied de sa montagne ; on lui jetait une branche quand il baissait, en profanes, et Sera sentait ce qui manquait : l’homme à qui le feu appartenait comme la fin lui appartenait à elle. Roulé dans sa couverture, Mirathis s’était couché tôt et dormait mal ; ses paupières remuaient, et deux fois dans la soirée iel avait dit quelques mots que personne n’avait compris. Les Rêves-Gris ne lui laissaient plus de nuits pleines. Vorath se taisait, ce qui ne prouvait rien, puisque Vorath se taisait toujours ; mais Sera avait appris à distinguer ses silences, et celui-ci était tourné vers le dedans, occupé, presque une prière. Un peu à l’écart, Thessan écrivait avec cette application têtue qu’il avait ; notait-il la journée ou glissait-il vers un souvenir, elle ne le lui demandait pas.
 
 L’Étudiant n’était pas au feu.
 
-Il n’y était jamais tout à fait. Sa place était à la lisière du cercle de lumière, là où la chaleur arrivait encore et où le visage restait dans l’ombre, et de là il regardait les flammes comme on regarde une chose qu’on connaît trop pour avoir besoin de la voir. Ce soir, il était plus loin : presque hors du campement, sur une pierre au bord du col, tourné vers le sud, vers la pente qui plongeait dans le noir bleu et remontait au loin en crêtes que l’obscurité mangeait. Il ne bougeait pas. Sera avait mis des mois à ne plus trouver cette immobilité inquiétante. C’était celle d’un homme qui ne demande plus à son corps que de rester là le temps qu’il faudra.
+Il n’y était jamais tout à fait. Sa place était à la lisière du cercle de lumière, là où la chaleur arrivait encore et où le visage restait dans l’ombre, et de là il regardait les flammes comme on regarde une chose qu’on connaît trop pour avoir besoin de la voir. Ce soir, il était plus loin : presque hors du campement, sur une pierre au bord du col, tourné vers le nord, vers la pente qui plongeait dans le noir bleu et remontait au loin en crêtes que l’obscurité mangeait. Il ne bougeait pas. Sera avait mis des mois à ne plus trouver cette immobilité inquiétante. C’était celle d’un homme qui ne demande plus à son corps que de rester là le temps qu’il faudra.
 
 Se lever lui coûta. Le froid s’était mis dans ses doigts et ne lui rapportait rien d’autre que du froid. D’un geste, elle jeta sa couverture sur ses épaules et alla vers la pierre.
 
@@ -31,7 +31,7 @@ Elle ne s’était pas dit qu’elle irait lui parler. Elle s’aperçut, en mar
 
 Il ne se retourna pas à son approche. Il l’avait entendue, il entendait tout, mais il ne bougea pas, et Sera y lut une invitation plutôt qu’un refus : il lui laissait le choix de s’asseoir ou de repartir, sans peser sur elle d’un regard. Sans un mot, elle s’assit sur la pierre voisine, un peu plus bas, et regarda un moment avec lui la direction qu’il regardait.
 
-Il n’y avait rien à voir. Le sud n’était qu’une masse de noir qui montait, sans une lumière, sans un repère. Et pourtant elle savait, comme il savait, qu’à des jours et des jours de marche au bout de ce noir il y avait un sommet. Personne ne pouvait le voir d’ici. Elle le portait dans la tête depuis si longtemps, dessiné, mesuré, écrit, qu’il lui semblait parfois plus réel que le feu derrière elle, plus réel que ses propres mains froides.
+Il n’y avait rien à voir. Le nord n’était qu’une masse de noir qui montait, sans une lumière, sans un repère. Et pourtant elle savait, comme il savait, qu’à deux jours de marche au bout de ce noir il y avait un sommet. Personne ne pouvait le voir d’ici. Elle le portait dans la tête depuis si longtemps, dessiné, mesuré, écrit, qu’il lui semblait parfois plus réel que le feu derrière elle, plus réel que ses propres mains froides.
 
 « Tu le regardes, dit-elle. Alors qu’on ne le voit pas.
 
@@ -47,7 +47,7 @@ Un sourire lui vint dans le noir, malgré elle. C’était cela, avec lui : pas
 
 « Tu as la technique, dit-elle. Moi j’ai la vision. On me l’a dit, on te l’a dit, on se l’est répété entre nous si souvent que plus personne ne l’entend. » Ses doigts serrèrent la couverture autour d’elle. « J’ai écrit quarante et une pages qui disent *pourquoi*. Tu tiens le *comment* dans une main. Et cette nuit je me demande si l’un de nous deux sait ce que fait l’autre. »
 
-Longtemps il resta sans répondre. Le vent passait sur le col, remuait les braises loin derrière eux. Une odeur de pierre froide et de bruyère montait du versant. Très loin en contrebas, dans le noir, une clochette de troupeau sonna deux fois et se tut. Quand il parla, ce fut sans se tourner vers elle, comme s’il s’adressait au sud, à la masse noire, au sommet qu’on ne voyait pas.
+Longtemps il resta sans répondre. Le vent passait sur le col, remuait les braises loin derrière eux. Une odeur de pierre froide et de bruyère montait du versant. Très loin en contrebas, dans le noir, une clochette de troupeau sonna deux fois et se tut. Quand il parla, ce fut sans se tourner vers elle, comme s’il s’adressait au nord, à la masse noire, au sommet qu’on ne voyait pas.
 
 « Non, dit-il. Je ne sais pas ce que tu fais. »
 
@@ -77,7 +77,7 @@ Il tourna enfin la tête vers elle. Dans le peu de lumière qui venait du feu, e
 
 « Sûr que c’est juste, dit-elle. Sûr que nous avons raison. » Sa voix ne tremblait pas ; elle ne tremblait jamais, et Sera savait maintenant que cela ne prouvait rien, sinon qu’elle avait décidé. « J’ai besoin de l’entendre de toi. Parce que moi, je ne le suis plus. Je l’ai été. J’ai été l’esprit le plus sûr de cette salle ; j’ai convaincu Thessan, qui doute de tout ; j’ai écrit quarante et une pages sans une rature parce que je voyais si clairement où j’allais que ma main n’hésitait pas. Et puis j’ai vu une chose, une nuit, à Celethor, dans ce que j’écrivais. Un trou au milieu de ma propre justice. Depuis, je relis chaque nuit en espérant m’être trompée, et chaque nuit je vérifie que je ne me suis pas trompée. » Le froid entrait dans sa poitrine ; elle prit une inspiration. « Je cherche la certitude partout, chez chacun de vous. Je suis venue voir si elle était chez toi. Si elle est quelque part, ce devrait être chez toi. C’est toi qui vas le faire. »
 
-Il la regarda encore un moment. Puis il se retourna vers le sud, et Sera crut d’abord qu’il ne répondrait pas, qu’il la laisserait avec sa question comme on laisse quelqu’un devant une porte fermée.
+Il la regarda encore un moment. Puis il se retourna vers le nord, et Sera crut d’abord qu’il ne répondrait pas, qu’il la laisserait avec sa question comme on laisse quelqu’un devant une porte fermée.
 
 « Tu crois qu’on fait les grandes choses par certitude, dit-il enfin. Je l’ai cru aussi. Longtemps. »
 
@@ -111,7 +111,7 @@ Elle pensa à Thessan, qui écrivait un peu plus loin, et à ce qu’il lui avai
 
 « Verithan non plus n’était pas sûr, dit-elle à mi-voix, plus pour elle-même que pour lui. Il l’a écrit dans ses dernières notes. Il ne savait pas ce qui pousserait à la place.
 
-— Personne ne le sait. C’est le seul point sur lequel nous soyons tous d’accord, dans le Cercle. Nous savons ce qui va se casser. Nous ne savons pas ce qui va pousser. » Un temps. « Et nous marchons vers le sud quand même. »
+— Personne ne le sait. C’est le seul point sur lequel nous soyons tous d’accord, dans le Cercle. Nous savons ce qui va se casser. Nous ne savons pas ce qui va pousser. » Un temps. « Et nous marchons vers le nord quand même. »
 
 ---
 
@@ -121,15 +121,15 @@ Par vieille habitude, sans y penser, elle chercha le fil qu’elle tendait chaqu
 
 Le fil partit dans le noir, comme chaque soir, vers Ísae.
 
-Et comme chaque soir, il ne revint pas : parce qu’on ne résonne pas avec un vide, parce qu’il faut être deux pleins pour se toucher du dedans. Mais cette nuit, sur ce col, à mesure qu’ils avançaient vers le sud, il lui sembla que le fil pesait autrement dans sa main. Moins raide. Comme si, très loin, quelqu’un avait cessé de tirer dessus par l’autre bout. Du côté où ils allaient. Du côté du sommet.
+Et comme chaque soir, il ne revint pas : parce qu’on ne résonne pas avec un vide, parce qu’il faut être deux pleins pour se toucher du dedans. Mais cette nuit, sur ce col, à mesure qu’ils avançaient vers le nord, il lui sembla que le fil pesait autrement dans sa main. Moins raide. Comme si, très loin, quelqu’un avait cessé de tirer dessus par l’autre bout. Du côté où ils allaient. Du côté du sommet.
 
 Elle n’en dit rien. C’était l’épuisement, sans doute, ou le vertige de tout ce qu’elle avait compris cette nuit. Peut-être avait-elle senti juste, peut-être non, et elle ne le saurait pas.
 
-« Il fait froid, dit-elle enfin, parce qu’il fallait dire quelque chose de simple, une chose vivante, une chose qui n’engageait à rien. Tu devrais dormir. Il nous reste des jours de marche.
+« Il fait froid, dit-elle enfin, parce qu’il fallait dire quelque chose de simple, une chose vivante, une chose qui n’engageait à rien. Tu devrais dormir. Il nous reste deux jours de marche.
 
 — Oui, dit l’homme sans nom. Bientôt. »
 
-Il ne bougea pas. Il regardait toujours le sud, et Sera comprit qu’il ne dormirait pas cette nuit non plus, qu’il resterait sur cette pierre, tourné vers un sommet noir qui le tenait comme il les tenait tous, ce point au bout du monde où devaient converger et se taire toutes leurs raisons irréconciliables : la rage de Drakhan, sa justice à elle, la peur de Thessan, les rêves de Mirathis, le silence de Vorath.
+Il ne bougea pas. Il regardait toujours le nord, et Sera comprit qu’il ne dormirait pas cette nuit non plus, qu’il resterait sur cette pierre, tourné vers un sommet noir qui le tenait comme il les tenait tous, ce point au bout du monde où devaient converger et se taire toutes leurs raisons irréconciliables : la rage de Drakhan, sa justice à elle, la peur de Thessan, les rêves de Mirathis, le silence de Vorath.
 
 Ses genoux protestèrent quand elle se releva. Sa couverture sous le bras, avant de repartir vers les braises, elle posa un instant la main sur l’épaule de l’homme sans nom. Le geste vint avant la pensée ; elle ne l’avait pas décidé. Sous sa paume, l’os, la maigreur, la fatigue. Il ne se déroba pas, ne se retourna pas non plus. Mais elle crut sentir quelque chose passer sous sa main, moins qu’un frisson, comme un corps qui reconnaît qu’on le touche et ne sait plus quoi en faire, faute d’avoir été touché depuis trop longtemps.
 

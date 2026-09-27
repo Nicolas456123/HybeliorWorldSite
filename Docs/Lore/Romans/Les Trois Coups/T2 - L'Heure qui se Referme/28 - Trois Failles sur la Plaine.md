@@ -151,7 +151,7 @@ Elle s’est endormie. La voilà qui dort à sa place, ce qui est déjà beaucou
 
 Nous, nous ne dormons pas. Nous n’avons pas de place où dormir. Nous restons éveillés dans nos bulles d’heure disjointes et nous la regardons dormir, elle, l’amputée, la presque-entière, et nous l’envions. Oui : nous, les entiers du malheur, nous envions celle qui a perdu le milieu. Parce qu’au moins elle est rentrée. Au moins il y a une margelle avec son nom. Nous, nous n’avons pas de margelle. Nous sommes le nom sans la pierre.
 
-Nous voyons des routes, d’où nous sommes, et elles se penchent toutes vers le levant : la femme qui coupe, le vieux qui garde et qui meurt, celle qui traque avec sa douceur d’État. Aucun des trois ne sait où il va. Ils vont vers l’herbe et vers les trois déchirures qui tournent autour du même piquet depuis douze ans. C’est le lieu le plus troué du monde, et c’est là que ça finira, d’une façon ou d’une autre.
+Nous voyons des routes, d’où nous sommes, et elles se penchent toutes vers Gryndor : la femme qui coupe, le vieux qui garde et qui meurt, celle qui traque avec sa douceur d’État. Aucun des trois ne sait où il va. Ils vont vers l’herbe et vers les trois déchirures qui tournent autour du même piquet depuis douze ans. C’est le lieu le plus troué du monde, et c’est là que ça finira, d’une façon ou d’une autre.
 
 Nous y serons. Nous y sommes peut-être déjà. Demandez-nous autre chose que le quand.
 

@@ -5,7 +5,7 @@ partie: coda
 chapitre: 46
 titre: La marque qui reste
 pov: Kessa (An 0, le lendemain — Cendara, hors de Cendral)
-lieu: Cendara — un relais de la Route des Cendres, au nord de Cendral
+lieu: Cendara — un relais de la Route des Cendres, au sud de Cendral
 status: draft
 ---
 
@@ -13,7 +13,7 @@ status: draft
 
 Kessa l’apprit par la couleur du fer.
 
-Elle n’était pas à Cendral. La veille au soir, elle était encore au pied du Mont, au campement, avec un bol qu’un mourant n’avait pas touché ; elle en était redescendue dans le noir, et elle n’avait pas repassé la porte de la remise. Elle avait chargé la mule et pris la Route des Cendres vers le nord. Personne ne le lui avait demandé, son père moins que personne, et elle n’aurait pas su dire ce qui l’avait mise sur cette route-là plutôt que devant son feu.
+Elle n’était pas à Cendral. La veille au soir, elle était encore au pied du Mont, au campement, avec un bol qu’un mourant n’avait pas touché ; elle en était redescendue dans le noir, et elle n’avait pas repassé la porte de la remise. Elle avait chargé la mule et pris la Route des Cendres vers le sud. Personne ne le lui avait demandé, son père moins que personne, et elle n’aurait pas su dire ce qui l’avait mise sur cette route-là plutôt que devant son feu.
 
 Elle marcha la nuit entière, la bride au poignet, sous la cendre tiède qui tombait comme tous les soirs. Au petit jour, un relais : quatre bâtiments bas contre le vent, une barrière, un abreuvoir, une forge. Des gens de la marque ; le vieux qui ouvrit la barrière à sa mule connaissait les trois traits et le cercle, et ne lui demanda pas d’où elle venait.
 
@@ -29,7 +29,7 @@ Elle reposa le marteau et sortit.
 
 Dehors, le jour se levait sur la plaine et il n’y avait rien à voir. Elle resta quand même, le tablier de cuir encore chaud contre les cuisses. Les bêtes soufflaient dans l’abreuvoir. Quelqu’un tirait de l’eau derrière les bâtiments, et la corde grinçait sur la poulie, et un coq criait.
 
-Puis cela monta au sud.
+Puis cela monta au nord.
 
 Par-dessus les longues ondulations rousses de la plaine, une colonne noire sortit du Mont Cendra et monta droit dans un ciel sans vent. Elle ne l’avait jamais vue et elle la reconnut sur-le-champ, pour l’avoir rêvée des nuits entières : épaisse, immense, s’étalant tout en haut en une chape grise qui mangeait déjà le bleu. Rien à voir avec le mince filet pâle qu’on respirait à Cendral. Le Mont rendait d’un coup tout ce qu’il avait gardé.
 
@@ -109,8 +109,8 @@ Elle ralluma la forge au briquet, comme toutes celles qui n’avaient jamais com
 
 *Tannk.*
 
-Elle la regarda dans la lueur. C’était ce qui restait de lui en bas ; le reste montait au sud dans une colonne qui ne redescendrait pas. Elle l’apprendrait à d’autres. Il y aurait des mains et du feu, et cela suffirait pour recommencer.
+Elle la regarda dans la lueur. C’était ce qui restait de lui en bas ; le reste montait au nord dans une colonne qui ne redescendrait pas. Elle l’apprendrait à d’autres. Il y aurait des mains et du feu, et cela suffirait pour recommencer.
 
 La cendre se mit à tomber sur le relais, grise et sèche, âpre sous les doigts, sans rien de la neige tiède de son enfance. Kessa la sentit se poser sur ses bras nus et sur la marque encore chaude, et elle ne la balaya pas. Elle venait de chez elle.
 
-Et au sud, sur la route qu’elle avait prise de nuit sans savoir pourquoi, tout ce qui avait pu fuir Cendral montait déjà vers Sulvane, et les premiers pousseraient la barrière du relais avant le matin.
+Et au nord, sur la route qu’elle avait prise de nuit sans savoir pourquoi, tout ce qui avait pu fuir Cendral descendait déjà vers Sulvane, et les premiers pousseraient la barrière du relais avant le matin.

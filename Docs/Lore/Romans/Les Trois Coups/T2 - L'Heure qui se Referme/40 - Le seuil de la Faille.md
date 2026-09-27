@@ -19,7 +19,7 @@ Trois mois, peut-être, il en a encore. Ou six. Moi je ne compte plus les mois. 
 
 ---
 
-Ils sont sept à marcher avec Tarn, et ils sont habillés pour un autre siècle.
+Ils sont sept à marcher avec Tarn, et presque tous sont habillés pour un autre siècle.
 
 C’est la chose qu’on remarque d’abord, même d’où je suis, où l’on remarque mal. Sur eux, des étoffes que plus personne ne tisse : des robes longues, ceintes haut sous la poitrine, d’une coupe que je reconnais, mon Dieu, je la reconnais, elle est de chez moi, elle est du temps où j’ai… non. Je m’égare. Je disais : des robes d’un autre âge, et au cou de chacun un fil de laine écrue avec, au bout, un petit disque de bronze percé d’un trou.
 
@@ -31,7 +31,7 @@ Je connais ce monde. Je viens peut-être de là. Ou j’y vais. Je ne sais plus 
 
 ---
 
-Celui qui les mène s’appelle le Portier. C’est une charge et non un nom, comme Sœur, chez nous, était une charge.
+Celui qui les mène s’appelle le Portier. C’est une charge et non un nom, comme Sœur, chez nous, était une charge. Un autre marche en tête avec lui, sans robe et sans jeton, dans des habits d’aujourd’hui : un passeur, de ceux qui mènent jusqu’au bord et restent de ce côté. Celui-là, je l’entends mal. Il ne dit presque rien.
 
 Il marche en tête, un homme sec, très droit malgré l’âge, la barbe grise coupée court et des yeux qui ne se posent jamais tout à fait sur ce qu’ils regardent, comme s’il voyait toujours un peu à côté, un peu plus loin, un peu plus tôt. Il parle à Tarn tout en marchant. Je les entends. Je ne devrais pas : il y a du vent sur cette plaine, un vent qui sent le fer chaud et la poussière retournée, et les mots devraient s’y perdre. Mais j’entends tout, parce que là où je suis les distances ne sont pas les vôtres.
 
@@ -67,7 +67,7 @@ Une des femmes le nourrit. Son nom, je ne le saisis pas ; il se troue, il me ma
 
 La femme ne dit rien. Une autre cuillère, qu’elle porte aux lèvres.
 
-« J’ai fait une route pour rien, cet hiver », dit Tarn. « Dans les marges. On disait qu’il y avait là-bas une femme qui savait couper à temps, et qu’ensuite on s’en relevait. Diminué, mais vivant. » Il ferme les yeux. « Je n’étais plus à temps. Je suis rentré à pied. »
+« J’ai fait une route pour rien, cet hiver », dit Tarn. « Dans les marges d’Onara, de l’autre côté de la mer. On disait qu’il y avait là-bas une femme qui savait couper à temps, et qu’ensuite on s’en relevait. Diminué, mais vivant. » Il ferme les yeux. « Je n’étais plus à temps. Je suis rentré. La mer, et puis à pied. »
 
 « Et l’autre voie ? » demande la femme, tout bas. « La leur. La veste grise, la fiole. »
 
@@ -83,7 +83,7 @@ C’est comme ça que je les reconnais, les déchirures. Elles ne montrent rien,
 
 Ce que les sept voient, eux, ce n’est presque rien. Une bande de plaine, large comme une rue, où l’herbe penche dans l’autre sens, couchée par un vent qui ne souffle pas de ce côté-ci. Et pas un bruit. Je le sais mieux que personne : j’en ai franchi une, je crois, et je n’ai rien entendu du tout, ni en entrant ni en sortant. Un homme peut marcher droit dedans en croyant marcher droit devant lui. Le sol tremble un peu quand on approche, un frisson, et de l’autre côté du frisson il n’y a plus de sol, plus de plaine, plus d’heure. L’autre chose commence. Le rien qui n’est pas un lieu.
 
-Les sept s’arrêtent au bord. Le Portier lève une main.
+Les sept s’arrêtent au bord, le passeur un peu en arrière. Le Portier lève une main.
 
 « Nous y sommes », dit-il. Sa voix tremble un peu, ce qui ne lui arrive pas, et je ne sais pas si c’est de joie. « Nous y sommes. Vous la sentez ? »
 
@@ -163,7 +163,7 @@ Le frisson passe sur lui comme sur la peau d’un cheval qu’une mouche touche.
 
 Et devant moi, d’un coup, il n’y a plus personne. Ils étaient là une seconde plus tôt, debout au bord, et le bord est vide, et je n’ai rien entendu, ni eux ni ce qui les a pris. L’écuelle verte tombe, roule un peu sur la terre dure, s’arrête. La harpe tombe aussi, et l’une de ses trois cordes vibre encore, seule, d’avoir été lâchée.
 
-Et il y a le garçon, dos tourné, face au rien, qui n’est pas passé.
+Et il y a le garçon, dos tourné, face au rien, qui n’est pas passé. Le passeur non plus, qui n’avait pas à passer ; lui, je le perds tout de suite, il sort de ma vue comme on sort d’une pièce.
 
 ---
 
@@ -183,7 +183,7 @@ Le garçon est resté longtemps.
 
 La nuit est tombée sur la plaine ; la nuit tombe vite, ici, comme un couvercle qu’on rabat sur une chambre pleine. Il est resté, dos à la déchirure éteinte, face à l’obscurité. Il ne pleurait plus. Il tenait dans sa main le petit disque de bronze percé, celui qu’un des sept avait laissé tomber, le jeton de passage pour une arche qui n’existe plus, et il le tournait entre ses doigts sans le regarder.
 
-Il faudra qu’il rentre. Il faudra qu’il traverse la plaine de nuit en évitant les autres frissons de l’air, ceux qui ne restent pas en place et qui, m’a-t-on dit, gagnent en vitesse d’une saison à l’autre ; il faudra qu’il retrouve un bourg, qu’il se taise sur ce qu’il a vu, qu’il devienne quelqu’un qui a vu une déchirure prendre sept personnes et n’a rien pu en dire. Ça, il le portera toute sa vie. Un jour il sera un vieil homme, si l’Inspectrice ne le trouve pas, un vieil homme dans un bourg quelconque, et une nuit d’orage il dira à un enfant : *j’ai vu, une fois, des gens entrer dans une porte, et j’ai senti quelqu’un derrière, quelqu’un qu’on ne voyait pas.* Et l’enfant ne le croira pas. Et le vieux mourra avec ça, et ça ne se transmettra pas, parce que certaines choses ne se mettent pas dans la bouche d’un autre : la peur qu’on a eue au bord d’une déchirure, le froid derrière le froid.
+Il faudra qu’il rentre. Il faudra qu’il traverse la plaine de nuit en évitant les autres frissons de l’air, ceux qui ne restent pas en place et qui, m’a-t-on dit, gagnent en vitesse d’une saison à l’autre ; il faudra qu’il retrouve un bourg, qu’il se taise sur ce qu’il a vu, qu’il devienne quelqu’un qui a vu une déchirure prendre six personnes et n’a rien pu en dire. Ça, il le portera toute sa vie. Un jour il sera un vieil homme, si l’Inspectrice ne le trouve pas, un vieil homme dans un bourg quelconque, et une nuit d’orage il dira à un enfant : *j’ai vu, une fois, des gens entrer dans une porte, et j’ai senti quelqu’un derrière, quelqu’un qu’on ne voyait pas.* Et l’enfant ne le croira pas. Et le vieux mourra avec ça, et ça ne se transmettra pas, parce que certaines choses ne se mettent pas dans la bouche d’un autre : la peur qu’on a eue au bord d’une déchirure, le froid derrière le froid.
 
 Je ne me transmets pas davantage. Vous m’écoutez sans savoir d’où je parle ; je vous parle sans savoir quand. C’est comme ça entre nous, et ça ne se recoud pas.
 

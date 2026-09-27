@@ -98,7 +98,7 @@ Le souffle, le cœur, le noir au bord de la vue : cela, il connaissait. Mais le
 
 C’est à l’une de ces haltes, sur le rocher plat d’où l’on voit fumer son propre toit, qu’ils revinrent.
 
-Ils étaient plus nombreux qu’avant. Plus clairs, aussi, et c’était cela, le changement, ce qui le redressa sur le rocher malgré la fatigue : plus clairs. Aux premières fois, au début de l’automne, il ne les avait entendus que comme un chœur de l’autre versant, quelques bribes que le vent voulait bien rapporter. Maintenant le vent avait tourné, ou la montagne s’était abaissée, ou bien, et c’était ce qu’il croyait, ils poussaient plus fort. C’était la seule explication que sa chambre à morts lui permît de former : ils poussaient plus fort, comme un Errant pousse plus fort à mesure que sa solitude s’aiguise, comme tous les morts poussaient plus fort ces temps-ci contre les portes du monde, parce que le monde en fabriquait plus vite qu’il n’en faisait passer. Tant de morts, désormais. Tant d’Errants dans tant de coins. La Trame devait en être lourde à rompre, saturée de tout ce qui n’avait pas trouvé sa porte ; et voilà que même les derniers venus, ceux qu’il n’avait jamais su nommer, se mettaient à pousser jusqu’à percer le mur de son entendement.
+Ils étaient plus nombreux qu’avant. Plus clairs, aussi, et c’était cela, le changement, ce qui le redressa sur le rocher malgré la fatigue : plus clairs. Aux premières fois, l’autre hiver, il ne les avait entendus que comme un chœur de l’autre versant, quelques bribes que le vent voulait bien rapporter. Maintenant le vent avait tourné, ou la montagne s’était abaissée, ou bien, et c’était ce qu’il croyait, ils poussaient plus fort. C’était la seule explication que sa chambre à morts lui permît de former : ils poussaient plus fort, comme un Errant pousse plus fort à mesure que sa solitude s’aiguise, comme tous les morts poussaient plus fort ces temps-ci contre les portes du monde, parce que le monde en fabriquait plus vite qu’il n’en faisait passer. Tant de morts, désormais. Tant d’Errants dans tant de coins. La Trame devait en être lourde à rompre, saturée de tout ce qui n’avait pas trouvé sa porte ; et voilà que même les derniers venus, ceux qu’il n’avait jamais su nommer, se mettaient à pousser jusqu’à percer le mur de son entendement.
 
 Rien ne poussait.
 
@@ -128,7 +128,7 @@ Et dans le silence revenu, épais, ordinaire, plein seulement du vent dans les m
 
 *Il ne me reste plus le temps de chercher un héritier ici.*
 
-Il l’avait cherché tout l’automne, l’enfant à la chambre bien placée, l’oreille à venir. Dans les vallées d’Alkaran, il n’avait trouvé personne, rien que des garçons qu’on lui poussait dans les bras et qui parlaient seuls par simplicité, non par don. Puis il était descendu, trente lieues, sur le fil d’une insistance neuve, et il l’avait trouvée, elle, l’enfant de la forge, la fille de la femme qui écoutait sans savoir qu’elle écoutait. Une chambre neuve, à peine ouverte, exacte. La seule qu’il eût rencontrée en cinquante ans qui valût la sienne.
+Il l’avait cherché toute une année, l’enfant à la chambre bien placée, l’oreille à venir. Dans les vallées d’Alkaran, il n’avait trouvé personne, rien que des garçons qu’on lui poussait dans les bras et qui parlaient seuls par simplicité, non par don. Puis il était descendu, cent lieues et la mer, sur le fil d’une insistance neuve, et il l’avait trouvée, elle, l’enfant de la forge, la fille de la femme qui écoutait sans savoir qu’elle écoutait. Une chambre neuve, à peine ouverte, exacte. La seule qu’il eût rencontrée en cinquante ans qui valût la sienne.
 
 Et on la lui avait fermée.
 
@@ -138,7 +138,7 @@ Et le pire, c’est qu’elle avait raison.
 
 Jamais il n’avait su lui donner tort. De son côté du fil elle avait raison, comme il avait raison du sien, et au milieu se tenait une enfant qui portait le salut de sa mère et l’héritage du vieux et ne pouvait pas porter les deux. Garder le don la tuait. Couper le don éteignait avec elle la dernière lignée d’écoute d’Alkaran. On ne pouvait pas la sauver sans tuer quelque chose. Personne n’avait de faute à se reprocher là-dedans, et c’était ce qu’il supportait le moins.
 
-La forgeronne et l’enfant étaient parties. Avaient fui, plutôt. L’Inspectrice se rapprochait ; Ombreth avait vu la femme changer de visage quand un colporteur avait parlé de questions posées dans les bourgs de l’aval, d’une femme de Drahk’Nor qui alignait les dates et notait les silences. La forge s’était vidée en une nuit. Où elles allaient, il ne le savait pas. Vers l’ouest, vers les basses terres mouillées, vers un endroit où les Failles seraient si épaisses que même les traqueurs n’oseraient pas suivre : c’était tout ce qu’il avait pu tirer d’elle avant le départ. Un endroit troué. Une plaine.
+La forgeronne et l’enfant n’étaient sans doute plus à la forge. L’Inspectrice se rapprochait déjà à l’automne ; Ombreth avait vu la femme changer de visage quand un colporteur avait parlé de questions posées dans les bourgs de l’aval, d’une femme de Drahk’Nor qui alignait les dates et notait les silences. Une forge comme celle-là se viderait en une nuit, le jour venu. Où elles iraient, il ne le savait pas. Vers l’ouest, par les basses terres mouillées et la mer, vers un endroit où les Failles seraient si épaisses que même les traqueurs n’oseraient pas suivre : c’était tout ce qu’il avait pu tirer d’elle avant de reprendre la route. Un endroit troué. Une plaine.
 
 Le fil de la petite était peut-être déjà tranché, ou allait l’être. Il ne le saurait pas.
 
@@ -150,7 +150,7 @@ Il essaya. Il tenait le briquet entre deux doigts qui ne serraient plus, l’ama
 
 Que ce serait court, maintenant.
 
-Que les mains d’abord, puis les bras, puis le reste, et qu’entre le briquet qu’on ne bat plus et le souffle qu’on ne prend plus il y avait moins de chemin qu’il n’aurait cru. Et que dans ce peu de chemin qui restait, il fallait qu’il fît une chose, une seule, car il ne pouvait plus tout : il ne pouvait plus chercher un héritier, il ne pouvait plus courir toutes les portes des vallées, il ne pouvait plus rien de large. Il lui restait une chose étroite et possible, et elle était vers l’ouest, sur le fil d’une insistance neuve, dans une plaine trouée où l’on avait emmené la seule oreille qui valût la sienne.
+Que les mains d’abord, puis les bras, puis le reste, et qu’entre le briquet qu’on ne bat plus et le souffle qu’on ne prend plus il y avait moins de chemin qu’il n’aurait cru. Et que dans ce peu de chemin qui restait, il fallait qu’il fît une chose, une seule, car il ne pouvait plus tout : il ne pouvait plus chercher un héritier, il ne pouvait plus courir toutes les portes des vallées, il ne pouvait plus rien de large. Il lui restait une chose étroite et possible, et elle était vers l’ouest, sur le fil d’une insistance neuve, dans une plaine trouée où la mère avait dit qu’elle mènerait la seule oreille qui valût la sienne.
 
 Il fallait qu’il les rejoigne.
 
@@ -160,6 +160,6 @@ Il ne savait pas si c’était vrai. Ni s’il aurait le temps. Dans le noir, il
 
 Le compte ne tombait pas juste. Il ne tomberait jamais juste. Comme celui de la voix du milieu, là-haut, qui comptait des gens dans une heure sans nom et recommençait sans fin.
 
-Il se leva, ce qui lui prit longtemps, et dans le froid, sans feu, il commença de rassembler ce qu’un homme aux mains mortes pouvait emporter pour trente lieues : très peu de chose. Le bâton de sa mère. Le linge à sang. Et dans la poitrine une note gardée pour une enfant, au bout d’un chemin, s’il arrivait avant que le silence se referme sur elle.
+Il se leva, ce qui lui prit longtemps, et dans le froid, sans feu, il commença de rassembler ce qu’un homme aux mains mortes pouvait emporter pour une route qui passait la mer : très peu de chose. Le bâton de sa mère. Le linge à sang. Et dans la poitrine une note gardée pour une enfant, au bout d’un chemin, s’il arrivait avant que le silence se referme sur elle.
 
-Il avait traversé des déchirures tout l’automne en croyant que son oreille s’affinait. Une plaine entière s’usait par-dessous depuis des années, et les rares qui la traversaient mettaient le froid sur le dos du vent.
+Il avait traversé des déchirures tout l’été en croyant que son oreille s’affinait. Une plaine entière s’usait par-dessous depuis des années, et les rares qui la traversaient mettaient le froid sur le dos du vent.

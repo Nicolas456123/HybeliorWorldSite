@@ -53,7 +53,7 @@ Le calame courut. Karsel écrivait vite et bien, et il écrivit cela sans lever 
 
 « Maître. » Karsel s’était arrêté au bout de la ligne, le calame en l’air. « Il y avait dix mille personnes. Vous l’avez dit vous-même à la capitaine. Vous lui avez dit que cette foule grossissait par le milieu.
 
-— Je l’ai dit à la capitaine, la nuit, sur la pente. On dit des choses vraies la nuit sur une pente qui n’ont rien à faire dans un versement. » Vaskar posa deux doigts sur la feuille. « Écrivez rassemblement notable. Aux Fonds, on sait ce que veut dire notable ; c’est un mot qui range. Dix mille ne range pas. Dix mille, sur une feuille qui monte à Drakora, cela devient un soulèvement, et un soulèvement au cœur du monde appelle une réponse, et une réponse appelle des soldats, et des soldats sur ce flanc appelleraient exactement la chose que personne, cette nuit, n’a su nommer. Vous voulez lâcher trois mille piques sur une montagne qui bat ? »
+— Je l’ai dit à la capitaine, la nuit, sur la pente. On dit des choses vraies la nuit sur une pente qui n’ont rien à faire dans un versement. » Vaskar posa deux doigts sur la feuille. « Écrivez rassemblement notable. Cette nuit, je vous ai dicté trois mille ; c’était encore un nombre, et un nombre se recompte. Aux Fonds, on sait ce que veut dire notable ; c’est un mot qui range. Dix mille ne range pas. Dix mille, sur une feuille qui monte à Drakora, cela devient un soulèvement, et un soulèvement au cœur du monde appelle une réponse, et une réponse appelle des soldats, et des soldats sur ce flanc appelleraient exactement la chose que personne, cette nuit, n’a su nommer. Vous voulez lâcher trois mille piques sur une montagne qui bat ? »
 
 « Non.
 
@@ -153,7 +153,7 @@ Elle se redressa, renoua le col de son manteau, et sur le seuil se retourna à d
 
 *
 
-Il convoya la feuille lui-même jusqu’à Drakora, ce qu’un homme de son rang ne fait pas ; mais il ne se fiait à aucune main pour celle-ci, et Karsel comprit qu’il ne fallait pas s’en étonner, et monta d’un pas en arrière tout le long des relais.
+Il convoya la feuille lui-même jusqu’à Drakora, ce qu’un homme de son rang ne fait pas ; mais il ne se fiait à aucune main pour celle-ci, et Karsel comprit qu’il ne fallait pas s’en étonner, et monta d’un pas en arrière tout le long des relais et de la traversée.
 
 Les Fonds le reprirent sans rien changer à rien. Cent onze marches, qu’il connaissait à la fatigue exacte du mollet ; le froid égal, le silence, les rangées de casiers scellés faisant dans le noir leurs fronts muets. Il déposa le rapport au greffe du soir, et le greffier, un homme jeune qui n’avait veillé sur aucune pente, lut la feuille à la lampe, hocha la tête, et posa dessus le tampon du service avec le geste sans poids de qui range une chose parmi ses pareilles. Il porta le numéro au registre du soir, à la suite d’un relevé de crue.
 
@@ -167,7 +167,7 @@ Les Fonds le reprirent sans rien changer à rien. Cent onze marches, qu’il con
 
 Il ne remonta pas. Le greffier parti, il décrocha une lampe et s’enfonça vers le fond de la maison, là où le froid ne bouge plus et où la clarté ne porte pas d’un casier à l’autre, et s’arrêta devant le petit coffre de fer noir. Il ne sortit pas sa clef. Il n’ouvrait plus les coffres qu’on n’ouvre pas ; il l’avait fait une fois, une seule, la nuit où il avait posé les deux fers côte à côte, et cette nuit-là lui suffirait pour toutes celles qui restaient. Le coffre était descendu de deux cotes depuis le mois d’avant, et c’était sa main qui l’avait descendu.
 
-L’étiquette portait des écritures que les siècles avaient recollées l’une par-dessus l’autre ; la plus ancienne, dessous, donnait un nom rongé aux bords. Vaenor. Vaskar passait devant chaque nuit depuis qu’il servait ici, et il n’avait jamais entendu personne le prononcer. Il ne connaissait pas cette main, ni ce qu’elle avait eu sur sa table le soir où elle avait signé. Il tenait son geste comme un outil usé au manche par des paumes qu’il n’avait pas vues.
+L’étiquette portait des écritures que les siècles avaient recollées l’une par-dessus l’autre ; la plus ancienne, dessous, donnait un nom rongé aux bords. Vaenor. Vaskar passait devant chaque nuit depuis qu’il servait ici, et il ne l’avait entendu prononcer qu’une fois, dans la bouche d’Orsenne. Il ne connaissait pas cette main, ni ce qu’elle avait eu sur sa table le soir où elle avait signé. Il tenait son geste comme un outil usé au manche par des paumes qu’il n’avait pas vues.
 
 Deux textes, à présent, sur la même nuit du monde, à quelques toises l’un de l’autre dans les mêmes Fonds. En haut, dans la corbeille des cotes à ouvrir, sa feuille propre et fausse, que l’État copierait, cataloguerait, croirait, et qu’on lirait dans cent ans en disant voilà ce qui s’est passé. En bas, sous le fer, un vieux cahier recopié dont il connaissait, lui seul désormais, le contenu, et qui portait une ligne plus vraie que tout ce qu’il avait écrit de sa vie.
 

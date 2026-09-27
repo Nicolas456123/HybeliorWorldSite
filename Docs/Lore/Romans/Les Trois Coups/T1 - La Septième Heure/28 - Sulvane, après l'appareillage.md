@@ -115,7 +115,7 @@ Son visage lui restait inconnu. Il connaissait sa main : cette économie du men
 
 Il n’y avait pas d’amertume dans la phrase, et cette absence d’amertume l’étonna, comme on s’étonne de ne pas saigner d’une blessure qu’on croyait profonde. Il aurait dû la haïr. Elle avait retourné son agent, humilié son Bureau, usé trois semaines de ses routes pour rien. Il ne la haïssait pas. Depuis trois semaines ils se répondaient sans un mot, à un jour de distance : elle posait un silence quelque part, il le trouvait, elle en posait un autre, mieux fait.
 
-Et ces silences penchaient tous du même côté. C’était tout ce que le vide lui disait de sûr, et cela suffisait : le gîte, le passeur, ce quai, mis bout à bout, montaient vers les hautes terres et, au-delà, vers le sud.
+Et ces silences penchaient tous du même côté. C’était tout ce que le vide lui disait de sûr, et cela suffisait : le gîte, le passeur, ce quai, mis bout à bout, montaient vers les hautes terres et, au-delà, vers le nord-est.
 
 ---
 
@@ -143,6 +143,6 @@ Dehors, le port travaillait dans la lumière déclinante : les grues, les cris,
 
 Il avait lu le Traité, lui aussi, une nuit, à Pyrion. Il ne lui avait pas trouvé de faute. C’était pour cette raison qu’il descendait vers le sud.
 
-Il descendit sur le quai. La marée montait déjà, effaçant sous l’eau grise la ligne de vase où, l’avant-veille, une passerelle avait touché terre. Demain il n’en resterait rien. Il irait au sud lui aussi, vers les hautes terres, vers le point où penchaient toutes ces absences, et il y arriverait un jour trop tard, pour toucher des cendres tièdes, compter des empreintes et comprendre une fois de plus ce qu’il n’aurait pas empêché.
+Il descendit sur le quai. La marée montait déjà, effaçant sous l’eau grise la ligne de vase où, l’avant-veille, une passerelle avait touché terre. Demain il n’en resterait rien. Il irait au nord-est lui aussi, vers les hautes terres, vers le point où penchaient toutes ces absences, et il y arriverait un jour trop tard, pour toucher des cendres tièdes, compter des empreintes et comprendre une fois de plus ce qu’il n’aurait pas empêché.
 
 Par-delà les cols que la nuit prenait, il y avait une montagne qu’il n’avait jamais vue. Des gens montaient vers elle, chacun par sa route, et un homme montait derrière eux. Elle ne faisait pas la différence.

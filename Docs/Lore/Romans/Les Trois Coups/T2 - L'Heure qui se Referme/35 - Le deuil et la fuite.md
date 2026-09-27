@@ -28,11 +28,11 @@ Elle se tenait dans la porte de l’atelier, déjà vêtue, son tablier de forge
 
 Elles partirent avant l’aube, par le chemin haut, celui qui ne passe pas par le bourg.
 
-Kessane avait choisi la direction comme on choisit une trempe, par élimination. Drahk’Nor, non : c’était marcher dans la gueule. La mer non plus, les ports étaient tenus, on y demandait les noms. Au nord, les Inspecteurs. À l’est, les Inspecteurs. Restait une seule aire du monde où l’on disait qu’ils ne mettaient pas les pieds, et on le disait parce que c’était pire qu’eux.
+Kessane avait choisi la direction comme on choisit une trempe, par élimination. Drahk’Nor, non : c’était marcher dans la gueule. Les ports non plus, ils étaient tenus, on y demandait les noms. Au nord, les Inspecteurs. À l’est, les Inspecteurs. Restaient les chenaux du delta, où les veilleurs de nasses ne demandaient rien à personne, et la mer au bout. De l’autre côté de la mer, sur la terre même de Drahk’Nor, il y avait une seule aire du monde où l’on disait que les Inspecteurs ne mettaient plus les pieds, et on le disait parce que c’était pire qu’eux.
 
 La Plaine de Gryndor.
 
-Elle en avait entendu parler toute sa vie à voix basse, entre deux crachats pour conjurer, comme on parle des lieux maudits. Une plaine, loin vers l’intérieur des terres, où le temps ne se tenait pas. Trois Failles y vivaient à demeure depuis douze ans, disait-on, se déplaçant lentement sur l’herbe comme paissent trois bêtes énormes et aveugles ; et là où elles paissaient, les villages se vidaient, se remplissaient, se revidaient, les mêmes gens revenant d’un autre âge et repartant, si bien qu’on ne savait plus qui était mort, qui était à venir, qui était deux fois. Les cartes s’y arrêtaient. Les marcheurs de la Roue, qui allaient partout vendre du sens, n’en vendaient pas à Gryndor et n’y allaient pas.
+Elle en avait entendu parler toute sa vie à voix basse, entre deux crachats pour conjurer, comme on parle des lieux maudits. Une plaine d’Ilthara, sur l’autre rive, où le temps ne se tenait pas. Trois Failles y vivaient à demeure depuis douze ans, disait-on, se déplaçant lentement sur l’herbe comme paissent trois bêtes énormes et aveugles ; et là où elles paissaient, les villages se vidaient, se remplissaient, se revidaient, les mêmes gens revenant d’un autre âge et repartant, si bien qu’on ne savait plus qui était mort, qui était à venir, qui était deux fois. Les cartes s’y arrêtaient. Les marcheurs de la Roue, qui allaient partout vendre du sens, n’en vendaient pas à Gryndor et n’y allaient pas.
 
 Les Inspecteurs non plus.
 
@@ -54,7 +54,7 @@ Lirenn prit l’image sans rien dire. Sa mère n’en donnait pas deux par an.
 
 *
 
-Elles marchèrent quatre jours avant que le pays change.
+Il leur fallut dix jours avant que le pays change : un jour jusqu’aux chenaux du delta, deux à attendre qu’un caboteur voulût d’elles sans demander de nom, six de mer, et la grève d’Ilthara au fond d’un long bras d’eau noire.
 
 Il changea sans prévenir, comme l’eau de la trempe passe du froid au bouillant sans qu’on ait vu le seuil : un matin l’herbe était l’herbe, et le matin d’après l’air avait pris une qualité fausse, et la lumière ne se posait plus tout à fait au même instant que les choses qu’elle éclairait. Un arbre, au loin, portait ses feuilles d’automne quand l’arbre d’à côté avait celles du printemps. Kessane resta longtemps devant ces deux arbres. Puis elle referma sa main sur celle de Lirenn, fit un large détour, et elles n’en parlèrent pas.
 

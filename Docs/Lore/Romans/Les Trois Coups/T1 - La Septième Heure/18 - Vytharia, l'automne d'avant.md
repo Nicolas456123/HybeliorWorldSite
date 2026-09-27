@@ -141,7 +141,7 @@ Mirathis reposa sa cuillère. Personne, en dix ans, ne lui avait dit cela. Le Ce
 
 « Et si l’œil se voit dans l’image ? » dit Mirathis, très bas. « Si l’œil est dedans ? »
 
-La Veilleuse le regarda longtemps. Dehors, l’arche luisait dans la nuit, tranquille, une bouche de pierre qui attendait. Demain elle poserait Mirathis à deux cents lieues d’ici, entier·ère, fidèlement, et plus loin encore de la montagne noire.
+La Veilleuse le regarda longtemps. Dehors, l’arche luisait dans la nuit, tranquille, une bouche de pierre qui attendait. Demain elle poserait Mirathis à quarante lieues d’ici, entier·ère, fidèlement, et plus loin encore de la montagne noire.
 
 « Alors », dit-elle enfin, et pour la première fois quelque chose vacilla dans son regard nu, « alors tu n’es plus seulement un œil. Et je ne connais pas de mot pour ce que tu es. On ne l’a pas cousu, celui-là, dans le Grand Tissu. » Elle se leva, reprit le bol vide. « Dors ici. Tu sauteras demain, à la lumière. Pas la nuit, pas avec le noir déjà plein la tête. »
 
@@ -155,4 +155,4 @@ Puis iel entra dans le rien. Iel se laissa prendre, se laissa défaire ; et dan
 
 Iel ressortit à Galenor, sur la pierre bleue d’Aethranor, dans une ville dure et claire, où le ciel tombait droit sur les toits.
 
-Et ce matin-là, la chose qui n’avait que des mains prit le seul voyageur qui lui eût jamais demandé pardon, le défit, le rendit entier deux cents lieues plus loin, et n’en garda rien.
+Et ce matin-là, la chose qui n’avait que des mains prit le seul voyageur qui lui eût jamais demandé pardon, le défit, le rendit entier quarante lieues plus loin, et n’en garda rien.

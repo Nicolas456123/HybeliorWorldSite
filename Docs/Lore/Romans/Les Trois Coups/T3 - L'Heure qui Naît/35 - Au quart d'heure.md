@@ -118,7 +118,7 @@ Elle les prit tous, la foule entière, comme une seule respiration ; le sol pou
 
 Quand elle se releva, l’homme au bâton comptait déjà.
 
-« Sous le quart, dit-il d’une voix blanche. Sous le quart d’heure. C’était le quart hier. » Il regarda son bâton, ses traits dans la cendre, comme s’ils l’avaient trahi. « Ça double. Ça double à chaque fois maintenant. »
+« Sous le quart, dit-il d’une voix blanche. Sous le quart d’heure. C’était le quart hier. » Il regarda son bâton, ses traits dans la cendre, comme s’ils l’avaient trahi. « Ça double. Ça double à chaque fois maintenant. »
 
 \*
 
@@ -130,7 +130,7 @@ Manteau sombre, pas de suie sur la face, pas de mèches peintes, rien qui le don
 
 « Je suis d’ici, dit Renna. Je suis de Taldre. Teinturière. Je rentre chez moi.
 
-— Chez vous, c’est au sud du foyer, et le foyer est fermé. » Il désigna d’un mouvement de menton la fente, la margelle, la foule. « Tout ceci sera dispersé avant l’aube. On ne laisse pas quinze mille personnes camper sur une bouche de feu qui cogne sous le quart d’heure. Il y aura une bousculade, un feu qui prend une tente, une centaine de morts pour rien, et ce sera de notre faute à nous qui aurons laissé faire. Alors nous ne laissons pas faire. »
+— Chez vous, c’est au nord du foyer, et le foyer est fermé. » Il désigna d’un mouvement de menton la fente, la margelle, la foule. « Tout ceci sera dispersé avant l’aube. On ne laisse pas quinze mille personnes camper sur une bouche de feu qui cogne sous le quart d’heure. Il y aura une bousculade, un feu qui prend une tente, une centaine de morts pour rien, et ce sera de notre faute à nous qui aurons laissé faire. Alors nous ne laissons pas faire. »
 
 « Dispersez, dit Renna. Je ne vous retiens pas.
 
@@ -164,7 +164,7 @@ Sa voix avait changé : tendue, tirée vers le haut, comme sa main l’était v
 
 Renna s’assit, ou plutôt tomba assise, dans la margelle chaude, l’enfant en travers des genoux, et le tint des deux bras.
 
-Deux jours plus tôt, au bord de la rivière, elle avait cru trancher. Le feu ou l’eau : rendre l’enfant à ce qui montait, ou le regarder se vider dans le calme. Elle avait choisi le feu, retourné le mulet, et s’était dit qu’au moins celui-là le remplissait. Elle avait choisi cela de loin, en une fois, d’un bout à l’autre, avec une rivière devant elle et personne autour d’elle pour parler.
+Huit jours plus tôt, au bord de la rivière, elle avait cru trancher. Le feu ou l’eau : rendre l’enfant à ce qui montait, ou le regarder se vider dans le calme. Elle avait choisi le feu, retourné le mulet, et s’était dit qu’au moins celui-là le remplissait. Elle avait choisi cela de loin, en une fois, d’un bout à l’autre, avec une rivière devant elle et personne autour d’elle pour parler.
 
 Le val lui reprenait son choix par morceaux.
 

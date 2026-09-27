@@ -71,7 +71,7 @@ Renna ne dit rien. Son regard alla sur la joue de l’enfant contre son bras, su
 
 Elle avait dit le mot sans le vouloir, et elle le regretta aussitôt.
 
-« Sur un chemin. À Cendara, dans le haut du bourg. » La jeune parlait vite maintenant, pour en finir, comme on retire un pansement collé. « Personne n’a rien vu. Pas de figure, pas de cri, pas un nom crié sur rien. Elle marchait, et puis elle était par terre, et un homme, à trente pas, reprochait à sa femme d’avoir salé la soupe. On l’a trouvée avec un lacet dans la main. Un lacet de cuir tout neuf, serré dans le poing. » Un temps. « Personne n’a rien revendiqué. Comme les autres. Comme toujours. »
+« Sur un chemin. À Taldre, dans le haut du bourg. » La jeune parlait vite maintenant, pour en finir, comme on retire un pansement collé. « Personne n’a rien vu. Pas de figure, pas de cri, pas un nom crié sur rien. Elle marchait, et puis elle était par terre, et un homme, à trente pas, reprochait à sa femme d’avoir salé la soupe. On l’a trouvée avec un lacet dans la main. Un lacet de cuir tout neuf, serré dans le poing. » Un temps. « Personne n’a rien revendiqué. Comme les autres. Comme toujours. »
 
 Comme les autres. Comme toujours. Renna avait entendu ces mots-là toute l’année, dans les bouches des marchés, à propos de gens qu’elle ne connaissait pas, des noms lus sur des affiches, des faiseurs de paix et des gardiens de vieilleries qu’une chose sans visage couchait un à un au bord des routes. Elle les avait entendus comme on entend la pluie, un bruit de fond du monde, quelque chose qui arrivait aux autres. Ils cessaient, cette nuit, d’arriver aux autres.
 

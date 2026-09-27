@@ -26,7 +26,7 @@ Un cran de manivelle. Le rythme était dans son poignet depuis trente ans, ni tr
 
 Le marchand regarda devant.
 
-Le Gouffre coupait Endora en deux depuis avant les hommes. Trois lieues de long, et si profond qu’aucune pierre jetée n’en avait jamais rapporté le bruit ; tout au fond, là où l’œil renonçait, une pâleur remuait doucement, qui n’était ni de l’eau ni de l’air. Du temps des grands-pères des grands-pères, pour passer d’un bord à l’autre, on faisait le tour : quatre jours de mulet. Puis on avait planté aux deux rives les Piles, deux fûts de pierre hauts comme des clochers, où le Lien dormait ; entre elles on avait tendu le câble ; et depuis six cents ans la nacelle traversait le vide dans le temps qu’il faut pour manger un quignon.
+Le Gouffre coupait Endora en deux depuis avant les hommes. Six lieues de long, et si profond qu’aucune pierre jetée n’en avait jamais rapporté le bruit ; tout au fond, là où l’œil renonçait, une pâleur remuait doucement, qui n’était ni de l’eau ni de l’air. Du temps des grands-pères des grands-pères, pour passer d’un bord à l’autre, on faisait le tour : quatre jours de mulet. Puis on avait planté aux deux rives les Piles, deux fûts de pierre hauts comme des clochers, où le Lien dormait ; entre elles on avait tendu le câble ; et depuis six cents ans la nacelle traversait le vide dans le temps qu’il faut pour manger un quignon.
 
 Ailleurs en Endora la terre tremblait deux fois l’an et l’on rangeait la vaisselle en conséquence. Ici, au bord de la plus grande blessure du pays, rien ne bougeait jamais : les Piles buvaient les secousses. Les passagers ne le croyaient qu’après coup, une fois le pied sur l’autre plate-forme, quand ils s’apercevaient qu’ils n’avaient rien senti du tout.
 

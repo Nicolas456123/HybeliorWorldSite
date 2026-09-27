@@ -29,7 +29,7 @@ Combien. Huit. Huit se laisse encore compter quand tout le reste se refuse ; le
 
 Celui qui coupe.
 
-Du côté de la mer, monté de la côte. Il regarde le sud, et le sud c’est moi. Il ne dort pas, il ne dort jamais. Il garde son nom dans un endroit où je n’entre pas, et de tout ce qu’un vivant porte c’est la seule chose que je n’aie jamais tenue. Sous sa poitrine il y a une vieille brûlure, l’endroit par où il me sent, ou croit me sentir. Je le sens qui me sent. Ni lui ni moi ne disons rien.
+Du côté de la mer, monté de la côte. Il regarde le nord, et le nord c’est moi. Il ne dort pas, il ne dort jamais. Il garde son nom dans un endroit où je n’entre pas, et de tout ce qu’un vivant porte c’est la seule chose que je n’aie jamais tenue. Sous sa poitrine il y a une vieille brûlure, l’endroit par où il me sent, ou croit me sentir. Je le sens qui me sent. Ni lui ni moi ne disons rien.
 
 Celle qui écrit le sens.
 
@@ -41,11 +41,11 @@ Seule, en avance sur les autres. Elle a tracé la route et elle efface leurs pas
 
 Celui du feu.
 
-Il n’est pas monté, pas encore. Il est en bas, tout au pied, dans la ville sous le sommet, les mains froides pour la première fois depuis quarante ans : sa forge est éteinte depuis des semaines, et la seule chaleur qui l’attende encore est la mienne. Personne d’autre que lui ne sait le dedans du sommet. Il a fait dire qu’il monterait demain soir. Il sera le dernier. Sa fille lui a demandé de ne pas monter. Il monte quand même. Ils montent tous quand même. C’est le mot qui revient cette nuit, quand même, et je ne le comprends pas, et je le porte.
+Il n’est pas monté, pas encore. Il est en bas, tout au pied, dans la ville sous le sommet, les mains froides pour la première fois depuis quarante ans : sa forge est éteinte depuis ce soir, et la seule chaleur qui l’attende encore est la mienne. Personne d’autre que lui ne sait le dedans du sommet. Il a fait dire qu’il monterait demain soir. Il sera le dernier. Sa fille lui a demandé de ne pas monter. Il monte quand même. Ils montent tous quand même. C’est le mot qui revient cette nuit, quand même, et je ne le comprends pas, et je le porte.
 
 Le jeune qui écrit.
 
-Venu par la terre, celui-là. Il n’a jamais été sur l’eau ; il a marché depuis le port du nord. Cette nuit il écrit, encore, toujours, et je tiens sa main. Les lettres ne m’ont jamais rien dit et ne me diront rien. Mais sa main est froide, et au bout de chaque ligne elle s’arrête plus longtemps qu’il ne faudrait. Ce qui l’arrête, c’est demain. Elle a peur de ce qui poussera à la place de ce qu’ils vont casser. Il ne sait pas ce qui pousse. Moi non plus. Personne. Celui qui a écrit le traité ne le savait pas davantage, il l’a écrit dans ses dernières notes. Et le jeune écrit quand même, la peur dans la main et la main qui va sur la page.
+Venu par la terre, celui-là. Il n’a jamais été sur l’eau ; il a marché depuis le port. Cette nuit il écrit, encore, toujours, et je tiens sa main. Les lettres ne m’ont jamais rien dit et ne me diront rien. Mais sa main est froide, et au bout de chaque ligne elle s’arrête plus longtemps qu’il ne faudrait. Ce qui l’arrête, c’est demain. Elle a peur de ce qui poussera à la place de ce qu’ils vont casser. Il ne sait pas ce qui pousse. Moi non plus. Personne. Celui qui a écrit le traité ne le savait pas davantage, il l’a écrit dans ses dernières notes. Et le jeune écrit quand même, la peur dans la main et la main qui va sur la page.
 
 Il a vingt-cinq ans.
 

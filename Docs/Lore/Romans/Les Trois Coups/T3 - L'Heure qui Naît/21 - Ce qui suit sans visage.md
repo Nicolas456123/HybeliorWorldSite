@@ -39,7 +39,7 @@ Sanne hocha la tête sans sourire. La leçon était juste et la leçon la dégo�
 
 *
 
-Elles marchaient vers le sud depuis huit jours. Le sud, c’était Prismalith, au bout, très loin, une ville d’archives et d’écoles où l’on disait qu’une jeune copiste recopiait sans rien demander tout ce qu’on lui portait, et où un cartographe, à ce qu’on racontait sur les routes, avait déposé une carte trop grande pour un seul homme. Depuis le moulin mort de Vèdre et le seau qu’elle n’avait pas vidé, Sanne n’avait pas de plan plus clair que ce mot : déposer. Le sud était une direction plus qu’un but. Une direction, dans son métier, valait déjà mieux qu’une nuit.
+Elles allaient vers le nord depuis huit jours, la mer comprise. Le nord, c’était Prismalith, au bout, très loin, une ville d’archives et d’écoles où l’on disait qu’une jeune copiste recopiait sans rien demander tout ce qu’on lui portait, et où un cartographe, à ce qu’on racontait sur les routes, avait déposé une carte trop grande pour un seul homme. Depuis le moulin mort de Vèdre et le seau qu’elle n’avait pas vidé, Sanne n’avait pas de plan plus clair que ce mot : déposer. Le nord était une direction plus qu’un but. Une direction, dans son métier, valait déjà mieux qu’une nuit.
 
 Le battement montait toujours. Il arrivait par les os des pieds, à chaque pas, et la nuit il se logeait dans les dents. Sanne avait essayé deux mois de comprendre ce que c’était. Elle en était sortie avec des nuits blanches et rien d’autre. Depuis, elle l’écoutait comme on écoute une bête qui dort dans la pièce d’à côté : on s’y fait, ou on devient folle, et devenir folle ne menait la petite nulle part. Restait une idée qu’elle chassait comme on chasse une mouche. Le battement non plus ne dormait pas deux nuits au même endroit. Il avançait. Il descendait le pays du même côté qu’elles.
 
@@ -127,7 +127,7 @@ Selha était arrivée la première. Selha avait laissé la marque. Selha avait a
 
 Et Sanne n’était pas venue.
 
-Sanne n’était pas venue parce que, trois jours plus tôt, sur une crête, elle avait senti quelque chose sans le voir, un plein qu’on avait ôté à une route, et qu’elle avait fait ce qu’elle apprenait à Wenna, ce qu’elle se félicitait chaque soir de lui apprendre : elle avait changé de route. Elle avait pris le long, le mauvais, le lent, contre son propre confort, contre les pieds en sang de la petite, par pure discipline de bête traquée. Et pendant qu’elle s’allongeait le chemin par prudence, Selha, fidèle à leur entente, attendait sous un toit une femme qui ne viendrait pas.
+Sanne n’était pas venue parce que, six jours plus tôt, sur une crête de Cendara, elle avait senti quelque chose sans le voir, un plein qu’on avait ôté à une route, et qu’elle avait fait ce qu’elle apprenait à Wenna, ce qu’elle se félicitait chaque soir de lui apprendre : elle avait changé de route. Elle avait pris le long, le mauvais, le lent, contre son propre confort, contre les pieds en sang de la petite, par pure discipline de bête traquée. Et pendant qu’elle s’allongeait le chemin par prudence, Selha, fidèle à leur entente, attendait sous un toit une femme qui ne viendrait pas.
 
 Ils avaient pris Selha.
 
@@ -149,7 +149,7 @@ Il fallait que le cahier pût se passer d’elle.
 
 Voilà. C’était dit, à l’intérieur, avec ces mots-là. Le murer, c’était le perdre, et c’était faire à leur place le travail de ceux qui la suivaient. Le poser quelque part où il cesserait d’être le cahier de Sanne. Une ville d’archives, des copistes, des mains étrangères les unes aux autres. Dix copies sur dix tables, et pas une qui eût encore besoin d’un dos. Se sauver, elle, lui était devenu presque égal dans le froid de ce talus. Elle voulait que sa mort, quand elle viendrait, ne fût plus la mort du cahier. Qu’on pût la prendre enfin sans rien reprendre au monde. Se rendre inutile à sa propre mort : c’était le seul mot qu’elle trouvait pour ce qu’elle voulait devenir.
 
-Elle savait le sud, Prismalith, la copiste, le cartographe et sa carte trop grande, et le mot déposer qui tournait dans sa tête depuis Vèdre. Cela suffirait pour se lever à la corne du jour et remettre un pied devant l’autre. Le comment viendrait avec la route.
+Elle savait le nord, Prismalith, la copiste, le cartographe et sa carte trop grande, et le mot déposer qui tournait dans sa tête depuis Vèdre. Cela suffirait pour se lever à la corne du jour et remettre un pied devant l’autre. Le comment viendrait avec la route.
 
 Elle avait tort, peut-être. Pour déposer, il faudrait entrer dans une ville, monter un escalier, remettre le cahier à quelqu’un qui aurait un nom et une porte ; et en le portant jusque-là, peut-être ne ferait-elle qu’y mener ce qui la suivait, et peindre une cible sur la copiste, sur le cartographe, sur toute une ville de gens qui n’avaient rien demandé. Sanne pesa les deux dans la même main et n’arriva pas à dire lequel pesait le plus. Cela ne changeait rien à la nuit. Il n’y avait qu’une route, et elle descendait.
 

@@ -43,7 +43,7 @@ Le dernier feuillet vint plus lentement que les autres, et Vaskar le vit au visa
 
 « Elle ne gardait rien, et elle compte double. » La voix resta où elle se tenait toujours, et cette nuit-là cette hauteur-là coûta. « Reposez-la sur le dessus. Rentrez les trois au propre ; je les signerai avant l’aube. La quatrième, laissez-la-moi. »
 
-Karsel remit le feuillet sur la liasse, et il eut, en le lâchant, ce regard bref qu’un élève de deux mois n’a pas encore appris à cacher, celui qui va de la pièce au visage du maître et mesure, à sa façon, une distance qui vient de bouger. Il ne demanda rien. Il avait retenu la leçon des bonnes questions, qui est qu’on ne les pose pas quand on voit qu’elles feraient mal sans rien apprendre. Il remonta l’escalier lentement, ce qui, chez lui, valait pour une question posée.
+Karsel remit le feuillet sur la liasse, et il eut, en le lâchant, ce regard bref qu’un élève de première année n’a pas encore appris à cacher, celui qui va de la pièce au visage du maître et mesure, à sa façon, une distance qui vient de bouger. Il ne demanda rien. Il avait retenu la leçon des bonnes questions, qui est qu’on ne les pose pas quand on voit qu’elles feraient mal sans rien apprendre. Il remonta l’escalier lentement, ce qui, chez lui, valait pour une question posée.
 
 *
 
@@ -51,7 +51,7 @@ Seul, Vaskar mit le feuillet de la femme sous la lampe et ne le lut pas tout de 
 
 Ce fut la nuque qui reconnut la première. Le vieux chemin des toucheurs de bêtes. Entre Vireuil et le haut pays. Une femme seule qui marchait la nuit pour n’être nulle part.
 
-Ces mots-là, il les avait écrits de sa main quinze jours plus tôt, sur une carte qu’il ne montrait à personne, où la route portait une file de petites croix noires, une par manque, chacune datée. Il se revit l’expliquer à Vellan, du ton dont on montre un bel ouvrage : qu’une maison est un lieu, qu’un lieu se retrouve, et qu’une femme qui veut une nuit hors des livres n’a plus qu’à prendre la route elle-même et à dormir dans un fossé. Il avait été fier, ce soir-là, de lire si loin dans une absence. Le creux en forme de femme avait avancé sous son doigt d’une croix à la suivante, jusqu’au haut pays.
+Ces mots-là, il les avait écrits de sa main trois semaines plus tôt, sur une carte qu’il ne montrait à personne, où la route portait une file de petites croix noires, une par manque, chacune datée. Il se revit l’expliquer à Vellan, du ton dont on montre un bel ouvrage : qu’une maison est un lieu, qu’un lieu se retrouve, et qu’une femme qui veut une nuit hors des livres n’a plus qu’à prendre la route elle-même et à dormir dans un fossé. Il avait été fier, ce soir-là, de lire si loin dans une absence. Le creux en forme de femme avait avancé sous son doigt d’une croix à la suivante, jusqu’au haut pays.
 
 Le creux avait un corps maintenant, et le corps était couché à l’endroit exact où son doigt s’était arrêté.
 
@@ -79,7 +79,7 @@ Trois tailles de papier. Trois rangs. Et cette nuit, les trois rangs ne voulaien
 
 *
 
-Rien de tout cela ne faisait une preuve, et il se le dit tout de suite, du réflexe d’un homme qui se sent tomber et cherche la rampe. Rien ne reliait la femme du chemin aux morts de la série : elle ne tenait rien, justement, et une femme sans charge et sans confrérie n’a pas de parole publique à défaire. Rien ne reliait la terre du Cendra à quoi que ce fût qu’un homme raisonnable pût poser sur une table. Rien ne reliait un cahier endormi depuis trois siècles dans son fer à une chute nocturne sur un chemin de bêtes. Chaque case gardait sa pièce, chaque pièce gardait sa cause, et séparées elles étaient toutes innocentes. C’était la force du rangement : il rendait innocent.
+Rien de tout cela ne faisait une preuve, et il se le dit tout de suite, du réflexe d’un homme qui se sent tomber et cherche la rampe. Rien ne reliait la femme du chemin aux morts de la série : elle ne tenait rien, justement, et une femme sans charge et sans confrérie n’a pas de parole publique à défaire. Rien ne reliait la terre du Cendra à quoi que ce fût qu’un homme raisonnable pût poser sur une table. Rien ne reliait un cahier endormi depuis des âges dans son fer à une chute nocturne sur un chemin de bêtes. Chaque case gardait sa pièce, chaque pièce gardait sa cause, et séparées elles étaient toutes innocentes. C’était la force du rangement : il rendait innocent.
 
 Sauf que la femme dépareillait.
 

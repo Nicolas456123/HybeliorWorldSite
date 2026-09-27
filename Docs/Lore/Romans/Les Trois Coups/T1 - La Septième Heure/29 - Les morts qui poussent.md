@@ -4,7 +4,7 @@ type: roman-chapitre
 partie: III
 chapitre: 27
 titre: Les morts qui poussent
-pov: Iveth le Silencieux (présent, un mois avant la veille ; la lecture du Mont, la descente, ce qu'il dit à Sera et ce qu'il tait)
+pov: Iveth le Silencieux (présent, trois jours avant la veille ; la lecture du Mont, la descente, ce qu'il dit à Sera et ce qu'il tait)
 lieu: flanc du Mont Cendra, puis Cendral bas
 status: draft
 ---

@@ -89,7 +89,7 @@ La chaleur venait d’en dessous et augmentait à mesure qu’on montait, ce qui
 
 C’est un peu avant le soir que la mesure changea.
 
-En bas, à Cendara, cela revenait toutes les dix minutes et Solvec le recevait par le siège du seuil, quand il s’y asseyait pour lacer ses sabots. Ici, cela revenait toutes les quelques minutes, et cela lui arrivait par la pierre qu’il tenait, comme un coup frappé à l’autre bout d’une poutre. Il comptait sans le vouloir, par vieille habitude de charbonnier qui surveille une meule. Et à mesure qu’il comptait, il s’aperçut avec un serrement de gorge que l’attente raccourcissait, que chaque retour venait un peu plus tôt que le précédent.
+En bas, dans sa vallée, cela revenait toutes les dix minutes et Solvec le recevait par le siège du seuil, quand il s’y asseyait pour lacer ses sabots. Ici, cela revenait toutes les quelques minutes, et cela lui arrivait par la pierre qu’il tenait, comme un coup frappé à l’autre bout d’une poutre. Il comptait sans le vouloir, par vieille habitude de charbonnier qui surveille une meule. Et à mesure qu’il comptait, il s’aperçut avec un serrement de gorge que l’attente raccourcissait, que chaque retour venait un peu plus tôt que le précédent.
 
 « C’est plus rapide qu’à ma dernière montée, dit-il ce soir-là.
 
@@ -179,7 +179,7 @@ Le vieux avait posé cela devant lui comme on pousse un objet en travers d’une
 
 — Alors nous avons vu deux choses différentes, vous et moi. » Sarech parlait très bas. « Moi j’ai vu l’Éternel prendre une âme mûre. Vous, vous avez vu quelque chose de sombre qui savait où il allait. Et aucun de nous deux ne prouvera jamais à l’autre qu’il s’est trompé. Voilà ce qu’est ce mont, charbonnier. La petite est morte entre nos deux histoires, et pas une des deux ne dit de quoi. »
 
-Le lendemain, ils redescendirent. Les sept autres étaient déjà repartis dans la nuit, en désordre, la prière de descente à la bouche. Sarech et Solvec fermèrent la marche, deux vieux qui n’avaient plus rien à se dire et qui ne se quittèrent pas pour autant.
+Le lendemain, ils redescendirent. Les six autres étaient déjà repartis dans la nuit, en désordre, la prière de descente à la bouche. Sarech et Solvec fermèrent la marche, deux vieux qui n’avaient plus rien à se dire et qui ne se quittèrent pas pour autant.
 
 Solvec posa sa pierre au bord du bois de cendre, à l’endroit où il s’était retourné, sur une croûte qu’il tâta d’abord du pied. C’était le plus haut qu’il fût jamais allé, et cela ne lui fit rien du tout.
 

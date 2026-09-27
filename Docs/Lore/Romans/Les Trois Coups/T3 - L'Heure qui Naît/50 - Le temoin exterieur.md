@@ -71,7 +71,7 @@ Il rangea ce qu’une vieille, adossée à un rocher, marmonnait sur les morts q
 
 Restait le sien.
 
-*Rien de cosmique.* C’était sa rubrique à lui, la plus sûre de la maison, celle où il versait depuis vingt ans tout ce qui montait du nord : des hommes, une peur, une chaleur qu’on ne sait pas encore lire, une fièvre de perception qui court comme la peste et qu’on éteint en refusant de la nommer. Cette nuit-là, il alla pour en tirer le trait comme il l’avait tiré mille fois.
+*Rien de cosmique.* C’était la mention qu’il portait sous sa rubrique à lui, fantasme de perception, la plus sûre de la maison, celle où il versait depuis vingt ans tout ce qui montait du nord : des hommes, une peur, une chaleur qu’on ne sait pas encore lire, une fièvre de perception qui court comme la peste et qu’on éteint en refusant de la nommer. Cette nuit-là, il alla pour en tirer le trait comme il l’avait tiré mille fois.
 
 Sa main s’arrêta net : il vit sous quelle colonne son propre mot tombait.
 
