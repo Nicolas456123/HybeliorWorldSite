@@ -39631,12 +39631,23 @@
           "confiance": "moyenne",
           "methode": "corpus:sa fiche",
           "indice": "Bourg de la vallée au pied sud du Mont Cendra, pays de guède et de teinturiers vivant sous la cendre ; cadre principal du fil de Renna dans L'Heure qu"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -312,
+            "y": 259,
+            "confiance": "moyenne",
+            "terre": "Cendara",
+            "motif": "Pied SUD du Mont Cendra (−317 ; 249, lot T1), à ≈ 11 u du sommet, comme le dit l'Atrium ; le Mont « montait au nord » (T3/2 corrigé) ; la côte est à ≈ 6 u (la « route du bas » depuis le débarquement) ; Sulvane à ≈ 37 u (11 lieues). Voisin de Cendral (−318 ; 254), qu'il ne faut pas confondre avec lui.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0248",
@@ -60398,12 +60409,23 @@
         "lot": "T3",
         "origine": [
           "T3#62"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 320,
+            "y": 188,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Bourg de la marche basse d'Onara ; la Porte de l'Aval, vers la côte.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0973",
@@ -60445,12 +60467,23 @@
         "lot": "T3",
         "origine": [
           "T3#64"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 368,
+            "y": 160,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Marches d'Onara, deux jours au sud de Vireuil sur la route qui monte au nord (T3/24) ; ≈ 16 lieues du premier manque de la basse marche.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0975",
@@ -60458,7 +60491,7 @@
       "name": "Vireuil",
       "slug": null,
       "summary": "Ville des marches d'Onara, à deux jours au nord de Mardanne. Son gîte de l'Enclume porte une chambre payée où personne n'a dormi, et le rôle du péage de la porte nord, le même soir, une femme seule qui sort de la ville à la nuit tombante : Sanne y achète son alibi au tarif du gîte, faute d'avoir quelqu'un pour le lui prêter.",
-      "body": "Le rapport de la mort de Sanne (ch. 39) la situe « sur le vieux chemin des toucheurs de bêtes, entre Vireuil et le haut pays » — écart avec le ch. 38, qui la fait tomber à Taldre, déjà au registre.",
+      "body": "Le relevé du ch. 39 trouve « sur le vieux chemin des toucheurs de bêtes, entre Vireuil et le haut pays » une femme seule, morte sans une marque, que Vaskar prend pour sa passeuse ; Sanne, elle, meurt à Taldre (ch. 38, 41), une mer plus loin et deux semaines plus tard. Registre §10, tranché le 2026-09-27 : deux mortes, une seule case dans la tête de Vaskar.",
       "data": {
         "echelle": "ville",
         "preuve": [
@@ -60469,12 +60502,31 @@
         "lot": "T3",
         "origine": [
           "T3#65"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "body",
+            "avant": "Le rapport de la mort de Sanne (ch. 39) la situe « sur le vieux chemin des toucheurs de bêtes, entre Vireuil et le haut pays » — écart avec le ch. 38, qui la fait tomber à Taldre, déjà au registre.",
+            "pourquoi": "Carte à l'échelle de l'auteur et calendrier du T3 : la mort de Sanne à Taldre ne peut pas figurer au relevé du ch. 39."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 385,
+            "y": 115,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "« À deux jours au nord » de Mardanne (≈ 48 u, 14 lieues) ; trois jours de marche jusqu'à Corlhaven (≈ 75 u, 22 lieues).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0976",
@@ -60496,19 +60548,30 @@
         ],
         "a_ne_pas_confondre_avec": [
           "la Vessine (navire, C/31)"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -298,
+            "y": -145,
+            "confiance": "basse",
+            "terre": "Galenor",
+            "motif": "Bac sur la dernière rivière avant Prismalith : « le nord au bout, Prismalith » (T3/37).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0977",
       "type": "lieu",
       "name": "Le relais de Roshel",
       "slug": null,
-      "summary": "Longue bâtisse basse de pierre sèche au creux du dernier repli, sur la route du sud vers Onara : nulle enseigne, une meule à l'abandon dans la cour, un puits. Relais de la Fraternité des Mains Vides, qui n'accueille personne en particulier pour n'accueillir plus que des soupçons.",
+      "summary": "Longue bâtisse basse de pierre sèche au creux du dernier repli, dans les collines d'Onara, sur la route qui descend vers Onara-basse : nulle enseigne, une meule à l'abandon dans la cour, un puits. Relais de la Fraternité des Mains Vides, qui n'accueille personne en particulier pour n'accueillir plus que des soupçons.",
       "body": null,
       "data": {
         "echelle": "lieu-dit",
@@ -60520,12 +60583,31 @@
         "lot": "T3",
         "origine": [
           "T3#67"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "au creux du dernier repli, sur la route du sud vers Onara",
+            "pourquoi": "Onara est la terre entière ; T3/4 corrigé (« descendait vers Onara-basse »)."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 395,
+            "y": 75,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Collines d'Onara (Mosrack), « au creux du dernier repli » sur la route qui descend vers Onara-basse ; Vael « portait vers l'est », vers Corlhaven, à ≈ 40 u ; la route du sud part de là (T3/8 : 3 j, ≈ 20 lieues).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0978",
@@ -60543,19 +60625,30 @@
         "lot": "T3",
         "origine": [
           "T3#68"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 285,
+            "y": 200,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Collines d'Onara-basse (« au sud d'Onara »), près de la maison des Mains Vides et de la côte sud-ouest d'où Sanne prend la mer (« Alors prends la mer », T3/14).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0979",
       "type": "lieu",
       "name": "Le relais des Trois Auges",
       "slug": null,
-      "summary": "Auberge et écurie au creux d'un carrefour, sur la route du sud vers Prismalith ; un endroit où l'on entre sans donner son nom et d'où l'on repart sans le laisser. Point de rendez-vous convenu de longue date entre Sanne et Selha ; c'est là que Selha est prise à la place de Sanne.",
+      "summary": "Auberge et écurie au creux d'un carrefour, en Galenor, à quelques lieues de la côte sud, sur la route de Prismalith ; un endroit où l'on entre sans donner son nom et d'où l'on repart sans le laisser. Point de rendez-vous convenu de longue date entre Sanne et Selha ; c'est là que Selha est prise à la place de Sanne.",
       "body": "Sanne y lit l'endroit par ses faux signes : une fumée qui promet vingt voyageurs pour une écurie qui en montre deux, une cour balayée, une fenêtre calfeutrée de dedans en plein jour, un tas de fumier retourné en hiver, un aubergiste qui essuie trop longtemps la même écuelle et ne demande pas d'où l'on vient.",
       "data": {
         "echelle": "lieu-dit",
@@ -60567,19 +60660,38 @@
         "lot": "T3",
         "origine": [
           "T3#69"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Auberge et écurie au creux d'un carrefour, sur la route du sud vers Prismalith",
+            "pourquoi": "Prismalith est au nord de Cendara ; les Trois Auges viennent après la traversée (T3/21 corrigé)."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -303,
+            "y": -80,
+            "confiance": "basse",
+            "terre": "Galenor",
+            "motif": "En Galenor, carrefour à ≈ 4 lieues de la côte sud où débarque Sanne : « vers le nord depuis huit jours, la mer comprise » (T3/21 corrigé).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0980",
       "type": "lieu",
       "name": "Le relais de la Roue-Basse",
       "slug": null,
-      "summary": "Moulin devenu maison puis étape, au coude d'un ruisseau dans le sud ; il n'a plus de roue depuis longtemps et porte encore le nom de ce qui n'y est plus, « à la manière du sud ». L'un des endroits sans enseigne où les gens de la Fraternité des Mains Vides échangent des charges qu'aucun registre ne connaît.",
+      "summary": "Moulin devenu maison puis étape, au coude d'un ruisseau dans le sud de Lumasar, à quelques jours de Prismalith ; il n'a plus de roue depuis longtemps et porte encore le nom de ce qui n'y est plus, « à la manière du sud ». L'un des endroits sans enseigne où les gens de la Fraternité des Mains Vides échangent des charges qu'aucun registre ne connaît.",
       "body": null,
       "data": {
         "echelle": "lieu-dit",
@@ -60589,19 +60701,38 @@
         "lot": "T3",
         "origine": [
           "T3#70"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "au coude d'un ruisseau dans le sud",
+            "pourquoi": "Position retenue (Galenor)."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -302,
+            "y": -118,
+            "confiance": "basse",
+            "terre": "Galenor",
+            "motif": "Sud de Lumasar (Galenor), « dans le sud » ; Prismalith « dans les jours qui viennent » (≈ 43 u, 13 lieues).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0981",
       "type": "lieu",
       "name": "Corlhaven",
       "slug": null,
-      "summary": "Ville de l'est où se réunissaient autrefois les guildes du fer, au grand jour, du temps où on pouvait encore le faire — c'est là que Doreth a vu de loin la grand-mère de Sanne porter le même paquet à la même place. Terme de la route de Vael, qui n'y est jamais arrivé.",
+      "summary": "Ville de l'est où se réunissaient autrefois les guildes du fer, au grand jour, du temps où on pouvait encore le faire — c'est là que Doreth a vu de loin la grand-mère de Sanne porter le même paquet à la même place. Terme de la route de Vael, qui n'y est jamais arrivé, et de la ligne de manques que relève Vaskar : la femme des marches en ressort par la porte des Forges, le quatrième jour après Vireuil (T3/24).",
       "body": null,
       "data": {
         "echelle": "ville",
@@ -60613,19 +60744,38 @@
         "lot": "T3",
         "origine": [
           "T3#71"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Terme de la route de Vael, qui n'y est jamais arrivé.",
+            "pourquoi": "T3/24 corrigé."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 430,
+            "y": 55,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Ville de l'est d'Onara (les guildes du fer ; terme de la route de Vael, T3/4, 11, 14) ; nouveau terme de la ligne de manques de Vaskar : la porte des Forges, le quatrième jour après Vireuil (T3/24 corrigé, à la place d'Astravia).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0982",
       "type": "lieu",
       "name": "Les Basses-Ondes",
       "slug": null,
-      "summary": "Bourg au bord d'une rivière large et lente, à deux jours de Taldre par le col des Genêts et la route du nord ; but de la première fuite de Renna. Assez loin du Mont Cendra pour qu'on ne l'entende plus — et c'est là qu'Ilex commence à s'éteindre.",
+      "summary": "Bourg au bord d'une rivière large et lente, à deux jours de Taldre par le col des Genêts et la route du sud ; but de la première fuite de Renna. Assez loin du Mont Cendra pour qu'on ne l'entende plus — et c'est là qu'Ilex commence à s'éteindre.",
       "body": null,
       "data": {
         "echelle": "bourg",
@@ -60635,19 +60785,38 @@
         "lot": "T3",
         "origine": [
           "T3#72"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "par le col des Genêts et la route du nord",
+            "pourquoi": "Le Mont est au nord de Taldre ; la fuite va au sud (T3/13 corrigé)."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -316,
+            "y": 290,
+            "confiance": "moyenne",
+            "terre": "Cendara",
+            "motif": "« Deux jours » de chariot chargé au sud de Taldre (≈ 31 u, 9 lieues), une rivière large et lente près de la côte.",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0983",
       "type": "lieu",
       "name": "Le col des Genêts",
       "slug": null,
-      "summary": "Col au nord de Taldre : passé sa ligne, le Mont Cendra disparaît d'un coup derrière l'épaule de la colline et il ne reste au sud qu'un ciel vide. Seuil des deux fuites de Renna et point où l'enfant Ilex se retourne.",
+      "summary": "Col au sud de Taldre : passé sa ligne, le Mont Cendra disparaît d'un coup derrière l'épaule de la colline et il ne reste au nord qu'un ciel vide. Seuil des deux fuites de Renna et point où l'enfant Ilex se retourne.",
       "body": null,
       "data": {
         "echelle": "lieu-dit",
@@ -60657,12 +60826,37 @@
         "lot": "T3",
         "origine": [
           "T3#73"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Col au nord de Taldre",
+            "pourquoi": "Même raison."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "il ne reste au sud qu'un ciel vide",
+            "pourquoi": "Même raison (T3/13 corrigé)."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -313,
+            "y": 265,
+            "confiance": "moyenne",
+            "terre": "Cendara",
+            "motif": "Une heure de montée au SUD de Taldre par le chemin des bergers ; passé sa ligne, le Mont disparaît au nord (T3/13 corrigé, T3/17).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0984",
@@ -60682,12 +60876,23 @@
         "lot": "T3",
         "origine": [
           "T3#74"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -311.5,
+            "y": 258.5,
+            "confiance": "basse",
+            "terre": "Cendara",
+            "motif": "Dans Taldre, la rangée de forges du haut du bourg ; Sanne meurt à trente pas au-dessus, en montant vers le Mont (T3/38).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "restreint",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-0985",
@@ -60832,12 +61037,23 @@
         "lot": "T3",
         "origine": [
           "T3#80"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -313,
+            "y": 272,
+            "confiance": "basse",
+            "terre": "Cendara",
+            "motif": "Hameau en aval de Taldre, au sud : le prédicant « monte depuis Cendre-Haute » (T3/27), et les pèlerins en montent vers le Mont en passant par Taldre (T3/33).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "obj-0071",
@@ -69320,12 +69536,23 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 305,
+            "y": 195,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Lobe sud-ouest d'Onara (Tyndara) : la « basse marche », pays d'Olven, d'où part la ligne de Vaskar ; la maison des Mains Vides (Doreth, T3/11) y est posée vers (300 ; 190), à ≈ 45 lieues de Roshel (« à quarante lieues »).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-1051",
@@ -69341,12 +69568,23 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 360,
+            "y": 60,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Haut pays d'Onara, où Merik attend deux jours (T3/14).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-1052",
@@ -69374,7 +69612,7 @@
       "type": "lieu",
       "name": "Roche-Longue",
       "slug": null,
-      "summary": "Lieu de la route du sud où une ferme tenue par une tante recueille sans question les enfants de la route ; Sanne y laisse Wenna à l’abri avant de descendre seule vers Prismalith.",
+      "summary": "Lieu de Galenor, sur la route de Prismalith, où une ferme tenue par une tante recueille sans question les enfants de la route ; Sanne y laisse Wenna à l’abri avant de monter seule vers Prismalith.",
       "body": null,
       "data": {
         "preuve": [
@@ -69383,12 +69621,37 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Lieu de la route du sud où une ferme",
+            "pourquoi": "Même trajet."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "avant de descendre seule vers Prismalith",
+            "pourquoi": "T3/25 corrigé (« Je monte. Vers Prismalith. »)."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -300,
+            "y": -95,
+            "confiance": "basse",
+            "terre": "Galenor",
+            "motif": "Galenor, sur la route de Prismalith, quatre jours avant la Roue-Basse (T3/25).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "per-1115",
@@ -69416,7 +69679,7 @@
       "type": "lieu",
       "name": "La Porte des Fondeurs (Astravia)",
       "slug": null,
-      "summary": "Porte d’Astravia où l’on saisit des cahiers sur les passeuses, les recopie et les rend ; c’est là qu’on saisit le cinquième feuillet, ancien, du Fragment #3, et là qu’on retrouve la femme des marches le quatrième jour après Vireuil.",
+      "summary": "Porte d’Astravia où l’on saisit des cahiers sur les passeuses, les recopie et les rend ; c’est là qu’on saisit le cinquième feuillet, ancien, du Fragment #3 (T3/15). La femme des marches, elle, ressort le quatrième jour après Vireuil par la porte des Forges de Corlhaven (T3/24).",
       "body": null,
       "data": {
         "preuve": [
@@ -69426,19 +69689,27 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "c’est là qu’on saisit le cinquième feuillet, ancien, du Fragment #3, et là qu’on retrouve la femme des marches le quatrième jour après Vireuil.",
+            "pourquoi": "T3/24 corrigé : Astravia est à ≈ 150 lieues de mer de Vireuil."
+          }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "lie-1055",
       "type": "lieu",
       "name": "Le chemin des toucheurs de bêtes",
       "slug": null,
-      "summary": "Vieux chemin de bouviers qui prend à flanc, hors de toute barrière et de tout poste ; la femme des marches le prend pour passer la nuit sans trace entre Vireuil et Astravia (c’est aussi là que le rapport du ch. 39 situe sa mort).",
+      "summary": "Vieux chemin de bouviers qui prend à flanc, hors de toute barrière et de tout poste ; la femme des marches le prend pour passer la nuit sans trace entre Vireuil et Corlhaven, dans le haut pays d'Onara (c’est là que le relevé du ch. 39 trouve morte une femme seule, que Vaskar prend pour elle).",
       "body": null,
       "data": {
         "preuve": [
@@ -69447,12 +69718,31 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "entre Vireuil et Astravia (c’est aussi là que le rapport du ch. 39 situe sa mort).",
+            "pourquoi": "T3/24 corrigé (Astravia est en Celethor, outre-mer) ; registre §10."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 408,
+            "y": 85,
+            "confiance": "basse",
+            "terre": "Onara",
+            "motif": "Entre Vireuil et Corlhaven (le « haut pays »), hors des postes (T3/24, T3/39) ; dans les marches d'Onara, pas sur la route de Cendara (T3/45 corrigé).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "lie-1056",
@@ -69495,7 +69785,7 @@
       "type": "lieu",
       "name": "L'Étape Basse",
       "slug": null,
-      "summary": "Relais d'étape sous Cendara où Sanne dort trois nuits avec le cahier de Kessane ; un agent de Drakora y entre pendant qu'elle mange et recopie en un quart d'heure la seule ligne nette du cahier.",
+      "summary": "Relais d'étape du port de Sulvane, sur la côte ouest de Cendara, où l'on attend les bateaux pour Galenor ; Sanne y dort trois nuits avec le cahier de Kessane ; un agent de Drakora y entre pendant qu'elle mange et recopie en un quart d'heure la seule ligne nette du cahier.",
       "body": null,
       "data": {
         "preuve": [
@@ -69504,12 +69794,31 @@
         "lot": "RACCORD",
         "origine": [
           "raccord livres↔Atrium 2026-09-23"
-        ]
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "Relais d'étape sous Cendara où Sanne dort trois nuits",
+            "pourquoi": "Cendara est une île ; T3/28 corrigé (« sur la côte de Cendara », « Elle a pris la mer avant-hier »)."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -338,
+            "y": 285,
+            "confiance": "moyenne",
+            "terre": "Cendara",
+            "motif": "Relais du port de Sulvane, côte ouest de Cendara (Sulvane −340 ; 287, lot T1), où Sanne attend trois nuits un bateau pour Galenor (T3/28 corrigé : « sur la côte de Cendara », « Elle a pris la mer avant-hier »).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "per-1116",
@@ -69593,7 +69902,7 @@
       "type": "lieu",
       "name": "Le relais du Val-Rond",
       "slug": null,
-      "summary": "Relais bas au bord de l'eau, à dix-huit lieues au nord du Mont Cendra, tenu par une veuve et deux servantes ; son puits « chante » la nuit, un long puis un court, et Renna y fait halte avec Ilex pendant sa fuite loin du Mont.",
+      "summary": "Relais bas au bord de l'eau, à quinze lieues au sud du Mont Cendra, tenu par une veuve et deux servantes ; son puits « chante » la nuit, un long puis un court, et Renna y fait halte avec Ilex pendant sa fuite loin du Mont.",
       "body": null,
       "data": {
         "preuve": [
@@ -69609,12 +69918,31 @@
           "confiance": "basse",
           "methode": "relation:apparait-dans",
           "indice": "apparaît dans L’Heure qui Naît (T3) (10200)"
+        },
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "summary",
+            "avant": "à dix-huit lieues au nord du Mont Cendra",
+            "pourquoi": "Mont (−317 ; 249) au nord de l'île (lot T1) ; T3/31 corrigé (registre §14)."
+          }
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": -322,
+            "y": 296,
+            "confiance": "moyenne",
+            "terre": "Cendara",
+            "motif": "« Quatorze » ou « quinze lieues du Mont » (T3/31 corrigé, registre §14) : ≈ 47 u au sud du sommet, ≈ 11 lieues de Taldre (deux jours de charrette) ; la rivière du demi-tour coule une lieue plus bas, vers la côte sud (Solarith). La côte de Baelor est à ≈ 103 lieues (« cent lieues et plus »).",
+            "indices": [],
+            "source": "estimée d’après les livres, 2026-09-27"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-09-27T23:59:24.232Z"
     },
     {
       "id": "obj-0108",
@@ -110086,7 +110414,7 @@
       "era_id": "era7_actuelle",
       "seq": 17,
       "label": "La passeuse à Cendara — Renna et Sanne se reconnaissent",
-      "detail": "Une femme monte la vallée en demandant « une femme qui entend le Mont » — les mots justes, plus effrayants que les chartes de Caeloria. Sous couvert de teinture à la guède, Sanne loge chez Renna. Ilex la perce à jour aussitôt : « Tu mets ton dos où ça s'entend le plus fort et tu te racontes que c'est pour le feu » ; et, avant même qu'elle entre, il avait dit du cahier : « Elle en porte, […] Le mot. Pas le nôtre. Un autre. Le sien, il est plat, il tient pas debout tout seul, il est couché sur du papier. Mais c'est le même dessous. » Les deux femmes se reconnaissent (« Tu es de ma sorte » — « On finit par se reconnaître, ceux qui portent ») : « l'une qui entendait, l'autre qui portait, la même chose entrée dans les deux par deux portes différentes ». La nuit, pendant la pulse, Sanne montre le paquet sans l'ouvrir et récite le noyau : « Aucun de nous ne le croit vraiment. Nous croyons que c'est inévitable » — et les lèvres d'Ilex reprennent la syllabe avec « un deuxième bout » qui a le pas de cette phrase. « Il l'a dite, […] Ta bête sous la terre. Elle a dit ma phrase. » Au départ, Ilex pose la main sur le paquet : « Un jour ils vont se lever ensemble et se reconnaître. Pas aujourd'hui. » Sanne laisse l'adresse de l'archiviste de Prismalith « qui recopie sans juger ». [T3 — L’Heure qui Naît, ch. 17 — an 251 du Sillage]",
+      "detail": "Une femme monte la vallée en demandant « une femme qui entend le Mont » — les mots justes, plus effrayants que les chartes de Caeloria. Sous couvert de teinture à la guède, Sanne loge chez Renna. Ilex la perce à jour aussitôt : « Tu mets ton dos où ça s'entend le plus fort et tu te racontes que c'est pour le feu » ; et, avant même qu'elle entre, il avait dit du cahier : « Elle en porte, […] Le mot. Pas le nôtre. Un autre. Le sien, il est plat, il tient pas debout tout seul, il est couché sur du papier. Mais c'est le même dessous. » Les deux femmes se reconnaissent (« Vous êtes de ma sorte » — « On finit par se reconnaître, ceux qui portent ») : « l'une qui entendait, l'autre qui portait, la même chose entrée dans les deux par deux portes différentes ». La nuit, après la pulse, Sanne ouvre le cahier et lit le noyau : « Aucun de nous ne le croit vraiment. Nous croyons que c'est inévitable » — et les lèvres d'Ilex reprennent la syllabe avec « un deuxième bout » qui a le pas de cette phrase. « Il l'a dite, […] Votre bête sous la terre. Elle a dit ma phrase. » Au départ, Ilex pose la main sur le paquet : « Un jour ils vont se lever ensemble et se reconnaître. Pas aujourd'hui. » Sanne laisse l'adresse de l'archiviste de Prismalith « qui recopie sans juger ». [T3 — L’Heure qui Naît, ch. 17 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -110112,6 +110440,24 @@
             "champ": "detail",
             "avant": "« Il l'a dite. Ta bête sous la terre. Elle a dit ma phrase. »",
             "pourquoi": "T3/17 : « Il l’a dite, souffla la femme. Ta bête sous la terre. Elle a dit ma phrase. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "« Tu es de ma sorte »",
+            "pourquoi": "T3/17 aligné sur le vouvoiement du ch. 19 (registre §12)."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "La nuit, pendant la pulse, Sanne montre le paquet sans l'ouvrir et récite le noyau :",
+            "pourquoi": "T3/17 aligné sur le ch. 19 (cahier ouvert et lu ; fac-1460)."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "« Il l'a dite, […] Ta bête sous la terre. Elle a dit ma phrase. »",
+            "pourquoi": "T3/17 : vouvoiement."
           }
         ],
         "preuve": [
@@ -110159,7 +110505,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:29:34.719Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1415",
@@ -110175,7 +110521,7 @@
       "era_id": "era7_actuelle",
       "seq": 18,
       "label": "Le suspect commode — le Fondeur refuse les morts qu'on lui offre",
-      "detail": "Vaskar descend en personne dans la Forge-Basse, quartier non-Lié des marches d'Onara, où une cellule de la Chaîne Brisée (sept, peut-être neuf) décroche les emblèmes liés et les plante sur un mur hors les murs. Il se surprend à vouloir que ce soient eux — « Comme ce serait commode. » — et connaît la pente : « Un prévôt qui tient un coupable cesse de fouiller. » Face à lui, le Fondeur, homme sans nom (« Un nom, c'est une laisse. […] J'ai rendu le mien. »), porte la lecture de la reconfiguration : « La chaîne se défait toute seule. Elle mue. […] Vous croyez sauver le monde en le tenant immobile. Nous croyons le sauver en lâchant. » Offert le titre de gloire de la Guerre de l'Ombre, il refuse avec mépris — « Nous signons. Toujours. […] Une chose qu'on fait dans le noir, sans la signer, […] cette chose-là dit le contraire de tout ce que nous disons. » — puis : « Vous me proposez de voler des morts. » Et il sépare ce que tout le monde confond : « Trois choses bougent dans les marches, homme de l'ordre. La femme qui porte. Nous qui décrochons. Et une troisième, dans le noir, qui ne signe rien. » Vaskar remonte avec un non plus solide que la plupart des oui — sous le coupable commode, « Ce qu'on lui offrait de sceller, c'était son doute ». [T3 — L’Heure qui Naît, ch. 18 — an 251 du Sillage]",
+      "detail": "Vaskar passe la mer (cinq jours) et descend en personne dans la Forge-Basse, quartier non-Lié des marches d'Onara, où une cellule de la Chaîne Brisée (sept, peut-être neuf) décroche les emblèmes liés et les plante sur un mur hors les murs. Il se surprend à vouloir que ce soient eux — « Comme ce serait commode. » — et connaît la pente : « Un prévôt qui tient un coupable cesse de fouiller. » Face à lui, le Fondeur, homme sans nom (« Un nom, c'est une laisse. […] J'ai rendu le mien. »), porte la lecture de la reconfiguration : « La chaîne se défait toute seule. Elle mue. […] Vous croyez sauver le monde en le tenant immobile. Nous croyons le sauver en lâchant. » Offert le titre de gloire de la Guerre de l'Ombre, il refuse avec mépris — « Nous signons. Toujours. […] Une chose qu'on fait dans le noir, sans la signer, […] cette chose-là dit le contraire de tout ce que nous disons. » — puis : « Vous me proposez de voler des morts. » Et il sépare ce que tout le monde confond : « Trois choses bougent dans les marches, homme de l'ordre. La femme qui porte. Nous qui décrochons. Et une troisième, dans le noir, qui ne signe rien. » Vaskar remonte avec un non plus solide que la plupart des oui — sous le coupable commode, « Ce qu'on lui offrait de sceller, c'était son doute ». [T3 — L’Heure qui Naît, ch. 18 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -110219,6 +110565,12 @@
             "champ": "detail",
             "avant": "le coupable commode « ne clôt pas une enquête. Il clôt un doute »",
             "pourquoi": "T3/18 : « Ce qu’on lui offrait de sceller, c’était son doute, et le crime allait avec, par-dessus le marché. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Vaskar descend en personne dans la Forge-Basse",
+            "pourquoi": "T3/18 corrigé : la Forge-Basse est dans les marches d'Onara."
           }
         ]
       },
@@ -110226,7 +110578,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1416",
@@ -110444,7 +110796,7 @@
       "era_id": "era7_actuelle",
       "seq": 24,
       "label": "Lire les absences — Vaskar remonte la femme des marches jusqu'à la source d'Olven",
-      "detail": "Le correspondant Vellan apporte sa carte à ligne rouge : page recopiée à Mardanne, chambre payée et non dormie à Vireuil, nuit sans trace vers Astravia — « Vous avez un réseau, monsieur. […] Les Catena Fracta tiennent les marches d'Onara depuis la belle saison ». Vaskar démonte pièce à pièce : le registre refait qui ne ferme plus à plat dit « une improvisation, et elle a été payée comptant » ; la chambre payée et vide « raconte une solitude, et elle en donne le prix exact » ; la nuit qui manque « est pleine d'un bout à l'autre. Elle est pleine de marche ». Conclusion : « Ce qui invente à Mardanne, feint à Vireuil et marche entre les deux n'a qu'un corps […] Tout ce que vous avez pris pour la richesse d'un réseau est ce que coûte une femme qui n'a que ses mains. » Seul, il prolonge la ligne : vers le nord, Cendara et le Mont ; vers le sud, la première absence tombe dans la basse marche d'Onara — le pays exact d'où venait, des millénaires plus tôt, « le nommé Olven, copiste ». Deux fers d'une seule et longue forge. Et la lucidité tardive : chaque poste qu'il assèche rend la femme lisible aussi pour la troisième chose qui ne signe rien — « Le jour où il la trouverait, il pourrait l'avoir mise à l'abri sous une clef, silencieuse et vivante, ou l'avoir posée bien en vue au bout d'un travail sans faute. Les deux venaient des mêmes gestes ». [T3 — L’Heure qui Naît, ch. 24 — an 251 du Sillage]",
+      "detail": "Le correspondant Vellan apporte sa carte à ligne rouge : page recopiée à Mardanne, chambre payée et non dormie à Vireuil, nuit sans trace vers Corlhaven — « Vous avez un réseau, monsieur. […] Les Catena Fracta tiennent les marches d'Onara depuis la belle saison ». Vaskar démonte pièce à pièce : le registre refait qui ne ferme plus à plat dit « une improvisation, et elle a été payée comptant » ; la chambre payée et vide « raconte une solitude, et elle en donne le prix exact » ; la nuit qui manque « est pleine d'un bout à l'autre. Elle est pleine de marche ». Conclusion : « Ce qui invente à Mardanne, feint à Vireuil et marche entre les deux n'a qu'un corps […] Tout ce que vous avez pris pour la richesse d'un réseau est ce que coûte une femme qui n'a que ses mains. » Seul, il prolonge la ligne : vers le nord, les collines où ses croix s'arrêtent ; vers le sud, la première absence tombe dans la basse marche d'Onara — le pays exact d'où venait, des millénaires plus tôt, « le nommé Olven, copiste ». Deux fers d'une seule et longue forge. Et la lucidité tardive : chaque poste qu'il assèche rend la femme lisible aussi pour la troisième chose qui ne signe rien — « Le jour où il la trouverait, il pourrait l'avoir mise à l'abri sous une clef, silencieuse et vivante, ou l'avoir posée bien en vue au bout d'un travail sans faute. Les deux venaient des mêmes gestes ». [T3 — L’Heure qui Naît, ch. 24 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -110476,6 +110828,18 @@
             "champ": "detail",
             "avant": "« Sceller le cahier, c'était peut-être garder la femme. La trouver, c'était peut-être la perdre. Les deux gestes avaient la même forme. »",
             "pourquoi": "T3/24 : « Le jour où il la trouverait, il pourrait l’avoir mise à l’abri sous une clef, silencieuse et vivante, ou l’avoir posée bien en vue au bout d’un travail sans faute. Les deux venaient des mêmes gestes, dans le même ordre, avec la même application. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "nuit sans trace vers Astravia",
+            "pourquoi": "T3/24 corrigé."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Seul, il prolonge la ligne : vers le nord, Cendara et le Mont ;",
+            "pourquoi": "T3/24 corrigé (Cendara n'est au nord de rien, en Onara)."
           }
         ]
       },
@@ -110483,7 +110847,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1421",
@@ -110690,7 +111054,7 @@
       "era_id": "era7_actuelle",
       "seq": 28,
       "label": "Deux fers, une seule fois — Vaskar ouvre le coffre d'Olven et se fissure",
-      "detail": "La traque rapporte du papier : un agent a recopié sous Cendara la seule ligne nette du cahier de la passeuse — le noyau. La nuque de Vaskar reconnaît avant la tête : l'étiquette jaune, « à ne pas ouvrir ». Il force sa propre règle avec « la troisième clef » — l'enquête, réquisition dont « chaque mot en était vrai » et qui couvre un motif non écrit : qu'un homme, cette nuit, voulait savoir — et ouvre le coffre à deux clefs. La copie d'Olven n'est pas une folie : c'est un récit où des gens pèsent comme lui (« Alors nous avons choisi de sceller. […] Nous avons appelé cela le moindre, et aucun de nous n'a dit que c'était bien. ») — « Ils étaient de son métier. Ses pareils, à dix mille ans de là. » Il y retrouve la ligne (« Nul d'entre nous ne le croit vraiment ; et tous, nous le croyons inévitable »), puis exhume un troisième témoin : le feuillet brûlé sans cote où seule l'arête survit. Trois strates côte à côte une seule fois — elles ne se complètent pas, elles se répètent. Le lézard entre par la certitude : ceux d'Olven se sont « rangés à leur pente et lui avaient donné, pour pouvoir dormir, le nom d'une vertu » — et lui, peut-être, a « donné à sa pente le beau nom de miséricorde ». À Karsel : « Je décidais. C'est un autre verbe. On peut décider toute une vie sans savoir une seule fois. » Il rescelle tout avant l'aube — mais la clef de voûte a bougé. [T3 — L’Heure qui Naît, ch. 28 — an 251 du Sillage]",
+      "detail": "La traque rapporte du papier : un agent a recopié, à l'Étape Basse du port de Sulvane, sur la côte de Cendara, la seule ligne nette du cahier de la passeuse — le noyau. La nuque de Vaskar reconnaît avant la tête : l'étiquette jaune, « à ne pas ouvrir ». Il force sa propre règle avec « la troisième clef » — l'enquête, réquisition dont « chaque mot en était vrai » et qui couvre un motif non écrit : qu'un homme, cette nuit, voulait savoir — et ouvre le coffre à deux clefs. La copie d'Olven n'est pas une folie : c'est un récit où des gens pèsent comme lui (« Alors nous avons choisi de sceller. […] Nous avons appelé cela le moindre, et aucun de nous n'a dit que c'était bien. ») — « Ils étaient de son métier. Ses pareils, à dix mille ans de là. » Il y retrouve la ligne (« Nul d'entre nous ne le croit vraiment ; et tous, nous le croyons inévitable »), puis exhume un troisième témoin : le feuillet brûlé sans cote où seule l'arête survit. Trois strates côte à côte une seule fois — elles ne se complètent pas, elles se répètent. Le lézard entre par la certitude : ceux d'Olven se sont « rangés à leur pente et lui avaient donné, pour pouvoir dormir, le nom d'une vertu » — et lui, peut-être, a « donné à sa pente le beau nom de miséricorde ». À Karsel : « Je décidais. C'est un autre verbe. On peut décider toute une vie sans savoir une seule fois. » Il rescelle tout avant l'aube — mais la clef de voûte a bougé. [T3 — L’Heure qui Naît, ch. 28 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -110728,6 +111092,12 @@
             "champ": "detail",
             "avant": "« Ils étaient, à travers dix mille ans, ses pareils. »",
             "pourquoi": "T3/28 : « Ils avaient choisi le froid, comme lui. Ils étaient de son métier. Ses pareils, à dix mille ans de là. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "un agent a recopié sous Cendara la seule ligne nette",
+            "pourquoi": "T3/28 corrigé."
           }
         ]
       },
@@ -110735,7 +111105,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1425",
@@ -110873,7 +111243,7 @@
       "era_id": "era7_actuelle",
       "seq": 31,
       "label": "Loin du Mont — la seconde fuite et la fin du « loin »",
-      "detail": "Terrifiée d'avoir failli comprendre (la voix « avait tenu le bout » et elle s'était surprise à écouter pour saisir — elle s'était retrouvée debout devant le mur du sud sans s'être vue se lever), Renna attelle avant l'aube et fuit au nord avec Ilex : « On peut partir. On peut pas être loin. […] Y a pas de loin. Y en a plus. » À dix-huit lieues, au relais du Val-Rond, l'aubergiste raconte son puits qui chante la nuit (« un long, puis un court ») et sa sœur de la côte de Baelor, qui ne lui demande pas si ça monte chez elle mais « depuis quand » : « Ça sort de partout à la fois. Le Mont, c'est l'endroit où c'est sorti en premier. […] Y a pas de loin. Y a que des gens qui l'ont pas encore entendu. » L'enfant se vide à mesure que le pays embellit : « C'est ça le mal […]. Le calme. » — « Le bruit me remplit. Tu m'as vidé, Renna. » « Étouffe pas l'oreille. Si tu me la bouches, le reste s'en va avec. » Au bord de la rivière, le piège se referme : la poussée monte ici aussi, sans Mont, et pour la première fois le bout ne se manque plus. Renna pleure enfin l'eau retenue depuis ses cinq ans et fait tourner le mulet : elle choisit, de deux façons de le perdre, celle qui « le rendait à ce qui le remplissait ». Ilex, ranimé vers le sud : « Là il passe le bout et il repart. […] Bientôt une phrase. Faut être là. » [T3 — L’Heure qui Naît, ch. 31 — an 251 du Sillage]",
+      "detail": "Terrifiée d'avoir failli comprendre (la voix « avait tenu le bout » et elle s'était surprise à écouter pour saisir — elle s'était retrouvée debout devant le mur du nord sans s'être vue se lever), Renna attelle avant l'aube et fuit au sud avec Ilex : « On peut partir. On peut pas être loin. […] Y a pas de loin. Y en a plus. » À quinze lieues, au relais du Val-Rond, l'aubergiste raconte son puits qui chante la nuit (« un long, puis un court ») et sa sœur de la côte de Baelor, qui ne lui demande pas si ça monte chez elle mais « depuis quand » : « Ça sort de partout à la fois. Le Mont, c'est l'endroit où c'est sorti en premier. […] Y a pas de loin. Y a que des gens qui l'ont pas encore entendu. » L'enfant se vide à mesure que le pays embellit : « C'est ça le mal […]. Le calme. » — « Le bruit me remplit. Tu m'as vidé, Renna. » « Étouffe pas l'oreille. Si tu me la bouches, le reste s'en va avec. » Au bord de la rivière, le piège se referme : la poussée monte ici aussi, sans Mont, et pour la première fois le bout ne se manque plus. Renna pleure enfin l'eau retenue depuis ses cinq ans et fait tourner le mulet : elle choisit, de deux façons de le perdre, celle qui « le rendait à ce qui le remplissait ». Ilex, ranimé vers le nord : « Là il passe le bout et il repart. […] Bientôt une phrase. Faut être là. » [T3 — L’Heure qui Naît, ch. 31 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -110923,6 +111293,30 @@
             "champ": "detail",
             "avant": "« C'est ça le mal. Le calme. Le bruit c'est ce qui me remplit. Tu m'as vidé, Renna. »",
             "pourquoi": "T3/31 : « C’est ça le mal, dit-il. Le calme. » … « Le bruit me fait pas mal. Le bruit me remplit. Tu m’as vidé, Renna. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "devant le mur du sud sans s'être vue se lever",
+            "pourquoi": "T3/31 corrigé (le Mont au nord)."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Renna attelle avant l'aube et fuit au nord avec Ilex",
+            "pourquoi": "T3/31 corrigé."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "À dix-huit lieues, au relais du Val-Rond",
+            "pourquoi": "T3/31 corrigé (registre §14)."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Ilex, ranimé vers le sud :",
+            "pourquoi": "T3/31 corrigé."
           }
         ]
       },
@@ -110930,7 +111324,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1428",
@@ -111092,7 +111486,7 @@
       "era_id": "era7_actuelle",
       "seq": 35,
       "label": "Au quart d'heure — la marée humaine campée au foyer du Cendra",
-      "detail": "Renna et Ilex arrivent au val du foyer : quinze mille personnes campées « au chevet d'un malade dont on ne veut pas manquer l'heure, sauf qu'ici personne ne savait si l'on veillait une mort ou une naissance ». Les spirales de cendre sont devenues un arbre à branches (« Un rond, ça dit une chose. Une branche, ça en dit plein à la fois »). Au bord de la fente, les six lectures s'entrechoquent : Flamara (une fervente veut offrir Ilex au feu), Eldoria (« quelque chose qui apprend à brûler »), le huitième au nom lavé (la vieille : « J'attends un voisin qu'on a enterré vivant »), le Guide qui redescend (« L'étoile du Voyageur a bougé. Elle a bougé d'abord, avant que le Mont ne cogne »), le dessous de la gardienne venue de l'est (« Ce Mont est une fente dans un plancher, rien de plus »), et le jeune homme des écoles (« Moi je crois que ce sont ses premières bouches. La chose qui se refait apprend à parler, et elle apprend par eux »). La pulse passe à la demie, puis au quart : « Ça double à chaque fois maintenant. » Un homme de Drakora, compteur de têtes, veut recenser l'enfant et annonce son rapport (« Une accumulation saisonnière de gaz chauds. […] C'est ce qu'on lira à Drakora, et c'est ce qu'il faut qu'on y lise ») — et perce le mensonge : « Une taie ne se retourne pas vers le sud, la mère. » Renna comprend le piège final : « Monter, ici, c'était traverser tout cela avec lui sur la hanche, et le lâcher dans la main du premier qui l'attraperait » — « Tu pleures parce que tu sais que je vais monter et que tu peux plus choisir que le quand. » [T3 — L’Heure qui Naît, ch. 35 — an 251 du Sillage]",
+      "detail": "Renna et Ilex arrivent au val du foyer : quinze mille personnes campées « au chevet d'un malade dont on ne veut pas manquer l'heure, sauf qu'ici personne ne savait si l'on veillait une mort ou une naissance ». Les spirales de cendre sont devenues un arbre à branches (« Un rond, ça dit une chose. Une branche, ça en dit plein à la fois »). Au bord de la fente, les six lectures s'entrechoquent : Flamara (une fervente veut offrir Ilex au feu), Eldoria (« quelque chose qui apprend à brûler »), le huitième au nom lavé (la vieille : « J'attends un voisin qu'on a enterré vivant »), le Guide qui redescend (« L'étoile du Voyageur a bougé. Elle a bougé d'abord, avant que le Mont ne cogne »), le dessous de la gardienne venue de l'est (« Ce Mont est une fente dans un plancher, rien de plus »), et le jeune homme des écoles (« Moi je crois que ce sont ses premières bouches. La chose qui se refait apprend à parler, et elle apprend par eux »). La pulse passe à la demie, puis au quart : « Ça double à chaque fois maintenant. » Un homme de Drakora, compteur de têtes, veut recenser l'enfant et annonce son rapport (« Une accumulation saisonnière de gaz chauds. […] C'est ce qu'on lira à Drakora, et c'est ce qu'il faut qu'on y lise ») — et perce le mensonge : « Une taie ne se retourne pas vers le nord, la mère. » Renna comprend le piège final : « Monter, ici, c'était traverser tout cela avec lui sur la hanche, et le lâcher dans la main du premier qui l'attraperait » — « Tu pleures parce que tu sais que je vais monter et que tu peux plus choisir que le quand. » [T3 — L’Heure qui Naît, ch. 35 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -111148,6 +111542,12 @@
             "champ": "detail",
             "avant": "et le lâcher dans la main du premier qui l'attraperait. »",
             "pourquoi": "T3/35 : la phrase continue au-delà (« …qui l’attraperait, et elle ne saurait laquelle… ») ; seul le point final empêchait la correspondance"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "« Une taie ne se retourne pas vers le sud, la mère. »",
+            "pourquoi": "T3/35 corrigé : le Mont est au nord de Taldre et du foyer des familles."
           }
         ]
       },
@@ -111155,7 +111555,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1431",
@@ -111341,8 +111741,8 @@
       "end_circa": 0,
       "era_id": "era7_actuelle",
       "seq": 39,
-      "label": "Un dossier de plus — la mort de Sanne passe sur la table de Vaskar",
-      "detail": "La demi-page — « le format de l'innocence du monde » — arrive aux Fonds : une femme sans papiers, morte sur le vieux chemin des toucheurs de bêtes, « rien aux mains ». Elle dépareille, et c'est pour cela qu'elle compte double : « Elle avait posé quelque chose quelque part avant de mourir, et on l'avait tuée ensuite » Vaskar aligne enfin ses trois colonnes — le document qu'il garde, le battement qu'il refuse de nommer, les morts qu'il classe — et le fil se lève : « Un seul mouvement, tenu par le bas, tué sur les routes, refusé dans les cases. Un seul, vu de trois fenêtres » Sa foi en l'érosion se fissure : deux choses grossissent (« Or deux choses, dans ce monde, grossissaient. ») : « Il avait peut-être, vingt ans durant, tenu au froid une graine » Le Prime ordonne de fermer la série (« aucune concordance établie » — exact, donc signable) ; Vaskar signe la demi-page, « le plus solide des mensonges, parce qu'un faux bâti de mots vrais ne se défait jamais ». Et la révélation d'aveuglement : tout son art est rétrospectif — « L'appareil savait tout lire de ce qui avait été, et restait aveugle, absolument, à ce qui commençait. » [T3 — L’Heure qui Naît, ch. 39 — an 251 du Sillage]",
+      "label": "Un dossier de plus — une morte des marches, que Vaskar prend pour sa passeuse",
+      "detail": "La demi-page — « le format de l'innocence du monde » — arrive aux Fonds : une femme sans papiers, morte sur le vieux chemin des toucheurs de bêtes, dans les marches d'Onara, « rien aux mains » ; Vaskar la prend pour la femme qu'il traque (Sanne, elle, mourra à Taldre, à une mer de là, ch. 38). Elle dépareille, et c'est pour cela qu'elle compte double : « Elle avait posé quelque chose quelque part avant de mourir, et on l'avait tuée ensuite » Vaskar aligne enfin ses trois colonnes — le document qu'il garde, le battement qu'il refuse de nommer, les morts qu'il classe — et le fil se lève : « Un seul mouvement, tenu par le bas, tué sur les routes, refusé dans les cases. Un seul, vu de trois fenêtres » Sa foi en l'érosion se fissure : deux choses grossissent (« Or deux choses, dans ce monde, grossissaient. ») : « Il avait peut-être, vingt ans durant, tenu au froid une graine » Le Prime ordonne de fermer la série (« aucune concordance établie » — exact, donc signable) ; Vaskar signe la demi-page, « le plus solide des mensonges, parce qu'un faux bâti de mots vrais ne se défait jamais ». Et la révélation d'aveuglement : tout son art est rétrospectif — « L'appareil savait tout lire de ce qui avait été, et restait aveugle, absolument, à ce qui commençait. » [T3 — L’Heure qui Naît, ch. 39 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -111392,6 +111792,18 @@
             "champ": "detail",
             "avant": "« le plus solide des mensonges, parce qu'un faux fait de vrais mots ne se défait jamais »",
             "pourquoi": "T3/39 : « ferait le plus solide des mensonges, parce qu’un faux bâti de mots vrais ne se défait jamais »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "label",
+            "avant": "Un dossier de plus — la mort de Sanne passe sur la table de Vaskar",
+            "pourquoi": "Registre §10 : Sanne meurt à Taldre (ch. 38) ; la femme du ch. 39 meurt dans les marches d'Onara, avant elle."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "une femme sans papiers, morte sur le vieux chemin des toucheurs de bêtes, « rien aux mains ».",
+            "pourquoi": "Même raison."
           }
         ]
       },
@@ -111399,7 +111811,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1435",
@@ -111555,7 +111967,7 @@
       "era_id": "era7_actuelle",
       "seq": 42,
       "label": "Vers le Mont — l'archiviste sort des Fonds",
-      "detail": "Pour la première fois en vingt ans, Vaskar quitte les Fonds : on lui a rapporté qu'à Cendara « une phrase avait été reconnue » — « Il montait sceller une chose qui avait cessé d'avoir une forme à sceller, il le savait avant de partir, et il était parti. » Huit hommes, dont Vellan qui a besoin de son coupable (« Ce sont les Fils ») — Vaskar ne le corrige plus : « Vous mettez un nom sur ce qui n'en a pas, le nom ferme le trou, et vous dormez. […] Nous montons chacun avec la nôtre. » En route, la cendre tombe « écrite », les chevaux se détournent, les deux Liés sentent la pulse au quart d'heure — et l'homme qui lit tout est le dernier averti — « Le cheval le sentit avant lui » ; il n'a de la chose que « la parole d'un homme, et le visage de l'homme pendant qu'il la donnait ». À Vellan : « On arrive toujours à temps pour sceller ce qui a eu lieu. […] Nous sommes des gens de l'après, Vellan. Nous fermons les portes une fois que la maison est vide. » Il connaît déjà sa part — non sceller : voir — et déjà la page qu'il rentrera (« une page propre où il serait dit que l'ordre avait prévalu ») ; et il monte sans savoir qu'un homme de son nom, dix mille ans plus tôt, avait monté de la même façon vers ce Mont même — le chapitre n'en laisse passer que « le retard […] : une chose qu'il n'avait pas apprise et qu'il savait ». [T3 — L’Heure qui Naît, ch. 42 — an 251 du Sillage]",
+      "detail": "Pour la deuxième fois en vingt ans (la première : la Forge-Basse, ch. 18), Vaskar quitte les Fonds : on lui a rapporté qu'à Cendara « une phrase avait été reconnue » — « Il montait sceller une chose qui avait cessé d'avoir une forme à sceller, il le savait avant de partir, et il était parti. » Huit hommes, dont Vellan qui a besoin de son coupable (« Ce sont les Fils ») — Vaskar ne le corrige plus : « Vous mettez un nom sur ce qui n'en a pas, le nom ferme le trou, et vous dormez. […] Nous montons chacun avec la nôtre. » Quatre jours à cheval par le haut pays d'Ilthara, puis le bac sur le bras de mer ; en route, la cendre tombe « écrite », les chevaux se détournent, les deux Liés sentent la pulse au quart d'heure — et l'homme qui lit tout est le dernier averti — « Le cheval le sentit avant lui » ; il n'a de la chose que « la parole d'un homme, et le visage de l'homme pendant qu'il la donnait ». À Vellan : « On arrive toujours à temps pour sceller ce qui a eu lieu. […] Nous sommes des gens de l'après, Vellan. Nous fermons les portes une fois que la maison est vide. » Il connaît déjà sa part — non sceller : voir — et déjà la page qu'il rentrera (« une page propre où il serait dit que l'ordre avait prévalu ») ; et il monte sans savoir qu'un homme de son nom, dix mille ans plus tôt, avait monté de la même façon vers ce Mont même — le chapitre n'en laisse passer que « le retard […] : une chose qu'il n'avait pas apprise et qu'il savait ». [T3 — L’Heure qui Naît, ch. 42 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -111605,6 +112017,18 @@
             "champ": "detail",
             "avant": "« le retard […], une chose qu'il n'avait pas apprise et qu'il savait »",
             "pourquoi": "T3/42 : « ce fut le retard qui lui vint, posé, ordinaire, sans crainte autour de lui : une chose qu’il n’avait pas apprise et qu’il savait. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Pour la première fois en vingt ans, Vaskar quitte les Fonds",
+            "pourquoi": "T3/18 : il passe la mer jusqu'aux marches d'Onara ; T3/42 corrigé (« à une descente près »)."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "En route, la cendre tombe",
+            "pourquoi": "T3/42 corrigé."
           }
         ]
       },
@@ -111612,7 +112036,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1438",
@@ -113285,7 +113709,7 @@
       "era_id": "era7_actuelle",
       "seq": 0,
       "label": null,
-      "detail": "Trois strates alignées une seule fois sur la table de fer des Fonds : la chemise de la traque (relevé pris sur le cahier de Kessane à l'Étape Basse sous Cendara), le cahier d'Olven, et le feuillet brûlé sans cote. Trois désastres qui ne se ressemblent pas, la même phrase dans les trois. Il n'en reste aucune écriture : c'est lui qui tient la plume.",
+      "detail": "Trois strates alignées une seule fois sur la table de fer des Fonds : la chemise de la traque (relevé pris sur le cahier de Kessane à l'Étape Basse, sur la côte de Cendara), le cahier d'Olven, et le feuillet brûlé sans cote. Trois désastres qui ne se ressemblent pas, la même phrase dans les trois. Il n'en reste aucune écriture : c'est lui qui tient la plume.",
       "data": {
         "verbe_recit": "etablit",
         "preuve": [
@@ -113294,13 +113718,21 @@
         "lot": "T3",
         "origine": "T3/faits#32",
         "calendrier": "sillage",
-        "annee_sillage": 251
+        "annee_sillage": 251,
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "à l'Étape Basse sous Cendara",
+            "pourquoi": "T3/28 corrigé."
+          }
+        ]
       },
       "source_id": "oeu-0004",
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1475",
@@ -114194,7 +114626,7 @@
       "era_id": "era7_actuelle",
       "seq": 0,
       "label": null,
-      "detail": "Lecture « rien de cosmique », rubrique qu'il a lui-même ouverte aux Fonds. Elle se lézarde au ch. 50 quand il voit sous quelle colonne son propre mot tombe : « Poser rien de cosmique sur ce flanc, c'était mettre un mot pour n'avoir plus à regarder, du même geste exactement que l'homme d'Arkhen et que la femme aux trois branches. » Il garde la lecture sans la porter, et tient les deux bords : « Ce n'est pas un homme, cette chose. Et je ne peux pas le prouver. »",
+      "detail": "Lecture « rien de cosmique », mention qu'il porte dans la case qu'il a lui-même ouverte aux Fonds, « fantasme de perception ». Elle se lézarde au ch. 50 quand il voit sous quelle colonne son propre mot tombe : « Poser rien de cosmique sur ce flanc, c'était mettre un mot pour n'avoir plus à regarder, du même geste exactement que l'homme d'Arkhen et que la femme aux trois branches. » Il garde la lecture sans la porter, et tient les deux bords : « Ce n'est pas un homme, cette chose. Et je ne peux pas le prouver. »",
       "data": {
         "verbe_recit": "lecture-portee",
         "preuve": [
@@ -114211,6 +114643,12 @@
             "champ": "detail",
             "avant": "« Poser rien de cosmique sur ce flanc, c'était mettre un mot pour n'avoir plus à regarder, du même geste que l'homme d'Arkhen. »",
             "pourquoi": "T3/50 : « Poser rien de cosmique sur ce flanc, c’était mettre un mot pour n’avoir plus à regarder, du même geste exactement que l’homme d’Arkhen et que la femme aux trois branches. »"
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Lecture « rien de cosmique », rubrique qu'il a lui-même ouverte aux Fonds.",
+            "pourquoi": "T3/50 corrigé : une seule case, un seul nom (ch. 39, 42)."
           }
         ]
       },
@@ -114218,7 +114656,7 @@
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-23T23:27:34.869Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1501",
@@ -114849,7 +115287,7 @@
       "era_id": "era7_actuelle",
       "seq": 0,
       "label": null,
-      "detail": "Deux mille personnes l'avant-veille, cinq mille la veille, dix mille ou davantage le dernier soir ; le guet de Cendara passe de soixante à quarante hommes, vingt étant montés. La foule grossit par le milieu et non par le bord ; elle ne gronde pas, elle écoute ; elle n'a pas de premier. Vaskar Sorne porte trois mille dans son rapport.",
+      "detail": "Deux mille personnes l'avant-veille, cinq mille la veille, dix mille ou davantage le dernier soir ; le guet de Cendara passe de soixante à quarante hommes, vingt étant montés. La foule grossit par le milieu et non par le bord ; elle ne gronde pas, elle écoute ; elle n'a pas de premier. Vaskar Sorne dicte trois mille la nuit (ch. 50) ; le rapport du matin n'en porte aucun : « rassemblement notable » (ch. 51).",
       "data": {
         "verbe_recit": "precede",
         "preuve": [
@@ -114862,13 +115300,21 @@
         "lot": "T3",
         "origine": "T3/faits#81",
         "calendrier": "sillage",
-        "annee_sillage": 251
+        "annee_sillage": 251,
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "Vaskar Sorne porte trois mille dans son rapport.",
+            "pourquoi": "T3/51 corrigé (registre §12)."
+          }
+        ]
       },
       "source_id": "oeu-0004",
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1519",
@@ -114884,7 +115330,7 @@
       "era_id": "era7_actuelle",
       "seq": 0,
       "label": null,
-      "detail": "Escalier du tome, mesuré chapitre après chapitre : de la saison au mois, du mois à la semaine (ch. 02-11) ; au jour, matin et soir (ch. 13) ; presque quotidienne (ch. 22) ; cinq fois avant midi, puis presque d'heure en heure (ch. 27) ; le répit tombe à un quart d'heure (ch. 33) ; à l'heure pleine, aux trois quarts, à la demie, au quart le même jour (ch. 35) ; au huitième (ch. 44) ; puis l'intervalle passe sous la mesure et la note se tient (ch. 49, 50). L'homme au bâton qui tirait un trait par poussée lâche son bâton quand le trait neuf bave dans le vieux.",
+      "detail": "Escalier du tome, mesuré chapitre après chapitre : de la saison au mois, du mois à la semaine (ch. 02-11) ; au jour, matin et soir (ch. 13) ; une venue de midi, hors de ses deux heures du matin et du soir (ch. 22) ; cinq fois avant midi, puis presque d'heure en heure (ch. 27) ; le répit tombe à un quart d'heure (ch. 33) ; à l'heure pleine, aux trois quarts, à la demie, au quart le même jour (ch. 35) ; au huitième (ch. 44) ; puis l'intervalle passe sous la mesure et la note se tient (ch. 49, 50). L'homme au bâton qui tirait un trait par poussée lâche son bâton quand le trait neuf bave dans le vieux.",
       "data": {
         "verbe_recit": "mesure",
         "preuve": [
@@ -114900,13 +115346,21 @@
         "lot": "T3",
         "origine": "T3/faits#82",
         "calendrier": "sillage",
-        "annee_sillage": 251
+        "annee_sillage": 251,
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "presque quotidienne (ch. 22)",
+            "pourquoi": "T3/22 corrigé : l'escalier ne recule plus (registre §12, arbitrage 8)."
+          }
+        ]
       },
       "source_id": "oeu-0004",
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1520",
@@ -114922,7 +115376,7 @@
       "era_id": "era7_actuelle",
       "seq": 0,
       "label": null,
-      "detail": "Le battement cesse d'être local : le puits d'un relais à dix-huit lieues du Mont « chante » un long puis un court, la nuit, et les chiens y dorment au milieu de la cour ; il monte encore à vingt lieues, au bord d'une rivière, dans une bonne terre grasse qui n'a rien à voir avec la cendre ; Sanne le prend par le dos à travers tout le sud ; un Lié le sent « comme un cœur, mais pas le mien » sur la route du haut pays ; un pèlerin de Cestra jure l'avoir entendu au Mont Jumeau, à la même heure, à des continents de là. « Y a pas de loin. Y a que des gens qui l'ont pas encore entendu. »",
+      "detail": "Le battement cesse d'être local : le puits d'un relais à quinze lieues du Mont « chante » un long puis un court, la nuit, et les chiens y dorment au milieu de la cour ; il monte encore à seize lieues, au bord d'une rivière, dans une bonne terre grasse qui n'a rien à voir avec la cendre ; Sanne le prend par le dos à travers tout le sud ; un Lié le sent « comme un cœur, mais pas le mien » sur la route du haut pays ; un pèlerin de Cestra jure l'avoir entendu au Mont Jumeau, à la même heure, à des continents de là. « Y a pas de loin. Y a que des gens qui l'ont pas encore entendu. »",
       "data": {
         "verbe_recit": "porte",
         "preuve": [
@@ -114935,13 +115389,27 @@
         "lot": "T3",
         "origine": "T3/faits#83",
         "calendrier": "sillage",
-        "annee_sillage": 251
+        "annee_sillage": 251,
+        "raccord": [
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "le puits d'un relais à dix-huit lieues du Mont",
+            "pourquoi": "T3/31 corrigé."
+          },
+          {
+            "date": "2026-09-27",
+            "champ": "detail",
+            "avant": "il monte encore à vingt lieues, au bord d'une rivière",
+            "pourquoi": "T3/31 corrigé."
+          }
+        ]
       },
       "source_id": "oeu-0004",
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-22T17:42:02.289Z",
-      "updated_at": "2026-09-22T17:42:02.289Z"
+      "updated_at": "2026-09-27T23:59:24.045Z"
     },
     {
       "id": "fac-1521",
