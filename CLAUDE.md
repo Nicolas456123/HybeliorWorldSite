@@ -63,10 +63,14 @@ du monde.
   contradictions entre chapitres et l'ancien lore (registre §12, §13) ont été
   tranchés le 2026-09-28 (registre, I).
 - **Trajets des personnages** : `data.parcours` des fiches (calque « trajets » de
-  la Carte vivante, `kget({action:'parcours'})`), jugés par
-  `node scripts/verifier-trajets.js --ecrire` à l'échelle de l'auteur (1 000 km
+  la Carte vivante, `kget({action:'parcours'})`). Chaque étape reçoit une ROUTE
+  par `node scripts/tracer-routes.js` (la mer en longeant les côtes, une escale
+  par journée de navire — port connu, mouillage ou large —, la terre en évitant
+  l'eau, les bras de mer comptés à part ; `data.parcours[i].route`), puis est jugée
+  par `node scripts/verifier-trajets.js --ecrire` (toujours dans cet ordre, puis
+  `npm run kg:db`) à l'échelle de l'auteur (1 000 km
   de bord à bord, 1 u ≈ 0,955 km, 1 lieue ≈ 4,19 u, `lie-1059`). Au 2026-09-28 :
-  183 tronçons, 0 impossible, 0 lent. Après toute retouche d'une durée dans un
+  183 tronçons le long des routes, 0 impossible, 0 lent, 13 serrés. Après toute retouche d'une durée dans un
   livre, recaler l'étape et relancer. Une lenteur que le texte explique porte
   `lenteur_dite` ; les positions inventées vont dans
   `data.carte.position_estimee`, jamais dans `coord_x/y`.

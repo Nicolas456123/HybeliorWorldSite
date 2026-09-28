@@ -1109,6 +1109,11 @@ async function vueCarte(focusId) {
         const [sx, sy] = E(e.x, e.y);
         const d2 = (sx - mx) ** 2 + (sy - my) ** 2;
         if (d2 < d2min) { d2min = d2; best = { p, e, i }; }
+        for (const esc of (e.route && e.route.escales) || []) {
+          const [ex, ey] = E(esc.x, esc.y);
+          const d = (ex - mx) ** 2 + (ey - my) ** 2;
+          if (d < d2min * 0.8) { d2min = d; best = { p, e, i, escale: esc }; }
+        }
       });
     }
     return best;
@@ -1243,9 +1248,31 @@ async function vueCarte(focusId) {
           ctx.lineWidth = (v === 'impossible' ? 2.8 : 2) * dpr;
           ctx.setLineDash(MODES_EAU.has(e.mode) ? [2 * dpr, 5 * dpr] : [9 * dpr, 6 * dpr]);
           ctx.lineDashOffset = -tAnim / 22;
-          ctx.beginPath(); ctx.moveTo(pts[i - 1][0], pts[i - 1][1]); ctx.lineTo(pts[i][0], pts[i][1]); ctx.stroke();
+          const tr = e.route && e.route.trace;
+          if (tr && tr.length) {
+            // la route suivie (scripts/tracer-routes.js) : l'eau en pointillé serré, la terre en tirets
+            for (const m of tr) {
+              ctx.setLineDash(m.eau ? [2 * dpr, 5 * dpr] : [9 * dpr, 6 * dpr]);
+              ctx.beginPath();
+              m.p.forEach(([x, y], j) => { const [sx, sy] = E(x, y); j ? ctx.lineTo(sx, sy) : ctx.moveTo(sx, sy); });
+              ctx.stroke();
+            }
+          } else {
+            ctx.beginPath(); ctx.moveTo(pts[i - 1][0], pts[i - 1][1]); ctx.lineTo(pts[i][0], pts[i][1]); ctx.stroke();
+          }
         }
         ctx.setLineDash([]); ctx.globalAlpha = 1;
+        // les escales : une par journée de mer, au port connu le plus proche de la route
+        // (losange plein), ou au mouillage / au large (losange creux) — probables, non racontées
+        p.etapes.forEach((e) => {
+          for (const esc of (e.route && e.route.escales) || []) {
+            const [sx, sy] = E(esc.x, esc.y);
+            const r = (survoleEtape && survoleEtape.escale === esc ? 5 : 3.4) * dpr;
+            ctx.beginPath(); ctx.moveTo(sx, sy - r); ctx.lineTo(sx + r, sy); ctx.lineTo(sx, sy + r); ctx.lineTo(sx - r, sy); ctx.closePath();
+            ctx.fillStyle = esc.id ? p.couleur : 'rgba(13,11,9,.9)'; ctx.fill();
+            ctx.strokeStyle = p.couleur; ctx.lineWidth = dpr; ctx.stroke();
+          }
+        });
         p.etapes.forEach((e, i) => {
           const [sx, sy] = pts[i];
           if (e.sur_place) return;          // séjour au même lieu : pas de second rond
@@ -1282,13 +1309,22 @@ async function vueCarte(focusId) {
       }
       // étiquette de l'étape survolée
       if (survoleEtape) {
-        const { p, e, i } = survoleEtape;
-        const [sx, sy] = E(e.x, e.y);
-        const lignes = [
+        const { p, e, i, escale } = survoleEtape;
+        const [sx, sy] = escale ? E(escale.x, escale.y) : E(e.x, e.y);
+        const prec = i > 0 ? p.etapes[i - 1] : null;
+        const r = e.route;
+        const lignes = escale ? [
+          `${p.name.replace(/\s*\(.*\)$/, '')} · escale probable, jour ${escale.jour} de mer`,
+          escale.id ? escale.nom : (escale.nom === 'nuit au large' ? 'Nuit au large, faute de port' : 'Mouillage sur la côte, faute de port connu'),
+          `sur la traversée ${prec ? (prec.lieu || '') + ' → ' : ''}${e.lieu || ''}${e.chapitre ? ' (' + e.chapitre + ')' : ''}`,
+          'Déduite de la carte : le livre ne la raconte pas.',
+        ] : [
           `${p.name.replace(/\s*\(.*\)$/, '')} · étape ${e.etape || i + 1}${e.chapitre ? ' · ' + e.chapitre : ''}${e.quand ? ' · ' + e.quand : ''}`,
           (e.lieu || '') + (e.estimee ? ' (position estimée)' : ''),
           i ? [e.depuis ? 'depuis ' + e.depuis : '', e.mode, e.duree].filter(Boolean).join(' · ') : 'départ',
-          e.distance_lieues != null ? `${fmtNb(e.distance_lieues, 0)} lieues` + (e.rythme != null ? ` · ${fmtNb(e.rythme)} lieues/jour` : '') : '',
+          e.distance_lieues != null ? `${fmtNb(e.distance_lieues, 0)} lieues` + (r && r.trace ? (r.fleuve ? ' par le fleuve' : r.eau_u && !r.terre_u ? ' en longeant les côtes' : ' par la route') : '') + (e.rythme != null ? ` · ${fmtNb(e.rythme)} lieues/jour` : '') : '',
+          r && r.escales && r.escales.length ? `${r.escales.length} escale${r.escales.length > 1 ? 's' : ''} : ` + r.escales.map((x) => x.id ? x.nom : x.nom === 'nuit au large' ? 'au large' : 'mouillage').join(', ') : '',
+          r && r.terre_u > 0 && r.eau_u > 1 && echelleCarte ? `dont ${fmtNb(r.eau_u / +echelleCarte.unites_par_lieue, 0)} lieues d'eau à passer (bac ou navire)` : '',
           e.note ? (SYMB_VERDICT[e.verdict] || '') + e.note : '',
         ].filter(Boolean);
         ctx.font = `${11.5 * dpr}px Raleway, sans-serif`;
@@ -1335,7 +1371,8 @@ async function vueCarte(focusId) {
     if (ev.clientX < box.left || ev.clientX > box.right || ev.clientY < box.top || ev.clientY > box.bottom) return;
     const mx = (ev.clientX - box.left) * dpr, my = (ev.clientY - box.top) * dpr;
     const et = etapeSous(mx, my, 12 * dpr);
-    if ((et && et.e) !== (survoleEtape && survoleEtape.e)) { survoleEtape = et; cv.style.cursor = et ? 'pointer' : 'grab'; peindre(); }
+    const cle = (x) => x && (x.escale || x.e);
+    if (cle(et) !== cle(survoleEtape)) { survoleEtape = et; cv.style.cursor = et ? 'pointer' : 'grab'; peindre(); }
     if (et) return;
     let best = null, d2min = (16 * dpr) ** 2;
     for (const l of lieux) {
@@ -1350,7 +1387,7 @@ async function vueCarte(focusId) {
     if (!drag) return;
     const b = drag.bouge; drag = null; cv.style.cursor = 'grab';
     if (b) return;
-    if (survoleEtape && survoleEtape.e.lieu_id) { memoriser(); aller('#/fiche/' + survoleEtape.e.lieu_id); return; }
+    if (survoleEtape) { const id = survoleEtape.escale ? survoleEtape.escale.id : survoleEtape.e.lieu_id; if (id) { memoriser(); aller('#/fiche/' + id); return; } }
     if (survole) { memoriser(); aller('#/fiche/' + survole.id); }
   });
   cv.addEventListener('wheel', (ev) => {
@@ -1383,7 +1420,8 @@ async function vueCarte(focusId) {
       const mx = p.x * dpr, my = p.y * dpr;
       const et = etapeSous(mx, my, 20 * dpr);
       if (et) {
-        if (survoleEtape && survoleEtape.e === et.e && et.e.lieu_id) { memoriser(); aller('#/fiche/' + et.e.lieu_id); return; }
+        const idTap = et.escale ? et.escale.id : et.e.lieu_id;
+        if (survoleEtape && (survoleEtape.escale || survoleEtape.e) === (et.escale || et.e) && idTap) { memoriser(); aller('#/fiche/' + idTap); return; }
         survoleEtape = et; peindre(); return;
       }
       survoleEtape = null;

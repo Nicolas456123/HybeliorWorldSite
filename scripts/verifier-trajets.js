@@ -159,12 +159,25 @@ for (const ent of kg.entities) {
     if (prec) {
       const mode = et.mode && et.mode !== 'inconnu' ? et.mode : 'marche';
       const eau = MODES_EAU.has(mode);
-      const unites = Math.hypot(pos.x - prec.pos.x, pos.y - prec.pos.y) * (eau ? DETOUR.eau : DETOUR.terre);
-      const lieues = unites / UPL;
+      const douteux = pos.confiance === 'basse' || prec.pos.confiance === 'basse', estimee = pos.estimee || prec.pos.estimee;
+      const seg = (unites, m) => ({ unites, lieues: unites / UPL, mode: m, douteux, estimee });
+      // La route tracée (scripts/tracer-routes.js) quand elle existe : la mer qu'on longe,
+      // la terre qu'on suit, le bras de mer qu'on passe au bac ou en navire ; sinon la
+      // ligne droite majorée.
+      const r = et.route;
+      let segsEt;
+      if (r && r.u != null) {
+        if (eau) segsEt = [seg(r.u * (r.fleuve ? 1.15 : 1), mode)];
+        else {
+          segsEt = [];
+          if (r.terre_u > 0 || !(r.eau_u > 0.5)) segsEt.push(seg((r.terre_u || r.u) * (mode === 'autre' ? 1 : DETOUR.route_terre || 1.1), mode));
+          if (r.eau_u > 0.5) segsEt.push(seg(r.eau_u, r.eau_u / UPL < 4 ? 'barque' : 'navire'));
+        }
+      } else segsEt = [seg(Math.hypot(pos.x - prec.pos.x, pos.y - prec.pos.y) * (eau ? DETOUR.eau : DETOUR.terre), mode)];
+      const lieues = segsEt.reduce((t, x) => t + x.lieues, 0);
       et.distance_lieues = arrondi(lieues, lieues < 10 ? 1 : 0);
-      const seg = { unites, lieues, mode, douteux: pos.confiance === 'basse' || prec.pos.confiance === 'basse', estimee: pos.estimee || prec.pos.estimee };
-      if (repere) repere.segs.push(seg);
-      if (et.jours != null) juger(et, [seg], +et.jours, cpt, lg, ent, prec.et.lieu, seg.douteux, 'durée annoncée');
+      if (repere) repere.segs.push(...segsEt);
+      if (et.jours != null) juger(et, segsEt, +et.jours, cpt, lg, ent, prec.et.lieu, douteux, 'durée annoncée');
       else if (et.t != null && repere && repere.t != null) {
         const jours = +et.t - repere.t;
         et.jours_dispo = arrondi(jours, 2);
