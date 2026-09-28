@@ -17,9 +17,9 @@ status: draft
 
 ---
 
-Vingt-deux jours de mer ouverte m’ont amené de la sphère de Vytharia à ce rivage, et je n’y ai pas dormi plus de trois heures d’affilée.
+Onze jours de mer ouverte m’ont amené de la sphère de Vytharia à ce rivage, et je n’y ai pas dormi plus de trois heures d’affilée.
 
-Chaque matin, la mer était un peu plus grise que la veille. Les marins se couvraient par couches, sans en parler. Vers le quinzième jour, il fallut casser la glace du matin sur les seaux du pont. Je dormais assis, le dos à la cloison, le carnet de mon père sous la veste.
+Chaque matin, la mer était un peu plus grise que la veille. Les marins se couvraient par couches, sans en parler. Vers le huitième jour, il fallut casser la glace du matin sur les seaux du pont. Je dormais assis, le dos à la cloison, le carnet de mon père sous la veste.
 
 À Lunasar, j’avais montré ce qu’il fallait montrer pour rester en vie, et je le paierais longtemps : il y a des visages qu’on ne rattrape pas, une fois qu’ils vous ont vu autrement. Le gant noir, lui, était resté quelque part derrière moi, dans une cour où les cycles de la lune décident du jour. Je ne savais pas où. C’est aussi pour cela que je ne dormais pas.
 

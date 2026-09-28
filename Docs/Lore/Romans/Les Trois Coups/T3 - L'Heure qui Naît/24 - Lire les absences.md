@@ -143,7 +143,7 @@ Vers le haut, elle montait au nord, vers les collines où ses croix s’arrêtai
 
 Vers le bas, elle descendait. Et en la descendant, croix après croix, poste après poste, jusqu’au premier manque, le plus ancien, le plus au sud, Vaskar arrêta son doigt et cessa de respirer un instant.
 
-Le premier manque était dans la basse marche d’Onara. Pas la ville : le pays autour, les hameaux de fondeurs, les vieux postes de confrontation d’un district dissous depuis longtemps. Le pays d’où sa femme des marches était partie. Le pays, exactement, d’où était venu, à l’Ère V, le nommé Olven, copiste, dont la copie dormait au fond du versement dans un coffre que sa clef n’ouvrait qu’à moitié.
+Le premier manque était dans la basse marche d’Onara. Pas le bourg : le pays autour, les hameaux de fondeurs, les vieux postes de confrontation d’un district dissous depuis longtemps. Le pays d’où sa femme des marches était partie. Le pays, exactement, d’où était venu, à l’Ère V, le nommé Olven, copiste, dont la copie dormait au fond du versement dans un coffre que sa clef n’ouvrait qu’à moitié.
 
 Il mit les deux points côte à côte et n’écrivit rien entre eux, le pays que sa carte donnait pour source à la femme vivante, le pays que l’étiquette de son coffre donnait pour source au copiste mort, et c’était le même pays. Le récit dormait sous sa clef, descendu de cette marche. L’autre courait les routes, remonté de la même. Deux pièces d’un seul versement, séparées par tout ce temps, que personne n’avait jamais rangées dans le même rang.
 

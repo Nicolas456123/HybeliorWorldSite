@@ -5,7 +5,7 @@ type: roman-chapitre
 partie: II
 pov: Sanne
 chapitre: 14
-lieu: les collines au sud d'Onara, le moulin mort de Vèdre
+lieu: les collines d'Onara-basse, le moulin mort de Vèdre
 status: draft
 ---
 
@@ -67,7 +67,7 @@ Sanne resta accroupie devant la niche, et ce fut là, bien plus que devant le se
 
 Elle remit la dalle en place et laissa le ballot dans sa niche. Il n’était pas à elle, on ne prend pas la charge d’un homme tant qu’on n’a pas la preuve qu’il est mort, et une part d’elle, sotte et tendre, voulait croire qu’il viendrait la reprendre.
 
-À la porte, Wenna surveillait le val comme on le lui avait appris, un pied dedans, un pied dehors, la charge encore aux épaules parce qu’elle n’osait pas la poser sans qu’on le lui dise. Sanne la regarda un moment. Douze ans, un ballot d’apprentie sanglé haut, et déjà cette manière de se tenir de biais dans une embrasure. Doreth l’avait prévenue, à Onara, et Sanne avait laissé passer la phrase comme on laisse passer les phrases des vieilles. Ce matin, dans une salle où l’on avait pris un garçon sans rien lui voler, la phrase revint et se logea autrement, à hauteur d’omoplate, du côté où la petite portait déjà sa marque.
+À la porte, Wenna surveillait le val comme on le lui avait appris, un pied dedans, un pied dehors, la charge encore aux épaules parce qu’elle n’osait pas la poser sans qu’on le lui dise. Sanne la regarda un moment. Douze ans, un ballot d’apprentie sanglé haut, et déjà cette manière de se tenir de biais dans une embrasure. Doreth l’avait prévenue, à Onara-basse, et Sanne avait laissé passer la phrase comme on laisse passer les phrases des vieilles. Ce matin, dans une salle où l’on avait pris un garçon sans rien lui voler, la phrase revint et se logea autrement, à hauteur d’omoplate, du côté où la petite portait déjà sa marque.
 
 Puis elle s’assit contre la meule couchée, au milieu de la salle, le dos calé au bord de pierre, et elle attendit.
 

@@ -5,7 +5,7 @@ type: roman-chapitre
 partie: V
 pov: Vaskar Sorne — archiviste-enquêteur des Ombres Souterraines de Drakora
 chapitre: 45
-lieu: le flanc bas du Mont Cendra, au-dessus de Cendara
+lieu: le flanc bas du Mont Cendra, au-dessus de Taldre
 status: draft
 ---
 

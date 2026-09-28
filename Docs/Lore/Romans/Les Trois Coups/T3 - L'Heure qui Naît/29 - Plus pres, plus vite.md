@@ -39,7 +39,7 @@ C’était honnête, et cela lui plut, et cela lui fit froid. « Dites-moi ce q
 
 — Je passe mes journées sur des reliefs qui font peur vus d’en haut. Dites. »
 
-Il eut le mouvement d’épaule des gens qui cèdent parce qu’on a nommé leur métier avec respect. « Le premier, il y a trois ans, on ne le gardait pas du tout. On l’a trouvé à sa fenêtre et on a cru à une attaque. Le deuxième avait quatre hommes. Le sixième, l’archiviste des trois portes de fer, il en avait quarante et un donjon, et on l’a trouvé derrière ses portes closes de l’intérieur, sans une serrure forcée. Puis ça s’est resserré. Le prêtre du Mont, qu’on a mis longtemps à compter avec les autres. La reine du sud, cet hiver, dans sa litière, au milieu de sa propre armée. Et depuis le printemps, on ne compte plus par saisons. »
+Il eut le mouvement d’épaule des gens qui cèdent parce qu’on a nommé leur métier avec respect. « Le premier, il y a six ans, on ne le gardait pas du tout. On l’a trouvé à sa fenêtre et on a cru à une attaque. Le deuxième avait quatre hommes. L’archiviste des trois portes de fer, il en avait quarante et un donjon, et on l’a trouvé derrière ses portes closes de l’intérieur, sans une serrure forcée. Puis ça s’est resserré. Le prêtre du Mont, qu’on a mis longtemps à compter avec les autres. La reine du sud, cet hiver, dans sa litière, au milieu de sa propre armée. Et depuis le printemps, on ne compte plus par saisons. »
 
 Pour cela, elle avait sa feuille à elle, dans le tiroir du haut. Elle ne la lui montra pas. « Vous comptez par quoi, depuis le printemps.
 
@@ -57,7 +57,7 @@ Dorvel la regarda un long temps, et ce fut lui, l’homme des accès et des angl
 
 Il partit du même pas prudent et elle l’entendit redescendre l’escalier étroit, appui par appui, jusqu’à la rue devenue couloir.
 
-Seule, elle ouvrit le tiroir du haut et sortit sa feuille à elle. Une carte de temps, sans une terre dessus : l’axe des mois filait vers la droite, et chacun des morts de sa sorte y tenait, depuis trois ans, dans un point d’encre rouge, sans un nom. Au début, les points s’espaçaient comme les bornes d’une longue route de plaine. Puis ils se rapprochaient, doucement d’abord, ensuite sans plus feindre, jusqu’à ce dernier bout de ligne où ils se tassaient les uns contre les autres comme les courbes de niveau au bord d’une falaise, là où le terrain cesse de descendre et tombe. Elle ouvrit le compas sur les deux derniers points. L’ouverture tenait dans l’ongle du pouce. Elle la porta jusqu’à l’échelle, en bas de la feuille, et l’échelle ne la démentit pas.
+Seule, elle ouvrit le tiroir du haut et sortit sa feuille à elle. Une carte de temps, sans une terre dessus : l’axe des mois filait vers la droite, et chacun des morts de sa sorte y tenait, depuis six ans, dans un point d’encre rouge, sans un nom. Au début, les points s’espaçaient comme les bornes d’une longue route de plaine. Puis ils se rapprochaient, doucement d’abord, ensuite sans plus feindre, jusqu’à ce dernier bout de ligne où ils se tassaient les uns contre les autres comme les courbes de niveau au bord d’une falaise, là où le terrain cesse de descendre et tombe. Elle ouvrit le compas sur les deux derniers points. L’ouverture tenait dans l’ongle du pouce. Elle la porta jusqu’à l’échelle, en bas de la feuille, et l’échelle ne la démentit pas.
 
 Sur la même feuille, plus bas, courait une seconde ligne, d’une autre encre, qu’elle avait tracée sans pouvoir s’en empêcher et qu’elle se reprochait.
 

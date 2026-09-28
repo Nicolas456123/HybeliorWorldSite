@@ -5,7 +5,7 @@ type: roman-chapitre
 partie: II
 pov: Sanne
 chapitre: 21
-lieu: la route du sud vers Prismalith, le relais des Trois Auges
+lieu: la route du nord vers Prismalith, passé la mer, le relais des Trois Auges
 status: draft
 ---
 

@@ -6129,16 +6129,14 @@
             "t": 41,
             "lieu_id": "lie-0019",
             "lieu": "Mont Cendra — le flanc bas",
-            "mode": "cheval",
+            "mode": "relais",
             "duree": "cinq jours de cheval et un bras de mer",
             "jours": 5,
             "depuis_id": "lie-0970",
             "citation": "Ils levèrent le camp avant le jour, passèrent le bras de mer au bac du matin",
             "etape": 4,
             "distance_lieues": 53,
-            "rythme": 10.5,
-            "verdict": "serre",
-            "note": "53 lieues (210 km, cheval) en 5 j : il en faudrait 5,3 à l'allure normale, 3,3 à marche forcée"
+            "rythme": 10.5
           },
           {
             "chapitre": "T3/50",
@@ -6173,27 +6171,33 @@
             "t": 48,
             "lieu_id": "lie-0970",
             "lieu": "Les Fonds (Drakora)",
-            "mode": "cheval",
+            "mode": "relais",
             "depuis_id": "lie-0247",
             "citation": "Il convoya la feuille lui-même jusqu’à Drakora, ce qu’un homme de son rang ne fait pas",
             "etape": 6,
             "distance_lieues": 52,
             "jours_dispo": 5,
-            "rythme": 10.3,
-            "verdict": "serre",
-            "note": "52 lieues (207 km, cheval) en 5 j : il en faudrait 5,2 à l'allure normale, 3,2 à marche forcée"
+            "rythme": 10.3
           }
         ],
         "parcours_oeuvre": "T3",
         "parcours_couleur": "#9fd49a",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 2,
-          "serre": 2,
+          "tient": 4,
+          "serre": 0,
           "impossible": 0,
           "lent": 0,
           "lent_dates": 1
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T3/42, T3/51].mode",
+            "avant": "cheval",
+            "pourquoi": "Le texte dit les relais tout du long (T3/42, T3/51)."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "restreint",
@@ -15966,8 +15970,8 @@
           },
           {
             "chapitre": "C/28",
-            "quand": "J690, départ de nuit (Silence)",
-            "t": 690,
+            "quand": "≈ J701, départ la première nuit du Silence",
+            "t": 701,
             "lieu_id": "lie-1034",
             "lieu": "Lunaris (capitale de Lunasar)",
             "mode": "inconnu",
@@ -15975,7 +15979,7 @@
             "citation": "La côte de Lunasar s’effaça avant l’aube, dans une brume qui n’était pas celle de Vytharia.",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 12
+            "jours_dispo": 23
           },
           {
             "chapitre": "C/29",
@@ -15983,14 +15987,14 @@
             "t": 712,
             "lieu_id": "lie-0182",
             "lieu": "Frostlin",
-            "mode": "barque",
-            "duree": "Vingt-deux jours de mer ouverte",
-            "jours": 22,
+            "mode": "navire",
+            "duree": "Onze jours de mer ouverte",
+            "jours": 11,
             "depuis_id": "lie-1034",
-            "citation": "Vingt-deux jours de mer ouverte m’ont amené de la sphère de Vytharia à ce rivage",
+            "citation": "Onze jours de mer ouverte m’ont amené de la sphère de Vytharia à ce rivage",
             "etape": 70,
             "distance_lieues": 98,
-            "rythme": 4.5,
+            "rythme": 8.9,
             "fiabilite": "basse"
           },
           {
@@ -16401,6 +16405,12 @@
             "champ": "data.parcours[C/34 Mont Jumeau]",
             "avant": "{\"t\":845,\"duree\":\"Je vous mène à l’abri de pierre. Deux jours. […] à une demi-journée de la chose\",\"jours\":2.5,\"citation\":\"Je suis monté au surplomb nord au matin du jour 845.\",\"quand\":\"J845, surplomb nord (départ ≈ J842, abri de pierre)\"}",
             "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/29 Frostlin]",
+            "avant": "22 j, barque",
+            "pourquoi": "C/28 : départ la première nuit du Silence (≈ J701) ; C/29 retouché : onze jours de mer, en navire"
           }
         ]
       },
@@ -52494,7 +52504,7 @@
       "type": "personne",
       "name": "Ysendre",
       "slug": null,
-      "summary": "Reine. La Guerre de l’Ombre la manque de peu au printemps de l’an 251, en Astravia : la lame prend le chambellan à sa place (T3/03). D’autres comptes du même tome la rangent parmi les morts (ch. 29, 32) ; l’écart n’est pas tranché, et la fiche ne prend pas parti.",
+      "summary": "Reine. La Guerre de l’Ombre la manque de peu au printemps de l’an 251, en Astravia : la lame prend le chambellan à sa place (T3/03). La « reine du sud » que le ch. 29 compte parmi les morts, tuée l’hiver dans sa litière au milieu de sa propre armée, est une autre reine ; la colonne du ch. 32 range les deux sous la même fonction : « Six morts, sept tentatives » (registre §10, tranché le 2026-09-28).",
       "body": null,
       "data": {
         "periode": {
@@ -52503,7 +52513,15 @@
           "confiance": "haute",
           "methode": "corpus:corpus-explicite",
           "indice": "« La Reine Ysendre a survécu, en Astremer, au printemps » — attentat manqué dans l'année du T3 (an 251)"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "D’autres comptes du même tome la rangent parmi les morts (ch. 29, 32) ; l’écart n’est pas tranché, et la fiche ne prend pas parti.",
+            "pourquoi": "T3/32 corrigé : Ysendre n’est plus comptée parmi les morts ; la reine du T3/29 est une autre victime (saison, lieu et issue diffèrent : Astravia, au nord-est de Galenor, n’est pas « du sud »)."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -59841,7 +59859,7 @@
       "name": "Orsenne (Seconde des Ombres)",
       "slug": null,
       "summary": "Seconde des Ombres Souterraines de Drakora, immédiatement après le Prime. Femme d'un certain âge, sèche, mise avec une simplicité coûteuse ; son nom ne sert qu'à ceux qui n'ont plus rien à craindre d'elle. Elle descend elle-même les cent onze marches pour porter à Vaskar Sorne trois ordres qui ne s'écrivent pas, puis lui fait signer l'ordre d'immobilisation de la passeuse.",
-      "body": "⚠ HOMONYME : distincte d'Orsenne, courtière de Vyndralith (per-0906, Les Chroniques de l'Exilé). Le T3 l'appelle « la Seconde des Ombres » au ch. 32 et « la déléguée Orsenne » au ch. 37.\n\nSes trois ordres du ch. 32 : coucher la colonne des six morts et quatre tentatives ; enfouir la copie d'Olven sous un second scellé qui ne se voie pas (« Un scellé se voit ; c'est même son travail. […] Faites-m'en un qui ne se voie pas. ») ; rayer des rapports du nord le nom du Mont qui bat. Sa doctrine : « Nous mettons au calme parce que nous ignorons. Si nous savions, nous frapperions. » Au ch. 37, sa main et celle de Vaskar passent ensemble au-dessus de la ligne de l'ordonnateur, dans l'écriture que la maison donne à tous les siens : la signature ne se rend plus à une main.",
+      "body": "⚠ HOMONYME : distincte d'Orsenne, courtière de Vyndralith (per-0906, Les Chroniques de l'Exilé). Le T3 l'appelle « la Seconde des Ombres » au ch. 32 et « la déléguée Orsenne » au ch. 37.\n\nSes trois ordres du ch. 32 : coucher la colonne des six morts et sept tentatives ; enfouir la copie d'Olven sous un second scellé qui ne se voie pas (« Un scellé se voit ; c'est même son travail. […] Faites-m'en un qui ne se voie pas. ») ; rayer des rapports du nord le nom du Mont qui bat. Sa doctrine : « Nous mettons au calme parce que nous ignorons. Si nous savions, nous frapperions. » Au ch. 37, sa main et celle de Vaskar passent ensemble au-dessus de la ligne de l'ordonnateur, dans l'écriture que la maison donne à tous les siens : la signature ne se rend plus à une main.",
       "data": {
         "rang": "Seconde des Ombres Souterraines",
         "preuve": [
@@ -59861,6 +59879,12 @@
             "champ": "body",
             "avant": "enfouir la copie d'Olven sous un second scellé qui ne se voie pas (« Vaenor a scellé pour cacher ; le sceau a laissé une ligne ») ;",
             "pourquoi": "T3/32 : « Vaenor a scellé pour cacher […] Le sceau a laissé une ligne » est dit par Vaskar ; la phrase d'Orsenne est « Un scellé se voit ; c’est même son travail. […] Faites-m’en un qui ne se voie pas. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "body",
+            "avant": "coucher la colonne des six morts et quatre tentatives",
+            "pourquoi": "T3/32 corrigé."
           }
         ],
         "periode": {
@@ -60748,7 +60772,7 @@
       "type": "personne",
       "name": "La fille de Sarnac",
       "slug": null,
-      "summary": "Jeune passeuse partie vers Astravia avec des rôles de baptême et une liste de foyers, jamais arrivée ; ni elle ni son sac n'ont été retrouvés. Rapportée par Doreth à Onara.",
+      "summary": "Jeune passeuse partie vers Astravia avec des rôles de baptême et une liste de foyers, jamais arrivée ; ni elle ni son sac n'ont été retrouvés. Rapportée par Doreth à Onara-basse.",
       "body": null,
       "data": {
         "preuve": [
@@ -60757,6 +60781,14 @@
         "lot": "T3",
         "origine": [
           "T3#28"
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Rapportée par Doreth à Onara.",
+            "pourquoi": "La maison de Doreth est à Onara-basse (T3/14, T3/25 corrigés)."
+          }
         ]
       },
       "status": "canon",
@@ -61111,7 +61143,7 @@
       "name": "Elvire",
       "slug": null,
       "summary": "Cartographe de quarante ans de métier, autrice d'une carte commune, « Une carte qui n'appartenait à personne » — une seule feuille où les terres disputées ne portent la couleur d'aucune couronne, où les villes doubles ont leurs deux noms de même corps, et qu'elle veut déposer au Tribunal de Lumasar. Tuée chez elle, gardée par dix-huit hommes, sans serrure forcée.",
-      "body": "Elle tient aussi une carte de temps sans une terre dessus : un point d'encre rouge par mort de sa sorte depuis trois ans, et plus bas, d'une autre encre, la ligne des anomalies du monde. Les deux montent vers le même coin de page, et entre les deux elle laisse du blanc : « Il n'existait pas d'échelle, au bas de cette feuille, pour un écart de cette espèce. » Elle meurt dans ce blanc.",
+      "body": "Elle tient aussi une carte de temps sans une terre dessus : un point d'encre rouge par mort de sa sorte depuis six ans, et plus bas, d'une autre encre, la ligne des anomalies du monde. Les deux montent vers le même coin de page, et entre les deux elle laisse du blanc : « Il n'existait pas d'échelle, au bas de cette feuille, pour un écart de cette espèce. » Elle meurt dans ce blanc.",
       "data": {
         "preuve": [
           "T3/29"
@@ -61132,6 +61164,12 @@
             "champ": "body",
             "avant": "« Il n'existe pas d'échelle, au bas de cette feuille, pour un écart de cette espèce. »",
             "pourquoi": "T3/29 : la phrase est désormais au style indirect libre, à l'imparfait : « Il n’existait pas d’échelle […] »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "body",
+            "avant": "un point d'encre rouge par mort de sa sorte depuis trois ans",
+            "pourquoi": "T3/29 corrigé (la série commence six ans plus tôt, Nevran compris)."
           }
         ]
       },
@@ -61914,7 +61952,7 @@
       "type": "lieu",
       "name": "Le moulin mort de Vèdre",
       "slug": null,
-      "summary": "Moulin à la roue arrêtée, au coude du ruisseau au fond du val de Vèdre (collines au sud d'Onara) : point d'échange des charges entre le bas et le haut pays depuis des années. À l'écart des portes, une eau qui couvre les voix, trois côtés par où entrer et sortir.",
+      "summary": "Moulin à la roue arrêtée, au coude du ruisseau au fond du val de Vèdre (collines d'Onara-basse) : point d'échange des charges entre le bas et le haut pays depuis des années. À l'écart des portes, une eau qui couvre les voix, trois côtés par où entrer et sortir.",
       "body": "Marque de la maison : une pierre plate posée de champ sur le rebord de l'auge quand la voie est sûre, couchée quand elle ne l'est pas, ôtée quand personne n'est encore passé. Sous une dalle descellée, une niche reçoit les paquets quand la marque dit d'attendre.",
       "data": {
         "echelle": "lieu-dit",
@@ -61936,7 +61974,15 @@
             "indices": [],
             "source": "estimée d’après les livres, 2026-09-27"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "(collines au sud d'Onara)",
+            "pourquoi": "Onara est un continent ; en-tête du T3/14 aligné."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "restreint",
@@ -83765,11 +83811,19 @@
       "end_circa": 0,
       "era_id": "era7_actuelle",
       "seq": 0,
-      "label": "Passage à Astravia (trois semaines), été de l'an 251; épisode de Galdryn-bas avec l'archimage Varennis.",
+      "label": "Passage à Astravia (jours 790 à 800), été de l'an 251; épisode de Galdryn-bas avec l'archimage Varennis.",
       "detail": null,
       "data": {
         "calendrier": "regional",
-        "source_date": "libellé"
+        "source_date": "libellé",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "label",
+            "avant": "Passage à Astravia (trois semaines), été de l'an 251",
+            "pourquoi": "C/32 : « jours 790 à 800 » ; les trois semaines sont celles de la route le long des glaces."
+          }
+        ]
       },
       "source_id": "src-0001",
       "status": "canon",
@@ -103031,15 +103085,29 @@
       "end_circa": 0,
       "era_id": "era7_actuelle",
       "seq": 25,
-      "label": "Sorin quitte Evertia à la marée",
-      "detail": "L'Exilé quitte l'archipel d'Evertia, ses voix éteintes une à une dans son dos, emportant trois relevés concordants : l'accord de Sylvara, la phrase au pluriel d'Elwenn, et les paumes brunies des saigneurs qui tirent deux fois plus d'un arbre qui donne moins. [Chroniques, ch. 25, jour 604 — an 250 du Sillage]",
+      "label": "Sorin quitte l'île de Cëpias à la marée",
+      "detail": "L'Exilé quitte l'île de Cëpias, ses voix éteintes une à une dans son dos, emportant trois relevés concordants : l'accord de Sylvara, la phrase au pluriel d'Elwenn, et les paumes brunies des saigneurs qui tirent deux fois plus d'un arbre qui donne moins. [Chroniques, ch. 25, jour 604 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:25:sorin-quitte-evertia-a-la-maree",
         "chapitre": 25,
         "jour": 604,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "label",
+            "avant": "Sorin quitte Evertia à la marée",
+            "pourquoi": "Il ne quitte l'archipel qu'au C/26 (J642) ; au C/25 il quitte l'île de Cëpias."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "L'Exilé quitte l'archipel d'Evertia",
+            "pourquoi": "Il ne quitte l'archipel qu'au C/26 (J642)."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103794,14 +103862,22 @@
       "era_id": "era7_actuelle",
       "seq": 29,
       "label": "Arrivée en Caeloria — Frostlin puis Vyntheris",
-      "detail": "Vingt-deux jours de mer ouverte depuis Lunasar amènent Sorin Valthen à Frostlin, corniche de glace de Caeloria, puis à Vyntheris, la ville-falaise qui élit ses chefs à la lecture du ciel. Le cap est Baelor : on ne double pas l'Île du Silence sans la brume et sans le Conclave — la coque doublée de Terec ne passe qu'au vent du nord-est, un jour sur trois, et seulement avec le sceau du Conclave sur son nom. [Chroniques, ch. 29, jour 715 — an 250 du Sillage]",
+      "detail": "Onze jours de mer ouverte depuis Lunasar amènent Sorin Valthen à Frostlin, corniche de glace de Caeloria, puis à Vyntheris, la ville-falaise qui élit ses chefs à la lecture du ciel. Le cap est Baelor : on ne double pas l'Île du Silence sans la brume et sans le Conclave — la coque doublée de Terec ne passe qu'au vent du nord-est, un jour sur trois, et seulement avec le sceau du Conclave sur son nom. [Chroniques, ch. 29, jour 715 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:29:arrivee-en-caeloria-frostlin-puis-vyntheris",
         "chapitre": 29,
         "jour": 715,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "Vingt-deux jours de mer ouverte depuis Lunasar",
+            "pourquoi": "C/29 retouché : départ la première nuit du Silence (≈ J701), Frostlin ≈ J712."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",

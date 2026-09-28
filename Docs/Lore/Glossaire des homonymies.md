@@ -148,6 +148,17 @@ needs_review_for: []
 
 ---
 
+## « Caëspia » / « Cëpias »
+
+| Sens | Emploi | Où |
+|---|---|---|
+| **Caëspia** | le centre d'Evertia, l'intérieur de l'archipel | Chroniques, ch. 24 |
+| **Cëpias** | la ville du Cantus, au pied de l'Arbre-Mère | Chroniques, ch. 25 (nom choisi le 2026-09-27) |
+
+**Statut : quasi-homonymie accidentelle, tolérée.** Deux lieux distincts d'Evertia, à deux lettres près ; aucun lien n'est posé entre eux. Ne pas écrire l'un pour l'autre ; si la paire gêne à la lecture, c'est **Cëpias**, le nom le plus récent, qui se renomme.
+
+---
+
 ## Graphie « Era » / « Ère » / « Ere »
 
 **Recommandation.** Dans les **textes narratifs** (Lore, Pays, Religions, romans, artefacts du site), écrire **« Ère »** (accent grave, majuscule) — la graphie française correcte. **« Era N »** (sans accent) reste **toléré** comme **cote de fichier** de la Chronologie (`Era 4 - L'Arrachement`, etc.), par continuité des noms de fichiers existants. La forme **« Ere »** (sans accent, hors nom de fichier) est à éviter dans le corps des textes.

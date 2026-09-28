@@ -1,11 +1,11 @@
 ---
-tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-3, pov-sanne, la-traque, route-du-sud, prismalith, cahier-de-kessane, fragment-3, le-depot, echo-sorin, une-verite-trop-grande, la-jeune-passeuse, renoncement]
+tags: [roman, trois-coups, tome-3, l-heure-qui-nait, sillage, an-251, partie-3, pov-sanne, la-traque, route-du-nord, prismalith, cahier-de-kessane, fragment-3, le-depot, echo-sorin, une-verite-trop-grande, la-jeune-passeuse, renoncement]
 titre: Là où il pourra se passer d’elle
 type: roman-chapitre
 partie: III — La traque
 pov: Sanne
 chapitre: 25
-lieu: La route du sud, le relais de la Roue-Basse, en marche vers Prismalith
+lieu: La route du nord, le relais de la Roue-Basse, en marche vers Prismalith
 status: draft
 ---
 
@@ -13,7 +13,7 @@ status: draft
 
 On disait, dans le sud, qu’une femme recopiait tout ce qu’on lui portait sans jamais demander d’où ça venait.
 
-C’était le genre de chose qu’on entend trois fois avant d’y croire, et Sanne l’avait entendue quatre. Roshel la première, au relais, en poussant vers elle sur la table le paquet de copies pour Prismalith. Doreth ensuite, à Onara, le soir du jaune cousu à Loren, avec l’avertissement d’usage sur les colporteurs qui enjolivent. Merik au moulin mort de Vèdre, entre deux morts qu’on ne s’expliquait pas, et Merik lui avait dit prends la mer. La quatrième fois, c’était la veille au soir, une vieille assise au bord d’un feu de chemin, qui tenait le détail que les trois autres n’avaient pas : la maison de papier avait reçu cet automne les cahiers d’un cartographe. Dix-sept. Un homme qui avait fait le tour du monde et qui était revenu déposer sa carte parce qu’elle était devenue trop grande pour lui.
+C’était le genre de chose qu’on entend trois fois avant d’y croire, et Sanne l’avait entendue quatre. Roshel la première, au relais, en poussant vers elle sur la table le paquet de copies pour Prismalith. Doreth ensuite, à Onara-basse, le soir du jaune cousu à Loren, avec l’avertissement d’usage sur les colporteurs qui enjolivent. Merik au moulin mort de Vèdre, entre deux morts qu’on ne s’expliquait pas, et Merik lui avait dit prends la mer. La quatrième fois, c’était la veille au soir, une vieille assise au bord d’un feu de chemin, qui tenait le détail que les trois autres n’avaient pas : la maison de papier avait reçu cet automne les cahiers d’un cartographe. Dix-sept. Un homme qui avait fait le tour du monde et qui était revenu déposer sa carte parce qu’elle était devenue trop grande pour lui.
 
 Trop grande pour lui. Sanne avait roulé ces mots toute la nuit comme on roule une bille de plomb dans la paume, à froid, pour le poids. Elle ne connaissait pas ce cartographe et ne le connaîtrait pas ; les hommes qui reviennent de partout ne s’arrêtent pas aux feux où s’arrêtent les femmes qui portent. Mais un homme qui rapporte une chose trop grande pour un seul et qui, au lieu de la garder pour en tirer gloire, la pose dans une maison où d’autres mains la reprendront, cet homme-là travaillait comme sa maison à elle travaillait depuis toujours, sans le savoir, à l’autre bout du monde. Elle était restée devant les braises longtemps après que la vieille se fut couchée.
 

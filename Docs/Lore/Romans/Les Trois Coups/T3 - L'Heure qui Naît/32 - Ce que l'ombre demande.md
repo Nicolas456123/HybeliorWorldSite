@@ -43,7 +43,7 @@ Il regarda ses mains avant son visage, par métier. Elles étaient vides. Rien �
 
 Il ne lui offrit pas le tabouret bas. Le tabouret mettait le visiteur au-dessous de celui qui recevait ; elle ne s’y serait pas assise, et il n’avait pas d’autre siège. Elle resta debout de l’autre bord de la table, une main gantée sur le dossier d’une chaise vide, dans l’attitude de quelqu’un qui veut donner à sa visite l’allure d’un passage.
 
-« On m’a montré, la semaine dernière, un relevé qui vient de chez vous », dit-elle. « Enfin : qui a failli en venir. Un travail de concordance sur les décès par cause non revendiquée des trois dernières années. Six morts, quatre tentatives, alignés par fonction et non par lieu. Consul-Adjoint, Général, Reine, Archiviste, Cardinal-Élu, Prophète. Une belle colonne. On y voit les six affaires n’en faire qu’une, et cette seule chose viser chaque fois la même sorte d’homme. Ceux qui voulaient parler à leurs voisins. »
+« On m’a montré, la semaine dernière, un relevé qui vient de chez vous », dit-elle. « Enfin : qui a failli en venir. Un travail de concordance sur les décès par cause non revendiquée de ces dernières années. Six morts, sept tentatives, alignés par fonction et non par lieu. Consul-Adjoint, Général, Reine, Archiviste, Cardinal-Élu, Prophète. Une belle colonne. On y voit les six affaires n’en faire qu’une, et cette seule chose viser chaque fois la même sorte d’homme. Ceux qui voulaient parler à leurs voisins. »
 
 « Le relevé n’est pas parti », dit Vaskar.
 

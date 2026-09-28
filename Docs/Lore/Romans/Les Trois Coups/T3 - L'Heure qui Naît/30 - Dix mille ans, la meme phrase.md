@@ -103,7 +103,7 @@ Sanne regarda les trois choses, et le cahier ouvert au milieu, et le froid de la
 
 — Je ne sais rien faire d’autre, dit Sanne. Porter sans trancher. On dirait que c’est votre métier aussi.
 
-— C’est le même métier. » Ysolde ouvrit le cahier neuf et le fit glisser près du vieux. « Voici la copie que nous avons tirée des dix-sept cahiers du voyageur. Je l’ai établie de ma main, page pour page, blanc pour blanc. Il y a, dans la marge de l’avant-dernier, une ligne qui n’est pas de lui. Le copiste qui a établi la source l’a signalée, et je l’ai gardée telle quelle, avec sa note. Lisez la note d’abord. Elle importe autant que la ligne. »
+— C’est le même métier. » Ysolde ouvrit le cahier neuf et le fit glisser près du vieux. « Voici la copie que nous avons tirée des dix-sept cahiers du voyageur. Je l’ai établie de ma main, page pour page, blanc pour blanc. Il y a, dans la marge de l’avant-dernier, une ligne qui n’est pas de lui. Le vieux d’en haut l’a signalée en mettant la source au net, et je l’ai gardée telle quelle, avec sa note. Lisez la note d’abord. Elle importe autant que la ligne. »
 
 Sanne se pencha. L’écriture était nette, la même main tachée que celle d’en face. La note du copiste disait, en petites lettres droites : *Trouvé écrit dans la marge de la source, d’une autre main que la sienne, et plus ancienne. Je le rends tel quel, n’en connaissant ni l’auteur, ni la date, ni le sens. Tout le reste de la ligne était effacé. Ceci est resté.*
 
