@@ -19,7 +19,7 @@ status: draft
 
 La steppe m’a d’abord pris le couvert.
 
-Depuis Warenthor, depuis la voûte d’Ackerna, je marchais sous des arbres. Dans une forêt, l’horizon tient à dix pas ; derrière le prochain fût, il peut y avoir un village, un ravin, un homme qui vous suit. On ne voit rien venir. À la longue, je m’y étais fait : le couvert qui m’aveuglait me cachait aussi.
+Depuis Warenthor, depuis la voûte d’Ackerna, je marchais sous des arbres. Dans une forêt, l’horizon tient à dix pas ; derrière le prochain fût, il peut y avoir un village, un ravin, un homme qui vous suit. On ne voit rien venir. À la longue, je m’y étais fait : le couvert qui m’aveuglait me cachait aussi. J’en profitai près d’un mois encore, dans un hameau de Marcheurs, sous les derniers arbres de la lisière nord, avant de sortir à découvert.
 
 En Lythar, l’horizon est à cent lieues.
 

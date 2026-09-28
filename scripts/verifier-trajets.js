@@ -104,7 +104,9 @@ function juger(et, segs, jours, cpt, lg, ent, de, douteux, origine) {
   // plus court, la position d'un lieu (centre d'une région, d'une ville) pèse plus
   // que la route.
   const lent = jours >= 1 && unites >= PREC.lent && jours > LENTEUR * tNormal;
-  const annonce = origine === 'durée annoncée';
+  // Une lenteur que le texte explique lui-même (glacier sondé, Voile qui allonge le col)
+  // n'est pas un écart : l'étape porte `lenteur_dite` (la phrase du livre).
+  const annonce = origine === 'durée annoncée' && !et.lenteur_dite;
   // Sous la journée, `jours` compte des heures d'horloge (0,2 j ≈ 5 h), les allures des
   // journées de route (≈ 8 h à l'allure normale, 12 h à marche forcée) : on convertit.
   const jN = jours < 1 ? Math.min(1, jours * 24 / 8) : jours;

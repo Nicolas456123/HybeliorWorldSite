@@ -217,6 +217,6 @@ Le navire de Solena prit le détroit à son tour, plus lent que la barque du pas
 
 Je ne saurais jamais. C’est la phrase qui me reste de ces jours, et je la laisse sur la page telle qu’elle est venue. Deux ans durant, j’ai déposé ce que je savais partout où l’on voulait bien le garder. La seule chose que j’aurais voulu savoir, une seule, si la femme qui avait frappé deux coups à ma porte vivait encore, personne ne la déposerait pour moi nulle part.
 
-Le grand continent était devant, à dix ou quatorze jours selon les vents, avec ses steppes, ses brumes, et la sphère où m’attendaient un message que je ne traduirais pas et un homme qui saurait me lire mieux que je ne me lisais. La mer, sous la coque, était grise et douce.
+Le grand continent était devant, à trois ou quatre jours selon les vents, avec ses steppes, ses brumes, et la sphère où m’attendaient un message que je ne traduirais pas et un homme qui saurait me lire mieux que je ne me lisais. La mer, sous la coque, était grise et douce.
 
 Je descendis mettre mes cahiers à l’abri du sel.

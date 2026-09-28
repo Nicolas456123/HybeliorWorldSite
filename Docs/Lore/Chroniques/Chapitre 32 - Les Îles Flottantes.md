@@ -25,7 +25,7 @@ Ce qui suit est écrit comme je l’ai vu. Une douzaine de masses de pierre et d
 
 Sur le quai, personne ne levait la tête. Les dockers déchargeaient à bras : des palans, des cordes, des dos courbés, dans une cité qui a fait de l’art des Liés son cœur. Avant même d’avoir trouvé une auberge, je l’avais noté. Ce qui portait les îles coûtait trop cher pour qu’on le dépense à soulever des caisses.
 
-Celethor est le plus froid des continents. On me l’avait dit à Baelor, Yorven me l’avait répété sur le pont, et j’ai compris sur le quai que ce froid gouvernait tout ici : les heures de travail, les routes ouvertes, les mois pendant lesquels un homme pouvait espérer aller plus au nord. Ma route allait plus au nord. Astravia n’était pas un terme, c’était une porte, et je venais y chercher ce qu’on prend à une porte avant de la franchir : une caution, une signature, un nom qu’on ne fait pas taire aussi facilement qu’un berger ou qu’un traducteur de province.
+Celethor est le plus froid des continents. On me l’avait dit à Baelor, Yorven me l’avait répété sur le pont pendant les trois semaines où nous avions longé ses glaces, et j’ai compris sur le quai que ce froid gouvernait tout ici : les heures de travail, les routes ouvertes, les mois pendant lesquels un homme pouvait espérer aller plus au nord. Ma route allait plus au nord. Astravia n’était pas un terme, c’était une porte, et je venais y chercher ce qu’on prend à une porte avant de la franchir : une caution, une signature, un nom qu’on ne fait pas taire aussi facilement qu’un berger ou qu’un traducteur de province.
 
 Je n’écris pas encore ce nom. On ne me le livra que le troisième jour, au bas d’une feuille, et il était peut-être faux.
 

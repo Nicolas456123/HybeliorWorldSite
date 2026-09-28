@@ -17,7 +17,7 @@ status: draft
 
 ---
 
-Dix-huit jours de brume séparent Caeloria de Baelor, et pendant dix-huit jours personne à bord n’a vu l’île vers laquelle nous allions.
+Deux jours de mer séparent Caeloria de Baelor ; la brume nous en a pris dix-huit, et pendant dix-huit jours personne à bord n’a vu l’île vers laquelle nous allions.
 
 Terec, le capitaine haldrien qui m’avait pris à son bord sur le sceau du Cardinal-Élu, tenait son cap sur un mot. La carte portait l’île, un fuseau de falaises au centre-sud, avec la mention que les cartographes recopient de portulan en portulan sans l’avoir jamais vérifiée : *visible au seul vent du nord-est*. Le reste du temps, le Voile bas la mange. L’eau était grise, puis blanche à mesure que le froid montait, et Terec barrait sans un mot, un œil sur la girouette de misaine, l’autre sur rien.
 
@@ -61,7 +61,7 @@ Je suivis.
 
 Les marches étaient hautes, polies au milieu par des siècles de sandales, et l’escalier tournait dans la roche sans garde-fou. En bas, la crique rapetissait ; le navire de Terec n’était déjà plus qu’une coque sombre entre deux murs, et j’entendais, très loin, le choc régulier de ses avirons qui reculaient vers la passe. Puis même cela s’est perdu.
 
-Baeloris ne se voit pas d’en bas. Le monastère de Kethros est creusé dans la falaise même, cellules et corridors mordus à la main dans le basalte sur des générations, chaque moine taillant la sienne, si bien que la paroi porte plus de traces d’outils que de veines de pierre. On monte par des marches creusées au milieu, jusqu’à un seuil. Au-delà du seuil, le silence changeait. Sur la mer, c’était une absence. Ici, des dizaines d’hommes passaient, portaient des jarres, méditaient dans des alcôves, s’exerçaient dans des cours de pierre nue, et pas un ne faisait de bruit. Personne ne leur imposait rien. Une sandale frottait la roche, une jarre se posait, et c’était tout ce qu’on entendait de cent hommes.
+Baeloris ne se voit pas d’en bas. Son monastère, Kethros, est creusé dans la falaise même, cellules et corridors mordus à la main dans le basalte sur des générations, chaque moine taillant la sienne, si bien que la paroi porte plus de traces d’outils que de veines de pierre. On monte par des marches creusées au milieu, jusqu’à un seuil. Au-delà du seuil, le silence changeait. Sur la mer, c’était une absence. Ici, des dizaines d’hommes passaient, portaient des jarres, méditaient dans des alcôves, s’exerçaient dans des cours de pierre nue, et pas un ne faisait de bruit. Personne ne leur imposait rien. Une sandale frottait la roche, une jarre se posait, et c’était tout ce qu’on entendait de cent hommes.
 
 Une cellule d’hôte m’attendait. Une natte, une couverture rêche, une lucarne ouverte sur la mer, où le Voile refermait déjà le couloir de vent par où j’étais entré. Sous un linge, un bol de riz et d’herbes, encore tiède, et une cruche d’eau qui sentait la roche. J’ai mangé seul.
 

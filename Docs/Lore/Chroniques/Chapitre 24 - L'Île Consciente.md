@@ -19,7 +19,7 @@ status: draft
 
 Les oiseaux s’arrêtèrent les premiers.
 
-Une poignée de fous de Bassan nous suivait depuis Arkhen pour rançonner le sillage. Au dixième jour de mer depuis Cendara, quand la ligne verte d’Evertia sortit de la brume, ils cessèrent d’avancer. Sans se poser ni s’éloigner, ils se mirent à tourner sur place, à distance constante de la terre, comme retenus par une corde, et nous regardèrent passer sous eux vers un seuil qu’ils refusaient de franchir. Je le note comme j’ai noté la température de l’eau et le sens du courant : c’était observable, et je l’ai observé.
+Une poignée de fous de Bassan nous suivait depuis Arkhen pour rançonner le sillage. Au deuxième jour de mer depuis Cendara, quand la ligne verte d’Evertia sortit de la brume, ils cessèrent d’avancer. Sans se poser ni s’éloigner, ils se mirent à tourner sur place, à distance constante de la terre, comme retenus par une corde, et nous regardèrent passer sous eux vers un seuil qu’ils refusaient de franchir. Je le note comme j’ai noté la température de l’eau et le sens du courant : c’était observable, et je l’ai observé.
 
 Le patron du bateau, un homme de Solena qui parlait moins que Berand et regardait davantage, m’avait récité la veille les règles de l’accostage, du ton de quelqu’un qui les répète depuis vingt ans. Pas d’autre mouillage que Valmora. Ne pas longer la côte de Brumalis, à cause des récifs et des épaves. Pas de gestes vifs devant les Gardiens du pont. Et, plus bas, sans me regarder : ne pas fixer la forêt trop longtemps depuis le bastingage.
 
@@ -195,7 +195,7 @@ Rien ne vint. Nous marchâmes un moment dans ce silence, et puis je posai la seu
 
 Aerith s’arrêta. La lanterne fit tourner nos deux ombres, les seules de toute la forêt.
 
-« À Sylvara, dit-il enfin. De l’autre côté du détroit, quand la marée le permet. Une gardienne veille la dernière voix qui répond encore. Cëpias. C’est là que va l’Aînée quand elle veut entendre l’île respirer. Mais la marée ne s’ouvre que certains jours. Vous devrez attendre.
+« À Sylvara, dit-il enfin. De l’autre côté du détroit, quand la marée le permet. Une gardienne veille la dernière voix qui répond encore. L’Arbre-Mère. C’est là que va l’Aînée quand elle veut entendre l’île respirer. Mais la marée ne s’ouvre que certains jours. Vous devrez attendre.
 — J’attendrai.
 — Vous attendrez », répéta-t-il, et il reprit la descente.
 
@@ -272,7 +272,7 @@ Le garçon de la source avait raison sur un point et tort sur l’autre. Je ne s
 
 Le cinquième jour, la marée s’ouvrit sur Sylvara. Aerith vint me le dire à l’aube. Sans frapper. J’étais réveillé, et il le savait avant d’entrer.
 
-« L’Aînée y va, dit-il. Elle vous emmène. Elle dit qu’il faut que vous entendiez la dernière voix pendant qu’elle répond encore. Elle dit aussi qu’après, il n’y en aura plus, et que vous serez de nouveau le second arrivé. »
+« Un canot descend la côte à cette marée, dit-il. L’Aînée vous y fait garder une place. Elle dit qu’il faut que vous entendiez la dernière voix pendant qu’elle répond encore. Elle dit aussi qu’après, il n’y en aura plus, et que vous serez de nouveau le second arrivé. »
 
 Mes affaires furent rangées plus vite que le premier jour. On ne me donna pas de lettre pour Sylvara. À sa place, je notai dans la marge, sous deux traits :
 

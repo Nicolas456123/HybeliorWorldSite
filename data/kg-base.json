@@ -1995,7 +1995,7 @@
             "terre": "Ilthara",
             "motif": "Replat d’altitude à « trois jours de col (deux sur la carte) » au-dessus de Nectoria (-190.3,204.1) : 17 u à l’ouest-sud-ouest, sur les hauteurs de Vytharia qui dominent la baie sud-ouest (≈12 u) — la mer en contrebas du bord du replat. Entre Brystal et Velthorin (8 u chacun).",
             "indices": [
-              "C/27 : « De Nectoria, la route de Mirathi monte par un défilé calcaire […] Trois jours de marche pour un col que la carte donne à deux. »",
+              "C/27 : « De Nectoria, la route de Mirathi monte par un défilé calcaire […] Trois jours de marche pour un col que la carte donne à une journée. »",
               "C/27 : « au bord du replat, là où le village finit et où la montagne tombe dans le Voile »",
               "Fiche Mirathi : plateau de Vrenith « dressé au-dessus de la mer », « le sanctuaire domine le détroit »"
             ],
@@ -2024,6 +2024,12 @@
             "champ": "body",
             "avant": "A reçu Sorin Valthen lors de la visite de ce dernier (an 252) et lui a montré la copie sans préambule. Rencontre rapportée dans les Chroniques (ch. 33).",
             "pourquoi": "C/27, an 250 ; « ch. 33 » est l'ancienne numérotation."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[0]",
+            "avant": "Trois jours de marche pour un col que la carte donne à deux. »",
+            "pourquoi": "C/27 retouché."
           }
         ]
       },
@@ -2100,7 +2106,7 @@
             ],
             "conflits": [
               "Terre absente de la carte : ni Aïkhar ni les Tessons ne sont tracés. La seule autre terre de Cendara (île de l'ouest) porte Malrith (Brumaria) et Lorenthia (Ilnara, juridiquement arkhenienne) — à trancher par l'auteur (tracer l'île nord, ou déclarer que l'île de l'ouest est Arkhen).",
-              "C/24 : Sorin part d'Arkhen pour Evertia (« depuis Arkhen ») : dix jours de mer vers le nord-ouest, compatible."
+              "C/24 : Sorin part de Cendara pour Evertia, suivi « depuis Arkhen » par les fous de Bassan : deux jours de mer vers le nord-ouest, compatible."
             ],
             "source": "estimée d’après les livres, 2026-09-25"
           }
@@ -2111,6 +2117,12 @@
             "champ": "body",
             "avant": "- **Passage présumé de Sorin Valthen** : selon son *Carnet IV*, Sorin a traversé Aïkhar à pied entre Khalath et Suie-Basse, sur six jours, en l'an 252. Notes minces (fatigue, douceur surprenante de l'air ; *« la cendre y est plus tendre, ou je suis plus fatigué »*). N'a rencontré aucun Délie identifiable, n'a pas vu la marque, n'a pas relié sa lecture du Mont (ch. 27) à la dissidence arkhenienne. Passage qu'aucun Arkhenien ne se rappelle, mais réel.",
             "pourquoi": "C/23 : « Ce n’était pas pour Arkhen que je traversais. C’était pour un homme d’Arkhen » ; « On le trouva au matin […] Pas une marque, pas une plaie » ; « Karsk me repassa la Suie à la marée du soir ». La marche de six jours de Khalath à Suie-Basse, et le renvoi « ch. 27 », sont de l'ancien lore."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.conflits[1]",
+            "avant": "C/24 : Sorin part d'Arkhen pour Evertia (« depuis Arkhen ») : dix jours de mer vers le nord-ouest, compatible.",
+            "pourquoi": "C/24 retouché (« Au deuxième jour de mer »)."
           }
         ]
       },
@@ -13483,12 +13495,20 @@
               "C/30 : « On les chante encore dans les hameaux de Tholmë »"
             ],
             "conflits": [
-              "C/31 : « Une seule crique pour toute l'île » (Baeloris) : T1 donne à Tholmë son propre quai. Le seul quai de l'île est à 3 u, à Baeloris ; C/31 y nomme d'ailleurs une « salle de Tolme ».",
+              "Résolu (B10) : C/31 dit « Une seule crique sur toute la côte nord » et « Plus au sud, les saliniers n’ont qu’un quai d’échouage, où touchent à la saison quelques bateaux de Tyndara » ; T1 et la fiche gardent le quai de Tholmë. (Le « Tolme » du C/31 est un vieux harponneur de Baeloris, homonyme.)",
               "C/31 : « deux cents lieues de falaises noires » contre un îlot de 33 u² ; T1/53 : Baelor atteint « vers le nord » depuis Cendara alors qu'il est à l'est."
             ],
             "source": "estimée d’après les livres, 2026-09-25"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.conflits[0]",
+            "avant": "C/31 : « Une seule crique pour toute l'île » (Baeloris) : T1 donne à Tholmë son propre quai. Le seul quai de l'île est à 3 u, à Baeloris ; C/31 y nomme d'ailleurs une « salle de Tolme ».",
+            "pourquoi": "C/31 retouché."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -15350,10 +15370,11 @@
             "depuis_id": "lie-0704",
             "citation": "La montée prit le reste du jour et le lendemain.",
             "etape": 34,
+            "lenteur_dite": "Montagne : « La montée prit le reste du jour et le lendemain » (C/15).",
             "distance_lieues": 3.1,
             "rythme": 1.5,
-            "verdict": "lent",
-            "note": "3 lieues (12 km, mule) en 2 j : l'allure normale en demande 0,4, le texte en annonce 5,2 fois plus"
+            "lenteur": 5.2,
+            "note": "3 lieues (12 km) de route pour 2 j au calendrier (0,4 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "C/15",
@@ -15367,10 +15388,11 @@
             "depuis_id": "lie-0046",
             "citation": "L’escorte me ramena en deux jours vers le nord.",
             "etape": 35,
+            "lenteur_dite": "L’escorte fait de la géologie en chemin : « même une escorte fait de la géologie sur ces terres » (C/15).",
             "distance_lieues": 2.7,
             "rythme": 1.3,
-            "verdict": "lent",
-            "note": "3 lieues (11 km, mule) en 2 j : l'allure normale en demande 0,3, le texte en annonce 6 fois plus"
+            "lenteur": 6,
+            "note": "3 lieues (11 km) de route pour 2 j au calendrier (0,3 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "C/15",
@@ -15443,10 +15465,11 @@
             "depuis_id": "lie-1027",
             "citation": "Myrthorin apparaît en fin d’après-midi, quand le soleil frappe le flanc de la montagne",
             "etape": 39,
+            "lenteur_dite": "Montagne : « La route de la capitale monte sans répit » (C/16).",
             "distance_lieues": 2.8,
             "rythme": 2.8,
-            "verdict": "lent",
-            "note": "3 lieues (11 km, cheval) en 1 j : l'allure normale en demande 0,3, le texte en annonce 3,5 fois plus"
+            "lenteur": 3.5,
+            "note": "3 lieues (11 km) de route pour 1 j au calendrier (0,3 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "C/16",
@@ -15576,6 +15599,7 @@
             "depuis_id": "lie-0695",
             "citation": "Lytharil me retint quatre jours.",
             "etape": 47,
+            "note_saisie": "Trois jours à Wyndor (J443–446), puis près d’un mois dans un hameau de Marcheurs de la lisière nord (C/20 : « J’en profitai près d’un mois encore… avant de sortir à découvert »), la caravane de Ryvan, Lytharil ≈ J476.",
             "distance_lieues": 16,
             "jours_dispo": 33,
             "rythme": 0.5,
@@ -15725,16 +15749,15 @@
             "lieu_id": "lie-0049",
             "lieu": "Valmora",
             "mode": "navire",
-            "duree": "Au dixième jour de mer depuis Cendara",
-            "jours": 10,
+            "duree": "Au deuxième jour de mer depuis Cendara",
+            "jours": 3,
             "depuis_id": "lie-1032",
-            "citation": "Au dixième jour de mer depuis Cendara, quand la ligne verte d’Evertia sortit de la brume",
+            "citation": "Au deuxième jour de mer depuis Cendara, quand la ligne verte d’Evertia sortit de la brume",
             "etape": 57,
+            "note_saisie": "Île vue au deuxième jour, Valmora le lendemain ; le reste de l’écart J548 → J578 est séjour à Cendara.",
             "distance_lieues": 38,
-            "rythme": 3.8,
-            "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "38 lieues (153 km, navire) en 10 j : l'allure normale en demande 1,5, le texte en annonce 6,5 fois plus"
+            "rythme": 12.7,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/24",
@@ -15845,8 +15868,8 @@
           },
           {
             "chapitre": "C/26",
-            "quand": "≈ J618, Détroit de Sylvara, trois heures de passe",
-            "t": 618,
+            "quand": "≈ J630, Détroit de Sylvara, trois heures de passe",
+            "t": 630,
             "lieu_id": "lie-0049",
             "lieu": "Valmora",
             "mode": "barque",
@@ -15854,16 +15877,16 @@
             "citation": "Une langue d’eau grise entre deux murs de basalte, praticable trois heures, pas une de plus.",
             "etape": 65,
             "distance_lieues": 6.3,
-            "jours_dispo": 27,
+            "jours_dispo": 39,
             "rythme": 0.2,
             "fiabilite": "basse",
-            "lenteur": 43,
-            "note": "6 lieues (25 km) de route pour 27 j au calendrier (0,6 à l'allure normale) : le reste est séjour"
+            "lenteur": 62.1,
+            "note": "6 lieues (25 km) de route pour 39 j au calendrier (0,6 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "C/26",
-            "quand": "J630, navire de Solena",
-            "t": 630,
+            "quand": "J642, navire de Solena",
+            "t": 642,
             "lieu_id": "lie-0049",
             "lieu": "Valmora",
             "mode": "inconnu",
@@ -15880,16 +15903,15 @@
             "lieu_id": "lie-0693",
             "lieu": "Nectoria",
             "mode": "navire",
-            "duree": "Le passage aurait dû en prendre treize ; la mer en a exigé quatorze de plus",
-            "jours": 27,
+            "duree": "Le passage aurait dû en prendre trois ; la mer en a exigé douze de plus",
+            "jours": 3,
             "depuis_id": "lie-0049",
-            "citation": "Vingt-septième jour depuis Evertia. Le passage aurait dû en prendre treize ; la mer en a exigé quatorze de plus",
+            "citation": "Quinzième jour depuis Evertia. Le passage aurait dû en prendre trois ; la mer en a exigé douze de plus",
             "etape": 66,
+            "note_saisie": "Trois jours de route, douze de calme : J642 → J657.",
             "distance_lieues": 66,
-            "rythme": 2.5,
-            "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "66 lieues (265 km, navire) en 27 j : l'allure normale en demande 2,6, le texte en annonce 10,2 fois plus"
+            "rythme": 22.1,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/27",
@@ -15898,15 +15920,16 @@
             "lieu_id": "lie-0590",
             "lieu": "Mirathi-village",
             "mode": "marche",
-            "duree": "Trois jours de marche pour un col que la carte donne à deux.",
+            "duree": "Trois jours de marche pour un col que la carte donne à une journée.",
             "jours": 3,
             "depuis_id": "lie-0693",
-            "citation": "Trois jours de marche pour un col que la carte donne à deux.",
+            "citation": "Trois jours de marche pour un col que la carte donne à une journée.",
             "etape": 67,
+            "lenteur_dite": "Le Voile allonge le col à la montée (C/27).",
             "distance_lieues": 5.1,
             "rythme": 1.7,
-            "verdict": "lent",
-            "note": "5 lieues (21 km, marche) en 3 j : l'allure normale en demande 0,7, le texte en annonce 4,1 fois plus"
+            "lenteur": 4.1,
+            "note": "5 lieues (21 km) de route pour 3 j au calendrier (0,7 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "C/27",
@@ -15986,47 +16009,45 @@
           },
           {
             "chapitre": "C/30",
-            "quand": "≈ J736, la crique",
-            "t": 736,
+            "quand": "≈ J740, la crique",
+            "t": 740,
             "lieu_id": "lie-0237",
             "lieu": "Baeloris",
             "mode": "navire",
-            "duree": "Dix-huit jours de brume séparent Caeloria de Baelor",
-            "jours": 18,
+            "duree": "Deux jours de mer séparent Caeloria de Baelor ; la brume nous en a pris dix-huit",
+            "jours": 2,
             "depuis_id": "lie-0183",
-            "citation": "Dix-huit jours de brume séparent Caeloria de Baelor",
+            "citation": "Deux jours de mer séparent Caeloria de Baelor ; la brume nous en a pris dix-huit",
             "etape": 72,
+            "note_saisie": "Deux jours de route, seize d’attente dans le Voile : J722 → J740.",
             "distance_lieues": 40,
-            "rythme": 2.2,
-            "verdict": "lent",
-            "note": "40 lieues (160 km, navire) en 18 j : l'allure normale en demande 1,6, le texte en annonce 11,2 fois plus"
+            "rythme": 20
           },
           {
             "chapitre": "C/30",
-            "quand": "≈ J736, le monastère",
-            "t": 736,
+            "quand": "≈ J740, le monastère",
+            "t": 740,
             "lieu_id": "lie-0080",
             "lieu": "Kethros",
             "mode": "marche",
             "depuis_id": "lie-0237",
-            "citation": "Le monastère de Kethros est creusé dans la falaise même",
+            "citation": "Baeloris ne se voit pas d’en bas. Son monastère, Kethros, est creusé dans la falaise même",
             "etape": 73,
-            "distance_lieues": 0.7,
+            "distance_lieues": 0.1,
             "jours_dispo": 0
           },
           {
             "chapitre": "C/30",
-            "quand": "J748, départ de Terec",
-            "t": 748,
+            "quand": "J752, départ de Terec",
+            "t": 752,
             "lieu_id": "lie-0237",
             "lieu": "Baeloris",
             "mode": "marche",
             "depuis_id": "lie-0080",
             "citation": "Le vent tourna au nord-est le douzième matin.",
             "etape": 74,
-            "distance_lieues": 0.7,
-            "jours_dispo": 12,
-            "rythme": 0.1
+            "distance_lieues": 0.1,
+            "jours_dispo": 12
           },
           {
             "chapitre": "C/31",
@@ -16039,7 +16060,7 @@
             "citation": "Quatre jours durant, j’avais lu celui du môle comme on lit une marée.",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 4
+            "jours_dispo": 0
           },
           {
             "chapitre": "C/32",
@@ -16051,6 +16072,8 @@
             "depuis_id": "lie-0237",
             "citation": "Le navire de Yorven m’a déposé à l’aube dans une rade que la glace ne rend que quatre mois par an",
             "etape": 75,
+            "note_saisie": "Le chenal du nord pris par les glaces (C/31), puis « les trois semaines où nous avions longé ses glaces » (C/32) : les 38 jours sont dits.",
+            "lenteur_dite": "pendant les trois semaines où nous avions longé ses glaces (C/32)",
             "distance_lieues": 159,
             "jours_dispo": 38,
             "rythme": 4.2,
@@ -16095,15 +16118,14 @@
             "lieu_id": "lie-0297",
             "lieu": "Noravia",
             "mode": "navire",
-            "duree": "Vingt-cinq jours depuis Celethor",
-            "jours": 25,
+            "duree": "Vingt-cinq jours depuis Celethor, dont dix-neuf à quai",
+            "jours": 6,
             "depuis_id": "lie-0658",
-            "citation": "Vingt-cinq jours depuis Celethor, et pendant vingt-cinq jours le froid était venu de la mer.",
+            "citation": "Vingt-cinq jours depuis Celethor, dont dix-neuf à quai, le temps que le patron trouve son fret",
             "etape": 78,
+            "note_saisie": "Six jours de mer, dix-neuf d’escales : J800 → J825.",
             "distance_lieues": 132,
-            "rythme": 5.3,
-            "verdict": "lent",
-            "note": "132 lieues (530 km, navire) en 25 j : l'allure normale en demande 5,3, le texte en annonce 4,7 fois plus"
+            "rythme": 22.1
           },
           {
             "chapitre": "C/34",
@@ -16115,13 +16137,14 @@
             "duree": "Je vous mène à l’abri de pierre. Deux jours. […] à une demi-journée de la chose",
             "jours": 2.5,
             "depuis_id": "lie-0297",
-            "citation": "Je suis monté au surplomb nord au matin du jour 845.",
+            "citation": "À ce pas, la journée donnait à peine deux lieues.",
             "etape": 79,
+            "lenteur_dite": "Marche sur glacier à la sonde : « À ce pas, la journée donnait à peine deux lieues » (C/34).",
             "distance_lieues": 4.4,
             "rythme": 1.8,
             "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "4 lieues (18 km, marche) en 2,5 j : l'allure normale en demande 0,6, le texte en annonce 3,9 fois plus"
+            "lenteur": 3.9,
+            "note": "4 lieues (18 km) de route pour 2,5 j au calendrier (0,6 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "C/34",
@@ -16252,11 +16275,11 @@
         "parcours_oeuvre": "C",
         "parcours_couleur": "#f0d894",
         "parcours_bilan": {
-          "tient": 46,
+          "tient": 49,
           "serre": 4,
           "impossible": 0,
-          "lent": 9,
-          "lent_dates": 18
+          "lent": 0,
+          "lent_dates": 23
         },
         "raccord": [
           {
@@ -16306,6 +16329,78 @@
             "champ": "data.parcours[C/19 Wyndor]",
             "avant": "{\"duree\":\"Quinze jours. C’est le carnet qui les a comptés\",\"jours\":15,\"citation\":\"Quinze jours. C’est le carnet qui les a comptés\"}",
             "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/20 Lytharil]",
+            "avant": "{\"t\":476,\"citation\":\"Lytharil me retint quatre jours.\",\"quand\":\"≈ J476, le Champ de Lytharil\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/24 Valmora]",
+            "avant": "{\"t\":577,\"duree\":\"Au dixième jour de mer depuis Cendara\",\"jours\":10,\"citation\":\"Au dixième jour de mer depuis Cendara, quand la ligne verte d’Evertia sortit de la brume\",\"quand\":\"≈ J577\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/26 Valmora]",
+            "avant": "{\"t\":618,\"citation\":\"Une langue d’eau grise entre deux murs de basalte, praticable trois heures, pas une de plus.\",\"quand\":\"≈ J618, Détroit de Sylvara, trois heures de passe\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/26 Valmora]",
+            "avant": "{\"t\":630,\"citation\":\"La marée s’ouvrit à l’aube du douzième jour, et je pris le navire de Solena.\",\"quand\":\"J630, navire de Solena\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/27 Nectoria]",
+            "avant": "{\"t\":657,\"duree\":\"Le passage aurait dû en prendre treize ; la mer en a exigé quatorze de plus\",\"jours\":27,\"citation\":\"Vingt-septième jour depuis Evertia. Le passage aurait dû en prendre treize ; la mer en a exigé quatorze de plus\",\"quand\":\"J657, cale basse\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/27 Mirathi-village]",
+            "avant": "{\"t\":660,\"duree\":\"Trois jours de marche pour un col que la carte donne à deux.\",\"jours\":3,\"citation\":\"Trois jours de marche pour un col que la carte donne à deux.\",\"quand\":\"J660, par le col\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/30 Baeloris]",
+            "avant": "{\"t\":736,\"duree\":\"Dix-huit jours de brume séparent Caeloria de Baelor\",\"jours\":18,\"citation\":\"Dix-huit jours de brume séparent Caeloria de Baelor\",\"quand\":\"≈ J736, la crique\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/30 Kethros]",
+            "avant": "{\"t\":736,\"citation\":\"Le monastère de Kethros est creusé dans la falaise même\",\"quand\":\"≈ J736, le monastère\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/30 Baeloris]",
+            "avant": "{\"t\":748,\"citation\":\"Le vent tourna au nord-est le douzième matin.\",\"quand\":\"J748, départ de Terec\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/32 Invernis]",
+            "avant": "{\"t\":790,\"citation\":\"Le navire de Yorven m’a déposé à l’aube dans une rade que la glace ne rend que quatre mois par an\",\"quand\":\"J790, la rade\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/33 Noravia]",
+            "avant": "{\"t\":825,\"duree\":\"Vingt-cinq jours depuis Celethor\",\"jours\":25,\"citation\":\"Vingt-cinq jours depuis Celethor, et pendant vingt-cinq jours le froid était venu de la mer.\",\"quand\":\"J825, la crique sud-ouest\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/34 Mont Jumeau]",
+            "avant": "{\"t\":845,\"duree\":\"Je vous mène à l’abri de pierre. Deux jours. […] à une demi-journée de la chose\",\"jours\":2.5,\"citation\":\"Je suis monté au surplomb nord au matin du jour 845.\",\"quand\":\"J845, surplomb nord (départ ≈ J842, abri de pierre)\"}",
+            "pourquoi": "texte retouché le 2026-09-28 (lot C/20–38)"
           }
         ]
       },
@@ -16632,8 +16727,8 @@
       "body": null,
       "data": {
         "periode": {
-          "debut": 10194,
-          "fin": 10194,
+          "debut": 10195,
+          "fin": 10195,
           "confiance": "haute",
           "methode": "fait-date"
         },
@@ -16643,6 +16738,12 @@
             "champ": "summary",
             "avant": "Figure liée à l'expédition altram vers l'intérieur de Cestra, dont treize seulement revinrent sur vingt ; évoquée à Noravia.",
             "pourquoi": "C/33 : « Le journal de bord était celui de la géologue en chef, une femme du nom d’Aldris Vane » ; « Elle est morte deux ans après le retour […] À Solmaris. On a dit une fièvre. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode",
+            "avant": "{\"debut\":10194,\"fin\":10194,\"confiance\":\"haute\",\"methode\":\"fait-date\"}",
+            "pourquoi": "suit le fait recalé depuis l’an 251"
           }
         ]
       },
@@ -16752,11 +16853,19 @@
       "body": null,
       "data": {
         "periode": {
-          "debut": 10192,
-          "fin": 10192,
+          "debut": 10193,
+          "fin": 10193,
           "confiance": "haute",
           "methode": "fait-date"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode",
+            "avant": "{\"debut\":10192,\"fin\":10192,\"confiance\":\"haute\",\"methode\":\"fait-date\"}",
+            "pourquoi": "suit le fait recalé depuis l’an 251"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -17481,7 +17590,7 @@
             "indices": [
               "C/24 : « Pas d’autre mouillage que Valmora »",
               "C/24 : « Ne pas longer la côte de Brumalis »",
-              "C/24 : « Au dixième jour de mer depuis Cendara »",
+              "C/24 : « Au deuxième jour de mer depuis Cendara »",
               "Fiche : « Enclave de la côte ouest, autour du ravin de Valmora »"
             ],
             "conflits": [
@@ -17490,7 +17599,15 @@
             ],
             "source": "estimée d’après les livres, 2026-09-25"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[2]",
+            "avant": "C/24 : « Au dixième jour de mer depuis Cendara »",
+            "pourquoi": "C/24 retouché."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -23517,7 +23634,7 @@
       "type": "lieu",
       "name": "Kethros",
       "slug": null,
-      "summary": "Monastère de Baelor, premier attaqué par les pirates ; site de la Défense du Monastère de Kethros où ~300 moines-guerriers repoussèrent la flotte de Draven le Sanguinaire.",
+      "summary": "Monastère de Baeloris, creusé dans la falaise au-dessus de l’unique crique de la côte nord, où siège l’Abbé Suprême ; site de la Défense du Monastère de Kethros, où ~300 moines-guerriers tinrent sept jours la crique et l’escalier contre la flotte de Draven le Sanguinaire, mouillée au large.",
       "body": "## « La Défense du Monastère »\n\nL'événement fondateur de l'identité de Baelor — celui que les chroniques externes retiennent volontiers — est la **Défense du Monastère de Kethros**, que les chroniques externes situent quelque quatre siècles avant le Sillage actuel. Une flotte pirate de quarante navires, menée par le capitaine **Draven le Sanguinaire**, attaqua l'île pour s'emparer de ses trésors : les rumeurs des marchés de Lumasar parlaient d'or caché dans les monastères, d'enluminures de cinquante mille couronnes, de reliques cosmiques.\n\nLes pirates ne trouvèrent pas d'or — il n'y en a pas à Baelor. Ils trouvèrent trois cents moines-guerriers, silencieux comme des ombres et mortels comme des lames, qui défendirent Kethros pendant **sept jours**. Habitués à des victimes terrifiées, les pirates furent déstabilisés par des combattants qui ne criaient pas, ne suppliaient pas, ne parlaient pas — qui frappaient dans un silence absolu et mouraient dans le même silence. L'effet psychologique dépassa de loin l'effet militaire : les Baeloriens étaient moins nombreux et moins armés ; ce qu'ils avaient en plus était l'absence de bruit.\n\nAu septième jour, Draven se retira avec ce qui restait de sa flotte — onze navires sur quarante. Il jura, dit-on, de ne jamais revenir. Les moines ne célébrèrent pas leur victoire. Ils enterrèrent les morts des deux camps avec le même respect, dans des tombes anonymes creusées dans la falaise sud, puis reprirent leur méditation. Le bilan exact — moines tombés, civils côtiers tués, pirates abattus — n'a jamais été tenu : compter des morts, dans la doctrine, c'est leur ajouter du bruit.\n\n---\n\n*Extrait de la fiche de Baelor.*\n",
       "data": {
         "continent": "Baelor",
@@ -23531,22 +23648,32 @@
         "echelle": "lieu-dit",
         "carte": {
           "position_estimee": {
-            "x": 70.2,
-            "y": 253.3,
-            "confiance": "haute",
+            "x": 69.55,
+            "y": 251.3,
+            "confiance": "moyenne",
             "methode": "sous-lieu",
             "terre": "(île sans nom, aire 33)",
-            "motif": "Monastère creusé dans la falaise au-dessus de l’unique crique de Baelor, où se tient Baeloris (69.5,251.8) : on y monte par l’escalier taillé ; 1,7 u en retrait de la ville, sur l’île.",
+            "motif": "Le monastère de Baeloris (registre §14 B9, tranché le 2026-09-28), creusé dans la falaise même au-dessus de la crique de la côte nord (Baeloris 69,50 ; 251,05) ; à reprendre avec la côte v3 de Baelor (B12).",
             "indices": [
-              "C/30 : « un escalier taillé dans le basalte, et deux hommes en robe sombre qui nous regardaient venir »",
-              "C/30 : « Baelor : falaises à pic, une seule crique. »"
+              "C/30 : « Baeloris ne se voit pas d’en bas. Son monastère, Kethros, est creusé dans la falaise même »"
             ],
-            "conflits": [
-              "C/31 : Baelor est ceinte de « deux cents lieues de falaises noires » ; l’île de la carte n’est qu’un îlot de ~33 u²."
-            ],
-            "source": "estimée d’après les livres, 2026-09-25"
+            "source": "estimée d’après les livres, 2026-09-28"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee",
+            "avant": "{\"x\":70.2,\"y\":253.3,\"confiance\":\"haute\",\"methode\":\"sous-lieu\",\"terre\":\"(île sans nom, aire 33)\",\"motif\":\"Monastère creusé dans la falaise au-dessus de l’unique crique de Baelor, où se tient Baeloris (69.5,251.8) : on y monte par l’escalier taillé ; 1,7 u en retrait de la ville, sur l’île.\",\"indices\":[\"C/30 : « un escalier taillé dans le basalte, et deux hommes en robe sombre qui nous regardaient venir »\",\"C/30 : « Baelor : falaises à pic, une seule crique. »\"],\"conflits\":[\"C/31 : Baelor est ceinte de « deux cents lieues de falaises noires » ; l’île de la carte n’est qu’un îlot de ~33 u².\"],\"source\":\"estimée d’après les livres, 2026-09-25\"}",
+            "pourquoi": "B9 : Kethros est le monastère de Baeloris"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Monastère de Baelor, premier attaqué par les pirates ; site de la Défense du Monastère de Kethros où ~300 moines-guerriers repoussèrent la flotte de Draven le Sanguinaire.",
+            "pourquoi": "§14 B9 tranché : Kethros est le monastère de Baeloris (C/30 : « Baeloris ne se voit pas d’en bas. Son monastère, Kethros, … »), non un second site ; quarante navires ne pouvaient qu’attendre au large, d’où la défense de la seule entrée."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -39931,7 +40058,7 @@
       "type": "lieu",
       "name": "Baeloris",
       "slug": null,
-      "summary": "Complexe monastique principal et siège de Baelor, creusé dans une falaise de la côte nord et descendant en paliers sous la mer ; résidence de l'Abbé Suprême et de la Salle du Silence, ouverte au ciel. Fondé à mains nues par les premiers moines en exil.",
+      "summary": "Complexe monastique principal et siège de Baelor, dont le monastère porte le nom de Kethros, creusé dans une falaise de la côte nord et descendant en paliers sous la mer ; résidence de l'Abbé Suprême et de la Salle du Silence, ouverte au ciel. Fondé à mains nues par les premiers moines en exil.",
       "body": "## Complexe monastique principal\n\nComplexe monastique sur tout le flanc d'une falaise, descendant en plusieurs niveaux sous la mer : labyrinthe de cellules, salles de méditation, cours d'entraînement et bibliothèques reliés par des passages taillés dans la roche noire. Au sommet, la **Salle du Silence** (espace circulaire ouvert au ciel) sert aux rituels les plus importants ; l'Abbé Suprême y réside. Fondé à mains nues par les premiers moines en exil (arrivés sans outils ni matériaux), sculpté sur plusieurs générations ; refus du commerce extérieur puis refus des outils une fois disponibles (la lenteur du travail tenue pour formatrice). Chaque cellule creusée par son habitant.\n- Population : ~3 500 (Silentii confirmés ~1 800, novices et apprentis ~1 200, familles côtières de la crique ~500)\n- Région : BaelorRegion\n- Particularités : Salle du Silence ouverte au ciel · Bibliothèque centrale (la plus vaste de l'île) · **Salle Scellée** (cf. *Secrets et intrigues*) · Source Sourde (alimentation en eau, jamais tarie)\n\n*Extrait de la fiche de Baelor.*\n\n## « Les Naufragés du Silence »\n\nBaelor fut découverte par des moines en exil — des mystiques chassés de leur terre d'origine pour avoir pratiqué un culte jugé hérétique : le **silence sacré**. La date exacte n'est pas conservée ; les chroniques internes les plus anciennes la situent quelque cinq mille ans avant l'an actuel, ce qui en fait l'une des plus anciennes fondations religieuses d'Hybelior — antérieure à l'Arrachement, antérieure à la plupart des nations modernes.\n\nIls croyaient que la parole corrompait la pensée, que le langage déformait la vérité, et que seul le silence absolu permettait d'entendre ce qui se disait *en dessous* du bruit du monde. Cette doctrine leur valut la persécution dans leur contrée d'origine — que la chronique baelorienne ne nomme plus. Ils s'enfuirent par mer. Leur navire fit naufrage dans la seule crique abritée de toute la côte nord de Baelor. Ils accostèrent vivants : sept hommes, quatre femmes, trois enfants, sans outils, sans matériaux, sans provisions au-delà de quelques jours.\n\nCe qui suivit est l'objet du seul mythe fondateur que Baelor entretient, et il existe en plusieurs versions concurrentes (cf. [[Baelor - Continent#Croyances — la voix des falaises (lectures concurrentes)]]). Toutes s'accordent sur un point : ils **entendirent quelque chose** depuis les falaises de basalte, dans une langue qu'ils ne comprirent pas, et qui leur signifia — par la cadence, par le ton, par ce qu'ils nommaient *l'enseignement de la roche* — que **le silence était ce qu'il fallait** ici. Ils obéirent. Ils n'ont jamais cessé d'obéir.\n\nPendant huit générations, ils sculptèrent à mains nues les premières cellules dans la falaise. Quand le commerce limité avec Tyndara leur permit enfin de se procurer des outils, ils les **refusèrent** : la lenteur du travail leur avait appris quelque chose que la vitesse ne pouvait pas. Chaque cellule fut creusée par celui qui l'habiterait, et cette pratique perdure — un Silentii contemporain creuse encore sa cellule à la main, sur une décennie, dans la roche que sept de ses prédécesseurs ont déjà façonnée.\n\n---\n\n*Extrait de la fiche de Baelor.*\n\n## « Le Murmure du Traître »\n\nFrère Ossian avait prononcé son dernier mot le jour de ses sept ans. Sa mère, en pleurs, l'avait confié aux moines de Baeloris en suppliant qu'ils prennent soin de lui. Ossian n'avait pas regardé en arrière. Il avait rejoint le silence comme on rejoint la mer — avec une certitude absolue.\n\nQuarante ans plus tard, Ossian était devenu l'un des plus redoutables Maîtres de Discipline du monastère. Son corps était une arme forgée dans le silence. Ses élèves le vénéraient. L'Abbé Suprême Kethron VI lui-même le consultait par gestes lors des décisions les plus graves.\n\nMais chaque nuit, dans les entrailles de Baeloris, là où les escaliers se perdaient dans la roche noire, Ossian descendait seul. Il traversait les couloirs où aucune torche ne brûlait, guidé par la mémoire de ses pieds sur la pierre. Et là, dans une alcôve oubliée du monde, il parlait.\n\nPas en baelorien. Pas en langue commune. Dans un idiome que personne à Baeloris n'avait jamais entendu — une langue aux syllabes liquides, aux consonnes qui grattaient l'air comme des griffes sur du verre. Ossian ne comprenait pas ce qu'il disait. Les mots sortaient de lui comme une rivière sort de la montagne — sans choix, sans intention, avec la seule force de ce qui doit couler.\n\nFrère Thelm fut le premier à l'entendre. Par hasard, égaré dans les profondeurs après une méditation trop longue, il perçut un son impossible dans le monastère du silence. Un murmure. Des mots. Il se figea, le cœur battant si fort qu'il craignit qu'on l'entende aussi.\n\nIl remonta sans bruit et alerta le Conseil des Abbés.\n\nL'enquête dura trois semaines. Dix moines furent postés dans les niveaux inférieurs, immobiles comme des statues, attendant que la voix revienne. Quand ils identifièrent Ossian, le choc fut tel que deux d'entre eux rompirent leur propre vœu en laissant échapper un hoquet de stupeur. On les confina une saison dans leur cellule. Personne ne discuta la sanction. Personne ne discuta non plus la rupture comme telle ; on en parlait par lamelles scellées qu'on s'envoyait sans commentaire.\n\nOn amena Ossian devant l'Abbé Suprême. Kethron VI le regarda longuement, ses yeux de quatre-vingts ans sondant l'âme du Maître de Discipline. Puis il signa une question, lentement : *Depuis quand ?*\n\nOssian signa : *Depuis toujours.*\n\n*Sais-tu ce que tu dis ?*\n\n*Non.*\n\n*As-tu essayé de t'arrêter ?*\n\nLes mains d'Ossian tremblèrent. Puis il signa le mot le plus terrible du langage gestuel baelorien — celui que les moines n'utilisent qu'en parlant de la mort : *Impossible.*\n\nLe Conseil se divisa. Les uns voulaient l'exiler. Les autres voulaient le murer dans les profondeurs. Certains, les plus anciens, signèrent quelque chose de différent : *Descendez-le dans la Salle Scellée. Approchez-le de la porte. Voyons si la voix de Somnix reconnaît la sienne.*\n\nKethron VI refusa. Ce refus, signé d'un geste unique — un poing fermé posé contre le cœur — mit fin au débat. Mais personne ne sut pourquoi. Quelques Maîtres, dans les semaines qui suivirent, échangèrent par lamelles des hypothèses : que l'Abbé eût refusé par compassion, par prudence, ou par une autre raison qu'aucun d'eux ne saurait deviner. Aucune lamelle ne tranchait. Toutes étaient scellées et rangées dans la niche commune, où elles seraient peut-être lues dans cinquante ans, ou jamais.\n\nOssian fut confiné dans sa cellule. On ne l'exila pas. On ne le punit pas. On le laissa là, dans son silence de jour et ses murmures de nuit, comme un secret que le monastère gardait contre lui-même.\n\nDes années plus tard, un jeune moine nettoyant les archives trouva un texte ancien, antérieur à la fondation de Baeloris. Il décrivait la langue que les premiers moines avaient entendue en accostant sur l'île — la voix qui sortait des falaises, qui les avait guidés vers ce rivage.\n\nLa langue d'Ossian.\n\nLe jeune moine consigna cette correspondance dans une lamelle, qu'il scella sans la lire à un autre. Il la déposa dans la niche commune. Il ne fit rien d'autre. Quand on lui demanda, plus tard, pourquoi il n'avait pas alerté les Maîtres, il signa simplement : *Cela ne m'appartenait pas.* Les Maîtres, qui auraient pu interroger plus longuement, ne le firent pas. La lamelle dort dans la niche. Personne ne sait laquelle. Personne ne la cherche.\n\nOssian mourut à soixante-douze ans, dans sa cellule, entouré de ses frères selon le rite du Silence Partagé du Mourant. Aucun ne murmura à son tour. Quelques visiteurs étrangers, venus de Tholmë pour le rite, rapportèrent à leur retour qu'on entendait, dans la cellule, comme un dernier souffle qui aurait été un mot — mais aucun moine de Baeloris n'a jamais confirmé ce détail.\n\n---\n\n*Extrait de la fiche de Baelor.*\n",
       "data": {
         "echelle": "ville",
@@ -39943,7 +40070,15 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "correction": "2026-09-26 : ramenée sur la côte nord (y 251,81 → 251,05, x inchangé). À l’échelle de 0,955 km/u, 0,76 u la mettait à 730 m dans les terres, loin de la crique où elle est creusée. Hors du contour provisoire de Baelor (monde-contours.json), à terre sur la carte peinte (registre §7 ter)."
+        "correction": "2026-09-26 : ramenée sur la côte nord (y 251,81 → 251,05, x inchangé). À l’échelle de 0,955 km/u, 0,76 u la mettait à 730 m dans les terres, loin de la crique où elle est creusée. Hors du contour provisoire de Baelor (monde-contours.json), à terre sur la carte peinte (registre §7 ter).",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Complexe monastique principal et siège de Baelor,",
+            "pourquoi": "B9 : nommer le monastère dans la fiche du site."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -49387,6 +49522,12 @@
             "champ": "body",
             "avant": "Ce que le passage de Sorin Valthen au Sanctuaire (an 252)",
             "pourquoi": "C/27, jour 660 — an 250."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.motif",
+            "avant": "« trois jours de marche pour un col que la carte donne à deux »",
+            "pourquoi": "C/27 retouché ; la position (17,5 u de Nectoria, ≈ 4 lieues) tient mieux avec « une journée »."
           }
         ],
         "carte": {
@@ -49394,7 +49535,7 @@
             "x": -205,
             "y": 213,
             "confiance": "moyenne",
-            "motif": "C/27 : replat d’altitude à « trois jours de marche pour un col que la carte donne à deux » au-dessus de Nectoria (−190,3 ; 204,1) ; C/28 : trois jours de route en chariot jusqu’à Lunaris (−168 ; 249,5). Reprend la position estimée de la province (pol-0035) : Ilthara, Vytharia, 9,5 u de la côte ; 17,5 u de Nectoria.",
+            "motif": "C/27 : replat d’altitude à « trois jours de marche pour un col que la carte donne à une journée » au-dessus de Nectoria (−190,3 ; 204,1) ; C/28 : trois jours de route en chariot jusqu’à Lunaris (−168 ; 249,5). Reprend la position estimée de la province (pol-0035) : Ilthara, Vytharia, 9,5 u de la côte ; 17,5 u de Nectoria.",
             "source": "trajets recalés, 2026-09-28"
           }
         }
@@ -102681,7 +102822,7 @@
       "era_id": "era7_actuelle",
       "seq": 24,
       "label": "Départ de Valmora vers Sylvara",
-      "detail": "Sorin Valthen quitte Valmora pour Sylvara, où parlerait encore Thalmaris, la dernière grande voix d'Evertia. [Chroniques, ch. 24, jour 584 — an 250 du Sillage]",
+      "detail": "Sorin Valthen quitte Valmora pour Sylvara, où l'Arbre-Mère, dernière voix d'Evertia, répond encore ; l'Aînée lui fait garder une place sur le canot qui descend la côte. [Chroniques, ch. 24, jour 584 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -102695,6 +102836,12 @@
             "champ": "detail",
             "avant": "[Chroniques, ch. 24, jour 578 — an 250 du Sillage]",
             "pourquoi": "Montée à Ourthalle 578, entretien 579, quatre jours d’attente, départ le cinquième : 579 + 5 = 584 (data.jour 578 → 584). Sorin part de Thalenvir avec l’Aînée et repasse le pont de Valmora."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "où parlerait encore Thalmaris, la dernière grande voix d'Evertia.",
+            "pourquoi": "C/24 retouché : la dernière voix est l’Arbre-Mère (C/25–26) ; « Thalmaris » n’était pas un nom de voix, et l’Aînée ne l’accompagne pas (C/25)."
           }
         ]
       },
@@ -102913,7 +103060,7 @@
       "end_circa": 0,
       "era_id": "era7_actuelle",
       "seq": 26,
-      "label": "Retour à Valmora par le détroit de Thalmaris",
+      "label": "Retour à Valmora par le détroit de Sylvara",
       "detail": "Après avoir manqué la première marée, Sorin Valthen repasse le détroit entre Sylvara et la grande terre — une langue d'eau praticable trois heures. Entré pour une quinzaine, il aura été gardé une cinquantaine de jours par l'île qui ne rend ses hôtes qu'à son heure. [Chroniques, ch. 26, jour 630 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
@@ -102921,7 +103068,15 @@
         "recit_uid": "oeu-0013:26:retour-a-valmora-par-le-detroit-de-thalmaris",
         "chapitre": 26,
         "jour": 630,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "label",
+            "avant": "Retour à Valmora par le détroit de Thalmaris",
+            "pourquoi": "Suite de l’édition du 27 au C/26 (« Détroit de Sylvara ») : le libellé n’avait pas suivi."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103110,14 +103265,22 @@
       "era_id": "era7_actuelle",
       "seq": 26,
       "label": "Le départ par la marée — premier navire, pas le plus sûr",
-      "detail": "La marée s'ouvre au douzième jour et Sorin achète le premier départ, sur le navire de Solena — chargé, guetté — plutôt que d'attendre le calme. Le navire fin de Hesken ne bouge pas : on n'a pas besoin de suivre un homme dont on sait le port d'arrivée. Cap sur le grand continent, à dix ou quatorze jours de mer. [Chroniques, ch. 26, jour 642 — an 250 du Sillage]",
+      "detail": "La marée s'ouvre au douzième jour et Sorin achète le premier départ, sur le navire de Solena — chargé, guetté — plutôt que d'attendre le calme. Le navire fin de Hesken ne bouge pas : on n'a pas besoin de suivre un homme dont on sait le port d'arrivée. Cap sur le grand continent, à trois ou quatre jours de mer. [Chroniques, ch. 26, jour 642 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:26:le-depart-par-la-maree-premier-navire-pas-le-plus-sur",
         "chapitre": 26,
         "jour": 642,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "Cap sur le grand continent, à dix ou quatorze jours de mer.",
+            "pourquoi": "C/26 retouché (Valmora → Nectoria, 66 lieues)."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103139,14 +103302,22 @@
       "era_id": "era7_actuelle",
       "seq": 27,
       "label": "Traversée du calme menteur — arrivée à Nectoria sous le Voile",
-      "detail": "Vingt-sept jours de mer au lieu de treize depuis Evertia : une houle profonde et lente, « le calme menteur », comme si quelque chose très bas changeait de position. Les étoiles restent décalées — l'écart est désormais visible à l'œil nu. Sorin Valthen aborde Vytharia par Nectoria, sous le Voile qui déforme la vue sans troubler l'air. [Chroniques, ch. 27, jour 660 — an 250 du Sillage]",
+      "detail": "Quinze jours de mer au lieu de trois depuis Evertia, dont douze de calme sur une houle profonde et lente, « le calme menteur », comme si quelque chose très bas changeait de position. Les étoiles restent décalées — l'écart est désormais visible à l'œil nu. Sorin Valthen aborde Vytharia par Nectoria, sous le Voile qui déforme la vue sans troubler l'air. [Chroniques, ch. 27, jour 660 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:27:traversee-du-calme-menteur-arrivee-a-nectoria-sous-le-voile",
         "chapitre": 27,
         "jour": 660,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "Vingt-sept jours de mer au lieu de treize depuis Evertia : une houle profonde et lente,",
+            "pourquoi": "C/27 retouché."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103772,14 +103943,22 @@
       "era_id": "era7_actuelle",
       "seq": 30,
       "label": "Mort d'Ossian, le frère qui écoutait la roche",
-      "detail": "Ossian, moine de Kethros qui notait ce que dit le dessous et avait commencé à en écrire la langue, meurt dans son sommeil, sans un bruit, onze jours avant que Sorin Valthen n'accoste — parti vers un homme qui mourait déjà pendant qu'il s'embarquait. Sa dernière parole, dite à la roche : « Il remonte. » Un gardien de savoir de plus atteint trop tard, sur une île que les notifications n'atteignent pas. [Chroniques, ch. 30, jour 725 — an 250 du Sillage]",
+      "detail": "Ossian, moine de Kethros qui notait ce que dit le dessous et avait commencé à en écrire la langue, meurt dans son sommeil, sans un bruit, onze jours avant que Sorin Valthen n'accoste — parti vers un homme qui mourait déjà pendant qu'il s'embarquait. Sa dernière parole, dite à la roche : « Il remonte. » Un gardien de savoir de plus atteint trop tard, sur une île que les notifications n'atteignent pas. [Chroniques, ch. 30, jour 729 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:30:mort-d-ossian-le-frere-qui-ecoutait-la-roche",
         "chapitre": 30,
-        "jour": 725,
-        "confiance": "moyenne"
+        "jour": 729,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "725",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103801,14 +103980,22 @@
       "era_id": "era7_actuelle",
       "seq": 30,
       "label": "Accostage à Baeloris — le silence mesurable",
-      "detail": "Après dix-huit jours de brume depuis Caeloria, le vent tourne au nord-est et les falaises noires de Baelor sortent du Voile. Sur cette côte, le silence est un fait mesurable — et sous la paume posée au bordage, la pulsation : faible, régulière, la même qu'à Cendra. Baeloris est sur le même réseau. Le capitaine haldrien dépose Sorin sans l'attendre : « Vous ressortez au prochain vent de nord-est, ou vous ne ressortez pas. » [Chroniques, ch. 30, jour 736 — an 250 du Sillage]",
+      "detail": "Après dix-huit jours de brume depuis Caeloria, le vent tourne au nord-est et les falaises noires de Baelor sortent du Voile. Sur cette côte, le silence est un fait mesurable — et sous la paume posée au bordage, la pulsation : faible, régulière, la même qu'à Cendra. Baeloris est sur le même réseau. Le capitaine haldrien dépose Sorin sans l'attendre : « Vous ressortez au prochain vent de nord-est, ou vous ne ressortez pas. » [Chroniques, ch. 30, jour 740 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:30:accostage-a-baeloris-le-silence-mesurable",
         "chapitre": 30,
-        "jour": 736,
-        "confiance": "moyenne"
+        "jour": 740,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "736",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103830,14 +104017,22 @@
       "era_id": "era7_actuelle",
       "seq": 30,
       "label": "La paroi gravée d'Ossian — la troisième langue sous la dictée",
-      "detail": "Dans la cellule profonde d'Ossian, des signes serrés, repris, regravés : la même famille que les tunnels de Rukhsar et les relevés de Mirathi. La langue est montée de la roche nuit après nuit et il l'a recopiée sous la dictée. « Les derniers temps, il ne dormait plus. Il disait que ça s'était accéléré. Que ce qui parlait dans la roche parlait plus vite qu'avant. » Les hameaux de Tholmë chantent encore l'oublié qui remonte — le Sixième qui dort. Sorin relève la paroi entière. [Chroniques, ch. 30, jour 737 — an 250 du Sillage]",
+      "detail": "Dans la cellule profonde d'Ossian, des signes serrés, repris, regravés : la même famille que les tunnels de Rukhsar et les relevés de Mirathi. La langue est montée de la roche nuit après nuit et il l'a recopiée sous la dictée. « Les derniers temps, il ne dormait plus. Il disait que ça s'était accéléré. Que ce qui parlait dans la roche parlait plus vite qu'avant. » Les hameaux de Tholmë chantent encore l'oublié qui remonte — le Sixième qui dort. Sorin relève la paroi entière. [Chroniques, ch. 30, jour 741 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:30:la-paroi-gravee-d-ossian-la-troisieme-langue-sous-la-dictee",
         "chapitre": 30,
-        "jour": 737,
-        "confiance": "moyenne"
+        "jour": 741,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "737",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103859,14 +104054,22 @@
       "era_id": "era7_actuelle",
       "seq": 30,
       "label": "Le cercle de Kethros — trois peuples tournés vers le même dessous",
-      "detail": "Au cercle de méditation, dans la roche la plus froide, Sorin reconnaît la fréquence fondamentale qu'il porte depuis Rukhsar. Baelor est le seul continent où l'éther ne circule pas : ce n'est pas le sol qui diffère, c'est que la couche de surface manque — on entend, direct, ce qui est dessous. Mirathi rêve, Caeloria voit, Baeloris se tait pour entendre : trois pratiques, trois vocabulaires, tous tournés vers le même dessous, comme des aiguilles qui pointent le même nord sans s'être concertées. [Chroniques, ch. 30, jour 739 — an 250 du Sillage]",
+      "detail": "Au cercle de méditation, dans la roche la plus froide, Sorin reconnaît la fréquence fondamentale qu'il porte depuis Rukhsar. Baelor est le seul continent où l'éther ne circule pas : ce n'est pas le sol qui diffère, c'est que la couche de surface manque — on entend, direct, ce qui est dessous. Mirathi rêve, Caeloria voit, Baeloris se tait pour entendre : trois pratiques, trois vocabulaires, tous tournés vers le même dessous, comme des aiguilles qui pointent le même nord sans s'être concertées. [Chroniques, ch. 30, jour 743 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:30:le-cercle-de-kethros-trois-peuples-tournes-vers-le-meme-dess",
         "chapitre": 30,
-        "jour": 739,
-        "confiance": "moyenne"
+        "jour": 743,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "739",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103888,14 +104091,22 @@
       "era_id": "era7_actuelle",
       "seq": 30,
       "label": "Le mot de Kethron VI : « Dessous »",
-      "detail": "Dans la Salle du Silence ouverte sur le ciel, l'Abbé Suprême Kethron VI — qui n'a pas prononcé un mot depuis sa jeunesse — écrit pour Sorin un unique mot, dans la langue du cartographe pour ne pas le forcer à déchiffrer : « Dessous. » Une pièce gardée toute une vie, dépensée pour un étranger. Sorin le porte plié contre la poitrine, à même la peau. [Chroniques, ch. 30, jour 744 — an 250 du Sillage]",
+      "detail": "Dans la Salle du Silence ouverte sur le ciel, l'Abbé Suprême Kethron VI — qui n'a pas prononcé un mot depuis sa jeunesse — écrit pour Sorin un unique mot, dans la langue du cartographe pour ne pas le forcer à déchiffrer : « Dessous. » Une pièce gardée toute une vie, dépensée pour un étranger. Sorin le porte plié contre la poitrine, à même la peau. [Chroniques, ch. 30, jour 748 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:30:le-mot-de-kethron-vi-dessous",
         "chapitre": 30,
-        "jour": 744,
-        "confiance": "moyenne"
+        "jour": 748,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "744",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -103923,7 +104134,7 @@
         "source_date": "recit",
         "recit_uid": "oeu-0013:30:le-moine-du-quai-rompt-son-silence-jour-748-depuis-rukhsar",
         "chapitre": 30,
-        "jour": 748,
+        "jour": 752,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -103937,6 +104148,12 @@
             "champ": "detail",
             "avant": "« Jour 748. Baelor. Reçu un mot. Posé un nom. » [Chroniques, ch. 30, jour 748",
             "pourquoi": "Même raison ; data.jour 748 → 752."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "748",
+            "pourquoi": "Le libellé et le détail disent déjà J752 (27) ; la donnée n’avait pas suivi."
           }
         ]
       },
@@ -104163,7 +104380,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0171",
       "object_id": null,
-      "start_year": 10192,
+      "start_year": 10193,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -104172,7 +104389,7 @@
       "era_id": "era7_actuelle",
       "seq": 32,
       "label": "Varennis rompt avec le Conseil des sept d'Astravia",
-      "detail": "Sept ans avant le passage de Sorin, l'archimage Varennis quitte le Conseil des sept — une rupture portant sur ce qui bat sous les mines, que les six autres choisissent de ne pas nommer. « Nommer la pente, ce serait dire où elle mène. » [Chroniques, ch. 32 — an 243 du Sillage]",
+      "detail": "Sept ans avant le passage de Sorin, l'archimage Varennis quitte le Conseil des sept — une rupture portant sur ce qui bat sous les mines, que les six autres choisissent de ne pas nommer. « Nommer la pente, ce serait dire où elle mène. » [Chroniques, ch. 32 — an 244 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -104186,6 +104403,12 @@
             "champ": "detail",
             "avant": "« Nommer une chose, pour un archimage d'Astravia, c'est lui donner une existence que le silence peut encore refuser. »",
             "pourquoi": "La phrase citée entre guillemets n’existe pas dans le chapitre ; la réplique de Varennis sur le refus du Conseil de nommer est « Nommer la pente, ce serait dire où elle mène. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": 10192,
+            "pourquoi": "« il y a N ans » compté depuis l’an 251 (lot C/20–38)"
           }
         ]
       },
@@ -104385,7 +104608,7 @@
       "fact_type": "evenement",
       "subject_id": "lie-0006",
       "object_id": null,
-      "start_year": 10192,
+      "start_year": 10193,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -104394,14 +104617,22 @@
       "era_id": "era7_actuelle",
       "seq": 33,
       "label": "L'expédition altram au Mont Jumeau — sept sur vingt",
-      "detail": "Vingt personnes partent de Noravia vers le glacier central ; treize reviennent. Le journal officieux de la géologue en chef Aldris Vane consigne : aiguilles tournant en cercles « comme si plusieurs pôles existaient à la fois », gradient thermique impossible (« quelque chose chauffe la base du glacier par en dessous »), pulsation sentie dans les os par cinq membres — et la dernière ligne : « Les structures sont visibles depuis le surplomb nord. Ce ne sont pas des formations naturelles. » Quatre morts en crevasse ; trois disparus dont les dernières traces vont vers la montagne. [Chroniques, ch. 33 — an 243 du Sillage]",
+      "detail": "Vingt personnes partent de Noravia vers le glacier central ; treize reviennent. Le journal officieux de la géologue en chef Aldris Vane consigne : aiguilles tournant en cercles « comme si plusieurs pôles existaient à la fois », gradient thermique impossible (« quelque chose chauffe la base du glacier par en dessous »), pulsation sentie dans les os par cinq membres — et la dernière ligne : « Les structures sont visibles depuis le surplomb nord. Ce ne sont pas des formations naturelles. » Quatre morts en crevasse ; trois disparus dont les dernières traces vont vers la montagne. [Chroniques, ch. 33 — an 244 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:33:l-expedition-altram-au-mont-jumeau-sept-sur-vingt",
         "chapitre": 33,
         "jour": null,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": 10192,
+            "pourquoi": "« il y a N ans » compté depuis l’an 251 (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -104414,7 +104645,7 @@
       "fact_type": "mort",
       "subject_id": "per-0167",
       "object_id": null,
-      "start_year": 10194,
+      "start_year": 10195,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -104423,14 +104654,22 @@
       "era_id": "era7_actuelle",
       "seq": 33,
       "label": "Mort d'Aldris Vane",
-      "detail": "Deux ans après son retour du glacier central, la géologue en chef de l'expédition altram meurt à Solmaris — « une fièvre », dit-on, de celles qui prennent plus tard les gens qui reviennent de l'intérieur. Elle n'avait plus jamais rien écrit sur le sujet après ses trois dernières lignes. [Chroniques, ch. 33 — an 245 du Sillage]",
+      "detail": "Deux ans après son retour du glacier central, la géologue en chef de l'expédition altram meurt à Solmaris — « une fièvre », dit-on, de celles qui prennent plus tard les gens qui reviennent de l'intérieur. Elle n'avait plus jamais rien écrit sur le sujet après ses trois dernières lignes. [Chroniques, ch. 33 — an 246 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:33:mort-d-aldris-vane",
         "chapitre": 33,
         "jour": null,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": 10194,
+            "pourquoi": "« il y a N ans » compté depuis l’an 251 (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -104481,7 +104720,7 @@
       "era_id": "era7_actuelle",
       "seq": 33,
       "label": "Arrivée à Noravia, dernier port avant le glacier",
-      "detail": "Vingt-cinq jours depuis Celethor. À Noravia (Cestra), le froid est « un renseignement », les boussoles cessent de fonctionner au-delà du deuxième jour de marche — Sorin en achète deux, pour recouper leurs déviations. Les coureurs parlent du Froid Ancien qui ignore les fourrures et des Tempêtes Vivantes qui remontent le vent ; les bêtes refusent l'intérieur, comme à Ordavan et à Warenthor. [Chroniques, ch. 33, jour 825 — an 251 du Sillage]",
+      "detail": "Vingt-cinq jours depuis Celethor, dont dix-neuf à quai. À Noravia (Cestra), le froid est « un renseignement », les boussoles cessent de fonctionner au-delà du deuxième jour de marche — Sorin en achète deux, pour recouper leurs déviations. Les coureurs parlent du Froid Ancien qui ignore les fourrures et des Tempêtes Vivantes qui remontent le vent ; les bêtes refusent l'intérieur, comme à Ordavan et à Warenthor. [Chroniques, ch. 33, jour 825 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -104495,6 +104734,14 @@
           "C/29",
           "C/34",
           "T2/31"
+        ],
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "Vingt-cinq jours depuis Celethor.",
+            "pourquoi": "C/33 retouché (le fait citait la durée)."
+          }
         ]
       },
       "source_id": "oeu-0013",
@@ -104566,7 +104813,7 @@
       "era_id": "era7_actuelle",
       "seq": 34,
       "label": "La montée vers le Jumeau — les Gardiens de Givre",
-      "detail": "Torval, l'un des treize revenus, mène Sorin à l'abri de pierre bâti jadis par l'homme de Galenor. Sur une crête, trois Gardiens de Givre — silhouettes laiteuses de trois mètres, immobiles là depuis sept ans, depuis vingt ans — qu'on passe « en les reconnaissant ». Torval révèle la vérité des sept : « les sept ne sont pas morts de froid. […] Ils s'étaient levés dans la nuit et ils avaient marché vers la montagne, comme on va vers quelqu'un qui appelle. […] Chacun a cru que ce battement le connaissait. » [Chroniques, ch. 34, jour 843 — an 251 du Sillage]",
+      "detail": "Torval, l'un des treize revenus, mène Sorin à l'abri de pierre bâti jadis par l'homme de Galenor. Sur une crête, trois Gardiens de Givre — silhouettes laiteuses de trois mètres, immobiles là depuis sept ans, depuis vingt ans — qu'on passe « en les reconnaissant ». Torval donne sa version de la perte des sept, qui n’est pas celle d’Yrsa (C/33) ; Sorin garde les deux sans choisir : « les sept ne sont pas morts de froid. […] Ils s'étaient levés dans la nuit et ils avaient marché vers la montagne, comme on va vers quelqu'un qui appelle. […] Chacun a cru que ce battement le connaissait. » [Chroniques, ch. 34, jour 843 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
@@ -104586,6 +104833,12 @@
             "champ": "detail",
             "avant": "« Ils ne sont pas morts de froid. Ils se sont levés dans la nuit et ils ont marché vers la montagne comme on va vers quelqu'un qui appelle. Chacun a cru que ce battement le connaissait. »",
             "pourquoi": "C/34 (Torval) : « les sept ne sont pas morts de froid. » […] « Ils s’étaient levés dans la nuit et ils avaient marché vers la montagne, comme on va vers quelqu’un qui appelle. » […] « Chacun a cru que ce battement le connaissait. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "Torval révèle la vérité des sept :",
+            "pourquoi": "§12 C/33 contre C/34 tranché : deux témoignages, aucun n’est « la vérité »."
           }
         ]
       },
@@ -104715,7 +104968,7 @@
       "fact_type": "evenement",
       "subject_id": "lie-0006",
       "object_id": null,
-      "start_year": 10169,
+      "start_year": 10170,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -104724,14 +104977,22 @@
       "era_id": "era7_actuelle",
       "seq": 35,
       "label": "Premières anomalies magnétiques autour de Cestra",
-      "detail": "Le grand-père de Reen a navigué du temps où les aiguilles ne déviaient pas : les anomalies commencent une trentaine d'années avant le présent narratif — d'abord autour de Cestra, puis la haute mer du nord, puis des parages qui n'avaient jamais posé de problème. [Chroniques, ch. 35 — an 220 du Sillage]",
+      "detail": "Le grand-père de Reen a navigué du temps où les aiguilles ne déviaient pas : les anomalies commencent une trentaine d'années avant le présent narratif — d'abord autour de Cestra, puis la haute mer du nord, puis des parages qui n'avaient jamais posé de problème. [Chroniques, ch. 35 — an 221 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:35:premieres-anomalies-magnetiques-autour-de-cestra",
         "chapitre": 35,
         "jour": null,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": 10169,
+            "pourquoi": "« il y a N ans » compté depuis l’an 251 (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -105025,7 +105286,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0162",
       "object_id": null,
-      "start_year": 10169,
+      "start_year": 10170,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -105034,14 +105295,22 @@
       "era_id": "era7_actuelle",
       "seq": 37,
       "label": "La plongée du père de Selendris dans les strates profondes",
-      "detail": "Le père de Selendris, plongeur du Somnium Vigil, descend d'un coup dans les strates oniriques profondes — sans paliers — et n'en remonte jamais : le corps respire encore quelque part sous l'Académie, l'homme non. Trente ans durant, sa fille tient un registre secret des mots qu'il murmure en dormant : des coordonnées, toujours les mêmes à la fin — elles désignent un point dans le nord de Cestra. [Chroniques, ch. 37 — an 220 du Sillage]",
+      "detail": "Le père de Selendris, plongeur du Somnium Vigil, descend d'un coup dans les strates oniriques profondes — sans paliers — et n'en remonte jamais : le corps respire encore quelque part sous l'Académie, l'homme non. Trente ans durant, sa fille tient un registre secret des mots qu'il murmure en dormant : des coordonnées, toujours les mêmes à la fin — elles désignent un point dans le nord de Cestra. [Chroniques, ch. 37 — an 221 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:37:la-plongee-du-pere-de-selendris-dans-les-strates-profondes",
         "chapitre": 37,
         "jour": null,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": 10169,
+            "pourquoi": "« il y a N ans » compté depuis l’an 251 (lot C/20–38)"
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -105063,13 +105332,13 @@
       "era_id": "era7_actuelle",
       "seq": 37,
       "label": "Retour à Prismalith — la ville n'a pas changé, l'homme si",
-      "detail": "Sorin Valthen rentre à Prismalith avec ses dix-sept cahiers ; pendant les trois jours de lecture de Selendris, il en tire une synthèse de vingt pages : les quatre mystères, l'hypothèse d'une famille d'écritures pré-Arrachement, celle de constructions reliées sous les continents, et les lectures concurrentes — aucune couronnée. La bibliothécaire Ysolde vérifie ses appuis deux heures durant : « Vous écrivez comme quelqu'un qui s'attend à être contredit. — Je m'y attends. […] Par vous, dans une heure, si vous trouvez une date qui ne tient pas. C'est ce que je veux. Un relevé qu'on ne peut pas contester n'a pas été vérifié, il a été cru. » [Chroniques, ch. 37, jour 890 — an 251 du Sillage]",
+      "detail": "Sorin Valthen rentre à Prismalith avec ses dix-sept cahiers ; pendant les trois jours de lecture de Selendris, il en tire une synthèse de vingt pages : les quatre mystères, l'hypothèse d'une famille d'écritures pré-Arrachement, celle de constructions reliées sous les continents, et les lectures concurrentes — aucune couronnée. La bibliothécaire Ysolde vérifie ses appuis deux heures durant : « Vous écrivez comme quelqu'un qui s'attend à être contredit. — Je m'y attends. […] Par vous, dans une heure, si vous trouvez une date qui ne tient pas. C'est ce que je veux. Un relevé qu'on ne peut pas contester n'a pas été vérifié, il a été cru. » [Chroniques, ch. 37, jour 895 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:37:retour-a-prismalith-la-ville-n-a-pas-change-l-homme-si",
         "chapitre": 37,
-        "jour": 890,
+        "jour": 895,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -105083,6 +105352,12 @@
             "champ": "detail",
             "avant": "« Vous écrivez comme quelqu'un qui s'attend à être contredit. — C'est ce que je veux. Un relevé qu'on ne peut pas contester n'a pas été vérifié, il a été cru. »",
             "pourquoi": "C/37 : « — Je m’y attends. — Par qui ? — Par tout le monde. Par vous, dans une heure, […]. C’est ce que je veux. Un relevé qu’on ne peut pas contester n’a pas été vérifié, il a été cru. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "890",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
           }
         ]
       },
@@ -105106,13 +105381,13 @@
       "era_id": "era7_actuelle",
       "seq": 37,
       "label": "Les coordonnées du dormeur recoupées — le Mont Jumeau",
-      "detail": "Selendris confronte son registre secret aux cahiers de Sorin : les coordonnées que son père murmure depuis trente ans tombent aux abords du Mont Jumeau — un carnet « où le même point revient, daté, trois fois, sous trois écritures différentes ». « Vous m'apportez la preuve que mon père ne délirait pas. […] C'est justement parce que vous ne prouvez rien que je vous crois. Les hommes qui prouvent trop cachent la couture. » [Chroniques, ch. 37, jour 893 — an 251 du Sillage]",
+      "detail": "Selendris confronte son registre secret aux cahiers de Sorin : les coordonnées que son père murmure depuis trente ans tombent aux abords du Mont Jumeau — un carnet « où le même point revient, daté, trois fois, sous trois écritures différentes ». « Vous m'apportez la preuve que mon père ne délirait pas. […] C'est justement parce que vous ne prouvez rien que je vous crois. Les hommes qui prouvent trop cachent la couture. » [Chroniques, ch. 37, jour 898 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:37:les-coordonnees-du-dormeur-recoupees-le-mont-jumeau",
         "chapitre": 37,
-        "jour": 893,
+        "jour": 898,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -105120,6 +105395,12 @@
             "champ": "detail",
             "avant": "— « le même point, daté, trois fois, sous trois écritures différentes »",
             "pourquoi": "C/37 (Selendris) : « un carnet où le même point revient, daté, trois fois, sous trois écritures différentes »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "893",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
           }
         ]
       },
@@ -105143,13 +105424,13 @@
       "era_id": "era7_actuelle",
       "seq": 37,
       "label": "L'audience du Tribunal de Lumasar — « Je ne demande pas que vous validiez. Je demande que vous conserviez. »",
-      "detail": "Devant les sept du Tribunal de Lumasar — dont le Grand Recteur Thalendris Prismor —, Sorin dépose ses dix-sept cahiers. L'expert en civilisations pré-Arrachement énonce la consigne tacite : « Tout ce qui touche aux Déliés d'avant l'Arrachement se classe, s'écarte, se tait. Ce n'est écrit nulle part. C'est appliqué partout. » Réponse de Sorin : « Je ne demande pas que vous validiez. Je demande que vous conserviez. Ce n'est pas la même chose. Une thèse validée peut être invalidée d'un trait de plume par la génération suivante. Un dépôt, non. » Décision : cahiers copiés et conservés aux archives de Prismalith, équipes de vérification, commission de recherche sur Navigor. « C'est cette page qui me décide, dit-il, à Thalendris plutôt qu'à moi. Un faussaire aurait conclu. Lui laisse la question ouverte. » [Chroniques, ch. 37, jour 895 — an 251 du Sillage]",
+      "detail": "Devant les sept du Tribunal de Lumasar — dont le Grand Recteur Thalendris Prismor —, Sorin dépose ses dix-sept cahiers. L'expert en civilisations pré-Arrachement énonce la consigne tacite : « Tout ce qui touche aux Déliés d'avant l'Arrachement se classe, s'écarte, se tait. Ce n'est écrit nulle part. C'est appliqué partout. » Réponse de Sorin : « Je ne demande pas que vous validiez. Je demande que vous conserviez. Ce n'est pas la même chose. Une thèse validée peut être invalidée d'un trait de plume par la génération suivante. Un dépôt, non. » Décision : cahiers copiés et conservés aux archives de Prismalith, équipes de vérification, commission de recherche sur Navigor. « C'est cette page qui me décide, dit-il, à Thalendris plutôt qu'à moi. Un faussaire aurait conclu. Lui laisse la question ouverte. » [Chroniques, ch. 37, jour 899 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:37:l-audience-du-tribunal-de-lumasar-conservez-ne-validez-pas",
         "chapitre": 37,
-        "jour": 895,
+        "jour": 899,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -105175,6 +105456,12 @@
             "champ": "detail",
             "avant": "« C'est cette page qui me décide : un faussaire aurait conclu. Lui laisse la question ouverte. »",
             "pourquoi": "C/37 : « C’est cette page qui me décide, dit-il, à Thalendris plutôt qu’à moi. Un faussaire aurait conclu. Lui laisse la question ouverte. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "895",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
           }
         ]
       },
@@ -105198,13 +105485,13 @@
       "era_id": "era7_actuelle",
       "seq": 37,
       "label": "L'homme au manteau gris, un jour trop tard",
-      "detail": "Le matin de l'audience, un homme en manteau gris se présente aux archives « au nom d'un bureau des Relations Académiques Extérieures » et demande si un cartographe de Kharazir a déposé des papiers. Ysolde répond qu'elle ne sait pas de quoi il parle — presque vrai : les originaux sont déjà chez le copiste, la première main dort dans une autre ville. « Cet homme était arrivé un jour trop tard, et un jour, dans cette affaire, valait tout. » [Chroniques, ch. 37, jour 895 — an 251 du Sillage]",
+      "detail": "Le matin de l'audience, un homme en manteau gris se présente aux archives « au nom d'un bureau des Relations Académiques Extérieures » et demande si un cartographe de Kharazir a déposé des papiers. Ysolde répond qu'elle ne sait pas de quoi il parle — presque vrai : les originaux sont déjà chez le copiste, la première main dort dans une autre ville. « Cet homme était arrivé un jour trop tard, et un jour, dans cette affaire, valait tout. » [Chroniques, ch. 37, jour 899 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:37:l-homme-au-manteau-gris-un-jour-trop-tard",
         "chapitre": 37,
-        "jour": 895,
+        "jour": 899,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -105212,6 +105499,12 @@
             "champ": "detail",
             "avant": "« On ne saisit pas ce qui s'est déjà multiplié. »",
             "pourquoi": "La phrase citée n’est pas dans C/37 (variante de C/35 « on ne saisit pas une chose qui s’est déjà répandue ») ; celle du chapitre est citée."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "895",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
           }
         ]
       },
@@ -105235,13 +105528,13 @@
       "era_id": "era7_actuelle",
       "seq": 37,
       "label": "La route de Kharazir — le point devenu position",
-      "detail": "« Un point relevé par un seul homme reste une conjecture. Le même point relevé par trois mains qui s'ignorent devient une position. J'avais passé neuf cents jours à trianguler une chose trop lourde pour ma seule main, non pour qu'on me croie, mais pour qu'on n'ait plus besoin de moi pour y croire. » La troisième main posée à Prismalith, Sorin prend au matin la route de Kharazir — là où tout a commencé. [Chroniques, ch. 37, jour 896 — an 251 du Sillage]",
+      "detail": "« Un point relevé par un seul homme reste une conjecture. Le même point relevé par trois mains qui s'ignorent devient une position. J'avais passé neuf cents jours à trianguler une chose trop lourde pour ma seule main, non pour qu'on me croie, mais pour qu'on n'ait plus besoin de moi pour y croire. » La troisième main posée à Prismalith, Sorin prend au matin la route de Kharazir — là où tout a commencé. [Chroniques, ch. 37, jour 900 — an 251 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:37:la-route-de-kharazir-le-point-devenu-position",
         "chapitre": 37,
-        "jour": 897,
+        "jour": 900,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -105261,6 +105554,12 @@
             "champ": "detail",
             "avant": "reste une conjecture ; le même point relevé",
             "pourquoi": "C/37 : « Un point relevé par un seul homme reste une conjecture. Le même point relevé par trois mains qui s’ignorent devient une position. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail+data.jour",
+            "avant": "896",
+            "pourquoi": "jour recalé sur le texte (lot C/20–38)"
           }
         ]
       },
@@ -130132,11 +130431,20 @@
       "id": "lnk-0959",
       "rel_type": "situe-dans",
       "from_id": "lie-0080",
-      "to_id": "lie-0003",
+      "to_id": "lie-0237",
       "start_year": null,
       "end_year": null,
       "label": null,
-      "data": null,
+      "data": {
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "to_id",
+            "avant": "lie-0003",
+            "pourquoi": "B9 : Kethros est situé dans Baeloris (qui est elle-même dans Baelor)."
+          }
+        ]
+      },
       "source_id": null,
       "status": "canon"
     },
