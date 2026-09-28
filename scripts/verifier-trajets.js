@@ -105,7 +105,11 @@ function juger(et, segs, jours, cpt, lg, ent, de, douteux, origine) {
   // que la route.
   const lent = jours >= 1 && unites >= PREC.lent && jours > LENTEUR * tNormal;
   const annonce = origine === 'durée annoncée';
-  const verdict = jours < tForce ? 'impossible' : jours < tNormal ? 'serre' : lent && annonce ? 'lent' : null;
+  // Sous la journée, `jours` compte des heures d'horloge (0,2 j ≈ 5 h), les allures des
+  // journées de route (≈ 8 h à l'allure normale, 12 h à marche forcée) : on convertit.
+  const jN = jours < 1 ? Math.min(1, jours * 24 / 8) : jours;
+  const jF = jours < 1 ? Math.min(1, jours * 24 / 12) : jours;
+  const verdict = jF < tForce ? 'impossible' : jN < tNormal ? 'serre' : lent && annonce ? 'lent' : null;
   const lentDates = lent && !annonce;
   const modes = [...new Set(segs.map((x) => x.mode))].join(' + ');
   if (douteux) et.fiabilite = 'basse'; else delete et.fiabilite;
