@@ -304,8 +304,11 @@ ne sont pas du décor : ce sont les organes du récit.
   l'Arrachement, l'auteur de la Guerre de l'Ombre, la nature du Troisième
   Coup, le sort d'Aldric Valthen, la filiation de l'enfant qui entend, le
   Mangeur de Temps, l'heure exacte du geste. On les frôle, on les sème dans
-  des bouches qui se contredisent, on ne les tranche pas. L'Atrium enregistre
-  que la question se pose et qui porte quelle lecture ; jamais la réponse.
+  des bouches qui se contredisent, on ne les tranche pas **dans le texte**.
+  L'Atrium, lui, connaît la vérité (`data.verite` de chaque question, décision
+  de l'auteur du 2026-09-28) : **lis-la avant d'écrire**, pour que chaque
+  indice semé lui soit fidèle, et respecte sa `ligne_rouge` — ce qu'aucun
+  narrateur n'énonce jamais. Écrire en sachant, jamais en disant.
 - **Ce qui commence à la dernière page ne s'explique pas.** Chaque tome finit
   sur un commencement : un battement dans la pierre, une oreille neuve, une
   bouche qui achève sa première phrase. Toute glose qui résoudrait tue le

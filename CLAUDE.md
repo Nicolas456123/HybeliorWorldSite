@@ -17,10 +17,15 @@ ouvrent. Trois règles, qui valent partout dans ce dépôt :
 2. **L'Atrium tranche.** Quand un chapitre, une fiche ou une bible le
    contredit, c'est lui qui a raison. Si c'est lui qui a tort, on le corrige
    **là** — dans `data/kg-base.json` — et le reste suit.
-3. **Les livres, eux, gardent leurs mystères.** Les 33 entités de type
-   `question`, dont treize portent `data.protege`, ne sont jamais résolues :
-   l'Atrium enregistre **que** la question se pose, ses lectures concurrentes
-   et qui les porte — jamais la réponse.
+3. **Les livres gardent leurs mystères ; l'Atrium, lui, sait.** Les 33
+   entités de type `question`, dont treize portent `data.protege`, ne sont
+   jamais résolues **dans les livres** : aucun narrateur n'énonce la réponse.
+   Mais l'Atrium connaît la vérité d'auteur — `data.verite` des treize : ce
+   qui s'est réellement passé, jamais simple (ses couches, ce que chaque
+   lecture voit juste et où elle se trompe, les indices plantés, la
+   `ligne_rouge` des narrateurs). Décision de l'auteur, 2026-09-28 : « il faut
+   qu'on sache nous, dans l'Atrium, la réalité, qui n'est jamais simple. »
+   Une vérité `statut: proposée` attend sa validation par l'auteur.
 
 Le mot n'existe nulle part dans la fiction d'Hybélior, et c'est voulu :
 l'Atrium est **hors monde**. Aucun personnage n'y entre, aucune fiche ne le

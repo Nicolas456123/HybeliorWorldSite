@@ -517,10 +517,43 @@ async function vueFiche(id) {
     } catch { /* pas d'arbre : silencieux */ }
   }
 
-  // Lectures (mystères)
+  // Mystères : ce que l'Atrium sait (data.verite), que les livres ne disent jamais
+  const verite = e.type === 'question' && e.data && e.data.verite;
+  if (verite && verite.texte) {
+    const pan = h('div', { class: 'panneau verite' },
+      h('div', { class: 'etiquette groupe-rel', text: 'La vérité de l’Atrium — les livres ne la disent jamais' }));
+    if (verite.statut && verite.statut !== 'validée') pan.append(h('p', { class: 'verite-statut', text: 'Vérité ' + verite.statut + (verite.date ? ' le ' + verite.date : '') + ' — à valider par l’auteur.' }));
+    for (const par of String(verite.texte).split(/\n+/)) if (par.trim()) pan.append(h('p', { text: par.trim() }));
+    if (verite.systeme) {
+      const det = h('details', {}, h('summary', { text: 'Comment tout s’emboîte — le système d’ensemble' }));
+      for (const par of String(verite.systeme).split(/\n+/)) if (par.trim()) det.append(h('p', { text: par.trim() }));
+      pan.append(det);
+    }
+    if ((verite.strates || []).length) {
+      pan.append(h('div', { class: 'etiquette', text: 'Les couches' }));
+      const ul = h('ul'); for (const s of verite.strates) ul.append(h('li', { text: s })); pan.append(ul);
+    }
+    if (verite.ligne_rouge) pan.append(h('p', { class: 'verite-ligne' }, h('strong', { text: 'Ligne rouge des narrateurs : ' }), verite.ligne_rouge));
+    if (verite.entrevoir) pan.append(h('p', { class: 'verite-ligne' }, h('strong', { text: 'Ce qu’un livre peut laisser entrevoir : ' }), verite.entrevoir));
+    if ((verite.indices || []).length) {
+      const det = h('details', {}, h('summary', { text: `Les indices plantés dans les livres (${verite.indices.length})` }));
+      for (const i of verite.indices) det.append(h('p', { class: 'verite-indice' }, h('strong', { text: (i.ou || '') + ' — ' }), '« ' + (i.citation || '') + ' » ', h('span', { style: 'color:var(--dim)', text: i.comment_il_soutient || '' })));
+      pan.append(det);
+    }
+    gauche.append(pan);
+  }
+
+  // Lectures (mystères) : ce que chacune voit juste, où elle se trompe (quand l'Atrium le sait)
   if ((dossier.readings || []).length) {
-    const pan = h('div', { class: 'panneau' }, h('div', { class: 'etiquette groupe-rel', text: 'Les lectures — aucune ne fait foi' }));
-    for (const r of dossier.readings) pan.append(h('p', { style: 'color:var(--dim);font-style:italic;margin:10px 0', text: '« ' + r.text + ' »' }));
+    const pan = h('div', { class: 'panneau' }, h('div', { class: 'etiquette groupe-rel', text: verite ? 'Les lectures du monde — chacune voit une part' : 'Les lectures — aucune ne fait foi' }));
+    const jug = new Map(((verite && verite.lectures) || []).map((l) => [l.reading_id, l]));
+    for (const r of dossier.readings) {
+      pan.append(h('p', { style: 'color:var(--dim);font-style:italic;margin:10px 0 4px', text: '« ' + r.text + ' »' }));
+      const j = jug.get(r.id);
+      if (j) pan.append(h('p', { class: 'verite-lecture' },
+        j.ce_quelle_voit_juste ? h('span', { text: 'Juste : ' + j.ce_quelle_voit_juste + ' ' }) : '',
+        j.ou_elle_se_trompe ? h('span', { style: 'color:var(--dim)', text: 'Faux : ' + j.ou_elle_se_trompe }) : ''));
+    }
     gauche.append(pan);
   }
 

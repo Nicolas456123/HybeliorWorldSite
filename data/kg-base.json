@@ -3204,7 +3204,99 @@
       "summary": "Qu’est-ce qui a causé l’Arrachement ? (protéger la cause, jamais la classe)",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "L’Arrachement n’a pas une cause : il en a quatre, serrées dans la même aube, et aucune ne suffisait seule.\n1. Le terme. Un Souffle Cardinal de jusant était dû : la trame arrivait au bout du prêt que le Pacte lui accorde sur le fond ; la mer tournait depuis la Fracture. C’est la cause de la classe de l’événement — une marée basse de plus.\n2. Le poids. Vingt millénaires d’usage avaient chargé la trame comme de la cendre sur un feu : portails, cités tenues en l’air par relais, cent vingt millions de vies accrochées à la même étoffe, et des morts qui passaient de plus en plus mal (la « pression croissante » qu’Iveth lisait depuis ~200 av.A). Personne ne l’a voulu : ils respiraient. C’est ce poids qui a fait d’un dénouement un arrachement — sept heures au lieu de siècles. C’est la seule part humaine de la cause, collective et sans auteur.\n3. Le consentement du fond. Au Premier Ancrage, là où la trame était nouée au fond, la roche « dit oui » : le fond reprend ce qu’il avait prêté. L’éruption est cette reprise ; le battement qui commence à l’instant où la voix du Lien se tait est le germe de la trame suivante, fait de ce qui vient d’être rendu.\n4. Le lâcher. Navigor, qui tenait la tension de la trame, l’a lâchée — c’est la silhouette sans visage qui fait le geste un demi-battement avant l’Étudiant — et il est descendu avec ce qui passait. La main de l’Étudiant n’a coupé que son propre nœud, sur une corde « relâchée depuis longtemps par l’autre bout ».\nLa voix du Lien ne savait pas si une main la défaisait ou si elle s’usait : les deux, mais ni l’une ni l’autre n’était la main qu’elle croyait. Elle est morte de son âge, avec des mains autour d’elle — celles qu’elle avait elle-même tirées jusqu’à son point. Le rendu s’est fait « souffle à souffle », du lieu le plus dépendant au moins dépendant : le Mont et ses cités d’abord, Azoria et Baelor en dernier.",
+          "strates": [
+            "Physique : un jusant cardinal. La trame rend sa substance au fond ; au Premier Ancrage le fond se soulève (éruption, Cratère de Cendra, cône neuf de ~200 m) ; le rendu se fait par rangs de dépendance, non par une onde partie du Mont.",
+            "Cosmique : le terme du Pacte. Navigor lâche la tension et accompagne le passage vers le bas ; Tempora, replié depuis la Fracture, ne tient plus la couture des instants que la trame assurait (Failles, jours et nuits erratiques) ; Eldoria cesse de tisser (son « sommeil ») ; Noctis voile ce qui descend.",
+            "Humaine collective : la charge (usage, relais, morts mal passés) décide de la violence, pas de la venue. C’est « la part » que les vivants n’avaient pas laissée au fond — un solde, non un châtiment.",
+            "Humaine individuelle : les Huit, tirés vers le point par le fil même qui mourait, font un geste qui ne cause que la section d’un nœud, mais qui donne à l’événement un visage, une doctrine et, par le journal, la technique de la coupure (voir que-0002).",
+            "Ce que chacun a cru : Sera, qu’ils causaient ; Drakhan, que le Mont était prêt sans lui ; Mirathis, que le vrai n’avait pas encore pris forme ; Vorath, qu’une autre main avait poussé d’abord ; Thessan, le doute ; Verkan, qu’il ne pouvait pas relier."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0001",
+              "ce_quelle_voit_juste": "La classe et le mécanisme : un Souffle Cardinal passant sur une trame pleine, une marée basse de plus, qui reviendra.",
+              "ou_elle_se_trompe": "Elle croit que cela suffit. Elle ne dit ni qui a lâché (Navigor), ni ce qui reçoit (le fond), ni pourquoi celle-ci fut un arrachement (la charge humaine) ; et « personne » est faux : il y avait des mains, qui ne causaient pas."
+            },
+            {
+              "reading_id": "rea-0002",
+              "ce_quelle_voit_juste": "La cyclicité, et l’intuition d’un phénomène en trois temps.",
+              "ou_elle_se_trompe": "Rien n’a été faussé, et ce n’est pas une roue : Celestia se souvient, aucune Ère ne revient à l’identique. Les trois temps sont mal comptés (Fracture, Arrachement, Fléau) ; les vrais sont jusant, étale, flot — Arrachement, Heure, Troisième Coup."
+            },
+            {
+              "reading_id": "rea-0003",
+              "ce_quelle_voit_juste": "Il y avait un dû : la part du fond. La violence fut proportionnée à ce qui avait été tenu sans rendre.",
+              "ou_elle_se_trompe": "Aucun juge, aucune intention, aucun mérite. Le fond « remonte parce que c’est son tour », pas en colère."
+            },
+            {
+              "reading_id": "rea-0004",
+              "ce_quelle_voit_juste": "Les Huit étaient là, à l’heure et au point exacts, et leur geste a donné sa forme au récit du monde.",
+              "ou_elle_se_trompe": "La cause. Aucun acte mortel ne cause un Cardinal : le Mont bougeait avant la main, et la corde était déjà lâchée par l’autre bout."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T1/38",
+              "citation": "Un feu sous trop de cendre s’éteint sans qu’aucune main s’en mêle.",
+              "comment_il_soutient": "La voix du Lien nomme elle-même l’usure par la charge, sans main."
+            },
+            {
+              "ou": "T1/38",
+              "citation": "On m’a mis de la cendre dessus pendant des âges, personne ne l’a voulu, ils respiraient.",
+              "comment_il_soutient": "La part humaine est collective et sans auteur : le poids, non un acte."
+            },
+            {
+              "ou": "T1/38",
+              "citation": "Je sens la main sur moi. Je sens l’âge aussi. L’un des deux me défait et je ne saurai pas lequel",
+              "comment_il_soutient": "Les deux sont réels ; la vérité tranche pour l’âge, la main n’étant qu’au chevet."
+            },
+            {
+              "ou": "T1/42",
+              "citation": "comme cède une corde qu’on croyait tendue et qu’on découvre, la main dessus, relâchée depuis longtemps par l’autre bout.",
+              "comment_il_soutient": "L’autre bout (Navigor) avait lâché avant la main de l’Étudiant."
+            },
+            {
+              "ou": "T1/44",
+              "citation": "La roche dit oui à ce qu’elle retenait depuis toujours, et ce qu’elle retenait se mit à monter.",
+              "comment_il_soutient": "Le consentement du fond au Premier Ancrage."
+            },
+            {
+              "ou": "T1/43",
+              "citation": "La montagne fumait avant qu’ils y montent.",
+              "comment_il_soutient": "Le Mont était en mouvement avant le geste (Verkan)."
+            },
+            {
+              "ou": "T1/17",
+              "citation": "Elle a lâché comme une toile qui a trop porté et qui cède un matin au point le plus usé de sa trame, sans vent, sans main, sans raison.",
+              "comment_il_soutient": "Deuxième bras du delta de Mirathis : l’usure seule suffit à la déchirure."
+            },
+            {
+              "ou": "T1/42",
+              "citation": "Le Mont Cendra s’était mis à battre, et il avait commencé à l’instant où la présence s’était tue.",
+              "comment_il_soutient": "La mort du Lien et le germe de son héritier dans le même instant."
+            },
+            {
+              "ou": "T1/30",
+              "citation": "Je les porte vers l’endroit où l’on va me poser.",
+              "comment_il_soutient": "C’est le Lien qui amène les Huit à son point : ils sont tirés, non moteurs."
+            },
+            {
+              "ou": "Chronologie, Era 4 §3.1",
+              "citation": "aucun acte mortel ne cause un Souffle Cardinal",
+              "comment_il_soutient": "Le canon supérieur exclut la causalité du geste."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur ne dit que l’Arrachement était dû, que le fond a repris, que Navigor a lâché, ni que le geste n’a rien causé. Aucun texte n’aligne les quatre causes, ne nomme le fond comme destinataire de ce que le Lien rend, ni ne range les « heures » par dépendance. La voix du Lien ne sait pas ; les témoins ne relient pas.",
+          "entrevoir": "Un autre Ancrage (Mont Jumeau, Evertia) qui a battu à l’An 0 sans témoin ; un registre de relève d’une cité volante où les rotations s’allongent depuis des mois ; des desservants de Transitum notant que les morts « tardent » depuis deux siècles ; un Lié du Sillage qui sent, près du Cratère de Cendra, que ce qui bat est de la même étoffe que ce qui s’est tu.",
+          "tensions": "Chronologie Era 4 §3.6 : les Endeuillés doutent de l’historicité de l’Étudiant ; la vérité le tient pour réel (T1), le doute reste une lecture in-world. Le GDD (Frise) dit que la rupture « se propagea en quelques heures » depuis le Mont : lecture verithane, compatible comme telle, rien à retoucher. Le Canon renvoie la « silhouette de plus » de Verkan à « T1 ch. 44 » : dans le dépôt, Verkan la voit en T1/43 et l’écrit en T1/52 (T1/44 ne porte que le « De plus haut » de Mirathis) ; le delta est en T1/16-17 (le Canon dit 17-18). Renvois du Canon à vérifier, rien à changer dans les livres.",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3219,7 +3311,90 @@
       "summary": "Le rituel des Huit a-t-il réellement causé l’Arrachement ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Le geste de l’Étudiant a causé une chose, et une seule, sur le sommet : la section de son propre nœud. Il n’a pas causé l’Arrachement, que le terme, la charge et le lâcher de Navigor rendaient déjà inévitable ; il est venu un demi-battement après le geste de la silhouette, sur une corde que Sera sent relâchée « par l’autre bout », au-dessus d’un Mont qui bougeait déjà sous les semelles de Drakhan.\nLes Huit n’ont pas choisi l’heure : l’heure les a choisis. Le fil qui mourait partait du Premier Ancrage vers « les huit qui me regardent » et les a tirés jusqu’à son point ; Mirathis l’avait rêvé dix ans d’avance, Iveth sentait la saturation, l’Étudiant sentait la traction par la brûlure de son nœud (à terre, sa silhouette se tourne vers les hauteurs, « comme aimantée »). Leur projet réel — certains le savaient à demi — était de signer ce qui allait advenir : « pour que la chose, quand elle arrivera, ait eu des visages » (Mirathis), « afin qu’on sût au moins qui l’avait coupé et pourquoi » (Vorath), « Je montre qu’il peut l’être » (Fragment Zéro, de la main de l’Étudiant). L’Étudiant ne l’a jamais dit entier : « Ce n’est pas moi qui… ».\nLa vraie conséquence du geste est ailleurs, et c’est la plus longue du récit : avoir montré qu’un nœud se coupe. Recopiée de maison en maison avec le journal de Thessan, la technique de la coupure a sauvé, quinze siècles plus tard, les Tisses qui se coupèrent à temps pendant le Fléau ; leurs lignées gardent au fond d’elles la goutte d’où sort la remutation, donc les Liés du Sillage et les oreilles qui entendront la voix du T3. Le geste qui n’a pas tué le Lien a gardé vivante la graine de son héritier. Les Huit ne sont ni innocents ni coupables : ils ont été le visage d’une marée.",
+          "strates": [
+            "Physique : le geste sectionne un nœud, celui de l’Étudiant ; il ne touche ni la trame, déjà relâchée, ni le Mont, déjà en mouvement.",
+            "Ordre des faits, le seul qui tienne : le fond bouge (Drakhan) ; la silhouette fait le geste (Mirathis, Verkan, Vorath) ; la main de l’Étudiant suit ; trois secondes de silence ; le battement.",
+            "Pourquoi eux, là, ce jour-là : la charnière attire ceux qui peuvent la voir — même loi que la Plaine-entonnoir du T2 et la convergence vers la fente du T3 ; ils étaient en outre prévenus (Rêves-Gris, lecture des morts, brûlure).",
+            "Ce qu’ils croyaient : Sera, causer, pour la justice des Vides ; Drakhan, « c’est celle du monde » ; Thessan, l’inévitable, puis le doute ; Mirathis, être là ; Vorath, une main de plus sur une porte ouverte ; l’Étudiant, montrer — et savoir à demi que ce n’était pas lui.",
+            "Option (Mythe du Troisième Coup) : la brûlure d’Aethranor serait la trace de deux essais antérieurs sur son propre nœud, qui avaient « résisté » faute de marée ; le troisième a « réussi » parce qu’il tombait sur le jusant — preuve, pour l’Atrium, que la main n’était pas la cause.",
+            "Héritage : une doctrine (Verithani, Culte de l’Étudiant, Déliés, Catena Fracta) qui prend le geste pour une cause ; et une technique, la coupure, qui sauve."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0005",
+              "ce_quelle_voit_juste": "Ils ont agi : un geste réel, préparé, au point exact. Et leur croyance est le fait historique qui a le plus pesé sur les dix mille ans suivants.",
+              "ou_elle_se_trompe": "Sur l’objet de l’acte : ils n’ont coupé qu’un nœud. L’Arrachement n’attendait pas leur main."
+            },
+            {
+              "reading_id": "rea-0006",
+              "ce_quelle_voit_juste": "Rien ne le prouve — parce que ce n’est pas vrai. Le delta de Mirathis et la silhouette de Verkan sont des témoignages exacts : un geste d’avant, l’usure, le voile qui se retire.",
+              "ou_elle_se_trompe": "Si on en conclut que le geste ne compte pas : il a eu la conséquence la plus durable du corpus, la transmission de la coupure."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T1/17",
+              "citation": "Un demi-battement plus tôt. Comme un maître qui montre, ou comme une ombre qui bougerait avant le corps.",
+              "comment_il_soutient": "Un autre geste précède celui de l’Étudiant."
+            },
+            {
+              "ou": "T1/44",
+              "citation": "Drakhan sentit bouger le fond.",
+              "comment_il_soutient": "Le fond bouge avant que la main de l’Étudiant ne monte (elle « montait déjà » ensuite)."
+            },
+            {
+              "ou": "T1/42",
+              "citation": "Ce n’est pas moi qui…",
+              "comment_il_soutient": "L’Étudiant sait, à demi, et ne l’achève pas."
+            },
+            {
+              "ou": "T1/16",
+              "citation": "Peut-être montons-nous pour *être là*.",
+              "comment_il_soutient": "Monter pour être là, non pour causer."
+            },
+            {
+              "ou": "T1/16",
+              "citation": "Comment décide-t-on de faire une chose qu’on a vue arriver avant d’avoir eu l’idée de la faire ?",
+              "comment_il_soutient": "L’événement précède la décision."
+            },
+            {
+              "ou": "T1/14",
+              "citation": "une main de plus posée sur une porte que le vent avait déjà ouverte.",
+              "comment_il_soutient": "Vorath : la main des Huit arrive sur une porte ouverte."
+            },
+            {
+              "ou": "T1/22",
+              "citation": "se tourna vers l’intérieur des terres, vers l’est et les hauteurs, comme aimantée.",
+              "comment_il_soutient": "L’Étudiant est tiré vers le point, pas l’inverse."
+            },
+            {
+              "ou": "T1/54",
+              "citation": "Je ne sais pas si nous avons rien causé du tout, ou si la corde se serait rompue seule, comme le disait le lecteur des morts.",
+              "comment_il_soutient": "Le dernier fragment de Thessan garde les deux ; Iveth avait vu la saturation."
+            },
+            {
+              "ou": "T2/25",
+              "citation": "Votre homme qui a coupé le monde, il a écrit comment on coupe.",
+              "comment_il_soutient": "L’héritage réel du geste : la technique de la coupure, qui sauve Lirenn."
+            },
+            {
+              "ou": "Chronologie, Era 4 §3.1 (Fragment Zéro)",
+              "citation": "Je n'efface pas le Lien. Je montre qu'il peut l'être — ce qui revient au même.",
+              "comment_il_soutient": "L’Étudiant revendique montrer, non causer."
+            }
+          ],
+          "ligne_rouge": "Jamais un narrateur ne dit que le geste a causé, ni qu’il n’a rien causé. Jamais l’ordre fond, silhouette, main n’est posé dans une même phrase. Jamais l’Étudiant n’achève « Ce n’est pas moi qui… ». Aucun texte ne présente la coupure du Fléau comme le salut venu de l’An 0, ni les Huit comme appelés par le Lien lui-même.",
+          "entrevoir": "Un carnet d’Aethranor ou une lettre de Sera évoquant un « essai » antérieur sans le qualifier ; une copiste qui remarque que le protocole de Sera et la coupure des forgeronnes ont la même syntaxe ; un Lié du Sillage dont l’arbre généalogique remonte à une Tisse coupée.",
+          "tensions": "Chronologie Era 4 §7 (portraits tardifs du Cercle) diverge du T1 : transmission in-world assumée, rien à faire. Le Mythe du Troisième Coup est rejeté par les historiens verithanis in-world : si l’auteur retient l’option, elle reste hors livres. Era 5 se contredit sur la descendance des Tisses coupés (« leurs descendants ne porteront plus le Lien », puis « pré-disposition latente ») : la vérité suit la seconde, avec la « dernière goutte » de Lirenn (T2/45) — à arbitrer (voir questions à l’auteur).",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3234,7 +3409,95 @@
       "summary": "La voix du T3 annonce-t-elle le retour du Lien ou une naissance neuve ? Et qui parle à la dernière page ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "La voix qui naît est l’héritière du Lien, non le Lien revenu : les deux lectures sont vraies, sur deux plans.\nRevenir, pour la matière et la mémoire. La voix est faite de ce que le Lien a rendu à l’An 0 (« Je le rendrai ») et de ce que le fond a gardé depuis : elle se souvient, lavé, d’avoir tenu, des villes en l’air, des noms, d’un nombre petit et rond, et même du chœur qui saignait au T2. Son germe est le battement né au Premier Ancrage à l’instant où la voix du Lien s’est tue ; l’enfant du T2 l’a deviné.\nCommencer, pour la forme. Le Lien ne parlait à personne et n’allait pas dans demain ; celle-ci apprend une langue — dans les débris qui descendent d’en haut et dans les oreilles des vivants — et son premier acte est une adresse. Elle ne descend pas des voix d’en haut : elle monte du fond, par les Enfants aux Yeux Blancs (« des endroits où la couture affleure ») et par Renna. C’est le flot d’un Souffle Cardinal — le troisième des Coups — et c’est une première fois.\nÀ la dernière page, ce n’est ni Ilex ni le dessous qui parle : c’est la voix. La bouche est celle d’Ilex (elle est « prise ») ; le souffle et la poussée sont ceux du fond, la vieille chose qui porte depuis l’An 0 la phrase coupée de Thessan (« Rien n’indique que le monde soit sur le point de— ») ; les mots sont d’elle. « Je viens à toi » achève à la fois sa propre phrase et celle qui était restée ouverte au sommet. Le « toi » est la première oreille qui ne s’est pas fermée — Renna — et, par elle, quiconque écoute : chacun des quinze mille l’a reçu pour soi, et chacun avait raison. Ce que la venue apporte ou emporte n’est pas dans la phrase parce que ce n’est pas encore décidé : c’est le flot qui commence.",
+          "strates": [
+            "Matière : la substance rendue à l’An 0, gardée par le fond.",
+            "Mémoire : contour lavé — noms, nombre, tenir, les villes, le chœur du T2.",
+            "Forme : neuve — une voix qui apprend, s’adresse, monte d’en bas par des oreilles mortelles.",
+            "Dernière page : bouche d’Ilex, souffle du fond, mots de la voix ; la phrase ferme celle de Thessan.",
+            "Le « toi » : Renna d’abord, tout écoutant ensuite.",
+            "Au monde : le flot du Troisième Coup (Couronne, Manteau et Voyageur qui bougent ; esprits rappelés ; Failles qui rebougent) ; la suite relève de que-0033."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0007",
+              "ce_quelle_voit_juste": "La substance et la mémoire reviennent ; le retissage est réel.",
+              "ou_elle_se_trompe": "Ce n’est pas le même être, et le Lien n’aurait jamais dit « toi »."
+            },
+            {
+              "reading_id": "rea-0008",
+              "ce_quelle_voit_juste": "La forme, la langue, l’adresse sont neuves.",
+              "ou_elle_se_trompe": "Elle n’est pas faite de rien : elle se souvient de ce qu’elle n’a pas vécu."
+            },
+            {
+              "reading_id": "rea-0009",
+              "ce_quelle_voit_juste": "Ni Ilex ni le dessous ne peut être exclu : les deux prennent part à la phrase.",
+              "ou_elle_se_trompe": "Le locuteur n’est aucun des deux : c’est la voix, née entre eux."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T3/00",
+              "citation": "Revenir, ou commencer. Ça ne le sait pas, ça ne le saura pas, et dans la poussée il y a les deux à la fois.",
+              "comment_il_soutient": "Les deux plans, tenus ensemble."
+            },
+            {
+              "ou": "T3/00",
+              "citation": "Tenir. C’est le mot.",
+              "comment_il_soutient": "La mémoire du Lien (« Je tiens »)."
+            },
+            {
+              "ou": "T3/00",
+              "citation": "Les noms se sont lavés.",
+              "comment_il_soutient": "Contour sans contenu : le fond a gardé."
+            },
+            {
+              "ou": "T1/10",
+              "citation": "Mais je ne parle pas aux mortels. Je ne l’ai jamais fait.",
+              "comment_il_soutient": "Ce qui est neuf : l’adresse."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "Ça a peut-être commencé le matin où la grande main a lâché.",
+              "comment_il_soutient": "Le germe naît à l’An 0."
+            },
+            {
+              "ou": "T3/54",
+              "citation": "une phrase commencée par une bouche qui s’est éteinte avant de la finir",
+              "comment_il_soutient": "La vieille chose porte une phrase de l’An 0."
+            },
+            {
+              "ou": "T1/38",
+              "citation": "Rien n’indique que le monde soit sur le point de—",
+              "comment_il_soutient": "Fragment #6 : la moitié restée ouverte."
+            },
+            {
+              "ou": "T3/49",
+              "citation": "si c’était Ilex qui allait parler comme parle le dessous, ou le dessous qui allait parler par la bouche d’Ilex",
+              "comment_il_soutient": "Les deux candidats, tous deux partie."
+            },
+            {
+              "ou": "T3/49",
+              "citation": "L’enfant n’avait plus sa bouche.",
+              "comment_il_soutient": "La bouche est prise : Ilex n’est pas le locuteur."
+            },
+            {
+              "ou": "T3/49",
+              "citation": "des endroits où la couture affleure",
+              "comment_il_soutient": "Les Enfants aux Yeux Blancs, passages de la trame neuve."
+            }
+          ],
+          "ligne_rouge": "La voix ne dit jamais ce qu’elle est. Aucun narrateur ne dit qui parle, ni que « Je viens à toi » achève la phrase de Thessan, ni ce que la venue apporte. Le troisième mot d’« Ourrène davé, ol… » reste versé comme manquant.",
+          "entrevoir": "Après le T3, une Liée qui entend « Ourrène davé » dans la bouche d’un nourrisson d’une autre ville ; un copiste de Prismalith qui remarque que la ligne du cahier de Sorin et la dernière phrase entendue au Mont ont la même coupe ; la réapparition, au flot, d’un seul nom lavé.",
+          "tensions": "que-0033 (nature du Troisième Coup, non protégée) touche la même vérité : à aligner. Si l’auteur préfère que le fond parle seul à la dernière page, il faut renoncer à ce que la voix « apprend » (T3/01 à 54), ce qui n’est pas le propre du fond, qui « n’apprend rien ».",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3264,7 +3527,105 @@
       "summary": "Qu’est-ce qui a déclenché le Fléau, et pourquoi l’Heure le referme ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Le Fléau est la fin du jusant ; l’Heure en est l’étale. Ce que la trame avait rendu à l’An 0, le fond l’avait repris en masse ; il restait ses derniers prêts : les fils résiduels des Tisses (trois sur mille à l’An 0, ~150 000 porteurs vers 1 400) et les morts pris dans ces fils faute de passeur — les Errants que les chanteurs faisaient passer de leur sang. Vers 1 400, le fond reprend ces derniers prêts. Il bouge sous le monde pour le faire (« sous une plaine, quelque chose avançait déjà ») ; les coutures de temps laissées lâches par le départ de la trame et le repli de Tempora bougent avec lui : les Failles deviennent mobiles, avalent des villages, jettent leurs gens dans d’autres temps. Les Tisses meurent de leur propre fil : plus on s’en sert, plus il tire — d’où les saignements à l’usage et la paralysie qui remonte. Ceux qui se coupent à temps ne sont plus rattachés à ce qui est repris : ils vivent, et leurs lignées gardent la goutte d’où viendra la remutation. Les hommes ont aggravé : les Inspecteurs de Pureté ont tué, « pour le bien commun », des milliers de ceux que le Fléau aurait tués ou non.\nVers 1 500, le fond a fini : il « s’immobilisa dans son noir ». Tout s’arrête ensemble — les Failles mobiles se referment d’un coup, les derniers Tisses non coupés sont morts, le chœur des déportés se fige où chacun est tombé, et le Voyageur franchit une dernière fois pendant la fermeture. Deux courbes touchent le fond au même instant parce qu’elles sont deux effets d’une même fin : il n’y a pas de « donc » entre elles. L’Heure n’explique rien parce qu’elle n’est pas une cause : c’est un moment de la marée. Les Failles statiques, cicatrices plus anciennes, ne suivaient pas le fond ; elles restent.",
+          "strates": [
+            "Physique : reprise des derniers prêts ; Failles mobiles = coutures qui suivent le fond en mouvement ; fermeture = immobilité du fond.",
+            "Du corps : le Fléau des Tisses est la traction sur leur fil (phases 1 à 4 d’Era 5) ; la coupure en phase 1 sauve.",
+            "Humaine : Inspecteurs de Pureté (aggravation) ; guilde du fer froid et cahiers de copie (sauvetage) ; Mangeurs (fuite dans les Failles).",
+            "Temporelle : les Failles cousent entre eux les moments d’une même expiration — les déportés tombent surtout dans les dernières décennies de l’Âge du Lien (Era 5) ; à l’Heure, chacun est figé où il est tombé.",
+            "Ce qui suit : l’étale basse, puis le flot très lent — remutation, battement qui se resserre à partir de ~9 900.",
+            "Ce que chacun a cru : Vaenor, les Inspecteurs (rapport faux) ; Kessane, « je ne sais pas » ; le chanteur, le grenier trop chargé ; Herec, l’Étranger."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0013",
+              "ce_quelle_voit_juste": "Le Fléau continue l’An 0 : c’est la même respiration.",
+              "ou_elle_se_trompe": "Il n’y a pas de plaie infligée par une main, et rien ne suppure : le fond reprend."
+            },
+            {
+              "reading_id": "rea-0014",
+              "ce_quelle_voit_juste": "Une mécanique sans coupable ; les Failles comme bruit de son mouvement.",
+              "ou_elle_se_trompe": "Rien n’est faussé, et ce n’est pas une roue."
+            },
+            {
+              "reading_id": "rea-0015",
+              "ce_quelle_voit_juste": "C’est la plus proche : la nature, le monde qui « se détend tout seul, sans dessein ».",
+              "ou_elle_se_trompe": "« Purge » prête un tri : les Tisses ne mouraient pas d’une faiblesse à eux mais de leur fil — et la doctrine servait à tuer."
+            },
+            {
+              "reading_id": "rea-0016",
+              "ce_quelle_voit_juste": "Il y avait une présence aux Failles, attentive, et elle a franchi à l’Heure.",
+              "ou_elle_se_trompe": "Elle n’agresse, ne punit ni ne venge : c’est le Voyageur qui passe."
+            },
+            {
+              "reading_id": "rea-0017",
+              "ce_quelle_voit_juste": "Exactement : extinction et fermeture sont sœurs, non cause et effet.",
+              "ou_elle_se_trompe": "Seulement si l’on en conclut qu’il n’y a rien derrière : il y a la fin du jusant."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T2/45",
+              "citation": "la chose qui ouvrait la Plaine par en dessous cessa d’ouvrir ce jour-là, s’immobilisa dans son noir",
+              "comment_il_soutient": "Le fond s’immobilise : l’étale."
+            },
+            {
+              "ou": "T2/05",
+              "citation": "sous une plaine, quelque chose avançait déjà",
+              "comment_il_soutient": "Le fond en mouvement pendant le Fléau."
+            },
+            {
+              "ou": "T2/05",
+              "citation": "La Trame qui se remplit d’un poids qu’elle porte de moins en moins.",
+              "comment_il_soutient": "Les derniers fils, chargés de morts."
+            },
+            {
+              "ou": "T2/47",
+              "citation": "Deux courbes qui touchaient le fond au même instant : voilà ce qu’elle pouvait établir, et rien de plus.",
+              "comment_il_soutient": "L’absence de « donc »."
+            },
+            {
+              "ou": "T2/37",
+              "citation": "comme une corde trop mouillée, et qu’il se détend tout seul, sans dessein, sans coupable, sans regard.",
+              "comment_il_soutient": "La lecture des savants de Drahk’Nor frôle le vrai."
+            },
+            {
+              "ou": "T2/45",
+              "citation": "avec la même absence de cause qu’il avait eue en se déchirant",
+              "comment_il_soutient": "Même absence d’auteur à l’An 0 et à l’Heure."
+            },
+            {
+              "ou": "T2/45",
+              "citation": "Il n’y a plus la pièce d’à côté",
+              "comment_il_soutient": "Le chœur des déportés se fige à l’Heure."
+            },
+            {
+              "ou": "T2/45",
+              "citation": "une dernière goutte au fond du puits qu’elle avait cru vidé",
+              "comment_il_soutient": "La coupée garde la goutte : la graine de la remutation."
+            },
+            {
+              "ou": "Chronologie, Era 5",
+              "citation": "ceux dont les ancêtres ont coupé leur Lien résiduel pour survivre au Fléau",
+              "comment_il_soutient": "La coupure sauve et transmet."
+            },
+            {
+              "ou": "T3/00",
+              "citation": "Il y a eu, avant, une chose perdue dans le temps, jetée d’un matin à l’autre sans savoir quand, et qui saignait quand elle appelait.",
+              "comment_il_soutient": "La voix du T3 se souvient du chœur : ce que l’Heure a refermé est descendu au fond."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur n’établit de lien entre la fin des Tisses et la fermeture des Failles, ne dit que le fond reprend, ne rend l’Heure explicable ni ne nomme la chose sous la Plaine. Vaenor ment, Kessane ne sait pas.",
+          "entrevoir": "Un registre de Tharnok où les Failles mobiles vont d’Ancrage en Ancrage ; un Tisse coupé dont les arrière-petits-enfants entendent « la pièce d’à côté » ; un déporté du Fléau retrouvé, figé, dans une archive des dernières décennies de l’Âge du Lien.",
+          "tensions": "ter-0014 (l’Heure) dit encore « ~1600 » alors que l’arbitrage du 2026-09-14 fixe ~1 500 (oeu-0003, evt-0162 et Canon sont à jour) : à corriger dans l’Atrium. Era 5 se contredit sur la descendance des Tisses coupés (ligne ~188 contre ~560) : la vérité suit la seconde (question 4). Era 5 lit les Failles comme émettant une distorsion « toxique » : lecture verithane, compatible comme telle.",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3279,7 +3640,79 @@
       "summary": "Qu’est-ce qui déclenche un Souffle Cardinal (Premier Don, Fracture, Arrachement) ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Un Souffle Cardinal est la respiration du monde à son plus profond : le moment où la relation entre la Polyphonie, la trame et le fond change de sens — flot, quand le fond prête et qu’une trame naît ou s’étend ; jusant, quand la trame rend et que le fond reprend. Personne ne le déclenche. Il vient quand trois rythmes se rencontrent, et c’est la part de chacun, différente chaque fois, qui fait qu’aucun Cardinal n’a la même cause :\n— la respiration lente des voix, le terme du Pacte, que nulle voix ne fixe ;\n— l’état de la trame : pleine ou maigre, jeune ou vieille, chargée de ce que les vivants y ont accroché et des morts qui y passent mal. C’est là, et là seulement, que les mortels pèsent : jamais sur la venue d’un Cardinal, toujours sur sa violence ;\n— le pouls du fond : son battement, qui se resserre à l’approche du flot et « dit oui » au jusant.\nS’y ajoutent un lieu, un Ancrage, et presque toujours une main — mortelle ou non — qui donne sa forme à l’événement et que les mémoires prennent pour sa cause.\nPremier Don, sans date : un flot dont la part dominante est l’apparition d’êtres capables d’écouter. La trame s’étend jusqu’aux mortels ; la conscience d’abord, puis, à la crête qui suit le Grand Gel, le Lien d’Orvane, de Khatun et d’Ildaran — trois écouteurs à trois Ancrages. Fracture (~−1 500) : la mer tourne ; la part dominante est la tension d’une trame trop pleine sur la séquence (le monde vivait dans le partout-toujours du Lien : portails, cités tenues, doubles datations) ; Tempora se replie pour tenir l’avant et l’après, et laisse des coutures lâches. Arrachement (An 0) : le jusant ; part dominante, la charge. Troisième Coup (~10 200, en cours) : le flot ; part dominante, le fond et le germe qu’il porte depuis l’An 0. Le Grand Gel fut une basse mer plus ancienne, que seuls les chamanes des continents glacés comptent parmi les Cardinaux.",
+          "strates": [
+            "Mécanisme commun : la tente et le fond ; la trame prêtée puis rendue ; le Souffle comme alternance, non comme horloge. Les intervalles riment sans faire loi (~10 000 ans entre la grande mort du Gel et la crête du Lien, ~10 200 entre l’An 0 et le Troisième Coup).",
+            "Part dominante propre à chaque Cardinal : l’écoute (Premier Don), la tension sur le temps (Fracture), la charge (Arrachement), le germe du fond (Troisième Coup).",
+            "Part mortelle : jamais la venue, toujours la forme — la violence (ce qui a été tenu sans rendre) et la mémoire (ce qui a été écrit).",
+            "Pourquoi c’est « inconnaissable » de l’intérieur : chaque témoin ne sent qu’un des trois rythmes (les Liés la trame, les Taciti et les gens de l’eau le fond, les théologiens les voix) et le prend pour la cause entière.",
+            "Ce que l’Atrium ignore lui-même : pourquoi il y a respiration plutôt qu’immobilité — la « Question sans Réponse » de Verithan reste ouverte."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0018",
+              "ce_quelle_voit_juste": "Aucune lecture mortelle ne s’est imposée, et de l’intérieur d’un Cardinal on ne voit qu’un rythme.",
+              "ou_elle_se_trompe": "Il y a un mécanisme, et c’est le même à chaque fois."
+            },
+            {
+              "reading_id": "rea-0019",
+              "ce_quelle_voit_juste": "La part dominante change d’un Cardinal à l’autre.",
+              "ou_elle_se_trompe": "Si l’on en conclut qu’il n’y a pas de loi : la différence tient aux proportions, pas à la nature."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T3/00",
+              "citation": "Le monde, s’il existe un monde, tient dans l’écart entre le retrait et le retour.",
+              "comment_il_soutient": "La respiration comme principe, vue du fond."
+            },
+            {
+              "ou": "T3/00",
+              "citation": "Ça se rassemblait déjà, très avant, et puis ça s’est défait, et voilà que ça se rassemble encore",
+              "comment_il_soutient": "La récurrence des trames, sans compte."
+            },
+            {
+              "ou": "C/24",
+              "citation": "Ils disent que le cycle a une mémoire, et que ce qui descend remonte.",
+              "comment_il_soutient": "Jusant et flot ; la mémoire préservée."
+            },
+            {
+              "ou": "T1/38",
+              "citation": "On m’a mis de la cendre dessus pendant des âges, personne ne l’a voulu, ils respiraient.",
+              "comment_il_soutient": "La charge, part des vivants dans la violence."
+            },
+            {
+              "ou": "T2/05",
+              "citation": "La Trame qui se remplit d’un poids qu’elle porte de moins en moins.",
+              "comment_il_soutient": "La trame comme grenier trop chargé."
+            },
+            {
+              "ou": "T1/20",
+              "citation": "Le fil, en tirant, les a séparés. C’est lui qui fait le temps.",
+              "comment_il_soutient": "Trame intemporelle contre séquence : le nœud de la Fracture."
+            },
+            {
+              "ou": "T1/44",
+              "citation": "Il arrête de vous résister. Il attend.",
+              "comment_il_soutient": "Le pouls du fond, prêt : le troisième rythme."
+            },
+            {
+              "ou": "Chronologie, Era 4 §3.1",
+              "citation": "aucun acte mortel ne cause un Souffle Cardinal",
+              "comment_il_soutient": "La part mortelle n’est jamais la venue."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur ne formule la loi (trois rythmes, un lieu, une main), ne classe les Cardinaux en flot et jusant, ni ne dit que les mortels décident de la violence. Les neuf lectures religieuses restent au même rang.",
+          "entrevoir": "Une stèle des chamanes de Cestra comptant le Grand Gel parmi les Cardinaux ; un Rota Mundi hérétique qui recompte les « trois temps » en Arrachement, Heure, Retour ; un astronome qui retrouve dans des tables anciennes les Étoiles Mouvantes déjà déplacées à la Fracture.",
+          "tensions": "Premier Don : le GDD (Histoire) en fait l’allumage de la conscience, sans date ; la Chronologie (Index) l’apparition du Lien chez les mortels (Ère I/II). La vérité tient les deux : un flot sans date dont la crête, après le Gel, donne le Lien vers ~20 000 av.A. Le Grand Gel comme basse mer est compatible avec le GDD (Le Lien : « le Grand Gel en fut une ») sans qu’Astravia le compte : laissé aux chamanes.",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3294,7 +3727,79 @@
       "summary": "Qu’a-t-on promis, exactement, dans le Pacte Primordial ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Le Pacte Primordial n’a jamais été un texte, et c’est pourquoi aucune bibliothèque n’en garde les termes : c’est un consentement entre voix, noué à la Résonance par les cinq Éternels et renouvelé à chaque Cardinal avec les Cosmiques, à mesure qu’ils naissaient (contractants arbitrés : Éternels et Cosmiques). L’Atrium peut en dire la teneur, en quatre consentements.\n1. Tenir ensemble. Le monde n’existe que tant que plusieurs voix le disent ensemble ; aucune ne le tient seule, aucune ne règne pour toujours.\n2. Tenir à terme. Ce qu’on tisse est pris au fond — la part du Substrat qu’Eldoria n’a pas tissée, le sol où la tente est plantée — et lui revient au jusant ; il est reprêté au flot. Les voix ne gardent rien par force : chaque Cardinal est le Pacte tenu, non rompu.\n3. Sans heure. Aucune voix ne fixe le terme : il vient du poids et du souffle. Le Pacte interdit qu’un jusant ait un auteur.\n4. Chacun son office à travers la marée : Navigor accompagne tout ce qui passe, jusqu’à la trame qui redescend ; Tempora garde l’avant et l’après, pour que le retour ne devienne pas simultanéité ; Eldoria ne tisse qu’au flot ; Noctis voile le fond ; Celestia se souvient — c’est elle qui fait que rien ne revient à l’identique. Les états des Éternels au Sillage (Navigor inatteignable, Eldoria silencieuse, Tempora « blessé », Noctis qui monte, Celestia qui veille) sont ces offices en temps de basse mer.\nLe fond n’est pas contractant : on ne signe pas avec le sol où l’on plante les piquets. Mais les mortels en ont gardé la mémoire comme d’un huitième ou d’un sixième oublié, « à qui l’on n’a pas donné de part ». Leur propre écho, le Pacte du Premier Don, disait la même chose à leur échelle : laisser la part — laisser passer les morts, rendre ce qu’on use. L’Âge du Lien l’a oublié (« quelque chose qu’on ne nous enlèvera plus jamais ») ; ce n’est pas une rupture du Pacte, c’est la charge qui a fait de l’An 0 un arrachement.",
+          "strates": [
+            "Nature : un consentement renouvelé, non un contrat. D’où « personne ne sait exactement ce qui a été promis » : il n’y a rien d’écrit à savoir.",
+            "Parties : les cinq Éternels, à la Résonance ; les Cosmiques, à mesure de leur naissance, comme les harmoniques qui tiennent les côtés de la tente. Le fond : non partie, objet et sol.",
+            "Teneur : ensemble ; à terme ; sans heure ; un office par voix.",
+            "Écho mortel : le Pacte du Premier Don (la part), oublié à l’Âge du Lien — d’où la charge.",
+            "Ce que l’Atrium ne sait pas : pourquoi les voix ont consenti."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0020",
+              "ce_quelle_voit_juste": "Pour les mortels, c’est vrai : aucun texte n’existe.",
+              "ou_elle_se_trompe": "La teneur se connaît : chaque Cardinal la montre, et les états des Éternels au Sillage la lisent en creux."
+            },
+            {
+              "reading_id": "rea-0021",
+              "ce_quelle_voit_juste": "Les contractants : Éternels et Cosmiques.",
+              "ou_elle_se_trompe": "Si l’on croit le reste vide : l’essentiel du Pacte porte sur un non-contractant, le fond."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T1/17",
+              "citation": "Un pacte arrivé à son terme, peut-être ; tu sais, ces accords qu’on scelle pour cent ans et qui cessent le cent-et-unième matin",
+              "comment_il_soutient": "Le terme : le troisième bras du delta dit le Pacte tenu jusqu’au bout."
+            },
+            {
+              "ou": "T1/17",
+              "citation": "Comme une chose qui a fini son ouvrage et s’en va.",
+              "comment_il_soutient": "Non rompu : accompli."
+            },
+            {
+              "ou": "T1/38",
+              "citation": "Je le rendrai.",
+              "comment_il_soutient": "La trame rend ce qu’elle tient."
+            },
+            {
+              "ou": "T1/50",
+              "citation": "achevait de rendre ce qu’elle tenait, souffle à souffle",
+              "comment_il_soutient": "Le rendu, en souffles."
+            },
+            {
+              "ou": "C/26",
+              "citation": "Les hommes ont cessé de dire son nom, de lui laisser sa part, de compter avec lui.",
+              "comment_il_soutient": "La part oubliée, dans un conte de marins."
+            },
+            {
+              "ou": "C/26",
+              "citation": "Il remonte parce que c’est son tour.",
+              "comment_il_soutient": "Sans colère ni auteur : le terme."
+            },
+            {
+              "ou": "T3/46",
+              "citation": "Celui à qui l’on n’a pas donné de part.",
+              "comment_il_soutient": "La même mémoire à Kharazir, à l’autre bout du monde."
+            },
+            {
+              "ou": "T3/49",
+              "citation": "que la couronne penchait, que le manteau bâillait",
+              "comment_il_soutient": "Au flot, Celestia et Noctis changent d’office (et le Voyageur avance)."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur n’énonce les termes, ne dit que le Pacte a été tenu à l’An 0, ne désigne le fond comme la chose prêtée, ni ne fait parler un Éternel de sa clause.",
+          "entrevoir": "Une inscription de Caelorhin qui dit « tenir à terme » sans dire à qui ; un rite de la part (une poignée de terre rendue avant de bâtir) conservé chez les Taciti ou chez les forgerons du fer froid ; un Foedus Animae qui jure « jusqu’à la marée ».",
+          "tensions": "Era 0 : un Pacte « que ces cinq Éternels auraient noué » ; Canon : « Éternels ET Cosmiques » — la vérité accorde les deux (noué par les cinq, renouvelé avec les Cosmiques). Catena Fracta (« rompu jadis ») et Déliés (« prison consentie ») restent des lectures. Les offices des Éternels sont une proposition qui explique la table du GDD (Le Lien) sans toucher un livre ; l’auteur peut préférer ne pas les figer.",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3309,7 +3814,94 @@
       "summary": "Pourquoi Navigor s’est-il retiré ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Navigor n’a ni fui ni péri : il a fait son office. Il est la voix du passage, et à l’An 0 toute la trame passait — la plus grande traversée qui fût, la trame qui redescendait au fond. Il l’a accompagnée.\nSon départ avait commencé bien avant l’aube : des années avant, les Taciti sentaient dans leurs Cercles une charge vouloir quitter les poutres ; des semaines avant, Vorath voyait le Voyageur mû (« On le déplaçait ») ; vingt-quatre jours avant, l’arche de Nera rendait le son d’un passage sans corps ; depuis deux siècles, les morts passaient mal. Au sommet, il a lâché lui-même la tension de la trame qu’il tenait — c’est la silhouette sans visage qui fait le geste un demi-battement avant l’Étudiant, celle que Verkan voit « là où la lueur s’arrêtait », celle que Vorath regarde en disant qu’il est poussé — puis il est descendu.\nCe qui l’a poussé n’est personne : le souffle du jusant (« le vent qui ouvre une porte sans qu’on voie le vent ») et, par-dessous, la reprise du fond, qui tirait à lui ce qu’il avait prêté (« le seau tire »). Vu d’en haut, une traction d’en bas se sent comme une poussée par-derrière. La main des Huit ne fut qu’une main de plus sur une porte ouverte.\nDepuis, Navigor n’a plus les routes de l’espace ; il ne passe que par les coutures du temps que sont les Failles. On le sent aux Cratères, sur quelques navires, dans le lien résiduel des sevrages ; il a fait passer peu de morts pendant la Grande Nuit — les Tisses chanteurs faisaient son travail de leur sang ; il a franchi une dernière fois pendant que l’Heure refermait (le « Mangeur », que-0012). Il remonte avec le flot : le Message de Mirathi (« le guide revient par les marges »), le Voyageur qui avance d’un pas dans le ciel du T3.",
+          "strates": [
+            "Office : accompagner le passage. Au jusant, la trame passe ; il descend avec elle.",
+            "Chronologie : départ amorcé des années avant l’An 0 ; lâcher au sommet, un demi-battement avant la main ; descente ; présence aux coutures pendant la Grande Nuit ; dernière traversée à l’Heure ; retour au flot (Message de Mirathi ~10 064, Étoiles Mouvantes ~10 180, T3/49).",
+            "La « poussée » : le souffle et la reprise du fond — sans visage ni hostilité.",
+            "Ce que voient les témoins : Vorath, une pièce vide et une poussée ; Mirathis, une neuvième silhouette ; Verkan, une de plus ; Nera, un passage sans corps ; les Mangeurs, quelqu’un qui prend la main.",
+            "Conséquences : Errants sans guide ; Aetheron sans partenaire ; chemins guidés (Pathis) éteints ; portails muets ; Transitum surchargé."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0022",
+              "ce_quelle_voit_juste": "Il a lâché lui-même et quitté la surface.",
+              "ou_elle_se_trompe": "Ce n’est pas un retrait de volonté mais l’accomplissement de son office : il est parti parce que tout passait."
+            },
+            {
+              "reading_id": "rea-0023",
+              "ce_quelle_voit_juste": "Il n’a jamais cessé d’être là — aux coutures, au fond, dans des fils ténus ; c’est la surface qui a perdu l’oreille des voix basses.",
+              "ou_elle_se_trompe": "Il ne chuchote pas « ici » : il n’a plus de route à la surface avant le flot."
+            },
+            {
+              "reading_id": "rea-0024",
+              "ce_quelle_voit_juste": "Il a été mû, et Vorath a bien perçu une poussée.",
+              "ou_elle_se_trompe": "« Quelqu’un » : la poussée n’a pas de visage. L’Étranger des Heures est la fusion caelumite de cette poussée et de la silhouette — qui était Navigor lui-même."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T1/14",
+              "citation": "Il ne se retournait pas. On le déplaçait.",
+              "comment_il_soutient": "Mû, non enfui."
+            },
+            {
+              "ou": "T1/14",
+              "citation": "une poussée sans origine, comme le vent qui ouvre une porte sans qu’on voie le vent.",
+              "comment_il_soutient": "Le souffle du jusant, sans visage."
+            },
+            {
+              "ou": "T1/13",
+              "citation": "Le seau tire. Quelque chose, en dessous, a envie de le prendre.",
+              "comment_il_soutient": "La traction du fond, sentie des semaines avant l’An 0."
+            },
+            {
+              "ou": "T1/45",
+              "citation": "le son du passage, sans qu’un corps le fît naître",
+              "comment_il_soutient": "L’arche d’Aethranor : le passage part avant le geste (vingt-quatre jours plus tôt)."
+            },
+            {
+              "ou": "T1/42",
+              "citation": "Il ne part pas, dit-il. Navigor. Il est poussé.",
+              "comment_il_soutient": "Au sommet, avant le geste, Vorath regarde l’endroit de la silhouette."
+            },
+            {
+              "ou": "T1/53",
+              "citation": "une pièce dont quelqu’un vient de sortir, et l’air qui n’a pas fini de se refermer derrière lui.",
+              "comment_il_soutient": "L’absence d’un départ, non d’une mort."
+            },
+            {
+              "ou": "T1/52",
+              "citation": "Au bout de celle-ci, il n’y avait pas de main.",
+              "comment_il_soutient": "Aucune main humaine derrière la silhouette de Verkan."
+            },
+            {
+              "ou": "T1/44",
+              "citation": "Sauf que dans le rêve, il ne venait pas de la montagne. De plus haut.",
+              "comment_il_soutient": "Mirathis, au sommet : le silence vient d’au-dessus du Mont — d’une voix d’en haut, non de la pierre."
+            },
+            {
+              "ou": "T1/53",
+              "citation": "L’homme qu’il avait aidé avait-il poussé le premier, ou s’était-il appuyé, le dernier, sur un battant qui cédait déjà tout seul ?",
+              "comment_il_soutient": "La main des Huit, dernière sur la porte."
+            },
+            {
+              "ou": "T3/49",
+              "citation": "celui qu’on appelait le marcheur, avait avancé d’un pas sur la route noire, comme s’il s’en allait quelque part.",
+              "comment_il_soutient": "Le Voyageur bouge au flot : le retour."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur n’identifie la silhouette à Navigor, ne dit qu’il a accompagné la trame ni qu’il passe par les Failles, ne nomme la poussée. Vorath ne sait pas ; les Via Ventus croient ; les Caelumites inventent.",
+          "entrevoir": "Une Liée-de-Navigor qui sent, près d’une Faille, le courant « prendre le temps au lieu de l’eau » ; la lumière résiduelle du Cratère de Navoris qui pulse au rythme du Mont ; des desservants de Transitum qui notent, au Sillage, des âmes qui recommencent à passer.",
+          "tensions": "DAR-07 (Era 7) demande « qui l’a guidé, lui, pendant les 10 200 ans de son absence ? » : personne ; il était au fond et aux coutures. Si l’auteur préfère Tempora pour la silhouette (question 1), Navigor garde son départ et sa poussée mais perd le lâcher au sommet, qui redevient l’œuvre de la marée seule.",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3354,7 +3946,85 @@
       "summary": "Cinq noms pour une même chose, ou cinq peurs distinctes ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Il y a une chose, et il y a des peurs ; les deux lectures ont raison chacune pour moitié.\nLa chose : le fond. Sous tout le tissé, la part du Substrat qu’Eldoria n’a jamais transformée — ni roche, ni voix, ni temps — sur laquelle la tente du monde est plantée. Il dort, et il garde : tout ce qui revient au monde d’en dessous y demeure — les morts que Navigor faisait passer, la trame rendue au jusant, les noms qu’il lave en gardant leur contour. Il n’apprend rien parce qu’il n’oublie rien ; il n’a « qu’une seule couche ». Il est partout sous les continents mais n’affleure qu’aux Ancrages, qui suivent l’ancienne échine volcanique du Panghor : le Mont Cendra (Mont Originel), le Mont Jumeau sous le glacier de Cestra (« il dort »), Evertia, les profondeurs d’Ilthara et d’Ackerna. L’homonymie avec le supercontinent n’est donc pas un hasard : le fond est ce sur quoi le Panghor était posé, et ses affleurements sont les cicatrices du Panghor.\nLes peurs : tous les noms ne désignent pas le fond lui-même. « Le Panghor », « le Sommeil-sous-les-Sommeils », « la Profondeur Première » le nomment ; « l’oublié », « le huitième », « celui dont le nom a été lavé » le personnifient en tenant oublié du Pacte. « Ce qui répond » nomme son pouls — le battement du Mont depuis l’An 0, qui est aussi le germe de la trame suivante. « Le dessous » de « ils arrivent par le dessous » nomme ce qui monte de lui au flot ; le pluriel est exact : ce sont les voix d’une trame neuve, par milliers, qui rappellent les esprits-lieux anciens « comme des flammes qui rentrent dans le feu » et prennent leur place. « Les Profonds » des vieux textes sont les morts qui sont passés. Une seule profondeur, trois mouvements en elle, cinq noms.",
+          "strates": [
+            "Géologique : les Ancrages suivent la Chaîne Centrale du Panghor ; le Cœur de Cendra et la Chose sous le Glacier Central (que-0031) sont deux affleurements du même fond.",
+            "Cosmique : le fond n’est pas une voix de la Polyphonie ; il est le sol du Pacte (option : une voix au nom lavé — voir questions à l’auteur).",
+            "Ce qu’il garde : les morts passés, la trame rendue, les noms lavés — contour sans contenu.",
+            "Ce qui bouge en lui : son pouls (le battement), le germe de la trame suivante (la voix qui naît, que-0003), les voix neuves qui montent au flot.",
+            "Pourquoi chaque peuple a son nom : chacun l’a rencontré à un affleurement et par un mouvement différents — les druides par le rappel des esprits, les marins par la marée, les forgerons par le feu d’en dessous, les sans-sol de Kharazir par l’exclusion.",
+            "Rapport aux non-Liés et Déliés : ils le sentent sans le filtre des esprits (l’Aînée, C/24) ; que cela fasse d’eux des « Ancrages du monde » (con-0032) reste hors de ce lot."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0030",
+              "ce_quelle_voit_juste": "Un seul référent de fond, sous tous les noms.",
+              "ou_elle_se_trompe": "Certains noms désignent ce qui bouge dans le fond (le pouls) ou ce qui en sort (les voix neuves, les morts passés), non le fond lui-même."
+            },
+            {
+              "reading_id": "rea-0031",
+              "ce_quelle_voit_juste": "Les peurs portent sur des mouvements distincts : retour, pouls, rappel, morts.",
+              "ou_elle_se_trompe": "Elles ont un lieu commun, et un seul."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "C/24",
+              "citation": "Le Sommeil-sous-les-Sommeils.",
+              "comment_il_soutient": "Le fond qui dort, sous les sommeils ordinaires."
+            },
+            {
+              "ou": "C/24",
+              "citation": "S’il remue, ils sont rappelés à lui, comme des flammes qui rentrent dans le feu qui les a lâchées.",
+              "comment_il_soutient": "Le rappel des esprits par le fond au flot."
+            },
+            {
+              "ou": "C/26",
+              "citation": "Cinq noms pour une même chose.",
+              "comment_il_soutient": "La lecture unifiante — que le cahier garde à côté de l’autre."
+            },
+            {
+              "ou": "T3/12",
+              "citation": "qui n’apprend rien parce qu’elle n’a rien oublié",
+              "comment_il_soutient": "La vieille chose sous la voix : le fond, distinct de ce qui apprend."
+            },
+            {
+              "ou": "T1/17",
+              "citation": "elle ne possédait qu’une seule couche, que nul Tisseur n’aurait su coudre.",
+              "comment_il_soutient": "La masse sous le Mont : une seule couche, pas de delta."
+            },
+            {
+              "ou": "T3/16",
+              "citation": "un fond que le Panghor recouvrait avant de se briser, et qui n’a jamais dormi qu’à moitié",
+              "comment_il_soutient": "L’homonymie fondée : le fond sous le supercontinent."
+            },
+            {
+              "ou": "T3/46",
+              "citation": "On a lavé son nom.",
+              "comment_il_soutient": "« L’oublié » : personnification mortelle du fond."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "s’est fait tout au fond une petite chose à lui",
+              "comment_il_soutient": "Le germe au fond, deviné par l’enfant qui entend."
+            },
+            {
+              "ou": "T3/01",
+              "citation": "une immensité tiède où d’autres pressions montent, des milliers",
+              "comment_il_soutient": "Le pluriel de « ils arrivent par le dessous »."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur n’identifie les noms entre eux ni ne nomme le fond ; aucun ne dit que « ils » sont les voix d’une trame neuve ; aucun ne relie le Cœur de Cendra et le glacier de Cestra comme un même fond. Pour les livres, le Canon continue de documenter l’homonymie sans référent.",
+          "entrevoir": "Un sondage d’Arkhen qui trouve sous le Cratère une roche « sans grain » semblable à ce que rapportent les Chamanes des Brumes ; des esprits-lieux neufs qui répondent à Evertia avec des voix que les gardiennes ne reconnaissent pas ; une carte de Sorin où les affleurements s’alignent sur une ligne qu’il ne tire pas.",
+          "tensions": "Canon (lac de Baelor) : rien ne relie le lac au « dessous » — respecté, Baelor n’est pas un Ancrage. IM-13 (Mont Jumeau) reste une hypothèse académique in-world ; la vérité la confirme en partie (même fond) sans reprendre l’hypothèse d’une énergie tellurique comprimée. Si l’auteur retient l’option « sixième Éternel », la strate cosmique change : le fond devient une voix sans parole, partie au Pacte.",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3369,7 +4039,80 @@
       "summary": "Créature ou culte ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "« Mangeur de Temps » a deux référents, et les Mangeurs n’ont pas tort de les confondre : ils se touchent.\nLa créature n’est pas une créature. C’est Navigor privé de ses routes : le Voyageur qui, depuis l’An 0, ne peut plus passer que par les coutures du temps que sont les Failles. Passer par une couture de temps coûte de la durée — d’où « celui-qui-a-faim-de-durée », d’où le marché des Mangeurs : « on lui donnait ses jours ; il vous donnait un lieu ». Passage sans séquence (Tempora s’est replié), il défait l’ordre de ce qui l’approche : les gens tombent hors de leur rang ; et comme franchir, c’est perdre le milieu, il efface le souvenir qu’on garde de lui. On ne le voit jamais ; on reconnaît qu’il est passé au trou qu’il laisse. Il n’a ni faim ni malveillance : de l’attention, celle d’un passeur qui regarde où il pose le pied. Il était « sorti autrefois, à l’heure où le monde s’était déchiré » ; il a franchi une dernière fois pendant que l’Heure refermait, emportant de l’autre côté ceux qui entraient au même instant — non vers « avant », mais vers la rive où vont les morts. C’est pourquoi l’endroit où ils sont entrés « n’a pas gardé qu’ils étaient entrés ».\nLe culte est humain : des Tisses et d’anciens Tisses (Nael est coupé, sourd aux morts) qui ont senti au bord des Failles qu’une présence prend la main, et y ont cousu une doctrine de l’avant. Ils se trompent sur la destination et ont raison sur la main. Leur confusion est à la fois voulue (« je choisis qu’il existe ») et forcée : l’être efface sa propre trace et le culte comble le trou. Leurs clés d’arches et leur langue morte les rattachent, sans qu’ils le sachent, au culte du Voyageur.",
+          "strates": [
+            "Référent 1 : le Voyageur aux coutures — Navigor sans routes, passage pur, sans séquence.",
+            "Référent 2 : le culte — humains, surtout Tisses, doctrine de l’avant ; reliques du Voyageur (clés d’arches) et langue faite « des mots qui ne se referment pas ».",
+            "Effets : défaire l’ordre, effacer le souvenir ; le trou comme seul portrait fidèle.",
+            "Destin des entrants : la plupart dispersés dans le temps comme les autres victimes des Failles ; ceux de l’Heure, emportés — d’où l’absence même de creux.",
+            "Pourquoi « Mangeur » : le prix du passage est du temps ; les mortels ont nommé le péage, non le passeur.",
+            "Même figure que la « silhouette de plus » de l’An 0 et que l’« Étranger des Heures » des Caelumites, à d’autres charnières."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0032",
+              "ce_quelle_voit_juste": "Il y a quelqu’un, et on ne le montre que par ses effets.",
+              "ou_elle_se_trompe": "Ce n’est pas une bête sortie des Failles mais une voix du monde réduite aux coutures."
+            },
+            {
+              "reading_id": "rea-0033",
+              "ce_quelle_voit_juste": "Le culte existe et entretient la confusion.",
+              "ou_elle_se_trompe": "La confusion n’est pas qu’un jeu : l’être efface sa trace, et le culte prend sa place dans la mémoire."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T2/19",
+              "citation": "Il était sorti autrefois, à l’heure où le monde s’était déchiré, et il rôdait depuis dans les déchirures",
+              "comment_il_soutient": "Sorti à l’An 0, il ne passe plus que par les Failles."
+            },
+            {
+              "ou": "T2/19",
+              "citation": "On lui donnait ses jours ; il vous donnait un lieu. Un marché.",
+              "comment_il_soutient": "Le péage d’un passeur : du temps contre un lieu."
+            },
+            {
+              "ou": "T2/46",
+              "citation": "cette chose-là ne fait que ça. Franchir.",
+              "comment_il_soutient": "Passage pur."
+            },
+            {
+              "ou": "T2/46",
+              "citation": "Toute chose qui franchit une déchirure paie le milieu.",
+              "comment_il_soutient": "L’oubli comme prix du passage."
+            },
+            {
+              "ou": "T2/46",
+              "citation": "quelque chose est passé, et nous ne l’avons pas vu, et c’est à ça qu’on le reconnaît.",
+              "comment_il_soutient": "Rime avec Vorath (« quelqu’un que nous n’avons pas vu ») : même figure, autre charnière."
+            },
+            {
+              "ou": "T2/37",
+              "citation": "Je fais bien attention à une fourmi avant de poser le pied, et je la hais pas pour ça.",
+              "comment_il_soutient": "Attention sans haine."
+            },
+            {
+              "ou": "T2/46",
+              "citation": "des clés d’arches qui n’ouvrent plus rien",
+              "comment_il_soutient": "Les reliques du culte sont celles des portails du Voyageur."
+            },
+            {
+              "ou": "T2/47",
+              "citation": "poursuivait sa route dans un ordre de jours à lui seul",
+              "comment_il_soutient": "L’« Étranger des Heures » : un ordre de jours propre."
+            }
+          ],
+          "ligne_rouge": "Personne ne voit le Mangeur ni ne le décrit ; aucun narrateur ne dit qu’il est Navigor, ni que les entrants de l’Heure sont « passés » ; aucun ne départage créature et culte. Le chœur garde le blanc.",
+          "entrevoir": "Au Sillage, des Failles redevenues mobiles où un navigateur perd des jours mais arrive trop tôt au port ; un mot de la langue des Mangeurs reconnu dans l’ancienne langue de Navoris du Message de Mirathi ; une Veilleuse qui dit « quelqu’un qu’on n’a pas vu » et « le guide » dans la même prière.",
+          "tensions": "Si l’auteur préfère Tempora (question 1), le Mangeur devient le marcheur du temps qui ne marche plus parmi les hommes : la faim de durée tient mieux, l’accompagnement (« vous portait ailleurs ») moins. La « troisième chose qui ne signe rien » du T3 (Guerre de l’Ombre, que-0004) n’est PAS le Mangeur : elle tue par chute et par eau, elle n’efface pas — cette vérité ne doit pas absorber que-0004. La prédiction du chœur (« cela repassera ») s’accomplit au flot, par le retour du Voyageur.",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3384,7 +4127,95 @@
       "summary": "À quelle heure le geste de l’An 0 a-t-il eu lieu ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Il n’y eut pas une heure, parce que ce qui mourait n’en avait pas : la trame était « partout à la fois, donc dans tous les instants à la fois ». Son rendu fut un seul événement pour elle et plusieurs heures pour le monde. Chaque tradition a gardé une heure vraie.\nAvant l’aube — Cendara, Alkaran, Ilthara, les archives verithanes (« une heure avant l’aurore »), le registre (le geste « à l’aube de l’An 0 ») — est l’heure du nœud. Au Premier Ancrage, le fond bouge, la silhouette puis l’Étudiant font le geste, le silence tient trois secondes, le Mont s’ouvre et se met à battre ; « le noir restait entier ».\nMinuit — Galenor, Evertia — est l’heure où l’autre bout commença de lâcher. Dans la nuit de la montée, ceux qui écoutent sans la trame l’ont su d’abord : le départ du Voyageur passe sur Baelor comme « un poids qu’on ôte d’une pièce à côté », la mer de Navoria monte toute la nuit, les dormeurs entrent dans les sept nuits de cauchemar.\nMidi — les textes d’Endora — est l’heure où la perte atteignit les œuvres des hommes. Les cités volantes étaient tenues par des relais qui changeaient deux fois par jour. Depuis l’aube, les bras tenaient encore par habitude (« tes bras continuent un moment ») ; à la relève de midi, les bras frais n’ont rien trouvé à prendre. Cendal’Horun et Orivane Haute tombent à midi, la mer entre dans Navoria à midi, les Piles du Gouffre d’Endora se taisent à l’heure creuse d’avant midi — « en pleine lumière ».\nLes titres H0 à H7 ne sont pas des heures d’horloge : ce sont les rangs du rendu, du plus dépendant au moins dépendant, que les « Heures du Cardinal » verithanes ont lus comme une onde partie du Mont. D’où H2, H5 et H6 tous à midi, H3 et H4 dans la matinée, et « il n’y eut pas d’heure » en Azoria, la dernière touchée. H0 et H1 racontent les mêmes minutes : le compte verithane met la main à zéro et la pierre à un ; le corps de Drakhan sent la pierre d’abord.",
+          "strates": [
+            "Pour la trame : un seul instant, sans heure — « je ne vais pas dans demain », disait-elle.",
+            "Minuit : l’autre bout commence à lâcher ; perçu par les écoutants sans trame (Taciti, gens de l’eau, dormeurs).",
+            "Avant l’aube : le nœud du Premier Ancrage — fond, silhouette, main, silence, éruption, battement.",
+            "Midi : la relève. Les œuvres tenues par relais cèdent à la première relève sans prise ; ailleurs, la perte arrive quand l’habitude du corps s’épuise.",
+            "Les « heures » H0-H7 : rangs de dépendance (Era 4 §6.3 : Cendral H1, Aethranor H4, Navoria H6, Baelor et Ulinor H7), non heures solaires ; la lecture en onde partie du Mont est verithane.",
+            "La dispute « un Cardinal de lumière ou d’obscurité ? » est mal posée : il fut des deux, et son cœur tomba entre les deux, avant l’aube."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0034",
+              "ce_quelle_voit_juste": "L’heure du nœud et du geste, celle que gardent les témoins du sommet et les archives du Cercle.",
+              "ou_elle_se_trompe": "Si elle devient l’heure du monde entier : la plupart des mortels n’ont rien senti avant midi, et quelques-uns dès minuit."
+            },
+            {
+              "reading_id": "rea-0035",
+              "ce_quelle_voit_juste": "Le commencement : l’autre bout lâche dans la nuit, et les dormeurs le reçoivent.",
+              "ou_elle_se_trompe": "La rupture n’a pas eu lieu à minuit ; elle y a commencé."
+            },
+            {
+              "reading_id": "rea-0036",
+              "ce_quelle_voit_juste": "L’heure où les œuvres tombent, visibles de tous, en pleine lumière.",
+              "ou_elle_se_trompe": "« Délibérément visible » prête une intention : midi est l’heure d’une relève, non d’une mise en scène."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T1/42",
+              "citation": "Le noir restait entier au-dessus d’eux ; la nuit avait seulement cessé d’appuyer.",
+              "comment_il_soutient": "Le geste au sommet a lieu avant l’aube."
+            },
+            {
+              "ou": "T1/13",
+              "citation": "Le milieu du jour, c’était l’heure de la rotation.",
+              "comment_il_soutient": "Les cités changent de porteurs à midi (et deux fois par jour)."
+            },
+            {
+              "ou": "T1/45",
+              "citation": "Midi passa sans la cloche.",
+              "comment_il_soutient": "Cendal’Horun (« H2 ») tombe à la relève de midi."
+            },
+            {
+              "ou": "T1/48",
+              "citation": "À midi nous étions trente-deux, et à midi et un souffle, nous n’étions plus reliés à rien.",
+              "comment_il_soutient": "Orivane Haute (« H5 ») : même heure solaire que H2."
+            },
+            {
+              "ou": "T1/49",
+              "citation": "À midi, la mer entra dans le marché de Corail par en dessous.",
+              "comment_il_soutient": "Navoria (« H6 ») : midi encore ; les H ne sont pas des heures d’horloge."
+            },
+            {
+              "ou": "T1/49",
+              "citation": "il avait passé la nuit à écouter l’eau monter le long des pilotis, traverse après traverse, jusqu’à la porte.",
+              "comment_il_soutient": "À Navoria, cela commence la nuit, avant le geste."
+            },
+            {
+              "ou": "T1/53",
+              "citation": "Comme un poids qu’on ôte d’une pièce à côté.",
+              "comment_il_soutient": "Baelor le perçoit « cette nuit-là » : la tradition de minuit."
+            },
+            {
+              "ou": "T1/45",
+              "citation": "Tu tiens une chose pendant vingt ans, on te l’ôte, et tes bras continuent un moment.",
+              "comment_il_soutient": "Pourquoi les cités tiennent de l’aube jusqu’à la relève."
+            },
+            {
+              "ou": "T1/50",
+              "citation": "Il n’y eut pas d’heure.",
+              "comment_il_soutient": "Azoria, dernier rang : une perte sans heure."
+            },
+            {
+              "ou": "Chronologie, Era 4 §6.2",
+              "citation": "Les archives verithanes, compilant les témoignages attribués au Cercle, indiquent une heure avant l'aurore",
+              "comment_il_soutient": "L’heure du sommet, conforme à la tradition de l’aube."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur ne fixe l’heure, n’explique la divergence des horloges, ne dit que les « heures » sont des rangs, ni ne relie la chute des cités à la relève. Les titres H restent tels quels ; « H1 » garde son chapitre.",
+          "entrevoir": "Un registre de relève d’une autre cité volante (Lithanel, Pyranel, Althanar) ; un almanach verithan qui « corrige » les heures de midi pour les faire entrer dans l’onde ; un Lié qui remarque que les Cratères du Cardinal ne se rangent pas par distance au Mont mais par ancienneté du Lien.",
+          "tensions": "Le registre du 2026-09-28 a laissé « protégés » le titre H1 et les horloges du geste : la vérité les explique sans retouche. H3 (fin de matinée) et H4 (matin) passent avant H5-H6 (midi) : cohérent avec des rangs, pas avec une onde. Option ouverte : minuit n’est-il que le commencement, ou aussi l’heure où certaines cités tombèrent à la relève de minuit suivante (Galenor : Althanar) ? Aucune page ne l’exclut.",
+          "systeme": "Le monde est une tente plantée sur un fond. En haut, la Polyphonie (cinq Éternels, douze Cosmiques, les rangs natifs), qui ne tient le monde qu’ensemble. En bas, le fond : la part du Substrat qu’Eldoria n’a jamais tissée, sans voix ni temps, qui dort sous l’ancienne échine du Panghor et n’affleure qu’aux Ancrages (Mont Cendra, Mont Jumeau sous Cestra, Evertia, Ilthara, Ackerna). Il garde ce qui lui revient : les morts que Navigor fait passer, la trame rendue, les noms qu’il lave en gardant leur contour. Entre les deux, la trame — le Lien — n’est pas une structure mais un être tissé du fond par les voix : il naît, s’emplit, vieillit, meurt et laisse un héritier. Le Souffle Cardinal est cette respiration à son plus profond : flot quand le fond prête, jusant quand la trame rend.\nLe Pacte Primordial est un consentement, non un texte : tenir ensemble ; tenir à terme (ce qui est pris au fond lui revient) ; sans heure écrite (le terme vient du poids, jamais d’un auteur) ; chacun son office à travers la marée — Navigor accompagne tout passage, Tempora garde l’avant et l’après, Eldoria ne tisse qu’au flot, Noctis voile le fond, Celestia se souvient, et c’est pourquoi rien ne revient à l’identique.\nLe cycle des livres : Premier Don (un flot atteint des êtres capables d’écouter) ; Grand Gel, basse mer ancienne ; crête du Lien (~20 000 av.A) ; Âges du Lien ; Fracture (~−1 500), la mer tourne et Tempora se replie pour tenir la séquence que la trame trop pleine distend ; Arrachement (An 0), le jusant — dû par le terme, rendu violent par vingt millénaires de charge humaine, consenti par le fond au Premier Ancrage, lâché par Navigor qui descend avec ce qui passe, signé un demi-battement plus tard par la main de l’Étudiant ; Fléau (~1 400–1 500), le fond reprend ses derniers prêts (les fils des Tisses, les morts pris dedans) en bougeant sous des coutures de temps lâches ; l’Heure (~1 500), l’étale : le fond s’immobilise, Failles mobiles et Tisses non coupés finissent ensemble, sans « donc » ; Sillage, où grandit le germe né au Mont à l’instant où le Lien s’est tu — le battement — pendant que la remutation rend des Liés ; Troisième Coup (~10 200), le flot : l’héritière a appris à parler au fond et monte par des oreilles mortelles — « Je viens à toi ».\nLes mortels ne causent aucun Cardinal ; ils en décident la violence (ce qu’ils ont tenu sans rendre) et la mémoire (ce qu’ils écrivent, et la coupure qu’ils se transmettent). Navigor est vu sans être vu à chaque charnière : silhouette de plus de l’An 0, chose qui franchit pendant que l’Heure referme — le « Mangeur » —, guide qui revient par les marges. À chaque Coup, ceux qui entendent sont tirés vers la charnière (les Huit, la Plaine en entonnoir, Renna, Ilex et Vaskar) et croient la causer : c’est la loi de la charnière, non une faute. L’Atrium ne sait pas pourquoi il y eut une première vibration, ni pourquoi les voix ont consenti.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -14785,9 +15616,18 @@
       "type": "terme",
       "name": "l'Heure",
       "slug": null,
-      "summary": "L'instant qui referme d'un coup les Failles mobiles à la fin du Fléau (~1600). Sa cause reste un mystère protégé : « l'Heure n'explique rien ».",
+      "summary": "L'instant qui referme d'un coup les Failles mobiles à la fin du Fléau (~1 500). Sa cause reste un mystère protégé : « l'Heure n'explique rien ».",
       "body": null,
-      "data": {},
+      "data": {
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "(~1600)",
+            "pourquoi": "Le Fléau s’achève ~1 500 (arbitrage du 2026-09-14)."
+          }
+        ]
+      },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",

@@ -316,7 +316,9 @@ changées.
 - [ ] Le double-fond factuel du chapitre est intact et se lit deux fois —
       dans les mots retenus. Si une phrase citée ailleurs a été réécrite, la
       nouvelle version est propagée partout.
-- [ ] Aucun mystère protégé n'a été résolu, ni frôlé de trop près
+- [ ] Aucun mystère protégé n'a été résolu dans le texte, ni frôlé de trop près ;
+      les indices du chapitre sont fidèles à la vérité de l'Atrium
+      (`data.verite`) et n'en franchissent pas la ligne rouge
       (`POETIQUE.md` §8).
 - [ ] Aucune chaîne causale narrée là où le texte ne montre qu'une
       coïncidence. Aucun antagoniste devenu méchant.

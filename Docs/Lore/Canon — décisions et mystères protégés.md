@@ -42,7 +42,7 @@ Quand deux sources se contredisent, l'ordre de priorité par défaut est : **Chr
 
 - Le Lien n'est pas une structure posée une fois pour toutes qui se serait brisée à l'An 0 : c'est une **trame vivante** qui se tend et se relâche au rythme le plus lent du monde (les **Souffles Cardinaux**). Elle se remplit sur des millénaires (les **Âges du Lien** = ses hautes marées), se **déchire** quand un Cardinal assez profond passe sur une trame assez pleine, puis se **remute** lentement (la réémergence des Liés au Sillage = ce retissage en cours). L'Arrachement est **une marée basse de plus** — ni la première déchirure, ni la dernière.
 - **Ce qui reste unique et protégé, ce n'est jamais *le fait* de la déchirure** (récurrent par nature), **mais *sa cause* à chaque déchirure** — les lectures concurrentes (Partie 2) sont intactes.
-- La cyclicité est portée par les **images natives d'Hybelior** — la *respiration* du Souffle, la *marée* qui monte et se retire — et non par « la roue » (une lecture parmi les neuf, celle des Rota Mundi). Différenciateurs assumés : le Souffle **ne rejoue jamais deux fois la même Ère à l'identique**, la **mémoire est préservée**, et **chaque déchirure a une cause différente et inconnaissable**.
+- La cyclicité est portée par les **images natives d'Hybelior** — la *respiration* du Souffle, la *marée* qui monte et se retire — et non par « la roue » (une lecture parmi les neuf, celle des Rota Mundi). Différenciateurs assumés : le Souffle **ne rejoue jamais deux fois la même Ère à l'identique**, la **mémoire est préservée**, et **chaque déchirure a une cause différente et inconnaissable** — pour ceux qui vivent dedans (l'Atrium la connaît : `que-0001`, `que-0006`).
 
 ### L'échelle du monde (décision de l'auteur, 26 septembre 2026)
 
@@ -65,10 +65,13 @@ Quand deux sources se contredisent, l'ordre de priorité par défaut est : **Chr
 
 ## Partie 2 — Les mystères protégés
 
-À ne **jamais** « corriger ». Avant toute retouche, vérifier qu'elle ne tranche aucun de ces points. Ce sont des flous **délibérés**.
+À ne **jamais** « corriger » **dans les livres**. Avant toute retouche, vérifier qu'elle ne tranche aucun de ces points dans le texte. Ce sont des flous **délibérés** — pour le lecteur.
+
+> [!important] Décision de l'auteur, 2026-09-28 — l'Atrium sait
+> « Peut-être que dans le livre ça doit être un mystère […] par contre il faut qu'on sache nous, dans l'Atrium, la réalité, qui n'est jamais simple. » Chaque question protégée porte désormais sa **vérité d'auteur** dans l'Atrium (`data.verite` : le récit de ce qui s'est passé, ses couches, ce que chaque lecture voit juste et où elle se trompe, les indices plantés, la **ligne rouge** que les narrateurs ne franchissent jamais). On écrit en sachant ; on ne dit jamais. Ce qui suit reste vrai **du texte**.
 
 - **Les lectures de l'Arrachement** — aucune ne s'impose. Ne corriger que la *classe* de l'événement (est-ce un Souffle Cardinal ?), **jamais la cause**.
-- **La causalité du geste de l'Étudiant** — jamais établie en fait. Le roman incarne la lecture verithane (les Huit *croient* agir) sans jamais prouver que leur rituel a causé l'Arrachement ; le delta de Mirathis (T1 ch. 17-18) et la « silhouette de plus » de Verkan (T1 ch. 44) sont les garde-fous.
+- **La causalité du geste de l'Étudiant** — jamais établie en fait. Le roman incarne la lecture verithane (les Huit *croient* agir) sans jamais prouver que leur rituel a causé l'Arrachement ; le delta de Mirathis (T1 ch. 16-17) et la « silhouette de plus » de Verkan (vue au T1 ch. 43, consignée au ch. 52) sont les garde-fous.
 - **« Revenir ou commencer »** — la voix qui naît au T3 (prologue → « Je viens à toi ») ne tranche jamais entre le Lien qui revient et une naissance neuve ; ni qui parle à la dernière page (Ilex ou le dessous).
 - **L'auteur de la Guerre de l'Ombre** — jamais révélé. Sanne meurt « sans visage, sans revendication » ; la note anonyme du T3 reste sans suite ; les Fils de l'Abîme restent le « suspect commode » ; la « troisième chose qui ne signe rien » demeure sans réponse.
 - **La cause du Fléau et de « l'Heure »** — les lectures rivales (blessure qui suppure, roue faussée, purge, l'Étranger des Heures) sont incarnées sans être tranchées ; l'Heure « n'explique rien » et il n'y a « aucun donc » entre extinction des Tisses et fermeture des Failles (coïncidence, jamais causalité).
