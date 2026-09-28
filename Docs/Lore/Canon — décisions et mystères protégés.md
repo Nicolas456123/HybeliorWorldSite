@@ -33,9 +33,9 @@ Quand deux sources se contredisent, l'ordre de priorité par défaut est : **Chr
 ### Monde & Histoire
 
 - **Table Chronologie corrigée** : Caeloria → **Azoria** ; Torkam → **Alkaran**.
-- **Théâtre des tomes 2 et 3 recentré** sur un bloc continental cohérent : Forge-Basse et marges de Kessane sur **Ilthara** (plus petit retcon).
+- **Théâtre des tomes 2 et 3 recentré** sur un bloc continental cohérent : Forge-Basse et marges de Kessane sur **Onara**, dans le lobe de Tyndara au-dessus du delta d'Onara-sud (la carte de l'auteur fait foi, 2026-09-27 ; l'ancien recentrage sur Ilthara est abandonné).
 - **« Douze continents » partout** — « treize » (voire « quatorze ») corrigé dans les Chroniques et leur bible.
-- **La fin du Fléau — « l'Heure » — datée ~1600** : elle referme **d'un coup les Failles *mobiles*** ; les Failles **statiques** subsistent jusqu'à l'Ère VII.
+- **La fin du Fléau — « l'Heure » — datée ~1500** (arbitrage du 2026-09-14) : elle referme **d'un coup les Failles *mobiles*** ; les Failles **statiques** subsistent jusqu'à l'Ère VII.
 - **Le « Grand Silence » réécrit** en déclin **local/religieux** qui n'entame pas le pic magique global ; les Éternels tombent **à l'An 0**.
 
 ### La trame du Lien « respire » — la déchirure est cyclique, non unique

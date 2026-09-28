@@ -1590,7 +1590,7 @@
       "summary": "Nation extérieure de forgerons ; alliance de forge avec Pyrevane (échanges de techniques, minerais, apprentis) et expéditions conjointes avec Brumaria.",
       "body": "<!-- source: Docs/Lore/Pays/Onara/Myrtam.md -->\n\n# Myrtam — La Montagne qui Forge le Monde\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | Onara |\n| **Gouvernement** | Monarchie industrielle |\n| **Religion principale** | [[Ignis Aeternum]] (La Flamme Éternelle) |\n| **Religion secondaire** | [[Lex Petra]] (La Loi de Pierre) |\n| **Culture dominante** | Industrie minière, forge légendaire, fierté du travail |\n| **Histoire marquante** | La Forge de l'Acier Éternel |\n| **Ressources clés** | Mithral, acier noir, cristaux de forge, gemmes volcaniques |\n\n---\n\n## Gouvernement — La Monarchie Industrielle\n\nPouvoir centralisé et vertical :\n\n- **Le Roi** : propriétaire légal de toutes les mines et forges. Accorde des concessions aux Maîtres de Forge, peut les révoquer.\n- **Le Conseil des Flammes** : 8 Maîtres de Forge + 4 généraux. Conseille le roi, sans droit de veto (contrairement à Altram).\n- **Les Intendants** : fonctionnaires royaux supervisant chaque mine et chaque forge. Pouvoir important, souvent corrompus.\n- **Différence avec Altram** : absence de contre-pouvoir artisanal. Les forgerons ne sont pas des artistes respectés mais des travailleurs au service de la couronne — faille politique principale du pays.\n\n---\n\n## Religion\n\n### [[Ignis Aeternum]] — La Flamme Éternelle (religion officielle)\n\n- **Doctrine myrtamite** : la lumière primordiale d'Eldoria s'est incarnée dans le feu ; le volcanisme local est la respiration de la déesse. Forger dans la chaleur volcanique = participer à l'acte de création originel.\n- **Débat théologique** : les théologiens d'Ordo Caelum, qui partagent l'héritage de la *Lumière Primordiale*, contestent que le volcanisme soit une manifestation directe d'Eldoria — pour eux la lumière reste céleste, pas tellurique.\n\n**Pratiques :**\n- **La Veillée des Flammes** : chaque forge maintient un feu sacré qui ne doit jamais s'éteindre. Un feu sacré éteint = forge maudite, à purifier par un prêtre.\n- **La Crémation** : les morts sont jetés dans les crevasses volcaniques (plus grand honneur) ; les cendres remontent avec les fumées et \"rejoignent la lumière d'Eldoria\".\n- **Les Épreuves du Feu** : les prêtres marchent sur des braises pour prouver leur foi ; les plus dévots portent des cicatrices de brûlures sur les avant-bras, marques de bénédiction.\n\n### [[Lex Petra]] (religion secondaire)\n\n- Importée d'Altram par les premiers colons.\n- Survit chez les fonctionnaires et juristes de Myrtam.\n- Perçue comme religion \"intellectuelle\", par opposition à l'Ignis Aeternum plus viscérale.\n- Coexistence sans conflit majeur : pierre et feu sont vus comme complémentaires.\n\n---\n\n## Culture et société\n\n### La Hiérarchie de la Forge\n1. **Le Roi et la famille royale** — Propriétaires de tout\n2. **Les Maîtres de Forge** — Concessionnaires des grandes forges, quasi-aristocrates\n3. **Les Intendants royaux** — Bureaucrates puissants\n4. **Les Compagnons** — Forgerons qualifiés, cœur productif du pays\n5. **Les Mineurs** — Respectés pour leur courage, considérés comme interchangeables\n6. **Les Portefeu** — Enfants qui alimentent les forges en charbon ; travail ingrat considéré comme un rite de passage\n\n### La culture de l'excellence\n- Obsession de la qualité : chaque objet forgé porte la marque de son créateur et un numéro de série.\n- Un défaut dans une lame peut mener à l'exil du forgeron.\n- Exigence produisant des résultats exceptionnels, mais aussi une anxiété permanente chez les artisans.\n\n### Fêtes\n- **Le Jour de Myr** (anniversaire de la création de l'Acier Éternel) — Jour férié, démonstrations de forge publique.\n- **La Nuit des Flammes** — Toutes les forges du pays s'allument simultanément pendant une nuit entière.\n\n---\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **Altram** | Alliance et rivalité | \"Frères de forge\" — respect mutuel, mais chaque pays prétend produire le meilleur acier. Les compétitions de forge inter-royaumes sont une tradition. |\n| **Torkam** | Mépris réciproque | Myrtam voit les nomades comme des sauvages. Torkam voit Myrtam comme une prison industrielle. Peu de commerce. |\n| **Skaldoria** | Pragmatisme | Myrtam vend des armes aux clans de Skaldoria en échange de fourrures et d'os de créatures — un commerce discret mais lucratif. |\n| **Cendara** | Fascination | Myrtam envie la chaleur volcanique directe de Cendara. Quelques expéditions conjointes de forge ont eu lieu. |\n\n---\n\n## Secrets et intrigues\n\n- **L'Acier Éternel n'est peut-être pas ce qu'on croit.** Le roi Thorvald VIII, après sa descente dans la chambre secrète lors de son couronnement, est remonté blême et n'a plus jamais parlé de ce qu'il a vu. Depuis, il a doublé les gardes autour de l'entrée.\n- **La Maladie des Poumons** : Les mineurs et forgerons de Myrtam meurent jeunes. L'air chargé de particules métalliques provoque une maladie respiratoire que les prêtres de l'Ignis Aeternum qualifient de \"souffle d'Eldoria\" — une façon poétique de nier le problème.\n- **Le Syndicat des Profondeurs** : Mouvement clandestin de mineurs exigeant de meilleures conditions de travail. Le roi les ignore. Les Intendants les traquent. Mais ils grandissent.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Onara/Myrtam.md -->\n\n# Histoires de Myrtam\n\n## Origines — « La Montagne qui Forge »\n\nMyrtam est né d'un cataclysme. Il y a des siècles, une chaîne d'éruptions volcaniques souterraines fractura les montagnes du sud d'Onara, créant un réseau de cavernes incandescentes où le magma affleure à quelques mètres sous la surface. Les premiers colons — des réfugiés d'Altram poussés par la surpopulation — découvrirent que cette chaleur naturelle permettait de fondre des métaux à des températures impossibles à atteindre ailleurs. Ce qui commença comme un camp de fortune devint une industrie, puis un royaume. Aujourd'hui, Myrtam est le plus grand producteur de métaux rares d'Onara.\n\nL'événement fondateur fut la création de l'Acier Éternel — une arme (une épée à double tranchant, selon la légende) d'une qualité si extraordinaire qu'elle est tenue pour invincible. Elle fut forgée par **Myr le Fondeur**, le premier roi de Myrtam, qui aurait passé sept années dans les profondeurs de la Grande Forge sans jamais remonter à la surface. L'Acier Éternel est conservé au cœur de la montagne ; seul le roi régnant le contemple, le jour de son couronnement.\n\nAucune lecture ne fait consensus sur Myr le Fondeur : génie singulier, dépositaire d'une aide surnaturelle, héritier d'un savoir métallurgique perdu — chaque tradition propose la sienne. Les prêtres de l'Ignis Aeternum affirment qu'Eldoria elle-même a guidé sa main. Les sceptiques d'Altram et de Mosrack y voient une accumulation de techniques que Myr aurait simplement refusé de partager. Les Foedus Animae, présents en marge à Myrtam, suggèrent que les âmes des forgerons morts dans les éruptions précédentes s'étaient transmises à lui — lecture que les prêtres d'Ignis rejettent.\n\n---\n",
       "data": {
-        "continent": "Onara",
+        "continent": "Alkaran",
         "religion": "Ignis Aeternum",
         "coord_x": 213.7769921,
         "coord_y": -145.8701922,
@@ -1600,7 +1600,15 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "nation"
+        "genre": "nation",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.continent",
+            "avant": "Onara",
+            "pourquoi": "C/9-10 : « Alkaran — Haliandris et Ardentris, en Myrtam » ; la carte le pose en Alkaran."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -2734,12 +2742,20 @@
       "type": "oeuvre",
       "name": "L’Heure qui se Referme (T2)",
       "slug": null,
-      "summary": "Tome 2 de « Les Trois Coups » — ~1 400–1 600 ap.A (Ère V, la Grande Nuit).",
+      "summary": "Tome 2 de « Les Trois Coups » — ~1 400–1 500 ap.A (Ère V, la Grande Nuit).",
       "body": null,
       "data": {
         "trilogie": "Les Trois Coups",
         "tome": 2,
-        "epoque": "~1 400–1 600 ap.A (Ère V, la Grande Nuit)"
+        "epoque": "~1 400–1 500 ap.A (Ère V, la Grande Nuit)",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Tome 2 de « Les Trois Coups » — ~1 400–1 600 ap.A (Ère V, la Grande Nuit).",
+            "pourquoi": "Le Fléau s’achève ~1 500 (arbitrage du 2026-09-14)."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -16490,7 +16506,7 @@
           "fin": 10200,
           "confiance": "moyenne",
           "methode": "corpus:corpus-deduit",
-          "indice": "Disparaît la nuit où la place des Sept Piliers se fissure sur un « battement de cœur » venu d'en dessous — signe de l'arc contemporain (an 251)"
+          "indice": "parti vers l’ouest « il y a deux mois » en l’an 249 (C/11) ; disparu de Prismalith avant le passage de Sorin, jour 895 (C/38)"
         },
         "raccord": [
           {
@@ -16498,6 +16514,12 @@
             "champ": "summary",
             "avant": "Érudit qui disparaît après avoir lu quelque chose ; l'une des figures de savants effacés que le journal de Sorin évoque.",
             "pourquoi": "C/11 : « Un lettré de passage. Il cherchait des relevés de sols vitrifiés […] On l’appelait Naïm. Il est reparti vers l’ouest il y a deux mois » ; C/38 : « Naïm, à Prismalith, avant mon passage. Il avait lu quelque chose dans les archives. Il a disparu. On n’a pas retrouvé ses notes. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.indice",
+            "avant": "Disparaît la nuit où la place des Sept Piliers se fissure sur un « battement de cœur » venu d'en dessous — signe de l'arc contemporain (an 251)",
+            "pourquoi": "C’est le balayeur, pas Naïm, qui disparaît la nuit où la place se fissure."
           }
         ]
       },
@@ -16587,11 +16609,11 @@
       "body": null,
       "data": {
         "periode": {
-          "debut": 10161,
-          "fin": 10201,
+          "debut": 10159,
+          "fin": 10199,
           "confiance": "moyenne",
           "methode": "corpus:corpus-deduit",
-          "indice": "« Talvhar y officie depuis quarante ans. Soixante ans à peu près » ; rencontre Sorin Valthen à Mylaris en l'an 252 → officie depuis ≈ 212."
+          "indice": "rencontre Sorin Valthen à Mylaris en l’an 250 (C/22), y officie « depuis quarante ans » → depuis ≈ 210"
         },
         "raccord": [
           {
@@ -16599,6 +16621,12 @@
             "champ": "summary",
             "avant": "appelé « Porteur de Feu Invisible »",
             "pourquoi": "Talvhar n’est pas appelé Porteur de Feu Invisible : c’est lui qui applique la prophétie à Sorin (« C’est vous qui portez le feu […] Pas moi »). L’indice de data.periode (« rencontre Sorin […] en l'an 252 ») est aussi faux pour le roman (an 250)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode",
+            "avant": "{\"debut\":10161,\"fin\":10201,\"confiance\":\"moyenne\",\"methode\":\"corpus:corpus-deduit\",\"indice\":\"« Talvhar y officie depuis quarante ans. Soixante ans à peu près » ; rencontre Sorin Valthen à Mylaris en l'an 252 → officie depuis ≈ 212.\"}",
+            "pourquoi": "Sorin passe à Mylaris en l’an 250 (C/22), non en 252."
           }
         ],
         "fusion": [
@@ -17470,7 +17498,13 @@
             "avant": "Feuille laissée par Aldric et remise par Borela au Mont Jumeau,",
             "pourquoi": "C/34 : de retour à Noravia, Borela « posa sur la table, à côté de mon bol, une feuille de papier pliée en quatre » ; « Je ne sais pas pourquoi j’ai attendu que vous soyez monté pour vous le donner. »"
           }
-        ]
+        ],
+        "fusion": {
+          "date": "2026-09-28",
+          "depuis": "obj-0064",
+          "nom": "La lettre d'Aldric Valthen",
+          "resume": "Lettre laissée à Noravia par le cartographe Aldric Valthen avant son départ vers le Glacier Central, destinée à son fils s'il passait un jour par la colonie. Conservée vingt ans sans être ouverte par la cartographe Borela, jamais répertoriée officiellement."
+        }
       },
       "status": "canon",
       "disclosure": "public",
@@ -26577,7 +26611,7 @@
     {
       "id": "obj-0029",
       "type": "objet",
-      "name": "La chemise marron d'Aldric Valthen",
+      "name": "La chemise de cuir marron de l’expédition altram",
       "slug": null,
       "summary": "Chemise de cuir marron sans cote des archives de Sethiran à Noravia, la troisième d'une rangée de quarante toutes pareilles : elle garde le journal de bord d'Aldris Vane, géologue en chef de l'expédition altram au Mont Jumeau, et les deux listes, celle des vingt partis et celle des treize rentrés. Sethiran la tend à Sorin Valthen en l'an 251, sans rien demander en échange ; Sorin la lit près du poêle, et elle reste au Cabinet. Rien n'y vient d'Aldric Valthen, que Sethiran n'a pas connu.",
       "body": null,
@@ -26588,6 +26622,12 @@
             "champ": "summary",
             "avant": "Chemise marron déposée par Aldric Valthen chez Sethiran en 220 du Sillage: itinéraire de trente jours, observations des Tempêtes Vivantes, hypothèses et dessin du Glacier Central avec points de pulsation, liste de questions non résolues. Remise à Sorin Valthen en 231.",
             "pourquoi": "C/33 : Sethiran tend à Sorin « une chemise de cuir marron, la troisième » d'une rangée de quarante ; « Le journal de bord était celui de la géologue en chef, une femme du nom d’Aldris Vane » ; C/34 : « la chemise de cuir marron que Sethiran m’avait tendue aux archives, entre le journal de bord d’Aldris Vane et les deux listes » ; C/37 : Sethiran « gardait dans ses archives une chemise de cuir marron et attendait quelqu’un à qui la remettre » (elle est restée au Cabinet). Yrsa, C/33 : « Sethiran ne l’a pas connu » (l'homme de Galenor)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "name",
+            "avant": "La chemise marron d'Aldric Valthen",
+            "pourquoi": "C/33-34 : c’est le journal de bord d’Aldris Vane, non un dépôt d’Aldric."
           }
         ]
       },
@@ -34349,7 +34389,13 @@
       "slug": null,
       "summary": "Voyageur venu de Kharazir, reconnaissable au tissu jaune de sa veste ; de passage à Elarath en l'an 251, il s'entretint avec le changeur Havrel, le cartographe Davan et l'aubergiste Retto, notant leurs propos dans son carnet.",
       "body": null,
-      "data": {},
+      "data": {
+        "arbitrage": {
+          "date": "2026-09-28",
+          "decision": "Distinct de Sorin Valthen (per-0153).",
+          "motif": "En l’an 251, Sorin est à Noravia, au Jumeau, puis à Prismalith et Rukhsar (C/33-38) : il ne peut pas être à Elarath. Le tissu jaune est la marque des Murs Jaunes, portée par d’autres voyageurs de Kharazir. Les deux textes restent vrais ; le lien a-ne-pas-confondre-avec le dit."
+        }
+      },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
@@ -42375,34 +42421,6 @@
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
       "updated_at": "2026-09-22T18:11:29.318Z"
-    },
-    {
-      "id": "obj-0064",
-      "type": "objet",
-      "name": "La lettre d'Aldric Valthen",
-      "slug": null,
-      "summary": "Lettre laissée à Noravia par le cartographe Aldric Valthen avant son départ vers le Glacier Central, destinée à son fils s'il passait un jour par la colonie. Conservée vingt ans sans être ouverte par la cartographe Borela, jamais répertoriée officiellement.",
-      "body": null,
-      "data": {
-        "periode": {
-          "debut": 10169,
-          "fin": 10169,
-          "confiance": "haute",
-          "methode": "fait-date"
-        },
-        "raccord": [
-          {
-            "date": "2026-09-23",
-            "champ": "summary",
-            "avant": "Conservée onze ans",
-            "pourquoi": "Reste de l’ancienne chronologie (Aldric en 220, Sorin en 231) que fac-0645 a rebasée le 2026-09-14 (« Aldric ~an 230, Sorin an 251 ») : la lettre attend vingt ans ; data.periode (10169) est à recaler de même sur ≈10179, comme fac-1231/fac-1260."
-          }
-        ]
-      },
-      "status": "canon",
-      "disclosure": "restreint",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
     },
     {
       "id": "que-0031",
@@ -51909,7 +51927,7 @@
       "type": "evenement",
       "name": "La Refermeture des Failles",
       "slug": null,
-      "summary": "Événement de clôture du tome (« l'Heure qui se Referme ») : toutes les Failles mobiles se referment d'un coup, en une heure, avant ~1700 ap.A ; cause non établie, coïncidant avec la quasi-disparition des Tisses. À distinguer du roman homonyme.",
+      "summary": "Événement de clôture du tome (« l'Heure qui se Referme ») : toutes les Failles mobiles se referment d'un coup, en une heure, vers ~1 500 ap.A ; cause non établie, coïncidant avec la quasi-disparition des Tisses. À distinguer du roman homonyme.",
       "body": null,
       "data": {
         "periode": {
@@ -51917,7 +51935,15 @@
           "fin": 1500,
           "confiance": "haute",
           "methode": "fait-date"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Événement de clôture du tome (« l'Heure qui se Referme ») : toutes les Failles mobiles se referment d'un coup, en une heure, avant ~1700 ap.A ; cause non établie, coïncidant avec la quasi-disparition des Tisses. À distinguer du roman homonyme.",
+            "pourquoi": "Le Fléau s’achève ~1 500 (arbitrage du 2026-09-14)."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -83112,31 +83138,6 @@
       "updated_at": "2026-07-17T00:00:00.000Z"
     },
     {
-      "id": "fac-0545",
-      "fact_type": "evenement",
-      "subject_id": "per-0153",
-      "object_id": "lie-0011",
-      "start_year": 10201,
-      "start_precision": "annee",
-      "start_circa": 0,
-      "end_year": null,
-      "end_precision": null,
-      "end_circa": 0,
-      "era_id": null,
-      "seq": 0,
-      "label": "Entré à Nysaria, an 252 env.; dernier visiteur connu à ce jour.",
-      "detail": null,
-      "data": {
-        "calendrier": "regional",
-        "source_date": "libellé"
-      },
-      "source_id": "src-0001",
-      "status": "canon",
-      "disclosure": "interne",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-07-17T00:00:00.000Z"
-    },
-    {
       "id": "fac-0546",
       "fact_type": "fondation",
       "subject_id": "pol-0021",
@@ -84913,7 +84914,7 @@
       "fact_type": "evenement",
       "subject_id": "lie-0257",
       "object_id": null,
-      "start_year": 10201,
+      "start_year": null,
       "start_precision": "annee",
       "start_circa": 0,
       "end_year": null,
@@ -84926,7 +84927,15 @@
       "data": {
         "calendrier": "regional",
         "source_date": "prose",
-        "indice_date": "Sorin Valthen y passa en l'an 252."
+        "indice_date": "Sorin Valthen y passa en l'an 252.",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": 10201,
+            "pourquoi": "Daté d’après « Sorin Valthen y passa en l’an 252 » : c’est une légende passée, antérieure au village reconstruit que Sorin traverse en 250. Date inconnue."
+          }
+        ]
       },
       "source_id": "src-0001",
       "status": "canon",
@@ -88112,7 +88121,7 @@
     },
     {
       "id": "fac-0725",
-      "fact_type": "regne",
+      "fact_type": "autre",
       "subject_id": "per-0044",
       "object_id": "pol-0009",
       "start_year": 10197,
@@ -88146,6 +88155,12 @@
             "champ": "end_year",
             "avant": 10201,
             "pourquoi": "Le livre ne dit pas combien de temps il reste Archiviste ; « 252 » venait de l’ancienne datation."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "fact_type",
+            "avant": "regne",
+            "pourquoi": "Verian Soth est Archiviste (C/2), il ne règne pas."
           }
         ]
       },
@@ -95030,7 +95045,7 @@
     {
       "id": "fac-0981",
       "fact_type": "evenement",
-      "subject_id": "obj-0064",
+      "subject_id": "obj-0011",
       "object_id": null,
       "start_year": 10179,
       "start_precision": "annee",
@@ -102055,7 +102070,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:24:debut-du-silence-des-esprits-d-evertia",
+        "recit_uid": "oeu-0013:24:debut-du-silence-des-esprits-d-evertia",
         "chapitre": 24,
         "jour": null,
         "confiance": "moyenne"
@@ -102084,7 +102099,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:24:ils-arrivent-par-le-dessous-l-avertissement-des-trois-archid",
+        "recit_uid": "oeu-0013:24:ils-arrivent-par-le-dessous-l-avertissement-des-trois-archid",
         "chapitre": 24,
         "jour": null,
         "confiance": "moyenne",
@@ -102121,7 +102136,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:24:mort-d-ourven-dernier-veilleur-de-thalenvir",
+        "recit_uid": "oeu-0013:24:mort-d-ourven-dernier-veilleur-de-thalenvir",
         "chapitre": 24,
         "jour": 577,
         "confiance": "moyenne",
@@ -102178,7 +102193,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:24:le-silence-des-esprits-d-evertia",
+        "recit_uid": "oeu-0013:24:le-silence-des-esprits-d-evertia",
         "chapitre": 24,
         "jour": 578,
         "confiance": "moyenne"
@@ -102207,7 +102222,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:24:l-ainee-nomme-panghor-le-sommeil-sous-les-sommeils",
+        "recit_uid": "oeu-0013:24:l-ainee-nomme-panghor-le-sommeil-sous-les-sommeils",
         "chapitre": 24,
         "jour": 578,
         "confiance": "moyenne",
@@ -102244,7 +102259,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:24:la-theorie-des-ancrages-exposee-a-sorin",
+        "recit_uid": "oeu-0013:24:la-theorie-des-ancrages-exposee-a-sorin",
         "chapitre": 24,
         "jour": 578,
         "confiance": "moyenne",
@@ -102281,7 +102296,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:24:depart-de-valmora-vers-sylvara",
+        "recit_uid": "oeu-0013:24:depart-de-valmora-vers-sylvara",
         "chapitre": 24,
         "jour": 578,
         "confiance": "moyenne",
@@ -102318,7 +102333,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:25:les-frequences-du-cantus-se-mettent-a-glisser",
+        "recit_uid": "oeu-0013:25:les-frequences-du-cantus-se-mettent-a-glisser",
         "chapitre": 25,
         "jour": null,
         "confiance": "moyenne"
@@ -102347,7 +102362,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:25:extinction-des-voix-d-evertia-une-seule-repond-encore",
+        "recit_uid": "oeu-0013:25:extinction-des-voix-d-evertia-une-seule-repond-encore",
         "chapitre": 25,
         "jour": 600,
         "confiance": "moyenne"
@@ -102376,7 +102391,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:25:la-seve-de-sylvara-tourne-les-saigneurs-s-epuisent",
+        "recit_uid": "oeu-0013:25:la-seve-de-sylvara-tourne-les-saigneurs-s-epuisent",
         "chapitre": 25,
         "jour": 600,
         "confiance": "moyenne"
@@ -102405,7 +102420,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:25:le-dernier-chant-de-sylvara-ils-arrivent-par-le-dessous",
+        "recit_uid": "oeu-0013:25:le-dernier-chant-de-sylvara-ils-arrivent-par-le-dessous",
         "chapitre": 25,
         "jour": 601,
         "confiance": "moyenne",
@@ -102442,7 +102457,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:25:le-cantus-du-couchant-eveille-la-voix-de-la-terre",
+        "recit_uid": "oeu-0013:25:le-cantus-du-couchant-eveille-la-voix-de-la-terre",
         "chapitre": 25,
         "jour": 603,
         "confiance": "moyenne",
@@ -102485,7 +102500,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:25:sorin-quitte-evertia-a-la-maree",
+        "recit_uid": "oeu-0013:25:sorin-quitte-evertia-a-la-maree",
         "chapitre": 25,
         "jour": 604,
         "confiance": "moyenne"
@@ -102514,7 +102529,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:26:retour-a-valmora-par-le-detroit-de-thalmaris",
+        "recit_uid": "oeu-0013:26:retour-a-valmora-par-le-detroit-de-thalmaris",
         "chapitre": 26,
         "jour": 630,
         "confiance": "moyenne"
@@ -102543,7 +102558,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:26:le-silence-de-rukhsar-mira-dasthen-ne-repond-plus",
+        "recit_uid": "oeu-0013:26:le-silence-de-rukhsar-mira-dasthen-ne-repond-plus",
         "chapitre": 26,
         "jour": 630,
         "confiance": "moyenne"
@@ -102572,7 +102587,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:26:l-appareil-defait-le-reseau-de-l-exile-n-ud-apres-n-ud",
+        "recit_uid": "oeu-0013:26:l-appareil-defait-le-reseau-de-l-exile-n-ud-apres-n-ud",
         "chapitre": 26,
         "jour": 630,
         "confiance": "moyenne"
@@ -102601,7 +102616,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:26:sorin-ferme-sa-derniere-ligne-de-courrier",
+        "recit_uid": "oeu-0013:26:sorin-ferme-sa-derniere-ligne-de-courrier",
         "chapitre": 26,
         "jour": 631,
         "confiance": "moyenne"
@@ -102630,7 +102645,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:26:hesken-inventorie-les-cahiers-de-l-exile",
+        "recit_uid": "oeu-0013:26:hesken-inventorie-les-cahiers-de-l-exile",
         "chapitre": 26,
         "jour": 639,
         "confiance": "moyenne",
@@ -102667,7 +102682,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:26:le-conte-de-l-oublie-la-meme-forme-que-panghor",
+        "recit_uid": "oeu-0013:26:le-conte-de-l-oublie-la-meme-forme-que-panghor",
         "chapitre": 26,
         "jour": 640,
         "confiance": "moyenne",
@@ -102710,7 +102725,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:26:le-depart-par-la-maree-premier-navire-pas-le-plus-sur",
+        "recit_uid": "oeu-0013:26:le-depart-par-la-maree-premier-navire-pas-le-plus-sur",
         "chapitre": 26,
         "jour": 642,
         "confiance": "moyenne"
@@ -102739,7 +102754,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:27:traversee-du-calme-menteur-arrivee-a-nectoria-sous-le-voile",
+        "recit_uid": "oeu-0013:27:traversee-du-calme-menteur-arrivee-a-nectoria-sous-le-voile",
         "chapitre": 27,
         "jour": 660,
         "confiance": "moyenne"
@@ -102768,7 +102783,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:27:la-voix-du-haut-fond-ce-qu-il-y-a-sous-la-montagne",
+        "recit_uid": "oeu-0013:27:la-voix-du-haut-fond-ce-qu-il-y-a-sous-la-montagne",
         "chapitre": 27,
         "jour": 664,
         "confiance": "moyenne",
@@ -102805,7 +102820,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:27:la-troisieme-colonne-du-message-de-mirathi-reconnue",
+        "recit_uid": "oeu-0013:27:la-troisieme-colonne-du-message-de-mirathi-reconnue",
         "chapitre": 27,
         "jour": 664,
         "confiance": "moyenne",
@@ -102842,7 +102857,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:27:la-note-d-orath-dovan-cesser-de-chercher-l-homme-chercher-le",
+        "recit_uid": "oeu-0013:27:la-note-d-orath-dovan-cesser-de-chercher-l-homme-chercher-le",
         "chapitre": 27,
         "jour": 665,
         "confiance": "moyenne",
@@ -102890,7 +102905,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:27:l-enfant-aux-yeux-blancs-de-mirathi-tu-le-gardes-pour-quand-",
+        "recit_uid": "oeu-0013:27:l-enfant-aux-yeux-blancs-de-mirathi-tu-le-gardes-pour-quand-",
         "chapitre": 27,
         "jour": 665,
         "confiance": "moyenne",
@@ -102939,7 +102954,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:28:le-signe-inconnu-releve-sur-une-pierre-de-la-cote-de-lunasar",
+        "recit_uid": "oeu-0013:28:le-signe-inconnu-releve-sur-une-pierre-de-la-cote-de-lunasar",
         "chapitre": 28,
         "jour": null,
         "confiance": "moyenne",
@@ -102976,7 +102991,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:28:arrivee-a-lunaris-la-cite-qui-range-les-visages",
+        "recit_uid": "oeu-0013:28:arrivee-a-lunaris-la-cite-qui-range-les-visages",
         "chapitre": 28,
         "jour": 690,
         "confiance": "moyenne"
@@ -103005,7 +103020,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:28:la-meme-main-a-ecrit-partout-le-fragment-confronte-aux-regis",
+        "recit_uid": "oeu-0013:28:la-meme-main-a-ecrit-partout-le-fragment-confronte-aux-regis",
         "chapitre": 28,
         "jour": 694,
         "confiance": "moyenne",
@@ -103048,7 +103063,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:28:aldric-est-passe-par-lunaris-le-visage-range",
+        "recit_uid": "oeu-0013:28:aldric-est-passe-par-lunaris-le-visage-range",
         "chapitre": 28,
         "jour": 694,
         "confiance": "moyenne",
@@ -103082,7 +103097,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:28:le-gant-noir-sur-la-place-vels-draye-a-lunaris",
+        "recit_uid": "oeu-0013:28:le-gant-noir-sur-la-place-vels-draye-a-lunaris",
         "chapitre": 28,
         "jour": 700,
         "confiance": "moyenne"
@@ -103111,7 +103126,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:28:l-evasion-du-silence-j-ai-porte-ce-que-vous-portez",
+        "recit_uid": "oeu-0013:28:l-evasion-du-silence-j-ai-porte-ce-que-vous-portez",
         "chapitre": 28,
         "jour": 702,
         "confiance": "moyenne",
@@ -103154,7 +103169,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:29:promulgation-de-l-edit-de-celestia",
+        "recit_uid": "oeu-0013:29:promulgation-de-l-edit-de-celestia",
         "chapitre": 29,
         "jour": null,
         "confiance": "moyenne"
@@ -103183,7 +103198,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:29:dernier-durcissement-de-l-edit-de-celestia",
+        "recit_uid": "oeu-0013:29:dernier-durcissement-de-l-edit-de-celestia",
         "chapitre": 29,
         "jour": null,
         "confiance": "moyenne",
@@ -103223,7 +103238,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:29:arrivee-en-caeloria-frostlin-puis-vyntheris",
+        "recit_uid": "oeu-0013:29:arrivee-en-caeloria-frostlin-puis-vyntheris",
         "chapitre": 29,
         "jour": 715,
         "confiance": "moyenne"
@@ -103252,7 +103267,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:29:ilve-la-benie-des-cieux-vous-etes-comme-un-mur",
+        "recit_uid": "oeu-0013:29:ilve-la-benie-des-cieux-vous-etes-comme-un-mur",
         "chapitre": 29,
         "jour": 717,
         "confiance": "moyenne",
@@ -103289,7 +103304,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:29:l-audience-du-cardinal-elu-je-scelle-c-est-ma-misericorde",
+        "recit_uid": "oeu-0013:29:l-audience-du-cardinal-elu-je-scelle-c-est-ma-misericorde",
         "chapitre": 29,
         "jour": 719,
         "confiance": "moyenne",
@@ -103332,7 +103347,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:29:depart-vers-baeloris-la-corde-tire-vers-le-bas",
+        "recit_uid": "oeu-0013:29:depart-vers-baeloris-la-corde-tire-vers-le-bas",
         "chapitre": 29,
         "jour": 722,
         "confiance": "moyenne",
@@ -103372,7 +103387,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:30:mort-d-ossian-le-frere-qui-ecoutait-la-roche",
+        "recit_uid": "oeu-0013:30:mort-d-ossian-le-frere-qui-ecoutait-la-roche",
         "chapitre": 30,
         "jour": 725,
         "confiance": "moyenne"
@@ -103401,7 +103416,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:30:accostage-a-baeloris-le-silence-mesurable",
+        "recit_uid": "oeu-0013:30:accostage-a-baeloris-le-silence-mesurable",
         "chapitre": 30,
         "jour": 736,
         "confiance": "moyenne"
@@ -103430,7 +103445,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:30:la-paroi-gravee-d-ossian-la-troisieme-langue-sous-la-dictee",
+        "recit_uid": "oeu-0013:30:la-paroi-gravee-d-ossian-la-troisieme-langue-sous-la-dictee",
         "chapitre": 30,
         "jour": 737,
         "confiance": "moyenne"
@@ -103459,7 +103474,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:30:le-cercle-de-kethros-trois-peuples-tournes-vers-le-meme-dess",
+        "recit_uid": "oeu-0013:30:le-cercle-de-kethros-trois-peuples-tournes-vers-le-meme-dess",
         "chapitre": 30,
         "jour": 739,
         "confiance": "moyenne"
@@ -103488,7 +103503,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:30:le-mot-de-kethron-vi-dessous",
+        "recit_uid": "oeu-0013:30:le-mot-de-kethron-vi-dessous",
         "chapitre": 30,
         "jour": 744,
         "confiance": "moyenne"
@@ -103517,7 +103532,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:30:le-moine-du-quai-rompt-son-silence-jour-748-depuis-rukhsar",
+        "recit_uid": "oeu-0013:30:le-moine-du-quai-rompt-son-silence-jour-748-depuis-rukhsar",
         "chapitre": 30,
         "jour": 748,
         "confiance": "moyenne",
@@ -103560,7 +103575,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:31:reouverture-du-chenal-du-grand-nord",
+        "recit_uid": "oeu-0013:31:reouverture-du-chenal-du-grand-nord",
         "chapitre": 31,
         "jour": null,
         "confiance": "moyenne",
@@ -103603,7 +103618,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:31:le-depart-a-la-troisieme-cloche-la-couture-de-la-surveillanc",
+        "recit_uid": "oeu-0013:31:le-depart-a-la-troisieme-cloche-la-couture-de-la-surveillanc",
         "chapitre": 31,
         "jour": 752,
         "confiance": "moyenne",
@@ -103640,7 +103655,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:31:les-etoiles-hors-de-leurs-tables-au-douzieme-jour-de-mer",
+        "recit_uid": "oeu-0013:31:les-etoiles-hors-de-leurs-tables-au-douzieme-jour-de-mer",
         "chapitre": 31,
         "jour": 764,
         "confiance": "moyenne"
@@ -103669,7 +103684,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:31:la-route-se-rouvre-par-le-sud-et-se-referme-par-le-nord-comm",
+        "recit_uid": "oeu-0013:31:la-route-se-rouvre-par-le-sud-et-se-referme-par-le-nord-comm",
         "chapitre": 31,
         "jour": 767,
         "confiance": "moyenne",
@@ -103706,7 +103721,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:31:la-glace-prend-la-coque-de-vels-draye-la-traque-s-arrete",
+        "recit_uid": "oeu-0013:31:la-glace-prend-la-coque-de-vels-draye-la-traque-s-arrete",
         "chapitre": 31,
         "jour": 769,
         "confiance": "moyenne",
@@ -103743,7 +103758,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:31:cap-sur-les-iles-glacees-de-celethor",
+        "recit_uid": "oeu-0013:31:cap-sur-les-iles-glacees-de-celethor",
         "chapitre": 31,
         "jour": 771,
         "confiance": "moyenne"
@@ -103772,7 +103787,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:32:varennis-rompt-avec-le-conseil-des-sept-d-astravia",
+        "recit_uid": "oeu-0013:32:varennis-rompt-avec-le-conseil-des-sept-d-astravia",
         "chapitre": 32,
         "jour": null,
         "confiance": "moyenne",
@@ -103809,7 +103824,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:32:arrivee-a-invernis-sous-les-iles-flottantes",
+        "recit_uid": "oeu-0013:32:arrivee-a-invernis-sous-les-iles-flottantes",
         "chapitre": 32,
         "jour": 790,
         "confiance": "moyenne",
@@ -103846,7 +103861,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:32:l-aiguille-qui-compte-la-tension-de-la-trame-mesuree-en-chif",
+        "recit_uid": "oeu-0013:32:l-aiguille-qui-compte-la-tension-de-la-trame-mesuree-en-chif",
         "chapitre": 32,
         "jour": 793,
         "confiance": "moyenne",
@@ -103883,7 +103898,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:32:la-marque-sous-galdryn-c-est-sous-toutes-les-mines",
+        "recit_uid": "oeu-0013:32:la-marque-sous-galdryn-c-est-sous-toutes-les-mines",
         "chapitre": 32,
         "jour": 795,
         "confiance": "moyenne",
@@ -103920,7 +103935,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:32:le-releve-signe-de-varennis-un-temoin-qu-on-ne-fait-pas-tair",
+        "recit_uid": "oeu-0013:32:le-releve-signe-de-varennis-un-temoin-qu-on-ne-fait-pas-tair",
         "chapitre": 32,
         "jour": 796,
         "confiance": "moyenne",
@@ -103957,7 +103972,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:32:jour-800-depart-vers-le-nord-de-celethor",
+        "recit_uid": "oeu-0013:32:jour-800-depart-vers-le-nord-de-celethor",
         "chapitre": 32,
         "jour": 800,
         "confiance": "moyenne",
@@ -103994,7 +104009,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:33:l-expedition-altram-au-mont-jumeau-sept-sur-vingt",
+        "recit_uid": "oeu-0013:33:l-expedition-altram-au-mont-jumeau-sept-sur-vingt",
         "chapitre": 33,
         "jour": null,
         "confiance": "moyenne"
@@ -104023,7 +104038,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:33:mort-d-aldris-vane",
+        "recit_uid": "oeu-0013:33:mort-d-aldris-vane",
         "chapitre": 33,
         "jour": null,
         "confiance": "moyenne"
@@ -104052,7 +104067,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:33:aldric-valthen-monte-seul-vers-le-glacier-central",
+        "recit_uid": "oeu-0013:33:aldric-valthen-monte-seul-vers-le-glacier-central",
         "chapitre": 33,
         "jour": null,
         "confiance": "moyenne"
@@ -104081,7 +104096,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:33:arrivee-a-noravia-dernier-port-avant-le-glacier",
+        "recit_uid": "oeu-0013:33:arrivee-a-noravia-dernier-port-avant-le-glacier",
         "chapitre": 33,
         "jour": 825,
         "confiance": "moyenne",
@@ -104117,7 +104132,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:33:le-temoignage-d-yrsa-la-tempete-nous-a-suivis",
+        "recit_uid": "oeu-0013:33:le-temoignage-d-yrsa-la-tempete-nous-a-suivis",
         "chapitre": 33,
         "jour": 826,
         "confiance": "moyenne",
@@ -104166,7 +104181,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:34:la-montee-vers-le-jumeau-les-gardiens-de-givre",
+        "recit_uid": "oeu-0013:34:la-montee-vers-le-jumeau-les-gardiens-de-givre",
         "chapitre": 34,
         "jour": 843,
         "confiance": "moyenne",
@@ -104209,7 +104224,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:34:jour-845-les-structures-sous-le-glacier-central",
+        "recit_uid": "oeu-0013:34:jour-845-les-structures-sous-le-glacier-central",
         "chapitre": 34,
         "jour": 845,
         "confiance": "moyenne",
@@ -104252,7 +104267,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:34:le-mot-d-aldric-le-reseau-est-reel-le-portail-est-sous-jumea",
+        "recit_uid": "oeu-0013:34:le-mot-d-aldric-le-reseau-est-reel-le-portail-est-sous-jumea",
         "chapitre": 34,
         "jour": 847,
         "confiance": "moyenne"
@@ -104281,7 +104296,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:34:demi-tour-au-point-le-plus-nord-cap-au-sud",
+        "recit_uid": "oeu-0013:34:demi-tour-au-point-le-plus-nord-cap-au-sud",
         "chapitre": 34,
         "jour": 848,
         "confiance": "moyenne",
@@ -104324,7 +104339,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:35:premieres-anomalies-magnetiques-autour-de-cestra",
+        "recit_uid": "oeu-0013:35:premieres-anomalies-magnetiques-autour-de-cestra",
         "chapitre": 35,
         "jour": null,
         "confiance": "moyenne"
@@ -104353,7 +104368,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:35:la-carte-des-liens-cinq-faits-six-lectures",
+        "recit_uid": "oeu-0013:35:la-carte-des-liens-cinq-faits-six-lectures",
         "chapitre": 35,
         "jour": 865,
         "confiance": "moyenne",
@@ -104390,7 +104405,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:35:le-plan-des-depots-prismalith-omarin-le-semis",
+        "recit_uid": "oeu-0013:35:le-plan-des-depots-prismalith-omarin-le-semis",
         "chapitre": 35,
         "jour": 867,
         "confiance": "moyenne",
@@ -104433,7 +104448,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:35:le-fond-change-les-routes-perdues-se-rouvrent",
+        "recit_uid": "oeu-0013:35:le-fond-change-les-routes-perdues-se-rouvrent",
         "chapitre": 35,
         "jour": 869,
         "confiance": "moyenne",
@@ -104476,7 +104491,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:35:l-etoile-absente-de-la-proue",
+        "recit_uid": "oeu-0013:35:l-etoile-absente-de-la-proue",
         "chapitre": 35,
         "jour": 870,
         "confiance": "moyenne"
@@ -104505,7 +104520,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:36:la-derniere-saisie-on-ne-cherche-pas-une-montagne-dans-une-l",
+        "recit_uid": "oeu-0013:36:la-derniere-saisie-on-ne-cherche-pas-une-montagne-dans-une-l",
         "chapitre": 36,
         "jour": 885,
         "confiance": "moyenne",
@@ -104554,7 +104569,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:36:la-notification-valthen-classee-l-appareil-signe-l-innocence",
+        "recit_uid": "oeu-0013:36:la-notification-valthen-classee-l-appareil-signe-l-innocence",
         "chapitre": 36,
         "jour": 885,
         "confiance": "moyenne",
@@ -104597,7 +104612,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:36:retour-a-galenor-la-terre-du-tissu-jaune",
+        "recit_uid": "oeu-0013:36:retour-a-galenor-la-terre-du-tissu-jaune",
         "chapitre": 36,
         "jour": 886,
         "confiance": "moyenne",
@@ -104634,7 +104649,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:37:la-plongee-du-pere-de-selendris-dans-les-strates-profondes",
+        "recit_uid": "oeu-0013:37:la-plongee-du-pere-de-selendris-dans-les-strates-profondes",
         "chapitre": 37,
         "jour": null,
         "confiance": "moyenne"
@@ -104663,7 +104678,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:37:retour-a-prismalith-la-ville-n-a-pas-change-l-homme-si",
+        "recit_uid": "oeu-0013:37:retour-a-prismalith-la-ville-n-a-pas-change-l-homme-si",
         "chapitre": 37,
         "jour": 890,
         "confiance": "moyenne",
@@ -104706,7 +104721,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:37:les-coordonnees-du-dormeur-recoupees-le-mont-jumeau",
+        "recit_uid": "oeu-0013:37:les-coordonnees-du-dormeur-recoupees-le-mont-jumeau",
         "chapitre": 37,
         "jour": 893,
         "confiance": "moyenne",
@@ -104743,7 +104758,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:37:l-audience-du-tribunal-de-lumasar-conservez-ne-validez-pas",
+        "recit_uid": "oeu-0013:37:l-audience-du-tribunal-de-lumasar-conservez-ne-validez-pas",
         "chapitre": 37,
         "jour": 895,
         "confiance": "moyenne",
@@ -104798,7 +104813,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:37:l-homme-au-manteau-gris-un-jour-trop-tard",
+        "recit_uid": "oeu-0013:37:l-homme-au-manteau-gris-un-jour-trop-tard",
         "chapitre": 37,
         "jour": 895,
         "confiance": "moyenne",
@@ -104835,7 +104850,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:37:la-route-de-kharazir-le-point-devenu-position",
+        "recit_uid": "oeu-0013:37:la-route-de-kharazir-le-point-devenu-position",
         "chapitre": 37,
         "jour": 897,
         "confiance": "moyenne",
@@ -104884,7 +104899,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:38:le-seisme-du-huitieme-pilier-de-rukhsar",
+        "recit_uid": "oeu-0013:38:le-seisme-du-huitieme-pilier-de-rukhsar",
         "chapitre": 38,
         "jour": null,
         "confiance": "moyenne"
@@ -104898,7 +104913,7 @@
     {
       "id": "fac-1282",
       "fact_type": "evenement",
-      "subject_id": "per-0153",
+      "subject_id": "obj-0008",
       "object_id": null,
       "start_year": 10201,
       "start_precision": "estimation",
@@ -104913,7 +104928,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:38:la-copie-du-depot-valthen-aux-archives-de-prismalith",
+        "recit_uid": "oeu-0013:38:la-copie-du-depot-valthen-aux-archives-de-prismalith",
         "chapitre": 38,
         "jour": null,
         "confiance": "moyenne",
@@ -104929,6 +104944,12 @@
             "champ": "detail",
             "avant": "Une seconde copie est remise à Omarin",
             "pourquoi": "concordance des temps avec la note"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "subject_id",
+            "avant": "per-0153",
+            "pourquoi": "Le fait porte sur la copie (note datée de l’année qui suit le dépôt), pas sur Sorin : rattaché à obj-0008."
           }
         ]
       },
@@ -104956,7 +104977,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:38:jour-910-retour-a-kharazir",
+        "recit_uid": "oeu-0013:38:jour-910-retour-a-kharazir",
         "chapitre": 38,
         "jour": 910,
         "confiance": "moyenne",
@@ -104993,7 +105014,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:38:le-kharaz-d-omarin-appelle-la-charge",
+        "recit_uid": "oeu-0013:38:le-kharaz-d-omarin-appelle-la-charge",
         "chapitre": 38,
         "jour": 910,
         "confiance": "moyenne",
@@ -105036,7 +105057,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:38:la-pulsation-sous-la-dalle-scellee",
+        "recit_uid": "oeu-0013:38:la-pulsation-sous-la-dalle-scellee",
         "chapitre": 38,
         "jour": 911,
         "confiance": "moyenne"
@@ -105065,7 +105086,7 @@
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
-        "recit_uid": "chroniques:38:les-tissus-jaunes-poses-sur-la-pierre-de-la-porte-d-azur",
+        "recit_uid": "oeu-0013:38:les-tissus-jaunes-poses-sur-la-pierre-de-la-porte-d-azur",
         "chapitre": 38,
         "jour": 917,
         "confiance": "moyenne",
@@ -118783,11 +118804,14 @@
       "id": "lnk-0042",
       "rel_type": "situe-dans",
       "from_id": "pol-0026",
-      "to_id": "lie-0012",
+      "to_id": "lie-0001",
       "start_year": null,
       "end_year": null,
       "label": null,
-      "data": null,
+      "data": {
+        "avant": "lie-0012 (Onara)",
+        "date": "2026-09-28"
+      },
       "source_id": null,
       "status": "canon"
     },
@@ -132766,22 +132790,10 @@
       "status": "canon"
     },
     {
-      "id": "lnk-1222",
-      "rel_type": "lie-a",
-      "from_id": "per-0154",
-      "to_id": "obj-0029",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
       "id": "lnk-1223",
       "rel_type": "lie-a",
       "from_id": "per-0154",
-      "to_id": "obj-0064",
+      "to_id": "obj-0011",
       "start_year": null,
       "end_year": null,
       "label": null,
@@ -132877,7 +132889,7 @@
       "id": "lnk-1231",
       "rel_type": "lie-a",
       "from_id": "per-0169",
-      "to_id": "obj-0064",
+      "to_id": "obj-0011",
       "start_year": null,
       "end_year": null,
       "label": null,
@@ -137030,18 +137042,6 @@
       "rel_type": "apparait-dans",
       "from_id": "per-0044",
       "to_id": "evt-0086",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
-      "id": "lnk-1581",
-      "rel_type": "apparait-dans",
-      "from_id": "per-0164",
-      "to_id": "evt-0073",
       "start_year": null,
       "end_year": null,
       "label": null,
@@ -145731,21 +145731,9 @@
       "status": "canon"
     },
     {
-      "id": "lnk-2319",
-      "rel_type": "lie-a",
-      "from_id": "obj-0064",
-      "to_id": "per-0154",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
       "id": "lnk-2320",
       "rel_type": "lie-a",
-      "from_id": "obj-0064",
+      "from_id": "obj-0011",
       "to_id": "per-0169",
       "start_year": null,
       "end_year": null,
@@ -168380,6 +168368,18 @@
       "data": null,
       "source_id": null,
       "status": "canon"
+    },
+    {
+      "id": "lnk-4022",
+      "rel_type": "lie-a",
+      "from_id": "obj-0029",
+      "to_id": "per-0167",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": null,
+      "source_id": null,
+      "status": "canon"
     }
   ],
   "aliases": [
@@ -170772,6 +170772,26 @@
       "from_year": null,
       "to_year": null,
       "meaning": "nom de la rumeur des marins étrangers, qui la disent noire et au cœur de l'île ; le lac en est l'origine (décision de l'auteur, 2026-09-26)"
+    },
+    {
+      "id": "ali-0240",
+      "entity_id": "obj-0029",
+      "value": "La chemise marron d'Aldric Valthen",
+      "alias_status": "variante",
+      "era_id": null,
+      "from_year": null,
+      "to_year": null,
+      "meaning": "ancien intitulé, hérité du lore d’avant les Chroniques"
+    },
+    {
+      "id": "ali-0241",
+      "entity_id": "obj-0011",
+      "value": "La lettre d'Aldric Valthen",
+      "alias_status": "variante",
+      "era_id": null,
+      "from_year": null,
+      "to_year": null,
+      "meaning": "doublon fusionné le 2026-09-28 (ancien obj-0064)"
     }
   ],
   "readings": [

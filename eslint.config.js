@@ -50,6 +50,9 @@ module.exports = [
       'Docs/**',
       'Data/**',
       '**/*.min.js',
+      // Scripts de workflow : corps de fonction exécuté par l'orchestrateur
+      // (`export const meta`, `await` et `return` au niveau du fichier), pas du JS autonome.
+      'scripts/wf-*.js',
     ],
   },
   {

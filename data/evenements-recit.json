@@ -1298,7 +1298,7 @@
       "personnages": []
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 24,
       "annee_sillage": 247,
       "type": "evenement",
@@ -1308,7 +1308,7 @@
       "sujet_id": "lie-0008"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 24,
       "annee_sillage": 247,
       "type": "evenement",
@@ -1318,7 +1318,7 @@
       "sujet_id": "lie-0008"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 24,
       "jour": 577,
       "type": "mort",
@@ -1330,7 +1330,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 24,
       "jour": 578,
       "type": "evenement",
@@ -1343,7 +1343,7 @@
       "sujet_id": "lie-0008"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 24,
       "jour": 578,
       "type": "evenement",
@@ -1352,7 +1352,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 24,
       "jour": 578,
       "type": "evenement",
@@ -1361,7 +1361,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 24,
       "jour": 578,
       "type": "voyage",
@@ -1370,7 +1370,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 25,
       "annee_sillage": 249,
       "type": "evenement",
@@ -1379,7 +1379,7 @@
       "sujet": "Thalmaris"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 25,
       "jour": 600,
       "type": "evenement",
@@ -1392,7 +1392,7 @@
       "sujet_id": "lie-0008"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 25,
       "jour": 600,
       "type": "evenement",
@@ -1404,7 +1404,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 25,
       "jour": 601,
       "type": "evenement",
@@ -1416,7 +1416,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 25,
       "jour": 603,
       "type": "evenement",
@@ -1428,7 +1428,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 25,
       "jour": 604,
       "type": "voyage",
@@ -1437,7 +1437,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 26,
       "jour": 630,
       "type": "voyage",
@@ -1446,7 +1446,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 26,
       "jour": 630,
       "type": "evenement",
@@ -1459,7 +1459,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 26,
       "jour": 630,
       "type": "evenement",
@@ -1468,7 +1468,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 26,
       "jour": 631,
       "type": "evenement",
@@ -1481,7 +1481,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 26,
       "jour": 639,
       "type": "evenement",
@@ -1493,7 +1493,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 26,
       "jour": 640,
       "type": "evenement",
@@ -1502,7 +1502,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 26,
       "jour": 642,
       "type": "voyage",
@@ -1515,7 +1515,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 27,
       "jour": 660,
       "type": "voyage",
@@ -1524,7 +1524,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 27,
       "jour": 664,
       "type": "evenement",
@@ -1533,7 +1533,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 27,
       "jour": 664,
       "type": "evenement",
@@ -1542,7 +1542,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 27,
       "jour": 665,
       "type": "evenement",
@@ -1554,7 +1554,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 27,
       "jour": 665,
       "type": "evenement",
@@ -1563,7 +1563,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 28,
       "annee_sillage": 218,
       "type": "evenement",
@@ -1572,7 +1572,7 @@
       "sujet": "Lunasar"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 28,
       "jour": 690,
       "type": "voyage",
@@ -1581,7 +1581,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 28,
       "jour": 694,
       "type": "evenement",
@@ -1593,7 +1593,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 28,
       "jour": 694,
       "type": "evenement",
@@ -1606,7 +1606,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 28,
       "jour": 700,
       "type": "evenement",
@@ -1618,7 +1618,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 28,
       "jour": 702,
       "type": "evenement",
@@ -1630,7 +1630,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 29,
       "annee_sillage": -450,
       "type": "fondation",
@@ -1639,7 +1639,7 @@
       "sujet": "Caeloria"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 29,
       "annee_sillage": 244,
       "type": "evenement",
@@ -1648,7 +1648,7 @@
       "sujet": "Caeloria"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 29,
       "jour": 715,
       "type": "voyage",
@@ -1657,7 +1657,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 29,
       "jour": 717,
       "type": "evenement",
@@ -1666,7 +1666,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 29,
       "jour": 719,
       "type": "evenement",
@@ -1675,7 +1675,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 29,
       "jour": 722,
       "type": "voyage",
@@ -1684,7 +1684,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 30,
       "jour": 725,
       "type": "mort",
@@ -1696,7 +1696,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 30,
       "jour": 736,
       "type": "voyage",
@@ -1705,7 +1705,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 30,
       "jour": 737,
       "type": "evenement",
@@ -1717,7 +1717,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 30,
       "jour": 739,
       "type": "evenement",
@@ -1726,7 +1726,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 30,
       "jour": 744,
       "type": "evenement",
@@ -1738,7 +1738,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 30,
       "jour": 748,
       "type": "evenement",
@@ -1747,7 +1747,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 31,
       "annee_sillage": 247,
       "type": "evenement",
@@ -1756,7 +1756,7 @@
       "sujet": "Baelor"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 31,
       "jour": 752,
       "type": "voyage",
@@ -1765,7 +1765,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 31,
       "jour": 764,
       "type": "evenement",
@@ -1774,7 +1774,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 31,
       "jour": 767,
       "type": "evenement",
@@ -1783,7 +1783,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 31,
       "jour": 769,
       "type": "evenement",
@@ -1795,7 +1795,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 31,
       "jour": 771,
       "type": "voyage",
@@ -1804,7 +1804,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 32,
       "annee_sillage": 243,
       "type": "evenement",
@@ -1813,7 +1813,7 @@
       "sujet": "Varennis"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 32,
       "jour": 790,
       "type": "voyage",
@@ -1822,7 +1822,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 32,
       "jour": 793,
       "type": "evenement",
@@ -1834,7 +1834,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 32,
       "jour": 795,
       "type": "evenement",
@@ -1846,7 +1846,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 32,
       "jour": 796,
       "type": "evenement",
@@ -1858,7 +1858,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 32,
       "jour": 800,
       "type": "voyage",
@@ -1867,7 +1867,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 33,
       "annee_sillage": 243,
       "type": "evenement",
@@ -1876,7 +1876,7 @@
       "sujet": "Cestra"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 33,
       "annee_sillage": 245,
       "type": "mort",
@@ -1885,7 +1885,7 @@
       "sujet": "Aldris Vane"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 33,
       "annee_sillage": 230,
       "type": "voyage",
@@ -1894,7 +1894,7 @@
       "sujet": "Aldric Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 33,
       "jour": 825,
       "type": "voyage",
@@ -1906,7 +1906,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 33,
       "jour": 826,
       "type": "evenement",
@@ -1919,7 +1919,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 34,
       "jour": 843,
       "type": "voyage",
@@ -1928,7 +1928,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 34,
       "jour": 845,
       "type": "evenement",
@@ -1937,7 +1937,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 34,
       "jour": 847,
       "type": "evenement",
@@ -1950,7 +1950,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 34,
       "jour": 848,
       "type": "voyage",
@@ -1959,7 +1959,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 35,
       "annee_sillage": 220,
       "type": "evenement",
@@ -1968,7 +1968,7 @@
       "sujet": "Cestra"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 35,
       "jour": 865,
       "type": "evenement",
@@ -1977,7 +1977,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 35,
       "jour": 867,
       "type": "evenement",
@@ -1986,7 +1986,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 35,
       "jour": 869,
       "type": "evenement",
@@ -1998,7 +1998,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 35,
       "jour": 870,
       "type": "evenement",
@@ -2007,7 +2007,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 36,
       "jour": 885,
       "type": "evenement",
@@ -2020,7 +2020,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 36,
       "jour": 885,
       "type": "evenement",
@@ -2032,7 +2032,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 36,
       "jour": 886,
       "type": "voyage",
@@ -2041,7 +2041,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 37,
       "annee_sillage": 220,
       "type": "evenement",
@@ -2050,7 +2050,7 @@
       "sujet": "Selendris"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 37,
       "jour": 890,
       "type": "voyage",
@@ -2062,7 +2062,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 37,
       "jour": 893,
       "type": "evenement",
@@ -2074,7 +2074,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 37,
       "jour": 895,
       "type": "evenement",
@@ -2086,7 +2086,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 37,
       "jour": 895,
       "type": "evenement",
@@ -2098,7 +2098,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 37,
       "jour": 897,
       "type": "voyage",
@@ -2107,7 +2107,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 38,
       "annee_sillage": 245,
       "type": "evenement",
@@ -2116,7 +2116,7 @@
       "sujet": "Rukhsar"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 38,
       "annee_sillage": 252,
       "type": "evenement",
@@ -2128,7 +2128,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 38,
       "jour": 910,
       "type": "voyage",
@@ -2137,7 +2137,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 38,
       "jour": 910,
       "type": "evenement",
@@ -2149,7 +2149,7 @@
       ]
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 38,
       "jour": 911,
       "type": "evenement",
@@ -2158,7 +2158,7 @@
       "sujet": "Sorin Valthen"
     },
     {
-      "oeuvre": "chroniques",
+      "oeuvre": "oeu-0013",
       "chapitre": 38,
       "jour": 917,
       "type": "evenement",
