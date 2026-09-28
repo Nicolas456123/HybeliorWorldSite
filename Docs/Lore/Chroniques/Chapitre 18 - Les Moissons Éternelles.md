@@ -21,7 +21,7 @@ Sylthara commence par une odeur.
 
 Deux heures avant les premiers champs, l’air en était déjà plein : du pain, de la terre mouillée, de l’herbe coupée, et la note sucrée d’un moût qu’on foulait quelque part derrière une ligne de collines que je ne voyais pas encore. Une frontière marquée à la fermentation. Après le sol de verre d’Ordavan, après les plateaux de Pyrtara où l’air lui-même tient un compte, cette douceur m’a pris à la gorge.
 
-Quinze jours de route depuis la Brigade, Vyldor compris. Les gorges volcaniques avaient cédé peu à peu à un pays plus horizontal, moins nerveux, qui ne cherchait pas à se défendre. Les chemins de terre battue suivaient le relief au lieu de le corriger : ils passaient là où le sol offrait le passage, pas là où un ingénieur l’aurait décidé. À ce seul détail, on devinait une terre tenue par des gens qui la connaissent.
+Neuf jours chez les Guetteurs de Vyldor, six de route depuis la Brigade. Les gorges volcaniques avaient cédé peu à peu à un pays plus horizontal, moins nerveux, qui ne cherchait pas à se défendre. Les chemins de terre battue suivaient le relief au lieu de le corriger : ils passaient là où le sol offrait le passage, pas là où un ingénieur l’aurait décidé. À ce seul détail, on devinait une terre tenue par des gens qui la connaissent.
 
 Je ne venais pas pour la douceur.
 

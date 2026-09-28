@@ -54,7 +54,7 @@ Cette fois il ne le cacha pas. À quoi bon. Il n’y avait là que Marech, qui d
 
 Ses yeux se rouvrirent. Le sang lui poissait le menton, tiède, et il n’avait pas de main pour l’ôter.
 
-Marech le regardait, très pâle. Il avait vu le sang ; le sang, cela se voyait. Mais Ombreth sut, à son visage, qu’il n’avait vu que le sang. Que rien, pour lui, n’était parti. Qu’à l’instant où l’air s’était allégé, où une porte s’était ouverte dans le monde et où une âme y était passée, Marech, à trois pas, dans la même pièce, n’avait rien senti : pas un frisson, pas un fil d’air changé de sens. Comme le garçon Sènn, deux ans plus tôt, dans une remise d’Alkaran, n’avait rien senti. Comme personne ne sentait jamais rien. Le monde entier vivait de l’autre bord d’une cloison, et il était le seul à savoir la passer.
+Marech le regardait, très pâle. Il avait vu le sang ; le sang, cela se voyait. Mais Ombreth sut, à son visage, qu’il n’avait vu que le sang. Que rien, pour lui, n’était parti. Qu’à l’instant où l’air s’était allégé, où une porte s’était ouverte dans le monde et où une âme y était passée, Marech, à trois pas, dans la même pièce, n’avait rien senti : pas un frisson, pas un fil d’air changé de sens. Comme le garçon Sènn, un an et demi plus tôt, dans une remise d’Alkaran, n’avait rien senti. Comme personne ne sentait jamais rien. Le monde entier vivait de l’autre bord d’une cloison, et il était le seul à savoir la passer.
 
 « Elle est passée, dit Ombreth.
 

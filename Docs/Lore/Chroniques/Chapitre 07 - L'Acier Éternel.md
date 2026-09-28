@@ -16,7 +16,7 @@ status: draft
 
 ---
 
-La côte d’Alkaran ne s’annonce pas : elle se dresse. Après vingt-cinq jours de mer, quand le brouillard s’est enfin ouvert, ce n’est pas une plage qui est venue au-devant du navire, c’est un mur. Trelios montait droit hors de l’eau, comme si la roche avait pris un matin une forme habitée et n’avait plus jamais changé d’avis. Le capitaine est resté un moment à mon côté, sans un mot, puis a désigné le sommet du promontoire d’un mouvement de menton, le geste rodé d’un homme qui a montré cette côte à chaque passager qu’il débarque.
+La côte d’Alkaran ne s’annonce pas : elle se dresse. Après sept jours de mer, quand le brouillard s’est enfin ouvert, ce n’est pas une plage qui est venue au-devant du navire, c’est un mur. Trelios montait droit hors de l’eau, comme si la roche avait pris un matin une forme habitée et n’avait plus jamais changé d’avis. Le capitaine est resté un moment à mon côté, sans un mot, puis a désigné le sommet du promontoire d’un mouvement de menton, le geste rodé d’un homme qui a montré cette côte à chaque passager qu’il débarque.
 
 « La forteresse, là-haut. On ne sait plus où finit la montagne et où commence l’ouvrage. C’est fait exprès.
 — Pour intimider ? demandai-je.
@@ -24,7 +24,7 @@ La côte d’Alkaran ne s’annonce pas : elle se dresse. Après vingt-cinq jou
 
 Durer. J’allais retrouver ce mot partout sur ce continent.
 
-La traversée, je l’avais passée à ne pas être malade, ce qui, entre Galenor et Alkaran à cette saison, tient de la discipline plus que du talent. Mes cartes avaient voyagé dans leur tube de cuir ciré, serré contre mon flanc les nuits de houle. Le carnet de mon père avait voyagé plus près encore, sous la chemise, contre les côtes, à l’endroit où l’on garde ce qu’on ne veut pas mouiller. Pas une fois en vingt-cinq jours je ne l’ai ouvert. Nul besoin : je sais par cœur les pages qui comptent.
+La traversée, je l’avais passée à ne pas être malade, ce qui, entre Galenor et Alkaran à cette saison, tient de la discipline plus que du talent. Mes cartes avaient voyagé dans leur tube de cuir ciré, serré contre mon flanc les nuits de houle. Le carnet de mon père avait voyagé plus près encore, sous la chemise, contre les côtes, à l’endroit où l’on garde ce qu’on ne veut pas mouiller. Pas une fois depuis Voldenor je ne l’ai ouvert. Nul besoin : je sais par cœur les pages qui comptent.
 
 Galenor était derrière moi. Mon premier continent était derrière moi, et avec lui la saisie, la notification qui voyage plus vite que les caravanes, l’homme au manteau anthracite qui constatait ma présence. Un homme qui n’aurait rien eu à cacher se serait senti plus léger. Je ne l’étais pas.
 
@@ -169,7 +169,7 @@ Ma question suivante a pris le ton du curieux poli.
 
 Dans son esprit, il m’avait donné une leçon sur l’acier. Il m’avait donné bien davantage, et il ne le saura jamais. Trois copies, trois lieux : la catastrophe pouvait prendre l’une, les autres resteraient. J’ai regardé la plaque bleue qu’aucun ciseau n’entame, et j’ai pensé à un objet de papier, dans ma sacoche, que je construis feuille après feuille pour qu’il résiste au même feu.
 
-Devant lui, je n’ai pas pris de notes. Les notes attendraient le soir. Noter la méthode de mon propre legs pendant qu’un forgeron me parlait d’acier, cela se serait vu, et je n’avais pas fait vingt-cinq jours de mer pour me faire remarquer sur une plaque.
+Devant lui, je n’ai pas pris de notes. Les notes attendraient le soir. Noter la méthode de mon propre legs pendant qu’un forgeron me parlait d’acier, cela se serait vu, et je n’avais pas fait sept jours de mer pour me faire remarquer sur une plaque.
 
 ---
 

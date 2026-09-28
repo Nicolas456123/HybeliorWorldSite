@@ -154,7 +154,7 @@ Un cartographe ne se bat pas : il choisit le terrain, puis il laisse le terrain
 
 Pour la nuit, je m’installai sur une plateforme haute de la lisière est, le dos à un tronc, une lampe sourde aux pieds. Une lampe qu’on voit de loin. C’était le but : un homme seul, éclairé, immobile. Une cible commode, pour qui ne connaît pas la carte des câbles.
 
-Il monta sans un bruit. Les esprits du sol le sentirent avant moi : en bas, les grenouilles se turent d’un coup, et le cercle de leur silence grimpa avec lui, étage par étage. La main qui ne respire pas. À trois pas, dans la lumière verte et tamisée, je distinguai enfin le gant de cuir noir à la main gauche, et le reste de l’homme accordé au gant : sec, gris, économe de gestes. Il ne dit rien. On m’avait prévenu qu’il ne parle jamais le premier.
+Il monta sans un bruit. Les esprits du sol le sentirent avant moi : en bas, les grenouilles se turent d’un coup, et le cercle de leur silence grimpa avec lui, étage par étage. La main qui ne respire pas. À trois pas, dans la lumière verte et tamisée, je distinguai enfin le gant de cuir noir à la main gauche, et le reste de l’homme accordé au gant : sec, gris, économe de gestes. Il ne dit rien. Depuis Perivalis, je savais qu’il ne parle jamais le premier.
 
 Je parlai donc le premier.
 
@@ -216,7 +216,7 @@ Thyris me trouva au petit jour sur la Grande Plateforme, mon sac déjà fait.
 
 « Il est reparti, dit-elle. Les esprits du sol se sont tus toute la nuit, puis ils ont recommencé. » Elle me dévisagea. « Tu l’avais amené ici.
 — Ici, le terrain était de mon côté, dis-je. Nulle part ailleurs sur la Trace il ne l’aurait été.
-— Et tu l’as laissé partir. » Ce n’était pas une question. « Un homme vient te tuer. Tu le tiens au bout d’une lame. Et tu le hisses, et tu le renvoies. » Elle inclina la tête, de ce geste des Marcheurs qui pèse une charge. « Hier, je t’ai vu prendre à Kael sa dernière phrase sans rien lui rendre. Cette nuit, tu rends la vie à l’homme qui te chasse. Je ne sais pas encore lequel des deux est le vrai.
+— Et tu l’as laissé partir. » Ce n’était pas une question. « Un homme vient te tuer. Tu le tiens au bout d’une lame. Et tu le hisses, et tu le renvoies. » Elle inclina la tête, de ce geste des Marcheurs qui pèse une charge. « Avant-hier, je t’ai vu prendre à Kael sa dernière phrase sans rien lui rendre. Cette nuit, tu rends la vie à l’homme qui te chasse. Je ne sais pas encore lequel des deux est le vrai.
 — Peut-être les deux, dis-je. Je prends ce qui va se perdre. Le reste ne m’appartient pas. »
 
 Elle ne répondit pas, mais elle m’accompagna jusqu’à la lisière nord, là où la Trace remonte vers Lythar et le vent des steppes, là où Warenthor rend le voyageur à la lumière plate des plaines. Avant de me quitter, elle regarda le tatouage de son propre bras. Le serpent ne bougeait plus.

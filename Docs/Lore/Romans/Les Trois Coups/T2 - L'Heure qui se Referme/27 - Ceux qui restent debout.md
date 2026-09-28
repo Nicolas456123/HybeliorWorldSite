@@ -65,7 +65,7 @@ Et c’est ça qu’on m’a repris.
 
 ---
 
-Ma grand-mère à dix-sept ans s’appelait Vesle. Je le savais par la vieille femme qu’elle deviendrait : *quand j’étais fille on m’appelait Vesle*, elle me le disait le soir. Je l’ai retrouvée sous ce nom, Vesle, à la fontaine, avec ses deux seaux.
+Ma grand-mère à dix-sept ans s’appelait Vesle. Je le savais par la vieille femme qui m’a bercée : *quand j’étais fille on m’appelait Vesle*, elle me le disait le soir. Je l’ai retrouvée sous ce nom, Vesle, à la fontaine, avec ses deux seaux. Quinze siècles séparaient cette vieille-là de la fille de la fontaine. Elles avaient le même nom, le même rire, et je n’ai jamais su les tenir pour deux.
 
 Je me suis approchée. J’avais peur, une peur bête, la peur d’abîmer une chose en la touchant. Je lui ai parlé du temps qu’il faisait, des bêtes, des choses qu’on dit pour dire. Elle me répondait avec ce plein dans la voix, car tout, chez eux, était plein, même les mots pour rien : quand Vesle me disait *il gèlera cette nuit*, elle ne me passait pas seulement les mots, elle me passait le gel à venir, la nuit, le foin qu’il faudrait rentrer, tout ensemble, par la main tiède, et je recevais bien plus que la phrase, je recevais le monde autour de la phrase.
 

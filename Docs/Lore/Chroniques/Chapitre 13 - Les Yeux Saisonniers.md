@@ -31,7 +31,7 @@ Je la remerciai sans lui dire à quoi j’avais employé l’attente. En neuf jo
 
 La brume se leva d’un coup, sans transition, comme si quelqu’un derrière la forêt avait décidé que c’était l’heure. Dessous, il y avait l’Indelite.
 
-Je ne perdrai pas de pages à la décrire. D’autres l’ont fait, mieux, avec des mots que je n’ai pas. Ce que je peux noter, c’est ceci : dans une forêt dont les arbres, dit-on, gardent la mémoire de ce qui passe entre eux, un homme qui a quelque chose à cacher marche autrement. Ma guide me le fit remarquer dès le premier soir. Son nom était Lyris, une Gardienne de la région de Crestalia ; elle ouvrait la marche sans se retourner et parlait peu.
+Je ne perdrai pas de pages à la décrire. D’autres l’ont fait, mieux, avec des mots que je n’ai pas. Ce que je peux noter, c’est ceci : dans une forêt dont les arbres, dit-on, gardent la mémoire de ce qui passe entre eux, un homme qui a quelque chose à cacher marche autrement. Ma guide me le fit remarquer dès le premier soir. Son nom était Lyris, une Gardienne de la région de Crestalia ; elle ouvrait la marche sans se retourner, de l’aube à la nuit, et parlait peu.
 
 « Vous posez le pied comme quelqu’un qui ne veut pas laisser de trace, dit-elle à mi-voix. Ce n’est pas la peine. Les arbres ne lisent pas les pas. Ils lisent les intentions.
 — Et que lisent-ils dans les miennes ? »
@@ -44,7 +44,7 @@ L’automne, encore. Le même automne où les galeries d’Iskara avaient chang�
 
 ---
 
-L’Archidruide me reçut le troisième jour, dans une salle circulaire taillée à même le grand séquoia. Des fenêtres d’ambre y laissaient entrer une lumière dorée qui ne bougeait pas.
+L’Archidruide me reçut le quatrième jour, dans une salle circulaire taillée à même le grand séquoia. Des fenêtres d’ambre y laissaient entrer une lumière dorée qui ne bougeait pas.
 
 On m’avait décrit ses yeux avant que je la voie : ils changeaient de couleur avec les saisons, disait-on, et j’avais rangé la phrase parmi les images que les peuples se donnent d’eux-mêmes. J’avais eu tort. En ce début de printemps, les iris de Feylara avaient le vert de la végétation neuve après la pluie, un vert si dense qu’il semblait sortir d’elle plutôt que d’y entrer. Elle regardait comme quelqu’un qui a déjà compris et qui attend, sans impatience, qu’on le rattrape.
 
@@ -84,7 +84,7 @@ Le lendemain, Lyris me mena à l’étang de Mornath. L’eau, dit-on là-bas, n
 
 Sans répondre, je me relevai. Ma question et ce fond obscur étaient la même chose ; je la portais dans un carnet, pliée en relevés, depuis bien avant Avalor. Je notai la couleur de l’eau, rien d’autre.
 
-Ce savoir-là rejoignit ma carte, une croix de plus sur une ligne que je tenais déjà. Le surlendemain, je remerciai Feylara et je descendis de Crestalis, vers la lisière, vers Perivalis, vers la mer qui me séparait encore d’Ilthara.
+Ce savoir-là rejoignit ma carte, une croix de plus sur une ligne que je tenais déjà. Le surlendemain, je remerciai Feylara et je descendis de Crestalis à marches forcées, vers la lisière, vers Perivalis, vers la mer qui me séparait encore d’Ilthara.
 
 Je n’avais pas menti : je porte un carnet. La seule à comprendre ce qu’il contient fut celle qui ne savait pas le lire.
 
@@ -235,7 +235,7 @@ Elle resta longtemps sans parler. En bas, la mer travaillait contre les récifs�
 
 Il y avait dans sa voix de la gratitude, ce qui était la pire chose qu’elle pût y mettre.
 
-« Et pourquoi un homme qui me connaît depuis cinq nuits aurait-il peur pour moi ? »
+« Et pourquoi un homme qui me connaît depuis huit nuits aurait-il peur pour moi ? »
 
 Aucune réponse ne me vint. Je ne lui dis pas que j’avais passé quatre-vingt-dix jours à arriver juste après des gens comme elle, à recueillir ce qu’ils savaient pendant que d’autres se chargeaient de les faire taire. Je ne lui dis pas non plus que je m’étais juré, quelque part entre Valoria et ici, de ne jamais faire ce que j’étais en train de faire, parce que le faire une fois coûte toujours à quelqu’un d’autre. Je le savais. Je le fis quand même. C’est la seule fois du voyage où je me suis conduit comme l’homme qu’on me croit.
 

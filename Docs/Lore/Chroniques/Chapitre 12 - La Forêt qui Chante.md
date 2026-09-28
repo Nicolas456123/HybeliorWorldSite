@@ -19,7 +19,7 @@ status: draft
 
 Deux jours de mer entre Onara et Endora, et pas une heure sans que la coque gémisse. Le capitaine parlait d’une traversée douce ; il en avait vu d’autres, je l’ai cru sur parole. À Malderis, j’ai débarqué avec Pardine, ma mule, un manteau raidi de sel et un cahier de moins qu’à Tyndara. Un douanier de l’Onar en avait décidé pour moi, deux jours plus tôt, en glissant un de mes paquets scellés dans un coffre à serrure. Je n’ai pas protesté, et ce vol-là m’ôtait un poids.
 
-De Malderis, deux jours de plaines agricoles vers l’ouest, jusqu’à une bande de terre que les cartes nomment « territoire frontalier non administré » et que les gens du cru appellent « entre les deux ». Entre les plaines endoraines et la forêt de Sanvara. Des deux noms, celui du cru est le plus exact ; j’ai porté les deux sur mon relevé.
+De Malderis, une matinée de plaines agricoles vers l’ouest, jusqu’à une bande de terre que les cartes nomment « territoire frontalier non administré » et que les gens du cru appellent « entre les deux ». Entre les plaines endoraines et la forêt de Sanvara. Des deux noms, celui du cru est le plus exact ; j’ai porté les deux sur mon relevé.
 
 Le premier son de Sarandel fut une voix humaine.
 
@@ -63,7 +63,7 @@ Je croyais avoir deviné où sa descente voulait aller : un point que le chant 
 
 ---
 
-Deux jours durant, j’ai marché avec Brennan vers le cœur de Sarandel. Un mulet gris le portait, qu’il appelait Sombre avec le sérieux des plaisanteries anciennes ; Sombre et Pardine se toisèrent une fois, puis s’ignorèrent poliment. Brennan parlait peu et chantait souvent, parfois des lèvres seulement, les doigts rejouant un accord sur le flanc de sa monture.
+Jusqu’au lendemain, j’ai marché avec Brennan vers le cœur de Sarandel. Un mulet gris le portait, qu’il appelait Sombre avec le sérieux des plaisanteries anciennes ; Sombre et Pardine se toisèrent une fois, puis s’ignorèrent poliment. Brennan parlait peu et chantait souvent, parfois des lèvres seulement, les doigts rejouant un accord sur le flanc de sa monture.
 
 Le second jour, il me demanda si je connaissais le Cantus Mundi.
 

@@ -80,7 +80,7 @@ Elle avait lu juste. De cela elle n’avait jamais douté. Le sang au nez sans c
 
 Puis il y avait eu cet homme, cet été, dans un champ des vallées hautes. Un homme qui bêchait. Coupé par la méthode de la forgeronne ou par une autre main, elle n’avait pas cherché : il vivait. Il s’était redressé pour la regarder venir, avec des yeux qui n’avaient rien à cacher et qui ne savaient rien de ce qu’elle avait fait, vingt ans plus tôt, d’un homme bâti comme lui. Elle n’avait pas sorti la fiole. Trois lieues plus loin, elle s’était aperçue qu’elle n’avait pas noté le bourg non plus, elle qui notait tout.
 
-De l’un à l’autre, il y avait vingt ans, une méthode qu’elle n’avait jamais voulu apprendre, et une question qu’aucun registre du Dominat ne pouvait clore. Le *donc* de sa vingtième année n’existait pas plus que celui des Failles. Il avait seulement été écrit.
+De l’un à l’autre, il y avait vingt ans, une méthode qu’elle n’avait jamais voulu apprendre, et une question qu’aucun registre du Dominat ne pouvait clore. Le *donc* de ses vingt-cinq ans n’existait pas plus que celui des Failles. Il avait seulement été écrit.
 
 Elle demeura un moment immobile. Le remords, elle aurait su où le mettre ; ceci était l’absence de cause sous vingt ans de main sûre, et sous une main en particulier, et cela n’avait pas de taille.
 

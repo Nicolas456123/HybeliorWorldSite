@@ -5483,7 +5483,7 @@
       "body": null,
       "data": {
         "periode": {
-          "debut": 1460,
+          "debut": 1455,
           "fin": 1500,
           "confiance": "haute",
           "methode": "fait-date"
@@ -5736,7 +5736,15 @@
           "impossible": 0,
           "lent": 0,
           "lent_dates": 5
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.debut",
+            "avant": "1460",
+            "pourquoi": "Même chaîne."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -14796,15 +14804,13 @@
             "lieu": "Vyndralith",
             "mode": "mule",
             "duree": "Vingt-trois jours depuis les steppes de Ventera, dont onze à tourner dans la grande herbe",
-            "jours": 15,
+            "jours": 4,
             "depuis_id": "lie-1011",
             "citation": "Vingt-trois jours depuis les steppes de Ventera, dont onze à tourner dans la grande herbe quand la piste des cairns s’y était perdue",
             "etape": 5,
             "distance_lieues": 15,
-            "rythme": 1,
-            "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "15 lieues (58 km, mule) en 15 j : l'allure normale en demande 1,8, le texte en annonce 8,3 fois plus"
+            "rythme": 3.6,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/4",
@@ -14923,16 +14929,14 @@
             "lieu_id": "lie-0880",
             "lieu": "Yaltar",
             "mode": "navire",
-            "duree": "Après vingt-cinq jours de mer",
-            "jours": 25,
+            "duree": "Après sept jours de mer",
+            "jours": 7,
             "depuis_id": "lie-0065",
-            "citation": "Après vingt-cinq jours de mer, quand le brouillard s’est enfin ouvert, ce n’est pas une plage qui est venue au-devant du navire, c’est un mur.",
+            "citation": "Après sept jours de mer, quand le brouillard s’est enfin ouvert, ce n’est pas une plage qui est venue au-devant du navire, c’est un mur.",
             "etape": 12,
             "distance_lieues": 144,
-            "rythme": 5.7,
-            "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "144 lieues (574 km, navire) en 25 j : l'allure normale en demande 5,7, le texte en annonce 4,4 fois plus"
+            "rythme": 20.5,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/7",
@@ -15147,16 +15151,14 @@
             "lieu_id": "lie-0045",
             "lieu": "Sarandel",
             "mode": "mule",
-            "duree": "deux jours de plaines agricoles vers l’ouest […] Deux jours durant, j’ai marché avec Brennan",
-            "jours": 4,
+            "duree": "une matinée de plaines agricoles vers l’ouest […] Jusqu’au lendemain, j’ai marché avec Brennan",
+            "jours": 1.5,
             "depuis_id": "lie-1022",
-            "citation": "Deux jours durant, j’ai marché avec Brennan vers le cœur de Sarandel.",
+            "citation": "Jusqu’au lendemain, j’ai marché avec Brennan vers le cœur de Sarandel.",
             "etape": 25,
             "distance_lieues": 6.1,
-            "rythme": 1.5,
-            "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "6 lieues (25 km, mule) en 4 j : l'allure normale en demande 0,8, le texte en annonce 5,2 fois plus"
+            "rythme": 4.1,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "C/12",
@@ -15208,10 +15210,10 @@
             "lieu_id": "lie-0667",
             "lieu": "Crestalis",
             "mode": "marche",
-            "duree": "L’Archidruide me reçut le troisième jour",
+            "duree": "L’Archidruide me reçut le quatrième jour",
             "jours": 3,
             "depuis_id": "lie-0709",
-            "citation": "L’Archidruide me reçut le troisième jour, dans une salle circulaire taillée à même le grand séquoia.",
+            "citation": "L’Archidruide me reçut le quatrième jour, dans une salle circulaire taillée à même le grand séquoia.",
             "etape": 27,
             "distance_lieues": 28,
             "rythme": 9.5,
@@ -15240,8 +15242,10 @@
             "lieu": "Crestalis",
             "mode": "marche",
             "depuis_id": "lie-0714",
-            "citation": "Le surlendemain, je remerciai Feylara et je descendis de Crestalis, vers la lisière, vers Perivalis, vers la mer",
+            "citation": "Le surlendemain, je remerciai Feylara et je descendis de Crestalis à marches forcées, vers la lisière, vers Perivalis, vers la mer",
             "etape": 29,
+            "duree": null,
+            "jours": null,
             "distance_lieues": 4.6,
             "jours_dispo": 1,
             "rythme": 4.6
@@ -15256,8 +15260,9 @@
             "depuis_id": "lie-0667",
             "citation": "L’homme au gant noir m’attendait à Perivalis, au bout du ponton de rondins",
             "etape": 30,
+            "duree": "je descendis de Crestalis à marches forcées",
+            "jours": 3,
             "distance_lieues": 28,
-            "jours_dispo": 3,
             "rythme": 9.5,
             "verdict": "serre",
             "note": "28 lieues (113 km, marche) en 3 j : il en faudrait 4,1 à l'allure normale, 2,8 à marche forcée"
@@ -15511,15 +15516,13 @@
             "lieu_id": "lie-0864",
             "lieu": "Ydralis",
             "mode": "marche",
-            "duree": "Quinze jours de route depuis la Brigade, Vyldor compris",
-            "jours": 15,
+            "duree": "Neuf jours chez les Guetteurs de Vyldor, six de route depuis la Brigade",
+            "jours": 5,
             "depuis_id": "lie-0833",
-            "citation": "Quinze jours de route depuis la Brigade, Vyldor compris.",
+            "citation": "Neuf jours chez les Guetteurs de Vyldor, six de route depuis la Brigade.",
             "etape": 44,
             "distance_lieues": 32,
-            "rythme": 2.1,
-            "verdict": "lent",
-            "note": "32 lieues (129 km, marche) en 15 j : l'allure normale en demande 4,6, le texte en annonce 3,3 fois plus"
+            "rythme": 6.4
           },
           {
             "chapitre": "C/18",
@@ -15556,14 +15559,12 @@
             "lieu": "Wyndor",
             "mode": "marche",
             "duree": "Quinze jours. C’est le carnet qui les a comptés",
-            "jours": 15,
+            "jours": 13,
             "depuis_id": "lie-0723",
             "citation": "Quinze jours. C’est le carnet qui les a comptés",
             "etape": 46,
             "distance_lieues": 33,
-            "rythme": 2.2,
-            "verdict": "lent",
-            "note": "33 lieues (133 km, marche) en 15 j : l'allure normale en demande 4,7, le texte en annonce 3,2 fois plus"
+            "rythme": 2.6
           },
           {
             "chapitre": "C/20",
@@ -16251,12 +16252,62 @@
         "parcours_oeuvre": "C",
         "parcours_couleur": "#f0d894",
         "parcours_bilan": {
-          "tient": 41,
+          "tient": 46,
           "serre": 4,
           "impossible": 0,
-          "lent": 14,
+          "lent": 9,
           "lent_dates": 18
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/4 Vyndralith]",
+            "avant": "{\"duree\":\"Vingt-trois jours depuis les steppes de Ventera, dont onze à tourner dans la grande herbe\",\"jours\":15,\"citation\":\"Vingt-trois jours depuis les steppes de Ventera, dont onze à tourner dans la grande herbe quand la piste des cairns s’y était perdue\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/7 Yaltar]",
+            "avant": "{\"duree\":\"Après vingt-cinq jours de mer\",\"jours\":25,\"citation\":\"Après vingt-cinq jours de mer, quand le brouillard s’est enfin ouvert, ce n’est pas une plage qui est venue au-devant du navire, c’est un mur.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/12 Sarandel]",
+            "avant": "{\"duree\":\"deux jours de plaines agricoles vers l’ouest […] Deux jours durant, j’ai marché avec Brennan\",\"jours\":4,\"citation\":\"Deux jours durant, j’ai marché avec Brennan vers le cœur de Sarandel.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/13 Crestalis]",
+            "avant": "{\"duree\":\"L’Archidruide me reçut le troisième jour\",\"jours\":3,\"citation\":\"L’Archidruide me reçut le troisième jour, dans une salle circulaire taillée à même le grand séquoia.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/13 Crestalis]",
+            "avant": "{\"citation\":\"Le surlendemain, je remerciai Feylara et je descendis de Crestalis, vers la lisière, vers Perivalis, vers la mer\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/13 Perivalis]",
+            "avant": "{\"citation\":\"L’homme au gant noir m’attendait à Perivalis, au bout du ponton de rondins\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/18 Ydralis]",
+            "avant": "{\"duree\":\"Quinze jours de route depuis la Brigade, Vyldor compris\",\"jours\":15,\"citation\":\"Quinze jours de route depuis la Brigade, Vyldor compris.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[C/19 Wyndor]",
+            "avant": "{\"duree\":\"Quinze jours. C’est le carnet qui les a comptés\",\"jours\":15,\"citation\":\"Quinze jours. C’est le carnet qui les a comptés\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -17253,10 +17304,10 @@
             "confiance": "basse",
             "methode": "indices",
             "terre": "Endora",
-            "motif": "Quatre jours à l’ouest de Malderis (deux de plaines + deux avec Brennan) ≈ 20 u : vallée de la lisière de Sanvara, dans le seul creux libre entre Zylar/Galdaris (Thalmaris) et Velthorn (Avalor), ~10 u de chacun. De là, ~55 u jusqu’à Perivalis (275.4,112.6), soit les ~9 jours que met Sorin du hameau de lisière au village-sas.",
+            "motif": "Une matinée de plaines et une journée avec Brennan à l’ouest de Malderis, ≈ 20 u (6 lieues) : vallée de la lisière de Sanvara, dans le seul creux libre entre Zylar/Galdaris (Thalmaris) et Velthorn (Avalor), ~10 u de chacun. De là, ~55 u jusqu’à Perivalis (275.4,112.6), 16 lieues, deux jours de route ; le reste des neuf jours du J258 au J267 est séjour.",
             "indices": [
-              "C/12 : « Deux jours durant, j’ai marché avec Brennan vers le cœur de Sarandel. »",
-              "C/12 : « un morceau de Thalmaris déposé en Endora » ; « Trop loin pour rentrer »",
+              "C/12 : « Jusqu’au lendemain, j’ai marché avec Brennan vers le cœur de Sarandel. »",
+              "C/12 : « Ils vivaient à quelques jours de la mère-patrie et n’y retournaient pas : un morceau de Thalmaris déposé au bord de la forêt »",
               "C/13 : Perivalis atteinte ~J267 depuis la lisière quittée J258"
             ],
             "conflits": [
@@ -17264,7 +17315,33 @@
             ],
             "source": "estimée d’après les livres, 2026-09-25"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.motif",
+            "avant": "Quatre jours à l’ouest de Malderis (deux de plaines + deux avec Brennan) ≈ 20 u",
+            "pourquoi": "C/12 corrigé ; la position tient telle quelle."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.motif",
+            "avant": "soit les ~9 jours que met Sorin du hameau de lisière au village-sas",
+            "pourquoi": "Motif calculé à l’ancienne échelle (1 u = 1 lieue)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[0]",
+            "avant": "C/12 : « Deux jours durant, j’ai marché avec Brennan vers le cœur de Sarandel. »",
+            "pourquoi": "Citation qui n’est plus au texte."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[1]",
+            "avant": "C/12 : « un morceau de Thalmaris déposé en Endora » ; « Trop loin pour rentrer »",
+            "pourquoi": "Citations corrigées au texte le 27 ; le conflit « colonie lointaine » (conflits[0]) est levé."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -51680,12 +51757,12 @@
       "type": "terme",
       "name": "Les Inspecteurs de Pureté",
       "slug": null,
-      "summary": "Corps créé par Drahk'Nor vers 1474 ap.A, pendant la Tyrannie des Cendres, pour traquer les Tisses et les euthanasier « pour le bien commun ». Appareil d'État antagoniste du tome : Vaenor Sorne en est une inspectrice de terrain, Drahvel un préfet-inquisiteur.",
+      "summary": "Corps créé par Drahk'Nor vers 1480 ap.A, pendant la Tyrannie des Cendres, pour traquer les Tisses et les euthanasier « pour le bien commun ». Appareil d'État antagoniste du tome : Vaenor Sorne en est une inspectrice de terrain, Drahvel un préfet-inquisiteur.",
       "body": null,
       "data": {
         "periode": {
-          "debut": 1460,
-          "fin": 1460,
+          "debut": 1480,
+          "fin": 1480,
           "confiance": "haute",
           "methode": "fait-date"
         },
@@ -51695,6 +51772,24 @@
             "champ": "summary",
             "avant": "vers 1460 ap.A",
             "pourquoi": "Chaîne de Vaenor : le corps a six ans quand Vaenor, à vingt-six ans, va à Herrec (T2/18) ; vingt ans de service jusqu’à 1500 ; data.periode 1460 → 1474."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Corps créé par Drahk'Nor vers 1474 ap.A",
+            "pourquoi": "Registre §12, datation des Inspecteurs : le corps naît après la mort de Tavel (T2/14 « le corps qui allait se créer… elle serait des premiers à s’y présenter » ; T2/17), quelques mois avant Herrec (T2/18 retouché : « existait depuis quelques mois ») ; T2/50 « Vingt ans durant… au commencement du corps ». Le « six ans d’existence » d’où venait 1474 était une trace de l’ancienne chaîne."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.debut",
+            "avant": "1460",
+            "pourquoi": "Même datation."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.fin",
+            "avant": "1460",
+            "pourquoi": "Même datation (fin = fondation, méthode fait-date)."
           }
         ]
       },
@@ -51891,11 +51986,19 @@
       "body": null,
       "data": {
         "periode": {
-          "debut": 1460,
+          "debut": 1500,
           "fin": 1560,
           "confiance": "haute",
           "methode": "fait-date"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.debut",
+            "avant": "1460",
+            "pourquoi": "L’Édit de Pureté est signé l’été de la Refermeture (T2/38) ; fac-1078 est déjà à 1500."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -64126,17 +64229,35 @@
             "champ": "data.voir_correction",
             "avant": "titre du chapitre T2/14",
             "pourquoi": "retiré"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.debut",
+            "avant": "1460",
+            "pourquoi": "Tavel meurt à vingt-deux ans en 1480 (T2/14) ; la période dérivait de celle de sa sœur."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.fin",
+            "avant": "1500",
+            "pourquoi": "Même raison."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.indice",
+            "avant": "frère/sœur de Vaenor Sorne (1460)",
+            "pourquoi": "Même raison."
           }
         ],
         "arbitrage": [
           "33"
         ],
         "periode": {
-          "debut": 1460,
-          "fin": 1500,
+          "debut": 1458,
+          "fin": 1480,
           "confiance": "moyenne",
           "methode": "relation:fratrie-de",
-          "indice": "frère/sœur de Vaenor Sorne (1460)"
+          "indice": "mort à vingt-deux ans, la nuit de la fiole (T2/14), en 1480"
         }
       },
       "status": "canon",
@@ -64266,14 +64387,32 @@
             "champ": "body",
             "avant": "« Un nom, ça marche, ça se déplace, ça meurt… Une maison, ça ne bouge pas. On la marque, on la connaît. »",
             "pourquoi": "T2/24 : « Un nom, ça marche, ça se déplace, ça meurt, et vous voilà repartis à zéro sur le suivant. Une maison, ça ne bouge pas. On la marque, on la connaît, le prochain qui passe la lit d'un coup d'œil. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.debut",
+            "avant": "1460",
+            "pourquoi": "Période dérivée de l’ancienne date du corps (relation membre-de) ; Terrin, « jeune Inspecteur », n’apparaît qu’au printemps 1500 (T2/24)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.fin",
+            "avant": "1460",
+            "pourquoi": "Même raison."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.indice",
+            "avant": "membre de Les Inspecteurs de Pureté (1460)",
+            "pourquoi": "Même raison (methode « relation:membre-de » → « recit »)."
           }
         ],
         "periode": {
-          "debut": 1460,
-          "fin": 1460,
+          "debut": 1500,
+          "fin": 1500,
           "confiance": "basse",
           "methode": "relation:membre-de",
-          "indice": "membre de Les Inspecteurs de Pureté (1460)"
+          "indice": "jeune Inspecteur au T2/24, printemps 1500"
         }
       },
       "status": "canon",
@@ -65559,11 +65698,11 @@
       "type": "personne",
       "name": "Vesle",
       "slug": null,
-      "summary": "Grand-mère de la narratrice du Mont-Gris, retrouvée jeune femme à la fontaine dans le hameau que la Faille lente a fait basculer en arrière ; une main anonyme a glosé « pour Vesle » en marge d'un fragment du journal recueilli dans un coffre de Chamane de Mémoire.",
-      "body": "« Quand j’étais fille on m’appelait Vesle », lui disait-elle le soir. Tranché le 2026-09-27 (registre §9, ch. 27) : la chute va jusqu’au monde d’avant l’Arrachement ; la narratrice a cinquante ans, revient « quinze siècles plus tard », et Vesle est morte depuis trente ans. Que la jeune fille de la fontaine soit sa grand-mère à quinze siècles de distance est le paradoxe de la Voix, qui a perdu le quand : l’Atrium l’enregistre sans le résoudre.",
+      "summary": "Nom de la grand-mère de la narratrice du Mont-Gris, et de la jeune fille de dix-sept ans qu’elle rencontre à la fontaine quand la Faille lente fait basculer le hameau quinze siècles en arrière : même nom, même rire, et la narratrice ne sait pas les tenir pour deux ; une main anonyme a glosé « pour Vesle » en marge d'un fragment du journal recueilli dans un coffre de Chamane de Mémoire.",
+      "body": "« Quand j’étais fille on m’appelait Vesle », lui disait-elle le soir. Tranché le 2026-09-28 (registre §9, ch. 27) : la chute va jusqu’au monde d’avant l’Arrachement, et la parenté est lâchée — « Quinze siècles séparaient cette vieille-là de la fille de la fontaine. Elles avaient le même nom, le même rire, et je n’ai jamais su les tenir pour deux. » La narratrice a cinquante ans, revient « quinze siècles plus tard », et sa grand-mère est morte depuis trente ans ; la fille de la fontaine est une Vesle de l’avant, dont le nom et le rire sont descendus jusqu’à elle.",
       "data": {
         "lieu": "Le Mont-Gris",
-        "note": "profondeur tranchée (avant l’Arrachement) ; parenté laissée au paradoxe de la Voix",
+        "note": "profondeur gardée (avant l’Arrachement) ; parenté lâchée : deux Vesle à quinze siècles, que la Voix ne sait pas tenir pour deux",
         "preuve": [
           "T2/27"
         ],
@@ -65589,6 +65728,24 @@
             "champ": "data.note",
             "avant": "âges non tranchés — voir registre",
             "pourquoi": "T2/27 tranché"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Grand-mère de la narratrice du Mont-Gris, retrouvée jeune femme à la fontaine dans le hameau que la Faille lente a fait basculer en arrière ;",
+            "pourquoi": "T2/27 retouché (registre §9) : la parenté est lâchée, la profondeur gardée."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "body",
+            "avant": "Tranché le 2026-09-27 (registre §9, ch. 27) : la chute va jusqu’au monde d’avant l’Arrachement ; la narratrice a cinquante ans, revient « quinze siècles plus tard », et Vesle est morte depuis trente ans. Que la jeune fille de la fontaine soit sa grand-mère à quinze siècles de distance est le paradoxe de la Voix, qui a perdu le quand : l’Atrium l’enregistre sans le résoudre.",
+            "pourquoi": "T2/27 retouché ; l’ancienne note laissait un paradoxe là où l’auteur demandait un choix."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.note",
+            "avant": "profondeur tranchée (avant l’Arrachement) ; parenté laissée au paradoxe de la Voix",
+            "pourquoi": "Même décision."
           }
         ]
       },
@@ -66438,9 +66595,9 @@
             "confiance": "basse",
             "methode": "indices",
             "terre": "Galenor",
-            "motif": "Point = le départ de la piste (les neuf cairns « des premières lieues »), à la bifurcation où le convoi de Nythor tourne vers les hauts plateaux du sud (Astralor, -401,-53). La piste file ensuite sur ~49 u vers l’OUEST-sud-ouest jusqu’à Vyndralith (-431.2,-49.9) : ≈ 9 jours de marche, contre 12 annoncés et ~15 réels (J40→J55).",
+            "motif": "Point = le départ de la piste (les neuf cairns « des premières lieues »), à la bifurcation où le convoi de Nythor tourne vers les hauts plateaux du sud (Astralor, -401,-53). La piste file ensuite sur ~49 u vers l’OUEST-sud-ouest jusqu’à Vyndralith (-431.2,-49.9) : ≈ 15 lieues, deux jours de marche ; quatre annoncés par Renk (C/3), onze de plus « à tourner dans la grande herbe » (C/4), J40 → J55.",
             "indices": [
-              "C/3 : « La seconde coupe droit à travers la grande herbe. […] La piste des Neuf Cairns. […] Douze jours si le vent te laisse »",
+              "C/3 : « La seconde coupe droit à travers la grande herbe. […] La piste des Neuf Cairns. […] Quatre jours si le vent te laisse »",
               "C/3 : « neuf monticules de pierre grise jalonnent les premières lieues »",
               "C/3 : « Le convoi s’apprêtait à bifurquer vers les hauts plateaux du sud »",
               "C/4 : « Vingt-trois jours depuis les steppes de Ventera » (J32→J55)"
@@ -66450,7 +66607,21 @@
             ],
             "source": "estimée d’après les livres, 2026-09-25"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.motif",
+            "avant": "≈ 9 jours de marche, contre 12 annoncés et ~15 réels (J40→J55)",
+            "pourquoi": "Motif calculé à l’ancienne échelle, et estimation de Renk corrigée au texte le 27."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[0]",
+            "avant": "Douze jours si le vent te laisse",
+            "pourquoi": "Citation corrigée au texte le 27 ; le conflit « vers l’est » (conflits[0]) est levé : le C/3 dit « Je marche vers l’ouest »."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -67339,10 +67510,10 @@
             "confiance": "basse",
             "methode": "indices",
             "terre": "Endora",
-            "motif": "Port de la côte EST d’Endora (face à Onara d’où arrive le navire), à « deux jours de plaines » à l’est de la lisière de Sanvara : dans l’étroite bande de côte libre entre les villes posées de Thalmaris (Ostaris 11 u au nord) et d’Avalor (Fandor 11 u au sud). Tyndara → Malderis ≈ 139 u de mer.",
+            "motif": "Port de la côte EST d’Endora (face à Onara d’où arrive le navire), à « une matinée de plaines » à l’est de la lisière de Sanvara : dans l’étroite bande de côte libre entre les villes posées de Thalmaris (Ostaris 11 u au nord) et d’Avalor (Fandor 11 u au sud). Tyndara → Malderis ≈ 139 u de mer.",
             "indices": [
-              "C/12 : « Vingt-cinq jours de mer entre Onara et Endora »",
-              "C/12 : « De Malderis, deux jours de plaines agricoles vers l’ouest, jusqu’à une bande de terre que les cartes nomment « territoire frontalier non administré » »"
+              "C/12 : « Deux jours de mer entre Onara et Endora »",
+              "C/12 : « De Malderis, une matinée de plaines agricoles vers l’ouest, jusqu’à une bande de terre que les cartes nomment « territoire frontalier non administré » »"
             ],
             "conflits": [
               "25 jours de mer pour ~139 u (≈ 5,6 u/j, contre ~25 u/j à l’échelle retenue).",
@@ -67350,7 +67521,27 @@
             ],
             "source": "estimée d’après les livres, 2026-09-25"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.motif",
+            "avant": "à « deux jours de plaines » à l’est de la lisière de Sanvara",
+            "pourquoi": "C/12 corrigé. La position ne bouge pas (bande de côte libre entre Thalmaris et Avalor)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[1]",
+            "avant": "De Malderis, deux jours de plaines agricoles vers l’ouest",
+            "pourquoi": "Citation qui n’est plus au texte."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[0]",
+            "avant": "C/12 : « Vingt-cinq jours de mer entre Onara et Endora »",
+            "pourquoi": "Citation corrigée au texte le 27 ; le conflit « 25 jours de mer pour ~139 u » (conflits[0]) est levé et peut être retiré."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -70415,12 +70606,32 @@
           "raccord livres↔Atrium 2026-09-23"
         ],
         "periode": {
-          "debut": 1460,
-          "fin": 1460,
+          "debut": 1500,
+          "fin": 1500,
           "confiance": "basse",
           "methode": "relation:membre-de",
-          "indice": "membre de Les Inspecteurs de Pureté (1460)"
-        }
+          "indice": "sergent de l’escorte au T2/43, août 1500"
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.debut",
+            "avant": "1460",
+            "pourquoi": "Même dérivation ; Rœfel n’apparaît qu’au T2/43, août 1500."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.fin",
+            "avant": "1460",
+            "pourquoi": "Même raison."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.periode.indice",
+            "avant": "membre de Les Inspecteurs de Pureté (1460)",
+            "pourquoi": "Même raison (methode « relation:membre-de » → « recit »)."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -73725,7 +73936,7 @@
       "fact_type": "naissance",
       "subject_id": "per-0015",
       "object_id": null,
-      "start_year": 1460,
+      "start_year": 1455,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -73733,7 +73944,7 @@
       "end_circa": 0,
       "era_id": null,
       "seq": 0,
-      "label": "âge ~46 ans vers 1500 ap.A (vingt ans de service depuis Herrec, à vingt-six ans)",
+      "label": "âge ~45 ans vers 1500 ap.A (Tavel à vingt-cinq ans en 1480, vingt ans de service depuis la création du corps)",
       "detail": null,
       "data": {
         "raccord": [
@@ -73742,6 +73953,18 @@
             "champ": "label",
             "avant": "âge ~40 ans vers 1500 ap.A",
             "pourquoi": "Chaîne de Vaenor ; start_year 1460 → 1454, et per-0015 data.periode.debut 1460 → 1454."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "label",
+            "avant": "âge ~46 ans vers 1500 ap.A (vingt ans de service depuis Herrec, à vingt-six ans)",
+            "pourquoi": "Chaîne de Vaenor retenue : Tavel 1480 (fac-1364, start_year déjà 1480), Herrec 1481 à vingt-six ans (fac-1368, start_year déjà 1481), quarante-cinq ans au présent (« quarante ans passés », T2/14)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "1460",
+            "pourquoi": "Même chaîne : vingt-cinq ans en 1480."
           }
         ]
       },
@@ -97654,7 +97877,7 @@
       "fact_type": "fondation",
       "subject_id": "ter-0133",
       "object_id": null,
-      "start_year": 1460,
+      "start_year": 1480,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -97662,7 +97885,7 @@
       "end_circa": 0,
       "era_id": null,
       "seq": 0,
-      "label": "Création des Inspecteurs de Pureté par Drahk'Nor (~1474 ap.A).",
+      "label": "Création des Inspecteurs de Pureté par Drahk'Nor (~1480 ap.A).",
       "detail": null,
       "data": {
         "raccord": [
@@ -97671,6 +97894,18 @@
             "champ": "label",
             "avant": "(~1460 ap.A)",
             "pourquoi": "Même chaîne ; start_year 1460 → 1474."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "label",
+            "avant": "(~1474 ap.A)",
+            "pourquoi": "Même datation."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "1460",
+            "pourquoi": "Même datation (le libellé disait déjà 1474, le nombre était resté à 1460)."
           }
         ]
       },
@@ -97882,7 +98117,7 @@
         "source_date": "corpus-lu",
         "methode": "corpus-deduit",
         "confiance": "moyenne",
-        "indice_date": "Durcissement du protocole des Inspecteurs de Pureté (créés ~1 460) ; chronologie interne du T2 : ~1 440 → ~1 560 ap.A — bible T2 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
+        "indice_date": "Durcissement du protocole des Inspecteurs de Pureté (créés ~1 480) ; chronologie interne du T2 : ~1 440 → ~1 560 ap.A — bible T2 bible retirée du dépôt le 2026-09-22 ; la matière vit dans les chapitres, dans l’Atrium et dans le skill d’écriture.",
         "fiche": null,
         "raccord": [
           {
@@ -97890,6 +98125,12 @@
             "champ": "start_year",
             "avant": 1460,
             "pourquoi": "calendrier du T2 refait"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.indice_date",
+            "avant": "(créés ~1 460)",
+            "pourquoi": "Même datation."
           }
         ]
       },
@@ -99289,14 +99530,22 @@
       "era_id": "era7_actuelle",
       "seq": 7,
       "label": "Arrivée à Trelios sous le nom d'un roulier",
-      "detail": "Vingt-cinq jours de mer depuis Valoria. À Yaltar, une semaine avant le navire, un homme qui n'était pas un marchand a interrogé les registres du port : Sorin entre en Alkaran sans laisser son nom. [Chroniques, ch. 7, jour 140 — an 249 du Sillage]",
+      "detail": "Sept jours de mer depuis Valoria. À Yaltar, une semaine avant le navire, un homme qui n'était pas un marchand a interrogé les registres du port : Sorin entre en Alkaran sans laisser son nom. [Chroniques, ch. 7, jour 140 — an 249 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:7:arrivee-a-trelios-sous-le-nom-d-un-roulier",
         "chapitre": 7,
         "jour": 140,
-        "confiance": "moyenne"
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "Vingt-cinq jours de mer depuis Valoria.",
+            "pourquoi": "C/7 : « Après sept jours de mer » (144 lieues)."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -100130,13 +100379,13 @@
       "era_id": "era7_actuelle",
       "seq": 12,
       "label": "Rencontre de Brennan, Chroniqueur de Sarandel",
-      "detail": "Sur une colline d'Endora, un barde cherche depuis bientôt cinq ans la dernière note d'un chant — « elle devrait aller quelque part où je ne suis pas encore allé ». Même profondeur d'années que les druides de Trinoria. [Chroniques, ch. 12, jour 248 — an 249 du Sillage]",
+      "detail": "Sur une colline d'Endora, un barde cherche depuis bientôt cinq ans la dernière note d'un chant — « elle devrait aller quelque part où je ne suis pas encore allé ». Même profondeur d'années que les druides de Trinoria. [Chroniques, ch. 12, jour 249 — an 249 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:12:rencontre-de-brennan-chroniqueur-de-sarandel",
         "chapitre": 12,
-        "jour": 248,
+        "jour": 249,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -100144,6 +100393,18 @@
             "champ": "detail",
             "avant": "« elle devrait aller quelque part que je n'ai pas encore entendu »",
             "pourquoi": "Citation non verbatim ; l’image du chapitre est celle d’un lieu à atteindre, pas d’un son."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 12, jour 248",
+            "pourquoi": "C/12 : Brennan rencontré le matin, l’Heure du Chant « jusqu’au lendemain », à l’aube du J250 (fac-1152)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "248",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
           }
         ]
       },
@@ -100355,13 +100616,13 @@
       "era_id": "era7_actuelle",
       "seq": 13,
       "label": "Feylara : « Les esprits en parlent depuis l'automne »",
-      "detail": "L'Archidruide d'Avalor aux yeux saisonniers : des entités sans agitation depuis mille ans se mettent à murmurer. « Les esprits ne murmurent pas de vous, cartographe. Ils murmurent de ce que vous portez. […] — Je ne porte qu'un carnet. — Je sais, dit-elle. C'est ce qui m'inquiète. » [Chroniques, ch. 13, jour 278 — an 249 du Sillage]",
+      "detail": "L'Archidruide d'Avalor aux yeux saisonniers : des entités sans agitation depuis mille ans se mettent à murmurer. « Les esprits ne murmurent pas de vous, cartographe. Ils murmurent de ce que vous portez. […] — Je ne porte qu'un carnet. — Je sais, dit-elle. C'est ce qui m'inquiète. » [Chroniques, ch. 13, jour 279 — an 249 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:13:feylara-les-esprits-murmurent-depuis-l-automne",
         "chapitre": 13,
-        "jour": 278,
+        "jour": 279,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -100375,6 +100636,18 @@
             "champ": "detail",
             "avant": "« Ils ne murmurent pas de vous. Ils murmurent de ce que vous portez. — Je ne porte qu'un carnet. — Je sais. C'est ce qui m'inquiète. »",
             "pourquoi": "C/13 : « Les esprits ne murmurent pas de vous, cartographe. Ils murmurent de ce que vous portez. […] — Je sais, dit-elle. C’est ce qui m’inquiète. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 13, jour 278",
+            "pourquoi": "C/13 : « L’Archidruide me reçut le quatrième jour », en comptant le neuvième matin (J276)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "278",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
           }
         ]
       },
@@ -100441,14 +100714,28 @@
       "era_id": "era7_actuelle",
       "seq": 13,
       "label": "Sorin fait fuir Vessane avant la nuit du courrier",
-      "detail": "« Une étoile qu'on peut prédire, on la vise. » Sorin révèle les nuits de courrier de l'appareil et envoie l'astronome chez sa sœur à Haltheria, le réflecteur laissé sur la balustrade pour tromper le guetteur. La seule fois du voyage où il se conduit comme l'homme qu'il feint d'être. [Chroniques, ch. 13, jour 293 — an 249 du Sillage]",
+      "detail": "« Une étoile qu'on peut prédire, on la vise. » Sorin révèle les nuits de courrier de l'appareil et envoie l'astronome chez sa sœur à Haltheria, le réflecteur laissé sur la balustrade pour tromper le guetteur. La seule fois du voyage où il se conduit comme l'homme qu'il feint d'être. [Chroniques, ch. 13, jour 296 — an 249 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:13:sorin-fait-fuir-vessane-avant-la-nuit-du-courrier",
         "chapitre": 13,
-        "jour": 293,
-        "confiance": "moyenne"
+        "jour": 296,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 13, jour 293",
+            "pourquoi": "C/13 : la mise en garde vient la huitième nuit (« un homme qui me connaît depuis huit nuits ») ; Hekorinth J289 → J300."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "293",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -100470,13 +100757,13 @@
       "era_id": "era7_actuelle",
       "seq": 13,
       "label": "Mort de Halen au quai quatre d'Hekorinth",
-      "detail": "L'écrivain des manifestes qui dispersait les cahiers de Sorin parmi les caisses d'Ilthara est repêché contre les récifs. « J'avais voulu qu'une femme reste en vie ; pour cela, j'avais retenu le chasseur sur ce port des nuits de plus, et il avait pris l'homme du quai quatre à la place. » [Chroniques, ch. 13, jour 295 — an 249 du Sillage]",
+      "detail": "L'écrivain des manifestes qui dispersait les cahiers de Sorin parmi les caisses d'Ilthara est repêché contre les récifs. « J'avais voulu qu'une femme reste en vie ; pour cela, j'avais retenu le chasseur sur ce port des nuits de plus, et il avait pris l'homme du quai quatre à la place. » [Chroniques, ch. 13, jour 299 — an 249 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:13:mort-de-halen-au-quai-quatre-d-hekorinth",
         "chapitre": 13,
-        "jour": 295,
+        "jour": 299,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -100484,6 +100771,18 @@
             "champ": "detail",
             "avant": "« Voulant qu'une femme reste en vie, j'avais retenu le chasseur assez de nuits pour qu'il prenne l'homme du quai quatre à la place. Rien ne se soustrait sur une carte, tout se reporte. »",
             "pourquoi": "Citation réécrite et prolongée d’une maxime (« Rien ne se soustrait sur une carte… ») absente du chapitre."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 13, jour 295",
+            "pourquoi": "C/13 : Vessane part le neuvième matin (J297), le gant est sur le port deux nuits plus tard (J299), Halen ne répond pas « ce matin-là »."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "295",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
           }
         ]
       },
@@ -100507,14 +100806,28 @@
       "era_id": "era7_actuelle",
       "seq": 13,
       "label": "La lettre de Mira restée blanche",
-      "detail": "Le billet de Mira Dasthen : deux visiteurs polis aux Archives qui connaissaient déjà les réponses. « Écris-moi que tu vas bien, même si ce n'est pas vrai. » Sorin écrit la date, le lieu, « Mira, » — et plie la feuille vide. [Chroniques, ch. 13, jour 296 — an 249 du Sillage]",
+      "detail": "Le billet de Mira Dasthen : deux visiteurs polis aux Archives qui connaissaient déjà les réponses. « Écris-moi que tu vas bien, même si ce n'est pas vrai. » Sorin écrit la date, le lieu, « Mira, » — et plie la feuille vide. [Chroniques, ch. 13, jour 299 — an 249 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:13:la-lettre-de-mira-restee-blanche",
         "chapitre": 13,
-        "jour": 296,
-        "confiance": "moyenne"
+        "jour": 299,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 13, jour 296",
+            "pourquoi": "C/13 : le billet de Mira est lu le jour de Halen, la veille de l’embarquement (J300)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "296",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -101174,14 +101487,28 @@
       "era_id": "era7_actuelle",
       "seq": 18,
       "label": "« La terre hésite » : les registres de Talvind",
-      "detail": "À Ydralis (Sylthara), le vieux semeur montre trois années de la parcelle Rynel-haut : germination de sept jours passée à neuf, puis dix ; le seigle levé par à-coups. Première anomalie datée de la troisième semaine de Virel, l'automne d'avant — la même semaine que les premiers relevés de vibrations chez Pyrax. [Chroniques, ch. 18, jour 426 — an 250 du Sillage]",
+      "detail": "À Ydralis (Sylthara), le vieux semeur montre trois années de la parcelle Rynel-haut : germination de sept jours passée à neuf, puis dix ; le seigle levé par à-coups. Première anomalie datée de la troisième semaine de Virel, l'automne d'avant — la même semaine que les premiers relevés de vibrations chez Pyrax. [Chroniques, ch. 18, jour 423 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:18:la-terre-hesite-les-registres-de-talvind",
         "chapitre": 18,
-        "jour": 426,
-        "confiance": "moyenne"
+        "jour": 423,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 18, jour 426",
+            "pourquoi": "C/18 (corrigé le 27, précisé ce jour) : arrivée à Ydralis J422, « Le deuxième jour » dans les champs = J423."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "426",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -101203,13 +101530,13 @@
       "era_id": "era7_actuelle",
       "seq": 18,
       "label": "Le mur d'avant les murs",
-      "detail": "Sous Rynel-haut, un mur enterré aux pierres « trop lisses pour venir de n'importe quelle maison que je connaisse » — sous la parcelle où la terre a hésité la première. « Le réseau ne s'était encore jamais montré entier. Il affleurait, ici par un mur qu'on ne peut pas dater […] » [Chroniques, ch. 18, jour 426 — an 250 du Sillage]",
+      "detail": "Sous Rynel-haut, un mur enterré aux pierres « trop lisses pour venir de n'importe quelle maison que je connaisse » — sous la parcelle où la terre a hésité la première. « Le réseau ne s'était encore jamais montré entier. Il affleurait, ici par un mur qu'on ne peut pas dater […] » [Chroniques, ch. 18, jour 423 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:18:le-mur-d-avant-les-murs",
         "chapitre": 18,
-        "jour": 426,
+        "jour": 423,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -101217,6 +101544,18 @@
             "champ": "detail",
             "avant": "« Le réseau ne se montre jamais entier. Il affleure. »",
             "pourquoi": "C/18 : « Le réseau ne s’était encore jamais montré entier. Il affleurait, ici par un mur qu’on ne peut pas dater, là par un blé […] »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 18, jour 426",
+            "pourquoi": "Même journée que les registres (le mur sous Rynel-haut)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "426",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
           }
         ]
       },
@@ -101240,14 +101579,28 @@
       "era_id": "era7_actuelle",
       "seq": 18,
       "label": "Mort de Talvind, la veille de la grande récolte",
-      "detail": "On relève le semeur au pied du grenier communal, monté de nuit chercher on ne sait quoi dans ses registres. « Le cœur », dit le médecin. Trois jours après l'arrivée d'un étranger qui posait des questions. « On cueille quand le savoir est mûr et que le porteur va tomber. » [Chroniques, ch. 18, jour 428 — an 250 du Sillage]",
+      "detail": "On relève le semeur au pied du grenier communal, monté de nuit chercher on ne sait quoi dans ses registres. « Le cœur », dit le médecin. Trois jours après l'arrivée d'un étranger qui posait des questions. « On cueille quand le savoir est mûr et que le porteur va tomber. » [Chroniques, ch. 18, jour 425 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:18:mort-de-talvind-la-veille-de-la-grande-recolte",
         "chapitre": 18,
-        "jour": 428,
-        "confiance": "moyenne"
+        "jour": 425,
+        "confiance": "moyenne",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 18, jour 428",
+            "pourquoi": "C/18 : « Talvind est mort dans la nuit du troisième jour » ; en-tête et parcours : J425."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "428",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
+          }
+        ]
       },
       "source_id": "oeu-0013",
       "status": "canon",
@@ -101306,13 +101659,13 @@
       "era_id": "era7_actuelle",
       "seq": 19,
       "label": "« Ils arrivent par le dessous » — la dernière parole des esprits",
-      "detail": "À Warenthor, les esprits se sont tus un à un autour du chamane Kael — six mois de silences. Leur dernière manifestation, trois lunes avant le passage de Sorin, a laissé une phrase : « ils arrivent par le dessous ». Thyris : « Ne fais pas de lui une preuve. » — « Je note ce qu'il dit. — Non. […] Tu notes ce que tu peux utiliser. » [Chroniques, ch. 19, jour 455 — an 250 du Sillage]",
+      "detail": "À Warenthor, les esprits se sont tus un à un autour du chamane Kael — six mois de silences. Leur dernière manifestation, trois lunes avant le passage de Sorin, a laissé une phrase : « ils arrivent par le dessous ». Thyris : « Ne fais pas de lui une preuve. » — « Je note ce qu'il dit. — Non. […] Tu notes ce que tu peux utiliser. » [Chroniques, ch. 19, jour 444 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:19:ils-arrivent-par-le-dessous-la-derniere-parole-des-esprits",
         "chapitre": 19,
-        "jour": 455,
+        "jour": 444,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -101320,6 +101673,18 @@
             "champ": "detail",
             "avant": "« Ne fais pas de lui une preuve. — Je note ce qu'il dit. — Non. Tu notes ce que tu peux utiliser. »",
             "pourquoi": "C/19 : « Ne fais pas de lui une preuve. » […] « Je note ce qu’il dit. — Non. » Sa voix […] « Tu notes ce que tu peux utiliser. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 19, jour 455",
+            "pourquoi": "C/19 : Kael « le lendemain » de l’arrivée à Wyndor (parcours ≈J443 : quinze jours de Trace depuis le relais du J428)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "455",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
           }
         ]
       },
@@ -101343,13 +101708,13 @@
       "era_id": "era7_actuelle",
       "seq": 19,
       "label": "Le duel de la canopée : Sorin épargne Vels Draye",
-      "detail": "À Wyndor, Sorin choisit le terrain, desserre les câbles, piège le limier au gant noir — qui a désormais un nom. La passerelle cède, Draye pend à une liane, la lame d'Aldric à un geste de sa gorge. Sorin le hisse. « Vous auriez dû, dit-il enfin. — Je sais. » Et Draye : « La prochaine fois, je ne vous laisserai pas le terrain. » [Chroniques, ch. 19, jour 458 — an 250 du Sillage]",
+      "detail": "À Wyndor, Sorin choisit le terrain, desserre les câbles, piège le limier au gant noir — qui a désormais un nom. La passerelle cède, Draye pend à une liane, la lame d'Aldric à un geste de sa gorge. Sorin le hisse. « Vous auriez dû, dit-il enfin. — Je sais. » Et Draye : « La prochaine fois, je ne vous laisserai pas le terrain. » [Chroniques, ch. 19, jour 445 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:19:le-duel-de-la-canopee-sorin-epargne-vels-draye",
         "chapitre": 19,
-        "jour": 458,
+        "jour": 445,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -101357,6 +101722,18 @@
             "champ": "detail",
             "avant": "« Vous auriez dû. — Je sais. »",
             "pourquoi": "C/19 : « Vous auriez dû, dit-il enfin. — Je sais. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 19, jour 458",
+            "pourquoi": "C/19 : « Le limier vint la troisième nuit » ; Thyris, à l’aube suivante : « Avant-hier » (Kael)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "458",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
           }
         ]
       },
@@ -101380,13 +101757,13 @@
       "era_id": "era7_actuelle",
       "seq": 19,
       "label": "Les bêtes de Warenthor montent",
-      "detail": "Singes vers la lisière, fourmis charriant leur couvain vers le haut, un tapir mort d'épuisement à mille pieds au-dessus de son domaine. « les hôtes du sol montaient » — comme les troupeaux d'Ordavan trois jours avant le verre. [Chroniques, ch. 19, jour 459 — an 250 du Sillage]",
+      "detail": "Singes vers la lisière, fourmis charriant leur couvain vers le haut, un tapir mort d'épuisement à mille pieds au-dessus de son domaine. « les hôtes du sol montaient » — comme les troupeaux d'Ordavan trois jours avant le verre. [Chroniques, ch. 19, jour 444 — an 250 du Sillage]",
       "data": {
         "calendrier": "sillage",
         "source_date": "recit",
         "recit_uid": "oeu-0013:19:les-betes-de-warenthor-montent",
         "chapitre": 19,
-        "jour": 459,
+        "jour": 444,
         "confiance": "moyenne",
         "raccord": [
           {
@@ -101394,6 +101771,18 @@
             "champ": "detail",
             "avant": "« La jungle, qui d'ordinaire respire vers le bas, expirait vers l'extérieur »",
             "pourquoi": "La phrase entre guillemets n’existe pas dans le chapitre. Le sujet du fait (pol-0014 Ackerna) est aussi à revoir : les bêtes sont croisées sur la Trace, en Warenthor, en allant voir Kael (pol-0015)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "[Chroniques, ch. 19, jour 459",
+            "pourquoi": "C/19 : les bêtes sont vues en allant chez Kael (« Depuis deux jours, la Trace croisait des bêtes à contresens »), avant le duel ; l’Atrium les mettait après."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.jour",
+            "avant": "459",
+            "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
           }
         ]
       },
@@ -108214,7 +108603,7 @@
       "fact_type": "evenement",
       "subject_id": "ter-0137",
       "object_id": null,
-      "start_year": -30,
+      "start_year": -40,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -108223,7 +108612,7 @@
       "era_id": "era3_lien_empires",
       "seq": 0,
       "label": "La déportée de Vaumielle — « je porte la plaie avant la blessure »",
-      "detail": "Prologue du tome : une Voix Déportée — jetée par une Faille du temps du Fléau jusqu'à Vaumielle, un village du plein Âge du Lien, trente ans environ avant l'Arrachement — saigne quand elle prend « la main tiède » et répète des paroles que sa bouche ne croit plus (« On ne se souvient pas de ce qui n'est pas arrivé. Je m'en souviens »). Première solitude dans un monde qui ne connaît pas la solitude, elle pressent les deux heures : « une heure ouvrira. Une heure refermera » — et, dans l'heure qui referme, « un enfant naîtra qui sera à sa place. À sa place dans le temps. […] Un enfant qui saura quand il est ». En marge : le Fragment #1, plus vieille copie connue du journal de Thessan circulant dans les marges d'Onara, altère déjà le texte — « nous croyons que c'est nécessaire » au lieu d'« inévitable ». [T2 — L’Heure qui se Referme, ch. 0 — an 30 av.A]",
+      "detail": "Prologue du tome : une Voix Déportée — jetée par une Faille du temps du Fléau jusqu'à Vaumielle, un village du plein Âge du Lien, quarante ans environ avant l'Arrachement — saigne quand elle prend « la main tiède » et répète des paroles que sa bouche ne croit plus (« On ne se souvient pas de ce qui n'est pas arrivé. Je m'en souviens »). Première solitude dans un monde qui ne connaît pas la solitude, elle pressent les deux heures : « une heure ouvrira. Une heure refermera » — et, dans l'heure qui referme, « un enfant naîtra qui sera à sa place. À sa place dans le temps. […] Un enfant qui saura quand il est ». En marge : le Fragment #1, plus vieille copie connue du journal de Thessan circulant dans les marges d'Onara, altère déjà le texte — « nous croyons que c'est nécessaire » au lieu d'« inévitable ». [T2 — L’Heure qui se Referme, ch. 0 — an 40 av.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -108243,6 +108632,24 @@
             "champ": "detail",
             "avant": "« un enfant naîtra qui sera à sa place dans le temps... un enfant qui saura quand il est »",
             "pourquoi": "T2/0 : « un enfant naîtra qui sera à sa place. À sa place dans le temps. Le premier depuis longtemps. […] Un enfant qui saura quand il est. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "-30",
+            "pourquoi": "T2/0 : l’en-tête est à « ~an -40 » depuis le 27, d’accord avec la prose (« je serai née à Vaumielle dans quarante ans », la main tiède « ne mourra pas avant quarante ans ») ; l’Atrium suivait l’ancien en-tête, texte minoritaire."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "trente ans environ avant l'Arrachement",
+            "pourquoi": "Même raison."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "ch. 0 — an 30 av.A",
+            "pourquoi": "Même raison."
           }
         ],
         "preuve": [
@@ -108383,7 +108790,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0014",
       "object_id": null,
-      "start_year": 1500,
+      "start_year": 1499,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -108392,7 +108799,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 4,
       "label": "Celui qui entend les morts — Ombreth capte le chœur des heures",
-      "detail": "Dans les montagnes d'Alkaran, Ombreth apaise l'Errant de la remise de Sènn — un vieil homme mort de fatigue que personne n'a tenu — en lui chantant sa note jusqu'à ce que « ça sonne creux quelque part », et essuie en cachette le sang qui monte : son don le tue (le fil qui les reliait aux morts « s'était retourné contre eux. Chaque usage était une morsure »), sa fenêtre de coupure est passée depuis deux ans — il n'a pas pu choisir de ne plus entendre. Les Errants se multiplient et il est le dernier à entendre ; il cherche en vain un enfant « avec la chambre au bon endroit ». Au retour, il capte pour la première fois le chœur des Voix Déportées — des voix qui ne s'accordent pas sur l'heure — et les prend pour des morts d'une espèce nouvelle : « Sa seule chambre était une chambre faite pour les morts, et il n'avait, pour entendre, que cette chambre-là ». Il ne sait pas encore que l'enfant qu'il cherche existe, à cent lieues, par-delà la mer, dans une forge des marges d'Onara. [T2 — L’Heure qui se Referme, ch. 4 — an 1500 ap.A]",
+      "detail": "Dans les montagnes d'Alkaran, Ombreth apaise l'Errant de la remise de Sènn — un vieil homme mort de fatigue que personne n'a tenu — en lui chantant sa note jusqu'à ce que « ça sonne creux quelque part », et essuie en cachette le sang qui monte : son don le tue (le fil qui les reliait aux morts « s'était retourné contre eux. Chaque usage était une morsure »), sa fenêtre de coupure est passée depuis deux ans — il n'a pas pu choisir de ne plus entendre. Les Errants se multiplient et il est le dernier à entendre ; il cherche en vain un enfant « avec la chambre au bon endroit ». Au retour, il capte pour la première fois le chœur des Voix Déportées — des voix qui ne s'accordent pas sur l'heure — et les prend pour des morts d'une espèce nouvelle : « Sa seule chambre était une chambre faite pour les morts, et il n'avait, pour entendre, que cette chambre-là ». Il ne sait pas encore que l'enfant qu'il cherche existe, à cent lieues, par-delà la mer, dans une forge des marges d'Onara. [T2 — L’Heure qui se Referme, ch. 4 — an 1499 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -108424,6 +108831,18 @@
             "champ": "detail",
             "avant": "à trente lieues, dans une forge des marges d'Onara",
             "pourquoi": "Trajet Alkaran → Forge-Basse à la carte (~110 lieues dont ~90 de mer)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "1500",
+            "pourquoi": "T2/04 se passe au lendemain de la Sainte-Braise 1498 (parcours d’Ombreth, per-0014) ; le T2/29 (été 1500) le met désormais « un an et demi plus tôt », le T2/33 « deux hivers plus tôt »."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "ch. 4 — an 1500 ap.A",
+            "pourquoi": "Même raison."
           }
         ]
       },
@@ -108438,7 +108857,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0014",
       "object_id": null,
-      "start_year": 1500,
+      "start_year": 1499,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": null,
@@ -108447,7 +108866,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 5,
       "label": "La mort de Baelic — Ombreth devient le Dernier-qui-Chante",
-      "detail": "Dans sa maison-basse creusée « pour être à la hauteur de ceux qui poussent d'en dessous », Baelic, dernier des Renn et meilleur chanteur de sa génération, meurt en Phase 4 après onze jours — mais pas avant d'avoir dénudé la vérité d'Ombreth : « Tu ne l'as pas ratée, ta fenêtre. […] Tu l'as laissée passer. […] Tu as choisi d'entendre les morts jusqu'au bout plutôt que de vivre sourd. » Et sa dernière hypothèse, celle qu'aucun prêtre ni Inspecteur n'ose : « Peut-être qu'un grenier trop chargé commence à céder tout seul, sous son propre poids » — les chanteurs n'ayant peut-être jamais rien retenu du tout. Baelic passe seul, proprement, après avoir apaisé l'Errante polie de son mur — « un chanteur qui range sa maison avant de la quitter ». Ombreth reste le dernier : après lui, plus une bouche pour montrer la porte aux morts. « On appelle ça un don. C'est de l'attachement, et ça se paie avec la peau. » [T2 — L’Heure qui se Referme, ch. 5 — an 1500 ap.A]",
+      "detail": "Dans sa maison-basse creusée « pour être à la hauteur de ceux qui poussent d'en dessous », Baelic, dernier des Renn et meilleur chanteur de sa génération, meurt en Phase 4 après onze jours — mais pas avant d'avoir dénudé la vérité d'Ombreth : « Tu ne l'as pas ratée, ta fenêtre. […] Tu l'as laissée passer. […] Tu as choisi d'entendre les morts jusqu'au bout plutôt que de vivre sourd. » Et sa dernière hypothèse, celle qu'aucun prêtre ni Inspecteur n'ose : « Peut-être qu'un grenier trop chargé commence à céder tout seul, sous son propre poids » — les chanteurs n'ayant peut-être jamais rien retenu du tout. Baelic passe seul, proprement, après avoir apaisé l'Errante polie de son mur — « un chanteur qui range sa maison avant de la quitter ». Ombreth reste le dernier : après lui, plus une bouche pour montrer la porte aux morts. « On appelle ça un don. C'est de l'attachement, et ça se paie avec la peau. » [T2 — L’Heure qui se Referme, ch. 5 — an 1499 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -108473,6 +108892,18 @@
             "champ": "detail",
             "avant": "le Fléau serait peut-être « un grenier trop chargé qui commence à céder tout seul, sous son propre poids »",
             "pourquoi": "T2/5 : « Peut-être qu'un grenier trop chargé commence à céder tout seul, sous son propre poids »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "1500",
+            "pourquoi": "T2/05, les onze jours d’agonie de Baelic, dans la foulée du T2/04 (parcours d’Ombreth, t = 12)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "ch. 5 — an 1500 ap.A",
+            "pourquoi": "Même raison."
           }
         ]
       },
@@ -108803,7 +109234,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 14,
       "label": "Tavel, vingt-deux ans — la nuit d'où vient l'Inspectrice",
-      "detail": "Nuit blanche au relais de Vronne : le souvenir enfermé à verrou remonte. Vingt ans plus tôt, le frère de Vaenor, Tavel — vingt-deux ans, un garçon qui riait de tout et parlait au grand-père mort (« rentre, Tavel, il se fait tard ») — disait « ce ne sont que les poutres » en cessant d'y croire. Vaenor pesa : la rumeur de la coupure (« on le dit. Je connais personne. Mais on le dit ») contre le certain de ses mains ; « je l'aime trop pour lui offrir un peut-être ». Elle lui mentit (« tu me soignes ? »), lui versa l'amer dans la mauvaise gnôle, lui tint la nuque pendant qu'il s'endormait en faisant des projets de mariage et de prénoms. Vingt ans après, elle bute sur la question sans fond : le grand-père appelait-il, ou la chose imitait-elle sa voix ? — et comprend pourquoi chaque fiole pèse : « pour avoir eu raison à propos de Tavel, il fallait avoir raison à propos de tous ; il fallait donc continuer ». Le seul registre qu'elle tient fermé : combien de ses apaisés auraient trouvé la main qui sait. [T2 — L’Heure qui se Referme, ch. 14 — an 1479 ap.A]",
+      "detail": "Nuit blanche au relais de Vronne : le souvenir enfermé à verrou remonte. Vingt ans plus tôt, le frère de Vaenor, Tavel — vingt-deux ans, un garçon qui riait de tout et parlait au grand-père mort (« rentre, Tavel, il se fait tard ») — disait « ce ne sont que les poutres » en cessant d'y croire. Vaenor pesa : la rumeur de la coupure (« on le dit. Je connais personne. Mais on le dit ») contre le certain de ses mains ; « je l'aime trop pour lui offrir un peut-être ». Elle lui mentit (« tu me soignes ? »), lui versa l'amer dans la mauvaise gnôle, lui tint la nuque pendant qu'il s'endormait en faisant des projets de mariage et de prénoms. Vingt ans après, elle bute sur la question sans fond : le grand-père appelait-il, ou la chose imitait-elle sa voix ? — et comprend pourquoi chaque fiole pèse : « pour avoir eu raison à propos de Tavel, il fallait avoir raison à propos de tous ; il fallait donc continuer ». Le seul registre qu'elle tient fermé : combien de ses apaisés auraient trouvé la main qui sait. [T2 — L’Heure qui se Referme, ch. 14 — an 1480 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -108829,6 +109260,12 @@
             "champ": "detail",
             "avant": "ch. 14 — an 1480 ap.A",
             "pourquoi": "Tavel meurt quand Vaenor a vingt-cinq ans (née ~1454) ; start_year 1480 → 1479."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "ch. 14 — an 1479 ap.A",
+            "pourquoi": "Le texte avait été passé à 1479 le 27, le nombre (start_year 1480) non : on garde 1480, prémisse du registre (« Tavel meurt en 1480 ») et vingt ans pile avant 1500 (« vingt ans plus tôt », T2/14)."
           }
         ]
       },
@@ -109054,7 +109491,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 18,
       "label": "Le village qui criait — Herrec, la naissance de la doctrine",
-      "detail": "À vingt-six ans, insigne neuf, Vaenor est envoyée « faire un état » à Herrec, bourg de vanniers : dix-neuf Tisses sur trente feux, dont onze en Phase 3 — « ce n'est pas elle qui crie... C'est son corps qui crie » — le puits gardé aux fourches, le grain volé, un enfant qui se bouche les oreilles et cesse de parler. Un père chuchote « faites quelque chose » ; elle n'a qu'un carnet. Et le maître-vannier Sarn, Phase 2, lucide, lui oppose le seul argument qu'elle ne saura jamais réfuter : « Il y a un homme, entre les deux. […] Le mourant signera toujours pour qu'on ait tué le vivant qu'il était. Vous n'avez qu'à attendre le bon moi pour demander. Vous aurez toujours un moi qui dit oui. […] Mais celui qui est là ce soir vous dit non. » Sur le chemin du retour naît la doctrine : pas d'instant sur la pente, alors elle trace le trait au plus haut — Phase 1 — le trait « restait arbitraire » et appela cela l'apaisement. Des années après, dans Herrec vide, elle comprend qu'elle a choisi le mourant contre le vivant parce qu'elle avait besoin qu'il eût raison. [T2 — L’Heure qui se Referme, ch. 18 — an 1480 ap.A]",
+      "detail": "À vingt-six ans, insigne neuf, Vaenor est envoyée « faire un état » à Herrec, bourg de vanniers : dix-neuf Tisses sur trente feux, dont onze en Phase 3 — « ce n'est pas elle qui crie... C'est son corps qui crie » — le puits gardé aux fourches, le grain volé, un enfant qui se bouche les oreilles et cesse de parler. Un père chuchote « faites quelque chose » ; elle n'a qu'un carnet. Et le maître-vannier Sarn, Phase 2, lucide, lui oppose le seul argument qu'elle ne saura jamais réfuter : « Il y a un homme, entre les deux. […] Le mourant signera toujours pour qu'on ait tué le vivant qu'il était. Vous n'avez qu'à attendre le bon moi pour demander. Vous aurez toujours un moi qui dit oui. […] Mais celui qui est là ce soir vous dit non. » Sur le chemin du retour naît la doctrine : pas d'instant sur la pente, alors elle trace le trait au plus haut — Phase 1 — le trait « restait arbitraire » et appela cela l'apaisement. Des années après, dans Herrec vide, elle comprend qu'elle a choisi le mourant contre le vivant parce qu'elle avait besoin qu'il eût raison. [T2 — L’Heure qui se Referme, ch. 18 — an 1481 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -109086,6 +109523,12 @@
             "champ": "detail",
             "avant": "ch. 18 — an 1485 ap.A",
             "pourquoi": "Herrec à vingt-six ans (née ~1454) ; start_year 1481 → 1480."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "ch. 18 — an 1480 ap.A",
+            "pourquoi": "Même chaîne : Herrec l’année d’après Tavel (T2/18 retouché) ; start_year déjà 1481."
           }
         ]
       },
@@ -109488,7 +109931,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 27,
       "label": "Ceux qui restent debout — le Mont-Gris bascule jusqu’avant l’Arrachement",
-      "detail": "En Alkaran, la Faille lente « s'installe » : la brume du Doigt-Cassé emporte le hameau du Mont-Gris et dépose ses vingt-deux habitants loin en arrière, jusqu’avant le froid, trois mois durant, chez « les pleins ». Une femme y rencontre sa grand-mère Vesle à dix-sept ans (« bonjour l'étrangère »), boit le lait qu'une voisine apporte avant qu'elle ait montré sa faim, et découvre la main tiède — « quand on entre chez des gens qui ont du feu […] La main tiède, c'est ça, mais pour l'âme ». Une nuit, elle entend le chant d'Ombreth traverser l'épaisseur des ans : « entre nous il y avait quinze siècles, et pas un mur ». Puis la Faille rend, et prend son péage : le souvenir du milieu se retire « comme la neige qui fond par en dessous et ne laisse que la croûte ». Le conseil d'Ombreth mourant : « Il n'y a pas de geste pour garder. […] Il y a le geste pour dire. Dis-le tant que tu l'as. […] Ce qu'on donne, il en reste toujours un peu quelque part. […] Donne vite. » Les vingt-deux ressortent les bêtes le lendemain : vides, trompés, et debout. [T2 — L’Heure qui se Referme, ch. 27 — an 1500 ap.A]",
+      "detail": "En Alkaran, la Faille lente « s'installe » : la brume du Doigt-Cassé emporte le hameau du Mont-Gris et dépose ses vingt-deux habitants loin en arrière, jusqu’avant le froid, trois mois durant, chez « les pleins ». Une femme y rencontre à la fontaine Vesle, dix-sept ans, qui a le nom et le rire de sa grand-mère (« bonjour l'étrangère ») — quinze siècles les séparent, « et je n’ai jamais su les tenir pour deux » —, boit le lait qu'une voisine apporte avant qu'elle ait montré sa faim, et découvre la main tiède — « quand on entre chez des gens qui ont du feu […] La main tiède, c'est ça, mais pour l'âme ». Une nuit, elle entend le chant d'Ombreth traverser l'épaisseur des ans : « entre nous il y avait quinze siècles, et pas un mur ». Puis la Faille rend, et prend son péage : le souvenir du milieu se retire « comme la neige qui fond par en dessous et ne laisse que la croûte ». Le conseil d'Ombreth mourant : « Il n'y a pas de geste pour garder. […] Il y a le geste pour dire. Dis-le tant que tu l'as. […] Ce qu'on donne, il en reste toujours un peu quelque part. […] Donne vite. » Les vingt-deux ressortent les bêtes le lendemain : vides, trompés, et debout. [T2 — L’Heure qui se Referme, ch. 27 — an 1500 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -109538,6 +109981,12 @@
             "champ": "detail",
             "avant": "« entre nous il y avait deux cents ans, et pas un mur »",
             "pourquoi": "Citation qui n’est plus au texte (verifier-raccord la signale)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "Une femme y rencontre sa grand-mère Vesle à dix-sept ans (« bonjour l'étrangère »),",
+            "pourquoi": "T2/27 retouché (registre §9)."
           }
         ]
       },
@@ -114242,7 +114691,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0015",
       "object_id": "obj-0007",
-      "start_year": 1460,
+      "start_year": 1455,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": 1500,
@@ -114265,7 +114714,21 @@
         "source_date": "inference",
         "methode": "fait-date",
         "confiance": "haute",
-        "indice_date": "période du sujet (1460→1500)"
+        "indice_date": "période du sujet (1455→1500)",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "1460",
+            "pourquoi": "Période du sujet (Vaenor, née vers 1455)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.indice_date",
+            "avant": "période du sujet (1460→1500)",
+            "pourquoi": "Même raison."
+          }
+        ]
       },
       "source_id": "oeu-0004",
       "status": "canon",
@@ -117321,7 +117784,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0015",
       "object_id": "obj-0088",
-      "start_year": 1460,
+      "start_year": 1500,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": 1500,
@@ -117352,6 +117815,12 @@
             "champ": "detail",
             "avant": "Le cahier saisi sur le corps de Teor arrive",
             "pourquoi": "Même nœud ; start_year 1460 → 1500 (T2/16 est l’hiver de la Refermeture)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "1460",
+            "pourquoi": "T2/16, mi-janvier 1500 (calendrier du tome) ; le 1460 venait de la période du sujet. Déjà demandé le 27, non appliqué."
           }
         ],
         "source_date": "inference",
@@ -117370,7 +117839,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0015",
       "object_id": "obj-0090",
-      "start_year": 1460,
+      "start_year": 1500,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": 1500,
@@ -117392,7 +117861,15 @@
         "source_date": "inference",
         "methode": "fait-date",
         "confiance": "haute",
-        "indice_date": "période du sujet (1460→1500)"
+        "indice_date": "période du sujet (1460→1500)",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "1460",
+            "pourquoi": "T2/31, février 1500 ; même origine."
+          }
+        ]
       },
       "source_id": "oeu-0003",
       "status": "canon",
@@ -117821,7 +118298,7 @@
       "fact_type": "evenement",
       "subject_id": "per-0015",
       "object_id": "lie-1003",
-      "start_year": 1460,
+      "start_year": 1500,
       "start_precision": "estimation",
       "start_circa": 1,
       "end_year": 1500,
@@ -117852,6 +118329,12 @@
             "champ": "detail",
             "avant": "« Nous sommes deux à savoir qu'une porte n'est pas marquée. »",
             "pourquoi": "T2/39 (Vaenor au prévôt) : « Nous sommes deux à savoir qu'une porte n'est pas marquée à Mireuil, et le jour où l'un de nous deux le dira, l'autre le paiera, et le foyer avec. Donc aucun ne le dira. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "start_year",
+            "avant": "1460",
+            "pourquoi": "T2/39, juillet 1500 ; même origine."
           }
         ],
         "source_date": "inference",

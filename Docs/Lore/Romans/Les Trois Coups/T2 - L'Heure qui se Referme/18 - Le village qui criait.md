@@ -12,7 +12,7 @@ status: draft
 
 Elle avait vingt-six ans, l’insigne était neuf, et le bourg s’appelait Herrec. C’était encore le temps où elle retenait les noms.
 
-On l’y avait envoyée seule, ou presque : deux hommes d’escorte qui n’avaient jamais fait ce travail, un cheval de bât, une lettre signée d’un préfet qu’elle ne connaissait pas, et l’ordre de « faire un état ». Le corps des Inspecteurs avait six ans d’existence. On employait encore les mots comme des outils neufs, sans savoir lequel casserait le premier. Faire un état. En descendant vers le vallon, elle croyait qu’elle allait compter des malades et rapporter un chiffre.
+On l’y avait envoyée seule, ou presque : deux hommes d’escorte qui n’avaient jamais fait ce travail, un cheval de bât, une lettre signée d’un préfet qu’elle ne connaissait pas, et l’ordre de « faire un état ». Le corps des Inspecteurs existait depuis quelques mois. On employait encore les mots comme des outils neufs, sans savoir lequel casserait le premier. Faire un état. En descendant vers le vallon, elle croyait qu’elle allait compter des malades et rapporter un chiffre.
 
 Ils arrivèrent par la crête à l’heure où un bourg fume. Aucune cheminée ne fumait. Pas un chien ne monta à leur rencontre. Le bétail était resté aux prés, mal gardé, et une vache couchée sur le flanc ne se releva pas quand ils passèrent.
 
@@ -144,7 +144,7 @@ Elle décida de ne plus rouvrir la question.
 
 Elle raya Sarn du compte. Elle savait qu’il avait raison. Mais il avait raison tout seul, contre un bourg qui se mourait, et l’ordre n’avait pas les moyens de ce genre d’exception : elle en décida ainsi cette nuit-là. Elle le rangea comme elle rangerait ensuite tout ce qu’elle ne pouvait ni porter ni jeter : derrière une porte, dans une pièce fermée, et elle refermait la porte chaque fois qu’il en sortait.
 
-Ce fut à Herrec qu’elle devint ce qu’elle serait, et nulle part ailleurs. Elle avait déjà fait le geste, des années plus tôt, pour Tavel : la fiole avant la fiole, *tais-toi et bois*. Mais Tavel, c’était une sœur qui aimait trop un frère et qui avait choisi le sûr contre le peut-être. Herrec fit la doctrine. Herrec donna au geste d’une nuit son compte, son trait, et son mot, *l’apaisement*, pour couvrir les autres mots. Après Herrec, elle appliqua un protocole. Et elle en connaissait le vice mieux que quiconque, mieux que Drahvel, qui n’avait jamais entendu Sarn. Elle savait qu’il rangeait des vivants avec les morts. Elle savait que la frontière était introuvable. Elle l’appliqua quand même, parce que le compte, une fois posé, ne se laissait pas défaire, et parce que personne d’autre ne descendrait dans les bourgs qui criaient.
+Ce fut à Herrec qu’elle devint ce qu’elle serait, et nulle part ailleurs. Elle avait déjà fait le geste, l’année d’avant, pour Tavel : la fiole avant la fiole, *tais-toi et bois*. Mais Tavel, c’était une sœur qui aimait trop un frère et qui avait choisi le sûr contre le peut-être. Herrec fit la doctrine. Herrec donna au geste d’une nuit son compte, son trait, et son mot, *l’apaisement*, pour couvrir les autres mots. Après Herrec, elle appliqua un protocole. Et elle en connaissait le vice mieux que quiconque, mieux que Drahvel, qui n’avait jamais entendu Sarn. Elle savait qu’il rangeait des vivants avec les morts. Elle savait que la frontière était introuvable. Elle l’appliqua quand même, parce que le compte, une fois posé, ne se laissait pas défaire, et parce que personne d’autre ne descendrait dans les bourgs qui criaient.
 
 ---
 
