@@ -4,8 +4,8 @@ type: roman-chapitre
 partie: IV
 chapitre: 29
 titre: Ce qu'on ne dit pas à une sœur
-pov: Sera (présent, la veille, J-1)
-lieu: au pied du Mont Cendra (Cendral bas)
+pov: Sera (présent, J-3 — la veille prévue, avant le jour de retard)
+lieu: au pied du Mont Cendra (le campement, au-dessus de Cendral)
 status: draft
 ---
 
@@ -223,7 +223,7 @@ Avant de se lever tout à fait, elle fit le geste de chaque nuit depuis trente a
 
 Elle le tendit longtemps dans la lumière qui montait. Rien ne revint. Elle referma la main.
 
-Puis elle se leva pour de bon et rejoignit les autres. La journée qui commençait était la dernière avant la montée ; ce soir, Drakhan arriverait de Cendral, le dernier, et dans la nuit ils monteraient. Elle les regarda se lever un à un dans la lumière grise, et elle les aima, tous, de cet amour âpre qu’on porte à ceux avec qui l’on partage un doute qu’aucun ne porte entier. Elle ne leur dirait rien de la lettre, ni de la terre, ni de sa sœur. C’était sa part. Chacun tenait la sienne sans qu’on la lui prît des mains.
+Puis elle se leva pour de bon et rejoignit les autres. La journée qui commençait devait être la dernière avant la montée ; ce soir, Drakhan arriverait de Cendral, le dernier, et dans la nuit ils monteraient. Elle les regarda se lever un à un dans la lumière grise, et elle les aima, tous, de cet amour âpre qu’on porte à ceux avec qui l’on partage un doute qu’aucun ne porte entier. Elle ne leur dirait rien de la lettre, ni de la terre, ni de sa sœur. C’était sa part. Chacun tenait la sienne sans qu’on la lui prît des mains.
 
 Il lui restait un dernier jour à donner au monde. Elle ne le donnerait pas à Ísae : elle le lui avait déjà donné, cette nuit, à la terre. Le protocole, la révision, les préparatifs le prendraient, parce que c’était devenu la seule façon qu’elle eût de tenir : remplir ce dernier jour.
 

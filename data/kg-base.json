@@ -2602,7 +2602,7 @@
       "type": "entite-politique",
       "name": "Union des Flammes",
       "slug": null,
-      "summary": "Capitale Cendral. Héritier du Dominat de Pyrevaste. Un des 6 empires de l'âge d'or.",
+      "summary": "Capitale Cendral. Héritier du Dominat de Pyrevaste. Un des 6 empires de l'âge d'or ; sur les routes, on l'appelle « l'Empire de fer » (T1/8 : ses octrois aux marches de Sulvane, ses gardes aux hauts cols).",
       "body": null,
       "data": {
         "continent": "Cendara + Endora sud",
@@ -2614,7 +2614,15 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "civilisation"
+        "genre": "civilisation",
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Capitale Cendral. Héritier du Dominat de Pyrevaste. Un des 6 empires de l'âge d'or.",
+            "pourquoi": "Registre §12, « l'Empire de fer » : c'est l'empire de Cendara, que le Cercle traverse ; Lithane (Alkaran) est hors de ses routes."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -3611,24 +3619,22 @@
           },
           {
             "chapitre": "T1/32",
-            "quand": "J-4 (campement au pied du Mont)",
-            "t": -4,
+            "quand": "J-6 (descendus des hautes terres ; la nuit du campement, T1/32, est J-3)",
+            "t": -6,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "marche",
             "citation": "Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet",
             "etape": 8,
             "distance_lieues": 6,
-            "jours_dispo": 3,
-            "rythme": 2,
-            "fiabilite": "basse",
-            "lenteur": 3.5,
-            "note": "6 lieues (24 km) de route pour 3 j au calendrier (0,9 à l'allure normale) : le reste est séjour"
+            "jours_dispo": 1,
+            "rythme": 6,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "T1/35",
-            "quand": "J-1 (la remise de Cendral bas)",
-            "t": -1,
+            "quand": "J-2 (la remise de Cendral bas)",
+            "t": -2,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "inconnu",
@@ -3636,7 +3642,7 @@
             "citation": "Et l’homme sans nom se tenait à la lisière de la lumière",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 3
+            "jours_dispo": 4
           },
           {
             "chapitre": "T1/41",
@@ -3649,19 +3655,34 @@
             "citation": "Deux avant l’aube, deux avant que l’homme sans nom s’avance.",
             "etape": 9,
             "distance_lieues": 1.5,
-            "jours_dispo": 0.92
+            "jours_dispo": 1.92,
+            "rythme": 0.8
           }
         ],
         "parcours_oeuvre": "T1",
         "parcours_couleur": "#c9a6e8",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 1,
+          "tient": 3,
           "serre": 0,
           "impossible": 0,
           "lent": 0,
-          "lent_dates": 3
-        }
+          "lent_dates": 2
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/32 Cendral]",
+            "avant": "{\"citation\":\"Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/35 Cendral]",
+            "avant": "{\"citation\":\"Et l’homme sans nom se tenait à la lisière de la lumière\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -3766,24 +3787,22 @@
           },
           {
             "chapitre": "T1/32",
-            "quand": "J-4 (campement au pied du Mont)",
-            "t": -4,
+            "quand": "J-6 (descendus des hautes terres ; la nuit du campement, T1/32, est J-3)",
+            "t": -6,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "marche",
             "citation": "Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet",
             "etape": 6,
             "distance_lieues": 6,
-            "jours_dispo": 3,
-            "rythme": 2,
-            "fiabilite": "basse",
-            "lenteur": 3.5,
-            "note": "6 lieues (24 km) de route pour 3 j au calendrier (0,9 à l'allure normale) : le reste est séjour"
+            "jours_dispo": 1,
+            "rythme": 6,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "T1/31",
-            "quand": "J-2 (chez Iveth)",
-            "t": -2,
+            "quand": "J-4 (chez Iveth, l'avant-dernier soir)",
+            "t": -4,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "inconnu",
@@ -3795,8 +3814,8 @@
           },
           {
             "chapitre": "T1/35",
-            "quand": "J-1 (la remise de Cendral bas)",
-            "t": -1,
+            "quand": "J-2 (la remise de Cendral bas)",
+            "t": -2,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "inconnu",
@@ -3804,7 +3823,7 @@
             "citation": "Sept corps dans la remise basse, sept souffles, sept ombres que le feu jetterait tout à l’heure sur le mur.",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 1
+            "jours_dispo": 2
           },
           {
             "chapitre": "T1/41",
@@ -3817,7 +3836,8 @@
             "citation": "Vorath avait son silence, Drakhan sa roche, Thessan son encre.",
             "etape": 7,
             "distance_lieues": 1.5,
-            "jours_dispo": 0.92
+            "jours_dispo": 1.92,
+            "rythme": 0.8
           },
           {
             "chapitre": "T1/54",
@@ -3837,12 +3857,32 @@
         "parcours_couleur": "#9fd49a",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 3,
+          "tient": 5,
           "serre": 0,
           "impossible": 0,
           "lent": 0,
-          "lent_dates": 2
-        }
+          "lent_dates": 1
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/32 Cendral]",
+            "avant": "{\"citation\":\"Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/35 Cendral]",
+            "avant": "{\"citation\":\"Sept corps dans la remise basse, sept souffles, sept ombres que le feu jetterait tout à l’heure sur le mur.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/31 Cendral]",
+            "avant": "{\"citation\":\"Le jeune homme au journal vint l’avant-dernier soir.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -3981,34 +4021,33 @@
             "duree": "Trois jours",
             "jours": 3,
             "depuis_id": "lie-0636",
-            "citation": "Trois jours qu’ils montaient vers les hautes terres de Sulvane, à pied maintenant, les mules chargées derrière eux",
+            "citation": "Trois jours qu’ils montaient vers les hautes terres de Sulvane à petites étapes, à pied maintenant, les mules chargées derrière eux",
             "etape": 7,
+            "lenteur_dite": "Montée à pied, mules chargées : « à petites étapes » (T1/27).",
             "distance_lieues": 5.9,
             "rythme": 2,
             "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "6 lieues (24 km, marche) en 3 j : l'allure normale en demande 0,8, le texte en annonce 3,5 fois plus"
+            "lenteur": 3.5,
+            "note": "6 lieues (24 km) de route pour 3 j au calendrier (0,8 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "T1/32",
-            "quand": "J-4 (campement au pied du Mont)",
-            "t": -4,
+            "quand": "J-6 (descendus des hautes terres ; la nuit du campement, T1/32, est J-3)",
+            "t": -6,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "marche",
             "citation": "Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet",
             "etape": 8,
             "distance_lieues": 6,
-            "jours_dispo": 3,
-            "rythme": 2,
-            "fiabilite": "basse",
-            "lenteur": 3.5,
-            "note": "6 lieues (24 km) de route pour 3 j au calendrier (0,9 à l'allure normale) : le reste est séjour"
+            "jours_dispo": 1,
+            "rythme": 6,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "T1/35",
-            "quand": "J-1 (la remise de Cendral bas)",
-            "t": -1,
+            "quand": "J-2 (la remise de Cendral bas)",
+            "t": -2,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "inconnu",
@@ -4016,7 +4055,7 @@
             "citation": "Sera s’était levée et avait pris ces deux mains brûlées dans les siennes",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 3
+            "jours_dispo": 4
           },
           {
             "chapitre": "T1/41",
@@ -4037,12 +4076,32 @@
         "parcours_couleur": "#8fc1e3",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 3,
+          "tient": 4,
           "serre": 0,
           "impossible": 0,
-          "lent": 1,
+          "lent": 0,
           "lent_dates": 2
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/27 Col des hautes terres de Sulvane (campement du Cercle)]",
+            "avant": "{\"duree\":\"Trois jours\",\"jours\":3,\"citation\":\"Trois jours qu’ils montaient vers les hautes terres de Sulvane, à pied maintenant, les mules chargées derrière eux\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/32 Cendral]",
+            "avant": "{\"citation\":\"Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/35 Cendral]",
+            "avant": "{\"citation\":\"Sera s’était levée et avait pris ces deux mains brûlées dans les siennes\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -4125,8 +4184,8 @@
           },
           {
             "chapitre": "T1/35",
-            "quand": "J-1 (la remise de Cendral bas)",
-            "t": -1,
+            "quand": "J-2 (la remise de Cendral bas)",
+            "t": -2,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "inconnu",
@@ -4134,7 +4193,7 @@
             "citation": "Drakhan qui venait d’arriver, une heure plus tôt, et dont la présence changeait tout.",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 1
+            "jours_dispo": 0
           },
           {
             "chapitre": "T1/41",
@@ -4147,19 +4206,28 @@
             "citation": "Accroupi tout au bord, tourné vers la gueule fumante, Drakhan écoutait sa montagne",
             "etape": 5,
             "distance_lieues": 1.5,
-            "jours_dispo": 0.92
+            "jours_dispo": 1.92,
+            "rythme": 0.8
           }
         ],
         "parcours_oeuvre": "T1",
         "parcours_couleur": "#d9b48f",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 0,
+          "tient": 1,
           "serre": 0,
           "impossible": 0,
           "lent": 0,
           "lent_dates": 1
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/35 Cendral]",
+            "avant": "{\"citation\":\"Drakhan qui venait d’arriver, une heure plus tôt, et dont la présence changeait tout.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -4253,19 +4321,17 @@
           },
           {
             "chapitre": "T1/32",
-            "quand": "J-4 (campement au pied du Mont)",
-            "t": -4,
+            "quand": "J-6 (descendus des hautes terres ; la nuit du campement, T1/32, est J-3)",
+            "t": -6,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "marche",
             "citation": "Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet",
             "etape": 6,
             "distance_lieues": 6,
-            "jours_dispo": 3,
-            "rythme": 2,
-            "fiabilite": "basse",
-            "lenteur": 3.5,
-            "note": "6 lieues (24 km) de route pour 3 j au calendrier (0,9 à l'allure normale) : le reste est séjour"
+            "jours_dispo": 1,
+            "rythme": 6,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "T1/41",
@@ -4278,8 +4344,8 @@
             "citation": "Vorath s’était assis sur les talons, les mains sur les cuisses, et écoutait",
             "etape": 7,
             "distance_lieues": 1.5,
-            "jours_dispo": 3.92,
-            "rythme": 0.4
+            "jours_dispo": 5.92,
+            "rythme": 0.3
           },
           {
             "chapitre": "T1/53",
@@ -4315,12 +4381,20 @@
         "parcours_couleur": "#b8c97a",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 5,
+          "tient": 6,
           "serre": 0,
           "impossible": 0,
           "lent": 0,
-          "lent_dates": 2
-        }
+          "lent_dates": 1
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/32 Cendral]",
+            "avant": "{\"citation\":\"Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -4478,24 +4552,22 @@
           },
           {
             "chapitre": "T1/32",
-            "quand": "J-4 (campement au pied du Mont)",
-            "t": -4,
+            "quand": "J-6 (descendus des hautes terres ; la nuit du campement, T1/32, est J-3)",
+            "t": -6,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "marche",
             "citation": "Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet",
             "etape": 11,
             "distance_lieues": 6,
-            "jours_dispo": 3,
-            "rythme": 2,
-            "fiabilite": "basse",
-            "lenteur": 3.5,
-            "note": "6 lieues (24 km) de route pour 3 j au calendrier (0,9 à l'allure normale) : le reste est séjour"
+            "jours_dispo": 1,
+            "rythme": 6,
+            "fiabilite": "basse"
           },
           {
             "chapitre": "T1/35",
-            "quand": "J-1 (la remise de Cendral bas)",
-            "t": -1,
+            "quand": "J-2 (la remise de Cendral bas)",
+            "t": -2,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "inconnu",
@@ -4503,7 +4575,7 @@
             "citation": "Mirathis s’était roulé·e dans une couverture pour avoir chaud",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 3
+            "jours_dispo": 4
           },
           {
             "chapitre": "T1/41",
@@ -4516,19 +4588,34 @@
             "citation": "Mirathis avait renoncé au sommeil depuis des jours",
             "etape": 12,
             "distance_lieues": 1.5,
-            "jours_dispo": 0.92
+            "jours_dispo": 1.92,
+            "rythme": 0.8
           }
         ],
         "parcours_oeuvre": "T1",
         "parcours_couleur": "#e8c06a",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 3,
+          "tient": 5,
           "serre": 0,
           "impossible": 0,
           "lent": 0,
-          "lent_dates": 3
-        }
+          "lent_dates": 2
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/32 Cendral]",
+            "avant": "{\"citation\":\"Ils étaient descendus des hautes terres trois jours plus tôt, vers cette dernière plaine sèche au pied du sommet\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/35 Cendral]",
+            "avant": "{\"citation\":\"Mirathis s’était roulé·e dans une couverture pour avoir chaud\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -4648,8 +4735,8 @@
           },
           {
             "chapitre": "T1/29",
-            "quand": "J-4 (la corniche, avec Iveth)",
-            "t": -4.2,
+            "quand": "J-6 (la corniche, avec Iveth)",
+            "t": -6.2,
             "lieu_id": "lie-0019",
             "lieu": "Mont Cendra",
             "mode": "marche",
@@ -4657,15 +4744,13 @@
             "citation": "Aelindra le tenait par le bras gauche, la fille du forgeron par le droit",
             "etape": 7,
             "distance_lieues": 1.5,
-            "jours_dispo": 5.8,
-            "rythme": 2.3,
-            "lenteur": 3,
-            "note": "13 lieues (53 km) de route pour 5,8 j au calendrier (1,9 à l'allure normale) : le reste est séjour"
+            "jours_dispo": 3.8,
+            "rythme": 3.5
           },
           {
             "chapitre": "T1/31",
-            "quand": "J-4, le soir",
-            "t": -3.9,
+            "quand": "J-6, le soir",
+            "t": -5.9,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "marche",
@@ -4677,8 +4762,8 @@
           },
           {
             "chapitre": "T1/35",
-            "quand": "J-1 (la remise de Cendral bas)",
-            "t": -1,
+            "quand": "J-2 (la remise de Cendral bas)",
+            "t": -2,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "inconnu",
@@ -4686,7 +4771,7 @@
             "citation": "Aelindra gardait l’angle, bras croisés",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 2.9
+            "jours_dispo": 3.9
           },
           {
             "chapitre": "T1/41",
@@ -4699,19 +4784,40 @@
             "citation": "Aelindra, montée en queue de file, veillait un peu à l’écart",
             "etape": 9,
             "distance_lieues": 1.5,
-            "jours_dispo": 0.92
+            "jours_dispo": 1.92,
+            "rythme": 0.8
           }
         ],
         "parcours_oeuvre": "T1",
         "parcours_couleur": "#e3a6c8",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 1,
+          "tient": 3,
           "serre": 0,
           "impossible": 0,
           "lent": 0,
-          "lent_dates": 2
-        }
+          "lent_dates": 1
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/35 Cendral]",
+            "avant": "{\"citation\":\"Aelindra gardait l’angle, bras croisés\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/29 Mont Cendra]",
+            "avant": "{\"citation\":\"Aelindra le tenait par le bras gauche, la fille du forgeron par le droit\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/31 Cendral].t",
+            "avant": -3.9,
+            "pourquoi": "T1/32 et T1/35 : deux nuits distinctes (J-3, J-2)."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "restreint",
@@ -4937,13 +5043,14 @@
             "mode": "cheval",
             "duree": "Trois semaines",
             "jours": 21,
-            "citation": "Trois semaines qu’il descendait cette route en lisant des registres honnêtes.",
+            "citation": "Trois semaines qu’il descendait cette route de gîte en gîte, en lisant des registres honnêtes.",
             "etape": 2,
+            "lenteur_dite": "Enquête qui s’arrête à chaque gîte : « de gîte en gîte, en lisant des registres honnêtes » (T1/24).",
             "distance_lieues": 45,
             "rythme": 2.1,
             "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "45 lieues (181 km, cheval) en 21 j : l'allure normale en demande 4,5, le texte en annonce 4,7 fois plus"
+            "lenteur": 4.7,
+            "note": "45 lieues (181 km) de route pour 21 j au calendrier (4,5 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "T1/28",
@@ -4952,16 +5059,17 @@
             "lieu_id": "lie-0636",
             "lieu": "Sulvane",
             "mode": "cheval",
-            "duree": "Trois semaines plus tôt",
-            "jours": 21,
+            "duree": null,
+            "jours": null,
             "depuis_id": "lie-0995",
             "citation": "Trois semaines plus tôt, au Corbeau-Gris, sur la route de terre, une nuit avait été récrite au lieu d’être arrachée.",
             "etape": 3,
             "distance_lieues": 34,
+            "jours_dispo": 21,
             "rythme": 1.6,
             "fiabilite": "basse",
-            "verdict": "lent",
-            "note": "34 lieues (137 km, cheval) en 21 j : l'allure normale en demande 3,4, le texte en annonce 6,1 fois plus"
+            "lenteur": 6.1,
+            "note": "34 lieues (137 km) de route pour 21 j au calendrier (3,4 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "T1/34",
@@ -5002,15 +5110,14 @@
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "marche",
-            "duree": "Trois jours plus tôt",
-            "jours": 3,
+            "duree": null,
+            "jours": null,
             "depuis_id": "lie-0637",
             "citation": "Trois jours plus tôt, il l’avait regardée fumer depuis une crique",
             "etape": 6,
             "distance_lieues": 6.5,
-            "rythme": 2.2,
-            "verdict": "lent",
-            "note": "7 lieues (26 km, marche) en 3 j : l'allure normale en demande 0,9, le texte en annonce 3,2 fois plus"
+            "jours_dispo": 2.58,
+            "rythme": 2.5
           },
           {
             "chapitre": "T1/52",
@@ -5048,12 +5155,32 @@
         "parcours_couleur": "#e39a8f",
         "parcours_source": "recalé sur le texte corrigé, 2026-09-28",
         "parcours_bilan": {
-          "tient": 3,
+          "tient": 4,
           "serre": 0,
           "impossible": 0,
-          "lent": 3,
-          "lent_dates": 1
-        }
+          "lent": 0,
+          "lent_dates": 3
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/24 L'auberge du Corbeau-Gris]",
+            "avant": "{\"duree\":\"Trois semaines\",\"jours\":21,\"citation\":\"Trois semaines qu’il descendait cette route en lisant des registres honnêtes.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/28 Sulvane]",
+            "avant": "{\"duree\":\"Trois semaines plus tôt\",\"jours\":21,\"citation\":\"Trois semaines plus tôt, au Corbeau-Gris, sur la route de terre, une nuit avait été récrite au lieu d’être arrachée.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/43 Cendral]",
+            "avant": "{\"duree\":\"Trois jours plus tôt\",\"jours\":3,\"citation\":\"Trois jours plus tôt, il l’avait regardée fumer depuis une crique\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "restreint",
@@ -5106,8 +5233,8 @@
           },
           {
             "chapitre": "T1/29",
-            "quand": "J-4 (la corniche, avec Iveth)",
-            "t": -4.2,
+            "quand": "J-6 (la corniche, avec Iveth)",
+            "t": -6.2,
             "lieu_id": "lie-0019",
             "lieu": "Mont Cendra",
             "mode": "marche",
@@ -5118,8 +5245,8 @@
           },
           {
             "chapitre": "T1/31",
-            "quand": "J-4, le soir",
-            "t": -3.9,
+            "quand": "J-6, le soir",
+            "t": -5.9,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "marche",
@@ -5140,12 +5267,12 @@
             "citation": "Kessa frappait un fer à la couleur.",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 1.9
+            "jours_dispo": 3.9
           },
           {
             "chapitre": "T1/32",
-            "quand": "J-1 (le bol d’Iveth)",
-            "t": -1,
+            "quand": "J-3 (le bol d'Iveth, au campement)",
+            "t": -3,
             "lieu_id": "lie-0246",
             "lieu": "Cendral",
             "mode": "inconnu",
@@ -5153,7 +5280,7 @@
             "citation": "Elle ramassa sa colère avec le bol, tourna les talons et redescendit vers Cendral dans le noir.",
             "sur_place": true,
             "distance_lieues": 0,
-            "jours_dispo": 1
+            "jours_dispo": -1
           },
           {
             "chapitre": "T1/51",
@@ -5163,14 +5290,14 @@
             "lieu": "La Route des Cendres (relais au sud de Cendral)",
             "mode": "marche",
             "duree": "la nuit entière",
-            "jours": 0.4,
+            "jours": 0.5,
             "depuis_id": "lie-0246",
             "citation": "Elle marcha la nuit entière, la bride au poignet",
             "etape": 4,
             "distance_lieues": 7.8,
-            "rythme": 19.5,
+            "rythme": 15.6,
             "verdict": "serre",
-            "note": "8 lieues (31 km, marche) en 0,4 j : il en faudrait 1,1 à l'allure normale, 0,8 à marche forcée"
+            "note": "8 lieues (31 km, marche) en 0,5 j : il en faudrait 1,1 à l'allure normale, 0,8 à marche forcée"
           }
         ],
         "parcours_oeuvre": "T1",
@@ -5182,7 +5309,33 @@
           "impossible": 0,
           "lent": 0,
           "lent_dates": 0
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/51 La Route des Cendres (relais au sud de Cendral)]",
+            "avant": "{\"duree\":\"la nuit entière\",\"jours\":0.4,\"citation\":\"Elle marcha la nuit entière, la bride au poignet\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/29 Mont Cendra]",
+            "avant": "{\"citation\":\"Aelindra le tenait par le bras gauche, la fille du forgeron par le droit\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/31 Cendral]",
+            "avant": "{\"citation\":\"Trois jours plus tôt, Aelindra et la fille du forgeron l’avaient hissé sur le flanc du Mont\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.parcours[T1/32 Cendral]",
+            "avant": "{\"citation\":\"Elle ramassa sa colère avec le bol, tourna les talons et redescendit vers Cendral dans le noir.\"}",
+            "pourquoi": "texte retouché le 2026-09-28"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -51559,17 +51712,37 @@
             "terre": "Endora",
             "motif": "Sur la seule ligne rocheuse d'Endora que montre la carte de relief : un trait gris de 2–3 u de large et ~27 u de long (x 204→231, y 57→60) entre savane et plaine au nord et zone « tempéré » (vert) au sud, qui « coupe Endora » ; marqueur à sa moitié ouest, à 8 u du repère « Endora ».",
             "indices": [
-              "T1/46 : « Le Gouffre coupait Endora en deux depuis avant les hommes. Trois lieues de long »",
+              "T1/46 : « Le Gouffre fendait Endora depuis avant les hommes. Six lieues de long »",
               "T1/46 : le passeur « descend » ensuite à Varandar « au fond de la pente, dans son creux »",
-              "T1/46 : « Le tour, c'est quatre jours » (de mulet)"
+              "T1/46 : « Le tour, c'est deux jours » (de mulet)"
             ],
             "conflits": [
-              "« Trois lieues de long » contre « coupe Endora en deux » et « quatre jours de mulet » pour en faire le tour : le texte se contredit ; le trait de la carte fait ~27 u.",
+              "Réglé le 2026-09-28 : six lieues de long (le trait de la carte, ~27 u), un Gouffre qui fend Endora sans la couper en deux, deux jours de mulet pour en faire le tour.",
               "Rien ne dit que ce trait gris de la carte soit le Gouffre : c'est le meilleur candidat, pas une preuve."
             ],
             "source": "estimée d’après les livres, 2026-09-25"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[0]",
+            "avant": "T1/46 : « Le Gouffre coupait Endora en deux depuis avant les hommes. Trois lieues de long »",
+            "pourquoi": "Texte corrigé (six lieues le 27 ; « fendait » le 28)."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.indices[2]",
+            "avant": "T1/46 : « Le tour, c'est quatre jours » (de mulet)",
+            "pourquoi": "Texte corrigé le 28."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.carte.position_estimee.conflits[0]",
+            "avant": "« Trois lieues de long » contre « coupe Endora en deux » et « quatre jours de mulet » pour en faire le tour : le texte se contredit ; le trait de la carte fait ~27 u.",
+            "pourquoi": "Registre §14 E, T1/46."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -51664,7 +51837,7 @@
       "type": "lieu",
       "name": "Académie de Celethor",
       "slug": null,
-      "summary": "Institution d'enseignement de Celethor où Sera fut préceptrice (tradition Orvane).",
+      "summary": "Institution d'enseignement de Celethor où Sera fut préceptrice (tradition Orvane). Dans le T1, « Celethor » nomme aussi la ville de l'Académie, ville d'écoles et de jardins sur ses collines, qui porte le nom de son continent (lie-0004).",
       "body": null,
       "data": {
         "echelle": "lieu-dit",
@@ -51683,7 +51856,15 @@
             "motif": "Sert de lieu pour « Celethor » la ville du T1 (lie-0004 est le continent) : la ville de Sera, de l'Arbre-Ancêtre et de la cave du teinturier ; posée à 1,3 u de l'Arbre-Ancêtre (lie-1037, Salle des Racines « creusée dans la colline »), même ville (T1/3, T1/4, T1/7, T1/8, T1/12).",
             "source": "trajets recalés, 2026-09-28"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Institution d'enseignement de Celethor où Sera fut préceptrice (tradition Orvane).",
+            "pourquoi": "Registre §12, Celethor ville/continent : homonymie tranchée ; le T1 dit « Celethor, ville d'écoles et de jardins » (T1/3), « ville-jardin » (T1/8), « la ville entière » (T1/47)."
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
@@ -63970,10 +64151,10 @@
       "type": "personne",
       "name": "Ollam",
       "slug": null,
-      "summary": "Frère taciti du Premier Voile, ancien pêcheur venu au silence à quarante ans ; le seul à s'asseoir dans le silence de Vorath avant la grève des Cailloux, et à lui montrer d'un geste sa pierre.",
+      "summary": "Frère taciti du Second Voile depuis peu, ancien pêcheur venu au silence à quarante ans ; le seul à s'asseoir dans le silence de Vorath avant la grève des Cailloux, et à lui montrer d'un geste sa pierre.",
       "body": "« Un homme du dehors aurait comblé l'attente ; l'ancien bavard la garda ouverte, et cela lui coûtait. » Il fait le geste de cellule — deux doigts qui montent, se séparent, reviennent — main refermée à la fin : il ne demande pas. Puis il pose la paume à plat sur le basalte, entre eux, « l'un de ces gestes que les frères venus tard inventent parce qu'ils n'ont pas désappris qu'on peut inventer ». Un frère ne montre pas sa pierre ; Vorath ne le reprend pas.",
       "data": {
-        "palier": "Premier Voile",
+        "palier": "Second Voile",
         "lieu": "Baelor",
         "preuve": [
           "T1/15"
@@ -63988,6 +64169,18 @@
             "champ": "body",
             "avant": "« L'ancien bavard garda l'attente ouverte, et cela lui coûtait. »",
             "pourquoi": "T1/15 : « Un homme du dehors aurait comblé l’attente ; l’ancien bavard la garda ouverte, et cela lui coûtait »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "summary",
+            "avant": "Frère taciti du Premier Voile",
+            "pourquoi": "T1/15 : « C'était Ollam, du Second Voile depuis peu » (texte du 27) ; il vote, et la règle de la dalle est désormais « depuis le Second Voile jusqu'aux plus vieux Maîtres ». La fiche suivait l'ancien texte minoritaire."
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "data.palier",
+            "avant": "Premier Voile",
+            "pourquoi": "Même raison."
           }
         ]
       },
@@ -107801,7 +107994,7 @@
       "end_circa": 0,
       "era_id": "era5_grande_nuit",
       "seq": 33,
-      "label": "La lettre enterrée sous la bruyère — J-1",
+      "label": "La lettre enterrée sous la bruyère — J-3",
       "detail": "La dernière nuit avant l'arrivée de Drakhan, au pied du Mont, Sera finit enfin la lettre à Ísae — toute la vérité : « Le nom que j'ai donné à mon geste, justice pour les vides, se retourne dans ma main comme un couteau qu'on tient par la lame », et la faille de la faille : « tu n'as pas besoin de moi… tu es mon argument et ma réfutation ». Sa main tremble pour la première fois en quarante et une pages. Ni l'envoyer — « Un adieu, l'autre est obligé de le recevoir » (Vorath) — ni la brûler — « je ne peux pas détruire la preuve que j'ai aimé ». Elle l'enterre au pied d'un buisson de bruyère, dans l'élément de sa sœur : « donner quelque chose à la terre et faire confiance à ce qu'on ne verra pas pousser. » La terre reste sous ses ongles — seule chose d'Ísae qui montera au sommet. Mirathis l'avait rêvé : « une femme enterre quelque chose au pied de la montagne, et je n'ai jamais su qui. » […] « Ne me le dis pas si c'est toi. » [T1 — La Septième Heure, ch. 32 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
@@ -107834,6 +108027,12 @@
             "champ": "detail",
             "avant": "Mirathis avait rêvé « une femme qui enterre quelque chose au pied de la montagne — ne me le dis pas si c'est toi. »",
             "pourquoi": "T1/32 : « Dans une des variantes que je rêve, une femme enterre quelque chose au pied de la montagne, et je n’ai jamais su qui. » Iel s’éloignait déjà. « Ne me le dis pas si c’est toi. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "label",
+            "avant": "La lettre enterrée sous la bruyère — J-1",
+            "pourquoi": "La nuit du campement est J-3 (Drakhan attendu « le lendemain soir », avant le jour de Tomas) ; la lettre est enterrée à l'aube de J-2 (T1/41 « l'avant-veille », T1/42 « deux jours plus tôt », T1/54 « trois nuits plus tôt »)."
           }
         ]
       },
@@ -107955,7 +108154,7 @@
       "era_id": "era5_grande_nuit",
       "seq": 36,
       "label": "La phrase qui attendait — « Nous croyons que c'est inévitable »",
-      "detail": "Dernière nuit sous un toit : sept membres du Cercle réunis dans une remise basse de Cendral, au pied du Mont Cendra — la huitième, Kayara, déjà au large, si bien que le Cercle entier ne se sera jamais vu en un même lieu. Drakhan, arrivé le dernier, mènera l'ascension (« le point où ça bat », son nom pour le Premier Ancrage). Thessan pose enfin sa question devant tous : « Est-ce que l'un d'entre nous […] croit vraiment que c'est bien ? » Mirathis donne la phrase qui attendait depuis Aethranor : « Non. Aucun de nous ne le croit vraiment. Nous croyons que c'est inévitable. » Drakhan : « C'est vrai. » Puis, pour lui-même : « Bien, je sais pas. Juste, oui. » Thessan consigne : « Ce n'est pas une excuse. C'est un fait. » [T1 — La Septième Heure, ch. 35 — an 0 ap.A]",
+      "detail": "Dernière nuit sous un toit : sept membres du Cercle réunis dans une remise basse de Cendral, au pied du Mont Cendra — la huitième, Kayara, déjà au large, si bien que le Cercle entier ne se sera jamais vu en un même lieu. Drakhan, arrivé le dernier avec un jour de retard (« Je monte demain soir »), mènera l'ascension (« le point où ça bat », son nom pour le Premier Ancrage). Thessan pose enfin sa question devant tous : « Est-ce que l'un d'entre nous […] croit vraiment que c'est bien ? » Mirathis donne la phrase qui attendait depuis Aethranor : « Non. Aucun de nous ne le croit vraiment. Nous croyons que c'est inévitable. » Drakhan : « C'est vrai. » Puis, pour lui-même : « Bien, je sais pas. Juste, oui. » Thessan consigne : « Ce n'est pas une excuse. C'est un fait. » [T1 — La Septième Heure, ch. 35 — an 0 ap.A]",
       "data": {
         "calendrier": "absolu",
         "source_date": "recit",
@@ -107975,6 +108174,12 @@
             "champ": "detail",
             "avant": "Drakhan : « Ce n'est pas bien. C'est juste. Ce n'est pas pareil. »",
             "pourquoi": "T1/35 : « C’est vrai. » […] il ajouta, plus bas, pour lui-même : […] « Bien, je sais pas. Juste, oui. »"
+          },
+          {
+            "date": "2026-09-28",
+            "champ": "detail",
+            "avant": "Drakhan, arrivé le dernier, mènera l'ascension",
+            "pourquoi": "T1/35 corrigé : la nuit de la remise est J-2, le soir où le forgeron repousse la montée d'un jour (T1/23) ; le Fragment #3 en porte désormais la date (T1/20, J-2)."
           }
         ],
         "preuve": [

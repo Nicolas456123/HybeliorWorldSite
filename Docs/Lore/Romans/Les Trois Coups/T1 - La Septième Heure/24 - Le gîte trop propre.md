@@ -17,7 +17,7 @@ Verkan Sorne s’arrêta sous le porche, ses gants de voyage encore aux mains, e
 
 *Le trou exactement à sa taille.* Il se l’était dit tout un hiver, au Bureau, devant trois liasses et une exécution sans corps. C’était la première fois qu’il le voyait sous ses bottes.
 
-Trois semaines qu’il descendait cette route en lisant des registres honnêtes. Celui-ci ne le serait pas.
+Trois semaines qu’il descendait cette route de gîte en gîte, en lisant des registres honnêtes. Celui-ci ne le serait pas.
 
 Le cheval souffla derrière lui et fit trois pas sur la pierre nue. Le bruit des fers portait trop clair dans cette cour sans paille. De l’autre côté du mur, l’auberge travaillait : une soupe qui bouillait, une porte, une voix de femme qui appelait quelqu’un par son nom. L’enseigne pendait au-dessus du porche, un oiseau gris écaillé, repeint jadis et plus depuis.
 

@@ -13,7 +13,7 @@ status: draft
 
 Kessa l’apprit par la couleur du fer.
 
-Elle n’était pas à Cendral. La veille au soir, elle était encore au pied du Mont, au campement, avec un bol qu’un mourant n’avait pas touché ; elle en était redescendue dans le noir, et elle n’avait pas repassé la porte de la remise. Elle avait chargé la mule et pris la Route des Cendres vers le sud. Personne ne le lui avait demandé, son père moins que personne, et elle n’aurait pas su dire ce qui l’avait mise sur cette route-là plutôt que devant son feu.
+Elle n’était pas à Cendral. La veille au soir, son père parti, elle avait frappé une seule marque au poinçon neuf et couvert le feu. Elle avait chargé la mule et pris la Route des Cendres vers le sud. Personne ne le lui avait demandé, son père moins que personne, et elle n’aurait pas su dire ce qui l’avait mise sur cette route-là plutôt que devant son feu.
 
 Elle marcha la nuit entière, la bride au poignet, sous la cendre tiède qui tombait comme tous les soirs. Au petit jour, un relais : quatre bâtiments bas contre le vent, une barrière, un abreuvoir, une forge. Des gens de la marque ; le vieux qui ouvrit la barrière à sa mule connaissait les trois traits et le cercle, et ne lui demanda pas d’où elle venait.
 

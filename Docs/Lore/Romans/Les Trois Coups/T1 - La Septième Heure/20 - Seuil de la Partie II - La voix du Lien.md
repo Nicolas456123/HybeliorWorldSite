@@ -57,6 +57,6 @@ Je reste, pour l’instant, et le fil tire, et le sommet, très loin, très calm
 
 ---
 
-> **Fragment #3 — Journal de Thessan. J-51.**
+> **Fragment #3 — Journal de Thessan. J-2.**
 >
 > *« Hier soir j’ai posé la question que je remettais depuis des semaines. Est-ce que l’un de nous croit vraiment que c’est bien ? Le silence a duré. Puis quelqu’un a répondu : non. Aucun de nous ne le croit vraiment. Nous croyons que c’est inévitable. C’est la chose la plus honnête que j’aie jamais entendue, et je l’écris ici pour qu’on sache qu’au moins nous ne nous sommes pas menti. Ce n’est pas une excuse. C’est un fait. »*

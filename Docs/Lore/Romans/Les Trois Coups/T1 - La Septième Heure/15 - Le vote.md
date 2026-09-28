@@ -27,7 +27,7 @@ Le livre était venu jusqu’à la dalle sans qu’un mot fût prononcé nulle p
 
 Vorath avait posé l’idée devant les Abbés. La charge sur la poutre, le fil qui se laissait entendre, l’homme sans nom qui voulait couper au grand jour ce qui menaçait de se rompre dans l’ombre. Une matinée entière à la poser, dans le Geste de cour, que les frères mettent des années à oser. Les Abbés avaient regardé. Puis ils avaient fait ce qu’un Conseil de Baelor fait d’une chose trop grande pour lui : ils l’avaient rendue à la communauté. Un Conseil peut trancher une règle ; il ne tranche pas une âme. Envoyer l’un des leurs mourir à l’autre bout du monde n’appartenait pas aux Abbés. Cela appartenait à tous, ou à personne.
 
-On avait donc descendu deux paniers à la grève. Dans le premier, des galets clairs ramassés au nord de l’île, presque blancs, ceux de la mer douce. Dans le second, du basalte usé de la falaise, noir. Blanc pour *va*. Noir pour *reste*. Chaque frère, chaque sœur en âge de poser, depuis le Second Voile confirmé jusqu’aux plus vieux Maîtres, descendrait seul, à l’heure qu’il choisirait, prendrait une pierre dans l’un des deux paniers et l’irait poser sur la dalle : au levant pour *va*, au couchant pour *reste*. Personne ne verrait qui posait quoi. Cela durerait trois jours.
+On avait donc descendu deux paniers à la grève. Dans le premier, des galets clairs ramassés au fond de la crique de Baeloris, presque blancs, ceux de la mer douce. Dans le second, du basalte usé de la falaise, noir. Blanc pour *va*. Noir pour *reste*. Chaque frère, chaque sœur en âge de poser, depuis le Second Voile jusqu’aux plus vieux Maîtres, descendrait seul, à l’heure qu’il choisirait, prendrait une pierre dans l’un des deux paniers et l’irait poser sur la dalle : au levant pour *va*, au couchant pour *reste*. Personne ne verrait qui posait quoi. Cela durerait trois jours.
 
 À la fin, les pierres diraient seulement de quelle couleur était la dalle. Ainsi nul n’avait à voter contre un frère : on posait un caillou, on remontait le sentier, et l’on gardait cela pour soi jusqu’à la mort.
 
@@ -135,7 +135,7 @@ Dans le couloir, un jeune apprenti du Premier Voile l’attendait, adossé à la
 
 Vorath s’arrêta. Il n’aurait pas dû ; un matin de départ, on ne s’arrête pas, on ne prolonge pas. Mais le garçon tenait quelque chose dans son poing fermé et le tendait, timide, sans oser l’ouvrir. Vorath lui ouvrit les doigts du bout des siens.
 
-C’était un galet blanc, de ceux du nord de l’île, de la mer douce. Le garçon l’avait ramassé et gardé : un apprenti du Premier Voile ne pose pas de pierre. On ne lui avait pas donné le droit de dire *va* avec les autres, alors il avait gardé son blanc pour le lui mettre dans la main.
+C’était un galet blanc, de ceux de la crique de Baeloris, de la mer douce. Le garçon l’avait ramassé et gardé : un apprenti du Premier Voile ne pose pas de pierre. On ne lui avait pas donné le droit de dire *va* avec les autres, alors il avait gardé son blanc pour le lui mettre dans la main.
 
 Vorath le prit. Le galet tint dans sa paume, petit poids clair, encore tiède du poing de l’enfant. Puis il fit, pour le garçon seul, un geste de cellule, celui qu’on réserve aux frères d’un même cloître et que l’Abbé lui avait donné deux jours plus tôt sur le sentier : deux doigts qui descendent et s’ouvrent vers le bas.
 

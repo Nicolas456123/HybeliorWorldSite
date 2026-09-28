@@ -4,7 +4,7 @@ type: roman-chapitre
 partie: IV
 chapitre: 32
 titre: La phrase qui attendait
-pov: Thessan (présent, ~J-1, dernière nuit au pied du Mont)
+pov: Thessan (présent, J-2, dernière nuit au pied du Mont)
 lieu: Cendral bas, au pied du Mont Cendra (Cendara)
 status: draft
 ---
@@ -13,7 +13,7 @@ status: draft
 
 Ils étaient sept, et ils ne seraient jamais huit.
 
-Thessan compta deux fois, parce qu’il comptait toujours. Sept corps dans la remise basse, sept souffles, sept ombres que le feu jetterait tout à l’heure sur le mur. « Huit », dit-il tout bas, par habitude, parce que huit était le chiffre qu’il portait depuis Aethranor comme on porte un nom. Puis il se reprit : « Sept. » Et le mot lui serra la gorge, parce qu’il venait de comprendre que le compte plein n’aurait jamais lieu. La huitième était en mer. Kayara les avait débarqués dix nuits plus tôt à la crique de la Dent, sa quille raclant le sable noir, et elle avait repris le large avant l’aube : Aelindra ne voulait pas d’un bateau à l’ancre dix nuits au même endroit, et il fallait bien que l’un d’eux sût vivre après. Elle voguait quelque part au sud-est à cette heure. Le Cercle était huit ; la pièce serait sept. Le chiffre entier n’existerait plus que dans les têtes.
+Thessan compta deux fois, parce qu’il comptait toujours. Sept corps dans la remise basse, sept souffles, sept ombres que le feu jetterait tout à l’heure sur le mur. « Huit », dit-il tout bas, par habitude, parce que huit était le chiffre qu’il portait depuis Aethranor comme on porte un nom. Puis il se reprit : « Sept. » Et le mot lui serra la gorge, parce qu’il venait de comprendre que le compte plein n’aurait jamais lieu. La huitième était en mer. Kayara les avait débarqués neuf nuits plus tôt à la crique de la Dent, sa quille raclant le sable noir, et elle avait repris le large avant l’aube : Aelindra ne voulait pas d’un bateau à l’ancre dix nuits au même endroit, et il fallait bien que l’un d’eux sût vivre après. Elle voguait quelque part au sud-est à cette heure. Le Cercle était huit ; la pièce serait sept. Le chiffre entier n’existerait plus que dans les têtes.
 
 La remise était une bâtisse de rien : quatre murs de pierre sèche accotés au flanc de la ville basse, un toit de lauzes que le vent faisait travailler, un sol de terre battue plus chaud que l’air. On y avait remisé du charbon, deux jantes de roue, des sacs vides pliés en tas. Le logeur, payé trois mois plus tôt par Aelindra pour ne pas y venir, n’y venait pas. Ils étaient arrivés là par deux et par trois en deux jours, à des heures différentes, par des rues différentes, et chacun en entrant avait regardé les autres avec ce demi-instant de retard qu’on met à reconnaître des gens qu’on n’espérait plus revoir.
 
@@ -23,9 +23,9 @@ Près de la porte, la place qu’aurait prise la huitième restait vide. Thessan
 
 Et Drakhan.
 
-Drakhan qui venait d’arriver, une heure plus tôt, et dont la présence changeait tout. Il n’avait presque rien dit. Ce qui pesait, c’était qu’il fût le dernier, celui qu’on attendait, celui dont le retard d’un jour avait tenu le Cercle en suspens. *Je monte demain soir*, avait-il fait dire par Aelindra, des semaines plus tôt ; et ce *demain* s’était étiré, décalé, était devenu une donnée du plan qu’on portait sans la dire. Le forgeron viendrait en dernier, forgerait une nuit de plus dans sa ville au pied du mont, et l’on ne serait complets qu’à la fin. À présent il était là. L’odeur de la forge était entrée avec lui, ce fer chaud et ce charbon éteint qui ne quittaient pas ses vêtements, et sous cette odeur, plus âpre, celle du soufre qui montait du sol de Cendral même, ce ventre de pays où la terre reste tiède sous les dalles et où l’on pose parfois la main au sol, l’hiver, pour se réchauffer.
+Drakhan qui venait d’arriver, une heure plus tôt, et dont la présence changeait tout. Il n’avait presque rien dit. Ce qui pesait, c’était qu’il fût le dernier, celui qu’on attendait, celui dont le retard d’un jour avait tenu le Cercle en suspens. *Je monte demain soir*, avait-il dit sur le seuil ; ce *demain* décalait tout d’un jour, et Aelindra l’avait rangé dans son plan sans un mot. Le forgeron retournerait à sa forge au matin, y travaillerait un jour de plus dans sa ville au pied du mont, et l’on ne serait complets qu’à la fin. À présent il était là. L’odeur de la forge était entrée avec lui, ce fer chaud et ce charbon éteint qui ne quittaient pas ses vêtements, et sous cette odeur, plus âpre, celle du soufre qui montait du sol de Cendral même, ce ventre de pays où la terre reste tiède sous les dalles et où l’on pose parfois la main au sol, l’hiver, pour se réchauffer.
 
-En arrivant, il avait posé son sac contre le mur, s’était assis sur un billot sans qu’on le lui offrît et avait tendu les mains vers la lampe couverte, paumes ouvertes, comme devant un feu. Sera s’était levée et avait pris ces deux mains brûlées dans les siennes ; elle les avait gardées un moment, sans rien dire, et Drakhan l’avait laissée faire. Personne n’avait demandé comment s’était passée la dernière nuit à la forge.
+En arrivant, il avait posé son sac contre le mur, s’était assis sur un billot sans qu’on le lui offrît et avait tendu les mains vers la lampe couverte, paumes ouvertes, comme devant un feu. Sera s’était levée et avait pris ces deux mains brûlées dans les siennes ; elle les avait gardées un moment, sans rien dire, et Drakhan l’avait laissée faire. Personne n’avait demandé comment s’était passée la dernière soirée à la forge.
 
 Sept, donc. Aussi près d’être ensemble qu’ils le seraient jamais. C’était la première fois ; ce serait la dernière ; et la huitième manquait parce qu’on l’avait retranchée d’avance, sauvée d’avance.
 
@@ -63,7 +63,7 @@ Drakhan ne leva pas les yeux tout de suite. Ses deux mains reposaient à plat su
 
 Thessan retint la formule pour la nuit, comme il retenait tout. Et il vit la main droite du forgeron se fermer, se rouvrir, lentement, sans raison, comme si elle se refermait sur un manche qui n’y était pas.
 
-Le geste lui dit que Drakhan pensait à sa fille. Il ne le savait pas vraiment ; comment l’aurait-il su ? Mais il avait pris, depuis quelques semaines, l’habitude de deviner ce que les corps taisaient, et le corps du forgeron disait ceci : il avait laissé quelqu’un derrière lui à Cendral, quelqu’un qui l’avait supplié de ne pas monter ; il avait forgé une nuit de plus pour rester une nuit de plus dans la ville où cette personne vivait ; et sa main cherchait un manche parce que c’était plus supportable que de chercher un visage.
+Le geste lui dit que Drakhan pensait à sa fille. Il ne le savait pas vraiment ; comment l’aurait-il su ? Mais il avait pris, depuis quelques semaines, l’habitude de deviner ce que les corps taisaient, et le corps du forgeron disait ceci : il avait laissé quelqu’un derrière lui à Cendral, quelqu’un qui l’avait supplié de ne pas monter ; il allait forger un jour de plus pour rester un jour de plus dans la ville où cette personne vivait ; et sa main cherchait un manche parce que c’était plus supportable que de chercher un visage.
 
 Cela non plus, Thessan ne l’écrivit pas. Depuis quelque temps il laissait dans le journal des trous volontaires. Ce qui appartenait à ceux qui le portaient n’avait pas à passer dans son encre.
 
@@ -129,7 +129,7 @@ Elle fut pourtant la première à ouvrir la bouche, et ce ne fut pas pour répon
 
 Elle n’en dit pas davantage et revint au protocole. Thessan comprit qu’il n’obtiendrait rien de plus, et que ce rien était déjà une réponse.
 
-Drakhan ne leva pas les yeux du tout. Il continua de fixer son feu, la mâchoire serrée sous la barbe grise, et Thessan sut que la question était pour ceux qui doutaient. Le forgeron avait passé ce point-là soixante ans plus tôt, le jour où un noble lui avait pris son atelier. La seule chose qui pût encore le faire hésiter était un visage à Cendral, et la question de Thessan ne l’atteignait pas.
+Drakhan ne leva pas les yeux du tout. Il continua de fixer son feu, la mâchoire serrée sous la barbe grise, et Thessan sut que la question était pour ceux qui doutaient. Le forgeron avait passé ce point-là six ans plus tôt, le jour où un noble lui avait pris son atelier. La seule chose qui pût encore le faire hésiter était un visage à Cendral, et la question de Thessan ne l’atteignait pas.
 
 Vorath se taisait, les yeux fermés comme pour mieux écouter, comme si la question relevait de sa Grande Écoute et qu’il attendît qu’elle se répondît toute seule.
 

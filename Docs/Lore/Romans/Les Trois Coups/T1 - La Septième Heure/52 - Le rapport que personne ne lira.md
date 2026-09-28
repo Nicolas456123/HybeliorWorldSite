@@ -59,7 +59,7 @@ Le Préfet écrivit enfin, trois mots, et s’arrêta au quatrième. Verkan repr
 
 Le dossier, c’était Aelindra.
 
-Le Préfet y revint comme on revient à ce qu’on maîtrise quand le reste échappe. Quatre ans que la capitaine Aelindra de Pyrion tenait une ligne ouverte dans une colonne qui n’en tolérait pas ; et voici que rentrait le seul homme capable de la fermer, d’un mot ou deux.
+Le Préfet y revint comme on revient à ce qu’on maîtrise quand le reste échappe. Trois ans que la capitaine Aelindra de Pyrion tenait une ligne ouverte dans une colonne qui n’en tolérait pas ; et voici que rentrait le seul homme capable de la fermer, d’un mot ou deux.
 
 « Vous l’avez retrouvée, dit-il. Au sud. Dites-moi que vous l’avez retrouvée.
 
