@@ -3,7 +3,7 @@ tags: [lore, méta, atrium, incohérences, chantiers, à-résoudre]
 type: lore
 status: living
 date: 2026-07-17
-last_review: 2026-09-26
+last_review: 2026-09-28
 needs_review_for: []
 ---
 
@@ -101,6 +101,83 @@ l'Atrium ignorait (Pardine la mule, Ryvan, Rœfel, Terec, Lunaris capitale de Lu
 **2 doublons** fusionnés (`con-0151` dans `obj-0069`, le Fragment #3 ; `per-0843` dans
 `per-0168`, Talvhar). Commits `6885d96` et suivant.
 
+### Les arbitrages du 2026-09-28 — la carte, le calendrier et les derniers nœuds
+
+Rendus par délégation de l'auteur (« s'il reste des choses à trancher, je te laisse
+t'en occuper »), sur la règle du 2026-09-26 : **la carte fait foi pour les positions,
+l'échelle ne bouge pas, c'est le texte qui s'adapte ; le calendrier des récits reste,
+et le surplus d'un écart de dates est un séjour.** Cinq relectures par œuvre, puis
+versement et contrôle dans l'Atrium ; chaque champ touché garde sa trace dans
+`data.raccord`. Commits `9c43c3a` → `5a77da1`.
+
+| Mesure | 2026-09-27 | 2026-09-28 |
+|---|---|---|
+| Tronçons de trajet jugés (`scripts/verifier-trajets.js`) | 179 | 183 |
+| … qui tiennent | 95 | **118** |
+| … impossibles | 3 | **0** |
+| … lents (durée annoncée > 3 × le temps de route, sans explication au texte) | 18 | **0** |
+| … serrés (faisables en forçant l'allure) | 9 | 8 |
+| Citations de l'Atrium exactes au chapitre cité | 1 806 | 1 809 (11 légitimes, 0 renvoi cassé) |
+
+Le vérificateur admet désormais une lenteur **que le texte explique** (étape à
+`lenteur_dite` : glacier sondé, Voile qui allonge le col, montagne, enquête de gîte en
+gîte), et convertit en journées de route les durées de moins d'un jour.
+
+**Chroniques** (C/7, 12, 13, 18, 19, 20, 24, 26, 27, 29, 30-34). Les traversées
+reprennent leur vraie durée et disent le reste : Voldenor → Yaltar en sept jours de
+mer ; Lunaris → Frostlin en onze (départ la première nuit du Silence, ≈ J701) ; le calme
+de douze jours du C/27 ; les dix-huit jours de brume devant Baelor ; les trois semaines
+le long des glaces de Celethor ; dix-neuf jours à quai au C/33 ; le glacier sondé à deux
+lieues par jour. Le mois passé à la lisière ouvre le C/20 (l'écart C/19 → C/20).
+Kael « avant-hier » au C/19, le duel à la troisième nuit ; la traque connue « depuis
+Perivalis » ; Vessane partie depuis huit nuits (C/13). La dernière voix d'Evertia est
+l'Arbre-Mère, Sorin descend seul en canot. **Kethros est le monastère de Baeloris**
+(§14 B9) ; **une seule crique sur la côte nord de Baelor**, un quai d'échouage au sud
+(B10). Les deux récits de la perte des sept (Yrsa, Torval) sont gardés côte à côte,
+comme témoignages. Les « il y a N ans » des C/32-35 sont recomptés depuis 251 dans
+l'Atrium. **Laissé, double-fond voulu** : l'écriture des tunnels, lisible au quart
+pour Sorin et sans famille connue pour les savants (C/1-2, C/14, C/27).
+
+**Tome 1** (15 chapitres). **T1/32 et T1/35 sont deux nuits** : le campement à J-3, la
+remise de Cendral bas à J-2 (Drakhan repousse d'un jour pour Tomas, T1/23) ; le geste
+tombe à l'aube de l'An 0, comme le disaient déjà T1/23, 35, 39, 40. Le **Fragment #3
+est daté de J-2** (en-tête seul ; il précède désormais le #4, J-33 — revers assumé).
+Drakhan laisse ce soir sa forge à Kessa (T1/37) ; Ollam, du Second Voile, vote (la
+règle n'exige plus d'être « confirmé ») ; la spoliation à six ans, l'infiltration à trois
+ans partout ; le huitième du Cercle est Kayara (T1/31). Tholmë : falaise basse sur la
+terrasse, falaises noires en contrebas (B8) ; les galets blancs viennent de la crique de
+Baeloris (B11, fichier 15) ; le Gouffre « fend » Endora (T1/46). **Celethor** : la ville
+de l'Académie porte le nom de son continent ; l'**Empire de fer** est l'Union des Flammes
+(`pol-0055`). **Laissés (protégés, `que-0013`)** : le titre « H1 » et les horloges du
+geste.
+
+**Tome 2** (ch. 18, 27, 29, 50). Ch. 27 : **la profondeur est gardée** (quinze siècles),
+la parenté lâchée — deux Vesle. La chaîne de Vaenor suit Tavel : mort en 1480, le corps
+des Inspecteurs créé la même année, Herrec en 1481, vingt ans de service ; l'Atrium
+recalé (`ter-0133`, `fac-1071`, `per-0015`…). L'apaisement de Sènn au lendemain de la
+Sainte-Braise 1498. Herec (prêtre) et Herrec (bourg) sont distincts ; l'aiguille courbe
+n'est pas celle que forge le ch. 03. Les nœuds 24/38/39, 40 et 42 l'étaient depuis le 27.
+**Laissée (protégée, `que-0010`)** : la coda et ses deux horloges.
+
+**Tome 3** (12 chapitres). « Six morts, **sept** tentatives » (la reine du sud comptée) ;
+la série de Dorvel commence six ans plus tôt, Nevran compris. Le coffre porte deux mains,
+l'ancienne « à ne pas ouvrir » et le tampon de Drakora. Trois notes de trois mains autour
+de la ligne marginale (T3/26, 30). L'irruption 7 **retrouve** ce que la 6 avait
+découvert. Onara-basse partout où Onara était une ville ; la route de Prismalith ;
+en-têtes des ch. 14, 21, 25, 39, 45 remis d'accord. Vaskar voyage aux relais, et ça tient.
+Les « lieues du Mont » du T3/31 (14 à 16 de route) tiennent dans Cendara.
+
+**Atrium, hors livres.** `obj-0064` fusionné dans `obj-0011` (la feuille du père) ; la
+chemise marron est le journal d'Aldris Vane (`obj-0029` renommé, lié à `per-0167`) ;
+Naïm retiré de l'émergence du pilier ; le fait « Sorin à Nysaria, an 252 » retiré ; la
+note du copiste rattachée à la copie (`obj-0008`) ; **Myrtam en Alkaran** (`pol-0026`) ;
+Verian Soth n'a pas régné ; le **cartographe de Kharazir reste distinct de Sorin**
+(`per-0755.data.arbitrage` : en 251, Sorin est dans le nord) ; la fin du Fléau à ~1 500
+dans `oeu-0003`, `evt-0162` et le Canon ; la Forge-Basse dans les marges d'Onara (Canon).
+`data/evenements-recit.json` n'a plus qu'une clé pour les Chroniques (`oeu-0013`). Le
+lint est vert (les scripts de workflow sortent du lint). Caëspia / Cëpias au glossaire
+des homonymies.
+
 ### Le reste
 
 | Chantier | Décision | Où ça vit |
@@ -140,24 +217,21 @@ jour 910, au début de l'**an 251**. La `data.periode` de Sorin en hérite (1018
 de Prismalith (« la note est de 252, la copie de 251 », arbitrage n° 21). Il porte la
 mention en `data.note`. **Ne pas l'emporter dans un traitement en bloc.**
 
-### 2. La fourchette du tome 2 — `oeu-0003` / `evt-0162`
+### 2. ~~La fourchette du tome 2~~ — RÉGLÉ le 2026-09-28
 
-`oeu-0003` dit « ~1 400–1 600 ap.A » et `evt-0162` « avant ~1700 », quand l'arbitrage
-du 2026-09-14 pose que **le Fléau s'achève ~1 500**. Les six faits du Fléau ont été
-recalés ; ces deux résumés ne l'ont pas été. Point hors des 36 arbitrages.
+`oeu-0003` dit « ~1 400–1 500 ap.A » et `evt-0162` « vers ~1 500 ap.A » ; le Canon aussi.
 
-### 3. `per-0755` « Le cartographe de Kharazir »
+### 3. ~~`per-0755` « Le cartographe de Kharazir »~~ — TRANCHÉ le 2026-09-28
 
-Doublon probable de Sorin Valthen : même signalement — cartographe, de Kharazir,
-tissu jaune, carnet. **La date l'interdit** : la fiche le fait passer à Elarath en 251,
-le récit y passe à l'acte II, en 249. Un lien `a-ne-pas-confondre-avec` vers `per-0153`
-le dit, avec le motif. **La fusion demande l'auteur.**
+**Distinct de Sorin.** En l'an 251, Sorin est à Noravia, au Jumeau, à Prismalith et à
+Rukhsar (C/33-38) : il ne peut pas être à Elarath ; le tissu jaune est la marque des
+Murs Jaunes, que d'autres voyageurs de Kharazir portent. Les deux textes restent vrais ;
+le lien `a-ne-pas-confondre-avec` et `per-0755.data.arbitrage` le disent.
 
-### 4. `data/evenements-recit.json` — deux clés pour une œuvre
+### 4. ~~`data/evenements-recit.json` — deux clés pour une œuvre~~ — RÉGLÉ le 2026-09-28
 
-Les Chroniques y sont versées sous **`oeu-0013`** (ch. 1-23, 105 événements) et
-**`chroniques`** (ch. 24-38, 84 événements). Aucun titre dupliqué : c'est une coupure
-de clé au chapitre 24, pas un doublon. À unifier.
+Les 84 événements `chroniques` passent sous `oeu-0013`, et les `recit_uid` des 84 faits
+correspondants avec eux (aucune collision).
 
 ### 5. ~~103 des 117 faits versés n'ont pas de libellé~~ — RÉGLÉ le 2026-09-22
 
@@ -333,43 +407,20 @@ y ≈ 320, loin de l'île, d'aire nulle malgré son `aire: 33`. Si elle compte p
 deux surfaces « propres » du tableau, c'est qu'elle ne contient rien ; elle sera
 refaite avec la côte.
 
-### 8. `npm run lint` est rouge — deux erreurs
+### 8. ~~`npm run lint` est rouge~~ — RÉGLÉ le 2026-09-28
 
-`scripts/wf-corpus-sweep.js` et `scripts/wf-histoires-exhaustif.js` sont des modules
-ESM (`export const meta = …`), mais `eslint.config.js` range tout `scripts/**/*.js`
-en `sourceType: 'script'` : *Parsing error: 'import' and 'export' may appear only with
-'sourceType: module'*. **2 erreurs, 36 avertissements.** Correctif : un bloc de config
-pour ces deux fichiers, ou les renommer en `.mjs`.
+Les deux scripts de workflow (`scripts/wf-*.js`) sont des corps de fonction exécutés par
+l'orchestrateur, pas du JS autonome : ils sortent du lint. **0 erreur**, 36
+avertissements.
 
-### 9. Les nœuds de montage du tome 2
+### 9. ~~Les nœuds de montage du tome 2~~ — TRANCHÉS le 2026-09-28
 
-Ce sont des choix d'auteur, pas des corrections. Rien n'a été déplacé.
+Voir I, « Les arbitrages du 2026-09-28 », Tome 2. Seule la coda reste, protégée (§III).
 
-- **ch. 27, « Ceux qui restent debout »** — le hameau bascule « deux cents ans » en
-  arrière et y trouve le monde **d'avant l'Arrachement**, à quatorze siècles de là ; et
-  trois nombres du chapitre ne s'additionnent pas (la narratrice à cinquante ans, sa
-  grand-mère à dix-sept, Vesle morte depuis quarante ans). Garder la profondeur en
-  lâchant la parenté, ou garder la parenté en ramenant la chute à quatre-vingts ans.
-- **ch. 24 / 38 / 39, le marquage des portes** — le ch. 24 fait **déjà** joindre le
-  signe par la circulaire (« Un rond barré d'un trait », tracé au brai) ; l'article
-  quatre du ch. 38 le crée comme chose neuve, « l'Édit ne disait pas lequel ». Sortie la
-  moins coûteuse : faire de l'Édit la généralisation d'une circulaire déjà appliquée.
-- **ch. 42 contre le reste du tome** — le délai avant le crachement de sang est de
-  **six mois** au ch. 42 et de **dix-huit mois** partout ailleurs (ch. 02, 20, 30, 35,
-  39, 48, 49). C'est un contre sept, pas un contre un.
-- **ch. 40** — l'arithmétique des sept ne boucle pas ; et **Nael est absent du ch. 40**
-  alors que le ch. 34 le met en tête du même convoi.
-- **Herec / Herrec** (ch. 37 et 18) — homonymie voulue ou coquille.
+### 10. ~~Les écarts de comptage du tome 3~~ — TRANCHÉS le 2026-09-28
 
-### 10. Les écarts de comptage du tome 3, relevés et laissés
-
-Relevés par la passe finale, aucun chiffre inventé. Ils sont mineurs et cohabitent
-sans casser de lecture : « Six morts, quatre tentatives » (ch. 32) qui ne se raccorde
-ni au ch. 03 ni au ch. 07 · le lieu de la mort de la femme des marches (Taldre au
-ch. 38, entre Vireuil et le haut pays au ch. 39) · le commis de Vellan, « l'an dernier »
-au ch. 24 et dans l'année en cours au ch. 15 · le comptage des ch. 09 et 29 · le compte
-des jours d'Ísae au T2 (ch. 03 contre ch. 33) · l'aiguille courbe du T2 (forgée au
-ch. 03, sortie d'un paquet plat au ch. 26).
+Voir I, Tome 3. Le compte des jours d'Ísae n'était pas un point du T2 mais du T1 : le T1
+ne porte plus que « soixante-dix jours, un peu moins » (T1/12).
 
 ### 11. Points de style et de dispositif laissés à l'auteur
 
@@ -382,127 +433,30 @@ près » quand le fragment du T3/01 la donne altérée — si c'est le ch. 12 qu
 c'est la plus belle faute de copiste du livre. C'est un texte de fragment : on n'y
 touche pas sans l'auteur.
 
-### 12. Ce que le raccord du 2026-09-23 laisse à l'auteur
+### 12. ~~Ce que le raccord du 2026-09-23 laissait à l'auteur~~ — TRANCHÉ le 2026-09-28
 
-Relevées en lisant chaque chapitre contre l'Atrium, **ce sont des contradictions entre
-chapitres** : l'Atrium ne peut pas les trancher sans réécrire un livre. Il suit
-aujourd'hui l'un des deux textes, indiqué entre parenthèses quand c'est le cas.
+Toutes les contradictions entre chapitres relevées le 2026-09-23 sont réglées, dans le
+texte ou par une lecture où les deux sont vrais : voir I, « Les arbitrages du
+2026-09-28 », œuvre par œuvre. **Restent, par nature** : les horloges du geste et le
+titre « H1 » (`que-0013`), la coda du T2 (`que-0010`) — §III ; et, comme double-fond
+voulu, l'écriture des tunnels de Rukhsar.
 
-**Chroniques.**
-- **C/3 contre C/4** — la route Kharazir → Ventera → Solena : C/3 inverse les points
-  cardinaux (sur la carte, Ventera et Solena sont à l'ouest).
-- **C/9** — l'en-tête (jour 190) ne tient pas avec les intervalles du chapitre
-  (Intendant = arrivée + 4, puis cinq jours de route) ; et « deux mois » depuis Kelanor
-  quand les numéros de jour en donnent six.
-- **C/10 contre C/11** — la fuite de Velithar : le soir même (C/10, suivi par l'Atrium)
-  ou deux nuits avant le départ (C/11).
-- **C/13 et C/19 contre C/4, 6, 10** — la traque « prend un visage » à Perivalis comme
-  une première rencontre, et Draye « ne s'était encore jamais laissé voir » au C/19.
-- **C/17 contre C/18** — vingt-cinq jours de Keldros à Ydralis donnent le jour ≈ 433,
-  pas 425.
-- **C/19** — Kael la veille du duel, les bêtes avant : l'Atrium met trois jours entre
-  Kael et le duel.
-- **C/1, C/2 contre C/14, C/27** — l'écriture des tunnels de Rukhsar : lisible au quart
-  (« Ancrages ») ou sans famille connue ? Double-fond voulu, ou non.
-- **C/21 contre C/22** — la montée au cratère annoncée à deux ou trois jours, faite
-  une vingtaine de jours plus tard (l'Atrium suit l'en-tête du C/22).
-- **C/24** — « J'étais en mer quand Ourven cessa d'entendre » alors que Sorin a passé
-  trois jours à Valmora. **C/24 contre C/25** — la dernière voix et le guide de Sylvara
-  ne portent pas le même nom ; Ourven (578) + 5 jours ne font pas 600.
-- **C/29 contre C/30** — dix-huit jours de traversée ne tiennent pas entre 722 et 736.
-- **C/33 contre C/34** — la perte des sept de l'expédition altram : version d'Yrsa
-  contre version de Torval ; et « Demain, l'intérieur » (825) contre le surplomb au 845.
-- **C/37** — le jour 895 est à la fois le premier jour à Prismalith et le soir de
-  l'audience. **C/38** — la note « Jour 910 » raconte la visite du lendemain.
-- **Les « il y a N ans » des C/32 à C/35** sont comptés depuis l'an 250 quand l'Atrium
-  date ces scènes de 251 : un an d'écart, toutes en estimation.
-
-**Tome 1.**
-- **T1/4** — « trente ans plus tard » est intenable (quinze ans de lettres, puis des mois
-  de protocole). **T1/5 contre T1/6** — la spoliation de la forge : −5 ou −6.
-- **T1/7** énonce comme un fait ce que le T1/8 donne comme rumeur (le Préfet et
-  l'autodafé, arbitrage 34). **T1/8 contre T1/9** — deux ans et trois mois, ou quatre
-  ans d'infiltration. **T1/19 contre T1/8** — qui dit « Vous la trouverez », qui signe
-  l'ordre de mission d'Aelindra.
-- **T1/14, 15, 53** — la Baelor de l'An 0 porte Thyldris, ses Veilleurs et « quatre
-  siècles », qui sont du Sillage ; **T1/16, 18** — la même transposition pour l'Ilthara
-  de Mirathis. **T1/14 contre T1/1** — Verithan meurt, ou naît, il y a mille ans.
-- **T1/14 contre T1/15** — deux récits du troisième soir de Baelor ; et Ollam, du
-  Premier Voile, vote alors que la règle du chapitre l'interdit.
-- **T1/16** — la conversation du seuil « à trois ans » de la montagne, quand Thessan
-  n'entre au Cercle qu'à J-90. **T1/20 contre T1/35** — le Fragment #3 daté J-51 et
-  écrit la dernière nuit.
-- **T1/21-22 contre T1/1, 8, 14, 35** — Kayara, membre du Cercle depuis J-90, ou
-  passeuse louée qui découvre le but en mer ? **T1/22, 26, 27** — trois itinéraires
-  incompatibles pour Sera. **T1/25 contre T1/33** — l'eau de Navoria monte depuis un
-  mois, ou depuis l'avant-veille.
-- **T1/34 contre T1/36** — le campement tiède de Verkan « la veille », à des jours de
-  route du Mont. **T1/37** — la forge de Drakhan éteinte depuis des semaines, contre un
-  dernier jour de forge. **T1/39 contre T1/43** — nuit sans lune, ou lune prise par la
-  fumée. **T1/43 contre T1/52** — il ne restera de Verkan « qu'une ligne, et elle
-  serait fausse », mais il garde une feuille vraie.
-- **Le titre « H1 »** met l'ouverture du Mont une heure après le geste ; trois chapitres
-  la font dans l'instant. **Les horloges du geste** (H2, H5, H6 « à midi » contre un geste
-  « avant l'aube ») touchent `que-0013` : à signaler, jamais à trancher.
-- **Géographie** : le T1 fait de **Celethor** une ville (d'écoles et de jardins), l'Atrium
-  un continent ; l'« **Empire de fer** » du T1/8 est sans doute Lithane. Aucune fiche
-  créée pour l'une ou l'autre.
-
-**Tome 2** (en plus des nœuds du §9).
-- **T2/0** — l'en-tête dit ~−30, la prose au moins quarante ans avant l'Arrachement.
-- **T2/2-3 contre T2/10** — la Forge-Basse : la maison de Kessane, ou un hameau de trente
-  feux ? **T2/7** — Corvane le corroyeur : un bourg des marges d'Onara (fiche) ou le marché
-  des grains de Drahk'Nor (chapitre).
-- **La chaîne de Vaenor après Tavel** : le T2/18 garde des traces de l'ancienne chaîne, les
-  années de service varient (10, 15, 16, 20 ans) ; et si Tavel meurt en 1480, les
-  Inspecteurs naissent vers 1480-1485 — l'Atrium les date encore de ~1460
-  (`ter-0133`, `fac-1071`).
-- **T2/9, 21 contre T2/16** — le cahier de Teor. **T2/16 contre T2/30** — quand la phrase
-  du Fragment #3 entre chez Vaenor. **T2/25, 31 contre T2/42** — quel cahier Kessane lit
-  sur la crête. **T2/23 contre T2/43** — Vaenor retourne-t-elle au moulin ?
-- **T2/4, 5 contre T2/29, 33** — l'apaisement de Sènn : ce même automne, ou deux ans
-  plus tôt. **T2/33 contre T2/49** — Ombreth meurt en Alkaran ou « sur la plaine ».
-  **T2/45** lui prête une intuition que ses propres chapitres lui refusent.
-- **La coda (T2/48, 51)** tient deux horloges pour l'enfant qui entend ; elle touche
-  `que-0010` — à signaler, jamais à trancher.
-
-**Tome 3** (en plus du §10).
-- **T3/3 contre T3/7** — le coffre de la copie d'Olven : tampon récent de Drakora, ou
-  mention d'un autre siècle sous cire noircie. **T3/32, 39** — la copie dort depuis
-  « trois siècles » ; elle a été scellée au T2, neuf mille ans plus tôt.
-- **T3/17 contre T3/19** — la même nuit de Taldre racontée deux fois : cahier fermé et
-  récité, ou ouvert et lu ; « tu » ou « vous ».
-- **T3/22** — la pulse « presque quotidienne » après les « deux fois par jour » des
-  ch. 13 et 17 : l'escalier recule, contre l'arbitrage 8.
-- **T3/26** — Maître Corvane, « de son âge à elle », connaît le prisme « depuis quarante
-  ans » : reste des cinquante-trois ans d'Ysolde. **T3/26 contre T3/30** — l'auteur et le
-  texte de la note qui accompagne la ligne marginale.
-- **T3/4 contre T3/36** — qui a remis le cahier à Sanne : sa mère, ou « ma maîtresse ».
-  **T3/30** — Sanne n'a défait le paquet devant témoin qu'une fois, mais la Roue-Basse
-  (T3/25) précède Prismalith.
-- **Les « deux mois »** : la traque et l'apprentissage de Karsel (T3/28, 37, 39, 42)
-  ne passent pas ; Karsel élève depuis deux mois (T3/39, 42) ou un an (T3/51).
-- **T3/33 contre T3/35** — deux jours, ou six, entre la rivière et le foyer.
-- **T3/43 contre T3/47** — les irruptions 6 et 7 de la voix découvrent deux fois la
-  même chose. **T3/32 contre T3/51** — le nom de Vaenor, prononcé devant Vaskar puis
-  « jamais entendu ». **T3/50 contre T3/51** — le rapport porte « trois mille », ou
-  aucun nombre.
-- **T3/39, 42, 50** — la même case de Vaskar porte deux noms.
-- **Coquilles** : T3/40, neuf moins trois font six pèlerins, pas sept ; T3/45, « nous »
-  (Renna et Ilex) appelle « rayés ».
-- **Géographie** : le T3 fait d'**Onara** une ville à marches, met **Astravia** à trois
-  jours de Vireuil (elle est sur Celethor, à ~580 unités), fait **monter au nord** vers
-  Cendara et **descendre au sud** vers Prismalith — la carte dit l'inverse.
+**Relevé en passant, non tranché** (petits, hors liste) : au T1/29, la lune « jusqu'au
+milieu de la nuit » à J-6, quand l'An 0 est sans lune ; au T1/32, Kessa descend de chez
+Iveth par le sentier au-dessus du campement, quand T1/29 et T1/31 mettent la maison
+d'Iveth en bas de Cendral ; au C/13, « quatre-vingt-dix jours à arriver juste après des
+gens comme elle », dont on ne sait d'où Sorin compte ; T1/28 en plein été contre l'hiver
+des autres chapitres ; les dates de la Ligue d'Everthor (`pol-0049`).
 
 **Homonymes à connaître** (tous distincts, sauf mention) : trois **Nesse** (C/29, T2/12,
 T3/25) et **Neve / Nève** ; trois **Wenna** ; deux **Kessa** et une Kessa de Velathor ;
 **Terec / Térec** ; **Sorn / Sorne** ; **Varel / Vharel** (ancien nom de Dorvel) ;
 **Dorvel / Yorvel** ; **Osrik / Ostrik** ; **Vireuil / Mireuil** ; **Sarech / Marech** ;
-**Talvire / Elvire** ; **Herec / Herrec** (§9) ; **Torval** (deux) ; **Doran** (trois) ;
-**Aldran**, **Kael**, **Yrsa**, **Sera**, **Renna**, **Marek**, **Marenn**, **Thyren**,
-**Brennan** (chacun plusieurs) ; **Sarnac / Sarnak** et **Ossian** (deux moines de
-Baeloris) — **même personne ou non, incertain** ; **la Saint-Feu / la Sainte-Braise** —
-une fête sous deux noms, ou deux fêtes.
+**Talvire / Elvire** ; **Herec / Herrec** (un prêtre, un bourg) ; **Torval** (deux) ;
+**Doran** (trois) ; **Aldran**, **Kael**, **Yrsa**, **Sera**, **Renna**, **Marek**,
+**Marenn**, **Thyren**, **Brennan** (chacun plusieurs) ; **Sarnac / Sarnak** et **Ossian**
+(deux moines de Baeloris) — **même personne ou non, incertain** ; **la Saint-Feu (Taldre,
+T3/10) / la Sainte-Braise (T2)** : deux fêtes de deux pays ; **Caëspia / Cëpias** (glossaire).
 
 ### 13. Ce que l'Atrium hérite encore de l'ancien lore
 
@@ -561,7 +515,7 @@ qui fait foi. Statuts : **ouvert** · **tranché** (décision prise, texte à é
 | # | Écart | Où | Correction proposée | Statut |
 |---|---|---|---|---|
 | A1 | `lie-1059` calait 1 u = 1 lieue (~4 000 km d'ouest en est). | Atrium | 0,955 km/u, 1 000 km de bord à bord ; la lieue reste une unité de récit. | **corrigé** : `lie-1059` (résumé, corps, `data.echelle_carte`) |
-| A2 | Les durées des Chroniques sont calées sur l'ancienne échelle. | Chroniques, T1 | Liste C ci-dessous, produite par `scripts/verifier-trajets.js`. | ouvert (texte) |
+| A2 | Les durées des Chroniques sont calées sur l'ancienne échelle. | Chroniques, T1 | Liste C ci-dessous, produite par `scripts/verifier-trajets.js`. | **corrigé** (2026-09-28) |
 | B1 | Baelor « ~300 lieues × ~150 », côte nord de « ~200 lieues ». | fiche Baelor - Continent, l. 15 et 31 | ~10 km sur 8, une cinquantaine de km² ; côte nord de ~8 km. | **corrigé** : fiche et sa copie dans `lie-0003` |
 | B2 | La cabane du berger est « à deux jours de marche de Baeloris ». | Histoires/Baelor, l. 208 ; corps de `lie-0003` | « À quelques heures de marche », ou « une longue journée par le Voile bas » si le brouillard doit peser. | tranché (deux jours sont impossibles) ; formule à choisir |
 | B3 | Les postes de Thyldris couvrent « 7 lieues de côte » ; la côte est fait ~10 km. | fiche Baelor, l. 154 | « Sur toute la côte est ». | **corrigé** : fiche et `lie-0238` |
@@ -569,13 +523,13 @@ qui fait foi. Statuts : **ouvert** · **tranché** (décision prise, texte à é
 | B5 | Le lac Ce-qui-rend-le-ciel, relevé en (67,15 ; 251,36), déborde sur l'angle nord-ouest à la nouvelle échelle. | Atrium | Recentrer en (67,35 ; 251,44). | **corrigé** : `lie-1060` (le relevé disait `lie-0970`, numéro pris en amont) |
 | B6 | Le marqueur de la région Baelor, (70,81 ; 240,35), est en mer à 10 u au nord de l'île. | Atrium | Le poser au centre de l'île. | **corrigé** : `lie-0003` en (70,4 ; 255,8), centre de l'île peinte |
 | B7 | « Lacs de lande », alors que la fiche dit « pas de lac noir au cœur de l'île ». | voie « monde » | Seulement des mares de tourbière de 10 à 50 m. | **corrigé** : aucune fiche du site n'en parlait ; la fiche du continent le dit (Hydrographie), `lie-0003.data.arbitrage` |
-| B8 | Tholmë : galets gris et « falaise basse » (fiche) contre « grève noire » et « falaises noires montant droit de la mer » (T1). | fiche Tholmë, T1 | Les terrasses marines portent les deux : falaise basse sur la terrasse, falaises noires en contrebas. | ouvert |
-| B9 | Kethros, monastère distinct dans l'Atrium, confondu avec Baeloris au C/30 ; où 40 navires ont-ils pu attaquer ? Sa position estimée (70,0 ; 253,0), « 1,7 u en retrait » de l'ancienne Baeloris, est à ~2 u de la nouvelle. | Atrium, C/30 | À trancher, puis reposer Kethros sur sa falaise. | ouvert |
-| B10 | « Une seule crique pour toute l'île » (C/31), mais Tholmë a un quai et commerce avec Tyndara. | C/31, fiche Tholmë | Une seule crique sur la côte nord ; un simple quai d'échouage à Tholmë. | ouvert |
-| B11 | Galets blancs « ramassés au nord de l'île » (T1/16), où la côte n'a pas de plage. | T1/16 | Ils viennent de la grève du fond de la crique de Baeloris. | ouvert |
+| B8 | Tholmë : galets gris et « falaise basse » (fiche) contre « grève noire » et « falaises noires montant droit de la mer » (T1). | fiche Tholmë, T1 | Les terrasses marines portent les deux : falaise basse sur la terrasse, falaises noires en contrebas. | **corrigé** (2026-09-28, livres) |
+| B9 | Kethros, monastère distinct dans l'Atrium, confondu avec Baeloris au C/30 ; où 40 navires ont-ils pu attaquer ? Sa position estimée (70,0 ; 253,0), « 1,7 u en retrait » de l'ancienne Baeloris, est à ~2 u de la nouvelle. | Atrium, C/30 | À trancher, puis reposer Kethros sur sa falaise. | **corrigé** (2026-09-28, livres) |
+| B10 | « Une seule crique pour toute l'île » (C/31), mais Tholmë a un quai et commerce avec Tyndara. | C/31, fiche Tholmë | Une seule crique sur la côte nord ; un simple quai d'échouage à Tholmë. | **corrigé** (2026-09-28, livres) |
+| B11 | Galets blancs « ramassés au nord de l'île » (T1/16), où la côte n'a pas de plage. | T1/16 | Ils viennent de la grève du fond de la crique de Baeloris. | **corrigé** (2026-09-28, livres) |
 | B12 | La côte de Baelor n'est qu'un hexagone provisoire de 33 u² ; Thyldris, Baeloris et le lac tombent en mer. | `monde-contours.json` | Reprendre la côte v3 du prototype (49 km²). | ouvert (§7 ter) |
 
-**C. Les trajets à la nouvelle échelle.** `scripts/verifier-trajets.js` lit l'échelle
+**C. Les trajets à la nouvelle échelle.** *Mise à jour du 2026-09-28 : toutes les lignes sont closes — le texte dit la durée juste ou le séjour (voir I, « Les arbitrages du 2026-09-28 »). Au vérificateur : 183 tronçons, 0 impossible, 0 lent.* `scripts/verifier-trajets.js` lit l'échelle
 dans `lie-1059` (unités → lieues : ÷ 4,19). Sur 59 tronçons jugés, l'ancienne échelle
 en faisait tenir 39, serrer 12, et 8 impossibles ; la nouvelle en fait tenir 8,
 serrer 1, et **20 incohérents** : 4 impossibles et 16 trop lents, où le texte annonce
@@ -591,30 +545,28 @@ C/20 (10), C/28 (15).
 
 | Chapitre | Trajet | Le texte | La carte | Correction proposée | Statut |
 |---|---|---|---|---|---|
-| T1/22 | Sarth → crique de la Dent (Sera, Kayara) | « Six jours d'eau » | 148 km par mer, 1,5 j | Les six jours tiennent pour le navire parti d'Aethranor (455 km) ou de Tholmë ; depuis Sarth, « deux jours d'eau », ou le détour par le Fleuve-sous-la-Mer et un calme. | ouvert |
-| T1/26-29 | Sulvane → Mont Cendra (Thessan 7 j, Aelindra 10 j) ; Sulvane → Cendral (Sera, 10 j) | « des jours et des jours de marche » | 60 km, 2 j | Cendara ne fait que ~42 × 100 km : dire la marche lente (cendre, colonne, détours), ou la raccourcir. | ouvert |
-| T1/43 | Sulvane → Cendral (Verkan) | un jour | 55 km : **impossible** (1,4 j à marche forcée) | Sulvane est estimée à 44 u de Cendral ; la Chronologie (Ère IV) la met « à 40 km » : à ~33 u, une marche forcée tient. | ouvert (position) |
+| T1/22 | Sarth → crique de la Dent (Sera, Kayara) | « Six jours d'eau » | 148 km par mer, 1,5 j | Les six jours tiennent pour le navire parti d'Aethranor (455 km) ou de Tholmë ; depuis Sarth, « deux jours d'eau », ou le détour par le Fleuve-sous-la-Mer et un calme. | **corrigé** (2026-09-28) |
+| T1/26-29 | Sulvane → Mont Cendra (Thessan 7 j, Aelindra 10 j) ; Sulvane → Cendral (Sera, 10 j) | « des jours et des jours de marche » | 60 km, 2 j | Cendara ne fait que ~42 × 100 km : dire la marche lente (cendre, colonne, détours), ou la raccourcir. | **corrigé** (2026-09-28) |
+| T1/43 | Sulvane → Cendral (Verkan) | un jour | 55 km : **impossible** (1,4 j à marche forcée) | Sulvane est estimée à 44 u de Cendral ; la Chronologie (Ère IV) la met « à 40 km » : à ~33 u, une marche forcée tient. | **corrigé** (2026-09-28) |
 | T1/49 | Corail-le-Haut → île de Corail (Ílvar) | six heures de pirogue | 14 km : « impossible » | Artefact : les allures sont des journées de route ; 2,3 km/h à la rame tient. | sans objet |
-| T1/50 | la Dent → Sarn-du-Vent (Kayara) | « dix nuits » au plus | 645 km : **impossible** en pirogue (13 j forcés) | Une pirogue à voile de haute mer va à l'allure d'un navire (6,5 j), ou « quinze nuits ». | ouvert |
-| T1/52 | Mont Cendra → Baelor (Vorath) | deux heures | 414 km : **impossible** | Déjà impossible à l'ancienne échelle : passage ou ellipse du récit, pas l'échelle. | ouvert (relevé) |
-| C/2 | Rukhsar → Kelanor | « Treize jours de route dans la caravane » | 59 km, 2,5 j | « Trois jours de route » ; le calendrier (J1 → J13) garde un séjour à dire, ou les haltes de la caravane. | ouvert |
-| C/4 | steppes de Ventera → Vyndralith | « Vingt-trois jours » | 58 km depuis le départ estimé de la piste ; toute la traversée Kelanor → Vyndralith fait ~47 lieues, une semaine, où le texte met huit jours de caravane et vingt-trois de marche | « Sept jours », ou la grande herbe qui égare. | ouvert |
-| C/5 | Solena → lisière de Trinoria | « Six jours de marche au sortir de Solena » | Vyndralith → Nalithos 313 km, 11 j ; le calendrier (J55 → J82) tient | Poser l'étape à la lisière de la forêt, à moins de 60 lieues de Solena, plutôt qu'à Nalithos. | ouvert (relevé) |
-| C/7 | Trelios → Roseltar | « à trois jours de Trelios » | 42 km par mer (0,4 j), ~50 km par la route (1,8 j) | Par la route, trois jours tiennent ; le relevé suppose une traversée que le texte ne dit pas. | ouvert (relevé) |
-| C/8 | cols d'Iskara ↔ Archives de Trelios | « Vingt-cinq jours de routes intérieures » | ~68 lieues par la terre (10 j, tient) ; la carte met la mer entre Alkaran et Endora (3 j) | Écart de carte antérieur à l'échelle : le texte dit des routes, la carte un bras de mer. | ouvert (carte) |
-| C/9 | Haliandris → Ardentris | « Ardentris à cinq jours de route » | 22 km, 0,8 j | « À une journée de route ». | ouvert |
-| C/10 | Myrtam → Velithar | « dix-sept jours dans les jambes depuis Myrtam » | 345 km dont la mer, 3,5 j | « Sept jours », et dire l'attente d'un navire. | ouvert |
-| C/12 | Tyndara → Malderis | « Vingt-cinq jours de mer entre Onara et Endora » | 150 km, 1,5 j | « Deux jours de mer » ; le calendrier (43 j depuis Velithar) garde les séjours sur l'Onar. | ouvert |
-| C/14 | Endora → Holvendar | « Trente jours de mer depuis Endora » | Hekorinth est posée en Ilthara (§7 ter, Haldria) : 106 km ; depuis l'Endora des fiches, ~540 km, 5 j | « Six jours de mer ». | ouvert |
+| T1/50 | la Dent → Sarn-du-Vent (Kayara) | « dix nuits » au plus | 645 km : **impossible** en pirogue (13 j forcés) | Une pirogue à voile de haute mer va à l'allure d'un navire (6,5 j), ou « quinze nuits ». | **corrigé** (2026-09-28) |
+| T1/52 | Mont Cendra → Baelor (Vorath) | deux heures | 414 km : **impossible** | Déjà impossible à l'ancienne échelle : passage ou ellipse du récit, pas l'échelle. | **corrigé** (2026-09-28) |
+| C/2 | Rukhsar → Kelanor | « Treize jours de route dans la caravane » | 59 km, 2,5 j | « Trois jours de route » ; le calendrier (J1 → J13) garde un séjour à dire, ou les haltes de la caravane. | **corrigé** (2026-09-28) |
+| C/4 | steppes de Ventera → Vyndralith | « Vingt-trois jours » | 58 km depuis le départ estimé de la piste ; toute la traversée Kelanor → Vyndralith fait ~47 lieues, une semaine, où le texte met huit jours de caravane et vingt-trois de marche | « Sept jours », ou la grande herbe qui égare. | **corrigé** (2026-09-28) |
+| C/5 | Solena → lisière de Trinoria | « Six jours de marche au sortir de Solena » | Vyndralith → Nalithos 313 km, 11 j ; le calendrier (J55 → J82) tient | Poser l'étape à la lisière de la forêt, à moins de 60 lieues de Solena, plutôt qu'à Nalithos. | **corrigé** (2026-09-28) |
+| C/7 | Trelios → Roseltar | « à trois jours de Trelios » | 42 km par mer (0,4 j), ~50 km par la route (1,8 j) | Par la route, trois jours tiennent ; le relevé suppose une traversée que le texte ne dit pas. | **corrigé** (2026-09-28) |
+| C/8 | cols d'Iskara ↔ Archives de Trelios | « Vingt-cinq jours de routes intérieures » | ~68 lieues par la terre (10 j, tient) ; la carte met la mer entre Alkaran et Endora (3 j) | Écart de carte antérieur à l'échelle : le texte dit des routes, la carte un bras de mer. | **corrigé** (2026-09-28) |
+| C/9 | Haliandris → Ardentris | « Ardentris à cinq jours de route » | 22 km, 0,8 j | « À une journée de route ». | **corrigé** (2026-09-28) |
+| C/10 | Myrtam → Velithar | « dix-sept jours dans les jambes depuis Myrtam » | 345 km dont la mer, 3,5 j | « Sept jours », et dire l'attente d'un navire. | **corrigé** (2026-09-28) |
+| C/12 | Tyndara → Malderis | « Vingt-cinq jours de mer entre Onara et Endora » | 150 km, 1,5 j | « Deux jours de mer » ; le calendrier (43 j depuis Velithar) garde les séjours sur l'Onar. | **corrigé** (2026-09-28) |
+| C/14 | Endora → Holvendar | « Trente jours de mer depuis Endora » | Hekorinth est posée en Ilthara (§7 ter, Haldria) : 106 km ; depuis l'Endora des fiches, ~540 km, 5 j | « Six jours de mer ». | **corrigé** (2026-09-28) |
 | C/16 | Veldar → Myrthorin | une journée de montée à cheval | 11 km | Tient en montagne ; Veldar est à re-estimer (liste D). | sans objet |
-| C/19 | Bybias → Wyndor | « Trente-cinq jours » de Trace (deux fois dans le chapitre) | 133 km, 4,7 j | Une quinzaine de jours (la jungle, où « une monture avance moins vite qu'un homme »). | ouvert |
-| C/20 | Lytharil → Vaelmar | « dix jours de plaine plein ouest » | 53 km jusqu'à la Vaelmar estimée sur le golfe de Lythar ; la côte ouest d'Ilthara est à ~52 lieues (7 j) | Le texte tient si Vaelmar est « sur la côte ouest », comme il le dit : re-estimer Vaelmar (le rattachement à Lythar en souffre). | ouvert (position) |
-| C/21 | côte ouest d'Ilthara → Diamoris | « Douze jours de mer, dont trois au large, à attendre » | 164 km, 1,6 j | « Quatre jours de mer, dont trois au large. » | ouvert |
-| C/28 | couvents de Mirathi → Lunaris | « quinze jours de route » | ~60 km, 2,5 j | « Trois jours de route ». | ouvert |
-| C/32 | Baeloris → Invernis | ≈ 38 jours de mer (J752 → J790) | 636 km, 6,4 j | Garder les dates et dire l'escale ou l'attente (glaces du chenal nord, vents). | ouvert |
-| C/32 | Invernis → Galdryn | « Une demi-journée de marche » | 38 km : **impossible** (1 j forcé) | « Une journée de marche », ou Galdryn plus près (≤ 20 u) ; les deux sont posés par l'auteur. | ouvert |
-
-**D. Positions estimées à l'ancienne échelle.** Les 65 positions estimées du
+| C/19 | Bybias → Wyndor | « Trente-cinq jours » de Trace (deux fois dans le chapitre) | 133 km, 4,7 j | Une quinzaine de jours (la jungle, où « une monture avance moins vite qu'un homme »). | **corrigé** (2026-09-28) |
+| C/20 | Lytharil → Vaelmar | « dix jours de plaine plein ouest » | 53 km jusqu'à la Vaelmar estimée sur le golfe de Lythar ; la côte ouest d'Ilthara est à ~52 lieues (7 j) | Le texte tient si Vaelmar est « sur la côte ouest », comme il le dit : re-estimer Vaelmar (le rattachement à Lythar en souffre). | **corrigé** (2026-09-28) |
+| C/21 | côte ouest d'Ilthara → Diamoris | « Douze jours de mer, dont trois au large, à attendre » | 164 km, 1,6 j | « Quatre jours de mer, dont trois au large. » | **corrigé** (2026-09-28) |
+| C/28 | couvents de Mirathi → Lunaris | « quinze jours de route » | ~60 km, 2,5 j | « Trois jours de route ». | **corrigé** (2026-09-28) |
+| C/32 | Baeloris → Invernis | ≈ 38 jours de mer (J752 → J790) | 636 km, 6,4 j | Garder les dates et dire l'escale ou l'attente (glaces du chenal nord, vents). | **corrigé** (2026-09-28) |
+| C/32 | Invernis → Galdryn | « Une demi-journée de marche » | 38 km : **impossible** (1 j forcé) | « Une journée de marche », ou Galdryn plus près (≤ 20 u) ; les deux sont posés par l'auteur. | **corrigé** (2026-09-28) |**D. Positions estimées à l'ancienne échelle.** *Tranché le 2026-09-28 : les positions restent, ce sont les durées du texte qui se sont adaptées (C ci-dessus) ; Kethros reposé au-dessus de la crique de Baeloris.* Les 65 positions estimées du
 2026-09-25 (`data.carte.position_estimee`) ont converti des durées en unités à 1 u
 = 1 lieue ; vingt le disent dans leur motif (« quatre jours ≈ 20 u »). À la nouvelle
 échelle, la même durée vaut 4,2 fois plus de carte : chacune est à revoir. Soit la
@@ -633,7 +585,7 @@ offre que ~65 du Mont à sa pointe nord.
 
 | Où | Le texte | La carte | Correction proposée | Statut |
 |---|---|---|---|---|
-| C/31 | « deux cents lieues de falaises noires » (Baelor) | côte nord de ~8 km | « deux lieues de falaises » | ouvert (chapitre) |
+| C/31 | « deux cents lieues de falaises noires » (Baelor) | côte nord de ~8 km | « deux lieues de falaises » | **corrigé** (2026-09-28) |
 | fiche Ulinor - Continent | « ~1200 km nord-sud » ; faille « sur plus de 400 km » | ~41 × 71 km | ~70 km nord-sud ; faille sur toute la longueur de l'île | tranché |
 | Chronologie, Ère IV | côtes méridionales de Cendara effondrées « sur trois cents lieues » (la Mer Cassée) | l'île fait ~100 km de long | « sur une dizaine de lieues » | tranché |
 | Chronologie, Ère IV | le Mont inhabitable « dans un rayon de 50 km », moines « sur le flanc sud, à 30 km » | l'île fait ~42 km de large | toute l'île ; « sur le flanc sud, près de la côte » | tranché |
@@ -644,11 +596,11 @@ offre que ~65 du Mont à sa pointe nord.
 | fiche Lunasar | « ~200 lieues de côtes basses » | 60 % du littoral d'Ilthara | à mesurer quand Lunasar aura sa surface | ouvert |
 | fiche Nysaria | sites « à 5–20 lieues de Nysoris » | l'île de la carte fait ~16 × 10 km | « à une ou deux lieues » ; lié à la question de Nysaria continent ou île | ouvert |
 | fiche Baelor | ~18 000 habitants | ~50 km², 360 hab./km² de lande | à revoir avec l'auteur | ouvert |
-| T1/00, T1/45 | « trois cents lieues » d'Aethranor à Sulvane (l'arche, le porteur d'eau) | ~370 u, ~90 lieues | « cent lieues » | ouvert (roman) |
-| T1/16, T1/18 | « trois mille lieues » (Gelinar, Vytharia ↔ Aethranor) | ~360 u, ~90 lieues ; déjà hyperbolique avant | « cent lieues », ou la figure « mille lieues » | ouvert (roman) |
-| T1/46 | le Gouffre, « trois lieues de long », coupe Endora en deux | Endora fait ~210 × 185 km | écart antérieur à l'échelle | ouvert |
-| T3/31 | « quinze », « dix-huit », « vingt lieues du Mont » | 63 à 84 u : au-delà de la pointe nord de Cendara pour les deux derniers | « douze à quinze lieues » ; « cent lieues et plus » jusqu'à Baelor tient (~93) | ouvert (roman) |
-| Ère VII, C/21, C/22, T3/40 | « cinquante lieues à la ronde » autour du Mont | ~210 u : toute Cendara et le sud d'Ilthara (Arkhen, Mirathi, Vytharia, Lunaris) | le chiffre reste ; vérifier que personne n'est dit hors du rayon | ouvert |
+| T1/00, T1/45 | « trois cents lieues » d'Aethranor à Sulvane (l'arche, le porteur d'eau) | ~370 u, ~90 lieues | « cent lieues » | **corrigé** (2026-09-28) |
+| T1/16, T1/18 | « trois mille lieues » (Gelinar, Vytharia ↔ Aethranor) | ~360 u, ~90 lieues ; déjà hyperbolique avant | « cent lieues », ou la figure « mille lieues » | **corrigé** (2026-09-28) |
+| T1/46 | le Gouffre, « trois lieues de long », coupe Endora en deux | Endora fait ~210 × 185 km | écart antérieur à l'échelle | **corrigé** (2026-09-28) |
+| T3/31 | « quinze », « dix-huit », « vingt lieues du Mont » | 63 à 84 u : au-delà de la pointe nord de Cendara pour les deux derniers | « douze à quinze lieues » ; « cent lieues et plus » jusqu'à Baelor tient (~93) | **corrigé** (2026-09-28) |
+| Ère VII, C/21, C/22, T3/40 | « cinquante lieues à la ronde » autour du Mont | ~210 u : toute Cendara et le sud d'Ilthara (Arkhen, Mirathi, Vytharia, Lunaris) | le chiffre reste ; vérifier que personne n'est dit hors du rayon | **corrigé** (2026-09-28) |
 | C/4, C/20, C/24, C/27, T1/06, T2/00, T2/19, T2/40, T3/15 | « mille lieues », « l'horizon est à cent lieues » | le monde fait 250 lieues | ce sont des figures : elles restent | tranché |
 
 Tiennent à la nouvelle échelle : la bande côtière de Noravia (200 km) et ses boussoles
