@@ -12,7 +12,7 @@ needs_review_for: []
 | | |
 |---|---|
 | **Type** | Archipel fragmenté, jamais unifié politiquement |
-| **Étendue** | ~1200 km nord-sud, orientation diagonale (dite *la Lame* par les cartographes onarans) |
+| **Étendue** | ~70 km nord-sud, orientation diagonale (dite *la Lame* par les cartographes onarans) |
 | **Trait commun** | Rapport central et obsessionnel au passé et à ceux qui ont précédé (les **Anciens**) |
 | **Magie / registre partagé** | La **résonance** (registre cosmique commun : magie, culte, méthode de connaissance) |
 | **Géographie clé** | Le **Grand Canyon de l'Écho**, qui rend toute unification continentale impossible |
@@ -42,7 +42,7 @@ Les Anciens : entités dont la mémoire serait inscrite dans la roche avant leur
 - **Eaux Lentes** dhalvoriennes — cours d'eau ne parvenant à aucune mer connue ; dits perdus *dans la roche*.
 
 **Le Grand Canyon de l'Écho :**
-- Faille traversant l'île principale du nord au sud sur plus de 400 km.
+- Faille traversant l'île principale du nord au sud, sur toute sa longueur.
 - Profondeur estimée 800 à 2000 m selon les sections ; jamais cartographiée jusqu'au fond, l'autre rive n'étant pas atteinte.
 - Propriétés acoustiques exceptionnelles selon les témoignages : les sons qui y entrent n'y semblent pas s'éteindre.
 - Centre cosmique de l'archipel dans la lecture ulinorienne ; géographiquement infranchissable (on le longe, on ne le traverse pas).

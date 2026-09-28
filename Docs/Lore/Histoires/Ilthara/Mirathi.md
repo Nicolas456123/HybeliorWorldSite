@@ -19,7 +19,7 @@ Les **Taciti** (école du Premier Voile, branche minoritaire baelorienne) s'impl
 
 La **pratique oraculaire** s'établit progressivement au cours des siècles suivants. La règle clef — *l'Oracle n'a pas de nom personnel ; il a une fonction* — émergea dans les premiers siècles et fut formalisée vers l'**an 9 700 ap.A** par un texte court, la **Première Lettre de Mirathi**, dont une copie est conservée à Thalmaris. La reconnaissance du plateau comme province-sanctuaire de Vytharia est plus tardive encore (vers l'**an 9 800 ap.A**), simple entérinement d'un fait déjà ancien.
 
-Le **Message** et la résidence d'**Orneth de Thalmaris** (à partir de l'an 250, voir plus bas) marquent l'époque récente : pour la première fois depuis longtemps, un étranger habite Mirathi sans participer à la fonction oraculaire.
+Le **Message** et la résidence d'**Orneth de Thalmaris** (à partir de l'an 248, voir plus bas) marquent l'époque récente : pour la première fois depuis longtemps, un étranger habite Mirathi sans participer à la fonction oraculaire.
 
 ---
 
@@ -59,9 +59,9 @@ Elle est morte obscure. Sa lamelle — pas de lamelle, elle n'était pas Tacite 
 
 ## Mirathi-village — « Les Quatre Copies »
 
-La copie incomplète du Message qu'Orneth de Thalmaris a apportée avec lui en l'an 250 n'est pas la seule copie présente au village. Il y en a au moins trois autres, dans des collections privées. Aucune n'a été cataloguée. Aucune n'est publiée.
+La copie incomplète du Message qu'Orneth de Thalmaris a apportée avec lui en l'an 248 n'est pas la seule copie présente au village. Il y en a au moins trois autres, dans des collections privées. Aucune n'a été cataloguée. Aucune n'est publiée.
 
-Ce que le passage de Sorin Valthen au Sanctuaire (an 252) a involontairement révélé : les quatre copies ne sont pas identiques. Elles diffèrent — pas de façon majeure, mais sur des détails. Quelques symboles de la troisième colonne sont disposés différemment. Quelques traits sont plus longs ou plus courts. Quelques marges portent des annotations qui ne se recoupent pas.
+Ce que le passage de Sorin Valthen au Sanctuaire (an 250) a involontairement révélé : les quatre copies ne sont pas identiques. Elles diffèrent — pas de façon majeure, mais sur des détails. Quelques symboles de la troisième colonne sont disposés différemment. Quelques traits sont plus longs ou plus courts. Quelques marges portent des annotations qui ne se recoupent pas.
 
 Orneth a, pendant les deux ans de sa résidence, tenté de réunir les quatre copies pour collation. Trois de leurs propriétaires ont accepté de la lui prêter. Un quatrième a refusé.
 

@@ -202,7 +202,7 @@ Région montagneuse au sud, la plus tempérée d'Elarian. Gimtar abrite les forg
 - Région : Gimtar
 
 ### Lysorn
-- Village de marchands sur la route commerciale principale vers le sud ; unique point de contact entre Elarian et le reste de Celethor, où les étrangers sont tolérés à condition de respecter les coutumes locales. Tolérance délibérée, négociée lors de la Grande Alliance (Hrothgar l'Ancien y voyait un moyen de contrôler ce qui entre culturellement) : les marchands étrangers ne dépassent pas Lysorn sans escorte, et l'escorte écoute leurs conversations (fait connu et accepté). En l'an 251, Sorin Valthen y entendit Sigra l'aubergiste lui dire « chez nous, on n'emporte pas les histoires ; on les garde ».
+- Village de marchands sur la route commerciale principale vers le sud ; unique point de contact entre Elarian et le reste de Celethor, où les étrangers sont tolérés à condition de respecter les coutumes locales. Tolérance délibérée, négociée lors de la Grande Alliance (Hrothgar l'Ancien y voyait un moyen de contrôler ce qui entre culturellement) : les marchands étrangers ne dépassent pas Lysorn sans escorte, et l'escorte écoute leurs conversations (fait connu et accepté). En l'an 251, un voyageur de passage y entendit Sigra l'aubergiste lui dire « chez nous, on n'emporte pas les histoires ; on les garde ».
 - Population : Ville
 - Région : Gimtar
 

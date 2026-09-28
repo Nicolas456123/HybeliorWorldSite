@@ -33,7 +33,7 @@ Sources extérieures fragmentaires : messages en langue ancienne trouvés dans d
 - « Roi Sans Voix » n'est pas un titre nysarien attesté : c'est une traduction thalmarienne par défaut.
 - Ne porte pas de masque (singularité dans une cour qui n'en porte que).
 - Règne mesuré non en années solaires mais selon une métrique propre à l'île, dont l'unité n'a pas été déchiffrée par les visiteurs.
-- Marge de cartographe (an 252) : le Roi posséderait « la peau de la pierre noire de Nysoris » — formulation lisible au sens littéral (trait corporel anormal) ou métaphorique (densité de présence singulière) ; non tranché.
+- Marge de cartographe (an 244) : le Roi posséderait « la peau de la pierre noire de Nysoris » — formulation lisible au sens littéral (trait corporel anormal) ou métaphorique (densité de présence singulière) ; non tranché.
 
 ### Le Cercle des Masques
 
@@ -54,7 +54,7 @@ Sources extérieures fragmentaires : messages en langue ancienne trouvés dans d
 
 - Fonction reconnue : **garder fermé le septième portail de Navigor**, point de perméabilité entre les plans séparés par l'Arrachement.
 - Les Nysariens ne l'auraient pas créé — l'auraient trouvé, ou auraient été trouvés par lui.
-- Lecture canonique attestée dans les **Chroniques de Sorin (ch. 34)**, corroborée par les fragments d'Aldren et les marges de plusieurs cartographes.
+- Lecture la plus répandue, fondée sur les fragments d'Aldren et les marges de plusieurs cartographes.
 - Lecture contestée : un érudit thalmarien y a vu plutôt une **bibliothèque** (lecture isolée). Tenue ici comme lecture dominante non absolue.
 
 ---
@@ -69,7 +69,7 @@ Quatre traits géographiques attestés :
 - **Falaises noires sur tout le pourtour**, sauf quelques **plages de galets noirs** non indiquées sur les cartes officielles ; ces plages ne se laissent pas fixer (instabilité cartographique, peut-être pas physique).
 - **Forêt dense de teintes sombres**, commençant au bord de l'eau ; feuilles d'un vert tendant vers le noir (pigmentation exacte non analysée) ; fleurs phosphorescentes nocturnes d'un violet pâle.
 - **Chemins pavés** intérieurs : pierre noire polie, légèrement incurvés à intervalles réguliers, lumières violettes fixées dans la roche (sans combustion visible) ; réseau étendu et entretenu.
-- **Sous-sol probablement étendu** : selon Sorin Valthen, l'essentiel de la construction serait enterré, avec des escaliers larges et droits descendant depuis chaque place centrale vers une profondeur dont le fond n'a pas été atteint (« Nysoris n'est pas grande en surface — elle est grande en dessous »).
+- **Sous-sol probablement étendu** : selon le cahier du cartographe ulinorien de l'an 244, l'essentiel de la construction serait enterré, avec des escaliers larges et droits descendant depuis chaque place centrale vers une profondeur dont le fond n'a pas été atteint (« Nysoris n'est pas grande en surface — elle est grande en dessous »).
 
 Aucun fleuve, aucun lac visible, aucun axe agricole identifié ; la subsistance de Nysoris (et d'éventuels établissements secondaires) reste sans explication documentée.
 
@@ -82,14 +82,14 @@ Aucun fleuve, aucun lac visible, aucun axe agricole identifié ; la subsistance 
 - Seule agglomération identifiée. Capitale de fait.
 - Bâtie en pierre noire polie ; tours effilées dépassant la canopée ; fenêtres laissant passer une lumière violette de source non identifiée.
 - Densité urbaine élevée en surface ; profondeur de construction probable bien plus importante.
-- Au centre : **place circulaire** d'où descend l'**escalier central** vers les profondeurs. Vibration plus forte qu'ailleurs (an 252), comparée à la fréquence régulière du **Mont Cendra**. Aucun visiteur n'a descendu cet escalier ; tous rapportent que l'évidence de ne pas descendre s'impose sans interdiction explicite.
+- Au centre : **place circulaire** d'où descend l'**escalier central** vers les profondeurs. Vibration plus forte qu'ailleurs, comparée à la fréquence régulière du **Mont Cendra**. Aucun visiteur n'a descendu cet escalier ; tous rapportent que l'évidence de ne pas descendre s'impose sans interdiction explicite.
 - Au pied de l'escalier (invisible aux visiteurs, reconstruit par déduction) : **le Portail** — non une porte architecturale mais un point de perméabilité.
 
 ### Les autres établissements
 
 - Aucun documenté avec certitude.
-- Observations à distance par cristaux d'Astravia : au moins **trois sites lumineux secondaires** sur l'île, à 5–20 lieues de Nysoris.
-- Nature indéterminée : hameaux, sanctuaires, fortifications, ou éléments d'une seule cité étendue. Les Nysariens (communication minimale avec Sorin Valthen) n'ont ni confirmé ni démenti la pluralité des établissements.
+- Observations à distance par cristaux d'Astravia : au moins **trois sites lumineux secondaires** sur l'île, à une ou deux lieues de Nysoris.
+- Nature indéterminée : hameaux, sanctuaires, fortifications, ou éléments d'une seule cité étendue. Les Nysariens (communication minimale avec les rares visiteurs) n'ont ni confirmé ni démenti la pluralité des établissements.
 
 ---
 
@@ -143,5 +143,5 @@ Trois traits documentés :
 - **Les Bouteilles Codées** : selon un érudit de Thalmaris, les messages des bouteilles ne paraissent pas distribués au hasard ; sa lecture (débattue) propose un **code** réparti sur plusieurs centaines de bouteilles collectées sur des décennies. La portion reconstituée s'interprète comme un avertissement : ce que les officiants veillent relèverait d'une garde, non d'une possession. Attribution jugée prématurée par d'autres érudits. Les bouteilles ont cessé d'arriver vers les côtes tyndariennes il y a plusieurs décennies, sans cause confirmée.
 - **Le Lien avec Baelor** : les archives des plus anciens monastères de Baelor mentionnent un masque de pierre sombre, de facture rappelant ceux que les fragments attribuent au Cercle des Masques. Datation (selon les abbés) antérieure à la fondation des deux institutions ; origine sans résolution dans les archives consultables.
 - **L'Île Mouvante** : plusieurs navigateurs expérimentés rapportent que les relèvements de Nysaria ne se recoupent pas exactement d'une décennie à l'autre ; estimation d'une dérive de quelques mètres par an. Interprétations divergentes selon les nations : mouvement réel, ou dérive de procédure cartographique.
-- **La séquence** : selon le journal de Sorin Valthen, le portail nysarien serait **le dernier** d'une séquence de sept points de perméabilité, dont six auraient été perdus ou scellés pendant l'Arrachement (écho à des textes mystiques de Celethor). Aucune liste documentée des sept points n'a été établie : la séquence est connue par sa fonction, pas par sa géographie.
+- **La séquence** : selon le cahier du cartographe ulinorien de l'an 244, le portail nysarien serait **le dernier** d'une séquence de sept points de perméabilité, dont six auraient été perdus ou scellés pendant l'Arrachement (écho à des textes mystiques de Celethor). Aucune liste documentée des sept points n'a été établie : la séquence est connue par sa fonction, pas par sa géographie.
 - **Les amulettes circulantes** : amulette de pierre noire (petite, tenue en main, gravée de symboles rattachés par certains à la troisième langue) apparaissant parfois sur les marchés de Nectoria et de Sondaris, sans provenance avouée. Remarquées au cou de plusieurs voyageurs revenant de Nysaria ; semblent pulser à la même fréquence que le Mont Cendra.

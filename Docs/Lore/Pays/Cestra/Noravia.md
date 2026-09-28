@@ -49,7 +49,7 @@ needs_review_for: [datations-précises, démographie-fine]
 | **Le Foyer-Ferme** | Habitations groupées autour de la cheminée centrale | Treize foyers ; chaque famille a sa pièce |
 | **L'Atelier des Os** | Travail des os de créatures marines | Outils, charpente, ornements ; pas d'objets de prestige |
 | **La Réserve de Cire** | Bougies et lampes pour l'Hivernage | Une lampe par foyer ; pas de surplus |
-| **Le Cabinet d'Archive** | Registres minimaux du Conseil et chemises documentaires | Tenu par Sethiran depuis l'an 219 du Sillage |
+| **Le Cabinet d'Archive** | Registres minimaux du Conseil et chemises documentaires | Tenu par Sethiran depuis l'an 236 du Sillage |
 
 - Aucun bâtiment ne dépasse deux étages.
 - Matériaux : pierre de la Paroi ; bois de pin nordique (Skaldoria, Alkaran) ; os du Grand Os (créature marine qui s'échoue parfois à la pleine marée d'automne).
@@ -113,7 +113,7 @@ Aucune religion dominante. Composition :
 ### Sethiran, érudit caeloria
 
 - Seul prêtre caeloria connu de Noravia (an 184-?).
-- Arrivé en l'an 218 du Sillage, après un séjour à Caeloria-Ville où il aurait mal supporté l'instrumentalisation des fidèles ; n'est jamais reparti, n'a jamais prêché.
+- Arrivé en l'an 235 du Sillage, après un séjour à Caeloria-Ville où il aurait mal supporté l'instrumentalisation des fidèles ; n'est jamais reparti, n'a jamais prêché.
 - Installé dans une pièce attenante au Cabinet d'Archive ; conserve des **chemises documentaires** sur les voyageurs de passage (noms, dates, intentions, parfois derniers mots avant départ vers le glacier).
 - Ne vend pas ses chemises ; les transmet sans contrepartie à qui pose la bonne question. Fonction considérée comme utile, pas comme acte de mission.
 - Ne discute pas de doctrine ; répond brièvement aux fidèles d'Ordo Caelum de passage et change de sujet.
@@ -147,9 +147,9 @@ Aucune religion dominante. Composition :
 
 ### Borela, cartographe
 
-- Cartographe à Noravia depuis l'an 215 du Sillage (an 178-?). Née à Skaldoria, venue jeune après une rupture non explicitée ; admise après ses trois hivers.
+- Cartographe à Noravia depuis l'an 215 du Sillage (vers 190-?). Altram, venue jeune après une rupture non explicitée ; admise après ses trois hivers.
 - Fonction : tenir la carte locale (crique, périmètre habituel, falaise, sentiers de pêche, zones d'alerte). N'établit pas de cartes du No Man's Land.
-- Conserve depuis l'an 230 une **lettre laissée par un cartographe de passage, Aldric Valthen**, parti ce printemps-là vers le Glacier Central et jamais revenu. Lettre destinée à son fils, s'il passait par Noravia. Borela ne l'a jamais ouverte ; conservée vingt et un ans. Transmise à son destinataire en l'an 251 du Sillage, sans annonce. (Voir [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]] et arc Sorin ch. 37.)
+- Conservait depuis l'an 230 une **feuille laissée par un cartographe de passage, Aldric Valthen**, qui avait dormi trois nuits dans sa chambre du fond avant de partir vers le Glacier Central, sans retour consigné. Feuille pliée en quatre, pour son fils s'il passait par Noravia ; conservée vingt et un ans. Remise en l'an 251 à Sorin Valthen, au retour de celui-ci du surplomb du Jumeau. (Voir [[../../Histoires/Cestra/Noravia|Histoires/Cestra/Noravia]] et Chroniques, C/33-34.)
 
 ### Traits culturels
 
@@ -182,5 +182,5 @@ Aucune religion dominante. Composition :
 - **Pression des prospecteurs** — chaque génération, des marchands proposent au Conseil de relâcher la politique de retenue ; refus à chaque fois. Question récurrente.
 - **La Chose Sous le Glacier Central** — peu évoquée ; consigne pratique (non doctrinale) : ne pas s'aventurer trop au nord, « on ne va pas voir ».
 - **Accord chamanique** — accord tacite supposé entre certains Chamanes des Brumes et le Conseil : aucune expédition partie de Noravia n'est ciblée par les Gardiens de Givre tant qu'elle reste dans certaines zones. Non confirmé publiquement par le Conseil ni les chamanes.
-- **Lettre conservée par Borela** — connue de quelques anciens du Conseil, jamais répertoriée officiellement ; Borela a refusé tout archivage. Transmise à son destinataire en l'an 251 du Sillage, sans annonce. Voir arc Sorin ch. 37.
+- **Lettre conservée par Borela** — connue de quelques anciens du Conseil, jamais répertoriée officiellement ; Borela a refusé tout archivage. Remise à son destinataire en l'an 251 du Sillage, au retour de celui-ci du Jumeau. Voir Chroniques, C/34.
 - **Registre de Maintien et ses oublis** — décisions consignées brièvement ; certaines pages présentent des espaces blancs (décisions jamais inscrites) ; plusieurs feuillets des années 180-187 ont été arrachés. Personne ne demande pourquoi.

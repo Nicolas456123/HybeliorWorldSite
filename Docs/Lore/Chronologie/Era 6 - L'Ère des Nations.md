@@ -663,7 +663,7 @@ Parmi les cas documentés les plus enigmatiques de l'Ère VI figure l'expéditio
 | **Haldria** | Endora | Protectorat d'Haldros | ~9 300 ap.A |
 | **Iskara** | Alkaran | Protectorat des Passes | ~9 400 ap.A |
 | **Arkhen** | Cendara | Ligue des Villes Libres | ~9 400 ap.A |
-| **Myrtam** | Onara | Principaute de Solvar | ~9 400 ap.A |
+| **Myrtam** | Alkaran | Principaute de Solvar | ~9 400 ap.A |
 | **Skaldoria** | Ulinor | Ligue Yurrak | ~9 400 ap.A |
 | **Vytharia** | Ilthara | Conféd. Rêves Nommés | ~9 400 ap.A |
 | **Sylvara** | Evertia | Federation des Lisieres | ~9 400 ap.A |

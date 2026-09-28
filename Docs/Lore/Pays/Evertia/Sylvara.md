@@ -140,14 +140,14 @@ Hameau le plus isolé du nord, dans une dépression boisée presque inaccessible
 
 ### Aerith — Nœud des Saigneurs
 
-Hameau central des Ruelles Vertes, le plus dense du pays après l'Arbre-Mère. Point de regroupement des saigneurs avant les saisons de coupe. Grande aire commune sous toit de feuillages tressés servant de marché tacite : dépôt des barils de sève, reprise des outils communs, relevé oral des arbres en repos. Homonymie ancienne avec le druide Aerith d'Evertia (cf. Sorin ch. 30) : hameau attesté depuis au moins quatre générations, sans rapport direct documenté, du fait d'une racine sylvarain-evertien commune (*aer* = bois clair, *ith* = lieu).
+Hameau central des Ruelles Vertes, le plus dense du pays après l'Arbre-Mère. Point de regroupement des saigneurs avant les saisons de coupe. Grande aire commune sous toit de feuillages tressés servant de marché tacite : dépôt des barils de sève, reprise des outils communs, relevé oral des arbres en repos. Homonymie ancienne avec le druide Aerith d'Evertia (cf. Chroniques, C/24) : hameau attesté depuis au moins quatre générations, sans rapport direct documenté, du fait d'une racine sylvarain-evertien commune (*aer* = bois clair, *ith* = lieu).
 - Population : Hameau-marché (≈ 600 habitants permanents, jusqu'à 1 200 en saison)
 - Région : Ruelles Vertes
 - Particularités : aire commune ; comptoir de barils ; archives orales des arbres.
 
 ### Marvet — Camp de la Rive Sud
 
-Camp permanent (non hameau) de saigneurs spécialisés dans la sève d'arbres-en-bordure, le long d'une rive boueuse. Cinq à douze cabanes basses, bois noirci par la résine, cuves en métal récupéré chez les marchands thalmariens. Nommé d'après le saigneur le plus ancien, Marvet (cf. Sorin ch. 31). Camp existant depuis trois générations, plusieurs reconfigurations. La guilde thalmarienne des herboristes (acheteuse) comptabilise officiellement *douze saigneurs* alors qu'ils sont **cinq** en 252 ; l'écart permet de rapporter une production *par saigneur* artificiellement basse à Ostarith et de payer le baril moins cher. Les cinq saigneurs réels supportent la charge de douze. Détail confié par Marvet à Sorin Valthen en 252 et consigné par lui.
+Camp permanent (non hameau) de saigneurs spécialisés dans la sève d'arbres-en-bordure, le long d'une rive boueuse. Cinq à douze cabanes basses, bois noirci par la résine, cuves en métal récupéré chez les marchands thalmariens. Nommé d'après le saigneur le plus ancien, Marvet (cf. Chroniques, C/25). Camp existant depuis trois générations, plusieurs reconfigurations. La guilde thalmarienne des herboristes (acheteuse) comptabilise officiellement *douze saigneurs* alors qu'ils sont **cinq** en 250 ; l'écart permet de rapporter une production *par saigneur* artificiellement basse à Ostarith et de payer le baril moins cher. Les cinq saigneurs réels supportent la charge de douze. Détail confié par Marvet à Sorin Valthen en 250 et consigné par lui.
 - Population : Camp (≈ 5 saigneurs permanents)
 - Région : Ruelles Vertes (rive sud)
 - Particularités : sève amère depuis 18 mois ; comptabilité dévoyée par la guilde thalmarienne ; saigneurs surchargés.
@@ -180,9 +180,9 @@ Hameau de la frontière nord avec Evertia. Seul lieu de Sylvara où les Gardiens
 
 ## Secrets et intrigues
 
-- **Le goût amer de la sève.** Attesté depuis 18 mois, signalé par Voix-de-Pierre à Sorin (ch. 31), confirmé par les guérisseurs de Sélyandris et par Eilwen aux Mains Vertes. Nature exacte du changement non comprise. Les guérisseurs thalmariens compensent en augmentant les doses ; les saigneurs sylvarains en saignant plus d'arbres — double compensation qui accélère le déséquilibre. Eilwen a demandé aux Cantori thalmariens de chanter plus souvent à l'Arbre-Mère, non pour accélérer la production mais *pour écouter la fréquence qui change* ; les Cantori ont accepté sans poser de questions.
+- **Le goût amer de la sève.** Attesté depuis 18 mois, signalé par Voix-de-Pierre à Sorin (C/25), confirmé par les guérisseurs de Sélyandris et par Eilwen aux Mains Vertes. Nature exacte du changement non comprise. Les guérisseurs thalmariens compensent en augmentant les doses ; les saigneurs sylvarains en saignant plus d'arbres — double compensation qui accélère le déséquilibre. Eilwen a demandé aux Cantori thalmariens de chanter plus souvent à l'Arbre-Mère, non pour accélérer la production mais *pour écouter la fréquence qui change* ; les Cantori ont accepté sans poser de questions.
 
-- **La note grave de l'Arbre-Mère.** Voix-de-Pierre a entendu, lors de la session du soir d'il y a deux semaines (compté depuis Sorin ch. 31), une note plus basse que jamais entendue à Sylvara, hors du registre habituel de l'arbre ; il l'interprète comme la fréquence propre de la terre vibrant en réponse à *quelque chose en dessous*. Eilwen l'a sentie aussi. Aucune des deux n'a publié.
+- **La note grave de l'Arbre-Mère.** Voix-de-Pierre a entendu, lors de la session du soir d'il y a deux semaines (compté depuis Sorin, C/25), une note plus basse que jamais entendue à Sylvara, hors du registre habituel de l'arbre ; il l'interprète comme la fréquence propre de la terre vibrant en réponse à *quelque chose en dessous*. Eilwen l'a sentie aussi. Aucune des deux n'a publié.
 
 - **Les vieilles façons de Belindre.** Trois Mains Vertes en sept générations y ont enquêté ; trois ont rapporté que *quelque chose se taisait* sans préciser. Rumeur persistante jamais confirmée : les saigneurs de Belindre vénéreraient un *autre arbre*, gardé secret par les familles fondatrices et *plus ancien* que l'Arbre-Mère du Pacte. Si vraie, cette rumeur saperait sept générations de doctrine sylvaraine.
 

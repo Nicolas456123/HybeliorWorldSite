@@ -45,7 +45,7 @@ needs_review_for: []
 
 **An 250-252 — Apprenties dispersées.** Yltha à Mara-Vieille (Sourd-Bois), Sentha aux hautes terres orientales, autres dans des vallées non identifiées. Pas de coordination. Pas de doctrine. Veille.
 
-**An 252 — Passage de Sorin Valthen.** Le voyageur kharaziri traverse Ferrath par les mines (chapitre 10 du journal, *Les Mines*) — conjointement avec Iskara, la frontière étant peu marquée dans cette zone. Notation : *« Les mineurs entendent quelque chose. »* Sorin n'écrit rien sur Veshva (il ne savait pas qu'elle avait existé).
+**An 249 — Passage de Sorin Valthen.** Le voyageur kharaziri traverse Ferrath par les mines (chapitre 8 du journal, *Les Mines Silencieuses*) — conjointement avec Iskara, la frontière étant peu marquée dans cette zone. Notation : *« Les mineurs entendent quelque chose. »* Sorin n'écrit rien sur Veshva (il ne savait pas qu'elle avait existé).
 
 **Personnages historiques nommés :**
 - **Sept chefs sécessionnistes** (an 58, noms gravés à Vythoris ; certains lecteurs les ont déchiffrés : Korn, Vythar, Drevvan, Tomnir, Ostha, Yltheris, Saren — aucune autre source ne confirme)

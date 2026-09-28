@@ -645,12 +645,12 @@ Il est toujours à Drethorn. Ses élèves réussissent toujours. Et lui, chaque 
 
 ---
 
-## Invorial — « La Bonne Foi au Service d'une Règle Injuste » (an 251–252)
+## Invorial — « Le Code ne prévoit pas votre cas » (an 248)
 
-En l'an 251, un cartographe étranger nommé Sorin Valthen, tout juste banni des Bibliothèques de Kharazir, se présenta à l'Académie d'Invorial. Il voulait que la République des Plumes — l'organe éditorial de Lumasar — publie une cartographie sur laquelle il avait travaillé sept ans. Il fut reçu par le Premier Lecteur Verian Soth.
+En l'an 248, au quatorzième jour de son exil, un cartographe étranger nommé Sorin Valthen, tout juste révoqué des Bibliothèques de Kharazir, se présenta à l'Académie d'Invorial. Il voulait porter au Cénacle une demande d'enquête sur les inscriptions des tunnels de Rukhsar, et une publication assez large pour qu'on ne puisse plus la rappeler. Il attendit deux heures et demie au Bureau des Visiteurs Étrangers, puis fut reçu par l'Archiviste Verian Soth.
 
-L'entretien dura deux heures. Verian écouta avec une attention réelle, prit des notes, posa des questions précises, reconnut in petto la qualité du travail. Puis il expliqua, avec une politesse qui ne pouvait pas être feinte, que la règle de Lumasar voulait qu'aucune publication étrangère ne soit examinée par la République des Plumes sans lettre de créance d'une Bibliothèque accréditée. Sorin avait été révoqué ; sa lettre de créance était caduque. Verian ne pouvait pas déroger.
+L'exposé dura dix minutes. Verian écouta jusqu'au bout, prit des notes, posa deux questions justes, et reconnut que, si tout était exact, c'était une découverte d'importance. Puis il expliqua, sans mauvaise foi, qu'un chercheur sans patente ne peut pas déposer de demande d'enquête au Cénacle, et que le Cénacle ne peut pas s'associer à un homme visé par une notification de sympathie Catena Fracta. Il conseilla de chercher un parrain académique. *« Je suis navré. Le Code ne prévoit pas votre cas. »*
 
-Sorin écrivit plus tard : « Le décourageant, ce n'est pas la mauvaise foi. C'est la bonne foi mise au service d'une règle injuste. » La phrase circula sous le manteau dans certains cercles érudits, sans être attribuée. C'est l'un des résumés les plus dangereux qu'un visiteur ait jamais faits du pays.
+Sorin écrivit le soir même : *« Contre la mauvaise foi, j'aurais su quoi faire. »* Et il se souvint que, pendant sept ans, à Rukhsar, il avait lui-même appliqué des procédures sans poser plus de questions que Verian Soth.
 
-En l'an 252, Verian Soth est toujours Premier Lecteur. Il a refusé depuis deux autres dossiers similaires, appliquant la règle correctement à chaque fois. Il a vieilli. On dit, parmi ses subordonnés, qu'il dort moins. On ne dit rien d'autre.
+En l'an 251, Verian Soth est toujours Archiviste à Invorial. Il a refusé depuis deux autres dossiers similaires, appliquant la règle correctement à chaque fois. Il a vieilli. On dit, parmi ses subordonnés, qu'il dort moins. On ne dit rien d'autre.

@@ -29,8 +29,8 @@ du monde.
 
 ## Architecture (l'essentiel)
 
-- **L'Atrium** (graphe de connaissances) : `data/kg-base.json` (3121
-  entités, 1473 faits, 3963 liens ; committé, source de vérité) ⊕ overlay
+- **L'Atrium** (graphe de connaissances) : `data/kg-base.json` (3128
+  entités, 1473 faits, 3960 liens ; committé, source de vérité) ⊕ overlay
   Turso (éditions post-hoc).
   Moteur : `lib/kg-core.js`. Base SQLite locale `data/hybelior.db` (gitignorée,
   reconstruite par `npm run kg:db`), recherche FTS5 `lib/kg-store-sqlite.js`.
@@ -57,11 +57,19 @@ du monde.
   `NODE_PATH=<repo>/node_modules`), envoyer les captures à l'utilisateur.
 - Jamais de reseed du graphe sans `KG_RESEED=1` (destructif).
 - **Raccord livres ↔ Atrium** : après toute retouche d'un livre,
-  `node scripts/verifier-raccord.js --detail`. Au 2026-09-23 : 1 815 citations
-  ancrées, 1 804 exactes, 11 légitimes (intitulés d'arbitrage, lore hors livres) ;
+  `node scripts/verifier-raccord.js --detail`. Au 2026-09-28 : 1 820 citations
+  ancrées, 1 809 exactes, 11 légitimes (intitulés d'arbitrage, lore hors livres) ;
   0 renvoi cassé. Une citation qui tombe désigne la fiche à reprendre. Les
-  contradictions ENTRE chapitres que l'Atrium ne peut pas trancher seul sont au
-  registre, §12 ; l'ancien lore que les romans démentent, §13.
+  contradictions entre chapitres et l'ancien lore (registre §12, §13) ont été
+  tranchés le 2026-09-28 (registre, I).
+- **Trajets des personnages** : `data.parcours` des fiches (calque « trajets » de
+  la Carte vivante, `kget({action:'parcours'})`), jugés par
+  `node scripts/verifier-trajets.js --ecrire` à l'échelle de l'auteur (1 000 km
+  de bord à bord, 1 u ≈ 0,955 km, 1 lieue ≈ 4,19 u, `lie-1059`). Au 2026-09-28 :
+  183 tronçons, 0 impossible, 0 lent. Après toute retouche d'une durée dans un
+  livre, recaler l'étape et relancer. Une lenteur que le texte explique porte
+  `lenteur_dite` ; les positions inventées vont dans
+  `data.carte.position_estimee`, jamais dans `coord_x/y`.
 - Écriture des livres : charger le skill **`reecriture-livres`**, qui porte
   toute la manière (`SKILL.md`, `POETIQUE.md`, `VOIX.md`). Les cinq bibles ont
   été retirées du dépôt le 2026-09-22 : leur poétique est dans le skill, leurs

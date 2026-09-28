@@ -68,7 +68,7 @@ needs_review_for: []
 Religion principale : Ignis Aeternum (autorité doctrinale continentale). Cf. fiche [[Religions/Ignis Aeternum|Ignis Aeternum]] pour la doctrine complète. Traits propres à Pyrevane :
 
 - **Forge-Liturgies maximalistes** : chaque acte de forge est entouré de formules, aucun coup de marteau n'est neutre. Saturation rituelle distinguant un Ignitari pyrevanien d'un Ignitari brumarien (rite plus relâché, pragmatique, mêlé de superstition populaire).
-- **Veillées Lunaires fastueuses** : les sept Forge-Temples allument simultanément à chaque pleine lune. Les sept lueurs sont visibles la nuit depuis Aïkhar (Arkhen), à plus de soixante lieues — signal d'autorité continentale.
+- **Veillées Lunaires fastueuses** : les sept Forge-Temples allument simultanément à chaque pleine lune. Les sept lueurs sont visibles la nuit depuis Aïkhar (Arkhen), à plus de vingt lieues — signal d'autorité continentale.
 - **Voix sous les Cendres** : gardienne de la pulsation (fonction rare, prestigieuse, dangereuse).
 - **Conseil des Sept Feux** : autorité doctrinale.
 - **Délies de la Flamme** : courant dissident activement chassé (cf. *Secrets et intrigues*).

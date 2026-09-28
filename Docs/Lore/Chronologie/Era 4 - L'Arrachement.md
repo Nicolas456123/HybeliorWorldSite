@@ -26,9 +26,9 @@ Les chroniques rapportent, dans les jours et décennies suivants, des **modifica
 Plusieurs continents subissent dans la période des transformations brutales que les chroniqueurs rattachent à ce Cardinal :
 
 - Le **Gouffre d'Endora** s'ouvre dans le sud du continent (fissure de plusieurs kilomètres de profondeur, encore active).
-- **Cendara** voit ses côtes méridionales s'effondrer sur trois cents lieues — naissance de la **Mer Cassée**.
+- **Cendara** voit ses côtes méridionales s'effondrer sur une dizaine de lieues — naissance de la **Mer Cassée**.
 - Sur **Onara**, plusieurs vallées s'élèvent, formant les **Crêtes de Sel** actuelles.
-- Sur **Cendara**, le **Mont Cendra** est remodelé par une éruption majeure — un nouveau cône volcanique d'environ 200 m plus haut que l'original, une caldera ouverte qui crache des gaz pendant des décennies. La zone reste inhabitable dans un rayon de 50 km pendant ~150 ans.
+- Sur **Cendara**, le **Mont Cendra** est remodelé par une éruption majeure — un nouveau cône volcanique d'environ 200 m plus haut que l'original, une caldera ouverte qui crache des gaz pendant des décennies. L'île du Mont reste inhabitable tout entière pendant ~150 ans.
 
 ### 1.3 Cités durablement transformées
 
@@ -169,9 +169,9 @@ Cette scission n'est jamais résolue. Les deux factions coexistent au sein des V
 
 Avant la période rattachée à ce Cardinal, le Mont Cendra était un objet de vénération mais non de culte permanent : trop brûlant, trop instable. L'Union des Flammes y envoyait des expéditions rituelles annuelles — des Liés de Flamara escaladaient le flanc jusqu'à la zone de chaleur intense, y brûlaient des offrandes, redescendaient.
 
-Après, l'éruption majeure laisse le Mont transformé : un nouveau cône volcanique ~200 m plus haut que l'original, une caldera ouverte crachant des gaz pendant des décennies. La zone dans un rayon de 50 km est inhabitable pendant 150 ans.
+Après, l'éruption majeure laisse le Mont transformé : un nouveau cône volcanique ~200 m plus haut que l'original, une caldera ouverte crachant des gaz pendant des décennies. L'île du Mont est inhabitable tout entière pendant 150 ans.
 
-Vers ~300 ap.A, des moines d'un proto-culte qui deviendra plus tard la **Via Ignea** s'installent sur le flanc sud, à 30 km, et fondent un premier sanctuaire. Leur théologie : le Mont serait *puni par Flamara lui-même* pour avoir servi de scène à un Cardinal d'amplitude exceptionnelle. Flamara punit la pierre, pas les humains — les humains peuvent approcher. Cette théologie inversée — Flamara comme juge qui punit le lieu, non les personnes — est typique des rationalisations post-Cardinal.
+Vers ~300 ap.A, des moines d'un proto-culte qui deviendra plus tard la **Via Ignea** s'installent sur le flanc sud, près de la côte, et fondent un premier sanctuaire. Leur théologie : le Mont serait *puni par Flamara lui-même* pour avoir servi de scène à un Cardinal d'amplitude exceptionnelle. Flamara punit la pierre, pas les humains — les humains peuvent approcher. Cette théologie inversée — Flamara comme juge qui punit le lieu, non les personnes — est typique des rationalisations post-Cardinal.
 
 ### 4.2 Les Fosses de Lithane (Alkaran)
 

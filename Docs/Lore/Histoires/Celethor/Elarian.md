@@ -217,7 +217,7 @@ Les trois noms sont dans les archives de Frosthal. Aucun Forgeron-Thane n'a, dep
 
 L'un des trois était une jeune chasseuse de seize ans, **Ingrid Frelvar**. Elle leva la main parce qu'elle n'avait pas compris pourquoi vingt-six soldats refusant un ordre injuste devaient être Effacés. Personne ne lui répondit. Elle leva la main. Elle s'assit. Elle ne demanda pas d'explication.
 
-Trente-huit ans plus tard, en l'an 251 — l'année où Sorin Valthen passa par Lysorn —, Ingrid était une vieille femme de cinquante-quatre ans qui vivait à Frosthal et fabriquait des cordes. Personne ne lui parlait jamais du Thing de 213. Personne ne lui demandait pourquoi elle s'était abstenue.
+Trente-huit ans plus tard, en l'an 251, Ingrid était une vieille femme de cinquante-quatre ans qui vivait à Frosthal et fabriquait des cordes. Personne ne lui parlait jamais du Thing de 213. Personne ne lui demandait pourquoi elle s'était abstenue.
 
 Elle ne le formula jamais elle-même. Mais quand son petit-fils lui demanda un soir, en passant devant la salle du Thing, ce qu'elle avait *vraiment* pensé du jour où elle s'était abstenue, elle réfléchit longtemps.
 
@@ -231,6 +231,6 @@ Ingrid mourra en l'an 263. Sa main levée au Thing de 213 ne déclenchera jamais
 
 ## Thaldris (an 251) — « Nous ne nous plaignons pas du froid »
 
-À l'époque du passage de Sorin Valthen, en l'an 251, la Confédération était gouvernée par le Jarl Suprême Hrothgar VII, descendant direct du fondateur. Un homme dans la cinquantaine, marqué par les hivers, lent à parler et prompt à écouter.
+En l'an 251, la Confédération était gouvernée par le Jarl Suprême Hrothgar VII, descendant direct du fondateur. Un homme dans la cinquantaine, marqué par les hivers, lent à parler et prompt à écouter.
 
-Quand Sorin l'interrogea sur les anomalies climatiques qu'il avait observées, Hrothgar VII répondit : « nous ne nous plaignons pas du froid. » La phrase est l'une des plus citées de son règne. Gravée dans les Tablettes de Thaldris, elle s'y lit de trois manières — austérité, refus, déni. Aucune des trois n'est officielle.
+Quand un voyageur étranger l'interrogea sur les anomalies climatiques qu'il avait observées, Hrothgar VII répondit : « nous ne nous plaignons pas du froid. » La phrase est l'une des plus citées de son règne. Gravée dans les Tablettes de Thaldris, elle s'y lit de trois manières — austérité, refus, déni. Aucune des trois n'est officielle.

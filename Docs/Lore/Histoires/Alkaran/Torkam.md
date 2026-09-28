@@ -27,7 +27,7 @@ needs_review_for: []
 
 **An 220-250 — Apparitions des Quarante-Sept Tentes.** Chaque année, à la même période, hors saison de Conseil, quarante-sept tentes spectrales se dressent dans la cuvette d'Olkanor. Davan, gardien d'Olkanor, et la Grande Chamane Nareth identifient en 232 le phénomène comme manifestation de la treizième tribu effacée. Le nom à prononcer pour les libérer est inconnu.
 
-**An 252 — Présent.** Tensions avec la tribu des Flammes en hausse. Sorin Valthen a traversé Torkam en venant de Myrtam : entré par les hautes plaines, il a voyagé avec la caravane de Yalnis jusqu'à Faldor, puis gagné Olkanoris — où la Grande Chamane Nareth l'a reçu — et poussé jusqu'à Valdarin, dans le désert de Qythros, avant de repartir vers Ulinor (Skaldoria).
+**An 252 — Présent.** Tensions avec la tribu des Flammes en hausse. Sorin Valthen a traversé Torkam en l'an 249, entre Iskara et Myrtam : entré par les hautes plaines, il a voyagé avec la caravane de Yalnis jusqu'à Faldor, puis gagné Olkanoris — où la Grande Chamane Nareth l'a reçu — et poussé jusqu'à Valdarin, dans le désert de Qythros, avant de gagner les forges de Myrtam par les hauteurs pelées (Chroniques, C/9).
 
 **Personnages historiques nommés :**
 - **Zarek l'Unificateur** — premier Grand Cham, ~-30 à 0 (fondation et règne)

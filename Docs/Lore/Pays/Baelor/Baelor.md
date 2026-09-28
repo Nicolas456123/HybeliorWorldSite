@@ -19,7 +19,7 @@ needs_review_for: []
 | **Culture dominante** | Moines-guerriers silencieux, peuple unique de l'île |
 | **Histoire marquante** | La Défense du Monastère de Kethros |
 | **Ressources clés** | Encens rare, parchemins enluminés, herbes de méditation, sel marin de Tholmë, pierre noire de basalte |
-| **Population estimée** | Environ 18 000 âmes (Silentii et apprentis : ~9 000 ; familles côtières : ~6 000 ; bergers et tailleurs des hauteurs : ~3 000) |
+| **Population estimée** | Environ 3 000 âmes (Silentii et apprentis : ~1 600 ; familles côtières : ~1 100 ; bergers et tailleurs des hauteurs : ~300) |
 
 ---
 
@@ -143,19 +143,19 @@ L'île n'est pas divisée administrativement : Baelor est une seule **région** 
 
 ### Baeloris — Complexe monastique principal
 Complexe monastique sur tout le flanc d'une falaise, descendant en plusieurs niveaux sous la mer : labyrinthe de cellules, salles de méditation, cours d'entraînement et bibliothèques reliés par des passages taillés dans la roche noire. Au sommet, la **Salle du Silence** (espace circulaire ouvert au ciel) sert aux rituels les plus importants ; l'Abbé Suprême y réside. Fondé à mains nues par les premiers moines en exil (arrivés sans outils ni matériaux), sculpté sur plusieurs générations ; refus du commerce extérieur puis refus des outils une fois disponibles (la lenteur du travail tenue pour formatrice). Chaque cellule creusée par son habitant.
-- Population : ~3 500 (Silentii confirmés ~1 800, novices et apprentis ~1 200, familles côtières de la crique ~500)
+- Population : ~900 (Silentii confirmés ~500, novices et apprentis ~300, familles côtières de la crique ~100)
 - Région : BaelorRegion
 - Particularités : Salle du Silence ouverte au ciel · Bibliothèque centrale (la plus vaste de l'île) · **Salle Scellée** (cf. *Secrets et intrigues*) · Source Sourde (alimentation en eau, jamais tarie)
 
 ### Thyldris — Monastère côtier
 Second monastère, sur un promontoire face à la mer ; bastion des Veilleurs (défense côtière). Postes d'observation répartis sur la falaise, communication par drapeaux et miroirs ; les moines-guerriers les plus talentueux y perfectionnent leur art. Bâti après la Défense du Monastère de Kethros, l'attaque de Draven le Sanguinaire ayant pu approcher faute de surveillance maritime systématique ; l'Abbé de l'époque érigea l'observation permanente en forme de méditation.
-- Population : ~600 (Veilleurs ~400, apprentis ~200, aucune famille civile)
+- Population : ~150 (Veilleurs ~100, apprentis ~50, aucune famille civile)
 - Région : BaelorRegion
 - Particularités : Postes d'observation sur toute la côte est · Bibliothèque des Veilleurs (séparée de Baeloris depuis trois siècles) · Cellule de Sœur Kael, conservée intacte depuis sa disparition
 
 ### Tholmë — Ville côtière et cloître
 Seul établissement non strictement monastique ressemblant à une ville ; sur la côte sud, entre marais salants et cloître creusé dans la falaise basse. Ateliers d'enluminure les plus réputés de Baelor ; communauté civile (pêcheurs, saliniers, tailleurs) plus large qu'ailleurs. Fondée ~deux siècles après Baeloris pour servir de point de contact commercial avec Tyndara, moins strictement monastique que la crique nord ; pratique orientée vers l'écriture et l'enluminure. Foyer de l'**école du Premier Voile** aux IIe et IIIe siècles, et point de départ de la retraite de treize ans d'**Hesvar** (grotte de la côte ouest).
-- Population : ~4 200 (Silentii ~800, apprentis ~400, civils ~3 000)
+- Population : ~1 000 (Silentii ~200, apprentis ~100, civils ~700)
 - Région : BaelorRegion
 - Particularités : Plus grand atelier d'enluminure de l'île · Marais salants · Bibliothèque centrale du Premier Voile (officieuse) · Niche conservant la **lamelle non scellée d'Hesvar**
 
@@ -184,7 +184,7 @@ Lac d'eau claire à une quarantaine de mètres au-dessus de la mer, là où la m
 - Particularités : Cascade tombant droit dans la mer · Promontoire d'environ 115 m percé d'une arche · Crique de galets noirs et grotte marine au sud de l'angle · Aucune vertu attestée à son eau
 
 ### Hameaux côtiers (10 à 12 hameaux non répertoriés au CSV)
-Le long des côtes ouest et sud : une douzaine de hameaux de pêcheurs et saliniers de 50 à 300 habitants chacun. Aucun cloître attaché ; tous suivent le silence atténué de la culture côtière. Aucun nom retenu par les chroniques externes (noms internes non transmis aux visiteurs).
+Le long des côtes ouest et sud : une douzaine de hameaux de pêcheurs et saliniers de quinze à cinquante habitants chacun. Aucun cloître attaché ; tous suivent le silence atténué de la culture côtière. Aucun nom retenu par les chroniques externes (noms internes non transmis aux visiteurs).
 
 ---
 
@@ -194,7 +194,7 @@ Le long des côtes ouest et sud : une douzaine de hameaux de pêcheurs et salini
 |------|----------|---------|
 | **Tyndara** | Non-agression tacite et commerce limité | Les navires tyndariens respectent les eaux de Baelor. Commerce de sel, riz et fer via Tholmë. Aucune tension significative depuis trois siècles. |
 | **Caeloria (Lunasar)** | Reconnaissance silencieuse | Les oracles de Caeloria reconnaissent une parenté lointaine entre la pratique des Enfants aux Yeux Blancs et l'écoute baelorienne. Échanges de manuscrits enluminés (offerts, jamais vendus) ~deux fois l'an. Aucun contact officiel. |
-| **Nysaria** | Curiosité réciproque, discrète | Intérêt partagé pour le silence et l'écoute. Aucun contact officiel. Rumeurs persistantes de passages secrets de moines entre Baelor et Nysaria, jamais confirmées. La fréquence ressentie par Sorin à Baeloris (cf. ch. 36) suggère que les deux îles partagent quelque chose d'antérieur aux moines. |
+| **Nysaria** | Curiosité réciproque, discrète | Intérêt partagé pour le silence et l'écoute. Aucun contact officiel. Rumeurs persistantes de passages secrets de moines entre Baelor et Nysaria, jamais confirmées. La fréquence ressentie par Sorin à Baeloris (cf. C/30) suggère que les deux îles partagent quelque chose d'antérieur aux moines. |
 | **Ulinor** | Indifférence | Aucun contact significatif. Les tribus d'Ulinor ignorent l'existence de Baelor. |
 | **Solena, Lumasar, Astravia, Vytharia** | Tolérance des retraites payantes | Quelques nobles fortunés font des "retraites de silence" payantes dans certains cloîtres de Tholmë et Velkadra. Pratique tolérée et controversée. (cf. *Tensions internes*) |
 | **Cestra** | Aucun contact | Froid au nord ; les routes maritimes nord ne passent pas par Baelor. |
@@ -233,4 +233,4 @@ Le long des côtes ouest et sud : une douzaine de hameaux de pêcheurs et salini
 - **La Carte des Cairns** : sur le plateau central (Voile bas), une trentaine de cairns marquent des passages anciens d'origine inconnue. Entretenus par les bergers (chacun replace la pierre tombée dans l'année), sans discussion. Une carte précise dressée par un berger de la fin du IIe siècle existerait, conservée dans une cache de la dorsale ; jamais consultée publiquement. Quelques moines d'Olfra la détiendraient.
 - **Le Moine Parlant** : à Baeloris, depuis plus d'un siècle, rumeur selon laquelle **un moine brise secrètement son vœu de silence**, murmurant chaque nuit des prières dans une langue inconnue. Récit le plus complet : **Histoire de Frère Ossian** (cf. *Histoires de Baelor — Le Murmure du Traître*). Possédé ou prophète selon les avis. L'Abbé Kethron VI a refusé qu'on l'amène devant la Salle Scellée (raison inconnue).
 - **L'Arme Ultime** : art martial secret enseigné aux seuls moines de rang supérieur — tuer **par l'absence de son** (vide acoustique parfait autour de la tête de l'adversaire, désorientation fatale). Utilisée trois fois dans l'histoire de Baelor (deux pendant la Défense du Monastère de Kethros, une dans une circonstance non rapportée). Transmission strictement orale-gestuelle, aucun manuscrit.
-- **Le Vieux Moine Aux Cheveux Blancs** : accompagnateur de Sorin Valthen lors de ses cinq jours à Baeloris (cf. ch. 36 des Chroniques) ; nommé dans aucune source, inconnu même de l'interprète Sera. Spéculation externe : Silentii très ancien — un homme proche de 120 ans —, peut-être l'aîné survivant des **Veilleurs Permanents** du Souffle des Yeux Ouverts (an 234) ; s'il l'était, il aurait déjà été un moine d'âge mûr lors de cet épisode, dix-sept ans avant le présent. Geste fait à Sorin sur le chemin du quai : « Revenez quand vous aurez lu la troisième langue ».
+- **Le moine du quai** : le moine qui accorda le quai à Sorin Valthen et l'accompagna pendant son attente à Baeloris (cf. Chroniques, C/30) ; la cinquantaine, peut-être davantage, le crâne rasé ; nommé dans aucune source. Spéculation externe : peut-être l'un des **Veilleurs Permanents** du Souffle des Yeux Ouverts (an 234). Au matin du départ, à mi-chemin du port, il rompit pour Sorin un silence de plusieurs dizaines d'années : « Vous n'êtes pas venu apprendre le silence. Vous êtes venu voir s'il tiendrait. »

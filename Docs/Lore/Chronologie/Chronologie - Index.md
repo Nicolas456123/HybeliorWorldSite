@@ -310,12 +310,12 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 
 | Continent | Nations |
 |-----------|---------|
-| **Alkaran** | Altram · Iskara · Ferrath · Torkam |
+| **Alkaran** | Altram · Iskara · Ferrath · Torkam · Myrtam |
 | **Galenor** | Kharazir · Ventera · Seraphia · Solena · Lumasar · Trinoria · Valoria |
 | **Ilthara** | Drakora · Gryndor · Pyrtara · Vytharia *(+ provinces Lunasar et Mirathi)* |
 | **Endora** | Haldria · Avalor · Sanvara · Endrath |
 | **Celethor** | Astravia · Orvalis · Halcyon *(+ Nysoris, cité-île de Nysaria au large de la côte est — polité insulaire rattachée à Celethor, hors du décompte des 36 nations continentales)* |
-| **Onara** | Mosrack · Myrtam · Elarath · Tyndara |
+| **Onara** | Mosrack · Elarath · Tyndara |
 | **Azoria** | Azoral · Kethvar · Solmaris · Caeloria |
 | **Cendara** | Brumaria · Pyrevane · Arkhen |
 | **Evertia** | Thalmaris · Sylvara |
@@ -324,7 +324,7 @@ Entités issues des interactions entre Cosmiques. Liste canonique GDD/17 (Pluvia
 | **Cestra** | Noravia *(seule colonie stable, fondée ~9 900 ap.A — bande côtière de 200 km uniquement, intérieur du continent = wildlands)* |
 
 > [!note] Décision D-LORE-NATIONS-CHEVAL
-> Iskara → Alkaran ; Myrtam → Onara ; Skaldoria → Ulinor ; Thalmaris → Evertia ; Haldria → Endora. Ces rangements ont été fixés en V3.1 et appliqués au `Chroniques/chroniques-index.json`.
+> Iskara → Alkaran ; Myrtam reste en Alkaran (C/9-10 et la carte démentent le rangement en Onara) ; Skaldoria → Ulinor ; Thalmaris → Evertia ; Haldria → Endora. Ces rangements ont été fixés en V3.1 et appliqués au `Chroniques/chroniques-index.json`.
 
 ---
 

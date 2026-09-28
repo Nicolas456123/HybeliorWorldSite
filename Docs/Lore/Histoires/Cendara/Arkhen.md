@@ -104,17 +104,7 @@ Karel sait qu'avec lui, ça finira. Aucun de ses fils ne pratiquera. Sa femme mo
 
 Karel n'en fait pas un drame. Il dit, quand on aborde le sujet — rarement — : *« Les choses finissent. C'est le métier des choses. »*
 
-En l'an 252, un homme est passé à Vorsalt. Un voyageur kharazirien grand et mince, qui faisait halte une nuit avant de reprendre le bateau pour la grande île. Il s'appelait **Sorin Valthen**. Karel ne l'a pas reçu chez lui — Vorsalt accueille à l'auberge, pas dans les maisons. Mais le matin, en partant, Sorin est passé devant la maison de Karel et a vu, par la fenêtre ouverte, la bougie blanche que Karel venait d'allumer.
-
-Sorin s'est arrêté. Il a regardé pendant peut-être trente secondes. Il n'a rien dit. Karel l'a vu, n'a pas réagi. Sorin est reparti.
-
-Plus tard, Karel a noté dans le petit cahier de comptes qu'il tenait pour son atelier (il vendait quelques poteries pour compléter sa pension) : *« passant kharazirien, regardé bougie, n'a rien dit. respectueux. »*
-
-Sorin, dans son *Carnet IV*, écrit le même jour : *« À Vorsalt, vu une bougie blanche allumée derrière une fenêtre. Je n'ai rien demandé. Le port s'appelle Vorsalt. »*
-
-Aucun des deux ne savait que l'autre l'avait noté. Aucun des deux ne saura, jamais. Mais leurs deux phrases, écrites à quelques heures d'intervalle, sont — pour qui pourrait les rapprocher — l'unique trace écrite d'une rencontre où **rien** ne s'est passé, et qui, dans ce *rien*, dit beaucoup.
-
-Le rite Foedus s'éteindra avec Karel. Sorin ne le saura pas. Personne ne le racontera.
+Le rite Foedus s'éteindra avec Karel. Personne ne le racontera.
 
 ---
 
@@ -186,7 +176,7 @@ Personne à Stephar ne se demande pourquoi cette cadence. C'est *« la manière 
 
 L'Ancien actuel de Stephar, **Korlin Vey**, a soixante-dix-huit ans. Il a, lui, une intuition différente. Il pense — sans en parler souvent — que la cadence du beurre suit *celle du sol*. Que le sol vibre, légèrement, à un rythme qu'on ne peut pas mesurer mais qu'on peut *suivre* avec un barattoir et une attention. Que le beurre n'a probablement rien à voir là-dedans, mais que faire le beurre est une bonne occasion de tenir la cadence.
 
-Korlin n'a aucune formation théologique. Il n'a jamais été à Pyrevane. Il a entendu parler du Mont Cendra — c'est à plus de cent lieues, sur la grande île —, mais c'est tout. Il ne fait pas le lien.
+Korlin n'a aucune formation théologique. Il n'a jamais été à Pyrevane. Il a entendu parler du Mont Cendra — c'est à une vingtaine de lieues, sur la grande île —, mais c'est tout. Il ne fait pas le lien.
 
 Quand un Vigilant pyrevanien finira par monter à Stephar — si jamais cela arrive un jour, ce qui n'est pas écrit — il découvrira en quinze minutes ce que les Pyrevaniens cherchent à mesurer depuis trois siècles : une cadence stable, transmise oralement, à quarante-six secondes environ avec variation, lue par des bergères à travers le sol.
 
@@ -226,13 +216,7 @@ L'auberge de Suie-Basse — un nom officiel qu'aucun document n'a jamais inscrit
 
 Les vingt-trois habitants permanents de Suie-Basse sont presque tous des Vortrim, des Tessen, ou des Karlith — trois familles qui se marient entre elles depuis un siècle et demi. La généalogie est tenue à jour par la matriarche actuelle de l'auberge, **Tessina Vortrim**, soixante-six ans, qui peut réciter, sans hésitation, les noms de toutes les personnes qui ont dormi à l'auberge depuis l'an 100 du Sillage. Ce n'est pas une exagération — elle peut, avec son cahier (qui est tenu depuis sept générations, écriture de la grand-mère puis de la mère puis d'elle-même), retrouver le nom de n'importe quel passant.
 
-La pratique a une raison technique : Suie-Basse étant un mouillage de fortune, il faut savoir si un voyageur a déjà fait défaut, s'il a payé, s'il était discret. Le cahier sert à cela. Il sert aussi, accessoirement, à autre chose.
-
-En l'an 252, le 19 du mois Vanir, un voyageur kharazirien grand et mince est arrivé à pied de Khalath. Il s'appelait **Sorin Valthen**. Il a payé son couchage à l'avance, dîné seul dans la salle commune, écrit dans un carnet pendant une heure, dormi sept heures, et reparti à l'aube par le bateau pour Suie-Haute. Tessina a noté, dans le cahier : *« Sorin Valthen, kharazirien, cartographe (dit-il), seul, paye comptant, lit beaucoup. Va à Suie-Haute. Discret. »*
-
-C'est la même Tessina qui, vingt-six ans plus tard — en l'an 278, donc bien après les événements de l'arc Sorin —, en relisant son cahier pour mettre à jour la généalogie après la mort d'un cousin, retombe sur cette ligne. Elle se souvient *vaguement* du voyageur. Elle ajoute, dans la marge, en encre plus pâle : *« Cf. Carnet IV de Lumasar (?). Demander à un savant. »*
-
-Tessina ne demandera à aucun savant. Elle mourra trois ans plus tard. Le cahier passera à sa fille **Selka Vortrim**, qui n'aura pas de raison d'enquêter. La marge restera. La ligne sur Sorin Valthen aussi. Personne, dans le monde, ne verra ce détail.
+La pratique a une raison technique : Suie-Basse étant un mouillage de fortune, il faut savoir si un voyageur a déjà fait défaut, s'il a payé, s'il était discret. Le cahier sert à cela. Il sert aussi, accessoirement, à autre chose : des passants que nul registre officiel n'a gardés y restent, une ligne chacun, et personne ne vient les chercher.
 
 C'est la mode arkhenienne d'archiver : sans projet, sans gloire, sans exhaustivité, mais sans rien jeter. Les choses *sont* là. Elles attendent. Si quelqu'un vient un jour les chercher, elles seront trouvées. Si personne ne vient, elles continueront d'être là. C'est suffisant.
 
@@ -262,6 +246,6 @@ Une seule personne dans le monde, à l'heure actuelle, a les deux informations :
 
 Mevren n'a jamais relié l'observation à la pratique délienne. Mais quand elle prépare la pâte de cendre froide pour la marque (préparation qu'elle a héritée de Khessa, qui l'avait mise au point), elle utilise *un peu de cendre fine apportée d'Ilnara* — pratique transmise par sa mère adoptive, sans explication. Khessa elle-même tenait cette technique de quelqu'un — sa propre mère ? un voyageur de passage ? — qui avait été à Ilnara dans le siècle d'avant.
 
-La chaîne existe. Personne ne la trace. Aucun document ne la consigne. Si elle se rompait demain, personne ne pourrait la reconstituer. Et pourtant la marque continue d'être posée, le cercle de cendre continue d'apparaître autour des Phénix mourants, et deux pratiques séparées par cinq cents lieues de mer continuent de respirer ensemble, sans le savoir.
+La chaîne existe. Personne ne la trace. Aucun document ne la consigne. Si elle se rompait demain, personne ne pourrait la reconstituer. Et pourtant la marque continue d'être posée, le cercle de cendre continue d'apparaître autour des Phénix mourants, et deux pratiques séparées par une mer continuent de respirer ensemble, sans le savoir.
 
 C'est, à Arkhen, la forme normale de la transmission spirituelle.

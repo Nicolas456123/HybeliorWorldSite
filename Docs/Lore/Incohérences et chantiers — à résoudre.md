@@ -204,18 +204,17 @@ des homonymies.
 
 ## II. Ce qui reste ouvert
 
-### 1. Les neuf faits de Sorin Valthen à l'an 252
+### 1. ~~Les neuf faits de Sorin Valthen à l'an 252~~ — RÉGLÉ le 2026-09-28
 
-Neuf faits portés par `per-0153` sont datés **10201 (an 252)** —
-`fac-0470`, `fac-0472`, `fac-0473`, `fac-0545`, `fac-0619`, `fac-0823`, `fac-0951`,
-`fac-0972`, `fac-1282` — au-delà de la borne du corpus : les Chroniques se ferment au
-jour 910, au début de l'**an 251**. La `data.periode` de Sorin en hérite (10181→10201).
-**Quatorze fiches** de `Docs/Lore/Pays/` et `Docs/Lore/Histoires/` écrivent de même
-« an 252 » (et « en 254 ») pour son voyage.
-
-⚠ **Un seul fait est légitimement à cette date** : `fac-1560`, le colophon du copiste
-de Prismalith (« la note est de 252, la copie de 251 », arbitrage n° 21). Il porte la
-mention en `data.note`. **Ne pas l'emporter dans un traitement en bloc.**
+Les faits avaient été redatés le 2026-09-27 ; le 28, le dernier (« Sorin à Nysaria »,
+`fac-0545`) est retiré — aucun chapitre ne l'y mène, le journal est continu de C/1 à
+C/38 — et la note du copiste (`fac-1282`) passe sur la copie (`obj-0008`). Les fiches
+de `Pays/` et `Histoires/` recopient désormais les dates des chapitres ; les passages
+qu'aucun chapitre ne raconte sont retirés (Nysaria, Lysorn/Elarian et `fac-0585`,
+Vorsalt, Suie-Basse, Cinderhold, le parchemin de Lunasar, la traversée d'Aïkhar à pied
+et son « Carnet IV », `obj-0027`). La période de Sorin s'arrête en 10200. **Seuls restent
+à 252 le colophon de Prismalith (`fac-1560`, légitime) et des faits qui ne concernent
+pas Sorin.**
 
 ### 2. ~~La fourchette du tome 2~~ — RÉGLÉ le 2026-09-28
 
@@ -458,27 +457,23 @@ T3/25) et **Neve / Nève** ; trois **Wenna** ; deux **Kessa** et une Kessa de Ve
 (deux moines de Baeloris) — **même personne ou non, incertain** ; **la Saint-Feu (Taldre,
 T3/10) / la Sainte-Braise (T2)** : deux fêtes de deux pays ; **Caëspia / Cëpias** (glossaire).
 
-### 13. Ce que l'Atrium hérite encore de l'ancien lore
+### 13. ~~Ce que l'Atrium hérite encore de l'ancien lore~~ — RÉGLÉ le 2026-09-28
 
-Ces fiches viennent des pages de pays et d'histoires écrites **avant** les romans, et les
-romans les démentent. L'Atrium doit trancher pour les livres ; c'est une réécriture de
-fiches, pas une retouche, d'où ce relevé.
-- **Verian Soth** (`per-0044`, `evt-0086`) daté 251-252, quand le C/2 le met au jour 14 de
-  l'an 248.
-- **La chemise de cuir marron** (`obj-0029`, `per-0170`, `lie-0297`) : dépôt d'Aldric chez
-  Sethiran en 220, remise à Sorin en 231, alors que les C/33-34 en font le journal
-  d'Aldris Vane (le C/37 penche pourtant vers la lecture de l'Atrium).
-- **Le parchemin de Lunasar** (`per-0194`) « conservé trente ans » et « la carte du
-  père » : le C/28 ne connaît ni parchemin ni recul d'Aldric devant Solvanes.
-- **Mylaris « an 252 »** (fiches de Brumaria) : l'an 252 est impossible, et Talvhar ouvre
-  à Sorin les tablettes du Temple au lieu de l'oublier.
-- **Naïm** : balayeur de Rukhsar dans l'histoire de la place (`evt-0073`, `lie-0523`),
-  lecteur d'archives de Prismalith au C/38 (`fac-1284`).
-- **`data.parcours` de Sorin** (`per-0153`) : huit étapes posées sur des capitales que
-  leurs chapitres ne visitent pas (Soltharis, Oranthor, Gyndor, Valtheria, Folgrad,
-  Fablioris, Ostarith, Duskoris).
-- **Myrtam** : les Chroniques et la carte le mettent en Alkaran (écart déjà assumé au
-  « Reste »).
+Verian Soth, la chemise marron (journal d'Aldris Vane, `obj-0029`), le parchemin de
+Lunasar, Mylaris, Naïm, le parcours de Sorin et Myrtam (**en Alkaran**, avec le Massif
+des Cendres Rouges, `lie-0058`) sont alignés sur les romans, dans l'Atrium et dans les
+fiches (40 fiches, 158 retouches ; Onara compte trois nations, Alkaran cinq). Doublons
+fusionnés : la lettre d'Aldric dans la feuille du père (`obj-0011`), Orneth dans Orneth
+de Thalmaris (`per-0869`). Les trois contradictions de dates du lore (Hjorm, Velna,
+Sera d'Ostrabis) sont levées : deux faits d'ancrage créés, un lien de filiation
+homonyme retiré (`lnk-1751`) — `inferer-dates` ne signale plus rien. Six lieux et
+personnages du T1 datés de l'an 251 ou de 9949 sont ramenés à l'An 0 ; la Forge-Basse du
+T2 (`lie-0650`) à 1465-1502.
+
+**Laissé, à surveiller** : `lnk-0429` fait succéder Myrtam à Solvar, principauté
+d'Onara — une fondation par-delà la mer, possible, que rien ne dément ; les fichiers
+Myrtam restent rangés sous `Pays/Onara/` et `Histoires/Onara/` (leurs chemins sont
+indexés dans `Docs/Lore/lore-index.json`).
 
 ### 14. L'échelle du monde (1 000 km) et la géographie construite
 
@@ -517,7 +512,7 @@ qui fait foi. Statuts : **ouvert** · **tranché** (décision prise, texte à é
 | A1 | `lie-1059` calait 1 u = 1 lieue (~4 000 km d'ouest en est). | Atrium | 0,955 km/u, 1 000 km de bord à bord ; la lieue reste une unité de récit. | **corrigé** : `lie-1059` (résumé, corps, `data.echelle_carte`) |
 | A2 | Les durées des Chroniques sont calées sur l'ancienne échelle. | Chroniques, T1 | Liste C ci-dessous, produite par `scripts/verifier-trajets.js`. | **corrigé** (2026-09-28) |
 | B1 | Baelor « ~300 lieues × ~150 », côte nord de « ~200 lieues ». | fiche Baelor - Continent, l. 15 et 31 | ~10 km sur 8, une cinquantaine de km² ; côte nord de ~8 km. | **corrigé** : fiche et sa copie dans `lie-0003` |
-| B2 | La cabane du berger est « à deux jours de marche de Baeloris ». | Histoires/Baelor, l. 208 ; corps de `lie-0003` | « À quelques heures de marche », ou « une longue journée par le Voile bas » si le brouillard doit peser. | tranché (deux jours sont impossibles) ; formule à choisir |
+| B2 | La cabane du berger est « à deux jours de marche de Baeloris ». | Histoires/Baelor, l. 208 ; corps de `lie-0003` | « À quelques heures de marche », ou « une longue journée par le Voile bas » si le brouillard doit peser. | **corrigé** (2026-09-28) : « à quelques heures de marche » |
 | B3 | Les postes de Thyldris couvrent « 7 lieues de côte » ; la côte est fait ~10 km. | fiche Baelor, l. 154 | « Sur toute la côte est ». | **corrigé** : fiche et `lie-0238` |
 | B4 | Baeloris posée à 0,76 u (730 m) dans les terres ; c'est une crique de la côte nord. | Atrium | Ramener sur la côte nord. | **corrigé** : `lie-0237` en (69,50 ; 251,05), `data.correction` |
 | B5 | Le lac Ce-qui-rend-le-ciel, relevé en (67,15 ; 251,36), déborde sur l'angle nord-ouest à la nouvelle échelle. | Atrium | Recentrer en (67,35 ; 251,44). | **corrigé** : `lie-1060` (le relevé disait `lie-0970`, numéro pris en amont) |
@@ -586,16 +581,16 @@ offre que ~65 du Mont à sa pointe nord.
 | Où | Le texte | La carte | Correction proposée | Statut |
 |---|---|---|---|---|
 | C/31 | « deux cents lieues de falaises noires » (Baelor) | côte nord de ~8 km | « deux lieues de falaises » | **corrigé** (2026-09-28) |
-| fiche Ulinor - Continent | « ~1200 km nord-sud » ; faille « sur plus de 400 km » | ~41 × 71 km | ~70 km nord-sud ; faille sur toute la longueur de l'île | tranché |
-| Chronologie, Ère IV | côtes méridionales de Cendara effondrées « sur trois cents lieues » (la Mer Cassée) | l'île fait ~100 km de long | « sur une dizaine de lieues » | tranché |
-| Chronologie, Ère IV | le Mont inhabitable « dans un rayon de 50 km », moines « sur le flanc sud, à 30 km » | l'île fait ~42 km de large | toute l'île ; « sur le flanc sud, près de la côte » | tranché |
-| Chronologie, Ère IV | Cendral → Sulvane « à 40 km au sud » | 46 u (44 km), mais Sulvane au nord-nord-est (T1 et carte) | la distance tient ; la direction est à corriger (« au nord ») | ouvert |
-| Histoire d'Arkhen | le Mont « à plus de cent lieues » ; « cinq cents lieues de mer » | Arkhen ↔ Mont ≈ 78 u, 19 lieues ; le monde en compte 250 | « à une vingtaine de lieues » ; « une mer » | tranché |
-| fiche Pyrevane | lueurs vues d'Aïkhar « à plus de soixante lieues » | Cendara et Arkhen tiennent en ~130 u, ~30 lieues | « à plus de vingt lieues » | tranché |
-| fiche Cendara - Continent | « > 30 lieues de plateau continental » | plus long que l'île | « plusieurs lieues » | tranché |
-| fiche Lunasar | « ~200 lieues de côtes basses » | 60 % du littoral d'Ilthara | à mesurer quand Lunasar aura sa surface | ouvert |
-| fiche Nysaria | sites « à 5–20 lieues de Nysoris » | l'île de la carte fait ~16 × 10 km | « à une ou deux lieues » ; lié à la question de Nysaria continent ou île | ouvert |
-| fiche Baelor | ~18 000 habitants | ~50 km², 360 hab./km² de lande | à revoir avec l'auteur | ouvert |
+| fiche Ulinor - Continent | « ~1200 km nord-sud » ; faille « sur plus de 400 km » | ~41 × 71 km | ~70 km nord-sud ; faille sur toute la longueur de l'île | **corrigé** (2026-09-28) |
+| Chronologie, Ère IV | côtes méridionales de Cendara effondrées « sur trois cents lieues » (la Mer Cassée) | l'île fait ~100 km de long | « sur une dizaine de lieues » | **corrigé** (2026-09-28) |
+| Chronologie, Ère IV | le Mont inhabitable « dans un rayon de 50 km », moines « sur le flanc sud, à 30 km » | l'île fait ~42 km de large | toute l'île ; « sur le flanc sud, près de la côte » | **corrigé** (2026-09-28) |
+| Chronologie, Ère IV | Cendral → Sulvane « à 40 km au sud » | 46 u (44 km), mais Sulvane au nord-nord-est (T1 et carte) | la distance tient ; la direction est à corriger (« au nord ») | **juste** : sur les positions du 2026-09-27, Sulvane est à 39,7 u au sud-sud-ouest de Cendral |
+| Histoire d'Arkhen | le Mont « à plus de cent lieues » ; « cinq cents lieues de mer » | Arkhen ↔ Mont ≈ 78 u, 19 lieues ; le monde en compte 250 | « à une vingtaine de lieues » ; « une mer » | **corrigé** (2026-09-28) |
+| fiche Pyrevane | lueurs vues d'Aïkhar « à plus de soixante lieues » | Cendara et Arkhen tiennent en ~130 u, ~30 lieues | « à plus de vingt lieues » | **corrigé** (2026-09-28) |
+| fiche Cendara - Continent | « > 30 lieues de plateau continental » | plus long que l'île | « plusieurs lieues » | **corrigé** (2026-09-28) |
+| fiche Lunasar | « ~200 lieues de côtes basses » | 60 % du littoral d'Ilthara | à mesurer quand Lunasar aura sa surface | **corrigé** (2026-09-28) : formule sans chiffre, Lunasar n'a pas de surface |
+| fiche Nysaria | sites « à 5–20 lieues de Nysoris » | l'île de la carte fait ~16 × 10 km | « à une ou deux lieues » ; lié à la question de Nysaria continent ou île | **corrigé** (2026-09-28) : « à une ou deux lieues » |
+| fiche Baelor | ~18 000 habitants | ~50 km², 360 hab./km² de lande | à revoir avec l'auteur | **corrigé** (2026-09-28) : ~3 000 âmes (Baeloris ~900, Tholmë ~1 000, Thyldris ~150) |
 | T1/00, T1/45 | « trois cents lieues » d'Aethranor à Sulvane (l'arche, le porteur d'eau) | ~370 u, ~90 lieues | « cent lieues » | **corrigé** (2026-09-28) |
 | T1/16, T1/18 | « trois mille lieues » (Gelinar, Vytharia ↔ Aethranor) | ~360 u, ~90 lieues ; déjà hyperbolique avant | « cent lieues », ou la figure « mille lieues » | **corrigé** (2026-09-28) |
 | T1/46 | le Gouffre, « trois lieues de long », coupe Endora en deux | Endora fait ~210 × 185 km | écart antérieur à l'échelle | **corrigé** (2026-09-28) |

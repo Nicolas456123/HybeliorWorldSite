@@ -56,7 +56,7 @@ Certains, sur les quais, lisaient cette absence comme on lit un retrait. D'autre
 
 ## Nysoris — « La Cinquième Femme du Cercle »
 
-Cette histoire ne figure dans aucune chronique officielle. On la lit dans une marge — précisément, dans les pages d'un cahier de notes appartenant à un cartographe galenorien, an 252 environ. Le cahier a été copié à Prismalith par une scribe qui ne savait pas d'où venait l'original. Le passage est court. Il vaut d'être posé tel quel.
+Cette histoire ne figure dans aucune chronique officielle. On la lit dans une marge — précisément, dans les pages d'un cahier de notes appartenant à un cartographe ulinorien dont le nom n'est pas consigné, an 244 environ. Le cahier a été copié à Prismalith par une scribe qui ne savait pas d'où venait l'original. Le passage est court. Il vaut d'être posé tel quel.
 
 > *J'ai compté pendant la séance du Cercle. Sept membres officiellement. Ce que j'ai vu : six masques distincts, et une chaise occupée par une silhouette qui ne portait pas de masque mais dont le visage ne se laissait pas regarder en face — non pas par dérobade volontaire, mais par une qualité de l'air autour d'elle. Mes yeux glissaient. Je ne sais pas si je l'ai inventée. Je note qu'elle était là, dans ma perception. Je note aussi que personne ne l'a regardée pendant les délibérations.*
 >
@@ -72,7 +72,7 @@ Les copistes thalmariens qui ont collationné le cahier ont noté en marge, eux-
 
 Là où l'Invasion Avortée a englouti une flotte entière, une donnée plus discrète court dans les marges des journaux portuaires de Nectoria, de Sondaris et de Tyndara : tous les vingt à quarante ans environ, un voyageur isolé atteint Nysaria et en revient. Aucun n'a publié de récit ni sollicité de reconnaissance. Plusieurs sont morts dans l'année qui a suivi, de causes ordinaires — pneumonie, accident, fièvre. Quelques-uns ont vécu longtemps.
 
-Ce que les marges donnent à lire, sans en tirer de théorie : ces voyageurs ne sont pas *entrés* à Nysaria au sens habituel du terme. Ils ont été *laissés entrer*. La distinction, selon une formulation que les capitaineries reprennent sans en revendiquer la paternité, n'est pas la même chose. Trois des cas les plus récents sont tenus pour avérés : le cartographe galenorien Aldric Valthen (an 222 env.), un cartographe ulinorien anonyme (an 244) et le cartographe galenorien Sorin Valthen (an 252). Trois cartographes en trente ans — une régularité que les capitaineries classent, faute de mieux, dans les coïncidences que la nature du métier favorise.
+Ce que les marges donnent à lire, sans en tirer de théorie : ces voyageurs ne sont pas *entrés* à Nysaria au sens habituel du terme. Ils ont été *laissés entrer*. La distinction, selon une formulation que les capitaineries reprennent sans en revendiquer la paternité, n'est pas la même chose. Les deux cas les plus récents sont tenus pour avérés : le cartographe galenorien Aldric Valthen (an 222 env.) et un cartographe ulinorien anonyme (an 244). Deux cartographes à vingt ans d'écart — une rencontre que les capitaineries classent, faute de mieux, dans les coïncidences que la nature du métier favorise.
 
 ---
 
@@ -84,13 +84,13 @@ Trois récits. Trois descriptions différentes. Le masque violet n'est pas le m�
 
 - **Aldric Valthen** (an 222) : *un homme de stature moyenne, d'une démarche que les arthritiques galenoriens reconnaissent comme la leur, qui a laissé sa main sur mon épaule un instant trop long pour la politesse.*
 - **L'ulinorien anonyme** (an 244) : *une femme petite, dont la robe était plus longue que celle des autres et balayait les pierres des chemins. Elle ne m'a pas touché.*
-- **Sorin Valthen** (an 252) : *quelqu'un dont la stature et le sexe ne se laissaient pas fixer. La couleur du masque réfléchissait la lumière différemment selon l'angle. Sa main posant l'amulette dans la mienne était sèche.*
+- **Un voyageur dont le nom n'a pas été gardé** (date incertaine) : *quelqu'un dont la stature et le sexe ne se laissaient pas fixer. La couleur du masque réfléchissait la lumière différemment selon l'angle. Sa main posant l'amulette dans la mienne était sèche.*
 
 Trois lectures. Une seule fonction. Les chroniqueurs thalmariens qui ont mis ces trois récits côte à côte, à la fin du règne du dernier Lunarch en date, en ont tiré des hypothèses contradictoires. La plus discutée : le masque violet est *une fonction occupée par plusieurs personnes successives*, peut-être aussi par plusieurs simultanément. La fonction transmettrait l'amulette à ceux qui méritent (ou doivent) en porter une, sans que le porteur du masque importe individuellement.
 
 Cette lecture, si elle est juste, fait du masque violet quelque chose qui ressemble plus à un **siège de fonction** qu'à une personne. Mais alors, qui *décide* ? Le Cercle ? Le Roi Sans Voix ? Quelque chose qui n'a pas de nom dans la grammaire continentale ?
 
-La question est restée. Aucun chroniqueur n'a écrit la suite. Aucun visiteur connu n'est revenu depuis Sorin Valthen pour en demander confirmation. Trois siècles auront peut-être passé avant la prochaine occasion. Trois siècles, dans la grammaire nysarienne, ne sont pas un délai inhabituel.
+La question est restée. Aucun chroniqueur n'a écrit la suite. Aucun visiteur connu n'est revenu depuis l'ulinorien anonyme pour en demander confirmation. Trois siècles auront peut-être passé avant la prochaine occasion. Trois siècles, dans la grammaire nysarienne, ne sont pas un délai inhabituel.
 
 ---
 

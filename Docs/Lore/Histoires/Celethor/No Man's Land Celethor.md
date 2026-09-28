@@ -297,7 +297,7 @@ Le commandant ajouta : *« On n'enseigne pas le non à Valdris. On le pratique. 
 
 Elle resta. Elle servit pendant trois ans. Elle prit deux contrats où elle dut tuer ; elle prit un contrat qu'elle refusa parce que la cible n'était pas claire. Le commandant approuva tous trois les choix sans commentaire.
 
-En l'an 251 — l'année du passage de Sorin Valthen à Lysorn —, Brynda demanda au commandant l'autorisation de quitter Valdris pour fonder un campement séparé, plus au sud, près de la frontière de Ryldor. Elle voulait, dit-elle, *« un endroit où des soldats elariens trop jeunes pour avoir gagné leur non puissent venir l'apprendre sans devenir des Effacés »*.
+En l'an 251, Brynda demanda au commandant l'autorisation de quitter Valdris pour fonder un campement séparé, plus au sud, près de la frontière de Ryldor. Elle voulait, dit-elle, *« un endroit où des soldats elariens trop jeunes pour avoir gagné leur non puissent venir l'apprendre sans devenir des Effacés »*.
 
 Le commandant réfléchit deux jours. Il dit oui. Il lui prêta dix soldats. Il lui donna deux mois de provisions. Il dit : *« si tu réussis, tu auras peut-être fait ce que mon arrière-grand-oncle aurait voulu. Si tu échoues, tu rentres ici. »*
 

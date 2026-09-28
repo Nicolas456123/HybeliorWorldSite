@@ -26,7 +26,7 @@ needs_review_for: []
 
 - **Localisation** : côte orientale de [[Vytharia]] (continent [[Ilthara - Continent\|Ilthara]]), là où les estuaires lunaires s'ouvrent sur la mer. Province la plus côtière du domaine vytharien.
 - **Séparation de la haute-Vytharia** : cordon de marais et de bras de mer, dont le **détroit de Lunaris** — interdit de traverser pendant la nouvelle lune par convention locale.
-- **Étendue** : ~200 lieues de côtes basses ; arrière-pays de plaines de Velharon et de collines basses montant vers l'**arête vytharo-mirathienne** (trait intérieur reliant Lunasar au plateau de Mirathi, autre province côtière de Vytharia).
+- **Étendue** : une frange de côtes basses et d'estuaires ; arrière-pays de plaines de Velharon et de collines basses montant vers l'**arête vytharo-mirathienne** (trait intérieur reliant Lunasar au plateau de Mirathi, autre province côtière de Vytharia).
 - **Climat** : tempéré-froid, vents marins constants, ciel souvent dégagé la nuit (qualité prisée pour les observations lunaires).
 - **Population** : ~90 000 âmes (dernier recensement de pleine lune). Recensements tous les douze cycles (~tous les onze mois solaires).
 
@@ -146,7 +146,7 @@ needs_review_for: []
 
 - Vieillard de Lunaris. Ancien Maître des Tables (an ~215-226 ap.A), puis Veilleur de lune (an ~227-252 ap.A). Vit seul. Galenorien sans accent.
 - A connu Aldric Valthen, l'ulinorien anonyme, et Sorin Valthen.
-- A reçu Sorin en l'an 252 et lui a transmis le parchemin laissé par Aldric trente ans plus tôt (rencontre consignée dans les Chroniques, ch. 35).
+- A reçu Sorin en l'an 250 (Chroniques, C/28) : lui a montré dans ses registres le signe copié jadis d'une pierre de la côte, puis, de sa terrasse, la forme sans nom du large ; lui a dit qu'un autre au même regard était passé « il y a de cela vingt ans, peut-être davantage ». Ne lui a rien remis.
 - Le titre *Maître* qu'on lui accole est un usage de courtoisie locale (appliqué à plusieurs Vieillards de Lunaris), non un titre officiel ; il ne se présente pas comme mentor.
 
 ### Sera (env. trente ans, traductrice-guide)
@@ -177,7 +177,6 @@ needs_review_for: []
 ## Secrets et intrigues
 
 - **Les marges du registre des Veilleurs** : trois cas documentés en trente ans (Aldric Valthen, l'ulinorien anonyme, Sorin Valthen). Aucune institution lunarienne ne traite officiellement le sujet. À la mort de Solvanes, le dépôt mémoriel se dispersera.
-- **Le parchemin d'Aldric** : conservé trente ans par Solvanes, transmis à Sorin en l'an 252. Carte partielle, symbole en troisième langue marquant un point en Evertia. Contenu réel non public. Existence d'une copie par Solvanes : non établie.
 - **Les rêves de Solvanes** : journaux de rêves tenus pendant soixante-quinze ans. Sort à sa mort indéterminé (publication, versement à la bibliothèque centrale, ou destruction) ; aucune disposition publique, famille non connue.
 - **L'éclipse à venir** : selon les astronomes lunariens (croisés avec Haldria), éclipse de pleine lune prévue dans les sept à douze ans. Si elle a lieu, l'Assemblée désignera un nouveau Lunarch. Non commentée publiquement ; les milieux politiques s'y préparent discrètement.
 - **La corrélation est-elle réelle ?** Trois siècles de Tables des Conséquences ne permettent pas de trancher. Avis contradictoires des statisticiens haldriens ayant consulté les Tables. Aucune Assemblée n'a mis la question à l'ordre du jour.

@@ -37,25 +37,25 @@ Sorin quitta Rukhsar à la fin de l'an 248, à pied, sans escorte, n'emportant q
 
 ## Rukhsar — « Le Huitième Pilier »
 
-Naïm avait passé trente ans de sa vie à balayer la place des Sept Piliers. Trente ans à connaître chaque fissure, chaque inscription, chaque ombre que projetaient les colonnes sacrées au fil des heures. Personne ne connaissait mieux les Piliers que lui. Personne ne s'en souciait moins que les Voix du Conseil qui passaient devant lui chaque matin sans le voir.
+Le balayeur de la place — personne, au Conseil, ne savait son nom — avait passé trente ans de sa vie à balayer la place des Sept Piliers. Trente ans à connaître chaque fissure, chaque inscription, chaque ombre que projetaient les colonnes sacrées au fil des heures. Personne ne connaissait mieux les Piliers que lui. Personne ne s'en souciait moins que les Voix du Conseil qui passaient devant lui chaque matin sans le voir.
 
 Puis vint la nuit où le sol trembla.
 
-Ce n'était pas un séisme ordinaire. Les secousses venaient d'en dessous, régulières, comme un battement de coeur. Les pavés de la place se fissurèrent en cercle parfait autour du centre exact des Sept Piliers. Naïm, qui dormait dans sa cabane de gardien, fut le premier à voir ce que la terre avait recraché : un fragment de pierre bleue, identique à ceux des Piliers, mais brisé en trois morceaux. Sur le plus grand fragment, une inscription dans une langue que personne à Rukhsar ne pouvait lire.
+Ce n'était pas un séisme ordinaire. Les secousses venaient d'en dessous, régulières, comme un battement de coeur. Les pavés de la place se fissurèrent en cercle parfait autour du centre exact des Sept Piliers. Le balayeur, qui dormait dans sa cabane de gardien, fut le premier à voir ce que la terre avait recraché : un fragment de pierre bleue, identique à ceux des Piliers, mais brisé en trois morceaux. Sur le plus grand fragment, une inscription dans une langue que personne à Rukhsar ne pouvait lire.
 
-La Médiatrice Selvina Hiliaris fit sceller la place au matin. Des érudits furent convoqués de Lumasar. Mais Naïm, lui, avait déjà lu l'inscription. Il ne savait pas comment. Les mots s'étaient simplement formés dans sa tête, comme un souvenir qu'il n'avait jamais eu.
+La Médiatrice Selvina Hiliaris fit sceller la place au matin. Des érudits furent convoqués de Lumasar. Mais le balayeur, lui, crut avoir déjà lu l'inscription. Il ne savait pas comment. Des mots s'étaient formés dans sa tête, comme un souvenir qu'il n'avait jamais eu.
 
-L'inscription disait : *« Nous étions huit. Vous nous avez oubliés. Nous ne vous oublierons pas. »*
+Ce qu'il crut lire disait : *« Nous étions huit. Vous nous avez oubliés. Nous ne vous oublierons pas. »*
 
-Naïm tenta de prévenir le Conseil. On le renvoya. Un balayeur ne parle pas aux Voix. Il tenta de prévenir les érudits de Lumasar. Ils lui rirent au nez. Il tenta de prévenir les prêtres du Jardin de la Concorde. Ils lui offrirent du thé et des prières.
+Il tenta de prévenir le Conseil. On le renvoya. Un balayeur ne parle pas aux Voix. Il tenta de prévenir les érudits de Lumasar. Ils lui rirent au nez. Il tenta de prévenir les prêtres du Jardin de la Concorde. Ils lui offrirent du thé et des prières.
 
-Alors Naïm fit la seule chose qu'il savait faire. Il retourna balayer. Mais cette nuit-là, il entendit le battement de coeur sous la pierre. Plus fort. Plus proche. Et quand il posa sa main sur le sol, il sentit quelque chose la saisir depuis l'autre côté.
+Alors le balayeur fit la seule chose qu'il savait faire. Il retourna balayer. Mais cette nuit-là, il entendit le battement de coeur sous la pierre. Plus fort. Plus proche. Et quand il posa sa main sur le sol, il sentit quelque chose la saisir depuis l'autre côté.
 
-On retrouva sa cabane vide au matin. Son balai posé contre le Troisième Pilier. Et sur le sol de la place, gravés dans la pierre comme s'ils y avaient toujours été, huit mots : *« Le huitième peuple se souvient. Et il remonte. »*
+On retrouva sa cabane vide au matin. Son balai posé contre le Troisième Pilier. Et sur le sol de la place, gravés dans la pierre comme s'ils y avaient toujours été, des signes que personne à Rukhsar ne savait lire — ceux qu'Omarin de Velithis, des années plus tard, lirait ainsi : *« Le huitième peuple se souvient. Et il remonte. »*
 
-Selvina fit recouvrir l'inscription de dalles neuves avant midi. Mais la nuit suivante, les dalles avaient disparu, et les mots brillaient d'une lueur bleue que même les passants ne pouvaient plus ignorer.
+Selvina fit recouvrir l'inscription de dalles neuves avant midi. Mais la nuit suivante, les dalles avaient disparu, et les signes brillaient d'une lueur bleue que même les passants ne pouvaient plus ignorer.
 
-Naïm ne fut jamais retrouvé.
+Le balayeur ne fut jamais retrouvé.
 
 ---
 

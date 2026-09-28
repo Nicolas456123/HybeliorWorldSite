@@ -175,7 +175,7 @@ Il ne formule pas le mot *piège*. Il décrit la situation. C'est plus utile.
 
 ## Galdryn-bas — « La Marque sous la Roche »
 
-Sorin Valthen est passé à Astravia pendant trois semaines, à l'été de l'an 251. Le détail de son passage est dans son carnet de voyage, ch. 25.
+Sorin Valthen est passé à Astravia pendant trois semaines, au tournant des ans 250 et 251, autour du jour 790 de son exil. Le détail de son passage est dans son carnet de voyage (Chroniques, C/32).
 
 Ce qu'il n'a pas mis dans son carnet, c'est la manière dont Varennis l'a *choisi*. Varennis avait remarqué le cartographe à Invernis trois jours avant qu'ils se rencontrent ; il avait fait suivre Sorin par un apprenti silencieux qui notait, dans un cahier sans couverture, les heures auxquelles Sorin entrait et sortait de l'auberge, les rues qu'il prenait, les boutiques où il s'arrêtait. À la fin du troisième jour, l'apprenti rapporta : *« il marche comme quelqu'un qui suit une carte que personne ne lui a donnée. »* Varennis sut alors qu'il pouvait l'utiliser.
 
@@ -191,7 +191,7 @@ La boîte est dans son bureau. Sa femme ne le sait pas. Le Magistère ne le sait
 
 Varennis n'est pas un Stellariste. Il n'est pas un réformiste. Il a simplement décidé, il y a vingt ans, qu'il pouvait *lire seul* — et il a fait, depuis, ce que tout homme dans la Loi privée fait : il a accumulé. Une fois par génération, ce qu'il accumule explose ou se perd. Astravia ne sait plus en compter le nombre.
 
-Sorin ne reverra pas Varennis. Le carnet de Sorin, déposé à Lumasar trois ans plus tard, n'évoque l'archimage qu'en quatre lignes. Selendris, l'archiviste qui les recevra, ne fera pas le lien.
+Sorin ne reverra pas Varennis. Les cahiers de Sorin, déposés à Prismalith quelques mois plus tard, n'évoquent l'archimage qu'en quatre lignes. Selendris, l'archiviste qui les recevra, ne fera pas le lien.
 
 Il n'y a, dans cette histoire, ni méchant ni héros. Il y a un homme qui utilise un cartographe qui se laisse à moitié utiliser. Tous deux croient lire le monde. Tous deux, à des degrés différents, le lisent mal. La marque sous Galdryn-bas, elle, continue d'être ce qu'elle est, sans se soucier qui elle inspire.
 

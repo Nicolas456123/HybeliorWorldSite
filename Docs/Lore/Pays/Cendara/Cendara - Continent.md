@@ -37,7 +37,7 @@ Trois ensembles distincts, séparés par des bras de mer dont le **Détroit de S
 ### La Grande Île
 La plus vaste. Abrite Brumaria (sud-est) et Pyrevane (ouest), séparées par la **Chaîne du Mont Cendra** (> 3 000 m, dominée par le cône tronqué). La frontière politique suit les cols et les coulées anciennes ; la masse du Mont a garanti des siècles de coexistence forcée.
 
-- **Côte est (Cendara)** : falaises d'obsidienne (Diamora), plages de sable noir, ports en eaux tièdes. Mer réchauffée par remontées hydrothermales sur > 30 lieues de plateau continental sous-marin. Poissons des profondeurs gras, chargés en soufre, fumés naturellement.
+- **Côte est (Cendara)** : falaises d'obsidienne (Diamora), plages de sable noir, ports en eaux tièdes. Mer réchauffée par remontées hydrothermales sur plusieurs lieues de plateau continental sous-marin. Poissons des profondeurs gras, chargés en soufre, fumés naturellement.
 - **Plateau central et sud (Cendara)** : **Brumancia** (basalte fertile, vallées entre coulées anciennes), **Solara** (vignobles de cendre, blé noir), **Malrith** (péninsule occidentale battue, forges militaires).
 - **Versants ouest (Pyrevane)** : terrasses de basalte, ravins fumants, **les Sept Calderas** abritant les sept Forge-Temples canoniques de l'Ignis Aeternum (Pyrevane-Mère, Vorrask, Vesthrim, Caldethor, Verre-Fondu, Ashenor, Cinderhold).
 - **Plateaux nord (Pyrevane)** : **Utophora** minier (quartz rose, améthyste, métaux volcaniques) et **Virendor** (seule forêt de la grande île, partagée administrativement entre Brumaria et Pyrevane sans ligne établie).

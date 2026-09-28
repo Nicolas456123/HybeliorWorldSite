@@ -85,7 +85,7 @@ needs_review_for: []
 
 Trois traits structurants :
 
-- **L'Oracle ne prédit pas l'avenir.** Formule des Chroniques (ch. 33) : *« Les Oracles de Mirathi ne prédisent pas l'avenir. Ils vous montrent l'endroit de votre propre mémoire où l'avenir est déjà inscrit. »* Les visiteurs commerciaux venus chercher des prédictions repartent déçus.
+- **L'Oracle ne prédit pas l'avenir.** Formule du pays : *« Les Oracles de Mirathi ne prédisent pas l'avenir. Ils vous montrent l'endroit de votre propre mémoire où l'avenir est déjà inscrit. »* Les visiteurs commerciaux venus chercher des prédictions repartent déçus.
 - **L'Oracle doit avoir rêvé le consultant.** Aucun consultant reçu *à la demande* ; l'Oracle doit l'avoir rêvé d'abord. Délai entre arrivée et consultation : de trois jours à quatre mois (d'où, en partie, la résidence prolongée).
 - **L'Oracle parle peu et reformule.** Il répond rarement à la question posée et la déplace vers une formulation qu'il juge meilleure — tenu pour le cœur de l'art oraculaire. Les visiteurs frustrés sont jugés *prématurés*.
 
@@ -131,18 +131,18 @@ Voir [[../../Religions/_Mineures/Taciti]].
 
 ## Personnalités
 
-### La Voix du Haut-Fond (an 252)
+### La Voix du Haut-Fond (an 250)
 
 - Femme d'environ cinquante ans ; visage impassible ; yeux légèrement trop larges ; reçoit les visiteurs sans les nommer.
-- A reçu Sorin Valthen le 720e jour de son voyage et lui a transmis trois phrases ; la dernière est passée dans les marges des chroniqueurs continentaux : *« Demandez-vous plutôt où nous en sommes. »*
+- A reçu Sorin Valthen vers le 660e jour de son voyage et lui a transmis trois phrases ; la dernière est passée dans les marges des chroniqueurs continentaux : *« Demandez plutôt où nous en sommes. »*
 - Aucun nom personnel associé dans les sources externes. Sa famille vit au hameau de Sorek (deux lieues au sud-ouest) ; elle ne dit son nom qu'à voix basse, jamais devant un Oracle.
 
-### Orneth de Thalmaris (en résidence depuis l'an 250)
+### Orneth de Thalmaris (en résidence depuis l'an 248)
 
 - Vieux érudit thalmarien, spécialiste de l'épigraphie ancienne ; réside au Sanctuaire avec l'autorisation des Oracles.
 - Possède une **copie incomplète du Message** : deux colonnes lisibles, troisième en troisième langue qu'il *reconnaît* sans pouvoir lire.
 - Résidence sans terme annoncé (deux ans à ce jour). A un assistant (jeune homme d'une vingtaine d'années, nom non consigné systématiquement).
-- A reçu Sorin Valthen lors de la visite de ce dernier (an 252) et lui a montré la copie sans préambule. Rencontre rapportée dans les Chroniques (ch. 33).
+- A reçu Sorin Valthen lors de la visite de ce dernier (an 250) et lui a montré la copie sans préambule. Rencontre rapportée dans les Chroniques (C/27).
 
 ### L'Oracle de la Voix de la Lacune (anonyme, période flottante)
 

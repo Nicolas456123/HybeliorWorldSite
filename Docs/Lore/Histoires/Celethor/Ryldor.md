@@ -143,7 +143,7 @@ Thyros ne tranche pas, dans ses propres carnets, entre les deux lectures. Il éc
 
 ## Myralor — « L'Affaire Veldris » (an 230)
 
-Le chaman **Veldris** fut banni du Cercle des Guérisseurs en l'an 230, vingt et un ans avant le passage de Sorin. Le motif officiel : *« expérimentation non éthique »*. Il administrait des doses de champignons de Zelthar que le Cercle jugeait mortelles, et obtenait huit guérisons sur dix sur des patients que Ryldor avait abandonnés — mais aussi deux morts sur dix.
+Le chaman **Veldris** fut banni du Cercle des Guérisseurs en l'an 230. Le motif officiel : *« expérimentation non éthique »*. Il administrait des doses de champignons de Zelthar que le Cercle jugeait mortelles, et obtenait huit guérisons sur dix sur des patients que Ryldor avait abandonnés — mais aussi deux morts sur dix.
 
 Le Cercle ne le bannit pas pour incompétence : il guérissait des cas désespérés. Il le bannit pour avoir soigné selon ses propres règles. Veldris s'installa à Myralor, dans les Terres Brisées, et continua. Le Cercle ne le poursuivit pas.
 

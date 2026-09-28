@@ -23,7 +23,7 @@ needs_review_for: []
 
 **An 245 — Disparition de Sera Vyn.** L'éclaireuse de Kalvorn, dont la prédiction de 218 (armée à un an d'écart) avait été admise en privé, quitte son poste un matin de brouillard. On ne la revit jamais. Ce qu'elle a vu après son retour de la disgrâce, elle ne l'a confié à personne. Un cairn près de la frontière orientale, laissé par une autre disparue (l'éclaireuse Nyra), porte un message à quatre mots : *« Ruines. Au-delà. Attention. »*
 
-**An 252 — Passage de Sorin Valthen.** Le voyageur kharaziri traverse Iskara au chapitre 10 de son journal (*Les Mines*) : la Porte de Fer, le bourg extérieur de Glintar, puis les niveaux profonds de Myrilith, sous escorte. Devant la porte de métal inconnu du niveau huit, brève notation sur l'ordre du Conseil des Forges de ne pas l'ouvrir : *« On ne sait pas ce qui est là, et on a décidé que ne pas le savoir était préférable à ce que l'on pourrait apprendre en cherchant. »* Pas d'effet local. Le journal n'a jamais été lu officiellement à Iskara.
+**An 249 — Passage de Sorin Valthen.** Le voyageur kharaziri traverse Iskara au chapitre 8 de son journal (*Les Mines Silencieuses*) : la Porte de Fer, le bourg extérieur de Glintar, puis les niveaux profonds de Myrilith, sous escorte. Devant la porte de métal inconnu du niveau huit, brève notation sur l'ordre du Conseil des Forges de ne pas l'ouvrir : *« On ne sait pas ce qui est là, et on a décidé que ne pas le savoir était préférable à ce que l'on pourrait apprendre en cherchant. »* Pas d'effet local. Le journal n'a jamais été lu officiellement à Iskara.
 
 **Personnages historiques nommés :**
 - **Aldric le Bâtisseur** — fondateur, an 0-30

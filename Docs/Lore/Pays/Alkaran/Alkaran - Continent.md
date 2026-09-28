@@ -13,7 +13,7 @@ needs_review_for: []
 |---|---|
 | **Type** | Continent de contrastes — volcanique au sud-ouest, glacial au nord-est, montagneux au centre |
 | **Climat** | Froid à très froid ; hivers de 5 à 9 mois ; dérive plus tempérée vers la côte sud-ouest |
-| **Nations** | 4 ([[Altram]], [[Iskara]], [[Ferrath]], [[Torkam]]) |
+| **Nations** | 5 ([[Altram]], [[Iskara]], [[Ferrath]], [[Torkam]], [[Myrtam]]) |
 | **Trait commun** | Relation viscérale aux forces primaires (feu, pierre, vent, âmes) ; religions intenses et physiques ; magie non disciplinaire |
 | **Métiers sacrés** | Altram forge · Iskara taille la pierre · Ferrath descend (mine) · Torkam veille (écoute) |
 
@@ -32,14 +32,16 @@ Faits structurants :
 - **Nord-est glacial** : hauts plateaux balayés par les vents polaires, taïga rabougrie, lacs gelés 8 mois sur 12. Nomades chamanes de Torkam (sud) ; éleveurs de rennes des frontières d'Ulinor (nord, hors continent).
 - **Sud-est continental** : vallées encaissées, gorges, défilés. Sédentaires d'Altram, d'Iskara et de Ferrath — nations de pierre, de fer, de mine. Pierre *ancienne* au sens géologique kharaziri : antérieure aux Souffles cycliques connus, parfois aux premiers chants liturgiques.
 - **Nord-ouest semi-aride** : plateaux de grès rouge, oasis rares, tempêtes de sable durant une saison entière. Tribus du désert de Torkam.
+- **Massif des Cendres Rouges** (extrême sud-est, face à Onara) : chaîne volcanique active, ancrage de [[Myrtam]]. Pics enneigés à plus de quatre mille toises, vallées encaissées, failles incandescentes. Hivers de six mois ; forges actives douze mois.
 
 **Hydrographie :**
 - **La Vorne** — rivière noire ; descend des massifs centraux d'Altram, traverse Ferrath, se jette dans la mer Cendrée à hauteur d'Iskara.
 - **Lac de Vyrn** — plan d'eau intérieur à cheval entre Altram et Ferrath ; niveau en baisse (~une coudée par génération de mémoire de pêcheurs) ; fait que les chroniqueurs de Trelios refusent de laisser inscrire.
 - **Sources de la Pierre-qui-Pleure** — dispersées dans les hauts massifs ; lieux Vael'Kari de pèlerinage.
+- **Lac Forgé** — bassin volcanique de Myrtam, eaux noires et chaudes, pêche maigre mais constante.
 - Plusieurs sources jadis vives devenues sèches en deux ou trois générations ; le clergé Vael'Kurash parle de *« retraits »*.
 
-**Biomes :** taïga froide (Torkam nord, marges septentrionales d'Altram) · désert semi-aride (Torkam ouest et sud-ouest) · forêt de conifères de moyenne altitude (Altram, frontières d'Iskara) · steppe de pierre noire (centre d'Altram, Ferrath) · prairie volcanique (sud-ouest) · littoral tempéré-froid (côte nord d'Altram, côte est d'Iskara). Dans certaines régions, un jour de cheval suffit à passer d'un biome à l'autre.
+**Biomes :** taïga froide (Torkam nord, marges septentrionales d'Altram) · désert semi-aride (Torkam ouest et sud-ouest) · forêt de conifères de moyenne altitude (Altram, frontières d'Iskara) · steppe de pierre noire (centre d'Altram, Ferrath) · prairie volcanique (sud-ouest) · montagnes volcaniques (Myrtam) · littoral tempéré-froid (côte nord d'Altram, côte est d'Iskara). Dans certaines régions, un jour de cheval suffit à passer d'un biome à l'autre.
 
 **Climat :** froid à très froid, plus tempéré vers la côte sud-ouest. Hivers de 5 à 9 mois selon l'altitude. Les anciens des Cavernes de l'Écoute notent des hivers *« allongés sans s'étendre »* (saisons intermédiaires raccourcies, froids extrêmes stables) — controverse interne au clergé Vael'Kari.
 
@@ -47,12 +49,13 @@ Faits structurants :
 
 ## Croyances — les Anciens et la roche
 
-Aucune des quatre nations ne partage le même récit fondateur. Lectures concurrentes selon les traditions :
+Aucune des cinq nations ne partage le même récit fondateur. Lectures concurrentes selon les traditions :
 
 - **Lecture pétrane** (dominante en Altram et Iskara, frangée en Ferrath) — la pierre est antérieure à tout. Les Anciens (non nommés par les liturgies locales) n'ont rien créé : ils ont *vécu dans la pierre* jusqu'à ce qu'elle prenne leur forme. Partis (terme volontairement vague), ils l'ont laissée marquée. Tout serment se prête sur cette pierre marquée. Devise : *« La pierre tient. Le reste passe. »*
 - **Lecture vael'kurashe** (dominante en Ferrath, frangée partout) — les Anciens ne sont pas partis : ils se sont concentrés. Une présence (caverne, source, sommet) est un Ancien qui a *choisi de tenir là*. Les honorer (silence, offrande, veille) évite de les forcer au retrait ; fait peser sur les vivants la responsabilité de la persistance des morts.
 - **Lecture animari** (dominante en Torkam) — les morts ne disparaissent jamais : ils tiennent une trame, entretenue par les noms prononcés et les autels gardés. Les esprits de la nature (vent, eau, pierre) sont des morts très anciens aux noms perdus, qu'il faut nommer comme on peut. Devise : *« Tant qu'un nom est dit, l'âme tient. »*
 - **Lecture ignéenne** (secondaire en Iskara, frangée en Altram) — les Anciens étaient *flammes* ; ce qui en reste est ce qui brûle encore (Grande Forge de Glintaris, Mont Saurthen, forges de Trelios jamais éteintes). Soutenue par certains prêtres d'Ignis Aeternum venus de Cendara ; minoritaire (les Alkarans préfèrent penser leur fondation par la pierre).
+- **Lecture myrtamite** (Ignis Aeternum tellurique, Myrtam) — Eldoria respire dans les volcans ; forger, c'est participer à l'œuvre divine ; la maladie des poumons est lue comme « le souffle d'Eldoria » marquant les siens. Les théologiens d'Ordo Caelum (Azoria), héritiers de la même Lumière Primordiale, contestent qu'Eldoria soit tellurique : pour eux la Lumière reste céleste. À Myrtam, la dispute est jugée hors-sujet.
 - **Lecture des forgeurs** (Filii Fornacis, minoritaire mais présente partout) — le monde aurait été *forgé*, ni créé ni chuté ; chaque montagne porte un coup de marteau. Flatte les artisans d'Altram et de Ferrath ; agace les prêtres pétrans (qui la traitent de *« licence d'atelier »* sans la combattre).
 
 Points communs : aucune lecture n'admet officiellement que certaines présences soient simplement **éteintes**. Le débat reste ouvert — les théologiens du **Concile de la Pierre Première** (Trelios) ont renoncé à le clore.
@@ -84,9 +87,10 @@ Proverbes locaux (faits culturels attestés) :
 | [[Iskara]] | Vallées-forteresses, monarchie militaire, doctrine purement défensive |
 | [[Ferrath]] | Profondeurs minières et hauts massifs, République des Profondeurs, religion des veilleurs |
 | [[Torkam]] | Plateaux semi-arides, théocratie tribale, Pacte des Âmes et écoute des esprits du désert |
+| [[Myrtam]] | Monarchie industrielle des forges légendaires, Acier Éternel, mineurs et cristalliers ; face à Onara, dont elle nourrit les marchés d'acier |
 
 > [!info] Note V3.4 — nations à cheval
-> La base canonique Access rattache à l'origine **Iskara** au continent Endora ; **Myrtam** et **Skaldoria** à Alkaran. La refonte V3.4 a relocalisé ces nations selon la cohérence narrative actuelle : Iskara → Alkaran, Myrtam → Onara, Skaldoria → Ulinor.
+> La base canonique Access rattache à l'origine **Iskara** au continent Endora ; **Myrtam** et **Skaldoria** à Alkaran. La refonte V3.4 a relocalisé Iskara → Alkaran et Skaldoria → Ulinor. Elle avait aussi déplacé Myrtam vers Onara : les Chroniques (C/9-10, « Alkaran — Haliandris et Ardentris, en Myrtam ») et la carte le laissent en Alkaran, au sud-est, face à Onara.
 
 ---
 

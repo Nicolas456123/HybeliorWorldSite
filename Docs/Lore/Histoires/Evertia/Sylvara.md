@@ -9,7 +9,7 @@ needs_review_for: []
 
 ## Note d'écriture (interne, ne pas afficher in-world)
 
-Sylvara n'a pas de chroniques. Ce qui suit est ce que des Sylvarains transmettent oralement, ce que des Cantori thalmariens en visite ont consigné en cachette dans leurs marges, ce qu'un cartographe étranger (Sorin Valthen, ch. 31) a noté lors de son passage. Les Histoires de Sylvara, contrairement à celles d'Evertia ou de Thalmaris, ne s'organisent pas autour de cités — elles s'organisent autour d'arbres, de saisons, de gestes répétés. La densité dramatique y est plus basse. C'est intentionnel. Sylvara est une nation où *peu se passe en surface*, et où l'événement est presque toujours intérieur, lent, à peine articulé. Ne pas durcir.
+Sylvara n'a pas de chroniques. Ce qui suit est ce que des Sylvarains transmettent oralement, ce que des Cantori thalmariens en visite ont consigné en cachette dans leurs marges, ce qu'un cartographe étranger (Sorin Valthen, Chroniques, C/25) a noté lors de son passage. Les Histoires de Sylvara, contrairement à celles d'Evertia ou de Thalmaris, ne s'organisent pas autour de cités — elles s'organisent autour d'arbres, de saisons, de gestes répétés. La densité dramatique y est plus basse. C'est intentionnel. Sylvara est une nation où *peu se passe en surface*, et où l'événement est presque toujours intérieur, lent, à peine articulé. Ne pas durcir.
 
 ---
 
@@ -153,13 +153,13 @@ Le geste s'est transmis sans qu'il ait jamais été formulé en doctrine. C'est 
 
 ## Marvet — *« La Phrase qu'Il Demanda à Faire Écrire »*
 
-Marvet ne savait pas qui était Sorin Valthen quand il marcha vers lui sur la rive sud, un matin d'arrière-saison en 252.
+Marvet ne savait pas qui était Sorin Valthen quand il marcha vers lui sur la rive sud, un matin d'arrière-saison en 250.
 
 Il avait vu un homme qui revenait de Sylvara à pied, seul, sans Voix-de-Pierre. Un étranger — vêtement non sylvarain, démarche de cartographe (Marvet ne savait pas que ça s'appelait comme ça, mais il reconnaissait l'œil qui prenait des notes en marchant). Marvet aurait dû laisser passer. Il avait laissé passer beaucoup d'étrangers en quinze ans de saignée. Les guildistes ne valaient pas la peine, les Cantori étaient trop occupés à chanter pour parler aux saigneurs, les rares Evertiens étaient méfiants à un degré qui décourageait le contact.
 
 Mais cet homme-là revenait de Sylvara *en marchant*. Sans Cantori. Sans guide. Et il prenait des notes.
 
-Marvet toussa à dix pas pour ne pas le surprendre. L'homme leva la tête. Marvet s'avança. La conversation qui suivit dura peut-être quatre minutes. Elle est consignée presque verbatim dans les carnets de Sorin (ch. 31).
+Marvet toussa à dix pas pour ne pas le surprendre. L'homme leva la tête. Marvet s'avança. La conversation qui suivit dura peut-être quatre minutes. Elle est consignée presque verbatim dans les carnets de Sorin (Chroniques, C/25).
 
 Ce que Marvet avait à dire — et qu'il n'avait jamais dit à personne — était simple. Il y avait douze saigneurs sur les registres de la Guilde pour la rive sud. Ils étaient cinq. La différence — *sept hommes qui n'existaient pas* — permettait à la Guilde de payer le baril moins cher en répartissant la production officielle sur plus d'extracteurs qu'il n'y en avait. Les cinq hommes réels supportaient la charge de douze. Cette information n'aurait pas dû être un secret. Elle l'était parce que personne ne la consignait. Les saigneurs ne savaient pas écrire. Les guildistes n'avaient aucun intérêt à écrire la vérité. Les Mains Vertes ne savaient pas — et n'auraient probablement pas su comment intervenir si elles avaient su. Le système marchait par défaut de mémoire.
 
@@ -171,7 +171,7 @@ Sorin lui dit que son journal ne lirait peut-être personne avant longtemps. Mar
 
 Cette phrase — la dernière qu'ils échangèrent — est, dans sa modestie, l'une des plus précises que Sorin ait reçues pendant tout son voyage. Elle dit deux choses. La première : que la *consignation* est une valeur en soi, indépendamment de qui lit. La seconde : que Marvet n'avait pas besoin que sa donnée serve à quoi que ce soit pour vouloir qu'elle soit consignée. Il voulait simplement qu'elle existe quelque part en dehors de sa propre mémoire et de celle de ses quatre collègues.
 
-La donnée existe. Elle est dans le carnet de Sorin. Le carnet est, en 254, à Lumasar (synthèse), à Rukhsar (copie chez Omarin), peut-être un jour à Prismalith (Selendris). À aucun moment cette donnée ne sera utilisée pour réformer la Guilde des Herboristes thalmariens. Elle restera dans les marges.
+La donnée existe. Elle est dans le carnet de Sorin. Le carnet est, en 252, à Prismalith (les dix-sept cahiers déposés, et leur copie) et à Rukhsar (la synthèse, et une seconde copie, chez Omarin). À aucun moment cette donnée ne sera utilisée pour réformer la Guilde des Herboristes thalmariens. Elle restera dans les marges.
 
 Mais elle existe. Marvet l'a voulu. C'est ce qu'il pouvait faire. C'était suffisant.
 

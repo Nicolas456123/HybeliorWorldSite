@@ -47,11 +47,11 @@ Cette ère est aussi celle où la règle **cessa d'être interrogée**. Les prem
 
 ## Le Sillage actuel — « Kethron VI et l'Amulette »
 
-Aujourd'hui, Baelor est gouvernée par l'**Abbé Suprême Kethron VI**, dont le règne s'étend sur près de soixante ans. Il n'a pas prononcé un mot depuis sa jeunesse — Sera, l'interprète qui accompagne Sorin Valthen au chapitre 36 de ses chroniques, le tient d'un texte de Lunasar. Son corps est devenu, avec l'âge, ce que les Maîtres de Discipline appellent *distillé* : la vieillesse non comme réduction, mais comme épuration. Il vit dans les niveaux supérieurs de Baeloris, dans une cellule que personne ne décrit, et ne reçoit que les visiteurs jugés nécessaires par les moines de l'accueil.
+Aujourd'hui, Baelor est gouvernée par l'**Abbé Suprême Kethron VI**, dont le règne s'étend sur près de soixante ans. Il n'a pas prononcé un mot depuis sa jeunesse — Sorin Valthen le consigne à Baeloris (Chroniques, C/30). Son corps est devenu, avec l'âge, ce que les Maîtres de Discipline appellent *distillé* : la vieillesse non comme réduction, mais comme épuration. Il vit dans les niveaux supérieurs de Baeloris, dans une cellule que personne ne décrit, et ne reçoit que les visiteurs jugés nécessaires par les moines de l'accueil.
 
 Pendant les neuf années précédant l'an 251, plusieurs visiteurs — un cartographe altram, un érudit de Mirathi, un délégué d'Astravia — arrivèrent à Baelor avec sur eux des **objets que les moines regardaient avec attention** : petits objets de pierre noire, parfois portés en amulette, parfois enchâssés dans des étuis de cuir. Les moines les regardaient comme on regarde un animal connu qui n'aurait pas dû se trouver là. Ils ne posaient jamais de questions. Ils notaient, dans leur journal enluminé, la fréquence à laquelle l'amulette pulsait pendant le séjour. Ces notes rejoignaient la bibliothèque de Baeloris, consultables ni par les visiteurs ni, en pratique, par personne d'autre que les Maîtres.
 
-En l'an 251, Sorin Valthen débarqua à Baelor avec, autour du cou, l'amulette qu'il avait reçue de Vytharia. L'Abbé Kethron VI le reçut dans la Salle du Silence et lui écrivit, au pinceau, sur un parchemin enluminé, **un seul mot** : *Dessous*. Sorin reçut le parchemin. Il ne réclama pas plus. Cinq jours plus tard, il quitta Baelor en direction de Cestra. C'est l'un des seuls moments documentés du règne de Kethron VI où l'Abbé a écrit. Aucun moine de l'île n'a, à ce jour, demandé pourquoi.
+En l'an 250, Sorin Valthen débarqua à Baelor, sans amulette ni signe. Il attendit huit jours. L'Abbé Kethron VI le reçut dans la Salle du Silence et lui écrivit, au pinceau, sur un parchemin enluminé, **un seul mot** : *Dessous*. Sorin reçut le parchemin. Il ne réclama pas plus. Au douzième matin, le vent tourna au nord-est, et il quitta Baelor vers le grand nord. C'est l'un des seuls moments documentés du règne de Kethron VI où l'Abbé a écrit. Aucun moine de l'île n'a, à ce jour, demandé pourquoi.
 
 ---
 
@@ -205,7 +205,7 @@ La minorité qui pense autrement n'a aucun argument à opposer. Ils n'essaient p
 
 Ce que cette histoire ne dit pas : le nom du berger. Aucun nom n'a été conservé. Plusieurs bergers du plateau central pourraient être l'origine du récit, qui circule depuis au moins six générations sous différentes versions. La version qui suit est l'une des plus anciennes attestées, transcrite dans une lamelle scellée d'Olfra et reconnue par les bergers contemporains comme *« la version qui ressemble à ce qu'on faisait »*.
 
-Le berger vivait dans une cabane de pierre sèche sur le flanc nord-est de la dorsale, à deux jours de marche de Baeloris. Il gardait un troupeau de chèvres rocheuses dont la laine grossière fournissait le cloître d'Olfra. Il parlait peu, ce qui n'est pas remarquable à Baelor. Il sortait chaque matin avec ses chèvres, parcourait le plateau central pendant la journée, rentrait avec elles le soir. Cinquante ans de cette routine. C'est tout ce qu'il fit.
+Le berger vivait dans une cabane de pierre sèche sur le flanc nord-est de la dorsale, à quelques heures de marche de Baeloris. Il gardait un troupeau de chèvres rocheuses dont la laine grossière fournissait le cloître d'Olfra. Il parlait peu, ce qui n'est pas remarquable à Baelor. Il sortait chaque matin avec ses chèvres, parcourait le plateau central pendant la journée, rentrait avec elles le soir. Cinquante ans de cette routine. C'est tout ce qu'il fit.
 
 Mais sur le plateau central, il **posait des pierres**.
 

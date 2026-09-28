@@ -195,7 +195,7 @@ Karendis a pris ces trois noms et les a écrits dans un carnet privé. Il n'a pa
 
 Au sixième mois, il a brûlé le carnet.
 
-Il l'a brûlé dans sa propre cheminée, le quatorze du mois Vanir 252 (par hasard, le jour même où Sorin Valthen, qu'il ne connaîtra jamais, traversait à pied les cendres d'Aïkhar vers le Détroit). Il a regardé les pages se consumer. Puis il a écrit, sur une autre feuille, deux phrases :
+Il l'a brûlé dans sa propre cheminée, le quatorze du mois Vanir 252. Il a regardé les pages se consumer. Puis il a écrit, sur une autre feuille, deux phrases :
 
 > *« Les Maîtres ne sont pas des Délies. Mais quelque chose passe par eux que je ne sais pas nommer. Si je le nomme, je détruis Cinderhold. Si je le tais, je deviens Cinderhold. »*
 
@@ -217,17 +217,17 @@ Aldwin a noté chaque épisode. Pendant neuf ans. Son registre — qu'il garde d
 
 Aldwin n'a montré le registre à personne. Il a essayé une fois, en 250, de le montrer au Médiateur Maritime que Pyrevane poste pour Arkhen (le poste était occupé cette année-là par un fonctionnaire envoyé par le Conseil des Sept Feux). Le Médiateur a regardé poliment et a dit : *« C'est intéressant, monsieur Tessen. Je le signalerai à l'Assemblée. »* Le Médiateur n'a rien signalé. Le poste est redevenu vacant l'année suivante.
 
-En l'an 252, un cartographe étranger — un homme grand, mince, kharazirien, qui voyageait à pied, accompagné de personne — a fait halte à Suie-Haute pour deux nuits, en arrivant d'Aïkhar. Il s'appelait **Sorin Valthen**. Aldwin l'a accueilli à l'auberge. Il lui a demandé où il allait. Sorin a répondu : *« Là où ça fait moins chaud. »*
+En l'an 250, un cartographe étranger — un homme grand, mince, kharazirien, qui voyageait à pied, accompagné de personne — a fait halte à Suie-Haute pour deux nuits, en revenant d'Arkhen par la Suie. Il s'appelait **Sorin Valthen**. Aldwin l'a accueilli à l'auberge. Il lui a demandé où il allait. Sorin a répondu : *« Là où ça fait moins chaud. »*
 
 Aldwin a réfléchi. Il y avait quelque chose, dans ce voyageur fatigué, qui le mettait en confiance. Le soir de la deuxième nuit, alors que Sorin recopiait dans son carnet quelques notes sur le port, Aldwin a apporté son registre.
 
-> *— Je note la brume depuis quarante-trois ans. Et depuis dix ans, elle ne lève plus comme avant.*
+> *— Je note la brume depuis quarante et un ans. Et depuis six ans, elle ne lève plus comme avant.*
 
 Sorin a regardé le registre. Il a lu, lentement, plusieurs pages. Il a posé deux ou trois questions techniques — la durée moyenne, la fréquence, les variations saisonnières. Aldwin a répondu. Sorin a noté quelques chiffres dans son propre carnet — discrètement, sans demander la permission. Puis il a refermé le registre, l'a rendu à Aldwin, et a dit :
 
-> *— Je vais à Mylaris dans dix jours. C'est sur les flancs du Mont. J'écouterai. Si je trouve quelque chose qui ressemble à votre brume, je vous l'écrirai.*
+> *— Je viens de Mylaris. C'est sur les flancs du Mont. J'y ai écouté. Si je trouve quelque chose qui ressemble à votre brume, je vous l'écrirai.*
 
-Sorin est parti le lendemain. Il n'a jamais écrit. Pas par négligence — le voyage a continué, le ch. 27 a eu lieu à Mylaris, sa propre ouverture somatique l'a happé, l'image d'Aldwin et du registre s'est diluée dans tout ce qui a suivi. Aldwin n'a jamais reçu de lettre.
+Sorin est parti le lendemain. Il n'a jamais écrit. Pas par négligence — le voyage a continué, la mer vers Evertia puis le grand nord l'ont happé, l'image d'Aldwin et du registre s'est diluée dans tout ce qui a suivi. Aldwin n'a jamais reçu de lettre.
 
 Mais Aldwin a continué à noter la brume. Le registre, à l'heure actuelle, dépasse soixante-dix pages. La courbe continue de s'aggraver. Aucun Vigilant pyrevanien n'est jamais venu vérifier. Aucun savant lumasarien n'a ouvert la boîte sous le lit.
 

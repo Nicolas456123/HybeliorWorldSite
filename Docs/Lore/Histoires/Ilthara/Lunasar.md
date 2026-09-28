@@ -17,10 +17,10 @@ needs_review_for: []
 
 **La Codification des Cycles (~10 100 – 10 150).** Le système politique se codifia complètement : la lune croissante devint période des **questions** (on délibère, on ne tranche rien), la pleine lune période des **décisions** (l'Assemblée vote sous le ciel ouvert), la lune décroissante période d'**application** (on n'y revient pas), la nouvelle lune **silence** (aucune décision, marchés et tribunaux fermés).
 
-**Les visiteurs aux amulettes (an 222, 244, 252).** Trois cas consignés dans les seules marges du registre des Veilleurs, jamais dans les registres officiels :
-- **Aldric Valthen** (~an 222) — cartographe galenorien d'Evertia, arrivé par la mer, porteur d'une **amulette de pierre noire**. Resté quatre nuits, rencontra Solvanes, laissa un parchemin scellé avant de repartir vers le nord. Le Veilleur de lune qui le repéra prévint Solvanes.
+**Les visiteurs aux amulettes (an 222, 244), et le fils (an 250).** Trois passages consignés dans les seules marges du registre des Veilleurs, jamais dans les registres officiels :
+- **Aldric Valthen** (~an 222) — arrivé par la mer, porteur d'une **amulette de pierre noire**, pendant un Silence : il « savait se ranger le visage mieux qu'un Lunarien de naissance » et ne dit pas d'où il venait. Resté quatre nuits, rencontra Solvanes, ne laissa rien. La marge ne porte pas son nom : c'est son fils qui l'a reconnu (C/28). Le Veilleur de lune qui le repéra prévint Solvanes.
 - **Cartographe ulinorien anonyme** (an 244) — arrivé par la mer, amulette comparable, resté trois nuits, aucun document laissé, traces perdues vers la haute-Vytharia.
-- **Sorin Valthen** (an 252) — fils d'Aldric, cartographe galenorien revenu par la côte vytharienne, même amulette, resté cinq nuits. Reçut de Solvanes le parchemin laissé par son père trente ans plus tôt (carte partielle, symbole en troisième langue marquant un point en Evertia), puis repartit vers Baelor.
+- **Sorin Valthen** (an 250) — fils d'Aldric, cartographe galenorien arrivé de Mirathi par la route, sans amulette, resté douze jours ; reparti par la mer la première nuit du Silence, vers Caeloria puis Baelor, après avoir échappé sur les quais à Vels Draye. Solvanes ne lui remit rien (C/28).
 
 Solvanes, Veilleur de lune retraité resté influent, est le **dépositaire de mémoire** de cette série. Les Veilleurs actuels n'en tiennent aucun registre, et aucune institution lunarienne ne traite officiellement le sujet ; à sa mort, ce dépôt se dispersera.
 
@@ -76,7 +76,7 @@ Solvanes, présent ce soir-là dans les gradins, nota dans son journal : *« La 
 
 Le débat reprit. La décision fut votée — pour la solution la plus modérée, contre la plus efficace. Personne, au cours du vote, ne fit référence au geste de Mira. Mais le vote bascula d'un côté qu'aucun pronostic n'avait prévu.
 
-Mira est morte en l'an 252, peu après le départ de Sorin Valthen. La cause de la mort est consignée comme *vieillesse*. L'éclipse à venir, attendue dans les sept à douze ans, désignera quelqu'un d'autre. Aucun Lunarien aujourd'hui ne sait dire ce que Mira a *fait* en se levant ce soir-là. Aucune institution lunarienne ne lui a élevé de monument. Son nom apparaît sur la liste des Lunarchs comme tous les autres — chiffré, daté, sans glose.
+Mira est morte en l'an 252, deux ans après le passage de Sorin Valthen. La cause de la mort est consignée comme *vieillesse*. L'éclipse à venir, attendue dans les sept à douze ans, désignera quelqu'un d'autre. Aucun Lunarien aujourd'hui ne sait dire ce que Mira a *fait* en se levant ce soir-là. Aucune institution lunarienne ne lui a élevé de monument. Son nom apparaît sur la liste des Lunarchs comme tous les autres — chiffré, daté, sans glose.
 
 Le **Sablier** (vertu) ne demande pas qu'on commente. Il demande qu'on tienne. Mira a tenu pendant huit ans, dans une fonction qui n'avait aucun pouvoir de veto, et son geste d'une minute est la seule trace publique qu'elle laisse — un geste si discret que son sens reste en suspens, et que sa transmission n'oblige personne à rien.
 
