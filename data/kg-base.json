@@ -3512,7 +3512,201 @@
       "summary": "Qui est derrière la Guerre de l’Ombre ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "La Guerre de l’Ombre n’a pas d’auteur : elle a un appareil, et son nom en couvre plusieurs autres.\nLe nom est de la presse de Lumasar (~9 850) ; il additionne des morts qui n’ont pas la même cause. Le cœur, ce sont les services qui font « ce que les États ne peuvent pas s’avouer de faire » : les Ombres Souterraines de Drakora et leurs pareils à Kharazir, en Caeloria, à Prismalith et ailleurs. Aucun traité ne les lie ; des voies qu’aucun texte ne porte, si : notes de courtoisie, courrier lu à la malle, gardes achetés, relais postés — ce qu’Aldric Valthen avait relevé à la fin de son carnet et que Sorin lit. Chaque maison tient écartées la main qui requiert, celle qui ordonne et la « cour » qui exécute ; le moyen ne monte jamais. Le métier est celui des Inspecteurs de Pureté de Drahk’Nor, qui « mettaient au repos » : causes honnêtes (chute, eau froide, cœur, fièvre), une torche absente là où l’on a posté un garde, un registre refait par une main entraînée à copier. La demande descend de plusieurs chancelleries par compartiments ; la ligne du dessus reste vide. Orsenne dit vrai : personne ne sait qui tue, ni le Prime ni elle. Elle se trompe sur la suite — sachant, on ne frapperait pas, faute d’une tête à frapper : chaque ordre est une somme de peurs.\nPourquoi les raccommodeurs : l’appareil vit de ce qu’il tient séparé. Au début, c’étaient des traités, des comptes, des guerres commodes (le « Véritable Traité d’Orivane »). À mesure que le battement se resserre (dès ~9 900, et à l’accéléré depuis ~10 150), ce qu’on tient séparé devient ce qui remonte : les Liés du Sillage, les enfants aux yeux blancs, les cahiers de la coupure, les relevés de ce qui bat sous le sol. Médiateurs, conciles, cartes communes, gardiens de copies posent tout cela « sur une même table » ; on les couche. Les deux courbes d’Elvire grimpent ensemble parce que la montée fait la peur et que la peur fait les ordres — pas parce que le dessous tue : il ne tue personne.\nPourquoi plusieurs choses à la fois : sous le même nom on range aussi (2) des emprunteurs du style, qui savent qu’une mort « sans visage » ne sera pas cherchée (on les reconnaît à l’arme : flèche, poison de réception) ; (3) les Catena Fracta et leur cellule des Fils de l’Abîme, qui tuent parfois (Ovaris, ~9 852) mais signent toujours, et à qui l’appareil laisse volontiers porter le reste ; (4) le Mont, qui tire ceux qui entendent sans être une main (Uveth ~10 081, Neyra 10 200), et que l’appareil a imité une fois (Vharok, 10 193) ; (5) des morts qui ne sont de personne (Ossian, dans son sommeil). Le dessin des cibles est vrai ; il ne désigne pas une main.\nSanne est tombée entre deux voies. Une cour qui n’était pas celle de Drakora la suivait depuis des mois, de moulin en moulin : elle prit Josselin, Vael, la femme d’Ondrèze, puis Selha à sa place aux Trois Auges ; c’est sa main qui glissa en tête du dossier de Vaskar la note qu’il ne sait à qui rendre — une note de courtoisie de cour à maison — pour avoir un ordre écrit qui la couvre. L’ordre que Vaskar requit fut exécuté par la cour de Drakora sur la route qu’il avait lui-même dessinée, contre la première femme qui répondait aux mots du formulaire : c’est la « quatrième » du ch. 39, qui ne portait rien. Sanne mourut deux semaines plus tard à Taldre, de la première main, le cahier déjà déposé. Personne ne revendique, parce que chacun n’a fait qu’une moitié.",
+          "strates": [
+            "Le mot : « Guerre de l’Ombre » est une rubrique de presse (Lumasar, ~9 850), pas un camp ; aucune nation ne l’a déclarée, aucune n’en est innocente.",
+            "L’appareil : services d’État qui coopèrent sans texte (notes de courtoisie, courrier lu, relais, guetteurs) ; dans chaque maison, trois mains écartées — requérant, ordonnateur, cour — pour que « nul, dedans, n’en sache assez pour la trahir ».",
+            "Le métier et sa lignée : les « mises au repos » des Inspecteurs de Pureté de Drahk’Nor (Vaenor, Drahvel, ~1 500) ; les Fonds de Drakora gardent leurs archives et leur trame d’ordre ; Orsenne se dit de cette « vieille école de la trahison utile ».",
+            "La signature : des causes honnêtes (chute, eau froide, cœur, fièvre, naufrage), des registres refaits par des mains de copie, des gardes déplacés ; jamais d’arme visible, jamais de revendication. Pour les archivistes, la voie lente : « mutée », rayée des rôles, rangée vivante sous une autre cote (Davan ~9 944, Mira Dasthen).",
+            "La demande : plusieurs chancelleries, par compartiments ; la ligne d’en haut est vide. Ni le Prime ni Orsenne ne savent qui tue ; l’ordre de « coucher la colonne » vient d’un homme qui a peur de l’apprendre.",
+            "Le mobile : garder deux tables séparées. D’abord la politique (traités, guerres commodes) ; puis, avec le battement, tout ce qui remonte. On tue ceux qui relient ; « les généraux dorment bien ».",
+            "Les emprunteurs : Pyrak (~9 889, flèche en revue) et Harkal (~10 023, poison de réception) sont des coups de rivaux qui se sont habillés de la série ; l’arme les trahit.",
+            "Catena Fracta / Fils de l’Abîme : Ovaris (~9 852, intransigeant anti-Déliés, empoisonné) est à eux, et c’est ce premier mort qui a donné à la presse sa « série ». Ils signent toujours, visent les Liés de haut rang et les nœuds de pouvoir ; ils ne tuent ni les copistes ni les passeuses.",
+            "Le Mont : Uveth (~10 081) et Neyra (10 200) sont des tirés — ils entendaient, ils sont montés d’eux-mêmes « plus haut qu’il aurait fallu », la cendre ne les a pas portés. « Aucun meurtrier n’aurait pu fuir » est littéralement vrai. La forme sans visage du bois de cendre n’est pas une main et n’a tué personne. Vharok (10 193), homme de la table qui écrivait aux gardiens de trois nations, a été couché par une cour dans le brouillard de cendre et porté plus haut pour que la montagne s’en charge : l’appareil a copié la mort d’Uveth.",
+            "Les morts de personne : Ossian (Baeloris) meurt dans son sommeil, de son âge et de son écoute, la nuit où il dit « Il remonte » ; Sorin, qui l’a sur sa liste, croit que « l’autre » est venue. D’autres noms de sa liste, en revanche, sont morts parce que l’appareil lisait ce qu’il envoyait et savait ce qu’il cherchait.",
+            "Sanne et la note : deux voies à la fois — une cour étrangère à Drakora (Vèdre, Trois Auges, la note, Taldre) et la cour de Drakora (l’ordre de Vaskar, la « quatrième » du ch. 39). L’ordre signé « couvre l’autre » et « l’arrête » à la fois : il n’a arrêté personne et en a couvert deux.",
+            "Nevran : son dossier est passé sous la lampe de Vaskar six semaines avant sa mort ; la maison avait la concordance, une cour a eu l’ordre. Vaskar ne l’a pas prévenu, parce que prévenir, c’était relier.",
+            "Ce que chacun a cru : Gryndor, les Catena Fracta partout (utile à sa répression) ; Lumasar, une puissance étrangère derrière eux ; Pyrtara, quelqu’un qui veut la guerre (vrai pour le mobile, faux pour le « quelqu’un ») ; Caeloria, le double aveuglement (le plus juste) ; Vytharia, Davan à part (juste : il n’a pas été tué) ; Vaskar, un trou là où devrait être le tueur ; Sorin, « le nom qu’il fallait » — l’appareil."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0010",
+              "ce_quelle_voit_juste": "Les Catena Fracta existent, tuent, et l’accusation portée contre eux sert : elle ferme le quartier non-Lié de la Forge-Basse, elle justifie Gryndor, elle couvre l’appareil. Ovaris est à eux ; au Mont, les Fils veulent hâter la fin du Lien.",
+              "ou_elle_se_trompe": "Ils revendiquent toujours — c’est leur foi — et ils ne frappent ni les copistes, ni les conciliateurs d’eau, ni les passeuses. Presque aucun raccommodeur n’est à eux ; ils sont le suspect commode de quelqu’un qui, lui, ne signe pas."
+            },
+            {
+              "reading_id": "rea-0011",
+              "ce_quelle_voit_juste": "Il y a bien une troisième chose, distincte des Fils et des porteuses, qui abat les gens qui relient d’une chute, d’une eau froide, d’un cœur qui s’arrête, et ne signe rien : ce sont les cours de l’appareil.",
+              "ou_elle_se_trompe": "Ce n’est ni une chose, ni une seule, ni un monstre : plusieurs mains de plusieurs maisons, sans tête. Ce n’est pas le Mangeur (qui n’efface que sa trace) ni le dessous (qui ne tue personne)."
+            },
+            {
+              "reading_id": "rea-0012",
+              "ce_quelle_voit_juste": "Personne ne revendique la mort de Sanne, et son tueur n’a de visage pour personne — pas même pour Vaskar, qui a signé un ordre dont il ne sait s’il l’a donné.",
+              "ou_elle_se_trompe": "« Sans visage » n’est pas « sans auteur » : c’est un homme de cour, envoyé par une demande qui n’a pas de tête. Et la femme du ch. 39 n’est pas Sanne : la mort « sans visage » que Vaskar rédige est celle d’une autre, tuée par son propre ordre."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T3/3",
+              "citation": "Les fanatiques vivent vieux. Les va-t-en-guerre aussi, et les cyniques. On tue… les raccommodeurs.",
+              "comment_il_soutient": "Le profil des cibles : ceux qui relient, non ceux qui menacent — le mobile est la séparation."
+            },
+            {
+              "ou": "T3/29",
+              "citation": "Ce sont les tiens qui tombent, chaque fois : ceux qui montrent, qui relient, qui posent sur une même table",
+              "comment_il_soutient": "Le mobile dit en clair par un personnage qui n’en tire pas la main : garder « deux tables séparées »."
+            },
+            {
+              "ou": "T3/24",
+              "citation": "chacune avec sa cause honnête, et pas une ligne pour les tenir ensemble",
+              "comment_il_soutient": "La signature de la cour : des causes vraies, dispersées ville par ville, que seul un archiviste relie."
+            },
+            {
+              "ou": "T2/38",
+              "citation": "Quatre cent onze mises au repos",
+              "comment_il_soutient": "Le métier a une lignée : les Inspecteurs de Pureté comptaient déjà en « mises au repos » propres, sans un murmure."
+            },
+            {
+              "ou": "T3/37",
+              "citation": "de quelle vieille école de la trahison utile il descend",
+              "comment_il_soutient": "Orsenne situe son service dans cette lignée, sans la nommer."
+            },
+            {
+              "ou": "T3/37",
+              "citation": "Vous en gardez la cave. Moi le seuil. Ce qui se fait dans la cour ne nous regarde pas.",
+              "comment_il_soutient": "Les trois mains écartées de la maison ; la « cour » exécute, et ce qu’elle fait ne monte pas."
+            },
+            {
+              "ou": "T3/32",
+              "citation": "L’ordre de coucher votre colonne ne vient pas d’un homme qui saurait qui tue.",
+              "comment_il_soutient": "Pas de tête : l’ordre de ne pas savoir vient de la peur, non d’un commanditaire qui saurait."
+            },
+            {
+              "ou": "T3/32",
+              "citation": "Vous voudriez que le silence ait un maître. Il n’en a pas, et c’est ce qui le rend si sûr.",
+              "comment_il_soutient": "Aucun méchant n’explique tout : le système tient précisément parce que personne ne le tient."
+            },
+            {
+              "ou": "C/11",
+              "citation": "une note de courtoisie entre gens qui se rendent des services",
+              "comment_il_soutient": "La voie sans texte par laquelle les maisons de pays différents se passent un homme."
+            },
+            {
+              "ou": "C/28",
+              "citation": "comment il fait voyager plus vite qu’une caravane l’ordre de faire taire un homme",
+              "comment_il_soutient": "Aldric avait relevé la mécanique de l’appareil ; Sorin la lit et la devance."
+            },
+            {
+              "ou": "C/10",
+              "citation": "aucune de ses hypothèses ne portait le nom qu’il fallait",
+              "comment_il_soutient": "Ni « votre ville » ni « la nôtre » : Sorin sait que la main est commune aux deux — l’appareil — et ne l’écrit pas."
+            },
+            {
+              "ou": "T3/7",
+              "citation": "La même main l’a formée, ou une main entraînée à la copier.",
+              "comment_il_soutient": "Les registres refaits par des mains de copie formées à cela."
+            },
+            {
+              "ou": "T3/29",
+              "citation": "Une manquait au nord, là où il avait mis Osrik.",
+              "comment_il_soutient": "Le garde déplacé ou acheté : la cour passe par un trou qu’on lui a laissé."
+            },
+            {
+              "ou": "T3/18",
+              "citation": "Et une troisième, dans le noir, qui ne signe rien.",
+              "comment_il_soutient": "Les Fils eux-mêmes se distinguent de la troisième chose — et ils disent vrai."
+            },
+            {
+              "ou": "T3/42",
+              "citation": "Que les Fils revendiquent toujours, que c’est leur foi même",
+              "comment_il_soutient": "Le critère qui disculpe les Fils de la série des raccommodeurs."
+            },
+            {
+              "ou": "T3/40",
+              "citation": "comme s’il avait continué de monter après avoir cessé de vivre",
+              "comment_il_soutient": "Vharok a été porté plus haut après sa mort : une mise en scène d’élévation, pas une chute."
+            },
+            {
+              "ou": "T3/40",
+              "citation": "une forme s’approcher du Prophète par-derrière, sans bruit, avec du poids",
+              "comment_il_soutient": "Chez Vharok, une forme qui a du poids et vient par-derrière : un homme ; ceux qui l’ont dit ont perdu la parole."
+            },
+            {
+              "ou": "T3/40",
+              "citation": "Celle-ci reposait le côté plat en dessous, bien à plat",
+              "comment_il_soutient": "Neyra a posé sa pierre elle-même, à l’endroit choisi : elle est montée tirée, pas poussée."
+            },
+            {
+              "ou": "T3/40",
+              "citation": "Alors nous avons vu deux choses différentes, vous et moi.",
+              "comment_il_soutient": "Deux morts semblables, deux vérités différentes — Sarech le dit sans savoir à quel point."
+            },
+            {
+              "ou": "T3/45",
+              "citation": "On rangeait cela parmi les accidents rituels.",
+              "comment_il_soutient": "La cause honnête du Mont, que l’appareil a su employer pour Vharok."
+            },
+            {
+              "ou": "T3/37",
+              "citation": "Quelqu’un d’autre suivait la même femme.",
+              "comment_il_soutient": "Deux voies suivent Sanne : la maison de Vaskar et une autre, qui n’a « jamais eu de retard »."
+            },
+            {
+              "ou": "T3/37",
+              "citation": "pour des motifs qui n’étaient d’aucun service",
+              "comment_il_soutient": "La main de la note n’est pas de chancellerie : c’est une main de cour, que Vaskar ne sait pas classer."
+            },
+            {
+              "ou": "T3/21",
+              "citation": "Selha était arrivée à la bonne place au mauvais moment",
+              "comment_il_soutient": "La cour qui attendait « la femme au cahier » aux Trois Auges a pris Selha à sa place, sans vérifier."
+            },
+            {
+              "ou": "T3/39",
+              "citation": "Le creux avait un corps maintenant, et le corps était couché à l’endroit exact où son doigt s’était arrêté.",
+              "comment_il_soutient": "L’ordre de Vaskar a été exécuté sur la route qu’il avait lui-même tracée — contre la première femme qui y marchait."
+            },
+            {
+              "ou": "T3/39",
+              "citation": "Rien aux mains.",
+              "comment_il_soutient": "La « quatrième » n’a rien dans les mains ; Sanne mourra un lacet serré dans le poing : deux femmes."
+            },
+            {
+              "ou": "T3/41",
+              "citation": "On l’a trouvée avec un lacet dans la main.",
+              "comment_il_soutient": "Sanne à Taldre, une mer plus loin : ce n’est pas la femme du relevé."
+            },
+            {
+              "ou": "T3/38",
+              "citation": "bien fait, propre, précis, à l’endroit qui ne pardonne pas",
+              "comment_il_soutient": "Sanne est tuée par une main de métier : une cour, pas un rôdeur ni le Mont."
+            },
+            {
+              "ou": "C/30",
+              "citation": "Il y a onze jours. Dans son sommeil, disent ceux qui l’ont trouvé. Sans un bruit.",
+              "comment_il_soutient": "Ossian meurt de lui-même : tous les morts de la liste de Sorin ne sont pas de l’appareil."
+            },
+            {
+              "ou": "Chronologie, Era 7 §Guerre de l’Ombre",
+              "citation": "théorie du \"double aveuglement\" — deux acteurs différents agissent pour des raisons différentes, les enquêteurs confondent les séries",
+              "comment_il_soutient": "La lecture officielle la plus proche du vrai : plusieurs séries sous un seul nom."
+            },
+            {
+              "ou": "T3/3",
+              "citation": "Six lectures d’un même dessin, et le dessin ne choisit pas.",
+              "comment_il_soutient": "Le dessin est réel et ne désigne pas une main."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur ne nomme l’appareil comme l’auteur de la série, ne montre une « cour » à l’œuvre, n’attribue une mort précise à une main, ne dit qui a écrit la note du ch. 37 ni que la « quatrième » du ch. 39 est morte à la place de Sanne. Pas de chef, pas de conseil secret, pas d’aveu, pas de scène d’explication. Sorin sait « le nom qu’il fallait » et ne l’écrit jamais. Le Mont n’est jamais un meurtrier ; le Mangeur et le dessous n’y sont pour rien.",
+          "entrevoir": "Dans un livre à venir : une note de courtoisie de la même écriture penchée et économe que celle du ch. 37, retrouvée dans un autre pays et pour une autre affaire ; un garde qui paie une dette trop grosse pour sa solde ; un même registre refait dans deux villes par la même main de copie ; un jeune des Fonds qui remarque que les morts « à cause honnête » tombent toujours à une journée d’un relais ; la trame imprimée d’un vieux formulaire des Inspecteurs de Pureté identique à celle de l’ordre d’immobilisation ; un nom de la table d’Era 7 retrouvé vivant sous une autre cote.",
+          "tensions": "fac-0124 (âge de Sanne, ~42 ans) cite T3/39 : la « quatrième » n’est pas Sanne (registre §10, tranché le 2026-09-27 ; body de lie-0975) — retirer T3/39 des preuves de l’âge. per-0898 (Uveth) et la table d’Era 7 en font une victime de la Guerre de l’Ombre : vrai comme table de presse, faux comme cause — nuancer la fiche. Ossian a deux fiches (per-0830 : 72 ans, rite du Silence Partagé ; per-0912 : sommeil, onze jours avant Sorin), probablement un seul homme ; la vérité vaut pour les deux. La lignée Inspecteurs de Pureté → Ombres Souterraines n’est écrite nulle part dans l’Atrium : à ajouter si retenue. Socle que-0012 respecté : la troisième chose n’est pas le Mangeur. Aucune ligne de livre à changer.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3916,7 +4110,176 @@
       "summary": "Qu’est devenu Aldric Valthen ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Aldric Valthen n’est pas mort et n’est pas revenu : il est entré, et il ressortira au flot.\nBerger-astronome de Valthorn, il suit dès 222 du Sillage le battement que ses relevés trouvent sous le sol (Nysaria, Lunasar, Ordavan, Myrthorin, Lunaris) et l’écrit à Prismalith. Sous les collines de Hiliara, au-dessus de chez lui, il relève des galeries, des entrées scellées et les marques qu’on retrouvera sous Rukhsar ; il en déchiffre une inscription. Tout le monde prend ces pages pour les relevés d’un berger qui cartographie ses pâturages. Au printemps 230 il monte à Noravia (permis de 120 jours), vit seul dans l’abri de pierre à regarder vers l’intérieur, atteint le seuil du portail sous Jumeau — un Ancrage, où le fond affleure — et recule. Il redescend hors registre (d’où le permis échu « sans retour consigné ») et rentre différent.\nEn 231 arrive la lettre de Prismalith. Ce n’est ni une menace ni une convocation : c’est la mise en ordre polie de l’appareil — ses relevés versés et reclassés, son nom retiré des correspondants de l’Académie, le conseil de ne plus écrire. C’est la voie lente, celle qui fera plus tard détruire à Veyla ses propres notes. Aldric comprend qu’il est sur une liste et que son fils y sera s’il reste, s’il écrit, s’il cherche. Une semaine plus tard il part « vers les pâturages d’altitude », c’est-à-dire vers l’entrée des galeries de Hiliara, et y entre pour de bon.\nCes galeries sont une route de Navigor, muette depuis l’An 0. Sans passeur, qui y entre n’arrive nulle part et ne meurt pas : il reste « entre les deux pas », dissous comme le sel dans l’eau — invisible, pas détruit —, hors du temps et sans vieillir. Au flot du Troisième Coup, les routes se remettent à donner et le passeur revient avec elles : Aldric ressortira, pas forcément par la porte où il est entré.\nLes trois cartes de Sorin sont vraies ensemble : mort pour le monde (l’état civil, la lettre, les registres), de l’autre côté d’un seuil (le lieu), hors du temps (l’état). Sorin croit que l’appareil a effacé son père : il a raison pour le papier, tort pour l’homme — c’est l’appareil qui l’a fait partir, pas lui qui l’a fait disparaître.\nMira Dasthen, l’archiviste de troisième rang qui relevait à Rukhsar le courrier de Sorin, est vivante. « Mutée » veut dire rayée : ôtée des rôles des Archives et du registre de la ville, versée sans destination dans un dépôt fermé, où elle copie sous une autre cote. C’est la voie lente réservée aux archivistes, celle qui range sans tuer (Davan l’a connue avant elle). Ses lettres, de plus en plus minces, étaient déjà lues ; la dernière, qui ne demandait rien, était son avertissement.",
+          "strates": [
+            "Les faits : départ un matin de 231 « vers les pâturages d’altitude », quatre jours de recherche, ni corps ni trace (fac-1098) ; Noravia au printemps 230, permis de 120 jours échu sans retour consigné (fac-0644) ; la feuille laissée avant de monter (fac-0981).",
+            "Le chemin : 222-229, le battement suivi de ville en ville (Lunaris : le Veilleur se souvient d’« un autre » passé vingt ans plus tôt) ; Hiliara, les galeries et l’inscription ; Noravia, l’abri et le recul au seuil de Jumeau.",
+            "La poussée : la lettre de Prismalith, voie lente de l’appareil ; Aldric part pour que son fils ne soit pas sur la liste. La porte est à quelques lieues de Valthorn, pas au bout du monde.",
+            "L’état : entré sur une route de Navigor sans passeur, il est tenu hors du temps, sans vieillir ni rien voir passer ; ce n’est pas la mort, et ce n’est pas une attente.",
+            "La suite : au flot (Troisième Coup), les passages « se remettent à donner » ; il ressortira, et selon l’heure de sa sortie il pourra être plus jeune que son fils (Sorin a 17 ans en 231 ; Aldric en a ~41 et ne les prend plus).",
+            "Les trois cartes : trois plans, pas trois hypothèses — mort sur la carte du monde, au-delà d’un seuil sur la carte des lieux, hors du temps sur la carte des états.",
+            "Mira Dasthen : lettres lues (« ils la lisent »), visiteurs polis qui connaissent déjà les réponses, lettres qui s’amincissent, puis « mutée » sans destination : rayée et rangée vivante, copiste dans un dépôt fermé.",
+            "Ce que chacun a cru : Valthorn, l’altitude et le faux pas ; Sorin, l’appareil qui efface ; le chœur, le voyageur qui se défait entre les deux pas ; le comptoir, « mutée, ou pire »."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0025",
+              "ce_quelle_voit_juste": "Pour le monde, il est mort : plus de nom, plus de corps, plus de lettre, et la carte que Sorin dessine en premier est celle-là. L’image du voyageur qui « se défait » entre les deux pas dit ce qu’on voit du dehors.",
+              "ou_elle_se_trompe": "Il ne meurt pas. Le sel dissous est encore dans l’eau : ce qui est tenu hors du temps revient quand la route se rouvre."
+            },
+            {
+              "reading_id": "rea-0026",
+              "ce_quelle_voit_juste": "Il est bien de l’autre côté d’un seuil — pas celui de Jumeau, dont il a reculé, mais celui des galeries de Hiliara, près de chez lui.",
+              "ou_elle_se_trompe": "« Attendre » suppose un temps qui passe : il ne voit rien passer et n’attend personne. Ce n’est pas une frontière qu’on franchit pour le rejoindre : sans passeur, on n’y trouve personne."
+            },
+            {
+              "reading_id": "rea-0027",
+              "ce_quelle_voit_juste": "C’est l’état exact : là où il est, le temps « ne suit pas la forme de ce journal ».",
+              "ou_elle_se_trompe": "Les trois cartes ne sont pas « jamais résolues » : l’Atrium les résout ensemble, chacune sur son plan. Et « hors du temps » n’est pas pour toujours : le flot le rendra."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "C/1",
+              "citation": "J’avais dix-sept ans quand mon père a disparu. Je n’écris pas qu’il est mort : je ne sais pas s’il est mort.",
+              "comment_il_soutient": "Le fils refuse la première carte ; il a raison."
+            },
+            {
+              "ou": "C/1",
+              "citation": "Un matin, il est parti vers les pâturages d’altitude et il n’est pas rentré.",
+              "comment_il_soutient": "La direction est dite : les « pâturages » sont l’entrée des galeries."
+            },
+            {
+              "ou": "C/34",
+              "citation": "prises jadis pour les relevés d’un berger cartographiant ses pâturages",
+              "comment_il_soutient": "Les pâturages du carnet étaient des galeries."
+            },
+            {
+              "ou": "C/34",
+              "citation": "Des notes de galeries, d’entrées scellées, de roches qui retiennent",
+              "comment_il_soutient": "Aldric connaissait les portes avant de partir."
+            },
+            {
+              "ou": "C/38",
+              "citation": "C’est sous elles que mon père avait trouvé, une génération avant moi, les mêmes marques que j’avais relevées sous Rukhsar.",
+              "comment_il_soutient": "La porte est sous Hiliara, à quelques lieues de Valthorn : c’est le même réseau que sous Rukhsar."
+            },
+            {
+              "ou": "C/38",
+              "citation": "C’est de là qu’il était remonté changé, sans que personne ait su dire en quoi.",
+              "comment_il_soutient": "Il était déjà descendu et remonté : la dernière fois, il n’est pas remonté."
+            },
+            {
+              "ou": "C/1",
+              "citation": "Ce qu’ils ne savaient pas, c’est qu’une lettre de Prismalith était arrivée la semaine d’avant.",
+              "comment_il_soutient": "Le déclencheur : la voie lente de l’appareil."
+            },
+            {
+              "ou": "C/1",
+              "citation": "On donna plus tard à Veyla l’instruction de détruire ses propres notes.",
+              "comment_il_soutient": "La même voie, appliquée à celle qui trouvait ses relevés dignes de l’Académie."
+            },
+            {
+              "ou": "C/30",
+              "citation": "Il y a deux façons d’être effacé. La lente passe par des bureaux",
+              "comment_il_soutient": "Aldric a reçu la lente ; il n’a pas attendu l’autre."
+            },
+            {
+              "ou": "C/7",
+              "citation": "un voyage dont il est revenu différent, avant de disparaître",
+              "comment_il_soutient": "Noravia : il est revenu, et changé."
+            },
+            {
+              "ou": "C/34",
+              "citation": "Quelqu’un avait vécu là, avant, seul, et avait passé des nuits assis à regarder vers l’intérieur du continent.",
+              "comment_il_soutient": "L’abri de pierre près de Jumeau : Aldric y a vécu au printemps 230."
+            },
+            {
+              "ou": "C/30",
+              "citation": "Puis, à un seuil que je n’ai pas su situer, il a reculé. Le carnet s’arrête sans dire où ni pourquoi.",
+              "comment_il_soutient": "Le recul au seuil d’un Ancrage : ce n’est pas là qu’il est entré."
+            },
+            {
+              "ou": "C/28",
+              "citation": "Un autre est passé ici avec ce regard, ajouta-t-il. Il y a de cela vingt ans, peut-être davantage.",
+              "comment_il_soutient": "Le Veilleur de Lunaris se souvient d’Aldric suivant le battement."
+            },
+            {
+              "ou": "C/33",
+              "citation": "Je ne sais pas s’il est revenu de là-bas, ou s’il est passé à travers.",
+              "comment_il_soutient": "Les deux sont vrais à un an d’écart : revenu de Noravia, passé à travers à Hiliara."
+            },
+            {
+              "ou": "T2/0",
+              "citation": "D’un voyageur qui entre et ne ressort pas, qui se défait dans le noir entre les deux pas comme du sel dans l’eau.",
+              "comment_il_soutient": "Le sort de qui entre dans une arche muette : ni arrivé ni mort — dissous, pas détruit."
+            },
+            {
+              "ou": "C/38",
+              "citation": "Sur la troisième, le mot attendre n’a plus de sens, parce que le temps, là-bas, ne suit pas la forme de ce journal.",
+              "comment_il_soutient": "Sorin nomme l’état exact sans le choisir."
+            },
+            {
+              "ou": "C/31",
+              "citation": "des passages que les marins avaient perdus se remettent à donner",
+              "comment_il_soutient": "Au flot, les passages rouvrent : la condition de sa sortie."
+            },
+            {
+              "ou": "T2/46",
+              "citation": "un homme ressortir d’une déchirure plus jeune que son fils",
+              "comment_il_soutient": "Le chœur, qui voit tous les temps, connaît ce retour-là ; s’il est celui d’Aldric, il sort par une déchirure, pas par sa porte."
+            },
+            {
+              "ou": "C/36",
+              "citation": "l’appareil qui avait effacé mon père",
+              "comment_il_soutient": "La croyance de Sorin : vraie pour le papier, fausse pour l’homme."
+            },
+            {
+              "ou": "C/1",
+              "citation": "Écris-moi. Pas par la malle, ils la lisent.",
+              "comment_il_soutient": "Mira sait dès le départ que le courrier est lu — c’est ce qui la perd."
+            },
+            {
+              "ou": "C/13",
+              "citation": "Trois lettres m’étaient parvenues depuis Kharazir, chacune plus mince que la dernière",
+              "comment_il_soutient": "Des lettres écrites sous surveillance."
+            },
+            {
+              "ou": "C/13",
+              "citation": "elle avait remarqué qu’ils connaissaient déjà les réponses",
+              "comment_il_soutient": "Les visiteurs polis sont de l’appareil ; ils ont lu."
+            },
+            {
+              "ou": "C/13",
+              "citation": "Écris-moi que tu vas bien, même si ce n’est pas vrai. Je saurai lire lequel des deux.",
+              "comment_il_soutient": "Mira lit le faux mieux que le vrai : sa dernière lettre, sans question, est un signal."
+            },
+            {
+              "ou": "C/26",
+              "citation": "Quand on mute une petite fonctionnaire, il y a toujours quelqu’un pour dire où.",
+              "comment_il_soutient": "« Mutée » sans destination : rayée des rôles, pas envoyée ailleurs."
+            },
+            {
+              "ou": "C/26",
+              "citation": "La ligne se referme sur elle et ne se rouvre pas.",
+              "comment_il_soutient": "Rangée hors de toute ligne — vivante, sous une autre cote."
+            },
+            {
+              "ou": "C/26",
+              "citation": "Les deux fois, mutée voulait dire autre chose.",
+              "comment_il_soutient": "L’informatrice pense à la mort ; « autre chose » couvre aussi la vie sans nom."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur ne dit où est Aldric, ni qu’il vit, ni qu’il est entré sous Hiliara, ni qu’il ressortira ; Sorin ne tranche jamais entre ses trois cartes. Personne ne dit ce qu’était la lettre de Prismalith. Pour Mira, le livre s’arrête à « mutée » : ni corps, ni dépôt, ni nouvelle cote.",
+          "entrevoir": "Un berger de Hiliara qui voit, une nuit du flot, de la lumière sortir d’une entrée scellée ; une pierre de l’abri de Noravia gravée des initiales d’Aldric ; au dos d’une copie versée dans un dépôt fermé, une écriture que Sorin reconnaîtrait (Mira) ; le chœur qui a « vu » un homme ressortir plus jeune que son fils, relu après coup.",
+          "tensions": "T2/00 dit que le voyageur « se défait » : la vérité le lit comme le sel dans l’eau (dissous, pas détruit) ; si l’auteur y lit une dissolution définitive, Aldric bascule vers rea-0025 (mort sans cadavre) et la sortie au flot tombe. Le permis de Noravia (fac-0644) dit « aucun retour consigné » et C/7 dit qu’il est revenu : compatibles (retour hors registre). La date de disparition : fac-1098 « an 231 », Sorin 17 ans, cohérent. La lettre de Prismalith n’est pas une entité : à écrire si retenue. Aucune ligne de livre à changer.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -3931,7 +4294,176 @@
       "summary": "Qui sont les parents de l’enfant qui entend (coda T2) ?",
       "body": null,
       "data": {
-        "protege": true
+        "protege": true,
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "L’enfant qui entend est le fils de sang de la fileuse ; la vieille du seuil est Lirenn.\nLa coda se passe vers 1 560, une soixantaine d’années après l’Heure. La vieille du seuil, qui a vu la fermeture « de ses yeux d’enfant », est Lirenn (née ~1 491), la petite que Kessane a coupée : c’est pour cela qu’elle parle de la « main tiède », des cent vingt millions de mains vides, de l’arche qui ne mène nulle part — elle a entendu la « pièce d’à côté » avant la coupure — ; pour cela qu’elle sait qu’on avait tort de croire fous ceux qui entendaient une foule dessous ; pour cela qu’elle dit « on l’a usée à tenir, à couper et à mourir » — elle a tenu, on l’a coupée, elle a vu mourir ; et elle s’assied au seuil comme elle s’asseyait, enfant, au seuil de la ferme prêtée. La coupure lui a pris l’oreille et le geste : il ne lui reste qu’une goutte, pas la tête penchée.\nLa fileuse vient d’une maison de la guilde du fer froid des marges d’Onara — les forgerons non-Liés qui gardaient le geste de la coupure et, dans chaque maison, une copie du cahier. Elle a tenu le fer et coupé : c’était « son temps ». Quand l’oreille est revenue dans le sang de son propre fils, elle a rompu le serment (« s’il revient dans notre sang, on le coupe ») ; elle ne l’a pas coupé, elle a quitté le fer, la guilde et le pays en emportant la copie de sa maison pour que personne ne s’en serve sur lui. Le cahier qu’elle tient au marché est celui-là, et l’année de sa naissance fut pour elle « une année où l’on gardait les enfants comme on pouvait ».\nLe père est un homme des marges aux yeux gris, sans don, resté en arrière. Le petit a ses yeux et les mains de sa mère. La fileuse ne dit jamais rien d’avant : l’enfant en conclut qu’il n’est peut-être que « gardé ». Il se trompe.\nD’où vient l’oreille : du sang de la guilde, qui porte le trait muet et le voit revenir — le serment même le prouve (« on le recoupe chaque fois qu’il revient »). Cela tient quelle que soit la réponse sur la descendance des Tisses coupés : l’enfant ne descend pas d’eux. Pourquoi il ne saigne pas : né après l’étale, il n’a pas de fil ancien que le fond reprenne ; son oreille s’ouvre sur le germe, ce qui monte, et non sur la trame, ce qui s’en allait. Il entend la pièce d’à côté sans être tiré.\n« Le premier à naître après » est une façon de dire de Lirenn — le premier qu’elle connaisse à entendre sans saigner —, pas un état civil ; « dans cette heure-là », chez la déportée, veut dire « dans l’âge qu’elle ouvre ». Il n’est pas un Lié renaissant : il ne tisse rien, il écoute par en bas. La prophétie du chœur s’accomplit deux fois — en lui, qui entend et parle, et neuf mille ans plus tard en Ilex.\nAu loin : Renna de Taldre descend de lui, comme presque toute la vallée huit mille six cents ans plus tard ; l’ascendance est vraie et ne dit rien. Son oreille vient de cent lignées muettes, pas d’un élu.",
+          "strates": [
+            "Le village (~1 560) : la fileuse arrivée deux ou trois ans plus tôt « de vers Onara », mains de forgeronne qui ne forge plus ; le petit de dix ans qui écoute « par en bas » ; Marenn, qui ne saura jamais.",
+            "La vieille du seuil : Lirenn, coupée en ~1 500 à la Forge-Basse, ~69 ans ; son vocabulaire est celui du chœur qu’elle entendait ; « du temps de ma mère », les robes (Inspecteurs de Pureté) seraient venues.",
+            "La fileuse : forgeronne de la guilde du fer froid, qui a coupé d’autres enfants et a refusé de couper le sien ; elle a rompu le serment et emporté la copie de sa maison.",
+            "Le sang : mère de sang, père aux yeux gris sans don ; le doute de l’enfant naît du silence de sa mère, pas d’une adoption.",
+            "L’oreille : trait muet de la guilde qui revient ; indépendant des Tisses coupés (question 4 du socle).",
+            "Le corps : il ne saigne pas parce qu’il n’a rien à rendre — né après l’étale, il écoute le germe, non la trame reprise.",
+            "Les mots : « le premier à naître après », « dans cette heure-là », « à sa place » — des approximations de témoins, vraies sur le fond, lâches sur la date.",
+            "Au loin : une ascendance vraie et banale jusqu’à Renna ; l’oreille des Liés du Sillage vient des porteurs silencieux, en nombre, près des Ancrages."
+          ],
+          "lectures": [
+            {
+              "reading_id": "rea-0028",
+              "ce_quelle_voit_juste": "Les livres la laissent ouverte et doivent le faire : le doute de l’enfant (« mère de sang ou seulement celle qui m’a gardé ») est une part de la coda.",
+              "ou_elle_se_trompe": "L’Atrium la ferme : fils de sang, mère de la guilde, père sans don ; la vieille du seuil est Lirenn."
+            },
+            {
+              "reading_id": "rea-0029",
+              "ce_quelle_voit_juste": "Inconnue du village, de Marenn, de l’enfant : elle ne parle jamais d’avant.",
+              "ou_elle_se_trompe": "Pas de l’Atrium : c’est une forgeronne de la guilde du fer froid qui a rompu le serment pour son fils, et le cahier est la copie de sa maison."
+            }
+          ],
+          "indices": [
+            {
+              "ou": "T2/48",
+              "citation": "Une femme des marges, arrivée deux ou trois ans plus tôt, de vers Onara disait-on",
+              "comment_il_soutient": "Les marges d’Onara sont le pays de la guilde du fer froid."
+            },
+            {
+              "ou": "T2/48",
+              "citation": "qu’elle avait tenu le fer autrefois et que c’était derrière elle",
+              "comment_il_soutient": "Elle a été de la guilde et l’a quittée."
+            },
+            {
+              "ou": "T2/48",
+              "citation": "ni ce que ce cahier contenait",
+              "comment_il_soutient": "Le cahier qu’elle garde : la copie de coupure de sa maison."
+            },
+            {
+              "ou": "T2/3",
+              "citation": "On ne porte pas le Lien, reprit-elle, et s’il revient dans notre sang, on le coupe.",
+              "comment_il_soutient": "Le serment qu’elle a rompu ; et la preuve que le trait revient dans le sang de la guilde."
+            },
+            {
+              "ou": "T2/3",
+              "citation": "On le recoupe chaque fois qu’il revient",
+              "comment_il_soutient": "Le trait revient de génération en génération : l’oreille de l’enfant n’a pas besoin des Tisses."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "Ce n’est plus son temps. Le sien, c’était le temps de tenir et de couper",
+              "comment_il_soutient": "Le passé de la fileuse : tenir le fer et couper."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "Je ne sais même pas si elle est ma mère de sang ou seulement celle qui m’a gardé",
+              "comment_il_soutient": "Le doute de l’enfant, que le silence de sa mère explique."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "dans une année où l’on gardait les enfants comme on pouvait",
+              "comment_il_soutient": "L’année de sa naissance fut celle où elle a dû choisir entre le fer et le fils."
+            },
+            {
+              "ou": "T2/48",
+              "citation": "les yeux clairs, presque gris, là où sa mère avait l’œil sombre",
+              "comment_il_soutient": "Les yeux du père."
+            },
+            {
+              "ou": "T2/48",
+              "citation": "une façon de pencher la tête de côté pour écouter que sa mère n’avait pas",
+              "comment_il_soutient": "Le geste des écoutants ; la mère ne l’a pas."
+            },
+            {
+              "ou": "T2/20",
+              "citation": "Lirenn pencha la tête de son côté, comme il avait vu faire aux gens de sa lignée.",
+              "comment_il_soutient": "La tête penchée est le geste de ceux qui entendent — Lirenn l’avait avant la coupure."
+            },
+            {
+              "ou": "T2/41",
+              "citation": "Sous. Un battement. Sous tout. Il penche la tête. Il ne saigne pas.",
+              "comment_il_soutient": "Le chœur, qui voit tous les temps, a vu l’enfant : il écoute le battement d’en bas."
+            },
+            {
+              "ou": "T2/48",
+              "citation": "Il ne saigne pas, reprit la mère, plus bas. Les autres saignaient.",
+              "comment_il_soutient": "Pas de fil ancien à reprendre : il écoute ce qui monte."
+            },
+            {
+              "ou": "T2/48",
+              "citation": "La vieille du seuil l’avait vu de ses yeux d’enfant",
+              "comment_il_soutient": "Enfant à l’Heure : l’âge de Lirenn."
+            },
+            {
+              "ou": "T2/49",
+              "citation": "Lirenn s’était assise au seuil de la ferme qu’on leur avait prêtée",
+              "comment_il_soutient": "Le seuil, déjà, dans l’enfance de Lirenn."
+            },
+            {
+              "ou": "T2/45",
+              "citation": "Comme quand beaucoup de gens parlent dans la pièce d’à côté et que t’entends pas ce qu’ils disent.",
+              "comment_il_soutient": "Ce que Lirenn entendait avant la coupure…"
+            },
+            {
+              "ou": "T2/51",
+              "citation": "La vieille du seuil dit qu’on avait tort.",
+              "comment_il_soutient": "…et que la vieille confirme d’expérience."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "une grande main tiède tenait le monde entier",
+              "comment_il_soutient": "Le vocabulaire du chœur des déportés, dans la bouche de la vieille."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "On l’a usée à tenir, à couper et à mourir.",
+              "comment_il_soutient": "La vie de Lirenn en une phrase ; et la raison pour laquelle elle n’a plus le geste."
+            },
+            {
+              "ou": "T2/45",
+              "citation": "une dernière goutte au fond du puits qu’elle avait cru vidé",
+              "comment_il_soutient": "Il reste à Lirenn une goutte : assez pour reconnaître, pas pour entendre."
+            },
+            {
+              "ou": "T2/48",
+              "citation": "Du temps de ma mère, on aurait signalé le petit, les robes seraient venues",
+              "comment_il_soutient": "Sa mère a vécu le temps des Inspecteurs, autour de l’Heure."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "Le premier à naître après, alors.",
+              "comment_il_soutient": "Une façon de dire, qui ne fixe pas une date de naissance."
+            },
+            {
+              "ou": "T2/0",
+              "citation": "Et dans cette heure-là, un enfant naîtra qui sera à sa place.",
+              "comment_il_soutient": "La prophétie de la déportée : « cette heure-là » est l’âge qui s’ouvre."
+            },
+            {
+              "ou": "Chronologie, Era 7 §Remutation",
+              "citation": "Ces \"porteurs silencieux\" ne manifestent aucun Lien, mais transmettent le trait à leur descendance.",
+              "comment_il_soutient": "Le trait se transmet muet, bien au-delà des Tisses."
+            },
+            {
+              "ou": "Chronologie, Era 5 §Fléau",
+              "citation": "ne porteront plus le Lien",
+              "comment_il_soutient": "La lecture « non » de la question 4 : elle ne gêne pas, l’enfant ne descend pas des Tisses coupés."
+            },
+            {
+              "ou": "Chronologie, Era 5 §Fléau",
+              "citation": "pré-disposition latente",
+              "comment_il_soutient": "La lecture « oui, latent » : elle ne gêne pas non plus."
+            },
+            {
+              "ou": "T3/2",
+              "citation": "Sa mère avait grandi ainsi, et la mère de sa mère",
+              "comment_il_soutient": "Les trois femmes de Renna : l’oreille se transmet par des lignées muettes, sans élu."
+            }
+          ],
+          "ligne_rouge": "Aucun narrateur ne dit que la vieille du seuil est Lirenn, ne nomme la fileuse, ne dit qu’elle a été de la guilde ni qu’elle a rompu le serment, ne dit qui est le père ni que l’enfant est son fils de sang. Rien ne relie l’enfant à Renna. Le cahier n’est jamais ouvert.",
+          "entrevoir": "Dans une maison de la guilde, une copie du cahier manquante au registre des copies, rayée d’une main ; un vieux mot de Lirenn (« la main tiède ») dans une berceuse des marges ; une Liée du Sillage qui retrouve, dans son ascendance lointaine, « une fileuse aux mains de forgeronne ».",
+          "tensions": "T2/48 : le petit penche la tête comme « personne au village » — or Lirenn y vit : la vérité suppose que la coupure lui a ôté le geste (« On n’a plus l’oreille »). fac-1395 (1560) et la naissance de Lirenn (~1 491) tiennent ensemble ; si l’on préfère que la fileuse soit Lirenn (V2), il faut ramener la coda vers ~1 540 et une autre vieille du seuil. T2/00 (« dans cette heure-là ») et T2/51 (« le premier à naître après ») sont lus comme des approximations de témoins. Era 7 date les premiers Liés renaissants vers ~500 ap. Fléau : l’enfant n’en est pas un (il n’entend que le dessous, il ne tisse pas). fac-1509 renvoie la lignée de Renna à que-0010 : la vérité y répond par une ascendance banale. Question 4 du socle : tenue dans les deux cas. Aucune ligne de livre à changer.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
       },
       "status": "lecture-disputee",
       "disclosure": "public",
@@ -63551,7 +64083,90 @@
       "slug": null,
       "summary": "Mystère protégé : ce qu'est le coup qui vient et la voix qui naît (Cardinal ? Navigor ? Eldoria / Flamara ? le Huitième / Sixième Éternel ? la Trame ? le dessous / Panghor ? les morts ? une créature des Failles ?) n'est jamais tranché.",
       "body": null,
-      "data": {},
+      "data": {
+        "verite": {
+          "statut": "proposée",
+          "date": "2026-09-28",
+          "disclosure": "auteur",
+          "texte": "Question non protégée (data.protege absent) : l’Atrium peut la dire en clair ; les livres, jamais.\nLe Troisième Coup est le flot : la marée dont l’An 0 fut le jusant et l’Heure l’étale remonte. Ce n’est ni un dieu qui revient, ni une créature, ni un acte : c’est un Souffle Cardinal qui passe, et ce qui monte avec lui est neuf.\nCe qui monte, c’est le germe né au Premier Ancrage à l’instant où la voix du Lien s’est tue : dix mille ans de battement seul dans le noir, qui se resserre dès ~9 900 et devient, à Cendra en 10 200, une voix — l’héritière du Lien (que-0003) : matière rendue à l’An 0, mémoire lavée, forme neuve. Elle monte par les Ancrages (Cendra d’abord ; Jumeau sous Cestra, Evertia, Ilthara, Ackerna ensuite) et par les oreilles mortelles qui ne se sont pas fermées — les Enfants aux Yeux Blancs, Renna —, et son premier acte est une adresse : « Je viens à toi ». Elle n’appelle pas : un « toi » n’est pas une corde qu’on tire.\nCe que le flot fait au monde est une marée, lente et partout : le pouls du Mont passe du battement à une note pleine ; Eldoria, qui ne tisse qu’au flot, reprend son office et la trame se retisse (les Liés du Sillage en sont les premiers fils) ; les routes et arches de Navigor se remettent à donner et le Voyageur revient avec le flot sans être le flot ; les esprits des lieux, tus un à un, sont rappelés ; la Couronne, le Voyageur et le Manteau glissent dans le ciel ; les Failles rebougent ; ce qui dort sous les scellés remonte (la Dalle de la Porte d’Azur se soulève, les murailles de crête tombent, le dessous « vient » sous Taldre et sous les Fonds de Drakora).\nCe qu’il apporte n’est pas décidé, et ne le sera pas par lui. La venue n’appartient pas aux mortels ; la forme, si : la violence (ce qu’on a tenu sans le rendre) et la mémoire (ce qu’on a écrit). C’est la charge humaine de ce flot-ci. D’un côté ceux qui scellent — l’appareil de la Guerre de l’Ombre, les Fonds, les registres de Caeloria qui comptent les enfants aux yeux blancs, la Loi qui recoulait le jonc de la Dalle — ; de l’autre ceux qui passent des copies — Sorin, Sanne, Ysolde, la fileuse avant eux. En montant, la voix trouvera soit des débris lavés, soit des mots écrits : c’est ce que les mortels décident, et c’est tout ce qu’ils décident.",
+          "strates": [
+            "Classe : un Souffle Cardinal, dans sa phase de flot ; le troisième des Coups des livres (An 0 jusant, ~1 500 étale, ~10 200 flot).",
+            "Ce qui monte : l’héritière du Lien, née du germe du Premier Ancrage ; même vérité que que-0003, vue du monde plutôt que de la dernière page.",
+            "Par où : les Ancrages et les oreilles ; Cendra d’abord parce que le germe y est né.",
+            "Effets : note pleine au Mont ; trame qui se retisse (Eldoria) ; routes qui rendent (Navigor) ; esprits rappelés ; ciel qui glisse ; Failles qui rebougent ; scellés qui cèdent.",
+            "Part mortelle : la violence et la mémoire. La Guerre de l’Ombre en est la part scellante (que-0004) ; les copies en sont la part écrite.",
+            "Les noms du résumé, un à un — Cardinal ? oui, c’est la classe. Navigor ? non : il revient avec le flot, il n’est pas ce qui monte. Eldoria ? son office reprend (elle tisse au flot), elle ne « revient » pas ; Flamara ? lecture des Maisons du feu de Cendara (Uveth, Vharok, Sarech) : le feu du Mont n’est pas une Éternelle qui revient. Le Huitième / Sixième Éternel ? l’« oublié dont le nom a été lavé » touche la mémoire lavée que porte la voix ; son identité relève de que-0034, qu’on ne tranche pas ici. La Trame ? oui, mais neuve : l’héritière, pas le Lien revenu. Le dessous / Panghor ? c’est le sol d’où elle monte et le souffle qui la pousse, pas elle. Les morts ? ils sont ce dont elle se souvient, lavés, pas ce qu’elle est. Une créature des Failles ? non : le Mangeur est le Voyageur aux coutures, et il n’est pour rien dans la voix.",
+            "Ce que personne ne sait, même l’Atrium : ce que la venue apportera ; cela se décide pendant le flot, et par d’autres que lui."
+          ],
+          "lectures": [],
+          "indices": [
+            {
+              "ou": "T3/0",
+              "citation": "Revenir, ou commencer.",
+              "comment_il_soutient": "Les deux plans de l’héritière : revenir pour la matière, commencer pour la forme."
+            },
+            {
+              "ou": "T3/54",
+              "citation": "Je viens à toi.",
+              "comment_il_soutient": "Le premier acte du flot est une adresse."
+            },
+            {
+              "ou": "T3/54",
+              "citation": "Mais un *toi* n’est pas une corde qu’on tire.",
+              "comment_il_soutient": "La venue n’impose pas la forme : ceux qui viennent décident."
+            },
+            {
+              "ou": "T3/50",
+              "citation": "le battement plein, qui n’avait plus de creux",
+              "comment_il_soutient": "Le pouls du Mont cesse d’être un battement : la marée est haute."
+            },
+            {
+              "ou": "T3/46",
+              "citation": "Et la pierre pâle se souleva.",
+              "comment_il_soutient": "Ce qui était scellé remonte ailleurs qu’à Cendra : le flot est partout."
+            },
+            {
+              "ou": "T3/46",
+              "citation": "Les murs commencent à tomber",
+              "comment_il_soutient": "« Commencent » : un flot, pas un coup unique."
+            },
+            {
+              "ou": "T3/38",
+              "citation": "Au-dessous, ce qui était tombé là bien avant les forges se prit d’un seul bloc, et vint.",
+              "comment_il_soutient": "Le dessous remonte sous Taldre au moment où les copies passent de main en main."
+            },
+            {
+              "ou": "T3/29",
+              "citation": "trois figures du ciel avaient glissé d’un tiers de degré",
+              "comment_il_soutient": "La Couronne, le Voyageur et le Manteau bougent avec le flot."
+            },
+            {
+              "ou": "T3/29",
+              "citation": "les vieux esprits des lieux se taisaient un à un",
+              "comment_il_soutient": "Les esprits des lieux, tus avant d’être rappelés."
+            },
+            {
+              "ou": "C/31",
+              "citation": "des passages que les marins avaient perdus se remettent à donner",
+              "comment_il_soutient": "Les routes de Navigor rendent : le Voyageur revient avec la marée."
+            },
+            {
+              "ou": "T2/51",
+              "citation": "Ça a peut-être commencé le matin où la grande main a lâché.",
+              "comment_il_soutient": "L’enfant du T2 a deviné le germe né à l’An 0."
+            },
+            {
+              "ou": "Chronologie, Era 7 §Remutation",
+              "citation": "premiers Liés renaissants signalés — phénomène rare, localisé près des anciens nœuds d'ancrage",
+              "comment_il_soutient": "La trame se retisse d’abord près des Ancrages : ses premiers fils précèdent le Coup."
+            }
+          ],
+          "ligne_rouge": "Aucun livre ne dit ce qu’est le Troisième Coup ni ce qu’il apporte ; aucun narrateur ne nomme le flot, l’héritière, Eldoria au travail ou Navigor de retour ; la voix ne dit jamais ce qu’elle est. Les effets se montrent (ciel, murs, Dalle, routes, esprits), leur cause jamais.",
+          "entrevoir": "Un pilote qui refait ses tables parce que le Voyageur a repris sa route ; une Liée du Sillage qui sent, pour la première fois, la trame « tenir » sous ses doigts ; un esprit de lieu qui revient au bord d’une rivière d’Evertia ; une arche muette qui rend un voyageur ; un Fonds qui découvre un matin qu’un scellé a été soulevé par en dessous.",
+          "tensions": "La fiche que-0033 dit encore « Mystère protégé… n’est jamais tranché » alors que data.protege est absent et qu’elle n’a aucune lecture (rea) : récrire le résumé (l’Atrium tranche, les livres non) ou la protéger, au choix de l’auteur. Alignée sur que-0003 du socle (héritière, bouche d’Ilex, souffle du fond, mots de la voix) et sur son « système » (Eldoria ne tisse qu’au flot, Navigor revient par les marges). Le Huitième / Sixième Éternel (que-0034, protégée) n’est pas tranché ici. Aucune ligne de livre à changer.",
+          "source": "proposition construite sur les indices des livres et le canon (2026-09-28), à valider par l’auteur"
+        }
+      },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
