@@ -12,9 +12,9 @@ needs_review_for: []
 | | |
 |---|---|
 | **Type** | Plus grand continent d'Hybelior |
-| **Étendue climatique** | Du nord glacial au sud tropical |
+| **Étendue climatique** | Du nord tempéré, forestier et venteux, au sud froid ; le sol dément la latitude par endroits |
 | **Nations** | 8 (Ackerna, Drakora, Gryndor, Lythar, Pyrtara, Sylthara, Vytharia, Warenthor) |
-| **Diversité** | Identités radicalement contrastées : jungle tropicale, chaîne de montagnes cristallines, plaines de rêve, bibliothèques de cristal, steppes infinies |
+| **Diversité** | Identités radicalement contrastées : forêt géante sous double canopée, chaîne de montagnes cristallines, plaines de rêve, bibliothèques de cristal, steppes infinies |
 | **Unité** | Fragile, imposée par la taille même du continent : isolationnisme total impossible avec sept voisins ; les nations doivent se tolérer, commercer ou se défier |
 
 Repères d'identité par nation :
@@ -34,17 +34,17 @@ Repères d'identité par nation :
 **Reliefs et axes :**
 - **Ouest** — chaînes montagneuses cristallines, plongeant vers l'archipel volcanique de Pyrtara.
 - **Centre** — plaines tempérées, majorité des populations sédentaires : greniers de Sylthara, vallées de Gryndor, hauteurs verdoyantes d'Ackerna.
-- **Sud** — jungle dense de Warenthor et marécages de Noyrath ; masse végétale presque impénétrable.
+- **Sud** — taïga froide autour de la mer intérieure, toundra plus au sud ; au cœur de Warenthor, la forêt géante sous double canopée, que les voyageurs appellent la jungle, et les marécages de Noyrath ; masse végétale presque impénétrable.
 - **Est** — steppes sans fin de Lythar (jusqu'à des terres non cartographiées) ; brumes permanentes de Vytharia formant des frontières naturelles floues.
 - **Nord-est** — montagnes de Drakora, refuge des derniers Dragons d'Aube.
-- **Nord** — terres glaciales.
+- **Nord** — terres tempérées, forestières et venteuses.
 
 **Hydrographie :**
 - **Lac des Rêves** (cœur du continent) — seule étendue d'eau revendiquée par aucune des huit nations. Vytharia en tire son Voile ; Ackerna y entend ses esprits ; Sylthara règle ses semailles sur les humeurs de son brouillard. Aucune des trois ne le revendique ouvertement ; toutes le traitent comme un voisin qu'on ne contrarie pas.
 
-**Biomes :** montagnes cristallines (ouest) · archipel volcanique (Pyrtara) · plaines tempérées centrales (Sylthara, Gryndor, Ackerna) · jungle dense (Warenthor) · marécages (Noyrath) · steppes (Lythar) · zones de brume permanente (Vytharia) · montagnes du nord-est (Drakora).
+**Biomes :** montagnes cristallines (ouest) · archipel volcanique (Pyrtara) · plaines tempérées centrales (Sylthara, Gryndor, Ackerna) · taïga (sud, autour de la mer intérieure) et forêt géante sous double canopée (cœur de Warenthor) · toundra (sud) · marécages (Noyrath) · steppes (Lythar) · zones de brume permanente (Vytharia) · montagnes du nord-est (Drakora).
 
-**Climat :** gradient du nord glacial au sud tropical ; plaines centrales tempérées.
+**Climat :** du nord tempéré, forestier et venteux, au sud froid : taïga autour de la mer intérieure, toundra et terres brûlées de Drakora au sud-est ; plaines centrales tempérées. Le sol dément la latitude par endroits : vallée tiède de Brevana entre ses volcans, sous-bois moite du cœur de Warenthor, bassins de brouillard de Vytharia.
 
 ---
 

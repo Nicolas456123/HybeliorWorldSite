@@ -32,7 +32,7 @@ Les Anciens : entités dont la mémoire serait inscrite dans la roche avant leur
 **Reliefs et grands ensembles :**
 - **Fjords gelés du nord** (Skaldoria) — côtes profondément découpées, vents glacés huit mois sur douze, taïga rabougrie sur les hauts reliefs intérieurs. Hivers de la fin du 8e mois au début du 4e mois suivant. Navigation dangereuse même pour les Skaldoriens.
 - **Vallées intérieures de l'ouest** (Dhalvoria) — vallées encaissées séparées par des crêtes basses mais infranchissables sans col ; les chronologies haldriennes n'y sont jamais entrées avec succès. Climat tempéré humide, sols meubles, brumes matinales fréquentes. Toutes les vallées portent des **pierres gravées** (lues comme inscriptions des Anciens), densité supérieure à l'archipel central.
-- **Île principale — six régions ulinoriennes** : forêts tropicales à l'ouest (Xyria) · plaines arides au centre (Jentar), bordant le Grand Canyon de l'Écho · montagnes escarpées à l'est (Korrinor) · vallées fertiles au sud-ouest (Folinor) · côtes en mangroves au nord-est (Elarion) · collines boisées au sud-est (Tressalia).
+- **Île principale — six régions ulinoriennes** : forêt pluviale à l'ouest (Xyria) · plaines arides au centre (Jentar), bordant le Grand Canyon de l'Écho · montagnes escarpées à l'est (Korrinor) · vallées fertiles au sud-ouest (Folinor) · côtes en mangroves au nord-est (Elarion) · collines boisées au sud-est (Tressalia).
 - **Îles satellites** : Nylor (nord — forêts tempérées, Druides de l'Écho) · Serenth (sud — falaises, Grottes de Cristal, terre d'épreuve).
 
 **Hydrographie majeure :**
@@ -47,7 +47,7 @@ Les Anciens : entités dont la mémoire serait inscrite dans la roche avant leur
 - Propriétés acoustiques exceptionnelles selon les témoignages : les sons qui y entrent n'y semblent pas s'éteindre.
 - Centre cosmique de l'archipel dans la lecture ulinorienne ; géographiquement infranchissable (on le longe, on ne le traverse pas).
 
-**Climat :** tropical chaud à l'ouest et au sud-ouest de l'île principale · semi-aride au centre · tempéré frais en altitude à l'est · tempéré humide dans les Vallées dhalvoriennes · subarctique sévère à Skaldoria. Dans certaines régions de l'île principale, une journée de marche fait passer du tropical au tempéré frais.
+**Climat :** tempéré sur toute l'île principale, humide et moite à l'ouest et au sud-ouest, où la forêt pluviale de Xyria fait sa propre pluie · semi-aride au centre · tempéré frais en altitude à l'est · tempéré humide dans les Vallées dhalvoriennes · subarctique sévère à Skaldoria. Une journée de marche fait passer de la forêt pluviale de Xyria, moite et si sombre que le sol reste en pénombre, au tempéré frais des hautes terres ; au nord-est, les mangroves d'Elarion et leurs récifs chantants.
 
 ---
 

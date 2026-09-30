@@ -17,7 +17,7 @@ needs_review_for: []
 | **Religion secondaire** | Vael'Kurash (Culte des Esprits Anciens) |
 | **Culture dominante** | Tribale et animiste, ruines anciennes vénérées comme lieux sacrés |
 | **Histoire marquante** | La Révélation des Anciens |
-| **Ressources clés** | Cristaux résonnants, bois tropical, plantes médicinales rares, poisson, ambre d'écho |
+| **Ressources clés** | Cristaux résonnants, bois de la forêt pluviale, plantes médicinales rares, poisson, ambre d'écho |
 
 ---
 
@@ -71,7 +71,7 @@ needs_review_for: []
 | Tribu | Territoire | Spécialité | Symbole |
 |-------|-----------|------------|---------|
 | **Jentar** | Plaines centrales et Canyon | Chamanisme, lecture des ruines | Spirale d'écho |
-| **Xyria** | Forêts tropicales ouest | Herboristerie, artisanat du bois | Feuille à trois pointes |
+| **Xyria** | Forêt pluviale ouest | Herboristerie, artisanat du bois | Feuille à trois pointes |
 | **Korrinor** | Montagnes escarpées est | Taille de pierre, extraction de cristaux | Pic de montagne fendu |
 | **Folinor** | Vallées fertiles sud-ouest | Agriculture, élevage, commerce | Gerbe de blé doré |
 | **Elarion** | Côtes et mangroves nord-est | Pêche, navigation, construction navale | Vague et lune |
@@ -88,7 +88,7 @@ needs_review_for: []
 ## Régions
 
 ### Xyria
-Forêts tropicales denses couvrant tout l'ouest de l'île principale ; canopée si épaisse que le sol reste en pénombre perpétuelle. Abrite les ruines les plus anciennes de l'archipel, envahies par la végétation mais toujours vibrantes, les arbres poussant autour des structures en pierre. Couper un arbre près d'une ruine est puni de bannissement par la tribu Xyria.
+Forêt pluviale dense et moite couvrant tout l'ouest de l'île principale ; canopée si épaisse que le sol reste en pénombre perpétuelle. Abrite les ruines les plus anciennes de l'archipel, envahies par la végétation mais toujours vibrantes, les arbres poussant autour des structures en pierre. Couper un arbre près d'une ruine est puni de bannissement par la tribu Xyria.
 
 ### Jentar
 Cœur d'Ulinor — plaines arides et rocailleuses bordant le Grand Canyon de l'Écho ; concentration du pouvoir spirituel de l'archipel. Sol craquelé, parsemé de fissures d'où s'échappent parfois des murmures. La tribu Jentar règle au rythme du Canyon ses rituels, migrations et mariages.
@@ -120,12 +120,12 @@ Collines boisées du sud-est, forêt moins dense que celle de Xyria mais tout au
 ### Xylaris
 - Plus grande ville de la forêt occidentale, construite entièrement dans les arbres : plateformes de bois massif reliées par des ponts suspendus sur plusieurs hectares. Au sol, les ruines des Anciens sont intactes — interdites à l'habitation.
 - Bâtie en hauteur par pragmatisme (ne pas perturber les ruines occupant le sol) ; cette contrainte est devenue identité Xyria, un projet ultérieur de construire au sol ayant été rejeté pour cette raison.
-- Herboristes réputés dans tout l'archipel pour leurs remèdes à base de plantes tropicales. Le marché suspendu est le principal centre commercial d'Ulinor (cristaux, fourrures, poissons, potions).
+- Herboristes réputés dans tout l'archipel pour leurs remèdes à base de plantes de la forêt pluviale. Le marché suspendu est le principal centre commercial d'Ulinor (cristaux, fourrures, poissons, potions).
 - Population : Ville
 - Région : Xyria
 
 ### Vorthar
-- Village de lisière entre la forêt tropicale et les plaines de Jentar ; point de passage obligé entre l'ouest forestier et le centre aride. Né comme poste de repos pour voyageurs, fondé par des Xyria et des Jentar profitant de leur position frontalière pour commercer avec les deux tribus sans appartenir entièrement à l'une.
+- Village de lisière entre la forêt pluviale et les plaines de Jentar ; point de passage obligé entre l'ouest forestier et le centre aride. Né comme poste de repos pour voyageurs, fondé par des Xyria et des Jentar profitant de leur position frontalière pour commercer avec les deux tribus sans appartenir entièrement à l'une.
 - Habitants guides : connaissent les chemins sûrs à travers la jungle et ses pièges naturels.
 - Une ruine bien conservée se trouve à la sortie : un arc de pierre dont les inscriptions changent selon la saison (phénomène inexpliqué). Découvert lors de fondations de maison, qui furent déplacées pour préserver la ruine.
 - Population : Village

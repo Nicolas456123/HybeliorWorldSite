@@ -21,6 +21,13 @@ needs_review_for: []
 
 ---
 
+## Paysage et climat
+
+- Entre deux déserts, les clans tiennent une forêt chaude et ruisselante : les volcans endormis de [[Montagnes de Voldenor|Voldenor]] soufflent sous la terre une vapeur qui retombe en pluie tiède, et la jungle de Valoria ne vit que de ce souffle.
+- Plus haut, sur les terres rocailleuses et dans les passes de Voldenor, le pays reste rude : hivers impitoyables, orge de montagne, bêtes de pierre.
+
+---
+
 ## Gouvernement — La Confédération Clanique
 
 Pouvoir fragmenté entre les clans.

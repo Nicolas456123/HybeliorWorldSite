@@ -17,7 +17,7 @@ needs_review_for: []
 | **Religion secondaire** | [[Foedus Animae]] (Le Pacte des Âmes) |
 | **Culture dominante** | Vie en jungle, communion avec les esprits, spiritualité animiste |
 | **Histoire marquante** | L'Éveil de la Jungle |
-| **Ressources clés** | Bois tropicaux, plantes médicinales rares, pigments naturels, venins, fruits exotiques, cristaux de sève |
+| **Ressources clés** | Bois des conifères géants, plantes médicinales rares, pigments naturels, venins, baies et fruits du sous-bois, cristaux de sève |
 
 ---
 
@@ -74,7 +74,7 @@ Système mêlant pouvoir monarchique et tradition tribale.
 5. **Les Artisans de la Jungle** — sculpteurs de bois, tresseurs de lianes, préparateurs de poisons et de remèdes.
 
 ### Gastronomie
-- Viandes de gibier fumées dans des feuilles aromatiques ; fruits tropicaux variés ; racines bouillies dans du lait de coco ; insectes grillés aux épices.
+- Viandes de gibier fumées dans des feuilles aromatiques ; baies et fruits du sous-bois ; racines bouillies ; insectes grillés aux épices.
 - Chaque repas commence par une offrande symbolique à l'esprit du lieu : une bouchée déposée au pied de l'arbre le plus proche.
 
 ### Architecture
@@ -86,7 +86,7 @@ Système mêlant pouvoir monarchique et tradition tribale.
 ## Régions
 
 ### WarenthorRegion
-- Unique région : englobe l'ensemble du territoire, une jungle tropicale continue sans divisions naturelles évidentes.
+- Unique région : englobe l'ensemble du territoire, une forêt continue sans divisions naturelles évidentes. Le fond est une taïga de conifères géants ; au cœur, autour de Wyndor et jusqu'à Galdris, la double canopée garde un sous-bois moite et doux toute l'année : c'est ce que les voyageurs appellent la jungle.
 - Les anciennes frontières tribales subsistent dans la mémoire collective mais n'ont plus de valeur administrative.
 - **Stratification en trois niveaux** :
   - Canopée supérieure baignée de soleil : oiseaux et esprits du vent.

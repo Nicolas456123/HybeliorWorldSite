@@ -54,8 +54,8 @@ Au nord, séparée de la grande île par le Détroit de Suie.
 - **Boues nourricières** exploitées comme amendement par les paysans de Solara et d'Aïkhar.
 
 ### Climat
-- **Grande île** : chaud, sec, sulfureux.
-- **Arkhen** : tempéré humide, brumeux, doux.
+- **Grande île** : ciel de toundra, vent froid et sol gelé en surface ; mais pays-fournaise par-dessous : le Mont Cendra chauffe la roche, les fissures fument, et près des coulées, des forges et des bassins chauds l'air est chaud, sec et sulfureux.
+- **Arkhen** : le « pays-laine » ; taïga humide et brumeuse, plus fraîche que douce.
 - **Ilnara** : tropical étouffant.
 - Une journée de mer suffit à passer du pays-fournaise au pays-laine.
 

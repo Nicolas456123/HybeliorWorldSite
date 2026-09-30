@@ -11,9 +11,9 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Type** | Île-continent unique, tempéré-océanique, ceinturée de falaises noires |
+| **Type** | Île-continent unique, froide et subpolaire, ceinturée de falaises noires |
 | **Taille** | Petite île : ~10 km nord-sud × ~8 km est-ouest (deux lieues et demie sur deux), une cinquantaine de km² |
-| **Climat** | Tempéré-océanique frais, brumeux ; soleil ~1 jour sur 3 |
+| **Climat** | Subpolaire océanique : froid, venté, brumeux ; givre la plus grande partie de l'année, glace l'hiver ; soleil ~1 jour sur 3 |
 | **Nations habitées** | 1 ([[Baelor]]) — un seul peuple, une seule langue, une seule règle |
 | **Régime** | Théocratie monastique : les moines sont l'État, la culture et la quasi-totalité du peuple |
 | **Trait commun** | Règle du silence, écoute des falaises, art martial du silence |
@@ -30,31 +30,31 @@ Faits notables :
 **Côtes (4) :**
 - **Côte nord** — muraille de **falaises noires de basalte** (50 à 120 m), sans plage praticable sur toute sa longueur (~8 km). Unique crique abritée (défaut de la falaise large de ~200 pas) : site d'accostage des premiers moines et du port creusé de **Baeloris**. Reste de la côte inaccessible (défense naturelle de l'île).
 - **Côte ouest** — falaises basses, criques étroites, grottes marines profondes, plages de galets noirs. Habitat des **rares pêcheurs** (~une douzaine de hameaux) ; **cloîtres minoritaires** dispersés. Lieu où **Hesvar de Tholmë** vécut 13 ans dans une grotte sans laisser de trace.
-- **Côte sud** — plages de galets gris, promontoires bas, marais salants (récolte du **sel**), herbes médicinales (cueillette monastique saisonnière). Établissement principal : **Tholmë**. Côte la plus ouverte au commerce limité (Tyndara ; plus rarement Caeloria).
+- **Côte sud** — plages de galets gris, promontoires bas, marais salants (récolte du **sel** : l'eau de mer s'y concentre dans des bassins pendant le court été, puis s'achève dans des chaudières sur feux de tourbe), herbes médicinales (cueillette monastique saisonnière). Établissement principal : **Tholmë**. Côte la plus ouverte au commerce limité (Tyndara ; plus rarement Caeloria).
 - **Côte est** — venteuse, quasi inhabitée ; récifs et courants traîtres (aucun navire étranger). Promontoire de **Thyldris** : poste de veille sur l'horizon d'où, selon les Veilleurs, *quelque chose viendra* (ni quand ni quoi).
 
 **Intérieur (2 paysages) :**
-- **Plateau central** (mi-altitude) — collines de bruyère sous brume permanente dite **le Voile bas** (brouillard léger jamais entièrement levé, même en été). Troupeaux de chèvres rocheuses ; **cairns** anciens d'origine inconnue, entretenus de longue date.
-- **Dorsale de Velkadra** — chaîne de collines escarpées (ni montagnes ni simples hauteurs) courant nord-sud, sépare côtes ouest et est. Flancs orientaux : **cloîtres reculés** cachés par la brume, où survivent les pratiques marginales.
+- **Plateau central** (mi-altitude) — collines de lande rase (bruyère naine, mousses, lichens) sous brume permanente dite **le Voile bas** (brouillard léger jamais entièrement levé, même en été ; l'hiver, un brouillard givrant qui couvre de givre la lande et les cairns). Troupeaux de chèvres rocheuses ; **cairns** anciens d'origine inconnue, entretenus de longue date.
+- **Dorsale de Velkadra** — chaîne de collines escarpées (ni montagnes ni simples hauteurs) courant nord-sud, sépare côtes ouest et est. Neige et glace sur les crêtes tout l'hiver ; des névés s'attardent dans les combes jusqu'au cœur de l'été. Flancs orientaux : **cloîtres reculés** cachés par la brume, où survivent les pratiques marginales.
 
 **Hydrographie :**
-- 3 rivières courtes descendant de la dorsale de Velkadra vers la côte ouest ; **aucune navigable**.
+- 3 rivières courtes descendant de la dorsale de Velkadra vers la côte ouest ; **aucune navigable** ; prises par la glace au cœur de l'hiver.
 - Sources d'eau douce dans les falaises ; la **Source Sourde** (sous Baeloris) alimente tout le complexe monastique sans jamais avoir tari.
-- **Aucun lac à l'intérieur** : sur le plateau et dans la lande, seulement des mares de tourbière de 10 à 50 m. Le seul lac de l'île est perché sur la côte, à l'angle nord-ouest (ci-dessous).
+- **Aucun lac à l'intérieur** : sur le plateau et dans la lande, seulement des mares de tourbière de 10 à 50 m, gelées l'hiver. Le seul lac de l'île est perché sur la côte, à l'angle nord-ouest (ci-dessous).
 
 **Le lac perché de l'angle nord-ouest (Ce-qui-rend-le-ciel) :**
 - **Site** — là où la muraille nord rejoint la côte ouest, lac allongé d'est en ouest le long de la muraille (~1,2 km sur ~400 m), à une quarantaine de mètres au-dessus de la mer. Une étroite bande de lande le sépare du rebord, où la muraille fait 55 à 70 m.
-- **Eau** — douce et claire ; par temps calme, sa surface rend le ciel comme un miroir (gris d'argent la plupart des jours, bleue ou dorée au vent du nord-est). À l'extrémité ouest, un court déversoir entaille le rebord et se jette dans la mer par une **cascade** de même hauteur, à l'angle même.
+- **Eau** — douce et claire ; par temps calme, sa surface rend le ciel comme un miroir (gris d'argent la plupart des jours, bleue ou dorée au vent du nord-est). À l'extrémité ouest, un court déversoir entaille le rebord et se jette dans la mer par une **cascade** de même hauteur, à l'angle même. L'hiver, le lac prend en glace et la cascade se fige en colonnes le long de la muraille ; la glace ne cède qu'au printemps. L'hiver, le lac prend en glace et la cascade se fige en colonnes le long de la muraille ; la glace ne cède qu'au printemps.
 - **Abords** — à l'est, un **promontoire** d'environ 115 m s'avance en mer, percé à sa pointe d'une **arche** sous laquelle passe la houle ; vu de là, le lac paraît suspendu au-dessus de la mer, illusion qui cesse quand on descend à sa rive. Au sud de l'angle, sur la côte ouest, une crique étroite à grève de galets noirs ; dans son flanc nord s'ouvre une **grotte marine** qui s'enfonce sous l'angle. Alentour, landes rases, sans un arbre.
 - **Rumeur** — vue du large au vent du nord-est, la cascade semble sortir de la muraille noire. C'est l'origine de la **Source de l'Éternité** des marins étrangers, qui en ont fait un lac noir au cœur de l'île (cf. *Croyances*). Aucune vertu n'est attestée à son eau.
 - **Ce qu'en savent les Baeloriens** — les pêcheurs de la côte ouest le connaissent sans lui prêter de vertu. Les moines ne le nomment pas (évitement du nom, cf. [[Baelor]]) ; ils le désignent par un geste que les traducteurs rendent par « ce qui rend le ciel », d'où son nom. Certains Maîtres y voient une image de l'écoute que demande la règle : recevoir sans rien ajouter. Quant à la rumeur, les moines s'en tiennent à leur usage et ne la reçoivent ni ne la démentent.
 - Ne pas confondre avec la **Source Sourde**, sous Baeloris.
 
-**Biomes :** landes basses (majorité du plateau central), bruyères, prairies maigres, taillis de pins maritimes côtiers, bosquets de chênes nains dans les vallées intérieures. **Aucune forêt** véritable. **Aucun grand prédateur.**
+**Biomes :** lande rase subpolaire (majorité du plateau central) : bruyère naine, camarine, mousses et lichens, tourbières ; prairies maigres sur les terrasses abritées de la côte sud ; saules et bouleaux nains, couchés par le vent, dans les vallées intérieures. **Aucune forêt**, aucun arbre debout. Givre sur la lande la plus grande partie de l'année ; glace de rive dans les criques abritées l'hiver. **Aucun grand prédateur.**
 
 **Faune dominante :** chèvres rocheuses, oiseaux marins, **vailoth** (petit rapace nocturne local, toléré dans les salles d'écriture pour chasser les rongeurs).
 
-**Climat (détail) :** hivers longs, doux mais humides ; étés courts et frais ; soleil ~1 jour sur 3. Vent dominant du sud-ouest (apporte le brouillard) ; au nord-est il porte sec et clair et **découvre l'île** au regard (condition décrite par tous les récits de fondation).
+**Climat (détail) :** île froide, subpolaire. Hivers longs, froids et sombres : gel presque chaque nuit, neige sur la dorsale, glace dans les criques abritées, brouillard givrant sur le plateau. Étés courts et frais, quelques semaines sans gel. Soleil ~1 jour sur 3. Vent dominant du sud-ouest (apporte le brouillard) ; au nord-est il porte sec, clair et glacial, et **découvre l'île** au regard (condition décrite par tous les récits de fondation).
 
 ---
 
