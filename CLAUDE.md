@@ -113,6 +113,16 @@ Velmaris à 1,2 unité de la côte) ET visuellement par l'auteur sur le vrai
 fond (la carte s'affiche correctement dans son navigateur, contours
 alignés).
 
+**Eau dans `monde-contours.json` (2026-10-01).** La mer intérieure d'Ilthara et
+20 lacs sont des masses de `niveau: 'eau'` (`type` mer-interieure|lac, `dans`
+= continent hôte), jamais des terres : le tracé est rempli en evenodd, ses
+sous-chemins imbriqués sont des trous. Ces anneaux, et Cestra, la terre du
+sud-ouest et l'îlot (−418 ; −214) de Galenor, étaient restés dans le repère du
+tracé brut : recalés de (+5,2 ; +5,0) u par `scripts/corriger-anneaux-contours.js`
+(rejouable). Garde-fou : `node scripts/verifier-contours.js`. Les routes
+`data.parcours[].route` de l'Atrium ont été tracées avant : relancer
+`tracer-routes.js` puis `verifier-trajets.js --ecrire` dès que le graphe est libre.
+
 ⚠ **Les surfaces de PAYS ne le sont pas** — l'auteur l'a confirmé le
 2026-09-22 (« les polygones ne sont pas encore bons »). Mesure du jour :
 sur 30 surfaces, 2 seulement ne contiennent aucun lieu d'une autre nation,

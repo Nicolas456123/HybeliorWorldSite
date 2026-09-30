@@ -153,6 +153,19 @@ const masses = sousChemins
     return { nom, niveau: 'continent', aire: Math.round(m.aire), points: m.pts };
   });
 
+// ── anneaux imbriqués : le tracé est rempli en « evenodd », un sous-chemin de
+// profondeur impaire (contenu dans 1, 3… masses plus grandes) est de l'EAU
+// (mer intérieure, lac), pas une terre. Sans ce tri, le site les remplissait en
+// terres (registre du prototype, C2). Profondeur paire = terre (île dans un lac).
+const profondeur = (m) => masses.filter((o) => o !== m && o.aire > m.aire && m.points.every((p) => dedans(p, o.points))).length;
+for (const m of masses) {
+  const prof = profondeur(m);
+  if (prof % 2 === 0) continue;
+  const hote = masses.filter((o) => o !== m && o.aire > m.aire && m.points.every((p) => dedans(p, o.points)) && profondeur(o) % 2 === 0)
+    .sort((a, b) => a.aire - b.aire)[0];
+  m.niveau = 'eau'; m.type = m.aire >= 1000 ? 'mer-interieure' : 'lac'; m.dans = hote ? hote.nom : null; m.nom = null;
+}
+
 const OUT = path.join(ROOT, 'data', 'monde-contours.json');
 let doc = { _note: 'Côtes du tracé de l\'auteur (continents-trace.svg), repère monde via calage capitales. Jeux par ère (era_id null = actuel).', jeux: [] };
 if (fs.existsSync(OUT)) { try { doc = JSON.parse(fs.readFileSync(OUT, 'utf8')); } catch { /* remplace */ } }
@@ -164,5 +177,5 @@ doc.jeux.unshift(actuel);
 fs.writeFileSync(OUT, JSON.stringify(doc) + '\n');
 
 const somme = masses.reduce((s, m) => s + m.points.length, 0);
-console.log(`✔ ${masses.length} masses terrestres (tracé de l'auteur), ${somme} sommets`);
+console.log(`✔ ${masses.length} masses (tracé de l'auteur) dont ${masses.filter((m) => m.niveau === 'eau').length} anneaux d'eau, ${somme} sommets`);
 for (const m of masses.slice(0, 14)) console.log('  ', (m.nom || '(île)').padEnd(12), String(m.points.length).padStart(4), 'sommets | aire', m.aire);
