@@ -91,7 +91,10 @@ du monde.
   après coup. Un lecteur qui sait d'avance perd deux des trois paliers.
   (Consigne d'auteur, héritée de la bible des Chroniques §1.1.)
 - Sous-agents (outil Agent) : **toujours le modèle Opus 5** (`model: "opus"`),
-  consigne de l'auteur ; lots de 5 agents au plus en parallèle.
+  **en effort moyen**, consigne de l'auteur (2026-09-30 : « garde tout en moyen,
+  même les sous-agents ») — utiliser le type d'agent **`hybelior`**
+  (`.claude/agents/hybelior.md` : `model: opus`, `effort: medium`) ; la session
+  principale aussi reste en effort moyen. Lots de 5 agents au plus en parallèle.
 - Le registre des incohérences du lore :
   `Docs/Lore/Incohérences et chantiers — à résoudre.md`.
 
