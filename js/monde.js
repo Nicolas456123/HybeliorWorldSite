@@ -523,6 +523,7 @@ async function vueFiche(id) {
     const pan = h('div', { class: 'panneau verite' },
       h('div', { class: 'etiquette groupe-rel', text: 'La vérité de l’Atrium — les livres ne la disent jamais' }));
     if (verite.statut && verite.statut !== 'validée') pan.append(h('p', { class: 'verite-statut', text: 'Vérité ' + verite.statut + (verite.date ? ' le ' + verite.date : '') + ' — à valider par l’auteur.' }));
+    for (const a of verite.arbitrages_auteur || []) pan.append(h('p', { class: 'verite-statut' }, h('strong', { text: 'Tranché par l’auteur' + (a.date ? ' le ' + a.date : '') + ' : ' }), a.decision));
     for (const par of String(verite.texte).split(/\n+/)) if (par.trim()) pan.append(h('p', { text: par.trim() }));
     if (verite.systeme) {
       const det = h('details', {}, h('summary', { text: 'Comment tout s’emboîte — le système d’ensemble' }));
