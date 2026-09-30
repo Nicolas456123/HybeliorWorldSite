@@ -864,7 +864,7 @@ const CARTE_MEM = {
   vue: null,                     // { cx, cy, zoom } en coordonnées monde
   annee: 10200,
   couches: new Set(['fond', 'surfaces', 'spheres', 'lien']),
-  echelles: new Set(['region', 'cite', 'ville', 'bourg']),
+  echelles: new Set(['region', 'cite', 'ville', 'bourg', 'lieu-dit']),
   noms: new Set(['continents', 'nations', 'regions', 'villes', 'religions', 'epoque']),
   replie: matchMedia('(max-width: 700px)').matches,   // replié par défaut sur mobile
   trajets: new Set(),            // personnages dont le trajet est tracé
@@ -1015,6 +1015,7 @@ async function vueCarte(focusId) {
   }
   corpsCtl.append(groupeChips('Points', [
     ['region', 'régions'], ['cite', 'cités'], ['ville', 'villes'], ['bourg', 'bourgs'],
+    ['lieu-dit', 'lieux-dits'],
   ], M.echelles));
   corpsCtl.append(groupeChips('Noms', [
     ['continents', 'continents'], ['nations', 'nations'], ['regions', 'régions'],
@@ -1132,6 +1133,8 @@ async function vueCarte(focusId) {
     cite: { r: 4.6, c: 'rgba(240,216,148,.95)', halo: 14, seuilNom: 1.8 },
     ville: { r: 3, c: 'rgba(224,194,116,.75)', halo: 0, seuilNom: 3.2 },
     bourg: { r: 2.2, c: 'rgba(179,166,143,.65)', halo: 0, seuilNom: 5 },
+    // Édifices, lacs, points nommés que l'auteur a posés (l'Armarium, Ce-qui-rend-le-ciel)
+    'lieu-dit': { r: 2.6, c: 'rgba(196,208,214,.85)', halo: 0, seuilNom: 3.2 },
   };
   let survole = null, survoleEtape = null, drag = null, tAnim = 0;
   function etapeSous(mx, my, rayon) {

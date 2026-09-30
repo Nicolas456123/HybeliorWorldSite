@@ -3,7 +3,7 @@ tags: [lore, méta, atrium, incohérences, chantiers, à-résoudre]
 type: lore
 status: living
 date: 2026-07-17
-last_review: 2026-09-28
+last_review: 2026-09-30
 needs_review_for: []
 ---
 
@@ -608,6 +608,45 @@ du calendrier ; les chiffres de taille qui dépassent la carte sont nuls, la car
 foi (Baelor écrit, Ulinor, Cendara, Arkhen, Pyrevane à écrire) ; « mille lieues » reste
 une figure ; Baelor sans lac intérieur. Scripts : `scripts/verifier-trajets.js`,
 `scripts/baelor-echelle.js`, `scripts/inscrire-lac-perche.js`.
+
+### 15. L'Armarium (Frondeval) et les écarts relevés par l'étude de placement
+
+**Décision de l'auteur, 2026-09-30** (D17 du prototype,
+`HybeliorPrototype/Docs/DECISIONS.md`) : la bibliothèque du jeu devient un lieu du
+monde, **l'Armarium** (« la Taiseuse » dans la bouche du pays, devise « Omnia Dicta »
+gravée au-dessus du châtelet), dépôt fermé de la réserve du Conclave des Scribes sur la
+retombée sud-est de la chaîne de Frondeval, en Seraphia. Il entre à l'Atrium comme un
+lieu ordinaire : `lie-1069`, pointe de l'éperon en (−403,5 ; −138,8), situé dans
+Frondeval (`lnk-4023`) et dans Seraphia (`lnk-4024`) d'après les fiches de Velithor et
+d'Ithoria, ses deux plus proches voisins, jamais d'après le polygone ; alias
+`ali-0243`. Les arbitrages de D17 vivent dans `lie-1069.data.arbitrage`. Les cinq âges
+restent au corps de la fiche, marqués comme proposition : la lignée de Caverana n'est
+pas arbitrée (écart 1), aucun fait n'est versé. La Carte vivante dessine désormais les
+lieux-dits (l'Armarium, Ce-qui-rend-le-ciel). Script : `scripts/inscrire-armarium.js`
+(idempotent, sans reseed).
+
+**Le Conclave des Scribes n'a pas d'entité.** La Chronologie le décrit (Ère VI, « Le
+Conclave des Scribes (Celethor/Lumasar, ~5 500 → présent) ») ; le lien de l'Armarium à
+son propriétaire attend qu'on le crée (`lie-1069.data.conclave_des_scribes`). Ouvert.
+
+L'étude (`HybeliorPrototype/Docs/atrium_edifice/placement/PLACEMENT.md`, §6) a relevé
+huit écarts en chemin. Trois sont tranchés au canon dominant, par délégation de
+l'auteur (D17) ; les autres l'attendent.
+
+| # | Écart | Où | Arbitrage ou correction proposée | Statut |
+|---|---|---|---|---|
+| 1 | La Principauté de Caverana dure de ~2 500 à ~6 400, alors que les héritiers de Davan l'« établiront » après la Guerre des Trois Couronnes (~5 180 → ~5 230). Reste aussi à dire qui tient les montagnes de Caverana entre l'Incendie Sacré (~6 400) et la fondation de Seraphia (~8 800). | Era 6, l. 78 et l. 506 ; `pol-0063` | Lecture où les deux sont vrais : principauté vassale de Galenthis dès ~2 500, souveraine après les Accords de Lumasar (~5 228) ; la même table date d'ailleurs Solkethis (~4 200) d'avant la guerre, que le récit annonce pourtant comme à venir. Deux passages de la Chronologie, aucune majorité : à l'auteur. | ouvert |
+| 2 | Seraphia « fondée par Davan », de 5 181 à 10 200 selon son alias, ou vers 8 800 par Altheus selon les faits. | `ali-0118` ; `fac-0364`, `fac-0751` | Vers 8 800, par Altheus : Chronologie (Ère VI, table des nations), Histoire de Seraphia et deux faits contre un alias venu de `timeline-names.json`. Davan est l'ancêtre de la Principauté, non le fondateur de Seraphia. | **tranché** : `ali-0118` commence vers 8 800 ; de 5 181 à 8 800, le territoire porte le nom de Caverana (`ali-0244`) ; `pol-0006.data.arbitrage` |
+| 3 | Galenthis (200 → 5 181) et la Confédération de Galenthis-Centre (~2 800 → ~5 230) se recouvrent de 2 800 à 5 181. | `pol-0059` ; Era 6, l. 503 | Une seule polité : l'une et l'autre succèdent à l'Hégémonie d'Aethran, les trois héritiers se proclament « roi de Galenthis ». La Confédération est la forme que Galenthis prend vers 2 800 ; la chute reste à la Nuit des Trois Étendards (~5 181), la guerre qu'elle ouvre dure jusqu'à ~5 230. | **tranché** : alias `ali-0245`, `pol-0059.data.arbitrage` |
+| 4 | Les mots d'orientation des fiches ne suivent pas la carte : la Principauté de Caverana, « montagnes sud-est », et Meridia, « méridionale », sont à l'ouest de Galenor ; en Lumasar, Dromolia « occidentale » est au nord de Prismalith, Gistenora « orientale » à l'ouest, Boreluna « septentrionale » au sud. | Era 6, l. 506 ; `pol-0063`, `lie-0398`, `lie-0389`, `lie-0392`, `lie-0391` | La carte fait foi pour les positions (règle acquise). Mais le texte à écrire touche deux noms qui portent leur orientation, Meridia et Boreluna, et peut-être le découpage régional de Lumasar : à l'auteur. | ouvert (principe acquis) |
+| 5 | Le Gimtar, « région montagneuse du sud d'Elarian », est peint plat. | `lie-0888` | Relief non peint à cette échelle, ou fiche à reprendre : à voir avec la géographie construite (§14). | ouvert |
+| 6 | Le massif de Voldenor n'a qu'une position estimée, en conflit avec deux bourgs de Lumasar, Ithriona et Faldenor. | `lie-0065.data.carte` | Dessiner le massif, et dire si la chaîne peinte au-dessus de Mytzar est la sienne ou la montagne propre de Valoria. | ouvert |
+| 7 | Lumasar est une « aristocratie académique » dans sa fiche, une « République des Plumes » dans les faits de l'an 251. | `pol-0009` ; `fac-0725`, `fac-0772` | Les deux faits ne le disent plus depuis le raccord du 2026-09-27, et la République des Plumes est l'organe éditorial de Lumasar (`con-0093`), non son régime. Reste un double gouvernement que portent les livres eux-mêmes : un Consul élu et l'Assemblée des Guildes (Ère VII, l. 782 ; C/2, C/36 ; `ali-0124`), un Haut Cénacle et un Grand Recteur (fiche ; C/1, C/35, C/37). Qui gouverne quoi : à l'auteur. | sans objet pour l'écart relevé ; ouvert pour le double gouvernement |
+| 8 | Caelorn est rangée dans Qythros, « désert profond » de Torkam ; la carte la pose au bord d'un grand lac. | `lie-0162` | Écart assumé, comme Iskara ou Myrtam : position = carte de l'auteur, rattachement = fiches. | **tranché** : `lie-0162.data.arbitrage` |
+
+**Relevé en passant, non tranché** : `ali-0124` dit la République Marchande de Lumasar
+« seul régime républicain formel du monde », quand la fiche de Tyndara s'ouvre sur
+« Gouvernement — La République Marchande ».
 
 ---
 
