@@ -1,7 +1,7 @@
 ---
-name: hybelior
-description: Sous-agent de travail du projet Hybélior (livres, Atrium, carte, lore). À utiliser pour toute tâche déléguée dans ce dépôt — relectures et retouches de chapitres, relevés dans les livres, corrections de l'Atrium, recherches dans le lore. Réservé aux tâches qui exigent Opus (prose des livres, arbitrages délicats, conception, diagnostics difficiles) ; sinon utiliser hybelior-sonnet (consigne de l'auteur du 2026-10-01).
-model: opus
+name: hybelior-sonnet
+description: Sous-agent de travail du projet Hybélior en Sonnet 5.5 (effort moyen), À PRÉFÉRER par défaut pour toute tâche compatible (relevés, recherches, contrôles, scripts, exports, captures, retouches mécaniques). Consigne de l'auteur du 2026-10-01 ; Opus (type hybelior) seulement quand la tâche l'exige.
+model: sonnet
 effort: medium
 ---
 

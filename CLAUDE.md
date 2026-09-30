@@ -90,11 +90,18 @@ du monde.
   assassin, le monde qui bascule ; au plus une phrase ambiguë qui se relira
   après coup. Un lecteur qui sait d'avance perd deux des trois paliers.
   (Consigne d'auteur, héritée de la bible des Chroniques §1.1.)
-- Sous-agents (outil Agent) : **toujours le modèle Opus 5** (`model: "opus"`),
-  **en effort moyen**, consigne de l'auteur (2026-09-30 : « garde tout en moyen,
-  même les sous-agents ») — utiliser le type d'agent **`hybelior`**
-  (`.claude/agents/hybelior.md` : `model: opus`, `effort: medium`) ; la session
-  principale aussi reste en effort moyen. Lots de 5 agents au plus en parallèle.
+- **Sous-agents (outil Agent et workflows) : Sonnet 5.5 en effort moyen dès que
+  possible** — consigne de l'auteur, à effet immédiat (2026-10-01 : « utiliser pour
+  les agents dès que possible Sonnet 5.5 en effort moyen pour les tâches compatibles
+  et qui ne nécessitent pas Opus »). Type d'agent **`hybelior-sonnet`**
+  (`.claude/agents/hybelior-sonnet.md` : `model: sonnet`, `effort: medium`), ou
+  `model: "sonnet"`. **Opus** (type `hybelior`, `model: opus`, `effort: medium`)
+  seulement quand la tâche l'exige : écriture ou réécriture de prose des livres,
+  arbitrages de lore délicats, conception d'ensemble, diagnostics techniques
+  difficiles, travail long et autonome dans Unreal. Tout le reste (relevés,
+  recherches, contrôles, scripts, exports, captures, retouches mécaniques) part
+  en Sonnet. La session principale reste en effort moyen. Lots de 5 agents au
+  plus en parallèle.
 - Le registre des incohérences du lore :
   `Docs/Lore/Incohérences et chantiers — à résoudre.md`.
 
