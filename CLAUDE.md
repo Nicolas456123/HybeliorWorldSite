@@ -181,8 +181,9 @@ a reçu son marqueur (−57.3,−369.2)). Restent ~80 écarts uniformes de
 5-7 unités (artefact d'import de mai, sans enjeu) — ne pas « corriger ».
 Faits les 2026-09-10 : affichage `data.fourchette` et capitales
 anciennes ; surfaces manquantes (Iskara, Ackerna, Valoria + Seraphia,
-Baelor-Prime via la côte de son île — 30 pays au total). Restent non extractibles de « Hybelior Pays.png » : Caeloria (territoire blanc,
-îles célestes), les No Man's Land (Warenthor a reçu le 2026-09-14 la lobe
+Baelor-Prime via la côte de son île — 30 pays au total). Restent non extractibles de « Hybelior Pays.png » : Caeloria (territoire blanc ;
+théocratie d'Azoria, « le Royaume des Cieux Gelés », pol-0022 — les îles
+célestes sont celles d'Astravia, pas de Caeloria), les No Man's Land (Warenthor a reçu le 2026-09-14 la lobe
 sud-ouest d'Ilthara, extraite depuis l'ancien marqueur « Haldria ») ;
 l'île de Baelor n'est qu'un blob de 33 unités² dans continents-trace.svg
 (Thyldris tombe en mer) — à compléter dans le tracé si l'île doit
