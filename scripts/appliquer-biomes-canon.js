@@ -207,9 +207,16 @@ retouche('lie-0926', 'body',
 
 /* ════════════════════ V10 · Evertia ════════════════════ */
 const P_V10 = SRC('V10 (Evertia : double canopée, rien de mortel, faune normale), F5 et §4.1');
-retouche('pol-0116', 'body',
+const V11_PHRASE = ", dont les oiseaux n'ont plus le même chant depuis le Silence";
+if (!ent('pol-0116').body.includes(V11_PHRASE)) retouche('pol-0116', 'body',
   'lumière verte filtrée sans direction)',
   'lumière verte filtrée sans direction ; au-dessus, un second toit de couronnes d\'arbres émergents très espacés, vers 80 à 120 m, et entre les deux un air calme et saturé où pendent lianes et épiphytes : une double canopée, rien de mortel, et une faune de forêt tempérée humide)', P_V10);
+
+/* ════════════════════ V10 bis · Evertia : le chant des oiseaux (arbitrage du 2026-10-01) ════════════════════ */
+const P_V10B = "arbitrage de l'auteur du 2026-10-01 : le chant des oiseaux a changé depuis le Silence (T3/16 l. 174, C/24 l. 20), étrangeté discrète, aucune cause donnée (le Silence reste un mystère). Registre des incohérences, II, §14 (G).";
+retouche('pol-0116', 'body',
+  'une faune de forêt tempérée humide)',
+  'une faune de forêt tempérée humide' + V11_PHRASE + ')', P_V10B);
 
 /* ════════════════════ V14 · ruines suspendues de Caelum Prima ════════════════════ */
 const P_V14 = SRC('V14 (ruines suspendues au-dessus du cratère de Caelum Prima), F16');
