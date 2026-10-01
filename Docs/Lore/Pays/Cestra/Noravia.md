@@ -36,7 +36,7 @@ needs_review_for: [datations-précises, démographie-fine]
 
 ### La Paroi
 
-- Falaise de basalte protégeant la crique des vents dominants nord-est.
+- Falaise de basalte protégeant la crique des vents dominants nord-est : elle coupe le vent sur tout le secteur de la crique (abri de falaise), ce qui explique, pour les sceptiques, que les blizzards de Cestra ne frappent pas la colonie.
 - Point de signalisation depuis les fondateurs : un feu allumé en sommet est visible de huit à dix milles marins et signale qu'un bateau approchant peut amarrer.
 - Le feu n'est pas un phare permanent : il signale *un accord d'accueil*. Les bateaux arrivant sans que la Paroi ait été allumée pour eux doivent se faire reconnaître par signaux ; à défaut, ils attendent au mouillage extérieur ou repartent.
 

@@ -88,7 +88,7 @@ Région orientale connue pour ses jardins d'illusions (plantes semblant douées 
 Région montagneuse du nord, plus sombre ; illusions inquiétantes (ombres mouvantes, échos de voix disparues, créatures innommables). Zone la plus active des Noctari ; patrouilles permanentes des Veilleurs.
 
 ### Gelinar
-Région méridionale sous brume perpétuelle ; domaine des Artisans du Rêve. Lieu de fabrication des cristaux oniriques, encens de rêve et soies de brume (matériaux imprégnés du Voile), exportés avec parcimonie vers les autres nations.
+Région méridionale sous brume perpétuelle ; domaine des Artisans du Rêve. La brume est un brouillard de cuvette : l'air froid et humide de la nuit reste piégé sous une inversion, épais et laiteux à l'aube, plus fin et gris à midi, presque bleu le soir, sans jamais se lever tout à fait. C'est de l'eau (il mouille, il givre), et c'est à son épaisseur qu'on lit l'heure. Lieu de fabrication des cristaux oniriques, encens de rêve et soies de brume (matériaux imprégnés du Voile), exportés avec parcimonie vers les autres nations.
 
 ---
 
@@ -144,7 +144,7 @@ Centre artisanal de Gelinar : transformation des matériaux oniriques en objets 
 - Région : Gelinar
 
 ### Kaloria — Village
-Village de récolteurs de brume, dans la partie la plus brumeuse de Gelinar ; filets enchantés pour capturer la brume imprégnée du Voile, condensée en un liquide laiteux servant de base aux soies de brume. Travail dangereux : inhaler trop de brume concentrée peut plonger dans un sommeil sans réveil (trois récolteurs ainsi endormis depuis la fondation, maintenus en vie ; les Voilés communiquent parfois avec eux dans le rêve).
+Village de récolteurs de brume, dans la partie la plus brumeuse de Gelinar ; filets enchantés pour capturer la brume imprégnée du Voile, condensée en un liquide laiteux servant de base aux soies de brume. Travail dangereux : inhaler trop de brume concentrée peut plonger dans un sommeil sans réveil (trois récolteurs ainsi endormis depuis la fondation, maintenus en vie ; les Voilés communiquent parfois avec eux dans le rêve). Ce qu'on observe : par nuit calme, du gaz carbonique d'origine volcanique s'accumule au fond de la cuvette sous la brume et endort qui le respire ; le vent et le brassage du jour le chassent. Le Voile et les rêves partagés sont la lecture des Voilés et des anciens du village.
 - Population : Village
 - Région : Gelinar
 

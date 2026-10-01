@@ -22,7 +22,7 @@ needs_review_for: []
 
 ## Description
 
-- Continent abandonné par toute tentative de conquête : tundra glacée à perte de vue, glaciers massifs (certains si anciens que leur glace a une teinte bleue-noire).
+- Continent abandonné par toute tentative de conquête : tundra glacée à perte de vue, glaciers massifs (certains si anciens que leur glace a une teinte bleue-noire : vieille glace bleue, feuilletée de lits de cendre volcanique).
 - Montagnes de glace en épine dorsale : parois verticales de givre compacté, vents capables d'arracher la peau ; quasiment infranchissables.
 - Aucune ville, aucun village, aucune route.
 - **No Man's Land** = l'ensemble du continent à l'exclusion de la crique de [[Noravia]]. Dénomination employée par les chancelleries des continents voisins et reprise par les chroniqueurs noviens.
@@ -99,7 +99,8 @@ needs_review_for: []
 ### Les Tempêtes Vivantes
 - Blizzards aux comportements jugés atypiques : déplacements contre le vent dominant, changements de direction paraissant suivre les voyageurs, intensification autour des campements.
 - Lectures : esprits de glace et de vent réagissant à la présence humaine (Chamanes des Brumes) ; effets topographiques mal compris (autres voyageurs).
-- Régularité notée : les Tempêtes Vivantes *évitent* le périmètre de Noravia. Aucune tempête majeure n'a frappé la colonie depuis sa fondation. Lectures : *donnée pratique sans interprétation* (Conseil de Maintien) ; *effet de l'accord* (Chamanes).
+- Ce que le relief en dit : ce sont des blizzards de calotte. Au sol souffle le vent catabatique, qui descend de la calotte ; la tempête avance avec la dépression que pousse le vent d'altitude, en sens inverse, d'où l'impression qu'elle remonte le vent. Les cols et les falaises coupent ou détournent le vent avant certaines entrées ; la Paroi abrite la crique de Noravia du vent de nord-est.
+- Régularité notée : les Tempêtes Vivantes *évitent* le périmètre de Noravia. Aucune tempête majeure n'a frappé la colonie depuis sa fondation. Lectures : *donnée pratique sans interprétation* (Conseil de Maintien) ; *effet de l'accord* (Chamanes) ; *abri de la Paroi*, qui coupe le vent de nord-est sur la crique (sceptiques).
 
 ### Le Froid Ancien
 - Au-delà d'une certaine altitude ou profondeur : froid distinct du froid hivernal — traverse les fourrures les plus épaisses, éteint les feux magiques, gèle le sang en quelques minutes ; semble repousser les vivants.

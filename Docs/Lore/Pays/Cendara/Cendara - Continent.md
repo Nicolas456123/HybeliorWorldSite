@@ -13,7 +13,7 @@ needs_review_for: []
 |---|---|
 | **Type** | Archipel volcanique (sommets émergés d'une terre engloutie lors de l'Effondrement Premier) |
 | **Population** | ~90 000 habitants |
-| **Relief-roi** | **Mont Cendra** — cône tronqué > 3 000 m, visible de tout l'archipel ; pulse ~1 fois toutes les 46 secondes (relevés tenus depuis 3 siècles par la Voix sous les Cendres) |
+| **Relief-roi** | **Mont Cendra** — cône tronqué > 3 000 m, visible de tout l'archipel ; pulse ~1 fois toutes les 46 secondes (relevés tenus depuis 3 siècles par la Voix sous les Cendres) ; ce que montrent le sol et les mares, c'est une respiration de gaz volcanique : la colonne de magma du Mont se gonfle de gaz puis se vide à ce rythme, ce qui fait frémir les mares et vibrer le sol (la cause de la régularité n'est pas établie ; la période est propre au Mont) |
 | **Ensembles** | 3 (la Grande Île + Arkhen + Ilnara) séparés par des bras de mer |
 | **Nations** | 3 ([[Brumaria]], [[Pyrevane]], [[Arkhen]]) |
 | **Religion commune** | Ignis Aeternum (panthéon Eldoria/Flamara, Phénix, Délies), lue différemment par nation |

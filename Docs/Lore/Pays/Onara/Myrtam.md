@@ -32,6 +32,12 @@ Pouvoir centralisé et vertical :
 
 ---
 
+## Les façades de forge
+
+Les grandes forges de Myrtam s'ouvrent dans le flanc de la montagne par des façades taillées dans la roche, aux portes de soixante à cent vingt mètres, noircies par des siècles de fumée ; la ville s'étage à leurs pieds. On y lit encore les marques d'outils des premiers tailleurs, sous la suie.
+
+---
+
 ## Religion
 
 ### [[Ignis Aeternum]] — La Flamme Éternelle (religion officielle)

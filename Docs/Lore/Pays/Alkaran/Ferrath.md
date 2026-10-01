@@ -35,6 +35,12 @@ Pouvoir distribué entre trois instances qui se chevauchent sans hiérarchie cla
 
 ---
 
+## Les portes taillées
+
+Les plus anciennes mines de Ferrath s'ouvrent par des façades taillées à même la falaise : un portail à linteau massif, des montants de roche vive, une cour d'accès, de trente à cinquante mètres de haut pour les plus grandes. Les siècles les ont usées au point qu'on distingue mal l'ouvrage de la roche ; les mineurs les entretiennent sans les refaire. On y passe, on n'y habite pas.
+
+---
+
 ## Religion
 
 ### [[Vael'Kurash]] — Voix-des-Anciens (religion dominante)

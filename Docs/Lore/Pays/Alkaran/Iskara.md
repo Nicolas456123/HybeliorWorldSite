@@ -33,6 +33,12 @@ Système politique fusionnant pouvoir royal et commandement militaire :
 
 ---
 
+## Les portails des vallées
+
+Chacune des vallées-forteresses d'Iskara s'ouvre par un portail taillé dans la falaise, de cinquante à quatre-vingts mètres de haut, flanqué de bastions creusés dans la roche vive ; la ville et les forges se tiennent à son pied. Le temps a adouci leurs arêtes et couvert les parois de lichen : de loin, on les prend pour des accidents de la montagne.
+
+---
+
 ## Religion
 
 ### [[Lex Petra]] — La Loi de la Pierre (religion dominante)

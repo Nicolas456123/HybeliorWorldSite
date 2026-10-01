@@ -86,7 +86,7 @@ Système mêlant pouvoir monarchique et tradition tribale.
 ## Régions
 
 ### WarenthorRegion
-- Unique région : englobe l'ensemble du territoire, une forêt continue sans divisions naturelles évidentes. Le fond est une taïga de conifères géants ; au cœur, autour de Wyndor et jusqu'à Galdris, la double canopée garde un sous-bois moite et doux toute l'année : c'est ce que les voyageurs appellent la jungle.
+- Unique région : englobe l'ensemble du territoire, une forêt continue sans divisions naturelles évidentes. Le fond est une taïga de conifères géants ; au cœur, autour de Wyndor et jusqu'à Galdris, la double canopée garde un sous-bois moite et doux toute l'année : c'est ce que les voyageurs appellent la jungle. Ce sous-bois est tamponné par la canopée (moins de gel la nuit, moins chaud le jour, air saturé, sans chaleur ajoutée) et sa repousse rapide (lianes, chablis) referme en une saison les sentiers qu'on n'entretient pas ; la forêt qui bouge de l'Éveil est la lecture de la tradition.
 - Les anciennes frontières tribales subsistent dans la mémoire collective mais n'ont plus de valeur administrative.
 - **Stratification en trois niveaux** :
   - Canopée supérieure baignée de soleil : oiseaux et esprits du vent.

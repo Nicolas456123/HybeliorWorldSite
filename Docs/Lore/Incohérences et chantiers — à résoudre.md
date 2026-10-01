@@ -647,6 +647,47 @@ cratère où l'eau remonte (le script refuse d'écrire un texte qui les nomme).
 | C8 | Aucune altitude chiffrée en Ilthara. | `lie-0584`, `lie-0582`, `lie-0107` | Pic de l'Aube 2 900 m, Mont Pyralis 2 400 m, Mont Kethar 1 900 m (`data.altitude_m`, avec leur source) ; positions proposées par la planche en `data.carte.position_estimee`. | **corrigé** |
 | C2 bis | Depuis que la mer intérieure et les lacs sont de l'eau (commit `0ae1db815`), dix positions tombent dans un lac : Crestalis et la région Crestalia dans l'anneau de 561 u² d'Endora (Crestalis à 4,2 u du bord), Soltharis et le marqueur de Ventera (lac de 72 u²), Azuralith, Zylarith, Nectoria, Caelorn, Ylthros, Thaloris (à moins de 1,7 u du bord). | `monde-contours.json` / Atrium | Non déplacés. Aucune fiche ne met Crestalis au bord d'un lac (c'est une cité de forêt), et le plan des biomes peint cet anneau en terre (F3) : l'anneau est sans doute trop large, ou n'est pas un lac. Les autres sont des écarts de bord. | ouvert (passe contours) |
 
+**G. Les biomes et le climat validés : ce qui entre au canon (2026-10-01).** Décision de
+l'auteur du 1er octobre (D23 du prototype, `HybeliorPrototype/Docs/DECISIONS.md` :
+« Je valide tout le travail sur les biomes et la température », tableau §13 de
+`BIOMES_MAGIQUES.md`, V1 à V18). N'entre à l'Atrium que ce qui touche le canon : les
+relectures crédibles de phénomènes déjà canoniques (V2 à V10), trois ajouts (V14, V15,
+V17) et la règle du climat global plus local (D19, fiche `lie-1059`). Les familles de
+paysages, palettes de sols, tempêtes et grammaire visuelle restent des outils du jeu.
+Script : `scripts/appliquer-biomes-canon.js` (idempotent, sans reseed ; trace dans
+`data.raccord`, report dans `Docs/Lore/Pays`). Règle suivie : on garde ce que le canon
+affirme, on ajoute ce qui s'observe, les lectures des peuples restent des lectures, et
+aucune question protégée n'est tranchée (lignes rouges du §10).
+
+| # | Où | Retouche | Statut |
+|---|---|---|---|
+| V2 | `con-0129`, `lie-0302`, `lie-0006`, `lie-0298`, `con-0130` | Les Tempêtes Vivantes : blizzards de calotte (vent catabatique contre vent d'altitude, cols et falaises), ne convergeant vers aucun point ; la Paroi abrite Noravia du vent de nord-est ; l'intensification autour des campements reste la lecture des Chamanes. Glace bleue-noire : vieille glace feuilletée de cendre ; froid extrême. Froid Ancien : le ressenti d'un vent de 15 m/s à -45 °C. | **corrigé** |
+| V3 | `con-0036` | Cratères du Cardinal : impact ou explosion, rebord relevé, parois vitrifiées, fond nu, lac salé et alcalin ; la magie résiduelle reste la lecture des gens du pays. | **corrigé** |
+| V4 | `lie-0936`, `lie-0825` | Gelinar : brouillard de cuvette, épais à l'aube, plus fin à midi, jamais levé tout à fait (le canon dit perpétuelle). Kaloria : poche de gaz carbonique volcanique sous la brume, par nuit calme ; le Voile reste la lecture des Voilés. | **corrigé** |
+| V5 | `con-0082` | Brumes Éternelles : courant froid à une ou quatre lieues des côtes d'Ilthara, brouillard d'advection presque permanent, déchiré par grand vent. | **corrigé** |
+| V6 | `lie-0005` | Pouls de Cendra : respiration de gaz volcanique (la colonne de magma se gonfle et se vide), cause de la régularité non établie ; les 46 s restent propres au Mont. Aucune lueur ni cœur montrés. | **corrigé** |
+| V7 | `con-0119` | Chant des Profondeurs : infrason sans direction, grottes soufflantes ; le chant et la convergence vers Ilthara restent non tranchés. | **corrigé** |
+| V8 | `pol-0021` | Îles volantes d'Astravia : immobiles, sans pesanteur affaiblie, seul pays à en porter ; cascades changées en brume, ascendances au bord. La descente de l'Hommage à la Chute est conservée. | **corrigé** |
+| V9 | `lie-0926` | Warenthor : D21 avait posé le résumé ; le corps dit maintenant le sous-bois tamponné et les sentiers refermés en une saison. | **corrigé** |
+| V10 | `pol-0116` | Evertia : double canopée (second toit vers 80 à 120 m), rien de mortel, faune de forêt tempérée humide. | **corrigé** (écart T3/16 ci-dessous) |
+| V14 | `lie-0083`, nouvelle fiche `lie-1072` | Ruines suspendues de Caelum Prima : blocs de fondation chargés d'aethérite restés en l'air au-dessus du cratère, piliers et linteaux bruts, ruines de la Chute (pas de l'An 0), sans sculpture ni inscription. Position estimée = celle d'Aeloria (`data.carte.position_estimee`). Liée à Astravia, Caelum Prima, Aeloria, la Chute. | **créé** |
+| V15 | `pol-0003`, `pol-0002`, `pol-0026` | Sections « Les portes taillées » (Ferrath), « Les portails des vallées » (Iskara), « Les façades de forge » (Myrtam). Aucun lien avec la porte de métal de Myrilith ; aucune position inventée. | **créé** |
+| V17 | `pol-0032`, `lie-0381` | Arbre-Mère : hauteur estimée à 300 m, jamais mesurée. | **corrigé** (écart C/25 ci-dessous) |
+| D19 | `lie-1059` | Climat global (plan de l'auteur) plus climat local (la fiche du lieu) : la phrase n'y était pas, elle y est. | **corrigé** |
+
+Écarts avec les livres (prose non touchée) :
+
+| Où | Le livre dit | La fiche dit maintenant | Suite |
+|---|---|---|---|
+| T3/16, l. 174 (Le dernier esprit) ; C/24, l. 20 | « Les oiseaux, qui depuis trois ans ne chantaient plus tout à fait comme avant dans cette forêt » ; « Les oiseaux s'arrêtèrent les premiers. » | Evertia : faune de forêt tempérée humide, rien de mortel (V10). Le Silence des Esprits ne concerne que les esprits. | ouvert (auteur) : ou bien le chant des oiseaux a changé avec le Silence (alors retirer « faune de forêt tempérée humide » de `pol-0116`), ou bien une phrase du livre est à reprendre. |
+| C/25, l. 127 | « En marcher le quart me donna un tour d'une trentaine de mètres » (soit ~10 m de diamètre) | Arbre-Mère : diamètre estimé à 30 m (fiche `pol-0032`, antérieure), hauteur ~300 m. Écart ancien, que V17 rend visible (élancement 30 pour 1 au livre, 10 pour 1 à la fiche). | ouvert (auteur) : « tour d'une trentaine de mètres » ou diamètre à ramener. |
+| C/21, l. 136 | « J'ai cherché une cause, tout de suite. L'altitude […] La chaleur du basalte qui remonte […] La suggestion, alors » : le narrateur écarte trois causes du battement. | Cendara : respiration de gaz volcanique, cause de la régularité non établie. | sans objet : le gaz n'est pas écarté ; à reprendre seulement si l'auteur veut le nommer. |
+| C/33, l. 67 et 154 | « Les vieux disent que les tempêtes remontent le vent » ; « Elle nous a suivis […] Nous, on l'a sentie choisir » | Les Tempêtes Vivantes : lecture physique, et lecture des Chamanes laissée telle quelle. | sans objet : propos de personnages, que la fiche donne comme lectures. |
+| T1/16, l. 14 ; T1/18 | Gelinar : « épaisse et laiteuse le matin, plus fine et grise à midi, presque bleue le soir » | Gelinar : brouillard de cuvette, épais à l'aube, plus fin à midi, jamais levé tout à fait. | sans objet : compatible. Le plan (`BIOMES_MAGIQUES.md`, P23) dit « levé à midi » : l'Atrium garde le canon (« perpétuelle »). |
+| C/24, l. 71 | « Une première canopée vers cinquante mètres » | Evertia : double canopée, second toit vers 80 à 120 m. | sans objet : compatible (« première »). |
+| Fiche d'Aeloria (hors livres) | « anomalies gravitationnelles » dans les premières années après la Chute | Îles d'Astravia sans pesanteur affaiblie (V8). | sans objet : les anomalies sont celles des résidus d'aethérite du cratère, pas des îles. |
+
+
 ### 15. L'Armarium (Frondeval) et les écarts relevés par l'étude de placement
 
 **Décision de l'auteur, 2026-09-30** (D17 du prototype,

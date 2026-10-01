@@ -57,13 +57,14 @@ Faits structurants :
 - intensification autour des campements humains ;
 - retraits soudains avant des entrées de territoire, identifiées seulement après coup par les survivants.
 - Lectures : Chamanes = tempêtes habitées par des esprits ; sceptiques = effets topographiques mal compris. Aucune expédition scientifique n'a duré assez pour trancher.
+- Ce que le relief en dit : ce sont des blizzards de calotte. Au sol souffle le vent catabatique, qui descend de la calotte ; la tempête avance avec la dépression que pousse le vent d'altitude, en sens inverse, d'où l'impression qu'elle remonte le vent. Les cols et les falaises coupent ou détournent le vent avant certaines entrées ; la Paroi abrite la crique de Noravia du vent de nord-est.
 
 **Froid Ancien** (distingué du froid hivernal ordinaire par les explorateurs) :
 - apparaît au-delà de certaines altitudes ou profondeurs ;
 - traverse les fourrures les plus épaisses, éteint les feux magiques, gèle le sang en quelques minutes ;
 - lectures théologiques non tranchées : Ordo Caelum y a parfois lu une marque de Stellaris ; Foedus Animae une frontière du Pacte ; certains Chamanes une présence qui *refuse*. Aucun consensus (rareté des témoignages survivants).
 
-**Hydrographie / glaciologie :** glace des glaciers de teinte bleue-noire ; calotte centrale permanente.
+**Hydrographie / glaciologie :** glace des glaciers de teinte bleue-noire (vieille glace bleue, feuilletée de lits de cendre volcanique) ; calotte centrale permanente ; froid extrême (autour de -44 °C en janvier à l'intérieur) et vents catabatiques qui descendent de la calotte.
 
 ---
 
