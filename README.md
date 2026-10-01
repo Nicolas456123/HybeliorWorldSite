@@ -11,9 +11,27 @@ gardent. Il **sait tout et montre tout** : aucune restriction, aucun mystère
 caché. Quand un texte le contredit, c'est lui qui tranche ; si c'est lui qui a
 tort, on le corrige là et le reste suit.
 
-Les romans, eux, gardent leurs mystères : les entités de type `question`
-enregistrent **que** la question se pose et quelles lectures s'affrontent,
-jamais la réponse.
+Les livres gardent leurs mystères ; l'Atrium, lui, sait. Les entités de type
+`question` ne sont jamais résolues **dans les livres** : aucun narrateur
+n'énonce la réponse. Pour les treize qui portent `data.protege`, l'Atrium
+connaît pourtant la vérité d'auteur (`data.verite`, avec ses couches et ses
+indices ; `statut: proposée` attend la validation de l'auteur). Le champ
+`disclosure` ne gouverne que ce qu'un narrateur a le droit d'énoncer, jamais ce
+que le site affiche.
+
+### Échelle, carte et vérifications
+
+- **Échelle** : le monde fait 1 000 km de bord de mer à bord de mer, soit
+  1 u de carte ≈ 0,955 km (1 lieue ≈ 4,19 u).
+- **Carte vivante** : les côtes de `data/monde-contours.json` sont refaites
+  depuis le tracé de l'auteur (`continents-trace.svg`) et validées ; les
+  surfaces de pays ne le sont pas encore. Un rattachement (`situe-dans`,
+  `capitale-de`) vient des fiches, jamais d'un point-dans-polygone.
+- **Raccord livres et Atrium** : `node scripts/verifier-raccord.js --detail`
+  après toute retouche d'un livre.
+- **Trajets des personnages** : `node scripts/tracer-routes.js`, puis
+  `node scripts/verifier-trajets.js --ecrire`, puis `npm run kg:db`.
+- Détail et conventions de travail : `CLAUDE.md`.
 
 ## Architecture
 
