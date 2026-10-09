@@ -19,6 +19,11 @@ needs_review_for: []
 | **Histoire marquante** | La Grande Migration |
 | **Ressources clés** | Chevaux d'exception, cuir, laine de steppe, herbes médicinales des plaines, sel gemme |
 
+## Paysage et climat
+
+- Ce que les cavaliers appellent la steppe est une lisière : de grandes plaines d'herbe rase et de vastes clairières ouvertes dans la taïga, que les conifères cernent de partout et où les troupeaux passent l'été.
+- Hivers longs et froids, étés courts ; les chevaux de Lythar, petits et laineux, grattent la neige pour trouver l'herbe. Vers le sud et l'est, la forêt s'éclaircit sur les terres brûlées de Drakora.
+
 ---
 
 ## Gouvernement — La Confédération Tribale

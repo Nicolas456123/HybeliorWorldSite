@@ -115,7 +115,7 @@ Savanes méridionales parcourues par des communautés semi-nomades perpétuant l
 Région orientale de collines arides et plateaux rocheux, riche en gisements de pierres semi-précieuses. Réputée pour ses tailleurs de gemmes et sculpteurs, dont les œuvres sont exportées dans tout Galenor.
 
 ### Ysundara
-Région septentrionale adossée aux contreforts montagneux, couverte de forêts denses (taïga du nord de Galenor). Région la plus isolée ; ses habitants, farouchement indépendants, furent les derniers à signer la Charte.
+Région septentrionale adossée aux contreforts montagneux, couverte de forêts denses : la brume de mer qui monte sur les contreforts y nourrit une forêt de brouillard, îlot vert et humide au bord du désert, aux hivers parfois rudes. Région la plus isolée ; ses habitants, farouchement indépendants, furent les derniers à signer la Charte.
 
 ---
 

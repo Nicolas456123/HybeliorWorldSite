@@ -2,7 +2,7 @@
   "_meta": {
     "generatedFrom": "data/timeline-names.json + Canon mystères/romans",
     "generatedAt": "2026-07-17T00:00:00.000Z",
-    "updated_at": "2026-09-23T23:30:35.473Z",
+    "updated_at": "2026-10-09T12:00:00.000Z",
     "derniere_fusion": "raccord livres↔Atrium du 2026-09-23"
   },
   "entities": [
@@ -1623,8 +1623,8 @@
       "type": "entite-politique",
       "name": "Lythar",
       "slug": null,
-      "summary": "Confédération tribale nomade des steppes orientales d'Ilthara ; culture équestre gouvernée par un Grand Khan élu et le Conseil des Chefs des six grandes tribus.",
-      "body": "<!-- source: Docs/Lore/Pays/Ilthara/Lythar.md -->\n\n# Lythar — L'Empire des Vents Nomades\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | Ilthara |\n| **Gouvernement** | Confédération tribale |\n| **Religion principale** | Via Ventus (La Voie du Vent) |\n| **Religion secondaire** | Foedus Animae (Le Pacte des Âmes) |\n| **Culture dominante** | Nomadisme, culture équestre, mobilité comme philosophie de vie |\n| **Histoire marquante** | La Grande Migration |\n| **Ressources clés** | Chevaux d'exception, cuir, laine de steppe, herbes médicinales des plaines, sel gemme |\n\n---\n\n## Gouvernement — La Confédération Tribale\n\nGouvernement mobile, à l'image du peuple. Trois institutions :\n\n- **Le Grand Khan** — Chef de la confédération, élu par le Conseil des Chefs lors du Grand Rassemblement d'été. Mandat de trois ans, renouvelable une seule fois. Autorité réelle mais temporaire. Ne gouverne pas depuis un trône mais depuis sa selle.\n- **Le Conseil des Chefs** — Réunit les chefs des six grandes tribus (une par région). Chaque chef est souverain sur sa tribu, mais soumis aux décisions collectives du Conseil pour les affaires inter-tribales.\n- **Les Cavaliers du Vent** — Messagers et juges itinérants. Transmettent les décisions du Conseil, arbitrent les conflits, maintiennent la cohésion de la confédération.\n\n**Grand Khan actuel :** Raelorn le Vif — cavalier d'agilité légendaire, aurait traversé le territoire entier en sept jours (exploit inégalé depuis Lythana).\n\n---\n\n## Religion\n\n### Via Ventus — La Voie du Vent (religion officielle)\n\n- Le vent est vénéré comme le souffle du monde.\n- Figures principales du culte lytharien : **Aerion** (voix du vent) et **Navigor** (guide des voyageurs).\n- Précepte central : voyager est une forme de prière, rester immobile une forme de mort spirituelle (récité plus que discuté ; nuancé en pratique par les Foedus Animae locaux).\n\n**Fêtes religieuses :**\n- **La Grande Migration** (solstice d'été) — Toutes les tribus convergent vers un point de rassemblement et chevauchent ensemble pendant sept jours. À la fois fête, pèlerinage et acte politique.\n- **La Course des Vents** (équinoxe de printemps) — Course équestre de trois jours à travers les plaines, ouverte à tous. Le vainqueur reçoit le titre de « Favori d'Aerion » et une influence considérable au Conseil.\n- **Le Souffle du Dernier Pas** (solstice d'hiver) — Cérémonie funéraire collective. Les morts de l'année sont honorés en libérant des cerfs-volants portant chacun le nom d'un défunt ; selon la lecture lytharienne, le vent emporte l'âme vers la prochaine route.\n\n### Foedus Animae — Le Pacte des Âmes (religion secondaire)\n\n- Culte des ancêtres profondément ancré.\n- Croyance : les morts ne disparaissent pas, ils chevauchent aux côtés des vivants sous forme d'« esprits du vent ».\n- Chaque cavalier porte un talisman contenant une mèche de cheveux d'un ancêtre, et consulte « ceux qui chevauchent derrière » avant chaque décision importante.\n- Les chamanes de Foedus Animae rapportent communiquer avec les ancêtres lors de transes induites par des herbes de la steppe (interprétées diversement par les autres traditions).\n\n---\n\n## Culture et société\n\n### La Première Chevauchée\n- À cinq ans, chaque enfant reçoit un poulain et apprend à monter.\n- À dix ans, il entreprend sa Première Chevauchée : voyage solitaire de trois jours à travers la steppe, accompagné de son seul cheval.\n- Ceux qui reviennent sont membres à part entière de la tribu.\n\n### Hiérarchie sociale\n1. **Les Chefs de Tribu** — Élus par les anciens ; guides respectés.\n2. **Les Cavaliers du Vent** — Messagers et juges itinérants ; épine dorsale de la confédération.\n3. **Les Maîtres-Cavaliers** — Éleveurs et dresseurs de chevaux.\n4. **Les Artisans de Route** — Selliers, tanneurs, forgerons de campement ; indispensables à la vie nomade.\n5. **Les Sédentaires** — Habitants des rares villes fixes ; nécessaires mais légèrement condescendés par les nomades.\n\n### Gastronomie\n- Cuisine de la route : viande séchée, fromage de jument, pain plat cuit sur pierres chaudes, thé d'herbes de steppe.\n- **Koumiss** (lait de jument fermenté) : boisson nationale, servie à chaque occasion.\n- Festins de rassemblement : moutons entiers rôtis dans des fosses creusées dans la terre.\n\n### Architecture\n- **Yourtes** : tentes circulaires de feutre et de bois, démontables en une heure.\n- Villes fixes : bâtiments bas en pierre et en terre, fonctionnels et sans ornement.\n- L'architecture n'est pas une valeur en Lythar ; ce qui compte est ce que l'on emporte avec soi.\n\n---\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **Pyrtara** | Tension frontalière | Les nomades traversent parfois les terres de Pyrtara, provoquant des incidents. Pyrtara est trop discipliné pour les chasser ; Lythar trop mobile pour être puni. |\n| **Gryndor** | Commerce distant | Chevaux de Lythar échangés contre le savoir et les outils de Gryndor. Peu en commun, mais aucune raison de se quereller. |\n| **Sylthara** | Amitié naturelle | Deux nations vivant de la terre sans la posséder. Foires communes à la frontière, événements joyeux. |\n| **Haldria** | Curiosité mutuelle | Marins de Haldria et cavaliers de Lythar se retrouvent aux ports côtiers ; échanges d'histoires et de marchandises, respect mutuel pour la vie itinérante. |\n| **Drakora** | Indifférence | Montagnes et steppes ne se mêlent pas ; les deux nations s'ignorent cordialement. |\n\n---\n\n## Secrets et intrigues\n\n- **Les Ruines au-delà de Myralis** : ruines massives découvertes par les éclaireurs de Faldris dans les steppes orientales — structures de pierre noire ne correspondant à aucune civilisation connue ; glyphes semblant décrire des créatures gigantesques et un cataclysme ancien. L'expédition officielle envoyée par le Grand Khan est revenue avec des pertes et un silence troublant.\n- **La Tribu Perdue** : légende d'une septième tribu, le **Vent-Pourpre**, qui aurait refusé la confédération de Lythana et se serait enfoncée dans les steppes orientales. Des cavaliers isolés à bannières pourpres ont été aperçus à la lisière de Myralis.\n- **Le Complot des Sédentaires** : groupe influent de marchands de Raenoris militant secrètement pour transformer la confédération en monarchie sédentaire (Raenoris capitale permanente). Ils financent la construction de bâtiments en dur et tentent de convaincre les jeunes que le nomadisme est archaïque.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Ilthara/Lythar.md -->\n\n# Histoires de Lythar\n\n## Lythana --- \"La Grande Migration\"\n\nLythar ne fut jamais fonde. Avant que les autres peuples d'Ilthara ne tracent des frontieres, les tribus nomades parcouraient deja les steppes et les plaines qui forment aujourd'hui son territoire. Elles ne possedaient pas la terre ; elles se deplacaient avec elle, suivant les troupeaux, les saisons et les vents. Chaque tribu etait independante, guidee par un chef choisi pour sa sagesse et son habilete a cheval. Les conflits entre tribus etaient frequents mais rarement mortels --- des courses, des joutes equestres et des concours de tir a l'arc remplacaient les batailles rangees.\n\nL'harmonie nomade se brisa quand les nations sedentaires voisines revendiquerent les plaines : Gryndor a l'ouest, Pyrtara au sud-ouest, Drakora au nord-est, tous grignotant les terres de paturage. Divisees, les tribus perdaient du terrain saison apres saison. Certains chefs proposerent de se sedentariser, de batir des villes et de defendre des frontieres. L'idee provoqua une guerre civile entre partisans de la sedentarisation et traditionalistes nomades : les villes naissantes furent attaquees, les troupeaux disperses, les tribus dechirees.\n\nC'est dans ce chaos que **Lythana**, cheffe de la tribu du Vent-Blanc, accomplit l'impossible. En une seule saison, elle chevaucha d'un bout a l'autre du territoire, visitant chaque tribu, defiant chaque chef en duel equestre et les battant tous --- non pour les soumettre, mais pour prouver que l'unite dans le mouvement etait possible. Elle proposa un compromis : les tribus resteraient nomades, mais se confedereraient. Un Grand Conseil se reunirait a chaque solstice d'ete dans un lieu different, et les decisions communes seraient prises collectivement. Les quelques villes existantes seraient maintenues comme points de ravitaillement et de commerce, mais aucun Lytharien ne serait jamais force de s'y installer.\n\nLa Grande Migration --- le rassemblement de toutes les tribus en une seule cavalcade traversant le territoire d'est en ouest --- fut le symbole fondateur de cette confederation. Elle est rejouee chaque annee, et reste le plus grand evenement culturel de Lythar.\n\n---\n\nLythar n'a pas de capitale. C'est une **confédération de cavaliers** que rien ne fixe, sinon le mouvement lui-même. Les Lythariens naissent à cheval, vivent à cheval, meurent à cheval — et leurs morts continuent de chevaucher dans les ancêtres-vents qui guident les troupeaux. *« Un Lytharien sans route est un mort qui ne le sait pas encore »*, disent-ils. Ils ne s'aperçoivent pas toujours que le mouvement perpétuel est aussi une manière de ne jamais arriver.\n\n*Extrait de la fiche d'Ilthara.*\n",
+      "summary": "Confédération tribale nomade des plaines herbeuses de l'est d'Ilthara, à la lisière de la taïga ; culture équestre gouvernée par un Grand Khan élu et le Conseil des Chefs des six grandes tribus.",
+      "body": "<!-- source: Docs/Lore/Pays/Ilthara/Lythar.md -->\n\n# Lythar — L'Empire des Vents Nomades\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | Ilthara |\n| **Gouvernement** | Confédération tribale |\n| **Religion principale** | Via Ventus (La Voie du Vent) |\n| **Religion secondaire** | Foedus Animae (Le Pacte des Âmes) |\n| **Culture dominante** | Nomadisme, culture équestre, mobilité comme philosophie de vie |\n| **Histoire marquante** | La Grande Migration |\n| **Ressources clés** | Chevaux d'exception, cuir, laine de steppe, herbes médicinales des plaines, sel gemme |\n\n## Paysage et climat\n\n- Ce que les cavaliers appellent la steppe est une lisière : de grandes plaines d'herbe rase et de vastes clairières ouvertes dans la taïga, que les conifères cernent de partout et où les troupeaux passent l'été.\n- Hivers longs et froids, étés courts ; les chevaux de Lythar, petits et laineux, grattent la neige pour trouver l'herbe. Vers le sud et l'est, la forêt s'éclaircit sur les terres brûlées de Drakora.\n\n---\n\n## Gouvernement — La Confédération Tribale\n\nGouvernement mobile, à l'image du peuple. Trois institutions :\n\n- **Le Grand Khan** — Chef de la confédération, élu par le Conseil des Chefs lors du Grand Rassemblement d'été. Mandat de trois ans, renouvelable une seule fois. Autorité réelle mais temporaire. Ne gouverne pas depuis un trône mais depuis sa selle.\n- **Le Conseil des Chefs** — Réunit les chefs des six grandes tribus (une par région). Chaque chef est souverain sur sa tribu, mais soumis aux décisions collectives du Conseil pour les affaires inter-tribales.\n- **Les Cavaliers du Vent** — Messagers et juges itinérants. Transmettent les décisions du Conseil, arbitrent les conflits, maintiennent la cohésion de la confédération.\n\n**Grand Khan actuel :** Raelorn le Vif — cavalier d'agilité légendaire, aurait traversé le territoire entier en sept jours (exploit inégalé depuis Lythana).\n\n---\n\n## Religion\n\n### Via Ventus — La Voie du Vent (religion officielle)\n\n- Le vent est vénéré comme le souffle du monde.\n- Figures principales du culte lytharien : **Aerion** (voix du vent) et **Navigor** (guide des voyageurs).\n- Précepte central : voyager est une forme de prière, rester immobile une forme de mort spirituelle (récité plus que discuté ; nuancé en pratique par les Foedus Animae locaux).\n\n**Fêtes religieuses :**\n- **La Grande Migration** (solstice d'été) — Toutes les tribus convergent vers un point de rassemblement et chevauchent ensemble pendant sept jours. À la fois fête, pèlerinage et acte politique.\n- **La Course des Vents** (équinoxe de printemps) — Course équestre de trois jours à travers les plaines, ouverte à tous. Le vainqueur reçoit le titre de « Favori d'Aerion » et une influence considérable au Conseil.\n- **Le Souffle du Dernier Pas** (solstice d'hiver) — Cérémonie funéraire collective. Les morts de l'année sont honorés en libérant des cerfs-volants portant chacun le nom d'un défunt ; selon la lecture lytharienne, le vent emporte l'âme vers la prochaine route.\n\n### Foedus Animae — Le Pacte des Âmes (religion secondaire)\n\n- Culte des ancêtres profondément ancré.\n- Croyance : les morts ne disparaissent pas, ils chevauchent aux côtés des vivants sous forme d'« esprits du vent ».\n- Chaque cavalier porte un talisman contenant une mèche de cheveux d'un ancêtre, et consulte « ceux qui chevauchent derrière » avant chaque décision importante.\n- Les chamanes de Foedus Animae rapportent communiquer avec les ancêtres lors de transes induites par des herbes de la steppe (interprétées diversement par les autres traditions).\n\n---\n\n## Culture et société\n\n### La Première Chevauchée\n- À cinq ans, chaque enfant reçoit un poulain et apprend à monter.\n- À dix ans, il entreprend sa Première Chevauchée : voyage solitaire de trois jours à travers la steppe, accompagné de son seul cheval.\n- Ceux qui reviennent sont membres à part entière de la tribu.\n\n### Hiérarchie sociale\n1. **Les Chefs de Tribu** — Élus par les anciens ; guides respectés.\n2. **Les Cavaliers du Vent** — Messagers et juges itinérants ; épine dorsale de la confédération.\n3. **Les Maîtres-Cavaliers** — Éleveurs et dresseurs de chevaux.\n4. **Les Artisans de Route** — Selliers, tanneurs, forgerons de campement ; indispensables à la vie nomade.\n5. **Les Sédentaires** — Habitants des rares villes fixes ; nécessaires mais légèrement condescendés par les nomades.\n\n### Gastronomie\n- Cuisine de la route : viande séchée, fromage de jument, pain plat cuit sur pierres chaudes, thé d'herbes de steppe.\n- **Koumiss** (lait de jument fermenté) : boisson nationale, servie à chaque occasion.\n- Festins de rassemblement : moutons entiers rôtis dans des fosses creusées dans la terre.\n\n### Architecture\n- **Yourtes** : tentes circulaires de feutre et de bois, démontables en une heure.\n- Villes fixes : bâtiments bas en pierre et en terre, fonctionnels et sans ornement.\n- L'architecture n'est pas une valeur en Lythar ; ce qui compte est ce que l'on emporte avec soi.\n\n---\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **Pyrtara** | Tension frontalière | Les nomades traversent parfois les terres de Pyrtara, provoquant des incidents. Pyrtara est trop discipliné pour les chasser ; Lythar trop mobile pour être puni. |\n| **Gryndor** | Commerce distant | Chevaux de Lythar échangés contre le savoir et les outils de Gryndor. Peu en commun, mais aucune raison de se quereller. |\n| **Sylthara** | Amitié naturelle | Deux nations vivant de la terre sans la posséder. Foires communes à la frontière, événements joyeux. |\n| **Haldria** | Curiosité mutuelle | Marins de Haldria et cavaliers de Lythar se retrouvent aux ports côtiers ; échanges d'histoires et de marchandises, respect mutuel pour la vie itinérante. |\n| **Drakora** | Indifférence | Montagnes et steppes ne se mêlent pas ; les deux nations s'ignorent cordialement. |\n\n---\n\n## Secrets et intrigues\n\n- **Les Ruines au-delà de Myralis** : ruines massives découvertes par les éclaireurs de Faldris dans les steppes orientales — structures de pierre noire ne correspondant à aucune civilisation connue ; glyphes semblant décrire des créatures gigantesques et un cataclysme ancien. L'expédition officielle envoyée par le Grand Khan est revenue avec des pertes et un silence troublant.\n- **La Tribu Perdue** : légende d'une septième tribu, le **Vent-Pourpre**, qui aurait refusé la confédération de Lythana et se serait enfoncée dans les steppes orientales. Des cavaliers isolés à bannières pourpres ont été aperçus à la lisière de Myralis.\n- **Le Complot des Sédentaires** : groupe influent de marchands de Raenoris militant secrètement pour transformer la confédération en monarchie sédentaire (Raenoris capitale permanente). Ils financent la construction de bâtiments en dur et tentent de convaincre les jeunes que le nomadisme est archaïque.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Ilthara/Lythar.md -->\n\n# Histoires de Lythar\n\n## Lythana --- \"La Grande Migration\"\n\nLythar ne fut jamais fonde. Avant que les autres peuples d'Ilthara ne tracent des frontieres, les tribus nomades parcouraient deja les steppes et les plaines qui forment aujourd'hui son territoire. Elles ne possedaient pas la terre ; elles se deplacaient avec elle, suivant les troupeaux, les saisons et les vents. Chaque tribu etait independante, guidee par un chef choisi pour sa sagesse et son habilete a cheval. Les conflits entre tribus etaient frequents mais rarement mortels --- des courses, des joutes equestres et des concours de tir a l'arc remplacaient les batailles rangees.\n\nL'harmonie nomade se brisa quand les nations sedentaires voisines revendiquerent les plaines : Gryndor a l'ouest, Pyrtara au sud-ouest, Drakora au nord-est, tous grignotant les terres de paturage. Divisees, les tribus perdaient du terrain saison apres saison. Certains chefs proposerent de se sedentariser, de batir des villes et de defendre des frontieres. L'idee provoqua une guerre civile entre partisans de la sedentarisation et traditionalistes nomades : les villes naissantes furent attaquees, les troupeaux disperses, les tribus dechirees.\n\nC'est dans ce chaos que **Lythana**, cheffe de la tribu du Vent-Blanc, accomplit l'impossible. En une seule saison, elle chevaucha d'un bout a l'autre du territoire, visitant chaque tribu, defiant chaque chef en duel equestre et les battant tous --- non pour les soumettre, mais pour prouver que l'unite dans le mouvement etait possible. Elle proposa un compromis : les tribus resteraient nomades, mais se confedereraient. Un Grand Conseil se reunirait a chaque solstice d'ete dans un lieu different, et les decisions communes seraient prises collectivement. Les quelques villes existantes seraient maintenues comme points de ravitaillement et de commerce, mais aucun Lytharien ne serait jamais force de s'y installer.\n\nLa Grande Migration --- le rassemblement de toutes les tribus en une seule cavalcade traversant le territoire d'est en ouest --- fut le symbole fondateur de cette confederation. Elle est rejouee chaque annee, et reste le plus grand evenement culturel de Lythar.\n\n---\n\nLythar n'a pas de capitale. C'est une **confédération de cavaliers** que rien ne fixe, sinon le mouvement lui-même. Les Lythariens naissent à cheval, vivent à cheval, meurent à cheval — et leurs morts continuent de chevaucher dans les ancêtres-vents qui guident les troupeaux. *« Un Lytharien sans route est un mort qui ne le sait pas encore »*, disent-ils. Ils ne s'aperçoivent pas toujours que le mouvement perpétuel est aussi une manière de ne jamais arriver.\n\n*Extrait de la fiche d'Ilthara.*\n",
       "data": {
         "continent": "Ilthara",
         "religion": "Via Ventus",
@@ -1636,12 +1636,26 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "nation"
+        "genre": "nation",
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "summary",
+            "avant": "Confédération tribale nomade des steppes orientales d'Ilthara",
+            "pourquoi": "plan des biomes de l'auteur (D19/D23, validé) : Lythar est en taïga et en plaine, la « steppe » de la fiche est une lisière de plaine (BIOMES §0 bis.3, registre §F) ; le plan fait le fond, le détail de la fiche devient une zone locale crédible ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          },
+          {
+            "date": "2026-10-09",
+            "champ": "body",
+            "avant": "| **Ressources clés** | Chevaux d'exception, cuir, laine de steppe, herbes médicinales des plaines, sel gemme |\n",
+            "pourquoi": "plan des biomes de l'auteur (D19/D23, validé) : Lythar est en taïga et en plaine, la « steppe » de la fiche est une lisière de plaine (BIOMES §0 bis.3, registre §F) ; le plan fait le fond, le détail de la fiche devient une zone locale crédible ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "pol-0014",
@@ -1649,7 +1663,7 @@
       "name": "Ackerna",
       "slug": null,
       "summary": "Nation d'Ilthara gouvernée en théocratie druidique, gardienne du Pacte Sylvestre ; connue pour ses druides, ses herboristes et ses cités faites d'arbres vivants.",
-      "body": "**Théocratie druidique** où le pouvoir n'appartient pas aux hommes mais à l'arbre. Les druides ne gouvernent pas — ils interprètent ce que la forêt a décidé. Le **Pacte Sylvestre**, scellé en des temps que nul ne sait dater, lie le peuple ackerni à la canopée : *aucun arbre ne tombe sans qu'un autre soit planté*. La promesse est tenue à la lettre. Ce qu'elle protège vraiment, voilà une question que les Ackerni ne posent pas. La forêt sait. Cela suffit.\n\n*Extrait de la fiche d'Ilthara.*\n",
+      "body": "**Théocratie druidique** où le pouvoir n'appartient pas aux hommes mais à l'arbre. Les druides ne gouvernent pas — ils interprètent ce que la forêt a décidé. Le **Pacte Sylvestre**, scellé en des temps que nul ne sait dater, lie le peuple ackerni à la canopée : *aucun arbre ne tombe sans qu'un autre soit planté*. La promesse est tenue à la lettre. Ce qu'elle protège vraiment, voilà une question que les Ackerni ne posent pas. La forêt sait. Cela suffit.\n\n*Extrait de la fiche d'Ilthara.*\n\n<!-- source: Docs/Lore/Pays/Ilthara/Ackerna.md -->\n\n# Ackerna — Le Sanctuaire des Saisons Éternelles\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | Ilthara |\n| **Gouvernement** | Théocratie druidique |\n| **Religion principale** | [[Vael'Kurash]] (Les Esprits de Chaque Chose) |\n| **Religion secondaire** | [[Rota Mundi]] (Le Cycle du Monde) |\n| **Culture dominante** | Druidisme, connexion profonde à la nature et aux saisons |\n| **Histoire marquante** | Le Pacte Sylvestre |\n| **Ressources clés** | Herbes médicinales, bois sacré, cristaux de sève, résines enchantées |\n\n---\n\n## Gouvernement — La Théocratie Druidique\n\nStructure de pouvoir (prolongement de la forêt, non institution humaine) :\n\n- **L'Archidruide** — guide suprême. Désigné non par élection mais par un signe naturel (arbre poussant en une nuit, animal s'inclinant, floraison hors saison), interprété par les druides réunis au Bosquet Primordial à la mort du précédent.\n- **Le Cercle des Saisons** — quatre Grands Druides, un par saison, administrant le pays à tour de rôle selon la saison en cours :\n  - Druide du Printemps — croissance et naissance\n  - Druide de l'Été — prospérité et conflits\n  - Druide de l'Automne — récolte et justice\n  - Druide de l'Hiver — mort et renouveau\n- **Les Gardiens de Bosquet** — druides locaux administrant chaque région : justice, soins aux malades, lien entre habitants et esprits.\n\nArchidruide actuel : **Sylvenna la Tisseuse de Mousse**, d'un âge indéterminé (dirigerait Ackerna depuis plus d'un siècle selon certains). Autorité absolue mais bienveillante ; n'a jamais ordonné d'acte de violence en son nom.\n\n---\n\n## Religion\n\n### [[Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)\n\n- Croyance : chaque élément naturel (arbre, rivière, rocher, brise) abrite une présence — non des dieux mais des interlocuteurs silencieux avec qui dialoguer et coexister par des rites appropriés.\n- Rituels profondément saisonniers ; à chaque changement de saison, célébrations de plusieurs jours dans tout le pays.\n- Les druides portent des tatouages rituels représentant les esprits auxquels ils sont liés. Ces tatouages évoluent au fil des saisons (s'assombrissant en hiver, verdissant au printemps) — phénomène inexpliqué, même par les mages étrangers.\n\n**Fêtes religieuses :**\n- **L'Éveil des Bourgeons** (équinoxe de printemps) — chaque habitant plante un arbre et lui murmure un secret ; on croit que l'arbre le porte toute sa vie et que le confier libère l'âme.\n- **Le Solstice des Flammes Vertes** (solstice d'été) — feux de joie nourris d'herbes sacrées brûlant d'un vert émeraude ; les druides y lisent les présages de la saison à venir.\n- **La Chute Dorée** (équinoxe d'automne) — les habitants tissent en couronnes les plus belles feuilles tombées, offertes aux esprits en remerciement de la récolte.\n- **La Veille du Givre** (solstice d'hiver) — nuit la plus longue passée en silence absolu (du coucher au lever du soleil) ; on croit que les esprits dorment et que le moindre bruit troublerait leur repos.\n\n### [[Rota Mundi]] — Le Cycle du Monde (religion secondaire)\n\n- Enseigne que tout est cyclique : vie, mort, saisons, civilisations.\n- Lecture ackernienne marquée par la réincarnation : les âmes reviendraient sous forme d'animaux, de plantes ou de pierres. Lecture contestée par d'autres écoles théologiques d'Hybelior, mais profondément enracinée à Ackerna.\n- Influence sur les rites funéraires : les morts ne sont jamais enterrés dans des cercueils, mais déposés directement dans la terre, enveloppés de mousse et de feuilles, pour que leur corps nourrisse la prochaine vie.\n\n---\n\n## Culture et société\n\n### Le Lien Végétal\n- À la naissance de chaque enfant, un druide plante un arbre-jumeau ; selon la tradition, la santé de l'arbre reflète celle de l'enfant (corrélation tenue pour évidente par les druides, évaluée diversement par les étrangers).\n- À la mort d'un Ackernien, son arbre-jumeau devient sacré et ne peut jamais être abattu.\n\n### Hiérarchie sociale\n1. **Les Druides** — guides spirituels et politiques, vénérés mais tenus à une vie d'austérité.\n2. **Les Herboristes et Guérisseurs** — pilier médical du pays.\n3. **Les Sylvains** — forestiers, cueilleurs et chasseurs vivant au plus près de la nature.\n4. **Les Artisans du Bois** — sculpteurs, charpentiers et luthiers travaillant le bois avec un respect quasi-religieux.\n5. **Les Étrangers** — regardés avec une curiosité prudente ; un étranger qui abîme la forêt est banni immédiatement.\n\n### Gastronomie\n- Cuisine exclusivement végétale (par tradition, non par interdiction de la viande) : herbes sauvages, champignons rares, fruits forestiers, racines.\n- Boisson nationale : breuvages de sève fermentée ; certains crus du Bosquet Primordial sont réputés induire des visions prophétiques.\n\n### Architecture\n- Les bâtiments ne sont pas construits mais cultivés : maisons faites d'arbres vivants dont les branches sont guidées pendant des décennies pour former murs, toits et planchers.\n- Les villes ressemblent à des jardins habités ; même la capitale est difficile à distinguer de la forêt pour un œil non initié.\n\n---\n\n## Régions\n\n### Obélia\nCœur spirituel d'Ackerna ; abrite le Bosquet Primordial où fut scellé le Pacte Sylvestre. Forêts les plus anciennes et denses du pays, air chargé de magie. Siège de l'Archidruide ; lieu des grandes cérémonies saisonnières.\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **Sylthara** | Alliance naturelle | Amour partagé de la terre et de ses cycles. Échanges fréquents de savoir agricole et druidique. |\n| **Vytharia** | Méfiance polie | Les illusions de Vytharia troublent les esprits de la nature. Les druides considèrent le Voile du Rêve comme une aberration dangereuse. |\n| **Gryndor** | Respect distant | Ackerna respecte le savoir de Gryndor mais déplore son obsession pour la pierre et l'artifice au détriment du vivant. |\n| **Drakora** | Tension sourde | Le feu des dragons est l'ennemi séculaire de la forêt. Relations cordiales en surface, chargées de méfiance ancestrale. |\n| **Warenthor** | Fraternité spirituelle | Vénération partagée de Vael'Kurash et vision centrée sur les esprits, malgré des pratiques très différentes. |\n\n---\n\n## Secrets et intrigues\n\n- **Les Racines qui Saignent** : sous le Bosquet Primordial, les racines profondes suintent un liquide rouge sombre. L'Archidruide Sylvenna a interdit l'accès aux cavernes souterraines. Interprétations : affaiblissement du Pacte Sylvestre / esprits réclamant un nouveau prix (selon certains druides) ou simple anomalie géologique (selon d'autres).\n- **Les Enfants de l'Hiver Noir** : les druides bannis lors du Pacte Sylvestre n'ont pas disparu. Un réseau clandestin, les Enfants de l'Hiver Noir, opère dans les Marécages de Noyrath. Rumeur : tentative de retourner les esprits frontaliers contre Ackerna et infiltration de Gardiens de Bosquet — accusations prises au sérieux par le Cercle des Saisons sans confirmation publique.\n- **L'Arbre Sans Jumeau** : un enfant né récemment à AckernaVille dont l'arbre-jumeau a refusé de pousser (sept graines plantées, toutes mortes). L'enfant grandit en parfaite santé. Selon la mémoire druidique, la dernière fois qu'un arbre-jumeau aurait refusé de pousser, ce fut pour le druide imputé de l'Hiver Noir — correspondance citée comme présage, jamais démontrée comme causalité.\n- **Le Chant des Profondeurs** : les habitants silencieux de Gnosias entendent un chant venu de sous la terre, ne correspondant à aucun esprit connu des druides. Selon certains, il émanerait du Lac des Rêves (centre d'Ilthara) et annoncerait un changement cataclysmique ; d'autres y entendent une simple musique étrange.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Ilthara/Ackerna.md -->\n\n# Histoires d'Ackerna\n\n## Les Origines -- Du Chêne-Mère au Pacte Sylvestre\n\nLes premiers habitants des forêts d'Ackerna furent des ermites et des mystiques venus des quatre coins d'Ilthara, attirés par des voix dans le vent et des visions dans la rosée. Ils se rassemblèrent autour des arbres les plus anciens, dont les racines plongeaient assez profond pour toucher, disait-on, les veines magiques d'Ilthara elle-même. Le premier cercle druidique, celui du Chêne-Mère, fut fondé par une femme dont le nom fut volontairement efface de l'histoire -- car en Ackerna, les fondateurs ne sont pas des héros mais des serviteurs de la forêt. Ce cercle posa les principes qui regissent encore le pays : la terre ne s'appartient pas, elle se partage ; les saisons ne se subissent pas, elles se célèbrent ; et aucun arbre ne tombe sans qu'un autre soit plante.\n\nPendant des siècles, Ackerna vécut en harmonie. Puis vint l'Hiver Noir : la forêt tomba malade, les arbres perdirent leurs feuilles en plein été, les sources se tarirent, et ce que les druides nommaient la voix des esprits se brouilla. La cause fut découverte trop tard. Un cercle dissident, fasciné par ce qui filtrait des Marécages de Noyrath au sud, avait pratique des rites juges transgressifs pour puiser une magie plus puissante. Les druides de l'époque attribuèrent la dégradation de la forêt a ces rites -- coïncidence ou conséquence, les théologiens en débattent encore -- et la confiance entre eux et les esprits s'effondra.\n\nFace à l'agonie de la forêt, l'Archidruide Faelorn convoqua un rituel sans précédent. Pendant sept jours et sept nuits, les druides fidèles se réunirent au cœur du Bosquet Primordial et offrirent une part de leur essence vitale à la terre. La réponse qu'ils perçurent prit la forme d'une condition : désormais les druides gouverneraient non comme des chefs, mais comme des gardiens liés par serment à la forêt. Quiconque trahirait ce pacte verrait son lien avec la nature s'etioler -- une menace récitée encore aux intronisations, jamais testee publiquement. Ce fut le Pacte Sylvestre, qui transforma Ackerna en théocratie ou la forêt elle-même, dans la lecture des druides, est la plus haute autorité. Les druides dissidents furent bannis dans les Marécages de Noyrath -- leurs descendants, dit-on, y errent encore sous le nom des Enfants de l'Hiver Noir.\n\n---\n",
       "data": {
         "continent": "Ilthara",
         "religion": null,
@@ -1661,12 +1675,20 @@
           "confiance": "haute",
           "methode": "fait-date"
         },
-        "genre": "nation"
+        "genre": "nation",
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "body",
+            "avant": "(ajout en fin de corps, rien n'est retiré)",
+            "pourquoi": "fiche doublon lie-0668 « Ackerna » (même capitale, deux fiches) fusionnée dans lie-0581 ; le texte de la nation qu'elle portait passe à pol-0014 ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "pol-0015",
@@ -1977,7 +1999,7 @@
       "name": "Caeloria",
       "slug": null,
       "summary": "Théocratie astrale d'Azoria gouvernée par le Haut-Conclave des sept Oracles qui lisent les étoiles ; religion officielle Ordo Caelum, capitale Duskoris. Le commandant militaire, le Bras des Cieux, descend d'Aldren le Juste.",
-      "body": "<!-- source: Docs/Lore/Pays/Azoria/Caeloria.md -->\n\n# Caeloria — Le Royaume des Cieux Gelés\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | Azoria — Continent des Glaces Éternelles |\n| **Gouvernement** | Théocratie astrale (Conclave des Oracles) |\n| **Religion principale** | Ordo Caelum (L'Ordre Céleste) |\n| **Religion secondaire** | Rota Mundi (Le Cycle Éternel), localement Lex Petra |\n| **Culture dominante** | Religieuse et mystique, lecture du ciel, hiérarchie hyper-stratifiée |\n| **Histoire marquante** | L'Intervention Divine ; l'Édit de Celestia |\n| **Ressources clés** | Stellarite brute, sel de glacier, fourrures polaires, poisson des abysses, artefacts dits *anciens* |\n\n---\n\n## Gouvernement — La Théocratie Astrale\n\n- **Le Haut-Conclave des Oracles** : sept oracles choisis pour leur capacité à lire les étoiles et les présages. Prennent toutes les décisions majeures (politiques, militaires, économiques) par interprétation des signes célestes. Sessions secrètes ; décisions publiées sous forme de *Verdicts*, sans exposé des motifs.\n- **La Haute-Prêtresse / Le Haut-Prêtre** : premier(e) parmi les oracles, choisi(e) par consensus du Conclave. Office à vie, ou jusqu'à un *Tribunal des Lectures* d'au moins cinq oracles déclarant son thème natal *« devenu illisible »* — procédure utilisée trois fois dans l'histoire, jamais sous Velmira.\n- **Le Bras des Cieux** : commandant militaire suprême. Titre héréditaire dans la famille royale descendant d'Aldren le Juste. Aucun pouvoir politique ; commande toutes les forces armées (Garde des Falaises, Gardiens des Tunnels, Flotte côtière de défense).\n- **Les Veilleurs** : prêtres-astronomes surveillant le ciel en permanence depuis les observatoires. Rapportent tout phénomène inhabituel au Conclave. Hiérarchie en neuf degrés (cf. fiche Ordo Caelum).\n- **Le Tribunal des Lectures** : trois lecteurs minimum, dont un Lié-de-Celestia ou un Lié-de-Stellaris. Vote à l'unanimité. Aucune lecture, procédure publique ou mariage formel n'est valide sans Tribunal.\n- **Le Peuple** : aucune représentation politique directe. Les doléances passent par les prêtres locaux (transmises ou non au Conclave). Les non-Liés n'ont aucun recours administratif.\n\n**Fondement de l'autorité** : la théocratie repose sur la croyance sincère du peuple. Pour un Caélorien, l'Intervention Divine est un événement aux traces encore observables : la zone où les pillards ont péri demeure stérile, couverte d'un givre qui ne fond pas. Le Conclave y voit une faveur céleste ; quelques érudits étrangers y voient l'empreinte d'un phénomène de nature discutée — lecture que Caeloria ne reprend pas.\n\n---\n\n## Religion\n\n### Ordo Caelum — L'Ordre Céleste (religion principale)\n\n- Caeloria relève de la **Tradition de la Lumière Ancienne**, par sa branche stellaire (Ordo Caelum).\n- Doctrine : le ciel se lit comme un livre ; constellations, étoiles filantes et éclipses inscrivent une part de ce que la Polyphonie laisse passer. Les oracles déchiffrent ce langage ; leurs interprétations façonnent la politique du royaume.\n\n**Particularités caéloriennes :**\n\n- **Les Observatoires Sacrés** : cinq tours de glace cristallisée perçant les nuages, construites par des techniques ancestrales perdues (cf. *Histoires/Caeloria — Vyntheris*). Elles ne fondent jamais malgré la chaleur relative de la côte. Chaque observatoire est dédié à une constellation majeure et abrite un oracle spécialisé. (Une **Sixième Tour**, plus ancienne, est mentionnée dans les archives internes du Conclave et niée publiquement — cf. *Secrets et intrigues*.)\n- **Le Baptême des Étoiles** : à la naissance, chaque enfant Lié est présenté au ciel nocturne avant d'avoir tété (un enfant lu après le sein est dit *« partiellement détourné »*). L'oracle note la position exacte des étoiles et attribue une *carte céleste* (horoscope sacré guidant les grandes décisions). Refuser de suivre sa carte est légal mais socialement dévastateur. Ce registre fonde la vie publique : on demande à un fonctionnaire sa **constellation natale**, pas son nom. Les noms personnels sont quasi secondaires.\n- **L'Éclipse Sacrée** : lors des rares éclipses, toute activité cesse, le peuple se prosterne, les oracles entrent en transe. Les décisions prises pendant une éclipse sont absolues — même le Conclave ne peut les révoquer. Silence imposé par décret (un cri de marchand peut valoir une amende).\n- **Le Recensement du soir** : prière obligatoire pour les Liés ; énumération canonique des constellations dans l'ordre. Dix-sept minutes minimum ; oublier une constellation impose la reprise du début. Fonde la *patience caélorienne*.\n\n### Rota Mundi (secondaire)\n\n- Lecture cyclique du temps, présente de façon subtile dans la culture. Les saisons extrêmes d'Azoria (six mois de nuit, six mois de jour sur la calotte) entretiennent l'image que tout revient.\n- Répartition locale des rôles : l'oracle lit les étoiles, le prêtre du Cycle interprète à quel moment du Souffle la prédiction trouvera sa résonance. Cohabitation sans rivalité doctrinale apparente — compromis local, non doctrine inter-religieuse partagée ailleurs.\n\n### Lex Petra (présence locale, marges nord)\n\n- Apportée par les caravanes de stellarite venues de Kethvar : des juristes-prêtres pétranes *posent devant la pierre* les contrats commerciaux.\n- Le Conclave tolère leur présence dans deux maisons d'hôtes officielles (l'une à Duskoris, l'autre à Vyntheris), car aucun contrat de stellarite sans serment pétrane ne tient juridiquement à Kethvar. Aucune cérémonie pétrane n'est autorisée hors de ces maisons.\n\n---\n\n## Culture et société\n\n### La Hiérarchie Céleste\n\n| Rang | Rôle | Distinction visible |\n|------|------|-------------------|\n| **Oracles (Conclave)** | Interprètes de la volonté divine | Robes blanches brodées d'argent, yeux souvent pâles |\n| **Prêtres-Veilleurs** | Astronomes et guides spirituels | Robes grises à capuchon, pendentif en stellarite |\n| **Guerriers-Gardiens** | Défenseurs du royaume | Armure de glace renforcée, cape bleu nuit |\n| **Artisans Bénis** | Forgerons, sculpteurs, tailleurs Liés | Tablier marqué du sceau du Conclave |\n| **Peuple Lié** | Pêcheurs, mineurs, fermiers des serres | Vêtements en fourrure polaire, marque de constellation natale |\n| **Non-Liés** | Mêmes métiers, sans accès aux charges | Aucune marque positive ; l'absence est elle-même le signe |\n\n### Traditions\n\n- **Le Jeûne des Étoiles** : trois jours de jeûne total au solstice d'hiver (nuit la plus longue) ; la faim est censée aiguiser la vision spirituelle. Le quatrième jour, grand festin sous le ciel étoilé.\n- **La Forge de Stellarite** : la stellarite (métal bleuté trouvé uniquement dans les profondeurs glacées d'Azoria) est forgée selon des rites stricts, chaque coup de marteau accompagné d'une prière. Les lames de stellarite brillent faiblement dans l'obscurité.\n- **Le Silence du Léviathan** : à la vue d'un Léviathan des Abysses au large, toute la côte observe un silence absolu. Les Léviathans sont tenus pour des créatures divines, sacrées (ni bonnes ni mauvaises) ; en tuer un porterait malédiction sur dix générations.\n- **Le Sceau du Nourrisson** : l'enfant Lié reçoit à la naissance une amulette de fer-blanc gravée des quatre vers de sa constellation natale. Plusieurs milliers d'enfants reçoivent la même amulette chaque année — la doctrine soutient que les âmes communes partagent des destins communs.\n- **L'Heure Sans Bruit** : à chaque éclipse, équinoxe et alignement majeur (≈ dix-neuf heures par an), la rue de Duskoris est totalement silencieuse ; un cri de marchand vaut amende. Les visiteurs étrangers décrivent ce silence comme *« beau et glaçant »*.\n\n### Les Forteresses de Glace\n\n- Architecture unique dans Hybelior : bâtiments sculptés dans la glace éternelle d'Azoria par des techniques ancestrales transmises de maître à apprenti.\n- Cette glace travaillée est plus résistante que la pierre : elle ne fond pas, ne se fissure pas, et réfracte la lumière des étoiles (effet tenu pour sacré).\n- Les forteresses les plus anciennes ont des murs translucides laissant voir les ombres des occupants — manque d'intimité que les Caéloriens ne remarquent pas, habitués au regard permanent du ciel.\n- **Savoir mutilé** : une part du savoir-faire de construction est perdue (cf. *Histoires/Caeloria — Vyntheris*). Les Veilleurs savent *entretenir* les structures mais non les rebâtir. Le clergé continue d'enseigner que la technique est *« transmise »*, sans préciser qu'elle est mutilée.\n\n### Biais culturels\n\n- **La piété comme seuil d'humanité** : pour un Lié de souche, n'avoir pas reçu de Baptême des Étoiles, c'est ne pas être pleinement *advenu* socialement. Les non-Liés ne reçoivent pas ce baptême ; ils sont enregistrés sous la formule générique *« sans constellation »* (sur mariages, apprentissages, sépultures). Formule non insultante, simplement *manquante*.\n- **La patience comme doctrine pratique** : le Recensement du soir (dix-sept minutes minimum, reprise totale à la moindre interruption) rend les Caéloriens durs à presser. Adage : *« Un Stellaris attend pour acheter son pain comme on attend qu'un astre se lève. »*\n- **Le silence comme technique** : les Caéloriens parlent peu ; les voix humaines y sont *en dessous* du seuil habituel des autres villes (les gongs des observatoires sonnant à toutes les heures fixes). Les enfants apprennent à ne pas pleurer pendant les éclipses. Les morts sont enterrés tête au nord, jamais autrement ; on ne dit pas le mot *mort* mais *« lu jusqu'au bout »*.\n- **Le mépris doux pour ce qui n'est pas dans le ciel** : rêves, ombres, voix des morts, chants — tout ce qui n'est pas inscriptible dans une éphéméride est suspect. Les Somnium Vigil ne sont pas tolérés ; les Foedus Animae sont chassés ; l'Aqua Nigra y est proscrite et pourchassée sans merci, même si Caeloria ne l'a pas inscrite dans son code au rang des assassins comme l'ont fait Solmaris, Kethvar et Mosrack (cf. fiche Aqua Nigra).\n- **Le ciel comme tribunal** : aucun Lié n'agirait contre son thème natal sans consulter un Tribunal des Lectures. À l'inverse des réformistes d'Astravia (qui pratiquent le *Petit Office* : recenser, mesurer, signer sans prétendre comprendre), à Caeloria le Petit Office n'existe pas — le clergé y est trop dense pour qu'un Veilleur échappe à son maître.\n\n---\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **No Man's Land Azoria** | Ignorance prudente | Caeloria envoie quelques expéditions dans l'archipel pour récupérer des artefacts ramenés à Tarnora. Les conditions et les Léviathans limitent la pénétration. |\n| **Azoral** | Tension sourde | Caeloria enseigne une glace éternelle ; Azoral consigne une glace mouvante. Les Tribunaux des Lectures ne reçoivent jamais de capitaines azoraliens en audience formelle. Le commerce de stellarite et de fourrures continue malgré tout. |\n| **Kethvar** | Commerce stratégique | Les caravanes de stellarite kethvariennes sont indispensables aux forges caéloriennes. Les juristes-prêtres pétranes sont tolérés dans deux maisons d'hôtes, jamais ailleurs. Mariages dynastiques rares mais existants. |\n| **Solmaris** | Curiosité diplomatique | Les Veilleurs caéloriens étudient la *constellation du Retour* de Solmaris depuis la fin du dernier Sillage. Plusieurs expéditions d'étude ont été envoyées, avec des résultats mitigés. |\n| **Haldria** | Alliance religieuse | Les deux royaumes partagent la foi de l'Ordo Caelum. Des prêtres sont régulièrement échangés. Haldria est le partenaire commercial extra-continental le plus important de Caeloria. |\n| **Seraphia** | Rivalité théologique | Seraphia pratique aussi l'Ordo Caelum mais avec le Cantus Mundi en secondaire — les Caéloriens considèrent que mêler musique et astronomie est un affront aux étoiles. |\n| **Ulinor** | Curiosité | Les échos d'Ulinor fascinent les oracles caéloriens. Plusieurs expéditions d'étude ont été envoyées, avec des résultats que les Tribunaux n'ont jamais publiés. |\n\n---\n\n## Secrets et intrigues\n\n- **La Sixième Tour** : au-delà des cinq observatoires sacrés connus de tous, les archives internes du Conclave mentionnent un sixième observatoire, plus ancien, enfoui sous la glace de Silvarenth. Il aurait été scellé volontairement par les premiers oracles après y avoir *« vu quelque chose qui ne devait pas être vu »*. Le Conclave actuel nie son existence, renforçant les rumeurs. Trois Veilleurs ont été démis sous Velmira pour recherches *« non autorisées »* dans cette direction.\n- **L'Intervention, lecture concurrente** : Thandric Cœur-de-Givre (Bras des Cieux) a rapporté des tunnels des Cités des Anciens un artefact qui pourrait, selon lui, influer sur la météo locale. Si l'Intervention Divine se lit aussi comme l'effet d'un vestige des Anciens activé par hasard, la lecture théocratique perd son monopole interprétatif — sans être réfutée (les deux explications ne sont pas exclusives). Thandric garde l'objet dans ses quartiers personnels.\n- **Les Yeux Blancs** : un nombre croissant d'enfants naissent avec des yeux d'un blanc laiteux — non aveugles, voyant *« autrement »*. Le Conclave les présente comme des bénis des cieux ; certains médecins observent une particularité physiologique commune difficile à expliquer par la seule lignée. Les Yeux Blancs sont systématiquement orientés, dès cinq ans, vers les Crèches Stellari ; aucun n'a jamais épousé un non-Lié ni refusé cette orientation — *aucun*, jusqu'en l'an 247 (cf. *Histoires/Caeloria — Vyntheris : « La Fille qui Ne Lisait Pas »*).\n- **Le Pacte du Léviathan** : les pêcheurs de Frostlin murmurent que la Haute-Prêtresse Velmira se rend seule sur la banquise certaines nuits et s'adresse à quelque chose dans l'eau noire ; aucun témoin direct. Fait observable : depuis son ascension, aucun Léviathan n'a attaqué la côte, alors que les attaques étaient auparavant annuelles. Corrélation alimentant les rumeurs sans les confirmer. (Les capitaines azoraliens, qui chassent les Léviathans au nord, observent depuis la même époque un comportement différent des bêtes — plus discret, plus rapide ; aucun pont diplomatique n'a relié les deux observations.)\n- **Les Pétitions Effacées** : les archives officielles ne mentionnent aucune pétition contre l'Édit de Celestia. Localement, Frostlin (an 9 712, 342 signatures), Vyndoris (an 10 028, 67 signatures) et Galdrith (an 10 156, 19 signatures) ont chacune retrouvé le texte de pétitions adressées au Conclave et jamais réceptionnées. Les trois textes sont presque identiques. Aucune des trois familles ayant tenu la plume n'a connu de descendance prospère.\n- **Le Petit Office, version caélorienne** : à Astravia, le *Petit Office* (mesurer sans plus prétendre comprendre) est toléré dans les marges. À Caeloria, cette posture n'a pas de nom officiel et ne peut exister sans devenir visible (densité du clergé). Quelques apprentis Veilleurs — moins d'une dizaine en cinquante ans — ont été *retirés* du circuit de promotion pour *« humeur du clergé »* ; aucun n'a quitté le clergé, tous occupent aujourd'hui des postes de copiste dans les archives mineures de Vyntheris ou Galdrith.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Azoria/Caeloria.md -->\n\n# Histoires de Caeloria\n\n## Caeloria — « L'Ouverture du Ciel »\n\nSelon la tradition caélorienne, Caeloria ne fut pas fondée mais *révélée*. Les premiers habitants d'Azoria étaient des nomades errant sur la banquise, sans foyer ni destination, que le froid tuait lentement.\n\nUn soir de solstice d'hiver, alors qu'une tempête menaçait d'anéantir un dernier groupe de survivants, les chroniques sacrées racontent ce qu'elles nomment *l'Ouverture du Ciel* : les nuages s'écartèrent au-dessus d'une côte rocheuse, et les étoiles parurent former un motif que les anciens lurent comme une flèche pointant vers la terre. Que le motif ait existé objectivement ou que le regard désespéré des survivants l'ait composé, les chroniques ne tranchent pas.\n\nIls suivirent le signe. Sur la côte, ils trouvèrent les falaises percées de grottes thermales. Ils nommèrent l'endroit Caeloria — *« le don du ciel »*.\n\n---\n\n## Caeloria — « Aldren le Juste et l'Intervention Divine »\n\nTrois générations après l'Ouverture du Ciel, Caeloria était devenue un royaume naissant — prospère par les standards d'Azoria, ce qui signifiait que ses habitants ne mouraient plus de froid. Mais la prospérité attira des hordes de pillards venus des terres intérieures — des nomades restés sauvages — qui déferlèrent sur la côte.\n\nLe roi **Aldren le Juste** rassembla ses guerriers, en infériorité écrasante. La nuit précédant l'assaut, il monta seul au sommet de la plus haute falaise de Caeloria. Selon les chroniques sacrées, il ne supplia pas — il s'adressa au ciel comme à un débiteur :\n\n> *« Vous nous avez guidés ici. Vous avez ouvert le ciel pour nous montrer le chemin. Si nous mourons demain, votre don n'aura servi à rien. Alors faites quelque chose — ou admettez que les étoiles ne sont que des cailloux lumineux. »*\n\nÀ l'aube, une tempête d'une violence inouïe se leva sur le campement des envahisseurs ; les Caéloriens, à quelques lieues, ne ressentirent qu'une brise. Quand elle se dissipa, des pillards il ne restait que du givre et du silence. Que la coïncidence ait été météorologique, l'effet d'une voix entendue par-dessus le Pacte, ou autre chose encore — les chroniques ne distinguent pas. La zone où les pillards périrent demeure stérile, couverte d'un givre qui ne fond pas ; le Conclave en fait la preuve d'une faveur céleste.\n\nCet événement — **l'Intervention Divine** — transforma le royaume. Le peuple bascula dans une ferveur absolue. Les prêtres, jusque-là simples conseillers, devinrent les véritables dirigeants. La lignée royale ne disparut pas : elle se soumit volontairement au clergé, et le roi devint le **Bras des Cieux**, exécutant militaire au service de la volonté divine telle qu'interprétée par les oracles. Le titre se transmet depuis dans la lignée descendant d'Aldren.\n\n---\n\n## Caeloria — « L'Édit de Celestia »\n\nL'événement qui donna à Caeloria sa structure profonde n'est pas l'Intervention Divine — c'est l'Édit. Sept siècles après la fondation, vers l'an 9 500 ap.A (sept siècles avant le Sillage actuel), le **Premier Conclave** statua qu'aucun emploi public, aucune charge cérémonielle, aucune concession minière ne serait accordée à un sujet **non-Lié à Celestia ou à Stellaris**. La justification doctrinale tenait en une phrase : *« Le bien commun se lit. Qui ne lit pas le bien commun ne peut le défendre. »*\n\nL'Édit fut promulgué en cinquante-huit articles, gravés dans la stellarite et fixés à l'entrée des cinq observatoires sacrés. Il n'a jamais été abrogé, mais il a été **précisé** dix-sept fois en sept cents ans, toujours dans le sens d'une extension : la liste des emplois réservés s'allongea, le seuil de Lien se durcit, la procédure d'examen s'étoffa. Aujourd'hui, un non-Lié peut être pêcheur, mineur ou artisan ordinaire, mais ne peut tenir un registre, instruire un enfant, siéger à un tribunal, transporter de la stellarite, ni officier dans le Bras des Cieux. La discrimination est *douce* (aucun châtiment positif) et *systémique* (toute la vie publique fermée). La doctrine y voit une **élévation** des Liés ; les non-Liés l'éprouvent comme une assignation.\n\nL'Édit fut contesté à l'international (Lumasar, Pyrtara) et défendu doctrinalement à chaque fois. À Caeloria même, aucune contestation interne n'aboutit jamais — sur les pétitions effacées, cf. ci-dessous *« Les Pétitions Effacées »*.\n\n---\n\n## Caeloria — « La Phrase Coupée du Premier Veilleur »\n\nLes sermons des Premiers Lecteurs sont des objets de doctrine — soigneusement construits, validés par le Tribunal des Lectures, gravés dans des plaques de stellarite après prononciation. Aucun mot n'y est laissé au hasard. Aucun ne devrait, en théorie, surprendre le Conclave.\n\nEn l'an 247, le Premier Lecteur d'Endora — *Drevan Sept-Étoiles, troisième de ce nom, descendant en ligne juridique du Drevan qui avait succédé à Lethanis Vor-Ostrun à Astravia trois siècles plus tôt* — prononça son sermon de l'équinoxe d'automne. Le sermon était la quarante-troisième homélie du cycle de quarante-neuf. Il avait été préparé pendant six mois.\n\nÀ la trente-deuxième minute (le sermon en durait quarante-sept), Drevan s'arrêta au milieu d'une phrase. Il regarda la grande baie nord du temple, qui s'ouvrait sur les constellations d'automne. Il dit, d'une voix qui n'était pas celle de la liturgie : *« Peut-être. »* Puis il reprit la phrase à son début, l'acheva, et continua le sermon comme prévu.\n\nLe mot ne figure pas dans le texte écrit du sermon. Six chroniqueurs présents — trois Veilleurs, deux scribes, un envoyé de Caeloria pour transmission du sermon à l'observatoire de Duskoris — l'ont noté indépendamment dans leurs propres registres. Personne n'en a fait rapport au Tribunal des Lectures. La doctrine officielle est que le mot *n'a pas été prononcé*.\n\nDrevan a été interrogé en privé par le Conseil des Censeurs deux jours après le sermon. Il a déclaré qu'il *« ne se souvenait pas »* d'avoir prononcé un mot supplémentaire. Le Conseil n'a pas insisté. Drevan a continué son office. Il est mort en l'an 250 d'une maladie de la gorge (complication d'un Recensement particulièrement long, selon les médecins).\n\nSon successeur, *Drevan Sept-Étoiles, quatrième de ce nom*, a été nommé sans difficulté. Il préside aujourd'hui les sermons. Il n'a jamais prononcé le mot *peut-être* dans aucune de ses homélies.\n\nLes six chroniqueurs présents ont, indépendamment et sans s'être consultés, gardé leurs notes. Quatre des six sont morts avant 251. Les deux qui survivent — un scribe à Astravia, un Veilleur subalterne à Endora — n'ont jamais publié. Ils savent qu'ils savent. Ils savent qu'ils ne diront pas.\n\nÀ Caeloria, le mot n'a pas circulé du tout. La diplomatie d'Endora a tenu le secret. Personne, à Duskoris, ne sait qu'un Premier Lecteur a hésité.\n\nPersonne, sauf une vieille apprentie réorientée qui entretient des chronomètres à Vyntheris, et qui — on ne sait pas par quel canal — l'a apprise. Elle a noté la date du sermon dans son carnet personnel, sous une entrée à trois points. C'est, dans les sept cent et quelques entrées du carnet d'Iverra, **la seule entrée qui ne porte pas sur une étoile**.\n",
+      "body": "<!-- source: Docs/Lore/Pays/Azoria/Caeloria.md -->\n\n# Caeloria — Le Royaume des Cieux Gelés\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | Azoria — Continent des Glaces Éternelles |\n| **Gouvernement** | Théocratie astrale (Conclave des Oracles) |\n| **Religion principale** | Ordo Caelum (L'Ordre Céleste) |\n| **Religion secondaire** | Rota Mundi (Le Cycle Éternel), localement Lex Petra |\n| **Culture dominante** | Religieuse et mystique, lecture du ciel, hiérarchie hyper-stratifiée |\n| **Histoire marquante** | L'Intervention Divine ; l'Édit de Celestia |\n| **Ressources clés** | Stellarite brute, sel de glacier, fourrures polaires, poisson des abysses, artefacts dits *anciens* |\n\n---\n\n## Gouvernement — La Théocratie Astrale\n\n- **Le Haut-Conclave des Oracles** : sept oracles choisis pour leur capacité à lire les étoiles et les présages. Prennent toutes les décisions majeures (politiques, militaires, économiques) par interprétation des signes célestes. Sessions secrètes ; décisions publiées sous forme de *Verdicts*, sans exposé des motifs.\n- **La Haute-Prêtresse / Le Haut-Prêtre** : premier(e) parmi les oracles, choisi(e) par consensus du Conclave. Office à vie, ou jusqu'à un *Tribunal des Lectures* d'au moins cinq oracles déclarant son thème natal *« devenu illisible »* — procédure utilisée trois fois dans l'histoire, jamais sous Velmira.\n- **Le Bras des Cieux** : commandant militaire suprême. Titre héréditaire dans la famille royale descendant d'Aldren le Juste. Aucun pouvoir politique ; commande toutes les forces armées (Garde des Falaises, Gardiens des Tunnels, Flotte côtière de défense).\n- **Les Veilleurs** : prêtres-astronomes surveillant le ciel en permanence depuis les observatoires. Rapportent tout phénomène inhabituel au Conclave. Hiérarchie en neuf degrés (cf. fiche Ordo Caelum).\n- **Le Tribunal des Lectures** : trois lecteurs minimum, dont un Lié-de-Celestia ou un Lié-de-Stellaris. Vote à l'unanimité. Aucune lecture, procédure publique ou mariage formel n'est valide sans Tribunal.\n- **Le Peuple** : aucune représentation politique directe. Les doléances passent par les prêtres locaux (transmises ou non au Conclave). Les non-Liés n'ont aucun recours administratif.\n\n**Fondement de l'autorité** : la théocratie repose sur la croyance sincère du peuple. Pour un Caélorien, l'Intervention Divine est un événement aux traces encore observables : la zone où les pillards ont péri demeure stérile, couverte d'un givre qui ne fond pas. Le Conclave y voit une faveur céleste ; quelques érudits étrangers y voient l'empreinte d'un phénomène de nature discutée — lecture que Caeloria ne reprend pas.\n\n---\n\n## Religion\n\n### Ordo Caelum — L'Ordre Céleste (religion principale)\n\n- Caeloria relève de la **Tradition de la Lumière Ancienne**, par sa branche stellaire (Ordo Caelum).\n- Doctrine : le ciel se lit comme un livre ; constellations, étoiles filantes et éclipses inscrivent une part de ce que la Polyphonie laisse passer. Les oracles déchiffrent ce langage ; leurs interprétations façonnent la politique du royaume.\n\n**Particularités caéloriennes :**\n\n- **Les Observatoires Sacrés** : cinq tours de glace cristallisée perçant les nuages, construites par des techniques ancestrales perdues (cf. *Histoires/Caeloria — Vyntheris*). Elles ne fondent pas : sur cette côte, l'air reste sous le gel presque toute l'année. Chaque observatoire est dédié à une constellation majeure et abrite un oracle spécialisé. (Une **Sixième Tour**, plus ancienne, est mentionnée dans les archives internes du Conclave et niée publiquement — cf. *Secrets et intrigues*.)\n- **Le Baptême des Étoiles** : à la naissance, chaque enfant Lié est présenté au ciel nocturne avant d'avoir tété (un enfant lu après le sein est dit *« partiellement détourné »*). L'oracle note la position exacte des étoiles et attribue une *carte céleste* (horoscope sacré guidant les grandes décisions). Refuser de suivre sa carte est légal mais socialement dévastateur. Ce registre fonde la vie publique : on demande à un fonctionnaire sa **constellation natale**, pas son nom. Les noms personnels sont quasi secondaires.\n- **L'Éclipse Sacrée** : lors des rares éclipses, toute activité cesse, le peuple se prosterne, les oracles entrent en transe. Les décisions prises pendant une éclipse sont absolues — même le Conclave ne peut les révoquer. Silence imposé par décret (un cri de marchand peut valoir une amende).\n- **Le Recensement du soir** : prière obligatoire pour les Liés ; énumération canonique des constellations dans l'ordre. Dix-sept minutes minimum ; oublier une constellation impose la reprise du début. Fonde la *patience caélorienne*.\n\n### Rota Mundi (secondaire)\n\n- Lecture cyclique du temps, présente de façon subtile dans la culture. Les saisons extrêmes d'Azoria (six mois de nuit, six mois de jour sur la calotte) entretiennent l'image que tout revient.\n- Répartition locale des rôles : l'oracle lit les étoiles, le prêtre du Cycle interprète à quel moment du Souffle la prédiction trouvera sa résonance. Cohabitation sans rivalité doctrinale apparente — compromis local, non doctrine inter-religieuse partagée ailleurs.\n\n### Lex Petra (présence locale, marges nord)\n\n- Apportée par les caravanes de stellarite venues de Kethvar : des juristes-prêtres pétranes *posent devant la pierre* les contrats commerciaux.\n- Le Conclave tolère leur présence dans deux maisons d'hôtes officielles (l'une à Duskoris, l'autre à Vyntheris), car aucun contrat de stellarite sans serment pétrane ne tient juridiquement à Kethvar. Aucune cérémonie pétrane n'est autorisée hors de ces maisons.\n\n---\n\n## Culture et société\n\n### La Hiérarchie Céleste\n\n| Rang | Rôle | Distinction visible |\n|------|------|-------------------|\n| **Oracles (Conclave)** | Interprètes de la volonté divine | Robes blanches brodées d'argent, yeux souvent pâles |\n| **Prêtres-Veilleurs** | Astronomes et guides spirituels | Robes grises à capuchon, pendentif en stellarite |\n| **Guerriers-Gardiens** | Défenseurs du royaume | Armure de glace renforcée, cape bleu nuit |\n| **Artisans Bénis** | Forgerons, sculpteurs, tailleurs Liés | Tablier marqué du sceau du Conclave |\n| **Peuple Lié** | Pêcheurs, mineurs, fermiers des serres | Vêtements en fourrure polaire, marque de constellation natale |\n| **Non-Liés** | Mêmes métiers, sans accès aux charges | Aucune marque positive ; l'absence est elle-même le signe |\n\n### Traditions\n\n- **Le Jeûne des Étoiles** : trois jours de jeûne total au solstice d'hiver (nuit la plus longue) ; la faim est censée aiguiser la vision spirituelle. Le quatrième jour, grand festin sous le ciel étoilé.\n- **La Forge de Stellarite** : la stellarite (métal bleuté trouvé uniquement dans les profondeurs glacées d'Azoria) est forgée selon des rites stricts, chaque coup de marteau accompagné d'une prière. Les lames de stellarite brillent faiblement dans l'obscurité.\n- **Le Silence du Léviathan** : à la vue d'un Léviathan des Abysses au large, toute la côte observe un silence absolu. Les Léviathans sont tenus pour des créatures divines, sacrées (ni bonnes ni mauvaises) ; en tuer un porterait malédiction sur dix générations.\n- **Le Sceau du Nourrisson** : l'enfant Lié reçoit à la naissance une amulette de fer-blanc gravée des quatre vers de sa constellation natale. Plusieurs milliers d'enfants reçoivent la même amulette chaque année — la doctrine soutient que les âmes communes partagent des destins communs.\n- **L'Heure Sans Bruit** : à chaque éclipse, équinoxe et alignement majeur (≈ dix-neuf heures par an), la rue de Duskoris est totalement silencieuse ; un cri de marchand vaut amende. Les visiteurs étrangers décrivent ce silence comme *« beau et glaçant »*.\n\n### Les Forteresses de Glace\n\n- Architecture unique dans Hybelior : bâtiments sculptés dans la glace éternelle d'Azoria par des techniques ancestrales transmises de maître à apprenti.\n- Cette glace travaillée est plus résistante que la pierre : elle ne fond pas, ne se fissure pas, et réfracte la lumière des étoiles (effet tenu pour sacré).\n- Les forteresses les plus anciennes ont des murs translucides laissant voir les ombres des occupants — manque d'intimité que les Caéloriens ne remarquent pas, habitués au regard permanent du ciel.\n- **Savoir mutilé** : une part du savoir-faire de construction est perdue (cf. *Histoires/Caeloria — Vyntheris*). Les Veilleurs savent *entretenir* les structures mais non les rebâtir. Le clergé continue d'enseigner que la technique est *« transmise »*, sans préciser qu'elle est mutilée.\n\n### Biais culturels\n\n- **La piété comme seuil d'humanité** : pour un Lié de souche, n'avoir pas reçu de Baptême des Étoiles, c'est ne pas être pleinement *advenu* socialement. Les non-Liés ne reçoivent pas ce baptême ; ils sont enregistrés sous la formule générique *« sans constellation »* (sur mariages, apprentissages, sépultures). Formule non insultante, simplement *manquante*.\n- **La patience comme doctrine pratique** : le Recensement du soir (dix-sept minutes minimum, reprise totale à la moindre interruption) rend les Caéloriens durs à presser. Adage : *« Un Stellaris attend pour acheter son pain comme on attend qu'un astre se lève. »*\n- **Le silence comme technique** : les Caéloriens parlent peu ; les voix humaines y sont *en dessous* du seuil habituel des autres villes (les gongs des observatoires sonnant à toutes les heures fixes). Les enfants apprennent à ne pas pleurer pendant les éclipses. Les morts sont enterrés tête au nord, jamais autrement ; on ne dit pas le mot *mort* mais *« lu jusqu'au bout »*.\n- **Le mépris doux pour ce qui n'est pas dans le ciel** : rêves, ombres, voix des morts, chants — tout ce qui n'est pas inscriptible dans une éphéméride est suspect. Les Somnium Vigil ne sont pas tolérés ; les Foedus Animae sont chassés ; l'Aqua Nigra y est proscrite et pourchassée sans merci, même si Caeloria ne l'a pas inscrite dans son code au rang des assassins comme l'ont fait Solmaris, Kethvar et Mosrack (cf. fiche Aqua Nigra).\n- **Le ciel comme tribunal** : aucun Lié n'agirait contre son thème natal sans consulter un Tribunal des Lectures. À l'inverse des réformistes d'Astravia (qui pratiquent le *Petit Office* : recenser, mesurer, signer sans prétendre comprendre), à Caeloria le Petit Office n'existe pas — le clergé y est trop dense pour qu'un Veilleur échappe à son maître.\n\n---\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **No Man's Land Azoria** | Ignorance prudente | Caeloria envoie quelques expéditions dans l'archipel pour récupérer des artefacts ramenés à Tarnora. Les conditions et les Léviathans limitent la pénétration. |\n| **Azoral** | Tension sourde | Caeloria enseigne une glace éternelle ; Azoral consigne une glace mouvante. Les Tribunaux des Lectures ne reçoivent jamais de capitaines azoraliens en audience formelle. Le commerce de stellarite et de fourrures continue malgré tout. |\n| **Kethvar** | Commerce stratégique | Les caravanes de stellarite kethvariennes sont indispensables aux forges caéloriennes. Les juristes-prêtres pétranes sont tolérés dans deux maisons d'hôtes, jamais ailleurs. Mariages dynastiques rares mais existants. |\n| **Solmaris** | Curiosité diplomatique | Les Veilleurs caéloriens étudient la *constellation du Retour* de Solmaris depuis la fin du dernier Sillage. Plusieurs expéditions d'étude ont été envoyées, avec des résultats mitigés. |\n| **Haldria** | Alliance religieuse | Les deux royaumes partagent la foi de l'Ordo Caelum. Des prêtres sont régulièrement échangés. Haldria est le partenaire commercial extra-continental le plus important de Caeloria. |\n| **Seraphia** | Rivalité théologique | Seraphia pratique aussi l'Ordo Caelum mais avec le Cantus Mundi en secondaire — les Caéloriens considèrent que mêler musique et astronomie est un affront aux étoiles. |\n| **Ulinor** | Curiosité | Les échos d'Ulinor fascinent les oracles caéloriens. Plusieurs expéditions d'étude ont été envoyées, avec des résultats que les Tribunaux n'ont jamais publiés. |\n\n---\n\n## Secrets et intrigues\n\n- **La Sixième Tour** : au-delà des cinq observatoires sacrés connus de tous, les archives internes du Conclave mentionnent un sixième observatoire, plus ancien, enfoui sous la glace de Silvarenth. Il aurait été scellé volontairement par les premiers oracles après y avoir *« vu quelque chose qui ne devait pas être vu »*. Le Conclave actuel nie son existence, renforçant les rumeurs. Trois Veilleurs ont été démis sous Velmira pour recherches *« non autorisées »* dans cette direction.\n- **L'Intervention, lecture concurrente** : Thandric Cœur-de-Givre (Bras des Cieux) a rapporté des tunnels des Cités des Anciens un artefact qui pourrait, selon lui, influer sur la météo locale. Si l'Intervention Divine se lit aussi comme l'effet d'un vestige des Anciens activé par hasard, la lecture théocratique perd son monopole interprétatif — sans être réfutée (les deux explications ne sont pas exclusives). Thandric garde l'objet dans ses quartiers personnels.\n- **Les Yeux Blancs** : un nombre croissant d'enfants naissent avec des yeux d'un blanc laiteux — non aveugles, voyant *« autrement »*. Le Conclave les présente comme des bénis des cieux ; certains médecins observent une particularité physiologique commune difficile à expliquer par la seule lignée. Les Yeux Blancs sont systématiquement orientés, dès cinq ans, vers les Crèches Stellari ; aucun n'a jamais épousé un non-Lié ni refusé cette orientation — *aucun*, jusqu'en l'an 247 (cf. *Histoires/Caeloria — Vyntheris : « La Fille qui Ne Lisait Pas »*).\n- **Le Pacte du Léviathan** : les pêcheurs de Frostlin murmurent que la Haute-Prêtresse Velmira se rend seule sur la banquise certaines nuits et s'adresse à quelque chose dans l'eau noire ; aucun témoin direct. Fait observable : depuis son ascension, aucun Léviathan n'a attaqué la côte, alors que les attaques étaient auparavant annuelles. Corrélation alimentant les rumeurs sans les confirmer. (Les capitaines azoraliens, qui chassent les Léviathans au nord, observent depuis la même époque un comportement différent des bêtes — plus discret, plus rapide ; aucun pont diplomatique n'a relié les deux observations.)\n- **Les Pétitions Effacées** : les archives officielles ne mentionnent aucune pétition contre l'Édit de Celestia. Localement, Frostlin (an 9 712, 342 signatures), Vyndoris (an 10 028, 67 signatures) et Galdrith (an 10 156, 19 signatures) ont chacune retrouvé le texte de pétitions adressées au Conclave et jamais réceptionnées. Les trois textes sont presque identiques. Aucune des trois familles ayant tenu la plume n'a connu de descendance prospère.\n- **Le Petit Office, version caélorienne** : à Astravia, le *Petit Office* (mesurer sans plus prétendre comprendre) est toléré dans les marges. À Caeloria, cette posture n'a pas de nom officiel et ne peut exister sans devenir visible (densité du clergé). Quelques apprentis Veilleurs — moins d'une dizaine en cinquante ans — ont été *retirés* du circuit de promotion pour *« humeur du clergé »* ; aucun n'a quitté le clergé, tous occupent aujourd'hui des postes de copiste dans les archives mineures de Vyntheris ou Galdrith.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Azoria/Caeloria.md -->\n\n# Histoires de Caeloria\n\n## Caeloria — « L'Ouverture du Ciel »\n\nSelon la tradition caélorienne, Caeloria ne fut pas fondée mais *révélée*. Les premiers habitants d'Azoria étaient des nomades errant sur la banquise, sans foyer ni destination, que le froid tuait lentement.\n\nUn soir de solstice d'hiver, alors qu'une tempête menaçait d'anéantir un dernier groupe de survivants, les chroniques sacrées racontent ce qu'elles nomment *l'Ouverture du Ciel* : les nuages s'écartèrent au-dessus d'une côte rocheuse, et les étoiles parurent former un motif que les anciens lurent comme une flèche pointant vers la terre. Que le motif ait existé objectivement ou que le regard désespéré des survivants l'ait composé, les chroniques ne tranchent pas.\n\nIls suivirent le signe. Sur la côte, ils trouvèrent les falaises percées de grottes thermales. Ils nommèrent l'endroit Caeloria — *« le don du ciel »*.\n\n---\n\n## Caeloria — « Aldren le Juste et l'Intervention Divine »\n\nTrois générations après l'Ouverture du Ciel, Caeloria était devenue un royaume naissant — prospère par les standards d'Azoria, ce qui signifiait que ses habitants ne mouraient plus de froid. Mais la prospérité attira des hordes de pillards venus des terres intérieures — des nomades restés sauvages — qui déferlèrent sur la côte.\n\nLe roi **Aldren le Juste** rassembla ses guerriers, en infériorité écrasante. La nuit précédant l'assaut, il monta seul au sommet de la plus haute falaise de Caeloria. Selon les chroniques sacrées, il ne supplia pas — il s'adressa au ciel comme à un débiteur :\n\n> *« Vous nous avez guidés ici. Vous avez ouvert le ciel pour nous montrer le chemin. Si nous mourons demain, votre don n'aura servi à rien. Alors faites quelque chose — ou admettez que les étoiles ne sont que des cailloux lumineux. »*\n\nÀ l'aube, une tempête d'une violence inouïe se leva sur le campement des envahisseurs ; les Caéloriens, à quelques lieues, ne ressentirent qu'une brise. Quand elle se dissipa, des pillards il ne restait que du givre et du silence. Que la coïncidence ait été météorologique, l'effet d'une voix entendue par-dessus le Pacte, ou autre chose encore — les chroniques ne distinguent pas. La zone où les pillards périrent demeure stérile, couverte d'un givre qui ne fond pas ; le Conclave en fait la preuve d'une faveur céleste.\n\nCet événement — **l'Intervention Divine** — transforma le royaume. Le peuple bascula dans une ferveur absolue. Les prêtres, jusque-là simples conseillers, devinrent les véritables dirigeants. La lignée royale ne disparut pas : elle se soumit volontairement au clergé, et le roi devint le **Bras des Cieux**, exécutant militaire au service de la volonté divine telle qu'interprétée par les oracles. Le titre se transmet depuis dans la lignée descendant d'Aldren.\n\n---\n\n## Caeloria — « L'Édit de Celestia »\n\nL'événement qui donna à Caeloria sa structure profonde n'est pas l'Intervention Divine — c'est l'Édit. Sept siècles après la fondation, vers l'an 9 500 ap.A (sept siècles avant le Sillage actuel), le **Premier Conclave** statua qu'aucun emploi public, aucune charge cérémonielle, aucune concession minière ne serait accordée à un sujet **non-Lié à Celestia ou à Stellaris**. La justification doctrinale tenait en une phrase : *« Le bien commun se lit. Qui ne lit pas le bien commun ne peut le défendre. »*\n\nL'Édit fut promulgué en cinquante-huit articles, gravés dans la stellarite et fixés à l'entrée des cinq observatoires sacrés. Il n'a jamais été abrogé, mais il a été **précisé** dix-sept fois en sept cents ans, toujours dans le sens d'une extension : la liste des emplois réservés s'allongea, le seuil de Lien se durcit, la procédure d'examen s'étoffa. Aujourd'hui, un non-Lié peut être pêcheur, mineur ou artisan ordinaire, mais ne peut tenir un registre, instruire un enfant, siéger à un tribunal, transporter de la stellarite, ni officier dans le Bras des Cieux. La discrimination est *douce* (aucun châtiment positif) et *systémique* (toute la vie publique fermée). La doctrine y voit une **élévation** des Liés ; les non-Liés l'éprouvent comme une assignation.\n\nL'Édit fut contesté à l'international (Lumasar, Pyrtara) et défendu doctrinalement à chaque fois. À Caeloria même, aucune contestation interne n'aboutit jamais — sur les pétitions effacées, cf. ci-dessous *« Les Pétitions Effacées »*.\n\n---\n\n## Caeloria — « La Phrase Coupée du Premier Veilleur »\n\nLes sermons des Premiers Lecteurs sont des objets de doctrine — soigneusement construits, validés par le Tribunal des Lectures, gravés dans des plaques de stellarite après prononciation. Aucun mot n'y est laissé au hasard. Aucun ne devrait, en théorie, surprendre le Conclave.\n\nEn l'an 247, le Premier Lecteur d'Endora — *Drevan Sept-Étoiles, troisième de ce nom, descendant en ligne juridique du Drevan qui avait succédé à Lethanis Vor-Ostrun à Astravia trois siècles plus tôt* — prononça son sermon de l'équinoxe d'automne. Le sermon était la quarante-troisième homélie du cycle de quarante-neuf. Il avait été préparé pendant six mois.\n\nÀ la trente-deuxième minute (le sermon en durait quarante-sept), Drevan s'arrêta au milieu d'une phrase. Il regarda la grande baie nord du temple, qui s'ouvrait sur les constellations d'automne. Il dit, d'une voix qui n'était pas celle de la liturgie : *« Peut-être. »* Puis il reprit la phrase à son début, l'acheva, et continua le sermon comme prévu.\n\nLe mot ne figure pas dans le texte écrit du sermon. Six chroniqueurs présents — trois Veilleurs, deux scribes, un envoyé de Caeloria pour transmission du sermon à l'observatoire de Duskoris — l'ont noté indépendamment dans leurs propres registres. Personne n'en a fait rapport au Tribunal des Lectures. La doctrine officielle est que le mot *n'a pas été prononcé*.\n\nDrevan a été interrogé en privé par le Conseil des Censeurs deux jours après le sermon. Il a déclaré qu'il *« ne se souvenait pas »* d'avoir prononcé un mot supplémentaire. Le Conseil n'a pas insisté. Drevan a continué son office. Il est mort en l'an 250 d'une maladie de la gorge (complication d'un Recensement particulièrement long, selon les médecins).\n\nSon successeur, *Drevan Sept-Étoiles, quatrième de ce nom*, a été nommé sans difficulté. Il préside aujourd'hui les sermons. Il n'a jamais prononcé le mot *peut-être* dans aucune de ses homélies.\n\nLes six chroniqueurs présents ont, indépendamment et sans s'être consultés, gardé leurs notes. Quatre des six sont morts avant 251. Les deux qui survivent — un scribe à Astravia, un Veilleur subalterne à Endora — n'ont jamais publié. Ils savent qu'ils savent. Ils savent qu'ils ne diront pas.\n\nÀ Caeloria, le mot n'a pas circulé du tout. La diplomatie d'Endora a tenu le secret. Personne, à Duskoris, ne sait qu'un Premier Lecteur a hésité.\n\nPersonne, sauf une vieille apprentie réorientée qui entretient des chronomètres à Vyntheris, et qui — on ne sait pas par quel canal — l'a apprise. Elle a noté la date du sermon dans son carnet personnel, sous une entrée à trois points. C'est, dans les sept cent et quelques entrées du carnet d'Iverra, **la seule entrée qui ne porte pas sur une étoile**.\n",
       "data": {
         "continent": "Azoria",
         "religion": "Ordo Caelum",
@@ -1999,12 +2021,20 @@
             "date": "2026-09-14",
             "qui": "délégation de l'auteur (« tranche tout ce qui doit être tranché »), 2026-09-14"
           }
+        ],
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "body",
+            "avant": "Elles ne fondent jamais malgré la chaleur relative de la côte.",
+            "pourquoi": "D38 : la glace des observatoires et des Temples du Givre est gardée, « malgré la chaleur » retiré (les normales de Caeloria restent sous 0 °C, BIOMES_MAGIQUES F7 ; aucune glace qui refuse la chaleur, R1) ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "pol-0023",
@@ -2485,7 +2515,7 @@
       "name": "Lunasar",
       "slug": null,
       "summary": "Province côtière orientale de Vytharia (Ilthara), monarchie lunaire réglée sur les phases de la lune (Assemblée de pleine lune, Veilleurs de lune) ; capitale Lunaris, ~90 000 habitants.",
-      "body": "<!-- source: Docs/Lore/Pays/Ilthara/Lunasar.md -->\n\n# Lunasar — La Monarchie Lunaire\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | [[Ilthara - Continent\\|Ilthara]] |\n| **Rattachement** | Province côtière de [[Vytharia]] |\n| **Gouvernement** | Monarchie lunaire — Assemblée de pleine lune, Veilleurs de lune permanents |\n| **Religion principale** | [[Somnium Vigil]] (forme institutionnellement intégrée au calendrier lunaire) |\n| **Religion secondaire** | Cultes domestiques lunariens (sans clergé organisé) |\n| **Culture dominante** | Calendrier lunaire strict, observation, gradins de pierre blanche, anticipation longue |\n| **Histoire marquante** | La Fondation par les Trois Cents (an ~9 900 ap.A) |\n| **Ressources clés** | Pêche côtière, sels marins, lentilles d'eau pure, observatoires |\n\n---\n\n## Géographie et démographie\n\n- **Localisation** : côte orientale de [[Vytharia]] (continent [[Ilthara - Continent\\|Ilthara]]), là où les estuaires lunaires s'ouvrent sur la mer. Province la plus côtière du domaine vytharien.\n- **Séparation de la haute-Vytharia** : cordon de marais et de bras de mer, dont le **détroit de Lunaris** — interdit de traverser pendant la nouvelle lune par convention locale.\n- **Étendue** : une frange de côtes basses et d'estuaires ; arrière-pays de plaines de Velharon et de collines basses montant vers l'**arête vytharo-mirathienne** (trait intérieur reliant Lunasar au plateau de Mirathi, autre province côtière de Vytharia).\n- **Climat** : tempéré-froid, vents marins constants, ciel souvent dégagé la nuit (qualité prisée pour les observations lunaires).\n- **Population** : ~90 000 âmes (dernier recensement de pleine lune). Recensements tous les douze cycles (~tous les onze mois solaires).\n\n| Région | Ville principale | Population approx. | Trait dominant |\n|---|---|---|---|\n| Lunaris-Capitale | Lunaris | ~24 000 | Cité-amphithéâtre, gouvernement |\n| Côte de Sondaris | Sondaris | ~6 000 | Port principal, pêche, marchés |\n| Plaines de Velharon | Velhar | ~3 500 | Agriculture, élevage |\n| Détroit Nord | Hauts-Estuaires (hameaux) | ~2 000 | Pêcheurs, dont beaucoup d'apatrides |\n| Collines de Mirhand | Mirhand-Bourg | ~1 800 | Routes vers Mirathi, auberges |\n| Reste (hameaux dispersés) | — | ~52 000 | Agriculture |\n\n- **Hauts-Estuaires** : population nettement métissée, beaucoup de **pêcheurs apatrides** classés par défaut sous *Visiteurs permanents* — catégorie administrative ni citoyen ni étranger (entre-deux), jamais réformée par aucune Assemblée, mal vue des puristes lunariens.\n\n---\n\n## Gouvernement — La Monarchie Lunaire\n\n### L'Assemblée de pleine lune\n\n- **Droit de présence** : tout habitant ayant atteint quinze ans cycles (~quatorze ans solaires).\n- **Droit de vote** : acquis par participation continue à au moins sept Assemblées consécutives (principe : on ne vote pas avant d'avoir longuement écouté).\n- **Lieu et rythme** : amphithéâtre central de Lunaris, à chaque pleine lune. Pas de président de séance, pas de cloche, pas d'ordre du jour formel.\n- **Préparation** : questions collectées pendant la lune croissante par les **Recenseurs de Questions** (fonction municipale rotative, neuf personnes, mandat de douze cycles).\n- **Déroulé** : délibérations commencées quand la lune est au tiers de sa course, terminées au zénith — non par une cloche, mais quand les participants cessent collectivement de parler (mécanisme en place depuis trois siècles, tenu pour inexplicable et nécessaire).\n- **Vote** : compté à *position* — chaque votant se déplace dans une zone des gradins selon son vote ; les Recenseurs comptent visuellement.\n\n### Les Veilleurs de lune\n\n- Corps permanent, ~200 personnes réparties sur tout le territoire. Postes fixes (cols, ports, routes principales) et postes mobiles.\n- Rôle : observer, noter, transmettre. Aucun pouvoir de coercition ; aucun Veilleur n'est armé.\n- **Registres** tenus depuis l'institution du corps : archive la plus continue du pays (passages, phénomènes inhabituels, arrivées étrangères). Leurs marges abritent des récits comme celui des amulettes.\n\n### La fonction royale\n\n- Monarchie nominale. Le **Roi-Lunaire** (titre lunarien : *Lunarch*) est désigné à vie par l'Assemblée pendant une pleine lune éclipsée — phénomène rare (env. une fois par génération, à intervalles irréguliers), pouvant laisser le pays longtemps sans souverain.\n- **Pouvoirs** : cérémoniels et symboliques. Préside les funérailles d'État, ouvre l'Assemblée de pleine lune par un silence d'une minute, signe les décisions votées **sans droit de veto**.\n- Fonction peu valorisée en pratique ; plusieurs Lunarchs récents sont morts dans la quasi-anonymité. Pouvoir réel distribué entre l'Assemblée, les Veilleurs et les **Vieillards** (voir ci-dessous).\n\n### Les Vieillards\n\n- Catégorie sociale (non institutionnelle) : Lunariens ayant vu plus de **mille pleines lunes** (~quatre-vingts ans solaires).\n- Leur opinion est sollicitée à l'Assemblée par convention, pas par règlement. Personne ne vote contre leur avis unanime ; mais ils votent rarement de manière unanime, ce qui rend leur poids subtil.\n- **Solvanes** (env. quatre-vingt-sept ans cycles, ~1 100 pleines lunes) en est un : vit seul dans une maison donnant sur l'amphithéâtre, bibliothèque privée d'une salle entière conservant ses journaux (un par cycle depuis ses dix-sept ans). Jamais Lunarch, jamais Recenseur ; Maître des Tables puis Veilleur de lune pendant un quart de siècle (voir *Personnalités*).\n\n---\n\n## Religion et culture\n\n### Le Somnium Vigil lunarien\n\n- [[Somnium Vigil]] — religion du rêve éveillé, branche cousine du Noctari — dominante à Lunasar.\n- **Différence avec Lumasar (Galenor)** : à Lumasar le rêve est examiné, classé, hiérarchisé ; à Lunasar le rêve est *daté* — on note la phase lunaire et on en tire des conclusions selon une grille empirique.\n- **Journal de rêves** : tenu par tout Lunarien en parallèle de ses comptes quotidiens (≥80 % des adultes). Pages datées en cycles (pas en années solaires). Rêves de pleine lune notés avec plus de soin ; rêves de nouvelle lune notés mais rarement relus.\n- **Pas de clergé centralisé.** Les **Lecteurs de rêves** sont des praticiens privés, parfois itinérants, reçus en consultation à domicile. Formation non réglée : beaucoup d'autodidactes, certains formés à Lumasar (Galenor) appliquant une méthode systématique.\n- **Querelle** (depuis ~50 ans) entre Lecteurs *empiriques* (lunariens stricts) et Lecteurs *systématiques* (formés à l'extérieur).\n\n### Le rêve commercial\n\n- Depuis ~deux siècles, des **marchands étrangers** (Tyndara, Nectoria, Galenor) viennent à Lunaris payer des consultations de Lecteurs avant des décisions commerciales importantes.\n- Pratique *tolérée* (revenu utile, publicité des Tables). Une fraction du clergé Somnium Vigil y voit en privé une **ruine doctrinale** (le rêve-discipline devenu service commercial).\n- Analogie revendiquée avec le scandale Taciti (les *Visiteurs*, voir [[../../Religions/_Mineures/Taciti]]) — même affaiblissement de la limite.\n\n### Les rites lunariens\n\n- **L'Heure de la Contemplation** (chaque soir, à la montée de la lune ou heure équivalente) : on regarde la lune (ou son emplacement), on ne parle pas, on ne mange pas. Durée ~un quart d'heure. Observée même par les non-religieux.\n- **Le Repas de la Décroissance** (premier soir de la lune décroissante, mensuel) : repas familial ; on mange ce qui a été décidé pendant la pleine lune (menu voté à l'Assemblée pour les villes, imité par les familles). Origine pratique (synchronisation des stocks) devenue rituelle.\n- **Le Silence de la Nouvelle Lune** (chaque nouvelle lune, midi à minuit) : marchés et tribunaux fermés ; aucune cérémonie publique, aucune décision politique. Beaucoup dorment longtemps, marchent sans but ou ne font rien.\n- **Le Repas du Brûlement** (rite privé, peu connu) : lors d'un changement de cycle de vie (mariage, départ, prise de fonction), le Lunarien invite ses proches et brûle devant eux un objet le rattachant au cycle précédent. Non obligatoire, largement observé.\n\n### La langue\n\n- Le **lunari** : dialecte galéno-vytharen archaïque ; riche en termes pour les phases lunaires (≥14 mots pour les nuances entre lune croissante et pleine lune), pauvre pour les saisons solaires (un seul mot pour *printemps* et *été*, le *temps qui pousse*).\n- Trois mots difficiles à traduire :\n  - *Velharin* : sentiment d'avoir pris la décision juste à la mauvaise phase (approximation thalmarienne : *regret de timing*).\n  - *Sondhel* : calme spécifique d'une nouvelle lune où l'on n'a rien à attendre (ni ennui ni paix ; Orneth traduit *repos de catégorie inférieure*).\n  - *Lunarith* : état où un rêve laisse au matin le sentiment d'avoir reçu une instruction sans pouvoir la formuler.\n\n---\n\n## Personnalités\n\n### Solvanes (env. quatre-vingt-sept ans cycles, ~1 100 pleines lunes vues)\n\n- Vieillard de Lunaris. Ancien Maître des Tables (an ~215-226 ap.A), puis Veilleur de lune (an ~227-252 ap.A). Vit seul. Galenorien sans accent.\n- A connu Aldric Valthen, l'ulinorien anonyme, et Sorin Valthen.\n- A reçu Sorin en l'an 250 (Chroniques, C/28) : lui a montré dans ses registres le signe copié jadis d'une pierre de la côte, puis, de sa terrasse, la forme sans nom du large ; lui a dit qu'un autre au même regard était passé « il y a de cela vingt ans, peut-être davantage ». Ne lui a rien remis.\n- Le titre *Maître* qu'on lui accole est un usage de courtoisie locale (appliqué à plusieurs Vieillards de Lunaris), non un titre officiel ; il ne se présente pas comme mentor.\n\n### Sera (env. trente ans, traductrice-guide)\n\n- Femme assignée par convention à l'accueil des visiteurs galenoriens à Lunaris. Galenorien excellent.\n- Fonction réelle plus large que la traduction : *interprétation des situations* (compétence reconnue, non officielle).\n\n### Le Lunarch en exercice (an 252)\n\n- Vieille femme, nom non mentionné dans les récits accessibles aux étrangers. Désignée lors d'une éclipse de pleine lune en l'an 244.\n- Préside les funérailles d'État, ouvre les Assemblées par un silence d'une minute. Aucun droit de veto. Respectée sans être écoutée, comme la plupart de ses prédécesseurs.\n\n---\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **[[Vytharia]]** (parent) | Tutelle souple | Lunasar est province côtière de Vytharia ; large autonomie de gouvernance lunaire, échanges d'astronomes et de musiciens, pas de garnison vytharienne permanente. |\n| **[[Mirathi]]** (province sœur) | Indifférence cordiale | Autre province côtière de Vytharia. Les Lunariens jugent la pratique oraculaire mirathienne intéressante mais incompatible avec leur calendrier. |\n| **Tyndara** | Commercial | Marchands tyndariens sur les marchés de Sondaris. Consultations de rêve commercial. |\n| **Galenor (Lumasar)** | Échange académique | Lecteurs de rêves formés à Lumasar reviennent appliquer une méthode plus systématique — querelle interne. |\n| **Endora (Haldria)** | Échange astronomique | Correspondance régulière entre les observatoires lunariens et haldriens. Les étoiles décalées de Haldria sont sujet de débat à Lunaris. |\n| **Galenor (autres)** | Tourisme érudit | Quelques résidents galenoriens en cure de calme. |\n\n---\n\n## Secrets et intrigues\n\n- **Les marges du registre des Veilleurs** : trois cas documentés en trente ans (Aldric Valthen, l'ulinorien anonyme, Sorin Valthen). Aucune institution lunarienne ne traite officiellement le sujet. À la mort de Solvanes, le dépôt mémoriel se dispersera.\n- **Les rêves de Solvanes** : journaux de rêves tenus pendant soixante-quinze ans. Sort à sa mort indéterminé (publication, versement à la bibliothèque centrale, ou destruction) ; aucune disposition publique, famille non connue.\n- **L'éclipse à venir** : selon les astronomes lunariens (croisés avec Haldria), éclipse de pleine lune prévue dans les sept à douze ans. Si elle a lieu, l'Assemblée désignera un nouveau Lunarch. Non commentée publiquement ; les milieux politiques s'y préparent discrètement.\n- **La corrélation est-elle réelle ?** Trois siècles de Tables des Conséquences ne permettent pas de trancher. Avis contradictoires des statisticiens haldriens ayant consulté les Tables. Aucune Assemblée n'a mis la question à l'ordre du jour.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Ilthara/Lunasar.md -->\n\n# Histoires de Lunasar\n\n## Repères — De la Fondation à la Codification\n\n**La Fondation par les Trois Cents (~an 9 900 ap.A).** Les chroniques lunariennes datent la fondation au **14e jour du 9e cycle après la Grande Convergence** — précision qui tient à ce que les fondateurs comptaient déjà en cycles lunaires. Trois cents **dissidents vythariens**, refusant à la fois le rite Noctari et le schisme somnique en cours, quittèrent l'intérieur vytharien pour la côte orientale. Ils s'établirent sur le replat où s'élève aujourd'hui Lunaris, choisi pour la qualité de la nuit (ciel dégagé, horizon marin dégagé) et la régularité des marées du détroit, qui permettait des mesures stables. Ils ne se présentaient pas comme des religieux mais comme *des observateurs* : ils voulaient vérifier si les décisions prises à certains moments du cycle lunaire avaient des effets différents de celles prises à d'autres.\n\n**L'établissement du calendrier (~9 900 – 10 000).** Pendant un siècle, la communauté collecta des données, tenant registre des décisions et de leurs conséquences sur cinq, dix, vingt ans. De cet entêtement naquirent les **Tables des Conséquences**, registre maintenu sans interruption depuis trois siècles. Ce qu'ils crurent trouver : les décisions prises à pleine lune résistaient statistiquement mieux aux conséquences imprévues — fondement empirique du calendrier politique lunarien (corrélation que les Lunariens tiennent pour observable, non pour prouvée).\n\n**L'âge des Veilleurs (~10 000 – 10 100).** Les **Veilleurs de lune** — observateurs permanents postés sur routes et côtes, chargés de surveiller les arrivants pendant la pleine lune et de noter tout phénomène inhabituel — furent institués au tournant du onzième millénaire. Non armés, sans pouvoir de coercition, ils sont des *yeux*. Leurs registres forment l'archive la plus continue du pays ; c'est dans leurs marges que vivent les affaires sensibles (voir les amulettes ci-dessous).\n\n**La Codification des Cycles (~10 100 – 10 150).** Le système politique se codifia complètement : la lune croissante devint période des **questions** (on délibère, on ne tranche rien), la pleine lune période des **décisions** (l'Assemblée vote sous le ciel ouvert), la lune décroissante période d'**application** (on n'y revient pas), la nouvelle lune **silence** (aucune décision, marchés et tribunaux fermés).\n\n**Les visiteurs aux amulettes (an 222, 244), et le fils (an 250).** Trois passages consignés dans les seules marges du registre des Veilleurs, jamais dans les registres officiels :\n- **Aldric Valthen** (~an 222) — arrivé par la mer, porteur d'une **amulette de pierre noire**, pendant un Silence : il « savait se ranger le visage mieux qu'un Lunarien de naissance » et ne dit pas d'où il venait. Resté quatre nuits, rencontra Solvanes, ne laissa rien. La marge ne porte pas son nom : c'est son fils qui l'a reconnu (C/28). Le Veilleur de lune qui le repéra prévint Solvanes.\n- **Cartographe ulinorien anonyme** (an 244) — arrivé par la mer, amulette comparable, resté trois nuits, aucun document laissé, traces perdues vers la haute-Vytharia.\n- **Sorin Valthen** (an 250) — fils d'Aldric, cartographe galenorien arrivé de Mirathi par la route, sans amulette, resté douze jours ; reparti par la mer la première nuit du Silence, vers Caeloria puis Baelor, après avoir échappé sur les quais à Vels Draye. Solvanes ne lui remit rien (C/28).\n\nSolvanes, Veilleur de lune retraité resté influent, est le **dépositaire de mémoire** de cette série. Les Veilleurs actuels n'en tiennent aucun registre, et aucune institution lunarienne ne traite officiellement le sujet ; à sa mort, ce dépôt se dispersera.\n\n---\n\n## La Monarchie Lunaire\n\n- Province côtière de Vytharia : **[[Lunasar]]**, gouvernée au rythme des phases de la lune.\n- Son Assemblée de pleine lune siège lorsque l'astre est plein ; l'autorité suit le cycle lunaire.\n- Capitale : **Lunaris**. Population : ~90 000 habitants.\n- Parenté vytharienne lisible dans la langue et le mysticisme, mais institutions propres forgées le long de la côte.\n\n*Extrait de la fiche de Vytharia.*\n",
+      "body": "<!-- source: Docs/Lore/Pays/Ilthara/Lunasar.md -->\n\n# Lunasar — La Monarchie Lunaire\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | [[Ilthara - Continent\\|Ilthara]] |\n| **Rattachement** | Province côtière de [[Vytharia]] |\n| **Gouvernement** | Monarchie lunaire — Assemblée de pleine lune, Veilleurs de lune permanents |\n| **Religion principale** | [[Somnium Vigil]] (forme institutionnellement intégrée au calendrier lunaire) |\n| **Religion secondaire** | Cultes domestiques lunariens (sans clergé organisé) |\n| **Culture dominante** | Calendrier lunaire strict, observation, gradins de pierre blanche, anticipation longue |\n| **Histoire marquante** | La Fondation par les Trois Cents (an ~9 900 ap.A) |\n| **Ressources clés** | Pêche côtière, sels marins, lentilles d'eau pure, observatoires |\n\n---\n\n## Géographie et démographie\n\n- **Localisation** : côte orientale de [[Vytharia]] (continent [[Ilthara - Continent\\|Ilthara]]), là où les estuaires lunaires s'ouvrent sur la mer. Province la plus côtière du domaine vytharien.\n- **Séparation de la haute-Vytharia** : cordon de marais et de bras de mer, dont le **détroit de Lunaris** — interdit de traverser pendant la nouvelle lune par convention locale.\n- **Étendue** : une frange de côtes basses et d'estuaires ; arrière-pays de plaines de Velharon et de collines basses montant vers l'**arête vytharo-mirathienne** (trait intérieur reliant Lunasar au plateau de Mirathi, autre province côtière de Vytharia).\n- **Climat** : tempéré-froid, vents marins constants, ciel souvent dégagé la nuit (qualité prisée pour les observations lunaires).\n- **Population** : ~90 000 âmes (dernier recensement de pleine lune). Recensements tous les douze cycles (~tous les onze mois solaires).\n\n| Région | Ville principale | Population approx. | Trait dominant |\n|---|---|---|---|\n| Lunaris-Capitale | Lunaris | ~24 000 | Cité-amphithéâtre, gouvernement |\n| Côte de Sondaris | Sondaris | ~6 000 | Port principal, pêche, marchés |\n| Plaines de Velharon | Velhar | ~3 500 | Agriculture, élevage |\n| Détroit Nord | Hauts-Estuaires (hameaux) | ~2 000 | Pêcheurs, dont beaucoup d'apatrides |\n| Collines de Mirhand | Mirhand-Bourg | ~1 800 | Routes vers Mirathi, auberges |\n| Reste (hameaux dispersés) | — | ~52 000 | Agriculture |\n\n- **Hauts-Estuaires** : population nettement métissée, beaucoup de **pêcheurs apatrides** classés par défaut sous *Visiteurs permanents* — catégorie administrative ni citoyen ni étranger (entre-deux), jamais réformée par aucune Assemblée, mal vue des puristes lunariens.\n\n---\n\n## Gouvernement — La Monarchie Lunaire\n\n### L'Assemblée de pleine lune\n\n- **Droit de présence** : tout habitant ayant atteint quinze ans cycles (~quatorze ans solaires).\n- **Droit de vote** : acquis par participation continue à au moins sept Assemblées consécutives (principe : on ne vote pas avant d'avoir longuement écouté).\n- **Lieu et rythme** : amphithéâtre central de Lunaris, à chaque pleine lune. Pas de président de séance, pas de cloche, pas d'ordre du jour formel.\n- **Préparation** : questions collectées pendant la lune croissante par les **Recenseurs de Questions** (fonction municipale rotative, neuf personnes, mandat de douze cycles).\n- **Déroulé** : délibérations commencées quand la lune est au tiers de sa course, terminées au zénith — non par une cloche, mais quand les participants cessent collectivement de parler (mécanisme en place depuis trois siècles, tenu pour inexplicable et nécessaire).\n- **Vote** : compté à *position* — chaque votant se déplace dans une zone des gradins selon son vote ; les Recenseurs comptent visuellement.\n\n### Les Veilleurs de lune\n\n- Corps permanent, ~200 personnes réparties sur tout le territoire. Postes fixes (cols, ports, routes principales) et postes mobiles.\n- Rôle : observer, noter, transmettre. Aucun pouvoir de coercition ; aucun Veilleur n'est armé.\n- **Registres** tenus depuis l'institution du corps : archive la plus continue du pays (passages, phénomènes inhabituels, arrivées étrangères). Leurs marges abritent des récits comme celui des amulettes.\n\n### La fonction royale\n\n- Monarchie nominale. Le **Roi-Lunaire** (titre lunarien : *Lunarch*) est désigné à vie par l'Assemblée pendant une pleine lune éclipsée — phénomène rare (env. une fois par génération, à intervalles irréguliers), pouvant laisser le pays longtemps sans souverain.\n- **Pouvoirs** : cérémoniels et symboliques. Préside les funérailles d'État, ouvre l'Assemblée de pleine lune par un silence d'une minute, signe les décisions votées **sans droit de veto**.\n- Fonction peu valorisée en pratique ; plusieurs Lunarchs récents sont morts dans la quasi-anonymité. Pouvoir réel distribué entre l'Assemblée, les Veilleurs et les **Vieillards** (voir ci-dessous).\n\n### Les Vieillards\n\n- Catégorie sociale (non institutionnelle) : Lunariens ayant vu plus de **mille pleines lunes** (~quatre-vingts ans solaires).\n- Leur opinion est sollicitée à l'Assemblée par convention, pas par règlement. Personne ne vote contre leur avis unanime ; mais ils votent rarement de manière unanime, ce qui rend leur poids subtil.\n- **Solvanes** (env. quatre-vingt-sept ans cycles, ~1 100 pleines lunes) en est un : vit seul dans une maison donnant sur l'amphithéâtre, bibliothèque privée d'une salle entière conservant ses journaux (un par cycle depuis ses dix-sept ans). Jamais Lunarch, jamais Recenseur ; Maître des Tables puis Veilleur de lune pendant un quart de siècle (voir *Personnalités*).\n\n---\n\n## Religion et culture\n\n### Le Somnium Vigil lunarien\n\n- [[Somnium Vigil]] — religion du rêve éveillé, branche cousine du Noctari — dominante à Lunasar.\n- **Différence avec Lumasar (Galenor)** : à Lumasar le rêve est examiné, classé, hiérarchisé ; à Lunasar le rêve est *daté* — on note la phase lunaire et on en tire des conclusions selon une grille empirique.\n- **Journal de rêves** : tenu par tout Lunarien en parallèle de ses comptes quotidiens (≥80 % des adultes). Pages datées en cycles (pas en années solaires). Rêves de pleine lune notés avec plus de soin ; rêves de nouvelle lune notés mais rarement relus.\n- **Pas de clergé centralisé.** Les **Lecteurs de rêves** sont des praticiens privés, parfois itinérants, reçus en consultation à domicile. Formation non réglée : beaucoup d'autodidactes, certains formés à Lumasar (Galenor) appliquant une méthode systématique.\n- **Querelle** (depuis ~50 ans) entre Lecteurs *empiriques* (lunariens stricts) et Lecteurs *systématiques* (formés à l'extérieur).\n\n### Le rêve commercial\n\n- Depuis ~deux siècles, des **marchands étrangers** (Tyndara, Nectoria, Galenor) viennent à Lunaris payer des consultations de Lecteurs avant des décisions commerciales importantes.\n- Pratique *tolérée* (revenu utile, publicité des Tables). Une fraction du clergé Somnium Vigil y voit en privé une **ruine doctrinale** (le rêve-discipline devenu service commercial).\n- Analogie revendiquée avec le scandale Taciti (les *Visiteurs*, voir [[../../Religions/_Mineures/Taciti]]) — même affaiblissement de la limite.\n\n### Les rites lunariens\n\n- **L'Heure de la Contemplation** (chaque soir, à la montée de la lune ou heure équivalente) : on regarde la lune (ou son emplacement), on ne parle pas, on ne mange pas. Durée ~un quart d'heure. Observée même par les non-religieux.\n- **Le Repas de la Décroissance** (premier soir de la lune décroissante, mensuel) : repas familial ; on mange ce qui a été décidé pendant la pleine lune (menu voté à l'Assemblée pour les villes, imité par les familles). Origine pratique (synchronisation des stocks) devenue rituelle.\n- **Le Silence de la Nouvelle Lune** (chaque nouvelle lune, midi à minuit) : marchés et tribunaux fermés ; aucune cérémonie publique, aucune décision politique. Beaucoup dorment longtemps, marchent sans but ou ne font rien.\n- **Le Repas du Brûlement** (rite privé, peu connu) : lors d'un changement de cycle de vie (mariage, départ, prise de fonction), le Lunarien invite ses proches et brûle devant eux un objet le rattachant au cycle précédent. Non obligatoire, largement observé.\n\n### La langue\n\n- Le **lunari** : dialecte galéno-vytharen archaïque ; riche en termes pour les phases lunaires (≥14 mots pour les nuances entre lune croissante et pleine lune), pauvre pour les saisons solaires (un seul mot pour *printemps* et *été*, le *temps qui pousse*).\n- Trois mots difficiles à traduire :\n  - *Velharin* : sentiment d'avoir pris la décision juste à la mauvaise phase (approximation thalmarienne : *regret de timing*).\n  - *Sondhel* : calme spécifique d'une nouvelle lune où l'on n'a rien à attendre (ni ennui ni paix ; Orneth traduit *repos de catégorie inférieure*).\n  - *Lunarith* : état où un rêve laisse au matin le sentiment d'avoir reçu une instruction sans pouvoir la formuler.\n\n---\n\n## Personnalités\n\n### Solvanes (env. quatre-vingt-sept ans cycles, ~1 100 pleines lunes vues)\n\n- Vieillard de Lunaris. Ancien Maître des Tables (an ~215-226 ap.A), puis Veilleur de lune (an ~227-252 ap.A). Vit seul. Galenorien sans accent.\n- A connu Aldric Valthen, l'ulinorien anonyme, et Sorin Valthen.\n- A reçu Sorin en l'an 250 (Chroniques, C/28) : lui a montré dans ses registres le signe copié jadis d'une pierre de la côte, puis, de sa terrasse, la forme sans nom du large ; lui a dit qu'un autre au même regard était passé « il y a de cela vingt ans, peut-être davantage ». Ne lui a rien remis.\n- Le titre *Maître* qu'on lui accole est un usage de courtoisie locale (appliqué à plusieurs Vieillards de Lunaris), non un titre officiel ; il ne se présente pas comme mentor.\n\n### Sera (env. trente ans, traductrice-guide)\n\n- Femme assignée par convention à l'accueil des visiteurs galenoriens à Lunaris. Galenorien excellent.\n- Fonction réelle plus large que la traduction : *interprétation des situations* (compétence reconnue, non officielle).\n\n### Le Lunarch en exercice (an 252)\n\n- Vieille femme, nom non mentionné dans les récits accessibles aux étrangers. Désignée lors d'une éclipse de pleine lune en l'an 244.\n- Préside les funérailles d'État, ouvre les Assemblées par un silence d'une minute. Aucun droit de veto. Respectée sans être écoutée, comme la plupart de ses prédécesseurs.\n\n---\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **[[Vytharia]]** (parent) | Tutelle souple | Lunasar est province côtière de Vytharia ; large autonomie de gouvernance lunaire, échanges d'astronomes et de musiciens, pas de garnison vytharienne permanente. |\n| **[[Mirathi]]** (province sœur) | Indifférence cordiale | Autre province côtière de Vytharia. Les Lunariens jugent la pratique oraculaire mirathienne intéressante mais incompatible avec leur calendrier. |\n| **Tyndara** | Commercial | Marchands tyndariens sur les marchés de Sondaris. Consultations de rêve commercial. |\n| **Galenor (Lumasar)** | Échange académique | Lecteurs de rêves formés à Lumasar reviennent appliquer une méthode plus systématique — querelle interne. |\n| **Endora (Haldria)** | Échange astronomique | Correspondance régulière entre les observatoires lunariens et haldriens. Les étoiles décalées de Haldria sont sujet de débat à Lunaris. |\n| **Galenor (autres)** | Tourisme érudit | Quelques résidents galenoriens en cure de calme. |\n\n---\n\n## Secrets et intrigues\n\n- **Les marges du registre des Veilleurs** : trois cas documentés en trente ans (Aldric Valthen, l'ulinorien anonyme, Sorin Valthen). Aucune institution lunarienne ne traite officiellement le sujet. À la mort de Solvanes, le dépôt mémoriel se dispersera.\n- **Les rêves de Solvanes** : journaux de rêves tenus pendant soixante-quinze ans. Sort à sa mort indéterminé (publication, versement à la bibliothèque centrale, ou destruction) ; aucune disposition publique, famille non connue.\n- **L'éclipse à venir** : selon les astronomes lunariens (croisés avec Haldria), éclipse de pleine lune prévue dans les sept à douze ans. Si elle a lieu, l'Assemblée désignera un nouveau Lunarch. Non commentée publiquement ; les milieux politiques s'y préparent discrètement.\n- **La corrélation est-elle réelle ?** Trois siècles de Tables des Conséquences ne permettent pas de trancher. Avis contradictoires des statisticiens haldriens ayant consulté les Tables. Aucune Assemblée n'a mis la question à l'ordre du jour.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Ilthara/Lunasar.md -->\n\n# Histoires de Lunasar\n\n## Repères — De la Fondation à la Codification\n\n**La Fondation par les Trois Cents (~an 9 900 ap.A).** Les chroniques lunariennes datent la fondation au **14e jour du 9e cycle après la Grande Convergence** — précision qui tient à ce que les fondateurs comptaient déjà en cycles lunaires. Trois cents **dissidents vythariens**, refusant à la fois le rite Noctari et le schisme somnique en cours, quittèrent l'intérieur vytharien pour la côte orientale. Ils s'établirent sur le replat où s'élève aujourd'hui Lunaris, choisi pour la qualité de la nuit (ciel dégagé, horizon marin dégagé) et la régularité des marées du détroit, qui permettait des mesures stables. Ils ne se présentaient pas comme des religieux mais comme *des observateurs* : ils voulaient vérifier si les décisions prises à certains moments du cycle lunaire avaient des effets différents de celles prises à d'autres.\n\n**L'établissement du calendrier (~9 900 – 10 000).** Pendant un siècle, la communauté collecta des données, tenant registre des décisions et de leurs conséquences sur cinq, dix, vingt ans. De cet entêtement naquirent les **Tables des Conséquences**, registre maintenu sans interruption depuis trois siècles. Ce qu'ils crurent trouver : les décisions prises à pleine lune résistaient statistiquement mieux aux conséquences imprévues — fondement empirique du calendrier politique lunarien (corrélation que les Lunariens tiennent pour observable, non pour prouvée).\n\n**L'âge des Veilleurs (~10 000 – 10 100).** Les **Veilleurs de lune** — observateurs permanents postés sur routes et côtes, chargés de surveiller les arrivants pendant la pleine lune et de noter tout phénomène inhabituel — furent institués au tournant du onzième millénaire. Non armés, sans pouvoir de coercition, ils sont des *yeux*. Leurs registres forment l'archive la plus continue du pays ; c'est dans leurs marges que vivent les affaires sensibles (voir les amulettes ci-dessous).\n\n**La Codification des Cycles (~10 100 – 10 150).** Le système politique se codifia complètement : la lune croissante devint période des **questions** (on délibère, on ne tranche rien), la pleine lune période des **décisions** (l'Assemblée vote sous le ciel ouvert), la lune décroissante période d'**application** (on n'y revient pas), la nouvelle lune **silence** (aucune décision, marchés et tribunaux fermés).\n\n**Les visiteurs aux amulettes (an 222, 244), et le fils (an 250).** Trois passages consignés dans les seules marges du registre des Veilleurs, jamais dans les registres officiels :\n- **Aldric Valthen** (~an 222) — arrivé par la mer, porteur d'une **amulette de pierre noire**, pendant un Silence : il « savait se ranger le visage mieux qu'un Lunarien de naissance » et ne dit pas d'où il venait. Resté quatre nuits, rencontra Solvanes, ne laissa rien. La marge ne porte pas son nom : c'est son fils qui l'a reconnu (C/28). Le Veilleur de lune qui le repéra prévint Solvanes.\n- **Cartographe ulinorien anonyme** (an 244) — arrivé par la mer, amulette comparable, resté trois nuits, aucun document laissé, traces perdues vers la haute-Vytharia.\n- **Sorin Valthen** (an 250) — fils d'Aldric, cartographe galenorien arrivé de Mirathi par la route, sans amulette, resté douze jours ; reparti par la mer la première nuit du Silence, vers Caeloria puis Baelor, après avoir échappé sur les quais à Vels Draye. Solvanes ne lui remit rien (C/28).\n\nSolvanes, Veilleur de lune retraité resté influent, est le **dépositaire de mémoire** de cette série. Les Veilleurs actuels n'en tiennent aucun registre, et aucune institution lunarienne ne traite officiellement le sujet ; à sa mort, ce dépôt se dispersera.\n\n---\n\n## La Monarchie Lunaire\n\n- Province côtière de Vytharia : **[[Lunasar]]**, gouvernée au rythme des phases de la lune.\n- Son Assemblée de pleine lune siège lorsque l'astre est plein ; l'autorité suit le cycle lunaire.\n- Capitale : **Lunaris**. Population : ~90 000 habitants.\n- Parenté vytharienne lisible dans la langue et le mysticisme, mais institutions propres forgées le long de la côte.\n\n*Extrait de la fiche de Vytharia.*\n\n## « Les Tables qui Ne Disent Rien »\n\nSolvanes n'avait pas toujours été Solvanes. Vieil homme aujourd'hui, après ses longues années de service comme Veilleur de lune, il a pris l'habitude qu'on ait pour lui — l'habitude qu'on a pour les vieux d'une nation qui mesure le temps en cycles plutôt qu'en années. Mais à cinquante ans, il avait porté une autre habitude.\n\nIl avait été, pendant onze ans, le **Maître des Tables**.\n\nC'est une fonction qui n'existe plus aujourd'hui, et dont les chroniques officielles ne parlent que par périphrase. Le Maître des Tables était la personne chargée, à Lunaris, de veiller à la **continuité du registre** — les Tables des Conséquences, ces croisements entre les phases de la lune et les résultats des décisions politiques observées sur cinq, dix, vingt ans. Trois siècles de données. Pas un cycle de manque.\n\nLe Maître des Tables n'écrivait pas les Tables — d'autres s'en chargeaient. Il les **lisait**. Il les lisait jusqu'au point où il pouvait reconnaître, dans la masse, les **anomalies** — les décisions qui avaient bien marché contre toute attente, ou mal tourné contre toutes les corrélations. Il en tenait un registre séparé, dans un cahier de cuir noir relié par une laine grise, qui ne quittait pas sa table de travail.\n\nSolvanes prit cette fonction en l'an 215. Il avait alors cinquante ans cycles. Il l'occupa onze ans, jusqu'à l'an 226. Pendant ces onze années, il vit deux mille pleines lunes de décisions et autant d'applications. Il vit la corrélation tenir, globalement. Il vit aussi les anomalies se multiplier — pas catastrophiquement, mais d'année en année, avec une régularité qui n'était pas un bruit.\n\nÀ la fin de la dixième année, il rédigea un rapport.\n\nLe rapport n'a pas survécu — ou s'il a survécu, personne ne dit où il est. Mais sa **conclusion** est consignée dans une marge du registre des Veilleurs, écrite de la main d'un secrétaire que Solvanes avait alors. *« Le Maître écrit que le système marche, mais peut-être pas par les raisons qu'il dit. »*\n\nPersonne ne l'a contredit. Personne ne l'a reproduit. Personne, à l'Assemblée de pleine lune, n'a jamais soulevé la question. Solvanes lui-même est passé à autre chose — il a démissionné l'année suivante, est devenu Veilleur de lune (poste plus modeste), et a passé un quart de siècle à observer les routes du nord.\n\nÀ sa retraite, tout récemment, à plus de quatre-vingts ans cycles, il est rentré dans la maison qui donnait sur l'amphithéâtre. Il n'a pas repris le rapport. Il n'a pas réécrit le rapport. Il a, selon ses voisins, *cessé de regarder les Tables*. Il a regardé d'autres choses — les arrivants, les amulettes, les visages des cartographes étrangers.\n\nLe cahier de cuir noir — celui des anomalies — est dans sa bibliothèque. Sa famille le sait. Aucune famille ne reste à présent. Sa mort est attendue dans les sept à douze ans. Ce qui se passera du cahier dépendra de qui passera la porte de sa maison ce jour-là — et l'institution lunarienne, dans sa sagesse, n'a pris aucune disposition.\n\nL'**Espérance Vide** est rarement aussi propre que ceci : un système qui marche, dont les fondements sont peut-être faux, et que personne — y compris les rares qui le savent — ne souhaite désorganiser. La paix lunarienne tient parce que la question n'est pas posée. Solvanes l'a posée, en privé, il y a plus d'un quart de siècle. Il a choisi de la reposer à la nouvelle lune suivante, et à toutes les nouvelles lunes depuis.\n\nAux nouvelles lunes, on ne décide rien.\n\n---\n\n*Extrait de la fiche de Lunasar.*\n\n## « L'Éclipse de Mira »\n\nTous les Lunarchs sont désignés à l'éclipse de pleine lune. La règle est ferme. La règle est suivie.\n\nMira Halnerin fut désignée Lunarch en l'an 244, à l'éclipse du 9e cycle. Elle avait soixante-douze ans cycles, déjà vieille à l'échelle ordinaire mais pas à l'échelle lunarienne. Elle avait été Recenseur de Questions à trois reprises, jamais Veilleuse, jamais Maître de quoi que ce soit. Sa désignation surprit. Elle ne surprit pas — il n'y a pas de surprise possible à une désignation par éclipse, le mécanisme excluant toute candidature préalable. Mais on s'y attendait moins qu'à d'autres.\n\nElle entra en fonction le mois suivant avec la sobriété qu'on attend d'une Lunarch. Elle présida les funérailles d'État (deux dans la première année, ce qui est plus que la moyenne). Elle ouvrit les Assemblées par le silence d'une minute. Elle signa les décisions sans tenter de les comprendre — sa signature ne valant pas avis, elle n'engage à rien.\n\nCe que personne ne sut tout de suite : Mira avait, à dix-neuf ans, perdu un enfant. Un fils. Mort en sept jours d'une fièvre que les Lecteurs de rêves de l'époque avaient mal lue — la consultation de pleine lune avait conseillé d'attendre, et l'attente avait coûté la vie. Mira n'avait jamais reproché publiquement aux Lecteurs ce conseil. Elle n'en avait pas non plus parlé. Elle avait continué.\n\nCinquante-trois ans plus tard, elle était Lunarch. Et la fonction royale lunarienne, dans sa structure, est un sablier humain — la Lunarch est désignée pour vieillir devant le pays, pour incarner la durée et la fin sans pouvoir détourner l'une ni l'autre.\n\nMira accepta cela avec ce qu'on prit pour de l'humilité ordinaire et qui était autre chose.\n\nTrois ans après sa désignation, à l'occasion d'une session ordinaire de pleine lune où l'on débattait — interminablement — d'une question d'irrigation au Velharon, Mira fit quelque chose qui n'était pas dans le protocole. Elle se leva. Elle se tint debout pendant une minute. Elle se rassit. Elle ne dit rien.\n\nL'Assemblée s'arrêta. Pas parce qu'on lui demandait. Parce que le geste, dans sa simplicité absolue, *interrompait*.\n\nSolvanes, présent ce soir-là dans les gradins, nota dans son journal : *« La Lunarch s'est levée pendant la délibération sur l'eau. Elle n'a rien dit. Elle s'est rassise. Tout le monde a compris quelque chose. Personne, moi compris, ne saurait dire quoi. »*\n\nLe débat reprit. La décision fut votée — pour la solution la plus modérée, contre la plus efficace. Personne, au cours du vote, ne fit référence au geste de Mira. Mais le vote bascula d'un côté qu'aucun pronostic n'avait prévu.\n\nMira est morte en l'an 252, deux ans après le passage de Sorin Valthen. La cause de la mort est consignée comme *vieillesse*. L'éclipse à venir, attendue dans les sept à douze ans, désignera quelqu'un d'autre. Aucun Lunarien aujourd'hui ne sait dire ce que Mira a *fait* en se levant ce soir-là. Aucune institution lunarienne ne lui a élevé de monument. Son nom apparaît sur la liste des Lunarchs comme tous les autres — chiffré, daté, sans glose.\n\nLe **Sablier** (vertu) ne demande pas qu'on commente. Il demande qu'on tienne. Mira a tenu pendant huit ans, dans une fonction qui n'avait aucun pouvoir de veto, et son geste d'une minute est la seule trace publique qu'elle laisse — un geste si discret que son sens reste en suspens, et que sa transmission n'oblige personne à rien.\n\nLes funérailles de Mira eurent lieu pendant la nouvelle lune. Le cortège fut court. La Lunarch suivante n'était pas encore désignée — l'éclipse n'avait pas encore eu lieu. Le pays passa quatre mois sans Lunarch, ce qui n'est ni inhabituel ni gênant. Il n'y a pas tant à signer.\n\n---\n\n*Extrait de la fiche de Lunasar.*\n",
       "data": {
         "continent": "Ilthara",
         "religion": "Noctari",
@@ -2539,13 +2569,19 @@
             "champ": "data.periode",
             "avant": "{\"debut\":5500,\"fin\":10201,\"confiance\":\"haute\",\"methode\":\"fait-date\"}",
             "pourquoi": "recalculée (inferer-dates) après le retrait des passages « an 252 » et les corrections du jour"
+          },
+          {
+            "date": "2026-10-09",
+            "champ": "body",
+            "avant": "(ajout en fin de corps, rien n'est retiré)",
+            "pourquoi": "texte du Lunaris de Lunasar, copié dans la fiche de son homonyme drakorien à l'import ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
           }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-27T23:36:07.188Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "pol-0035",
@@ -52206,13 +52242,20 @@
             "champ": "body",
             "avant": "une faune de forêt tempérée humide)",
             "pourquoi": "arbitrage de l'auteur du 2026-10-01 : le chant des oiseaux a changé depuis le Silence (T3/16 l. 174, C/24 l. 20), étrangeté discrète, aucune cause donnée (le Silence reste un mystère). Registre des incohérences, II, §14 (G)."
+          },
+          {
+            "date": "2026-10-09",
+            "champ": "data.continent",
+            "avant": "(absent)",
+            "pourquoi": "fiche Evertia (Continent : Evertia) ; Miralis (lie-0728), situe-dans Evertia, n'avait pas de continent ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
           }
-        ]
+        ],
+        "continent": "Evertia"
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-10-01T12:00:00.000Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0243",
@@ -55879,7 +55922,7 @@
       "type": "lieu",
       "name": "Windoris",
       "slug": null,
-      "summary": "Ville principale de Windora (Thalmaris), bâtie autour de rochers qui chantent avec le vent ; ses habitants prédisent le temps à l'oreille.",
+      "summary": "Ville principale de Windora (Astravia), bâtie autour de rochers qui chantent avec le vent ; ses habitants prédisent le temps à l'oreille.",
       "body": "## Ville\n\nPrincipale ville côtière d'Astravia (région Windora) ; vit du commerce maritime avec Elarian et avec les rares marchands soléniens. Ses quais de pierre portent un pont magique hissant les marchandises lourdes sans treuil. Le pont fut conçu pour décharger l'aethérite (trop fragile pour les treuils ordinaires ; les chutes de cristal au déchargement avaient causé trois explosions en dix ans) ; il consomme une quantité d'aethérite comparable à celle qu'il aide à transporter, calcul accepté par les autorités par fierté technique.\n- Population : Ville\n- Région : Windora\n\n*Extrait de la fiche d'Astravia.*\n\n- Ville principale de Windora, construite autour de formations rocheuses qui chantent avec le vent. Habitants capables de prédire le temps en écoutant la mélodie des rochers (chaque tonalité = une direction et une force de vent).\n- Origine : premiers habitants bergers (non musiciens) utilisant le chant des rochers comme repère audible dans les brumes ; ils avaient cartographié acoustiquement la région avant l'arrivée des bardes, qui apprirent d'eux (inversion des rôles, fierté locale).\n- Population : Ville\n- Région : Windora\n\n*Extrait de la fiche de Thalmaris.*\n",
       "data": {
         "echelle": "ville",
@@ -55892,19 +55935,27 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Astravia.md », dont les dates se tiennent autour de 10200",
           "fiche": "Docs/Lore/Pays/Celethor/Astravia.md"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "summary",
+            "avant": "Windora (Thalmaris)",
+            "pourquoi": "Windora est une région d'Astravia (lie-0354 situe-dans pol-0021 ; arbitrage « Windora à Astravia », registre I) ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0373",
       "type": "lieu",
       "name": "Faldorin",
       "slug": null,
-      "summary": "Village d'ingénieurs sonores de Windora (Thalmaris) concevant des éoliennes musicales alimentant la ville en énergie et en musique.",
+      "summary": "Village d'ingénieurs sonores de Windora (Astravia) concevant des éoliennes musicales alimentant la ville en énergie et en musique.",
       "body": "## Village\n\nVillage de pêcheurs au sud de Windora, connu pour ses bateaux légers à coque enchantée. Ses pêcheurs remontent, deux fois par génération en moyenne, des objets qu'aucun mage ne sait identifier (fragments de métal lisse, plaques gravées de symboles inconnus). Tradition : **ne pas vendre** les objets remontés ; ils sont conservés dans une cave commune cadenassée à six clés réparties entre six familles. Aucune transaction enregistrée depuis la fondation ; les Magistrats Arcaniques d'Invernis ont exigé deux fois une remise officielle, refusée deux fois par les six familles, sans insistance ensuite. La cave n'a pas été inventoriée par les autorités d'Astravia depuis cent quatre-vingt-trois ans.\n- Population : Village\n- Région : Windora\n\n*Extrait de la fiche d'Astravia.*\n\n- Village d'ingénieurs sonores concevant des structures captant et amplifiant les sons naturels. Éoliennes musicales alimentant la ville en énergie et en musique.\n- Origine : ingénieurs ayant d'abord cherché à réduire le bruit du vent (tous dispositifs d'atténuation ayant échoué) ; un jeune ingénieur conçut la première éolienne musicale, transformant la nuisance en énergie et harmonie.\n- Population : Ville\n- Région : Windora\n\n*Extrait de la fiche de Thalmaris.*\n",
       "data": {
         "echelle": "bourg",
@@ -55917,19 +55968,27 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Astravia.md », dont les dates se tiennent autour de 10200",
           "fiche": "Docs/Lore/Pays/Celethor/Astravia.md"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "summary",
+            "avant": "Windora (Thalmaris)",
+            "pourquoi": "Windora est une région d'Astravia (lie-0354 situe-dans pol-0021 ; arbitrage « Windora à Astravia », registre I) ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:47:11.487Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0374",
       "type": "lieu",
       "name": "Belvarin",
       "slug": null,
-      "summary": "Bourg de Windora (Thalmaris) connu pour ses jardins sonores, destination de « guérison par le son ».",
+      "summary": "Bourg de Windora (Astravia) connu pour ses jardins sonores, destination de « guérison par le son ».",
       "body": "## Village\n\nBourg d'observation des aurores et des courants stratosphériques, à l'extrême nord-ouest d'Astravia ; ses Veilleurs, équipés d'instruments hybrides cristaux-cuivre, mesurent les variations magnétiques de l'atmosphère. Son observatoire fut bâti après l'écrasement de trois îles volantes basses en cinq ans dans la région, attribué à des perturbations magnétiques absentes des cartes officielles. Ses instruments sont les seuls d'Astravia à mesurer ces perturbations (aucun équivalent ailleurs) — le Tribunal des Lectures considère que ce qu'ils mesurent n'entre dans aucune des Sept Tables.\n- Population : Village\n- Région : Windora\n\n*Extrait de la fiche d'Astravia.*\n\n- Bourg paisible connu pour ses jardins sonores (espaces paysagers où plantes, fontaines et éléments sont disposés pour produire une symphonie naturelle). Destination de « guérison par le son » pour les malades.\n- Origine : premier jardin sonore créé par un médecin ayant observé une récupération plus rapide des patients proches d'une fontaine et d'un jardin ; vingt ans d'observations documentées, confirmées ensuite par d'autres médecins. Belvarin centre de formation en médecine sonore.\n- Population : Ville\n- Région : Windora\n\n*Extrait de la fiche de Thalmaris.*\n",
       "data": {
         "echelle": "bourg",
@@ -55942,19 +56001,27 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Astravia.md », dont les dates se tiennent autour de 10200",
           "fiche": "Docs/Lore/Pays/Celethor/Astravia.md"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "summary",
+            "avant": "Windora (Thalmaris)",
+            "pourquoi": "Windora est une région d'Astravia (lie-0354 situe-dans pol-0021 ; arbitrage « Windora à Astravia », registre I) ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0375",
       "type": "lieu",
       "name": "Lythmar",
       "slug": null,
-      "summary": "Village isolé à l'extrémité orientale de Windora (Thalmaris), habité par des ermites musiciens composant dans la solitude.",
+      "summary": "Village isolé à l'extrémité orientale de Windora (Astravia), habité par des ermites musiciens composant dans la solitude.",
       "body": "## Village\n\nHameau de cartographes maritimes dressant les cartes des courants polaires ; seules cartes de courants d'Hybelior régulièrement mises à jour (chaque carte porte la date de sa dernière révision et le nom du cartographe). Règle établie après qu'une carte vieille de quarante ans eut causé la perte d'un convoi entier d'Elarian : aucune carte ne sort du hameau sans révision dans les douze mois précédents. Coût de la règle : les cartographes travaillent en moyenne six heures par jour, six jours sur sept, et aucun ne dépasse cinquante ans en activité.\n- Population : Village\n- Région : Windora\n\n---\n\n*Extrait de la fiche d'Astravia.*\n\n- Village isolé à l'extrémité orientale de Windora, battu par des vents constants. Habités par des ermites musiciens composant dans la solitude ; œuvres rares et précieuses, tenues pour les plus profondes de Thalmaris.\n- Origine : tradition née d'un barde retiré après son chef-d'œuvre (œuvre attribuée au vent plus qu'à lui), suivi d'autres bardes vivant parallèlement, chacun seul avec le vent. Lythmar = accord tacite de ne pas se déranger mutuellement, non une communauté ordinaire.\n- Population : Ville\n- Région : Windora\n\n---\n\n*Extrait de la fiche de Thalmaris.*\n",
       "data": {
         "echelle": "bourg",
@@ -55967,12 +56034,20 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Astravia.md », dont les dates se tiennent autour de 10200",
           "fiche": "Docs/Lore/Pays/Celethor/Astravia.md"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "summary",
+            "avant": "Windora (Thalmaris)",
+            "pourquoi": "Windora est une région d'Astravia (lie-0354 situe-dans pol-0021 ; arbitrage « Windora à Astravia », registre I) ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:47:11.487Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0376",
@@ -57224,7 +57299,7 @@
       "name": "Ysundara",
       "slug": null,
       "summary": "Région septentrionale forestière de Kharazir, la plus isolée, dernière à signer la Charte.",
-      "body": "Région septentrionale adossée aux contreforts montagneux, couverte de forêts denses (taïga du nord de Galenor). Région la plus isolée ; ses habitants, farouchement indépendants, furent les derniers à signer la Charte.\n\n---\n\n*Extrait de la fiche de Kharazir.*\n",
+      "body": "Région septentrionale adossée aux contreforts montagneux, couverte de forêts denses : la brume de mer qui monte sur les contreforts y nourrit une forêt de brouillard, îlot vert et humide au bord du désert, aux hivers parfois rudes. Région la plus isolée ; ses habitants, farouchement indépendants, furent les derniers à signer la Charte.\n\n---\n\n*Extrait de la fiche de Kharazir.*\n",
       "data": {
         "echelle": "region",
         "coord_x": -209.47205355113198,
@@ -57236,12 +57311,20 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Chapitre 02 - Les Plumes de Lumasar.md » — récit (an 251 du Sillage)",
           "fiche": "Docs/Lore/Chroniques/Chapitre 02 - Les Plumes de Lumasar.md"
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "body",
+            "avant": "couverte de forêts denses (taïga du nord de Galenor)",
+            "pourquoi": "plan des biomes de l'auteur (D19/D23, validé) : Ysundara est en désert de sable et de roche, au bord de la mer ; la taïga de Galenor est plus au nord ; le plan fait le fond, le détail de la fiche devient une zone locale crédible ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0414",
@@ -59594,7 +59677,7 @@
       "name": "Kryndor",
       "slug": null,
       "summary": "Village le plus méridional de Ventera, dernier avant-poste avant les terres sauvages du sud.",
-      "body": "## Village\n\nVillage le plus méridional de Ventera ; dernier avant-poste avant les terres sauvages du sud. Cavaliers endurcis qui escortent les caravanes au-delà des frontières connues. Règle absolue : ils accompagnent jusqu'à la frontière et reviennent, sans jamais traverser les terres non cartographiées du sud (trois cavaliers qui brisèrent la règle revinrent changés et refusèrent de décrire ; deux autres ne revinrent jamais).\n- Population : Village\n- Région : Astralor\n\n---\n\n*Extrait de la fiche de Ventera.*\n\n## « Les Cavaliers qui ne Reviennent Pas »\n\nKryndor est le dernier village avant les terres non cartographiées du sud. La règle absolue : *les cavaliers de Kryndor escortent les caravanes jusqu'à la frontière, et reviennent*. Ils ne traversent jamais.\n\nTrois cavaliers, dans l'histoire récente, ont brisé la règle.\n\nLe premier — Vendris, fils du chef de l'an 198 — pensait prouver que la règle était une superstition. Il traversa au printemps. Il revint à l'automne. Il refusa de décrire ce qu'il avait vu. Il but jusqu'à sa mort, deux ans plus tard.\n\nLe deuxième — Tessana, jeune cavalière de l'an 222 — voulait *aller voir*. Elle ne revint pas. Les cavaliers de Kryndor envoyés à sa recherche revinrent bredouilles : pas de cadavre, pas de monture, pas de traces. La rumeur veut qu'ils aient cherché trois jours, ce qui est court pour une recherche normale. Ils ont admis, plus tard, qu'ils n'avaient pas cherché trop avant : à un moment, leurs propres chevaux ont *refusé* de continuer.\n\nLe troisième — Aldric, vieux cavalier vétéran de l'an 247 — savait ce qu'il faisait. Il avait soixante-quatre ans, deux enfants adultes, une vie réussie. Il partit en disant simplement à sa femme : *« Je veux savoir. »* Elle ne tenta pas de l'en empêcher. Il revint deux mois plus tard. Sa femme l'attendait à la lisière du village.\n\nIl l'embrassa. Il dit : *« Tu avais raison de me laisser partir. Tu as eu tort de m'attendre. »* Il s'enferma dans leur maison pendant trois jours. Il en sortit, alla aux écuries, sella son cheval, et reprit la route du sud — cette fois sans rien dire à personne.\n\nSa femme garda sa promesse non-formulée et ne le suivit pas. Elle vit encore à Kryndor en l'an 252. Elle a soixante-cinq ans. Elle ne s'est pas remariée. Quand un voyageur de passage lui demande, par maladresse, si elle attend toujours son mari, elle répond : *« Non. Je ne l'attends plus. Je continue, c'est tout. »*\n\nC'est, à Kryndor, l'équivalent ventérien le plus pur de la Charge mature au sens du cadre — une vertu sans nom, sans gloire, sans pathos. Continuer, simplement, sans attendre.\n\n*Extrait de la fiche de Ventera.*\n\n- Ville principale de Kryostra, bâtie sur des falaises (quarante mètres) surplombant un fjord vertigineux ; maisons accrochées à la roche, reliées par escaliers et passerelles de corde. Construite en hauteur par nécessité défensive ; les habitants n'ont pas redescendu après la Grande Alliance. Les enfants y apprennent à grimper avant de marcher.\n- Population : Ville\n- Région : Kryostra\n\n*Extrait de la fiche d'Elarian.*\n",
+      "body": "## Village\n\nVillage le plus méridional de Ventera ; dernier avant-poste avant les terres sauvages du sud. Cavaliers endurcis qui escortent les caravanes au-delà des frontières connues. Règle absolue : ils accompagnent jusqu'à la frontière et reviennent, sans jamais traverser les terres non cartographiées du sud (trois cavaliers qui brisèrent la règle revinrent changés et refusèrent de décrire ; deux autres ne revinrent jamais).\n- Population : Village\n- Région : Astralor\n\n---\n\n*Extrait de la fiche de Ventera.*\n\n## « Les Cavaliers qui ne Reviennent Pas »\n\nKryndor est le dernier village avant les terres non cartographiées du sud. La règle absolue : *les cavaliers de Kryndor escortent les caravanes jusqu'à la frontière, et reviennent*. Ils ne traversent jamais.\n\nTrois cavaliers, dans l'histoire récente, ont brisé la règle.\n\nLe premier — Vendris, fils du chef de l'an 198 — pensait prouver que la règle était une superstition. Il traversa au printemps. Il revint à l'automne. Il refusa de décrire ce qu'il avait vu. Il but jusqu'à sa mort, deux ans plus tard.\n\nLe deuxième — Tessana, jeune cavalière de l'an 222 — voulait *aller voir*. Elle ne revint pas. Les cavaliers de Kryndor envoyés à sa recherche revinrent bredouilles : pas de cadavre, pas de monture, pas de traces. La rumeur veut qu'ils aient cherché trois jours, ce qui est court pour une recherche normale. Ils ont admis, plus tard, qu'ils n'avaient pas cherché trop avant : à un moment, leurs propres chevaux ont *refusé* de continuer.\n\nLe troisième — Aldric, vieux cavalier vétéran de l'an 247 — savait ce qu'il faisait. Il avait soixante-quatre ans, deux enfants adultes, une vie réussie. Il partit en disant simplement à sa femme : *« Je veux savoir. »* Elle ne tenta pas de l'en empêcher. Il revint deux mois plus tard. Sa femme l'attendait à la lisière du village.\n\nIl l'embrassa. Il dit : *« Tu avais raison de me laisser partir. Tu as eu tort de m'attendre. »* Il s'enferma dans leur maison pendant trois jours. Il en sortit, alla aux écuries, sella son cheval, et reprit la route du sud — cette fois sans rien dire à personne.\n\nSa femme garda sa promesse non-formulée et ne le suivit pas. Elle vit encore à Kryndor en l'an 252. Elle a soixante-cinq ans. Elle ne s'est pas remariée. Quand un voyageur de passage lui demande, par maladresse, si elle attend toujours son mari, elle répond : *« Non. Je ne l'attends plus. Je continue, c'est tout. »*\n\nC'est, à Kryndor, l'équivalent ventérien le plus pur de la Charge mature au sens du cadre — une vertu sans nom, sans gloire, sans pathos. Continuer, simplement, sans attendre.\n\n*Extrait de la fiche de Ventera.*\n",
       "data": {
         "echelle": "bourg",
         "region": "Astralor",
@@ -59606,12 +59689,20 @@
           "confiance": "moyenne",
           "methode": "corpus:sa fiche",
           "indice": "Le premier — Vendris, fils du chef de l'an 198 — pensait prouver que la règle était une superstition."
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "body",
+            "avant": "- Ville principale de Kryostra, bâtie sur des falaises (quarante mètres) surplombant un fjord vertigineux ; maisons accrochées à la roche, reliées par escaliers et passerelles de corde. Construite en hauteur par nécessité défensive ; les habitants n'ont pas redescendu après la Grande Alliance. Les e…",
+            "pourquoi": "texte du Kryndor d'Elarian (ville principale de Kryostra), copié dans la fiche de son homonyme ventérien à l'import ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0523",
@@ -61036,12 +61127,32 @@
           "confiance": "basse",
           "methode": "relation:capitale-de",
           "indice": "capitale de Ackerna (5000)"
-        }
+        },
+        "coord_x": -323.737429802094,
+        "coord_y": 70.6817581410879,
+        "capitale": true,
+        "fusion": [
+          {
+            "absorbe": "lie-0668",
+            "date": "2026-10-09",
+            "nom": "Ackerna",
+            "resume_absorbe": "Capitale d’Ackerna au cœur d’Obélia, que l’on n’appelle que « la Ville » ; labyrinthe d’arbres-maisons guidés sur trois générations autour du Bosquet Primordial.",
+            "motif": "doublon : la même capitale sans nom propre (« la Ville »), créée deux fois par l'import ; coordonnées reprises, corps (fiche de la nation) versé à pol-0014"
+          }
+        ],
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.coord_x/coord_y",
+            "avant": "(absent ; portées par la fiche doublon lie-0668)",
+            "pourquoi": "fiche doublon lie-0668 « Ackerna » (même capitale, deux fiches) fusionnée dans lie-0581 ; le texte de la nation qu'elle portait passe à pol-0014 ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0582",
@@ -65123,32 +65234,6 @@
       "updated_at": "2026-09-22T19:21:56.943Z"
     },
     {
-      "id": "lie-0668",
-      "type": "lieu",
-      "name": "Ackerna",
-      "slug": null,
-      "summary": "Capitale d’Ackerna au cœur d’Obélia, que l’on n’appelle que « la Ville » ; labyrinthe d’arbres-maisons guidés sur trois générations autour du Bosquet Primordial.",
-      "body": "<!-- source: Docs/Lore/Pays/Ilthara/Ackerna.md -->\n\n# Ackerna — Le Sanctuaire des Saisons Éternelles\n\n## Informations générales\n\n| | |\n|---|---|\n| **Continent** | Ilthara |\n| **Gouvernement** | Théocratie druidique |\n| **Religion principale** | [[Vael'Kurash]] (Les Esprits de Chaque Chose) |\n| **Religion secondaire** | [[Rota Mundi]] (Le Cycle du Monde) |\n| **Culture dominante** | Druidisme, connexion profonde à la nature et aux saisons |\n| **Histoire marquante** | Le Pacte Sylvestre |\n| **Ressources clés** | Herbes médicinales, bois sacré, cristaux de sève, résines enchantées |\n\n---\n\n## Gouvernement — La Théocratie Druidique\n\nStructure de pouvoir (prolongement de la forêt, non institution humaine) :\n\n- **L'Archidruide** — guide suprême. Désigné non par élection mais par un signe naturel (arbre poussant en une nuit, animal s'inclinant, floraison hors saison), interprété par les druides réunis au Bosquet Primordial à la mort du précédent.\n- **Le Cercle des Saisons** — quatre Grands Druides, un par saison, administrant le pays à tour de rôle selon la saison en cours :\n  - Druide du Printemps — croissance et naissance\n  - Druide de l'Été — prospérité et conflits\n  - Druide de l'Automne — récolte et justice\n  - Druide de l'Hiver — mort et renouveau\n- **Les Gardiens de Bosquet** — druides locaux administrant chaque région : justice, soins aux malades, lien entre habitants et esprits.\n\nArchidruide actuel : **Sylvenna la Tisseuse de Mousse**, d'un âge indéterminé (dirigerait Ackerna depuis plus d'un siècle selon certains). Autorité absolue mais bienveillante ; n'a jamais ordonné d'acte de violence en son nom.\n\n---\n\n## Religion\n\n### [[Vael'Kurash]] — Les Esprits de Chaque Chose (religion officielle)\n\n- Croyance : chaque élément naturel (arbre, rivière, rocher, brise) abrite une présence — non des dieux mais des interlocuteurs silencieux avec qui dialoguer et coexister par des rites appropriés.\n- Rituels profondément saisonniers ; à chaque changement de saison, célébrations de plusieurs jours dans tout le pays.\n- Les druides portent des tatouages rituels représentant les esprits auxquels ils sont liés. Ces tatouages évoluent au fil des saisons (s'assombrissant en hiver, verdissant au printemps) — phénomène inexpliqué, même par les mages étrangers.\n\n**Fêtes religieuses :**\n- **L'Éveil des Bourgeons** (équinoxe de printemps) — chaque habitant plante un arbre et lui murmure un secret ; on croit que l'arbre le porte toute sa vie et que le confier libère l'âme.\n- **Le Solstice des Flammes Vertes** (solstice d'été) — feux de joie nourris d'herbes sacrées brûlant d'un vert émeraude ; les druides y lisent les présages de la saison à venir.\n- **La Chute Dorée** (équinoxe d'automne) — les habitants tissent en couronnes les plus belles feuilles tombées, offertes aux esprits en remerciement de la récolte.\n- **La Veille du Givre** (solstice d'hiver) — nuit la plus longue passée en silence absolu (du coucher au lever du soleil) ; on croit que les esprits dorment et que le moindre bruit troublerait leur repos.\n\n### [[Rota Mundi]] — Le Cycle du Monde (religion secondaire)\n\n- Enseigne que tout est cyclique : vie, mort, saisons, civilisations.\n- Lecture ackernienne marquée par la réincarnation : les âmes reviendraient sous forme d'animaux, de plantes ou de pierres. Lecture contestée par d'autres écoles théologiques d'Hybelior, mais profondément enracinée à Ackerna.\n- Influence sur les rites funéraires : les morts ne sont jamais enterrés dans des cercueils, mais déposés directement dans la terre, enveloppés de mousse et de feuilles, pour que leur corps nourrisse la prochaine vie.\n\n---\n\n## Culture et société\n\n### Le Lien Végétal\n- À la naissance de chaque enfant, un druide plante un arbre-jumeau ; selon la tradition, la santé de l'arbre reflète celle de l'enfant (corrélation tenue pour évidente par les druides, évaluée diversement par les étrangers).\n- À la mort d'un Ackernien, son arbre-jumeau devient sacré et ne peut jamais être abattu.\n\n### Hiérarchie sociale\n1. **Les Druides** — guides spirituels et politiques, vénérés mais tenus à une vie d'austérité.\n2. **Les Herboristes et Guérisseurs** — pilier médical du pays.\n3. **Les Sylvains** — forestiers, cueilleurs et chasseurs vivant au plus près de la nature.\n4. **Les Artisans du Bois** — sculpteurs, charpentiers et luthiers travaillant le bois avec un respect quasi-religieux.\n5. **Les Étrangers** — regardés avec une curiosité prudente ; un étranger qui abîme la forêt est banni immédiatement.\n\n### Gastronomie\n- Cuisine exclusivement végétale (par tradition, non par interdiction de la viande) : herbes sauvages, champignons rares, fruits forestiers, racines.\n- Boisson nationale : breuvages de sève fermentée ; certains crus du Bosquet Primordial sont réputés induire des visions prophétiques.\n\n### Architecture\n- Les bâtiments ne sont pas construits mais cultivés : maisons faites d'arbres vivants dont les branches sont guidées pendant des décennies pour former murs, toits et planchers.\n- Les villes ressemblent à des jardins habités ; même la capitale est difficile à distinguer de la forêt pour un œil non initié.\n\n---\n\n## Régions\n\n### Obélia\nCœur spirituel d'Ackerna ; abrite le Bosquet Primordial où fut scellé le Pacte Sylvestre. Forêts les plus anciennes et denses du pays, air chargé de magie. Siège de l'Archidruide ; lieu des grandes cérémonies saisonnières.\n\n## Relations extérieures\n\n| Pays | Relation | Détails |\n|------|----------|---------|\n| **Sylthara** | Alliance naturelle | Amour partagé de la terre et de ses cycles. Échanges fréquents de savoir agricole et druidique. |\n| **Vytharia** | Méfiance polie | Les illusions de Vytharia troublent les esprits de la nature. Les druides considèrent le Voile du Rêve comme une aberration dangereuse. |\n| **Gryndor** | Respect distant | Ackerna respecte le savoir de Gryndor mais déplore son obsession pour la pierre et l'artifice au détriment du vivant. |\n| **Drakora** | Tension sourde | Le feu des dragons est l'ennemi séculaire de la forêt. Relations cordiales en surface, chargées de méfiance ancestrale. |\n| **Warenthor** | Fraternité spirituelle | Vénération partagée de Vael'Kurash et vision centrée sur les esprits, malgré des pratiques très différentes. |\n\n---\n\n## Secrets et intrigues\n\n- **Les Racines qui Saignent** : sous le Bosquet Primordial, les racines profondes suintent un liquide rouge sombre. L'Archidruide Sylvenna a interdit l'accès aux cavernes souterraines. Interprétations : affaiblissement du Pacte Sylvestre / esprits réclamant un nouveau prix (selon certains druides) ou simple anomalie géologique (selon d'autres).\n- **Les Enfants de l'Hiver Noir** : les druides bannis lors du Pacte Sylvestre n'ont pas disparu. Un réseau clandestin, les Enfants de l'Hiver Noir, opère dans les Marécages de Noyrath. Rumeur : tentative de retourner les esprits frontaliers contre Ackerna et infiltration de Gardiens de Bosquet — accusations prises au sérieux par le Cercle des Saisons sans confirmation publique.\n- **L'Arbre Sans Jumeau** : un enfant né récemment à AckernaVille dont l'arbre-jumeau a refusé de pousser (sept graines plantées, toutes mortes). L'enfant grandit en parfaite santé. Selon la mémoire druidique, la dernière fois qu'un arbre-jumeau aurait refusé de pousser, ce fut pour le druide imputé de l'Hiver Noir — correspondance citée comme présage, jamais démontrée comme causalité.\n- **Le Chant des Profondeurs** : les habitants silencieux de Gnosias entendent un chant venu de sous la terre, ne correspondant à aucun esprit connu des druides. Selon certains, il émanerait du Lac des Rêves (centre d'Ilthara) et annoncerait un changement cataclysmique ; d'autres y entendent une simple musique étrange.\n\n---\n\n<!-- source: Docs/Lore/Histoires/Ilthara/Ackerna.md -->\n\n# Histoires d'Ackerna\n\n## Les Origines -- Du Chêne-Mère au Pacte Sylvestre\n\nLes premiers habitants des forêts d'Ackerna furent des ermites et des mystiques venus des quatre coins d'Ilthara, attirés par des voix dans le vent et des visions dans la rosée. Ils se rassemblèrent autour des arbres les plus anciens, dont les racines plongeaient assez profond pour toucher, disait-on, les veines magiques d'Ilthara elle-même. Le premier cercle druidique, celui du Chêne-Mère, fut fondé par une femme dont le nom fut volontairement efface de l'histoire -- car en Ackerna, les fondateurs ne sont pas des héros mais des serviteurs de la forêt. Ce cercle posa les principes qui regissent encore le pays : la terre ne s'appartient pas, elle se partage ; les saisons ne se subissent pas, elles se célèbrent ; et aucun arbre ne tombe sans qu'un autre soit plante.\n\nPendant des siècles, Ackerna vécut en harmonie. Puis vint l'Hiver Noir : la forêt tomba malade, les arbres perdirent leurs feuilles en plein été, les sources se tarirent, et ce que les druides nommaient la voix des esprits se brouilla. La cause fut découverte trop tard. Un cercle dissident, fasciné par ce qui filtrait des Marécages de Noyrath au sud, avait pratique des rites juges transgressifs pour puiser une magie plus puissante. Les druides de l'époque attribuèrent la dégradation de la forêt a ces rites -- coïncidence ou conséquence, les théologiens en débattent encore -- et la confiance entre eux et les esprits s'effondra.\n\nFace à l'agonie de la forêt, l'Archidruide Faelorn convoqua un rituel sans précédent. Pendant sept jours et sept nuits, les druides fidèles se réunirent au cœur du Bosquet Primordial et offrirent une part de leur essence vitale à la terre. La réponse qu'ils perçurent prit la forme d'une condition : désormais les druides gouverneraient non comme des chefs, mais comme des gardiens liés par serment à la forêt. Quiconque trahirait ce pacte verrait son lien avec la nature s'etioler -- une menace récitée encore aux intronisations, jamais testee publiquement. Ce fut le Pacte Sylvestre, qui transforma Ackerna en théocratie ou la forêt elle-même, dans la lecture des druides, est la plus haute autorité. Les druides dissidents furent bannis dans les Marécages de Noyrath -- leurs descendants, dit-on, y errent encore sous le nom des Enfants de l'Hiver Noir.\n\n---\n",
-      "data": {
-        "echelle": "cite",
-        "coord_x": -323.737429802094,
-        "coord_y": 70.6817581410879,
-        "capitale": true,
-        "periode": {
-          "debut": 10197,
-          "fin": 10201,
-          "confiance": "basse",
-          "methode": "corpus:fichier",
-          "indice": "nommé dans « Chapitre 18 - Les Moissons Éternelles.md » — récit (an 251 du Sillage)",
-          "fiche": "Docs/Lore/Chroniques/Chapitre 18 - Les Moissons Éternelles.md"
-        }
-      },
-      "status": "canon",
-      "disclosure": "public",
-      "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
-    },
-    {
       "id": "lie-0669",
       "type": "lieu",
       "name": "Cëpias",
@@ -65166,13 +65251,24 @@
             "champ": "summary",
             "avant": "seuls son nom, son rang et sa position sur la carte du monde sont attestés.",
             "pourquoi": "C/25 : la ville du Cantus d’Evertia est Cëpias."
+          },
+          {
+            "date": "2026-10-09",
+            "champ": "data.rattachement",
+            "avant": "(absent)",
+            "pourquoi": "rattachement par les fiches et les livres, jamais par la position ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
           }
-        ]
+        ],
+        "rattachement": {
+          "nation": "pol-0031",
+          "date": "2026-10-09",
+          "motif": "C/25 : cour et académie du Cantus (Voix-de-Pierre, Cantus du couchant), ville qui dépense plus pour ses arts que pour ses soldats ; le Cantus Mundi et les Cantori sont la religion et l'ordre de Thalmaris, monarchie bardique-académique du sud-ouest du continent (fiche Evertia - Continent). Ostarith reste la capitale de Thalmaris : data.capitale de Cëpias (signe de la carte) se lit cité de cour."
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-27T23:55:49.983Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0670",
@@ -66344,12 +66440,24 @@
       "data": {
         "echelle": "cite",
         "coord_x": -444.955219147118,
-        "coord_y": 207.802395134106
+        "coord_y": 207.802395134106,
+        "sans_nation": {
+          "date": "2026-10-09",
+          "raison": "seuls le nom et la position sur la carte de l'auteur sont attestés ; le continent porte trois nations (Evertia, Thalmaris, Sylvara, fiche Evertia - Continent) et aucun texte ne dit laquelle tient cette ville ; un rattachement par la position est exclu (CLAUDE.md)"
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.sans_nation",
+            "avant": "(absent)",
+            "pourquoi": "rattachement par les fiches et les livres, jamais par la position ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0726",
@@ -66361,12 +66469,24 @@
       "data": {
         "echelle": "cite",
         "coord_x": -414.136060854031,
-        "coord_y": 193.061581323392
+        "coord_y": 193.061581323392,
+        "sans_nation": {
+          "date": "2026-10-09",
+          "raison": "seuls le nom et la position sur la carte de l'auteur sont attestés ; le continent porte trois nations (Evertia, Thalmaris, Sylvara, fiche Evertia - Continent) et aucun texte ne dit laquelle tient cette ville ; un rattachement par la position est exclu (CLAUDE.md)"
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.sans_nation",
+            "avant": "(absent)",
+            "pourquoi": "rattachement par les fiches et les livres, jamais par la position ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0727",
@@ -66378,12 +66498,24 @@
       "data": {
         "echelle": "cite",
         "coord_x": -426.456361954826,
-        "coord_y": 175.607606699286
+        "coord_y": 175.607606699286,
+        "sans_nation": {
+          "date": "2026-10-09",
+          "raison": "seuls le nom et la position sur la carte de l'auteur sont attestés ; le continent porte trois nations (Evertia, Thalmaris, Sylvara, fiche Evertia - Continent) et aucun texte ne dit laquelle tient cette ville ; un rattachement par la position est exclu (CLAUDE.md)"
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.sans_nation",
+            "avant": "(absent)",
+            "pourquoi": "rattachement par les fiches et les livres, jamais par la position ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0728",
@@ -66412,12 +66544,24 @@
       "data": {
         "echelle": "cite",
         "coord_x": -413.696812615705,
-        "coord_y": 127.372757307578
+        "coord_y": 127.372757307578,
+        "sans_nation": {
+          "date": "2026-10-09",
+          "raison": "seuls le nom et la position sur la carte de l'auteur sont attestés ; le continent porte trois nations (Evertia, Thalmaris, Sylvara, fiche Evertia - Continent) et aucun texte ne dit laquelle tient cette ville ; un rattachement par la position est exclu (CLAUDE.md)"
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.sans_nation",
+            "avant": "(absent)",
+            "pourquoi": "rattachement par les fiches et les livres, jamais par la position ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0730",
@@ -68887,7 +69031,7 @@
       "name": "Lunaris",
       "slug": null,
       "summary": "Village d’ermites et d’anciens Brûlés au fond d’un canyon argenté de Xeranthia (Drakora) ; sans lien avec le Lunaris capitale de Lunasar.",
-      "body": "## Village\n\n- Descripteur : village isolé au fond d'un canyon de Xeranthia ; nom dû à la lumière lunaire réfléchie par les parois cristallines, qui baigne le village d'une lueur argentée même de jour. Habitants = mystiques et ermites, souvent d'anciens Brûlés en quête de paix.\n- Homonymie (à ne pas confondre) : le nom coïncide fortuitement avec **Lunaris**, capitale de la province vytharienne de [[Lunasar]] (autre nation d'Ilthara). Aucun lien : le Lunaris drakorien tire son nom de la lumière du canyon, la capitale lunarienne de son culte lunaire. Coïncidence de toponymes entre deux nations distinctes.\n- Fondation : premiers habitants = déserteurs (aspirants Brûlés ayant survécu à l'Épreuve du Souffle mais refusant de servir). La reine Myrthin envoya un Lié seul et sans armes plutôt que des soldats, et ne punit personne : amnistie implicite. Lunaris est depuis un lieu de retraite officieusement reconnu.\n- Note : selon les légendes, un dragon très ancien, Vey'thar, dormirait dans les profondeurs du canyon (voir Secrets et intrigues).\n- Population : Village\n- Région : Xeranthia\n\n---\n\n*Extrait de la fiche de Drakora.*\n\n## \"Le Rêve de Vey'thar\"\n\nAu fond du canyon de Lunaris, ou la lumière lunaire transformait la roche en argent, le vieux Brule Aldren faisait le même rêve chaque nuit.\n\nIl rêvait d'un œil. Un oeil immense, vertical, fendu comme celui d'un reptile, d'un or si profond qu'il semblait contenir des galaxies. L'œil le regardait depuis les profondeurs de la terre, à travers des couches de roche et de temps, avec une patience qui n'était pas humaine.\n\nAldren était venu à Lunaris pour mourir en paix. Quarante ans de guerre, vingt cicatrices de brûlure, un corps use et un esprit fatigue. Les ermites du canyon l'avaient accueilli sans questions, lui offrant une cellule de pierre ou la lumière d'argent entrait par une fissure étroite.\n\nMais les rêves ne le laissaient pas en paix.\n\nChaque nuit, l'œil. Chaque nuit, plus proche. Pas menaçant -- curieux. Comme un enfant qui observe un insecte. Aldren sentait une intelligence derrière ce regard, une intelligence si vaste qu'elle rendait la sienne insignifiante.\n\n\"Vey'thar\", murmuraient les ermites quand il décrivait ses rêves. \"Le Dragon Dormant. Selon notre tradition, il rêve aussi.\"\n\n\"De quoi ?\"\n\n\"De nous. On dit qu'il nous rêve. Et parfois, ceux qui vivent au-dessus de lui croient voir son rêve en retour.\"\n\nAldren, homme de guerre et de pragmatisme, trouva cette idée absurde. Puis les tremblements commencèrent. Pas des séismes -- des vibrations profondes et regulieres, comme la respiration d'une créature colossale. Les murs de sa cellule vibraient au rythme d'un souffle qui semblait monter de sous la terre.\n\nUne nuit, le rêve changea. L'œil se ferma. Et dans l'obscurité qui suivit, Aldren ressentit ce qu'il decrivit ensuite comme une émotion vaste qui le traversa : une tristesse qu'il qualifia de millénaire, patiente, infinie.\n\nSelon la lecture qu'en firent ensuite les ermites, Vey'thar ne dormait pas par choix. Il était emprisonne, et même sa colère -- racontaient-ils -- s'était transformée en mélancolie au fil de l'attente.\n\nEt ce qu'Aldren rapporta de son rêve, et qui glaça le canyon, fut ceci : selon ce qu'il avait perçu, Vey'thar ne cherchait pas à se réveiller.\n\nIl cherchait à être pardonne.\n\nPardonne de quoi ? Par qui ? Aldren ne le sut jamais. Mais il cessa de souhaiter mourir en paix. Car si l'on pouvait croire ce qu'il racontait -- et certains le croyaient --, un poids capable d'enterrer vivant un dragon sous une montagne donnait à réfléchir sur la paix de chacun.\n\nPas même pour les dieux.\n\n*Extrait de la fiche de Drakora.*\n\n## (Capitale, ~24 000 habitants)\n\n- Cité-amphithéâtre, siège du gouvernement. Construite autour de l'amphithéâtre central dont la voûte est le ciel ; gradins de pierre blanche.\n- Architecture sobre : maisons à toits plats, blanches à l'extérieur.\n- **Bibliothèque centrale** : Tables des Conséquences, journaux des Vieillards, registres des Veilleurs.\n- Maison de Solvanes (bibliothèque privée équivalente à un quart de la centrale).\n\n*Extrait de la fiche de Lunasar.*\n\n## « Les Tables qui Ne Disent Rien »\n\nSolvanes n'avait pas toujours été Solvanes. Vieil homme aujourd'hui, après ses longues années de service comme Veilleur de lune, il a pris l'habitude qu'on ait pour lui — l'habitude qu'on a pour les vieux d'une nation qui mesure le temps en cycles plutôt qu'en années. Mais à cinquante ans, il avait porté une autre habitude.\n\nIl avait été, pendant onze ans, le **Maître des Tables**.\n\nC'est une fonction qui n'existe plus aujourd'hui, et dont les chroniques officielles ne parlent que par périphrase. Le Maître des Tables était la personne chargée, à Lunaris, de veiller à la **continuité du registre** — les Tables des Conséquences, ces croisements entre les phases de la lune et les résultats des décisions politiques observées sur cinq, dix, vingt ans. Trois siècles de données. Pas un cycle de manque.\n\nLe Maître des Tables n'écrivait pas les Tables — d'autres s'en chargeaient. Il les **lisait**. Il les lisait jusqu'au point où il pouvait reconnaître, dans la masse, les **anomalies** — les décisions qui avaient bien marché contre toute attente, ou mal tourné contre toutes les corrélations. Il en tenait un registre séparé, dans un cahier de cuir noir relié par une laine grise, qui ne quittait pas sa table de travail.\n\nSolvanes prit cette fonction en l'an 215. Il avait alors cinquante ans cycles. Il l'occupa onze ans, jusqu'à l'an 226. Pendant ces onze années, il vit deux mille pleines lunes de décisions et autant d'applications. Il vit la corrélation tenir, globalement. Il vit aussi les anomalies se multiplier — pas catastrophiquement, mais d'année en année, avec une régularité qui n'était pas un bruit.\n\nÀ la fin de la dixième année, il rédigea un rapport.\n\nLe rapport n'a pas survécu — ou s'il a survécu, personne ne dit où il est. Mais sa **conclusion** est consignée dans une marge du registre des Veilleurs, écrite de la main d'un secrétaire que Solvanes avait alors. *« Le Maître écrit que le système marche, mais peut-être pas par les raisons qu'il dit. »*\n\nPersonne ne l'a contredit. Personne ne l'a reproduit. Personne, à l'Assemblée de pleine lune, n'a jamais soulevé la question. Solvanes lui-même est passé à autre chose — il a démissionné l'année suivante, est devenu Veilleur de lune (poste plus modeste), et a passé un quart de siècle à observer les routes du nord.\n\nÀ sa retraite, tout récemment, à plus de quatre-vingts ans cycles, il est rentré dans la maison qui donnait sur l'amphithéâtre. Il n'a pas repris le rapport. Il n'a pas réécrit le rapport. Il a, selon ses voisins, *cessé de regarder les Tables*. Il a regardé d'autres choses — les arrivants, les amulettes, les visages des cartographes étrangers.\n\nLe cahier de cuir noir — celui des anomalies — est dans sa bibliothèque. Sa famille le sait. Aucune famille ne reste à présent. Sa mort est attendue dans les sept à douze ans. Ce qui se passera du cahier dépendra de qui passera la porte de sa maison ce jour-là — et l'institution lunarienne, dans sa sagesse, n'a pris aucune disposition.\n\nL'**Espérance Vide** est rarement aussi propre que ceci : un système qui marche, dont les fondements sont peut-être faux, et que personne — y compris les rares qui le savent — ne souhaite désorganiser. La paix lunarienne tient parce que la question n'est pas posée. Solvanes l'a posée, en privé, il y a plus d'un quart de siècle. Il a choisi de la reposer à la nouvelle lune suivante, et à toutes les nouvelles lunes depuis.\n\nAux nouvelles lunes, on ne décide rien.\n\n---\n\n*Extrait de la fiche de Lunasar.*\n\n## « L'Éclipse de Mira »\n\nTous les Lunarchs sont désignés à l'éclipse de pleine lune. La règle est ferme. La règle est suivie.\n\nMira Halnerin fut désignée Lunarch en l'an 244, à l'éclipse du 9e cycle. Elle avait soixante-douze ans cycles, déjà vieille à l'échelle ordinaire mais pas à l'échelle lunarienne. Elle avait été Recenseur de Questions à trois reprises, jamais Veilleuse, jamais Maître de quoi que ce soit. Sa désignation surprit. Elle ne surprit pas — il n'y a pas de surprise possible à une désignation par éclipse, le mécanisme excluant toute candidature préalable. Mais on s'y attendait moins qu'à d'autres.\n\nElle entra en fonction le mois suivant avec la sobriété qu'on attend d'une Lunarch. Elle présida les funérailles d'État (deux dans la première année, ce qui est plus que la moyenne). Elle ouvrit les Assemblées par le silence d'une minute. Elle signa les décisions sans tenter de les comprendre — sa signature ne valant pas avis, elle n'engage à rien.\n\nCe que personne ne sut tout de suite : Mira avait, à dix-neuf ans, perdu un enfant. Un fils. Mort en sept jours d'une fièvre que les Lecteurs de rêves de l'époque avaient mal lue — la consultation de pleine lune avait conseillé d'attendre, et l'attente avait coûté la vie. Mira n'avait jamais reproché publiquement aux Lecteurs ce conseil. Elle n'en avait pas non plus parlé. Elle avait continué.\n\nCinquante-trois ans plus tard, elle était Lunarch. Et la fonction royale lunarienne, dans sa structure, est un sablier humain — la Lunarch est désignée pour vieillir devant le pays, pour incarner la durée et la fin sans pouvoir détourner l'une ni l'autre.\n\nMira accepta cela avec ce qu'on prit pour de l'humilité ordinaire et qui était autre chose.\n\nTrois ans après sa désignation, à l'occasion d'une session ordinaire de pleine lune où l'on débattait — interminablement — d'une question d'irrigation au Velharon, Mira fit quelque chose qui n'était pas dans le protocole. Elle se leva. Elle se tint debout pendant une minute. Elle se rassit. Elle ne dit rien.\n\nL'Assemblée s'arrêta. Pas parce qu'on lui demandait. Parce que le geste, dans sa simplicité absolue, *interrompait*.\n\nSolvanes, présent ce soir-là dans les gradins, nota dans son journal : *« La Lunarch s'est levée pendant la délibération sur l'eau. Elle n'a rien dit. Elle s'est rassise. Tout le monde a compris quelque chose. Personne, moi compris, ne saurait dire quoi. »*\n\nLe débat reprit. La décision fut votée — pour la solution la plus modérée, contre la plus efficace. Personne, au cours du vote, ne fit référence au geste de Mira. Mais le vote bascula d'un côté qu'aucun pronostic n'avait prévu.\n\nMira est morte en l'an 252, deux ans après le passage de Sorin Valthen. La cause de la mort est consignée comme *vieillesse*. L'éclipse à venir, attendue dans les sept à douze ans, désignera quelqu'un d'autre. Aucun Lunarien aujourd'hui ne sait dire ce que Mira a *fait* en se levant ce soir-là. Aucune institution lunarienne ne lui a élevé de monument. Son nom apparaît sur la liste des Lunarchs comme tous les autres — chiffré, daté, sans glose.\n\nLe **Sablier** (vertu) ne demande pas qu'on commente. Il demande qu'on tienne. Mira a tenu pendant huit ans, dans une fonction qui n'avait aucun pouvoir de veto, et son geste d'une minute est la seule trace publique qu'elle laisse — un geste si discret que son sens reste en suspens, et que sa transmission n'oblige personne à rien.\n\nLes funérailles de Mira eurent lieu pendant la nouvelle lune. Le cortège fut court. La Lunarch suivante n'était pas encore désignée — l'éclipse n'avait pas encore eu lieu. Le pays passa quatre mois sans Lunarch, ce qui n'est ni inhabituel ni gênant. Il n'y a pas tant à signer.\n\n---\n\n*Extrait de la fiche de Lunasar.*\n",
+      "body": "## Village\n\n- Descripteur : village isolé au fond d'un canyon de Xeranthia ; nom dû à la lumière lunaire réfléchie par les parois cristallines, qui baigne le village d'une lueur argentée même de jour. Habitants = mystiques et ermites, souvent d'anciens Brûlés en quête de paix.\n- Homonymie (à ne pas confondre) : le nom coïncide fortuitement avec **Lunaris**, capitale de la province vytharienne de [[Lunasar]] (autre nation d'Ilthara). Aucun lien : le Lunaris drakorien tire son nom de la lumière du canyon, la capitale lunarienne de son culte lunaire. Coïncidence de toponymes entre deux nations distinctes.\n- Fondation : premiers habitants = déserteurs (aspirants Brûlés ayant survécu à l'Épreuve du Souffle mais refusant de servir). La reine Myrthin envoya un Lié seul et sans armes plutôt que des soldats, et ne punit personne : amnistie implicite. Lunaris est depuis un lieu de retraite officieusement reconnu.\n- Note : selon les légendes, un dragon très ancien, Vey'thar, dormirait dans les profondeurs du canyon (voir Secrets et intrigues).\n- Population : Village\n- Région : Xeranthia\n\n---\n\n*Extrait de la fiche de Drakora.*\n\n## \"Le Rêve de Vey'thar\"\n\nAu fond du canyon de Lunaris, ou la lumière lunaire transformait la roche en argent, le vieux Brule Aldren faisait le même rêve chaque nuit.\n\nIl rêvait d'un œil. Un oeil immense, vertical, fendu comme celui d'un reptile, d'un or si profond qu'il semblait contenir des galaxies. L'œil le regardait depuis les profondeurs de la terre, à travers des couches de roche et de temps, avec une patience qui n'était pas humaine.\n\nAldren était venu à Lunaris pour mourir en paix. Quarante ans de guerre, vingt cicatrices de brûlure, un corps use et un esprit fatigue. Les ermites du canyon l'avaient accueilli sans questions, lui offrant une cellule de pierre ou la lumière d'argent entrait par une fissure étroite.\n\nMais les rêves ne le laissaient pas en paix.\n\nChaque nuit, l'œil. Chaque nuit, plus proche. Pas menaçant -- curieux. Comme un enfant qui observe un insecte. Aldren sentait une intelligence derrière ce regard, une intelligence si vaste qu'elle rendait la sienne insignifiante.\n\n\"Vey'thar\", murmuraient les ermites quand il décrivait ses rêves. \"Le Dragon Dormant. Selon notre tradition, il rêve aussi.\"\n\n\"De quoi ?\"\n\n\"De nous. On dit qu'il nous rêve. Et parfois, ceux qui vivent au-dessus de lui croient voir son rêve en retour.\"\n\nAldren, homme de guerre et de pragmatisme, trouva cette idée absurde. Puis les tremblements commencèrent. Pas des séismes -- des vibrations profondes et regulieres, comme la respiration d'une créature colossale. Les murs de sa cellule vibraient au rythme d'un souffle qui semblait monter de sous la terre.\n\nUne nuit, le rêve changea. L'œil se ferma. Et dans l'obscurité qui suivit, Aldren ressentit ce qu'il decrivit ensuite comme une émotion vaste qui le traversa : une tristesse qu'il qualifia de millénaire, patiente, infinie.\n\nSelon la lecture qu'en firent ensuite les ermites, Vey'thar ne dormait pas par choix. Il était emprisonne, et même sa colère -- racontaient-ils -- s'était transformée en mélancolie au fil de l'attente.\n\nEt ce qu'Aldren rapporta de son rêve, et qui glaça le canyon, fut ceci : selon ce qu'il avait perçu, Vey'thar ne cherchait pas à se réveiller.\n\nIl cherchait à être pardonne.\n\nPardonne de quoi ? Par qui ? Aldren ne le sut jamais. Mais il cessa de souhaiter mourir en paix. Car si l'on pouvait croire ce qu'il racontait -- et certains le croyaient --, un poids capable d'enterrer vivant un dragon sous une montagne donnait à réfléchir sur la paix de chacun.\n\nPas même pour les dieux.\n\n*Extrait de la fiche de Drakora.*\n",
       "data": {
         "echelle": "bourg",
         "coord_x": -167.896977095891,
@@ -68906,13 +69050,19 @@
             "champ": "body",
             "avant": "Mira est morte en l'an 252, peu après le départ de Sorin Valthen.",
             "pourquoi": "C/28 : Sorin est à Lunaris au jour 690, an 250 ; « peu après » supposait un passage en 252."
+          },
+          {
+            "date": "2026-10-09",
+            "champ": "body",
+            "avant": "## (Capitale, ~24 000 habitants)\n\n- Cité-amphithéâtre, siège du gouvernement. Construite autour de l'amphithéâtre central dont la voûte est le ciel ; gradins de pierre blanche.\n- Architecture sobre : maisons à toits plats, blanches à l'extérieur.\n- **Bibliothèque centrale** : Tables des Conséquences…",
+            "pourquoi": "texte du Lunaris de Lunasar, copié dans la fiche de son homonyme drakorien à l'import ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
           }
         ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-27T23:36:07.188Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0848",
@@ -69423,12 +69573,24 @@
       "data": {
         "echelle": "ville",
         "coord_x": -422.340606881991,
-        "coord_y": 195.85407001892
+        "coord_y": 195.85407001892,
+        "sans_nation": {
+          "date": "2026-10-09",
+          "raison": "seuls le nom et la position sur la carte de l'auteur sont attestés ; le continent porte trois nations (Evertia, Thalmaris, Sylvara, fiche Evertia - Continent) et aucun texte ne dit laquelle tient cette ville ; un rattachement par la position est exclu (CLAUDE.md)"
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.sans_nation",
+            "avant": "(absent)",
+            "pourquoi": "rattachement par les fiches et les livres, jamais par la position ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0875",
@@ -69448,12 +69610,24 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Era 6 - L'Ère des Nations.md » — ère 6",
           "fiche": "Docs/Lore/Chronologie/Era 6 - L'Ère des Nations.md"
-        }
+        },
+        "sans_nation": {
+          "date": "2026-10-09",
+          "raison": "seuls le nom et la position sur la carte de l'auteur sont attestés ; le continent porte trois nations (Evertia, Thalmaris, Sylvara, fiche Evertia - Continent) et aucun texte ne dit laquelle tient cette ville ; un rattachement par la position est exclu (CLAUDE.md). Le nom évoque la Grande Cloche d'Evertia, mais la fiche la place à Créciel (Vaelcendia) : rapprochement non établi."
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.sans_nation",
+            "avant": "(absent)",
+            "pourquoi": "rattachement par les fiches et les livres, jamais par la position ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0876",
@@ -69465,12 +69639,24 @@
       "data": {
         "echelle": "ville",
         "coord_x": -408.825970219287,
-        "coord_y": 143.17004917737
+        "coord_y": 143.17004917737,
+        "sans_nation": {
+          "date": "2026-10-09",
+          "raison": "seuls le nom et la position sur la carte de l'auteur sont attestés ; le continent porte trois nations (Evertia, Thalmaris, Sylvara, fiche Evertia - Continent) et aucun texte ne dit laquelle tient cette ville ; un rattachement par la position est exclu (CLAUDE.md)"
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.sans_nation",
+            "avant": "(absent)",
+            "pourquoi": "rattachement par les fiches et les livres, jamais par la position ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "lie-0877",
@@ -81037,16 +81223,24 @@
         ],
         "periode": {
           "debut": 10198,
-          "fin": 10200,
-          "confiance": "basse",
-          "methode": "relation:apparait-dans",
-          "indice": "apparaît dans Les Chroniques de l'Exilé (10198)"
-        }
+          "fin": 10199,
+          "confiance": "haute",
+          "methode": "fait-date",
+          "indice": "mort : fac-1182"
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "data.periode",
+            "avant": "{\"debut\":10198,\"fin\":10200,\"confiance\":\"basse\",\"methode\":\"relation:apparait-dans\",\"indice\":\"apparaît dans Les Chroniques de l'Exilé (10198)\"}",
+            "pourquoi": "la fin de période suit le fait de mort fac-1182 (an 250 du Sillage) ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-23T23:10:56.676Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "per-1060",
@@ -81792,7 +81986,7 @@
       "name": "Lunaris (capitale de Lunasar)",
       "slug": null,
       "summary": "Capitale de Lunasar, ville de pierre blanche repliée dans une échancrure de la côte autour d’un amphithéâtre sans toit ; on y vote à la pleine lune et l’on s’y range le visage trois jours à la nouvelle lune. Homonyme du canyon de Lunaris en Drakora (lie-0847).",
-      "body": null,
+      "body": "## Capitale (~24 000 habitants)\n\n- Cité-amphithéâtre, siège du gouvernement. Construite autour de l'amphithéâtre central dont la voûte est le ciel ; gradins de pierre blanche.\n- Architecture sobre : maisons à toits plats, blanches à l'extérieur.\n- **Bibliothèque centrale** : Tables des Conséquences, journaux des Vieillards, registres des Veilleurs.\n- Maison de Solvanes (bibliothèque privée équivalente à un quart de la centrale).\n\n*Extrait de la fiche de Lunasar.*\n",
       "data": {
         "preuve": [
           "C/28"
@@ -81829,12 +82023,20 @@
             ],
             "source": "estimée d’après les livres, 2026-09-25"
           }
-        }
+        },
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "body",
+            "avant": "(corps vide)",
+            "pourquoi": "texte du Lunaris de Lunasar, copié dans la fiche de son homonyme drakorien à l'import ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-09-23T23:10:56.676Z",
-      "updated_at": "2026-09-25T22:13:04.192Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "per-1076",
@@ -84682,6 +84884,25 @@
       "disclosure": "public",
       "created_at": "2026-10-01T12:00:00.000Z",
       "updated_at": "2026-10-01T12:00:00.000Z"
+    },
+    {
+      "id": "lie-1073",
+      "type": "lieu",
+      "name": "Kryndor (Kryostra)",
+      "slug": null,
+      "summary": "Ville principale de Kryostra, en Elarian, accrochée à quarante mètres de falaise au-dessus d'un fjord ; maisons tenues à la roche, reliées par escaliers et passerelles de corde. Homonyme du Kryndor de Ventera (lie-0522).",
+      "body": "## Ville\n\n- Ville principale de Kryostra, bâtie sur des falaises (quarante mètres) surplombant un fjord vertigineux ; maisons accrochées à la roche, reliées par escaliers et passerelles de corde. Construite en hauteur par nécessité défensive ; les habitants n'ont pas redescendu après la Grande Alliance. Les enfants y apprennent à grimper avant de marcher.\n- Population : Ville\n- Région : Kryostra\n\n*Extrait de la fiche d'Elarian.*\n",
+      "data": {
+        "echelle": "ville",
+        "region": "Kryostra",
+        "homonymie": "Kryndor de Ventera (lie-0522), dernier village avant les terres sans carte du sud ; aucun lien.",
+        "provenance": "Docs/Lore/Pays/Celethor/Elarian.md, section Kryndor ; texte retiré de lie-0522 ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16",
+        "note": "Position non relevée : à poser sur la côte de Kryostra quand la carte le permettra."
+      },
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-09T12:00:00.000Z",
+      "updated_at": "2026-10-09T12:00:00.000Z"
     }
   ],
   "facts": [
@@ -114611,8 +114832,8 @@
     {
       "id": "fac-1182",
       "fact_type": "mort",
-      "subject_id": "pol-0016",
-      "object_id": null,
+      "subject_id": "per-1059",
+      "object_id": "pol-0016",
       "start_year": 10199,
       "start_precision": "estimation",
       "start_circa": 1,
@@ -114642,6 +114863,12 @@
             "champ": "data.jour",
             "avant": "428",
             "pourquoi": "Même raison (champ numérique, à appliquer à la main)."
+          },
+          {
+            "date": "2026-10-09",
+            "champ": "subject_id",
+            "avant": "pol-0016",
+            "pourquoi": "fait de mort rangé sous un lieu ou une nation : la personne devient le sujet, pol-0016 passe en objet ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
           }
         ]
       },
@@ -114649,7 +114876,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-08-26T00:00:00.000Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "fac-1183",
@@ -115438,8 +115665,8 @@
     {
       "id": "fac-1202",
       "fact_type": "mort",
-      "subject_id": "lie-0005",
-      "object_id": null,
+      "subject_id": "per-1023",
+      "object_id": "lie-0005",
       "start_year": 10199,
       "start_precision": "estimation",
       "start_circa": 1,
@@ -115475,6 +115702,12 @@
             "champ": "detail",
             "avant": "« Partout où je passais depuis Valoria, un gardien de savoir s'en allait peu après. »",
             "pourquoi": "C/23 : « Partout où je passais depuis Valoria, un gardien de savoir parti peu après. »"
+          },
+          {
+            "date": "2026-10-09",
+            "champ": "subject_id",
+            "avant": "lie-0005",
+            "pourquoi": "fait de mort rangé sous un lieu ou une nation : la personne devient le sujet, lie-0005 passe en objet ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
           }
         ]
       },
@@ -115482,7 +115715,7 @@
       "status": "canon",
       "disclosure": "interne",
       "created_at": "2026-08-26T00:00:00.000Z",
-      "updated_at": "2026-09-23T23:29:05.059Z"
+      "updated_at": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "fac-1203",
@@ -170725,10 +170958,19 @@
       "rel_type": "capitale-de",
       "from_id": "lie-0614",
       "to_id": "pol-0124",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
+      "start_year": 9977,
+      "end_year": 9989,
+      "label": "siège de la Ligue des Marchands, institution tyndarienne devenue le gouvernement de Tyndara",
+      "data": {
+        "raccord": [
+          {
+            "date": "2026-10-09",
+            "champ": "start_year/end_year",
+            "avant": "null/null",
+            "pourquoi": "la Ligue (institution, 9 977-9 989, situe-dans Tyndara) siégeait à Fablioris ; Fablioris reste capitale de Tyndara, pas d'une autre nation ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16"
+          }
+        ]
+      },
       "source_id": null,
       "status": "canon"
     },
@@ -170893,18 +171135,6 @@
       "rel_type": "a-ne-pas-confondre-avec",
       "from_id": "lie-0008",
       "to_id": "pol-0116",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": null,
-      "source_id": null,
-      "status": "canon"
-    },
-    {
-      "id": "lnk-3292",
-      "rel_type": "a-ne-pas-confondre-avec",
-      "from_id": "pol-0014",
-      "to_id": "lie-0668",
       "start_year": null,
       "end_year": null,
       "label": null,
@@ -171331,22 +171561,6 @@
       "data": {
         "methode": "point-dans-masse-continentale",
         "source": "monde-contours.json",
-        "date": "2026-09-14"
-      },
-      "source_id": null,
-      "status": "canon"
-    },
-    {
-      "id": "lnk-3325",
-      "rel_type": "situe-dans",
-      "from_id": "lie-0668",
-      "to_id": "pol-0014",
-      "start_year": null,
-      "end_year": null,
-      "label": null,
-      "data": {
-        "methode": "point-dans-surface",
-        "source": "monde-contours.json (surfaces extraites de la carte de l'auteur)",
         "date": "2026-09-14"
       },
       "source_id": null,
@@ -182234,6 +182448,66 @@
       "data": null,
       "source_id": null,
       "status": "canon"
+    },
+    {
+      "id": "lnk-4032",
+      "rel_type": "situe-dans",
+      "from_id": "lie-1073",
+      "to_id": "pol-0087",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": null,
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4033",
+      "rel_type": "situe-dans",
+      "from_id": "lie-1073",
+      "to_id": "lie-0889",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": null,
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4034",
+      "rel_type": "a-ne-pas-confondre-avec",
+      "from_id": "lie-1073",
+      "to_id": "lie-0522",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": null,
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4035",
+      "rel_type": "situe-dans",
+      "from_id": "lie-0669",
+      "to_id": "pol-0031",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": null,
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4036",
+      "rel_type": "situe-dans",
+      "from_id": "pol-0116",
+      "to_id": "lie-0008",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": null,
+      "source_id": null,
+      "status": "canon"
     }
   ],
   "aliases": [
@@ -184686,6 +184960,16 @@
       "from_year": 2800,
       "to_year": 5181,
       "meaning": "forme confédérale de Galenthis, nom que lui donne la Chronologie (Ère VI) ; même polité (arbitrage du 2026-09-30)"
+    },
+    {
+      "id": "ali-0246",
+      "entity_id": "lie-0581",
+      "value": "Ackerna (la Ville)",
+      "alias_status": "variante",
+      "era_id": null,
+      "from_year": null,
+      "to_year": null,
+      "meaning": "la capitale sans nom propre, que les étrangers appellent du nom du pays ; fiche doublon lie-0668 fusionnée (2026-10-09)"
     }
   ],
   "readings": [
