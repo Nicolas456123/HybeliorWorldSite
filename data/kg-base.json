@@ -2,7 +2,7 @@
   "_meta": {
     "generatedFrom": "data/timeline-names.json + Canon mystères/romans",
     "generatedAt": "2026-07-17T00:00:00.000Z",
-    "updated_at": "2026-10-09T12:00:00.000Z",
+    "updated_at": "2026-10-12T12:00:00.000Z",
     "derniere_fusion": "raccord livres↔Atrium du 2026-09-23"
   },
   "entities": [
@@ -54467,6 +54467,291 @@
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
       "updated_at": "2026-09-22T18:11:29.318Z"
+    },
+    {
+      "id": "esp-0014",
+      "type": "espece",
+      "name": "Les Nuélaines",
+      "slug": null,
+      "summary": "Grandes bêtes des hauts airs, longues de soixante à quatre-vingts mètres, portées par des poches d'air léger que fabrique leur ventre et guidées par deux ailes-voiles. Leurs troupeaux, chaque siècle plus maigres, vont des toundras de Celethor aux plaines d'Endora et d'Onara ; les vieilles poursuivent seules vers les côtes d'Azoria, et c'est là que leurs corps tombent du ciel.",
+      "body": "## Silhouette\n\n- Corps en fuseau de soixante à quatre-vingts mètres, haut d'une vingtaine, presque entièrement fait de poches d'air sous une peau mince ; tête courte et basse, sans cou, petits yeux noirs très en avant, bouche large frangée de fanons.\n- Deux ailes-voiles pectorales de vingt-huit à trente-quatre mètres d'envergure : une membrane grise et translucide tendue sur de longs doigts osseux, veinée de sombre, qui laisse passer le jour. Une nageoire caudale horizontale, comme celle d'une baleine, et deux courtes pattes antérieures griffues, repliées sous la gorge.\n- Une toison de longs filaments feutrés, gris-blanc sur le ventre, noircie sur le dos par le soleil des hauteurs, pendant en mèches comme du lichen ; elle garde le corps du froid à quatre mille mètres et boit l'eau des nuages.\n- Sons : un gémissement très grave, plus senti qu'entendu, qui fait trembler les vitres et la poitrine ; un long soupir rauque quand la bête vide une poche par les évents du dos ; un sifflement aigu chez les petits.\n\n## Comment elle vole\n\nLa Nuélaine ne vole pas contre la nature, elle l'exagère. Son ventre fermente ce qu'elle filtre de l'air et produit un gaz plus léger que l'air, qu'elle stocke dans une douzaine de poches sous le dos ; quinze à vingt mille mètres cubes portent ses douze à seize tonnes. Pour descendre, elle soupire par ses évents ou boit le brouillard et les nuages, que sa toison retient comme une éponge. Les ailes-voiles servent de gouvernail et de voile : la bête dérive avec les grands vents, monte dans les colonnes chaudes au-dessus des plaines et ne bat de la queue que pour se placer. Elle va à quinze ou vingt-cinq kilomètres à l'heure par ses seuls moyens, trois fois plus vite vent arrière. L'air froid, plus dense, la porte mieux que l'air chaud : c'est pourquoi les vieilles bêtes, dont les poches fuient, cherchent le froid.\n\n## Vie et saisons\n\n- Elle se nourrit de ce que les vents soulèvent : nuées d'insectes, essaims de moucherons des toundras, criquets, pollen, graines et petites araignées portées par leurs fils. Elle croise la bouche ouverte au-dessus des plaines au lever du jour, quand l'air chaud monte chargé de vie.\n- Troupeaux de cinq à quarante bêtes, menés par les femelles. Un seul petit tous les quatre ou cinq ans, né au début de l'été du nord ; il reste agrippé à la toison de sa mère par les griffes de ses pattes antérieures jusqu'au printemps suivant, et l'on voit souvent les grands chargés de petits comme des rochers de coquillages.\n- Printemps : les troupeaux remontent des plaines tièdes vers le nord. Été : toundras et fjords de Celethor, plateaux de Brastallia, où éclosent les moucherons et où naissent les petits. Automne : descente au-dessus des fjords de Skaldoria vers les plaines de Valmera, en Endora, et du Grand Fleuve, en Onara, où ils passent l'hiver du nord. Les vieilles bêtes, elles, ne remontent pas : elles continuent au sud, au-dessus de la mer, jusqu'aux côtes de glace d'Azoria.\n- Avant les orages, la toison gorgée d'eau alourdit la bête et le troupeau descend, parfois jusqu'à rase-motte des crêtes : c'est le seul moment où on les voit de près.\n- Une Nuélaine vit, dit-on, plus de deux siècles.\n\n## Ce que les peuples en font\n\n- **Caeloria** : les Veilleurs de Vyntheris lisent la hauteur des troupeaux pour annoncer les tempêtes, et tiennent le compte des descentes. Une bête tombée sur la terre de Caeloria appartient au ciel : on ne la dépèce pas, on la laisse aux Attendeurs.\n- **Azoral** : les capitaineries récoltent les carcasses tombées en mer. La laine de nuée donne un feutre qui ne pourrit pas, la graisse une huile claire, la peau des poches une membrane étanche. Caeloria tient cette récolte pour un pillage du ciel ; Azoral répond que la mer n'appartient pas au Conclave.\n- **Frostlin** : la tour de vigie guette aussi les chutes en mer, car les pêcheurs savent qu'une carcasse fait monter les Léviathans dans les jours qui suivent. Les deux espèces n'ont aucune parenté ; seuls les marins les confondent sous le nom de « Léviathans de nuée ».\n- **Tyndara** : les marins suivent la « route des vieilles ». Quand les vieilles bêtes passent au sud au-dessus de la mer, le vent du nord est établi pour la saison.\n- **Skaldoria** : à l'automne, des petits épuisés tombent dans les fjords. Les clans ont le droit de prendre un petit tombé, jamais de toucher à une bête vivante ; sa peau tend des tambours trop graves pour l'oreille, qu'on frappe aux funérailles.\n- **Valmera et les plaines d'Onara** : les jours de passage bas, en saison sèche, interdit des feux. Une bête qui meurt en tombant crève ses poches, et son gaz s'enflamme au premier foyer : on a vu des plaines entières brûler d'une seule chute.\n- **Via Ventus** : les Ventari tiennent les Nuélaines pour les plus parfaits pèlerins du Souffle, qui voyagent toute leur vie sans jamais s'enraciner, et refusent de toucher à leurs carcasses.\n- **Les druides** (Avalor, Nylor) disent les troupeaux portés par Spiritus et voient dans leur déclin la faiblesse du Cosmique depuis l'Arrachement. C'est une croyance : les bêtes volent par leur ventre.\n\n## Ce qu'elle a de sombre\n\n- **La mort tombe du ciel.** Une vieille bête dont les poches fuient descend pendant des jours ; puis elle tombe. Les chutes écrasent des toits, empoisonnent les puits, embrasent les plaines. La « route des vieilles » vers Azoria est un long cortège de mourantes.\n- **Les mères portent leurs morts.** Une mère dont le petit est mort le garde agrippé dans sa toison pendant des semaines ; l'odeur descend sur les villages qu'elle survole, et les gens de Caeloria l'appellent « l'odeur de deuil ».\n- **La pluie de bêtes.** Après l'An 0, les cendres du Mont Cendra ont empli le ciel ; une saison durant, les troupeaux ont étouffé en vol et sont tombés par centaines. Les fresques de l'Ère III montrent des troupeaux de plusieurs centaines de têtes ; on n'en voit plus que de quelques dizaines, et il en resterait deux ou trois mille dans le monde.\n- **Le chant défait.** Les Cantori du Cantus Mundi notaient autrefois le chant des troupeaux, qui gémissaient ensemble, sur une même pulsation. Depuis le Silence de Cantor, chaque bête chante seule, et les troupeaux ne se répondent plus. Nul ne sait pourquoi.\n- **Moins de petits, plus de descentes.** Les Veilleurs de Vyntheris comptent plus de descentes depuis quelques années ; ils n'en disent pas la cause.\n- L'ancienne route de l'ouest, au-dessus des plaines de Galenor, n'est plus suivie que par des bêtes isolées.\n\n## Ce qu'un narrateur peut dire\n\nTout ce qui précède se voit, se raconte ou se lit dans les registres : un narrateur peut le dire. Il ne fait jamais des Nuélaines la réponse d'un mystère : ni la forme lente au nord-est de Baelor, que leurs routes ne longent pas, ni ce qui dort sous les glaces, ni ce qui monte du dessous. Les croyances (Spiritus, présages) restent des croyances, et le chant défait reste sans cause.",
+      "data": {
+        "statut": "proposé",
+        "proposition": {
+          "date": "2026-10-12",
+          "decision": "D39",
+          "demande": "d0b729cf7 (volet diversite-monde, chantier div3)",
+          "par": "Claude (agent creatures-volantes)",
+          "reference": "HybeliorPrototype/Docs/monde/references_auteur/1012_diversite/02_creatures_volantes_vallee.jpg",
+          "attente": "validation de l'auteur"
+        },
+        "nom": {
+          "usage": "Nuélaine",
+          "pluriel": "Nuélaines",
+          "populaire": [
+            "baleine du ciel",
+            "Ombres lentes (marins d’Azoral)",
+            "Léviathans de nuée (marins, à tort)"
+          ]
+        },
+        "taille": {
+          "longueur_m": [
+            60,
+            80
+          ],
+          "hauteur_m": [
+            18,
+            24
+          ],
+          "envergure_ailes_voiles_m": [
+            28,
+            34
+          ],
+          "masse_t": [
+            12,
+            16
+          ],
+          "volume_gaz_m3": [
+            15000,
+            20000
+          ]
+        },
+        "vol": {
+          "principe": "poches de gaz léger produit par fermentation, lest d'eau bue aux nuages, ailes-voiles pour gouverner, dérive sur les vents et colonnes chaudes",
+          "altitude_m": [
+            1500,
+            4000
+          ],
+          "vitesse_kmh": {
+            "propre": [
+              15,
+              25
+            ],
+            "vent_arriere": [
+              45,
+              75
+            ]
+          }
+        },
+        "couleurs": [
+          "gris-blanc (ventre)",
+          "gris de suie (dos)",
+          "membranes gris translucide veinées de brun sombre"
+        ],
+        "sons": [
+          "gémissement infra-grave",
+          "soupir rauque des évents",
+          "sifflement aigu des petits"
+        ],
+        "troupeau": [
+          5,
+          40
+        ],
+        "population_estimee": [
+          2000,
+          3000
+        ],
+        "longevite_ans": 200,
+        "aires": {
+          "ete": [
+            "lie-0004",
+            "lie-0892",
+            "pol-0087"
+          ],
+          "passage": [
+            "pol-0039"
+          ],
+          "hiver": [
+            "lie-0066",
+            "lie-0012"
+          ],
+          "route_des_vieilles": [
+            "pol-0007",
+            "lie-0002",
+            "pol-0022",
+            "lie-0183",
+            "lie-0182"
+          ],
+          "ancienne_route": [
+            "lie-0009"
+          ]
+        },
+        "routes": [
+          {
+            "nom": "route d'automne",
+            "etapes": [
+              "lie-0004",
+              "pol-0039",
+              "lie-0066",
+              "lie-0012"
+            ],
+            "saison": "automne du nord"
+          },
+          {
+            "nom": "route de printemps",
+            "etapes": [
+              "lie-0066",
+              "pol-0039",
+              "lie-0004"
+            ],
+            "saison": "printemps du nord"
+          },
+          {
+            "nom": "route des vieilles",
+            "etapes": [
+              "lie-0066",
+              "pol-0007",
+              "pol-0022",
+              "lie-0182"
+            ],
+            "saison": "automne du nord, sans retour"
+          }
+        ],
+        "ligne_rouge": [
+          "Jamais la silhouette de l'horizon nord-est de Baelor (que-0020) : leurs routes passent à l'est, par Tyndara, et ne longent pas Baelor.",
+          "Jamais ce qui dort sous le Glacier Central (que-0031) ni sous la calotte d'Azoria, ni « le dessous » (que-0011).",
+          "Le chant défait depuis le Silence de Cantor et la hausse des descentes : constats, sans cause.",
+          "Spiritus : croyance des druides, pas mécanisme du vol."
+        ],
+        "modele": {
+          "silhouette": "fuseau de baleine gonflé, sans cou, deux grandes ailes-voiles pectorales translucides, nageoire caudale horizontale",
+          "echelle": "un humain = 1/40 de la longueur ; un navire de commerce tient sous une aile",
+          "animation": "dérive lente, ailes-voiles qui se creusent au vent, toison qui ondule, évents qui soufflent une brume",
+          "petits": "agrippés à la toison des flancs et du dos, 6 à 10 m"
+        }
+      },
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-12T12:00:00.000Z",
+      "updated_at": "2026-10-12T12:00:00.000Z"
+    },
+    {
+      "id": "esp-0015",
+      "type": "espece",
+      "name": "Les Saignelaines",
+      "slug": null,
+      "summary": "Petites bêtes volantes à ailes de peau, de la taille d'une chauve-souris, qui vivent par centaines dans la toison des Nuélaines, en mangent la vermine et, les mauvaises années, en boivent le sang. Elles quittent leur hôte en nuée quelques heures avant sa mort, et s'abattent alors sur les villages qu'il survolait.",
+      "body": "## Silhouette\n\n- Petit mammifère volant de trente à quarante centimètres d'envergure, brun presque noir, ailes de peau tendues sur des doigts longs, corps velu de la couleur de la laine qu'il habite. Museau court, incisives en lame, pattes arrière à crochets pour s'agripper aux filaments.\n- Sons : un crissement sec, en masse comme un bruissement de feuilles mortes ; une colonie qui s'envole fait le bruit d'une averse.\n\n## Vie\n\n- Une colonie de quelques centaines vit dans la toison d'une Nuélaine, toute sa vie, sans jamais toucher terre. Elle mange les teignes et les poux de la laine, les peaux mortes, et les petites bêtes que le vent jette dans la toison.\n- Les années maigres, elle ouvre de petites plaies sur le dos de l'hôte et lape le sang. Une bête âgée en porte des milliers de cicatrices claires.\n- Elle sent la mort venir : quand les poches d'une bête fuient et que sa chair refroidit, la colonie la quitte d'un coup, quelques heures avant la chute.\n\n## Ce que les peuples en font\n\n- Partout sous les routes, « la nuée qui quitte » est le pire présage du ciel : une tache noire qui se détache d'un troupeau annonce une chute avant la nuit. À Valmera, on rentre les bêtes et on éteint les foyers.\n- On ne peut pas les enfumer les jours où l'on ne fait pas de feu ; c'est le piège de ceux qui vivent sous les routes.\n- Les Attendeurs les mangent dans la toison et les débarrassent ainsi des grands troupeaux.\n\n## Ce qu'elle a de sombre\n\n- Privée de son hôte, la colonie affamée descend sur ce qu'elle trouve : bêtes d'enclos, chiens, dormeurs. Les morsures donnent une fièvre qui dure une saison, la « fièvre de laine », qui emporte les enfants et les vieillards. En Skaldoria, on dit qu'un village qui a reçu une nuée enterre l'hiver suivant.\n- Une colonie sans hôte ne survit pas plus de quelques jours : elle meurt en tas dans les granges et les clochers.\n\n## Ce qu'un narrateur peut dire\n\nTout : ce sont des bêtes, que tout le monde sous les routes connaît. Le présage reste un présage tiré de l'observation, pas une prophétie.",
+      "data": {
+        "statut": "proposé",
+        "proposition": {
+          "date": "2026-10-12",
+          "decision": "D39",
+          "demande": "d0b729cf7 (volet diversite-monde, chantier div3)",
+          "par": "Claude (agent creatures-volantes)",
+          "reference": "HybeliorPrototype/Docs/monde/references_auteur/1012_diversite/02_creatures_volantes_vallee.jpg",
+          "attente": "validation de l'auteur"
+        },
+        "nom": {
+          "usage": "Saignelaine",
+          "pluriel": "Saignelaines"
+        },
+        "taille": {
+          "envergure_cm": [
+            30,
+            40
+          ],
+          "masse_g": [
+            80,
+            150
+          ]
+        },
+        "vol": {
+          "principe": "vol battu de chauve-souris, sur de courtes distances autour de l’hôte"
+        },
+        "couleurs": [
+          "brun presque noir",
+          "ventre gris de laine"
+        ],
+        "sons": [
+          "crissement sec",
+          "bruit d’averse à l’envol d’une colonie"
+        ],
+        "hote": "esp-0014",
+        "colonie": [
+          200,
+          800
+        ],
+        "presage": "la nuée qui quitte",
+        "maladie": "fièvre de laine",
+        "modele": {
+          "silhouette": "chauve-souris trapue, museau court, pattes arrière à crochets",
+          "echelle": "une main d’adulte, ailes ouvertes",
+          "animation": "colonie en essaim (particules), envol en tache noire qui se détache d’une Nuélaine"
+        }
+      },
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-12T12:00:00.000Z",
+      "updated_at": "2026-10-12T12:00:00.000Z"
+    },
+    {
+      "id": "esp-0016",
+      "type": "espece",
+      "name": "Les Attendeurs",
+      "slug": null,
+      "summary": "Grands oiseaux planeurs de six à sept mètres d'envergure, gris de cendre et muets, qui suivent les troupeaux de Nuélaines pendant des semaines : ils les nettoient de leurs Saignelaines, percent les poches des bêtes affaiblies et mangent celles qui tombent.",
+      "body": "## Silhouette\n\n- Oiseau planeur de six à sept mètres d'envergure, ailes longues et étroites aux rémiges écartées comme des doigts, plumage gris de cendre, plus clair dessous. Tête et cou nus, d'un gris rosé, bec crochu long d'une main et demie. Debout, il arrive à la poitrine d'un homme.\n- Muet : ni cri ni chant, seulement un sifflement de gorge quand on l'approche, et le froissement de ses ailes.\n\n## Comment il vole\n\nIl ne bat presque jamais des ailes. Il monte dans les colonnes chaudes et glisse d'un courant à l'autre, des heures sans un battement, comme les plus grands vautours et les albatros. Il se pose sur le dos des Nuélaines, dans la toison, pour dormir et se laisser porter : un troupeau en promène souvent une dizaine.\n\n## Vie\n\n- Par trois à douze, il suit un troupeau toute une migration. Il fouille la toison et mange les Saignelaines : les Nuélaines le laissent faire.\n- Mais il reconnaît les bêtes vieilles ou malades à leur vol plus bas. Il en fouille la toison usée jusqu'à la peau des poches et la perce ; la bête fuit plus vite, descend, tombe. Les Attendeurs la mangent où elle tombe, sur la terre ou dans la mer.\n- Il niche sur les crêtes de Caeloria et les falaises des fjords de Skaldoria, là où passent les troupeaux, un seul œuf tous les deux ans.\n\n## Ce que les peuples en font\n\n- **Caeloria** : interdit de les tuer. Ils mangent les bêtes tombées que le ciel reprend ; tuer un Attendeur, dit-on, fait tomber une Nuélaine, ou un homme.\n- **Skaldoria** : on les appelle « les Patientes ». Les vieux chasseurs disent qu'un Attendeur qui vous suit n'a pas faim, qu'il attend.\n- **Azoral** : les marins les nomment « les Veuves grises ». Quand elles tournent bas au-dessus de la mer, une carcasse flotte là, et les Léviathans viendront ; les baleinières s'y dirigent ou s'en écartent, selon leur capitaine.\n\n## Ce qu'il a de sombre\n\n- Il est à la fois le soigneur et le bourreau du troupeau : il le débarrasse de sa vermine, puis hâte la mort de ses vieilles. Personne ne sait dire s'il abrège une agonie ou s'il la provoque.\n- Il se pose aussi sur les toits des maisons où quelqu'un se meurt, attiré par l'odeur, et attend.\n\n## Ce qu'un narrateur peut dire\n\nTout. Un narrateur peut faire de l'Attendeur un présage, comme le font les gens, sans lui prêter de savoir surnaturel : il sent, il voit, il attend.",
+      "data": {
+        "statut": "proposé",
+        "proposition": {
+          "date": "2026-10-12",
+          "decision": "D39",
+          "demande": "d0b729cf7 (volet diversite-monde, chantier div3)",
+          "par": "Claude (agent creatures-volantes)",
+          "reference": "HybeliorPrototype/Docs/monde/references_auteur/1012_diversite/02_creatures_volantes_vallee.jpg",
+          "attente": "validation de l'auteur"
+        },
+        "nom": {
+          "usage": "Attendeur",
+          "pluriel": "Attendeurs",
+          "populaire": [
+            "les Patientes (Skaldoria)",
+            "les Veuves grises (marins d’Azoral)"
+          ]
+        },
+        "taille": {
+          "envergure_m": [
+            6,
+            7
+          ],
+          "hauteur_debout_m": 1.3,
+          "masse_kg": [
+            60,
+            75
+          ]
+        },
+        "vol": {
+          "principe": "vol plané sur colonnes chaudes et vents de pente, repos sur le dos des Nuélaines"
+        },
+        "couleurs": [
+          "gris de cendre",
+          "dessous gris pâle",
+          "tête et cou nus gris rosé"
+        ],
+        "sons": [
+          "muet",
+          "sifflement de gorge",
+          "froissement des ailes"
+        ],
+        "groupe": [
+          3,
+          12
+        ],
+        "nidification": [
+          "lie-0183",
+          "pol-0039"
+        ],
+        "modele": {
+          "silhouette": "vautour-albatros : ailes très longues et étroites, rémiges digitées, cou nu",
+          "echelle": "envergure = quatre hommes couchés bout à bout",
+          "animation": "vol plané en cercles, posé dans la toison des Nuélaines, ailes à demi ouvertes"
+        }
+      },
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-12T12:00:00.000Z",
+      "updated_at": "2026-10-12T12:00:00.000Z"
     },
     {
       "id": "lie-0303",
@@ -182508,6 +182793,426 @@
       "data": null,
       "source_id": null,
       "status": "canon"
+    },
+    {
+      "id": "lnk-4037",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0004",
+      "start_year": null,
+      "end_year": null,
+      "label": "aire d'été : toundras et fjords, naissance des petits",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4038",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0892",
+      "start_year": null,
+      "end_year": null,
+      "label": "aire d'été : plateaux d'altitude",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4039",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "pol-0087",
+      "start_year": null,
+      "end_year": null,
+      "label": "survol d'été des fjords",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4040",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "pol-0039",
+      "start_year": null,
+      "end_year": null,
+      "label": "passage d'automne et de printemps au-dessus des fjords ; les clans prennent les petits tombés",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4041",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0007",
+      "start_year": null,
+      "end_year": null,
+      "label": "aire d'hiver",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4042",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0066",
+      "start_year": null,
+      "end_year": null,
+      "label": "aire d'hiver ; interdit des feux les jours de passage bas",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4043",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0012",
+      "start_year": null,
+      "end_year": null,
+      "label": "aire d'hiver : plaines du Grand Fleuve",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4044",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "pol-0007",
+      "start_year": null,
+      "end_year": null,
+      "label": "les marins suivent la « route des vieilles », signe du vent du nord établi",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4045",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0002",
+      "start_year": null,
+      "end_year": null,
+      "label": "côtes où tombent les vieilles bêtes",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4046",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "pol-0022",
+      "start_year": null,
+      "end_year": null,
+      "label": "une bête tombée sur sa terre appartient au ciel et revient aux Attendeurs",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4047",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0183",
+      "start_year": null,
+      "end_year": null,
+      "label": "les Veilleurs lisent la hauteur des troupeaux et comptent les descentes",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4048",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0182",
+      "start_year": null,
+      "end_year": null,
+      "label": "la tour de vigie guette les chutes en mer, que suivent les Léviathans",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4049",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "pol-0028",
+      "start_year": null,
+      "end_year": null,
+      "label": "récolte des carcasses tombées en mer (laine de nuée, huile, peau des poches)",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4050",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "rel-0003",
+      "start_year": null,
+      "end_year": null,
+      "label": "les Ventari les tiennent pour les pèlerins du Souffle",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4051",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "div-0010",
+      "start_year": null,
+      "end_year": null,
+      "label": "croyance druidique : les troupeaux portés par Spiritus",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4052",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "pol-0018",
+      "start_year": null,
+      "end_year": null,
+      "label": "les druides voient dans leur déclin la faiblesse de Spiritus",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4053",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "evt-0018",
+      "start_year": null,
+      "end_year": null,
+      "label": "depuis, les troupeaux ne chantent plus ensemble",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4054",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "evt-0015",
+      "start_year": null,
+      "end_year": null,
+      "label": "la pluie de bêtes : une saison de chutes sous les cendres du Mont Cendra",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4055",
+      "rel_type": "lie-a",
+      "from_id": "esp-0014",
+      "to_id": "lie-0009",
+      "start_year": null,
+      "end_year": null,
+      "label": "ancienne route de l'ouest, presque abandonnée",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4056",
+      "rel_type": "lie-a",
+      "from_id": "esp-0015",
+      "to_id": "esp-0014",
+      "start_year": null,
+      "end_year": null,
+      "label": "vit dans la toison, mange la vermine, boit le sang les années maigres",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4057",
+      "rel_type": "lie-a",
+      "from_id": "esp-0015",
+      "to_id": "lie-0066",
+      "start_year": null,
+      "end_year": null,
+      "label": "« la nuée qui quitte » et la fièvre de laine sous les routes",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4058",
+      "rel_type": "lie-a",
+      "from_id": "esp-0015",
+      "to_id": "pol-0039",
+      "start_year": null,
+      "end_year": null,
+      "label": "la fièvre de laine : « un village qui a reçu une nuée enterre l’hiver suivant »",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4059",
+      "rel_type": "lie-a",
+      "from_id": "esp-0016",
+      "to_id": "esp-0014",
+      "start_year": null,
+      "end_year": null,
+      "label": "suit les troupeaux, les nettoie et hâte la chute des vieilles bêtes",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4060",
+      "rel_type": "lie-a",
+      "from_id": "esp-0016",
+      "to_id": "esp-0015",
+      "start_year": null,
+      "end_year": null,
+      "label": "les mange dans la toison des Nuélaines",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4061",
+      "rel_type": "lie-a",
+      "from_id": "esp-0016",
+      "to_id": "lie-0183",
+      "start_year": null,
+      "end_year": null,
+      "label": "niche sur les crêtes de Caeloria",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4062",
+      "rel_type": "lie-a",
+      "from_id": "esp-0016",
+      "to_id": "pol-0022",
+      "start_year": null,
+      "end_year": null,
+      "label": "interdit de le tuer",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4063",
+      "rel_type": "lie-a",
+      "from_id": "esp-0016",
+      "to_id": "pol-0039",
+      "start_year": null,
+      "end_year": null,
+      "label": "niche sur les falaises des fjords ; « les Patientes »",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4064",
+      "rel_type": "lie-a",
+      "from_id": "esp-0016",
+      "to_id": "pol-0028",
+      "start_year": null,
+      "end_year": null,
+      "label": "« les Veuves grises » : leurs cercles bas signalent une carcasse en mer",
+      "data": {
+        "statut": "proposé",
+        "demande": "d0b729cf7"
+      },
+      "source_id": null,
+      "status": "canon"
     }
   ],
   "aliases": [
@@ -184970,6 +185675,46 @@
       "from_year": null,
       "to_year": null,
       "meaning": "la capitale sans nom propre, que les étrangers appellent du nom du pays ; fiche doublon lie-0668 fusionnée (2026-10-09)"
+    },
+    {
+      "id": "ali-0247",
+      "entity_id": "esp-0014",
+      "value": "baleine du ciel",
+      "alias_status": "variante",
+      "era_id": null,
+      "from_year": null,
+      "to_year": null,
+      "meaning": "nom populaire"
+    },
+    {
+      "id": "ali-0248",
+      "entity_id": "esp-0014",
+      "value": "Ombres lentes",
+      "alias_status": "variante",
+      "era_id": null,
+      "from_year": null,
+      "to_year": null,
+      "meaning": "nom des marins d’Azoral"
+    },
+    {
+      "id": "ali-0249",
+      "entity_id": "esp-0016",
+      "value": "les Patientes",
+      "alias_status": "variante",
+      "era_id": null,
+      "from_year": null,
+      "to_year": null,
+      "meaning": "nom skaldorien"
+    },
+    {
+      "id": "ali-0250",
+      "entity_id": "esp-0016",
+      "value": "les Veuves grises",
+      "alias_status": "variante",
+      "era_id": null,
+      "from_year": null,
+      "to_year": null,
+      "meaning": "nom des marins d’Azoral"
     }
   ],
   "readings": [
