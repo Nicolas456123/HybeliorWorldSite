@@ -22,7 +22,10 @@ const OUT = path.join(ROOT, 'data', 'monde-contours.json');
 const doc = JSON.parse(fs.readFileSync(OUT, 'utf8'));
 const jeu = doc.jeux.find((j) => j.era_id === null);
 const continents = jeu.masses.filter((m) => m.niveau === 'continent' || !m.niveau);
-const pays = jeu.masses.filter((m) => m.niveau === 'pays');
+// une surface « côte d'île » (repli d'extract-pays.js) suit déjà la côte de son
+// île : la rabattre sur le continent voisin l'étalerait sur la mer (Warenthor,
+// 2026-10-12).
+const pays = jeu.masses.filter((m) => m.niveau === 'pays' && m.source !== 'cote-ile');
 
 function dedans(pt, poly) {
   let ok = false;

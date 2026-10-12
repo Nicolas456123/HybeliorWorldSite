@@ -95,7 +95,7 @@ Repères d'identité par nation :
 
 - **Voie des Cendres** (Ilyndar → Holvendar → Amarendis → Lytharil → Brystalis → frontière Lythar) — route caravanière ouest-est ; quatre droits de passage différents, trois changements de monture.
 - **Route des Forges** (Myrthorin → cols du Veltrak → Lytharil → plateau de Davoria → cols de Pyrendor → Veylorn → Holvendar) — de Drakora au sud-est jusqu'à Gryndor au nord, par l'est du continent ; caravanes armées, qui paient passage en Lythar et en Pyrtara.
-- **Trace Verte** (Sylthara → AckernaVille → Warenthor) — au sud ; impraticable à cheval, parcourue à pied.
+- **Trace Verte** (Sylthara → AckernaVille → Warenthor) — au sud ; impraticable à cheval, parcourue à pied ; elle finit par une chaussée ancienne de neuf kilomètres sur les hauts-fonds de la mer intérieure, de la rive haldrienne jusqu'à l'île de Warenthor.
 
 **Tensions dominantes :**
 - **Pyrtara / Lythar** — incidents de pâturage (frontière).

@@ -859,9 +859,15 @@ entre dans Dominat de Pyrion (ère 3) et Drahk'Nor (ère 5), le Protectorat d'Ha
 le Saint-Empire d'Endara n'hérite plus que d'Avalor. Outillage : `playwright-core` installé en dépendance de
 développement, Chromium de Playwright, chemin par `scripts/chromium-exe.js`.
 
-**Livres, Warenthor** (même skill) : Chroniques, ch. 19 — Sorin descend vers Warenthor à pied par la Trace Verte
-depuis les moissons de Sylthara, sans traversée (environ 9 u d'eau sur le trajet calculé) ; ch. 20 — départ à
-pied de Wyndor vers Lytharil (environ 12 u d'eau) : à reprendre pour une île (passe, gué de racines ou barque).
+**Trace Verte** (arbitrage de la session principale, D38, la carte fait foi) : plutôt que de reprendre les
+Chroniques, ch. 19 et 20 (arrivée et départ à pied), la Trace Verte finit par une **chaussée ancienne** sur les
+hauts-fonds de la mer intérieure, de la rive haldrienne entre Raldir et Talrin (−233,0 ; 171,6) à la pointe
+ouest de l'île (−223,8 ; 172,9), environ 8,9 km : pierres levées, arbres qui la bordent, passages inondés par
+gros temps, pas de cheval (`lie-0926` corps et `data.acces.trace_verte`, ligne Routes de `lie-0010` ;
+`scripts/arbitrer-trace-verte-1012.js`). Les ch. 19 et 20 restent exacts mot pour mot : rien à reprendre.
+Côté jeu : un tronçon de chaussée (chemin de rang 3, sans bac) à poser dans les routes 462.
+Correction d'outil : `snap-pays-cotes.js` ne rabat plus les surfaces « côte d'île » sur le continent voisin
+(la première passe avait étalé Warenthor sur la mer intérieure).
 
 **Livres à reprendre** (skill `reecriture-livres`, rien n'est modifié ici) : Chroniques, ch. 13 — l'intitulé
 « Endora — Perivalis, Crestalis, Hekorinth » ; « Haldria commence où la forêt s'arrête » juste après une
