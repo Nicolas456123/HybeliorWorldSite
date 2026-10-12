@@ -803,6 +803,26 @@ Même délégation (D38), même méthode qu'au §17 ; demande Studio `de5669280`
 - *BIOMES_MAGIQUES* : M11 « chaînes du nord » sans `con-0048` ; la lueur au crépuscule des crêtes (« simplifier ») ne cite plus les cristaux de Volnir ; F11 « Où » : Volnir (219 ; 14) et non (229 ; 17) ; `esp-0008` (table d'inventaire) : « nichent sur les sommets de Myrthéria », plus « dorment sous les chaînes cristallines ».
 - *Lunaris* (proposé, non tranché ici) : C/16 donne au canyon des parois d'un gris argenté où la lumière accroche les cristaux de la roche ; une micro-zone « roche argentée » y serait le seul éclat cristallin de Drakora.
 
+### 19. Pyrendor, Tolvandor, Route des Forges, roche argentée de Lunaris ; errantes et ruines suspendues — TRANCHÉS le 2026-10-12
+
+Les restes du §18. Même délégation (D38, D41), même méthode ; demande Studio `d1f80e2b8` (div6).
+Scripts : `scripts/arbitrer-div6-1012.js` (n° 1 à 4) et `scripts/iles-errantes-div6.js` (n° 5), idempotents,
+sans reseed, `data.raccord` à chaque retouche ; `coord_x/y` jamais touchées. Raccord livres ↔ Atrium
+inchangé (1 809 sur 1 820).
+
+| # | Écart | Décision | Justification |
+|---|---|---|---|
+| 1 | `lie-0927` Pyrendor « région montagneuse du nord de Gryndor », mais à ~12 u au sud de Holvendar. | **Le sud du royaume**, au nord d'Ilthara : versant sud des chaînes cristallines, de Veylorn aux cols au-dessus de Davoria. Résumé, corps (et `Docs/Lore/Pays/Ilthara/Gryndor.md`), `data.carte.situation`. | Coordonnées de l'auteur (−207,5 ; 78,3 contre 66,5) ; axe des chaînes (`lie-0010`, §18) ; Veylorn, sa ville minière, en (−199,7 ; 73). « Du nord » ne valait que pour Ilthara. |
+| 2 | `lie-0929` Tolvandor « méridionale, plus basse et tempérée », mais à ~23 u à l'est de Holvendar. | **Région orientale**, des plateaux plus bas et plus doux que les crêtes, où la neige tient tôt ; Zyrthar au nord, Ordavan sur la marge sud. Résumé, corps (et Gryndor.md), `data.carte.situation`. | Coordonnées ; C/15 (« les plateaux de Tolvandor », première neige ; escorte « vers le nord » jusqu'à Zyrthar). |
+| 3 | Route des Forges « Drakora → cols de Pyrendor → Gryndor — au nord » : sans tracé possible tel quel. | **Gardée, avec un tracé** : Myrthorin → cols du Veltrak → Lytharil → plateau de Davoria → cols de Pyrendor (au bout des chaînes, au-dessus de Rydelith) → Veylorn → Holvendar, ~141 u (~135 km, dix à douze jours de caravane). Corps d'Ilthara (et son miroir), `lie-0010 data.routes.route_des_forges`. `lie-1026` : Sorin prend les cols du Veltrak **vers le sud** (et non « vers l'est »). | Drakora est à ~150 u au sud-est de Gryndor ; seuls passages connus : les cols du Veltrak (C/15-16) et le bout des chaînes à Davoria (§18). C/15 : « Drakora est au sud ». |
+| 4 | Micro-zone « roche argentée » au canyon de Lunaris (proposée au §18). | **Retenue** : micaschiste à mica blanc et grains de quartz, reflets sans lueur propre, sur ~3 km de parois ; seul éclat minéral de Drakora. Section « La roche » de `lie-0847`, `data.carte.micro_zone` (avec ligne rouge `que-0011`). | C/16 : « parois d'un gris argenté qui prennent la lumière », « la lumière accroche les cristaux de la roche ». Aucune lueur, rien qui monte du fond. |
+| 5 | `lie-1072` « seule ruine flottante du monde » et `pol-0021` « [îles] immobiles », face aux errantes proposées (div6). | Les ruines de Caelum Prima restent **la seule ruine qui flotte d'elle-même** ; les errantes (`con-0168`) sont des roches de cielvif qui portent parfois des ruines. Les îles du Magistère sont tenues, donc immobiles ; seules les errantes, que nul mage ne tient, dérivent, sans rythme. Résumé et corps de `lie-1072`, corps d'Astravia (et `Docs/Lore/Pays/Celethor/Astravia.md`). | Proposition D39/D41 (`con-0168`, `lie-1074`, `lie-1075`, statut « proposé ») ; V8 (îles seulement à Astravia, pas de pesanteur faible) respecté ; ligne rouge `que-0013` : aucune cité de l'An 0 ne flotte. |
+
+**Corrections attendues côté jeu** (HybeliorPrototype, rien n'y est modifié ici) :
+- *Masque 461* : micro-zone « roche argentée » centrée sur Lunaris (−167,9 ; 220,5), parois du canyon sur ~3 km, matériau de falaise gris clair pailleté (pas de cristal émissif).
+- *Routes (suite du 462)* : la Route des Forges en route principale (rang 4) selon les étapes de `lie-0010 data.routes.route_des_forges`.
+- *BIOMES_MAGIQUES F1* : « Ailleurs ? » devient les errantes (Brastallia, 5-25 m, dérivantes) et les échouées de Lysoria (60-400 m, presque immobiles), Astravia seulement ; kit `Art/Kits/IlesDiv6`.
+
 
 ## III. Ce qui ne sera jamais tranché
 

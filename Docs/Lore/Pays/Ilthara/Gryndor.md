@@ -88,10 +88,10 @@ Monarque actuel : **Vaelorn V**.
 Région centrale, cœur du royaume. Abrite la capitale Holvendar et les montagnes cristallines les plus riches. Centre politique, intellectuel et spirituel ; plus grandes bibliothèques et ateliers les plus prestigieux, protégés par la Garde Cristalline.
 
 ### Pyrendor
-Région montagneuse du nord. Domaine des mineurs de cristaux et des géologues ; mines creusées profondément dans les veines cristallines. Les cristaux extraits alimentent les ateliers et les recherches magiques du royaume. Terrain rude (falaises de quartz).
+Région montagneuse du sud du royaume (le nord d'Ilthara), où les chaînes cristallines descendent de Holvandor vers les volcans de Pyrtara ; ses cols, au bout de la chaîne, ouvrent Gryndor vers le sud-est. Domaine des mineurs de cristaux et des géologues ; mines creusées profondément dans les veines cristallines. Les cristaux extraits alimentent les ateliers et les recherches magiques du royaume. Terrain rude (falaises de quartz).
 
 ### Tolvandor
-Région méridionale, plus basse et tempérée. Terre des artisans et des expérimentateurs ; mise en pratique des théories de Holvendar (nouveaux alliages, techniques de construction, applications des cristaux magiques).
+Région orientale, faite de plateaux plus bas et plus doux que les crêtes cristallines de Holvandor, mais où la neige tient dans les creux dès l'automne ; Zyrthar au nord, Ordavan sur la marge sud. Terre des artisans et des expérimentateurs ; mise en pratique des théories de Holvendar (nouveaux alliages, techniques de construction, applications des cristaux magiques).
 
 ---
 
