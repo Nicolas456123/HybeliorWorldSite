@@ -69,7 +69,7 @@ Forêt primaire dense et ancienne, considérée comme le cœur spirituel du pays
 Collines boisées et clairières lumineuses ; abrite la capitale. Partie la plus accessible d'Avalor — seul endroit où les étrangers sont autorisés à entrer, sous escorte.
 
 ### Wildoria
-Forêt sauvage au nord ; présences les moins prévisibles selon les druides. Territoire des Gardiens des Lisières et terrain d'épreuve des druides en formation. Observations rapportées d'arbres se déplaçant lentement (attribuées par les sceptiques au tassement de sol et à la croissance différentielle).
+Forêt sauvage au sud ; présences les moins prévisibles selon les druides. Territoire des Gardiens des Lisières et terrain d'épreuve des druides en formation. Observations rapportées d'arbres se déplaçant lentement (attribuées par les sceptiques au tassement de sol et à la croissance différentielle).
 
 ### Perival
 Forêts tempérées et rivières sinueuses à l'ouest. Région la plus peuplée d'Avalor, avec de nombreux villages nichés dans les arbres le long des cours d'eau.
@@ -234,7 +234,7 @@ Le village le plus méridional d'Avalor, à la lisière de la forêt. Poste d'ac
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Iskara** | Alliance défensive (héritée) | Ennemi commun : quiconque menace Endora. Acier d'Iskara + magie d'Avalor. (NB : depuis la refonte V3.4, Iskara est rattachée à Alkaran ; l'alliance reste évoquée dans les vieux traités sans application concrète.) |
+| **Iskara** | Alliance défensive (héritée) | Ennemi commun : quiconque menace Endora. Acier d'Iskara + magie d'Avalor. (NB : Iskara est la voisine du nord d'Avalor, sur le même continent — D49, 12 octobre 2026.) |
 | **Haldria** | Respect distant | Druides d'Avalor et astronomes de Haldria conviennent en privé ne pas écouter la même voix. Échanges officiels via Perivalis, cordiaux. |
 | **Sanvara** | Tolérance contractuelle | La Confédération marchande est le seul interlocuteur commercial permanent d'Avalor. Le Cercle des Murmures la trouve « trop ouverte » sans jamais avoir rompu un accord. |
 | **Thalmaris** | Amitié culturelle (mémoire historique) | Les bardes de Thalmaris (Cantus Mundi) sont parmi les rares étrangers bienvenus ; ils collectent les histoires des esprits et les diffusent. |

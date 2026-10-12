@@ -64,10 +64,10 @@ Sylvara pratique le [[Vael'Kurash]] dans une variante locale, distincte de la pr
 
 ### Cantus Mundi — par influence thalmarienne
 
-Le contact ancien avec Thalmaris a introduit une pratique partielle du [[Cantus Mundi]] :
-- Sessions du Cantus à l'Arbre-Mère, conduites par les Cantori thalmariens deux fois par lunaison ; élément le plus visible. Les Sylvarains y participent comme *auditeurs*, jamais comme exécutants — distinction tenue pour importante.
+Le contact ancien avec Thalmaris, entretenu par sa cité-fille de Cëpias, a introduit une pratique partielle du [[Cantus Mundi]] :
+- Sessions du Cantus à l'Arbre-Mère, conduites par les Cantori de Cëpias deux fois par lunaison ; élément le plus visible. Les Sylvarains y participent comme *auditeurs*, jamais comme exécutants — distinction tenue pour importante.
 - Distinction sylvaraine : *chanter pour la forêt* (Cantus Mundi) ≠ *chanter avec la forêt* (Vael'Kurash sylvarain). Nuance qui échappe à la plupart des Cantori.
-- Environ trois cents familles de la frontière thalmarienne pratiquent le Cantus Mundi comme religion principale : elles vont aux Heures du Chant à Ostarith, achètent des partitions à Galdaris, se font enterrer avec une Dernière Chanson. Vues sans hostilité par leurs voisins.
+- Environ trois cents familles de la marge de Cëpias pratiquent le Cantus Mundi comme religion principale : elles vont aux Heures du Chant à Cëpias, y achètent leurs partitions, se font enterrer avec une Dernière Chanson. Vues sans hostilité par leurs voisins.
 
 ---
 
@@ -100,7 +100,7 @@ Sylvara n'a pas de régions administratives. Zones distinguées informellement :
 
 - **Les Ruelles Vertes** : bande forestière suivant la côte sud-ouest, parsemée des plus anciens hameaux de saigneurs. Majorité de la population de Sylvara. Densité plus élevée (pour Sylvara) ; tradition la plus forte du Chant de la Coupe.
 
-- **La Marge Thalmarienne** : frontière mouvante avec Thalmaris, où la forêt s'amincit vers les collines onduleuses thalmariennes. Population mixte sylvarain-thalmarien (plusieurs hameaux). Pratique partielle du Cantus Mundi. Passage des Cantori vers l'Arbre-Mère.
+- **La Marge Cantorienne** : frontière mouvante avec les terres de Cëpias, où la forêt s'amincit vers les collines de la cité du Cantus. Population mixte sylvaraine et cëpienne (plusieurs hameaux). Pratique partielle du Cantus Mundi. Passage des Cantori vers l'Arbre-Mère.
 
 - **Les Hauteurs de Vorenhal** : collines basses au nord-ouest. Anciens villages dont les noms (Vorenhal, Caraline, Belindre) datent d'*avant le Pacte*. Population isolée, parfois marginalisée, accusée à mots couverts de pratiquer encore *les vieilles façons* (jamais explicitées).
 
@@ -172,8 +172,8 @@ Hameau de la frontière nord avec Evertia. Seul lieu de Sylvara où les Gardiens
 
 | Pays | Relation | Détails |
 |------|----------|---------|
-| **Thalmaris** | Alliance pratique de longue date | Le Pacte indirect du Cantus à l'Arbre-Mère structure une relation sans traité officiel mais profondément stable. Les saigneurs fournissent la sève aux guérisseurs thalmariens ; les Cantori chantent à l'Arbre-Mère ; les hameaux mixtes (Vellinor) tiennent la frontière. La tension actuelle (sève amère, comptabilité Marvet) n'a pas encore éclaté. |
-| **Evertia** | Froideur reconnue | Sylvara n'a jamais accepté de subordination au Cercle de Caëspia. Les Archidruides tiennent les Mains Vertes pour des druides mineurs sans formation systématique ; les Mains Vertes tiennent les Archidruides pour des intellectuels qui parlent trop. Les rares contacts officiels passent par Thalmaris comme intermédiaire. |
+| **Cëpias (et Thalmaris, outre-mer)** | Alliance pratique de longue date | Le Pacte indirect du Cantus à l'Arbre-Mère structure une relation sans traité officiel mais profondément stable. Les saigneurs fournissent la sève aux guérisseurs thalmariens ; les Cantori chantent à l'Arbre-Mère ; les hameaux mixtes (Vellinor) tiennent la frontière avec Cëpias. La tension actuelle (sève amère, comptabilité Marvet) n'a pas encore éclaté. |
+| **Evertia** | Froideur reconnue | Sylvara n'a jamais accepté de subordination au Cercle de Caëspia. Les Archidruides tiennent les Mains Vertes pour des druides mineurs sans formation systématique ; les Mains Vertes tiennent les Archidruides pour des intellectuels qui parlent trop. Les rares contacts officiels passent par Cëpias comme intermédiaire. |
 | **Solena (via Valmora)** | Indirect | Aucun contact direct avec Solena. La sève arrivant dans les officines de Solena passe d'abord par les guérisseurs de Sélyandris (Evertia) ou par les Académies thalmariennes. Sylvara ne touche pas la marge bénéficiaire construite sur ses produits. |
 
 ---

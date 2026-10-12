@@ -224,7 +224,7 @@ Collines boisées du sud-est, forêt moins dense que celle de Xyria mais tout au
 |------|----------|---------|
 | **Autres pays d'Ulinor** | Fraternité tribale | Les tribus du continent partagent les ruines et les traditions sans conflit majeur. Le Conseil des Six assure la cohésion. |
 | **Caeloria (Azoria)** | Curiosité distante | Les oracles caeloriens ont tenté d'étudier les échos du Canyon. Tolérés, puis renvoyés quand ils ont essayé de « cartographier » les voix. |
-| **Skaldoria (Ulinor)** | Respect mutuel | Deux peuples tribaux attachés à la valeur des ancêtres. Échanges rares mais sincères — fourrures contre cristaux. |
+| **Skaldoria (îles entre Endora et Alkaran)** | Respect mutuel | Deux peuples tribaux attachés à la valeur des ancêtres. Échanges rares mais sincères — fourrures contre cristaux. |
 | **Solena (Endora)** | Méfiance commerciale | Les marchands de Solena convoitent les cristaux résonnants. Les Ulinoriens vendent le strict minimum, craignant l'exploitation de leurs ressources sacrées. |
 
 ---

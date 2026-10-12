@@ -14,7 +14,7 @@ needs_review_for: []
 | **Type** | Continent central de l'hémisphère est ; façade maritime à l'ouest, reliefs modérés à l'est |
 | **Taille** | Relativement petit, à forte densité culturelle et acoustique |
 | **Climat** | Tempéré à doux ; gradient nord-ouest (humide, frais) → sud-est (sec, chaud) |
-| **Nations** | 2 — [[Avalor]], [[Sanvara]] ; [[Haldria]], sur la rive d'Ilthara, en est le partenaire d'outre-mer |
+| **Nations** | 6 — [[Avalor]], [[Sanvara]] ; au nord, [[Iskara]], [[Ferrath]] et [[Thalmaris]] ; sur les îles du nord, [[Skaldoria]] ; [[Haldria]], sur la rive d'Ilthara, en est le partenaire d'outre-mer |
 | **Trait commun** | Chaque nation « tient une voix » — une discipline d'écoute codifiée |
 
 Disciplines d'écoute par nation :
@@ -82,9 +82,13 @@ Aucune lecture ne s'accorde sur le **statut actuel** des Voix Tenues (présentes
 | [[Avalor]] | Théocratie sylvestre, Pacte des Sylves, écoute des présences forestières |
 | [[Haldria]] (Ilthara, outre-mer) | Monarchie maritime, navigation stellaire, lecture des Tables et des marées |
 | [[Sanvara]] | Confédération marchande, hospitalité codifiée, arbitrage itinérant |
+| [[Iskara]] (côte nord) | Vallées-forteresses, monarchie militaire, culture alkarane |
+| [[Ferrath]] (nord-est d'Iskara) | République des Profondeurs, mines et veilleurs, culture alkarane |
+| [[Thalmaris]] (nord-est) | Monarchie bardique-académique, écoute des fréquences (Cantus) |
+| [[Skaldoria]] (îles du nord) | Confédération clanique, ancêtres invoqués au combat |
 
 > [!info] Note V3.4 — nations à cheval (historique Access)
-> La base canonique Access rattache à l'origine **Iskara** au continent Endora (N°11), **Thalmaris** à Endora (N°11), et **Haldria** à Ilthara (N°10). La refonte V3.4 a consolidé ces nations selon leur cohérence narrative : Iskara → Alkaran, Thalmaris → Evertia, et avait rangé Haldria sous Endora. Le 12 octobre 2026, l'auteur a rendu Haldria à Ilthara, au sud-ouest, où sa carte pose ses villes : Endora compte deux nations, et Haldria reste la troisième voix de sa polyphonie, par la mer.
+> La base canonique Access rattache à l'origine **Iskara** au continent Endora (N°11), **Thalmaris** à Endora (N°11), et **Haldria** à Ilthara (N°10). La refonte V3.4 a consolidé ces nations selon leur cohérence narrative : Iskara → Alkaran, Thalmaris → Evertia, et avait rangé Haldria sous Endora. Le 12 octobre 2026, l'auteur a rendu Haldria à Ilthara, au sud-ouest, où sa carte pose ses villes. Le même jour (D49), la carte faisant foi, Iskara et Ferrath (côte nord), Thalmaris (nord-est) et les îles de Skaldoria reviennent à Endora, où sont leurs villes. Les trois voix de la polyphonie d'Endora restent Avalor, Sanvara et Haldria, par la mer ; les nations du nord gardent leurs cultures propres (alkarane, bardique, clanique).
 
 ---
 

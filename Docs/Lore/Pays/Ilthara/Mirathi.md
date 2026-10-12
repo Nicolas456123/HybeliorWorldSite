@@ -123,7 +123,7 @@ Voir [[../../Religions/_Mineures/Taciti]].
 | **Vytharia** (capitale tutélaire) | Déférence rituelle | Mirathi est une province-sanctuaire de Vytharia. Vytharia-cité envoie une délégation officielle tous les sept ans, qualifiée de « consultation du silence ». La nature de la consultation n'est pas publique. |
 | **Lunasar** (province sœur) | Indifférence cordiale | Pas d'envoi régulier entre les deux provinces vythariennes. Les Lunariens jugent la pratique oraculaire mirathienne intéressante mais incompatible avec leur calendrier. |
 | **Nysaria-île** | Aucune | Ni envoyés, ni correspondance. Mirathi possède pourtant des copies de symboles en troisième langue dont la provenance probable est nysarienne. La filière de circulation reste opaque. |
-| **Thalmaris (Evertia)** | Échanges érudits | Plusieurs résidents thalmariens à Mirathi (Orneth est le plus récent). Les copies du Sanctuaire alimentent les bibliothèques de Thalmaris. Aucun Oracle ne s'est jamais déplacé jusqu'à Thalmaris. |
+| **Thalmaris (Endora)** | Échanges érudits | Plusieurs résidents thalmariens à Mirathi (Orneth est le plus récent). Les copies du Sanctuaire alimentent les bibliothèques de Thalmaris. Aucun Oracle ne s'est jamais déplacé jusqu'à Thalmaris. |
 | **Astravia (Celethor)** | Curiosité distante | Les mages d'Astravia ont, à plusieurs reprises, sollicité l'envoi d'un Oracle pour des consultations ; toutes les sollicitations ont été déclinées poliment. |
 | **Baelor** | Communication monastique | Les ermitages Taciti de Mirathi entretiennent une correspondance discrète avec les cloîtres baeloriens, hors de l'orthodoxie du Second Voile. Aucune publication. |
 

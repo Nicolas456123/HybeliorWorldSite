@@ -113,7 +113,7 @@ Le caporal Vyren avait servi six rotations de six mois à Taldorn. Trente-six mo
 
 Ses supérieurs le croyaient fou. Ses camarades l'admiraient et le plaignaient en parts égales. Mais Vyren avait une raison que personne ne connaissait.
 
-Lors de sa première rotation, dix-huit ans plus tôt, il avait vu quelque chose. Pas une armée. Pas un animal. Une lumière, au nord, au-delà des frontières de Pyrtara, dans les terres que les cartes laissaient vides. Une lumière bleue, pulsante, qui était apparue une nuit et avait disparu à l'aube.
+Lors de sa première rotation, dix-huit ans plus tôt, il avait vu quelque chose. Pas une armée. Pas un animal. Une lumière, au sud-est, au-delà des frontières de Pyrtara, dans les terres que les cartes laissaient vides. Une lumière bleue, pulsante, qui était apparue une nuit et avait disparu à l'aube.
 
 Vyren l'avait rapportée. Son supérieur avait haussé les épaules. "Des gaz volcaniques. Ça arrive." Et l'affaire avait été classée.
 
@@ -123,7 +123,7 @@ Il tint un journal. Il calcula les intervalles. La lumière apparaissait tous le
 
 À ce rythme, elle atteindrait Taldorn dans onze ans.
 
-Vyren demanda audience auprès du Conseil de Fer. On lui rit au nez. Il écrivit au Haut Commandant. Pas de réponse. Il supplia les Guetteurs de Feu de Vyldor d'orienter leurs instruments vers le nord. Ils étaient trop occupés à surveiller les volcans.
+Vyren demanda audience auprès du Conseil de Fer. On lui rit au nez. Il écrivit au Haut Commandant. Pas de réponse. Il supplia les Guetteurs de Feu de Vyldor d'orienter leurs instruments vers le sud-est. Ils étaient trop occupés à surveiller les volcans.
 
 Alors Vyren resta. Rotation après rotation, il compta les jours, nota les apparitions, mesura la progression. Ses cheveux blanchirent. Ses yeux s'userent. Mais la lumière continuait d'avancer.
 

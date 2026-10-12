@@ -11,7 +11,7 @@ needs_review_for: []
 
 Selon les Skalds, Skaldoria n'a pas de fondation que la mémoire orale puisse situer : les chants la décrivent comme ayant toujours été là, peuplée de clans de guerriers, de pêcheurs et de chasseurs, chacun avec ses lois, ses rites et ses querelles propres. La violence entre clans y est lue comme une part de l'ordre naturel — les faibles mouraient, les forts survivaient, les morts rejoignaient les ancêtres pour veiller.
 
-La Confédération naquit, paradoxalement, d'une invasion extérieure. Une flotte venue d'un continent lointain — les historiens débattent encore de son origine, certains disant Endora, d'autres Cestra — tenta de débarquer dans le Grand Fjord, le point névralgique de Skaldoria. Les envahisseurs comptaient sur la division des clans pour en faire des proies faciles.
+La Confédération naquit, paradoxalement, d'une invasion extérieure. Une flotte venue de loin — les historiens débattent encore de son origine, certains disant Cestra, d'autres plus loin encore — tenta de débarquer dans le Grand Fjord, le point névralgique de Skaldoria. Les envahisseurs comptaient sur la division des clans pour en faire des proies faciles.
 
 **Brenna Croc-de-Glace**, cheffe du clan du Loup, envoya des messagers à tous les clans avec un seul mot : *Ralthyn* — un ancien terme signifiant « le moment où les prédateurs chassent ensemble ». En trois jours, sept clans normalement en guerre se rassemblèrent sur les falaises du fjord. Les Skaldoriens, qui connaissaient chaque courant, chaque rocher et chaque passage caché, attirèrent la flotte ennemie dans un étranglement glacé où les navires s'échouèrent sur des icebergs dissimulés, puis descendirent des falaises. Aucun envahisseur ne survécut.
 

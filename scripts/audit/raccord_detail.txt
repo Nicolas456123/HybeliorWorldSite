@@ -1,0 +1,18 @@
+Chapitres : 200 · items de l'Atrium ancrés à un chapitre : 854
+Renvois vers un chapitre inexistant : 0
+Citations « … » ancrées : 1820
+  exactes au chapitre cité ........ 1809
+  exactes, mais dans un autre ...... 0
+  introuvables dans les livres ..... 11
+Chapitres dont l'Atrium ne dit rien : 4 — T1/30 T1/37 T3/1 T3/47
+  ✗ per-0933 [T3/11] « Aînée de la Franche »
+  ✗ per-0933 [T3/11] «  La Franche  »
+  ✗ per-0942 [T3/4,T3/8,T3/11,T3/14,T3/17,T3/19,T3/21,T3/36,T3/41] « Wenna rejoint Sanne »
+  ✗ per-0986 [T1/15] « Un homme du dehors aurait comblé l'attente ; l'ancien bavard la garda ouverte, et cela lui coûtait. »
+  ✗ ter-0166 [T2/4,T2/5,T2/15] « Les Chamanes de Mémoire d'Alkaran »
+  ✗ per-1024 [C/21,C/38] « Kessa de Velathor »
+  ✗ per-1029 [T3/4,T3/11,T3/14,C/3,C/7,C/11,C/13,C/15,C/19,C/21,T1/1,T2/7,T2/17,T2/25,T2/29,T3/17,T3/18,T3/39] « à trente ans passés »
+  ✗ fac-1159 [C/13] « Vous êtes des nôtres. […] On vous a envoyé parce qu'il faut un instrument vide pour en traquer un autre. »
+  ✗ fac-1249 [C/31] « La route se rouvre par le sud et elle se referme par le nord. […] Comme une bouche. »
+  ✗ fac-1288 [T1/0,T1/5,T1/26,T1/1] « Nous avons quatre-vingt-dix jours. […] Thessan tiendra le journal. »
+  ✗ fac-1288 [T1/0,T1/5,T1/26,T1/1] « Ma sœur est un Vide. […] Je fais ceci pour elle. Et ceci la tuera peut-être aussi. »

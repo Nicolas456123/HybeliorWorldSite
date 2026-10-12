@@ -11,7 +11,7 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Continent** | Ulinor |
+| **Continent** | Endora (îles du large de la côte nord ; Skaldris au large d'Alkaran) |
 | **Gouvernement** | Confédération clanique |
 | **Religion principale** | [[Foedus Animae]] (Le Pacte des Âmes) |
 | **Religion secondaire** | [[Vael'Kurash]] (Culte des Esprits Anciens) |

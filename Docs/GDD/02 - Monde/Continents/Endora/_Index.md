@@ -50,7 +50,7 @@ Trois géographies, trois leçons. Le visiteur attentif comprend vite que les pe
 
 ## Les peuples
 
-Deux nations partagent Endora, Avalor et Sanvara, et Haldria y aborde depuis Ilthara ; toutes sont tissées par des routes anciennes que ni le sable ni la liane ne sont jamais parvenus à effacer.
+Avalor et Sanvara se partagent le cœur d'Endora, Iskara, Ferrath et Thalmaris son nord, Skaldoria les îles du large, et Haldria y aborde depuis Ilthara ; toutes sont tissées par des routes anciennes que ni le sable ni la liane ne sont jamais parvenus à effacer.
 
 ### Avalor
 

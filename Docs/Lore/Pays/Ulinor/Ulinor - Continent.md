@@ -20,7 +20,7 @@ needs_review_for: []
 
 Trois ensembles humains, non alliés mais partageant la même substance (le passé) :
 - **Confédération tribale d'Ulinor** (centre et sud) — honore les Anciens **dans la pierre**
-- **Confédération clanique de Skaldoria** (nord) — honore les ancêtres **dans le sang**
+- **Confédération clanique de Skaldoria** (hors du continent : îles du large d'Endora, à ~200 km au nord-est) — honore les ancêtres **dans le sang**
 - **Vallées de Dhalvoria** (ouest) — honore les Anciens **dans la patience des vallées en attente**
 
 Les Anciens : entités dont la mémoire serait inscrite dans la roche avant leur disparition de l'archipel (forme et raison non précisées par aucune source). Leurs traces *résonnent* (sons, voix, fragments tenus pour des mémoires), selon ce qu'en perçoivent les **Écho-Guides**. La culture d'Ulinor s'organise autour de la **préservation** et du **déchiffrement** de ces résonances. Le geste de *déposer* (une pierre, un nom, une voix dans le Canyon, un cairn dans la neige, un glyphe sur un vase) est partout, sous des formes régionales d'apparence identique.
@@ -30,7 +30,7 @@ Les Anciens : entités dont la mémoire serait inscrite dans la roche avant leur
 ## Géographie
 
 **Reliefs et grands ensembles :**
-- **Fjords gelés du nord** (Skaldoria) — côtes profondément découpées, vents glacés huit mois sur douze, taïga rabougrie sur les hauts reliefs intérieurs. Hivers de la fin du 8e mois au début du 4e mois suivant. Navigation dangereuse même pour les Skaldoriens.
+- **Fjords gelés de Skaldoria** (hors du continent, îles du large d'Endora ; pour mémoire) — côtes profondément découpées, vents glacés huit mois sur douze, taïga rabougrie sur les hauts reliefs intérieurs. Hivers de la fin du 8e mois au début du 4e mois suivant. Navigation dangereuse même pour les Skaldoriens.
 - **Vallées intérieures de l'ouest** (Dhalvoria) — vallées encaissées séparées par des crêtes basses mais infranchissables sans col ; les chronologies haldriennes n'y sont jamais entrées avec succès. Climat tempéré humide, sols meubles, brumes matinales fréquentes. Toutes les vallées portent des **pierres gravées** (lues comme inscriptions des Anciens), densité supérieure à l'archipel central.
 - **Île principale — six régions ulinoriennes** : forêt pluviale à l'ouest (Xyria) · plaines arides au centre (Jentar), bordant le Grand Canyon de l'Écho · montagnes escarpées à l'est (Korrinor) · vallées fertiles au sud-ouest (Folinor) · côtes en mangroves au nord-est (Elarion) · collines boisées au sud-est (Tressalia).
 - **Îles satellites** : Nylor (nord — forêts tempérées, Druides de l'Écho) · Serenth (sud — falaises, Grottes de Cristal, terre d'épreuve).
@@ -38,7 +38,7 @@ Les Anciens : entités dont la mémoire serait inscrite dans la roche avant leur
 **Hydrographie majeure :**
 - Rivière **Nylé** (Folinor) — alimente la production céramique et l'agriculture.
 - Cascades du **Canyon de l'Écho** — ne descendent jamais jusqu'à la mer : disparaissent dans des fissures avant d'atteindre le sol.
-- **Grand Fjord de Skaldoria** — point d'accostage défensif historique.
+- **Grand Fjord de Skaldoria** (hors du continent) — point d'accostage défensif historique.
 - **Eaux Lentes** dhalvoriennes — cours d'eau ne parvenant à aucune mer connue ; dits perdus *dans la roche*.
 
 **Le Grand Canyon de l'Écho :**
@@ -47,7 +47,7 @@ Les Anciens : entités dont la mémoire serait inscrite dans la roche avant leur
 - Propriétés acoustiques exceptionnelles selon les témoignages : les sons qui y entrent n'y semblent pas s'éteindre.
 - Centre cosmique de l'archipel dans la lecture ulinorienne ; géographiquement infranchissable (on le longe, on ne le traverse pas).
 
-**Climat :** tempéré sur toute l'île principale, humide et moite à l'ouest et au sud-ouest, où la forêt pluviale de Xyria fait sa propre pluie · semi-aride au centre · tempéré frais en altitude à l'est · tempéré humide dans les Vallées dhalvoriennes · subarctique sévère à Skaldoria. Une journée de marche fait passer de la forêt pluviale de Xyria, moite et si sombre que le sol reste en pénombre, au tempéré frais des hautes terres ; au nord-est, les mangroves d'Elarion et leurs récifs chantants.
+**Climat :** tempéré sur toute l'île principale, humide et moite à l'ouest et au sud-ouest, où la forêt pluviale de Xyria fait sa propre pluie · semi-aride au centre · tempéré frais en altitude à l'est · tempéré humide dans les Vallées dhalvoriennes · subarctique sévère à Skaldoria, outre-mer. Une journée de marche fait passer de la forêt pluviale de Xyria, moite et si sombre que le sol reste en pénombre, au tempéré frais des hautes terres ; au nord-est, les mangroves d'Elarion et leurs récifs chantants.
 
 ---
 
@@ -81,11 +81,11 @@ Aucune lecture officielle n'admet que les Anciens aient pu simplement mourir et 
 | Pays | Identité |
 |------|----------|
 | [[Ulinor]] | Confédération tribale, gardiens des ruines des Anciens, magie par résonance sonore |
-| [[Skaldoria]] | Confédération clanique des fjords gelés, ancêtres invoqués au combat, Cairns des Voix |
+| [[Skaldoria]] (îles du large d'Endora, hors du continent) | Confédération clanique des fjords gelés, ancêtres invoqués au combat, Cairns des Voix |
 | [[Dhalvoria]] | Vallées en attente, Veilles silencieuses, lecture des stèles, prophétie de l'Éveil |
 
 > [!info] Note V3.4 — relocalisations
-> La base canonique Access rattachait **Skaldoria** au continent Alkaran (N°1) et listait **Dhalvoria** sans description dédiée. La refonte V3.4 a relocalisé Skaldoria vers Ulinor pour cohérence narrative, et l'enrichissement A.6 (Tier B) a documenté Dhalvoria comme troisième nation continentale.
+> La base canonique Access rattachait **Skaldoria** au continent Alkaran (N°1) et listait **Dhalvoria** sans description dédiée. La refonte V3.4 avait relocalisé Skaldoria vers Ulinor pour cohérence narrative (le 12 octobre 2026, D49, la carte faisant foi, Skaldoria est rendue à ses îles, au large de la côte nord d'Endora et d'Alkaran, cousine panghori d'Ulinor), et l'enrichissement A.6 (Tier B) a documenté Dhalvoria comme troisième nation continentale.
 
 ---
 
@@ -95,12 +95,12 @@ Trois axes structurent les échanges ; aucun n'est protégé par un cadre commun
 
 - **Axe maritime occidental** (Skaldoria → Elarion → Vynthal → côtes méridionales) — route côtière entretenue par les pêcheurs et navigateurs des deux confédérations. Échanges modestes : fourrures, os de créatures, ambre du nord ↔ cristaux résonnants, bois imputrescible, plantes médicinales du sud. Rencontres brèves et courtoises, sans amitié.
 - **Axe terrestre central** (Dhalvoria → Folinor par les cols hauts ; Dhalvoria → Korrinor par les passes orientales) — route lente, ouverte trois mois par an, empruntée par les Vallois descendant vendre grains et lainages contre cristaux et sel marin. Les Vallois repartent avant la première neige des cols. Les balises de pierre jalonnant la route sont elles-mêmes devenues objet de pèlerinage pour certains Dhalvoriens.
-- **Routes maritimes vers le reste du monde** (très limitées) — marchands de Solena (Endora) et d'Altram (Alkaran) accostant à Elaris et Skaldris une à deux fois par an ; bateaux d'Onara et de Galenor plus rares. Aucun navire ulinorien ne fait régulièrement la liaison vers l'extérieur (la Confédération n'a pas de flotte de haute mer ; les Skaldoriens ne s'éloignent que vers le nord, en expéditions dont peu reviennent).
+- **Routes maritimes vers le reste du monde** (très limitées) — marchands de Solena (Endora) et d'Altram (Alkaran) accostant à Elaris une à deux fois par an ; bateaux d'Onara et de Galenor plus rares. Aucun navire ulinorien ne fait régulièrement la liaison vers l'extérieur (la Confédération n'a pas de flotte de haute mer ; les Skaldoriens ne s'éloignent que vers le nord, en expéditions dont peu reviennent).
 
 **Tensions dominantes :**
 - **Ulinor / Skaldoria** — pas de conflit ouvert, mais incompatibilité de pratique : les Skaldoriens *crient* les noms des morts, les Ulinoriens les *murmurent*. Malaise mutuel jamais formulé (Skaldoriens jugés *bruyants envers les morts* ; Ulinoriens jugés *pieux à un degré qui met mal à l'aise*).
 - **Ulinor / Dhalvoria** — tension sur la *propriété symbolique* des Anciens : les Vallois placent leur centre dans les Vallées (les ruines de l'île principale n'en étant que les marges) ; les Ulinoriens affirment l'inverse. Écho-Guides Jentar et Veilleurs dhalvoriens se sont rencontrés trois fois en deux siècles ; les comptes-rendus (conservés à Jentaris et Dhalvora) ne se recoupent sur aucun point.
-- **Skaldoria / Dhalvoria** — aucun contact significatif ; les deux régions ne se touchent pas (les Vallées débouchent au sud, pas vers le nord glacé). Rumeur non vérifiée de Skaldoriens du Clan du Givre traversant à pied vers une vallée haute dhalvorienne pour y mourir ; les Vallois ne confirment ni n'infirment.
+- **Skaldoria / Dhalvoria** — aucun contact significatif ; des centaines de lieues de mer les séparent. Rumeur non vérifiée de Skaldoriens du Clan du Givre venant par mer mourir dans une vallée haute dhalvorienne ; les Vallois ne confirment ni n'infirment.
 - **Druides de l'Écho de Nylor** — présence ambiguë, hors-Confédération, entretenant des rapports informels avec toutes les régions ; soupçonnés (sans preuve) d'avoir leur propre lecture des Anciens, non partagée avec les trois cultures principales.
 
 ---

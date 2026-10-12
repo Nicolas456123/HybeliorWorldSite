@@ -11,7 +11,7 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Continent** | Alkaran |
+| **Continent** | Endora (côte nord ; culture alkarane, par-delà la mer Cendrée) |
 | **Numéro** | 23 |
 | **Gouvernement** | Monarchie militaire |
 | **Religion principale** | [[Lex Petra]] (La Loi de la Pierre) |
@@ -81,7 +81,7 @@ Région centrale de hauts plateaux rocheux et gorges profondes. Cœur militaire 
 Zone montagneuse à l'est, sauvage et peu peuplée. Territoire des éclaireurs et rangers iskarans qui patrouillent ses sentiers escarpés. Des ruines d'une civilisation antérieure parsèment les sommets.
 
 ### Glintar
-Région nord, siège de la capitale. Immense bassin entouré de montagnes ; la Porte de Fer y contrôle le seul accès terrestre depuis le nord. Abrite les mines de fer les plus profondes d'Iskara.
+Région sud-est, siège de la capitale. Immense bassin entouré de montagnes ; la Porte de Fer y contrôle le seul accès terrestre, depuis le sud-est (l'intérieur d'Endora). Abrite les mines de fer les plus profondes d'Iskara.
 
 ---
 

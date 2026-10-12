@@ -69,7 +69,7 @@ needs_review_for: []
 Région industrielle au nord-ouest, dominée par d'immenses complexes de forges. Poumon industriel de Mosrack ; cheminées actives jour et nuit.
 
 ### Fugnord
-Région marécageuse et malsaine au nord-est. Abrite les camps d'entraînement les plus durs de Mosrack (recrues « brisées et reforgées »).
+Région marécageuse et malsaine au sud-ouest. Abrite les camps d'entraînement les plus durs de Mosrack (recrues « brisées et reforgées »).
 
 ### Mondack
 Plaines centrales parsemées de villes fortifiées. Cœur logistique de Mosrack — routes pavées, entrepôts, casernes.

@@ -166,10 +166,10 @@ Aucune religion dominante. Composition :
 | Pays / Région | Relation |
 |---------------|----------|
 | **Torkam** | Liens ancestraux, navires d'approvisionnement annuels |
-| **Skaldoria (Ulinor)** | Cousinage culturel, échanges discrets |
+| **Skaldoria (îles entre Endora et Alkaran)** | Cousinage culturel, échanges discrets |
 | **Haldria** | Escales maritimes saisonnières, relation cordiale |
 | **Endora** | Tolérance encadrée — permis temporaires pour les expéditions, propositions régulières refusées |
-| **Alkaran (Iskara, Altram)** | Tolérance encadrée — permis temporaires, navires de passage |
+| **Alkaran (Altram) et Iskara (Endora)** | Tolérance encadrée — permis temporaires, navires de passage |
 | **Kytheris** | Contact épisodique depuis la dissolution de l'école arcanistique impliquée dans la Guerre du Sable |
 | **Lumasar (Tribunal)** | Aucune juridiction, aucune motion ; tolérance mutuelle d'absence |
 | **Caeloria** | Présence d'un seul érudit (Sethiran), aucune mission active |

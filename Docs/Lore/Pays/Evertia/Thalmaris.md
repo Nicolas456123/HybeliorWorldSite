@@ -11,7 +11,7 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Continent** | Evertia |
+| **Continent** | Endora (nord-est) |
 | **Numéro** | 34 |
 | **Gouvernement** | Monarchie bardique |
 | **Religion principale** | [[Cantus Mundi]] (Le Chant du Monde) |
@@ -171,7 +171,7 @@ Quatre festivals annuels, un par saison :
 - Région : Rylthos
 
 ### Zyldoris
-- Bourg d'altitude connu pour ses chœurs de montagne (ensembles vocaux exploitant les échos des sommets pour des harmonies inreproductibles ailleurs). Performances attirant des auditeurs de tout Thalmaris et des trois nations d'Evertia.
+- Bourg d'altitude connu pour ses chœurs de montagne (ensembles vocaux exploitant les échos des sommets pour des harmonies inreproductibles ailleurs). Performances attirant des auditeurs de tout Thalmaris et des nations voisines d'Endora.
 - Origine : premier chœur né d'un barde entendant sa voix lui revenir déformée par trois pics, créant une harmonie à trois voix dont il était la seule source. Zyldoris fondée autour de ces trois pics, dont angles et distances furent cartographiés pour exploiter exactement les bons délais d'écho.
 - Population : Ville
 - Région : Rylthos

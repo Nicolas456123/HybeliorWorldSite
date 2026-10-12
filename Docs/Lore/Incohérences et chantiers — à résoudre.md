@@ -874,6 +874,54 @@ dit à Hekorinth ; le bilan « Endora se refermait… Sarandel… Avalor… Hald
 (Ilthara) ; voir le récit Studio de la demande `d492ccffc`.
 
 
+### 21. La carte fait foi (D49) : Iskara, Ferrath, Thalmaris, Skaldoria, Velmaris ; directions et lieux de lac — TRANCHÉ le 2026-10-12
+
+Décision de l'auteur (D49, après l'audit 1012 du lot 527, `Docs/Lore/audit_1012.md`) : « la carte fait foi ». Les
+positions affichées par la carte du site sont bonnes ; on corrige rattachements et textes, jamais un lieu. Demande
+Studio `de8d6b3a6`. Script `scripts/arbitrer-d49-1012.js` (idempotent, sans reseed, `data.raccord` sur chaque
+retouche, miroirs Docs reportés) ; cohérence inchangée (0 erreur, 7 avertissements) ; raccord livres ↔ Atrium inchangé (1 809 sur 1 820, détail identique). Audit rejoué (`node scripts/audit/run.js`) : plus aucun cas A1, A3, C1, C2, C3 de gravité 1 ou 2.
+
+| # | Écart | Décision |
+|---|---|---|
+| 1 | Iskara `pol-0002` (21 villes, régions Glintar, Lushara, Helionar, Ysolia) : fiche Alkaran, villes toutes sur la côte nord d'Endora. | **Endora** : `data.continent`, `lnk-0004` vers `lie-0007`, résumé, tableau. La nation garde sa culture alkarane (lignée Petravin) : Alkaran est à ~70 km au nord, par la mer Cendrée (C/8 le dit déjà : « trois jours de mer pour passer le bras qui sépare Alkaran d'Iskara »). Suivent : Archives de l'Ordo Caelum `lie-0027`, Ordo Caelum `rel-0002`, Rota Mundi `rel-0006` (« Iskara, Endora »), Avalor `pol-0018` (Iskara est sa voisine du nord), Noravia `lie-0297`, Valryn `lie-0123`, Protectorat des Passes `pol-0076`. Torkam/Iskara (`lnk-2019`) : frontière → lien « par-dessus la mer Cendrée ». |
+| 2 | Ferrath `pol-0003` : fiche Alkaran, aucun lieu posé, position estimée sur Endora au nord-est d'Iskara (C/8 : « la passe nord-est vers les hauts plateaux… Ferrath »). | **Endora**, `lnk-0006` vers `lie-0007`. Ce qui ne tenait que par la terre avec Altram passe par la mer ou revient à Iskara : la **Vorne** coule en Ferrath et se jette dans la mer Cendrée face à Alkaran ; Route de la Vorne mi-maritime ; **lac de Vyrn** et **Selvaris** `lie-0172` partagés avec **Iskara** (plus Altram) ; Vorn-Trel `lie-0178` par la Vorne puis la mer jusqu'à Trelios ; Hautes-Pierres « massifs occidentaux » (Iskara est à l'ouest) ; Sourd-Bois face aux plateaux torkamites d'outre-mer ; Sécession des Mineurs `evt-0116`, Vythoris `lie-0169`, Caverne-Mère `lie-0175`, Sourd-Sour `lie-0179`, Volnir `lie-0173` (« monde alkaran », « hautes vallées de la Vorne »). Altram/Ferrath (`lnk-0782`) : frontière → lien « ancienne suzeraineté, par-delà la mer Cendrée ». |
+| 3 | Fiche d'Alkaran `lie-0001` : cinq nations, Vorne et Vyrn à cheval sur Altram et Ferrath, routes terrestres vers Glintaris. | Trois nations sur le continent (Altram, Torkam, Myrtam) ; Iskara et Ferrath « outre-mer, de même lignée, sur la côte nord d'Endora ». Les quatre métiers restent ceux du monde alkaran, de part et d'autre de la mer. Hydrographie, biomes, routes, tensions et portraits retouchés en ce sens ; note V3.4 complétée. |
+| 4 | Thalmaris `pol-0031` (17 villes, régions Azuralis, Zylar, Nalmir, Ostaris, Rylthos) : fiche Evertia (« sud-ouest », « détroit aux marées »), villes au nord-est d'Endora. | **Endora (nord-est)**, `lnk-0048` vers `lie-0007` ; résumé, tableau, `data.note_interne` ; Cantus Mundi `rel-0008`, Somnium Vigil `rel-0011`, Mirathi `pol-0035`, `fac-0259`, Zyldoris `lie-0369`. |
+| 5 | Cëpias `lie-0669` (cour du Cantus, C/24-26) : rattachée à Thalmaris le 2026-10-09, posée sur Evertia. | **Cité-État du Cantus d'Evertia, fondée par des Cantori venus de Thalmaris** (`lnk-4035` vers Evertia `lie-0008`, nouveau lien `lie-a` vers Thalmaris). Elle reprend sur Evertia ce que les fiches prêtaient à Thalmaris : frontière et hameaux mixtes avec Sylvara (`lnk-2476` Sylvara ↔ Cëpias ; « Marge Cantorienne »), Cantori aux sessions de l'Arbre-Mère, marché des Sylvarains, intermédiaire avec Evertia. Fiche d'Evertia `pol-0116` (deux nations et Cëpias), résumé du continent `lie-0008`, Sylvara `pol-0032`. C/25 (« le Cantus est plus vieux que Thalmaris ») reste vrai. |
+| 6 | Skaldoria `pol-0039` : fiche Ulinor (« fjords du nord d'Ulinor »), lieux sur deux îles à ~200 km d'Ulinor. | Île par île, d'après la carte : l'île de **Sylthor et Vyndar** (201 u², à ~15 km d'Endora ; marqueurs de la nation et de la région) → la nation est rattachée à **Endora** (`lnk-0063`) ; l'îlot de **Skaldris** (85 u², à ~18 km d'Alkaran) → `lie-0782` `data.continent` **Alkaran**. Fiche Skaldoria `lie-0912` (tableau ; la flotte d'invasion ne vient plus d'« Endora, continent lointain »), fiche d'Ulinor `lie-0013` (deux cultures, Skaldoria cousine panghori « hors du continent »), Noravia, `fac-1044`. |
+| 7 | Velmaris `lie-0214` (port de Solmaris, Azoria) posé au cœur de Seraphia (Galenor). | **Confusion d'homonymes, pas rattachement faux.** Le point (−357,8 ; −221,5) est à 4,7 u d'Olvaris et à ~40 u du Lagosaim, région de l'homonyme `lie-0969` « Velmaris (Seraphia) », village de perliers détaché le 2026-09-09 (§11.b-11). Le point et son nom restent sur la carte et passent à `lie-0969` ; `lie-0214` les perd (`data.carte.coord_retirees`) et attend une position avec les agglomérations sans position ; **Solmaris reste en Azoria**. |
+| 8 | Directions contredites (audit, C2 gravité 2) : Glintar `lie-0916` « nord d'Iskara », Wildoria `lie-0919` « nord d'Avalor », Fugnord `lie-0960` « nord-est de Mosrack », Mylarin `lie-0272` « côte sud de Malrith », Taldorn `lie-0735` « frontière nord de Davoria ». | Selon la carte : Glintar **sud-est** d'Iskara (la Porte de Fer commande l'accès terrestre depuis l'intérieur d'Endora ; au nord d'Iskara, la mer) ; Wildoria **sud** d'Avalor ; Fugnord **sud-ouest** de Mosrack ; Mylarin **côte nord** de Malrith ; Taldorn **frontière sud-est** de Davoria, face à Lythar (la nouvelle « La Sentinelle » suit). |
+| 9 | Lieux dans un lac ou la mer intérieure sans site lacustre (audit, A3) : Crestalis, Nectoria, Galdris, Fylorin, Caelorn, Ylthros, Soltharis, Thaloris ; et, une fois Thalmaris rattachée à Endora, Azuralith et Zylarith. | Un paragraphe « Site » d'après la carte : Crestalis sur une île boisée du grand lac au nord d'Avalor ; Azuralith port de ce lac ; Zylarith sur un éperon du lac de la vallée de Zylar ; Nectoria sur les îlots d'un petit lac de Nectaris ; Galdris et Fylorin sur l'île de jungle de la mer intérieure d'Ilthara (Warenthor, cf. §20) ; Caelorn rive d'un lac caché de Qythros ; Ylthros rive d'un petit lac du Lagosaim ; Soltharis sur une presqu'île ronde d'un lac de Plenera ; Thaloris rive d'un lac de Porthar. |
+
+**Livres à reprendre** (skill `reecriture-livres` ; rien n'est modifié ici). Relevé complet des passages qui disent
+Iskara, Ferrath, Thalmaris, Skaldoria (et leurs villes) : seul le chapitre 8 des Chroniques place une de ces nations
+sur son ancien continent.
+
+- `Chroniques/Chapitre 08 - Les Mines Silencieuses.md`, l. 16, intitulé : « **Alkaran — Iskara, de Glintar aux mines
+  de Myrilith — jour 165** » → « **Endora — Iskara, de Glintar aux mines de Myrilith — jour 165** ». Pas d'ancre.
+- même chapitre, l. 6, en-tête : `lieux: [Iskara, Glintar, Myrilith, Ferrath, Verthal]` → `lieux: [Endora, Iskara,
+  Glintar, Myrilith, Ferrath, Verthal]` (comme C/12). Pas d'ancre.
+- Trajet C/8 → C/9 : rien de faux. C/8 l. 22 traverse déjà « le bras qui sépare Alkaran d'Iskara » (trois jours de
+  mer) ; la fin du chapitre prend « la route de la côte, où l'on s'embarque pour Myrtam » ; C/9 s'ouvre en Torkam
+  sans raconter la traversée retour, que l'Atrium porte (`per-0153`, parcours[20], navire, J176). Au plus un mot de
+  traversée en tête de C/9, si l'auteur le veut.
+- Ancres de C/8 à garder telles quelles (compatibles avec D49) : `per-0153` parcours[16] et [19] ; `pol-0003` et
+  `lie-1019` citent « la passe nord-est vers les hauts plateaux… Ferrath ».
+- Métadonnées dérivées (`Chroniques/chroniques-index.json`, pas de la prose) : chap. 8 `"continent": "Verthal"` →
+  `"Endora (Iskara)"` ; chap. 25 `"nations": ["Thalmaris", "Sylvara"]` → `["Cëpias", "Sylvara"]` ; chap. 26
+  `"nations": ["Thalmaris", "Valmora"]` → `["Sylvara", "Valmora"]`.
+- Compatibles, vérifiés : C/9 (« Ferrath » y est un personnage), C/11, C/12 (« Thalmaris, derrière les collines du
+  nord-est », vu de Sarandel : juste), C/13, C/16, C/17, C/19, C/20, C/21, C/22, C/25 (Cëpias en Evertia), C/26 (le
+  détroit de Sylvara est un détroit d'Evertia), C/27, C/32 ; Trois Coups T3/16 (le Cantor Vireth « de Thalmaris »
+  vient à Sylvara sans distance dite ; facultatif : « partit au matin pour la côte » pourrait dire le long voyage).
+  Skaldoria n'apparaît dans aucun livre ; T1 et T2 ne nomment aucune de ces nations.
+
+**Reste ouvert (non tranché ici).** Les fichiers Docs gardent leurs dossiers (`Docs/Lore/Pays/Alkaran/Iskara.md`,
+`…/Evertia/Thalmaris.md`, `…/Ulinor/Skaldoria.md`) et les commentaires `source:` des fiches : un déplacement de
+dossiers casserait des liens, il n'est pas fait. La « polyphonie » d'Endora (trois voix : Avalor, Sanvara, Haldria)
+et les quatre métiers du monde alkaran sont gardés comme traits culturels ; les fiches d'Endora n'ont pas de
+section propre pour ses nations du nord. Les surfaces de pays (non validées) ne sont pas touchées.
+
 ## III. Ce qui ne sera jamais tranché
 
 **Ce n'est pas un chantier. Rien de ce qui suit n'attend une décision.**

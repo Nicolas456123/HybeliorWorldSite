@@ -125,7 +125,7 @@ Structure du pouvoir :
 - Région : Davoria
 
 ### Taldorn — Village
-- Poste de guet fortifié à la frontière nord de Davoria ; réseau de tours d'obsidienne reliées par des tunnels souterrains ; garnison réputée pour son endurance (rotations de six mois en conditions extrêmes).
+- Poste de guet fortifié à la frontière sud-est de Davoria ; réseau de tours d'obsidienne reliées par des tunnels souterrains ; garnison réputée pour son endurance (rotations de six mois en conditions extrêmes).
 - Affectation autrefois punitive, transformée en unité d'élite par le Centurion **Varek** (exilé là pour avoir refusé un ordre) ; après l'efficacité de ses soldats lors d'une incursion des nomades de Lythar, l'affectation devint une récompense déguisée en punition.
 - Population : Village
 - Région : Davoria

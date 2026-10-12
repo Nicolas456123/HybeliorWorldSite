@@ -9,7 +9,7 @@ needs_review_for: []
 
 ## Lignes structurantes (vue d'ensemble historique)
 
-**Ère pré-fondatrice (~ -300 à -1)** — vallées encaissées d'Alkaran central, peuplées de bergers et de mineurs qui subissent les incursions de hordes venues de l'est. La géographie a déjà fait l'essentiel : seuls les défilés permettent l'accès, et les défilés se défendent.
+**Ère pré-fondatrice (~ -300 à -1)** — vallées encaissées de la côte nord d'Endora, peuplées de bergers et de mineurs qui subissent les incursions de hordes venues de l'est. La géographie a déjà fait l'essentiel : seuls les défilés permettent l'accès, et les défilés se défendent.
 
 **An 0-30 — Aldric le Bâtisseur.** Premier roi. Maçon de métier. Verrouillage systématique des défilés. Construction du réseau de tunnels reliant les forteresses. La Grande Forge de Glintaris est installée dans une cavité naturelle ; son alimentation en charbon automatisée est conçue par Aldric lui-même (les prêtres d'Ignis Aeternum, plus tard, préféreront ne pas le rappeler).
 
@@ -17,7 +17,7 @@ needs_review_for: []
 
 **An 60-87 — Fondation de la doctrine défensive.** Plusieurs incursions secondaires sont repoussées. Vers 87, le Roi-Maréchal Veldrik II promulgue le décret formalisant l'état de siège permanent. *« Tant qu'aucun traité signé ne marque la fin du danger, le pays demeure en alerte. »* Aucun traité n'a jamais été signé, parce qu'aucun ennemi assez grand pour signer ne s'est plus présenté. La doctrine est purement défensive : Iskara n'a jamais mené de guerre offensive, mais chaque citoyen est formé au combat dès l'âge de douze ans et les forteresses sont tenues en état de siège permanent.
 
-**An 100-150 — Codification.** Les Forgerons-Juges sont institués (Académie de Galathor, ~125). L'Académie des Gardiens de la Porte (Valyria, ~110) impose son cursus de sept ans. La caserne d'Helionis intègre, vers 145, le village dont elle a rasé les terres — caserne-village unique en Alkaran.
+**An 100-150 — Codification.** Les Forgerons-Juges sont institués (Académie de Galathor, ~125). L'Académie des Gardiens de la Porte (Valyria, ~110) impose son cursus de sept ans. La caserne d'Helionis intègre, vers 145, le village dont elle a rasé les terres — caserne-village unique dans le monde alkaran.
 
 **An 150-250 — Stabilité institutionnelle, ennemi qui s'efface.** Les coalitions orientales se dissolvent ; les empires lointains se fragmentent. Les rapports d'éclaireurs notent, génération après génération, que les routes de l'est se vident. Aucune synthèse n'est commandée. Le greffier qui en propose une en 232 est muté à Mytharis. La garde, elle, n'est jamais réduite : environ trente pour cent des hommes valides du pays restent sous les armes en permanence, et les greniers stratégiques de Mytharis sont rotés (vidés et remplis) tous les sept ans pour ne pas pourrir. Personne ne dit que la garde n'a plus de sens — le dire serait insulter Yrelda.
 
@@ -224,7 +224,7 @@ La rivière de Lusharis coule toujours. Et les laveuses disent que parfois, quan
 
 Brenn Aldor était le plus riche marchand de Valryn. Ses caravanes reliaient Iskara aux pays voisins, et son or faisait tourner l'économie de la cité. Les commandants le consultaient avant de prendre des décisions. Les forgerons se disputaient ses commandes.
 
-Un jour, un émissaire étranger vint à Valryn avec une proposition : un contrat exclusif pour l'exportation du fer iskaran. Le prix propose était astronomique. Brenn deviendrait l'homme le plus riche d'Alkaran.
+Un jour, un émissaire étranger vint à Valryn avec une proposition : un contrat exclusif pour l'exportation du fer iskaran. Le prix propose était astronomique. Brenn deviendrait l'homme le plus riche d'Iskara.
 
 La condition : livrer le fer à Mosrack.
 

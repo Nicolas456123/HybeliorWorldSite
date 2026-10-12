@@ -9,7 +9,7 @@ needs_review_for: []
 
 ## Lignes structurantes (vue d'ensemble historique)
 
-**Ère pré-sécessionniste (~ -1500 à +60)** — vallées d'Alkaran central peuplées par des communautés de mineurs. Vassalité notionnelle envers Altram. Les chefs de mine paient le tribut, vaguement, et continuent leur travail.
+**Ère pré-sécessionniste (~ -1500 à +60)** — hautes vallées de la Vorne peuplées par des communautés de mineurs. Vassalité notionnelle envers Altram, d'outre-mer. Les chefs de mine paient le tribut, vaguement, et continuent leur travail.
 
 **An 58-60 — Sécession des Mineurs.** Le roi Korvath II d'Altram (oncle du futur tyran Korvath III) double les quotas de tribut pour financer une campagne militaire contre des pillards skaldori. Réunion des chefs de mine au fond d'une galerie de la mine de Vythos. Décision : ignorer le tribut, fermer les mines à chaque venue des collecteurs, partir dans les profondeurs si nécessaire. Trois ans d'absence administrative. Une garnison altramine pénètre dans la première vallée, trouve cinquante villages déserts, campe trois semaines sans interroger un adulte, se replie. Le rapport du quartier-maître altrami est célèbre dans les archives de Trelios : *« Nous n'avons pas été combattus. Nous avons été ignorés. »* Le tribut n'est jamais rétabli. La nation existe par défaut.
 
@@ -82,7 +82,7 @@ needs_review_for: []
 
 Personne, à Vythoris, n'a jamais réussi à dater précisément la cabane sécessionniste. Les chefs de mine de l'an 58 n'ont pas inscrit la date — ils ont inscrit leurs noms, et c'est tout. Quand la cabane est devenue salle d'Assemblée, les charpentiers ont conservé le mur du fond intact. Ils ont construit autour. La salle a poussé comme un arbre autour d'une racine.
 
-Olar, archiviste honoraire (titre purement honoraire — Ferrath n'a pas de service d'archives officiel), passa quarante ans à essayer de retrouver les biographies des sept signataires. Il interrogea les vieux mineurs des sept vallées qu'il pensait être à l'origine des sept lignées. Il fouilla les chants funéraires des Vael'Kari. Il alla jusqu'à demander aux Foedus Animae d'Olkanoris de lui réciter ce qu'ils savaient des morts d'Alkaran central de l'an 58.
+Olar, archiviste honoraire (titre purement honoraire — Ferrath n'a pas de service d'archives officiel), passa quarante ans à essayer de retrouver les biographies des sept signataires. Il interrogea les vieux mineurs des sept vallées qu'il pensait être à l'origine des sept lignées. Il fouilla les chants funéraires des Vael'Kari. Il alla jusqu'à demander aux Foedus Animae d'Olkanoris de lui réciter ce qu'ils savaient des morts des vallées de la Vorne de l'an 58.
 
 Il revint avec des fragments. Korn était mineur de cuivre, probablement à Goren-Bas. Vythar — peut-être Vythar — venait d'une vallée que personne ne sait localiser aujourd'hui. Yltheris, le seul nom féminin, était fondeuse, peut-être à Tombarn — mais une Yltheris a aussi été contremaîtresse à Volnir vers la même époque, et les deux pourraient n'être qu'une seule personne, ou deux personnes distinctes, ou ni l'une ni l'autre.
 
@@ -188,7 +188,7 @@ La nièce, qui était maraîchère et n'avait jamais mis le pied dans une mine, 
 
 Le ferry de Selvaris traverse le lac de Vyrn deux fois par jour : aller au matin, retour au soir. Dix-huit minutes de traversée. La ligne médiane du lac est invisible — pas de bouée, pas de marquage. Mais le ferrymaster sait. Tous les ferrymasters savent.
 
-Au milieu de la traversée, à l'instant exact où l'embarcation cesse d'être en territoire ferrathin et entre en territoire altrami (ou inversement), le ferrymaster fait un geste. Personne ne lui a appris ce geste. Il s'est transmis. Le ferrymaster pose la main droite à plat sur la barre, ferme brièvement les yeux, puis rouvre. Trois secondes. Quatre. Les passagers qui le remarquent ne demandent jamais. Ceux qui ne le remarquent pas — la majorité — le voient par la suite, quand ils ont fait la traversée vingt fois.
+Au milieu de la traversée, à l'instant exact où l'embarcation cesse d'être en territoire ferrathin et entre en territoire iskaran (ou inversement), le ferrymaster fait un geste. Personne ne lui a appris ce geste. Il s'est transmis. Le ferrymaster pose la main droite à plat sur la barre, ferme brièvement les yeux, puis rouvre. Trois secondes. Quatre. Les passagers qui le remarquent ne demandent jamais. Ceux qui ne le remarquent pas — la majorité — le voient par la suite, quand ils ont fait la traversée vingt fois.
 
 Dorath, ferrymaster en exercice depuis +228, a expliqué une fois (et une seule) à un voyageur étranger ce que le geste voulait dire : *« On pose la main pour qu'on puisse continuer. C'est tout. »*
 

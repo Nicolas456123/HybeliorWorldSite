@@ -11,7 +11,7 @@ needs_review_for: []
 
 | | |
 |---|---|
-| **Continent** | Alkaran |
+| **Continent** | Endora (côte nord, au nord-est d'Iskara ; culture alkarane) |
 | **Numéro** | (non rattaché à un N° Pays.csv ; n'apparaît dans la base canonique Access que par mention indirecte dans la Chronologie) |
 | **Gouvernement** | République des Profondeurs (assemblée des chefs de mine + Concile des Vael'Kari) |
 | **Religion principale** | [[Vael'Kurash]] (Voix-des-Anciens, lignée des *Enfants-de-la-Roche*) |
@@ -48,7 +48,7 @@ Les plus anciennes mines de Ferrath s'ouvrent par des façades taillées à mêm
 - Nation alkarane où le Vael'Kurash est le plus profondément enraciné. Lignée dominante : les **Enfants-de-la-Roche** (variante alkarane de la souche commune Voix-sous-Bois / Enfants-de-la-Roche, cf. [[Vael'Kurash]]).
 - Les Vael'Kari ferrathins veillent les présences **minérales** : esprits de filons, de cavernes, de sources profondes, parfois d'outils minéraux très anciens (ex. un piolet centenaire peut devenir objet de veille).
 - **Doctrine officielle de la persistance** (*« la pierre dure plus que toi »*) tenue avec rigueur formelle, mais pratiquement contredite par les *« veillées du mourant »* initiées par Veshva des Cavernes. Ces veillées sont tolérées (ni hérétiques ni doctrinales) — admission silencieuse que la doctrine n'épuise pas le réel.
-- **Centre de gravité spirituel du Vael'Kurash continental** : six des sept Cavernes de l'Écoute principales d'Alkaran sont en Ferrath. La nation n'en tire aucun pouvoir politique (les lignées ne s'autoproclament pas ; on est reconnu par le silence qu'on tient).
+- **Centre de gravité spirituel du Vael'Kurash continental** : six des sept Cavernes de l'Écoute principales du monde alkaran sont en Ferrath. La nation n'en tire aucun pouvoir politique (les lignées ne s'autoproclament pas ; on est reconnu par le silence qu'on tient).
 
 **Pratiques centrales :**
 - **L'Écoute** : passage rituel d'un apprenti dans une Caverne — vingt-sept jours, dont sept sans nourriture et sept sans parole.
@@ -108,16 +108,16 @@ Les plus anciennes mines de Ferrath s'ouvrent par des façades taillées à mêm
 Région centrale, vallées de la Vorne supérieure. Cœur minier et politique du pays. Concentration de fonderies, de mines de cuivre et d'étain, et de deux des Cavernes de l'Écoute principales. Abrite Vythoris, centre de gravité informel de la nation.
 
 ### Hautes-Pierres
-Massifs orientaux, frontière avec Iskara. Mines plus pauvres mais plus anciennes. Quatre des sept Cavernes de l'Écoute principales d'Alkaran s'y trouvent. Région la plus religieuse et la moins peuplée. Traversée par les Routes des Veilleurs (cf. fiche continent).
+Massifs occidentaux, frontière avec Iskara. Mines plus pauvres mais plus anciennes. Quatre des sept Cavernes de l'Écoute principales du monde alkaran s'y trouvent. Région la plus religieuse et la moins peuplée. Traversée par les Routes des Veilleurs (cf. fiche continent).
 
 ### Sourd-Bois
-Région nord-ouest, à la lisière des hauts plateaux torkamites. Mélange de vallées boisées (rares en Alkaran) et de plateaux semi-arides. Économie mixte : bois, mine, bétail. Population sparse. Considérée comme *« demi-Ferrath »* par les Vorrans.
+Région nord, sur la côte de la mer Cendrée, face aux hauts plateaux torkamites d'outre-mer. Mélange de vallées boisées (rares dans le monde alkaran) et de plateaux semi-arides. Économie mixte : bois, mine, bétail. Population sparse. Considérée comme *« demi-Ferrath »* par les Vorrans.
 
 ### Profonds
 Vallées les plus encaissées du pays, sud-ouest. Mines les plus profondes (jusqu'à six cents mètres). Majorité des Mineurs Silencieux. Trois des plus anciennes mines (Vythos originelle, Goren-Bas, Ulthral) y opèrent encore.
 
 ### Lac-de-Vyrn
-Région lacustre partagée avec Altram. Pêche, sel, transport fluvial. Le lac baisse depuis trois générations (non enregistré par aucun rapport officiel).
+Région lacustre partagée avec Iskara. Pêche, sel, transport fluvial. Le lac baisse depuis trois générations (non enregistré par aucun rapport officiel).
 
 ---
 
@@ -139,12 +139,12 @@ Ville minière des Profonds, spécialisée dans le plomb et l'étain. Plus forte
 - Région : Profonds
 
 ### Selvaris
-Ville lacustre du Lac-de-Vyrn, partagée administrativement avec Altram (frontière au milieu du lac). Pêche, sel, échanges. Population mixte ferrathine et altramine en deux quartiers distincts. L'une des rares villes alkaranes binationales : frontière tracée en l'an 92 sur la ligne médiane du lac. Quartier ferrathin (rive nord) et quartier altrami (rive sud) ont marchés, autels et écoles séparés, mais partagent un unique ferry traversant chaque jour, mené par un ferrymaster élu alternativement par chaque rive pour cinq ans (traditionnellement un pêcheur).
+Ville lacustre du Lac-de-Vyrn, partagée administrativement avec Iskara (frontière au milieu du lac). Pêche, sel, échanges. Population mixte ferrathine et iskarane en deux quartiers distincts. L'une des rares villes alkaranes binationales : frontière tracée en l'an 92 sur la ligne médiane du lac. Quartier ferrathin (rive nord) et quartier iskaran (rive sud) ont marchés, autels et écoles séparés, mais partagent un unique ferry traversant chaque jour, mené par un ferrymaster élu alternativement par chaque rive pour cinq ans (traditionnellement un pêcheur).
 - Population : Ville
 - Région : Lac-de-Vyrn
 
 ### Volnir
-Petite ville des Hautes-Pierres spécialisée dans la production de **cristaux luminescents**. Les *cristaux de Volnir* sont exportés dans toute Alkaran (mines de Goren-Bas, chambres souterraines de Vythoris, certaines galeries d'Iskara dont Kaeloria) ; mécanisme de luminescence inconnu. Cristaux découverts vers l'an 110 par des mineurs de Volnir dans une galerie en cours de fermeture pour épuisement, brillant sans source d'énergie identifiable. Technique de récolte (extraction à froid, sans choc, dans le noir complet) transmise oralement, jamais écrite. Les Vael'Kari de Volnir les disent *« la mémoire d'une présence partie »*.
+Petite ville des Hautes-Pierres spécialisée dans la production de **cristaux luminescents**. Les *cristaux de Volnir* sont exportés dans tout le monde alkaran, de part et d'autre de la mer Cendrée (mines de Goren-Bas, chambres souterraines de Vythoris, certaines galeries d'Iskara dont Kaeloria) ; mécanisme de luminescence inconnu. Cristaux découverts vers l'an 110 par des mineurs de Volnir dans une galerie en cours de fermeture pour épuisement, brillant sans source d'énergie identifiable. Technique de récolte (extraction à froid, sans choc, dans le noir complet) transmise oralement, jamais écrite. Les Vael'Kari de Volnir les disent *« la mémoire d'une présence partie »*.
 - Population : Ville
 - Région : Hautes-Pierres
 
@@ -154,7 +154,7 @@ Bourg fortifié de la frontière avec Iskara ; unique point où Ferrath garde un
 - Région : Hautes-Pierres
 
 ### Caverne-Mère
-Hameau autour de la plus ancienne et la plus respectée des Cavernes de l'Écoute d'Alkaran. Population permanente d'environ soixante personnes (Vael'Kari, apprentis, artisans qui les nourrissent). Les non-initiés ne pénètrent pas dans la Caverne. Sans date de fondation ; mentionnée comme lieu de passage par les chants Vael'Kari les plus anciens ; site d'initiation depuis des dizaines de générations. C'est ici, en +249, que **Veshva des Cavernes** est morte, au pied d'une pierre des *« hautes terres de Ferrath »* (non localisée plus précisément) ; la pierre est entretenue par les apprenties pratiquant la *« veillée du mourant »*, sans nom inscrit. Visiteurs admis s'ils restent silencieux et ne s'attardent pas.
+Hameau autour de la plus ancienne et la plus respectée des Cavernes de l'Écoute du monde alkaran. Population permanente d'environ soixante personnes (Vael'Kari, apprentis, artisans qui les nourrissent). Les non-initiés ne pénètrent pas dans la Caverne. Sans date de fondation ; mentionnée comme lieu de passage par les chants Vael'Kari les plus anciens ; site d'initiation depuis des dizaines de générations. C'est ici, en +249, que **Veshva des Cavernes** est morte, au pied d'une pierre des *« hautes terres de Ferrath »* (non localisée plus précisément) ; la pierre est entretenue par les apprenties pratiquant la *« veillée du mourant »*, sans nom inscrit. Visiteurs admis s'ils restent silencieux et ne s'attardent pas.
 - Population : Hameau (Vael'Kari)
 - Région : Hautes-Pierres
 
@@ -169,12 +169,12 @@ Hameau de surface du Sourd-Bois, à la lisière la plus extrême de Ferrath. Une
 - Région : Sourd-Bois
 
 ### Vorn-Trel
-Ville commerciale au confluent de la Vorne et d'un de ses affluents. Principal point de transbordement du métal ferrathin vers Altram (par voie d'eau jusqu'à Trelios). Développée comme entrepôt à partir de l'an 100. Marché tenu par les Médiateurs Itinérants en présence permanente : l'un des trois y réside huit mois par an pour arbitrer les contrats commerciaux — concentration de pouvoir inhabituelle pour Ferrath, tolérée parce que le commerce est *« la chose qu'on ne peut pas laisser à elle-même »*.
+Ville commerciale au confluent de la Vorne et d'un de ses affluents. Principal point de transbordement du métal ferrathin vers Altram (par la Vorne jusqu'à la mer Cendrée, puis par mer jusqu'à Trelios). Développée comme entrepôt à partir de l'an 100. Marché tenu par les Médiateurs Itinérants en présence permanente : l'un des trois y réside huit mois par an pour arbitrer les contrats commerciaux — concentration de pouvoir inhabituelle pour Ferrath, tolérée parce que le commerce est *« la chose qu'on ne peut pas laisser à elle-même »*.
 - Population : Ville
 - Région : Vorra
 
 ### Sourd-Sour
-Bourg du Sourd-Bois pratiquant encore une métallurgie du bronze archaïque, alors que le reste d'Alkaran est passé au fer. Les bronzes de Sourd-Sour sont recherchés pour objets cérémoniels (cloches d'autel, lampes votives, ornements de tombes vael'kurashes). La transition au fer fut refusée par calcul de marché ; la rareté du bronze le rend aujourd'hui précieux et l'économie locale stable. Cité comme exemple de *« sagesse par paresse »* dans l'éthique nationale.
+Bourg du Sourd-Bois pratiquant encore une métallurgie du bronze archaïque, alors que le reste du monde alkaran est passé au fer. Les bronzes de Sourd-Sour sont recherchés pour objets cérémoniels (cloches d'autel, lampes votives, ornements de tombes vael'kurashes). La transition au fer fut refusée par calcul de marché ; la rareté du bronze le rend aujourd'hui précieux et l'économie locale stable. Cité comme exemple de *« sagesse par paresse »* dans l'éthique nationale.
 - Population : Village
 - Région : Sourd-Bois
 
@@ -186,7 +186,7 @@ Bourg du Sourd-Bois pratiquant encore une métallurgie du bronze archaïque, alo
 |------|----------|---------|
 | **Altram** | Partenariat commercial discret | Le métal ferrathin alimente les forges de Trelios. Altram a renoncé à toute prétention de vassalité depuis la Sécession de l'an 60. La relation est cordiale dans les faits, glaciale dans les protocoles. |
 | **Iskara** | Neutralité armée | Iskara aimerait un traité formel ; Ferrath ne signe rien. La frontière des Hautes-Pierres est gardée par Selthar (Ferrath, 100 hommes) et plusieurs garnisons iskaran (Helionar, Glintar). Aucun incident majeur depuis trois générations. |
-| **Torkam** | Échanges minimaux | Pas de frontière commune significative. Quelques caravanes torkamites passent par le Sourd-Bois ; les Ferrathins les laissent passer sans formalités. |
+| **Torkam** | Échanges minimaux | Pas de frontière commune : la mer Cendrée les sépare. Quelques marchands torkamites débarquent au Sourd-Bois ; les Ferrathins les laissent passer sans formalités. |
 | **Gryndor** (Ilthara) | Lien religieux tendu | Le Vael'Kurash gryndori (Décrétiste) considère les Vael'Kari ferrathins comme *« insuffisamment formés »*. Les Vael'Kari ferrathins considèrent les Décrétistes comme *« administratifs »*. Les Cavernes de l'Écoute de Ferrath sont, malgré ce désaccord, le lieu d'initiation reconnu par les deux courants — ce qui est un compromis muet. |
 
 ---

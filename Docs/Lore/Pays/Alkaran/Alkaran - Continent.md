@@ -13,7 +13,7 @@ needs_review_for: []
 |---|---|
 | **Type** | Continent de contrastes — volcanique au sud-ouest, glacial au nord-est, montagneux au centre |
 | **Climat** | Froid à très froid ; hivers de 5 à 9 mois ; dérive plus tempérée vers la côte sud-ouest |
-| **Nations** | 5 ([[Altram]], [[Iskara]], [[Ferrath]], [[Torkam]], [[Myrtam]]) |
+| **Nations** | 3 ([[Altram]], [[Torkam]], [[Myrtam]]) ; outre-mer, de même lignée, sur la côte nord d'Endora : [[Iskara]], [[Ferrath]] |
 | **Trait commun** | Relation viscérale aux forces primaires (feu, pierre, vent, âmes) ; religions intenses et physiques ; magie non disciplinaire |
 | **Métiers sacrés** | Altram forge · Iskara taille la pierre · Ferrath descend (mine) · Torkam veille (écoute) |
 
@@ -30,18 +30,18 @@ Faits structurants :
 
 - **Sud-ouest volcanique** : plaines de lave figée, coulées scoriacées, coulées récentes marquant les routes. Forges naturelles uniques (chaleur résiduelle exploitée pour cuisson, chauffage, trempe). Mont Saurthen — dernière éruption mineure il y a deux siècles ; dit *« respirer »* à nouveau.
 - **Nord-est glacial** : hauts plateaux balayés par les vents polaires, taïga rabougrie, lacs gelés 8 mois sur 12. Nomades chamanes de Torkam (sud) ; éleveurs de rennes des frontières d'Ulinor (nord, hors continent).
-- **Sud-est continental** : vallées encaissées, gorges, défilés. Sédentaires d'Altram, d'Iskara et de Ferrath — nations de pierre, de fer, de mine. Pierre *ancienne* au sens géologique kharaziri : antérieure aux Souffles cycliques connus, parfois aux premiers chants liturgiques.
+- **Sud-est continental** : vallées encaissées, gorges, défilés. Sédentaires d'Altram — et, de l'autre côté de la mer Cendrée, d'Iskara et de Ferrath — nations de pierre, de fer, de mine. Pierre *ancienne* au sens géologique kharaziri : antérieure aux Souffles cycliques connus, parfois aux premiers chants liturgiques.
 - **Nord-ouest semi-aride** : plateaux de grès rouge, oasis rares, tempêtes de sable durant une saison entière. Tribus du désert de Torkam.
 - **Massif des Cendres Rouges** (extrême sud-est, face à Onara) : chaîne volcanique active, ancrage de [[Myrtam]]. Pics enneigés à plus de quatre mille toises, vallées encaissées, failles incandescentes. Hivers de six mois ; forges actives douze mois.
 
 **Hydrographie :**
-- **La Vorne** — rivière noire ; descend des massifs centraux d'Altram, traverse Ferrath, se jette dans la mer Cendrée à hauteur d'Iskara.
-- **Lac de Vyrn** — plan d'eau intérieur à cheval entre Altram et Ferrath ; niveau en baisse (~une coudée par génération de mémoire de pêcheurs) ; fait que les chroniqueurs de Trelios refusent de laisser inscrire.
+- **La Vorne** (outre-mer, sur la côte nord d'Endora) — rivière noire ; descend des hauts massifs de Ferrath et se jette dans la mer Cendrée à hauteur d'Iskara, face à Alkaran.
+- **Lac de Vyrn** (outre-mer, sur la côte nord d'Endora) — plan d'eau intérieur à cheval entre Ferrath et Iskara ; niveau en baisse (~une coudée par génération de mémoire de pêcheurs) ; fait que les chroniqueurs de Glintaris refusent de laisser inscrire.
 - **Sources de la Pierre-qui-Pleure** — dispersées dans les hauts massifs ; lieux Vael'Kari de pèlerinage.
 - **Lac Forgé** — bassin volcanique de Myrtam, eaux noires et chaudes, pêche maigre mais constante.
 - Plusieurs sources jadis vives devenues sèches en deux ou trois générations ; le clergé Vael'Kurash parle de *« retraits »*.
 
-**Biomes :** taïga froide (Torkam nord, marges septentrionales d'Altram) · désert semi-aride (Torkam ouest et sud-ouest) · forêt de conifères de moyenne altitude (Altram, frontières d'Iskara) · steppe de pierre noire (centre d'Altram, Ferrath) · prairie volcanique (sud-ouest) · montagnes volcaniques (Myrtam) · littoral tempéré-froid (côte nord d'Altram, côte est d'Iskara). Dans certaines régions, un jour de cheval suffit à passer d'un biome à l'autre.
+**Biomes :** taïga froide (Torkam nord, marges septentrionales d'Altram) · désert semi-aride (Torkam ouest et sud-ouest) · forêt de conifères de moyenne altitude (Altram) · steppe de pierre noire (centre d'Altram) · prairie volcanique (sud-ouest) · montagnes volcaniques (Myrtam) · littoral tempéré-froid (côte nord d'Altram). Dans certaines régions, un jour de cheval suffit à passer d'un biome à l'autre.
 
 **Climat :** froid à très froid, plus tempéré vers la côte sud-ouest. Hivers de 5 à 9 mois selon l'altitude. Les anciens des Cavernes de l'Écoute notent des hivers *« allongés sans s'étendre »* (saisons intermédiaires raccourcies, froids extrêmes stables) — controverse interne au clergé Vael'Kari.
 
@@ -84,13 +84,13 @@ Proverbes locaux (faits culturels attestés) :
 | Pays | Identité |
 |------|----------|
 | [[Altram]] | Royaume de la forge et de la lignée — monarchie éclairée encadrée par les Maîtres-Artisans |
-| [[Iskara]] | Vallées-forteresses, monarchie militaire, doctrine purement défensive |
-| [[Ferrath]] | Profondeurs minières et hauts massifs, République des Profondeurs, religion des veilleurs |
+| [[Iskara]] (outre-mer, côte nord d'Endora) | Vallées-forteresses, monarchie militaire, doctrine purement défensive |
+| [[Ferrath]] (outre-mer, côte nord d'Endora) | Profondeurs minières et hauts massifs, République des Profondeurs, religion des veilleurs |
 | [[Torkam]] | Plateaux semi-arides, théocratie tribale, Pacte des Âmes et écoute des esprits du désert |
 | [[Myrtam]] | Monarchie industrielle des forges légendaires, Acier Éternel, mineurs et cristalliers ; face à Onara, dont elle nourrit les marchés d'acier |
 
 > [!info] Note V3.4 — nations à cheval
-> La base canonique Access rattache à l'origine **Iskara** au continent Endora ; **Myrtam** et **Skaldoria** à Alkaran. La refonte V3.4 a relocalisé Iskara → Alkaran et Skaldoria → Ulinor. Elle avait aussi déplacé Myrtam vers Onara : les Chroniques (C/9-10, « Alkaran — Haliandris et Ardentris, en Myrtam ») et la carte le laissent en Alkaran, au sud-est, face à Onara.
+> La base canonique Access rattache à l'origine **Iskara** au continent Endora ; **Myrtam** et **Skaldoria** à Alkaran. La refonte V3.4 avait relocalisé Iskara → Alkaran et Skaldoria → Ulinor ; le 12 octobre 2026 (D49), la carte faisant foi, Iskara et Ferrath sont rendues à la côte nord d'Endora et Skaldoria à ses îles, entre Endora et Alkaran (Skaldris au large d'Alkaran). Elle avait aussi déplacé Myrtam vers Onara : les Chroniques (C/9-10, « Alkaran — Haliandris et Ardentris, en Myrtam ») et la carte le laissent en Alkaran, au sud-est, face à Onara.
 
 ---
 
@@ -98,16 +98,16 @@ Proverbes locaux (faits culturels attestés) :
 
 Trois routes structurent les échanges ; aucune n'est garantie par un cadre supranational.
 
-- **Route de la Vorne** (Trelios → Tanolies → fonds de Ferrath → Glintaris) — route caravanière intérieure suivant la rivière noire. Porte le métal d'Altram vers les arsenaux d'Iskara, le minerai brut de Ferrath vers les forges de Trelios. Trois nations en dépendent ; aucune ne la garantit collectivement. Bandits rares (effet des patrouilles d'Iskara).
+- **Route de la Vorne** (Trelios → Tanolies → la côte, puis la mer Cendrée → embouchure de la Vorne → fonds de Ferrath → Glintaris) — route mi-caravanière, mi-maritime, qui remonte la rivière noire de l'autre côté de la mer. Porte le métal d'Altram vers les arsenaux d'Iskara, le minerai brut de Ferrath vers les forges de Trelios. Trois nations en dépendent ; aucune ne la garantit collectivement. Bandits rares (effet des patrouilles d'Iskara).
 - **Route des Cendres** (Olkanoris → Frosthar → Tanolies → Trelios) — ancienne route nomade, commerce intermittent. Caravanes torkamites : cuir, sel, encens sacré ; marchands d'Altram : fer, outils. Raids saisonniers de la tribu des Lames, tolérés.
-- **Route des Veilleurs** (sentiers Vael'Kari non-cartographiés, reliant les Cavernes de l'Écoute des hauts massifs de Ferrath aux Cavernes du nord d'Altram et aux Sources-Bleues d'Iskara) — route religieuse, ne passe par aucune ville. Inconnue des marchands ; existence niée par les chroniqueurs d'Iskara ; non tracée sur les cartes (*« construire un sentier sur un esprit, c'est lui demander de partir »*).
+- **Route des Veilleurs** (sentiers Vael'Kari non-cartographiés, reliant les Cavernes de l'Écoute des hauts massifs de Ferrath aux Sources-Bleues d'Iskara, sur la côte nord d'Endora, et, par les barques des veilleurs, aux Cavernes du nord d'Altram) — route religieuse, ne passe par aucune ville. Inconnue des marchands ; existence niée par les chroniqueurs d'Iskara ; non tracée sur les cartes (*« construire un sentier sur un esprit, c'est lui demander de partir »*).
 - **Routes maritimes côtières** (Trelios → côte d'Iskara ; Trelios → ports d'Onara) — tenues par des familles d'armateurs altrami ; mainmise qui irrite Iskara depuis trois générations.
 
 **Tensions dominantes :**
 - **Altram / Torkam** — frontière la plus active. Raids de la tribu des Lames sur les villages de Liannor depuis des siècles ; commerce de la tribu des Dunes avec Tanolies presque aussi ancien. Deux relations parallèles jamais synthétisées ; le Conseil des Maîtres de Trelios n'exige pas que les Dunes désavouent les Lames.
 - **Altram / Iskara** — alliance de fait jamais formalisée. Iskara a besoin du fer d'Altram ; Altram, de la stabilité défensive d'Iskara pour ses convois. Tolérance raide.
 - **Ferrath / tous** — nation la moins politique du continent. République des Profondeurs sans alliance formelle ; mineurs vendent à qui paie ; Vael'Kari veillent qui les laisse veiller. Neutralité commerciale lue par fatigue ancienne, non par calcul.
-- **Torkam / Iskara** — tension froide. Iskara tient les passes ; Torkam refuse de les reconnaître. Aucune armée levée depuis trois générations, mais frontières garnies en permanence (*« un siège qui n'a pas trouvé son ennemi »*).
+- **Torkam / Iskara** — tension froide, par-dessus la mer Cendrée. Iskara tient les passes et les mouillages de sa côte ; Torkam refuse de les reconnaître. Aucune armée levée depuis trois générations, mais côtes garnies en permanence (*« un siège qui n'a pas trouvé son ennemi »*).
 - **Tensions internes :**
   - Altram — Conseil des Maîtres contre le prince Brennan (ambition de réarmer par les machines de Mosrack).
   - Iskara — Roi-Maréchal Theron IV, légitimité contestée par une rumeur jamais éteinte.

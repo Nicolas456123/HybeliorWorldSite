@@ -213,7 +213,7 @@ Village de chantiers navals dans une crique abritée de Malrith. Construit des n
 - Particularités : Chantiers navals, Construction de navires ignifuges
 
 ### Mylarin
-Hameau de la côte sud de Malrith ; lieu de retraite spirituelle pour ermites, mystiques et pyromanciens de l'Ignis Aeternum venant méditer face à l'océan. Les grottes de la côte abritent des feux éternels naturels (poches de gaz souterrain brûlant depuis des temps immémoriaux). Jamais fondé : communauté accidentelle d'ermites, sans chef ni règlement, où la nourriture est laissée sans commentaire à l'entrée des grottes.
+Hameau de la côte nord de Malrith ; lieu de retraite spirituelle pour ermites, mystiques et pyromanciens de l'Ignis Aeternum venant méditer face à l'océan. Les grottes de la côte abritent des feux éternels naturels (poches de gaz souterrain brûlant depuis des temps immémoriaux). Jamais fondé : communauté accidentelle d'ermites, sans chef ni règlement, où la nourriture est laissée sans commentaire à l'entrée des grottes.
 - Population : Village
 - Région : Malrith
 - Particularités : Feux éternels naturels, Ermitages sacrés
