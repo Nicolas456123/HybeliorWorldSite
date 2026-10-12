@@ -32,17 +32,17 @@ Repères d'identité par nation :
 ## Géographie
 
 **Reliefs et axes :**
-- **Ouest** — chaînes montagneuses cristallines, plongeant vers l'archipel volcanique de Pyrtara.
+- **Nord (Gryndor)** — chaînes montagneuses cristallines, de la côte de Holvendar vers le sud-est, plongeant vers les volcans de Pyrtara, au nord-est du continent.
 - **Centre** — plaines tempérées, majorité des populations sédentaires : greniers de Sylthara, vallées de Gryndor, hauteurs verdoyantes d'Ackerna.
 - **Sud** — taïga froide autour de la mer intérieure, toundra plus au sud ; au cœur de Warenthor, la forêt géante sous double canopée, que les voyageurs appellent la jungle, et les marécages de Noyrath ; masse végétale presque impénétrable.
 - **Est** — steppes sans fin de Lythar (jusqu'à des terres non cartographiées) ; brumes permanentes de Vytharia formant des frontières naturelles floues.
-- **Nord-est** — montagnes de Drakora, refuge des derniers Dragons d'Aube.
+- **Sud-est** — montagnes de Drakora, refuge des derniers Dragons d'Aube.
 - **Nord** — terres tempérées, forestières et venteuses.
 
 **Hydrographie :**
 - **Lac des Rêves** (cœur du continent) — seule étendue d'eau revendiquée par aucune des huit nations. Vytharia en tire son Voile ; Ackerna y entend ses esprits ; Sylthara règle ses semailles sur les humeurs de son brouillard. Aucune des trois ne le revendique ouvertement ; toutes le traitent comme un voisin qu'on ne contrarie pas.
 
-**Biomes :** montagnes cristallines (ouest) · archipel volcanique (Pyrtara) · plaines tempérées centrales (Sylthara, Gryndor, Ackerna) · taïga (sud, autour de la mer intérieure) et forêt géante sous double canopée (cœur de Warenthor) · toundra (sud) · marécages (Noyrath) · steppes (Lythar) · zones de brume permanente (Vytharia) · montagnes du nord-est (Drakora).
+**Biomes :** montagnes cristallines (nord, Gryndor) · archipel volcanique (Pyrtara, nord-est) · plaines tempérées centrales (Sylthara, Gryndor, Ackerna) · taïga (sud, autour de la mer intérieure) et forêt géante sous double canopée (cœur de Warenthor) · toundra (sud) · marécages (Noyrath) · steppes (Lythar) · zones de brume permanente (Vytharia) · montagnes du sud-est (Drakora).
 
 **Climat :** du nord tempéré, forestier et venteux, au sud froid : taïga autour de la mer intérieure, toundra et terres brûlées de Drakora au sud-est ; plaines centrales tempérées. Le sol dément la latitude par endroits : vallée tiède de Brevana entre ses volcans, sous-bois moite du cœur de Warenthor, bassins de brouillard de Vytharia.
 
