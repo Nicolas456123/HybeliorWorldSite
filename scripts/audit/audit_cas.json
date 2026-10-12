@@ -2855,22 +2855,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0014",
-   "nom": "Lithanel",
-   "echelle": "cite",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (cite) absente du jeu ; parent positionné : Altram",
-   "fiche": "Alkaran",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0016",
    "nom": "Orivanel",
    "echelle": "cite",
@@ -3450,22 +3434,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0083",
-   "nom": "Caelum Prima",
-   "echelle": "cite",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (cite) absente du jeu ; parent positionné : Astravia",
-   "fiche": "Celethor",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0084",
    "nom": "Frostheim",
    "echelle": "bourg",
@@ -3871,22 +3839,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0172",
-   "nom": "Selvaris",
-   "echelle": "ville",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (ville) absente du jeu ; parent positionné : Ferrath",
-   "fiche": "Endora",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0174",
    "nom": "Selthar",
    "echelle": "ville",
@@ -4152,22 +4104,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0198",
-   "nom": "Brisborg",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
-   "fiche": "Azoria",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0199",
    "nom": "Hjormvik",
    "echelle": "bourg",
@@ -4243,22 +4179,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0204",
-   "nom": "Kethmar",
-   "echelle": "ville",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (ville) absente du jeu",
-   "fiche": "Azoria",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0205",
    "nom": "Tresk",
    "echelle": "bourg",
@@ -4289,22 +4209,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0207",
-   "nom": "Korven",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
-   "fiche": "Azoria",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0208",
    "nom": "Drask",
    "echelle": "bourg",
@@ -4312,22 +4216,6 @@
    "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0209",
-   "nom": "Ethvar",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
-   "fiche": "Azoria",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4396,6 +4284,21 @@
   },
   {
    "ctrl": "D1",
+   "id": "lie-0214",
+   "nom": "Velmaris",
+   "echelle": "bourg",
+   "gravite": 2,
+   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
+   "fiche": "Azoria",
+   "continent_carte": "(non localisé)",
+   "livres": {
+    "ancres": [],
+    "chapitres_nommant": [],
+    "phrases_spatiales": []
+   }
+  },
+  {
+   "ctrl": "D1",
    "id": "lie-0215",
    "nom": "Krasvar",
    "echelle": "bourg",
@@ -4426,22 +4329,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0217",
-   "nom": "Astralis-Bas",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
-   "fiche": "Azoria",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0218",
    "nom": "Krasmar",
    "echelle": "bourg",
@@ -4457,22 +4344,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0219",
-   "nom": "Solnir-Vyk",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
-   "fiche": "Azoria",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0220",
    "nom": "Velmaris-Haut",
    "echelle": "bourg",
@@ -4480,22 +4351,6 @@
    "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0221",
-   "nom": "Astralis-Marin",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
-   "fiche": "Azoria",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5004,22 +4859,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0306",
-   "nom": "Soltarin",
-   "echelle": "cite",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (cite) absente du jeu ; parent positionné : Sanvara",
-   "fiche": "Endora",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0307",
    "nom": "Murahal",
    "echelle": "cite",
@@ -5057,38 +4896,6 @@
    "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (cite) absente du jeu ; parent positionné : Sanvara",
    "fiche": "Endora",
    "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0310",
-   "nom": "Tarvanis",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Sanvara",
-   "fiche": "Endora",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0311",
-   "nom": "Amerith",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Sanvara",
-   "fiche": "Endora",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5437,22 +5244,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0337",
-   "nom": "Créciel",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
-   "fiche": "Evertia",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0338",
    "nom": "Orévandis",
    "echelle": "ville",
@@ -5573,22 +5364,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0346",
-   "nom": "Coralvine",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
-   "fiche": "Evertia",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0347",
    "nom": "Brumalith",
    "echelle": "bourg",
@@ -5596,22 +5371,6 @@
    "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
    "fiche": "Evertia",
    "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0348",
-   "nom": "Pyracine",
-   "echelle": "hameau",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (hameau) absente du jeu",
-   "fiche": "Cendara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5887,22 +5646,6 @@
   },
   {
    "ctrl": "D1",
-   "id": "lie-0591",
-   "nom": "Tholmë-en-haut",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mirathi",
-   "fiche": "Ilthara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
    "id": "lie-0592",
    "nom": "Vrenith",
    "echelle": "bourg",
@@ -5910,38 +5653,6 @@
    "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mirathi",
    "fiche": "Ilthara",
    "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0593",
-   "nom": "Échelle-de-Vrenith",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mirathi",
-   "fiche": "Ilthara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0594",
-   "nom": "Sondaris",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
-   "fiche": "Ilthara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5982,102 +5693,6 @@
    "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
    "fiche": "Ilthara",
    "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0598",
-   "nom": "Frostmar",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
-   "fiche": "Onara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0599",
-   "nom": "Kelthor",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
-   "fiche": "Onara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0600",
-   "nom": "Thrymar",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
-   "fiche": "Onara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0601",
-   "nom": "Vorneth",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
-   "fiche": "Onara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0602",
-   "nom": "Dyrnathor",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
-   "fiche": "Onara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0603",
-   "nom": "Myrklor",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
-   "fiche": "Onara",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -6193,22 +5808,6 @@
    "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Tyndara",
    "fiche": "Onara",
    "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0617",
-   "nom": "Jentaris",
-   "echelle": "cite",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (cite) absente du jeu",
-   "fiche": "Ulinor",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -6554,22 +6153,6 @@
    "detail": "ni coord_x/y ni position_estimee dans la fiche ; parent positionné : Les Montagnes d'Alkaran",
    "fiche": "Alkaran",
    "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1",
-   "id": "lie-0969",
-   "nom": "Velmaris (Seraphia)",
-   "echelle": "bourg",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Seraphia",
-   "fiche": "Galenor",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
   },
   {
    "ctrl": "D1",
@@ -6983,454 +6566,6 @@
    "continent_carte": "(non localisé)"
   },
   {
-   "ctrl": "D1",
-   "id": "lie-1073",
-   "nom": "Kryndor (Kryostra)",
-   "echelle": "ville",
-   "gravite": 1,
-   "detail": "position présente mais non exportée — agglomération (ville) absente du jeu ; parent positionné : Elarian",
-   "fiche": "Celethor",
-   "continent_carte": "(non localisé)",
-   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   }
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0072",
-   "nom": "Porte de Fer (défilé d’Iskara)",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0116",
-   "nom": "Glintaris",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0117",
-   "nom": "Valyria",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0118",
-   "nom": "Myrilith",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0119",
-   "nom": "Kalvorn",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0120",
-   "nom": "Zyndaris",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0121",
-   "nom": "Feldoris",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0122",
-   "nom": "Lusharis",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0123",
-   "nom": "Valryn",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0124",
-   "nom": "Galdar",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0125",
-   "nom": "Mytharis",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0126",
-   "nom": "Zarathor",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0127",
-   "nom": "Falron",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0128",
-   "nom": "Helionis",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0129",
-   "nom": "Galornis",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0130",
-   "nom": "Kaeloria",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0131",
-   "nom": "Taldaris",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0132",
-   "nom": "Zelrith",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0133",
-   "nom": "Galathor",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0134",
-   "nom": "Morvalis",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0135",
-   "nom": "Ysolith",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0136",
-   "nom": "Zyndrel",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0173",
-   "nom": "Volnir",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0349",
-   "nom": "Azuralis",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0350",
-   "nom": "Zylar",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0351",
-   "nom": "Nalmir",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0352",
-   "nom": "Ostaris",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0353",
-   "nom": "Rylthos",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0355",
-   "nom": "Ostarith",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0356",
-   "nom": "Galdaris",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0357",
-   "nom": "Azuralith",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0358",
-   "nom": "Valornis",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0359",
-   "nom": "Galrinor",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0360",
-   "nom": "Zylarith",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0361",
-   "nom": "Nalmiris",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0362",
-   "nom": "Myrdoris",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0363",
-   "nom": "Elarinor",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0364",
-   "nom": "Velrith",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0365",
-   "nom": "Faloria",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0366",
-   "nom": "Rylthoris",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0367",
-   "nom": "Thaloria",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0368",
-   "nom": "Galdaroth",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0369",
-   "nom": "Zyldoris",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0370",
-   "nom": "Nythoria",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0371",
-   "nom": "Valorin",
-   "gravite": 2,
-   "detail": "continent gazetteer Evertia ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0782",
-   "nom": "Skaldris",
-   "gravite": 2,
-   "detail": "continent gazetteer Ulinor ≠ fiche actuelle Alkaran/Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0783",
-   "nom": "Sylthor",
-   "gravite": 2,
-   "detail": "continent gazetteer Ulinor ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0784",
-   "nom": "Vyndar",
-   "gravite": 2,
-   "detail": "continent gazetteer Ulinor ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0912",
-   "nom": "Skaldoria",
-   "gravite": 2,
-   "detail": "continent gazetteer Ulinor ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0913",
-   "nom": "Lushara",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0914",
-   "nom": "Helionar",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0915",
-   "nom": "Ysolia",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-0916",
-   "nom": "Glintar",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
-   "ctrl": "D1b",
-   "id": "lie-1019",
-   "nom": "Verthal",
-   "gravite": 2,
-   "detail": "continent gazetteer Alkaran ≠ fiche actuelle Endora (gazetteer périmé ?)",
-   "continent_carte": "(non localisé)"
-  },
-  {
    "ctrl": "D1b",
    "id": "lie-0693-port",
    "nom": "marine de Nectoria",
@@ -7469,17 +6604,17 @@
  ],
  "stats_d": {
   "D1_par_echelle": {
-   "cite": 22,
+   "cite": 18,
    "lieu-dit": 69,
    "region": 36,
-   "ville": 29,
-   "bourg": 115,
-   "hameau": 16,
+   "ville": 26,
+   "bourg": 96,
+   "hameau": 15,
    "ruine": 3,
    "(aucune)": 21,
    "monde": 1
   },
-  "D1_total": 312,
+  "D1_total": 285,
   "D2_km2_vide_par_masse": {
    "Celethor": 860.9515999999999,
    "Onara": 4085.8719999999994,

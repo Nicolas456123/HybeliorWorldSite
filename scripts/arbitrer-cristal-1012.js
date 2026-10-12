@@ -27,6 +27,7 @@
  * coord_x/y ne sont jamais touchées. Chaque retouche est tracée dans
  * data.raccord ; les retouches de corps sont reportées dans les miroirs Docs.
  * Idempotent, sans reseed. Usage : node scripts/arbitrer-cristal-1012.js [--essai]
+ * Garde de réexécution : une valeur n'est remplacée que si elle est celle d'avant l'arbitrage ou absente ; sinon signalée et sautée.
  */
 'use strict';
 const fs = require('fs');
@@ -82,6 +83,10 @@ function miroir(avant, apres) {
 /* ── retouches tracées ── */
 const journal = [];
 const ecrits = [];
+/* Garde de réexécution (lot 518, relecture) : on ne remplace une valeur que si elle est celle d'avant l'arbitrage
+   (ou absente). Sinon la valeur a été reprise depuis (ex. lie-0173 enrichi par D49) : on la signale et on la laisse. */
+const sautes = [];
+function sauter(id, nom, champ, raison) { sautes.push(`${id} ${nom} · ${champ} : ${raison}`); }
 function trace(e, champ, avant, pourquoi) {
   e.data = e.data || {};
   e.data.raccord = e.data.raccord || [];
@@ -93,7 +98,7 @@ function retouche(id, champ, avant, apres, pourquoi, avantDocs) {
   const t = e[champ] || '';
   ecrits.push([id, apres]);
   if (t.includes(apres)) return false;
-  if (!t.includes(avant)) echec(`${id} (${e.name}) : texte introuvable dans ${champ} : « ${avant.slice(0, 80)}… »`);
+  if (!t.includes(avant)) { sauter(id, e.name, champ, `texte attendu introuvable (déjà modifié depuis ?) : « ${avant.slice(0, 80)}… »`); return false; }
   e[champ] = t.split(avant).join(apres);
   trace(e, champ, avant, pourquoi);
   let m = 0;
@@ -111,7 +116,7 @@ function ajouter(id, texte, pourquoi) {
   journal.push(`${id} ${e.name} · body (ajout)`);
   return true;
 }
-function poserData(id, chemin, valeur, pourquoi) {
+function poserData(id, chemin, valeur, pourquoi, attendus = []) {
   const e = ent(id);
   e.data = e.data || {};
   const parts = chemin.split('.');
@@ -120,6 +125,10 @@ function poserData(id, chemin, valeur, pourquoi) {
   const k = parts[parts.length - 1];
   ecrits.push([id, JSON.stringify(valeur)]);
   if (JSON.stringify(o[k]) === JSON.stringify(valeur)) return false;
+  if (o[k] !== undefined && !attendus.some((a) => JSON.stringify(a) === JSON.stringify(o[k]))) {
+    sauter(id, e.name, 'data.' + chemin, "valeur actuelle différente de celle d'avant l'arbitrage, laissée telle quelle : " + JSON.stringify(o[k]).slice(0, 120));
+    return false;
+  }
   const avant = o[k] === undefined ? '(absent)' : JSON.stringify(o[k]);
   o[k] = valeur;
   trace(e, 'data.' + chemin, avant, pourquoi);
@@ -270,6 +279,7 @@ if (rapport.counts.erreur) {
   echec(`${rapport.counts.erreur} erreur(s) de cohérence`);
 }
 console.log(`✓ retouches (${journal.length}) :`); journal.forEach((j) => console.log('   ' + j));
+if (sautes.length) { console.log(`⚠ retouches sautées et signalées (${sautes.length}) :`); sautes.forEach((x) => console.log('   ' + x)); }
 console.log(`✓ fiches Docs touchées : ${[...docsTouches].map((p) => path.relative(ROOT, p)).join(', ') || 'aucune'}`);
 console.log(`  cohérence : ${rapport.counts.erreur} erreur, ${rapport.counts.avert} avert., ${rapport.counts.info} info`);
 if (ESSAI) { console.log('(essai : rien n\'est écrit)'); process.exit(0); }
