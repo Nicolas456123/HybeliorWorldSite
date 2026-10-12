@@ -42,8 +42,8 @@ for (const jeu of doc.jeux) {
   if (tag !== 'actuel' && eaux.length) ko(`[${tag}] les cartes d'ères ne portent pas d'eau`);
 }
 const actuel = doc.jeux.find((j) => j.era_id === null);
-const iles = actuel.masses.filter((m) => m.niveau === 'continent' && Math.abs(m.aire - 104) <= 2 && Math.abs(m.points.reduce((s, p) => s + p[0], 0) / m.points.length + 218) < 6);
-if (iles.length !== 1) ko('île de la mer intérieure d\'Ilthara (≈104 u²) introuvable');
+const iles = actuel.masses.filter((m) => m.niveau === 'continent' && Math.abs(m.aire - 111) <= 2 && Math.abs(m.points.reduce((s, p) => s + p[0], 0) / m.points.length + 218) < 6);
+if (iles.length !== 1) ko('île de la mer intérieure d\'Ilthara (≈111 u², côte relevée le 2026-10-12) introuvable');
 const mer = actuel.masses.filter((m) => m.niveau === 'eau' && m.type === 'mer-interieure');
 if (mer.length !== 1) ko('mer intérieure d\'Ilthara absente');
 else if (!dedans([iles[0] ? iles[0].points[0][0] : 0, iles[0] ? iles[0].points[0][1] : 0], mer[0].points)) ko('l\'île ne tombe pas dans la mer intérieure (anneau mal recalé)');

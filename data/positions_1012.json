@@ -1,5 +1,5 @@
 {
- "_note": "Positions estimées des agglomérations sans position (audit 1012, contrôle D1 ; décision D49 « la carte fait foi » ; demande Studio de8d6b3a6). Lues sur la carte peinte de l'auteur (pictogrammes, HybeliorFull/HybeliorMap_files) ou déduites des fiches. position_estimee null = cas impossible (justification). Appliquées par scripts/appliquer-positions-1012.js dans data.carte.position_estimee ; jamais coord_x/y.",
+ "_note": "Positions estimées des agglomérations sans position (audit 1012, contrôle D1 ; décision D49 « la carte fait foi » ; demande Studio de8d6b3a6). Lues sur la carte peinte de l'auteur (pictogrammes, HybeliorFull/HybeliorMap_files) ou déduites des fiches. position_estimee null = cas impossible (justification). Appliquées par scripts/appliquer-positions-1012.js dans data.carte.position_estimee ; jamais coord_x/y. Décision de l'auteur après D52 (« applique les 28 ») : seules les positions par pictogramme et de confiance moyenne ou haute sont appliquées (--sures) ; statut par lieu.",
  "date": "2026-10-12",
  "positions": [
   {
@@ -12,7 +12,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Alkaran",
-   "justification": "Capitale ancienne dont le noyau réduit est devenu Altram : même site que le marqueur Altram (166.9,-218.2), plaine sans pictogramme. La ville d'Altram n'est pas posée ; à repositionner avec elle."
+   "justification": "Capitale ancienne dont le noyau réduit est devenu Altram : même site que le marqueur Altram (166.9,-218.2), plaine sans pictogramme. La ville d'Altram n'est pas posée ; à repositionner avec elle.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0644",
@@ -24,7 +25,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Alkaran",
-   "justification": "Cité volante tombée à l'An 0 près de Lithanel (Fosses/cratère de Lithane, traditions altramites) : hauteurs voisines au nord-est, pied du massif de Traum. Lieu de chute exact inconnu."
+   "justification": "Cité volante tombée à l'An 0 près de Lithanel (Fosses/cratère de Lithane, traditions altramites) : hauteurs voisines au nord-est, pied du massif de Traum. Lieu de chute exact inconnu.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0154",
@@ -36,7 +38,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Alkaran",
-   "justification": "Cuvette de grès rouge de Torkam, région Olkanir, désert : entre Olkanoris/Olkanir et le lac de Galdrin, zone ocre. Aucun pictogramme libre (la cité dômée à 159.5,-157 appartient à Olkanoris). Lieu, non ville."
+   "justification": "Cuvette de grès rouge de Torkam, région Olkanir, désert : entre Olkanoris/Olkanir et le lac de Galdrin, zone ocre. Aucun pictogramme libre (la cité dômée à 159.5,-157 appartient à Olkanoris). Lieu, non ville.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0089",
@@ -48,7 +51,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Localité d'Endora (le continent) sans autre indice : proche d'Endora (203,62.7), côté ouest, pas de pictogramme libre."
+   "justification": "Localité d'Endora (le continent) sans autre indice : proche d'Endora (203,62.7), côté ouest, pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0169",
@@ -60,7 +64,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Vorra, centre de Ferrath (marqueur 229,17), bâtie sur plusieurs niveaux dans les crêtes : chaîne centrale au sud du marqueur. Aucun pictogramme libre dans la zone Ferrath."
+   "justification": "Vorra, centre de Ferrath (marqueur 229,17), bâtie sur plusieurs niveaux dans les crêtes : chaîne centrale au sud du marqueur. Aucun pictogramme libre dans la zone Ferrath.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0170",
@@ -72,7 +77,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Profonds = mines : massif de Myrilith au sud de Ferrath, ancienne mine de cuivre. Pas de pictogramme libre."
+   "justification": "Profonds = mines : massif de Myrilith au sud de Ferrath, ancienne mine de cuivre. Pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0171",
@@ -84,7 +90,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Profonds (plomb, étain), mines profondes : flanc sud du massif de Myrilith, à l'écart de Goren-Bas. Pas de pictogramme."
+   "justification": "Profonds (plomb, étain), mines profondes : flanc sud du massif de Myrilith, à l'écart de Goren-Bas. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0172",
@@ -96,7 +103,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Endora",
-   "justification": "Ville lacustre partagée : seul lac peint de la zone Ferrath–Iskara ; rive est, en face du grand pictogramme fortifié de la rive ouest, qui est celui de Glintaris (capitale d'Iskara, croix à 6 u : écart de relevé). La fiche disait Altram, impossible depuis D49."
+   "justification": "Ville lacustre partagée : seul lac peint de la zone Ferrath–Iskara ; rive est, en face du grand pictogramme fortifié de la rive ouest, qui est celui de Glintaris (capitale d'Iskara, croix à 6 u : écart de relevé). La fiche disait Altram, impossible depuis D49.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0174",
@@ -108,7 +116,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Bourg fortifié de la frontière Ferrath-Iskara (Hautes-Pierres) : crêtes entre Feldoris (Iskara) et Volnir, à l'ouest de Ferrath. Pas de pictogramme."
+   "justification": "Bourg fortifié de la frontière Ferrath-Iskara (Hautes-Pierres) : crêtes entre Feldoris (Iskara) et Volnir, à l'ouest de Ferrath. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0175",
@@ -120,7 +129,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Hautes-Pierres, massifs nord de Ferrath près de Volnir. Les 3 jours de marche vers Mara-Vieille (~80 u) ne tiennent pas dans la nation : écart réduit (~35 u). Pas de pictogramme."
+   "justification": "Hautes-Pierres, massifs nord de Ferrath près de Volnir. Les 3 jours de marche vers Mara-Vieille (~80 u) ne tiennent pas dans la nation : écart réduit (~35 u). Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0176",
@@ -132,7 +142,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Fondeurs des Profonds : piémont des crêtes entre Verthal et Myrilith. Pas de pictogramme."
+   "justification": "Fondeurs des Profonds : piémont des crêtes entre Verthal et Myrilith. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0177",
@@ -144,7 +155,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Sourd-Bois, lisière extrême de Ferrath : pâturages à l'est, sous la crête de Nalmir. Choix par défaut de la lisière ; pas de pictogramme."
+   "justification": "Sourd-Bois, lisière extrême de Ferrath : pâturages à l'est, sous la crête de Nalmir. Choix par défaut de la lisière ; pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0178",
@@ -156,7 +168,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Confluent de la Vorne en Vorra, entrepôt : plaine à l'ouest des crêtes, vers Glintaris (la Route de la Vorne y finit). Aucun cours d'eau peint ; pas de pictogramme."
+   "justification": "Confluent de la Vorne en Vorra, entrepôt : plaine à l'ouest des crêtes, vers Glintaris (la Route de la Vorne y finit). Aucun cours d'eau peint ; pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0179",
@@ -168,7 +181,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Sourd-Bois (lisière), bourg de bronze archaïque : près de Mara-Vieille, sous la crête est de Ferrath. Pas de pictogramme."
+   "justification": "Sourd-Bois (lisière), bourg de bronze archaïque : près de Mara-Vieille, sous la crête est de Ferrath. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0303",
@@ -180,7 +194,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "La fiche dit Endora, mais Haldria/Uldora sont sur Ilthara. Cap côtier le plus proche d'Uldora (-288.6,166.1) : petit promontoire de la côte ouest. Doute : le cap peut être ailleurs (haldria-d47)."
+   "justification": "La fiche dit Endora, mais Haldria/Uldora sont sur Ilthara. Cap côtier le plus proche d'Uldora (-288.6,166.1) : petit promontoire de la côte ouest. Doute : le cap peut être ailleurs (haldria-d47).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0304",
@@ -192,7 +207,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail de l'Ouest, entrée depuis Avalor : relais à l'ouest de Soltarin, route Andivar-Soltarin. Pas de pictogramme libre."
+   "justification": "Caravansérail de l'Ouest, entrée depuis Avalor : relais à l'ouest de Soltarin, route Andivar-Soltarin. Pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0305",
@@ -204,7 +220,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Oasis du désert nord-occidental de Sanvara : zone claire (désert) sous la crête 51-53, au nord-ouest du marqueur. Pas de pictogramme."
+   "justification": "Oasis du désert nord-occidental de Sanvara : zone claire (désert) sous la crête 51-53, au nord-ouest du marqueur. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0306",
@@ -216,7 +233,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Endora",
-   "justification": "Central, croisement des routes : trouée entre les crêtes nord (Zylar-Sarandel) et sud, juste au nord-ouest du marqueur Sanvara. Pas de pictogramme."
+   "justification": "Central, croisement des routes : trouée entre les crêtes nord (Zylar-Sarandel) et sud, juste au nord-ouest du marqueur Sanvara. Pas de pictogramme.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0307",
@@ -228,7 +246,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Est de Sanvara, porte vers la jungle d'Esperia (non posée) : bord est de la plaine, près de la côte du golfe. Pas de pictogramme."
+   "justification": "Est de Sanvara, porte vers la jungle d'Esperia (non posée) : bord est de la plaine, près de la côte du golfe. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0308",
@@ -240,7 +259,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Sud de Sanvara, relais vers le port voisin non confédéral (Zyldrin) : au nord de la côte sud, près de la rivière. Pas de pictogramme."
+   "justification": "Sud de Sanvara, relais vers le port voisin non confédéral (Zyldrin) : au nord de la côte sud, près de la rivière. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0309",
@@ -252,7 +272,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail savant : intérieur sûr, au sud des crêtes de Velthorn, route nord-sud Soltarin-Yaderis. Pas de pictogramme."
+   "justification": "Caravansérail savant : intérieur sûr, au sud des crêtes de Velthorn, route nord-sud Soltarin-Yaderis. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0310",
@@ -264,7 +285,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Endora",
-   "justification": "Croisement des routes Andivar-Soltarin : à mi-chemin sur la plaine, sous le massif de Galrinor. Pas de pictogramme."
+   "justification": "Croisement des routes Andivar-Soltarin : à mi-chemin sur la plaine, sous le massif de Galrinor. Pas de pictogramme.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0311",
@@ -276,7 +298,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Endora",
-   "justification": "Premier relais après Soltarin sur la route de Murahal (est) : plaine à l'est de Soltarin. Pas de pictogramme."
+   "justification": "Premier relais après Soltarin sur la route de Murahal (est) : plaine à l'est de Soltarin. Pas de pictogramme.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0312",
@@ -288,7 +311,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Relais nord-ouest, peu fréquenté : sous le lac de Zylarith, au nord-ouest de Sanvara. Pas de pictogramme."
+   "justification": "Relais nord-ouest, peu fréquenté : sous le lac de Zylarith, au nord-ouest de Sanvara. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0313",
@@ -300,7 +324,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Relais frontalier sud, proche du littoral : à l'est de Zyldrin, au sud du lac de Valarion. Pas de pictogramme."
+   "justification": "Relais frontalier sud, proche du littoral : à l'est de Zyldrin, au sud du lac de Valarion. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0314",
@@ -312,7 +337,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Voyageur arrivé par la route ouest : plaine au nord-ouest de Zylar, route vers Khessit. Pas de pictogramme."
+   "justification": "Voyageur arrivé par la route ouest : plaine au nord-ouest de Zylar, route vers Khessit. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0315",
@@ -324,7 +350,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0316",
@@ -336,7 +363,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0317",
@@ -348,7 +376,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0318",
@@ -360,7 +389,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0319",
@@ -372,7 +402,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0320",
@@ -384,7 +415,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0321",
@@ -396,7 +428,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0322",
@@ -408,7 +441,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0323",
@@ -420,7 +454,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0324",
@@ -432,7 +467,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0325",
@@ -444,7 +480,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0326",
@@ -456,7 +493,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0327",
@@ -468,7 +506,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0328",
@@ -480,7 +519,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0329",
@@ -492,7 +532,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0330",
@@ -504,7 +545,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre."
+   "justification": "Caravansérail peu documenté : réparti en confiance basse sur terre, à >= 6 u des autres lieux de Sanvara, le long des routes plausibles. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0619",
@@ -516,7 +558,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Skaldoria",
-   "justification": "Rebord du Grand Fjord : côte nord de l'île principale, sous le marqueur Skaldoria. Fjord non distinct sur la carte ; pas de pictogramme libre."
+   "justification": "Rebord du Grand Fjord : côte nord de l'île principale, sous le marqueur Skaldoria. Fjord non distinct sur la carte ; pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0620",
@@ -528,7 +571,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Skaldoria",
-   "justification": "Falaise du nord au-dessus de la mer du Nord : pointe nord-ouest de l'île. Pas de pictogramme libre."
+   "justification": "Falaise du nord au-dessus de la mer du Nord : pointe nord-ouest de l'île. Pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0621",
@@ -540,7 +584,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Skaldoria",
-   "justification": "Vallée intérieure de bouleaux : centre-sud de l'île, à l'écart de la côte. Pas de pictogramme libre."
+   "justification": "Vallée intérieure de bouleaux : centre-sud de l'île, à l'écart de la côte. Pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0622",
@@ -552,7 +597,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Skaldoria",
-   "justification": "Archipel des Trois Dents non peint : pointe sud de l'île (côte sud), faute de mieux. Doute : îlots à créer ; proche de Vyndar (3.6 u)."
+   "justification": "Archipel des Trois Dents non peint : pointe sud de l'île (côte sud), faute de mieux. Doute : îlots à créer ; proche de Vyndar (3.6 u).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0623",
@@ -564,7 +610,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Skaldoria",
-   "justification": "Vallées orientales, fleuve non peint : lobe est intérieur, côté Sylthor. Pas de pictogramme libre."
+   "justification": "Vallées orientales, fleuve non peint : lobe est intérieur, côté Sylthor. Pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0624",
@@ -576,7 +623,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Skaldoria",
-   "justification": "Mi-chemin entre Sylthor et le plateau central : intérieur du lobe est. Pas de pictogramme libre."
+   "justification": "Mi-chemin entre Sylthor et le plateau central : intérieur du lobe est. Pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0087",
@@ -588,7 +636,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Localité de Caeloria sans indication : placée dans la région Duskoria, entre Vyntheris et Galdrith. Aucun pictogramme libre."
+   "justification": "Localité de Caeloria sans indication : placée dans la région Duskoria, entre Vyntheris et Galdrith. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0088",
@@ -600,7 +649,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Paroisse de Caeloria sans indication : placée à l'est de Silvaris, vers le sud-est de Caeloria. Aucun pictogramme libre."
+   "justification": "Paroisse de Caeloria sans indication : placée à l'est de Silvaris, vers le sud-est de Caeloria. Aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0187",
@@ -612,7 +662,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Capitale d'Azoral, Korvaria, côte sud-ouest autour de la Baie-Mère. Aucune position de nation ; Azoral calé sur le bras ouest d'Azoria (voisin de Caeloria à l'est). Port sur la côte sud, pas de pictogramme libre."
+   "justification": "Capitale d'Azoral, Korvaria, côte sud-ouest autour de la Baie-Mère. Aucune position de nation ; Azoral calé sur le bras ouest d'Azoria (voisin de Caeloria à l'est). Port sur la côte sud, pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0188",
@@ -624,7 +675,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Port de chasse de Velkaria, côte nord-ouest exposée au Léviathan, vers Eltrassa et la mer de Velar. Sur la côte nord du bras ouest ; déduction régionale."
+   "justification": "Port de chasse de Velkaria, côte nord-ouest exposée au Léviathan, vers Eltrassa et la mer de Velar. Sur la côte nord du bras ouest ; déduction régionale.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0189",
@@ -636,7 +688,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Port le plus méridional d'Azoral, frange du No Man's Land : saillie sud du bras ouest, côte sud (1,9 u). Texte seul."
+   "justification": "Port le plus méridional d'Azoral, frange du No Man's Land : saillie sud du bras ouest, côte sud (1,9 u). Texte seul.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0190",
@@ -648,7 +701,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Port des veuves, région Hjorvika à l'ouest : sur la côte ouest, le fin bras occidental d'Azoria. Hjormvik est à mi-chemin vers Velkar."
+   "justification": "Port des veuves, région Hjorvika à l'ouest : sur la côte ouest, le fin bras occidental d'Azoria. Hjormvik est à mi-chemin vers Velkar.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0191",
@@ -660,7 +714,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Bourg intérieur sur un ancien lit glaciaire, plusieurs lieues de la côte (16 u de la côte), centre-ouest du bras ouest d'Azoral."
+   "justification": "Bourg intérieur sur un ancien lit glaciaire, plusieurs lieues de la côte (16 u de la côte), centre-ouest du bras ouest d'Azoral.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0192",
@@ -672,7 +727,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Port le plus septentrional d'Azoral : sur la côte nord du bras ouest (0,5 u), dans la zone la plus au nord de la nation."
+   "justification": "Port le plus septentrional d'Azoral : sur la côte nord du bras ouest (0,5 u), dans la zone la plus au nord de la nation.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0193",
@@ -684,7 +740,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Frontière maritime avec Caeloria, région orientale d'Azoral : côte nord à l'est du bras ouest, côté Caeloria (Vyndoris à 8,7 u)."
+   "justification": "Frontière maritime avec Caeloria, région orientale d'Azoral : côte nord à l'est du bras ouest, côté Caeloria (Vyndoris à 8,7 u).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0194",
@@ -696,7 +753,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Comptoir de chasse de Velkaria, établi par Velkar pour raccourcir la route : sur la côte nord, à l'est de Velkar. Les eaux d'Eltrassa sont en mer ; on pose le comptoir à terre."
+   "justification": "Comptoir de chasse de Velkaria, établi par Velkar pour raccourcir la route : sur la côte nord, à l'est de Velkar. Les eaux d'Eltrassa sont en mer ; on pose le comptoir à terre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0195",
@@ -708,7 +766,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Cordiers des chantiers de Korval (Korvaria) : sur la côte sud, à l'est de Korval (7 u)."
+   "justification": "Cordiers des chantiers de Korval (Korvaria) : sur la côte sud, à l'est de Korval (7 u).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0196",
@@ -720,7 +779,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Maître-pilotes des passes entre la Baie-Mère et les eaux libres (Korvaria) : sur la côte sud-ouest, tout près de Korval."
+   "justification": "Maître-pilotes des passes entre la Baie-Mère et les eaux libres (Korvaria) : sur la côte sud-ouest, tout près de Korval.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0197",
@@ -732,7 +792,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Salines glaciaires de Tamarvika (région orientale d'Azoral) : sur le littoral nord, à l'ouest de Tamarvik."
+   "justification": "Salines glaciaires de Tamarvika (région orientale d'Azoral) : sur le littoral nord, à l'ouest de Tamarvik.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0198",
@@ -744,7 +805,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Azoria",
-   "justification": "Port mineur accolé à Brisivar (1,2 u), côte sud, même saillie ; position de Brisivar elle-même estimée."
+   "justification": "Port mineur accolé à Brisivar (1,2 u), côte sud, même saillie ; position de Brisivar elle-même estimée.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0199",
@@ -756,7 +818,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Hameau de la côte ouest à mi-chemin entre Hjorvik et Velkar : posé au milieu du bras ouest entre les deux."
+   "justification": "Hameau de la côte ouest à mi-chemin entre Hjorvik et Velkar : posé au milieu du bras ouest entre les deux.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0200",
@@ -768,7 +831,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Avant-poste sur la frontière nord de Skraalia : côte nord au-delà de Skraal, à l'est (9 u)."
+   "justification": "Avant-poste sur la frontière nord de Skraalia : côte nord au-delà de Skraal, à l'est (9 u).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0201",
@@ -780,7 +844,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Cité-mère de Kethvar en falaise de schiste, plateau de Kethdaria. Kethvar calé dans le centre-est d'Azoria, au sud de Caeloria. Aucun pictogramme libre ; point intérieur, à ajuster."
+   "justification": "Cité-mère de Kethvar en falaise de schiste, plateau de Kethdaria. Kethvar calé dans le centre-est d'Azoria, au sud de Caeloria. Aucun pictogramme libre ; point intérieur, à ajuster.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0202",
@@ -792,7 +857,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Vallée du Vrask, région orientale de Kethvar : bras est d'Azoria, intérieur, entre Kethdar et Tarnora."
+   "justification": "Vallée du Vrask, région orientale de Kethvar : bras est d'Azoria, intérieur, entre Kethdar et Tarnora.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0203",
@@ -804,7 +870,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Cité minière du plateau nord de Kethvar (Skarvaria) : nord du bras est, côte à 8,7 u."
+   "justification": "Cité minière du plateau nord de Kethvar (Skarvaria) : nord du bras est, côte à 8,7 u.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0204",
@@ -816,7 +883,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Azoria",
-   "justification": "Port de Kethmaria, façade littorale sud de Kethvar : côte sud du centre d'Azoria (1,4 u), face à Solmaris."
+   "justification": "Port de Kethmaria, façade littorale sud de Kethvar : côte sud du centre d'Azoria (1,4 u), face à Solmaris.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0205",
@@ -828,7 +896,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Bourg de Treskvaria, région ouest de Kethvar frontalière d'Azoral : ouest du centre-sud, face à Eldorath côté Azoral."
+   "justification": "Bourg de Treskvaria, région ouest de Kethvar frontalière d'Azoral : ouest du centre-sud, face à Eldorath côté Azoral.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0206",
@@ -840,7 +909,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Pâturages d'altitude de Volgvaria, intérieur de Kethvar : entre Kethdar et la côte sud, point intérieur (17 u de la côte)."
+   "justification": "Pâturages d'altitude de Volgvaria, intérieur de Kethvar : entre Kethdar et la côte sud, point intérieur (17 u de la côte).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0207",
@@ -852,7 +922,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Azoria",
-   "justification": "Bourg minier annexe de Skarvar : à 3,9 u de Skarvar, vers l'intérieur."
+   "justification": "Bourg minier annexe de Skarvar : à 3,9 u de Skarvar, vers l'intérieur.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0208",
@@ -864,7 +935,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Hameau au pied des plateaux de Treskvaria : sud-ouest du centre, au sud de Tresk."
+   "justification": "Hameau au pied des plateaux de Treskvaria : sud-ouest du centre, au sud de Tresk.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0209",
@@ -876,7 +948,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Azoria",
-   "justification": "Deuxième fissure, « à l'est de Kethdaria » (fiche de Kethdar) : 11 u à l'est de Kethdar."
+   "justification": "Deuxième fissure, « à l'est de Kethdaria » (fiche de Kethdar) : 11 u à l'est de Kethdar.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0210",
@@ -888,7 +961,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Bourg côtier de Kethmaria (salines) : côte sud, à l'ouest de Kethmar (14 u)."
+   "justification": "Bourg côtier de Kethmaria (salines) : côte sud, à l'ouest de Kethmar (14 u).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0211",
@@ -900,7 +974,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Hameau de graveurs de Vraskvaria : près de Vraskvar, au nord-est de la vallée."
+   "justification": "Hameau de graveurs de Vraskvaria : près de Vraskvar, au nord-est de la vallée.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0212",
@@ -912,7 +987,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Cité-mère de Solmaris : la carte peinte ne montre AUCUN archipel ; on la pose sur la pointe sud-est d'Azoria près du repère de Solmaris (362,436), côté côte sud. À ajuster par l'auteur."
+   "justification": "Cité-mère de Solmaris : la carte peinte ne montre AUCUN archipel ; on la pose sur la pointe sud-est d'Azoria près du repère de Solmaris (362,436), côté côte sud. À ajuster par l'auteur.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0213",
@@ -924,7 +1000,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Port nord de Solmaris, sur la côte nord de la pointe sud-est (0,8 u). Aucune île peinte : déduction."
+   "justification": "Port nord de Solmaris, sur la côte nord de la pointe sud-est (0,8 u). Aucune île peinte : déduction.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0214",
@@ -936,7 +1013,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Port ouest de Solmaris, côte sud de la pointe sud-est (1,5 u), côté ouest. Aucune île peinte."
+   "justification": "Port ouest de Solmaris, côte sud de la pointe sud-est (1,5 u), côté ouest. Aucune île peinte.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0215",
@@ -948,7 +1026,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Bourg de l'île la plus chaude : pas d'île peinte ; point intérieur de la pointe sud-est, entre Astralis et Solnir."
+   "justification": "Bourg de l'île la plus chaude : pas d'île peinte ; point intérieur de la pointe sud-est, entre Astralis et Solnir.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0216",
@@ -960,7 +1039,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Île voisine de Velkmis (8 lieues ≈ 33 u) : pas d'île peinte ; point arbitraire à l'est d'Astralis, vers Raventh."
+   "justification": "Île voisine de Velkmis (8 lieues ≈ 33 u) : pas d'île peinte ; point arbitraire à l'est d'Astralis, vers Raventh.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0217",
@@ -972,7 +1052,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Azoria",
-   "justification": "Hameau enterré sous Astralis : 1,1 u d'Astralis (position estimée)."
+   "justification": "Hameau enterré sous Astralis : 1,1 u d'Astralis (position estimée).",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0218",
@@ -984,7 +1065,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Dernier point habité au sud-est avant les eaux de Mosrack : extrémité sud-est de la pointe, côte à 1,8 u (Vyrathos à 13 u)."
+   "justification": "Dernier point habité au sud-est avant les eaux de Mosrack : extrémité sud-est de la pointe, côte à 1,8 u (Vyrathos à 13 u).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0219",
@@ -996,7 +1078,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Azoria",
-   "justification": "Fumeries au nord de Solnir : sur la côte nord, à 5 u à l'ouest de Solnir."
+   "justification": "Fumeries au nord de Solnir : sur la côte nord, à 5 u à l'ouest de Solnir.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0220",
@@ -1008,7 +1091,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Hameau perché au-dessus de Velmaris (volcan tiède) : 6 u au nord de Velmaris."
+   "justification": "Hameau perché au-dessus de Velmaris (volcan tiède) : 6 u au nord de Velmaris.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0221",
@@ -1020,7 +1104,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Azoria",
-   "justification": "Quartier portuaire accolé à Astralis (2,3 u) sur la côte sud (1,9 u)."
+   "justification": "Quartier portuaire accolé à Astralis (2,3 u) sur la côte sud (1,9 u).",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0222",
@@ -1032,7 +1117,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Hameau à la frontière nord, presque dans les eaux caéloriennes : côte nord, point le plus à l'ouest du groupe (1,5 u de la côte)."
+   "justification": "Hameau à la frontière nord, presque dans les eaux caéloriennes : côte nord, point le plus à l'ouest du groupe (1,5 u de la côte).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0239",
@@ -1044,7 +1130,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Baelor",
-   "justification": "Cloître au flanc oriental de la dorsale, nord-ouest de Baelor ; île minuscule (8 × 11 u) dont les deux pictogrammes sont pris (Baeloris, Thyldris) : à ~2 u de Tholmë et de Baelor."
+   "justification": "Cloître au flanc oriental de la dorsale, nord-ouest de Baelor ; île minuscule (8 × 11 u) dont les deux pictogrammes sont pris (Baeloris, Thyldris) : à ~2 u de Tholmë et de Baelor.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0240",
@@ -1056,7 +1143,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Baelor",
-   "justification": "Cloître de la côte ouest au-dessus d'une grotte marine ; dans le contour validé (plus étroit que la peinture), au sud-ouest de Baelor."
+   "justification": "Cloître de la côte ouest au-dessus d'une grotte marine ; dans le contour validé (plus étroit que la peinture), au sud-ouest de Baelor.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0241",
@@ -1068,7 +1156,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Baelor",
-   "justification": "Cloître le plus haut et reculé, repli de la dorsale : nord-est de l'île, hors des pictogrammes pris ; île minuscule."
+   "justification": "Cloître le plus haut et reculé, repli de la dorsale : nord-est de l'île, hors des pictogrammes pris ; île minuscule.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0047",
@@ -1080,7 +1169,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Site-cœur de Cendara au pied du Mont Cendra (-317,249) ; aucun pictogramme libre. Possible doublon de Mont Cendra / Cendral (fiche vide)."
+   "justification": "Site-cœur de Cendara au pied du Mont Cendra (-317,249) ; aucun pictogramme libre. Possible doublon de Mont Cendra / Cendral (fiche vide).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0069",
@@ -1092,7 +1182,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Capitale au cœur de Vaelcendia, au centre de l'île, loin des côtes (labyrinthe forestier) ; aucun pictogramme libre, aucun lac peint. Entre Evertia et Miralis."
+   "justification": "Capitale au cœur de Vaelcendia, au centre de l'île, loin des côtes (labyrinthe forestier) ; aucun pictogramme libre, aucun lac peint. Entre Evertia et Miralis.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0274",
@@ -1104,7 +1195,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Capitale à la caldera centrale, côté ouest de la chaîne du Mont Cendra ; centre de la bande ouest."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Capitale à la caldera centrale, côté ouest de la chaîne du Mont Cendra ; centre de la bande ouest.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0275",
@@ -1116,7 +1208,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera nord-ouest, pente externe vers la mer du nord ; à 3 u de la côte nord-ouest."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera nord-ouest, pente externe vers la mer du nord ; à 3 u de la côte nord-ouest.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0276",
@@ -1128,7 +1221,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera nord, au fond d'un vallon froid à l'est de Vorrask ; arrière-pays de la côte nord."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera nord, au fond d'un vallon froid à l'est de Vorrask ; arrière-pays de la côte nord.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0277",
@@ -1140,7 +1234,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Quatrième caldera de la route des Sept Cratères entre Pyrevane-Mère et Verre-Fondu (aucune région dite)."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Quatrième caldera de la route des Sept Cratères entre Pyrevane-Mère et Verre-Fondu (aucune région dite).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0278",
@@ -1152,7 +1247,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera sud-ouest, à deux jours de marche de la capitale (aqueducs)."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera sud-ouest, à deux jours de marche de la capitale (aqueducs).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0279",
@@ -1164,7 +1260,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera sud, village pauvre au pied d'une caldera basse ; point de fuite vers Arkhen au nord."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera sud, village pauvre au pied d'une caldera basse ; point de fuite vers Arkhen au nord.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0280",
@@ -1176,7 +1273,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera sud-est de Pyrevane, extrémité sud de la bande ouest."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Caldera sud-est de Pyrevane, extrémité sud de la bande ouest.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0281",
@@ -1188,7 +1286,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Unique port, côte nord-ouest face au Détroit de Suie ; à ~1,5 u du trait de côte, 5 u de Thaldor."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Unique port, côte nord-ouest face au Détroit de Suie ; à ~1,5 u du trait de côte, 5 u de Thaldor.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0282",
@@ -1200,7 +1299,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Village agricole sur les pentes de Verre-Fondu, 3,5 u à l'est-sud-est de la ville."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Village agricole sur les pentes de Verre-Fondu, 3,5 u à l'est-sud-est de la ville.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0284",
@@ -1212,7 +1312,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Hameau caché sur la pente externe de Vorrask, un peu au sud de la ville."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Hameau caché sur la pente externe de Vorrask, un peu au sud de la ville.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0285",
@@ -1224,7 +1325,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Village minier à la frontière utophorienne, à l'est de la bande ouest vers la chaîne (Utophora, Col des hautes terres)."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Village minier à la frontière utophorienne, à l'est de la bande ouest vers la chaîne (Utophora, Col des hautes terres).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0287",
@@ -1233,7 +1335,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Côte nord d'Aïkhar, port forgeron fondé par des exilés de Pyrevane."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Côte nord d'Aïkhar, port forgeron fondé par des exilés de Pyrevane.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0288",
@@ -1242,7 +1345,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Côte est d'Aïkhar, falaises rouges."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Côte est d'Aïkhar, falaises rouges.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0289",
@@ -1251,7 +1355,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Côte nord-est d'Aïkhar."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Côte nord-est d'Aïkhar.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0290",
@@ -1260,7 +1365,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Sud-est d'Aïkhar, passage le plus court vers Diamoris (-307,276) : à placer au sud d'Aïkhar si l'île est peinte."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Sud-est d'Aïkhar, passage le plus court vers Diamoris (-307,276) : à placer au sud d'Aïkhar si l'île est peinte.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0291",
@@ -1269,7 +1375,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Un Tesson moyen de l'archipel, île non peinte."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Un Tesson moyen de l'archipel, île non peinte.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0292",
@@ -1278,7 +1385,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Tesson sud de l'archipel, île non peinte."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Tesson sud de l'archipel, île non peinte.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0293",
@@ -1287,7 +1395,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Plateau central d'Aïkhar, île non peinte."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Plateau central d'Aïkhar, île non peinte.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0294",
@@ -1296,7 +1405,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Au pied de la Caldera Grise, sud d'Aïkhar, île non peinte."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Au pied de la Caldera Grise, sud d'Aïkhar, île non peinte.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0295",
@@ -1305,7 +1415,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Arkhen",
-   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Sud-ouest d'Aïkhar face à Suie-Haute (-332.8,253.8) sur le Détroit : île non peinte."
+   "justification": "Arkhen (archipel d'Aïkhar / Tessons) n'est pas peint sur la carte : aucune terre au nord du Détroit de Suie (Khoram estimée en mer à (-318,213)). Sud-ouest d'Aïkhar face à Suie-Haute (-332.8,253.8) sur le Détroit : île non peinte.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0296",
@@ -1317,7 +1428,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Cendara",
-   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Hameau monastique sur les hauteurs de Pyrevane-Mère, 4 u au nord-est de la capitale."
+   "justification": "Pyrevane non peinte : placement de repli sur la moitié ouest de Cendara. Hameau monastique sur les hauteurs de Pyrevane-Mère, 4 u au nord-est de la capitale.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0336",
@@ -1329,7 +1441,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Hameau de Vaelcendia (cœur boisé) autour du Grand Racinéal ; entre la source d'Ourthalle et Caëspia, aucun pictogramme libre."
+   "justification": "Hameau de Vaelcendia (cœur boisé) autour du Grand Racinéal ; entre la source d'Ourthalle et Caëspia, aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0337",
@@ -1341,7 +1454,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Evertia",
-   "justification": "Village d'altitude au centre de l'île, site de la Grande Cloche : à 1,7 u du pictogramme peint « Cloche » (-419.8,157.6), qui est peut-être Créciel même (doublon à arbitrer)."
+   "justification": "Village d'altitude au centre de l'île, site de la Grande Cloche : à 1,7 u du pictogramme peint « Cloche » (-419.8,157.6), qui est peut-être Créciel même (doublon à arbitrer).",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0338",
@@ -1353,7 +1467,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Centre agricole d'Orvandis (plaines au sud du centre), au milieu des vergers ; entre Armentas et Hortias, aucun pictogramme libre."
+   "justification": "Centre agricole d'Orvandis (plaines au sud du centre), au milieu des vergers ; entre Armentas et Hortias, aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0339",
@@ -1365,7 +1480,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Village de guérisseurs en vallée humide d'Orvandis, au sud d'Orévandis ; aucun pictogramme libre."
+   "justification": "Village de guérisseurs en vallée humide d'Orvandis, au sud d'Orévandis ; aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0340",
@@ -1377,7 +1493,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Village sur pilotis du Lac des Miroirs (Orvandis) ; lac non peint, placé côté ouest près de la côte, entre Armentas et Orévandis."
+   "justification": "Village sur pilotis du Lac des Miroirs (Orvandis) ; lac non peint, placé côté ouest près de la côte, entre Armentas et Orévandis.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0341",
@@ -1389,7 +1506,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Éleveurs en prairie bordée de forêts, Orvandis est ; entre Orévandis et la côte est."
+   "justification": "Éleveurs en prairie bordée de forêts, Orvandis est ; entre Orévandis et la côte est.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0342",
@@ -1401,7 +1519,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Hameau de tisserands à la lisière forêt (Vaelcendia) / plaines (Orvandis), entre Evertia (-426.5,167.3) et Armentas."
+   "justification": "Hameau de tisserands à la lisière forêt (Vaelcendia) / plaines (Orvandis), entre Evertia (-426.5,167.3) et Armentas.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0343",
@@ -1413,7 +1532,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Ville souterraine de Lithéa, sous l'est de l'île ; placée à l'est du centre, près de la côte est."
+   "justification": "Ville souterraine de Lithéa, sous l'est de l'île ; placée à l'est du centre, près de la côte est.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0344",
@@ -1425,7 +1545,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Village fortifié de Lithéa (est de l'île), entrée des labyrinthes ; au sud de Lithécrine."
+   "justification": "Village fortifié de Lithéa (est de l'île), entrée des labyrinthes ; au sud de Lithécrine.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0345",
@@ -1437,7 +1558,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Avant-poste en hauteur à la lisière de la forêt sauvage de Selvandor (sud) ; lobe sud-ouest, à l'est de Malentar."
+   "justification": "Avant-poste en hauteur à la lisière de la forêt sauvage de Selvandor (sud) ; lobe sud-ouest, à l'est de Malentar.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0346",
@@ -1449,7 +1571,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Evertia",
-   "justification": "Petit port de la côte sud (Selvandor) : pointe sud du lobe, à ~1,2 u du trait de côte."
+   "justification": "Petit port de la côte sud (Selvandor) : pointe sud du lobe, à ~1,2 u du trait de côte.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0347",
@@ -1461,7 +1584,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Village de pêcheurs sur les falaises brumeuses de la côte nord (Brumalis) : sommet de la côte nord, à 1,7 u du trait de côte, 10 u de Rubien."
+   "justification": "Village de pêcheurs sur les falaises brumeuses de la côte nord (Brumalis) : sommet de la côte nord, à 1,7 u du trait de côte, 10 u de Rubien.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0348",
@@ -1473,7 +1597,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Ilnara",
-   "justification": "Hameau druidique attaché au Temple des Flammes Éternelles de Lorenthia (-360.6,288.4) sur Ilnara (île de Lorenthia/Meliflore) : 3,6 u de Lorenthia, forêt chauffée du sud-est."
+   "justification": "Hameau druidique attaché au Temple des Flammes Éternelles de Lorenthia (-360.6,288.4) sur Ilnara (île de Lorenthia/Meliflore) : 3,6 u de Lorenthia, forêt chauffée du sud-est.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0382",
@@ -1485,7 +1610,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Plus ancien hameau des Hauteurs de Vorenhal (collines nord-ouest de Sylvara), 5,5 u au nord de l'Arbre-Mère ; aucun pictogramme libre."
+   "justification": "Plus ancien hameau des Hauteurs de Vorenhal (collines nord-ouest de Sylvara), 5,5 u au nord de l'Arbre-Mère ; aucun pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0383",
@@ -1497,7 +1623,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Hameau des Hauteurs de Vorenhal, plus ouvert aux étrangers : côté ouest, vers Cëpias (7 u)."
+   "justification": "Hameau des Hauteurs de Vorenhal, plus ouvert aux étrangers : côté ouest, vers Cëpias (7 u).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0384",
@@ -1509,7 +1636,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Hameau le plus isolé du nord des Hauteurs, dépression boisée : extrémité est de la bande nord de Sylvara, loin des autres hameaux."
+   "justification": "Hameau le plus isolé du nord des Hauteurs, dépression boisée : extrémité est de la bande nord de Sylvara, loin des autres hameaux.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0385",
@@ -1521,7 +1649,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Hameau-marché des Ruelles Vertes (bande de la côte sud-ouest du bras de Sylvara), à 4 u de l'Arbre-Mère, le plus dense après lui."
+   "justification": "Hameau-marché des Ruelles Vertes (bande de la côte sud-ouest du bras de Sylvara), à 4 u de l'Arbre-Mère, le plus dense après lui.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0387",
@@ -1533,7 +1662,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Hameau mixte sur la frontière non balisée avec Cëpias (Thalmaris) : entre Cëpias (-456.6,132.2) et l'Arbre-Mère."
+   "justification": "Hameau mixte sur la frontière non balisée avec Cëpias (Thalmaris) : entre Cëpias (-456.6,132.2) et l'Arbre-Mère.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0388",
@@ -1545,7 +1675,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Evertia",
-   "justification": "Hameau de la frontière entre Sylvara et Evertia : extrémité est du bras de Sylvara, près du col de Valmora (7 u). La fiche dit « nord/sud-ouest », sens à arbitrer."
+   "justification": "Hameau de la frontière entre Sylvara et Evertia : extrémité est du bras de Sylvara, près du col de Valmora (7 u). La fiche dit « nord/sud-ouest », sens à arbitrer.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0111",
@@ -1557,7 +1688,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Ancien port de la Fédération de Morveth passé sous Tyndara : posé sur la côte sud-est entre Fablior et la côte d'Elarath, sans pictogramme libre ni indication précise. Déduction vague."
+   "justification": "Ancien port de la Fédération de Morveth passé sous Tyndara : posé sur la côte sud-est entre Fablior et la côte d'Elarath, sans pictogramme libre ni indication précise. Déduction vague.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0585",
@@ -1569,7 +1701,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; répartition des six villages ; Thyrath au sud de l'île, près de la rive."
+   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; répartition des six villages ; Thyrath au sud de l'île, près de la rive.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0586",
@@ -1581,7 +1714,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; clairière à serpents, côté est de l'île, entre Canavel et Fylorin."
+   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; clairière à serpents, côté est de l'île, entre Canavel et Fylorin.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0587",
@@ -1593,7 +1727,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; village de canopée, dans les hauts arbres du nord-est, sous Wyndor."
+   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; village de canopée, dans les hauts arbres du nord-est, sous Wyndor.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0588",
@@ -1605,7 +1740,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; bosquet sacré, côté ouest de l'île, à l'écart des autres villages."
+   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; bosquet sacré, côté ouest de l'île, à l'écart des autres villages.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0589",
@@ -1617,7 +1753,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; confluence de trois rivières : aucune rivière peinte ; placé au centre de l'île (commerce intérieur)."
+   "justification": "Warenthor : île de la mer intérieure (≈ -224..-214, 171..188), aucun pictogramme libre (Galdris, Wyndor, Fylorin les prennent) ; confluence de trois rivières : aucune rivière peinte ; placé au centre de l'île (commerce intérieur).",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0591",
@@ -1629,7 +1766,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Ilthara",
-   "justification": "« 3 lieues au NE du village » (Mirathi-village -205,213 estimé) : -196,204 tombe dans le lac de Nectoria ; point terre ferme au nord du lac, à 13 u. Pas de pictogramme."
+   "justification": "« 3 lieues au NE du village » (Mirathi-village -205,213 estimé) : -196,204 tombe dans le lac de Nectoria ; point terre ferme au nord du lac, à 13 u. Pas de pictogramme.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0592",
@@ -1641,7 +1779,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "« 6 lieues au SE » du village = 25 u, soit sur Zaralith/la côte ; ramené à 23 u sur le plateau blanc, à 5 u de Zaralith. Pas de pictogramme."
+   "justification": "« 6 lieues au SE » du village = 25 u, soit sur Zaralith/la côte ; ramené à 23 u sur le plateau blanc, à 5 u de Zaralith. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0593",
@@ -1653,7 +1792,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Ilthara",
-   "justification": "Port au pied des falaises du plateau : côte ouest du plateau blanc, la plus proche du village (12 u), à 1 u du trait de côte, à 6 u de Velthorin."
+   "justification": "Port au pied des falaises du plateau : côte ouest du plateau blanc, la plus proche du village (12 u), à 1 u du trait de côte, à 6 u de Velthorin.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0594",
@@ -1665,7 +1805,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Ilthara",
-   "justification": "Port principal « au sud de Lunaris » : côte sud de Lunasar, à 1,2 u du trait de côte, à 7 u de la fiche estimée « Lunaris (capitale) ». Pas de pictogramme libre."
+   "justification": "Port principal « au sud de Lunaris » : côte sud de Lunasar, à 1,2 u du trait de côte, à 7 u de la fiche estimée « Lunaris (capitale) ». Pas de pictogramme libre.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0595",
@@ -1677,7 +1818,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "Centre de la plaine agricole de Velharon : milieu de la grande plaine herbeuse de Lunasar, loin des autres lieux (9 u de Xeranthia). Déduction vague."
+   "justification": "Centre de la plaine agricole de Velharon : milieu de la grande plaine herbeuse de Lunasar, loin des autres lieux (9 u de Xeranthia). Déduction vague.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0597",
@@ -1689,7 +1831,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "Carrefour entre la côte et les routes du plateau de Mirathi, collines de Mirhand : angle sud-ouest de Lunasar, entre côte sud et plateau blanc, à 6,5 u de Mythoria."
+   "justification": "Carrefour entre la côte et les routes du plateau de Mirathi, collines de Mirhand : angle sud-ouest de Lunasar, entre côte sud et plateau blanc, à 6,5 u de Mythoria.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0598",
@@ -1701,7 +1844,8 @@
    "source": "pictogramme",
    "confiance": "moyenne",
    "terre": "Onara",
-   "justification": "Fugnord : grand pictogramme fortifié libre au centre du sud-ouest de Mosrack, cadre d'un dépôt d'armes. Attribution parmi six pictogrammes libres, interchangeables faute de texte."
+   "justification": "Fugnord : grand pictogramme fortifié libre au centre du sud-ouest de Mosrack, cadre d'un dépôt d'armes. Attribution parmi six pictogrammes libres, interchangeables faute de texte.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0599",
@@ -1713,7 +1857,8 @@
    "source": "pictogramme",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Fugnord : pictogramme libre isolé à l'ouest, loin des routes, cadre d'un poste « absent des cartes officielles ». Attribution parmi six pictogrammes libres."
+   "justification": "Fugnord : pictogramme libre isolé à l'ouest, loin des routes, cadre d'un poste « absent des cartes officielles ». Attribution parmi six pictogrammes libres.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0600",
@@ -1725,7 +1870,8 @@
    "source": "pictogramme",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Fugnord : pictogramme libre en bord de baie au sud d'Ausford, en position de ravitaillement des camps. Attribution parmi six pictogrammes libres."
+   "justification": "Fugnord : pictogramme libre en bord de baie au sud d'Ausford, en position de ravitaillement des camps. Attribution parmi six pictogrammes libres.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0601",
@@ -1737,7 +1883,8 @@
    "source": "pictogramme",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Fugnord : pictogramme libre isolé sur la côte est, à l'écart (hameau d'ingénieurs dangereux, explosions). Attribution parmi six pictogrammes libres."
+   "justification": "Fugnord : pictogramme libre isolé sur la côte est, à l'écart (hameau d'ingénieurs dangereux, explosions). Attribution parmi six pictogrammes libres.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0602",
@@ -1749,7 +1896,8 @@
    "source": "pictogramme",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Fugnord : pictogramme libre à l'est, en bordure de côte, espace pour les chenils. Attribution parmi six pictogrammes libres."
+   "justification": "Fugnord : pictogramme libre à l'est, en bordure de côte, espace pour les chenils. Attribution parmi six pictogrammes libres.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0603",
@@ -1761,7 +1909,8 @@
    "source": "pictogramme",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Fugnord : pictogramme libre au cœur méridional de la région, le plus enfoncé dans l'intérieur (7 u de la côte, 11,5 de Fugnord). Attribution parmi six."
+   "justification": "Fugnord : pictogramme libre au cœur méridional de la région, le plus enfoncé dans l'intérieur (7 u de la côte, 11,5 de Fugnord). Attribution parmi six.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0604",
@@ -1770,7 +1919,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Îles du Cordon de Morveth non peintes : la carte n'a aucune île au large d'Elarath (pictogramme libre probable de la cité : 355,3 ; 196,5). Plus grande île, la plus proche, crique abritée."
+   "justification": "Îles du Cordon de Morveth non peintes : la carte n'a aucune île au large d'Elarath (pictogramme libre probable de la cité : 355,3 ; 196,5). Plus grande île, la plus proche, crique abritée.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0605",
@@ -1779,7 +1929,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Île intermédiaire du Cordon de Morveth, non peinte (salines) ; entre Velmara et Pélandre, au large d'Elarath."
+   "justification": "Île intermédiaire du Cordon de Morveth, non peinte (salines) ; entre Velmara et Pélandre, au large d'Elarath.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0606",
@@ -1788,7 +1939,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Île la plus éloignée du Cordon de Morveth, exposée à la houle, non peinte."
+   "justification": "Île la plus éloignée du Cordon de Morveth, exposée à la houle, non peinte.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0611",
@@ -1800,7 +1952,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "« 9 jours de mer au NW d'Elarath » inutilisable à l'échelle ; comptoir tyndarien concurrencé par Eryndoris : posé sur la côte nord de la péninsule tyndarienne, à 9 u à l'ouest d'Eryndoris."
+   "justification": "« 9 jours de mer au NW d'Elarath » inutilisable à l'échelle ; comptoir tyndarien concurrencé par Eryndoris : posé sur la côte nord de la péninsule tyndarienne, à 9 u à l'ouest d'Eryndoris.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0612",
@@ -1812,7 +1965,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Annexée à la zone administrative de Portharis (323.4,193.4) : posée dans sa zone, à 5,6 u à l'est de Portharis, hors lac, côté terre. Pas de pictogramme libre."
+   "justification": "Annexée à la zone administrative de Portharis (323.4,193.4) : posée dans sa zone, à 5,6 u à l'est de Portharis, hors lac, côté terre. Pas de pictogramme libre.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0617",
@@ -1824,7 +1978,8 @@
    "source": "pictogramme",
    "confiance": "moyenne",
    "terre": "Ulinor",
-   "justification": "Capitale : grand pictogramme libre muré dans la plaine de Jentar (cœur d'Ulinor). Canyon de l'Écho non identifié sur la peinture (le canyon n'est pas peint), d'où confiance moyenne."
+   "justification": "Capitale : grand pictogramme libre muré dans la plaine de Jentar (cœur d'Ulinor). Canyon de l'Écho non identifié sur la peinture (le canyon n'est pas peint), d'où confiance moyenne.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0625",
@@ -1836,7 +1991,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Vallée centrale de Dhalvoria, vallées de l'ouest/nord-ouest de l'île principale (Dhalvoria, fiche) ; pas de pictogramme libre, répartition dans la bande -8..6 x 100..127."
+   "justification": "Vallée centrale de Dhalvoria, vallées de l'ouest/nord-ouest de l'île principale (Dhalvoria, fiche) ; pas de pictogramme libre, répartition dans la bande -8..6 x 100..127.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0626",
@@ -1848,7 +2004,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Plateau au cœur géographique de Dhalvoria, au nord de la vallée de Dhalvora ; répartition dans la bande de l'ouest de l'île. Pas de pictogramme."
+   "justification": "Plateau au cœur géographique de Dhalvoria, au nord de la vallée de Dhalvora ; répartition dans la bande de l'ouest de l'île. Pas de pictogramme.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0627",
@@ -1860,7 +2017,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Vallée la plus orientale de Dhalvoria : extrémité est de la bande, vers les cols de Folinor (Feldrin à 6 u). Répartition de texte."
+   "justification": "Vallée la plus orientale de Dhalvoria : extrémité est de la bande, vers les cols de Folinor (Feldrin à 6 u). Répartition de texte.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0628",
@@ -1872,7 +2030,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Vallée la plus occidentale, sur les falaises maritimes : bord de la côte ouest, à 1 u du trait de côte. Répartition de texte."
+   "justification": "Vallée la plus occidentale, sur les falaises maritimes : bord de la côte ouest, à 1 u du trait de côte. Répartition de texte.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0629",
@@ -1884,7 +2043,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Vallée nord de Dhalvoria aux brumes : extrémité nord de la bande, près de la côte nord-ouest. Répartition de texte."
+   "justification": "Vallée nord de Dhalvoria aux brumes : extrémité nord de la bande, près de la côte nord-ouest. Répartition de texte.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0630",
@@ -1896,7 +2056,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Vallée sud de Dhalvoria, agricole : extrémité sud de la bande, au-dessus du renflement de Folinor. Répartition de texte."
+   "justification": "Vallée sud de Dhalvoria, agricole : extrémité sud de la bande, au-dessus du renflement de Folinor. Répartition de texte.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0631",
@@ -1908,7 +2069,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Vallée centre-est de Dhalvoria : à l'est de la vallée de Yltharkenn. Répartition de texte."
+   "justification": "Vallée centre-est de Dhalvoria : à l'est de la vallée de Yltharkenn. Répartition de texte.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0632",
@@ -1920,7 +2082,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Vallée intérieure d'accès difficile : à l'intérieur de la bande, loin des deux côtes (5 u). Répartition de texte."
+   "justification": "Vallée intérieure d'accès difficile : à l'intérieur de la bande, loin des deux côtes (5 u). Répartition de texte.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0633",
@@ -1932,7 +2095,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ulinor",
-   "justification": "Petite vallée méridionale à la frange de Folinor : dans la bande sud, au nord de Folinor/Folindor (11 u de Folinor), à 4 u de Galrin."
+   "justification": "Petite vallée méridionale à la frange de Folinor : dans la bande sud, au nord de Folinor/Folindor (11 u de Folinor), à 4 u de Galrin.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0016",
@@ -1944,7 +2108,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Celethor",
-   "justification": "Ville au sol de la Théocratie, capitale du Sanctuaire d'Orivane, sous la future Astravia ; aucun pictogramme. Posée sur la côte astravienne, près du cratère sous-marin d'Orivanel (Orivane Haute posée à 5,6 u). Simple répartition."
+   "justification": "Ville au sol de la Théocratie, capitale du Sanctuaire d'Orivane, sous la future Astravia ; aucun pictogramme. Posée sur la côte astravienne, près du cratère sous-marin d'Orivanel (Orivane Haute posée à 5,6 u). Simple répartition.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0083",
@@ -1956,7 +2121,8 @@
    "source": "texte",
    "confiance": "moyenne",
    "terre": "Celethor",
-   "justification": "Île tombée dont le cratère-sanctuaire est surveillé par Aeloria (26.4,-338.9) à distance minimale sûre : posée à ~4 u au sud-est, intérieur des terres. Aucun pictogramme de cratère sur la carte. Les ruines suspendues (lie-1072) sont sur Aeloria."
+   "justification": "Île tombée dont le cratère-sanctuaire est surveillé par Aeloria (26.4,-338.9) à distance minimale sûre : posée à ~4 u au sud-est, intérieur des terres. Aucun pictogramme de cratère sur la carte. Les ruines suspendues (lie-1072) sont sur Aeloria.",
+   "statut": "appliquée"
   },
   {
    "id": "lie-0084",
@@ -1968,7 +2134,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Celethor",
-   "justification": "Village soumis au Jarl Krenneth de Kryostra (taxe de guerre, ordre de le brûler, an 213) : posé en Kryostra, à l'ouest, entre Lornath et Kryndor. Aucun pictogramme libre ; ne pas confondre avec Frosthal (-60.5,-257.2), fiche distincte."
+   "justification": "Village soumis au Jarl Krenneth de Kryostra (taxe de guerre, ordre de le brûler, an 213) : posé en Kryostra, à l'ouest, entre Lornath et Kryndor. Aucun pictogramme libre ; ne pas confondre avec Frosthal (-60.5,-257.2), fiche distincte.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0085",
@@ -1980,7 +2147,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Celethor",
-   "justification": "Campement de 12 âmes aux Terres Brisées près de la frontière de Ryldor : posé sur la toundra au nord de la limite Ryldor (Faldoris, Ryldor), entre Zarnith et Zelthar. Pas de pictogramme. Les Terres Brisées (lie-0242) sont posées bien plus à l'ouest."
+   "justification": "Campement de 12 âmes aux Terres Brisées près de la frontière de Ryldor : posé sur la toundra au nord de la limite Ryldor (Faldoris, Ryldor), entre Zarnith et Zelthar. Pas de pictogramme. Les Terres Brisées (lie-0242) sont posées bien plus à l'ouest.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0091",
@@ -1989,7 +2157,8 @@
    "source": null,
    "confiance": null,
    "terre": null,
-   "justification": "Kytheris (lie-0090) n'a ni position ni continent : le registre l'acte « non rattachable » ; mages venus d'ailleurs convergés vers Cestra, école-mère dissoute. Aucun indice de région pour sa filiale Mineure : impossible."
+   "justification": "Kytheris (lie-0090) n'a ni position ni continent : le registre l'acte « non rattachable » ; mages venus d'ailleurs convergés vers Cestra, école-mère dissoute. Aucun indice de région pour sa filiale Mineure : impossible.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0511",
@@ -2001,7 +2170,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Galenor",
-   "justification": "Ville-forteresse de Rystera sur un promontoire rocheux ; aucun pictogramme libre. Posée sur la crête rocheuse au nord des villages de Rystera (Falandros, Elthira, Drynor). Conflit : la fiche dit Rystera « orientale », la carte la pose à l'ouest de Soltharis."
+   "justification": "Ville-forteresse de Rystera sur un promontoire rocheux ; aucun pictogramme libre. Posée sur la crête rocheuse au nord des villages de Rystera (Falandros, Elthira, Drynor). Conflit : la fiche dit Rystera « orientale », la carte la pose à l'ouest de Soltharis.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0521",
@@ -2013,7 +2183,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Galenor",
-   "justification": "Village de tisserands de tentes d'Astralor (plateaux semi-arides du sud de Ventera, laine de Kaldirith) : aucun pictogramme libre ; posé entre Ilymaris, Myrkis et Darnis, hors des rivières. Répartition dans la région."
+   "justification": "Village de tisserands de tentes d'Astralor (plateaux semi-arides du sud de Ventera, laine de Kaldirith) : aucun pictogramme libre ; posé entre Ilymaris, Myrkis et Darnis, hors des rivières. Répartition dans la région.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0645",
@@ -2022,7 +2193,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Ilthara",
-   "justification": "Cité volante tombée à l'An 0 dans un cratère sous-marin (lore Era 4, « Cratères du Cardinal ») : ruine engloutie, pas d'agglomération à terre. Point de chute probable en mer (-179 ; 115), non appliqué."
+   "justification": "Cité volante tombée à l'An 0 dans un cratère sous-marin (lore Era 4, « Cratères du Cardinal ») : ruine engloutie, pas d'agglomération à terre. Point de chute probable en mer (-179 ; 115), non appliqué.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0646",
@@ -2034,7 +2206,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Galenor",
-   "justification": "Era 4 : cratère d'Aethran et Jardins Morts d'Althanar (sol vitrifié 3 km²) sur le territoire du futur Kharazir ; aucune coordonnée. Posée dans l'aire d'Aethranor/Rukhsar (-238.8,-120.8), à ~12 u. Position très approximative."
+   "justification": "Era 4 : cratère d'Aethran et Jardins Morts d'Althanar (sol vitrifié 3 km²) sur le territoire du futur Kharazir ; aucune coordonnée. Posée dans l'aire d'Aethranor/Rukhsar (-238.8,-120.8), à ~12 u. Position très approximative.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0648",
@@ -2043,7 +2216,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Azoria",
-   "justification": "Cité volante tombée à l'An 0 dans un cratère sous-marin (lore Era 4, « Cratères du Cardinal ») : ruine engloutie, pas d'agglomération à terre. Point de chute probable en mer (268 ; 336), non appliqué."
+   "justification": "Cité volante tombée à l'An 0 dans un cratère sous-marin (lore Era 4, « Cratères du Cardinal ») : ruine engloutie, pas d'agglomération à terre. Point de chute probable en mer (268 ; 336), non appliqué.",
+   "statut": "impossible"
   },
   {
    "id": "lie-0649",
@@ -2055,7 +2229,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Endora",
-   "justification": "Era 4 : cratère d'Endral en forêt d'Endora (zone interdite, jungle). Capitale Endral du Saint-Empire d'Endara jamais posée. Posée dans l'axe forestier (Indelite/Crestalia), loin des villes. Forêt non peinte précisément : très approximatif."
+   "justification": "Era 4 : cratère d'Endral en forêt d'Endora (zone interdite, jungle). Capitale Endral du Saint-Empire d'Endara jamais posée. Posée dans l'axe forestier (Indelite/Crestalia), loin des villes. Forêt non peinte précisément : très approximatif.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0969",
@@ -2067,7 +2242,8 @@
    "source": "pictogramme",
    "confiance": "haute",
    "terre": "Galenor",
-   "justification": "Village de pêcheurs de perles de Lagosaim. Le pictogramme de la pointe nord (deux maisons, côte), à côté d'Olvaris (graveurs sur nacre), est celui que lie-0214 (Velmaris de Solmaris) occupe à tort : coordonnées d'origine de lie-0969. À libérer pour lie-0969."
+   "justification": "Village de pêcheurs de perles de Lagosaim. Le pictogramme de la pointe nord (deux maisons, côte), à côté d'Olvaris (graveurs sur nacre), est celui que lie-0214 (Velmaris de Solmaris) occupe à tort : coordonnées d'origine de lie-0969. À libérer pour lie-0969.",
+   "statut": "déjà posé (coord_x/y rendues par 393c3f5bb), non appliqué"
   },
   {
    "id": "lie-0997",
@@ -2079,7 +2255,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Nysaria",
-   "justification": "Village des forêts de Nysaria (hêtres du versant nord, tissage, chèvres) : Nysaria n'est qu'une petite île (Nysoris 225,-372). Posé sur sa corne ouest, à 5 u de Nysoris. Les ~15 villages ne tiennent pas tous sur l'île."
+   "justification": "Village des forêts de Nysaria (hêtres du versant nord, tissage, chèvres) : Nysaria n'est qu'une petite île (Nysoris 225,-372). Posé sur sa corne ouest, à 5 u de Nysoris. Les ~15 villages ne tiennent pas tous sur l'île.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0998",
@@ -2091,7 +2268,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Rive d'où part Roue, face à Rives-Sourdes de l'autre côté d'un bras. Aucun delta ni fleuve peint : le seul bras d'eau est le fond du golfe où est posé le Delta d'Onara-sud (303,211). Rive ouest du golfe."
+   "justification": "Rive d'où part Roue, face à Rives-Sourdes de l'autre côté d'un bras. Aucun delta ni fleuve peint : le seul bras d'eau est le fond du golfe où est posé le Delta d'Onara-sud (303,211). Rive ouest du golfe.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-0999",
@@ -2103,7 +2281,8 @@
    "source": "texte",
    "confiance": "basse",
    "terre": "Onara",
-   "justification": "Village de la fille de Roue, de l'autre côté du bras de Vieille-Anse. Posé sur la rive nord du golfe où est le Delta d'Onara-sud (303,211), à ~6,7 u de Vieille-Anse. Pictogrammes absents ; position de répartition."
+   "justification": "Village de la fille de Roue, de l'autre côté du bras de Vieille-Anse. Posé sur la rive nord du golfe où est le Delta d'Onara-sud (303,211), à ~6,7 u de Vieille-Anse. Pictogrammes absents ; position de répartition.",
+   "statut": "proposition non appliquée"
   },
   {
    "id": "lie-1000",
@@ -2112,7 +2291,8 @@
    "source": null,
    "confiance": null,
    "terre": null,
-   "justification": "T2/00 : village de 60 feux, ruches, lavoir, tilleuls, vin de Sanavir ; chemin haut vers une arche d'Onara (Âge du Lien). Seul indice vague : Onara ; ni village voisin posé ni relief décrit. Position impossible à fonder."
+   "justification": "T2/00 : village de 60 feux, ruches, lavoir, tilleuls, vin de Sanavir ; chemin haut vers une arche d'Onara (Âge du Lien). Seul indice vague : Onara ; ni village voisin posé ni relief décrit. Position impossible à fonder.",
+   "statut": "impossible"
   },
   {
    "id": "lie-1001",
@@ -2121,7 +2301,8 @@
    "source": null,
    "confiance": null,
    "terre": null,
-   "justification": "Hameau de cinq feux, fontaine à trois becs, forge ; « sur aucune de vos cartes » (T2/32, T2/41). Aucune région, aucun voisin, aucun relief dans les livres : impossible."
+   "justification": "Hameau de cinq feux, fontaine à trois becs, forge ; « sur aucune de vos cartes » (T2/32, T2/41). Aucune région, aucun voisin, aucun relief dans les livres : impossible.",
+   "statut": "impossible"
   },
   {
    "id": "lie-1007",
@@ -2130,7 +2311,8 @@
    "source": null,
    "confiance": null,
    "terre": null,
-   "justification": "Bourg de vallon (osiers, vignes, crête) où Vaenor Sorne, 26 ans, fait son premier état (T2/18), envoyée par un préfet de l'empire de Drahk'Nor. Aucune région ni distance donnée (Tavelpast est posé en Onara, sans lien établi)."
+   "justification": "Bourg de vallon (osiers, vignes, crête) où Vaenor Sorne, 26 ans, fait son premier état (T2/18), envoyée par un préfet de l'empire de Drahk'Nor. Aucune région ni distance donnée (Tavelpast est posé en Onara, sans lien établi).",
+   "statut": "impossible"
   },
   {
    "id": "lie-1073",
@@ -2142,7 +2324,8 @@
    "source": "pictogramme",
    "confiance": "moyenne",
    "terre": "Celethor",
-   "justification": "Ville principale de Kryostra : le seul grand pictogramme de ville fortifiée libre de la région, sur la rivière qui rejoint la côte ouest, au sud du lac de Glacoria. Mais à 11 u de la côte : falaise de 40 m sur fjord non peinte."
+   "justification": "Ville principale de Kryostra : le seul grand pictogramme de ville fortifiée libre de la région, sur la rivière qui rejoint la côte ouest, au sud du lac de Glacoria. Mais à 11 u de la côte : falaise de 40 m sur fjord non peinte.",
+   "statut": "appliquée"
   }
  ]
 }

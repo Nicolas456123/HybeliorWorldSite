@@ -2658,6 +2658,20 @@
    "continent_carte": "Galenor"
   },
   {
+   "ctrl": "C1",
+   "id": "lie-0172",
+   "nom": "Selvaris",
+   "echelle": "ville",
+   "portee": "résumé",
+   "phys": "Endora",
+   "fiche": "Endora",
+   "mentionne": "Alkaran",
+   "sens": "autre continent cité (souvent légitime : échanges, origine)",
+   "gravite": 3,
+   "extrait": "Ville lacustre du Lac-de-Vyrn partagée entre Ferrath et Iskara, la frontière suivant la ligne médiane du lac ; l'une des rares villes binationales d'Alkaran.",
+   "continent_carte": "Endora"
+  },
+  {
    "ctrl": "C2",
    "id": "pol-0116",
    "nom": "Evertia",
@@ -2844,10 +2858,11 @@
    "id": "lie-0014",
    "nom": "Lithanel",
    "echelle": "cite",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (cite) absente du jeu ; parent positionné : Altram",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (cite) absente du jeu ; parent positionné : Altram",
    "fiche": "Alkaran",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -3438,10 +3453,11 @@
    "id": "lie-0083",
    "nom": "Caelum Prima",
    "echelle": "cite",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (cite) absente du jeu ; parent positionné : Astravia",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (cite) absente du jeu ; parent positionné : Astravia",
    "fiche": "Celethor",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -3858,10 +3874,11 @@
    "id": "lie-0172",
    "nom": "Selvaris",
    "echelle": "ville",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (ville) absente du jeu ; parent positionné : Ferrath",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (ville) absente du jeu ; parent positionné : Ferrath",
    "fiche": "Endora",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4138,10 +4155,11 @@
    "id": "lie-0198",
    "nom": "Brisborg",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4228,10 +4246,11 @@
    "id": "lie-0204",
    "nom": "Kethmar",
    "echelle": "ville",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (ville) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (ville) absente du jeu",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4273,10 +4292,11 @@
    "id": "lie-0207",
    "nom": "Korven",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4303,10 +4323,11 @@
    "id": "lie-0209",
    "nom": "Ethvar",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4408,10 +4429,11 @@
    "id": "lie-0217",
    "nom": "Astralis-Bas",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4438,10 +4460,11 @@
    "id": "lie-0219",
    "nom": "Solnir-Vyk",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4468,10 +4491,11 @@
    "id": "lie-0221",
    "nom": "Astralis-Marin",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Solmaris",
    "fiche": "Azoria",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -4983,10 +5007,11 @@
    "id": "lie-0306",
    "nom": "Soltarin",
    "echelle": "cite",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (cite) absente du jeu ; parent positionné : Sanvara",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (cite) absente du jeu ; parent positionné : Sanvara",
    "fiche": "Endora",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5043,10 +5068,11 @@
    "id": "lie-0310",
    "nom": "Tarvanis",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Sanvara",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Sanvara",
    "fiche": "Endora",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5058,10 +5084,11 @@
    "id": "lie-0311",
    "nom": "Amerith",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Sanvara",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Sanvara",
    "fiche": "Endora",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5413,10 +5440,11 @@
    "id": "lie-0337",
    "nom": "Créciel",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
    "fiche": "Evertia",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5548,10 +5576,11 @@
    "id": "lie-0346",
    "nom": "Coralvine",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
    "fiche": "Evertia",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5578,10 +5607,11 @@
    "id": "lie-0348",
    "nom": "Pyracine",
    "echelle": "hameau",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (hameau) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (hameau) absente du jeu",
    "fiche": "Cendara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5860,10 +5890,11 @@
    "id": "lie-0591",
    "nom": "Tholmë-en-haut",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mirathi",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mirathi",
    "fiche": "Ilthara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5890,10 +5921,11 @@
    "id": "lie-0593",
    "nom": "Échelle-de-Vrenith",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mirathi",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mirathi",
    "fiche": "Ilthara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5905,10 +5937,11 @@
    "id": "lie-0594",
    "nom": "Sondaris",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu",
    "fiche": "Ilthara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5960,10 +5993,11 @@
    "id": "lie-0598",
    "nom": "Frostmar",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
    "fiche": "Onara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5975,10 +6009,11 @@
    "id": "lie-0599",
    "nom": "Kelthor",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
    "fiche": "Onara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -5990,10 +6025,11 @@
    "id": "lie-0600",
    "nom": "Thrymar",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
    "fiche": "Onara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -6005,10 +6041,11 @@
    "id": "lie-0601",
    "nom": "Vorneth",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
    "fiche": "Onara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -6020,10 +6057,11 @@
    "id": "lie-0602",
    "nom": "Dyrnathor",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
    "fiche": "Onara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -6035,10 +6073,11 @@
    "id": "lie-0603",
    "nom": "Myrklor",
    "echelle": "bourg",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (bourg) absente du jeu ; parent positionné : Mosrack",
    "fiche": "Onara",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -6165,10 +6204,11 @@
    "id": "lie-0617",
    "nom": "Jentaris",
    "echelle": "cite",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (cite) absente du jeu",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (cite) absente du jeu",
    "fiche": "Ulinor",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -6181,7 +6221,7 @@
    "nom": "Sanctuaire de l'Écho",
    "echelle": "lieu-dit",
    "gravite": 3,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche",
+   "detail": "ni coord_x/y ni position_estimee dans la fiche ; parent positionné : Jentaris",
    "fiche": "Ulinor",
    "continent_carte": "(non localisé)"
   },
@@ -6947,10 +6987,11 @@
    "id": "lie-1073",
    "nom": "Kryndor (Kryostra)",
    "echelle": "ville",
-   "gravite": 2,
-   "detail": "ni coord_x/y ni position_estimee dans la fiche — agglomération (ville) absente du jeu ; parent positionné : Elarian",
+   "gravite": 1,
+   "detail": "position présente mais non exportée — agglomération (ville) absente du jeu ; parent positionné : Elarian",
    "fiche": "Celethor",
    "continent_carte": "(non localisé)",
+   "proposition": "Positionner la fiche (coord_x/y) ou exporter sa position vers le gazetteer.",
    "livres": {
     "ancres": [],
     "chapitres_nommant": [],
@@ -7424,318 +7465,6 @@
    "fiche": "Cendara",
    "phys": "Cendara",
    "continent_carte": "Cendara"
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0660",
-   "nom": "Hekorinth",
-   "echelle": "cite",
-   "gravite": 1,
-   "x": -265.615491842868,
-   "y": 149.34179521866,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [
-     "C/13",
-     "C/21"
-    ],
-    "phrases_spatiales": [
-     "C/13 : **Endora — Perivalis, Crestalis, Hekorinth — jours 276 à 300**",
-     "C/21 : Dans les ports d’Ilthara, à Hekorinth, le sel est net, presque animal ; il lave la gorge."
-    ]
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0679",
-   "nom": "Raldir",
-   "echelle": "ville",
-   "gravite": 1,
-   "x": -234.862593497737,
-   "y": 160.882253543094,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0685",
-   "nom": "Thyrin",
-   "echelle": "ville",
-   "gravite": 1,
-   "x": -280.662573857469,
-   "y": 164.527102846914,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0686",
-   "nom": "Uldarin",
-   "echelle": "ville",
-   "gravite": 1,
-   "x": -291.231955833524,
-   "y": 196.31365638016,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0687",
-   "nom": "Kandorin",
-   "echelle": "ville",
-   "gravite": 1,
-   "x": -268.285031523856,
-   "y": 185.228735197924,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0688",
-   "nom": "Feldris",
-   "echelle": "ville",
-   "gravite": 1,
-   "x": -246.650330266835,
-   "y": 222.98402165414,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0689",
-   "nom": "Ravindor",
-   "echelle": "ville",
-   "gravite": 1,
-   "x": -225.107932798426,
-   "y": 204.152024167957,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0827",
-   "nom": "Talrin",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -244.332612503954,
-   "y": 182.305383105183,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0850",
-   "nom": "Ylloris",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -252.57461380805,
-   "y": 235.360459655287,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0851",
-   "nom": "Tyrolis",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -235.191316461764,
-   "y": 237.995949085241,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0852",
-   "nom": "Myrdan",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -252.875176294196,
-   "y": 210.190145980869,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0853",
-   "nom": "Galdrion",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -241.053665357181,
-   "y": 200.049060946186,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0854",
-   "nom": "Zaldrin",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -277.77980598285,
-   "y": 206.004357824153,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0855",
-   "nom": "Sylthros",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -293.517371871777,
-   "y": 178.23186874917,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0856",
-   "nom": "Sylradis",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -271.851473222594,
-   "y": 183.09571703997,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0857",
-   "nom": "Valdren",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -255.529531403777,
-   "y": 171.161196080609,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
-  },
-  {
-   "ctrl": "D3",
-   "id": "lie-0858",
-   "nom": "Fyndor",
-   "echelle": "bourg",
-   "gravite": 1,
-   "x": -232.655032898333,
-   "y": 147.225157992285,
-   "fiche": "Ilthara",
-   "detail": "sur la masse Ilthara, absente du réseau de routes 462",
-   "continent_carte": "(non localisé)",
-   "livres": {
-    "ancres": [],
-    "chapitres_nommant": [],
-    "phrases_spatiales": []
-   },
-   "proposition": "Ajouter ces agglomérations au réseau de routes 462 (relancer le tracé sur la masse Ilthara) une fois le rattachement tranché."
   }
  ],
  "stats_d": {
@@ -7773,7 +7502,7 @@
   },
   "D3": {
    "agglo_sur_masse_Ilthara": 90,
-   "dans_reseau": 73,
+   "dans_reseau": 90,
    "composantes": 1
   }
  },
@@ -9338,7 +9067,7 @@
    "masse": "Ilthara"
   },
   "Warenthor": {
-   "aire": 104,
+   "aire": 111,
    "masse": "Ilthara"
   },
   "Avalor": {
@@ -9406,7 +9135,7 @@
    "masse": "Celethor"
   },
   "Ackerna": {
-   "aire": 28940,
+   "aire": 28814,
    "masse": "Ilthara"
   },
   "Haldria": {

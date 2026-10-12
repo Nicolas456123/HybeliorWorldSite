@@ -17,7 +17,11 @@
  *    calcul (autre agent), rien n'est écrit ;
  *  - contrôle de cohérence de lib/kg-core avant écriture.
  *
- * Usage : node scripts/appliquer-positions-1012.js [--essai]
+ * --sures : n'écrit que les positions lues sur un pictogramme et celles de confiance
+ *   moyenne ou haute (décision de l'auteur après D52 : « applique les 28 ») ; les
+ *   propositions de confiance basse restent dans positions_1012.json, non appliquées.
+ *
+ * Usage : node scripts/appliquer-positions-1012.js [--sures] [--essai] [--detail]
  * Ensuite : node scripts/tracer-routes.js ; node scripts/verifier-trajets.js --ecrire ; npm run kg:db
  */
 'use strict';
@@ -30,6 +34,8 @@ const ROOT = path.join(__dirname, '..');
 const BASE = path.join(ROOT, 'data', 'kg-base.json');
 const PROPS = path.join(ROOT, 'data', 'positions_1012.json');
 const ESSAI = process.argv.includes('--essai');
+const SURES = process.argv.includes('--sures');
+const sure = (p) => p.source === 'pictogramme' || p.confiance === 'moyenne' || p.confiance === 'haute';
 const NOW = '2026-10-12T22:00:00.000Z';
 const ETIQUETTE = 'positions_1012';
 const SOURCE = 'carte peinte de l\'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; ' + ETIQUETTE;
@@ -46,7 +52,7 @@ const liste = Array.isArray(props) ? props : props.positions;
 if (!Array.isArray(liste) || !liste.length) echec('data/positions_1012.json vide ou mal formé');
 const byId = new Map(doc.entities.map((e) => [e.id, e]));
 
-const bilan = { posees: [], maj: [], deja: [], refus: [], nulles: [] };
+const bilan = { posees: [], maj: [], deja: [], refus: [], nulles: [], ecartees: [] };
 const vus = new Set();
 for (const p of liste) {
   if (vus.has(p.id)) echec(`${p.id} en double dans positions_1012.json`);
@@ -55,6 +61,7 @@ for (const p of liste) {
   if (!e) { bilan.refus.push(`${p.id} ${p.nom} : absent de l'Atrium`); continue; }
   if (p.nom && e.name !== p.nom) echec(`${p.id} n'est pas ${p.nom} (${e.name})`);
   if (!p.position_estimee) { bilan.nulles.push(`${p.id} ${p.nom}`); continue; }
+  if (SURES && !sure(p)) { bilan.ecartees.push(p.id); continue; }
   const [x, y] = p.position_estimee.map(Number);
   if (!Number.isFinite(x) || !Number.isFinite(y) || Math.abs(x) > 523 || Math.abs(y) > 523) echec(`${p.id} : position hors carte ${p.position_estimee}`);
   if (!['haute', 'moyenne', 'basse'].includes(p.confiance)) echec(`${p.id} : confiance « ${p.confiance} »`);
@@ -88,7 +95,7 @@ if (rapport.counts.erreur) {
   rapport.issues.filter((i) => i.severity === 'erreur').slice(0, 10).forEach((i) => console.error('  ', i.message));
   echec(`${rapport.counts.erreur} erreur(s) de cohérence`);
 }
-console.log(`✓ posées : ${bilan.posees.length}, mises à jour : ${bilan.maj.length}, déjà à jour : ${bilan.deja.length}, sans position (cas impossibles) : ${bilan.nulles.length}, refusées : ${bilan.refus.length}`);
+console.log(`✓ posées : ${bilan.posees.length}, mises à jour : ${bilan.maj.length}, déjà à jour : ${bilan.deja.length}, sans position (cas impossibles) : ${bilan.nulles.length}, ${SURES ? `écartées par --sures (confiance basse) : ${bilan.ecartees.length}, ` : ''}refusées : ${bilan.refus.length}`);
 bilan.refus.forEach((r) => console.log('   refus — ' + r));
 if (process.argv.includes('--detail')) [...bilan.posees, ...bilan.maj].forEach((r) => console.log('   ' + r));
 console.log(`  cohérence : ${rapport.counts.erreur} erreur, ${rapport.counts.avert} avert., ${rapport.counts.info} info`);

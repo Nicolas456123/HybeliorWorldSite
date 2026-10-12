@@ -2,7 +2,7 @@
   "_meta": {
     "generatedFrom": "data/timeline-names.json + Canon mystères/romans",
     "generatedAt": "2026-07-17T00:00:00.000Z",
-    "updated_at": "2026-10-12T23:00:00.000Z",
+    "updated_at": "2026-10-12T22:00:00.000Z",
     "derniere_fusion": "raccord livres↔Atrium du 2026-09-23"
   },
   "entities": [
@@ -1658,12 +1658,23 @@
           "methode": "corpus:phrase",
           "indice": "#### Vie quotidienne dans l'age d'or tardif (~1 000 → An 0) Ce que ca fait de vivre dans un monde de 120 millions d'habitants avec 7 cites volantes et",
           "fiche": "Docs/Lore/Chronologie/Era 3b - Religions Verithan et la Chute.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 167,
+            "y": -218,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Alkaran",
+            "motif": "Capitale ancienne dont le noyau réduit est devenu Altram : même site que le marqueur Altram (166.9,-218.2), plaine sans pictogramme. La ville d'Altram n'est pas posée ; à repositionner avec elle.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:46:19.198Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "pol-0002",
@@ -9087,10 +9098,10 @@
                   "jour": 1
                 },
                 {
-                  "id": "lie-0825",
-                  "nom": "Kaloria",
-                  "x": -146.6,
-                  "y": 252.4,
+                  "id": "lie-0594",
+                  "nom": "Sondaris",
+                  "x": -161.5,
+                  "y": 252,
                   "jour": 2
                 },
                 {
@@ -11323,10 +11334,10 @@
                   "jour": 1
                 },
                 {
-                  "id": "lie-0825",
-                  "nom": "Kaloria",
-                  "x": -146.6,
-                  "y": 252.4,
+                  "id": "lie-0594",
+                  "nom": "Sondaris",
+                  "x": -161.5,
+                  "y": 252,
                   "jour": 2
                 },
                 {
@@ -15399,10 +15410,10 @@
                   "jour": 4
                 },
                 {
-                  "id": "lie-0825",
-                  "nom": "Kaloria",
-                  "x": -146.6,
-                  "y": 252.4,
+                  "id": "lie-0594",
+                  "nom": "Sondaris",
+                  "x": -161.5,
+                  "y": 252,
                   "jour": 5
                 },
                 {
@@ -26462,8 +26473,8 @@
             "lenteur_dite": "Jungle : « dès la première lieue, une monture y avance moins vite qu’un homme » (C/19).",
             "route": {
               "u": 120.5,
-              "terre_u": 111.1,
-              "eau_u": 9.4,
+              "terre_u": 112.1,
+              "eau_u": 8.4,
               "trace": [
                 {
                   "eau": 0,
@@ -26486,11 +26497,11 @@
                       171.5
                     ],
                     [
-                      -225,
+                      -226,
                       171.5
                     ],
                     [
-                      -224,
+                      -225,
                       172.5
                     ]
                   ]
@@ -26499,11 +26510,11 @@
                   "eau": 0,
                   "p": [
                     [
-                      -224,
+                      -225,
                       172.5
                     ],
                     [
-                      -223,
+                      -224,
                       173.5
                     ],
                     [
@@ -26531,9 +26542,9 @@
             "etape": 47,
             "note_saisie": "Trois jours à Wyndor (J443–446), puis près d’un mois dans un hameau de Marcheurs de la lisière nord (C/20 : « J’en profitai près d’un mois encore… avant de sortir à découvert »), la caravane de Ryvan, Lytharil ≈ J476.",
             "route": {
-              "u": 62.2,
-              "terre_u": 50.2,
-              "eau_u": 12,
+              "u": 64.9,
+              "terre_u": 53.9,
+              "eau_u": 11,
               "trace": [
                 {
                   "eau": 0,
@@ -26543,8 +26554,8 @@
                       173.3
                     ],
                     [
-                      -215,
-                      176.5
+                      -214,
+                      178.5
                     ]
                   ]
                 },
@@ -26552,12 +26563,12 @@
                   "eau": 1,
                   "p": [
                     [
-                      -215,
-                      176.5
+                      -214,
+                      178.5
                     ],
                     [
                       -203,
-                      176.5
+                      178.5
                     ]
                   ]
                 },
@@ -26566,7 +26577,7 @@
                   "p": [
                     [
                       -203,
-                      176.5
+                      178.5
                     ],
                     [
                       -170.2,
@@ -26578,11 +26589,11 @@
               "escales": [],
               "fait_le": "2026-09-28"
             },
-            "distance_lieues": 16,
+            "distance_lieues": 17,
             "jours_dispo": 33,
             "rythme": 0.5,
-            "lenteur": 15.2,
-            "note": "16 lieues (64 km) de route pour 33 j au calendrier (2,2 à l'allure normale) : le reste est séjour"
+            "lenteur": 14.4,
+            "note": "17 lieues (67 km) de route pour 33 j au calendrier (2,3 à l'allure normale) : le reste est séjour"
           },
           {
             "chapitre": "C/20",
@@ -27022,10 +27033,10 @@
               ],
               "escales": [
                 {
-                  "id": "lie-0725",
-                  "nom": "Malentar",
-                  "x": -445,
-                  "y": 207.8,
+                  "id": "lie-0346",
+                  "nom": "Coralvine",
+                  "x": -434.5,
+                  "y": 214.5,
                   "jour": 1
                 }
               ],
@@ -37515,12 +37526,23 @@
             "avant": "Le cratère de Caelum Prima est devenu un sanctuaire où l'on médite sur les dangers de l'hubris.",
             "pourquoi": "décision de l'auteur du 2026-10-01 (HybeliorPrototype/Docs/DECISIONS.md, D23) : V14 (ruines suspendues au-dessus du cratère de Caelum Prima), F16 de HybeliorPrototype/Docs/monde/BIOMES_MAGIQUES.md (v2, §13). Registre des incohérences, II, §14 (G)."
           }
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 29,
+            "y": -336,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Celethor",
+            "motif": "Île tombée dont le cratère-sanctuaire est surveillé par Aeloria (26.4,-338.9) à distance minimale sûre : posée à ~4 u au sud-est, intérieur des terres. Aucun pictogramme de cratère sur la carte. Les ruines suspendues (lie-1072) sont sur Aeloria.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-10-01T12:00:00.000Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0084",
@@ -51060,7 +51082,18 @@
             "avant": "entre en territoire altrami (ou inversement)",
             "pourquoi": "Ferrath touche Iskara (frontière des Hautes-Pierres ; C/8 : de Glintar, « la passe nord-est vers les hauts plateaux que les gens d'ici appellent Ferrath ») ; sa position estimée (229 ; 17) est sur Endora, au nord-est d'Iskara ; Altram et Torkam sont de l'autre côté de la mer Cendrée, et ce que les fiches tenaient par la terre avec eux passe par la mer ou revient à Iskara ; décision de l'auteur D49 (« la carte fait foi », 2026-10-12, après l'audit 1012) ; demande Studio de8d6b3a6 ; registre des incohérences, II, §21"
           }
-        ]
+        ],
+        "carte": {
+          "position_estimee": {
+            "x": 200.8,
+            "y": 21.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Ville lacustre partagée : seul lac peint de la zone Ferrath–Iskara ; rive est, en face du grand pictogramme fortifié de la rive ouest, qui est celui de Glintaris (capitale d'Iskara, croix à 6 u : écart de relevé). La fiche disait Altram, impossible depuis D49.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
@@ -51757,12 +51790,23 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Azoral.md », dont les dates se tiennent autour de 10149",
           "fiche": "Docs/Lore/Pays/Azoria/Azoral.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 149.6,
+            "y": 397.6,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Azoria",
+            "motif": "Port mineur accolé à Brisivar (1,2 u), côte sud, même saillie ; position de Brisivar elle-même estimée.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0199",
@@ -51889,12 +51933,23 @@
           "confiance": "moyenne",
           "methode": "corpus:sa fiche",
           "indice": "Établie tardivement (an +120 du Sillage), quand le Conclave jugea dangereuse la dépendance maritime envers Azoral ; la Guilde des Marins-Forgeurs fut "
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 255,
+            "y": 400.3,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Azoria",
+            "motif": "Port de Kethmaria, façade littorale sud de Kethvar : côte sud du centre d'Azoria (1,4 u), face à Solmaris.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0205",
@@ -51958,12 +52013,23 @@
           "methode": "corpus:phrase",
           "indice": ". Sa taille est telle qu'aucun artisan de Korindar n'a osé envisager de le tailler ; les fréquences libérées par une telle masse, selon les calculs du",
           "fiche": "Docs/Lore/Histoires/Ulinor/Ulinor.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 261,
+            "y": 357.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Azoria",
+            "motif": "Bourg minier annexe de Skarvar : à 3,9 u de Skarvar, vers l'intérieur.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0208",
@@ -52004,12 +52070,23 @@
           "methode": "corpus:paragraphe",
           "indice": "Halmar mourra probablement avant l'an 270. La cause sera vraisemblablement domestique — il n'a pas de risque professionnel, il a une bonne sœur, il vi",
           "fiche": "Docs/Lore/Histoires/Azoria/Kethvar.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 251,
+            "y": 371,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Azoria",
+            "motif": "Deuxième fissure, « à l'est de Kethdaria » (fiche de Kethdar) : 11 u à l'est de Kethdar.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0210",
@@ -52215,12 +52292,23 @@
           "methode": "corpus:phrase",
           "indice": "## Astralis-Bas — « Les Cahiers Qui Se Comparent » Esmar Velm-Solnir devint Veilleur du Conclave en l'an 240.",
           "fiche": "Docs/Lore/Histoires/Azoria/Solmaris.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 364,
+            "y": 441.2,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Azoria",
+            "motif": "Hameau enterré sous Astralis : 1,1 u d'Astralis (position estimée).",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0218",
@@ -52261,12 +52349,23 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Solmaris.md », dont les dates se tiennent autour de 10038",
           "fiche": "Docs/Lore/Pays/Azoria/Solmaris.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 372.5,
+            "y": 409.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Azoria",
+            "motif": "Fumeries au nord de Solnir : sur la côte nord, à 5 u à l'ouest de Solnir.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0220",
@@ -52313,12 +52412,23 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Solmaris.md », dont les dates se tiennent autour de 10038",
           "fiche": "Docs/Lore/Pays/Azoria/Solmaris.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 365.5,
+            "y": 444.2,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Azoria",
+            "motif": "Quartier portuaire accolé à Astralis (2,3 u) sur la côte sud (1,9 u).",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0222",
@@ -56165,12 +56275,23 @@
           "fin": 10196,
           "confiance": "haute",
           "methode": "fait-date"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 243.5,
+            "y": 67.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Central, croisement des routes : trouée entre les crêtes nord (Zylar-Sarandel) et sud, juste au nord-ouest du marqueur Sanvara. Pas de pictogramme.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0307",
@@ -56249,12 +56370,23 @@
       "body": null,
       "data": {
         "echelle": "bourg",
-        "genre": "caravanserail"
+        "genre": "caravanserail",
+        "carte": {
+          "position_estimee": {
+            "x": 231.5,
+            "y": 67.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Croisement des routes Andivar-Soltarin : à mi-chemin sur la plaine, sous le massif de Galrinor. Pas de pictogramme.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0311",
@@ -56265,12 +56397,23 @@
       "body": null,
       "data": {
         "echelle": "bourg",
-        "genre": "caravanserail"
+        "genre": "caravanserail",
+        "carte": {
+          "position_estimee": {
+            "x": 255.5,
+            "y": 68.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Endora",
+            "motif": "Premier relais après Soltarin sur la route de Murahal (est) : plaine à l'est de Soltarin. Pas de pictogramme.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0312",
@@ -56920,12 +57063,23 @@
       "summary": "Village d'altitude de Vaelcendia, site de la Grande Cloche de bronze de douze mètres qui n'a sonné que deux fois en mille ans.",
       "body": "Village d'altitude sur un plateau dégagé au centre de l'île ; site de la Grande Cloche, instrument de bronze de douze mètres de haut, visible à des lieues. Cloche fondue durant le Rituel du Grand Éveil sur instruction des treize Archidruides, par un fondeur ayant travaillé seul trois ans pour garder secrète la formule du bronze. N'a sonné que deux fois en mille ans : le premier coup, frappé par les treize Archidruides pour sceller le Rituel du Grand Éveil ; le second, lorsqu'une flotte d'invasion de Vytharia franchit les récifs de Brumalis. Sonner la Cloche sans raison suffisante est un crime capital ; gardée par les Veilleurs vivant dans un quasi-silence monastique.\n- Population : Village\n- Région : Vaelcendia\n- Particularités : La Grande Cloche, Ordre des Veilleurs\n\n*Extrait de la fiche d'Evertia.*\n\n## « Le Troisième Coup »\n\nLa Grande Cloche de Créciel avait sonne deux fois dans l'histoire d'Evertia. Deux fois en mille ans. Et chaque fois, le monde avait change.\n\nVeilleur Andar était le gardien de la Cloche depuis quarante ans. Il vivait dans le silence quasi monastique du plateau de Créciel, à l'ombre du bronze massif qui s'elevait à douze mètres au-dessus de lui. Quarante ans a polir, à entretenir, à protéger un instrument qui ne sonnerait probablement jamais de son vivant.\n\nAndar connaissait les deux premiers coups par cœur. Le premier avait sonne lors du Grand Éveil --- les treize Archidruides l'avaient frappée pour sceller le rituel. Le deuxième avait sonne lorsqu'une flotte d'invasion de Vytharia avait franchit les récifs de Brumalis --- l'île entière s'était dressée pour la repousser.\n\nLe troisième... personne ne savait a quoi ressemblerait le troisième. Les textes anciens disaient simplement : *Quand la Cloche sonnera pour la troisième fois, Evertia cessera d'être ce qu'elle était.*\n\nAndar y pensait chaque nuit. Assis au pied de la Cloche, il la regardait briller sous les étoiles et se demandait : est-ce que *cesser d'être ce qu'elle était* signifiait la destruction ? Ou la transformation ?\n\nUn soir, il posa sa main sur le bronze. Et le bronze vibra.\n\nPas un son. Pas encore. Mais une vibration --- profonde, lente, comme le premier tremblement avant un séisme. Andar retira sa main. La vibration continua. Elle venait d'en dessous. De la terre. Des racines. De quelque chose qui montait.\n\nIl alerta le Cercle des Archidruides. Ils vinrent. Ils posèrent leurs mains sur la Cloche. Ils sentirent la vibration. Ils se regardèrent. Et pour la première fois qu'Andar puisse se souvenir, il vit de la peur dans les yeux d'un Archidruide.\n\n*Personne ne frappe la Cloche*, ordonna l'Archidruide le plus ancien. *Et si elle sonne d'elle-même... fuyez.*\n\nAndar ne fuit pas. Il resta. Quarante ans de garde ne s'effacent pas par un ordre. Chaque nuit, il posait sa main sur le bronze et sentait la vibration --- un peu plus forte, un peu plus rapide, un peu plus proche.\n\nComme un battement de cœur qui s'eveille.\n\n---\n\n*Extrait de la fiche d'Evertia.*\n",
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": -418.8,
+            "y": 156.2,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Evertia",
+            "motif": "Village d'altitude au centre de l'île, site de la Grande Cloche : à 1,7 u du pictogramme peint « Cloche » (-419.8,157.6), qui est peut-être Créciel même (doublon à arbitrer).",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0338",
@@ -57071,12 +57225,23 @@
       "summary": "Petit port de la côte sud d'Evertia (Selvandor), village de plongeurs récoltant des coraux médicinaux ; l'un des rares lieux non teintés de secret.",
       "body": "Petit port de la côte sud, village des plongeurs récoltant dans les eaux turquoise des coraux aux propriétés médicinales. Village coloré ; l'un des rares lieux d'Evertia non teinté de secret, conséquence de son éloignement du pouvoir central (Archidruides et Gardiens y venaient rarement). Un inspecteur impérial venu réglementer les plongées repartit en estimant que l'atmosphère joyeuse était elle-même une forme de respect des esprits de la mer.\n- Population : Village\n- Région : Selvandor\n- Particularités : Récifs de coraux médicinaux, École de plongée\n\n*Extrait de la fiche d'Evertia.*\n\n## « La Plongeuse sans Ombre »\n\nEllara était la meilleure plongeuse de Coralvine. Ses poumons pouvaient retenir l'air pendant sept minutes. Ses yeux voyaient dans les profondeurs turquoise avec la clarté d'un rapace. Les coraux médicinaux qu'elle remontait étaient toujours les plus purs, les plus lumineux.\n\nElle plongeait seule. Toujours seule. Les autres plongeurs ne s'en offusquaient pas --- Ellara était étrange depuis l'enfance. Solitaire, taciturne, avec un regard qui semblait toujours fixer un point au-delà de l'horizon.\n\nLe jour où elle remonta sans ombre, personne ne le remarqua immédiatement.\n\nCe fut le vieux Corven, repareur de filets, qui le vit le premier. Ellara marchait sur la plage en plein soleil, et la où chaque passant projetait une ombre nette sur le sable blanc, Ellara ne projetait rien. Le soleil la traversait comme si elle n'était pas la.\n\nLa rumeur se répandit. Les villageois, d'abord incrédules, constatèrent le phénomène de leurs propres yeux. Ellara, debout à midi, sans ombre.\n\nOn l'interrogea. Elle répondit calmement. Lors de sa dernière plongée, elle avait découvert une grotte sous-marine qu'elle n'avait jamais vue --- un tunnel de corail qui descendait dans l'obscurité. Elle l'avait suivi. Au bout, une salle immense, sous-marine, éclairée par une lumière qui ne venait de nulle part.\n\n*Il y avait quelqu'un*, dit-elle. *Quelqu'un qui m'attendait. Pas un humain. Pas un esprit. Quelque chose entre les deux. Il m'a demandé mon ombre. Je la lui ai donnée.*\n\n*Pourquoi ?*\n\n*Parce qu'il m'a montré ce qu'il y a au fond de l'océan. Et pour le voir, il faut renoncer à ce qui nous attache à la surface.*\n\nLes druides de Selvacour vinrent l'examiner. Ils ne trouvèrent rien d'anormal --- sauf l'absence d'ombre. Les guérisseurs de Sélyandris ne detecterent aucune maladie. Ellara se portait parfaitement bien.\n\nMais elle avait change. Elle plongeait plus profond, plus longtemps. Elle remontait avec des coraux d'une couleur que personne n'avait jamais vue --- noirs, lumineux, froids au toucher. Et parfois, en sortant de l'eau, elle murmurait des mots dans une langue inconnue.\n\nLes villageois de Coralvine, les seuls à Evertia à vivre sans le poids du secret, commencèrent à fermer leurs portes la nuit. Pas à cause d'Ellara. A cause de ce qu'elle rapportait des profondeurs.\n\nCar les coraux noirs, poses sur l'étagère, pulsaient la nuit. Et dans le silence, si on collait l'oreille contre leur surface, on entendait une voix.\n\n---\n\n*Extrait de la fiche d'Evertia.*\n",
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": -434.5,
+            "y": 214.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Evertia",
+            "motif": "Petit port de la côte sud (Selvandor) : pointe sud du lobe, à ~1,2 u du trait de côte.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0347",
@@ -57109,12 +57274,23 @@
       "summary": "Hameau druidique evertien sur l'île d'Ilnara, attaché au Temple des Flammes Éternelles ; seul lieu où des Evertiens vénèrent le feu autant que la nature, en syncrétisme avec les prêtres cendariens de Lorenthia.",
       "body": "## (présence druidique sur Ilnara)\n\nHameau druidique attaché au Temple des Flammes Éternelles, sur l'île d'Ilnara — sanctuaire partagé au large, hors des eaux evertiennes (Ilnara relève juridiquement de Cendara/Arkhen). Seul lieu où des Evertiens vénèrent le feu autant que la nature ; les druides de Pyracine y côtoient les prêtres cendariens de Lorenthia, gardiens de la flamme dite brûlante depuis la création du monde (plumes tombées des Phénix de Feu tenues pour reliques sacrées). La présence evertienne remonte à un Phénix de Feu qui, lors d'une tempête, se posa sur l'île plusieurs jours ; les druides dépêchés à sa suite trouvèrent des forêts denses réchauffées par une légère activité volcanique souterraine et obtinrent des gardiens du Temple d'y demeurer. Le Temple est bâti autour de la fissure volcanique principale, qui abriterait dans ses profondeurs un Phénix ancien jamais approché avec succès. Pyracine surveille l'île autant qu'elle la vénère.\n- Population : Hameau\n- Région : Ilnara (sanctuaire extérieur, Cendara/Arkhen)\n- Particularités : Temple des Flammes Éternelles, Nids des Phénix de Feu\n\n*Extrait de la fiche d'Evertia.*\n\n## « La Dernière Plume »\n\nLe vieux Flamis était gardien du Temple des Flammes Éternelles depuis plus longtemps que quiconque pouvait se souvenir. Certains prêtres de Lorenthia disaient qu'il avait toujours été la --- que le temple avait été construit autour de lui plutôt que l'inverse.\n\nFlamis ne les contredisait pas. Il souriait, entretenait la flamme qui brûlait depuis la création du monde, et nourrissait les Phénix de Feu avec des morceaux de résine sacrée.\n\nIl aimait les Phénix. Pas comme les prêtres les aimaient --- avec révérence et distance. Flamis les aimait comme on aime des enfants. Il leur donnait des noms. Il connaissait leurs humeurs. Il savait lequel aimait les courants d'air chaud au-dessus de la canopée et lequel préférait dormir sur les rochers brûlants près du temple.\n\nMais les Phénix mouraient.\n\nPas en flammes, comme le voulait la légende. Pas pour renaître de leurs cendres. Ils mouraient comme des oiseaux ordinaires --- lentement, les plumes ternies, le feu intérieur s'eteignant. Et ils ne renaissaient pas.\n\nFlamis compta. Dix ans plus tôt, il nourrissait trente-sept Phénix. Aujourd'hui, il en restait onze. Aucun oeuf. Aucun nid nouveau. Aucune renaissance.\n\nIl descendit sous le temple, dans les galeries anciennes que les prêtres etudiaient en secret. Les inscriptions sur les murs, dans une langue que personne ne comprenait, montraient des Phénix --- des centaines, des milliers, volant autour d'une forme immense endormie dans la roche. Et en dessous, un seul mot, traduit approximativement par les prêtres : *Quand.*\n\nFlamis remonta. Il s'assit sur les marches du temple et regarda un Phénix voler au-dessus de la canopée. L'oiseau était vieux. Son feu était faible. Il volait avec la lenteur d'un être qui sait que chaque battement d'aile pourrait être le dernier.\n\nUne plume tomba. Rouge et or, encore brûlante. Flamis la ramassa. Il la serra contre son cœur.\n\nIl en arrivait à ce que les prêtres refusaient de formuler. Selon sa lecture --- une lecture qu'il ne partageait avec personne --- les Phénix ne mouraient pas parce que les esprits etaient en colère. Ils mouraient parce que ce qui était dit dormir sous le temple semblait remuer. Et les Phénix, dont les récits anciens disaient qu'ils étaient liés à ce sommeil, n'avaient plus la même intensité.\n\nLa dernière plume s'éteignit dans sa main. Froide. Grise. Morte.\n\nEt sous ses pieds, dans les profondeurs de la terre, quelque chose bougea.\n\n---\n\n*Extrait de la fiche d'Evertia.*\n",
       "data": {
-        "echelle": "hameau"
+        "echelle": "hameau",
+        "carte": {
+          "position_estimee": {
+            "x": -363,
+            "y": 291,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Ilnara",
+            "motif": "Hameau druidique attaché au Temple des Flammes Éternelles de Lorenthia (-360.6,288.4) sur Ilnara (île de Lorenthia/Meliflore) : 3,6 u de Lorenthia, forêt chauffée du sud-est.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0349",
@@ -63058,12 +63234,23 @@
           "fin": 9400,
           "confiance": "haute",
           "methode": "fait-date"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -198,
+            "y": 201.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Ilthara",
+            "motif": "« 3 lieues au NE du village » (Mirathi-village -205,213 estimé) : -196,204 tombe dans le lac de Nectoria ; point terre ferme au nord du lac, à 13 u. Pas de pictogramme.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0592",
@@ -63094,12 +63281,23 @@
       "summary": "Port modeste au pied des falaises de Mirathi, relié au replat du sanctuaire par des rampes taillées.",
       "body": null,
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": -212.5,
+            "y": 223.5,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Ilthara",
+            "motif": "Port au pied des falaises du plateau : côte ouest du plateau blanc, la plus proche du village (12 u), à 1 u du trait de côte, à 6 u de Velthorin.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0594",
@@ -63117,12 +63315,23 @@
           "methode": "corpus:fichier",
           "indice": "nommé dans « Nysaria.md », dont les dates se tiennent autour de 10193",
           "fiche": "Docs/Lore/Histoires/Celethor/Nysaria.md"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": -161.5,
+            "y": 252,
+            "confiance": "moyenne",
+            "methode": "indices",
+            "terre": "Ilthara",
+            "motif": "Port principal « au sud de Lunaris » : côte sud de Lunasar, à 1,2 u du trait de côte, à 7 u de la fiche estimée « Lunaris (capitale) ». Pas de pictogramme libre.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0595",
@@ -63330,12 +63539,23 @@
       "summary": "Village fortifié des marais de Fugnord (Mosrack) servant de dépôt d'armes : labyrinthe de bunkers souterrains creusés durant la Guerre des Cent-Jours sur ordre de Volkar le Marteau, réputés capables d'armer cent mille hommes.",
       "body": "Village fortifié servant de dépôt d'armes ; labyrinthe de bunkers et d'entrepôts souterrains dissimulés sous la végétation, réputés capables d'armer cent mille hommes. Bunkers creusés pendant la Guerre des Cent-Jours sur ordre de Volkar le Marteau (dispersion des réserves contre une frappe ennemie unique). La carte complète n'existe qu'en un seul exemplaire, dans le coffre personnel du Grand Stratège.\n- Population : Village\n- Région : Fugnord\n\n*Extrait de la fiche de Mosrack.*\n",
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": 367.7,
+            "y": 179.2,
+            "confiance": "moyenne",
+            "methode": "carte",
+            "terre": "Onara",
+            "motif": "Fugnord : grand pictogramme fortifié libre au centre du sud-ouest de Mosrack, cadre d'un dépôt d'armes. Attribution parmi six pictogrammes libres, interchangeables faute de texte.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0599",
@@ -63345,12 +63565,23 @@
       "summary": "Poste avancé des services de renseignement de Mosrack (formation à la torture, l'infiltration, le sabotage) dans les marais de Fugnord, absent des cartes officielles ; fondé au lendemain de la Guerre des Cent-Jours. Sa seule statue de femme honore la première directrice du renseignement.",
       "body": "Poste avancé des services de renseignement (formation à la torture, l'interrogatoire, l'infiltration, le sabotage) ; localisation absente des cartes officielles. Fondé au lendemain de la Guerre des Cent-Jours, après qu'un revers coûteux du début du conflit — la coalition ayant frappé la première, faute de tout réseau d'espionnage mosrackien pour l'anticiper — eut manqué de tout perdre avant le sursaut de Volkar. Premier directeur du renseignement : une femme ; sa statue, au centre du village, est la seule statue de femme en Mosrack.\n- Population : Village\n- Région : Fugnord\n\n*Extrait de la fiche de Mosrack.*\n",
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": 343.1,
+            "y": 179.3,
+            "confiance": "basse",
+            "methode": "carte",
+            "terre": "Onara",
+            "motif": "Fugnord : pictogramme libre isolé à l'ouest, loin des routes, cadre d'un poste « absent des cartes officielles ». Attribution parmi six pictogrammes libres.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0600",
@@ -63360,12 +63591,23 @@
       "summary": "Village de ravitaillement de Fugnord (Mosrack) approvisionnant les camps d'entraînement et servant de lieu de convalescence pour les recrues blessées ; construit après que la mortalité à Ausford fut jugée contre-productive.",
       "body": "Village de ravitaillement fournissant les camps d'entraînement en nourriture et équipement ; sert aussi de lieu de convalescence pour les recrues blessées (seul endroit de Fugnord où dormir dans un lit sec). Construit par le Commandant de Forge de Fugnord après que la mortalité à Ausford fut jugée contre-productive par le Directoire.\n- Population : Village\n- Région : Fugnord\n\n*Extrait de la fiche de Mosrack.*\n\n## \"Le Forgeron-Juge et le Couteau de Cuisine\"\n\nÀ Thrymar, le Conseil des Forgerons-Juges tranchait les disputes. Ce n'était pas une métaphore : ils étaient à la fois forgerons de profession et juges de droit, et ils rendaient leurs verdicts dans leurs ateliers, entre deux couches de métal.\n\nMaret était le plus redoutable des Forgeons-Juges. Ses verdicts étaient courts et définitifs. Les justiciables de Thrymar savaient : si Maret tranchait leur dispute, c'était terminé.\n\nUn jour, une femme vint le trouver pour une affaire ridicule : son voisin lui avait vole son couteau de cuisine. Un couteau ordinaire, de nul valeur marchande. Maret l'écouta avec une impatience à peine dissimulé.\n\nLe voisin nia. Maret demanda les preuves. La femme n'en avait pas. Le voisin proposa de jurer sur la Loi de Pierre. Maret s'apprêtait à trancher en faveur du voisin quand il remarqua quelque chose.\n\nLa femme regardait les mains du voisin.\n\nPas son visage. Pas les documents. Ses mains.\n\nMaret regarda aussi. Les mains du voisin portaient une cicatrice en C sur l'index droit --- le genre de cicatrice qu'on fait avec un couteau qui glisse et dont la poignée est mal ajustée. La femme avait un vieux couteau a poignée mal ajustée.\n\n\"Montre ta main gauche,\" dit Maret au voisin.\n\nLa paume gauche portait une cicatrice de même nature.\n\nLe voisin rendit le couteau. Maret rendit son verdict en six mots : \"Un couteau use croit ses maîtres.\"\n\nLa formule devint proverbiale a Thrymar. On l'utilise encore pour signifier que les objets, a force d'être utilisés, deviennent des témoins.\n\n---\n\n*Extrait de la fiche de Mosrack.*\n",
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": 356.2,
+            "y": 161.3,
+            "confiance": "basse",
+            "methode": "carte",
+            "terre": "Onara",
+            "motif": "Fugnord : pictogramme libre en bord de baie au sud d'Ausford, en position de ravitaillement des camps. Attribution parmi six pictogrammes libres.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0601",
@@ -63375,12 +63617,23 @@
       "summary": "Hameau d'ingénieurs militaires de Fugnord (Mosrack) testant les prototypes d'armes, affecté aux ingénieurs jugés trop dangereux pour les villes ordinaires ; explosions et accidents fréquents.",
       "body": "Hameau d'ingénieurs militaires testant les prototypes d'armes nouvelles ; explosions et accidents fréquents. Affecté aux ingénieurs trop dangereux pour les villes normales.\n- Population : Village\n- Région : Fugnord\n\n*Extrait de la fiche de Mosrack.*\n",
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": 383.7,
+            "y": 167.4,
+            "confiance": "basse",
+            "methode": "carte",
+            "terre": "Onara",
+            "motif": "Fugnord : pictogramme libre isolé sur la côte est, à l'écart (hameau d'ingénieurs dangereux, explosions). Attribution parmi six pictogrammes libres.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:47:11.487Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0602",
@@ -63390,12 +63643,23 @@
       "summary": "Village de dresseurs de bêtes de guerre de Fugnord (Mosrack), élevant par croisement des chiens de combat massifs destinés à accompagner les troupes.",
       "body": "Village de dresseurs de bêtes de guerre. Chiens de combat issus de croisements avec des races sauvages des marais — créatures massives et féroces accompagnant les troupes au combat ; programme de sélection mesuré en générations (septième génération dirigeable par n'importe quel soldat formé).\n- Population : Village\n- Région : Fugnord\n\n*Extrait de la fiche de Mosrack.*\n",
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": 379.7,
+            "y": 178.6,
+            "confiance": "basse",
+            "methode": "carte",
+            "terre": "Onara",
+            "motif": "Fugnord : pictogramme libre à l'est, en bordure de côte, espace pour les chenils. Attribution parmi six pictogrammes libres.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0603",
@@ -63405,12 +63669,23 @@
       "summary": "Avant-poste de Mosrack au cœur des marais de Fugnord, d'abord mission de cartographie puis converti en prison militaire aux travaux forcés dans la tourbe ; peu de prisonniers en reviennent.",
       "body": "Avant-poste isolé dans les marais les plus profonds de Fugnord, à l'origine mission d'exploration (cartographie), converti en prison militaire (travaux forcés dans la tourbe pour déserteurs et traîtres). Peu de prisonniers en reviennent ; le cœur de Fugnord n'a jamais été cartographié.\n- Population : Village\n- Région : Fugnord\n\n*Extrait de la fiche de Mosrack.*\n",
       "data": {
-        "echelle": "bourg"
+        "echelle": "bourg",
+        "carte": {
+          "position_estimee": {
+            "x": 365.5,
+            "y": 183.1,
+            "confiance": "basse",
+            "methode": "carte",
+            "terre": "Onara",
+            "motif": "Fugnord : pictogramme libre au cœur méridional de la région, le plus enfoncé dans l'intérieur (7 u de la côte, 11,5 de Fugnord). Attribution parmi six.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:11:29.318Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0604",
@@ -63746,12 +64021,23 @@
           "fin": 4000,
           "confiance": "haute",
           "methode": "fait-date"
+        },
+        "carte": {
+          "position_estimee": {
+            "x": 14.4,
+            "y": 99,
+            "confiance": "moyenne",
+            "methode": "carte",
+            "terre": "Ulinor",
+            "motif": "Capitale : grand pictogramme libre muré dans la plaine de Jentar (cœur d'Ulinor). Canyon de l'Écho non identifié sur la peinture (le canyon n'est pas peint), d'où confiance moyenne.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
         }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T19:21:56.943Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "lie-0618",
@@ -75369,10 +75655,10 @@
                   "jour": 4
                 },
                 {
-                  "id": "lie-0825",
-                  "nom": "Kaloria",
-                  "x": -146.6,
-                  "y": 252.4,
+                  "id": "lie-0594",
+                  "nom": "Sondaris",
+                  "x": -161.5,
+                  "y": 252,
                   "jour": 5
                 },
                 {
@@ -87165,12 +87451,23 @@
         "region": "Kryostra",
         "homonymie": "Kryndor de Ventera (lie-0522), dernier village avant les terres sans carte du sud ; aucun lien.",
         "provenance": "Docs/Lore/Pays/Celethor/Elarian.md, section Kryndor ; texte retiré de lie-0522 ; chantier 487, délégation de l'auteur du 2026-10-09 (HybeliorPrototype/Docs/DECISIONS.md, D38) ; registre des incohérences, II, §16",
-        "note": "Position non relevée : à poser sur la côte de Kryostra quand la carte le permettra."
+        "note": "Position non relevée : à poser sur la côte de Kryostra quand la carte le permettra.",
+        "carte": {
+          "position_estimee": {
+            "x": -77.8,
+            "y": -236.8,
+            "confiance": "moyenne",
+            "methode": "carte",
+            "terre": "Celethor",
+            "motif": "Ville principale de Kryostra : le seul grand pictogramme de ville fortifiée libre de la région, sur la rivière qui rejoint la côte ouest, au sud du lac de Glacoria. Mais à 11 u de la côte : falaise de 40 m sur fjord non peinte.",
+            "source": "carte peinte de l'auteur (HybeliorFull/HybeliorMap_files, niveaux 13-15) et fiches, relue le 2026-10-12 ; audit 1012 (D1), décision D49, demande de8d6b3a6 ; positions_1012"
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-10-09T12:00:00.000Z",
-      "updated_at": "2026-10-09T12:00:00.000Z"
+      "updated_at": "2026-10-12T22:00:00.000Z"
     },
     {
       "id": "con-0168",
