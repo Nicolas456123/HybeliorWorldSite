@@ -101,7 +101,7 @@ Région nord-est ; collines herbeuses et rivières vives. Région la plus fertil
 Plateaux venteux du sud ; terrain exigeant. Tribu du **Vent-Noir**, au caractère farouche et indépendant. Chevaux d'Aetharia : petits mais incroyablement résistants, montures les plus prisées d'Ilthara.
 
 ### Iliara
-Région méridionale ; collines douces et prairies fleuries, la plus paisible de Lythar. Tribu du **Vent-Doré** : élevage de moutons et culture d'herbes médicinales. Souvent le point de contact avec les nations du sud.
+Région méridionale ; collines douces où la taïga s'ouvre en prairies fleuries, la plus paisible de Lythar. Tribu du **Vent-Doré** : élevage de moutons et culture d'herbes médicinales. Souvent le point de contact avec les nations du sud.
 
 ### Myralis
 Steppe orientale ; territoire le plus sauvage de Lythar. Tribu du **Vent-Gris**, qui erre à la frontière de terres inexplorées et fournit les éclaireurs de la confédération. Ses steppes s'étendraient au-delà de tout ce qui a été exploré.

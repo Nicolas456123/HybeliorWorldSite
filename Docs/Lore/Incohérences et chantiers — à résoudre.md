@@ -761,6 +761,26 @@ Raccord livres ↔ Atrium inchangé (1 809 sur 1 820, les mêmes 11 légitimes).
 | 7b | Miralis (`lie-0728`) sans continent. | `pol-0116` Evertia reçoit `data.continent` et `situe-dans` Evertia (`lnk-4036`), comme Thalmaris et Sylvara. | Fiche Evertia : continent Evertia. |
 | 8 | Extraction des éléments nommés du gazetteer : « sans murailles ni palais » donnait murailles et palais. | Corrigé côté jeu (`a459_gazetteer.py`) : un élément précédé, dans sa proposition, de *sans*, *ni*, *aucun*, *pas de*, *point de*, *jamais de*, *dépourvu de*, *privé de*, *faute de* n'est plus retenu. | — |
 
+### 17. Ostram, Nectoria, Iliara, Obryalis : écarts des lots du jeu 462 et 510 — TRANCHÉS le 2026-10-12
+
+Même délégation (D38), même règle qu'au §16 ; demande Studio `dd6df7db1`. Script :
+`scripts/arbitrer-jeu-1012.js` (idempotent, sans reseed, `data.raccord` à chaque retouche ;
+`coord_x/y` jamais touchées). Pièce décisive : la carte peinte de l'auteur
+(`HybeliorFull/HybeliorMap_files/14`), où chaque lieu a son pictogramme. Raccord livres ↔ Atrium
+inchangé (1 809 sur 1 820).
+
+| # | Écart | Décision | Justification |
+|---|---|---|---|
+| 1 | `lie-0722` Ostram, village des grottes à champignons : coordonnée dans un lac du masque 461, « en mer » à 1,8 km de la terre au lot 462. | **Erreur de relevé, village de rive.** Ostram est sur la rive sud-est d'un lac étroit d'une dizaine de km ; les grottes s'ouvrent dans la berge et descendent sous le niveau de l'eau ; ni pilotis ni île. Résumé (« au bord d'un lac de Reckia »), section « Site », `data.carte.position_estimee` (−302,2 ; 146,55). | Le lac est peint par l'auteur (c'est le `lac-09` du 462) et le pictogramme du village est sur sa rive sud-est, 3,3 u au sud-est de la coordonnée relevée. L'air humide des grottes et la brume de Reckia (« esprits de l'eau ») en découlent. |
+| 2 | `lie-0693` Nectoria : coordonnée dans un lac, à 1,1 km de la rive. | **Même erreur de relevé** : ville de la rive sud-est, `data.carte.position_estimee` (−188,7 ; 206,75). Les livres en font un port de mer (C/27, arrivée par navire) alors que son lac est à ~16 km de la mer intérieure : **la ville est sur le lac, son port est sa marine** sur la côte de la mer intérieure (`data.carte.port`, −196,2 ; 192,2), reliée par une route. Section « Site ». | Pictogramme sur la rive sud-est du `lac-15`. La marine (modèle Athènes-Le Pirée) garde la carte et C/27 ; aucun texte de livre n'est touché. |
+| 3 | `lie-0941` Iliara : « prairies fleuries », taïga au masque 461. | **Le masque a raison sur le fond** (plan D23 : taïga sur toute la région, toundra au sud). La fiche devient une zone locale (D21) : collines où la taïga s'ouvre en prairies fleuries sur les croupes et les versants sud, taïga dans les creux. Résumé, corps (reporté dans `Docs/Lore/Pays/Ilthara/Lythar.md`), section « Paysage », `data.zone_locale`. | Même traitement que la « steppe » de Lythar (§16, 3a). Des prairies boréales fleuries l'été sont crédibles et portent les moutons et les herbes du Vent-Doré. |
+| 4 | `lie-0846` Obryalis : un seul sentier au réseau 462 (Myrthorin - Obryalis, pente et falaises). | **Il faut un chemin muletier (rang 3)**, pas une route (rang 4) : il monte de Myrthorin au col en lacets ; au-delà, des sentiers vers les aires des dragons et les sources chaudes. Section « Accès », `data.acces`. | Un col est un passage ; le village vit de la capitale (messages à la reine Myrthin après la Grande Chasse, voyage de Syraeth depuis Myrthorin). Rang 3 : celui des bourgs (CHEMINS). |
+
+**Corrections attendues côté jeu** (HybeliorPrototype, rien n'y est modifié ici) :
+- *Positions* : gazetteer et lieux du jeu prennent `data.carte.position_estimee` d'Ostram et de Nectoria quand elle existe ; chaque agglomération touche l'eau sur la rive sud-est la plus proche (`lac-09`, `lac-15`) ; la marine de Nectoria devient un hameau-port sur la mer intérieure.
+- *Routes (lot des routes, suite du 462)* : Myrthorin - Obryalis en **chemin** (rang 3) en lacets (pente 18 % par lacets et plates-formes, falaises contournées, au besoin un col retouché dans le relief) ; une route (rang 4) Nectoria - marine, ~16 km ; les tronçons d'Ostram et de Nectoria repartent des nouvelles positions.
+- *Masques (461)* : micro-zone « prairies fleuries d'Iliara » (exception au fond de taïga) centrée (−178,5 ; 185,5), rayon 8 u, part ouverte 0,55, lisières irrégulières, s'arrêtant avant la toundra (y ≈ 197) ; la micro-zone `mousse_ostram` de `microzones.py` suit la nouvelle position d'Ostram (rive, pas lac).
+
 
 ## III. Ce qui ne sera jamais tranché
 
