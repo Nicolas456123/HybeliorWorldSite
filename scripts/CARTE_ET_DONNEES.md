@@ -35,26 +35,31 @@ et 224 lieux positionnés ne tombent dans aucun pays. Conséquences :
   de Celethor par Ryldor (15 295 u² → 2 451 après correction des liens,
   testé en bac à sable). Mais 22 des 30 pays ressortent identiques : leurs
   erreurs viennent des aplats de « Hybelior Pays.png », pas des graines.
-- **Haldria au sud-ouest d'Ilthara (D47, décision de l'auteur du 2026-10-12)**,
-  qui renverse l'arbitrage Haldria/Warenthor des 14 et 22 septembre : Haldria
-  n'a plus `data.carte.sans_territoire`, son marqueur d'origine est rendu, ses
-  lieux étaient déjà posés là. Warenthor porte encore `data.carte.surface_figee`
-  sur le lobe sud-ouest, qui est l'ancien aplat « Haldria » : tant que l'auteur
-  n'a pas tranché le partage (proposition A au registre, II §20 : Haldria prend
-  l'aplat et la presqu'île de Ravantis, Warenthor son île de la mer intérieure
-  où sont tous ses lieux), une ré-extraction ne donne aucune surface à Haldria
-  (`assembler-pays.js` refuse le chevauchement). Pour appliquer la décision :
-  retirer `surface_figee` de Warenthor dans l'Atrium, puis la procédure
-  ci-dessous. `extract-pays.js` respecte toujours les deux drapeaux.
-- **Outillage** : `extract-pays.js` et `generer-cartes-eres.js` lancent
-  Chromium par `playwright-core` (chemin `/opt/pw-browsers`) ; sur le poste
-  Windows ni l'un ni l'autre n'est installé (constat du 2026-10-12).
+- **Haldria au sud-ouest d'Ilthara (D47 puis D50, décisions de l'auteur du
+  2026-10-12)**, qui renversent l'arbitrage Haldria/Warenthor des 14 et 22
+  septembre. Haldria n'a plus `sans_territoire`, son marqueur d'origine est
+  rendu ; sa surface (aplat « Haldria » + presqu'île de Ravantis, frontières
+  tiretées relevées à la main : Ackerna au nord-ouest, Sylthara au nord,
+  Vytharia à l'est) est tracée par `scripts/surface-haldria-d50.js` et FIGÉE
+  (`pol-0017 data.carte.surface_figee`) : une ré-extraction la reprend telle
+  quelle ; pour la refaire, relancer ce script après `assembler-pays.js`. Le même
+  script ajoute à Ackerna le coin nord-ouest de l'ancien lobe (Reckia, Vesperis,
+  Ostram). Warenthor a perdu `surface_figee` : il reprend la côte de son île de
+  la mer intérieure (repli « côte d'île » d'`extract-pays.js`), où sont tous
+  ses lieux. Mesure au 2026-10-12 : Haldria 17 justes, 0 intrus, 0 échappé ;
+  Ackerna 11/0/0 ; Warenthor 3/0/0 ; total justes 210 → 233, intrus 45 → 36.
+- **Outillage** : `extract-pays.js`, `generer-cartes-eres.js` et
+  `extract-contours.js` lancent Chromium par `playwright-core` (dépendance de
+  développement du dépôt) ; le chemin vient de `scripts/chromium-exe.js` :
+  variable `HYB_CHROMIUM`, sinon `/opt/pw-browsers` (environnement d'origine),
+  sinon le Chromium de Playwright (`npx playwright-core install chromium`).
 - **Procédure de ré-extraction** — ne JAMAIS enchaîner extract + snap seuls,
   ils écrasent tout et font régresser Astravia/Elarian :
   `cp data/monde-contours.json /tmp/pays-en-place.json` →
   `node scripts/extract-pays.js && node scripts/snap-pays-cotes.js` →
   `node scripts/assembler-pays.js /tmp/pays-en-place.json` (ne garde une
   surface neuve que si elle est meilleure sur tous les plans) →
+  `node scripts/surface-haldria-d50.js` (Haldria et le coin d'Ackerna, D50) →
   `node scripts/generer-cartes-eres.js`. Mesure : `node scripts/diagnostic-pays.js`.
 - **État au 2026-09-22** : 5 surfaces remplacées (Ryldor, Ackerna, Sylthara,
   Pyrtara, No Man's Land Celethor) — justes 200 → 207, intrus 58 → 45.

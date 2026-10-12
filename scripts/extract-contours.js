@@ -43,10 +43,7 @@ const MONDE_PAR_IMG = 1047, OX = 527.5, OY = 535;
 
 (async () => {
   const { chromium } = require(path.join(ROOT, 'node_modules', 'playwright-core'));
-  const exe = fs.readdirSync('/opt/pw-browsers')
-    .filter((d) => /^chromium[-_]?\d/.test(d))
-    .map((d) => `/opt/pw-browsers/${d}/chrome-linux/chrome`)
-    .find((p) => fs.existsSync(p));
+  const exe = require('./chromium-exe.js')(); // HYB_CHROMIUM, /opt/pw-browsers, sinon le Chromium de playwright-core
   const browser = await chromium.launch({ executablePath: exe, args: ['--no-sandbox'] });
   const page = await browser.newPage();
 

@@ -825,7 +825,7 @@ inchangé (1 809 sur 1 820).
 - *Routes (suite du 462)* : la Route des Forges en route principale (rang 4) selon les étapes de `lie-0010 data.routes.route_des_forges`.
 - *BIOMES_MAGIQUES F1* : « Ailleurs ? » devient les errantes (Brastallia, 5-25 m, dérivantes) et les échouées de Lysoria (60-400 m, presque immobiles), Astravia seulement ; kit `Art/Kits/IlesDiv6`.
 
-### 20. Haldria au sud-ouest d'Ilthara (D47) — TRANCHÉ le 2026-10-12 par l'auteur ; surface en attente
+### 20. Haldria au sud-ouest d'Ilthara (D47, D50) — TRANCHÉ le 2026-10-12 par l'auteur
 
 Décision de l'auteur (D47) : Haldria est au **sud-ouest d'Ilthara**, là où sa carte pose Hekorinth, toutes ses
 villes et ses quatre régions. Elle renverse l'arbitrage du 2026-09-14 (Haldria sur Endora, « sans
@@ -842,19 +842,26 @@ inchangée (0 erreur) ; raccord livres ↔ Atrium inchangé (1 809 sur 1 820, d�
 | 4 | Endora `lie-0007` « trois nations — Avalor, Haldria, Sanvara » (résumé, géographie, biomes, routes) ; Ilthara `lie-0010` « huit nations », note « les fiches d'Ilthara n'incluent plus Haldria ». | Endora : **deux nations** (Avalor, Sanvara) ; Haldria reste la troisième voix de sa polyphonie, **par la mer** (Route des Marées : côte haldrienne puis mer jusqu'à Yaderis ; Route Astrale par mer jusqu'à Murahal). Ilthara : **neuf nations**, ligne Haldria au tableau. Miroirs Docs reportés. Lunasar `pol-0034` : « Endora (Haldria) » devient « Haldria ». |
 | 5 | Brumaria (Brumaris, Brumancia, Mont Cendra, vers −320 ; 245) : Ilthara ou Cendara ? | **Cendara, Grande Île**, déjà rattachée ainsi par les fiches (`pol-0086` situe-dans Cendara) : les points tombent dans la masse « Cendara » des côtes validées, à ~50 u de la côte d'Ilthara ; aucune fiche ne la dit en Ilthara. Rien à retoucher. |
 
-**Surface de Haldria (carte des pays) : décision de l'auteur attendue.** La procédure de `scripts/CARTE_ET_DONNEES.md`
-ne peut pas donner de surface à Haldria tant que Warenthor garde `surface_figee` : le lobe figé de Warenthor
-est l'ancien aplat de Haldria, et `assembler-pays.js` refuse toute surface neuve qui le chevauche. Constat
-(planche du 2026-10-12) : sur « Hybelior Pays.png », l'aplat vert du sud-ouest porte le nom « Haldria » ;
-les lieux positionnés de Warenthor (Wyndor, Galdris, Fylorin, la région) sont tous sur l'**île de la mer
-intérieure** ; le lobe figé contient 10 lieux de Haldria et 3 d'Ackerna (Reckia, Vesperis, Ostram), aucun de
-Warenthor. Proposition A : Haldria = l'aplat « Haldria » plus la presqu'île de Ravantis (Feldris, Ylloris,
-Tyrolis, aplat brun sans nom sur la carte Pays, mais Ravantis selon les fiches), rognés aux côtes validées et
-aux surfaces voisines, bord nord calé sur la frontière d'Ackerna ; Warenthor lève `surface_figee` et reprend son
-île (repli « côte d'île » de `extract-pays.js`), ce qui contredit sa fiche (« forêt géante du sud ») : à
-trancher par l'auteur. Outillage : `extract-pays.js` et `generer-cartes-eres.js` exigent `playwright-core` et
-le Chromium de `/opt/pw-browsers`, absents du poste Windows : la procédure n'a pas pu être rejouée ici.
-`data/monde-contours.json` n'est pas modifié.
+**Surface de Haldria (carte des pays) : tranchée par l'auteur (D50).** Constat de la planche du 2026-10-12 : sur
+« Hybelior Pays.png », l'aplat vert du sud-ouest porte le nom « Haldria » ; les lieux positionnés de Warenthor
+(Wyndor, Galdris, Fylorin, la région) sont tous sur l'**île de la mer intérieure** ; l'ancien lobe figé de
+Warenthor contenait 10 lieux de Haldria, 3 d'Ackerna, aucun de Warenthor. Décision : proposition A sans Ackerna.
+Haldria = l'aplat « Haldria » + la presqu'île de Ravantis, frontières tiretées relevées à la main (Ackerna au
+nord-ouest, Sylthara au nord en passant au sud de Falyria, Vytharia vers x ≈ −222 ; Brystalis reste à Vytharia),
+tracée par `scripts/surface-haldria-d50.js` et figée (`pol-0017 data.carte.surface_figee`) ; le coin nord-ouest
+(Reckia, Vesperis, Ostram) est ajouté à Ackerna ; Warenthor perd `surface_figee`, reprend son île (repli « côte
+d'île » d'`extract-pays.js`) et sa fiche devient celle d'une île forestière (`scripts/arbitrer-warenthor-1012.js`).
+Procédure de `scripts/CARTE_ET_DONNEES.md` suivie (sauvegarde, extract + snap, assembler, script D50,
+`verifier-contours`, `generer-cartes-eres`) ; seules Haldria, Ackerna et Warenthor changent dans le jeu actuel.
+Mesure : Haldria 17 justes / 0 intrus / 0 échappé ; Ackerna 8 → 11 justes, 0 intrus, 3 → 0 échappés ;
+Warenthor 0 → 3 justes, 9 → 0 intrus ; total 210 → 233 justes, 45 → 36 intrus. Cartes par ère : Haldria
+entre dans Dominat de Pyrion (ère 3) et Drahk'Nor (ère 5), le Protectorat d'Haldros reçoit sa surface (ère 6),
+le Saint-Empire d'Endara n'hérite plus que d'Avalor. Outillage : `playwright-core` installé en dépendance de
+développement, Chromium de Playwright, chemin par `scripts/chromium-exe.js`.
+
+**Livres, Warenthor** (même skill) : Chroniques, ch. 19 — Sorin descend vers Warenthor à pied par la Trace Verte
+depuis les moissons de Sylthara, sans traversée (environ 9 u d'eau sur le trajet calculé) ; ch. 20 — départ à
+pied de Wyndor vers Lytharil (environ 12 u d'eau) : à reprendre pour une île (passe, gué de racines ou barque).
 
 **Livres à reprendre** (skill `reecriture-livres`, rien n'est modifié ici) : Chroniques, ch. 13 — l'intitulé
 « Endora — Perivalis, Crestalis, Hekorinth » ; « Haldria commence où la forêt s'arrête » juste après une
