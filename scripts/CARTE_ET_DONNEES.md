@@ -35,12 +35,20 @@ et 224 lieux positionnés ne tombent dans aucun pays. Conséquences :
   de Celethor par Ryldor (15 295 u² → 2 451 après correction des liens,
   testé en bac à sable). Mais 22 des 30 pays ressortent identiques : leurs
   erreurs viennent des aplats de « Hybelior Pays.png », pas des graines.
-- **Arbitrage Haldria/Warenthor maintenu (tranché le 2026-09-22, délégation
-  de l'auteur) et désormais ÉCRIT dans l'Atrium** au lieu de dépendre d'un
-  marqueur vide : Haldria porte `data.carte.sans_territoire` (d'Endora selon
-  sa fiche, ses lieux restent posés en Ilthara sur la carte) ; Warenthor
-  porte `data.carte.surface_figee` (le lobe lui a été réattribué à la main,
-  aucune extraction ne le refait). `extract-pays.js` respecte les deux.
+- **Haldria au sud-ouest d'Ilthara (D47, décision de l'auteur du 2026-10-12)**,
+  qui renverse l'arbitrage Haldria/Warenthor des 14 et 22 septembre : Haldria
+  n'a plus `data.carte.sans_territoire`, son marqueur d'origine est rendu, ses
+  lieux étaient déjà posés là. Warenthor porte encore `data.carte.surface_figee`
+  sur le lobe sud-ouest, qui est l'ancien aplat « Haldria » : tant que l'auteur
+  n'a pas tranché le partage (proposition A au registre, II §20 : Haldria prend
+  l'aplat et la presqu'île de Ravantis, Warenthor son île de la mer intérieure
+  où sont tous ses lieux), une ré-extraction ne donne aucune surface à Haldria
+  (`assembler-pays.js` refuse le chevauchement). Pour appliquer la décision :
+  retirer `surface_figee` de Warenthor dans l'Atrium, puis la procédure
+  ci-dessous. `extract-pays.js` respecte toujours les deux drapeaux.
+- **Outillage** : `extract-pays.js` et `generer-cartes-eres.js` lancent
+  Chromium par `playwright-core` (chemin `/opt/pw-browsers`) ; sur le poste
+  Windows ni l'un ni l'autre n'est installé (constat du 2026-10-12).
 - **Procédure de ré-extraction** — ne JAMAIS enchaîner extract + snap seuls,
   ils écrasent tout et font régresser Astravia/Elarian :
   `cp data/monde-contours.json /tmp/pays-en-place.json` →
@@ -75,7 +83,9 @@ la carte les affiche sans modification de code (surfacesPourEre).
 Limites : Union des Flammes et Azor-Kerev sans territoire (leurs
 héritiers Arkhen/Pyrevane/Azoral/Kethvar/Caeloria n'ont pas de surface
 extraite). Haldria : tranché le 2026-09-14 (registre §10) — la surface
-d'Ilthara est celle de Warenthor, Haldria (Endora) reste sans marqueur ;
+d'Ilthara est celle de Warenthor, Haldria (Endora) reste sans marqueur
+[renversé le 2026-10-12, D47 : Haldria est au sud-ouest d'Ilthara ; sa
+généalogie passe par le Protectorat d'Haldros ← Drahk'Nor, plus par Endara] ;
 les autres écarts carte/fiches (Iskara, Thalmaris, Skaldoria, Myrtam)
 sont assumés : position = carte de l'auteur, rattachement = fiches.
 

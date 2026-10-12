@@ -50,7 +50,7 @@ Trois géographies, trois leçons. Le visiteur attentif comprend vite que les pe
 
 ## Les peuples
 
-Trois nations partagent Endora, héritières chacune d'un de ses paysages, et pourtant tissées par des routes anciennes que ni le sable ni la liane ne sont jamais parvenus à effacer.
+Deux nations partagent Endora, Avalor et Sanvara, et Haldria y aborde depuis Ilthara ; toutes sont tissées par des routes anciennes que ni le sable ni la liane ne sont jamais parvenus à effacer.
 
 ### Avalor
 
@@ -90,9 +90,9 @@ Au-dessus de ces lectures coexiste une mythologie commune, celle des **Voix Tenu
 
 ## Histoire courte
 
-Endora n'a connu qu'une seule unification, et elle remonte à si loin qu'elle tient désormais du mythe. Jadis, aux temps du Lien, le **Saint-Empire d'Endara** tint le continent entier — Avalor, Haldria et Sanvara descendent de ce souvenir, héritières d'une théocratie arcane qui fit un temps l'envie du monde avant que ses provinces périphériques ne déclarent, une par une, leur indépendance. Depuis sa chute, il y a des millénaires, aucun empire n'a plus tenté, sérieusement, de soumettre les trois terres à une même main. Les déserts résistent par nature ; la jungle dévore ce qu'on cherche à y bâtir ; les plaines, traversées de cavaliers libres, n'offrent à personne de prise durable.
+Endora n'a connu qu'une seule unification, et elle remonte à si loin qu'elle tient désormais du mythe. Jadis, aux temps du Lien, le **Saint-Empire d'Endara** tint le continent entier — Avalor et Sanvara descendent de ce souvenir, héritières d'une théocratie arcane qui fit un temps l'envie du monde avant que ses provinces périphériques ne déclarent, une par une, leur indépendance. Depuis sa chute, il y a des millénaires, aucun empire n'a plus tenté, sérieusement, de soumettre les trois terres à une même main. Les déserts résistent par nature ; la jungle dévore ce qu'on cherche à y bâtir ; les plaines, traversées de cavaliers libres, n'offrent à personne de prise durable.
 
-Faute de pouvoir se conquérir, les peuples se sont **tolérés**. Faute de pouvoir s'imposer, ils ont **négocié**. Les routes sont anciennes — la **Route Verte** qui relie Avalor aux oasis sanvariennes, la **Route des Marées** qui longe les côtes haldriennes, la **Route Astrale** qui plonge depuis Hekorinth vers la frontière esperienne. Toutes trois ont vu naître et mourir des civilisations dont il ne reste plus que des cités englouties par le sable ou la liane.
+Faute de pouvoir se conquérir, les peuples se sont **tolérés**. Faute de pouvoir s'imposer, ils ont **négocié**. Les routes sont anciennes — la **Route Verte** qui relie Avalor aux oasis sanvariennes, la **Route des Marées** qui part des côtes haldriennes, outre-mer, la **Route Astrale** qui, depuis Hekorinth, traverse la mer et plonge vers la frontière esperienne. Toutes trois ont vu naître et mourir des civilisations dont il ne reste plus que des cités englouties par le sable ou la liane.
 
 Plusieurs Souffles ont traversé le continent. Chacun a redistribué les voix, fait taire certaines pratiques et en a fait surgir d'autres. Les Cités des Sables ont, dit-on, été plus nombreuses jadis ; certaines dorment encore sous des dunes dont aucun vivant ne connaît plus le nom. Les glyphes d'Esperia auraient été plus lisibles aux générations anciennes ; aujourd'hui, seuls quelques érudits prétendent en deviner le sens, et leurs traductions ne s'accordent jamais entre elles.
 

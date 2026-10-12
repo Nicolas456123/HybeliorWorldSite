@@ -169,7 +169,7 @@ needs_review_for: []
 | **[[Mirathi]]** (province sœur) | Indifférence cordiale | Autre province côtière de Vytharia. Les Lunariens jugent la pratique oraculaire mirathienne intéressante mais incompatible avec leur calendrier. |
 | **Tyndara** | Commercial | Marchands tyndariens sur les marchés de Sondaris. Consultations de rêve commercial. |
 | **Galenor (Lumasar)** | Échange académique | Lecteurs de rêves formés à Lumasar reviennent appliquer une méthode plus systématique — querelle interne. |
-| **Endora (Haldria)** | Échange astronomique | Correspondance régulière entre les observatoires lunariens et haldriens. Les étoiles décalées de Haldria sont sujet de débat à Lunaris. |
+| **Haldria** | Échange astronomique | Correspondance régulière entre les observatoires lunariens et haldriens. Les étoiles décalées de Haldria sont sujet de débat à Lunaris. |
 | **Galenor (autres)** | Tourisme érudit | Quelques résidents galenoriens en cure de calme. |
 
 ---

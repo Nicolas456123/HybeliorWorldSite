@@ -14,12 +14,12 @@ needs_review_for: []
 | **Type** | Continent central de l'hémisphère est ; façade maritime à l'ouest, reliefs modérés à l'est |
 | **Taille** | Relativement petit, à forte densité culturelle et acoustique |
 | **Climat** | Tempéré à doux ; gradient nord-ouest (humide, frais) → sud-est (sec, chaud) |
-| **Nations** | 3 — [[Avalor]], [[Haldria]], [[Sanvara]] |
+| **Nations** | 2 — [[Avalor]], [[Sanvara]] ; [[Haldria]], sur la rive d'Ilthara, en est le partenaire d'outre-mer |
 | **Trait commun** | Chaque nation « tient une voix » — une discipline d'écoute codifiée |
 
 Disciplines d'écoute par nation :
 - **Avalor** — écoute la forêt et ses présences (« nous écoutons »)
-- **Haldria** — lit les étoiles et les marées (« nous lisons »)
+- **Haldria** (outre-mer, au sud-ouest d'Ilthara) — lit les étoiles et les marées (« nous lisons »)
 - **Sanvara** — arbitre les routes, les contrats et les langues croisées (« nous arbitrons »)
 
 Faits notables :
@@ -32,21 +32,21 @@ Faits notables :
 
 ## Géographie
 
-Trois bandes (axes) identifiables en deux semaines de marche :
+Deux bandes (axes) identifiables en deux semaines de marche, et une troisième de l'autre côté de la mer :
 
 - **Axe sylvestre du nord-ouest (Avalor)** — forêts primaires d'Indelite, vallées de Crestalia, lisières de Wildoria, plaines fluviales de Perival. Climat tempéré humide, hivers courts, étés longs sous canopée. Particularité acoustique : un mot prononcé dans une clairière porte à plusieurs centaines de pas, alors qu'un cri dans un bosquet d'Indelite peut s'éteindre en quelques mètres (lu comme « présences attentives » par les Avaloréens ; « structure résonante des frondaisons » pour les acousticiens étrangers).
-- **Axe maritime occidental (Haldria)** — côte découpée de Hekoria, fjords d'Uldora, archipel de Kandaros, plages de Ravantis. Brumes côtières fréquentes ; clarté nocturne exceptionnelle dans les îles éloignées (Zaldrin) ; courants marins qui changent de cap chaque génération (cause inconnue). Les marins haldriens affirment qu'on peut, par nuit claire, y distinguer une étoile absente des Tables.
+- **Axe maritime d'outre-mer (Haldria, au sud-ouest d'Ilthara)** — hors d'Endora, mais lié à ses ports par la Route des Marées : côte découpée de Hekoria, fjords d'Uldora, archipel de Kandaros, plages de Ravantis. Brumes côtières fréquentes ; clarté nocturne exceptionnelle dans les îles éloignées (Zaldrin) ; courants marins qui changent de cap chaque génération (cause inconnue). Les marins haldriens affirment qu'on peut, par nuit claire, y distinguer une étoile absente des Tables.
 - **Axe de transit central et oriental (Sanvara)** — plaines herbeuses de Valmera, oasis du nord-ouest, lisières humides de la jungle d'Esperia à l'est. Climat saisonnier (sèche / mousson). Les caravansérails servent simultanément de marchés, de cours d'arbitrage, de relais postaux et d'auberges religieuses. Forte densité de bruit humain à Soltarin un jour de Conseil (« polyphonie sans chef d'orchestre »).
 
 **Hydrographie majeure :**
 - **Rivière Verte** — descend des reliefs orientaux d'Indelite, traverse Perival, se jette dans la mer aux abords de Perivalis.
 - **Lac Sylvain** — cœur lacustre de Valarion.
-- **Fjords d'Uldora** — orientation et profondeur proches des fjords celethoriens, sans les températures glaciaires.
+- **Fjords d'Uldora** (Haldria, outre-mer) — orientation et profondeur proches des fjords celethoriens, sans les températures glaciaires.
 - **Puits d'oasis de Khessit** — débit en baisse depuis trois générations (cause non formalisée par les Lecteurs de Saison).
 
-**Biomes :** forêt tempérée dense (Indelite, Crestalia) · bocage côtier (Perival, Uldora) · littoral découpé (Hekoria, Ravantis) · archipel insulaire (Kandaros) · prairie ouverte (Valmera, abords sanvariens d'Avalor) · désert d'oasis (nord-ouest sanvarien) · lisière de jungle humide (frontière Sanvara-Esperia). Comme à Galenor, une journée de voyage suffit souvent à passer d'un biome à un autre.
+**Biomes :** forêt tempérée dense (Indelite, Crestalia) · bocage côtier (Perival) · prairie ouverte (Valmera, abords sanvariens d'Avalor) · désert d'oasis (nord-ouest sanvarien) · lisière de jungle humide (frontière Sanvara-Esperia). Comme à Galenor, une journée de voyage suffit souvent à passer d'un biome à un autre.
 
-**Climat :** tempéré à doux ; gradient nord-ouest (humide, frais) → sud-est (sec, chaud). Lenteur étrange des saisons notée depuis env. l'an 100 par les chroniqueurs d'Hekorinth (étés plus tardifs et plus persistants que dans les chroniques anciennes) ; confirmée par les paysans de Sylthara, non commentée publiquement par les Astrologues de la Couronne.
+**Climat :** tempéré à doux ; gradient nord-ouest (humide, frais) → sud-est (sec, chaud). Lenteur étrange des saisons notée depuis env. l'an 100 par les chroniqueurs d'Hekorinth, en Ilthara (étés plus tardifs et plus persistants que dans les chroniques anciennes) ; confirmée par les paysans de Sylthara, non commentée publiquement par les Astrologues de la Couronne.
 
 ---
 
@@ -80,11 +80,11 @@ Aucune lecture ne s'accorde sur le **statut actuel** des Voix Tenues (présentes
 | Pays | Identité |
 |------|----------|
 | [[Avalor]] | Théocratie sylvestre, Pacte des Sylves, écoute des présences forestières |
-| [[Haldria]] | Monarchie maritime, navigation stellaire, lecture des Tables et des marées |
+| [[Haldria]] (Ilthara, outre-mer) | Monarchie maritime, navigation stellaire, lecture des Tables et des marées |
 | [[Sanvara]] | Confédération marchande, hospitalité codifiée, arbitrage itinérant |
 
 > [!info] Note V3.4 — nations à cheval (historique Access)
-> La base canonique Access rattache à l'origine **Iskara** au continent Endora (N°11), **Thalmaris** à Endora (N°11), et **Haldria** à Ilthara (N°10). La refonte V3.4 a consolidé ces nations selon leur cohérence narrative actuelle : Iskara → Alkaran, Thalmaris → Evertia, Haldria → Endora. La trinité actuelle d'Endora — Avalor, Haldria, Sanvara — est celle de la refonte.
+> La base canonique Access rattache à l'origine **Iskara** au continent Endora (N°11), **Thalmaris** à Endora (N°11), et **Haldria** à Ilthara (N°10). La refonte V3.4 a consolidé ces nations selon leur cohérence narrative : Iskara → Alkaran, Thalmaris → Evertia, et avait rangé Haldria sous Endora. Le 12 octobre 2026, l'auteur a rendu Haldria à Ilthara, au sud-ouest, où sa carte pose ses villes : Endora compte deux nations, et Haldria reste la troisième voix de sa polyphonie, par la mer.
 
 ---
 
@@ -93,8 +93,8 @@ Aucune lecture ne s'accorde sur le **statut actuel** des Voix Tenues (présentes
 Trois grandes routes structurent les échanges ; toutes anciennes, aucune protégée par un cadre supranational. Comme à Galenor, la coopération tient parce qu'elle coûterait plus cher à rompre.
 
 - **Route Verte** (Perivalis → Andivar → Soltarin → Khessit) — route caravanière historique reliant Avalor au cœur sanvarien, puis aux oasis du nord-ouest. Passe par le seul point de contact commercial autorisé d'Avalor (Perivalis) ; tracé négocié saison par saison avec le Cercle des Murmures. Plus aucun caravansérail ne tente de la déplacer.
-- **Route des Marées** (Hekorinth → Raldir → Ravindor → Yaderis) — route maritime et terrestre reliant Haldria à Sanvara par le sud ; traverse la frange orientale de Perival sans entrer dans la forêt profonde. Flottes haldriennes et caravanes sanvariennes se croisent à Yaderis (lieu de l'essentiel du transbordement). A vu naître la **Voie Stellaire du Vent**, syncrétisme local entre Ordo Caelum et Via Ventus, jamais formellement reconnu par l'une ni l'autre.
-- **Route Astrale** (Hekorinth → Tyrolis → Murahal → frontière d'Esperia) — route savante et risquée, partiellement délaissée depuis trois Souffles. Les cartographes de Tyrolis y envoient des étudiants ; Murahal en sécurise les derniers tronçons. Depuis quelques décennies, des observations astronomiques rapportées par des voyageurs sanvariens arrivent à Hekorinth par cette route (reçues froidement par les Astrologues de la Couronne).
+- **Route des Marées** (Hekorinth → Raldir → Ravindor, puis la mer jusqu'à Yaderis) — route côtière en Haldria puis maritime, qui relie les ports haldriens d'Ilthara à Sanvara par le sud ; à l'arrivée, elle longe la frange orientale de Perival sans entrer dans la forêt profonde. Flottes haldriennes et caravanes sanvariennes se croisent à Yaderis (lieu de l'essentiel du transbordement). A vu naître la **Voie Stellaire du Vent**, syncrétisme local entre Ordo Caelum et Via Ventus, jamais formellement reconnu par l'une ni l'autre.
+- **Route Astrale** (Hekorinth → Tyrolis par la côte haldrienne, puis la mer jusqu'à Murahal et la frontière d'Esperia) — route savante et risquée, partiellement délaissée depuis trois Souffles. Les cartographes de Tyrolis y envoient des étudiants ; Murahal en sécurise les derniers tronçons. Depuis quelques décennies, des observations astronomiques rapportées par des voyageurs sanvariens arrivent à Hekorinth par cette route (reçues froidement par les Astrologues de la Couronne).
 - **Routes courtes** (aux marges, entre Crestalia et la lisière sanvarienne, par les rivières de Perival) — fréquentées seulement par les bardes itinérants de Cantus Mundi, les pèlerins Foedus Animae ulinoriens en transit, et quelques Arbitres des Routes en mission spéciale.
 
 **Tensions dominantes :**

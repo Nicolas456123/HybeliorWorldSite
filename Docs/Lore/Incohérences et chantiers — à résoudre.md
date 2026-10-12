@@ -373,6 +373,8 @@ testée en bac à sable après la correction des liens du 2026-09-22 :
   ancienne implantation, que la carte n'a jamais suivie. La décision est désormais
   écrite dans l'Atrium (`data.carte.sans_territoire` sur Haldria,
   `data.carte.surface_figee` sur Warenthor) et `extract-pays.js` la respecte.
+  **Renversé le 2026-10-12 par l'auteur (D47, §20) : Haldria est au sud-ouest
+  d'Ilthara ; `sans_territoire` est retiré, la surface attend sa décision.**
 
 **Appliqué le 2026-09-22, sous une règle stricte : une surface neuve ne remplace
 l'ancienne que si elle est meilleure sur tous les plans.** Cinq passent — Ryldor
@@ -822,6 +824,47 @@ inchangé (1 809 sur 1 820).
 - *Masque 461* : micro-zone « roche argentée » centrée sur Lunaris (−167,9 ; 220,5), parois du canyon sur ~3 km, matériau de falaise gris clair pailleté (pas de cristal émissif).
 - *Routes (suite du 462)* : la Route des Forges en route principale (rang 4) selon les étapes de `lie-0010 data.routes.route_des_forges`.
 - *BIOMES_MAGIQUES F1* : « Ailleurs ? » devient les errantes (Brastallia, 5-25 m, dérivantes) et les échouées de Lysoria (60-400 m, presque immobiles), Astravia seulement ; kit `Art/Kits/IlesDiv6`.
+
+### 20. Haldria au sud-ouest d'Ilthara (D47) — TRANCHÉ le 2026-10-12 par l'auteur ; surface en attente
+
+Décision de l'auteur (D47) : Haldria est au **sud-ouest d'Ilthara**, là où sa carte pose Hekorinth, toutes ses
+villes et ses quatre régions. Elle renverse l'arbitrage du 2026-09-14 (Haldria sur Endora, « sans
+territoire », §7 ter, confirmé le 2026-09-22). Précision du même jour : les positions affichées par la carte du site sont bonnes ; on corrige
+rattachements et textes, jamais les positions des lieux. Demande Studio `d492ccffc`. Script
+`scripts/arbitrer-haldria-1012.js` (idempotent, sans reseed, `data.raccord` partout, 52 retouches) ; cohérence
+inchangée (0 erreur) ; raccord livres ↔ Atrium inchangé (1 809 sur 1 820, détail identique).
+
+| # | Écart | Décision |
+|---|---|---|
+| 1 | `pol-0017` Haldria : continent Endora, `situe-dans` Endora (`lnk-0028`), `data.carte.sans_territoire`, sans marqueur. | Continent **Ilthara**, `lnk-0028` vers `lie-0010`, `sans_territoire` retiré, marqueur d'origine rendu (−271,3 ; 171,6) dans `coord_x/y` et `data.carte.marqueur` ; l'arbitrage du 14/09 est gardé en `data.carte.historique_1409`. Résumé et tableau du corps. |
+| 2 | Lieux de Haldria disant « d'Endora » : Uldarin `lie-0686`, Uldora `lie-0950`, Sylradis `lie-0856`, Valdren `lie-0857`, Ravindor `lie-0689`, Ravantis `lie-0948`, Galdrion `lie-0853` ; Haltheria `lie-1023` (motif de position estimée). | « D'Ilthara » (ou « routes du sud, celles qui mènent à Endora » pour Ravantis) ; Haltheria : position inchangée, conflit réécrit (c'est le livre qui est à reprendre). |
+| 3 | Généalogie : Protectorat d'Haldros `pol-0073` « nord-centre d'Endora » ; Haldros `per-0111` « côtes d'Endora » ; Schismes d'Endora `evt-0026` « Endora se fragmente en Haldria, Avalor et Sanvara » ; `fac-0413` (Endara : « Avalor, Haldria et Sanvara descendent ») ; `fac-0017` « Saint-Empire d'Endara (province sud) » ; `fac-0020` (Endrath) « Région montagneuse de Haldria ». | Protectorat au **sud-ouest d'Ilthara** (`lnk-0462` vers Ilthara) ; Haldros unifie les côtes d'Ilthara (comme `fac-0654`, `fac-0655` et l'histoire de Haldria) ; les Schismes ne produisent qu'Avalor et Sanvara ; `fac-0413` sans Haldria ; `fac-0017` « communautés côtières du sud-ouest d'Ilthara » ; `fac-0020` « région montagneuse d'Endora (sous l'Empire Kalvorn) ». L'ascendance iltharienne est celle de `evt-0022` (Drahk'Nor) ; `scripts/generer-cartes-eres.js` suit (Protectorat d'Haldros ← Drahk'Nor, plus Haldria ← Endara ni Endrath ← Haldria). |
+| 4 | Endora `lie-0007` « trois nations — Avalor, Haldria, Sanvara » (résumé, géographie, biomes, routes) ; Ilthara `lie-0010` « huit nations », note « les fiches d'Ilthara n'incluent plus Haldria ». | Endora : **deux nations** (Avalor, Sanvara) ; Haldria reste la troisième voix de sa polyphonie, **par la mer** (Route des Marées : côte haldrienne puis mer jusqu'à Yaderis ; Route Astrale par mer jusqu'à Murahal). Ilthara : **neuf nations**, ligne Haldria au tableau. Miroirs Docs reportés. Lunasar `pol-0034` : « Endora (Haldria) » devient « Haldria ». |
+| 5 | Brumaria (Brumaris, Brumancia, Mont Cendra, vers −320 ; 245) : Ilthara ou Cendara ? | **Cendara, Grande Île**, déjà rattachée ainsi par les fiches (`pol-0086` situe-dans Cendara) : les points tombent dans la masse « Cendara » des côtes validées, à ~50 u de la côte d'Ilthara ; aucune fiche ne la dit en Ilthara. Rien à retoucher. |
+
+**Surface de Haldria (carte des pays) : décision de l'auteur attendue.** La procédure de `scripts/CARTE_ET_DONNEES.md`
+ne peut pas donner de surface à Haldria tant que Warenthor garde `surface_figee` : le lobe figé de Warenthor
+est l'ancien aplat de Haldria, et `assembler-pays.js` refuse toute surface neuve qui le chevauche. Constat
+(planche du 2026-10-12) : sur « Hybelior Pays.png », l'aplat vert du sud-ouest porte le nom « Haldria » ;
+les lieux positionnés de Warenthor (Wyndor, Galdris, Fylorin, la région) sont tous sur l'**île de la mer
+intérieure** ; le lobe figé contient 10 lieux de Haldria et 3 d'Ackerna (Reckia, Vesperis, Ostram), aucun de
+Warenthor. Proposition A : Haldria = l'aplat « Haldria » plus la presqu'île de Ravantis (Feldris, Ylloris,
+Tyrolis, aplat brun sans nom sur la carte Pays, mais Ravantis selon les fiches), rognés aux côtes validées et
+aux surfaces voisines, bord nord calé sur la frontière d'Ackerna ; Warenthor lève `surface_figee` et reprend son
+île (repli « côte d'île » de `extract-pays.js`), ce qui contredit sa fiche (« forêt géante du sud ») : à
+trancher par l'auteur. Outillage : `extract-pays.js` et `generer-cartes-eres.js` exigent `playwright-core` et
+le Chromium de `/opt/pw-browsers`, absents du poste Windows : la procédure n'a pas pu être rejouée ici.
+`data/monde-contours.json` n'est pas modifié.
+
+**Livres à reprendre** (skill `reecriture-livres`, rien n'est modifié ici) : Chroniques, ch. 13 — l'intitulé
+« Endora — Perivalis, Crestalis, Hekorinth » ; « Haldria commence où la forêt s'arrête » juste après une
+traversée (frontière terrestre avec une forêt) ; « Les signalements académiques d'Endora ne partent pas d'ici »
+dit à Hekorinth ; le bilan « Endora se refermait… Sarandel… Avalor… Haldria ». Compatibles : ch. 11
+(« un épigraphiste d'Endora… un archiviste de Haldria »), ch. 14 (deux jours de mer jusqu'à Holvendar), ch. 21
+(« Dans les ports d'Ilthara, à Hekorinth »), ch. 27, 28, 30, 31, 32.
+
+**Corrections attendues côté jeu** : gazetteer, population 475, routes 462 et ports intègrent Haldria
+(Ilthara) ; voir le récit Studio de la demande `d492ccffc`.
 
 
 ## III. Ce qui ne sera jamais tranché

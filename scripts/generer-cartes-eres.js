@@ -66,10 +66,13 @@ const COMPLEMENTS = [
   ['Ventera', "Hegemonie d'Aethran", '« Hegemonie d\'Aethran (plaines centrales) »'],
   ['Seraphia', 'Galenthis', '« Cites academiques de Galenthis »'],
   ['Tyndara', 'Galenthis', '« Marche de Tyndara (dans Galenthis) »'],
-  ['Haldria', "Saint-Empire d'Endara", '« Saint-Empire d\'Endara (province sud) » + fac-0413'],
-  ['Avalor', "Saint-Empire d'Endara", 'fac-0413 : « Avalor, Haldria et Sanvara descendent de cette théocratie »'],
+  // D47 (2026-10-12) : Haldria est au sud-ouest d'Ilthara ; son ascendance est
+  // iltharienne (evt-0022 : la dissolution de Drahk'Nor donne naissance aux
+  // ancêtres de Drakora, Gryndor et Haldria), plus le Saint-Empire d'Endara ;
+  // Endrath (Endora) descend de l'Empire Kalvorn (succede-a), plus de Haldria.
+  ['Protectorat d\'Haldros', "Drahk'Nor", 'evt-0022 (Guerre du Panghor Brisé) ; D47'],
+  ['Avalor', "Saint-Empire d'Endara", 'fac-0413 : « Avalor et Sanvara descendent de cette théocratie »'],
   ['Sanvara', "Saint-Empire d'Endara", 'fac-0413'],
-  ['Endrath', 'Haldria', '« Region montagneuse de Haldria »'],
   ['Caeloria', "Sanctuaire d'Orivane", '« Iles du Sanctuaire d\'Orivane »'],
   ['Halcyon', 'Astravia', '« Province ouest d\'Astravia »'],
   ['Myrtam', 'Forgon', '« Terres interieures de Forgon »'],

@@ -48,7 +48,7 @@ Et au cœur, **le Lac des Rêves** — étendue d'eau noire le jour, d'un argent
 
 ## Les peuples
 
-Huit nations partagent Ilthara. Aucune ne ressemble aux autres — qu'une même terre ait engendré autant de manières différentes d'être au monde, et qu'elles aient appris, tant bien que mal, à se tolérer, voilà peut-être ce que le continent a de plus extraordinaire.
+Neuf nations partagent Ilthara. Aucune ne ressemble aux autres — qu'une même terre ait engendré autant de manières différentes d'être au monde, et qu'elles aient appris, tant bien que mal, à se tolérer, voilà peut-être ce que le continent a de plus extraordinaire.
 
 ### Ackerna
 
@@ -110,7 +110,7 @@ Vu depuis les autres continents, Ilthara est **la grande étrangère**. On y va 
 
 Les Souffles du monde touchent Ilthara comme partout ailleurs, mais ils y sont **vécus différemment**. La magie y étant déjà si présente, le passage d'une Ère à l'autre y est ressenti comme un changement de saison plus que comme une commotion. Les druides d'Ackerna le voient venir dans la couleur des feuillages. Les Dragons d'Aube le savent avant tout le monde et ne disent rien. Les chamanes de Warenthor préparent des offrandes que les autres continents jugeraient excessives, et qui, sur place, semblent à peine suffisantes.
 
-Pour l'observateur extérieur, Ilthara peut sembler fragmentée, divisée, en perpétuel désaccord avec elle-même. C'est faux. Elle n'est pas divisée — elle est *plurielle*. Sa cohésion n'est pas politique, elle est tellurique. Le sol commun, sous les huit nations, n'a jamais cessé d'être le même. Et ce sol, à sa manière patiente, finit toujours par avoir le dernier mot.
+Pour l'observateur extérieur, Ilthara peut sembler fragmentée, divisée, en perpétuel désaccord avec elle-même. C'est faux. Elle n'est pas divisée — elle est *plurielle*. Sa cohésion n'est pas politique, elle est tellurique. Le sol commun, sous les neuf nations, n'a jamais cessé d'être le même. Et ce sol, à sa manière patiente, finit toujours par avoir le dernier mot.
 
 ---
 

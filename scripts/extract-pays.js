@@ -52,8 +52,8 @@ const S = 2653, SCL = 2.64937, TX = 1347.6, TY = 1342.4;
     .filter((e) => e.type === 'entite-politique' && ((e.data && e.data.coord_x != null) || capDe[e.id]))
     .filter((e) => !(e.data && SANS_TERRITOIRE.has(e.data.genre)))
     // une nation privée de surface par arbitrage (data.carte.sans_territoire)
-    // n'en reçoit pas, même quand l'Atrium connaît sa capitale : c'est le cas
-    // d'Haldria, dont les lieux restent posés en Ilthara sur la carte.
+    // n'en reçoit pas, même quand l'Atrium connaît sa capitale (ce fut le cas
+    // d'Haldria du 2026-09-14 au 2026-10-12 ; D47 l'a levé).
     .filter((e) => !(e.data && e.data.carte && e.data.carte.sans_territoire))
     .map((e) => {
       const g = capDe[e.id] || e;

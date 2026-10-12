@@ -116,7 +116,9 @@ travail sur la carte, les contours, les pays, les cartes par ère, l'overlay Tur
   suivre la procédure du document (sauvegarde, `assembler-pays.js`, `generer-cartes-eres.js`).
 - **Eau** : mer intérieure et lacs sont des masses `niveau: 'eau'` ; garde-fou `node scripts/verifier-contours.js` ;
   après retouche des contours, `tracer-routes.js` puis `verifier-trajets.js --ecrire`, puis `npm run kg:db`.
-- Haldria (`data.carte.sans_territoire`) et Warenthor (`data.carte.surface_figee`) : arbitrages écrits dans l'Atrium, respectés par l'extraction.
+- Haldria est au sud-ouest d'Ilthara (D47, 2026-10-12 : `sans_territoire` retiré, marqueur rendu) ; sa surface attend
+  la décision de l'auteur sur le lobe sud-ouest, encore figé au nom de Warenthor (`data.carte.surface_figee`, respecté
+  par l'extraction) — planche et proposition au registre, II §20.
 - **Overlay Turso de prod : vide**, la base committée fait foi ; accès par « Identifiants API ». La carte de
   l'accueil lit encore `coordinate_overrides` (`scripts/sync-overrides-arbitrages.js`) ; les ~80 écarts de 5-7 u
   sont un artefact connu, ne pas « corriger ».
