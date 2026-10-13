@@ -125,6 +125,10 @@ function poserEntite(cle, type, prefixe, champs) {
     return e;
   }
   const avant = JSON.stringify([e.type, e.name, e.summary, e.body, e.data]);
+  // Idempotence (relecture D46, lot 522) : jamais de rétrogradation. Le statut et la validation déjà posés
+  // (D45 : « oui pour les îles qui dérivent ») sont conservés tels quels ; seul un statut absent prend « proposé ».
+  if (e.data && e.data.statut) neuf.data.statut = e.data.statut;
+  if (e.data && e.data.validation) neuf.data.validation = e.data.validation;
   Object.assign(e, neuf);
   if (JSON.stringify([e.type, e.name, e.summary, e.body, e.data]) !== avant) { e.updated_at = NOW; journal.push(`${e.id} ${e.name} · mis à jour`); }
   return e;
@@ -132,6 +136,10 @@ function poserEntite(cle, type, prefixe, champs) {
 function lien(rel, from, to, label) {
   const ex = doc.relations.find((r) => r.rel_type === rel && r.from_id === from && r.to_id === to);
   const data = { statut: 'proposé', demande: DEMANDE };
+  if (ex && ex.data) {   // même règle que poserEntite : un statut ou une validation existants ne sont jamais écrasés
+    if (ex.data.statut) data.statut = ex.data.statut;
+    if (ex.data.validation) data.validation = ex.data.validation;
+  }
   if (ex) {
     if (ex.label !== label || JSON.stringify(ex.data) !== JSON.stringify(data)) { ex.label = label; ex.data = data; journal.push(`${ex.id} ${rel} ${from} → ${to} · mis à jour`); }
     return ex;
@@ -333,6 +341,14 @@ const rapport = core.getConsistencyReport(core.mergeGraph(doc, {}));
 if (rapport.counts.erreur) {
   rapport.issues.filter((x) => x.severity === 'erreur').slice(0, 10).forEach((x) => console.error('  ', x.message));
   echec(`${rapport.counts.erreur} erreur(s) de cohérence`);
+}
+{ // garde : une donnée validée avant ne doit jamais être rétrogradée (relecture D46, lot 522)
+  const avantDoc = JSON.parse(brutBase);
+  const valides = (d) => new Map([...d.entities, ...d.relations].filter((x) => x.data && (x.data.validation || x.data.statut === 'validé')).map((x) => [x.id, JSON.stringify([x.data.statut, x.data.validation])]));
+  const vAvant = valides(avantDoc), vApres = valides(doc);
+  const retro = [...vAvant].filter(([id, v]) => vApres.get(id) !== v).map(([id]) => id);
+  console.log(`✓ rétrogradations : ${retro.length}`);
+  if (retro.length) echec(`validation rétrogradée : ${retro.join(', ')}`);
 }
 console.log(`✓ écritures (${journal.length}) :`); journal.forEach((j) => console.log('   ' + j));
 console.log(`✓ fiches Docs touchées : ${[...docsTouches].map((p) => path.relative(ROOT, p)).join(', ') || 'aucune'}`);
