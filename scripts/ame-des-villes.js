@@ -42,6 +42,9 @@ const DOSAGE = {
 };
 const CRITERES = ['age', 'classe', 'metier475', 'role', 'exterieur'];
 const REPLIQUE_MAX = 220;
+// Règles de pose que Dédale sait suivre (clé « dedale » d'une trace ou d'un toponyme ; Dédale : src/tissu/ame.rs)
+const POSE_TRACE = ['aucune', 'rue', 'place', 'pied_de_rue', 'puits', 'monument', 'boutique', 'coffre'];
+const POSE_TOPONYME = ['rue', 'place', 'quartier'];
 // mots trop communs pour signaler un doublon de nom
 const MOTS_COMMUNS = new Set(['famille', 'familles', 'maison', 'lignee', 'tribu', 'grand', 'grande', 'gardien', 'gardienne', 'vieux', 'vieille', 'ancien', 'ancienne']);
 
@@ -235,6 +238,22 @@ function verifier(seul, detail, doc) {
     }
     for (const r of A.rumeurs || []) { if (!groupes[r.groupe]) err.push(`rumeur : groupe « ${r.groupe} » inconnu`); if (r.vraie === false && !r.correction) err.push('rumeur fausse sans ce qui la dément'); tracesDe('rumeur', r.traces); }
     for (const [id] of traces) if (!utilise.has(id)) ecart.push(`trace « ${id} » sans histoire : un décor (règle 2)`);
+    // règles de pose pour Dédale : sans elles, la trace reste dans l'Atrium et n'entre pas dans la ville
+    const nomsTopo = new Set((A.toponymes || []).map((x) => x.nom));
+    for (const [id, x] of traces) {
+      const d = x.dedale;
+      if (!d) { ecart.push(`trace « ${id} » sans règle de pose (dedale) : Dédale ne la posera pas`); continue; }
+      const cle = POSE_TRACE.find((k) => k in d);
+      if (!cle) err.push(`trace « ${id} » : règle de pose à prendre parmi ${POSE_TRACE.join(', ')}`);
+      for (const k of ['trace', 'pied_de_rue']) if (d[k] && !traces.has(d[k])) err.push(`trace « ${id} » : renvoie à la trace « ${d[k]} » inconnue`);
+      if (d.quartier && cle === 'puits' && !nomsTopo.has(d.quartier) && !(A.toponymes || []).some((x) => x.dedale && x.dedale.quartier === d.quartier)) ecart.push(`trace « ${id} » : quartier « ${d.quartier} » ni toponyme ni classe connue`);
+    }
+    for (const x of A.toponymes || []) {
+      const d = x.dedale;
+      if (!d) { ecart.push(`toponyme « ${x.nom} » sans règle de pose (dedale)`); continue; }
+      if (!POSE_TOPONYME.some((k) => k in d)) err.push(`toponyme « ${x.nom} » : règle à prendre parmi ${POSE_TOPONYME.join(', ')}`);
+      if (d.trace && !traces.has(d.trace)) err.push(`toponyme « ${x.nom} » : renvoie à la trace « ${d.trace} » inconnue`);
+    }
     // groupes et répliques
     const parGroupe = {};
     for (const r of A.repliques || []) {
@@ -294,7 +313,7 @@ function jeu(lieuId, sortie) {
     figures: (A.figures || []).map((f) => { const e = byId.get(f.id); return { id: f.id, nom: e.name, resume: e.summary, role: f.role, periode: e.data && e.data.periode }; }),
     coutumes: A.coutumes || [], tension: A.tension ? { ...A.tension, parties: (A.tension.parties || []).map((id) => ({ id, nom: (byId.get(id) || {}).name })) } : null,
     memoires: A.memoires || [], rumeurs: A.rumeurs || [], traces: A.traces || [], toponymes: A.toponymes || [],
-    groupes: A.groupes || {}, repliques: A.repliques || [],
+    groupes: A.groupes || {}, repliques: A.repliques || [], traces_lectures: A.traces_lectures || {},
     voisins: (A.voisins || []).map((v) => ({ ...v, nom: (byId.get(v.id) || {}).name })),
   };
   const texte = JSON.stringify(out, null, 2) + '\n';
