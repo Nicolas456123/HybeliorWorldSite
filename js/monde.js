@@ -457,6 +457,79 @@ async function vueRecherche(q) {
   app.innerHTML = ''; app.append(vue);
 }
 
+/* ── L'âme d'un lieu (data.ame) : ce que la ville se raconte ───────────────
+ * Raison d'être, coutumes, tension, mémoires disputées (les versions des
+ * habitants, puis la vérité de l'Atrium), rumeurs, traces, répliques, voisins.
+ * Les figures et les événements sont aussi des fiches et des faits : la
+ * constellation et la frise les montrent par ailleurs. */
+function panneauAme(ame, dossier) {
+  const noms = new Map((dossier.relations || []).map((r) => [r.otherId, r.otherName]));
+  const lienVers = (id) => h('a', { href: '#/fiche/' + id, text: noms.get(id) || id });
+  const paras = (t) => String(t || '').split(/\n+/).filter((p) => p.trim()).map((p) => h('p', { text: p.trim() }));
+  const groupe = (g) => ((ame.groupes || {})[g] || {}).libelle || g;
+  const pan = h('div', { class: 'panneau ame' },
+    h('div', { class: 'etiquette groupe-rel', text: 'L’âme du lieu — ce que la ville se raconte' }));
+  if (ame.statut && ame.statut !== 'validée') pan.append(h('p', { class: 'verite-statut', text: 'Âme ' + ame.statut + (ame.date ? ' le ' + ame.date : '') + ' — à valider par l’auteur.' }));
+  if (ame.caractere) pan.append(h('p', { class: 'ame-caractere', text: ame.caractere }));
+  pan.append(...paras(ame.raison_d_etre));
+  if ((ame.figures || []).length) {
+    pan.append(h('div', { class: 'etiquette', text: 'Les figures' }));
+    pan.append(h('ul', {}, ame.figures.map((f) => h('li', {}, lienVers(f.id), f.role ? ' — ' + f.role : ''))));
+  }
+  if ((ame.coutumes || []).length) {
+    pan.append(h('div', { class: 'etiquette', text: 'Les coutumes' }));
+    for (const c of ame.coutumes) {
+      pan.append(h('p', {}, h('strong', { text: c.nom + '. ' }), c.texte));
+      pan.append(h('p', { class: 'verite-lecture' },
+        c.variante_de ? h('span', { text: 'Variante de : ' + c.variante_de + '. ' }) : '',
+        c.raison ? h('span', { style: 'color:var(--dim)', text: 'Pourquoi : ' + c.raison }) : ''));
+    }
+  }
+  if (ame.tension) {
+    pan.append(h('div', { class: 'etiquette', text: 'La tension d’aujourd’hui' }));
+    pan.append(...paras(ame.tension.texte));
+    if (ame.tension.amorce) pan.append(h('p', { class: 'verite-lecture', style: 'color:var(--dim)', text: 'Ce qui peut s’y jouer : ' + ame.tension.amorce }));
+  }
+  for (const m of ame.memoires || []) {
+    pan.append(h('div', { class: 'etiquette', text: 'Mémoire disputée — ' + m.sujet }));
+    for (const v of m.versions || []) {
+      pan.append(h('p', { style: 'font-style:italic;margin:10px 0 4px' }, h('strong', { text: groupe(v.groupe) + ' : ' }), '« ' + v.dit + ' »'));
+      pan.append(h('p', { class: 'verite-lecture' },
+        v.juste ? h('span', { text: 'Juste : ' + v.juste + ' ' }) : '',
+        v.faux ? h('span', { style: 'color:var(--dim)', text: 'Faux : ' + v.faux }) : ''));
+    }
+    if (m.verite && m.verite.texte) {
+      const det = h('details', { class: 'ame-verite' }, h('summary', { text: 'Ce qui s’est réellement passé — l’Atrium le sait' }));
+      if (m.verite.statut && m.verite.statut !== 'validée') det.append(h('p', { class: 'verite-statut', text: 'Vérité ' + m.verite.statut + ' — à valider par l’auteur.' }));
+      det.append(...paras(m.verite.texte));
+      pan.append(det);
+    }
+  }
+  if ((ame.rumeurs || []).length) {
+    pan.append(h('div', { class: 'etiquette', text: 'Ce qui se murmure' }));
+    for (const r of ame.rumeurs) {
+      pan.append(h('p', {}, h('strong', { text: groupe(r.groupe) + ' : ' }), r.texte));
+      if (r.correction) pan.append(h('p', { class: 'verite-lecture', style: 'color:var(--dim)', text: (r.vraie === false ? 'Faux. ' : '') + r.correction }));
+    }
+  }
+  if ((ame.traces || []).length || (ame.toponymes || []).length) {
+    const det = h('details', {}, h('summary', { text: `Les traces dans la ville (${(ame.traces || []).length})` }));
+    det.append(h('ul', {}, (ame.traces || []).map((t) => h('li', {}, h('strong', { text: t.nom }), ' — ' + t.texte + (t.ou ? ' (' + t.ou + ')' : '') + (t.fouiller ? ' · à trouver en fouillant' : '')))));
+    if ((ame.toponymes || []).length) det.append(h('p', {}, h('strong', { text: 'Les noms de la ville : ' }), ame.toponymes.map((t) => t.nom).join(', ') + '.'));
+    pan.append(det);
+  }
+  if ((ame.repliques || []).length) {
+    const det = h('details', {}, h('summary', { text: `Ce qu’on entend dans les rues (${ame.repliques.length})` }));
+    for (const r of ame.repliques) det.append(h('p', { class: 'verite-indice' }, '« ' + r.texte + ' » ', h('span', { style: 'color:var(--dim)', text: '— ' + groupe(r.groupe) + (r.quand ? ', ' + r.quand : '') })));
+    pan.append(det);
+  }
+  if ((ame.voisins || []).length) {
+    pan.append(h('div', { class: 'etiquette', text: 'Les voisins' }));
+    for (const v of ame.voisins) pan.append(h('p', {}, lienVers(v.id), ' — ' + v.rapport));
+  }
+  return pan;
+}
+
 /* ── Vue : la Fiche (une entité) ───────────────────────────────────────── */
 async function vueFiche(id) {
   const venaitDeCarte = ROUTE_PREC && ROUTE_PREC.startsWith('#/carte');
@@ -506,6 +579,7 @@ async function vueFiche(id) {
   }
 
   if (e.body) gauche.append(rendreCorpsStructure(e.body, e.name));
+  if (e.type === 'lieu' && e.data && e.data.ame) gauche.append(panneauAme(e.data.ame, dossier));
 
   // Personne → arbre généalogique dessiné (si la famille est connue)
   if (e.type === 'personne') {

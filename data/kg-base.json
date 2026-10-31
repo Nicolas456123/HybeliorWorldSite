@@ -2,7 +2,7 @@
   "_meta": {
     "generatedFrom": "data/timeline-names.json + Canon mystères/romans",
     "generatedAt": "2026-07-17T00:00:00.000Z",
-    "updated_at": "2026-10-12T22:00:00.000Z",
+    "updated_at": "2026-10-31T03:46:46.012Z",
     "derniere_fusion": "raccord livres↔Atrium du 2026-09-23"
   },
   "entities": [
@@ -67548,12 +67548,425 @@
       "data": {
         "echelle": "ville",
         "coord_x": -230.83859004728,
-        "coord_y": 96.9899943939462
+        "coord_y": 96.9899943939462,
+        "ame": {
+          "statut": "validée",
+          "date": "2026-10-31",
+          "source": "Pilote soumis à l'auteur le 31/10 (Âme des villes — méthode et pilote Ryndor) ; « Go pour Ryndor » (demande d1935ad0e).",
+          "caractere": "Une ville qui se croit généreuse et qui l'est devenue par honte ; fière d'avoir converti une montagne, avare de son eau.",
+          "raison_d_etre": "Un refuge, puis un pari. Au temps des seigneurs de guerre (vers 8 950), quand le grenier de Sylthara nourrissait des armées étrangères, des familles de la plaine montèrent sur ce plateau, là où les chevaux ne grimpaient pas — la même fuite qui fonda Velthar. Il n'y avait ni terre ni source : elles creusèrent des citernes dans la roche pour garder la pluie. Après la Grande Moisson, la plupart redescendirent ; quelques familles restèrent, avec des chèvres et des charbonnières, pendant des siècles.\nVers 10 030, Aveline l'Épierreuse fit le pari qui donne son sens au dicton : casser la roche du plateau pour en faire des murs, monter la terre de la vallée à dos d'homme, panier par panier, et planter des oliviers là où rien ne poussait. Le chantier des terrasses dure depuis six générations ; ses éclats ont bâti les murs, puis les maisons.\nL'huile fit le reste. Pendant la Grande Famine, les oliviers tinrent quand le blé manquait partout, et l'argent des pressoirs attira les gens de la plaine : le hameau de chevriers devint une ville. Ryndor doit sa taille aux années dont elle a le plus honte.",
+          "evenements": [
+            {
+              "fait": "fac-1567",
+              "echo_de": "fac-0812",
+              "traces": [
+                "citernes"
+              ]
+            },
+            {
+              "fait": "fac-1568",
+              "traces": [
+                "mur-aveline",
+                "montee-paniers",
+                "panier-porteur"
+              ]
+            },
+            {
+              "fait": "fac-1569",
+              "echo_de": "evt-0044",
+              "traces": [
+                "lettres-doral"
+              ]
+            },
+            {
+              "fait": "fac-1570",
+              "traces": [
+                "arbre-assemblee"
+              ]
+            },
+            {
+              "fait": "fac-1571",
+              "traces": [
+                "loi-des-seaux",
+                "citerne-muree",
+                "registre-eau"
+              ]
+            }
+          ],
+          "figures": [
+            {
+              "role": "morte, dont on parle : les terrassiers jurent par ses mains",
+              "id": "per-1119"
+            },
+            {
+              "role": "vivant, qu'on croise près de la grande citerne",
+              "id": "per-1120"
+            },
+            {
+              "role": "famille : le plus grand pressoir, la plus vieille fortune",
+              "id": "lig-0086"
+            }
+          ],
+          "coutumes": [
+            {
+              "id": "pierre-de-naissance",
+              "nom": "La pierre de naissance",
+              "variante_de": "Le Don de la Graine (Sylthara) : un arbre fruitier planté à la naissance d'un enfant",
+              "texte": "À la naissance d'un enfant, on plante l'olivier sur la terrasse familiale et l'on scelle dans son mur une pierre marquée du signe de l'enfant (une feuille, un épi, une goutte, une olive…). Les murs des terrasses et des maisons portent des milliers de ces signes ; on y cherche ses aïeux. Comme partout en Sylthara, les morts sont enterrés dans la terre cultivée : ici, ce sont les terrasses. On dit à Ryndor que les oliviers ont le goût des grands-pères.",
+              "raison": "Sur le plateau, il n'y a pas de verger familial : la terrasse en tient lieu, et c'est son mur qui retient une terre montée à dos d'homme. Marquer le mur, c'est dire à qui est la terre qu'il tient.",
+              "traces": [
+                "pierres-naissance"
+              ]
+            },
+            {
+              "id": "premiere-huile",
+              "nom": "La Première Huile",
+              "variante_de": "La Grande Moisson (Sylthara) : festin communautaire, nourriture partagée gratuitement",
+              "texte": "Le jour de la Grande Moisson, la première huile de l'année est donnée sous l'arbre-assemblée, avec du pain, à qui en veut, habitant ou passant. On dit que c'est pour remercier la montagne.",
+              "raison": "Raison dite : remercier la montagne de ce qu'elle donne. Raison vraie : une pénitence instituée par l'Assemblée après la Grande Famine, sans jamais dire pourquoi (voir la mémoire de l'huile).",
+              "traces": [
+                "arbre-assemblee"
+              ]
+            }
+          ],
+          "tension": {
+            "texte": "Les Doral veulent agrandir les bassins de leur pressoir pour laver plus d'olives et vendre plus d'huile par les ports de Haldria. Il faudrait plus d'eau ; la Loi des Seaux place les pressoirs derniers, et Garin Ascle, le Gardien des Citernes, refuse de toucher au registre. Les jeunes descendent travailler aux ports de Haldria, il manque des bras aux terrasses, et l'on commence à dire que la Loi des Seaux fait fuir l'argent. Garin Ascle est vieux ; personne ne veut sa charge.",
+            "parties": [
+              "lig-0086",
+              "per-1120"
+            ],
+            "amorce": "Hestan Doral veut que l'Assemblée revote la Loi des Seaux sous l'arbre et cherche des voix ; Garin Ascle cherche un successeur que personne ne veut être. Les lettres d'Arnel Doral, si elles sortaient du coffre, pèseraient lourd au vote.",
+            "traces": [
+              "loi-des-seaux",
+              "pressoir-doral",
+              "registre-eau",
+              "lettres-doral"
+            ]
+          },
+          "memoires": [
+            {
+              "id": "huile-de-la-famine",
+              "sujet": "Ce que Ryndor a fait de son huile pendant la Grande Famine",
+              "fait": "fac-1569",
+              "verite": {
+                "statut": "validée",
+                "date": "2026-10-31",
+                "texte": "Ryndor n'a pas donné son huile. Pendant les trois années de la Grande Famine (vers 10 125), les oliviers du plateau tinrent quand le blé manquait dans tout Sylthara ; les familles des pressoirs vendirent l'huile à la plaine, au prix que la faim permettait, et les Doral y bâtirent leur fortune — les lettres de vente d'Arnel Doral en gardent les prix. Les terrassiers, eux, n'avaient rien à vendre : leurs olives passaient aux pressoirs contre une part. L'Assemblée finit par envoyer de l'huile gratuite aux hameaux de Dyanos et à la plaine, la troisième année, et en petite quantité. Au même moment, Velthar donnait ses amandes.\nQuand la famine finit, la honte fut réelle — refuser de partager sa table est la pire insulte en Sylthara — et c'est l'Assemblée qui institua la Première Huile, en pénitence, sans jamais dire pourquoi. Les anciens d'aujourd'hui étaient enfants, ou pas nés : ils racontent ce qu'on leur a dit."
+              },
+              "versions": [
+                {
+                  "groupe": "anciens",
+                  "dit": "Pendant la famine, Ryndor a nourri le Dyanos. Sans nos oliviers, la moitié de la région serait morte.",
+                  "juste": "L'huile du plateau a bien tenu quand le blé manquait, et une part est allée aux hameaux.",
+                  "faux": "Elle n'a pas été donnée : elle a été vendue, et le don de l'Assemblée est venu tard. Les anciens étaient enfants ; ils répètent ce qu'on leur a dit."
+                },
+                {
+                  "groupe": "terrassiers",
+                  "dit": "La Première Huile, c'est pour la montagne. On lui rend ce qu'elle donne.",
+                  "juste": "La fête rend bien quelque chose.",
+                  "faux": "Pas à la montagne : à la plaine, qu'on a fait payer. Ils ne savent pas pourquoi l'Assemblée l'a instituée."
+                },
+                {
+                  "groupe": "pressoirs",
+                  "dit": "On a vendu, oui. Au juste prix. Si on avait tout donné, c'est Ryndor qui serait morte.",
+                  "juste": "Les réserves du plateau étaient minces : tout donner aurait affamé la ville.",
+                  "faux": "Le prix n'avait rien de juste : les lettres d'Arnel Doral le montrent, et la fortune des Doral date de ces années-là."
+                },
+                {
+                  "groupe": "roteri",
+                  "dit": "La roue a tourné : la plaine a eu son tour de faim, Ryndor son tour d'abondance. Il n'y a là ni faute ni mérite.",
+                  "juste": "La famine fut une épreuve du cycle, que Ryndor n'a pas causée.",
+                  "faux": "Le cycle n'excuse pas le prix demandé : le Rota Mundi tient lui-même le repas partagé pour sacré."
+                },
+                {
+                  "groupe": "velthar",
+                  "dit": "Ryndor a vendu la faim. Leur huile gratuite, c'est la monnaie de leur honte.",
+                  "juste": "Le plus proche de la vérité : la Première Huile est une pénitence.",
+                  "faux": "Velthar met toute la ville dans le même sac : les terrassiers n'avaient rien à vendre, et l'Assemblée a fini par donner."
+                }
+              ],
+              "traces": [
+                "lettres-doral",
+                "arbre-assemblee"
+              ]
+            }
+          ],
+          "rumeurs": [
+            {
+              "id": "os-de-la-citerne",
+              "groupe": "enfants",
+              "texte": "La citerne murée du vieux quartier garderait les os de ceux qui sont morts de faim.",
+              "vraie": false,
+              "correction": "Elle a été murée à l'Été des Citernes Vides (10 170) parce que son eau croupie avait rendu des enfants malades ; le registre de l'eau le dit. En Sylthara, les morts vont à la terre cultivée : des os dans une citerne seraient une horreur, et c'est ce qui fait courir la rumeur.",
+              "traces": [
+                "citerne-muree",
+                "registre-eau"
+              ]
+            }
+          ],
+          "traces": [
+            {
+              "id": "montee-paniers",
+              "genre": "rue",
+              "nom": "la Montée des Paniers",
+              "texte": "Rue en escalier qui monte de la vallée au plateau, par où la terre des terrasses fut portée à dos d'homme.",
+              "ou": "de la porte basse au cœur de la ville"
+            },
+            {
+              "id": "mur-aveline",
+              "genre": "mur",
+              "nom": "le mur d'Aveline",
+              "texte": "Mur de pierre sèche au pied de la Montée des Paniers, le seul qu'on ne répare jamais. Son pied est taché d'huile : les terrassiers y versent une goutte pour l'esprit de la pierre avant de monter un mur neuf (Vael'Kurash).",
+              "ou": "au pied de la Montée des Paniers"
+            },
+            {
+              "id": "pierres-naissance",
+              "genre": "marque",
+              "nom": "les pierres de naissance",
+              "texte": "Pierres marquées d'un signe (feuille, épi, goutte, olive…) scellées dans les murs des terrasses et des maisons, une par enfant né à Ryndor.",
+              "ou": "murs des terrasses et des maisons, partout"
+            },
+            {
+              "id": "citernes",
+              "genre": "ouvrage",
+              "nom": "les citernes publiques",
+              "texte": "Citernes creusées dans la roche, à margelle de pierre et couvercle de bois, cadenassées en été.",
+              "ou": "places et carrefours"
+            },
+            {
+              "id": "loi-des-seaux",
+              "genre": "inscription",
+              "nom": "la Loi des Seaux",
+              "texte": "Gravée sur la margelle de la plus grande citerne : « Aux maisons, puis aux bêtes, puis aux pressoirs. » Et l'année : 221 du Sillage.",
+              "ou": "la grande citerne, près de la place du marché"
+            },
+            {
+              "id": "citerne-muree",
+              "genre": "ouvrage",
+              "nom": "la citerne murée",
+              "texte": "Une citerne du vieux quartier comblée de pierres et murée, sans inscription.",
+              "ou": "quartier des Anciens"
+            },
+            {
+              "id": "arbre-assemblee",
+              "genre": "monument",
+              "nom": "l'arbre-assemblée",
+              "texte": "Le chêne de la place du marché, sous lequel l'Assemblée vote ; le jour de la Grande Moisson, on y dresse la table de la Première Huile (jarres, pain).",
+              "ou": "au milieu de la place du marché",
+              "dedale": "mon-01"
+            },
+            {
+              "id": "pressoir-doral",
+              "genre": "batiment",
+              "nom": "le pressoir Doral",
+              "texte": "Le plus grand pressoir de la ville, à meule et bassins de lavage, propriété des Doral.",
+              "ou": "quartier des marchands"
+            },
+            {
+              "id": "registre-eau",
+              "genre": "objet",
+              "nom": "le registre de l'eau",
+              "texte": "Chez le Gardien des Citernes : les seaux de chaque été depuis 10 170, d'une main à l'autre. Une page dit pourquoi la citerne du vieux quartier fut murée (eau croupie, enfants malades).",
+              "ou": "maison du Gardien des Citernes, dans un coffre",
+              "fouiller": true
+            },
+            {
+              "id": "lettres-doral",
+              "genre": "objet",
+              "nom": "les lettres d'Arnel Doral",
+              "texte": "Lettres de vente d'huile datées des années de la Grande Famine, signées Arnel Doral, avec des prix qui font honte.",
+              "ou": "maison Doral, au fond d'un coffre",
+              "fouiller": true
+            },
+            {
+              "id": "panier-porteur",
+              "genre": "objet",
+              "nom": "le panier de porteur de terre",
+              "texte": "Un panier de porteur usé jusqu'à la trame, gardé comme une relique ; on dit qu'il a monté la terre de la Première Terrasse.",
+              "ou": "chez un ancien des terrasses",
+              "fouiller": true
+            }
+          ],
+          "toponymes": [
+            {
+              "nom": "la Montée des Paniers",
+              "genre": "rue",
+              "regle": "la rue la plus raide qui monte de la porte basse vers le centre"
+            },
+            {
+              "nom": "la place de l'Arbre",
+              "genre": "place",
+              "regle": "la place du marché, autour de l'arbre-assemblée"
+            },
+            {
+              "nom": "la rue des Seaux",
+              "genre": "rue",
+              "regle": "la rue qui longe la grande citerne"
+            },
+            {
+              "nom": "le Vieux Quartier",
+              "genre": "quartier",
+              "regle": "le quartier des Anciens (le plateau d'avant les terrasses)"
+            }
+          ],
+          "groupes": {
+            "anciens": {
+              "libelle": "les anciens",
+              "critere": {
+                "age": [
+                  "ancien"
+                ]
+              }
+            },
+            "terrassiers": {
+              "libelle": "les terrassiers et les petites familles des terrasses",
+              "critere": {
+                "classe": [
+                  "pauvre",
+                  "commune"
+                ],
+                "role": [
+                  "journalier",
+                  "macon",
+                  "porteur",
+                  "ouvrier"
+                ]
+              }
+            },
+            "porteurs_eau": {
+              "libelle": "les porteuses d'eau et les ménagères",
+              "critere": {
+                "role": [
+                  "porteur_eau",
+                  "lavandiere",
+                  "menagere"
+                ]
+              }
+            },
+            "pressoirs": {
+              "libelle": "les gens des pressoirs et les marchands d'huile (Doral compris)",
+              "critere": {
+                "classe": [
+                  "aisee"
+                ],
+                "metier475": [
+                  "marchand",
+                  "notable"
+                ]
+              }
+            },
+            "roteri": {
+              "libelle": "les Roteri du Cycle",
+              "critere": {
+                "metier475": [
+                  "pretre"
+                ]
+              }
+            },
+            "enfants": {
+              "libelle": "les enfants",
+              "critere": {
+                "age": [
+                  "enfant"
+                ]
+              }
+            },
+            "velthar": {
+              "libelle": "les gens de Velthar de passage (marchands d'amandes)",
+              "critere": {
+                "exterieur": "lie-0865"
+              }
+            }
+          },
+          "repliques": [
+            {
+              "groupe": "terrassiers",
+              "texte": "Cette pierre-là, c'est mon arrière-grand-mère. Le signe en forme de feuille."
+            },
+            {
+              "groupe": "terrassiers",
+              "texte": "Par les mains d'Aveline, ce mur tiendra plus longtemps que moi."
+            },
+            {
+              "groupe": "terrassiers",
+              "texte": "La terre d'ici, on l'a montée panier par panier. Essuie tes bottes de la plaine."
+            },
+            {
+              "groupe": "porteurs_eau",
+              "texte": "Les maisons d'abord, les bêtes ensuite, les pressoirs à la fin. C'est la loi, et elle est gravée."
+            },
+            {
+              "groupe": "porteurs_eau",
+              "texte": "La grande citerne baisse déjà. Si l'été tient, on reverra la chaîne dans la Montée."
+            },
+            {
+              "groupe": "pressoirs",
+              "texte": "Le vieux Ascle compte les seaux comme un avare compte ses pièces."
+            },
+            {
+              "groupe": "pressoirs",
+              "texte": "Plus de bassins, plus d'olives lavées, plus d'huile vendue à Haldria. Qui paie les murs, d'après toi ?"
+            },
+            {
+              "groupe": "anciens",
+              "texte": "Prends du pain, prends de l'huile. Ici, on ne laisse personne partir le ventre vide. Plus jamais.",
+              "quand": "Grande Moisson"
+            },
+            {
+              "groupe": "anciens",
+              "texte": "Pendant la famine, nos oliviers ont tenu. Sans eux, le Dyanos serait mort."
+            },
+            {
+              "groupe": "anciens",
+              "texte": "Les oliviers ont le goût des grands-pères. Tu en manges, tu nous connais."
+            },
+            {
+              "groupe": "roteri",
+              "texte": "La roue a tourné : à nous l'huile, à la plaine la faim. Elle tournera encore."
+            },
+            {
+              "groupe": "enfants",
+              "texte": "La citerne murée, dans le vieux quartier ? Il y a des os dedans. Ceux de la faim."
+            },
+            {
+              "groupe": "velthar",
+              "texte": "Ryndor ? Bonne huile. Mémoire courte."
+            }
+          ],
+          "voisins": [
+            {
+              "id": "lie-0865",
+              "rapport": "Nées de la même fuite devant les seigneurs de guerre. Pendant la Grande Famine, Velthar a donné ses amandes et Ryndor a vendu son huile ; Velthar ne l'a pas oublié, Ryndor fait semblant de ne pas comprendre."
+            }
+          ],
+          "cree": {
+            "entites": {
+              "aveline": "per-1119",
+              "garin-ascle": "per-1120",
+              "famille-doral": "lig-0086"
+            },
+            "faits": {
+              "refuge": "fac-1567",
+              "premiere-terrasse": "fac-1568",
+              "grande-famine": "fac-1569",
+              "premiere-huile": "fac-1570",
+              "citernes-vides": "fac-1571",
+              "mort-aveline": "fac-1572",
+              "naissance-garin": "fac-1573"
+            },
+            "liens": [
+              "lnk-4079",
+              "lnk-4080",
+              "lnk-4081",
+              "lnk-4082"
+            ]
+          }
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:47:11.487Z"
+      "updated_at": "2026-10-31T03:46:46.012Z"
     },
     {
       "id": "lie-0684",
@@ -87735,6 +88148,63 @@
       "disclosure": "public",
       "created_at": "2026-10-12T18:00:00.000Z",
       "updated_at": "2026-10-12T18:00:00.000Z"
+    },
+    {
+      "id": "per-1119",
+      "type": "personne",
+      "name": "Aveline l'Épierreuse",
+      "slug": null,
+      "summary": "Terrassière de Ryndor (Dyanos, Sylthara) à qui l'on attribue la Première Terrasse, vers 10 030 : la roche du plateau cassée en murs, la terre montée de la vallée panier par panier. Les terrassiers jurent encore « par les mains d'Aveline ».",
+      "body": null,
+      "data": {
+        "periode": {
+          "debut": 10000,
+          "fin": 10060,
+          "confiance": "moyenne",
+          "methode": "ame-des-villes"
+        },
+        "ame": "lie-0683"
+      },
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:34.613Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
+    },
+    {
+      "id": "per-1120",
+      "type": "personne",
+      "name": "Garin Ascle",
+      "slug": null,
+      "summary": "Gardien des Citernes de Ryndor, élu par l'Assemblée : il menait la chaîne des seaux à l'Été des Citernes Vides (10 170) et tient depuis le registre de l'eau et la clé des citernes. Vieux, il refuse de toucher à la Loi des Seaux, et personne ne veut sa charge.",
+      "body": null,
+      "data": {
+        "periode": {
+          "debut": 10132,
+          "fin": 10200,
+          "confiance": "moyenne",
+          "methode": "ame-des-villes"
+        },
+        "ame": "lie-0683"
+      },
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:34.613Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
+    },
+    {
+      "id": "lig-0086",
+      "type": "lignee",
+      "name": "Famille Doral",
+      "slug": null,
+      "summary": "Famille de Ryndor propriétaire du plus grand pressoir d'huile ; sa fortune date de la Grande Famine, quand Arnel Doral vendit l'huile du plateau à la plaine. Hestan Doral, qui la mène aujourd'hui, veut agrandir les bassins de lavage.",
+      "body": null,
+      "data": {
+        "ame": "lie-0683"
+      },
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:34.613Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
     }
   ],
   "facts": [
@@ -135207,6 +135677,202 @@
         "source_date": "libellé",
         "fiche": "Docs/Lore/Histoires/Azoria/Solmaris.md"
       }
+    },
+    {
+      "id": "fac-1567",
+      "fact_type": "fondation",
+      "subject_id": "lie-0683",
+      "object_id": null,
+      "start_year": 8950,
+      "start_precision": "estimation",
+      "start_circa": 1,
+      "end_year": null,
+      "end_precision": null,
+      "end_circa": 0,
+      "era_id": "era6_nations",
+      "seq": 0,
+      "label": "Fondation de Ryndor : des familles de la plaine, fuyant les seigneurs de guerre, se réfugient sur le plateau où les chevaux ne montent pas et creusent des citernes dans la roche.",
+      "detail": null,
+      "data": {
+        "calendrier": "absolu",
+        "methode": "ame-des-villes",
+        "confiance": "moyenne",
+        "indice_date": "Même fuite que Velthar (« paysans fuyant les occupants ») ; occupation de Sylthara vers 8 950 (fac-0812).",
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:46.012Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
+    },
+    {
+      "id": "fac-1568",
+      "fact_type": "evenement",
+      "subject_id": "lie-0683",
+      "object_id": "per-1119",
+      "start_year": 10030,
+      "start_precision": "estimation",
+      "start_circa": 1,
+      "end_year": null,
+      "end_precision": null,
+      "end_circa": 0,
+      "era_id": "era7_actuelle",
+      "seq": 0,
+      "label": "La Première Terrasse : Aveline l'Épierreuse casse la roche du plateau en murs et fait monter la terre de la vallée ; le chantier des terrasses de Ryndor commence.",
+      "detail": null,
+      "data": {
+        "calendrier": "absolu",
+        "methode": "ame-des-villes",
+        "confiance": "moyenne",
+        "indice_date": "Terrasses taillées « sur six générations » (fiche de Ryndor) : présent ~10 200 moins 6 × 28 ans.",
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:46.012Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
+    },
+    {
+      "id": "fac-1569",
+      "fact_type": "evenement",
+      "subject_id": "lie-0683",
+      "object_id": null,
+      "start_year": 10125,
+      "start_precision": "estimation",
+      "start_circa": 1,
+      "end_year": 10127,
+      "end_precision": "estimation",
+      "end_circa": 1,
+      "era_id": "era7_actuelle",
+      "seq": 0,
+      "label": "La Grande Famine à Ryndor : les oliviers du plateau tiennent quand le blé manque dans tout Sylthara ; ce que la ville fit de son huile se raconte de plusieurs façons.",
+      "detail": null,
+      "data": {
+        "calendrier": "absolu",
+        "methode": "ame-des-villes",
+        "confiance": "moyenne",
+        "indice_date": "Grande Famine de Sylthara (fac-0814, ~10 125), réserves reconstituées en trois ans (evt-0044).",
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:46.012Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
+    },
+    {
+      "id": "fac-1570",
+      "fact_type": "evenement",
+      "subject_id": "lie-0683",
+      "object_id": null,
+      "start_year": 10128,
+      "start_precision": "estimation",
+      "start_circa": 1,
+      "end_year": null,
+      "end_precision": null,
+      "end_circa": 0,
+      "era_id": "era7_actuelle",
+      "seq": 0,
+      "label": "L'Assemblée de Ryndor institue la Première Huile : le jour de la Grande Moisson, la première huile de l'année est donnée sous l'arbre-assemblée, avec du pain, à qui en veut.",
+      "detail": null,
+      "data": {
+        "calendrier": "absolu",
+        "methode": "ame-des-villes",
+        "confiance": "moyenne",
+        "indice_date": "L'année qui suit la fin de la Grande Famine.",
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:46.012Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
+    },
+    {
+      "id": "fac-1571",
+      "fact_type": "evenement",
+      "subject_id": "lie-0683",
+      "object_id": "per-1120",
+      "start_year": 10170,
+      "start_precision": "estimation",
+      "start_circa": 1,
+      "end_year": null,
+      "end_precision": null,
+      "end_circa": 0,
+      "era_id": "era7_actuelle",
+      "seq": 0,
+      "label": "L'Été des Citernes Vides : quarante jours de chaîne pour monter l'eau de la vallée ; l'Assemblée vote la Loi des Seaux (les maisons, puis les bêtes, puis les pressoirs) et fait murer une citerne du vieux quartier.",
+      "detail": null,
+      "data": {
+        "calendrier": "absolu",
+        "methode": "ame-des-villes",
+        "confiance": "moyenne",
+        "indice_date": "An 221 du Sillage, gravé sur la margelle de la grande citerne ; une génération après la famine.",
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:46.012Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
+    },
+    {
+      "id": "fac-1572",
+      "fact_type": "mort",
+      "subject_id": "per-1119",
+      "object_id": null,
+      "start_year": 10060,
+      "start_precision": "estimation",
+      "start_circa": 1,
+      "end_year": null,
+      "end_precision": null,
+      "end_circa": 0,
+      "era_id": "era7_actuelle",
+      "seq": 0,
+      "label": "Mort d'Aveline l'Épierreuse, enterrée dans la Première Terrasse.",
+      "detail": null,
+      "data": {
+        "calendrier": "absolu",
+        "methode": "ame-des-villes",
+        "confiance": "moyenne",
+        "indice_date": "Une génération après la Première Terrasse.",
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:46.012Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
+    },
+    {
+      "id": "fac-1573",
+      "fact_type": "naissance",
+      "subject_id": "per-1120",
+      "object_id": null,
+      "start_year": 10132,
+      "start_precision": "estimation",
+      "start_circa": 1,
+      "end_year": null,
+      "end_precision": null,
+      "end_circa": 0,
+      "era_id": "era7_actuelle",
+      "seq": 0,
+      "label": "Naissance de Garin Ascle à Ryndor.",
+      "detail": null,
+      "data": {
+        "calendrier": "absolu",
+        "methode": "ame-des-villes",
+        "confiance": "moyenne",
+        "indice_date": "Il a trente-huit ans quand il mène la chaîne de 10 170 ; vieux au présent (~68 ans).",
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon",
+      "disclosure": "public",
+      "created_at": "2026-10-31T03:46:46.012Z",
+      "updated_at": "2026-10-31T03:46:46.012Z"
     }
   ],
   "relations": [
@@ -186106,6 +186772,62 @@
             "pourquoi": "Cëpias, cour du Cantus de C/24-26, est posée sur Evertia (−456,6 ; 132,2), à deux heures de l'Arbre-Mère de Sylvara : elle ne peut pas être une ville de Thalmaris, qui est au nord-est d'Endora ; elle devient la cité-État du Cantus d'Evertia, fondée par des Cantori venus de Thalmaris, et tient la frontière avec Sylvara que les fiches prêtaient à Thalmaris (C/25 : « le Cantus est plus vieux que Thalmaris » reste vrai) ; décision de l'auteur D49 (« la carte fait foi », 2026-10-12, après l'audit 1012) ; demande Studio de8d6b3a6 ; registre des incohérences, II, §21"
           }
         ]
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4079",
+      "rel_type": "lie-a",
+      "from_id": "per-1119",
+      "to_id": "lie-0683",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": {
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4080",
+      "rel_type": "lie-a",
+      "from_id": "per-1120",
+      "to_id": "lie-0683",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": {
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4081",
+      "rel_type": "lie-a",
+      "from_id": "lig-0086",
+      "to_id": "lie-0683",
+      "start_year": null,
+      "end_year": null,
+      "label": null,
+      "data": {
+        "ame": "lie-0683"
+      },
+      "source_id": null,
+      "status": "canon"
+    },
+    {
+      "id": "lnk-4082",
+      "rel_type": "lie-a",
+      "from_id": "lie-0683",
+      "to_id": "lie-0865",
+      "start_year": null,
+      "end_year": null,
+      "label": "voisine",
+      "data": {
+        "ame": "lie-0683"
       },
       "source_id": null,
       "status": "canon"
