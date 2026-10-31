@@ -17,6 +17,7 @@
  * Usage :
  *   node scripts/ame-des-villes.js verser <fiche.json>            verse (ou reverse) une fiche d'âme
  *   node scripts/ame-des-villes.js extraire <lie-xxxx>            redonne la fiche d'âme d'un lieu
+ *   node scripts/ame-des-villes.js essayer <fiche.json>...         contrôle des fiches versées en mémoire, sans rien écrire
  *   node scripts/ame-des-villes.js verifier [--detail] [lie-xxxx]  dosage, dates, traces, groupes, voisins, noms
  *   node scripts/ame-des-villes.js jeu <lie-xxxx> [sortie.json]   ce que le jeu lit (noms et dates résolus)
  * Après un versement : npm run kg:db.
@@ -57,9 +58,9 @@ function prochainId(liste, prefixe) {
 }
 
 /* ── verser ───────────────────────────────────────────────────────────── */
-function verser(fichier) {
+function verser(fichier, doc, sec) {
   const fiche = JSON.parse(fs.readFileSync(fichier, 'utf8'));
-  const doc = lire();
+  doc = doc || lire();
   const lieu = doc.entities.find((e) => e.id === fiche.lieu && e.type === 'lieu');
   if (!lieu) throw new Error('lieu introuvable : ' + fiche.lieu);
   const t = maintenant();
@@ -142,6 +143,7 @@ function verser(fichier) {
   lieu.data = { ...(lieu.data || {}), ame };
   lieu.updated_at = t;
   doc._meta.updated_at = t;
+  if (sec) return lieu.id;
   ecrire(doc);
   console.log(`${lieu.name} (${lieu.id}) : âme versée — ${Object.keys(cree.entites).length} figures, ${Object.keys(cree.faits).length} faits, ${cree.liens.length} liens.`);
   console.log('Ensuite : node scripts/ame-des-villes.js verifier ' + lieu.id + ' && npm run kg:db');
@@ -182,11 +184,12 @@ function extraire(lieuId) {
 }
 
 /* ── verifier ─────────────────────────────────────────────────────────── */
-function verifier(seul, detail) {
-  const doc = lire();
+function verifier(seul, detail, doc) {
+  doc = doc || lire();
+  const choix = seul == null ? null : new Set([].concat(seul));
   const byId = new Map(doc.entities.map((e) => [e.id, e]));
   const faitDe = new Map(doc.facts.map((f) => [f.id, f]));
-  const lieux = doc.entities.filter((e) => e.type === 'lieu' && e.data && e.data.ame && (!seul || e.id === seul));
+  const lieux = doc.entities.filter((e) => e.type === 'lieu' && e.data && e.data.ame && (!choix || choix.has(e.id)));
   const jetons = new Map(); // mot de nom (≥ 5 lettres) → entités
   for (const e of doc.entities) for (const w of norm(e.name).split(/[^a-z']+/)) if (w.length >= 5 && !MOTS_COMMUNS.has(w)) (jetons.get(w) || jetons.set(w, []).get(w)).push(e.id);
   let nErr = 0, nEcart = 0;
@@ -268,7 +271,7 @@ function verifier(seul, detail) {
     nErr += err.length; nEcart += ecart.length;
     console.log(`${err.length ? '✗' : ecart.length ? '~' : '✓'} ${L.name} (${L.id}, ${echelle}) : ${err.length} erreur(s), ${ecart.length} écart(s)`
       + ` — ${compte.evenements} événements, ${compte.figures} figures, ${compte.coutumes} coutumes, ${compte.memoires} mémoires, ${traces.size} traces, ${(A.repliques || []).length} répliques`);
-    if (detail || seul) { for (const x of err) console.log('   erreur : ' + x); for (const x of ecart) console.log('   écart  : ' + x); }
+    if (detail || choix) { for (const x of err) console.log('   erreur : ' + x); for (const x of ecart) console.log('   écart  : ' + x); }
   }
   const habites = doc.entities.filter((e) => e.type === 'lieu' && ['hameau', 'bourg', 'ville', 'cite'].includes((e.data || {}).echelle));
   console.log(`\n${lieux.length} âme(s) contrôlée(s) ; ${habites.filter((e) => e.data.ame).length} lieux habités sur ${habites.length} en ont une. ${nErr} erreur(s), ${nEcart} écart(s).`);
@@ -303,7 +306,12 @@ const [cmd, ...args] = process.argv.slice(2);
 try {
   if (cmd === 'verser' && args[0]) verser(args[0]);
   else if (cmd === 'extraire' && args[0]) process.stdout.write(JSON.stringify(extraire(args[0]), null, 2) + '\n');
-  else if (cmd === 'verifier') process.exitCode = verifier(args.find((a) => !a.startsWith('--')), args.includes('--detail')) ? 1 : 0;
+  else if (cmd === 'essayer' && args.length) {
+    // verse en mémoire, sans rien écrire, puis contrôle : pour relire une fiche avant de la verser
+    const doc = lire();
+    const ids = args.map((f) => verser(f, doc, true));
+    process.exitCode = verifier(ids, true, doc) ? 1 : 0;
+  } else if (cmd === 'verifier') process.exitCode = verifier(args.find((a) => !a.startsWith('--')), args.includes('--detail')) ? 1 : 0;
   else if (cmd === 'jeu' && args[0]) jeu(args[0], args[1]);
-  else { console.error('Usage : verser <fiche.json> | extraire <lie-xxxx> | verifier [--detail] [lie-xxxx] | jeu <lie-xxxx> [sortie.json]'); process.exitCode = 2; }
+  else { console.error('Usage : verser <fiche.json> | essayer <fiche.json>... | extraire <lie-xxxx> | verifier [--detail] [lie-xxxx] | jeu <lie-xxxx> [sortie.json]'); process.exitCode = 2; }
 } catch (e) { console.error('✗ ' + e.message); process.exitCode = 1; }
