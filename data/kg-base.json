@@ -80582,53 +80582,77 @@
     {
       "id": "lie-0966",
       "type": "lieu",
-      "name": "Village1",
+      "name": "Eshtaris",
       "slug": null,
-      "summary": "Bourg de Lumasar, en Galenor ; le plus septentrional de trois bourgs voisins groupés au centre du pays.",
-      "body": null,
+      "summary": "Bourg de Prismora tourné vers l'arc-en-ciel d'Ulverith, où l'on vient tenir l'Éveil de Somnix ; ses veilleurs n'écrivent d'une vision que ce qui ne change pas en trois récits.",
+      "body": "## Bourg\n\nBourg de pierre blanche sur une croupe dégagée, le plus septentrional des trois bourgs groupés au centre de Lumasar, à une heure et demie de marche d'Ulverith. Ses fenêtres de cristal regardent toutes vers l'arc-en-ciel du cristal colossal, qu'on voit d'ici de jour comme de nuit. Au premier jour du printemps, des fidèles de tout Prismora y montent tenir l'Éveil de Somnix sur les longs bancs de veille de la place ; au sortir des quarante-huit heures, on rompt la veille avec le pain nacré de Moldaris et les fruits confits de Lysmaren avant le premier sommeil.\n\n**Histoire :** Le bourg tient sa coutume de Sorenne, prêtresse-rêveuse du Somnium Vigil qui, après un Éveil où trois fidèles jurèrent avoir reçu de Somnix trois messages contraires, fit asseoir les veilleurs face à l'arc d'Ulverith et exigea que chaque vision fût dite à l'aube, à midi et au couchant. Seul ce qui n'avait pas bougé d'un récit à l'autre entra dans le registre d'Eshtaris, qu'on tient encore dans la maison commune. Les Marcheurs Sobres citent ce registre comme la preuve qu'on peut trier les visions sans les mépriser ; le clergé de Prismalith y voit une prudence de Voilé.\n- Population : Bourg\n- Région : Prismora\n\n*Nom et histoire proposés le 1er novembre 2026 (demande d97159a72), en attente de la validation de l'auteur.*",
       "data": {
         "echelle": "bourg",
         "coord_x": -288.41684234198243,
-        "coord_y": -143.3210715708219
+        "coord_y": -143.3210715708219,
+        "region": "Prismora",
+        "nommage": {
+          "ancien_nom": "Village1",
+          "statut": "proposé",
+          "date": "2026-11-01",
+          "demande": "d97159a72",
+          "par": "Claude"
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-31T23:08:00.845Z"
     },
     {
       "id": "lie-0967",
       "type": "lieu",
-      "name": "village2",
+      "name": "Lysmaren",
       "slug": null,
-      "summary": "Bourg de Lumasar, en Galenor ; celui du milieu de trois bourgs voisins groupés au centre du pays.",
-      "body": null,
+      "summary": "Bourg de Prismora qui récolte le nectar d'aube sur des champs de cristaux nains et y confit les fruits de tout le centre du pays.",
+      "body": "## Bourg\n\nBourg de vergers et de champs de cristaux bas, au milieu des trois bourgs groupés au centre de Lumasar. Le nectar d'aube perle sur les cristaux au lever du soleil et s'évapore dans l'heure : tout le bourg est dehors avant le jour, raclettes de corne et jattes à la main. Les fruits y sont confits dans le nectar et gardés dans les pots d'argile de Fynloris, empilés devant chaque maison.\n\n**Histoire :** Lysmaren fut fondé par des Voilés de Falneth, recalés de l'Examen des Voiles et lassés de préparer les enfants des autres, qui s'installèrent sur un champ de cristaux nains, trop bas pour la récolte des cristalliers. Ils découvrirent que ces cristaux donnaient plus de nectar que les grands. Le bourg confit depuis pour la table du Haut Cénacle sans qu'aucun de ses enfants n'y ait jamais siégé, et l'on dit à Lysmaren, sans amertume apparente, que le Cénacle sait au moins reconnaître le goût de ce qu'il a recalé.\n- Population : Bourg\n- Région : Prismora\n\n*Nom et histoire proposés le 1er novembre 2026 (demande d97159a72), en attente de la validation de l'auteur.*",
       "data": {
         "echelle": "bourg",
         "coord_x": -280.1433582630026,
-        "coord_y": -150.29356293901583
+        "coord_y": -150.29356293901583,
+        "region": "Prismora",
+        "nommage": {
+          "ancien_nom": "village2",
+          "statut": "proposé",
+          "date": "2026-11-01",
+          "demande": "d97159a72",
+          "par": "Claude"
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-31T23:08:00.889Z"
     },
     {
       "id": "lie-0968",
       "type": "lieu",
-      "name": "Village3",
+      "name": "Moldaris",
       "slug": null,
-      "summary": "Bourg de Lumasar, en Galenor ; le plus méridional de trois bourgs voisins groupés au centre du pays.",
-      "body": null,
+      "summary": "Bourg de meuniers de Prismora qui broient en poudre les cristaux fissurés de Sylvorn pour les pains de cristal de Prismalith.",
+      "body": "## Bourg\n\nBourg de moulins à meules de pierre blanche, le plus méridional des trois bourgs groupés au centre de Lumasar, sur la route de Prismalith. On y broie les cristaux prismatiques fissurés, sans valeur pour les enchanteurs, en une poudre fine qu'on mêle à la farine des pains de cristal ; la poussière nacrée blanchit les toits, les chiens et les cils des meuniers. Les cristalliers de Sylvorn y apportent leurs rebuts au lendemain de chaque Lune Noire.\n\n**Histoire :** Moldaris vit de l'éclat des autres : il ne broie que ce que Sylvorn rejette. L'année où les champs de Sylvorn cessèrent de pousser, après qu'on eut emmené l'enfant Liora à Prismalith, les meules s'arrêtèrent et la capitale mangea un pain gris. Les meuniers appellent encore cette saison « l'année du pain gris » et gardent au milieu du bourg une meule arrêtée, pour qu'on s'en souvienne.\n- Population : Bourg\n- Région : Prismora\n\n*Nom et histoire proposés le 1er novembre 2026 (demande d97159a72), en attente de la validation de l'auteur.*",
       "data": {
         "echelle": "bourg",
         "coord_x": -279.84631329273174,
-        "coord_y": -162.7451225850338
+        "coord_y": -162.7451225850338,
+        "region": "Prismora",
+        "nommage": {
+          "ancien_nom": "Village3",
+          "statut": "proposé",
+          "date": "2026-11-01",
+          "demande": "d97159a72",
+          "par": "Claude"
+        }
       },
       "status": "canon",
       "disclosure": "public",
       "created_at": "2026-07-17T00:00:00.000Z",
-      "updated_at": "2026-09-22T18:41:24.402Z"
+      "updated_at": "2026-10-31T23:08:00.890Z"
     },
     {
       "id": "per-0899",
