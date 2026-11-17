@@ -129,7 +129,7 @@ Quatre festivals annuels, un par saison :
 - Région : Nalmir
 
 ### Myrdoris
-- Village de conteurs spécialisés dans les récits d'horreur et légendes sombres. Veillées célèbres autour du feu.
+- Petite ville de conteurs spécialisés dans les récits d'horreur et légendes sombres, haute et serrée, aux ruelles en escalier si étroites qu'il y fait nuit à midi. Veillées célèbres autour du feu.
 - Origine : spécialisation née d'une épidémie ayant emporté la moitié du village en deux hivers ; les survivants nommèrent leur traumatisme via monstres et fantômes (« conte thérapeutique » selon les académies, nécessité de survie avant d'être un art).
 - Population : Ville
 - Région : Nalmir

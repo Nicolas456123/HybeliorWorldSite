@@ -127,7 +127,7 @@ Pouvoir fragmenté entre les clans.
 ## Villes et villages
 
 ### Valtheria — Capitale ★
-- Forteresse colossale sur un promontoire rocheux dominant la vallée centrale de Teldar ; murailles de quatre mètres d'épaisseur, jamais percées. Fondée par **Valtheria la Forgée**, qui choisit le promontoire pour sa visibilité et y prêta le premier serment de la Confédération ; les murs furent ajoutés par ses successeurs. La Grande Salle (siège du Conseil des Thanes) accueille mille guerriers ; la **Pierre de Valtheria** (bloc du premier serment) y est vénérée comme relique sacrée.
+- Forteresse colossale sur l'échine d'un titan pétrifié, couché au-dessus de la vallée centrale de Teldar, que l'on prit longtemps pour un promontoire rocheux : ses côtes affleurent sous les remparts et la Grande Salle s'ouvre entre ses épaules ; murailles de quatre mètres d'épaisseur, jamais percées. Fondée par **Valtheria la Forgée**, qui choisit le promontoire pour sa visibilité et y prêta le premier serment de la Confédération ; les murs furent ajoutés par ses successeurs. La Grande Salle (siège du Conseil des Thanes) accueille mille guerriers ; la **Pierre de Valtheria** (bloc du premier serment) y est vénérée comme relique sacrée.
 - Population : Capitale
 - Région : Teldar
 - Particularités : Siège du Haut-Thane, Grande Salle du Conseil, Pierre de Valtheria, Arène de Jugement.

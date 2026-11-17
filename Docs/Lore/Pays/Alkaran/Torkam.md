@@ -106,7 +106,7 @@ Terres frontalières avec Myrtam au sud-est. Zone de tension constante ; aucun t
 ## Villes et campements
 
 ### Olkanor — Lieu de Rassemblement ★
-Lieu et non ville : immense cuvette naturelle entourée de mesas de grès rouge, où les 12 tribus se rassemblent deux fois par an pour le Grand Conseil. Hors rassemblements, seuls chamans et quelques gardiens y résident ; lors des rassemblements, des milliers de tentes forment une cité éphémère. Cuvette choisie par Zarek l'Unificateur comme lieu du premier Grand Conseil (il affirmait avoir été guidé par les voix de mille ancêtres morts simultanément) ; douze tribus rivales y posèrent leurs armes dans la poussière centrale, armes toujours enterrées là selon les chamans ("le fondement du Pacte, invisible mais réel").
+Lieu et non ville : immense cuvette naturelle entourée de mesas de grès rouge et enjambée par une arche de grès que nul n'a bâtie, sous laquelle se tient le Grand Conseil, où les 12 tribus se rassemblent deux fois par an pour le Grand Conseil. Hors rassemblements, seuls chamans et quelques gardiens y résident ; lors des rassemblements, des milliers de tentes forment une cité éphémère. Cuvette choisie par Zarek l'Unificateur comme lieu du premier Grand Conseil (il affirmait avoir été guidé par les voix de mille ancêtres morts simultanément) ; douze tribus rivales y posèrent leurs armes dans la poussière centrale, armes toujours enterrées là selon les chamans ("le fondement du Pacte, invisible mais réel").
 - Population : Capitale (temporaire)
 - Région : Olkanir
 

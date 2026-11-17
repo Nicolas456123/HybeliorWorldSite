@@ -163,7 +163,7 @@ Ville souterraine creusée dans le flanc d'une montagne, à l'origine un réseau
 - Région : Helionar
 
 ### Taldaris — Village
-Bastion perché sur un piton rocheux, accessible uniquement par un escalier taillé dans la falaise. Sert de poste d'observation avancé et de refuge en cas de repli stratégique. Position quasi imprenable : la formule « trois soldats contre cent » fut vérifiée il y a cent cinquante ans, quand deux soldats et un civil armé d'une arbalète repoussèrent une troupe de quatre-vingt-douze hommes pendant sept heures (quarante et un attaquants morts dans l'escalier ; les trois défenseurs survécurent). Sa garnison n'a jamais dépassé douze personnes depuis.
+Bastion étagé sur sept pitons rocheux reliés par des viaducs ; seul le plus haut touche au sol, accessible uniquement par un escalier taillé dans la falaise, et les six autres ne s'atteignent que par lui. Sert de poste d'observation avancé et de refuge en cas de repli stratégique. Position quasi imprenable : la formule « trois soldats contre cent » fut vérifiée il y a cent cinquante ans, quand deux soldats et un civil armé d'une arbalète repoussèrent une troupe de quatre-vingt-douze hommes pendant sept heures (quarante et un attaquants morts dans l'escalier ; les trois défenseurs survécurent). Sa garnison n'a jamais dépassé douze personnes depuis.
 - Population : Village
 - Région : Helionar
 
