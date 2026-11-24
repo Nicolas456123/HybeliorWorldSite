@@ -119,6 +119,8 @@ const PORTES = [
   { cle: 'visions', glyphe: '🕸', titre: 'Visions croisées', ligne: 'Le monde dans tous les sens — réseaux, fresque du temps, croisements.', route: '#/visions', compte: async () => 5 },
 ];
 const PORTE_PAR_CLE = Object.fromEntries(PORTES.map((p) => [p.cle, p]));
+// le nom que l'auteur a retenu (data.nom_canon), sinon le nom d'origine, qui reste la clé de la carte
+const nomVu = (e) => (e && (e.nom || e.name)) || '';
 const TYPE_LABEL = {
   personne: 'personnage', divinite: 'divinité', lignee: 'lignée', lieu: 'lieu',
   'entite-politique': 'nation', evenement: 'événement', concept: 'concept', religion: 'religion',
@@ -320,7 +322,7 @@ async function vueSeuil() {
     resultats.innerHTML = '';
     for (const r of results) resultats.append(h('div', { class: 'r', onclick: () => { resultats.classList.remove('on'); aller('#/fiche/' + r.id); } },
       h('span', { class: 'badge', text: TYPE_LABEL[r.type] || r.type }),
-      h('span', { class: 'nom', text: r.name }),
+      h('span', { class: 'nom', text: nomVu(r) }),
       h('span', { class: 'apercu', text: r.summary || '' })));
     if (!results.length) resultats.append(h('div', { class: 'r' }, h('span', { class: 'apercu', text: 'Rien derrière cette porte — essayez un autre mot.' })));
     resultats.classList.add('on');
@@ -386,7 +388,7 @@ async function saviezVous(el) {
   if (!e) return;
   el.innerHTML = '';
   el.append(h('span', { text: '« ' + e.summary + ' »' }),
-    h('span', { class: 'de', text: e.name + ' — ' + (TYPE_LABEL[e.type] || e.type) }));
+    h('span', { class: 'de', text: nomVu(e) + ' — ' + (TYPE_LABEL[e.type] || e.type) }));
   el.onclick = (ev) => { if (ev.target.closest('.de')) aller('#/fiche/' + e.id); else saviezVous(el); };
 }
 
@@ -395,7 +397,7 @@ async function vuePorte(p) {
   let entites = [];
   for (const t of p.types) entites = entites.concat(await getList(t));
   if (p.filtre) entites = entites.filter(p.filtre);
-  entites.sort((a, b) => a.name.localeCompare(b.name, 'fr'));
+  entites.sort((a, b) => nomVu(a).localeCompare(nomVu(b), 'fr'));
 
   app.innerHTML = '';
   const vue = h('div', { class: 'vue' });
@@ -425,11 +427,11 @@ async function vuePorte(p) {
     const q = champ.value.trim().toLowerCase();
     let liste = entites;
     if (echelle) liste = liste.filter((e) => e.data && e.data.echelle === echelle);
-    if (q) liste = liste.filter((e) => e.name.toLowerCase().includes(q) || (e.summary || '').toLowerCase().includes(q));
+    if (q) liste = liste.filter((e) => e.name.toLowerCase().includes(q) || nomVu(e).toLowerCase().includes(q) || (e.summary || '').toLowerCase().includes(q));
     grille.innerHTML = ''; plus.innerHTML = '';
     for (const e of liste.slice(0, visibles)) {
       grille.append(h('div', { class: 'carte-e', onclick: () => aller('#/fiche/' + e.id) },
-        h('h4', { text: e.name }),
+        h('h4', { text: nomVu(e) }),
         e.data && e.data.echelle ? h('span', { class: 'badge', style: 'margin-bottom:8px', text: e.data.echelle }) : null,
         e.data && e.data.rang ? h('span', { class: 'badge', style: 'margin-bottom:8px', text: e.data.rang }) : null,
         h('p', { text: e.summary || '…' })));
@@ -452,7 +454,7 @@ async function vueRecherche(q) {
   const grille = h('div', { class: 'grille' });
   for (const r of results) grille.append(h('div', { class: 'carte-e', onclick: () => aller('#/fiche/' + r.id) },
     h('span', { class: 'badge', style: 'margin-bottom:8px', text: TYPE_LABEL[r.type] || r.type }),
-    h('h4', { text: r.name }), h('p', { text: r.summary || '…' })));
+    h('h4', { text: nomVu(r) }), h('p', { text: r.summary || '…' })));
   vue.append(grille);
   app.innerHTML = ''; app.append(vue);
 }
@@ -541,7 +543,7 @@ async function vueFiche(id) {
   // Revenir exactement où on était sur la carte (position/zoom/couches mémorisées)
   if (venaitDeCarte) vue.append(h('button', { class: 'btn retour-carte', onclick: () => aller('#/carte'), text: '↩ Retour à la carte' }));
   const porte = PORTES.find((p) => p.types && p.types.includes(e.type));
-  vue.append(fil(...(porte ? [[porte.titre, '#/portes/' + porte.cle]] : []), [e.name]));
+  vue.append(fil(...(porte ? [[porte.titre, '#/portes/' + porte.cle]] : []), [nomVu(e)]));
 
   // En-tête
   const badges = h('div', { class: 'badges' }, h('span', { class: 'badge', text: TYPE_LABEL[e.type] || e.type }));
@@ -550,7 +552,7 @@ async function vueFiche(id) {
   if (e.data && e.data.domaine) badges.append(h('span', { class: 'badge', text: e.data.domaine }));
   if (e.status && e.status !== 'canon') badges.append(h('span', { class: 'badge', text: e.status }));
   for (const a of dossier.aliases || []) badges.append(h('span', { class: 'badge', title: 'aussi appelé', text: '⟡ ' + a.value }));
-  vue.append(h('div', { class: 'fiche-tete' }, h('h1', { text: e.name }), badges));
+  vue.append(h('div', { class: 'fiche-tete' }, h('h1', { text: nomVu(e) }), ...(nomVu(e) !== e.name ? [h('p', { class: 'nom-avant', text: 'nom d’avant : ' + e.name })] : []), badges));
   // Situer dans le temps : la période (floruit) est souvent DÉDUITE — on dit
   // toujours d'où elle vient, pour ne jamais faire passer une estimation pour
   // une date attestée.
@@ -727,7 +729,7 @@ function constellation(cv, centre, rels) {
       ctx.fillText(survole.r.label, survole.x, survole.y + 20 * dpr);
     } else {
       ctx.fillStyle = 'rgba(201,162,75,.85)';
-      ctx.fillText(centre.name, cx, cy - 14 * dpr);
+      ctx.fillText(nomVu(centre), cx, cy - 14 * dpr);
     }
   }
   function plusProche(ev) {
@@ -763,7 +765,7 @@ async function vueEres() {
     const portee = [anStr(d.startYear), anStr(d.endYear)].filter(Boolean).join('  →  ');
     const bloc = h('div', { class: 'ere' },
       h('div', { class: 'astre' }),
-      h('h3', { text: ere.name, onclick: () => aller('#/fiche/' + ere.id) }),
+      h('h3', { text: nomVu(ere), onclick: () => aller('#/fiche/' + ere.id) }),
       h('div', { class: 'portee', text: portee || 'hors du compte' }),
       h('p', { text: ere.summary || '' }));
     const echos = (parEre[ere.id] || []).slice(0, 3);
@@ -982,7 +984,7 @@ async function vueCarte(focusId) {
   const nations = {};
   const noeud = (id) => (nations[id] = nations[id] || { id, villes: [] });
   const typesNoeuds = Object.fromEntries(reseau.nodes.map((n) => [n.id, n.type]));
-  const nomDe = Object.fromEntries(reseau.nodes.map((n) => [n.id, n.name]));
+  const nomDe = Object.fromEntries(reseau.nodes.map((n) => [n.id, nomVu(n)]));
   for (const l of reseau.links) {
     if (l.rel === 'situe-dans' && parId[l.from] && typesNoeuds[l.to] === 'entite-politique') {
       noeud(l.to).villes.push(parId[l.from]); parId[l.from].nation = l.to;
@@ -1327,7 +1329,7 @@ async function vueCarte(focusId) {
       const st = STYLE[ech] || STYLE.ville;
       const [sx, sy] = E(+l.data.coord_x, +l.data.coord_y);
       if (sx < -40 || sx > W + 40 || sy < -40 || sy > H + 40) continue;
-      const allume = (q && l.name.toLowerCase().includes(q)) || l === survole || l.id === focusId;
+      const allume = (q && (l.name.toLowerCase().includes(q) || nomVu(l).toLowerCase().includes(q))) || l === survole || l.id === focusId;
       let coul = allume ? '#f0d894' : st.c;
       if (M.couches.has('religions') && l.nation && nations[l.nation] && nations[l.nation].religion && !allume) coul = coulRel[nations[l.nation].religion] + 'cc';
       if (st.halo || allume) {
@@ -1342,8 +1344,8 @@ async function vueCarte(focusId) {
       if ((zoom >= st.seuilNom && nomOk) || allume) {
         ctx.font = `${(ech === 'region' ? 13.5 : 11.5) * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
         ctx.fillStyle = ech === 'region' ? 'rgba(201,162,75,.75)' : (allume ? 'rgba(240,216,148,.95)' : 'rgba(179,166,143,.8)');
-        if (ech === 'region') { ctx.save(); ctx.letterSpacing = `${2 * dpr}px`; ctx.fillText(l.name.toUpperCase(), sx, sy - 12 * dpr); ctx.restore(); }
-        else ctx.fillText(l.name, sx, sy - (st.r + 6) * dpr);
+        if (ech === 'region') { ctx.save(); ctx.letterSpacing = `${2 * dpr}px`; ctx.fillText(nomVu(l).toUpperCase(), sx, sy - 12 * dpr); ctx.restore(); }
+        else ctx.fillText(nomVu(l), sx, sy - (st.r + 6) * dpr);
       }
     }
     if (M.couches.has('trajets')) {
@@ -1512,7 +1514,7 @@ async function vueCarte(focusId) {
   champ.addEventListener('input', debounce(() => {
     const q = champ.value.trim().toLowerCase();
     if (q.length >= 2) {
-      const hit = lieux.find((l) => l.name.toLowerCase().startsWith(q)) || lieux.find((l) => l.name.toLowerCase().includes(q));
+      const hit = lieux.find((l) => l.name.toLowerCase().startsWith(q) || nomVu(l).toLowerCase().startsWith(q)) || lieux.find((l) => l.name.toLowerCase().includes(q));
       if (hit) { k = Math.max(k, kBase * 5); ox = W / 2 - k * (+hit.data.coord_x); oy = H / 2 - k * (+hit.data.coord_y); memoriser(); }
     }
     peindre();
@@ -1591,7 +1593,7 @@ function dessinerArbre(arbre) {
       t1.setAttribute('x', x + LW / 2); t1.setAttribute('y', y + (nd.lifeLabel || nd.role ? 24 : 32));
       t1.setAttribute('text-anchor', 'middle');
       t1.setAttribute('style', `fill:${nd.central ? '#f0d894' : '#ece4d4'};font-size:12.5px;font-weight:600`);
-      t1.textContent = nd.name.length > 24 ? nd.name.slice(0, 23) + '…' : nd.name;
+      t1.textContent = nomVu(nd).length > 24 ? nomVu(nd).slice(0, 23) + '…' : nomVu(nd);
       gEl.append(t1);
       const sous = nd.lifeLabel || (nd.role ? '(' + nd.role + ')' : '');
       if (sous) {
@@ -1835,7 +1837,7 @@ function trameForce(cv, data) {
       if (n.degre >= seuilNom || n === survole || k > 1.6) {
         ctx.font = `${11.5 * dpr}px Raleway, sans-serif`; ctx.textAlign = 'center';
         ctx.fillStyle = n === survole ? 'rgba(240,216,148,.95)' : 'rgba(179,166,143,.75)';
-        ctx.fillText(n.name, sx, sy - n.r * k - 5 * dpr);
+        ctx.fillText(nomVu(n), sx, sy - n.r * k - 5 * dpr);
       }
     }
     if (survole) {

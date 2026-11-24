@@ -52,7 +52,7 @@ module.exports = async function handler(req, res) {
       if (action === 'search') {
         const q = req.query.q || req.query.search || '';
         const limit = +req.query.limit || 10;
-        if (USE_DB) return res.status(200).json({ query: q, source: 'sqlite-fts', results: store.searchFTS(q, { type: req.query.type, limit }) });
+        if (USE_DB) return res.status(200).json({ query: q, source: 'sqlite-fts', results: store.searchFTS(q, { type: req.query.type, limit }).map(r => { const e = graph.byId.get(r.id), n = e && e.data && e.data.nom_canon; return n ? { ...r, nom: n.dit } : r; }) });
         const ents = (kg.readAction(graph, 'list', { search: q, type: req.query.type }).entities || []).slice(0, limit);
         return res.status(200).json({ query: q, source: 'memory', results: ents });
       }
