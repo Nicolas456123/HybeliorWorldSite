@@ -96,6 +96,7 @@ const MIME = {
     '.dzi':  'application/xml',
     '.xml':  'application/xml',
     '.md':   'text/plain; charset=utf-8',
+    '.epub': 'application/epub+zip',
     '.ico':  'image/x-icon',
     '.woff2':'font/woff2',
     '.woff': 'font/woff',

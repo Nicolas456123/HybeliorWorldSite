@@ -27,6 +27,23 @@
     line-height: 1.7;
     font-size: .95rem;
 }
+.chron-header .chron-epub {
+    display: inline-block;
+    margin-top: 1.2rem;
+    padding: .5rem 1.1rem;
+    border: 1px solid var(--gold, #c9a24a);
+    border-radius: 4px;
+    color: var(--gold, #c9a24a);
+    font-family: 'Raleway', sans-serif;
+    font-size: .85rem;
+    letter-spacing: .06em;
+    text-decoration: none;
+    transition: background .2s, color .2s;
+}
+.chron-header .chron-epub:hover {
+    background: var(--gold, #c9a24a);
+    color: #fdf8ec;
+}
 .chron-header .chron-resume-texte {
     text-align: justify;
 }
@@ -1245,6 +1262,12 @@
         html += '<h2>' + escHtml(data.title) + '</h2>';
         html += '<div class="chron-subtitle">' + escHtml(data.subtitle) + '</div>';
         html += resumeBlockHtml(data.resume, data.intro);
+        var epub = {
+            t1: 'les-trois-coups-1-la-septieme-heure.epub',
+            t2: 'les-trois-coups-2-l-heure-qui-se-referme.epub',
+            t3: 'les-trois-coups-3-l-heure-qui-nait.epub'
+        }[currentTomeKey];
+        if (epub) html += '<a class="chron-epub" href="/livres/' + epub + '" download>\u2913 T\u00e9l\u00e9charger le livre (EPUB)</a>';
         html += '</div>';
 
         // Act navigation

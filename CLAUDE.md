@@ -79,6 +79,9 @@ du monde.
   livre, recaler l'étape et relancer. Une lenteur que le texte explique porte
   `lenteur_dite` ; les positions inventées vont dans
   `data.carte.position_estimee`, jamais dans `coord_x/y`.
+- **EPUB des quatre livres** : `livres/*.epub`, servis par le site (bouton
+  « Télécharger le livre » des pages de lecture). Après toute retouche d'un
+  livre, `node scripts/generer-epub.js` (pandoc + Playwright) puis committer `livres/`.
 - Écriture des livres : charger le skill **`reecriture-livres`**, qui porte
   toute la manière (`SKILL.md`, `POETIQUE.md`, `VOIX.md`). Les cinq bibles ont
   été retirées du dépôt le 2026-09-22 : leur poétique est dans le skill, leurs

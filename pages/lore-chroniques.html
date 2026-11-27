@@ -27,6 +27,23 @@
     line-height: 1.7;
     font-size: .95rem;
 }
+.chron-header .chron-epub {
+    display: inline-block;
+    margin-top: 1.2rem;
+    padding: .5rem 1.1rem;
+    border: 1px solid var(--gold, #c9a24a);
+    border-radius: 4px;
+    color: var(--gold, #c9a24a);
+    font-family: 'Raleway', sans-serif;
+    font-size: .85rem;
+    letter-spacing: .06em;
+    text-decoration: none;
+    transition: background .2s, color .2s;
+}
+.chron-header .chron-epub:hover {
+    background: var(--gold, #c9a24a);
+    color: #fdf8ec;
+}
 .chron-header .chron-resume-texte {
     text-align: justify;
 }
@@ -1154,6 +1171,7 @@
         html += resumeBlockHtml(data.resume,
             'Banni de Kharazir pour avoir cartographi\u00e9 des lieux interdits, Sorin Valthen entreprend un voyage \u00e0 travers les douze continents d\u2019Hyb\u00e9lior. ' +
             'Son journal, r\u00e9dig\u00e9 au fil de 910 jours d\u2019exil, constitue le r\u00e9cit le plus complet jamais \u00e9crit sur les peuples, les paysages et les myst\u00e8res de ce monde.');
+        html += '<a class="chron-epub" href="/livres/les-chroniques-de-l-exile.epub" download>\u2913 T\u00e9l\u00e9charger le livre (EPUB)</a>';
         html += '</div>';
 
         // Act navigation
